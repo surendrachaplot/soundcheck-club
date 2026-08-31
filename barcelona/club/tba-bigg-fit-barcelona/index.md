@@ -1,6 +1,6 @@
 # TBA - BIGG Fit Barcelona
 
-TBA - BIGG Fit Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Prymal Fridays - Electronic Music & Connection" on Fri, 4 Sept 2026.
+TBA - BIGG Fit Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Prymal Fridays - Electronic Music & Connection" on Fri, 4 Sept 2026.
 
 TBA - BIGG Fit Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including HNKS and Lucas Frank. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - BIGG Fit Barcelona is a music venue in Barcelona listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Prymal Fridays - Electronic Music & Connection | HNKS, Lucas Frank |
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-bigg-fit-barcelona/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-bigg-fit-barcelona/)*

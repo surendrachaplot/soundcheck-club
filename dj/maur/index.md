@@ -1,6 +1,6 @@
 # Maur
 
-Maur is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Dutch Master, London on Sat, 5 Sept 2026.
+Maur is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Dutch Master, London on Sat, 5 Sept 2026.
 
 Maur is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Austin, Chicago, Detroit and Ibiza and 5 more. Often billed alongside Mark Knight, 1111 and Addison Lynch. Next up: The Dutch Master, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Maur is a house and tech house artist based in United Kingdom, tracked on soundc
 
 Mark Knight, 1111, Addison Lynch
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maur/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maur/)*

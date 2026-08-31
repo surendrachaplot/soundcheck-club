@@ -1,14 +1,13 @@
 # 2ManyDJs
 
-2ManyDJs is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Quarters, Brighton on Sun, 30 Aug 2026.
+2ManyDJs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Pacha Ibiza, Ibiza on Thu, 3 Sept 2026.
 
-2ManyDJs is a house and techno artist tracked on soundcheck, with 67 sets logged across Antwerp, Athens, Auckland and Barcelona and 28 more. Often billed alongside Erol Alkan, Tiga and Job Jobse. Next up: Quarters, Brighton on Sun 30 Aug.
+2ManyDJs is a house and techno artist tracked on soundcheck, with 67 sets logged across Antwerp, Athens, Auckland and Barcelona and 28 more. Often billed alongside Erol Alkan, Tiga and Job Jobse. Next up: Pacha Ibiza, Ibiza on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Quarters | Brighton |
 | Thu, 3 Sept 2026 | Pacha Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | TBA - Downtown | Los Angeles |
 | Fri, 25 Sept 2026 | 1015 Folsom | San Francisco/Oakland |
@@ -19,6 +18,7 @@
 
 ## Recently played
 
+- Quarters, Brighton — Sun, 30 Aug 2026
 - Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
 - 528 Ibiza, Ibiza — Tue, 7 Jul 2026
 - Glendalough Estate, Dublin — Fri, 12 Jun 2026
@@ -26,10 +26,9 @@
 - Lux Fragil, Lisbon — Sat, 25 Apr 2026
 - Kompass Klub, Ghent — Sat, 18 Apr 2026
 - KOKO, London — Sat, 4 Apr 2026
-- The Limelight, Belfast — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Erol Alkan, Tiga, Job Jobse
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*

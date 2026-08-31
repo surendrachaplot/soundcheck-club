@@ -1,6 +1,6 @@
 # Cabizbajo
 
-Cabizbajo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fünk, Mexico City on Sat, 19 Sept 2026.
+Cabizbajo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fünk, Mexico City on Sat, 19 Sept 2026.
 
 Cabizbajo is a techno and house artist tracked on soundcheck, with 51 sets logged across Berlin, Ibiza, Losangeles and Mexicocity and 3 more. Often billed alongside Andre VII, Colossio and Zombies In Miami. Next up: Fünk, Mexicocity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Cabizbajo is a techno and house artist tracked on soundcheck, with 51 sets logge
 
 Andre VII, Colossio, Zombies In Miami
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cabizbajo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cabizbajo/)*

@@ -1,6 +1,6 @@
 # Elena Colombi
 
-Elena Colombi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Mickey Zoggs, Bristol on Fri, 4 Sept 2026.
+Elena Colombi is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Mickey Zoggs, Bristol on Fri, 4 Sept 2026.
 
 Elena Colombi is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 44 more. Often billed alongside Lena Willikens, Amelia Holt and Sepehr. Next up: Mickey Zoggs, Bristol on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Elena Colombi is a techno and house artist tracked on soundcheck, with 141 sets 
 
 Lena Willikens, Amelia Holt, Sepehr
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*

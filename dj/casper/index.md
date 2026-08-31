@@ -1,6 +1,6 @@
 # Casper
 
-Casper is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at UMI, Brussels on Sat, 12 Sept 2026.
+Casper is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at UMI, Brussels on Sat, 12 Sept 2026.
 
 Casper is a techno and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 5 more. Often billed alongside Shoplifter, Mankiyan and freq444. Next up: UMI, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Casper is a techno and house artist tracked on soundcheck, with 32 sets logged a
 
 Shoplifter, Mankiyan, freq444
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casper/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casper/)*

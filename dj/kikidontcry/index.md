@@ -1,6 +1,6 @@
 # KikiDontCry
 
-KikiDontCry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bike Jesus, Prague on Thu, 3 Sept 2026.
+KikiDontCry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bike Jesus, Prague on Thu, 3 Sept 2026.
 
 KikiDontCry is a techno and house artist based in Czech Republic, tracked on soundcheck, with 8 sets logged across Prague. Often billed alongside Ansea, BARRA and 2NDRA. Next up: Bike Jesus, Prague on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ KikiDontCry is a techno and house artist based in Czech Republic, tracked on sou
 
 Ansea, BARRA, 2NDRA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kikidontcry/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kikidontcry/)*

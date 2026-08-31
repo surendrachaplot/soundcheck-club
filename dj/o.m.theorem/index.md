@@ -1,6 +1,6 @@
 # O.M.Theorem
 
-O.M.Theorem is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 5 Sept 2026.
+O.M.Theorem is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat, 5 Sept 2026.
 
 O.M.Theorem is a dub and bass artist based in Norway, tracked on soundcheck, with 18 sets logged across Berlin and Riga. Often billed alongside 16 Faces, Cate Hops and FridaY (DE). Next up: TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ O.M.Theorem is a dub and bass artist based in Norway, tracked on soundcheck, wit
 
 16 Faces, Cate Hops, FridaY (DE)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/o.m.theorem/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/o.m.theorem/)*

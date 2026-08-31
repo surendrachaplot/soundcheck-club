@@ -1,6 +1,6 @@
 # Zuzana Hakl
 
-Zuzana Hakl is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+Zuzana Hakl is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 Zuzana Hakl is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 68 sets logged across Lisbon and Prague. Often billed alongside TerminusTechnikus, Epoché and SJ Yellow. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Zuzana Hakl is a techno and trance artist based in Czech Republic, tracked on so
 
 TerminusTechnikus, Epoché, SJ Yellow
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzanahakl/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zuzanahakl/)*

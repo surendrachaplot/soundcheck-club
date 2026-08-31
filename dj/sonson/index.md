@@ -1,6 +1,6 @@
 # Sonson
 
-Sonson is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Pimpernel, Munich on Fri, 4 Sept 2026.
+Sonson is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Pimpernel, Munich on Fri, 4 Sept 2026.
 
 Sonson is a house and electro artist tracked on soundcheck, with 105 sets logged across Munich. Often billed alongside Thomas Herb, Alice DiMar and Basti Grub. Next up: Pimpernel, Munich on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Sonson is a house and electro artist tracked on soundcheck, with 105 sets logged
 
 Thomas Herb, Alice DiMar, Basti Grub
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonson/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sonson/)*

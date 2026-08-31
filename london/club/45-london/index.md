@@ -1,6 +1,6 @@
 # 45 London
 
-45 London is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "TU CASA -  DAY & NIGHT - FREENZY" on Sun, 30 Aug 2026.
+45 London is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "TU CASA -  DAY & NIGHT - FREENZY" on Sun, 30 Aug 2026.
 
 45 London is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Andres Forero, CANO (3), Matnez (2) and Pedro Villa and 2 more. Browse upcoming dates, start times and who's playing. 45 Curtain Road, London EC2A 3PT.
 
@@ -14,4 +14,4 @@
 
 45 Curtain Road, London EC2A 3PT, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/45-london/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/45-london/)*

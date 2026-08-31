@@ -1,6 +1,6 @@
 # Johnny Fiore
 
-Johnny Fiore is a Disco and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at LA-YAM Rooftop, London on Sat, 5 Sept 2026.
+Johnny Fiore is a Disco and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at LA-YAM Rooftop, London on Sat, 5 Sept 2026.
 
 Johnny Fiore is a disco and club artist tracked on soundcheck, with 22 sets logged across London and Rome. Often billed alongside AMÉMÉ, Marcelo Tag and Shamiso. Next up: LA-YAM Rooftop, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Johnny Fiore is a disco and club artist tracked on soundcheck, with 22 sets logg
 
 AMÉMÉ, Marcelo Tag, Shamiso
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyfiore/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyfiore/)*

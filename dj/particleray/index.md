@@ -1,13 +1,15 @@
 # Particle Ray
 
-Particle Ray is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
+Particle Ray is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Trestle Inn, Philadelphia on Fri, 4 Sept 2026.
 
-Particle Ray is a disco and funk / soul artist based in United States of America, tracked on soundcheck, with 41 sets logged across Philadelphia. Often billed alongside Lady Prowl, DJ Matpat and Lefto Early Bird. Next up: Bastet, Philadelphia on Sat 26 Sept.
+Particle Ray is a disco and house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Philadelphia. Often billed alongside Lady Prowl, DJ Matpat and Lefto Early Bird. Next up: Trestle Inn, Philadelphia on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Trestle Inn | Philadelphia |
+| Fri, 25 Sept 2026 | Trestle Inn | Philadelphia |
 | Sat, 26 Sept 2026 | Bastet | Philadelphia |
 
 ## Recently played
@@ -25,4 +27,4 @@ Particle Ray is a disco and funk / soul artist based in United States of America
 
 Lady Prowl, DJ Matpat, Lefto Early Bird
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/particleray/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/particleray/)*

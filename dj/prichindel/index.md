@@ -1,6 +1,6 @@
 # Prichindel
 
-Prichindel is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Rhythm, Toronto on Fri, 4 Sept 2026.
+Prichindel is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Rhythm, Toronto on Fri, 4 Sept 2026.
 
 Prichindel is a house and minimal artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Boston and Brussels and 15 more. Often billed alongside Dragos Ilici, Mark Dumitrescu and Cap. Next up: Rhythm, Toronto on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Prichindel is a house and minimal artist tracked on soundcheck, with 65 sets log
 
 Dragos Ilici, Mark Dumitrescu, Cap
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*

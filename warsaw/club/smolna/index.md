@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bassmates x Smolna invites Solin" on Fri, 4 Sept 2026.
+Smolna is a music venue in Warsaw with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Bassmates x Smolna invites Solin" on Fri, 4 Sept 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with line-ups including Carla Roca, Cwtv, EARGASM GOD and long w and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -20,4 +20,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with 
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

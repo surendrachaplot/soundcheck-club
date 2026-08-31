@@ -1,6 +1,6 @@
 # Greville
 
-Greville is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Glove That Fits, London on Fri, 4 Sept 2026.
+Greville is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Glove That Fits, London on Fri, 4 Sept 2026.
 
 Greville is a house and techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Lisbon, London, Melbourne and Newyorkcity and 1 more. Often billed alongside Adi Toohey, Amelia Holt and Cousin. Next up: The Glove That Fits, London on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Greville is a house and techno artist based in Australia, tracked on soundcheck,
 
 Adi Toohey, Amelia Holt, Cousin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greville/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/greville/)*

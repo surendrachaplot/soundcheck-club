@@ -1,6 +1,6 @@
 # RAJZ
 
-RAJZ is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Noce KRK, Krakow on Fri, 11 Sept 2026.
+RAJZ is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Noce KRK, Krakow on Fri, 11 Sept 2026.
 
 RAJZ is a techno and club artist based in Poland, tracked on soundcheck, with 38 sets logged across Krakow, Vienna and Warsaw. Often billed alongside MRV (1), C Razey and Aetha. Next up: Noce KRK, Krakow on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ RAJZ is a techno and club artist based in Poland, tracked on soundcheck, with 38
 
 MRV (1), C Razey, Aetha
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajz/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rajz/)*

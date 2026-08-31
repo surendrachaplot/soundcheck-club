@@ -1,6 +1,6 @@
 # Sempasa
 
-Sempasa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Die Rakete, Nürnberg on Sat, 12 Sept 2026.
+Sempasa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Die Rakete, Nürnberg on Sat, 12 Sept 2026.
 
 Sempasa is a techno and house artist tracked on soundcheck, with 5 sets logged across Nurnberg. Often billed alongside LANI AKEA, Arkan and Cufme. Next up: Die Rakete, Nurnberg on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Sempasa is a techno and house artist tracked on soundcheck, with 5 sets logged a
 
 LANI AKEA, Arkan, Cufme
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sempasa/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sempasa/)*

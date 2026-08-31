@@ -1,6 +1,6 @@
 # LUX (uk)
 
-LUX (uk) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Phonox, London on Thu, 10 Sept 2026.
+LUX (uk) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Phonox, London on Thu, 10 Sept 2026.
 
 LUX (uk) is a techno and bass artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside DJelley, Vanity Project and Memory Muscle. Next up: Phonox, London on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ LUX (uk) is a techno and bass artist tracked on soundcheck, with 20 sets logged 
 
 DJelley, Vanity Project, Memory Muscle
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-uk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lux-uk/)*

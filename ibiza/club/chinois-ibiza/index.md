@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 35 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bedouin presents SAGA" on Sun, 30 Aug 2026.
+Chinois Ibiza is a music venue in Ibiza with 34 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "La Troya: David Penn, KPD, Oscar Colorado, SANCHEZ" on Mon, 31 Aug 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 35 upcoming nights, with line-ups including 2lovers, Alan Dixon, Andrea Oliva and Antdot and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 34 upcoming nights, with line-ups including 2lovers, Alan Dixon, Andrea Oliva and Antdot and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Bedouin presents SAGA | Bedouin |
 | Mon, 31 Aug 2026 | La Troya: David Penn, KPD, Oscar Colorado, SANCHEZ | David Penn, Oscar Colorado, Sanchez (1) |
 | Thu, 3 Sept 2026 | Defected: Eats Everything, Eliza Rose, Manu Gonzalez, RUZE, Sam Divine | Eats Everything, Eliza Rose, Manu Gonzalez, RUZE, Sam Divine |
 | Fri, 4 Sept 2026 | Major League Djz presents: Bun Xapa, Coco & Breezy, AMŌUN:KA | Bun Xapa, Coco & Breezy, Major League Djz |
@@ -18,9 +17,10 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 35 upcoming nights
 | Tue, 8 Sept 2026 | Anjunadeep: Guy J, Jody Wisternoff, Durante, MOLO |  |
 | Thu, 10 Sept 2026 | Defected: Bradley Zero b2b Carl Craig, Ceri, Kellie Allen, Melé, Prunk b2b Caleb Jackson | Bradley Zero, Caleb Jackson, Carl Craig, Ceri, Kellie Allen, Melé, Prunk |
 | Fri, 11 Sept 2026 | Major League Djz presents: Mahmut Orhan, Alan Dixon, Niiomi | Alan Dixon, Mahmut Orhan, Major League Djz, Niiomi |
+| Sat, 12 Sept 2026 | The Masquerade: Claptone, Hannah Wants B2B Paul Woolford, Chus & Ceballos, Peverell | Chus & Ceballos, Claptone, Hannah Wants, Paul Woolford, Peverell |
 
 ## Address
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

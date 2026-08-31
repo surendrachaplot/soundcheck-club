@@ -1,6 +1,6 @@
 # A-Gold
 
-A-Gold is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lx Factory, Lisbon on Thu, 3 Sept 2026.
+A-Gold is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lx Factory, Lisbon on Thu, 3 Sept 2026.
 
 A-Gold is a hip-hop and r&b artist tracked on soundcheck, with 3 sets logged across Lisbon. Often billed alongside Shaka Lion. Next up: Lx Factory, Lisbon on Thu 3 Sept.
 
@@ -19,4 +19,4 @@ A-Gold is a hip-hop and r&b artist tracked on soundcheck, with 3 sets logged acr
 
 Shaka Lion
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a-gold/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a-gold/)*

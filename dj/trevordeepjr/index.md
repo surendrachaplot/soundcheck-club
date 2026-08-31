@@ -1,6 +1,6 @@
 # Trevor Deep Jr
 
-Trevor Deep Jr is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Trevor Deep Jr is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Trevor Deep Jr is a minimal and house artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Lakuti, Mike D. and Morgan. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Trevor Deep Jr is a minimal and house artist tracked on soundcheck, with 2 sets 
 
 Lakuti, Mike D., Morgan
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trevordeepjr/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trevordeepjr/)*

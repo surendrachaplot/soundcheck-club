@@ -1,8 +1,8 @@
 # Neoji
 
-Neoji is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Chausseestrasse 131, Berlin on Sat, 19 Sept 2026.
+Neoji is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Chausseestrasse 131, Berlin on Sat, 19 Sept 2026.
 
-Neoji is a house and techno artist based in Thailand, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Aimé You, Daisy Weweh and HAMY. Next up: Chausseestrasse 131, Berlin on Sat 19 Sept.
+Neoji is a house and techno artist based in Thailand, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Daisy Weweh, MIKA G and HAMY. Next up: Chausseestrasse 131, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Neoji is a house and techno artist based in Thailand, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Aimé You, Daisy Weweh, HAMY
+Daisy Weweh, MIKA G, HAMY
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neoji/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neoji/)*

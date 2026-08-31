@@ -1,6 +1,6 @@
 # Metaraph
 
-Metaraph is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Virage, Paris on Fri, 4 Sept 2026.
+Metaraph is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Virage, Paris on Fri, 4 Sept 2026.
 
 Metaraph is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 43 more. Often billed alongside Mar/us, Ellen Allien and Samantha Togni. Next up: Virage, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Metaraph is a techno and house artist tracked on soundcheck, with 149 sets logge
 
 Mar/us, Ellen Allien, Samantha Togni
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*

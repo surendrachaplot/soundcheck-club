@@ -1,6 +1,6 @@
 # The Fridge
 
-The Fridge is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "22GRIEF(FL HARDCORE) PRESENTED BY MINDCSCULPTOR" on Sat, 5 Sept 2026.
+The Fridge is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "22GRIEF(FL HARDCORE) PRESENTED BY MINDCSCULPTOR" on Sat, 5 Sept 2026.
 
 The Fridge is a music venue in Washingtondc listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 516 8th St SE Rear Alley, Washington, DC 20003; United States.
 
@@ -16,4 +16,4 @@ The Fridge is a music venue in Washingtondc listed on soundcheck. 3 upcoming nig
 
 516 8th St SE Rear Alley, Washington, DC 20003; United States, Washington DC
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/the-fridge/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/the-fridge/)*

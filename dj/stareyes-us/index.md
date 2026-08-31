@@ -1,6 +1,6 @@
 # Star Eyes
 
-Star Eyes is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Star Eyes is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Star Eyes is a jungle and bass artist based in United States of America, tracked on soundcheck, with 44 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside Bianca Oblivion, sports and Anna Morgan. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Star Eyes is a jungle and bass artist based in United States of America, tracked
 
 Bianca Oblivion, sports, Anna Morgan
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stareyes-us/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stareyes-us/)*

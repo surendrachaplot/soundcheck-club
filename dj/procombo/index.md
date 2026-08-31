@@ -1,6 +1,6 @@
 # Procombo
 
-Procombo is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
+Procombo is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
 
 Procombo is a techno and minimal techno artist based in Turkey, tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Istanbul and Madrid and 2 more. Often billed alongside KVTS, Ben Klock and Boris. Next up: RSO.BERLIN, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Procombo is a techno and minimal techno artist based in Turkey, tracked on sound
 
 KVTS, Ben Klock, Boris
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/procombo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/procombo/)*

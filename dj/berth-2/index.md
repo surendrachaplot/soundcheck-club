@@ -1,6 +1,6 @@
 # berth (2)
 
-berth (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Secret Location, Toronto on Sat, 5 Sept 2026.
+berth (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Secret Location, Toronto on Sat, 5 Sept 2026.
 
 berth (2) is a house and techno artist based in Canada, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside Prince Batrick, 9309 and Mike Bradley. Next up: TBA - Secret Location, Toronto on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ berth (2) is a house and techno artist based in Canada, tracked on soundcheck, w
 
 Prince Batrick, 9309, Mike Bradley
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berth-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/berth-2/)*

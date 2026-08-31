@@ -1,6 +1,6 @@
 # ANDI A.
 
-ANDI A. is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Park am Gleisdreieck Open AIR, Berlin on Sun, 30 Aug 2026.
+ANDI A. is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Park am Gleisdreieck Open AIR, Berlin on Sun, 30 Aug 2026.
 
 ANDI A. is an electro and house artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin, Hamburg, Leipzig and Nurnberg and 1 more. Often billed alongside Jaamann, Black Mirror Park and Crille & Tamalt. Next up: Park am Gleisdreieck Open AIR, Berlin on Sun 30 Aug.
 
@@ -13,6 +13,7 @@ ANDI A. is an electro and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
+- Park am Gleisdreieck Open AIR, Berlin — Sun, 30 Aug 2026
 - Golden Pudel Club, Hamburg — Fri, 26 Jun 2026
 - OHM, Berlin — Sun, 24 May 2026
 - Jonny Knüppel, Berlin — Sat, 23 May 2026
@@ -20,10 +21,9 @@ ANDI A. is an electro and house artist based in Germany, tracked on soundcheck, 
 - Panke, Berlin — Thu, 30 Apr 2026
 - Jonny Knüppel, Berlin — Sat, 25 Apr 2026
 - ÆDEN, Berlin — Fri, 3 Apr 2026
-- Kalyx Club, Sydney — Sat, 17 Jan 2026
 
 ## Shares bills with
 
 Jaamann, Black Mirror Park, Crille & Tamalt
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andia./)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andia./)*

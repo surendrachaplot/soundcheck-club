@@ -1,6 +1,6 @@
 # SHERI (2)
 
-SHERI (2) is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at renae, Manchester on Sat, 19 Sept 2026.
+SHERI (2) is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at renae, Manchester on Sat, 19 Sept 2026.
 
 SHERI (2) is a trance and club artist tracked on soundcheck, with 15 sets logged across Manchester. Often billed alongside Anop, ASHTYLR and FOULMOUTH. Next up: renae, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ SHERI (2) is a trance and club artist tracked on soundcheck, with 15 sets logged
 
 Anop, ASHTYLR, FOULMOUTH
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheri-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheri-2/)*

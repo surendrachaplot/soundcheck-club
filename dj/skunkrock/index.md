@@ -1,6 +1,6 @@
 # Skunkrock
 
-Skunkrock is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Vinyl Whistle, Leeds on Fri, 9 Oct 2026.
+Skunkrock is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Vinyl Whistle, Leeds on Fri, 9 Oct 2026.
 
 Skunkrock is a techno and house artist tracked on soundcheck, with 3 sets logged across Leeds and London. Often billed alongside Ancient Methods, Andrew Devine and Balrog. Next up: The Vinyl Whistle, Leeds on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ Skunkrock is a techno and house artist tracked on soundcheck, with 3 sets logged
 
 Ancient Methods, Andrew Devine, Balrog
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skunkrock/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skunkrock/)*

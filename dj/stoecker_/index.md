@@ -1,6 +1,6 @@
 # STOECKER_
 
-STOECKER_ is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Beat Boutique, Hamburg on Sat, 26 Sept 2026.
+STOECKER_ is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Beat Boutique, Hamburg on Sat, 26 Sept 2026.
 
 STOECKER_ is a tech house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Hamburg. Often billed alongside babey and NoraDrenalin. Next up: Beat Boutique, Hamburg on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ STOECKER_ is a tech house and techno artist based in Germany, tracked on soundch
 
 babey, NoraDrenalin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stoecker_/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stoecker_/)*

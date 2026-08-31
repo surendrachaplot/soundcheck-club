@@ -1,15 +1,13 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Johannes Schuster is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Wasteland Festival, Cologne on Sat, 5 Sept 2026.
 
-Johannes Schuster is a techno and trance artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Johannes Schuster is a techno and trance artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: TBA - Wasteland Festival, Cologne on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
 | Sun, 6 Sept 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Sun, 6 Sept 2026 | Palace of Fine Arts | San Francisco/Oakland |
@@ -20,6 +18,8 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 194 
 | Sat, 19 Sept 2026 | TBA - Pabellón Oeste del Palacio de los Deportes | Mexico City |
 | Fri, 25 Sept 2026 | Bootshaus | Cologne |
 | Sat, 3 Oct 2026 | Spook Club | Valencia |
+| Fri, 9 Oct 2026 | OST | Berlin |
+| Fri, 9 Oct 2026 | OST | Berlin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 194 
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

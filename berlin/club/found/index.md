@@ -1,6 +1,6 @@
 # FOUND
 
-FOUND is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "FOUND: END OF SUMMER" on Fri, 25 Sept 2026.
+FOUND is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "FOUND: END OF SUMMER" on Fri, 25 Sept 2026.
 
 FOUND is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Bessemerstraße 2-14, 12103 Berlin.
 
@@ -14,4 +14,4 @@ FOUND is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse 
 
 Bessemerstraße 2-14, 12103 Berlin, Berlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/found/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/found/)*

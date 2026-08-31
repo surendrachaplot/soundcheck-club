@@ -1,6 +1,6 @@
 # Biliguudei
 
-Biliguudei is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - SARAB - Haji Lane, Singapore on Sat, 5 Sept 2026.
+Biliguudei is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - SARAB - Haji Lane, Singapore on Sat, 5 Sept 2026.
 
 Biliguudei is a techno and house artist based in Mongolia, tracked on soundcheck, with 11 sets logged across Bangkok, Milan, Osaka and Singapore and 1 more. Often billed alongside DJ Sweed, 5.5MM and ANNX. Next up: TBA - SARAB - Haji Lane, Singapore on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Biliguudei is a techno and house artist based in Mongolia, tracked on soundcheck
 
 DJ Sweed, 5.5MM, ANNX
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biliguudei/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biliguudei/)*

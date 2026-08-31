@@ -1,14 +1,13 @@
 # Bleach
 
-Bleach is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Bleach is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Flinders, Sydney on Sat, 5 Sept 2026.
 
-Bleach is a techno and industrial artist tracked on soundcheck, with 41 sets logged across Auckland, Belgrade, Berlin and Bristol and 3 more. Often billed alongside ADAM MUNNINGS, Dj handbag and JUNN GULDUR. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Bleach is a techno and industrial artist tracked on soundcheck, with 41 sets logged across Auckland, Belgrade, Berlin and Bristol and 3 more. Often billed alongside ADAM MUNNINGS, Dj handbag and JUNN GULDUR. Next up: The Flinders, Sydney on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Sat, 5 Sept 2026 | The Flinders | Sydney |
 | Sat, 19 Sept 2026 | KREUZWERK | Berlin |
 | Fri, 25 Sept 2026 | Heave Festival | Madrid |
@@ -29,4 +28,4 @@ Bleach is a techno and industrial artist tracked on soundcheck, with 41 sets log
 
 ADAM MUNNINGS, Dj handbag, JUNN GULDUR
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach-es/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach-es/)*

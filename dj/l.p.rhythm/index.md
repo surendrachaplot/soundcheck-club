@@ -1,14 +1,13 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+L.P. Rhythm is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
-L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 177 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 30 more. Often billed alongside Gaskin, Luuk van Dijk and Josh Baker. Next up: Kelvedon Hall, London on Sat 29 Aug.
+L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 177 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 30 more. Often billed alongside Gaskin, Luuk van Dijk and Josh Baker. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Thu, 17 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
@@ -20,6 +19,7 @@ L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 177 set
 | Fri, 16 Oct 2026 | Newspeak | Montreal |
 | Thu, 22 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
+| Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ L.P. Rhythm is a house and tech house artist tracked on soundcheck, with 177 set
 
 Gaskin, Luuk van Dijk, Josh Baker
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*

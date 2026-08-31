@@ -1,14 +1,13 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Night Tales, London on Sun, 30 Aug 2026.
+Ranger Trucco is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Sub Club, Glasgow on Thu, 3 Sept 2026.
 
-Ranger Trucco is a house and tech house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Boston and 21 more. Often billed alongside Ms. Mada, Prunk and Ben Sterling. Next up: Night Tales, London on Sun 30 Aug.
+Ranger Trucco is a house and tech house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Boston and 21 more. Often billed alongside Ms. Mada, Prunk and Ben Sterling. Next up: Sub Club, Glasgow on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Night Tales | London |
 | Thu, 3 Sept 2026 | Sub Club | Glasgow |
 | Sat, 19 Sept 2026 | World Headquarters | Newcastle |
 | Sun, 20 Sept 2026 | 528 Ibiza | Ibiza |
@@ -19,6 +18,7 @@ Ranger Trucco is a house and tech house artist tracked on soundcheck, with 88 se
 
 ## Recently played
 
+- Night Tales, London — Sun, 30 Aug 2026
 - Radius, Chicago — Sat, 15 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Q Nightclub, Seattle — Fri, 31 Jul 2026
@@ -26,10 +26,9 @@ Ranger Trucco is a house and tech house artist tracked on soundcheck, with 88 se
 - Ku Barcelona, Barcelona — Sat, 20 Jun 2026
 - LAB theCLUB, Madrid — Fri, 19 Jun 2026
 - Ku Barcelona, Barcelona — Tue, 16 Jun 2026
-- Cova Santa, Ibiza — Tue, 16 Jun 2026
 
 ## Shares bills with
 
 Ms. Mada, Prunk, Ben Sterling
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

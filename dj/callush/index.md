@@ -1,14 +1,13 @@
 # CALLUSH
 
-CALLUSH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+CALLUSH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at De Flesjesfabriek, Ghent on Sat, 17 Oct 2026.
 
-CALLUSH is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside DYEN, NOVAH and Afem Syko. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+CALLUSH is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside DYEN, NOVAH and Afem Syko. Next up: De Flesjesfabriek, Ghent on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 17 Oct 2026 | De Flesjesfabriek | Ghent |
 
 ## Recently played
@@ -26,4 +25,4 @@ CALLUSH is a techno and house artist tracked on soundcheck, with 114 sets logged
 
 DYEN, NOVAH, Afem Syko
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*

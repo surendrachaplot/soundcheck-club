@@ -1,6 +1,6 @@
 # Enrico Vivaldi
 
-Enrico Vivaldi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at DURO, Milan on Fri, 11 Sept 2026.
+Enrico Vivaldi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at DURO, Milan on Fri, 11 Sept 2026.
 
 Enrico Vivaldi is a techno and house artist based in Italy, tracked on soundcheck, with 86 sets logged across Bangkok, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Psycho Mind Transmission, Inner Lakes and Dario Lem. Next up: DURO, Milan on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Enrico Vivaldi is a techno and house artist based in Italy, tracked on soundchec
 
 Psycho Mind Transmission, Inner Lakes, Dario Lem
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enricovivaldi/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enricovivaldi/)*

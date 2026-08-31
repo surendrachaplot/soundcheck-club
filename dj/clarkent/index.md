@@ -1,6 +1,6 @@
 # Clarkent
 
-Clarkent is a Minimal and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Vajdahunyad Castle, Budapest on Sat, 19 Sept 2026.
+Clarkent is a Minimal and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Vajdahunyad Castle, Budapest on Sat, 19 Sept 2026.
 
 Clarkent is a minimal and dub techno artist based in Romania, tracked on soundcheck, with 2 sets logged across Budapest. Often billed alongside Andrija Jäger and JAGER (HU). Next up: Vajdahunyad Castle, Budapest on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Clarkent is a minimal and dub techno artist based in Romania, tracked on soundch
 
 Andrija Jäger, JAGER (HU)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarkent/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarkent/)*

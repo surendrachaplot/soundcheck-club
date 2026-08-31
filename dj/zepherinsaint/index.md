@@ -1,6 +1,6 @@
 # Zepherin Saint
 
-Zepherin Saint is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Evelyn Hotel, Melbourne on Fri, 11 Sept 2026.
+Zepherin Saint is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Evelyn Hotel, Melbourne on Fri, 11 Sept 2026.
 
 Zepherin Saint is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Auckland, Madrid and Melbourne and 2 more. Often billed alongside Mike Gurrieri, Zjoso and Chris NG. Next up: The Evelyn Hotel, Melbourne on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Zepherin Saint is a house and deep house artist based in United Kingdom, tracked
 
 Mike Gurrieri, Zjoso, Chris NG
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zepherinsaint/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zepherinsaint/)*

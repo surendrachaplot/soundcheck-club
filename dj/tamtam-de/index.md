@@ -1,6 +1,6 @@
 # Tam Tam
 
-Tam Tam is a Italo Disco and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, London on Sun, 6 Sept 2026.
+Tam Tam is a Italo Disco and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, London on Sun, 6 Sept 2026.
 
 Tam Tam is an italo disco and disco artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Jonah Considine, Richii and DJ Subaru. Next up: TBA, London on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ Tam Tam is an italo disco and disco artist based in United Kingdom, tracked on s
 
 Jonah Considine, Richii, DJ Subaru
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamtam-de/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamtam-de/)*

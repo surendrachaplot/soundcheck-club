@@ -1,6 +1,6 @@
 # Scythe
 
-Scythe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Club Cheek, London on Sat, 7 Nov 2026.
+Scythe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club Cheek, London on Sat, 7 Nov 2026.
 
 Scythe is a techno and trance artist based in Malta, tracked on soundcheck, with 43 sets logged across Berlin, Budapest, London and Malta and 1 more. Often billed alongside INVERTED (MT), NATURA2K and SUNTA. Next up: Club Cheek, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Scythe is a techno and trance artist based in Malta, tracked on soundcheck, with
 
 INVERTED (MT), NATURA2K, SUNTA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scythe/)*

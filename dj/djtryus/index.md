@@ -1,6 +1,6 @@
 # DJ Try (US)
 
-DJ Try (US) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at [UNVRS], Ibiza on Mon, 31 Aug 2026.
+DJ Try (US) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at [UNVRS], Ibiza on Mon, 31 Aug 2026.
 
 DJ Try (US) is a trance and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Ibiza and London and 5 more. Often billed alongside CITYSPROBLEM, Princess Elf Bar and moistbreezy. Next up: [UNVRS], Ibiza on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ DJ Try (US) is a trance and techno artist based in United States of America, tra
 
 CITYSPROBLEM, Princess Elf Bar, moistbreezy
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*

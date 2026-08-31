@@ -1,6 +1,6 @@
 # Sopp (2)
 
-Sopp (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Arch 535, London on Sat, 31 Oct 2026.
+Sopp (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Arch 535, London on Sat, 31 Oct 2026.
 
 Sopp (2) is a house and techno artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Cal Basa, Jackmack and Amaliah. Next up: Arch 535, London on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Sopp (2) is a house and techno artist tracked on soundcheck, with 8 sets logged 
 
 Cal Basa, Jackmack, Amaliah
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sopp-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sopp-2/)*

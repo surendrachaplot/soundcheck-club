@@ -1,6 +1,6 @@
 # Feder
 
-Feder is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Clairière, Paris on Fri, 25 Sept 2026.
+Feder is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at La Clairière, Paris on Fri, 25 Sept 2026.
 
 Feder is a house and deep house artist based in France, tracked on soundcheck, with 25 sets logged across Austin, Mexicocity, Montreal and Nantes and 4 more. Often billed alongside Marina Trench, ARODES and Ams (FR). Next up: La Clairière, Paris on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Feder is a house and deep house artist based in France, tracked on soundcheck, w
 
 Marina Trench, ARODES, Ams (FR)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feder/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feder/)*

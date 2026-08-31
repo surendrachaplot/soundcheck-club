@@ -1,6 +1,6 @@
 # Kingsmo
 
-Kingsmo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Tigullio, Malta on Thu, 3 Sept 2026.
+Kingsmo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tigullio, Malta on Thu, 3 Sept 2026.
 
 Kingsmo is a techno and tech house artist based in France, tracked on soundcheck, with 11 sets logged across Malta. Often billed alongside Naomi Baldacchino, VS.techno and Arman Shadow. Next up: Tigullio, Malta on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Kingsmo is a techno and tech house artist based in France, tracked on soundcheck
 
 Naomi Baldacchino, VS.techno, Arman Shadow
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsmo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsmo/)*

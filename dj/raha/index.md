@@ -1,6 +1,6 @@
 # RAHA
 
-RAHA is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+RAHA is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 RAHA is a minimal and house artist based in Japan, tracked on soundcheck, with 41 sets logged across Berlin, Bucharest, Ibiza and Kyoto and 2 more. Often billed alongside monielu.h, Ariaray and Machiko. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ RAHA is a minimal and house artist based in Japan, tracked on soundcheck, with 4
 
 monielu.h, Ariaray, Machiko
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raha/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raha/)*

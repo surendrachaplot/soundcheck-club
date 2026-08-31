@@ -1,6 +1,6 @@
 # Afshin
 
-Afshin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Canvas, Amsterdam on Fri, 23 Oct 2026.
+Afshin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Canvas, Amsterdam on Fri, 23 Oct 2026.
 
 Afshin is a house and disco artist based in France, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Greg Gauthier, Kapela and Karlainthemix. Next up: Canvas, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Afshin is a house and disco artist based in France, tracked on soundcheck, with 
 
 Greg Gauthier, Kapela, Karlainthemix
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afshin/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/afshin/)*

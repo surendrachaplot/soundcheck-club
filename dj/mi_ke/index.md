@@ -1,6 +1,6 @@
 # Mi Ke
 
-Mi Ke is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Obe, Lyon on Fri, 4 Sept 2026.
+Mi Ke is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Obe, Lyon on Fri, 4 Sept 2026.
 
 Mi Ke is an electronica and tech house artist tracked on soundcheck, with 8 sets logged across Antwerp, Barcelona, Dublin and Ibiza and 4 more. Often billed alongside AFTR, Alfa Mist and Alic. Next up: Obe, Lyon on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Mi Ke is an electronica and tech house artist tracked on soundcheck, with 8 sets
 
 AFTR, Alfa Mist, Alic
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mi_ke/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mi_ke/)*

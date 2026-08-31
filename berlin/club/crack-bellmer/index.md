@@ -1,14 +1,13 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Dyke Goth Night" on Sun, 30 Aug 2026.
+Crack Bellmer is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 2 Sept 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Ahni, babxi, BB. angel and BILLY and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Ahni, babxi, BB. angel and BILLY and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Dyke Goth Night |  |
 | Wed, 2 Sept 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 | Thu, 3 Sept 2026 | Disco Oasis | NuAmo |
 | Fri, 4 Sept 2026 | Bad Dad with CYRK, Geneva, Vivienne & Dugong | CYRK, Geneva_, La Schmock, MVHY |
@@ -18,9 +17,10 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 13 upcoming night
 | Sat, 12 Sept 2026 | AGA baddies | DAAS (1), Daya Pruna, Do you know Juno, babxi |
 | Sun, 13 Sept 2026 | Party Dyke's Hoe-Down: A Queer FLINTA* Cowboy Western Party |  |
 | Fri, 18 Sept 2026 | Fulmen Phantasia | El Fulminador, Utopyk Jones |
+| Sat, 26 Sept 2026 | PLAYGROUND | Easy K, Luna Martinez, R4F4, Suzanne Dolmancé |
 
 ## Address
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

@@ -1,6 +1,6 @@
 # Fashion Block
 
-Fashion Block is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Karl Lagerfeld Jeans x Pietro Terzini: Are you in love?" on Thu, 10 Sept 2026.
+Fashion Block is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Karl Lagerfeld Jeans x Pietro Terzini: Are you in love?" on Thu, 10 Sept 2026.
 
 Fashion Block is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Fashion Block is a music venue in Berlin listed on soundcheck. 1 upcoming night.
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Karl Lagerfeld Jeans x Pietro Terzini: Are you in love? |  |
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fashion-block/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fashion-block/)*

@@ -1,6 +1,6 @@
 # Effy
 
-Effy is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Parallel, Amsterdam on Sat, 12 Sept 2026.
+Effy is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Parallel, Amsterdam on Sat, 12 Sept 2026.
 
 Effy is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 49 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: Parallel, Amsterdam on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ Effy is a techno and house artist tracked on soundcheck, with 129 sets logged ac
 
 Mall Grab, KETTAMA, Interplanetary Criminal
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*

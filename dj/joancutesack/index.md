@@ -1,6 +1,6 @@
 # Joan Cute Sack
 
-Joan Cute Sack is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at RADION, Amsterdam on Fri, 2 Oct 2026.
+Joan Cute Sack is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at RADION, Amsterdam on Fri, 2 Oct 2026.
 
 Joan Cute Sack is a pop and techno artist based in Australia, tracked on soundcheck, with 6 sets logged across Amsterdam and Rotterdam. Often billed alongside Kaikaina, ADHDJ (2) and Beks. Next up: RADION, Amsterdam on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Joan Cute Sack is a pop and techno artist based in Australia, tracked on soundch
 
 Kaikaina, ADHDJ (2), Beks
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joancutesack/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joancutesack/)*

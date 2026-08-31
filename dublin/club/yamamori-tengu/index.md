@@ -1,6 +1,6 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 20 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "OMNI.DUB presents: The Ghost" on Fri, 4 Sept 2026.
+Yamamori Tengu is a music venue in Dublin with 20 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "OMNI.DUB presents: The Ghost" on Fri, 4 Sept 2026.
 
 Yamamori Tengu is a music venue in Dublin listed on soundcheck. 20 upcoming nights, with line-ups including 2manycolours, A For Alpha, Ambit and angel tabris and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
@@ -23,4 +23,4 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 20 upcoming nigh
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

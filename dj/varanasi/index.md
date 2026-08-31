@@ -1,6 +1,6 @@
 # Varanasi
 
-Varanasi is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
+Varanasi is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
 
 Varanasi is a techno and electro artist tracked on soundcheck, with 35 sets logged across Berlin, Brighton, London and Manchester. Often billed alongside Himboy, RayRay and SBBS. Next up: Algha's Plantroom, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Varanasi is a techno and electro artist tracked on soundcheck, with 35 sets logg
 
 Himboy, RayRay, SBBS
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*

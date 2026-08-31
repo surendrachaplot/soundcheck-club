@@ -1,6 +1,6 @@
 # Yorz
 
-Yorz is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Yorz is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Yorz is an electronic artist based in Greece, tracked on soundcheck, with 36 sets logged across Athens. Often billed alongside Piece of Kate, IMPVLSIV and .Fro.. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Yorz is an electronic artist based in Greece, tracked on soundcheck, with 36 set
 
 Piece of Kate, IMPVLSIV, .Fro.
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yorz/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yorz/)*

@@ -1,6 +1,6 @@
 # De Schuurman
 
-De Schuurman is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+De Schuurman is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
 De Schuurman is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Catu Diosis, Nsasi and Kampire. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ De Schuurman is a techno and house artist tracked on soundcheck, with 57 sets lo
 
 Catu Diosis, Nsasi, Kampire
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deschuurman/)*

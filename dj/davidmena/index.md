@@ -1,6 +1,6 @@
 # DAVID MENA
 
-DAVID MENA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Laboratorio Octogon, Madrid on Sat, 19 Sept 2026.
+DAVID MENA is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Laboratorio Octogon, Madrid on Sat, 19 Sept 2026.
 
 DAVID MENA is a techno and acid artist tracked on soundcheck, with 13 sets logged across Madrid. Often billed alongside Alviker, Arok Shiva and KITAE. Next up: Laboratorio Octogon, Madrid on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DAVID MENA is a techno and acid artist tracked on soundcheck, with 13 sets logge
 
 Alviker, Arok Shiva, KITAE
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmena/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmena/)*

@@ -1,6 +1,6 @@
 # Alex (ES)
 
-Alex (ES) is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 5 Sept 2026.
+Alex (ES) is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Les Enfants Brillants, Barcelona on Sat, 5 Sept 2026.
 
 Alex (ES) is a minimal and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 3 more. Often billed alongside Hitch, Sampol and De La Swing. Next up: Les Enfants Brillants, Barcelona on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Alex (ES) is a minimal and house artist tracked on soundcheck, with 96 sets logg
 
 Hitch, Sampol, De La Swing
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexes-es/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexes-es/)*

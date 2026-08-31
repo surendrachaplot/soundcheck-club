@@ -1,6 +1,6 @@
 # Evi (1)
 
-Evi (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
+Evi (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
 
 Evi (1) is a house and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam and Utrecht. Often billed alongside 36framez, BELLA (NL) and Ada. Next up: Het Dorp, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Evi (1) is a house and techno artist tracked on soundcheck, with 9 sets logged a
 
 36framez, BELLA (NL), Ada
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evi-1/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/evi-1/)*

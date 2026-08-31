@@ -1,15 +1,13 @@
 # Alignment
 
-Alignment is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Alignment is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Wasteland Festival, Cologne on Sat, 5 Sept 2026.
 
-Alignment is a techno and house artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Alignment is a techno and house artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: TBA - Wasteland Festival, Cologne on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
 | Sun, 6 Sept 2026 | The Concourse Project | Austin |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
@@ -31,4 +29,4 @@ Alignment is a techno and house artist tracked on soundcheck, with 213 sets logg
 
 Shlømo, Basswell, DYEN
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*

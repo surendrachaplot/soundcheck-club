@@ -1,6 +1,6 @@
 # Anna Unusyan
 
-Anna Unusyan is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 27 Sept 2026.
+Anna Unusyan is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 27 Sept 2026.
 
 Anna Unusyan is a techno and afro house artist tracked on soundcheck, with 11 sets logged across Barcelona, Ibiza and London. Often billed alongside Indira Paganotto, Akoriz and Juliet Fox. Next up: Hï Ibiza, Ibiza on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Anna Unusyan is a techno and afro house artist tracked on soundcheck, with 11 se
 
 Indira Paganotto, Akoriz, Juliet Fox
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaunusyan/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaunusyan/)*

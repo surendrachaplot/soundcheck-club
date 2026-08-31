@@ -1,6 +1,6 @@
 # WVRM POOL
 
-WVRM POOL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
+WVRM POOL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
 
 WVRM POOL is a techno and trance artist tracked on soundcheck, with 27 sets logged across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside Varanasi, Desiree' and Nina Pixina. Next up: Algha's Plantroom, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ WVRM POOL is a techno and trance artist tracked on soundcheck, with 27 sets logg
 
 Varanasi, Desiree', Nina Pixina
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wvrmpool/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wvrmpool/)*

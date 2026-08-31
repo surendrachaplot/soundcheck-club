@@ -1,6 +1,6 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Rhod Parry, Kickin Pigeon" on Fri, 4 Sept 2026.
+The Golden Lion is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Rhod Parry, Kickin Pigeon" on Fri, 4 Sept 2026.
 
 The Golden Lion is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including Alex Dallas, Ana K Miller, Bakey and CHÉ WAX and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
@@ -23,4 +23,4 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 11 upcoming
 
 Fielden Square, Todmorden, OL14 6LZ, United Kingdom, Manchester
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*

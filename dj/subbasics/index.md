@@ -1,6 +1,6 @@
 # Sub Basics
 
-Sub Basics is a Dubstep and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Radial, London on Fri, 2 Oct 2026.
+Sub Basics is a Dubstep and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Radial, London on Fri, 2 Oct 2026.
 
 Sub Basics is a dubstep and dub techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Auckland, Barcelona, Bristol and Ghent and 7 more. Often billed alongside Javano, Fearless Dread and Henry Greenleaf. Next up: Radial, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sub Basics is a dubstep and dub techno artist based in United Kingdom, tracked o
 
 Javano, Fearless Dread, Henry Greenleaf
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subbasics/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subbasics/)*

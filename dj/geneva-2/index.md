@@ -1,6 +1,6 @@
 # Geneva (2)
 
-Geneva (2) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Toronto on Sat, 5 Sept 2026.
+Geneva (2) is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Toronto on Sat, 5 Sept 2026.
 
 Geneva (2) is a techno and electro artist based in Canada, tracked on soundcheck, with 20 sets logged across Detroit, Paris and Toronto. Often billed alongside Circumscums, Measure Divide and Program Sam. Next up: TBA, Toronto on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Geneva (2) is a techno and electro artist based in Canada, tracked on soundcheck
 
 Circumscums, Measure Divide, Program Sam
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva-2/)*

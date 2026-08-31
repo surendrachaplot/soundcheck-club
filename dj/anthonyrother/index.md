@@ -1,6 +1,6 @@
 # Anthony Rother
 
-Anthony Rother is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Specka, Madrid on Sat, 10 Oct 2026.
+Anthony Rother is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Specka, Madrid on Sat, 10 Oct 2026.
 
 Anthony Rother is a techno and electro artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Helena Hauff, Alienata and Asymptote. Next up: Specka, Madrid on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Anthony Rother is a techno and electro artist tracked on soundcheck, with 84 set
 
 Helena Hauff, Alienata, Asymptote
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*

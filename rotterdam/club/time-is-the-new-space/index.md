@@ -1,14 +1,13 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "ONE LAST TIME (BY HURU-HARA)" on Sun, 30 Aug 2026.
+Time is the new space is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "LEWCY ALBUM RELEASE – SLINGE" on Thu, 3 Sept 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, with line-ups including Cold Hippie, kimmah, MIA (MY) and North Not South and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, with line-ups including Oceanic, Pureistix and Snufkin. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | ONE LAST TIME (BY HURU-HARA) | Cold Hippie, MIA (MY), North Not South, TASHASAN, kimmah |
 | Thu, 3 Sept 2026 | LEWCY ALBUM RELEASE – SLINGE |  |
 | Fri, 4 Sept 2026 | 4444.TIME | Snufkin |
 | Sat, 5 Sept 2026 | BOUND45 |  |
@@ -21,4 +20,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 8 upco
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

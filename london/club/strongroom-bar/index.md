@@ -1,14 +1,13 @@
 # Strongroom Bar
 
-Strongroom Bar is a music venue in London with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "SUMMER SESSIONS JUBEL X STRONGROOM" on Sun, 30 Aug 2026.
+Strongroom Bar is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "HARRY JOWETT" on Tue, 8 Sept 2026.
 
-Strongroom Bar is a music venue in London listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 120-124 Curtain Road; Hoxton; London EC2A 3SQ; United Kingdom.
+Strongroom Bar is a music venue in London listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 120-124 Curtain Road; Hoxton; London EC2A 3SQ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | SUMMER SESSIONS JUBEL X STRONGROOM |  |
 | Tue, 8 Sept 2026 | HARRY JOWETT |  |
 | Sat, 12 Sept 2026 | JUBELLES |  |
 | Sat, 12 Sept 2026 | Jubel: BELLES Takeover at Strongroom |  |
@@ -17,4 +16,4 @@ Strongroom Bar is a music venue in London listed on soundcheck. 4 upcoming night
 
 120-124 Curtain Road; Hoxton; London EC2A 3SQ; United Kingdom, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/strongroom-bar/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/strongroom-bar/)*

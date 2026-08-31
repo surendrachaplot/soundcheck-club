@@ -1,6 +1,6 @@
 # Martyna Basta
 
-Martyna Basta is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Letohrádek Hvězda, Prague on Sun, 6 Sept 2026.
+Martyna Basta is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Letohrádek Hvězda, Prague on Sun, 6 Sept 2026.
 
 Martyna Basta is an experimental and electronica artist tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 6 more. Often billed alongside Heinali, Kitty Sarcasm and Nídia. Next up: TBA - Letohrádek Hvězda, Prague on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Martyna Basta is an experimental and electronica artist tracked on soundcheck, w
 
 Heinali, Kitty Sarcasm, Nídia
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martynabasta/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martynabasta/)*

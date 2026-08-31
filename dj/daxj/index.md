@@ -1,15 +1,13 @@
 # DAX J
 
-DAX J is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+DAX J is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Secret Location, Toronto on Fri, 4 Sept 2026.
 
-DAX J is a techno and house artist tracked on soundcheck, with 253 sets logged across Amsterdam, Athens, Barcelona and Basel and 66 more. Often billed alongside SPFDJ, Daria Kolosova and 999999999. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+DAX J is a techno and house artist tracked on soundcheck, with 253 sets logged across Amsterdam, Athens, Barcelona and Basel and 66 more. Often billed alongside SPFDJ, Daria Kolosova and 999999999. Next up: TBA - Secret Location, Toronto on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 4 Sept 2026 | TBA - Secret Location | Toronto |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | Radius | Chicago |
@@ -20,6 +18,7 @@ DAX J is a techno and house artist tracked on soundcheck, with 253 sets logged a
 | Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | essaim | Paris |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
+| Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -36,4 +35,4 @@ DAX J is a techno and house artist tracked on soundcheck, with 253 sets logged a
 
 SPFDJ, Daria Kolosova, 999999999
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

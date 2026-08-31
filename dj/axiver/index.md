@@ -1,6 +1,6 @@
 # Axiver
 
-Axiver is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at John Doe, Amsterdam on Wed, 2 Sept 2026.
+Axiver is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at John Doe, Amsterdam on Wed, 2 Sept 2026.
 
 Axiver is a techno artist based in Italy, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside BVNNII and I5HI. Next up: John Doe, Amsterdam on Wed 2 Sept.
 
@@ -14,4 +14,4 @@ Axiver is a techno artist based in Italy, tracked on soundcheck, with 1 set logg
 
 BVNNII, I5HI
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axiver/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/axiver/)*

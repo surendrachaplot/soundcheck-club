@@ -1,6 +1,6 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "La Paloma presents: TSHA + Mutual Trust" on Fri, 4 Sept 2026.
+La Paloma is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "La Paloma presents: TSHA + Mutual Trust" on Fri, 4 Sept 2026.
 
 La Paloma is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including acidheaven, Acidnena, Ale Hope and Dafunkas and 2 more. Browse upcoming dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
@@ -20,4 +20,4 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 7 upcoming nights,
 
 Calle Tigre 27, 08001 Barcelona, Barcelona
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-paloma/)*

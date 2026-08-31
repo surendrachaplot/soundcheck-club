@@ -1,6 +1,6 @@
 # Discotopian
 
-Discotopian is a Ambient and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Space KU Damm, Berlin on Sat, 5 Sept 2026.
+Discotopian is a Ambient and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Space KU Damm, Berlin on Sat, 5 Sept 2026.
 
 Discotopian is an ambient and bass artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Aamir, Hi-Lar and Astrocue. Next up: The Space KU Damm, Berlin on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Discotopian is an ambient and bass artist based in Germany, tracked on soundchec
 
 Aamir, Hi-Lar, Astrocue
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discotopian/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/discotopian/)*

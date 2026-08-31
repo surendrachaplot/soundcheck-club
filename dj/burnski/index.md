@@ -1,6 +1,6 @@
 # Burnski
 
-Burnski is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
+Burnski is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 27 Sept 2026.
 
 Burnski is a house and garage artist tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 14 more. Often billed alongside Kepler, Dennis Quin and Job de Jong. Next up: Amnesia Ibiza, Ibiza on Sun 27 Sept.
 
@@ -28,4 +28,4 @@ Burnski is a house and garage artist tracked on soundcheck, with 66 sets logged 
 
 Kepler, Dennis Quin, Job de Jong
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*

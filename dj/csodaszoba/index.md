@@ -1,6 +1,6 @@
 # Csodaszoba
 
-Csodaszoba is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Turbina, Budapest on Fri, 4 Sept 2026.
+Csodaszoba is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Turbina, Budapest on Fri, 4 Sept 2026.
 
 Csodaszoba is a club and house artist based in Hungary, tracked on soundcheck, with 12 sets logged across Budapest. Often billed alongside baeker, Meduzah and Valenthin. Next up: Turbina, Budapest on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Csodaszoba is a club and house artist based in Hungary, tracked on soundcheck, w
 
 baeker, Meduzah, Valenthin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/csodaszoba/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/csodaszoba/)*

@@ -1,6 +1,6 @@
 # Jamesey
 
-Jamesey is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Notting Hill Arts Club, London on Mon, 31 Aug 2026.
+Jamesey is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Notting Hill Arts Club, London on Mon, 31 Aug 2026.
 
 Jamesey is a deep house and disco artist tracked on soundcheck, with 54 sets logged across London and Paris. Often billed alongside Matt L-S, Davide Del Vecchio and Kojay. Next up: Notting Hill Arts Club, London on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Jamesey is a deep house and disco artist tracked on soundcheck, with 54 sets log
 
 Matt L-S, Davide Del Vecchio, Kojay
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesey/)*

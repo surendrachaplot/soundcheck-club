@@ -1,6 +1,6 @@
 # Nativesun
 
-Nativesun is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Bastet, Philadelphia on Sat, 5 Sept 2026.
+Nativesun is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Bastet, Philadelphia on Sat, 5 Sept 2026.
 
 Nativesun is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Amsterdam, Bangkok, Geneva and London and 13 more. Often billed alongside James Bangura, Black Rave Culture and Amal. Next up: Bastet, Philadelphia on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Nativesun is a house and techno artist based in United States of America, tracke
 
 James Bangura, Black Rave Culture, Amal
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nativesun/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nativesun/)*

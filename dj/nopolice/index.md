@@ -1,6 +1,6 @@
 # No Police
 
-No Police is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Société des arts technologiques, Montreal on Fri, 4 Sept 2026.
+No Police is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Société des arts technologiques, Montreal on Fri, 4 Sept 2026.
 
 No Police is a techno and trance artist based in Canada, tracked on soundcheck, with 53 sets logged across Berlin, Montreal, Paris and Prague and 1 more. Often billed alongside Corinita, Meen Moreen and Dopamyne. Next up: Société des arts technologiques, Montreal on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ No Police is a techno and trance artist based in Canada, tracked on soundcheck, 
 
 Corinita, Meen Moreen, Dopamyne
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nopolice/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nopolice/)*

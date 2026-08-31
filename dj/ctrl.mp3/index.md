@@ -1,6 +1,6 @@
 # Ctrl.mp3
 
-Ctrl.mp3 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 10 Sept 2026.
+Ctrl.mp3 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 10 Sept 2026.
 
 Ctrl.mp3 is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Losangeles, Newyorkcity, Portland and Seattle. Often billed alongside Manwell, ACHAMA and Andy Oro. Next up: General Lee's Cocktail House, Losangeles on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Ctrl.mp3 is a techno and house artist based in United States of America, tracked
 
 Manwell, ACHAMA, Andy Oro
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrl.mp3/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrl.mp3/)*

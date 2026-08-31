@@ -1,6 +1,6 @@
 # James Newmarch
 
-James Newmarch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at FOLD, London on Sat, 5 Sept 2026.
+James Newmarch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at FOLD, London on Sat, 5 Sept 2026.
 
 James Newmarch is a techno and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Voicedrone, Anabel Arroyo and Alba Heidari. Next up: FOLD, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ James Newmarch is a techno and house artist tracked on soundcheck, with 70 sets 
 
 Voicedrone, Anabel Arroyo, Alba Heidari
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnewmarch/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnewmarch/)*

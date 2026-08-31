@@ -1,6 +1,6 @@
 # Mighty Robot
 
-Mighty Robot is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Mighty Robot is a Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Mighty Robot is an electronica artist tracked on soundcheck, with 18 sets logged across Athens. Often billed alongside George Apergis, Salvi k and Bakerman. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Mighty Robot is an electronica artist tracked on soundcheck, with 18 sets logged
 
 George Apergis, Salvi k, Bakerman
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mightyrobot/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mightyrobot/)*

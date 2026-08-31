@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 27 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Samuel Kerridge at ANFANG" on Thu, 3 Sept 2026.
+Cadavra is a music venue in Madrid with 27 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Samuel Kerridge at ANFANG" on Thu, 3 Sept 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 27 upcoming nights, with line-ups including 2garlics, Alvaro Cabana, Amaliah and Anika Kunst and 2 more. Browse upcoming dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 27 upcoming nights, wit
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

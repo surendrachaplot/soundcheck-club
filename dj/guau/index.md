@@ -1,6 +1,6 @@
 # Guau
 
-Guau is a Breakbeat and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Industrique, Melbourne on Sat, 3 Oct 2026.
+Guau is a Breakbeat and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Industrique, Melbourne on Sat, 3 Oct 2026.
 
 Guau is a breakbeat and bass artist tracked on soundcheck, with 10 sets logged across Brisbane, London, Madrid and Malaga and 4 more. Often billed alongside Yo Speed, David Berna and SVETTI. Next up: The Industrique, Melbourne on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Guau is a breakbeat and bass artist tracked on soundcheck, with 10 sets logged a
 
 Yo Speed, David Berna, SVETTI
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guau/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guau/)*

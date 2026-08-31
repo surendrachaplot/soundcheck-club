@@ -1,6 +1,6 @@
 # James Damian
 
-James Damian is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Cross, London on Thu, 17 Sept 2026.
+James Damian is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Cross, London on Thu, 17 Sept 2026.
 
 James Damian is a tech house and progressive house artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Kyle Watson, Francesco Poggi and Gabriel One. Next up: The Cross, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ James Damian is a tech house and progressive house artist tracked on soundcheck,
 
 Kyle Watson, Francesco Poggi, Gabriel One
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdamian/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdamian/)*

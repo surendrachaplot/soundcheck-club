@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 40 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Carl Cox" on Sun, 30 Aug 2026.
+[UNVRS] is a music venue in Ibiza with 39 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Tiësto - CLOSING PARTY" on Mon, 31 Aug 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 40 upcoming nights, with line-ups including Artbat, Adriatique, Agents Of Time and Alan Fitzpatrick and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 39 upcoming nights, with line-ups including Artbat, Adriatique, Agents Of Time and Alan Fitzpatrick and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Carl Cox | Brina Knauss, Carl Cox, Honey Dijon, Joseph Capriati, Melon Bomb |
 | Mon, 31 Aug 2026 | Tiësto - CLOSING PARTY | DJ Try (US), Massano, Tiesto |
 | Tue, 1 Sept 2026 | Anyma presents ÆDEN | Anyma, Artbat, Baset, Rebuke |
 | Wed, 2 Sept 2026 | Jamie Jones Paradise | Elliot Schooling, Enzo is Burning, Hot Since 82, Jamie Jones, Javi Bora, Liam Palmer, Locky, Mad.Again (2), Traumer, Vibe Killers |
@@ -18,9 +17,10 @@
 | Sun, 6 Sept 2026 | Carl Cox | Carl Cox, Melon Bomb, Sasha & John Digweed |
 | Mon, 7 Sept 2026 | Armin Van Buuren presents A State Of Trance - OPENING PARTY | Armin van Buuren, Hannah Laing |
 | Tue, 8 Sept 2026 | Anyma presents ÆDEN | Amelie Lens, Anyma, KAS:ST, Konstantin Sibold |
+| Wed, 9 Sept 2026 | Jamie Jones Paradise | FLORENTIA, Jamie Jones, Jordan Peak, Murphy's Law, Nicole Moudaber, Rich NXT, Rossi, Sosa, wAFF |
 
 ## Address
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

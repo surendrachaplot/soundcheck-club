@@ -1,14 +1,13 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 12 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Drake Night - Iceman - Bank Holiday Weekend" on Sun, 30 Aug 2026.
+Studio 338 is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Summer Outdoor Garage Festival - Studio 338 London" on Sat, 5 Sept 2026.
 
-Studio 338 is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Alex P, Anil Aras, ASHOJU and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
+Studio 338 is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Alex P, Anil Aras, ASHOJU and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Drake Night - Iceman - Bank Holiday Weekend |  |
 | Sat, 5 Sept 2026 | Summer Outdoor Garage Festival - Studio 338 London |  |
 | Sat, 12 Sept 2026 | DanceOnArrival: Summer Closing Festival W/ Disciples, Tre Reynolds, Jamie Fielding + MORE | Anil Aras, Boss Priester, Disciples, Hidde van Wee, Jamie Fielding, Smokey Bubblin' B, Tre Reynolds |
 | Sun, 13 Sept 2026 | Summer Garden Party / Part 2 | DJ IC, Supa D, Tippa |
@@ -18,9 +17,10 @@ Studio 338 is a music venue in London listed on soundcheck. 12 upcoming nights, 
 | Sun, 27 Sept 2026 | Party Hard UK - Day Party |  |
 | Fri, 2 Oct 2026 | F*CK ME IT'S FRESHERS LONDON - THE BIGGEST FRESHERS EVENT IN THE UK |  |
 | Sun, 4 Oct 2026 | The Official Karan Aujla Concert After Party - Studio 338 |  |
+| Sat, 31 Oct 2026 | Release Halloween - Ida Engberg, Bontan, Matthias Tanzmann + more | ASHOJU, Bontan, Chicks Luv Us, FLORENTIA, Forge (UK), Ida Engberg, Matthias Tanzmann |
 
 ## Address
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

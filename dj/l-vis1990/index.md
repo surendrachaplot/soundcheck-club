@@ -1,6 +1,6 @@
 # L-Vis 1990
 
-L-Vis 1990 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lost Horizon, Bristol on Fri, 4 Sept 2026.
+L-Vis 1990 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Lost Horizon, Bristol on Fri, 4 Sept 2026.
 
 L-Vis 1990 is a house and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 13 more. Often billed alongside MJK, Meg Ward and Serenda. Next up: Lost Horizon, Bristol on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ L-Vis 1990 is a house and techno artist based in United Kingdom, tracked on soun
 
 MJK, Meg Ward, Serenda
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l-vis1990/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/l-vis1990/)*

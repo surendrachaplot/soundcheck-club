@@ -1,6 +1,6 @@
 # Oxia
 
-Oxia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mia Mao, Paris on Fri, 18 Sept 2026.
+Oxia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mia Mao, Paris on Fri, 18 Sept 2026.
 
 Oxia is a techno and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 10 more. Often billed alongside Nicolas Masseyeff, Julian Prince and Fiona Kraft. Next up: Mia Mao, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Oxia is a techno and house artist tracked on soundcheck, with 27 sets logged acr
 
 Nicolas Masseyeff, Julian Prince, Fiona Kraft
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oxia/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oxia/)*

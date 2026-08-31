@@ -1,6 +1,6 @@
 # Samuelx
 
-Samuelx is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Jade, New York City on Sat, 5 Sept 2026.
+Samuelx is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jade, New York City on Sat, 5 Sept 2026.
 
 Samuelx is a pop and club artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside ASTER (DJ), Angel Money and CYNTHESZR. Next up: Jade, Newyorkcity on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Samuelx is a pop and club artist based in United States of America, tracked on s
 
 ASTER (DJ), Angel Money, CYNTHESZR
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelx/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelx/)*

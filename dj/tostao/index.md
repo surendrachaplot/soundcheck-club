@@ -1,6 +1,6 @@
 # Tostao
 
-Tostao is a Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+Tostao is a Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
 
 Tostao is a deep house artist tracked on soundcheck, with 4 sets logged across Miami. Often billed alongside Padraic Carey, Alex Cecil and Artime. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Tostao is a deep house artist tracked on soundcheck, with 4 sets logged across M
 
 Padraic Carey, Alex Cecil, Artime
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tostao/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tostao/)*

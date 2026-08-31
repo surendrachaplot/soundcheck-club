@@ -1,6 +1,6 @@
 # Fazee
 
-Fazee is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Beate Uwe, Berlin on Fri, 4 Sept 2026.
+Fazee is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Beate Uwe, Berlin on Fri, 4 Sept 2026.
 
 Fazee is a minimal and tech house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Fanfarrosa, vico and Alfret. Next up: Beate Uwe, Berlin on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ Fazee is a minimal and tech house artist tracked on soundcheck, with 6 sets logg
 
 Fanfarrosa, vico, Alfret
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fazee/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fazee/)*

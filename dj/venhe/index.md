@@ -1,6 +1,6 @@
 # venhe
 
-venhe is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 5 Sept 2026.
+venhe is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at K-Bar Powiśle, Warsaw on Sat, 5 Sept 2026.
 
 venhe is an electro and acid artist tracked on soundcheck, with 7 sets logged across Warsaw. Often billed alongside max whatever, Vizril and fiedorka. Next up: K-Bar Powiśle, Warsaw on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ venhe is an electro and acid artist tracked on soundcheck, with 7 sets logged ac
 
 max whatever, Vizril, fiedorka
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venhe/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venhe/)*

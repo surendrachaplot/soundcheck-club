@@ -1,6 +1,6 @@
 # Swooh
 
-Swooh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Marbrerie, Paris on Sat, 26 Sept 2026.
+Swooh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at La Marbrerie, Paris on Sat, 26 Sept 2026.
 
 Swooh is a techno and trance artist based in France, tracked on soundcheck, with 44 sets logged across Berlin, Brussels, Leipzig and Lyon and 5 more. Often billed alongside Aasi, BXTR and Upper90. Next up: La Marbrerie, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Swooh is a techno and trance artist based in France, tracked on soundcheck, with
 
 Aasi, BXTR, Upper90
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swooh/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/swooh/)*

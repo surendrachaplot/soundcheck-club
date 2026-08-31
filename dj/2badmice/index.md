@@ -1,6 +1,6 @@
 # 2 Bad Mice
 
-2 Bad Mice is a Hardcore and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Bedford, London on Sat, 10 Oct 2026.
+2 Bad Mice is a Hardcore and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Bedford, London on Sat, 10 Oct 2026.
 
 2 Bad Mice is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside Billy Daniel Bunter, Jerome Hill and Slipmatt. Next up: The Bedford, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@
 
 Billy Daniel Bunter, Jerome Hill, Slipmatt
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2badmice/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2badmice/)*

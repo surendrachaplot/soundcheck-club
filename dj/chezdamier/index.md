@@ -1,6 +1,6 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at SAGE, Berlin on Sat, 5 Sept 2026.
+Chez Damier is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at SAGE, Berlin on Sat, 5 Sept 2026.
 
 Chez Damier is a house and deep house artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: SAGE, Berlin on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Chez Damier is a house and deep house artist tracked on soundcheck, with 147 set
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

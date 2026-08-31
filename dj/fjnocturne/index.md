@@ -1,6 +1,6 @@
 # FJNocturne
 
-FJNocturne is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Concept Haus, Manchester on Sat, 10 Oct 2026.
+FJNocturne is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Concept Haus, Manchester on Sat, 10 Oct 2026.
 
 FJNocturne is a techno and electro artist tracked on soundcheck, with 8 sets logged across Barcelona, Liverpool, London and Manchester. Often billed alongside Means&3rd, AMORAL and AOIFE. Next up: Concept Haus, Manchester on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ FJNocturne is a techno and electro artist tracked on soundcheck, with 8 sets log
 
 Means&3rd, AMORAL, AOIFE
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fjnocturne/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fjnocturne/)*

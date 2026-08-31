@@ -1,6 +1,6 @@
 # Stef Sinclair
 
-Stef Sinclair is a Electro and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at M.O.T, London on Fri, 4 Sept 2026.
+Stef Sinclair is a Electro and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at M.O.T, London on Fri, 4 Sept 2026.
 
 Stef Sinclair is an electro and hip-hop artist based in United States of America, tracked on soundcheck, with 1 set logged across London. Often billed alongside Coupdekat and Techg1rls. Next up: M.O.T, London on Fri 4 Sept.
 
@@ -14,4 +14,4 @@ Stef Sinclair is an electro and hip-hop artist based in United States of America
 
 Coupdekat, Techg1rls
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefsinclair/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefsinclair/)*

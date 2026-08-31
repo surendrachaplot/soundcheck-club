@@ -1,14 +1,13 @@
 # skyra
 
-skyra is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Jonny Knüppel, Berlin on Sat, 29 Aug 2026.
+skyra is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 13 Sept 2026.
 
-skyra is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Tallinn and 1 more. Often billed alongside Boyá, HVL and Hamatsuki. Next up: Jonny Knüppel, Berlin on Sat 29 Aug.
+skyra is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Tallinn and 1 more. Often billed alongside Boyá, HVL and Hamatsuki. Next up: Sunseabar Beach Club, Barcelona on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Jonny Knüppel | Berlin |
 | Sun, 13 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Sat, 26 Sept 2026 | Bassiani | Tbilisi |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
@@ -28,4 +27,4 @@ skyra is a house and techno artist tracked on soundcheck, with 93 sets logged ac
 
 Boyá, HVL, Hamatsuki
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skyra-ge/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skyra-ge/)*

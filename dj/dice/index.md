@@ -1,14 +1,13 @@
 # DICE
 
-DICE is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+DICE is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Yard Vienna, Vienna on Sat, 12 Sept 2026.
 
-DICE is a techno and industrial artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Basel, Berlin and Cologne and 11 more. Often billed alongside DETOXX, Amøn and DALJAE. Next up: ://about blank, Berlin on Fri 28 Aug.
+DICE is a techno and industrial artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Basel, Berlin and Cologne and 11 more. Often billed alongside DETOXX, Amøn and DALJAE. Next up: The Yard Vienna, Vienna on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | ://about blank | Berlin |
 | Sat, 12 Sept 2026 | The Yard Vienna | Vienna |
 | Sat, 24 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Fri, 30 Oct 2026 | Lokschuppen Berlin | Berlin |
@@ -28,4 +27,4 @@ DICE is a techno and industrial artist based in Germany, tracked on soundcheck, 
 
 DETOXX, Amøn, DALJAE
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dice/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dice/)*

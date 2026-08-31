@@ -1,6 +1,6 @@
 # Soul Wun
 
-Soul Wun is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Crate Brewery, London on Fri, 4 Sept 2026.
+Soul Wun is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Crate Brewery, London on Fri, 4 Sept 2026.
 
 Soul Wun is a house and garage artist tracked on soundcheck, with 19 sets logged across Ibiza, London, Melbourne and Paris and 1 more. Often billed alongside Human Movement, Upper90 and ANIKA (2). Next up: Crate Brewery, London on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Soul Wun is a house and garage artist tracked on soundcheck, with 19 sets logged
 
 Human Movement, Upper90, ANIKA (2)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwun/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwun/)*

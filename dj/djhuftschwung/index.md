@@ -1,6 +1,6 @@
 # DJ Hüftschwung
 
-DJ Hüftschwung is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Odonien, Cologne on Wed, 2 Sept 2026.
+DJ Hüftschwung is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Odonien, Cologne on Wed, 2 Sept 2026.
 
 DJ Hüftschwung is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Cologne. Often billed alongside MAURO, Arninho and Arriba Rima. Next up: Odonien, Cologne on Wed 2 Sept.
 
@@ -20,4 +20,4 @@ DJ Hüftschwung is a techno and trance artist based in Germany, tracked on sound
 
 MAURO, Arninho, Arriba Rima
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhuftschwung/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djhuftschwung/)*

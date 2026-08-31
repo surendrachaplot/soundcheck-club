@@ -1,6 +1,6 @@
 # Kapela
 
-Kapela is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Canvas, Amsterdam on Fri, 23 Oct 2026.
+Kapela is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Canvas, Amsterdam on Fri, 23 Oct 2026.
 
 Kapela is a house and afro house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Berlin, Bucharest and Lisbon and 10 more. Often billed alongside Afshin, Greg Gauthier and Jamesey. Next up: Canvas, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kapela is a house and afro house artist tracked on soundcheck, with 76 sets logg
 
 Afshin, Greg Gauthier, Jamesey
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapela/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kapela/)*

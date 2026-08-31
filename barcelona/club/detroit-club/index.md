@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bootleg Vinyl Night: The Lady Machine, Radial, Serkin, DJ Bruce Lee" on Fri, 4 Sept 2026.
+DETROIT CLUB is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Bootleg Vinyl Night: The Lady Machine, Radial, Serkin, DJ Bruce Lee" on Fri, 4 Sept 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including DJ Bruce Lee, ERØXX, INH3LL and Kleyver Reyes and 2 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -20,4 +20,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 7 upcoming nigh
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

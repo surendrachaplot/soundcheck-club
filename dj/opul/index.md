@@ -1,6 +1,6 @@
 # Opul
 
-Opul is a Deep House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 3 Sept 2026.
+Opul is a Deep House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Eastern Bloc Records, Manchester on Thu, 3 Sept 2026.
 
 Opul is a deep house and balearic artist tracked on soundcheck, with 12 sets logged across Amsterdam, Dublin, Liverpool and London and 2 more. Often billed alongside Etienne Groh, Nikol and Allius. Next up: Eastern Bloc Records, Manchester on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Opul is a deep house and balearic artist tracked on soundcheck, with 12 sets log
 
 Etienne Groh, Nikol, Allius
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/opul/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/opul/)*

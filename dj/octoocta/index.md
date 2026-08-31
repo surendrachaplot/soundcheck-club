@@ -1,14 +1,13 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Octo Octa is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 1 Sept 2026.
 
-Octo Octa is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and Fafi Abdel Nour. Next up: Southwark Park, London on Sun 30 Aug.
+Octo Octa is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and Fafi Abdel Nour. Next up: 528 Ibiza, Ibiza on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Southwark Park | London |
 | Tue, 1 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
@@ -20,9 +19,11 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 199 sets logg
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
+| Sat, 7 Nov 2026 | WAS. | Utrecht |
 
 ## Recently played
 
+- Southwark Park, London — Sun, 30 Aug 2026
 - Haus der Visionäre, Berlin — Sun, 9 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 199 sets logg
 - The White Hotel, Manchester — Sun, 26 Jul 2026
 - Milandia, Zurich — Sat, 25 Jul 2026
 - Garchinger See, Munich — Sat, 18 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Eris Drew, CCL, Fafi Abdel Nour
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

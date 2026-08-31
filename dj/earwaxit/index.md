@@ -1,6 +1,6 @@
 # Earwax (IT)
 
-Earwax (IT) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
+Earwax (IT) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
 
 Earwax (IT) is a techno artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Krakow and Madrid and 4 more. Often billed alongside Chloe Lula (3), Dynamic Forces and Rosati. Next up: Tresor / Globus, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Earwax (IT) is a techno artist tracked on soundcheck, with 15 sets logged across
 
 Chloe Lula (3), Dynamic Forces, Rosati
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earwaxit/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/earwaxit/)*

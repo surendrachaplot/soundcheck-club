@@ -1,14 +1,13 @@
 # Scarlett O'Malley
 
-Scarlett O'Malley is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Scarlett O'Malley is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The DBA, Manchester on Fri, 11 Sept 2026.
 
-Scarlett O'Malley is a house and disco artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Ella Knight, Lulah Francs and Michelle Manetti. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Scarlett O'Malley is a house and disco artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Ella Knight, Lulah Francs and Michelle Manetti. Next up: The DBA, Manchester on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 11 Sept 2026 | The DBA | Manchester |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 26 Sept 2026 | Blackstone Street Warehouse | Liverpool |
@@ -31,4 +30,4 @@ Scarlett O'Malley is a house and disco artist tracked on soundcheck, with 95 set
 
 Ella Knight, Lulah Francs, Michelle Manetti
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettomalley/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettomalley/)*

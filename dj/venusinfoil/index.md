@@ -1,6 +1,6 @@
 # Venus in Foil
 
-Venus in Foil is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Standard Time, Toronto on Thu, 3 Sept 2026.
+Venus in Foil is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Standard Time, Toronto on Thu, 3 Sept 2026.
 
 Venus in Foil is a techno and house artist tracked on soundcheck, with 104 sets logged across Montreal and Toronto. Often billed alongside City Dance Corporation, Milch (1) and MIASALAV. Next up: Standard Time, Toronto on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Venus in Foil is a techno and house artist tracked on soundcheck, with 104 sets 
 
 City Dance Corporation, Milch (1), MIASALAV
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venusinfoil/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/venusinfoil/)*

@@ -1,6 +1,6 @@
 # Avo (ES)
 
-Avo (ES) is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lasociaciøn, Madrid on Fri, 4 Sept 2026.
+Avo (ES) is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Lasociaciøn, Madrid on Fri, 4 Sept 2026.
 
 Avo (ES) is an electronica and house artist tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Chicago and London and 5 more. Often billed alongside Cesc (ES), DANIL0 and Jorge Escribano. Next up: Lasociaciøn, Madrid on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Avo (ES) is an electronica and house artist tracked on soundcheck, with 67 sets 
 
 Cesc (ES), DANIL0, Jorge Escribano
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avo-es/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/avo-es/)*

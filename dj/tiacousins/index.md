@@ -1,19 +1,19 @@
 # Tia Cousins
 
-Tia Cousins is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Red Church, Bristol on Sun, 30 Aug 2026.
+Tia Cousins is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Tia Cousins is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Bangkok, Belfast and Belgrade and 22 more. Often billed alongside Matt Cowell, Ruf Dug and babyschön. Next up: The Red Church, Bristol on Sun 30 Aug.
+Tia Cousins is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Bangkok, Belfast and Belgrade and 22 more. Often billed alongside Matt Cowell, Ruf Dug and babyschön. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | The Red Church | Bristol |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 19 Sept 2026 | The Glove That Fits | London |
 
 ## Recently played
 
+- The Red Church, Bristol — Sun, 30 Aug 2026
 - Depot Mayfield, Manchester — Sat, 29 Aug 2026
 - KOKO, London — Sat, 8 Aug 2026
 - Macadam, Nantes — Sat, 25 Jul 2026
@@ -21,10 +21,9 @@ Tia Cousins is a house and techno artist tracked on soundcheck, with 106 sets lo
 - Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
 - Club Cheek, London — Fri, 26 Jun 2026
 - Blackhorse Lane Multiple Venues, London — Sat, 13 Jun 2026
-- TBA - Near Salisbury, London — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Matt Cowell, Ruf Dug, babyschön
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiacousins/)*

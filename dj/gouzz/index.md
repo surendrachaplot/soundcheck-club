@@ -1,6 +1,6 @@
 # Gouzz
 
-Gouzz is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Tigullio, Malta on Thu, 3 Sept 2026.
+Gouzz is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Tigullio, Malta on Thu, 3 Sept 2026.
 
 Gouzz is a techno and industrial artist based in Belgium, tracked on soundcheck, with 2 sets logged across Ghent and Malta. Often billed alongside CMGA, Jalo and Kingsmo. Next up: Tigullio, Malta on Thu 3 Sept.
 
@@ -15,4 +15,4 @@ Gouzz is a techno and industrial artist based in Belgium, tracked on soundcheck,
 
 CMGA, Jalo, Kingsmo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gouzz/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gouzz/)*

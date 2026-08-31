@@ -1,6 +1,6 @@
 # Sam Binga
 
-Sam Binga is a Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Circus Osaka, Osaka on Sat, 5 Sept 2026.
+Sam Binga is a Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Circus Osaka, Osaka on Sat, 5 Sept 2026.
 
 Sam Binga is a bass and garage artist tracked on soundcheck, with 85 sets logged across Auckland, Austin, Birmingham and Boston and 34 more. Often billed alongside Bianca Oblivion, Addison Groove and Amy Kisnorbo. Next up: Circus Osaka, Osaka on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Sam Binga is a bass and garage artist tracked on soundcheck, with 85 sets logged
 
 Bianca Oblivion, Addison Groove, Amy Kisnorbo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*

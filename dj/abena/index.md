@@ -1,6 +1,6 @@
 # Abena
 
-Abena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The White Hotel, Manchester on Fri, 6 Nov 2026.
+Abena is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The White Hotel, Manchester on Fri, 6 Nov 2026.
 
 Abena is a techno and house artist tracked on soundcheck, with 39 sets logged across Berlin, Edinburgh, Ghent and Glasgow and 5 more. Often billed alongside Peverelist, Bitzer Maloney and Clemency. Next up: The White Hotel, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Abena is a techno and house artist tracked on soundcheck, with 39 sets logged ac
 
 Peverelist, Bitzer Maloney, Clemency
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abena/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abena/)*

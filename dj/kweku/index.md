@@ -1,6 +1,6 @@
 # Kweku
 
-Kweku is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mood Ring, New York City on Fri, 25 Sept 2026.
+Kweku is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mood Ring, New York City on Fri, 25 Sept 2026.
 
 Kweku is a club and techno artist tracked on soundcheck, with 27 sets logged across Newyorkcity. Often billed alongside Petal, Connector and Délé. Next up: Mood Ring, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kweku is a club and techno artist tracked on soundcheck, with 27 sets logged acr
 
 Petal, Connector, Délé
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kweku/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kweku/)*

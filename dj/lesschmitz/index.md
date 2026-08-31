@@ -1,6 +1,6 @@
 # Les Schmitz
 
-Les Schmitz is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 12 Sept 2026.
+Les Schmitz is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 12 Sept 2026.
 
 Les Schmitz is a trance and techno artist tracked on soundcheck, with 5 sets logged across Ibiza. Often billed alongside Andy Baxter, CAAL and Chicane. Next up: Amnesia Ibiza, Ibiza on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Les Schmitz is a trance and techno artist tracked on soundcheck, with 5 sets log
 
 Andy Baxter, CAAL, Chicane
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lesschmitz/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lesschmitz/)*

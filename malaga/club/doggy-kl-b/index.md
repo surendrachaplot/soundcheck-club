@@ -1,6 +1,6 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 10 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Doggy & Friends: Angel Burgos" on Thu, 3 Sept 2026.
+Doggy Klœb is a music venue in Malaga with 10 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Doggy & Friends: Angel Burgos" on Thu, 3 Sept 2026.
 
 Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming nights, with line-ups including Arval, Catania, Cavilla and Certain People and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
@@ -23,4 +23,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming nights,
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

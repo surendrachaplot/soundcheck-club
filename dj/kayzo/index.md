@@ -1,6 +1,6 @@
 # Kayzo
 
-Kayzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Kayzo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 Kayzo is a techno and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Austin, Boston and Chicago and 14 more. Often billed alongside hhunter, Luude and Alesso. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kayzo is a techno and house artist based in United States of America, tracked on
 
 hhunter, Luude, Alesso
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*

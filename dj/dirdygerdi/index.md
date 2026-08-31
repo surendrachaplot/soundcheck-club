@@ -1,6 +1,6 @@
 # DirdyGerdi
 
-DirdyGerdi is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Klunkerkranich, Berlin on Thu, 3 Sept 2026.
+DirdyGerdi is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Klunkerkranich, Berlin on Thu, 3 Sept 2026.
 
 DirdyGerdi is a house and deep house artist tracked on soundcheck, with 16 sets logged across Auckland, Barcelona, Berlin and Bucharest and 1 more. Often billed alongside Mia Kober, Dylan C and Kon Faber. Next up: Klunkerkranich, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ DirdyGerdi is a house and deep house artist tracked on soundcheck, with 16 sets 
 
 Mia Kober, Dylan C, Kon Faber
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirdygerdi/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirdygerdi/)*

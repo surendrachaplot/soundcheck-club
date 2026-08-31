@@ -1,6 +1,6 @@
 # KIMURA
 
-KIMURA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at ZUBAR, Tokyo on Sun, 27 Sept 2026.
+KIMURA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at ZUBAR, Tokyo on Sun, 27 Sept 2026.
 
 KIMURA is a house and techno artist tracked on soundcheck, with 102 sets logged across Kyoto, Newyorkcity, Osaka and Tokyo. Often billed alongside Masayoshi Kimura, Ko Kimura and Ginji. Next up: ZUBAR, Tokyo on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ KIMURA is a house and techno artist tracked on soundcheck, with 102 sets logged 
 
 Masayoshi Kimura, Ko Kimura, Ginji
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimura/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimura/)*

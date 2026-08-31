@@ -1,6 +1,6 @@
 # DJ Janky
 
-DJ Janky is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Rubulad, New York City on Fri, 18 Sept 2026.
+DJ Janky is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Rubulad, New York City on Fri, 18 Sept 2026.
 
 DJ Janky is a club and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Newyorkcity. Often billed alongside Pei Up, TO:NY and EAMMS. Next up: Rubulad, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ Janky is a club and house artist based in United States of America, tracked o
 
 Pei Up, TO:NY, EAMMS
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjanky/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djjanky/)*

@@ -1,6 +1,6 @@
 # Kittamami
 
-Kittamami is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Jungle Hollywood, Los Angeles on Wed, 2 Sept 2026.
+Kittamami is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Jungle Hollywood, Los Angeles on Wed, 2 Sept 2026.
 
 Kittamami is a house and tech house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Detroit, Losangeles and Sandiego. Often billed alongside Sheefy McFly, baby.com and Ardalan. Next up: Jungle Hollywood, Losangeles on Wed 2 Sept.
 
@@ -26,4 +26,4 @@ Kittamami is a house and tech house artist based in United States of America, tr
 
 Sheefy McFly, baby.com, Ardalan
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittamami/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kittamami/)*

@@ -1,6 +1,6 @@
 # sqto
 
-sqto is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kassa Boat, Budapest on Thu, 3 Sept 2026.
+sqto is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kassa Boat, Budapest on Thu, 3 Sept 2026.
 
 sqto is a techno and progressive house artist tracked on soundcheck, with 18 sets logged across Budapest. Often billed alongside AIRKEY, ARGO (HU) and La La. Next up: Kassa Boat, Budapest on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ sqto is a techno and progressive house artist tracked on soundcheck, with 18 set
 
 AIRKEY, ARGO (HU), La La
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sqto-hu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sqto-hu/)*

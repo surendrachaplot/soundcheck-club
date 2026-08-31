@@ -1,6 +1,6 @@
 # DJ ALI
 
-DJ ALI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+DJ ALI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 DJ ALI is a techno and trance artist tracked on soundcheck, with 12 sets logged across Berlin, Copenhagen, Melbourne and Paris and 1 more. Often billed alongside Cloudy Ku, Kritical and SHAY DOE. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ ALI is a techno and trance artist tracked on soundcheck, with 12 sets logged 
 
 Cloudy Ku, Kritical, SHAY DOE
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djali/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djali/)*

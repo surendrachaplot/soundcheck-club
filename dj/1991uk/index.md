@@ -1,14 +1,13 @@
 # 1991 (UK)
 
-1991 (UK) is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+1991 (UK) is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Factory Town, Miami on Fri, 9 Oct 2026.
 
-1991 (UK) is a drum & bass and bass artist tracked on soundcheck, with 27 sets logged across Amsterdam, Auckland, Barcelona and Brisbane and 16 more. Often billed alongside Culture Shock, Dimension and Sub Focus. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+1991 (UK) is a drum & bass and bass artist tracked on soundcheck, with 27 sets logged across Amsterdam, Auckland, Barcelona and Brisbane and 16 more. Often billed alongside Culture Shock, Dimension and Sub Focus. Next up: Factory Town, Miami on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 9 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | Roxy | Prague |
 
@@ -27,4 +26,4 @@
 
 Culture Shock, Dimension, Sub Focus
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1991uk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/1991uk/)*

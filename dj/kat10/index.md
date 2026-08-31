@@ -1,6 +1,6 @@
 # KAT:10
 
-KAT:10 is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Süss War Gestern, Berlin on Tue, 22 Sept 2026.
+KAT:10 is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Süss War Gestern, Berlin on Tue, 22 Sept 2026.
 
 KAT:10 is a house and disco artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Cologne. Often billed alongside NeZoomie, ADAM REC. and Anjawah. Next up: Süss War Gestern, Berlin on Tue 22 Sept.
 
@@ -24,4 +24,4 @@ KAT:10 is a house and disco artist based in Germany, tracked on soundcheck, with
 
 NeZoomie, ADAM REC., Anjawah
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kat10/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kat10/)*

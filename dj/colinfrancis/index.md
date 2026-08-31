@@ -1,6 +1,6 @@
 # Colin Francis
 
-Colin Francis is a Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
+Colin Francis is a Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
 
 Colin Francis is a tech house artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside DJ Murrell, Lauren Thompson and Ronnie Herel. Next up: Ministry Of Sound, London on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Colin Francis is a tech house artist tracked on soundcheck, with 4 sets logged a
 
 DJ Murrell, Lauren Thompson, Ronnie Herel
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colinfrancis/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colinfrancis/)*

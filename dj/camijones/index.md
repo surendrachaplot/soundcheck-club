@@ -1,6 +1,6 @@
 # Cami Jones
 
-Cami Jones is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 1 Sept 2026.
+Cami Jones is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 1 Sept 2026.
 
 Cami Jones is a house and tech house artist based in Australia, tracked on soundcheck, with 15 sets logged across Ibiza, London, Newyorkcity and Seattle. Often billed alongside Ryan O Gorman, Camilo Miranda and Nuzzo. Next up: 528 Ibiza, Ibiza on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Cami Jones is a house and tech house artist based in Australia, tracked on sound
 
 Ryan O Gorman, Camilo Miranda, Nuzzo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camijones/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camijones/)*

@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 13 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "R3hab pres. by Bootshaus" on Fri, 4 Sept 2026.
+Bootshaus is a music venue in Cologne with 13 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "R3hab pres. by Bootshaus" on Fri, 4 Sept 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 13 upcoming nights, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 13 upcoming nights, 
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

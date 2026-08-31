@@ -1,14 +1,13 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Woodstock'69, Amsterdam on Sun, 30 Aug 2026.
+Palms Trax is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Palms Trax is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Bali and Bangkok and 52 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: Woodstock'69, Amsterdam on Sun 30 Aug.
+Palms Trax is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Bali and Bangkok and 52 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Woodstock'69 | Amsterdam |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Fri, 23 Oct 2026 | Doka | Amsterdam |
@@ -16,6 +15,7 @@ Palms Trax is a house and techno artist tracked on soundcheck, with 195 sets log
 
 ## Recently played
 
+- Woodstock'69, Amsterdam — Sun, 30 Aug 2026
 - DC-10, Ibiza — Mon, 17 Aug 2026
 - The Cause, London — Sat, 15 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
@@ -23,10 +23,9 @@ Palms Trax is a house and techno artist tracked on soundcheck, with 195 sets log
 - DC-10, Ibiza — Mon, 27 Jul 2026
 - Garchinger See, Munich — Sat, 18 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 17 Jul 2026
-- Fvtvr, Paris — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Job Jobse, Peach, Francesco Del Garda
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*

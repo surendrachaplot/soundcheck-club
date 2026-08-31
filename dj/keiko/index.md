@@ -1,6 +1,6 @@
 # KEiKO
 
-KEiKO is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Jupiter Disco, New York City on Sun, 20 Sept 2026.
+KEiKO is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jupiter Disco, New York City on Sun, 20 Sept 2026.
 
 KEiKO is a techno and garage artist tracked on soundcheck, with 10 sets logged across Newyorkcity and Sandiego. Often billed alongside Gigi Rio, Telesforo and Adash. Next up: Jupiter Disco, Newyorkcity on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ KEiKO is a techno and garage artist tracked on soundcheck, with 10 sets logged a
 
 Gigi Rio, Telesforo, Adash
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keiko/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/keiko/)*

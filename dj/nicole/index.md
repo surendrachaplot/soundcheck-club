@@ -1,6 +1,6 @@
 # Nicole
 
-Nicole is a Funk / Soul and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Nicole is a Funk / Soul and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 Nicole is a funk / soul and tech house artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Milan and Tbilisi and 1 more. Often billed alongside Bekuchi, Hamatsuki and Boyá. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Nicole is a funk / soul and tech house artist tracked on soundcheck, with 16 set
 
 Bekuchi, Hamatsuki, Boyá
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole/)*

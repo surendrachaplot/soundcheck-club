@@ -1,14 +1,15 @@
 # Miguel Migs
 
-Miguel Migs is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 5 Sept 2026.
+Miguel Migs is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 5 Sept 2026.
 
-Miguel Migs is a house and deep house artist tracked on soundcheck, with 34 sets logged across Chicago, Detroit, Losangeles and Miami and 6 more. Often billed alongside Julius Papp, Franky Boissy and Doc Martin. Next up: The Great Northern, Sanfrancisco on Sat 5 Sept.
+Miguel Migs is a house and deep house artist tracked on soundcheck, with 35 sets logged across Chicago, Detroit, Losangeles and Miami and 6 more. Often billed alongside Julius Papp, Franky Boissy and Doc Martin. Next up: The Great Northern, Sanfrancisco on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | The Great Northern | San Francisco/Oakland |
+| Sat, 10 Oct 2026 | The Midway | San Francisco/Oakland |
 | Sun, 11 Oct 2026 | The Midway | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +27,4 @@ Miguel Migs is a house and deep house artist tracked on soundcheck, with 34 sets
 
 Julius Papp, Franky Boissy, Doc Martin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelmigs/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelmigs/)*

@@ -1,14 +1,13 @@
 # gART.n
 
-gART.n is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "OewerSause im gART.n" on Sun, 30 Aug 2026.
+gART.n is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "AROMA" on Sat, 5 Sept 2026.
 
-gART.n is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including 7heads, Ada, Bonfante and Caleesi and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
+gART.n is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including 7heads, Ada, Bonfante and Caleesi and 2 more. Browse upcoming dates, start times and who's playing. Blockdammweg 1, 10317 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | OewerSause im gART.n | Martha van Straaten, Saraabb |
 | Sat, 5 Sept 2026 | AROMA | LG JASPER <3, Sinan Varol, carrà |
 | Sun, 6 Sept 2026 | Sonntags by Caleesi & Kreis | Ada, Caleesi, Gina Sabatini, Sarah Kreis |
 | Sat, 12 Sept 2026 | flowers by HOVR | HOVR, Michael Lane, Organza, Sherø |
@@ -20,4 +19,4 @@ gART.n is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with 
 
 Blockdammweg 1, 10317 Berlin, Berlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gart-n/)*

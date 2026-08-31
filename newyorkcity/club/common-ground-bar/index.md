@@ -1,6 +1,6 @@
 # Common Ground Bar
 
-Common Ground Bar is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "NYC Halloween Common Ground Halloween Party 10/30" on Fri, 30 Oct 2026.
+Common Ground Bar is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "NYC Halloween Common Ground Halloween Party 10/30" on Fri, 30 Oct 2026.
 
 Common Ground Bar is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 63 Gansevoort St, New York, NY 10014.
 
@@ -15,4 +15,4 @@ Common Ground Bar is a music venue in Newyorkcity listed on soundcheck. 2 upcomi
 
 63 Gansevoort St, New York, NY 10014, New York City
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/common-ground-bar/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/common-ground-bar/)*

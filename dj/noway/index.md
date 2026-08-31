@@ -1,6 +1,6 @@
 # Noway
 
-Noway is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Solfa, Tokyo on Fri, 11 Sept 2026.
+Noway is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Solfa, Tokyo on Fri, 11 Sept 2026.
 
 Noway is a bass and garage artist based in Canada, tracked on soundcheck, with 35 sets logged across Berlin, Geneva, Osaka and Seoul and 1 more. Often billed alongside MOOTOE, In-Character and SLEEPY HEVD. Next up: Solfa, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Noway is a bass and garage artist based in Canada, tracked on soundcheck, with 3
 
 MOOTOE, In-Character, SLEEPY HEVD
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noway/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noway/)*

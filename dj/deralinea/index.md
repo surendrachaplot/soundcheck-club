@@ -1,6 +1,6 @@
 # DER ALINEA
 
-DER ALINEA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Beat Boutique, Hamburg on Fri, 11 Sept 2026.
+DER ALINEA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Beat Boutique, Hamburg on Fri, 11 Sept 2026.
 
 DER ALINEA is a house and techno artist tracked on soundcheck, with 19 sets logged across Berlin and Hamburg. Often billed alongside Cosmokat, AAVA and Florian Kruse. Next up: Beat Boutique, Hamburg on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DER ALINEA is a house and techno artist tracked on soundcheck, with 19 sets logg
 
 Cosmokat, AAVA, Florian Kruse
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deralinea/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deralinea/)*

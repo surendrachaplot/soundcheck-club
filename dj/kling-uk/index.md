@@ -1,6 +1,6 @@
 # Kling
 
-Kling is a Techno and Psytrance artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Union Club, Vauxhall, London on Thu, 3 Sept 2026.
+Kling is a Techno and Psytrance artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Union Club, Vauxhall, London on Thu, 3 Sept 2026.
 
 Kling is a techno and psytrance artist tracked on soundcheck, with 36 sets logged across Cologne, London, Paris and Tallinn. Often billed alongside Almeida Moura, Duwat? and Monnay. Next up: Union Club, Vauxhall, London on Thu 3 Sept.
 
@@ -28,4 +28,4 @@ Kling is a techno and psytrance artist tracked on soundcheck, with 36 sets logge
 
 Almeida Moura, Duwat?, Monnay
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kling-uk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kling-uk/)*

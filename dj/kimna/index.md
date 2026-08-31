@@ -1,6 +1,6 @@
 # KIMNA
 
-KIMNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at UNDERCITY, Seoul on Fri, 11 Sept 2026.
+KIMNA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at UNDERCITY, Seoul on Fri, 11 Sept 2026.
 
 KIMNA is a techno and house artist based in South Korea, tracked on soundcheck, with 23 sets logged across Seoul. Often billed alongside No/ah, Gosha and Vorus. Next up: UNDERCITY, Seoul on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ KIMNA is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 No/ah, Gosha, Vorus
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimna/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kimna/)*

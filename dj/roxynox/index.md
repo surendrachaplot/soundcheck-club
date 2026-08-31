@@ -1,6 +1,6 @@
 # Roxy Nox
 
-Roxy Nox is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
+Roxy Nox is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
 
 Roxy Nox is a house and tech house artist tracked on soundcheck, with 3 sets logged across Amsterdam and Berlin. Often billed alongside Amber (NL), Marvin Aloys and Purple Palms. Next up: Nido Cocktailbar, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Roxy Nox is a house and tech house artist tracked on soundcheck, with 3 sets log
 
 Amber (NL), Marvin Aloys, Purple Palms
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roxynox/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roxynox/)*

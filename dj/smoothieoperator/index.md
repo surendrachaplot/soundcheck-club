@@ -1,6 +1,6 @@
 # Smoothie Operator
 
-Smoothie Operator is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
+Smoothie Operator is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
 
 Smoothie Operator is a techno and trance artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside krawallwitz, Jetsk.ian and OTG(1). Next up: Humboldthain Club, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Smoothie Operator is a techno and trance artist tracked on soundcheck, with 14 s
 
 krawallwitz, Jetsk.ian, OTG(1)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothieoperator/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smoothieoperator/)*

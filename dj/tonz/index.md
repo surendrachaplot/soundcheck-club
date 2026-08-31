@@ -1,6 +1,6 @@
 # tonz
 
-tonz is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
+tonz is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
 
 tonz is a garage and house artist based in Australia, tracked on soundcheck, with 7 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Alex Bohemien, Etwas and Garçon. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ tonz is a garage and house artist based in Australia, tracked on soundcheck, wit
 
 Alex Bohemien, Etwas, Garçon
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonz/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonz/)*

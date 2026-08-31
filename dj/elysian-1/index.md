@@ -1,8 +1,8 @@
 # Elysian (1)
 
-Elysian (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Elsewhere, New York City on Sat, 19 Sept 2026.
+Elysian (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Elsewhere, New York City on Sat, 19 Sept 2026.
 
-Elysian (1) is an electronic artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside 999ADJ, Amal and Amarji King. Next up: Elsewhere, Newyorkcity on Sat 19 Sept.
+Elysian (1) is an electronic artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Yesterdayneverhappened, Amarji King and Chinnamasta. Next up: Elsewhere, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Elysian (1) is an electronic artist based in United States of America, tracked o
 
 ## Shares bills with
 
-999ADJ, Amal, Amarji King
+Yesterdayneverhappened, Amarji King, Chinnamasta
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elysian-1/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elysian-1/)*

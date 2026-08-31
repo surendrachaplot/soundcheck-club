@@ -1,18 +1,18 @@
 # Tiffany Quinn
 
-Tiffany Quinn is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Two Tribes CAMPFIRE, London on Sun, 30 Aug 2026.
+Tiffany Quinn is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at fabric, London on Fri, 16 Oct 2026.
 
-Tiffany Quinn is a house and disco artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 4 more. Often billed alongside Maria Hanlon, bangus and Bear Winder. Next up: Two Tribes CAMPFIRE, London on Sun 30 Aug.
+Tiffany Quinn is a house and disco artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 4 more. Often billed alongside Maria Hanlon, bangus and Bear Winder. Next up: fabric, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Two Tribes CAMPFIRE | London |
 | Fri, 16 Oct 2026 | fabric | London |
 
 ## Recently played
 
+- Two Tribes CAMPFIRE, London — Sun, 30 Aug 2026
 - Quarters, Brighton — Sat, 22 Aug 2026
 - The Horse & Groom, London — Sat, 25 Jul 2026
 - Two Tribes CAMPFIRE, London — Fri, 24 Jul 2026
@@ -20,10 +20,9 @@ Tiffany Quinn is a house and disco artist tracked on soundcheck, with 79 sets lo
 - All My Friends, London — Thu, 25 Jun 2026
 - Night Tales, London — Fri, 19 Jun 2026
 - Two Tribes CAMPFIRE, London — Sat, 6 Jun 2026
-- The Timber Loft, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Maria Hanlon, bangus, Bear Winder
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyquinn/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyquinn/)*

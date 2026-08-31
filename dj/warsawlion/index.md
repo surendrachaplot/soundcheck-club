@@ -1,6 +1,6 @@
 # Warsaw Lion
 
-Warsaw Lion is a Dub and Gqom artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at BarKa, Warsaw on Sun, 6 Sept 2026.
+Warsaw Lion is a Dub and Gqom artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at BarKa, Warsaw on Sun, 6 Sept 2026.
 
 Warsaw Lion is a dub and gqom artist tracked on soundcheck, with 2 sets logged across Warsaw. Often billed alongside Abuelita, KANCIAK and eylau. Next up: BarKa, Warsaw on Sun 6 Sept.
 
@@ -18,4 +18,4 @@ Warsaw Lion is a dub and gqom artist tracked on soundcheck, with 2 sets logged a
 
 Abuelita, KANCIAK, eylau
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warsawlion/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warsawlion/)*

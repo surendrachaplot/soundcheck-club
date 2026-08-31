@@ -1,14 +1,13 @@
 # Zora Jones
 
-Zora Jones is a Bass and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Zora Jones is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
-Zora Jones is a bass and experimental artist based in Spain, tracked on soundcheck, with 31 sets logged across Barcelona, Bristol, Brussels and Kyoto and 9 more. Often billed alongside Sinjin Hawke, Korea Town Acid and Mesocosm. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+Zora Jones is a bass and experimental artist based in Spain, tracked on soundcheck, with 31 sets logged across Barcelona, Bristol, Brussels and Kyoto and 9 more. Often billed alongside Sinjin Hawke, Korea Town Acid and Mesocosm. Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
 | Sat, 17 Oct 2026 | Botanique | Brussels |
 
@@ -27,4 +26,4 @@ Zora Jones is a bass and experimental artist based in Spain, tracked on soundche
 
 Sinjin Hawke, Korea Town Acid, Mesocosm
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zorajones/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zorajones/)*

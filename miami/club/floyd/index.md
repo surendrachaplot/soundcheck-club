@@ -1,14 +1,13 @@
 # Floyd
 
-Floyd is a music venue in Miami with 17 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Ciao Dany!: Alci" on Sun, 30 Aug 2026.
+Floyd is a music venue in Miami with 16 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "DXNBY" on Fri, 4 Sept 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 17 upcoming nights, with line-ups including Alci, Bakke, Ben UFO and Bort and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 16 upcoming nights, with line-ups including Bakke, Ben UFO, Bort and Calussa and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Ciao Dany!: Alci | Alci, Bort, Danyelino, serafitz |
 | Fri, 4 Sept 2026 | DXNBY | DXNBY, RAJE |
 | Sat, 5 Sept 2026 | Indo Warehouse | Harji |
 | Sun, 6 Sept 2026 | Andrew Music Club After Party: ODD | Ben UFO, DJ Three, Jonny From Space |
@@ -18,9 +17,10 @@ Floyd is a music venue in Miami listed on soundcheck. 17 upcoming nights, with l
 | Fri, 18 Sept 2026 | Bak2DFuture: Gene On Earth + Momo Trosman | Bakke, Gene On Earth, Momo Trosman, demenz |
 | Sat, 19 Sept 2026 | Eli Escobar | Eli Escobar, Sister System, Will Buck |
 | Sun, 20 Sept 2026 | Robbie Doherty | Ms. Mada, Robbie Doherty |
+| Fri, 25 Sept 2026 | Shonky + Jennifer Loveless | Bort, Gio Elia, Jennifer Loveless, Shonky |
 
 ## Address
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

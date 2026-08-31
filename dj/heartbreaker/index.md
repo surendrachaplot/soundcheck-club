@@ -1,6 +1,6 @@
 # Heartbreaker
 
-Heartbreaker is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mood Ring, New York City on Fri, 11 Sept 2026.
+Heartbreaker is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mood Ring, New York City on Fri, 11 Sept 2026.
 
 Heartbreaker is a techno and tech house artist tracked on soundcheck, with 18 sets logged across Berlin and Newyorkcity. Often billed alongside DJ Brandy Melville, Battygyal and DJ Thank You. Next up: Mood Ring, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Heartbreaker is a techno and tech house artist tracked on soundcheck, with 18 se
 
 DJ Brandy Melville, Battygyal, DJ Thank You
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heartbreaker/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heartbreaker/)*

@@ -1,6 +1,6 @@
 # Bibiminor
 
-Bibiminor is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Cross, London on Sat, 5 Sept 2026.
+Bibiminor is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Cross, London on Sat, 5 Sept 2026.
 
 Bibiminor is a tech house and house artist tracked on soundcheck, with 26 sets logged across London. Often billed alongside Francesco Poggi, Donnie Bianco and Harry Wilson. Next up: The Cross, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Bibiminor is a tech house and house artist tracked on soundcheck, with 26 sets l
 
 Francesco Poggi, Donnie Bianco, Harry Wilson
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiminor/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiminor/)*

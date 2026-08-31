@@ -1,6 +1,6 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 17 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Abel Selaocoe: live in London" on Tue, 1 Sept 2026.
+Outernet Live is a music venue in London with 17 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Abel Selaocoe: live in London" on Tue, 1 Sept 2026.
 
 Outernet Live is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including AliA, ALISHA, Alix Perez and Beatrice M. and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
 
@@ -23,4 +23,4 @@ Outernet Live is a music venue in London listed on soundcheck. 17 upcoming night
 
 Denmark Street, London WC2H, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

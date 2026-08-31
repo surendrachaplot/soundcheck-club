@@ -1,6 +1,6 @@
 # Plano B
 
-Plano B is a music venue in Porto with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "John Talabot (ES)" on Fri, 25 Sept 2026.
+Plano B is a music venue in Porto with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "John Talabot (ES)" on Fri, 25 Sept 2026.
 
 Plano B is a music venue in Porto listed on soundcheck. 4 upcoming nights, with line-ups including John Talabot, Objekt, Ogazón and salute. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
@@ -17,4 +17,4 @@ Plano B is a music venue in Porto listed on soundcheck. 4 upcoming nights, with 
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

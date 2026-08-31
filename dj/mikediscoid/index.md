@@ -1,6 +1,6 @@
 # Mike Discoid
 
-Mike Discoid is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Sigma, Ibiza on Sun, 13 Sept 2026.
+Mike Discoid is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Sigma, Ibiza on Sun, 13 Sept 2026.
 
 Mike Discoid is a house and deep house artist tracked on soundcheck, with 23 sets logged across Ibiza and Riga. Often billed alongside Kapusta, Kelvin and Nicolas Barnes. Next up: Sigma, Ibiza on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Mike Discoid is a house and deep house artist tracked on soundcheck, with 23 set
 
 Kapusta, Kelvin, Nicolas Barnes
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikediscoid/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikediscoid/)*

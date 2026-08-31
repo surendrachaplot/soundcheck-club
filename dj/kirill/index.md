@@ -1,6 +1,6 @@
 # Kirill
 
-Kirill is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Turbina, Budapest on Fri, 4 Sept 2026.
+Kirill is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Turbina, Budapest on Fri, 4 Sept 2026.
 
 Kirill is a house and deep house artist tracked on soundcheck, with 12 sets logged across Amsterdam, Budapest and Detroit. Often billed alongside Kernel, Electric Boutique and Galactic Jackson. Next up: Turbina, Budapest on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Kirill is a house and deep house artist tracked on soundcheck, with 12 sets logg
 
 Kernel, Electric Boutique, Galactic Jackson
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirill/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirill/)*

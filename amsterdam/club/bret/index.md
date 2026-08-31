@@ -1,14 +1,13 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 25 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT2 - BRET" on Sun, 30 Aug 2026.
+BRET is a music venue in Amsterdam with 24 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "NOYS" on Fri, 4 Sept 2026.
 
-BRET is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, with line-ups including Anz, Bastienne, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
+BRET is a music venue in Amsterdam listed on soundcheck. 24 upcoming nights, with line-ups including Anz, Bastienne, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | SLPFNK - 15 YEAR AMS TOUR BIRTHDAY WEEKENDER PT2 - BRET |  |
 | Fri, 4 Sept 2026 | NOYS |  |
 | Fri, 4 Sept 2026 | NOYS CLUB NIGHT |  |
 | Sat, 5 Sept 2026 | Laura Meester curates with Huerta, Children of Valis, Laura Meester b2b Foghan, ESTRELLA | Children of Valis, ESTRELLA, Foghan, Huerta, Laura Meester |
@@ -18,9 +17,10 @@ BRET is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, wit
 | Fri, 11 Sept 2026 | Chunky |  |
 | Fri, 11 Sept 2026 | CHUNKY | BILA, Constratti, Cristi Cons, David Gtronic, Marlie, Mihai Pol, Sepp, Vlad Caia, mink |
 | Sat, 12 Sept 2026 | Bennet, D'Julz, JUAAN, Shanne | Bennet, Bennet (DE), D'Julz, JUAAN, Shanne |
+| Sun, 13 Sept 2026 | LOCKLEAD - ALL DAY LONG | Locklead |
 
 ## Address
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

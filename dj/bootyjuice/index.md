@@ -1,6 +1,6 @@
 # Booty Juice
 
-Booty Juice is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Cape Lookout, Portland on Fri, 11 Sept 2026.
+Booty Juice is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Cape Lookout, Portland on Fri, 11 Sept 2026.
 
 Booty Juice is a house and disco artist tracked on soundcheck, with 15 sets logged across Portland and Sanfrancisco. Often billed alongside vRok, Carrieondisco and DJ M3. Next up: TBA - Cape Lookout, Portland on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Booty Juice is a house and disco artist tracked on soundcheck, with 15 sets logg
 
 vRok, Carrieondisco, DJ M3
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bootyjuice/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bootyjuice/)*

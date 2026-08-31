@@ -1,6 +1,6 @@
 # Bby Cass
 
-Bby Cass is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 11 Sept 2026.
+Bby Cass is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 11 Sept 2026.
 
 Bby Cass is a house and techno artist based in Australia, tracked on soundcheck, with 34 sets logged across Melbourne. Often billed alongside TEEJAY, Mike Callander and Sleepy Jay. Next up: Revolver Upstairs, Melbourne on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Bby Cass is a house and techno artist based in Australia, tracked on soundcheck,
 
 TEEJAY, Mike Callander, Sleepy Jay
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbycass/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bbycass/)*

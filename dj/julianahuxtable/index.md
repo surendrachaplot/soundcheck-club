@@ -1,6 +1,6 @@
 # Juliana Huxtable
 
-Juliana Huxtable is a Techno and Club artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
+Juliana Huxtable is a Techno and Club artist with 9 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
 
 Juliana Huxtable is a techno and club artist tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside JASSS, Shyboi and Via App. Next up: Nowadays, Newyorkcity on Sat 5 Sept.
 
@@ -33,4 +33,4 @@ Juliana Huxtable is a techno and club artist tracked on soundcheck, with 198 set
 
 JASSS, Shyboi, Via App
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*

@@ -1,6 +1,6 @@
 # CEEE
 
-CEEE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Minimal Bar, Berlin on Sun, 20 Sept 2026.
+CEEE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Minimal Bar, Berlin on Sun, 20 Sept 2026.
 
 CEEE is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Anne-Sophie Selig, Kijara and Der olle Kramer. Next up: Minimal Bar, Berlin on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ CEEE is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Anne-Sophie Selig, Kijara, Der olle Kramer
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceee/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ceee/)*

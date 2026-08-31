@@ -1,8 +1,8 @@
 # Tony Terra
 
-Tony Terra is a Broken Beat and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Distrikt, Prague on Fri, 30 Oct 2026.
+Tony Terra is a Broken Beat and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Distrikt, Prague on Fri, 30 Oct 2026.
 
-Tony Terra is a broken beat and drum & bass artist based in Czech Republic, tracked on soundcheck, with 1 set logged across Prague. Often billed alongside Databass and Tantrum Desire. Next up: Distrikt, Prague on Fri 30 Oct.
+Tony Terra is a broken beat and drum & bass artist based in Czech Republic, tracked on soundcheck, with 1 set logged across Prague. Often billed alongside Tantrum Desire and Databass. Next up: Distrikt, Prague on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Tony Terra is a broken beat and drum & bass artist based in Czech Republic, trac
 
 ## Shares bills with
 
-Databass, Tantrum Desire
+Tantrum Desire, Databass
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyterra/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyterra/)*

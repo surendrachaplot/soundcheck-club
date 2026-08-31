@@ -1,6 +1,6 @@
 # Tre Turner
 
-Tre Turner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at OT301, Amsterdam on Sat, 5 Sept 2026.
+Tre Turner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at OT301, Amsterdam on Sat, 5 Sept 2026.
 
 Tre Turner is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, Glasgow, Hongkong and London. Often billed alongside Anacalypto, CLOSE PROXIMITY and Claudia (UK). Next up: OT301, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tre Turner is a house and techno artist based in United Kingdom, tracked on soun
 
 Anacalypto, CLOSE PROXIMITY, Claudia (UK)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/treturner/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/treturner/)*

@@ -1,6 +1,6 @@
 # D|K|OXY
 
-D|K|OXY is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Essigfabrik, Cologne on Fri, 11 Sept 2026.
+D|K|OXY is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Essigfabrik, Cologne on Fri, 11 Sept 2026.
 
 D|K|OXY is a techno and industrial artist based in Ireland, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 11 more. Often billed alongside PARAPHER, Bildgewalt and Sørenga. Next up: Essigfabrik, Cologne on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ D|K|OXY is a techno and industrial artist based in Ireland, tracked on soundchec
 
 PARAPHER, Bildgewalt, Sørenga
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dkoxy/)*

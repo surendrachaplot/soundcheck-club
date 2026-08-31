@@ -1,6 +1,6 @@
 # Kito
 
-Kito is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Klunkerkranich, Berlin on Thu, 3 Sept 2026.
+Kito is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Klunkerkranich, Berlin on Thu, 3 Sept 2026.
 
 Kito is a techno and electro artist tracked on soundcheck, with 7 sets logged across Berlin, Buenosaires, Melbourne and Milan and 1 more. Often billed alongside Aquenta, Brent Honey and Chaotiic Good. Next up: Klunkerkranich, Berlin on Thu 3 Sept.
 
@@ -23,4 +23,4 @@ Kito is a techno and electro artist tracked on soundcheck, with 7 sets logged ac
 
 Aquenta, Brent Honey, Chaotiic Good
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kito/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kito/)*

@@ -1,6 +1,6 @@
 # Matthieu Benjamin
 
-Matthieu Benjamin is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Sensorium, Berlin on Sat, 19 Sept 2026.
+Matthieu Benjamin is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Sensorium, Berlin on Sat, 19 Sept 2026.
 
 Matthieu Benjamin is a techno and dub techno artist tracked on soundcheck, with 11 sets logged across Berlin, Geneva and Zurich. Often billed alongside Alex Nantaya, Gioski and Adriana Lopez. Next up: Sensorium, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Matthieu Benjamin is a techno and dub techno artist tracked on soundcheck, with 
 
 Alex Nantaya, Gioski, Adriana Lopez
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthieubenjamin/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthieubenjamin/)*

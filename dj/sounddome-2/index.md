@@ -1,6 +1,6 @@
 # Sound Dome
 
-Sound Dome is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Jolene, Copenhagen on Sat, 5 Sept 2026.
+Sound Dome is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jolene, Copenhagen on Sat, 5 Sept 2026.
 
 Sound Dome is a trance and progressive house artist tracked on soundcheck, with 2 sets logged across Berlin and Copenhagen. Often billed alongside Alex Vincent, Carlos Candela and Chicaiza. Next up: Jolene, Copenhagen on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Sound Dome is a trance and progressive house artist tracked on soundcheck, with 
 
 Alex Vincent, Carlos Candela, Chicaiza
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sounddome-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sounddome-2/)*

@@ -1,8 +1,8 @@
 # Ricardo Castro
 
-Ricardo Castro is a Techno and EBM artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Electrowerkz, London on Fri, 11 Sept 2026.
+Ricardo Castro is a EBM and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Electrowerkz, London on Fri, 11 Sept 2026.
 
-Ricardo Castro is a techno and ebm artist tracked on soundcheck, with 106 sets logged across Berlin and London. Often billed alongside Steve Weeks, Arrosa and Elander Ziggy. Next up: Electrowerkz, London on Fri 11 Sept.
+Ricardo Castro is an ebm and techno artist tracked on soundcheck, with 106 sets logged across Berlin and London. Often billed alongside Steve Weeks, Arrosa and Elander Ziggy. Next up: Electrowerkz, London on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Ricardo Castro is a techno and ebm artist tracked on soundcheck, with 106 sets l
 
 Steve Weeks, Arrosa, Elander Ziggy
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardocastro/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardocastro/)*

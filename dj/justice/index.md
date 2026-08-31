@@ -1,6 +1,6 @@
 # Justice
 
-Justice is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
+Justice is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
 
 Justice is a techno and electro artist tracked on soundcheck, with 50 sets logged across Berlin, Boston, Brisbane and Cologne and 20 more. Often billed alongside Kaytranada, Jamie xx and Kolja Broxi. Next up: Tanzhaus West, Frankfurt on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Justice is a techno and electro artist tracked on soundcheck, with 50 sets logge
 
 Kaytranada, Jamie xx, Kolja Broxi
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justice/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justice/)*

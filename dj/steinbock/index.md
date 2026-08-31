@@ -1,6 +1,6 @@
 # Steinbock
 
-Steinbock is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Trans-Pecos, New York City on Fri, 4 Sept 2026.
+Steinbock is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Trans-Pecos, New York City on Fri, 4 Sept 2026.
 
 Steinbock is a techno and electro artist tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside gon2, Isaiah Sanders and BUNZ. Next up: Trans-Pecos, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Steinbock is a techno and electro artist tracked on soundcheck, with 11 sets log
 
 gon2, Isaiah Sanders, BUNZ
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steinbock/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steinbock/)*

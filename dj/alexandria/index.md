@@ -1,14 +1,13 @@
 # Alexandria
 
-Alexandria is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Alexandria is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Amnesia Ibiza, Ibiza on Thu, 3 Sept 2026.
 
-Alexandria is a house and tech house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Josh Baker, Marsolo and L.P. Rhythm. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Alexandria is a house and tech house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Josh Baker, Marsolo and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Thu, 3 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 20 Sept 2026 | Thuishaven | Amsterdam |
 | Thu, 1 Oct 2026 | Amnesia Ibiza | Ibiza |
@@ -31,4 +30,4 @@ Alexandria is a house and tech house artist tracked on soundcheck, with 59 sets 
 
 Josh Baker, Marsolo, L.P. Rhythm
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*

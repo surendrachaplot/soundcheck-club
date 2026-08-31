@@ -1,6 +1,6 @@
 # Shy One
 
-Shy One is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Shy One is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Shy One is a house and techno artist tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 24 more. Often billed alongside Ruby Savage, NIKS and OK Williams. Next up: The Cause, London on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Shy One is a house and techno artist tracked on soundcheck, with 124 sets logged
 
 Ruby Savage, NIKS, OK Williams
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*

@@ -1,6 +1,6 @@
 # Ouri
 
-Ouri is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Ouri is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Ouri is an experimental and electro artist tracked on soundcheck, with 17 sets logged across Berlin, Brussels, Losangeles and Mexicocity and 6 more. Often billed alongside Valentina Magaletti, Chinnamasta and Heith. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Ouri is an experimental and electro artist tracked on soundcheck, with 17 sets l
 
 Valentina Magaletti, Chinnamasta, Heith
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ouri/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ouri/)*

@@ -1,14 +1,13 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "mealth" on Sun, 30 Aug 2026.
+Live Haus is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "ALTURA" on Fri, 4 Sept 2026.
 
-Live Haus is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including 1skr, arow, illequal and Kenta Tominaga and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
+Live Haus is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including 1skr, illequal, Kenta Tominaga and meweta and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | mealth | arow, meweta |
 | Fri, 4 Sept 2026 | ALTURA | Sonia Lagoon (2) |
 | Fri, 4 Sept 2026 | reference, reference vol.5 | 1skr |
 | Tue, 8 Sept 2026 | 『Live Haus 6year ANNIVERSARY SPECIAL 松田CHABE岳ニ 7hours』 |  |
@@ -21,4 +20,4 @@ Live Haus is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, wit
 
 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*

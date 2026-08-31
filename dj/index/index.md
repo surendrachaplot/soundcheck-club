@@ -1,6 +1,6 @@
 # Index
 
-Index is a Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Red Rattler, Sydney on Sat, 12 Sept 2026.
+Index is a Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Red Rattler, Sydney on Sat, 12 Sept 2026.
 
 Index is a bass and hardcore artist tracked on soundcheck, with 16 sets logged across London, Melbourne, Milan and Osaka and 1 more. Often billed alongside kakepon, Jungist and M-Project. Next up: The Red Rattler, Sydney on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Index is a bass and hardcore artist tracked on soundcheck, with 16 sets logged a
 
 kakepon, Jungist, M-Project
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/index/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/index/)*

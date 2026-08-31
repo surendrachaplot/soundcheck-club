@@ -1,6 +1,6 @@
 # Disco-Dave
 
-Disco-Dave is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Island, Sydney on Sun, 27 Sept 2026.
+Disco-Dave is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Island, Sydney on Sun, 27 Sept 2026.
 
 Disco-Dave is a house and tech house artist based in Australia, tracked on soundcheck, with 1 set logged across Sydney. Often billed alongside Aidan Sweeney and SOHAIL. Next up: The Island, Sydney on Sun 27 Sept.
 
@@ -14,4 +14,4 @@ Disco-Dave is a house and tech house artist based in Australia, tracked on sound
 
 Aidan Sweeney, SOHAIL
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disco-dave/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/disco-dave/)*

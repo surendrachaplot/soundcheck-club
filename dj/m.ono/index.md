@@ -1,8 +1,8 @@
 # M.ono
 
-M.ono is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
+M.ono is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
 
-M.ono is a house and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Anna Almani, Augusto Taito and Carl Bergé. Next up: Kater, Berlin on Fri 2 Oct.
+M.ono is a house and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Anna Almani, Talia Dorr and DJ Buona Sara. Next up: Kater, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ M.ono is a house and techno artist based in Germany, tracked on soundcheck, with
 
 ## Shares bills with
 
-Anna Almani, Augusto Taito, Carl Bergé
+Anna Almani, Talia Dorr, DJ Buona Sara
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.ono/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m.ono/)*

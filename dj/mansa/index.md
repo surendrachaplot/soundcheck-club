@@ -1,6 +1,6 @@
 # Mansa
 
-Mansa is a Afrobeat and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 3 Sept 2026.
+Mansa is a Afrobeat and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jardins Gamelin, Montreal on Thu, 3 Sept 2026.
 
 Mansa is an afrobeat and amapiano artist tracked on soundcheck, with 15 sets logged across Amsterdam, London, Melbourne and Mexicocity and 4 more. Often billed alongside Jinku, Pierre Kwenders and San Farafina. Next up: Jardins Gamelin, Montreal on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Mansa is an afrobeat and amapiano artist tracked on soundcheck, with 15 sets log
 
 Jinku, Pierre Kwenders, San Farafina
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mansa/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mansa/)*

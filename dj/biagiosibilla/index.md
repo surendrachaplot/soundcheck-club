@@ -1,6 +1,6 @@
 # Biagio Sibilla
 
-Biagio Sibilla is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
+Biagio Sibilla is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
 
 Biagio Sibilla is a tech house and techno artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin and Frankfurt. Often billed alongside Another Life, Patrik Berg and CAY (1). Next up: TBA, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Biagio Sibilla is a tech house and techno artist based in Germany, tracked on so
 
 Another Life, Patrik Berg, CAY (1)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biagiosibilla/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/biagiosibilla/)*

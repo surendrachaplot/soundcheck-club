@@ -1,6 +1,6 @@
 # ANZU
 
-ANZU is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at WOMB, Tokyo on Wed, 2 Sept 2026.
+ANZU is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at WOMB, Tokyo on Wed, 2 Sept 2026.
 
 ANZU is a house and techno artist based in Japan, tracked on soundcheck, with 65 sets logged across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and SIGNAL (JP). Next up: WOMB, Tokyo on Wed 2 Sept.
 
@@ -26,4 +26,4 @@ ANZU is a house and techno artist based in Japan, tracked on soundcheck, with 65
 
 Yamariki, PUNK N MATRIX, SIGNAL (JP)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anzu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anzu/)*

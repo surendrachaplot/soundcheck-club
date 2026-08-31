@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "COSMO RAVE: HYPNOSES" on Fri, 4 Sept 2026.
+Teritorija is a music venue in Riga with 6 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "COSMO RAVE: HYPNOSES" on Fri, 4 Sept 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 6 upcoming nights, with line-ups including DENOVA, excels, Golden Habit and Ikss and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -19,4 +19,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 6 upcoming nights, wit
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

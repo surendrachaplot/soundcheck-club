@@ -1,16 +1,13 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 20 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "CC:DISCO! Terrace Party" on Sun, 30 Aug 2026.
+Patterns is a music venue in Brighton with 17 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "GRASSROOTS - FREE First Fridays - Disco, Funk & House - 04/09/26" on Fri, 4 Sept 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 20 upcoming nights, with line-ups including Benji Hedonator, BIKINIWAX (2), Boris and CC:DISCO! and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 17 upcoming nights, with line-ups including Benji Hedonator, BIKINIWAX (2), Boris and Dusky and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | CC:DISCO! Terrace Party | CC:DISCO!, Discokid, Wildblood and Queenie |
-| Sun, 30 Aug 2026 | Retrospect & Friends |  |
-| Sun, 30 Aug 2026 | Retrospect & Friends - Day Party | Retrospect |
 | Fri, 4 Sept 2026 | GRASSROOTS - FREE First Fridays - Disco, Funk & House - 04/09/26 | Money, Pannotia |
 | Sun, 6 Sept 2026 | Brighton Sundae with Matthew Herbert (DJ set) | Matthew Herbert |
 | Sun, 13 Sept 2026 | Just Keep Moving Day Party Finale | BIKINIWAX (2), Benji Hedonator, Kyle Bower |
@@ -18,9 +15,12 @@ Patterns is a music venue in Brighton listed on soundcheck. 20 upcoming nights, 
 | Fri, 25 Sept 2026 | Freshly Baked - Basement Rave |  |
 | Sat, 26 Sept 2026 | Boudica Goes to Brighton with Boris (Berghain / Brighton Debut), Samantha Togni, Yiota | Boris, Samantha Togni, Yiota |
 | Fri, 2 Oct 2026 | club 2010: Freshers 2016 |  |
+| Sun, 4 Oct 2026 | Brighton Sundae with WheelUP | WheelUP |
+| Sat, 17 Oct 2026 | Sexy Lady Massive presents: The Massive Tour | Sexy Lady Massive |
+| Sat, 17 Oct 2026 | Memory Box with James Zabiela | James Zabiela, Robin Ball |
 
 ## Address
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

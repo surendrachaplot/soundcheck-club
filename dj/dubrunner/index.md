@@ -1,6 +1,6 @@
 # Dubrunner
 
-Dubrunner is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at FOLD, London on Fri, 23 Oct 2026.
+Dubrunner is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at FOLD, London on Fri, 23 Oct 2026.
 
 Dubrunner is a dub and bass artist tracked on soundcheck, with 46 sets logged across Bangkok, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Breaka, Yushh and Darwin. Next up: FOLD, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dubrunner is a dub and bass artist tracked on soundcheck, with 46 sets logged ac
 
 Breaka, Yushh, Darwin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubrunner/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubrunner/)*

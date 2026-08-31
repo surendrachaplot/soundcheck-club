@@ -1,6 +1,6 @@
 # Mayhem
 
-Mayhem is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Elastic Embrace - Release party" on Thu, 24 Sept 2026.
+Mayhem is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Elastic Embrace - Release party" on Thu, 24 Sept 2026.
 
 Mayhem is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Markus Sollid. Browse upcoming dates, start times and who's playing. Ragnhildgade 1; 2100 Copenhagen.
 
@@ -14,4 +14,4 @@ Mayhem is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, wi
 
 Ragnhildgade 1; 2100 Copenhagen, Copenhagen
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/mayhem/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/mayhem/)*

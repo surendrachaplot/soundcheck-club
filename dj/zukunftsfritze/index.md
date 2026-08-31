@@ -1,6 +1,6 @@
 # Zukunftsfritze
 
-Zukunftsfritze is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Humboldthain Club, Berlin on Fri, 4 Sept 2026.
+Zukunftsfritze is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Humboldthain Club, Berlin on Fri, 4 Sept 2026.
 
 Zukunftsfritze is a trance and techno artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside MILANCHOLIE, DJ Jetset and senaitstar. Next up: Humboldthain Club, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Zukunftsfritze is a trance and techno artist tracked on soundcheck, with 20 sets
 
 MILANCHOLIE, DJ Jetset, senaitstar
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zukunftsfritze/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zukunftsfritze/)*

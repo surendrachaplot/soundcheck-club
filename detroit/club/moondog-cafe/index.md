@@ -1,6 +1,6 @@
 # Moondog Cafe
 
-Moondog Cafe is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "BEYOND JAZZ: Malik Alston & The Linwood Ensemble" on Fri, 4 Sept 2026.
+Moondog Cafe is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "BEYOND JAZZ: Malik Alston & The Linwood Ensemble" on Fri, 4 Sept 2026.
 
 Moondog Cafe is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including Bileebob, Detroit Bureau of Sound, John F.M. and Max Watts. Browse upcoming dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
 
@@ -17,4 +17,4 @@ Moondog Cafe is a music venue in Detroit listed on soundcheck. 4 upcoming nights
 
 8045 Linwood St #2, Detroit, MI 48206, Detroit
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/moondog-cafe/)*

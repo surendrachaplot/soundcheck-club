@@ -1,6 +1,6 @@
 # MYOHMY
 
-MYOHMY is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The DBA, Manchester on Sat, 12 Sept 2026.
+MYOHMY is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The DBA, Manchester on Sat, 12 Sept 2026.
 
 MYOHMY is a techno and house artist tracked on soundcheck, with 37 sets logged across Liverpool, London and Manchester. Often billed alongside Dan Chan, Mia Mai and TAMAN (2). Next up: The DBA, Manchester on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ MYOHMY is a techno and house artist tracked on soundcheck, with 37 sets logged a
 
 Dan Chan, Mia Mai, TAMAN (2)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myohmy/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myohmy/)*

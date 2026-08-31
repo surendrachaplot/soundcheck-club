@@ -1,6 +1,6 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "YAGIHOUSE Vol.4" on Mon, 31 Aug 2026.
+Enter Shibuya is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "YAGIHOUSE Vol.4" on Mon, 31 Aug 2026.
 
 Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including cirra, CITY1, discopants and DJ MIYU and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
@@ -23,4 +23,4 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 13 upcoming nights
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

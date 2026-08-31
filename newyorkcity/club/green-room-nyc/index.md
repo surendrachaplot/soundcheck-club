@@ -1,14 +1,13 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Misbehave x Green Room presents Dale" on Sun, 30 Aug 2026.
+Green Room NYC is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "D[IV]ERSION: Sybil (uk), Ayesha, BLAIZE, Battygyal, Devoye, Madre Guía, Emsho" on Fri, 4 Sept 2026.
 
-Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including ABEILLE, Andrés Dyer, ANTOJITO and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
+Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including ABEILLE, Andrés Dyer, ANTOJITO and Armii1n and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Misbehave x Green Room presents Dale | DJ Ultra Violet, Seven Minaya |
 | Fri, 4 Sept 2026 | D[IV]ERSION: Sybil (uk), Ayesha, BLAIZE, Battygyal, Devoye, Madre Guía, Emsho | ANTOJITO, Ayesha, BLAIZE, Battygyal, Devoye, Emsho, Madre Guía, Sepehr, Sybil |
 | Sat, 5 Sept 2026 | Golden Record NYC x pregame presents JNJS | Armii1n, Hilu, JNJS, John Everett, Monk (2), Rana Iravani |
 | Fri, 11 Sept 2026 | Golden Record NYC x Vin.yl x WEBEO presents Kai Alce, Ryan Crosson  | Borbón, CAÑITA, Diegoo, Kai Alce, Mario Polanco, Omer Mil, Ryan Crosson |
@@ -21,4 +20,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 8 upcoming 
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

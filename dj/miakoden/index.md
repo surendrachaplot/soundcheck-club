@@ -1,14 +1,13 @@
 # Mia Koden
 
-Mia Koden is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Quartier Des Spectacles, Montreal on Tue, 25 Aug 2026.
+Mia Koden is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The White Hotel, Manchester on Sat, 5 Sept 2026.
 
-Mia Koden is a bass and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: Quartier Des Spectacles, Montreal on Tue 25 Aug.
+Mia Koden is a bass and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: The White Hotel, Manchester on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 25 Aug 2026 | Quartier Des Spectacles | Montreal |
 | Sat, 5 Sept 2026 | The White Hotel | Manchester |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
@@ -29,4 +28,4 @@ Mia Koden is a bass and techno artist tracked on soundcheck, with 151 sets logge
 
 Skee Mask, DjRUM, Mala
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*

@@ -1,6 +1,6 @@
 # Fairmount Theatre
 
-Fairmount Theatre is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "ULTRA SUNN" on Fri, 18 Sept 2026.
+Fairmount Theatre is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "ULTRA SUNN" on Fri, 18 Sept 2026.
 
 Fairmount Theatre is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including Cannelle and Elder Island. Browse upcoming dates, start times and who's playing. 5240 Park Ave, Montreal, Quebec H2V 4G7.
 
@@ -17,4 +17,4 @@ Fairmount Theatre is a music venue in Montreal listed on soundcheck. 4 upcoming 
 
 5240 Park Ave, Montreal, Quebec H2V 4G7, Montreal
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/fairmount-theatre/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/fairmount-theatre/)*

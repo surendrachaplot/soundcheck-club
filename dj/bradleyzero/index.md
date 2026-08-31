@@ -1,14 +1,13 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Bradley Zero is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
 
-Bradley Zero is a house and techno artist tracked on soundcheck, with 215 sets logged across Amsterdam, Austin, Bali and Bangkok and 52 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Bradley Zero is a house and techno artist tracked on soundcheck, with 215 sets logged across Amsterdam, Austin, Bali and Bangkok and 52 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: Chinois Ibiza, Ibiza on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Thu, 10 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 19 Sept 2026 | public records | New York City |
@@ -31,4 +30,4 @@ Bradley Zero is a house and techno artist tracked on soundcheck, with 215 sets l
 
 MLE (UK), Sally C, Chloé Caillet
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*

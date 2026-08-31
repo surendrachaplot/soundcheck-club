@@ -1,6 +1,6 @@
 # Maja Korpi
 
-Maja Korpi is a Italo Disco and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
+Maja Korpi is a Italo Disco and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
 
 Maja Korpi is an italo disco and progressive house artist based in Sweden, tracked on soundcheck, with 11 sets logged across Berlin and Stockholm. Often billed alongside Garburel, Jay Glass Dubs and Martin Kling. Next up: Club der Visionaere, Berlin on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Maja Korpi is an italo disco and progressive house artist based in Sweden, track
 
 Garburel, Jay Glass Dubs, Martin Kling
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majakorpi/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/majakorpi/)*

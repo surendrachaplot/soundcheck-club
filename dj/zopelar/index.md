@@ -1,6 +1,6 @@
 # Zopelar
 
-Zopelar is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Radio Radio, Amsterdam on Sat, 5 Sept 2026.
+Zopelar is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Radio Radio, Amsterdam on Sat, 5 Sept 2026.
 
 Zopelar is a house and disco artist based in Brazil, tracked on soundcheck, with 52 sets logged across Amsterdam, Lisbon, Lyon and Madrid and 2 more. Often billed alongside Vermelho, Akin/Non Exist and Giu Nunez. Next up: Radio Radio, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Zopelar is a house and disco artist based in Brazil, tracked on soundcheck, with
 
 Vermelho, Akin/Non Exist, Giu Nunez
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zopelar/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zopelar/)*

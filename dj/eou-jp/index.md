@@ -1,6 +1,6 @@
 # E.O.U
 
-E.O.U is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at R Lounge, Tokyo on Sat, 12 Sept 2026.
+E.O.U is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at R Lounge, Tokyo on Sat, 12 Sept 2026.
 
 E.O.U is a techno and house artist tracked on soundcheck, with 111 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Vís (1), Whatman and ntank. Next up: R Lounge, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ E.O.U is a techno and house artist tracked on soundcheck, with 111 sets logged a
 
 Vís (1), Whatman, ntank
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eou-jp/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eou-jp/)*

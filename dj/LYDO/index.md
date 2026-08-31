@@ -1,6 +1,6 @@
 # LYDO
 
-LYDO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
+LYDO is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
 
 LYDO is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Berlin, Boston and Brussels and 17 more. Often billed alongside Matas, BASHKKA and D.Dan. Next up: BASEMENT, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ LYDO is a techno and house artist tracked on soundcheck, with 120 sets logged ac
 
 Matas, BASHKKA, D.Dan
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*

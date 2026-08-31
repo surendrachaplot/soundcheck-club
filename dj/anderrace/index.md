@@ -1,6 +1,6 @@
 # Ander Race
 
-Ander Race is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 25 Sept 2026.
+Ander Race is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at BORIS CLUB, Barcelona on Fri, 25 Sept 2026.
 
 Ander Race is a house and deep house artist tracked on soundcheck, with 24 sets logged across Barcelona, London, Madrid and Mexicocity. Often billed alongside Rick Offen, AN5 (SP) and Awk (2). Next up: BORIS CLUB, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ander Race is a house and deep house artist tracked on soundcheck, with 24 sets 
 
 Rick Offen, AN5 (SP), Awk (2)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anderrace/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anderrace/)*

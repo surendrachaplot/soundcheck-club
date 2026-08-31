@@ -1,6 +1,6 @@
 # Ejeca
 
-Ejeca is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at block., Dublin on Sat, 17 Oct 2026.
+Ejeca is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at block., Dublin on Sat, 17 Oct 2026.
 
 Ejeca is a techno and house artist tracked on soundcheck, with 18 sets logged across Belfast, Brighton, Bristol and Dublin and 5 more. Often billed alongside Trance Wax, ACA (YU) and Alinka. Next up: block., Dublin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ejeca is a techno and house artist tracked on soundcheck, with 18 sets logged ac
 
 Trance Wax, ACA (YU), Alinka
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ejeca/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ejeca/)*

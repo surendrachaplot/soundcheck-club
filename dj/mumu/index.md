@@ -1,6 +1,6 @@
 # Mumu
 
-Mumu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Phantom Bar Berlin, Berlin on Fri, 11 Sept 2026.
+Mumu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Phantom Bar Berlin, Berlin on Fri, 11 Sept 2026.
 
 Mumu is a techno and trance artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside BreakLD, B.A.O. and xoxo (DE). Next up: Phantom Bar Berlin, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Mumu is a techno and trance artist tracked on soundcheck, with 13 sets logged ac
 
 BreakLD, B.A.O., xoxo (DE)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mumu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mumu/)*

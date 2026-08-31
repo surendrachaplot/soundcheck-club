@@ -1,6 +1,6 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "(SPEED) WAX" on Fri, 4 Sept 2026.
+Hangar48 Club is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "(SPEED) WAX" on Fri, 4 Sept 2026.
 
 Hangar48 Club is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including AGUCCI, Ana Sant, DJ CORDE SENSIBLE and Jara and 2 more. Browse upcoming dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
@@ -20,4 +20,4 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 7 upcoming nights
 
 C. de Bailén, 24, 28005 Madrid, Madrid
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*

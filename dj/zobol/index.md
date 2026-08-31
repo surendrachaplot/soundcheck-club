@@ -1,6 +1,6 @@
 # Zobol
 
-Zobol is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Cosies, Bristol on Fri, 25 Sept 2026.
+Zobol is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Cosies, Bristol on Fri, 25 Sept 2026.
 
 Zobol is an acid and electro artist tracked on soundcheck, with 22 sets logged across Berlin, Bristol, London and Paris and 1 more. Often billed alongside Owain K, Placid and Alien Communications. Next up: Cosies, Bristol on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Zobol is an acid and electro artist tracked on soundcheck, with 22 sets logged a
 
 Owain K, Placid, Alien Communications
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zobol/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zobol/)*

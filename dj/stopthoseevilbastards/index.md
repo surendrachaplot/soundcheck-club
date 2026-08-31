@@ -1,6 +1,6 @@
 # StopThoseEvilBastards
 
-StopThoseEvilBastards is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Four Quarters, London on Fri, 11 Sept 2026.
+StopThoseEvilBastards is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Four Quarters, London on Fri, 11 Sept 2026.
 
 StopThoseEvilBastards is a techno and house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside DungeonMaster, MUSICKLUNATIC and Shrub. Next up: Four Quarters, London on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ StopThoseEvilBastards is a techno and house artist based in United Kingdom, trac
 
 DungeonMaster, MUSICKLUNATIC, Shrub
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stopthoseevilbastards/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stopthoseevilbastards/)*

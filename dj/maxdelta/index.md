@@ -1,6 +1,6 @@
 # Max Delta
 
-Max Delta is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Union Club, Vauxhall, London on Fri, 2 Oct 2026.
+Max Delta is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Union Club, Vauxhall, London on Fri, 2 Oct 2026.
 
 Max Delta is a techno and tech house artist tracked on soundcheck, with 3 sets logged across London and Paris. Often billed alongside Enrico Chirchiello, Cristian Ebasta and Fabe. Next up: Union Club, Vauxhall, London on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Max Delta is a techno and tech house artist tracked on soundcheck, with 3 sets l
 
 Enrico Chirchiello, Cristian Ebasta, Fabe
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdelta/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdelta/)*

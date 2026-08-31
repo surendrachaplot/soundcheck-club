@@ -1,6 +1,6 @@
 # Brother Bunter
 
-Brother Bunter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at telos.haus, New York City on Sat, 19 Sept 2026.
+Brother Bunter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at telos.haus, New York City on Sat, 19 Sept 2026.
 
 Brother Bunter is a house and tech house artist tracked on soundcheck, with 10 sets logged across Hongkong, Miami and Newyorkcity. Often billed alongside LUCIA., Yo Hanz and Corazón De Melon. Next up: telos.haus, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Brother Bunter is a house and tech house artist tracked on soundcheck, with 10 s
 
 LUCIA., Yo Hanz, Corazón De Melon
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherbunter/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherbunter/)*

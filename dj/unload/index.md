@@ -1,6 +1,6 @@
 # Unload
 
-Unload is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fabrik, Madrid on Sat, 24 Oct 2026.
+Unload is a Hardcore and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fabrik, Madrid on Sat, 24 Oct 2026.
 
 Unload is a hardcore and industrial artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, Cologne, Glasgow and Madrid and 1 more. Often billed alongside Dual Damage, KRUELTY and Adjuzt. Next up: Fabrik, Madrid on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Unload is a hardcore and industrial artist based in Netherlands, tracked on soun
 
 Dual Damage, KRUELTY, Adjuzt
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unload/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/unload/)*

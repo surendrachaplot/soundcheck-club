@@ -1,6 +1,6 @@
 # Apok
 
-Apok is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mood Ring, New York City on Sat, 5 Sept 2026.
+Apok is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mood Ring, New York City on Sat, 5 Sept 2026.
 
 Apok is a club and techno artist tracked on soundcheck, with 11 sets logged across Losangeles and Newyorkcity. Often billed alongside buusto, Prime Suspect and BBcarrot. Next up: Mood Ring, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Apok is a club and techno artist tracked on soundcheck, with 11 sets logged acro
 
 buusto, Prime Suspect, BBcarrot
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apok/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apok/)*

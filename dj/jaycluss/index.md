@@ -1,8 +1,8 @@
 # Jay Cluss
 
-Jay Cluss is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Nice N Sleazy, Glasgow on Sun, 13 Sept 2026.
+Jay Cluss is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Nice N Sleazy, Glasgow on Sun, 13 Sept 2026.
 
-Jay Cluss is a techno and progressive house artist based in Poland, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside EL PADRE and SA:FIR. Next up: Nice N Sleazy, Glasgow on Sun 13 Sept.
+Jay Cluss is a progressive house and techno artist based in Poland, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside SA:FIR and EL PADRE. Next up: Nice N Sleazy, Glasgow on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Jay Cluss is a techno and progressive house artist based in Poland, tracked on s
 
 ## Shares bills with
 
-EL PADRE, SA:FIR
+SA:FIR, EL PADRE
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycluss/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycluss/)*

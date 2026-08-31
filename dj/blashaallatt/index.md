@@ -1,14 +1,13 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Blasha & Allatt is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Studio Club Malaga, Malaga on Fri, 4 Sept 2026.
 
-Blasha & Allatt are a techno and house duo tracked on soundcheck, with 279 sets logged across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Southwark Park, London on Sun 30 Aug.
+Blasha & Allatt are a techno and house duo tracked on soundcheck, with 279 sets logged across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Studio Club Malaga, Malaga on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Southwark Park | London |
 | Fri, 4 Sept 2026 | Studio Club Malaga | Malaga |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
@@ -20,9 +19,11 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 279 sets 
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Sat, 10 Oct 2026 | Concept Haus | Manchester |
 | Fri, 16 Oct 2026 | Tokonoma Club | Frankfurt |
+| Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 
+- Southwark Park, London — Sun, 30 Aug 2026
 - Macadam, Nantes — Sat, 29 Aug 2026
 - Phoxxi Green Area, Hamburg — Sat, 22 Aug 2026
 - Hall, Tallinn — Fri, 14 Aug 2026
@@ -30,10 +31,9 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 279 sets 
 - Klangtherapie, Nürnberg — Thu, 6 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
-- RADION, Amsterdam — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 aalice, Steffi, Freddy K
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

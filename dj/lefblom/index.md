@@ -1,6 +1,6 @@
 # Lefblom
 
-Lefblom is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Gare / Le Gore, Paris on Wed, 2 Sept 2026.
+Lefblom is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at La Gare / Le Gore, Paris on Wed, 2 Sept 2026.
 
 Lefblom is a house and techno artist tracked on soundcheck, with 55 sets logged across Berlin, Brussels, Paris and Turin. Often billed alongside Camille Doe, GOGO GREEN and Ams (FR). Next up: La Gare / Le Gore, Paris on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Lefblom is a house and techno artist tracked on soundcheck, with 55 sets logged 
 
 Camille Doe, GOGO GREEN, Ams (FR)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lefblom/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lefblom/)*

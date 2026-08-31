@@ -1,14 +1,13 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 23 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Luke Una presents É Soul Cultura" on Sun, 30 Aug 2026.
+Hidden is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "LACE: Rhyw // KD22LR // Zuri" on Sat, 5 Sept 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 23 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, Charlie Shell and Christian AB and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, Charlie Shell and Christian AB and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Luke Una presents É Soul Cultura | Luke Una |
 | Sat, 5 Sept 2026 | LACE: Rhyw // KD22LR // Zuri | KD22LR, Rhyw, Zuri |
 | Fri, 11 Sept 2026 | Parallel: Christian AB & Touré | Christian AB, Touré |
 | Sat, 12 Sept 2026 | Somatics  | GFA, INLIMEN, Nestor (IE), Toobris |
@@ -18,9 +17,10 @@ Hidden is a music venue in Manchester listed on soundcheck. 23 upcoming nights, 
 | Sat, 19 Sept 2026 | Scrambled Network presents: Pure Science (live) | Pure Science |
 | Sat, 19 Sept 2026 | MELODÏQ Klubnacht Series / Hardt Antoine + Support  | Hardt Antoine |
 | Sat, 19 Sept 2026 | Luke Alessi / MADVILLA / Miruna Ghica | Luke Alessi, MADVILLA, Miruna Ghica |
+| Mon, 21 Sept 2026 | Ghosts of Garage: A FRESH START | Charlie Shell, LARISHKA (UK), Lemtom, Rich Reason, T-Man (UK) |
 
 ## Address
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

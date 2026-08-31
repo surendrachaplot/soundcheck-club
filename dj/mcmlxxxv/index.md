@@ -1,6 +1,6 @@
 # MCMLXXXV
 
-MCMLXXXV is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at ÆDEN, Berlin on Fri, 4 Sept 2026.
+MCMLXXXV is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at ÆDEN, Berlin on Fri, 4 Sept 2026.
 
 MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside CEM, Dj Saliva and JASSS. Next up: ÆDEN, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ MCMLXXXV is a techno and house artist based in Germany, tracked on soundcheck, w
 
 CEM, Dj Saliva, JASSS
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*

@@ -1,6 +1,6 @@
 # 4-i
 
-4-i is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Şahika, Istanbul on Fri, 4 Sept 2026.
+4-i is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Şahika, Istanbul on Fri, 4 Sept 2026.
 
 4-i is a techno and acid artist tracked on soundcheck, with 59 sets logged across Istanbul. Often billed alongside jtamul, Luna Fosepthicc and Mx. Sür. Next up: Şahika, Istanbul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@
 
 jtamul, Luna Fosepthicc, Mx. Sür
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4-i/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/4-i/)*

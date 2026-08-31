@@ -1,6 +1,6 @@
 # Grandangolo
 
-Grandangolo is a music venue in Rome with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Groovin Circle x Grandangolo // SEASON OPENING" on Fri, 4 Sept 2026.
+Grandangolo is a music venue in Rome with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Groovin Circle x Grandangolo // SEASON OPENING" on Fri, 4 Sept 2026.
 
 Grandangolo is a music venue in Rome listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. V. del Foro Italico, 501, 00197 Roma RM.
 
@@ -15,4 +15,4 @@ Grandangolo is a music venue in Rome listed on soundcheck. 2 upcoming nights. Br
 
 V. del Foro Italico, 501, 00197 Roma RM, Rome
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/grandangolo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/rome/club/grandangolo/)*

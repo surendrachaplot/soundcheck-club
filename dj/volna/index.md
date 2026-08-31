@@ -1,6 +1,6 @@
 # VØLNA
 
-VØLNA is a Industrial and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at M7 Club, Barcelona on Fri, 11 Sept 2026.
+VØLNA is a Industrial and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at M7 Club, Barcelona on Fri, 11 Sept 2026.
 
 VØLNA is an industrial and techno artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside INEXXSTABLE, BreakStyle and Coroco. Next up: M7 Club, Barcelona on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ VØLNA is an industrial and techno artist based in Spain, tracked on soundcheck,
 
 INEXXSTABLE, BreakStyle, Coroco
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volna/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/volna/)*

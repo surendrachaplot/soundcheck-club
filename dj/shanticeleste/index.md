@@ -1,15 +1,13 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Shanti Celeste is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Uto-Staffel, Zurich on Sat, 5 Sept 2026.
 
-Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Uto-Staffel, Zurich on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
-| Sun, 30 Aug 2026 | Southwark Park | London |
 | Sat, 5 Sept 2026 | Uto-Staffel | Zurich |
 | Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
@@ -20,9 +18,12 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 15 Oct 2026 | Jolene Downtown Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Sat, 17 Oct 2026 | TBA - East Williamsburg | New York City |
+| Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 
 ## Recently played
 
+- Southwark Park, London — Sun, 30 Aug 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
@@ -30,10 +31,9 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets
 - 528 Ibiza, Ibiza — Tue, 28 Jul 2026
 - TBA, Glasgow — Fri, 24 Jul 2026
 - Sub Club, Glasgow — Fri, 24 Jul 2026
-- Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Peach, Saoirse, Ogazón
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

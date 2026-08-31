@@ -1,6 +1,6 @@
 # Ground Tactics
 
-Ground Tactics is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Atemporal, Berlin on Sun, 6 Sept 2026.
+Ground Tactics is a Ambient and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Atemporal, Berlin on Sun, 6 Sept 2026.
 
 Ground Tactics is an ambient and electronica artist tracked on soundcheck, with 13 sets logged across Berlin and Oslo. Often billed alongside KĀ (1), Marylou and Ousia Sound. Next up: Atemporal, Berlin on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Ground Tactics is an ambient and electronica artist tracked on soundcheck, with 
 
 KĀ (1), Marylou, Ousia Sound
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groundtactics/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groundtactics/)*

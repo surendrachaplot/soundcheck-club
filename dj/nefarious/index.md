@@ -1,6 +1,6 @@
 # NEFARIOUS
 
-NEFARIOUS is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at IT Athens, Athens on Fri, 18 Sept 2026.
+NEFARIOUS is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at IT Athens, Athens on Fri, 18 Sept 2026.
 
 NEFARIOUS is an electronic artist tracked on soundcheck, with 10 sets logged across Athens, Manchester and Prague. Often billed alongside Dom K, 16G. and Counterstrike. Next up: IT Athens, Athens on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ NEFARIOUS is an electronic artist tracked on soundcheck, with 10 sets logged acr
 
 Dom K, 16G., Counterstrike
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nefarious/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nefarious/)*

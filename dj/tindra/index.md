@@ -1,14 +1,15 @@
 # TINDRA
 
-TINDRA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Golden Gate, Berlin on Fri, 11 Sept 2026.
+TINDRA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Golden Gate, Berlin on Fri, 11 Sept 2026.
 
-TINDRA is a house and techno artist based in Sweden, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Copenhagen and Stockholm and 1 more. Often billed alongside Pentti Igor, Fynutzu and Kawun. Next up: Golden Gate, Berlin on Fri 11 Sept.
+TINDRA is a house and techno artist based in Sweden, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Copenhagen and Stockholm and 1 more. Often billed alongside Pentti Igor, Fynutzu and Dragovic. Next up: Golden Gate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Golden Gate | Berlin |
+| Sat, 12 Sept 2026 | MODULE | Copenhagen |
 | Sat, 19 Sept 2026 | Kater | Berlin |
 
 ## Recently played
@@ -24,6 +25,6 @@ TINDRA is a house and techno artist based in Sweden, tracked on soundcheck, with
 
 ## Shares bills with
 
-Pentti Igor, Fynutzu, Kawun
+Pentti Igor, Fynutzu, Dragovic
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tindra/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tindra/)*

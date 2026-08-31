@@ -1,6 +1,6 @@
 # Thick As Thieves
 
-Thick As Thieves is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at DRUMSHEDS, London on Sat, 14 Nov 2026.
+Thick As Thieves is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at DRUMSHEDS, London on Sat, 14 Nov 2026.
 
 Thick As Thieves is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Sydney. Often billed alongside Alex Gallardo, Amber Broos and Arielle. Next up: DRUMSHEDS, London on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Thick As Thieves is a techno and electro artist based in United Kingdom, tracked
 
 Alex Gallardo, Amber Broos, Arielle
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thickasthieves/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thickasthieves/)*

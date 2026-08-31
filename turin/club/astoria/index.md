@@ -1,6 +1,6 @@
 # Astoria
 
-Astoria is a music venue in Turin with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "TECHNOBULL OPENING PARTY: Lacchesi (Maison Close, Closer /FR), Andrea Perna, Mikes" on Fri, 11 Sept 2026.
+Astoria is a music venue in Turin with 8 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "TECHNOBULL OPENING PARTY: Lacchesi (Maison Close, Closer /FR), Andrea Perna, Mikes" on Fri, 11 Sept 2026.
 
 Astoria is a music venue in Turin listed on soundcheck. 8 upcoming nights, with line-ups including Aberra, BENZA, Connor Wall and Delano Legito and 2 more. Browse upcoming dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
 
@@ -21,4 +21,4 @@ Astoria is a music venue in Turin listed on soundcheck. 8 upcoming nights, with 
 
 Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy, Turin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*

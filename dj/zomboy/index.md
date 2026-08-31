@@ -1,14 +1,13 @@
 # Zomboy
 
-Zomboy is a Dubstep and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Zomboy is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Zomboy is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Boston, Chicago and Cologne and 6 more. Often billed alongside Alesso, Murdock and OGUZ. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Zomboy is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Boston, Chicago and Cologne and 6 more. Often billed alongside Alesso, Murdock and OGUZ. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Zomboy is a dubstep and drum & bass artist based in United Kingdom, tracked on s
 
 Alesso, Murdock, OGUZ
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zomboy/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zomboy/)*

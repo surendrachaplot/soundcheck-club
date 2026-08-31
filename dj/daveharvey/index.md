@@ -1,6 +1,6 @@
 # Dave Harvey
 
-Dave Harvey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Dave Harvey is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Dave Harvey is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Belgrade, Bristol and Bucharest and 10 more. Often billed alongside Ellie Stokes, Chez de Milo and Felix Dickinson. Next up: The Cause, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Dave Harvey is a house and techno artist tracked on soundcheck, with 69 sets log
 
 Ellie Stokes, Chez de Milo, Felix Dickinson
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daveharvey/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daveharvey/)*

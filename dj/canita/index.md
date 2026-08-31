@@ -1,6 +1,6 @@
 # CAÑITA
 
-CAÑITA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Green Room NYC, New York City on Fri, 11 Sept 2026.
+CAÑITA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Green Room NYC, New York City on Fri, 11 Sept 2026.
 
 CAÑITA is a house and deep house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Diegoo, LegenDari and Borbón. Next up: Green Room NYC, Newyorkcity on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ CAÑITA is a house and deep house artist based in United States of America, trac
 
 Diegoo, LegenDari, Borbón
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/canita/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/canita/)*

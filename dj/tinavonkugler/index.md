@@ -1,6 +1,6 @@
 # Tina von Kugler
 
-Tina von Kugler is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
+Tina von Kugler is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kater, Berlin on Sat, 19 Sept 2026.
 
 Tina von Kugler is a techno and house artist tracked on soundcheck, with 49 sets logged across Bangkok, Berlin, Hamburg and Lisbon and 1 more. Often billed alongside Gino Kampari, Aaronovsky and Berfu. Next up: Kater, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tina von Kugler is a techno and house artist tracked on soundcheck, with 49 sets
 
 Gino Kampari, Aaronovsky, Berfu
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinavonkugler/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tinavonkugler/)*

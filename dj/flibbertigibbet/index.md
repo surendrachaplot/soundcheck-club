@@ -1,6 +1,6 @@
 # FlibbertiGibbet
 
-FlibbertiGibbet is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Distillery N17, London on Sat, 17 Oct 2026.
+FlibbertiGibbet is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Distillery N17, London on Sat, 17 Oct 2026.
 
 FlibbertiGibbet is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London and Sheffield. Often billed alongside Psibindi, JourneyOM and Nikki S. Next up: Distillery N17, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ FlibbertiGibbet is a techno and trance artist based in United Kingdom, tracked o
 
 Psibindi, JourneyOM, Nikki S
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flibbertigibbet/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flibbertigibbet/)*

@@ -1,6 +1,6 @@
 # Klymax Discotheque
 
-Klymax Discotheque is a music venue in Bali with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Panterov, Arshanitsa, Dea" on Fri, 4 Sept 2026.
+Klymax Discotheque is a music venue in Bali with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Panterov, Arshanitsa, Dea" on Fri, 4 Sept 2026.
 
 Klymax Discotheque is a music venue in Bali listed on soundcheck. 5 upcoming nights, with line-ups including Archie Dennis, Arshanitsa, Bagvs and DITA (ID) and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Klymax Discotheque is a music venue in Bali listed on soundcheck. 5 upcoming nig
 | Fri, 25 Sept 2026 | Ron Trent | Ron Trent |
 | Sat, 26 Sept 2026 | Ogazón, Archie, Bagvs | Archie Dennis, Bagvs, Ogazón |
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/bali/club/klymax-discotheque/)*

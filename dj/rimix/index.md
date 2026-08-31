@@ -1,6 +1,6 @@
 # RIMIX
 
-RIMIX is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Prince of Wales, London on Fri, 4 Sept 2026.
+RIMIX is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Prince of Wales, London on Fri, 4 Sept 2026.
 
 RIMIX is a club and baile funk artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside ABIMBOLA, Bindās and AfroLicious Mumma. Next up: The Prince of Wales, London on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ RIMIX is a club and baile funk artist based in United Kingdom, tracked on soundc
 
 ABIMBOLA, Bindās, AfroLicious Mumma
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rimix/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rimix/)*

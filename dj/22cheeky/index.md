@@ -1,6 +1,6 @@
 # 22Cheeky
 
-22Cheeky is a UK Funky and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Dalston Den, London on Thu, 10 Sept 2026.
+22Cheeky is a UK Funky and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Dalston Den, London on Thu, 10 Sept 2026.
 
 22Cheeky is an uk funky and club artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Crispy Guava, Sophia Nicole and Louis Polturak. Next up: Dalston Den, London on Thu 10 Sept.
 
@@ -24,4 +24,4 @@
 
 Crispy Guava, Sophia Nicole, Louis Polturak
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/22cheeky/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/22cheeky/)*

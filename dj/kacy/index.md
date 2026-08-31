@@ -1,6 +1,6 @@
 # Kacy
 
-Kacy is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Ehemaliges Polizeipräsidium, Frankfurt on Sat, 5 Sept 2026.
+Kacy is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Ehemaliges Polizeipräsidium, Frankfurt on Sat, 5 Sept 2026.
 
 Kacy is a techno and trance artist tracked on soundcheck, with 78 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 3 more. Often billed alongside Polytoxic, CiKi and DeGuzman. Next up: Ehemaliges Polizeipräsidium, Frankfurt on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Kacy is a techno and trance artist tracked on soundcheck, with 78 sets logged ac
 
 Polytoxic, CiKi, DeGuzman
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kacy/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kacy/)*

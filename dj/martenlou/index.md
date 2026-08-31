@@ -1,6 +1,6 @@
 # Marten Lou
 
-Marten Lou is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Amok Club, Mallorca on Mon, 7 Sept 2026.
+Marten Lou is a Afro House and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Amok Club, Mallorca on Mon, 7 Sept 2026.
 
 Marten Lou is an afro house and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Bali, Barcelona and Basel and 31 more. Often billed alongside ARODES, Andrea Oliva and Hugel. Next up: Amok Club, Mallorca on Mon 7 Sept.
 
@@ -31,4 +31,4 @@ Marten Lou is an afro house and house artist tracked on soundcheck, with 97 sets
 
 ARODES, Andrea Oliva, Hugel
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martenlou/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martenlou/)*

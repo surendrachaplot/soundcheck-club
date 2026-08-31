@@ -1,6 +1,6 @@
 # TBA - The All Out, Amsterdam
 
-TBA - The All Out, Amsterdam is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "The All Out - Playground Edition" on Sat, 31 Oct 2026.
+TBA - The All Out, Amsterdam is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "The All Out - Playground Edition" on Sat, 31 Oct 2026.
 
 TBA - The All Out, Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Aries and Urban. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - The All Out, Amsterdam is a music venue in Amsterdam listed on soundcheck.
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The All Out - Playground Edition | Aries, Urban |
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-the-all-out-amsterdam/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-the-all-out-amsterdam/)*

@@ -1,15 +1,13 @@
 # Locky
 
-Locky is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Locky is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at [UNVRS], Ibiza on Wed, 2 Sept 2026.
 
-Locky is a house and tech house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Liam Palmer and Elliot Schooling. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Locky is a house and tech house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Liam Palmer and Elliot Schooling. Next up: [UNVRS], Ibiza on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
-| Sun, 30 Aug 2026 | fabric | London |
 | Wed, 2 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 4 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Floyd | Miami |
@@ -20,9 +18,12 @@ Locky is a house and tech house artist tracked on soundcheck, with 141 sets logg
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Blackstone Street Warehouse | Liverpool |
 | Wed, 30 Sept 2026 | Nine Lives | Malta |
+| Sat, 3 Oct 2026 | DRUMSHEDS | London |
+| Sat, 10 Oct 2026 | Toffler | Rotterdam |
 
 ## Recently played
 
+- fabric, London — Sun, 30 Aug 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Colorado Charlie, The Hague — Sun, 23 Aug 2026
 - Hï Ibiza, Ibiza — Sat, 22 Aug 2026
@@ -30,10 +31,9 @@ Locky is a house and tech house artist tracked on soundcheck, with 141 sets logg
 - West Street, Glasgow — Sat, 15 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 9 Aug 2026
 - Shelter Amsterdam, Amsterdam — Fri, 7 Aug 2026
-- [UNVRS], Ibiza — Wed, 15 Jul 2026
 
 ## Shares bills with
 
 Mad.Again (2), Liam Palmer, Elliot Schooling
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

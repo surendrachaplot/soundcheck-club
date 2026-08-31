@@ -1,6 +1,6 @@
 # x3butterfly
 
-x3butterfly is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Under the K Bridge, New York City on Sat, 5 Sept 2026.
+x3butterfly is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Under the K Bridge, New York City on Sat, 5 Sept 2026.
 
 x3butterfly is a techno and house artist based in United States of America, tracked on soundcheck, with 191 sets logged across Amsterdam, Bangkok, Berlin and Boston and 28 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Akua. Next up: Under the K Bridge, Newyorkcity on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ x3butterfly is a techno and house artist based in United States of America, trac
 
 Sterling Juan Diaz, Concrete Husband, Akua
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/x3butterfly/)*

@@ -1,6 +1,6 @@
 # Vlad Caia
 
-Vlad Caia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
+Vlad Caia is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
 
 Vlad Caia is a house and techno artist based in Romania, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Cristi Cons, SIT Amphia and DeWalta. Next up: BRET, Amsterdam on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Vlad Caia is a house and techno artist based in Romania, tracked on soundcheck, 
 
 Cristi Cons, SIT Amphia, DeWalta
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladcaia/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vladcaia/)*

@@ -1,6 +1,6 @@
 # eli invites Tresor.West at elipamanoke
 
-eli invites Tresor.West at elipamanoke on Fri 11 Sept, Leipzig. 5 acts on the bill: Anuli, Dychromatic, LIP 71 and makahaun and 1 more. Techno. Preview the line-up and save it on soundcheck.
+eli invites Tresor.West at elipamanoke on Fri 11 Sept, Leipzig. 6 acts on the bill: Anuli, Dychromatic, LIP 71 and LUZI (2) and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ eli invites Tresor.West at elipamanoke on Fri 11 Sept, Leipzig. 5 acts on the bi
 - Anuli
 - Dychromatic
 - LIP 71
+- LUZI (2)
 - makahaun
 - Rostøm
 

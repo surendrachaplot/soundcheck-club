@@ -1,6 +1,6 @@
 # Spad
 
-Spad is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Circolo Amelia, Milan on Sat, 19 Sept 2026.
+Spad is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Circolo Amelia, Milan on Sat, 19 Sept 2026.
 
 Spad is a techno artist based in Italy, tracked on soundcheck, with 36 sets logged across Milan and Turin. Often billed alongside Rorschack, Ikaar and Yamila. Next up: Circolo Amelia, Milan on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Spad is a techno artist based in Italy, tracked on soundcheck, with 36 sets logg
 
 Rorschack, Ikaar, Yamila
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spad-IT/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spad-IT/)*

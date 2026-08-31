@@ -1,6 +1,6 @@
 # SYMON
 
-SYMON is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 5 Sept 2026.
+SYMON is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lehmann Club, Stuttgart on Sat, 5 Sept 2026.
 
 SYMON is a techno and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Lisbon and Stuttgart and 1 more. Often billed alongside AHURA, Jannis Maxim and David Löhlein. Next up: Lehmann Club, Stuttgart on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ SYMON is a techno and house artist based in Germany, tracked on soundcheck, with
 
 AHURA, Jannis Maxim, David Löhlein
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/symon/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/symon/)*

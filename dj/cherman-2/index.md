@@ -1,6 +1,6 @@
 # Cherman (2)
 
-Cherman (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Sat, 5 Sept 2026.
+Cherman (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Azul Rooftop Barceloneta, Barcelona on Sat, 5 Sept 2026.
 
 Cherman (2) is an electronic artist tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside MøønkiZa, EVES DJ and Frucula. Next up: Azul Rooftop Barceloneta, Barcelona on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Cherman (2) is an electronic artist tracked on soundcheck, with 4 sets logged ac
 
 MøønkiZa, EVES DJ, Frucula
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherman-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cherman-2/)*

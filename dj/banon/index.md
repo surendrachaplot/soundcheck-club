@@ -1,6 +1,6 @@
 # Banon
 
-Banon is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Esbirra Ibiza, Ibiza on Fri, 4 Sept 2026.
+Banon is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Esbirra Ibiza, Ibiza on Fri, 4 Sept 2026.
 
 Banon is a house and club artist tracked on soundcheck, with 18 sets logged across Barcelona, Ibiza, Lisbon and Madrid. Often billed alongside Rui Alves, Valerio Mazzoli and Ion Pananides. Next up: Esbirra Ibiza, Ibiza on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Banon is a house and club artist tracked on soundcheck, with 18 sets logged acro
 
 Rui Alves, Valerio Mazzoli, Ion Pananides
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/banon/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/banon/)*

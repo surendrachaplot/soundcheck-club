@@ -1,6 +1,6 @@
 # Water & Power
 
-Water & Power is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Tabula Rasa and Water & Power present: RamonPang" on Fri, 4 Sept 2026.
+Water & Power is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Tabula Rasa and Water & Power present: RamonPang" on Fri, 4 Sept 2026.
 
 Water & Power is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including gaszia, Iris Ipsum and RamonPang. Browse upcoming dates, start times and who's playing. 3027 S. Grand Ave. Los Angeles, CA 90007.
 
@@ -14,4 +14,4 @@ Water & Power is a music venue in Losangeles listed on soundcheck. 1 upcoming ni
 
 3027 S. Grand Ave. Los Angeles, CA 90007, Los Angeles
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/water-power/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/water-power/)*

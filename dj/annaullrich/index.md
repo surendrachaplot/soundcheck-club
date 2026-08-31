@@ -1,6 +1,6 @@
 # Anna Ullrich
 
-Anna Ullrich is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
+Anna Ullrich is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
 
 Anna Ullrich is a trance and techno artist tracked on soundcheck, with 51 sets logged across Berlin, Hamburg, Milan and Munich and 2 more. Often billed alongside Who is ela¿, Dimitrios (2) and KAROLINA. Next up: Lokschuppen Berlin, Berlin on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Anna Ullrich is a trance and techno artist tracked on soundcheck, with 51 sets l
 
 Who is ela¿, Dimitrios (2), KAROLINA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*

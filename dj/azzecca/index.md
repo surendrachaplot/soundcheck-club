@@ -1,14 +1,13 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The William Vale, New York City on Sun, 30 Aug 2026.
+Azzecca is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Castaways, Chicago on Thu, 3 Sept 2026.
 
-Azzecca is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Berlin and Boston and 20 more. Often billed alongside Gorgon City, Chris Lake and Dom Dolla. Next up: The William Vale, Newyorkcity on Sun 30 Aug.
+Azzecca is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Berlin and Boston and 20 more. Often billed alongside Gorgon City, Chris Lake and Dom Dolla. Next up: Castaways, Chicago on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | The William Vale | New York City |
 | Thu, 3 Sept 2026 | Castaways | Chicago |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
@@ -18,6 +17,7 @@ Azzecca is a house and techno artist tracked on soundcheck, with 81 sets logged 
 
 ## Recently played
 
+- The William Vale, New York City — Sun, 30 Aug 2026
 - TBA - Open Air: Downtown Los Angeles, Los Angeles — Sat, 22 Aug 2026
 - The Concourse Project, Austin — Fri, 21 Aug 2026
 - Barbara Hall Park, Toronto — Sat, 27 Jun 2026
@@ -25,10 +25,9 @@ Azzecca is a house and techno artist tracked on soundcheck, with 81 sets logged 
 - TBA - Downtown Los Angeles, Los Angeles — Fri, 29 May 2026
 - The Ground at Club Space, Miami — Thu, 26 Mar 2026
 - Club Space Miami, Miami — Fri, 6 Feb 2026
-- Royal Caribbean Cruise Ship, Miami — Thu, 22 Jan 2026
 
 ## Shares bills with
 
 Gorgon City, Chris Lake, Dom Dolla
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*

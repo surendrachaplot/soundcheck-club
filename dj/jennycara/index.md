@@ -1,14 +1,13 @@
 # Jenny Cara
 
-Jenny Cara is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Jenny Cara is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Kauz, Zurich on Sat, 26 Sept 2026.
 
-Jenny Cara is a house and techno artist based in Switzerland, tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Basel and Berlin and 15 more. Often billed alongside Luka (CH), Alex Dallas and Bennet (DE). Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Jenny Cara is a house and techno artist based in Switzerland, tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Basel and Berlin and 15 more. Often billed alongside Luka (CH), Alex Dallas and Bennet (DE). Next up: Kauz, Zurich on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Sat, 26 Sept 2026 | Kauz | Zurich |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 
@@ -27,4 +26,4 @@ Jenny Cara is a house and techno artist based in Switzerland, tracked on soundch
 
 Luka (CH), Alex Dallas, Bennet (DE)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jennycara/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jennycara/)*

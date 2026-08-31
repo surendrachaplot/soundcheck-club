@@ -1,8 +1,8 @@
 # LZee
 
-LZee is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at M.O.T, London on Sat, 19 Sept 2026.
+LZee is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at M.O.T, London on Sat, 19 Sept 2026.
 
-LZee is a garage and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Bluetoof, Nancy June and Zed Bias. Next up: M.O.T, London on Sat 19 Sept.
+LZee is a garage and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Zed Bias, Bluetoof and Nancy June. Next up: M.O.T, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ LZee is a garage and house artist based in United Kingdom, tracked on soundcheck
 
 ## Shares bills with
 
-Bluetoof, Nancy June, Zed Bias
+Zed Bias, Bluetoof, Nancy June
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lzee/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lzee/)*

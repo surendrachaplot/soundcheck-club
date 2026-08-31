@@ -1,6 +1,6 @@
 # Miguel Clark
 
-Miguel Clark is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Miguel Clark is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Miguel Clark is a techno and house artist based in Venezuela, tracked on soundcheck, with 13 sets logged across Miami and Newyorkcity. Often billed alongside Naim Zarzour, Ultrathem and Gabo Escalona. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Miguel Clark is a techno and house artist based in Venezuela, tracked on soundch
 
 Naim Zarzour, Ultrathem, Gabo Escalona
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelclark/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelclark/)*

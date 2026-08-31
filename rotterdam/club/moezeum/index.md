@@ -1,6 +1,6 @@
 # Moezeum
 
-Moezeum is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "GUMMI" on Sat, 12 Sept 2026.
+Moezeum is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "GUMMI" on Sat, 12 Sept 2026.
 
 Moezeum is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including SOPHOE. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Moezeum is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, wi
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | GUMMI | SOPHOE |
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/moezeum/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/moezeum/)*

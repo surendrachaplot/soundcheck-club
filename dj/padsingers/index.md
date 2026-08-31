@@ -1,6 +1,6 @@
 # Padsingers
 
-Padsingers is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kunstkraftwerk, Leipzig on Sat, 12 Sept 2026.
+Padsingers is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Kunstkraftwerk, Leipzig on Sat, 12 Sept 2026.
 
 Padsingers is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Leipzig. Often billed alongside Bephål, LUVLESS and Traxx Jr. Next up: Kunstkraftwerk, Leipzig on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Padsingers is a house and techno artist based in Germany, tracked on soundcheck,
 
 Bephål, LUVLESS, Traxx Jr
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/padsingers/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/padsingers/)*

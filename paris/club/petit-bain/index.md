@@ -1,6 +1,6 @@
 # Petit Bain
 
-Petit Bain is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Void x Series invite Sisteuf & Tout Feu Tout Femme" on Fri, 4 Sept 2026.
+Petit Bain is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Void x Series invite Sisteuf & Tout Feu Tout Femme" on Fri, 4 Sept 2026.
 
 Petit Bain is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including C.LYYA, CHAMOS, Feed Me and Spor. Browse upcoming dates, start times and who's playing. 7 port de la Gare, 75013 Paris.
 
@@ -17,4 +17,4 @@ Petit Bain is a music venue in Paris listed on soundcheck. 4 upcoming nights, wi
 
 7 port de la Gare, 75013 Paris, Paris
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/petit-bain/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/petit-bain/)*

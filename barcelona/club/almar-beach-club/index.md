@@ -1,14 +1,13 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Aura Ibiza Beach Festival VOL II" on Sun, 30 Aug 2026.
+Almar Beach Club is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Cadence" on Fri, 4 Sept 2026.
 
-Almar Beach Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Alessio Panasiti, Basement Scene, Bill Hates and Breezy S and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
+Almar Beach Club is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Alessio Panasiti, Basement Scene, Breezy S and Civaro and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Aura Ibiza Beach Festival VOL II | Bill Hates, Jorge Guasch, SHEEN (2) |
 | Fri, 4 Sept 2026 | Cadence | Franz (AR), GUS PICCO, Oversant, SANIRR, Santi Gonzalez, Weedo |
 | Sat, 5 Sept 2026 | FREE BEACH PARTY OPEN AIR - SOCIAL LAB SUMMER EDITION |  |
 | Fri, 11 Sept 2026 | FREE BEACH PARTY _ ANK 6 YEARS ANNIVERSARY | Basement Scene, Breezy S, Civaro, Djoan, Elwei, GONGULL, Good Nelson, Miguel Silva, Popsky, Roberta.Mikeila, Saulo Pisa |
@@ -20,4 +19,4 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 7 upcoming 
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

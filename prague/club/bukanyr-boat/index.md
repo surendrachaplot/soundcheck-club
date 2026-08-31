@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Innuendo Showcase - DJs EFÍMERO (MEX) & Vakuri (MEX)" on Fri, 4 Sept 2026.
+Bukanyr Boat is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Innuendo Showcase - DJs EFÍMERO (MEX) & Vakuri (MEX)" on Fri, 4 Sept 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including abecko, Caren Callas, Cubik and Da Moon and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -21,4 +21,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 8 upcoming nights,
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

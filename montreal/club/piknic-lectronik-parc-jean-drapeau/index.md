@@ -1,14 +1,13 @@
 # Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 15 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Piknic Électronik MTL #13: Danny Tenaglia / MUTEK" on Sun, 30 Aug 2026.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Sammy Virji - Parc Jean-Drapeau" on Sat, 5 Sept 2026.
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 15 upcoming nights, with line-ups including AMÉMÉ, Asha, Baby Bimbo and Beltran and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 14 upcoming nights, with line-ups including AMÉMÉ, Asha, Baby Bimbo and Beltran and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Piknic Électronik MTL #13: Danny Tenaglia / MUTEK | Danny Tenaglia, Guillaume Michaud |
 | Sat, 5 Sept 2026 | Sammy Virji - Parc Jean-Drapeau | Kiju, Sammy Virji, Silva Bumpa |
 | Sun, 6 Sept 2026 | Piknic Électronik MTL #14: Misstress Barbara / Dameer | Dameer, Misstress Barbara, Ossifer, Raf Reza, mayalabae |
 | Mon, 7 Sept 2026 | Piknic Électronik MTL #15: Cloudy / No Diploma Records | Cloudy, No Police, Pyromane |
@@ -18,9 +17,10 @@ Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on so
 | Sun, 27 Sept 2026 | Piknic Électronik MTL #17: Egyptian Lover, livwutang / Rêves | Baby Bimbo, Egyptian Lover, Isla Den, Lorenzi, Martyn Bootyspoon, Yume, livwutang |
 | Fri, 2 Oct 2026 | Gordo - Parc Jean-Drapeau | AMÉMÉ, Gordo, HoneyLuv |
 | Sat, 3 Oct 2026 | Black Tiger Sex Machine presents Connected Fighters | Black Tiger Sex Machine |
+| Sun, 4 Oct 2026 | Piknic Électronik MTL #18: Eris Drew / ether | Asha, Corinita, Eris Drew, Lia Plutonic, MIASALAV, Mui Mui, Runa, Sako (2), Technique nado |
 
 ## Address
 
 Jardin le Petit Prince, Montréal, QC H3C 4G8, Montreal
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/piknic-lectronik-parc-jean-drapeau/)*

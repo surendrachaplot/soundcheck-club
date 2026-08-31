@@ -1,6 +1,6 @@
 # Andrés Ov
 
-Andrés Ov is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Madrid on Sat, 19 Sept 2026.
+Andrés Ov is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Madrid on Sat, 19 Sept 2026.
 
 Andrés Ov is a techno and club artist tracked on soundcheck, with 15 sets logged across Madrid. Often billed alongside Xcire, Dense Smoke and 00rt. Next up: TBA, Madrid on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Andrés Ov is a techno and club artist tracked on soundcheck, with 15 sets logge
 
 Xcire, Dense Smoke, 00rt
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andresov/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andresov/)*

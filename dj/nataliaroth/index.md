@@ -1,6 +1,6 @@
 # Natalia Roth
 
-Natalia Roth is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Halcyon, San Francisco/Oakland on Sat, 5 Sept 2026.
+Natalia Roth is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Halcyon, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Natalia Roth is a house and tech house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Barcelona, Boston and Chicago and 15 more. Often billed alongside Ms. Mada, Danyelino and Jamie Jones. Next up: Halcyon, Sanfrancisco on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Natalia Roth is a house and tech house artist tracked on soundcheck, with 139 se
 
 Ms. Mada, Danyelino, Jamie Jones
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*

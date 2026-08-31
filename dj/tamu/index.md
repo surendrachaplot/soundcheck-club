@@ -1,6 +1,6 @@
 # tamū
 
-tamū is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Coco Boule, Berlin on Fri, 11 Sept 2026.
+tamū is a Techno and IDM artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Coco Boule, Berlin on Fri, 11 Sept 2026.
 
 tamū is a techno and idm artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Hamburg and Prague. Often billed alongside MFX (1), theories and ALNITHRA.incidents. Next up: Coco Boule, Berlin on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ tamū is a techno and idm artist based in Germany, tracked on soundcheck, with 7
 
 MFX (1), theories, ALNITHRA.incidents
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tamu/)*

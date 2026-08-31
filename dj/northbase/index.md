@@ -1,6 +1,6 @@
 # North Base
 
-North Base is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+North Base is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
 North Base is a drum & bass and garage artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Birmingham, Leeds, London and Manchester and 1 more. Often billed alongside Bou (UK), Hedex and Mark XTC. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ North Base is a drum & bass and garage artist based in United Kingdom, tracked o
 
 Bou (UK), Hedex, Mark XTC
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/northbase/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/northbase/)*

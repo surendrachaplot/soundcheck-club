@@ -1,6 +1,6 @@
 # Deeps
 
-Deeps is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Ximxim Bar, Seoul on Sat, 19 Sept 2026.
+Deeps is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Ximxim Bar, Seoul on Sat, 19 Sept 2026.
 
 Deeps is a house and deep house artist tracked on soundcheck, with 6 sets logged across Seoul. Often billed alongside Jaeah, Adroit Joe and eerosamo. Next up: Ximxim Bar, Seoul on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Deeps is a house and deep house artist tracked on soundcheck, with 6 sets logged
 
 Jaeah, Adroit Joe, eerosamo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeps-kr/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deeps-kr/)*

@@ -1,14 +1,13 @@
 # fabric
 
-fabric is a music venue in London with 29 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Appetite Afterparty (Sunday) - Locky B2B Elliot Schooling & Liam Palmer, Captain Wallop + more" on Sun, 30 Aug 2026.
+fabric is a music venue in London with 28 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "FABRICLIVE x UKF: Koven, Taiki Nulight, Zero, Arcando, BCee, Brookes Brothers + more" on Fri, 4 Sept 2026.
 
-fabric is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including A For Alpha, Alfie, Alfie Aukett and Ali Velmi and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including A For Alpha, Alfie, Alfie Aukett and Ali Velmi and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Appetite Afterparty (Sunday) - Locky B2B Elliot Schooling & Liam Palmer, Captain Wallop + more | Captain Wallop, Elliot Schooling, Hank (US), Laura De Greef, Liam Palmer, Locky, Max Sinàl, Sarah Story, Wax Material |
 | Fri, 4 Sept 2026 | FABRICLIVE x UKF: Koven, Taiki Nulight, Zero, Arcando, BCee, Brookes Brothers + more | Anaïs, BCee, Bluck, Brookes Brothers, Georgie Riot, Jakes, Jojo Deevoy, Koven, Ruthless, SAVANNAH, Zero |
 | Sat, 5 Sept 2026 | fabric: Danilo Plessow (MCDE), Kenny Larkin, Seb Odyssey | Danilo Plessow, Kenny Larkin, Seb Odyssey |
 | Sun, 6 Sept 2026 | CAYA by fabric: Rarebit x CUE - DJ Cosworth, Oldboy, Lucas Alexander + more | Cam Foster, DJ Cosworth, Lucas Alexander, Oldboy |
@@ -18,9 +17,10 @@ fabric is a music venue in London listed on soundcheck. 29 upcoming nights, with
 | Fri, 18 Sept 2026 | fabric: Deborah De Luca, Cera Khin, Noise Mafia, MarcelDune  | Cera Khin, Deborah De Luca, MarcelDune, Noise Mafia |
 | Sat, 19 Sept 2026 | fabric: Sam Paganini, Simone Zino, Marco Faraone, Ryan Resso, FIFI FORTE | FIFI FORTE, Marco Faraone, Ryan Resso, Sam Paganini, Simone Zino |
 | Sun, 20 Sept 2026 | CAYA by fabric - Unity Sound | BALA (3), FITS ME FUNNY, Kittani, Luke Elias, Rocco Han, Sinjin, misschief, samasama |
+| Fri, 25 Sept 2026 | fabric: Kölsch, Ankhoï, Laolu, Sef Kombo, Mayssa, Leeda, Teaser, Jimono B2B The Almanac | Ankhoï, Kolsch, Laolu, Leeda, Mayssa, Sef Kombo, The Almanac |
 
 ## Address
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

@@ -1,6 +1,6 @@
 # PACH
 
-PACH is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Carpet Shop, London on Fri, 11 Sept 2026.
+PACH is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Carpet Shop, London on Fri, 11 Sept 2026.
 
 PACH is a house and tech house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 11 more. Often billed alongside Marlie, ADMNTi and Rossi. Next up: The Carpet Shop, London on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ PACH is a house and tech house artist tracked on soundcheck, with 66 sets logged
 
 Marlie, ADMNTi, Rossi
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*

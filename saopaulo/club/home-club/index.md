@@ -1,6 +1,6 @@
 # Home Club
 
-Home Club is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Dpraxe x Fratii.ro presents: Paul K (RO) — First Time in Brazil" on Sat, 5 Sept 2026.
+Home Club is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Dpraxe x Fratii.ro presents: Paul K (RO) — First Time in Brazil" on Sat, 5 Sept 2026.
 
 Home Club is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with line-ups including PaulK and Stekke. Browse upcoming dates, start times and who's playing. Rua quinze de novembro, 317.
 
@@ -14,4 +14,4 @@ Home Club is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, w
 
 Rua quinze de novembro, 317, Sao Paulo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/home-club/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/home-club/)*

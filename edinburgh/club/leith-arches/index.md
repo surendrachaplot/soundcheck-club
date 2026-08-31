@@ -1,6 +1,6 @@
 # Leith Arches
 
-Leith Arches is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "La Beat Soul Club" on Fri, 18 Sept 2026.
+Leith Arches is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "La Beat Soul Club" on Fri, 18 Sept 2026.
 
 Leith Arches is a music venue in Edinburgh listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 6 Manderston St, Edinburgh, EH6 8LY.
 
@@ -14,4 +14,4 @@ Leith Arches is a music venue in Edinburgh listed on soundcheck. 1 upcoming nigh
 
 6 Manderston St, Edinburgh, EH6 8LY, Edinburgh
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-arches/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-arches/)*

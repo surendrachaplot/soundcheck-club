@@ -1,6 +1,6 @@
 # Iokhonda
 
-Iokhonda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 11 Sept 2026.
+Iokhonda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 11 Sept 2026.
 
 Iokhonda is a house and techno artist tracked on soundcheck, with 27 sets logged across Barcelona and Madrid. Often billed alongside Nau Leone, Rivellino and Tucu (Tucu). Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Iokhonda is a house and techno artist tracked on soundcheck, with 27 sets logged
 
 Nau Leone, Rivellino, Tucu (Tucu)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iokhonda/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iokhonda/)*

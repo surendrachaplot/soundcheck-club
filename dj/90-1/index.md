@@ -1,6 +1,6 @@
 # 90 (1)
 
-90 (1) is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Night Tales, London on Sat, 14 Nov 2026.
+90 (1) is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Night Tales, London on Sat, 14 Nov 2026.
 
 90 (1) is a garage and dubstep artist tracked on soundcheck, with 7 sets logged across London and Newyorkcity. Often billed alongside STILL (NYC), Don-Ri and Eva Loveless. Next up: Night Tales, London on Sat 14 Nov.
 
@@ -23,4 +23,4 @@
 
 STILL (NYC), Don-Ri, Eva Loveless
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/90-1/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/90-1/)*

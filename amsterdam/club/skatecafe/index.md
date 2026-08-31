@@ -1,6 +1,6 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 23 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Super-Sonic Jam w/ Radiohop" on Thu, 3 Sept 2026.
+Skatecafe is a music venue in Amsterdam with 23 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Super-Sonic Jam w/ Radiohop" on Thu, 3 Sept 2026.
 
 Skatecafe is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, with line-ups including A For Alpha, amara, awhlkuhn and Bibtiana and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

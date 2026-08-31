@@ -1,6 +1,6 @@
 # AliA
 
-AliA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Vaux-Hall, Brussels on Sun, 20 Sept 2026.
+AliA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Vaux-Hall, Brussels on Sun, 20 Sept 2026.
 
 AliA is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Lefto Early Bird, Mankiyan and Zenker Brothers. Next up: Vaux-Hall, Brussels on Sun 20 Sept.
 
@@ -28,4 +28,4 @@ AliA is a house and techno artist tracked on soundcheck, with 110 sets logged ac
 
 Lefto Early Bird, Mankiyan, Zenker Brothers
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alia/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alia/)*

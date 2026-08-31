@@ -1,13 +1,14 @@
 # Accidental Theatre
 
-Accidental Theatre is a music venue in Belfast with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Current" on Sat, 10 Oct 2026.
+Accidental Theatre is a music venue in Belfast with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Guerilla" on Sat, 3 Oct 2026.
 
-Accidental Theatre is a music venue in Belfast listed on soundcheck. 1 upcoming night, with line-ups including DJ SCHEMA and MKB (1). Browse upcoming dates, start times and who's playing.
+Accidental Theatre is a music venue in Belfast listed on soundcheck. 2 upcoming nights, with line-ups including DJ SCHEMA and MKB (1). Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Guerilla |  |
 | Sat, 10 Oct 2026 | Current | DJ SCHEMA, MKB (1) |
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/accidental-theatre/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/accidental-theatre/)*

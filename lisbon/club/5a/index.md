@@ -1,6 +1,6 @@
 # 5A
 
-5A is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Enzo" on Fri, 4 Sept 2026.
+5A is a music venue in Lisbon with 8 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Enzo" on Fri, 4 Sept 2026.
 
 5A is a music venue in Lisbon listed on soundcheck. 8 upcoming nights, with line-ups including Andre Cascais, Catarina Silva, Cosmic JD and Cruz (PT) and 1 more. Browse upcoming dates, start times and who's playing. Rua Noronha, 5A 1250-168 Lisbon, Portugal.
 
@@ -21,4 +21,4 @@
 
 Rua Noronha, 5A 1250-168 Lisbon, Portugal, Lisbon
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/5a/)*

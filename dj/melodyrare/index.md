@@ -1,14 +1,13 @@
 # Melody RA+RE
 
-Melody RA+RE is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Crate Brewery, London on Sun, 30 Aug 2026.
+Melody RA+RE is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Public NQ, Manchester on Sat, 12 Sept 2026.
 
-Melody RA+RE is a house and electro artist tracked on soundcheck, with 123 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Crate Brewery, London on Sun 30 Aug.
+Melody RA+RE is a house and electro artist tracked on soundcheck, with 123 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Public NQ, Manchester on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Crate Brewery | London |
 | Sat, 12 Sept 2026 | Public NQ | Manchester |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 25 Sept 2026 | Turbina | Budapest |
@@ -17,6 +16,7 @@ Melody RA+RE is a house and electro artist tracked on soundcheck, with 123 sets 
 
 ## Recently played
 
+- Crate Brewery, London — Sun, 30 Aug 2026
 - essaim, Paris — Sat, 15 Aug 2026
 - BRET, Amsterdam — Fri, 14 Aug 2026
 - BRET, Amsterdam — Fri, 14 Aug 2026
@@ -24,10 +24,9 @@ Melody RA+RE is a house and electro artist tracked on soundcheck, with 123 sets 
 - renae, Manchester — Thu, 30 Jul 2026
 - THE MAGICK BAR, Rome — Fri, 26 Jun 2026
 - Esferic Bcn, Barcelona — Thu, 18 Jun 2026
-- High Lights - Barking Park, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*

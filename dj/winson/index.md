@@ -1,14 +1,13 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 13 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Winson is a Techno and Deep House artist with 12 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Echostage, Washington DC on Fri, 4 Sept 2026.
 
-Winson is a techno and deep house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KLOFAMA, KUKO and KARAH. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Winson is a techno and deep house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KLOFAMA, KUKO and KARAH. Next up: Echostage, Washingtondc on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Fri, 4 Sept 2026 | Echostage | Washington DC |
 | Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
@@ -20,6 +19,7 @@ Winson is a techno and deep house artist tracked on soundcheck, with 72 sets log
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | La Nuit | Paris |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |
+| Fri, 27 Nov 2026 | Arzenal | Budapest |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Winson is a techno and deep house artist tracked on soundcheck, with 72 sets log
 
 KLOFAMA, KUKO, KARAH
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

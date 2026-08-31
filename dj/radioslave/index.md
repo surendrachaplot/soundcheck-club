@@ -1,6 +1,6 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Omeara, London on Sat, 10 Oct 2026.
+Radio Slave is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Omeara, London on Sat, 10 Oct 2026.
 
 Radio Slave is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Tal Fussman, Anja Schneider and DJ Minx. Next up: Omeara, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Radio Slave is a house and techno artist tracked on soundcheck, with 112 sets lo
 
 Tal Fussman, Anja Schneider, DJ Minx
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

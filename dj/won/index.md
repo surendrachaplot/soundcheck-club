@@ -1,6 +1,6 @@
 # Won
 
-Won is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at John Doe, Amsterdam on Tue, 29 Sept 2026.
+Won is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at John Doe, Amsterdam on Tue, 29 Sept 2026.
 
 Won is a techno and industrial artist based in Italy, tracked on soundcheck, with 2 sets logged across Amsterdam and Seoul. Often billed alongside Morris (1), MØRRIS (2) and Mørris. Next up: John Doe, Amsterdam on Tue 29 Sept.
 
@@ -18,4 +18,4 @@ Won is a techno and industrial artist based in Italy, tracked on soundcheck, wit
 
 Morris (1), MØRRIS (2), Mørris
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/won/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/won/)*

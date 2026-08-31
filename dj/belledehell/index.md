@@ -1,6 +1,6 @@
 # Belle DeHell
 
-Belle DeHell is a Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at 1990, Glasgow on Fri, 9 Oct 2026.
+Belle DeHell is a Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at 1990, Glasgow on Fri, 9 Oct 2026.
 
 Belle DeHell is a club artist tracked on soundcheck, with 5 sets logged across Glasgow and Manchester. Often billed alongside Babyjaii, Only Fire and Rahul.mp3. Next up: 1990, Glasgow on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ Belle DeHell is a club artist tracked on soundcheck, with 5 sets logged across G
 
 Babyjaii, Only Fire, Rahul.mp3
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belledehell/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belledehell/)*

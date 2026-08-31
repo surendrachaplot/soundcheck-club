@@ -1,6 +1,6 @@
 # Artee
 
-Artee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Artee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Artee is a house and deep house artist tracked on soundcheck, with 6 sets logged across Athens and Mexicocity. Often billed alongside Barreto, Adam Des and Astro. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -22,4 +22,4 @@ Artee is a house and deep house artist tracked on soundcheck, with 6 sets logged
 
 Barreto, Adam Des, Astro
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artee/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artee/)*

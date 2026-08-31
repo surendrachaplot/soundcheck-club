@@ -1,6 +1,6 @@
 # Saskia
 
-Saskia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Strange Brew, Bristol on Fri, 9 Oct 2026.
+Saskia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Strange Brew, Bristol on Fri, 9 Oct 2026.
 
 Saskia is a techno and electro artist based in Japan, tracked on soundcheck, with 8 sets logged across Bristol and London. Often billed alongside Jurango, Batu and Mackenzie (UK). Next up: Strange Brew, Bristol on Fri 9 Oct.
 
@@ -24,4 +24,4 @@ Saskia is a techno and electro artist based in Japan, tracked on soundcheck, wit
 
 Jurango, Batu, Mackenzie (UK)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saskia/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saskia/)*

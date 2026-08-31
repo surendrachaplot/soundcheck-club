@@ -1,6 +1,6 @@
 # Nala Brown
 
-Nala Brown is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+Nala Brown is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
 Nala Brown is a techno and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 15 more. Often billed alongside Lola Edo, Cinnaman and Identified Patient. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Nala Brown is a techno and house artist tracked on soundcheck, with 106 sets log
 
 Lola Edo, Cinnaman, Identified Patient
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nalabrown/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nalabrown/)*

@@ -1,6 +1,6 @@
 # Silicone Valley
 
-Silicone Valley is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Knockdown Center, New York City on Sat, 26 Sept 2026.
+Silicone Valley is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Knockdown Center, New York City on Sat, 26 Sept 2026.
 
 Silicone Valley is an electronica and experimental artist based in United States of America, tracked on soundcheck, with 9 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Toronto. Often billed alongside DJ_Dave, umru and 10cust. Next up: Knockdown Center, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Silicone Valley is an electronica and experimental artist based in United States
 
 DJ_Dave, umru, 10cust
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siliconevalley/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siliconevalley/)*

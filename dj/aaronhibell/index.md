@@ -1,14 +1,13 @@
 # Aaron Hibell
 
-Aaron Hibell is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Aaron Hibell is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Aaron Hibell is a techno and trance artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Adam Beyer, David Rust and Kotiēr. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Aaron Hibell is a techno and trance artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Adam Beyer, David Rust and Kotiēr. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 
 ## Recently played
@@ -26,4 +25,4 @@ Aaron Hibell is a techno and trance artist tracked on soundcheck, with 39 sets l
 
 Adam Beyer, David Rust, Kotiēr
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*

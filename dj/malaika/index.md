@@ -1,6 +1,6 @@
 # Mala ika
 
-Mala ika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Silbergold, Frankfurt on Fri, 18 Sept 2026.
+Mala ika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Silbergold, Frankfurt on Fri, 18 Sept 2026.
 
 Mala ika is a house and techno artist tracked on soundcheck, with 35 sets logged across Antwerp, Berlin, Frankfurt and Ghent and 8 more. Often billed alongside Cormac, Ixpé and A-440. Next up: Silbergold, Frankfurt on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mala ika is a house and techno artist tracked on soundcheck, with 35 sets logged
 
 Cormac, Ixpé, A-440
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malaika/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malaika/)*

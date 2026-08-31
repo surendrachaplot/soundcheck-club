@@ -1,6 +1,6 @@
 # Two More Years
 
-Two More Years is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Bliss Out and Friends" on Sat, 5 Sept 2026.
+Two More Years is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Bliss Out and Friends" on Sat, 5 Sept 2026.
 
 Two More Years is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
 
@@ -15,4 +15,4 @@ Two More Years is a music venue in London listed on soundcheck. 2 upcoming night
 
 7 Roach Road, Hackney Wick, E3 2PA, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*

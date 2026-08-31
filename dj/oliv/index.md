@@ -1,6 +1,6 @@
 # OlIV
 
-OlIV is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
+OlIV is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 OlIV is a techno and house artist based in Belarus, tracked on soundcheck, with 2 sets logged across Berlin and Leipzig. Often billed alongside OLIV, BIGALKE and Bephål. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -18,4 +18,4 @@ OlIV is a techno and house artist based in Belarus, tracked on soundcheck, with 
 
 OLIV, BIGALKE, Bephål
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliv/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliv/)*

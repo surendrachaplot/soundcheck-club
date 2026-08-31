@@ -1,19 +1,19 @@
 # Hannah Holland
 
-Hannah Holland is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Southwark Park, London on Sun, 30 Aug 2026.
+Hannah Holland is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 25 Sept 2026.
 
-Hannah Holland is a house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Josh Caffé, FAFF and GIDEÖN. Next up: Southwark Park, London on Sun 30 Aug.
+Hannah Holland is a house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Josh Caffé, FAFF and GIDEÖN. Next up: Kaņepes Kultūras Centrs, Riga on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Southwark Park | London |
 | Fri, 25 Sept 2026 | Kaņepes Kultūras Centrs | Riga |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Southwark Park, London — Sun, 30 Aug 2026
 - CLUB RAUM, Amsterdam — Sat, 1 Aug 2026
 - The Carpet Shop, London — Sat, 27 Jun 2026
 - The Loft, Manchester — Fri, 5 Jun 2026
@@ -21,10 +21,9 @@ Hannah Holland is a house and techno artist tracked on soundcheck, with 65 sets 
 - TILLATEC, Amsterdam — Sun, 26 Apr 2026
 - Night Tales Loft, London — Sat, 18 Apr 2026
 - Club Cheek, London — Fri, 17 Apr 2026
-- The Cause, London — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 Josh Caffé, FAFF, GIDEÖN
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahholland/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahholland/)*

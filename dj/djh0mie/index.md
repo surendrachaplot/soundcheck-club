@@ -1,6 +1,6 @@
 # DJ h0mie
 
-DJ h0mie is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
+DJ h0mie is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
 
 DJ h0mie is a bass and club artist tracked on soundcheck, with 2 sets logged across Toronto. Often billed alongside Amrkv, Chinelo and Christian Felix. Next up: TBA, Toronto on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ DJ h0mie is a bass and club artist tracked on soundcheck, with 2 sets logged acr
 
 Amrkv, Chinelo, Christian Felix
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djh0mie/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djh0mie/)*

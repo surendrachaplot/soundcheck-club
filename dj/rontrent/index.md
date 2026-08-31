@@ -1,6 +1,6 @@
 # Ron Trent
 
-Ron Trent is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Ron Trent is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Ron Trent is a house and deep house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Auckland and Bali and 34 more. Often billed alongside Ben UFO, MUSCLECARS and Ogazón. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Ron Trent is a house and deep house artist tracked on soundcheck, with 105 sets 
 
 Ben UFO, MUSCLECARS, Ogazón
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*

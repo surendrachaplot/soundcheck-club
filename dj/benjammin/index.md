@@ -1,6 +1,6 @@
 # Ben Jammin
 
-Ben Jammin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Ben Jammin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Ben Jammin is a house and disco artist tracked on soundcheck, with 18 sets logged across Belgrade, Bristol, Glasgow and London and 1 more. Often billed alongside Solartrak, Wolf Auris and Al Gray. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ben Jammin is a house and disco artist tracked on soundcheck, with 18 sets logge
 
 Solartrak, Wolf Auris, Al Gray
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjammin/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/benjammin/)*

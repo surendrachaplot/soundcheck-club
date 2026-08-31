@@ -1,6 +1,6 @@
 # snobo (2)
 
-snobo (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Shinjuku Duusraa, Tokyo on Wed, 2 Sept 2026.
+snobo (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Shinjuku Duusraa, Tokyo on Wed, 2 Sept 2026.
 
 snobo (2) is a drum & bass and jungle artist based in Japan, tracked on soundcheck, with 8 sets logged across Seoul and Tokyo. Often billed alongside Midnight Runner (2), maidable and HASHTAGPOPE. Next up: Shinjuku Duusraa, Tokyo on Wed 2 Sept.
 
@@ -24,4 +24,4 @@ snobo (2) is a drum & bass and jungle artist based in Japan, tracked on soundche
 
 Midnight Runner (2), maidable, HASHTAGPOPE
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snobo-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/snobo-2/)*

@@ -1,6 +1,6 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 14 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "ARC After Dark: Luke Dean" on Thu, 3 Sept 2026.
+Spybar is a music venue in Chicago with 14 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "ARC After Dark: Luke Dean" on Thu, 3 Sept 2026.
 
 Spybar is a music venue in Chicago listed on soundcheck. 14 upcoming nights, with line-ups including Brunello, CRi, Dam Swindle and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
@@ -23,4 +23,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 14 upcoming nights, wit
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

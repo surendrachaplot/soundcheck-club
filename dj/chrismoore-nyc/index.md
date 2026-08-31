@@ -1,6 +1,6 @@
 # Chris Moore (NYC)
 
-Chris Moore (NYC) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Jean’s, New York City on Thu, 3 Sept 2026.
+Chris Moore (NYC) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jean’s, New York City on Thu, 3 Sept 2026.
 
 Chris Moore (NYC) is a house and afro house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Newyorkcity. Often billed alongside Malik Lindo, Felix Roth and King Lindo. Next up: Jean’s, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Chris Moore (NYC) is a house and afro house artist based in United States of Ame
 
 Malik Lindo, Felix Roth, King Lindo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismoore-nyc/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chrismoore-nyc/)*

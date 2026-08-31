@@ -1,6 +1,6 @@
 # Dockett Eddy
 
-Dockett Eddy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Gaffe, London on Sat, 5 Sept 2026.
+Dockett Eddy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Gaffe, London on Sat, 5 Sept 2026.
 
 Dockett Eddy is a house and techno artist tracked on soundcheck, with 12 sets logged across Leeds, London and Manchester. Often billed alongside Bunney, Ella Fayden and Avsluta. Next up: Gaffe, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Dockett Eddy is a house and techno artist tracked on soundcheck, with 12 sets lo
 
 Bunney, Ella Fayden, Avsluta
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/docketteddy/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/docketteddy/)*

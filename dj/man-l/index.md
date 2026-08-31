@@ -1,6 +1,6 @@
 # Man-L
 
-Man-L is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Minimal Bar, Berlin on Thu, 17 Sept 2026.
+Man-L is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Minimal Bar, Berlin on Thu, 17 Sept 2026.
 
 Man-L is a dub techno and house artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, Berlin and Manchester. Often billed alongside Quadrant Soundscape, Nat (DE) and Matt Thibideau. Next up: Minimal Bar, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Man-L is a dub techno and house artist based in Spain, tracked on soundcheck, wi
 
 Quadrant Soundscape, Nat (DE), Matt Thibideau
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/man-l/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/man-l/)*

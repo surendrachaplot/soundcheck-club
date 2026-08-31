@@ -1,13 +1,14 @@
 # ABEILLE
 
-ABEILLE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Green Room NYC, New York City on Fri, 25 Sept 2026.
+ABEILLE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Klein, Istanbul on Fri, 4 Sept 2026.
 
-ABEILLE is a techno and industrial artist tracked on soundcheck, with 12 sets logged across Istanbul, Miami and Newyorkcity. Often billed alongside A DJ Named SNE, AVCI and Adam Hadari. Next up: Green Room NYC, Newyorkcity on Fri 25 Sept.
+ABEILLE is a techno and industrial artist tracked on soundcheck, with 13 sets logged across Istanbul, Miami and Newyorkcity. Often billed alongside Erde, A DJ Named SNE and AVCI. Next up: Klein, Istanbul on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Klein | Istanbul |
 | Fri, 25 Sept 2026 | Green Room NYC | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ ABEILLE is a techno and industrial artist tracked on soundcheck, with 12 sets lo
 
 ## Shares bills with
 
-A DJ Named SNE, AVCI, Adam Hadari
+Erde, A DJ Named SNE, AVCI
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abeille/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abeille/)*

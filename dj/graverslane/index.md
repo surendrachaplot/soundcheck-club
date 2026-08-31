@@ -1,6 +1,6 @@
 # Gravers Lane
 
-Gravers Lane is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Gravers Lane is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Gravers Lane is a techno and club artist based in United States of America, tracked on soundcheck, with 30 sets logged across Philadelphia. Often billed alongside Lady Prowl, hopifer and Alex Burkat. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Gravers Lane is a techno and club artist based in United States of America, trac
 
 Lady Prowl, hopifer, Alex Burkat
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graverslane/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/graverslane/)*

@@ -1,14 +1,13 @@
 # Colorado Charlie
 
-Colorado Charlie is a music venue in The Hague with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz (SOLD OUT)" on Sun, 30 Aug 2026.
+Colorado Charlie is a music venue in The Hague with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT)" on Sun, 6 Sept 2026.
 
-Colorado Charlie is a music venue in Thehague listed on soundcheck. 8 upcoming nights, with line-ups including Ammé, Boris Coelman, Colyn and Daughter In Law and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
+Colorado Charlie is a music venue in Thehague listed on soundcheck. 7 upcoming nights, with line-ups including Ammé, Boris Coelman, Colyn and Daughter In Law and 2 more. Browse upcoming dates, start times and who's playing. Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Colorado Charlie with Lisa Korver, Luca v/d Hombergh, Mika Heggemann, Olive Anguz (SOLD OUT) | Lisa Korver, Mika Heggemann, Olive Anguz |
 | Sun, 6 Sept 2026 | Colorado Charlie with Franky Rizardo (Extended Set), Easttown, Daughter In Law (SOLD OUT) | Daughter In Law, Easttown, Franky Rizardo |
 | Sat, 12 Sept 2026 | Colorado Charlie with Colyn (3hrs), Nicky Elisabeth | Colyn, Nicky Elisabeth |
 | Sun, 13 Sept 2026 | Colorado Charlie x Bass Jamz - Closing Sunday with Gaskin, Michel de Hey, Ellia Jaya (SOLD OUT) | Ellam, Ellia Jaya, Gaskin, Michel de Hey, Wildish |
@@ -21,4 +20,4 @@ Colorado Charlie is a music venue in Thehague listed on soundcheck. 8 upcoming n
 
 Zwarte Pad 64, Scheveningen, Zuid Holland, Netherlands, The Hague
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/colorado-charlie/)*

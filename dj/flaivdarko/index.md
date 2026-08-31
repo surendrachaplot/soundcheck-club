@@ -1,6 +1,6 @@
 # Flaiv Đarkø
 
-Flaiv Đarkø is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Gate Milano, Milan on Fri, 27 Nov 2026.
+Flaiv Đarkø is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Gate Milano, Milan on Fri, 27 Nov 2026.
 
 Flaiv Đarkø is a techno and hardcore artist tracked on soundcheck, with 27 sets logged across Milan. Often billed alongside FluffeR, Xammy and Ego-Bastia. Next up: Gate Milano, Milan on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Flaiv Đarkø is a techno and hardcore artist tracked on soundcheck, with 27 set
 
 FluffeR, Xammy, Ego-Bastia
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flaivdarko/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flaivdarko/)*

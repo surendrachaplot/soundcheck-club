@@ -1,6 +1,6 @@
 # Bee Chapin
 
-Bee Chapin is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Honey's, New York City on Sun, 6 Sept 2026.
+Bee Chapin is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Honey's, New York City on Sun, 6 Sept 2026.
 
 Bee Chapin is a house and tech house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Willy Gorgon, Armii1n and Auphoria. Next up: Honey's, Newyorkcity on Sun 6 Sept.
 
@@ -20,4 +20,4 @@ Bee Chapin is a house and tech house artist based in United States of America, t
 
 Willy Gorgon, Armii1n, Auphoria
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beechapin/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beechapin/)*

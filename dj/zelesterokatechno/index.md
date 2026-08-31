@@ -1,6 +1,6 @@
 # Zeleste Rokatechno
 
-Zeleste Rokatechno is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at XLR, Manchester on Sat, 10 Oct 2026.
+Zeleste Rokatechno is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at XLR, Manchester on Sat, 10 Oct 2026.
 
 Zeleste Rokatechno is a techno artist based in Spain, tracked on soundcheck, with 4 sets logged across Manchester and Porto. Often billed alongside Carol d'Souza, Frank Kvitta and Kami Lee. Next up: XLR, Manchester on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Zeleste Rokatechno is a techno artist based in Spain, tracked on soundcheck, wit
 
 Carol d'Souza, Frank Kvitta, Kami Lee
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zelesterokatechno/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zelesterokatechno/)*

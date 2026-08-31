@@ -1,14 +1,13 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Thuishaven, Amsterdam on Sun, 30 Aug 2026.
+Easttown is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Hï Ibiza, Ibiza on Tue, 1 Sept 2026.
 
-Easttown is a house and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and Franky Rizardo. Next up: Thuishaven, Amsterdam on Sun 30 Aug.
+Easttown is a house and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and Franky Rizardo. Next up: Hï Ibiza, Ibiza on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Thuishaven | Amsterdam |
 | Tue, 1 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
 | Sun, 6 Sept 2026 | Colorado Charlie | The Hague |
@@ -22,6 +21,7 @@ Easttown is a house and tech house artist tracked on soundcheck, with 98 sets lo
 
 ## Recently played
 
+- Thuishaven, Amsterdam — Sun, 30 Aug 2026
 - TivoliVredenburg, Utrecht — Sat, 29 Aug 2026
 - Boomerang Beach, The Hague — Fri, 21 Aug 2026
 - Playa Soleil & Bora Bora, Ibiza — Fri, 21 Aug 2026
@@ -29,10 +29,9 @@ Easttown is a house and tech house artist tracked on soundcheck, with 98 sets lo
 - [UNVRS], Ibiza — Sat, 8 Aug 2026
 - Pacha New York, New York City — Fri, 17 Jul 2026
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
-- [UNVRS], Ibiza — Wed, 8 Jul 2026
 
 ## Shares bills with
 
 Rooléh, Joëlla Jackson, Franky Rizardo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

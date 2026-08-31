@@ -1,6 +1,6 @@
 # Jazzheadchronic
 
-Jazzheadchronic is a Funk / Soul and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Peckham Levels, London on Sat, 31 Oct 2026.
+Jazzheadchronic is a Funk / Soul and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Peckham Levels, London on Sat, 31 Oct 2026.
 
 Jazzheadchronic is a funk / soul and hip-hop artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across London. Often billed alongside Nick Halkes, DJ Keith Lawrence and Aitch B. Next up: Peckham Levels, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jazzheadchronic is a funk / soul and hip-hop artist based in United Kingdom, tra
 
 Nick Halkes, DJ Keith Lawrence, Aitch B
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzheadchronic/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzheadchronic/)*

@@ -1,6 +1,6 @@
 # Ian Crane
 
-Ian Crane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 18 Sept 2026.
+Ian Crane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 18 Sept 2026.
 
 Ian Crane is a house and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Newyorkcity. Often billed alongside Meilgaarden, LYDO and CHOQUE. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ian Crane is a house and techno artist based in United States of America, tracke
 
 Meilgaarden, LYDO, CHOQUE
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrane/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrane/)*

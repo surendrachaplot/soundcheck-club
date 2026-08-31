@@ -1,6 +1,6 @@
 # Anthony Nicholson
 
-Anthony Nicholson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Podlasie Club, Chicago on Sat, 5 Sept 2026.
+Anthony Nicholson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Podlasie Club, Chicago on Sat, 5 Sept 2026.
 
 Anthony Nicholson is a house and deep house artist tracked on soundcheck, with 12 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Vick Lavender, Quicktastic and Adorio. Next up: Podlasie Club, Chicago on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Anthony Nicholson is a house and deep house artist tracked on soundcheck, with 1
 
 Vick Lavender, Quicktastic, Adorio
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonynicholson/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonynicholson/)*

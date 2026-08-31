@@ -1,6 +1,6 @@
 # Christian Löffler
 
-Christian Löffler is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Südbrücke Open Air, Cologne on Sat, 5 Sept 2026.
+Christian Löffler is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Südbrücke Open Air, Cologne on Sat, 5 Sept 2026.
 
 Christian Löffler is a house and electronica artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Parra for Cuva, ELIF and Holly North. Next up: Südbrücke Open Air, Cologne on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Christian Löffler is a house and electronica artist tracked on soundcheck, with
 
 Parra for Cuva, ELIF, Holly North
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*

@@ -1,6 +1,6 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - 75013, Paris on Sat, 5 Sept 2026.
+Giammarco Orsini is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - 75013, Paris on Sat, 5 Sept 2026.
 
 Giammarco Orsini is a house and techno artist tracked on soundcheck, with 166 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside PARAMIDA, Anthea and Marcolino. Next up: TBA - 75013, Paris on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Giammarco Orsini is a house and techno artist tracked on soundcheck, with 166 se
 
 PARAMIDA, Anthea, Marcolino
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

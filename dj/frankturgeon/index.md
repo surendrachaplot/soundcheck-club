@@ -1,6 +1,6 @@
 # Frank Turgeon
 
-Frank Turgeon is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Système, Montreal on Fri, 4 Sept 2026.
+Frank Turgeon is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Système, Montreal on Fri, 4 Sept 2026.
 
 Frank Turgeon is a tech house and progressive house artist tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside Mandiz, Jimmy Be and Abverb. Next up: Système, Montreal on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Frank Turgeon is a tech house and progressive house artist tracked on soundcheck
 
 Mandiz, Jimmy Be, Abverb
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankturgeon/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankturgeon/)*

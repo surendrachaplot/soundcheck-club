@@ -1,6 +1,6 @@
 # Tolo
 
-Tolo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Viadukt Bar, Budapest on Sat, 5 Sept 2026.
+Tolo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Viadukt Bar, Budapest on Sat, 5 Sept 2026.
 
 Tolo is a house and techno artist tracked on soundcheck, with 81 sets logged across Bangkok, Barcelona, Berlin and Budapest and 1 more. Often billed alongside Falcao, Adis Is OK and Daniel Moritz. Next up: Viadukt Bar, Budapest on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tolo is a house and techno artist tracked on soundcheck, with 81 sets logged acr
 
 Falcao, Adis Is OK, Daniel Moritz
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tolo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tolo/)*

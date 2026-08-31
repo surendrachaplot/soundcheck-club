@@ -1,6 +1,6 @@
 # Rimbano
 
-Rimbano is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Union Club, Vauxhall, London on Fri, 18 Sept 2026.
+Rimbano is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Union Club, Vauxhall, London on Fri, 18 Sept 2026.
 
 Rimbano is a techno and tech house artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Cristian Ebasta, Enrico Chirchiello and ACID HARRY. Next up: Union Club, Vauxhall, London on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Rimbano is a techno and tech house artist tracked on soundcheck, with 3 sets log
 
 Cristian Ebasta, Enrico Chirchiello, ACID HARRY
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rimbano/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rimbano/)*

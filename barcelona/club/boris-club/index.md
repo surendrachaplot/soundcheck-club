@@ -1,6 +1,6 @@
 # BORIS CLUB
 
-BORIS CLUB is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Boris presents LILU - FREE TICKETS" on Fri, 4 Sept 2026.
+BORIS CLUB is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Boris presents LILU - FREE TICKETS" on Fri, 4 Sept 2026.
 
 BORIS CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Ander Race, Andrea Castells, Damian Lazarus and HeAndMe and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2].
 
@@ -23,4 +23,4 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 10 upcoming night
 
 Carrer de Bori i FontestÃ , 25, SarriÃ -Sant Gervasi, 08021 Barcelona [2], Barcelona
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/boris-club/)*

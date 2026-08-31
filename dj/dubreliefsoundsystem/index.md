@@ -1,6 +1,6 @@
 # Dub Relief Soundsystem
 
-Dub Relief Soundsystem is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Dub Relief Soundsystem is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Dub Relief Soundsystem is an electronic artist tracked on soundcheck, with 3 sets logged across Athens. Often billed alongside Bakerman, Betsu and G3p3tto. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -19,4 +19,4 @@ Dub Relief Soundsystem is an electronic artist tracked on soundcheck, with 3 set
 
 Bakerman, Betsu, G3p3tto
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubreliefsoundsystem/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dubreliefsoundsystem/)*

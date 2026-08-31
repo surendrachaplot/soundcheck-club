@@ -1,6 +1,6 @@
 # Weezie
 
-Weezie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Platform9, Vancouver on Fri, 25 Sept 2026.
+Weezie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Platform9, Vancouver on Fri, 25 Sept 2026.
 
 Weezie is a house and disco artist tracked on soundcheck, with 4 sets logged across Vancouver. Often billed alongside DJ dood, Max Ulis and AVRY. Next up: Platform9, Vancouver on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Weezie is a house and disco artist tracked on soundcheck, with 4 sets logged acr
 
 DJ dood, Max Ulis, AVRY
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/weezie/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/weezie/)*

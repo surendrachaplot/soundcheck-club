@@ -1,6 +1,6 @@
 # Tomoki
 
-Tomoki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Old Blue Last, London on Fri, 18 Sept 2026.
+Tomoki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Old Blue Last, London on Fri, 18 Sept 2026.
 
 Tomoki is a house and techno artist tracked on soundcheck, with 18 sets logged across Kyoto, London, Osaka and Tokyo. Often billed alongside Torei, Celter and EUREKA. Next up: The Old Blue Last, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tomoki is a house and techno artist tracked on soundcheck, with 18 sets logged a
 
 Torei, Celter, EUREKA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoki/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoki/)*

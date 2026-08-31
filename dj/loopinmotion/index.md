@@ -1,6 +1,6 @@
 # Loopinmotion
 
-Loopinmotion is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at RASA, Singapore on Sat, 26 Sept 2026.
+Loopinmotion is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at RASA, Singapore on Sat, 26 Sept 2026.
 
 Loopinmotion is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Singapore. Often billed alongside DONN, Bongomann and Brandt Brauer Frick. Next up: RASA, Singapore on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Loopinmotion is a techno and electronica artist tracked on soundcheck, with 5 se
 
 DONN, Bongomann, Brandt Brauer Frick
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loopinmotion/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loopinmotion/)*

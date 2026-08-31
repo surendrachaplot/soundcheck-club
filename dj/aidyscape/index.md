@@ -1,6 +1,6 @@
 # Aidyscape
 
-Aidyscape is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at WaV, Liverpool on Fri, 23 Oct 2026.
+Aidyscape is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at WaV, Liverpool on Fri, 23 Oct 2026.
 
 Aidyscape is a trance and techno artist tracked on soundcheck, with 3 sets logged across Liverpool and London. Often billed alongside Aldor, Andrew Sharpe and C-systems. Next up: WaV, Liverpool on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Aidyscape is a trance and techno artist tracked on soundcheck, with 3 sets logge
 
 Aldor, Andrew Sharpe, C-systems
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aidyscape/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aidyscape/)*

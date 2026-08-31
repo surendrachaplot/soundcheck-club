@@ -1,6 +1,6 @@
 # Curveball
 
-Curveball is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Iconic Underground Magazine presents Detroit Centric " on Fri, 11 Sept 2026.
+Curveball is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Iconic Underground Magazine presents Detroit Centric " on Fri, 11 Sept 2026.
 
 Curveball is a music venue in Dublin listed on soundcheck. 2 upcoming nights, with line-ups including Bláthnaid and DJ Dobrel. Browse upcoming dates, start times and who's playing. Curved St, Temple Bar, Dublin, D02 RD26.
 
@@ -15,4 +15,4 @@ Curveball is a music venue in Dublin listed on soundcheck. 2 upcoming nights, wi
 
 Curved St, Temple Bar, Dublin, D02 RD26, Dublin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/curveball/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/curveball/)*

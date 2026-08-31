@@ -1,6 +1,6 @@
 # Bastian Balders
 
-Bastian Balders is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Spread, Tokyo on Sat, 5 Sept 2026.
+Bastian Balders is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Spread, Tokyo on Sat, 5 Sept 2026.
 
 Bastian Balders is a techno and electro artist tracked on soundcheck, with 7 sets logged across Berlin, Bucharest, Istanbul and Leipzig and 2 more. Often billed alongside AMIDAdrive, AUGENGRAU and Aksamit. Next up: Spread, Tokyo on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Bastian Balders is a techno and electro artist tracked on soundcheck, with 7 set
 
 AMIDAdrive, AUGENGRAU, Aksamit
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbalders/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbalders/)*

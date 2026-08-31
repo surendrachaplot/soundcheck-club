@@ -1,6 +1,6 @@
 # Henry Greenleaf
 
-Henry Greenleaf is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Fox and Firkin, London on Fri, 11 Sept 2026.
+Henry Greenleaf is a Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Fox and Firkin, London on Fri, 11 Sept 2026.
 
 Henry Greenleaf is a bass and jungle artist tracked on soundcheck, with 30 sets logged across Athens, Berlin, Bristol and London and 2 more. Often billed alongside Axle, BABY MONET and Maliboo. Next up: The Fox and Firkin, London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Henry Greenleaf is a bass and jungle artist tracked on soundcheck, with 30 sets 
 
 Axle, BABY MONET, Maliboo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrygreenleaf/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrygreenleaf/)*

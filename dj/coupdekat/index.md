@@ -1,6 +1,6 @@
 # Coupdekat
 
-Coupdekat is a Hip-Hop and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at M.O.T, London on Fri, 4 Sept 2026.
+Coupdekat is a Hip-Hop and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at M.O.T, London on Fri, 4 Sept 2026.
 
 Coupdekat is a hip-hop and pop artist tracked on soundcheck, with 11 sets logged across London, Madrid and Paris. Often billed alongside arawzi, goodyear and CHAMBER45. Next up: M.O.T, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Coupdekat is a hip-hop and pop artist tracked on soundcheck, with 11 sets logged
 
 arawzi, goodyear, CHAMBER45
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coupdekat/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coupdekat/)*

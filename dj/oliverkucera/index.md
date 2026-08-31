@@ -1,6 +1,6 @@
 # Oliver Kucera
 
-Oliver Kucera is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
+Oliver Kucera is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
 
 Oliver Kucera is a techno and breakbeat artist tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside Marco Ramos, BTWN NTWRX and Daniel Englisch. Next up: Toekomstmuziek, Amsterdam on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Oliver Kucera is a techno and breakbeat artist tracked on soundcheck, with 7 set
 
 Marco Ramos, BTWN NTWRX, Daniel Englisch
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkucera/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkucera/)*

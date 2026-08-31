@@ -1,6 +1,6 @@
 # Sasson
 
-Sasson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Clairière, Paris on Sat, 26 Sept 2026.
+Sasson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at La Clairière, Paris on Sat, 26 Sept 2026.
 
 Sasson is a house and deep house artist tracked on soundcheck, with 77 sets logged across Barcelona, Ibiza, Lisbon and London and 7 more. Often billed alongside Mont Rouge, Notre Dame and Amour Propre. Next up: La Clairière, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sasson is a house and deep house artist tracked on soundcheck, with 77 sets logg
 
 Mont Rouge, Notre Dame, Amour Propre
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasson/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasson/)*

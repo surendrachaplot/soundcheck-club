@@ -1,6 +1,6 @@
 # Paul McManamon
 
-Paul McManamon is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at radial, London on Fri, 11 Sept 2026.
+Paul McManamon is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at radial, London on Fri, 11 Sept 2026.
 
 Paul McManamon is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Delay Grounds, Djuar and carmen (7). Next up: radial, London on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Paul McManamon is a bass and techno artist based in United Kingdom, tracked on s
 
 Delay Grounds, Djuar, carmen (7)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmcmanamon/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmcmanamon/)*

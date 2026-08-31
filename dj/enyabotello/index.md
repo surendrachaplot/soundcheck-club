@@ -1,6 +1,6 @@
 # Enya Botello
 
-Enya Botello is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Brutal Mx, Mexico City on Fri, 11 Sept 2026.
+Enya Botello is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Brutal Mx, Mexico City on Fri, 11 Sept 2026.
 
 Enya Botello is a techno and house artist tracked on soundcheck, with 194 sets logged across Mexicocity, Seattle, Tokyo and Vancouver. Often billed alongside Eliel Capa, Deejay Energy and Magnolia Coronado. Next up: Brutal Mx, Mexicocity on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Enya Botello is a techno and house artist tracked on soundcheck, with 194 sets l
 
 Eliel Capa, Deejay Energy, Magnolia Coronado
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enyabotello/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enyabotello/)*

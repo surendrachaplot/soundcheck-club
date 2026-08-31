@@ -1,6 +1,6 @@
 # Mark Broom
 
-Mark Broom is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Old Blue Last, London on Sat, 12 Sept 2026.
+Mark Broom is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Old Blue Last, London on Sat, 12 Sept 2026.
 
 Mark Broom is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Autechre, CESAR ALMENA and Nuke. Next up: The Old Blue Last, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Mark Broom is a techno and house artist tracked on soundcheck, with 107 sets log
 
 Autechre, CESAR ALMENA, Nuke
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*

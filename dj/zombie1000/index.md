@@ -1,6 +1,6 @@
 # ZOMBIE1000
 
-ZOMBIE1000 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at R25 Kulturschlachthof, Düsseldorf on Fri, 11 Sept 2026.
+ZOMBIE1000 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at R25 Kulturschlachthof, Düsseldorf on Fri, 11 Sept 2026.
 
 ZOMBIE1000 is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Cologne, Dusseldorf and Ghent. Often billed alongside Demontime, KACHU2K and KASIENKA. Next up: R25 Kulturschlachthof, Dusseldorf on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ ZOMBIE1000 is a techno and trance artist based in Germany, tracked on soundcheck
 
 Demontime, KACHU2K, KASIENKA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zombie1000/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zombie1000/)*

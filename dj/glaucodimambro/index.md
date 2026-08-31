@@ -1,6 +1,6 @@
 # Glauco Di Mambro
 
-Glauco Di Mambro is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Tomorrowland Store Ibiza, Ibiza on Tue, 1 Sept 2026.
+Glauco Di Mambro is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Tomorrowland Store Ibiza, Ibiza on Tue, 1 Sept 2026.
 
 Glauco Di Mambro is a house and deep house artist based in Italy, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Ibiza and London and 11 more. Often billed alongside Omer Tayar, Vice Luna and Afrotrace. Next up: Tomorrowland Store Ibiza, Ibiza on Tue 1 Sept.
 
@@ -26,4 +26,4 @@ Glauco Di Mambro is a house and deep house artist based in Italy, tracked on sou
 
 Omer Tayar, Vice Luna, Afrotrace
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glaucodimambro/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/glaucodimambro/)*

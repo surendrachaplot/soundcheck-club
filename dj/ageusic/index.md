@@ -1,6 +1,6 @@
 # Ageusic
 
-Ageusic is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 5 Sept 2026.
+Ageusic is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Revolver Upstairs, Melbourne on Sat, 5 Sept 2026.
 
 Ageusic is a trance and house artist based in Australia, tracked on soundcheck, with 31 sets logged across Melbourne and Sydney. Often billed alongside Lewis Cancut, Hysteric and Hijack. Next up: Revolver Upstairs, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ageusic is a trance and house artist based in Australia, tracked on soundcheck, 
 
 Lewis Cancut, Hysteric, Hijack
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ageusic/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ageusic/)*

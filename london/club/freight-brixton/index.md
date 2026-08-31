@@ -1,6 +1,6 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "GHOST OF GARAGE W/ MJ Cole, DJ Perception, Rich Reason + Chunky" on Sat, 5 Sept 2026.
+Freight Brixton is a music venue in London with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "GHOST OF GARAGE W/ MJ Cole, DJ Perception, Rich Reason + Chunky" on Sat, 5 Sept 2026.
 
 Freight Brixton is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Baxtak, Chunky, Craig Charles and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
@@ -20,4 +20,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 7 upcoming nigh
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

@@ -1,6 +1,6 @@
 # Jøel
 
-Jøel is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at John Doe, Amsterdam on Tue, 22 Sept 2026.
+Jøel is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at John Doe, Amsterdam on Tue, 22 Sept 2026.
 
 Jøel is an industrial and techno artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam and Berlin. Often billed alongside ANXIETY (2), BØCHKAVALLERIE and DAESU. Next up: John Doe, Amsterdam on Tue 22 Sept.
 
@@ -18,4 +18,4 @@ Jøel is an industrial and techno artist based in Netherlands, tracked on soundc
 
 ANXIETY (2), BØCHKAVALLERIE, DAESU
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joel-nl/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joel-nl/)*

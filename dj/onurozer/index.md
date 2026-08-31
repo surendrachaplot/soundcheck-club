@@ -1,6 +1,6 @@
 # Onur Özer
 
-Onur Özer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at CONTACT, Amsterdam on Sat, 5 Sept 2026.
+Onur Özer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at CONTACT, Amsterdam on Sat, 5 Sept 2026.
 
 Onur Özer is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside Christian AB, Francesco Del Garda and Quest (IT). Next up: CONTACT, Amsterdam on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Onur Özer is a techno and house artist tracked on soundcheck, with 111 sets log
 
 Christian AB, Francesco Del Garda, Quest (IT)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*

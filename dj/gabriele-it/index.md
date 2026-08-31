@@ -1,6 +1,6 @@
 # Gabriele
 
-Gabriele is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Altrove, Milan on Sat, 5 Sept 2026.
+Gabriele is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Altrove, Milan on Sat, 5 Sept 2026.
 
 Gabriele is a techno artist based in Italy, tracked on soundcheck, with 16 sets logged across Milan and Rome. Often billed alongside Nicola Mazzetti, Dove Quiete and Jane Fitz. Next up: Altrove, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Gabriele is a techno artist based in Italy, tracked on soundcheck, with 16 sets 
 
 Nicola Mazzetti, Dove Quiete, Jane Fitz
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriele-it/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriele-it/)*

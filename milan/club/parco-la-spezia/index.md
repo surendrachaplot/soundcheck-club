@@ -1,6 +1,6 @@
 # Parco La Spezia
 
-Parco La Spezia is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Sunday Remedy in the Park" on Sun, 6 Sept 2026.
+Parco La Spezia is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Sunday Remedy in the Park" on Sun, 6 Sept 2026.
 
 Parco La Spezia is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including OPUL (2). Browse upcoming dates, start times and who's playing. Via Rimini 38, 20142, Milano.
 
@@ -15,4 +15,4 @@ Parco La Spezia is a music venue in Milan listed on soundcheck. 2 upcoming night
 
 Via Rimini 38, 20142, Milano, Milan
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/parco-la-spezia/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/parco-la-spezia/)*

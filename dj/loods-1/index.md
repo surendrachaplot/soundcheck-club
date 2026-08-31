@@ -1,6 +1,6 @@
 # Loods
 
-Loods is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
+Loods is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Beresford Hotel, Sydney on Sat, 5 Sept 2026.
 
 Loods is a house and techno artist tracked on soundcheck, with 56 sets logged across Aberdeen, Amsterdam, Auckland and Bali and 16 more. Often billed alongside KETTAMA, Clouds and Flight Facilities. Next up: The Beresford Hotel, Sydney on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Loods is a house and techno artist tracked on soundcheck, with 56 sets logged ac
 
 KETTAMA, Clouds, Flight Facilities
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loods-1/)*

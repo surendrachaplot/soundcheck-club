@@ -1,6 +1,6 @@
 # Ununu
 
-Ununu is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Low Profile Studios, London on Sat, 26 Sept 2026.
+Ununu is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Low Profile Studios, London on Sat, 26 Sept 2026.
 
 Ununu is a techno and tech house artist based in Portugal, tracked on soundcheck, with 35 sets logged across Athens, Krakow and London. Often billed alongside Thomas Galbardi, Diana Loredana and Raden (UK). Next up: Low Profile Studios, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ununu is a techno and tech house artist based in Portugal, tracked on soundcheck
 
 Thomas Galbardi, Diana Loredana, Raden (UK)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ununu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ununu/)*

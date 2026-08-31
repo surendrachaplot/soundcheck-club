@@ -1,6 +1,6 @@
 # Vinni_frm_bratfud
 
-Vinni_frm_bratfud is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mezzanine - Tooting, London on Thu, 17 Sept 2026.
+Vinni_frm_bratfud is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mezzanine - Tooting, London on Thu, 17 Sept 2026.
 
 Vinni_frm_bratfud is a house and garage artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Ben Carr, AUDIO DUNE and Brands. Next up: Mezzanine - Tooting, London on Thu 17 Sept.
 
@@ -18,4 +18,4 @@ Vinni_frm_bratfud is a house and garage artist tracked on soundcheck, with 2 set
 
 Ben Carr, AUDIO DUNE, Brands
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinni_frm_bratfud/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinni_frm_bratfud/)*

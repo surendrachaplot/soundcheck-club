@@ -1,6 +1,6 @@
 # Alex Iza
 
-Alex Iza is a Drum & Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 3 Oct 2026.
+Alex Iza is a Drum & Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Avalon Cafe Bermondsey, London on Sat, 3 Oct 2026.
 
 Alex Iza is a drum & bass and reggaeton artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside DARQGOLD and Dan Louder. Next up: Avalon Cafe Bermondsey, London on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Alex Iza is a drum & bass and reggaeton artist based in United Kingdom, tracked 
 
 DARQGOLD, Dan Louder
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiza/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiza/)*

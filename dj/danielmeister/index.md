@@ -1,6 +1,6 @@
 # Daniel Meister
 
-Daniel Meister is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Viadukt Bar, Budapest on Fri, 4 Sept 2026.
+Daniel Meister is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Viadukt Bar, Budapest on Fri, 4 Sept 2026.
 
 Daniel Meister is a house and minimal artist tracked on soundcheck, with 18 sets logged across Berlin, Budapest, Geneva and Munich and 2 more. Often billed alongside Nicolas Duvoisin, Chris Llopis and Cora M.. Next up: Viadukt Bar, Budapest on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Daniel Meister is a house and minimal artist tracked on soundcheck, with 18 sets
 
 Nicolas Duvoisin, Chris Llopis, Cora M.
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmeister/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmeister/)*

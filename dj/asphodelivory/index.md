@@ -1,6 +1,6 @@
 # Asphodel Ivory
 
-Asphodel Ivory is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Middle East, Boston on Sat, 19 Sept 2026.
+Asphodel Ivory is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Middle East, Boston on Sat, 19 Sept 2026.
 
 Asphodel Ivory is a techno and trance artist based in United States of America, tracked on soundcheck, with 3 sets logged across Boston. Often billed alongside Noizcode, Pleasure Coffin and Swan Meat. Next up: The Middle East, Boston on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Asphodel Ivory is a techno and trance artist based in United States of America, 
 
 Noizcode, Pleasure Coffin, Swan Meat
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodelivory/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/asphodelivory/)*

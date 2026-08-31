@@ -1,6 +1,6 @@
 # Innellea
 
-Innellea is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 2 Sept 2026.
+Innellea is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Amnesia Ibiza, Ibiza on Wed, 2 Sept 2026.
 
 Innellea is a techno and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Colyn, Mind Against and 8KAYS. Next up: Amnesia Ibiza, Ibiza on Wed 2 Sept.
 
@@ -28,4 +28,4 @@ Innellea is a techno and house artist tracked on soundcheck, with 139 sets logge
 
 Colyn, Mind Against, 8KAYS
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

@@ -1,6 +1,6 @@
 # S3PPA
 
-S3PPA is a House and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Mondo Open Air, Madrid on Sat, 5 Sept 2026.
+S3PPA is a House and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Mondo Open Air, Madrid on Sat, 5 Sept 2026.
 
 S3PPA is a house and trance artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Dublin and Ibiza and 4 more. Often billed alongside Gerardo Niva, DART and NewTone. Next up: Mondo Open Air, Madrid on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ S3PPA is a house and trance artist tracked on soundcheck, with 22 sets logged ac
 
 Gerardo Niva, DART, NewTone
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*

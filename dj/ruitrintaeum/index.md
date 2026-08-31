@@ -1,6 +1,6 @@
 # Rui Trintaeum
 
-Rui Trintaeum is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Era uma vez no Porto, Porto on Wed, 30 Sept 2026.
+Rui Trintaeum is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Era uma vez no Porto, Porto on Wed, 30 Sept 2026.
 
 Rui Trintaeum is a house and techno artist based in Portugal, tracked on soundcheck, with 45 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Let (3), João Azevedo and D-Compost. Next up: Era uma vez no Porto, Porto on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Rui Trintaeum is a house and techno artist based in Portugal, tracked on soundch
 
 Let (3), João Azevedo, D-Compost
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitrintaeum/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitrintaeum/)*

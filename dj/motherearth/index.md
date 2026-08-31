@@ -1,6 +1,6 @@
 # Mother Earth
 
-Mother Earth is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Mother Earth is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Mother Earth is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Bristol and Frankfurt and 9 more. Often billed alongside Dr Banana, Laidlaw and B.Love. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mother Earth is a house and tech house artist based in United Kingdom, tracked o
 
 Dr Banana, Laidlaw, B.Love
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motherearth/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/motherearth/)*

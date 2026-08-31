@@ -1,6 +1,6 @@
 # RaeCola
 
-RaeCola is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+RaeCola is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
 RaeCola is a house and tech house artist tracked on soundcheck, with 32 sets logged across Austin, Boston, Chicago and Denver and 12 more. Often billed alongside Tinzo, Jojo Lorenzo and Aluna. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ RaeCola is a house and tech house artist tracked on soundcheck, with 32 sets log
 
 Tinzo, Jojo Lorenzo, Aluna
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raecola/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raecola/)*

@@ -1,6 +1,6 @@
 # Debbie
 
-Debbie is a Techno and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at KREUZWERK, Berlin on Sat, 5 Sept 2026.
+Debbie is a Techno and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at KREUZWERK, Berlin on Sat, 5 Sept 2026.
 
 Debbie is a techno and funk / soul artist based in United States of America, tracked on soundcheck, with 5 sets logged across Berlin, Budapest, Chicago and Naples and 1 more. Often billed alongside Alignment, Amphia and Cera Khin. Next up: KREUZWERK, Berlin on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Debbie is a techno and funk / soul artist based in United States of America, tra
 
 Alignment, Amphia, Cera Khin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debbie/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debbie/)*

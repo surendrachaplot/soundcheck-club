@@ -1,6 +1,6 @@
 # Matthew Dexter
 
-Matthew Dexter is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Hertz, Seoul on Sat, 5 Sept 2026.
+Matthew Dexter is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Hertz, Seoul on Sat, 5 Sept 2026.
 
 Matthew Dexter is a house and minimal artist tracked on soundcheck, with 35 sets logged across Amsterdam, Bali, Barcelona and Berlin and 12 more. Often billed alongside Jane Fitz, Carl H and Adam Pits. Next up: Hertz, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Matthew Dexter is a house and minimal artist tracked on soundcheck, with 35 sets
 
 Jane Fitz, Carl H, Adam Pits
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdexter/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdexter/)*

@@ -1,14 +1,13 @@
 # Alarico
 
-Alarico is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 29 Aug 2026.
+Alarico is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Odonien, Cologne on Fri, 4 Sept 2026.
 
-Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: RSO.BERLIN, Berlin on Sat 29 Aug.
+Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Odonien, Cologne on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | RSO.BERLIN | Berlin |
 | Fri, 4 Sept 2026 | Odonien | Cologne |
 | Sat, 5 Sept 2026 | Gate Milano | Milan |
 | Sun, 6 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged
 | Sat, 19 Sept 2026 | Fiducial Asteria | Lyon |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | Tapada da Ajuda | Lisbon |
+| Sat, 10 Oct 2026 | KALT | Strasbourg |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

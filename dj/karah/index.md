@@ -1,6 +1,6 @@
 # KARAH
 
-KARAH is a Techno and Industrial artist with 13 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at E1, London on Fri, 4 Sept 2026.
+KARAH is a Techno and Industrial artist with 13 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at E1, London on Fri, 4 Sept 2026.
 
 KARAH is a techno and industrial artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: E1, London on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ KARAH is a techno and industrial artist tracked on soundcheck, with 146 sets log
 
 KLOFAMA, 6EJOU, Raxeller
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*

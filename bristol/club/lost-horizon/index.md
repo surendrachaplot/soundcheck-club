@@ -1,6 +1,6 @@
 # Lost Horizon
 
-Lost Horizon is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "I Love Acid presents: Om Unit (Acid Dub Studies Live)" on Fri, 4 Sept 2026.
+Lost Horizon is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "I Love Acid presents: Om Unit (Acid Dub Studies Live)" on Fri, 4 Sept 2026.
 
 Lost Horizon is a music venue in Bristol listed on soundcheck. 5 upcoming nights, with line-ups including B.S.E, Bladerunner, Cinquedea and Diagnostix and 2 more. Browse upcoming dates, start times and who's playing. 1-3 Elton Street BS2 9EH Bristol, UK.
 
@@ -18,4 +18,4 @@ Lost Horizon is a music venue in Bristol listed on soundcheck. 5 upcoming nights
 
 1-3 Elton Street BS2 9EH Bristol, UK, Bristol
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*

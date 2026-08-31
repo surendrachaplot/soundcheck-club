@@ -1,6 +1,6 @@
 # Diego Krause
 
-Diego Krause is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at B2 Rīga, Riga on Fri, 16 Oct 2026.
+Diego Krause is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B2 Rīga, Riga on Fri, 16 Oct 2026.
 
 Diego Krause is a house and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Brussels, Dusseldorf and Munich and 1 more. Often billed alongside Nick Beringer, Ady Toledano and Annina. Next up: B2 Rīga, Riga on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Diego Krause is a house and techno artist based in Germany, tracked on soundchec
 
 Nick Beringer, Ady Toledano, Annina
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegokrause/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diegokrause/)*

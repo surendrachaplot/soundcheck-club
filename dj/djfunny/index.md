@@ -1,6 +1,6 @@
 # DJ Funny
 
-DJ Funny is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Space nodeul K , Seoul on Sat, 12 Sept 2026.
+DJ Funny is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Space nodeul K , Seoul on Sat, 12 Sept 2026.
 
 DJ Funny is a house and techno artist tracked on soundcheck, with 112 sets logged across Seoul. Often billed alongside Kim.Qna, SINAHILL and Sunday Lee. Next up: TBA - Space nodeul K , Seoul on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ Funny is a house and techno artist tracked on soundcheck, with 112 sets logge
 
 Kim.Qna, SINAHILL, Sunday Lee
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfunny/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfunny/)*

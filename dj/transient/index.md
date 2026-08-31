@@ -1,6 +1,6 @@
 # Transient
 
-Transient is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Distillery, Leipzig on Fri, 11 Sept 2026.
+Transient is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Distillery, Leipzig on Fri, 11 Sept 2026.
 
 Transient is a drum & bass and house artist tracked on soundcheck, with 3 sets logged across Boston, Leipzig and Sanfrancisco. Often billed alongside Mary Jane (US), Relict and Unglued. Next up: Distillery, Leipzig on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Transient is a drum & bass and house artist tracked on soundcheck, with 3 sets l
 
 Mary Jane (US), Relict, Unglued
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/transient/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/transient/)*

@@ -1,6 +1,6 @@
 # OHM
 
-OHM is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Técnica" on Thu, 3 Sept 2026.
+OHM is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Técnica" on Thu, 3 Sept 2026.
 
 OHM is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Alexy, Anja Schneider, Anna Butter and Antal and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with li
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

@@ -1,14 +1,13 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Max Dean is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Max Dean is a house and tech house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Auckland, Austin and Bali and 38 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Max Dean is a house and tech house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Auckland, Austin and Bali and 38 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | New City Gas | Montreal |
 | Fri, 11 Sept 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
@@ -20,6 +19,7 @@ Max Dean is a house and tech house artist tracked on soundcheck, with 230 sets l
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Mon, 5 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Max Dean is a house and tech house artist tracked on soundcheck, with 230 sets l
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

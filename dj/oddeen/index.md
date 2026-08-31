@@ -1,6 +1,6 @@
 # oddeen
 
-oddeen is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at 가온스테이지, Seoul on Sat, 12 Sept 2026.
+oddeen is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at 가온스테이지, Seoul on Sat, 12 Sept 2026.
 
 oddeen is an experimental and bass artist based in South Korea, tracked on soundcheck, with 11 sets logged across Seoul. Often billed alongside Easymind, KISEWA and ABOPF. Next up: 가온스테이지, Seoul on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ oddeen is an experimental and bass artist based in South Korea, tracked on sound
 
 Easymind, KISEWA, ABOPF
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oddeen/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oddeen/)*

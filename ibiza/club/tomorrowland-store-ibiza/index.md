@@ -1,6 +1,6 @@
 # Tomorrowland Store Ibiza
 
-Tomorrowland Store Ibiza is a music venue in Ibiza with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Tomorrowland Ibiza Rooftop Store - Glauco Di Mambro" on Tue, 1 Sept 2026.
+Tomorrowland Store Ibiza is a music venue in Ibiza with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Tomorrowland Ibiza Rooftop Store - Glauco Di Mambro" on Tue, 1 Sept 2026.
 
 Tomorrowland Store Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming nights, with line-ups including Glauco Di Mambro and Sebastiaan Hooft. Browse upcoming dates, start times and who's playing. Ctra. de Platja d'en Bossa 10, 07817 Sant Jordi de ses Salines, Illes Balears.
 
@@ -17,4 +17,4 @@ Tomorrowland Store Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcom
 
 Ctra. de Platja d'en Bossa 10, 07817 Sant Jordi de ses Salines, Illes Balears, Ibiza
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tomorrowland-store-ibiza/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tomorrowland-store-ibiza/)*

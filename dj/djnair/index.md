@@ -1,6 +1,6 @@
 # NAIR (IN)
 
-NAIR (IN) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Prisma, Berlin on Sun, 6 Sept 2026.
+NAIR (IN) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Prisma, Berlin on Sun, 6 Sept 2026.
 
 NAIR (IN) is a house and afro house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Leeds. Often billed alongside Amed Nheiro, Dj OmarO and ButchVoyage. Next up: Prisma, Berlin on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ NAIR (IN) is a house and afro house artist based in Germany, tracked on soundche
 
 Amed Nheiro, Dj OmarO, ButchVoyage
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnair/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djnair/)*

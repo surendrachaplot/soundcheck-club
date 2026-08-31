@@ -1,14 +1,13 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Luke Dean_ is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Spybar, Chicago on Thu, 3 Sept 2026.
 
-Luke Dean_ is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 29 more. Often billed alongside Max Dean, L.P. Rhythm and Locky. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Luke Dean_ is a house and tech house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 29 more. Often billed alongside Max Dean, L.P. Rhythm and Locky. Next up: Spybar, Chicago on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Thu, 3 Sept 2026 | Spybar | Chicago |
 | Sun, 6 Sept 2026 | New City Gas | Montreal |
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
@@ -36,4 +35,4 @@ Luke Dean_ is a house and tech house artist tracked on soundcheck, with 108 sets
 
 Max Dean, L.P. Rhythm, Locky
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

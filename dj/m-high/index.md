@@ -1,6 +1,6 @@
 # M-High
 
-M-High is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at block., Dublin on Sat, 5 Sept 2026.
+M-High is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at block., Dublin on Sat, 5 Sept 2026.
 
 M-High is a house and tech house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Prunk, Job de Jong and Dennis Quin. Next up: block., Dublin on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ M-High is a house and tech house artist tracked on soundcheck, with 179 sets log
 
 Prunk, Job de Jong, Dennis Quin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*

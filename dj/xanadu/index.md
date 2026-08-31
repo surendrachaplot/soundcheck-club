@@ -1,14 +1,13 @@
 # Xanadu
 
-Xanadu is a Drum & Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+Xanadu is a Drum & Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club Cheek, London on Sat, 7 Nov 2026.
 
-Xanadu is a drum & bass and hip-hop artist tracked on soundcheck, with 5 sets logged across Bristol and London. Often billed alongside Facs, Primitivizm and Scythe. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
+Xanadu is a drum & bass and hip-hop artist tracked on soundcheck, with 5 sets logged across Bristol and London. Often billed alongside Facs, Primitivizm and Scythe. Next up: Club Cheek, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | The Downs, Bristol | Bristol |
 | Sat, 7 Nov 2026 | Club Cheek | London |
 
 ## Recently played
@@ -22,4 +21,4 @@ Xanadu is a drum & bass and hip-hop artist tracked on soundcheck, with 5 sets lo
 
 Facs, Primitivizm, Scythe
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanadu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xanadu/)*

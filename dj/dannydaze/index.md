@@ -1,14 +1,13 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Danny Daze is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Glove That Fits, London on Fri, 4 Sept 2026.
 
-Danny Daze is a house and techno artist tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Jonny From Space, Will Renuart and Nick León. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Danny Daze is a house and techno artist tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Jonny From Space, Will Renuart and Nick León. Next up: The Glove That Fits, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Fri, 4 Sept 2026 | The Glove That Fits | London |
 | Mon, 7 Sept 2026 | 3fifty Terrace | Detroit |
 | Sat, 12 Sept 2026 | Phono Lake | Amsterdam |
@@ -32,4 +31,4 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 158 sets log
 
 Jonny From Space, Will Renuart, Nick León
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

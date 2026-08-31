@@ -1,6 +1,6 @@
 # Bass van Duijn
 
-Bass van Duijn is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
+Bass van Duijn is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
 
 Bass van Duijn is a disco and house artist tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Around Us, Callecat and Gustin. Next up: Kadinsky Cafe, Amsterdam on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ Bass van Duijn is a disco and house artist tracked on soundcheck, with 5 sets lo
 
 Around Us, Callecat, Gustin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvanduijn/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bassvanduijn/)*

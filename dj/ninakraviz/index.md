@@ -1,14 +1,13 @@
 # Nina Kraviz
 
-Nina Kraviz is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
+Nina Kraviz is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Forte Antenne, Rome on Fri, 4 Sept 2026.
 
-Nina Kraviz is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: Amnesia Ibiza, Ibiza on Sun 30 Aug.
+Nina Kraviz is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: Forte Antenne, Rome on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Forte Antenne | Rome |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
@@ -22,6 +21,7 @@ Nina Kraviz is a techno and house artist tracked on soundcheck, with 153 sets lo
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 30 Aug 2026
 - Cavo Paradiso, Mykonos — Thu, 13 Aug 2026
 - Amnesia Ibiza, Ibiza — Sun, 2 Aug 2026
 - Gianpula Village, Malta — Fri, 31 Jul 2026
@@ -29,10 +29,9 @@ Nina Kraviz is a techno and house artist tracked on soundcheck, with 153 sets lo
 - fabric, London — Sat, 25 Jul 2026
 - 528 Ibiza, Ibiza — Mon, 20 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 19 Jul 2026
-- Amnesia Ibiza, Ibiza — Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Adiel, Héctor Oaks, Richie Hawtin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*

@@ -1,6 +1,6 @@
 # Babyccino
 
-Babyccino is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+Babyccino is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 Babyccino is a house and techno artist tracked on soundcheck, with 58 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside McCart, Domenic Cappello and Kairogen. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Babyccino is a house and techno artist tracked on soundcheck, with 58 sets logge
 
 McCart, Domenic Cappello, Kairogen
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*

@@ -1,6 +1,6 @@
 # O/Y
 
-O/Y is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
+O/Y is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
 
 O/Y is a deep house and techno artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Basel, Berlin and Ghent and 9 more. Often billed alongside Black Mirror Park, Telva and Rafush. Next up: Holdenweid, Basel on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ O/Y is a deep house and techno artist based in Germany, tracked on soundcheck, w
 
 Black Mirror Park, Telva, Rafush
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oyberlin/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oyberlin/)*

@@ -1,20 +1,20 @@
 # Chinese Daughter
 
-Chinese Daughter is a Jungle and Garage artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Document, Bristol on Sun, 30 Aug 2026.
+Chinese Daughter is a Jungle and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Chinese Daughter is a jungle and garage artist tracked on soundcheck, with 109 sets logged across Amsterdam, Auckland, Brighton and Bristol and 14 more. Often billed alongside Benton (UK), Loefah and Darkstepper. Next up: Document, Bristol on Sun 30 Aug.
+Chinese Daughter is a jungle and garage artist tracked on soundcheck, with 109 sets logged across Amsterdam, Auckland, Brighton and Bristol and 14 more. Often billed alongside Benton (UK), Loefah and Darkstepper. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Document | Bristol |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 23 Oct 2026 | Rebellion | Manchester |
 | Fri, 27 Nov 2026 | Melkweg | Amsterdam |
 
 ## Recently played
 
+- Document, Bristol — Sun, 30 Aug 2026
 - The Cause, London — Sat, 22 Aug 2026
 - Phonox, London — Fri, 7 Aug 2026
 - Palais, London — Fri, 31 Jul 2026
@@ -22,10 +22,9 @@ Chinese Daughter is a jungle and garage artist tracked on soundcheck, with 109 s
 - The Glove That Fits, London — Sun, 28 Jun 2026
 - Jumbi, London — Fri, 26 Jun 2026
 - Tola, London — Sat, 20 Jun 2026
-- The Fox and Firkin, London — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Benton (UK), Loefah, Darkstepper
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chinesedaughter/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chinesedaughter/)*

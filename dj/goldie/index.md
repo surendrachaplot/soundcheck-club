@@ -1,14 +1,13 @@
 # Goldie
 
-Goldie is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+Goldie is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Phoenix Landing, Boston on Thu, 3 Sept 2026.
 
-Goldie is a drum & bass and jungle artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
+Goldie is a drum & bass and jungle artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: Phoenix Landing, Boston on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | The Downs, Bristol | Bristol |
 | Thu, 3 Sept 2026 | Phoenix Landing | Boston |
 | Fri, 4 Sept 2026 | Paragon | New York City |
 | Sat, 5 Sept 2026 | YuYu Cine Club | Mexico City |
@@ -29,4 +28,4 @@ Goldie is a drum & bass and jungle artist tracked on soundcheck, with 158 sets l
 
 Ant TC1, Doc Scott, Special Request
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*

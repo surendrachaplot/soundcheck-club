@@ -1,6 +1,6 @@
 # Foxtrot (2)
 
-Foxtrot (2) is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Dalston Den, London on Fri, 4 Sept 2026.
+Foxtrot (2) is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Dalston Den, London on Fri, 4 Sept 2026.
 
 Foxtrot (2) is a techno and dub techno artist tracked on soundcheck, with 8 sets logged across Auckland, London, Nantes and Sydney. Often billed alongside Caru (NZ), Clay Louis and Peach Milk. Next up: Dalston Den, London on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Foxtrot (2) is a techno and dub techno artist tracked on soundcheck, with 8 sets
 
 Caru (NZ), Clay Louis, Peach Milk
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*

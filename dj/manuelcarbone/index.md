@@ -1,6 +1,6 @@
 # Manuel Carbone
 
-Manuel Carbone is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Giri, Berlin on Wed, 2 Sept 2026.
+Manuel Carbone is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Giri, Berlin on Wed, 2 Sept 2026.
 
 Manuel Carbone is an experimental and ambient artist based in Italy, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Airaboi, Harp-a and Lutz Gallmeister. Next up: Giri, Berlin on Wed 2 Sept.
 
@@ -21,4 +21,4 @@ Manuel Carbone is an experimental and ambient artist based in Italy, tracked on 
 
 Airaboi, Harp-a, Lutz Gallmeister
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelcarbone/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelcarbone/)*

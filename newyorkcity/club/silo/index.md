@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Open Decks with STEEN & Bojaq" on Tue, 1 Sept 2026.
+SILO is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Open Decks with STEEN & Bojaq" on Tue, 1 Sept 2026.
 
 SILO is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including Amiti, Anthony Romano, Anyasa and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -23,4 +23,4 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, w
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

@@ -1,6 +1,6 @@
 # Alessandro Gaia
 
-Alessandro Gaia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Hotel Butterfly, Rome on Thu, 3 Sept 2026.
+Alessandro Gaia is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Hotel Butterfly, Rome on Thu, 3 Sept 2026.
 
 Alessandro Gaia is a techno and electro artist tracked on soundcheck, with 2 sets logged across Berlin and Rome. Often billed alongside GNMR, Alex Neri and Alexandra. Next up: Hotel Butterfly, Rome on Thu 3 Sept.
 
@@ -18,4 +18,4 @@ Alessandro Gaia is a techno and electro artist tracked on soundcheck, with 2 set
 
 GNMR, Alex Neri, Alexandra
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandrogaia/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandrogaia/)*

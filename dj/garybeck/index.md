@@ -1,6 +1,6 @@
 # Gary Beck
 
-Gary Beck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at McChuills Music Bar, Glasgow on Sat, 28 Nov 2026.
+Gary Beck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at McChuills Music Bar, Glasgow on Sat, 28 Nov 2026.
 
 Gary Beck is a techno and house artist tracked on soundcheck, with 39 sets logged across Aberdeen, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Co-Accused, Frazi.er and Dave Clarke. Next up: McChuills Music Bar, Glasgow on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Gary Beck is a techno and house artist tracked on soundcheck, with 39 sets logge
 
 Co-Accused, Frazi.er, Dave Clarke
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/garybeck/)*

@@ -1,6 +1,6 @@
 # Pergo
 
-Pergo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Laboratorio Octogon, Madrid on Fri, 18 Sept 2026.
+Pergo is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Laboratorio Octogon, Madrid on Fri, 18 Sept 2026.
 
 Pergo is a techno and club artist tracked on soundcheck, with 19 sets logged across Barcelona, Madrid, Malaga and Paris and 3 more. Often billed alongside Anna Jevills, Horacio Cruz and Vibrations of Gravity. Next up: Laboratorio Octogon, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Pergo is a techno and club artist tracked on soundcheck, with 19 sets logged acr
 
 Anna Jevills, Horacio Cruz, Vibrations of Gravity
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pergo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pergo/)*

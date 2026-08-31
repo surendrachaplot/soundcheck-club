@@ -1,6 +1,6 @@
 # ABOPF
 
-ABOPF is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Cakeshop, Seoul on Thu, 3 Sept 2026.
+ABOPF is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Cakeshop, Seoul on Thu, 3 Sept 2026.
 
 ABOPF is an experimental and bass artist tracked on soundcheck, with 14 sets logged across Berlin and Seoul. Often billed alongside Yetsuby, dayoung and Arexibo. Next up: Cakeshop, Seoul on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ ABOPF is an experimental and bass artist tracked on soundcheck, with 14 sets log
 
 Yetsuby, dayoung, Arexibo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abopf/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/abopf/)*

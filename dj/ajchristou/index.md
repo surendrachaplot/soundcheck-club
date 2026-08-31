@@ -1,6 +1,6 @@
 # AJ Christou
 
-AJ Christou is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Stratus Lounge, Philadelphia on Sun, 30 Aug 2026.
+AJ Christou is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Stratus Lounge, Philadelphia on Sun, 30 Aug 2026.
 
 AJ Christou is a tech house and house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 21 more. Often billed alongside Mason Collective, Fleur Shore and Jesse Calosso. Next up: Stratus Lounge, Philadelphia on Sun 30 Aug.
 
@@ -14,6 +14,7 @@ AJ Christou is a tech house and house artist tracked on soundcheck, with 106 set
 
 ## Recently played
 
+- Stratus Lounge, Philadelphia — Sun, 30 Aug 2026
 - Thuishaven, Amsterdam — Sun, 23 Aug 2026
 - [UNVRS], Ibiza — Wed, 19 Aug 2026
 - Gallery, London — Thu, 13 Aug 2026
@@ -21,10 +22,9 @@ AJ Christou is a tech house and house artist tracked on soundcheck, with 106 set
 - Jolene Downtown Miami, Miami — Fri, 3 Jul 2026
 - [UNVRS], Ibiza — Wed, 24 Jun 2026
 - Ku Barcelona, Barcelona — Sun, 21 Jun 2026
-- Ku Barcelona, Barcelona — Tue, 16 Jun 2026
 
 ## Shares bills with
 
 Mason Collective, Fleur Shore, Jesse Calosso
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*

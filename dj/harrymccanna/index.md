@@ -1,14 +1,13 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Harry McCanna is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Liverpool on Sat, 5 Sept 2026.
 
-Harry McCanna is a house and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Harry McCanna is a house and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: TBA, Liverpool on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 5 Sept 2026 | TBA | Liverpool |
 | Fri, 11 Sept 2026 | FOLD | London |
 | Sat, 12 Sept 2026 | Starlane Pizza Bar | London |
@@ -32,4 +31,4 @@ Harry McCanna is a house and tech house artist tracked on soundcheck, with 134 s
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

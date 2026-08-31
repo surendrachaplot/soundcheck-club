@@ -1,6 +1,6 @@
 # GODOT
 
-GODOT is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Cakeshop, Seoul on Tue, 1 Sept 2026.
+GODOT is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Cakeshop, Seoul on Tue, 1 Sept 2026.
 
 GODOT is a garage and bass artist tracked on soundcheck, with 5 sets logged across Seoul. Often billed alongside AEIDA, BAAWLA and DDD (2). Next up: Cakeshop, Seoul on Tue 1 Sept.
 
@@ -21,4 +21,4 @@ GODOT is a garage and bass artist tracked on soundcheck, with 5 sets logged acro
 
 AEIDA, BAAWLA, DDD (2)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godot/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/godot/)*

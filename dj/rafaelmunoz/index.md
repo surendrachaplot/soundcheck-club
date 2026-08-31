@@ -1,8 +1,8 @@
 # Rafael Munoz
 
-Rafael Munoz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Chinastraat, Ghent on Fri, 4 Sept 2026.
+Rafael Munoz is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Chinastraat, Ghent on Fri, 4 Sept 2026.
 
-Rafael Munoz is a techno and house artist based in Belgium, tracked on soundcheck, with 34 sets logged across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Initial Code, Max. (BE) and ABSL. Next up: Chinastraat, Ghent on Fri 4 Sept.
+Rafael Munoz is a techno and house artist based in Belgium, tracked on soundcheck, with 35 sets logged across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Initial Code, Max. (BE) and ABSL. Next up: Chinastraat, Ghent on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rafael Munoz is a techno and house artist based in Belgium, tracked on soundchec
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Chinastraat | Ghent |
 | Sat, 5 Sept 2026 | C12 | Brussels |
+| Fri, 25 Sept 2026 | Funke | Ghent |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Rafael Munoz is a techno and house artist based in Belgium, tracked on soundchec
 
 Initial Code, Max. (BE), ABSL
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelmunoz/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelmunoz/)*

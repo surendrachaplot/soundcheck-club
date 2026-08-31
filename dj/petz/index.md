@@ -1,6 +1,6 @@
 # Petz
 
-Petz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
+Petz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
 
 Petz is a house and garage artist tracked on soundcheck, with 6 sets logged across Leeds and Tokyo. Often billed alongside Mylania, ad*n and camukg. Next up: Beaver Works, Leeds on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Petz is a house and garage artist tracked on soundcheck, with 6 sets logged acro
 
 Mylania, ad*n, camukg
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petz/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petz/)*

@@ -1,6 +1,6 @@
 # Sejong Center for the Performing Arts
 
-Sejong Center for the Performing Arts is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Mushroom House by Sync Next 26" on Fri, 4 Sept 2026.
+Sejong Center for the Performing Arts is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Mushroom House by Sync Next 26" on Fri, 4 Sept 2026.
 
 Sejong Center for the Performing Arts is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including HYPNOSIS THERAPY. Browse upcoming dates, start times and who's playing. 175, Sejong-daero, Jongno-gu, Seoul, 03172.
 
@@ -15,4 +15,4 @@ Sejong Center for the Performing Arts is a music venue in Seoul listed on soundc
 
 175, Sejong-daero, Jongno-gu, Seoul, 03172, Seoul
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/sejong-center-for-the-performing-arts/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/sejong-center-for-the-performing-arts/)*

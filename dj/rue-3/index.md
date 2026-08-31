@@ -1,6 +1,6 @@
 # rue (3)
 
-rue (3) is a Club and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Blank Site, Seoul on Fri, 4 Sept 2026.
+rue (3) is a Club and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Blank Site, Seoul on Fri, 4 Sept 2026.
 
 rue (3) is a club and electro artist based in South Korea, tracked on soundcheck, with 20 sets logged across Seoul. Often billed alongside MOHOHOMO, Excultist and DDD (2). Next up: Blank Site, Seoul on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ rue (3) is a club and electro artist based in South Korea, tracked on soundcheck
 
 MOHOHOMO, Excultist, DDD (2)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-3/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rue-3/)*

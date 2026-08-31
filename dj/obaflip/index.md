@@ -1,6 +1,6 @@
 # OBA+FLIP
 
-OBA+FLIP is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at House of Yes, New York City on Fri, 25 Sept 2026.
+OBA+FLIP is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at House of Yes, New York City on Fri, 25 Sept 2026.
 
 OBA+FLIP is a house and deep house artist tracked on soundcheck, with 38 sets logged across Berlin and Newyorkcity. Often billed alongside Lovecraft, Daniel Cowel and Mira. Next up: House of Yes, Newyorkcity on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ OBA+FLIP is a house and deep house artist tracked on soundcheck, with 38 sets lo
 
 Lovecraft, Daniel Cowel, Mira
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obaflip/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obaflip/)*

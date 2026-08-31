@@ -1,6 +1,6 @@
 # Lau.tastic
 
-Lau.tastic is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at E1, London on Fri, 4 Sept 2026.
+Lau.tastic is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at E1, London on Fri, 4 Sept 2026.
 
 Lau.tastic is a techno and industrial artist tracked on soundcheck, with 87 sets logged across Berlin, Birmingham, Brighton and Bristol and 4 more. Often billed alongside Dres Codex, KASTILO and Labåzuy. Next up: E1, London on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Lau.tastic is a techno and industrial artist tracked on soundcheck, with 87 sets
 
 Dres Codex, KASTILO, Labåzuy
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lautastic/)*

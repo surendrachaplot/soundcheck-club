@@ -1,6 +1,6 @@
 # Boon (UK)
 
-Boon (UK) is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lab11, Birmingham on Sat, 5 Sept 2026.
+Boon (UK) is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Lab11, Birmingham on Sat, 5 Sept 2026.
 
 Boon (UK) is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Birmingham, Ibiza, Leeds and London and 2 more. Often billed alongside Steven Cee, Jnr Windross and Sy Sez. Next up: Lab11, Birmingham on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Boon (UK) is a deep house and house artist based in United Kingdom, tracked on s
 
 Steven Cee, Jnr Windross, Sy Sez
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boonuk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boonuk/)*

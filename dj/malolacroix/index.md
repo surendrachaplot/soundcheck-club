@@ -1,8 +1,8 @@
 # Malo Lacroix
 
-Malo Lacroix is a Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Malo Lacroix is a Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
-Malo Lacroix is an experimental artist based in France, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside Alex Smoke, Alif Hilal and Alliyah Enyo. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
+Malo Lacroix is an experimental artist based in France, tracked on soundcheck, with 1 set logged across Glasgow. Often billed alongside aya, Suzanne Ciani and Konx-om-Pax. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Malo Lacroix is an experimental artist based in France, tracked on soundcheck, w
 
 ## Shares bills with
 
-Alex Smoke, Alif Hilal, Alliyah Enyo
+aya, Suzanne Ciani, Konx-om-Pax
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malolacroix/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malolacroix/)*

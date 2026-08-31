@@ -1,6 +1,6 @@
 # KLÖSS
 
-KLÖSS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mia Mao, Paris on Sat, 12 Sept 2026.
+KLÖSS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mia Mao, Paris on Sat, 12 Sept 2026.
 
 KLÖSS is a techno and trance artist tracked on soundcheck, with 4 sets logged across Berlin and Paris. Often billed alongside FC Kabagar, Amygdala and Annie. Next up: Mia Mao, Paris on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ KLÖSS is a techno and trance artist tracked on soundcheck, with 4 sets logged a
 
 FC Kabagar, Amygdala, Annie
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloss/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kloss/)*

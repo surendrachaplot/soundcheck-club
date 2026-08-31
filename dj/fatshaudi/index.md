@@ -1,6 +1,6 @@
 # Fatshaudi
 
-Fatshaudi is a Downtempo and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Oxford Art Factory, Sydney on Fri, 25 Sept 2026.
+Fatshaudi is a Downtempo and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Oxford Art Factory, Sydney on Fri, 25 Sept 2026.
 
 Fatshaudi is a downtempo and experimental artist tracked on soundcheck, with 19 sets logged across Berlin, Brisbane, Melbourne and Paris and 1 more. Often billed alongside James Massiah, Mike Midnight and Quincy Raw. Next up: Oxford Art Factory, Sydney on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Fatshaudi is a downtempo and experimental artist tracked on soundcheck, with 19 
 
 James Massiah, Mike Midnight, Quincy Raw
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatshaudi/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatshaudi/)*

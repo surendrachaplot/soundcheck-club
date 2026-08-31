@@ -1,6 +1,6 @@
 # Kernel
 
-Kernel is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Turbina, Budapest on Fri, 4 Sept 2026.
+Kernel is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Turbina, Budapest on Fri, 4 Sept 2026.
 
 Kernel is a house and minimal artist tracked on soundcheck, with 43 sets logged across Amsterdam, Brighton, Bristol and Budapest and 2 more. Often billed alongside Kirill, Electric Boutique and Captain Knuckles. Next up: Turbina, Budapest on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Kernel is a house and minimal artist tracked on soundcheck, with 43 sets logged 
 
 Kirill, Electric Boutique, Captain Knuckles
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kernel/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kernel/)*

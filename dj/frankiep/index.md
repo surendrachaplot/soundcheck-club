@@ -1,6 +1,6 @@
 # Frankie P.
 
-Frankie P. is a Minimal Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Flash, Washington DC on Sat, 12 Sept 2026.
+Frankie P. is a Minimal Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Flash, Washington DC on Sat, 12 Sept 2026.
 
 Frankie P. is a minimal techno and progressive house artist tracked on soundcheck, with 2 sets logged across Washingtondc. Often billed alongside Burl Faircloth, Catarina Silva and Detroit In Effect. Next up: Flash, Washingtondc on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Frankie P. is a minimal techno and progressive house artist tracked on soundchec
 
 Burl Faircloth, Catarina Silva, Detroit In Effect
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiep/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiep/)*

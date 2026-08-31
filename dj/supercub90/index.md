@@ -1,6 +1,6 @@
 # SuperCub90
 
-SuperCub90 is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+SuperCub90 is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 SuperCub90 is an electronic artist based in Greece, tracked on soundcheck, with 15 sets logged across Athens. Often billed alongside Piece of Kate, Datalogs and IMPVLSIV. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ SuperCub90 is an electronic artist based in Greece, tracked on soundcheck, with 
 
 Piece of Kate, Datalogs, IMPVLSIV
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supercub90/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/supercub90/)*

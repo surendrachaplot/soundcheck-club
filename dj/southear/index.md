@@ -1,6 +1,6 @@
 # Southear
 
-Southear is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Specka, Madrid on Fri, 11 Sept 2026.
+Southear is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Specka, Madrid on Fri, 11 Sept 2026.
 
 Southear is an electronica and techno artist tracked on soundcheck, with 3 sets logged across Madrid. Often billed alongside Anxiety for Living, Deto and LVCA (2). Next up: Specka, Madrid on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Southear is an electronica and techno artist tracked on soundcheck, with 3 sets 
 
 Anxiety for Living, Deto, LVCA (2)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/southear/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/southear/)*

@@ -1,6 +1,6 @@
 # Studio the Venue
 
-Studio the Venue is a music venue in Auckland with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Pola & Bryson (Auckland)" on Fri, 4 Sept 2026.
+Studio the Venue is a music venue in Auckland with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Pola & Bryson (Auckland)" on Fri, 4 Sept 2026.
 
 Studio the Venue is a music venue in Auckland listed on soundcheck. 3 upcoming nights, with line-ups including Danny Byrd, Hoax (UK), Pola & Bryson and Unglued. Browse upcoming dates, start times and who's playing. 340 Karangahape Road Auckland 1010 New Zealand.
 
@@ -16,4 +16,4 @@ Studio the Venue is a music venue in Auckland listed on soundcheck. 3 upcoming n
 
 340 Karangahape Road Auckland 1010 New Zealand, Auckland
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/studio-the-venue/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/studio-the-venue/)*

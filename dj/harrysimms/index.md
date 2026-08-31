@@ -1,6 +1,6 @@
 # Harry Simms
 
-Harry Simms is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Piccadilly Central, Manchester on Fri, 4 Sept 2026.
+Harry Simms is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Piccadilly Central, Manchester on Fri, 4 Sept 2026.
 
 Harry Simms is an electro and acid artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Manchester. Often billed alongside Buddy. (2), Cersy and Ethan McNamara. Next up: Piccadilly Central, Manchester on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Harry Simms is an electro and acid artist based in United Kingdom, tracked on so
 
 Buddy. (2), Cersy, Ethan McNamara
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrysimms/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrysimms/)*

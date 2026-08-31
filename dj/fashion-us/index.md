@@ -1,6 +1,6 @@
 # FASHION (US)
 
-FASHION (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Padimai Art & Tech Studio, Singapore on Sat, 12 Sept 2026.
+FASHION (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Padimai Art & Tech Studio, Singapore on Sat, 12 Sept 2026.
 
 FASHION (US) is a techno and club artist based in United States of America, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 9 more. Often billed alongside Makadsi, Memphy and Sausha. Next up: Padimai Art & Tech Studio, Singapore on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ FASHION (US) is a techno and club artist based in United States of America, trac
 
 Makadsi, Memphy, Sausha
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fashion-us/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fashion-us/)*

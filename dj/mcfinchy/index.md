@@ -1,6 +1,6 @@
 # MC Finchy
 
-MC Finchy is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at SWG3, Glasgow on Sat, 7 Nov 2026.
+MC Finchy is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at SWG3, Glasgow on Sat, 7 Nov 2026.
 
 MC Finchy is a trance and hardcore artist tracked on soundcheck, with 4 sets logged across Glasgow, Leeds, Liverpool and Manchester. Often billed alongside Ultrabeat, Big Ang and Billy Gillies. Next up: SWG3, Glasgow on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ MC Finchy is a trance and hardcore artist tracked on soundcheck, with 4 sets log
 
 Ultrabeat, Big Ang, Billy Gillies
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfinchy/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfinchy/)*

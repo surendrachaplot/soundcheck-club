@@ -1,6 +1,6 @@
 # Sala Cocó
 
-Sala Cocó is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "HYBRID: Pepo" on Sat, 5 Sept 2026.
+Sala Cocó is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "HYBRID: Pepo" on Sat, 5 Sept 2026.
 
 Sala Cocó is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including BTFL, Dj Pepo, KITAE and M.I.XX.I and 2 more. Browse upcoming dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
 
@@ -17,4 +17,4 @@ Sala Cocó is a music venue in Madrid listed on soundcheck. 4 upcoming nights, w
 
 Calle Alcalá 20, 28014 Madrid, Spain, Madrid
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*

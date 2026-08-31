@@ -1,18 +1,18 @@
 # ANESI
 
-ANESI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 30 Aug 2026.
+ANESI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 6 Sept 2026.
 
-ANESI is a house and techno artist based in Hungary, tracked on soundcheck, with 23 sets logged across Budapest. Often billed alongside Ratkay, Viktor Bondar and Zorall. Next up: Pontoon Budapest, Budapest on Sun 30 Aug.
+ANESI is a house and techno artist based in Hungary, tracked on soundcheck, with 23 sets logged across Budapest. Often billed alongside Ratkay, Viktor Bondar and Zorall. Next up: Pontoon Budapest, Budapest on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Pontoon Budapest | Budapest |
 | Sun, 6 Sept 2026 | Pontoon Budapest | Budapest |
 
 ## Recently played
 
+- Pontoon Budapest, Budapest — Sun, 30 Aug 2026
 - Pontoon Budapest, Budapest — Sun, 2 Aug 2026
 - Zsiráf, Budapest — Fri, 17 Jul 2026
 - Pontoon Budapest, Budapest — Sun, 7 Jun 2026
@@ -20,10 +20,9 @@ ANESI is a house and techno artist based in Hungary, tracked on soundcheck, with
 - 9UP Rooftop Bar, Budapest — Sat, 2 May 2026
 - Zsiráf, Budapest — Sat, 2 May 2026
 - Very Small Club, Budapest — Sat, 4 Apr 2026
-- Moby Budapest, Budapest — Sat, 8 Nov 2025
 
 ## Shares bills with
 
 Ratkay, Viktor Bondar, Zorall
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anesi/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anesi/)*

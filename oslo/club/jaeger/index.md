@@ -1,6 +1,6 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 10 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Jaeger Mix: Simon Tyv" on Wed, 2 Sept 2026.
+Jaeger is a music venue in Oslo with 10 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Jaeger Mix: Simon Tyv" on Wed, 2 Sept 2026.
 
 Jaeger is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with line-ups including Cestlek, Cody Currie, Mozzy and Einmusik and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
@@ -23,4 +23,4 @@ Jaeger is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with l
 
 Grensen 9; 0159 Oslo; Norway,, Oslo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/jaeger/)*

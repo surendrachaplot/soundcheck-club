@@ -1,13 +1,14 @@
 # Mario Liberti
 
-Mario Liberti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Jolene Downtown Miami, Miami on Sat, 5 Sept 2026.
+Mario Liberti is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - GreenRoom, New York City on Thu, 3 Sept 2026.
 
-Mario Liberti is a house and techno artist tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Boston and Brussels and 9 more. Often billed alongside Arthur Nozen, Alexkid and Robert Drewek. Next up: Jolene Downtown Miami, Miami on Sat 5 Sept.
+Mario Liberti is a house and techno artist tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Boston and Brussels and 9 more. Often billed alongside Arthur Nozen, Alexkid and Robert Drewek. Next up: TBA - GreenRoom, Newyorkcity on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | TBA - GreenRoom | New York City |
 | Sat, 5 Sept 2026 | Jolene Downtown Miami | Miami |
 | Sat, 12 Sept 2026 | TBA - DTLA | Los Angeles |
 
@@ -26,4 +27,4 @@ Mario Liberti is a house and techno artist tracked on soundcheck, with 37 sets l
 
 Arthur Nozen, Alexkid, Robert Drewek
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marioliberti/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marioliberti/)*

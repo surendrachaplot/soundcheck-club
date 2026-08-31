@@ -1,6 +1,6 @@
 # DEP (LV)
 
-DEP (LV) is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
+DEP (LV) is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
 
 DEP (LV) is a techno and breakbeat artist based in Latvia, tracked on soundcheck, with 8 sets logged across Riga. Often billed alongside Aniri Chan, ANASI and ANNDRA. Next up: Korpuss, Riga on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ DEP (LV) is a techno and breakbeat artist based in Latvia, tracked on soundcheck
 
 Aniri Chan, ANASI, ANNDRA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deplv/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deplv/)*

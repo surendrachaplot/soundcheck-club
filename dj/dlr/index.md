@@ -1,8 +1,8 @@
 # DLR
 
-DLR is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+DLR is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-DLR is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 21 more. Often billed alongside MC Gusto, Gusto and Break. Next up: UNO MALTA, Malta on Thu 3 Sept.
+DLR is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 21 more. Often billed alongside MC Gusto, Gusto and Break. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DLR is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 24 Oct 2026 | Phonox | London |
+| Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DLR is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 
 MC Gusto, Gusto, Break
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*

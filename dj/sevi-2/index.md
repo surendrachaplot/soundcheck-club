@@ -1,8 +1,8 @@
 # Sevi (2)
 
-Sevi (2) is a Broken Beat and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Cakeshop, Seoul on Sat, 26 Sept 2026.
+Sevi (2) is a Bass and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Cakeshop, Seoul on Sat, 26 Sept 2026.
 
-Sevi (2) is a broken beat and bass artist based in South Korea, tracked on soundcheck, with 1 set logged across Seoul. Often billed alongside Nimvy, Small Crab (2) and Tabris. Next up: Cakeshop, Seoul on Sat 26 Sept.
+Sevi (2) is a bass and broken beat artist based in South Korea, tracked on soundcheck, with 1 set logged across Seoul. Often billed alongside Small Crab (2), Tabris and Nimvy. Next up: Cakeshop, Seoul on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Sevi (2) is a broken beat and bass artist based in South Korea, tracked on sound
 
 ## Shares bills with
 
-Nimvy, Small Crab (2), Tabris
+Small Crab (2), Tabris, Nimvy
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevi-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sevi-2/)*

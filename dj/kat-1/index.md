@@ -1,6 +1,6 @@
 # KAT (1)
 
-KAT (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Noctis, 87 Rue de Strasbourg, 93200 Saint-Denis, France, Paris on Sat, 12 Sept 2026.
+KAT (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Noctis, 87 Rue de Strasbourg, 93200 Saint-Denis, France, Paris on Sat, 12 Sept 2026.
 
 KAT (1) is an electronic artist based in Colombia, tracked on soundcheck, with 1 set logged across Paris. Often billed alongside Killoverjoy and Sasa. Next up: TBA - Noctis, 87 Rue de Strasbourg, 93200 Saint-Denis, France, Paris on Sat 12 Sept.
 
@@ -14,4 +14,4 @@ KAT (1) is an electronic artist based in Colombia, tracked on soundcheck, with 1
 
 Killoverjoy, Sasa
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kat-1/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kat-1/)*

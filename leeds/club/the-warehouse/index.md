@@ -1,6 +1,6 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 11 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Opening Party - Enzo is Burning" on Fri, 18 Sept 2026.
+The Warehouse is a music venue in Leeds with 11 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Opening Party - Enzo is Burning" on Fri, 18 Sept 2026.
 
 The Warehouse is a music venue in Leeds listed on soundcheck. 11 upcoming nights, with line-ups including ATRIP, Big Ang, BTAY and Champion and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 11 upcoming nights
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

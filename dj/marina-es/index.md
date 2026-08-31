@@ -1,6 +1,6 @@
 # MARINA\
 
-MARINA\ is a House and New Wave artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Rouge, Barcelona on Thu, 3 Sept 2026.
+MARINA\ is a House and New Wave artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Rouge, Barcelona on Thu, 3 Sept 2026.
 
 MARINA\ is a house and new wave artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Arielo, Steeevie and juliboe. Next up: Rouge, Barcelona on Thu 3 Sept.
 
@@ -19,4 +19,4 @@ MARINA\ is a house and new wave artist tracked on soundcheck, with 3 sets logged
 
 Arielo, Steeevie, juliboe
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marina-es/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marina-es/)*

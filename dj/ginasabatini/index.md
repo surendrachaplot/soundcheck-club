@@ -1,6 +1,6 @@
 # Gina Sabatini
 
-Gina Sabatini is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at gART.n, Berlin on Sun, 6 Sept 2026.
+Gina Sabatini is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at gART.n, Berlin on Sun, 6 Sept 2026.
 
 Gina Sabatini is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside Sarah Kreis, Caleesi and Mira. Next up: gART.n, Berlin on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Gina Sabatini is a techno and house artist based in Germany, tracked on soundche
 
 Sarah Kreis, Caleesi, Mira
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginasabatini/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ginasabatini/)*

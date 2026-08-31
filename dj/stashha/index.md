@@ -1,6 +1,6 @@
 # Stashha
 
-Stashha is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Drugstore Beograd, Belgrade on Sat, 19 Sept 2026.
+Stashha is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Drugstore Beograd, Belgrade on Sat, 19 Sept 2026.
 
 Stashha is a techno and industrial artist based in Serbia, tracked on soundcheck, with 3 sets logged across Belgrade. Often billed alongside Commissar  Lag, D|K|OXY and Maschietto. Next up: Drugstore Beograd, Belgrade on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Stashha is a techno and industrial artist based in Serbia, tracked on soundcheck
 
 Commissar  Lag, D|K|OXY, Maschietto
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stashha/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stashha/)*

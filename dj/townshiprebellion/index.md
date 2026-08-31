@@ -1,14 +1,13 @@
 # Township Rebellion
 
-Township Rebellion is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+Township Rebellion is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 24 Oct 2026.
 
-Township Rebellion is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Basel and Berlin and 34 more. Often billed alongside Kaufmann, Prismode and Solvane. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
+Township Rebellion is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Basel and Berlin and 34 more. Often billed alongside Kaufmann, Prismode and Solvane. Next up: Fridas Pier, Stuttgart on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Hamburg Cruise Center Altona | Hamburg |
 | Sat, 24 Oct 2026 | Fridas Pier | Stuttgart |
 | Sat, 14 Nov 2026 | Exchange LA | Los Angeles |
 | Sat, 21 Nov 2026 | Kesselhaus | Berlin |
@@ -28,4 +27,4 @@ Township Rebellion is a techno and house artist tracked on soundcheck, with 123 
 
 Kaufmann, Prismode, Solvane
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*

@@ -1,6 +1,6 @@
 # Michael James (2)
 
-Michael James (2) is a Minimal Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 19 Sept 2026.
+Michael James (2) is a Minimal Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Gorg-O-Mish, Vancouver on Sat, 19 Sept 2026.
 
 Michael James (2) is a minimal techno and dub artist tracked on soundcheck, with 3 sets logged across Vancouver. Often billed alongside ATYYA, Hologramme and Zeyda. Next up: Gorg-O-Mish, Vancouver on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Michael James (2) is a minimal techno and dub artist tracked on soundcheck, with
 
 ATYYA, Hologramme, Zeyda
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeljames-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeljames-2/)*

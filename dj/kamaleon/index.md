@@ -1,14 +1,13 @@
 # Kamäleon
 
-Kamäleon is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+Kamäleon is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Lokschuppen Berlin, Berlin on Fri, 18 Sept 2026.
 
-Kamäleon is a trance and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside two girls one mom, DICE and 4NOUK. Next up: ://about blank, Berlin on Fri 28 Aug.
+Kamäleon is a trance and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside two girls one mom, DICE and 4NOUK. Next up: Lokschuppen Berlin, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | ://about blank | Berlin |
 | Fri, 18 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 23 Oct 2026 | Lokschuppen Berlin | Berlin |
 
@@ -27,4 +26,4 @@ Kamäleon is a trance and techno artist based in Germany, tracked on soundcheck,
 
 two girls one mom, DICE, 4NOUK
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamaleon/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kamaleon/)*

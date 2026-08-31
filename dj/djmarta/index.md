@@ -1,6 +1,6 @@
 # DJ Marta
 
-DJ Marta is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fabrik, Madrid on Sat, 28 Nov 2026.
+DJ Marta is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fabrik, Madrid on Sat, 28 Nov 2026.
 
 DJ Marta is an electronic artist tracked on soundcheck, with 25 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Da Terror, 3ple Kix and Frank Trax. Next up: Fabrik, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Marta is an electronic artist tracked on soundcheck, with 25 sets logged acro
 
 Da Terror, 3ple Kix, Frank Trax
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarta/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarta/)*

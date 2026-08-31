@@ -1,6 +1,6 @@
 # HIJINX
 
-HIJINX is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Outernet Live, London on Fri, 4 Sept 2026.
+HIJINX is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Outernet Live, London on Fri, 4 Sept 2026.
 
 HIJINX is a dubstep and bass artist tracked on soundcheck, with 23 sets logged across Berlin, Bristol, Chicago and Leeds and 7 more. Often billed alongside Alix Perez, SGT Pokes and Cesco. Next up: Outernet Live, London on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ HIJINX is a dubstep and bass artist tracked on soundcheck, with 23 sets logged a
 
 Alix Perez, SGT Pokes, Cesco
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hijinx/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hijinx/)*

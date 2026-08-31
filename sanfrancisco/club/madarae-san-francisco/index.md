@@ -1,6 +1,6 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Tim Engelhardt at MADARAE SAN FRANCISCO" on Sat, 5 Sept 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Tim Engelhardt at MADARAE SAN FRANCISCO" on Sat, 5 Sept 2026.
 
 Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 4 upcoming nights, with line-ups including Amour Propre, MAGA, Malive and Tim Engelhardt. Browse upcoming dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
@@ -17,4 +17,4 @@ Madarae San Francisco is a music venue in Sanfrancisco listed on soundcheck. 4 u
 
 46 Minna St, San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*

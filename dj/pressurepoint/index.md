@@ -1,6 +1,6 @@
 # Pressure Point
 
-Pressure Point is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at High Tide, Los Angeles on Sat, 5 Sept 2026.
+Pressure Point is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at High Tide, Los Angeles on Sat, 5 Sept 2026.
 
 Pressure Point is a techno and house artist based in Italy, tracked on soundcheck, with 14 sets logged across Berlin, Losangeles, Miami and Milan. Often billed alongside Berrakka, Mr. Bitch and SATURNSARii. Next up: High Tide, Losangeles on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Pressure Point is a techno and house artist based in Italy, tracked on soundchec
 
 Berrakka, Mr. Bitch, SATURNSARii
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pressurepoint/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pressurepoint/)*

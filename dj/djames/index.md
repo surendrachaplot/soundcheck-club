@@ -1,6 +1,6 @@
 # DJames
 
-DJames is a Techno and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+DJames is a Techno and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 DJames is a techno and afrobeat artist tracked on soundcheck, with 19 sets logged across Berlin, Glasgow, London and Manchester and 3 more. Often billed alongside AVHD, Takē and ishka machina. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DJames is a techno and afrobeat artist tracked on soundcheck, with 19 sets logge
 
 AVHD, Takē, ishka machina
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djames/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djames/)*

@@ -1,6 +1,6 @@
 # Target Demographic
 
-Target Demographic is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Forge, Bucharest on Fri, 9 Oct 2026.
+Target Demographic is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Forge, Bucharest on Fri, 9 Oct 2026.
 
 Target Demographic is a house and techno artist tracked on soundcheck, with 22 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Shaolin Cowboy, Baltra and DJ Cinéma Quartier Latin. Next up: Forge, Bucharest on Fri 9 Oct.
 
@@ -35,4 +35,4 @@ Target Demographic is a house and techno artist tracked on soundcheck, with 22 s
 
 Shaolin Cowboy, Baltra, DJ Cinéma Quartier Latin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*

@@ -1,6 +1,6 @@
 # Halogenix
 
-Halogenix is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Halogenix is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Halogenix is a drum & bass and jungle artist tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Basel and Birmingham and 22 more. Often billed alongside SP:MC, Skeptical and Workforce. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Halogenix is a drum & bass and jungle artist tracked on soundcheck, with 55 sets
 
 SP:MC, Skeptical, Workforce
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halogenix/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halogenix/)*

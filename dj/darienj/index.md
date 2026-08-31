@@ -1,13 +1,14 @@
 # Darien J
 
-Darien J is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kashmir Lounge, Amsterdam on Wed, 21 Oct 2026.
+Darien J is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Volks, Brighton on Fri, 18 Sept 2026.
 
-Darien J is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Amsterdam, Brighton and London. Often billed alongside AKIVA, AllDis and Ash:kân. Next up: Kashmir Lounge, Amsterdam on Wed 21 Oct.
+Darien J is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam, Brighton and London. Often billed alongside AKIVA, Acid Carbon and AllDis. Next up: Volks, Brighton on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Volks | Brighton |
 | Wed, 21 Oct 2026 | Kashmir Lounge | Amsterdam |
 
 ## Recently played
@@ -20,6 +21,6 @@ Darien J is a techno and deep house artist based in United Kingdom, tracked on s
 
 ## Shares bills with
 
-AKIVA, AllDis, Ash:kân
+AKIVA, Acid Carbon, AllDis
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darienj/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/darienj/)*

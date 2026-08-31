@@ -1,8 +1,8 @@
 # Replika
 
-Replika is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
+Replika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
 
-Replika is a techno and house artist based in Switzerland, tracked on soundcheck, with 1 set logged across Copenhagen. Often billed alongside ASTA MARI, Antoine (1) and Baltza. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 4 Sept.
+Replika is a house and techno artist based in Switzerland, tracked on soundcheck, with 1 set logged across Copenhagen. Often billed alongside Ida Aya, Vixen and DJ BENDER. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Replika is a techno and house artist based in Switzerland, tracked on soundcheck
 
 ## Shares bills with
 
-ASTA MARI, Antoine (1), Baltza
+Ida Aya, Vixen, DJ BENDER
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/replika/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/replika/)*

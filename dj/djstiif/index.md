@@ -1,6 +1,6 @@
 # DJ Stiif
 
-DJ Stiif is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Jupiter Disco, New York City on Thu, 10 Sept 2026.
+DJ Stiif is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jupiter Disco, New York City on Thu, 10 Sept 2026.
 
 DJ Stiif is an electronic artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside DJ Etiquette. Next up: Jupiter Disco, Newyorkcity on Thu 10 Sept.
 
@@ -14,4 +14,4 @@ DJ Stiif is an electronic artist based in United States of America, tracked on s
 
 DJ Etiquette
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstiif/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstiif/)*

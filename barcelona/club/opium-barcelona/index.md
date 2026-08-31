@@ -1,6 +1,6 @@
 # Opium Barcelona
 
-Opium Barcelona is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Waa! pres. Gordo" on Wed, 23 Sept 2026.
+Opium Barcelona is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Waa! pres. Gordo" on Wed, 23 Sept 2026.
 
 Opium Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Gordo and Wade. Browse upcoming dates, start times and who's playing. Paseo Maritimo, 34; 08003 Barcelona; Spain.
 
@@ -15,4 +15,4 @@ Opium Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming n
 
 Paseo Maritimo, 34; 08003 Barcelona; Spain, Barcelona
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opium-barcelona/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/opium-barcelona/)*

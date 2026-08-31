@@ -1,6 +1,6 @@
 # Maggy Smiss
 
-Maggy Smiss is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Heat Lyon, Lyon on Sat, 5 Sept 2026.
+Maggy Smiss is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Heat Lyon, Lyon on Sat, 5 Sept 2026.
 
 Maggy Smiss is a house and techno artist tracked on soundcheck, with 58 sets logged across Berlin, Copenhagen, Edinburgh and Lyon and 2 more. Often billed alongside Crowd Control, Baka G and Denyl Brook. Next up: Heat Lyon, Lyon on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Maggy Smiss is a house and techno artist tracked on soundcheck, with 58 sets log
 
 Crowd Control, Baka G, Denyl Brook
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maggysmiss/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maggysmiss/)*

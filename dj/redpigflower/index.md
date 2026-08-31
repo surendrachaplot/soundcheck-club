@@ -1,6 +1,6 @@
 # Red Pig Flower
 
-Red Pig Flower is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Golden Gate, Berlin on Fri, 25 Sept 2026.
+Red Pig Flower is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Golden Gate, Berlin on Fri, 25 Sept 2026.
 
 Red Pig Flower is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 14 more. Often billed alongside babxi, Daya Pruna and Minji. Next up: Golden Gate, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Red Pig Flower is a house and techno artist tracked on soundcheck, with 85 sets 
 
 babxi, Daya Pruna, Minji
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redpigflower/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redpigflower/)*

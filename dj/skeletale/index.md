@@ -1,6 +1,6 @@
 # Skeletale
 
-Skeletale is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Phantom Bar Berlin, Berlin on Fri, 11 Sept 2026.
+Skeletale is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Phantom Bar Berlin, Berlin on Fri, 11 Sept 2026.
 
 Skeletale is a techno and house artist tracked on soundcheck, with 5 sets logged across Bali, Bangkok, Berlin and Kualalumpur. Often billed alongside 5.5MM, Chris Cruse and DJ EL. Next up: Phantom Bar Berlin, Berlin on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Skeletale is a techno and house artist tracked on soundcheck, with 5 sets logged
 
 5.5MM, Chris Cruse, DJ EL
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeletale/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skeletale/)*

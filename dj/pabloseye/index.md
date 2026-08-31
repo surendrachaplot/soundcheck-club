@@ -1,8 +1,8 @@
 # Pablo's Eye
 
-Pablo's Eye is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Botanique, Brussels on Sat, 28 Nov 2026.
+Pablo's Eye is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Botanique, Brussels on Sat, 28 Nov 2026.
 
-Pablo's Eye is an experimental and electro artist based in Belgium, tracked on soundcheck, with 1 set logged across Brussels. Often billed alongside Anton Friisgaard, Aponogeton and Ben Bertrand. Next up: Botanique, Brussels on Sat 28 Nov.
+Pablo's Eye is an electro and experimental artist based in Belgium, tracked on soundcheck, with 1 set logged across Brussels. Often billed alongside Lazzaro, Florian TM Zeisig and Low Jack. Next up: Botanique, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Pablo's Eye is an experimental and electro artist based in Belgium, tracked on s
 
 ## Shares bills with
 
-Anton Friisgaard, Aponogeton, Ben Bertrand
+Lazzaro, Florian TM Zeisig, Low Jack
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloseye/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloseye/)*

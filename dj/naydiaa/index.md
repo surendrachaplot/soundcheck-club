@@ -1,6 +1,6 @@
 # Naydiaa
 
-Naydiaa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Parco Industria Alfa Romeo - Portello, Milan on Sat, 19 Sept 2026.
+Naydiaa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Parco Industria Alfa Romeo - Portello, Milan on Sat, 19 Sept 2026.
 
 Naydiaa is a house and techno artist tracked on soundcheck, with 43 sets logged across Barcelona, Basel and Milan. Often billed alongside Acidalia, Alimac and Industrial Romantico. Next up: Parco Industria Alfa Romeo - Portello, Milan on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Naydiaa is a house and techno artist tracked on soundcheck, with 43 sets logged 
 
 Acidalia, Alimac, Industrial Romantico
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naydiaa/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/naydiaa/)*

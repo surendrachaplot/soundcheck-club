@@ -1,6 +1,6 @@
 # B Hills
 
-B Hills is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
+B Hills is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
 
 B Hills is a house and deep house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside Amil, Saint Valentine and Atilla Ural. Next up: Elsewhere, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ B Hills is a house and deep house artist based in United States of America, trac
 
 Amil, Saint Valentine, Atilla Ural
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bhills/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bhills/)*

@@ -1,6 +1,6 @@
 # Subandrio
 
-Subandrio is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
+Subandrio is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
 
 Subandrio is a progressive house and electronica artist based in United Arab Emirates, tracked on soundcheck, with 3 sets logged across Amsterdam and Sydney. Often billed alongside Alain Pauwels, Alex O'Rion and Almared. Next up: Akhnaton, Amsterdam on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ Subandrio is a progressive house and electronica artist based in United Arab Emi
 
 Alain Pauwels, Alex O'Rion, Almared
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subandrio/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/subandrio/)*

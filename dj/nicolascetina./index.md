@@ -1,6 +1,6 @@
 # Nicolas Cetina.
 
-Nicolas Cetina. is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at DETROIT CLUB, Barcelona on Fri, 18 Sept 2026.
+Nicolas Cetina. is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at DETROIT CLUB, Barcelona on Fri, 18 Sept 2026.
 
 Nicolas Cetina. is a techno and electronica artist tracked on soundcheck, with 12 sets logged across Barcelona, Madrid and Naples. Often billed alongside Reitze, alguien and ADRI.G. Next up: DETROIT CLUB, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Nicolas Cetina. is a techno and electronica artist tracked on soundcheck, with 1
 
 Reitze, alguien, ADRI.G
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolascetina./)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolascetina./)*

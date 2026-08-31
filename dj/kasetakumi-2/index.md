@@ -1,6 +1,6 @@
 # kasetakumi (2)
 
-kasetakumi (2) is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at West Harlem, Kyoto on Fri, 4 Sept 2026.
+kasetakumi (2) is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at West Harlem, Kyoto on Fri, 4 Sept 2026.
 
 kasetakumi (2) is a house and experimental artist based in Japan, tracked on soundcheck, with 27 sets logged across Kyoto and Tokyo. Often billed alongside YELLOWUHURU, DJ melody and arow. Next up: West Harlem, Kyoto on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ kasetakumi (2) is a house and experimental artist based in Japan, tracked on sou
 
 YELLOWUHURU, DJ melody, arow
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasetakumi-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasetakumi-2/)*

@@ -1,6 +1,6 @@
 # OK Williams
 
-OK Williams is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The White Hotel, Manchester on Sat, 5 Sept 2026.
+OK Williams is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The White Hotel, Manchester on Sat, 5 Sept 2026.
 
 OK Williams is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and ISAbella. Next up: The White Hotel, Manchester on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ OK Williams is a techno and house artist tracked on soundcheck, with 173 sets lo
 
 BASHKKA, Gabrielle Kwarteng, ISAbella
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okwilliams/)*

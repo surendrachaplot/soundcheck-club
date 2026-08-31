@@ -1,6 +1,6 @@
 # Justin Robertson
 
-Justin Robertson is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The George & Dragon, London on Fri, 4 Sept 2026.
+Justin Robertson is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The George & Dragon, London on Fri, 4 Sept 2026.
 
 Justin Robertson is a house and acid artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Belfast, Brighton, Dublin and Glasgow and 6 more. Often billed alongside DJ Paulette, Graeme Park and Erol Alkan. Next up: The George & Dragon, London on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Justin Robertson is a house and acid artist based in United Kingdom, tracked on 
 
 DJ Paulette, Graeme Park, Erol Alkan
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinrobertson/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justinrobertson/)*

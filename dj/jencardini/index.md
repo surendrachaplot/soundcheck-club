@@ -1,6 +1,6 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Escala25, Lisbon on Sat, 5 Sept 2026.
+Jen Cardini is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Escala25, Lisbon on Sat, 5 Sept 2026.
 
 Jen Cardini is a techno and house artist tracked on soundcheck, with 247 sets logged across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Escala25, Lisbon on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Jen Cardini is a techno and house artist tracked on soundcheck, with 247 sets lo
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

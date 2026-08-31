@@ -1,6 +1,6 @@
 # Erik Sebastiaan
 
-Erik Sebastiaan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Benelux BAR, Amsterdam on Sat, 19 Sept 2026.
+Erik Sebastiaan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Benelux BAR, Amsterdam on Sat, 19 Sept 2026.
 
 Erik Sebastiaan is a house and techno artist tracked on soundcheck, with 2 sets logged across Amsterdam and Brussels. Often billed alongside Caim, Fieldhouse and Jaime Frias. Next up: Benelux BAR, Amsterdam on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Erik Sebastiaan is a house and techno artist tracked on soundcheck, with 2 sets 
 
 Caim, Fieldhouse, Jaime Frias
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eriksebastiaan/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eriksebastiaan/)*

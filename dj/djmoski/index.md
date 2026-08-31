@@ -1,6 +1,6 @@
 # DJ MOSKI
 
-DJ MOSKI is a Club and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kømplex Lisbon, Lisbon on Sat, 5 Sept 2026.
+DJ MOSKI is a Club and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kømplex Lisbon, Lisbon on Sat, 5 Sept 2026.
 
 DJ MOSKI is a club and tech house artist tracked on soundcheck, with 6 sets logged across Lisbon. Often billed alongside TOM CHIESA, ADHDaddy and Chima Isaaro. Next up: Kømplex Lisbon, Lisbon on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ DJ MOSKI is a club and tech house artist tracked on soundcheck, with 6 sets logg
 
 TOM CHIESA, ADHDaddy, Chima Isaaro
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoski/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoski/)*

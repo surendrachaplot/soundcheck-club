@@ -1,6 +1,6 @@
 # A.B.U.
 
-A.B.U. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Südpol, Hamburg on Sat, 12 Sept 2026.
+A.B.U. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Südpol, Hamburg on Sat, 12 Sept 2026.
 
 A.B.U. is a house and techno artist tracked on soundcheck, with 32 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Antoine Baiser, Le.Fu and Surreal (DE). Next up: Südpol, Hamburg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ A.B.U. is a house and techno artist tracked on soundcheck, with 32 sets logged a
 
 Antoine Baiser, Le.Fu, Surreal (DE)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.b.u./)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/a.b.u./)*

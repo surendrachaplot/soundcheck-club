@@ -1,6 +1,6 @@
 # D-Leria
 
-D-Leria is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 3 Sept 2026.
+D-Leria is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at THE MAGICK BAR, Rome on Thu, 3 Sept 2026.
 
 D-Leria is a techno and house artist based in Italy, tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Bali and Basel and 34 more. Often billed alongside Functional Disorder, Key Clef and Rorschack. Next up: THE MAGICK BAR, Rome on Thu 3 Sept.
 
@@ -28,4 +28,4 @@ D-Leria is a techno and house artist based in Italy, tracked on soundcheck, with
 
 Functional Disorder, Key Clef, Rorschack
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*

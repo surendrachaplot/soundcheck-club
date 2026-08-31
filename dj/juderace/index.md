@@ -1,6 +1,6 @@
 # Jude Race
 
-Jude Race is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
+Jude Race is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
 
 Jude Race is a house and techno artist tracked on soundcheck, with 27 sets logged across Leeds, London, Manchester and Newcastle. Often billed alongside Weston, Connor Southerland and DMC.. Next up: Platt Fields Market Garden, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jude Race is a house and techno artist tracked on soundcheck, with 27 sets logge
 
 Weston, Connor Southerland, DMC.
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juderace/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juderace/)*

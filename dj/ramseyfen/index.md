@@ -1,6 +1,6 @@
 # Ramsey & Fen
 
-Ramsey & Fen is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Upper East, London on Sat, 12 Sept 2026.
+Ramsey & Fen is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Upper East, London on Sat, 12 Sept 2026.
 
 Ramsey & Fen are a garage and house duo based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside MC CKP, MC DT and Daniel Ward. Next up: Upper East, London on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Ramsey & Fen are a garage and house duo based in United Kingdom, tracked on soun
 
 MC CKP, MC DT, Daniel Ward
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramseyfen/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ramseyfen/)*

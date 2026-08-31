@@ -1,6 +1,6 @@
 # 永z遼 / Ryo Nagase
 
-永z遼 / Ryo Nagase is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at 浅草金虎, Tokyo on Sat, 5 Sept 2026.
+永z遼 / Ryo Nagase is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at 浅草金虎, Tokyo on Sat, 5 Sept 2026.
 
 永z遼 / Ryo Nagase is a house and techno artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside Ryota, DJ ISE and Di3GO. Next up: 浅草金虎, Tokyo on Sat 5 Sept.
 
@@ -20,4 +20,4 @@
 
 Ryota, DJ ISE, Di3GO
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryonagase/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryonagase/)*

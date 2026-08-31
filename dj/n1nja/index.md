@@ -1,6 +1,6 @@
 # N1NJA
 
-N1NJA is a Deep House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Bunker @ The Rolling Stock, London on Fri, 2 Oct 2026.
+N1NJA is a Deep House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Bunker @ The Rolling Stock, London on Fri, 2 Oct 2026.
 
 N1NJA is a deep house and afro tech artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Ibiza and London. Often billed alongside B.o.T, Kakura and Nhii. Next up: The Bunker @ The Rolling Stock, London on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ N1NJA is a deep house and afro tech artist based in United Kingdom, tracked on s
 
 B.o.T, Kakura, Nhii
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n1nja/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n1nja/)*

@@ -1,6 +1,6 @@
 # Factory Floor
 
-Factory Floor is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Elevate x Algorave" on Thu, 17 Sept 2026.
+Factory Floor is a music venue in Sheffield with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Elevate x Algorave" on Thu, 17 Sept 2026.
 
 Factory Floor is a music venue in Sheffield listed on soundcheck. 3 upcoming nights, with line-ups including Wax Thief. Browse upcoming dates, start times and who's playing. 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom.
 
@@ -16,4 +16,4 @@ Factory Floor is a music venue in Sheffield listed on soundcheck. 3 upcoming nig
 
 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom, Sheffield
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*

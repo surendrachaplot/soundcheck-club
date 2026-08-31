@@ -1,6 +1,6 @@
 # PANACEA
 
-PANACEA is a Pop and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Glove That Fits, London on Sat, 31 Oct 2026.
+PANACEA is a Pop and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Glove That Fits, London on Sat, 31 Oct 2026.
 
 PANACEA is a pop and breakbeat artist tracked on soundcheck, with 11 sets logged across Amsterdam, Brighton and London. Often billed alongside Beaven, Protean Sound and Myff Busta. Next up: The Glove That Fits, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ PANACEA is a pop and breakbeat artist tracked on soundcheck, with 11 sets logged
 
 Beaven, Protean Sound, Myff Busta
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panacea/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panacea/)*

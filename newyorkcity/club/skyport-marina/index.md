@@ -1,6 +1,6 @@
 # Skyport Marina
 
-Skyport Marina is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "End of Summer on the Water Labor Day Weekend Party NYC" on Fri, 4 Sept 2026.
+Skyport Marina is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "End of Summer on the Water Labor Day Weekend Party NYC" on Fri, 4 Sept 2026.
 
 Skyport Marina is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights. Browse upcoming dates, start times and who's playing. E 23rd St & FDR Dr, New York, New York 10010.
 
@@ -18,4 +18,4 @@ Skyport Marina is a music venue in Newyorkcity listed on soundcheck. 5 upcoming 
 
 E 23rd St & FDR Dr, New York, New York 10010, New York City
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/skyport-marina/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/skyport-marina/)*

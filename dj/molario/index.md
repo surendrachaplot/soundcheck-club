@@ -1,6 +1,6 @@
 # Molario
 
-Molario is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Liquid Club, Malta on Fri, 4 Sept 2026.
+Molario is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Liquid Club, Malta on Fri, 4 Sept 2026.
 
 Molario is a techno and trance artist based in Romania, tracked on soundcheck, with 17 sets logged across Malta. Often billed alongside Billy Hills, P RISCO and Jahh Roland. Next up: Liquid Club, Malta on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Molario is a techno and trance artist based in Romania, tracked on soundcheck, w
 
 Billy Hills, P RISCO, Jahh Roland
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molario/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/molario/)*

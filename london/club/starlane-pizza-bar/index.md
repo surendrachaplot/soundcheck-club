@@ -1,14 +1,13 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 20 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Breathe & Parallelism - 12hr Marathon | From House to Techno" on Sun, 30 Aug 2026.
+Starlane Pizza Bar is a music venue in London with 19 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "EXTENDED BANK HOLIDAY FEST" on Mon, 31 Aug 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including 3 Minds, Aerofunk, Alfie and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 3 Minds, Aerofunk, Alfie and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Breathe & Parallelism - 12hr Marathon / From House to Techno | Belmonte, Clemente Loffredo, Colaps, Cristian Sirica, John's, Parallel G, Subradeon |
 | Mon, 31 Aug 2026 | EXTENDED BANK HOLIDAY FEST | Dale, Greg Nox, LeVin, PR Department, Robbo, Thierry |
 | Sat, 5 Sept 2026 | Distant Audio x Blushh Audio | Ize (1), Jordan Masters, LACEY, Reeshy |
 | Sat, 5 Sept 2026 | OTTO VOL 3 | Dan Anderson, Horsemen, IZZY (UK), Lesenburg, Nick Kelly, Tommy- (UK), krif |
@@ -18,9 +17,10 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 20 upcoming 
 | Fri, 18 Sept 2026 | Forward x Bonanza present: Starlane London | Benny (El Rio Hostel), Kensa, Kyle Toole, Millie McKee, Moaad BKR, Nicky Macha |
 | Sat, 19 Sept 2026 | Starlane presents: Enrenou | Gabriel Rai, Olita (UK), Raphael Carrau, Tunik |
 | Sun, 20 Sept 2026 | YECAD MUSIC & Bread&Butter Recordings presents: 'Summer Closing' with Direkt at STARLANE | Davide Decay, Direkt, La Gosse, Max., Modebaku, Obreja., Samantha Blackburn, Stefan Andrei |
+| Fri, 25 Sept 2026 | INTO THE WOODS - 10th Anniversary Part 3 - Lineup TBA |  |
 
 ## Address
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

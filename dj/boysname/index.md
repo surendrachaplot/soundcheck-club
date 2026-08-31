@@ -1,6 +1,6 @@
 # boys name
 
-boys name is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Arch 535, London on Sat, 31 Oct 2026.
+boys name is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Arch 535, London on Sat, 31 Oct 2026.
 
 boys name is a house and techno artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Costikyan, Benjamin Jared and DJ-CK. Next up: Arch 535, London on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ boys name is a house and techno artist tracked on soundcheck, with 4 sets logged
 
 Costikyan, Benjamin Jared, DJ-CK
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boysname/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/boysname/)*

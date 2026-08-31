@@ -1,6 +1,6 @@
 # KARAN!
 
-KARAN! is a Baile Funk and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 10 Oct 2026.
+KARAN! is a Baile Funk and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 10 Oct 2026.
 
 KARAN! is a baile funk and experimental artist tracked on soundcheck, with 3 sets logged across Osaka, Seattle and Tokyo. Often billed alongside ALTF4, VMO and Violent Magic Orchestra. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ KARAN! is a baile funk and experimental artist tracked on soundcheck, with 3 set
 
 ALTF4, VMO, Violent Magic Orchestra
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karan!/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karan!/)*

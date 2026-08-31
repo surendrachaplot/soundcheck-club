@@ -1,6 +1,6 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Riot x One Night SWer Pride Festival" on Fri, 4 Sept 2026.
+Electrowerkz is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Riot x One Night SWer Pride Festival" on Fri, 4 Sept 2026.
 
 Electrowerkz is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including AyChibs, Chris de Buerre, Dj.Malefica and Dom de Sousa and 2 more. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
@@ -22,4 +22,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 9 upcoming nights,
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

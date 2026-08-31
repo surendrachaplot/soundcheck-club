@@ -1,6 +1,6 @@
 # Donau115
 
-Donau115 is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "L CON + Foundling" on Sun, 6 Sept 2026.
+Donau115 is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "L CON + Foundling" on Sun, 6 Sept 2026.
 
 Donau115 is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Donaustraße 115, 12043 Berlin.
 
@@ -15,4 +15,4 @@ Donau115 is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Bro
 
 Donaustraße 115, 12043 Berlin, Berlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/donau115/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/donau115/)*

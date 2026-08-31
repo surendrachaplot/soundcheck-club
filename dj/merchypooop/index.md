@@ -1,8 +1,8 @@
 # MerchyPoöoP
 
-MerchyPoöoP is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Y Club Discoteca, Barcelona on Sat, 19 Sept 2026.
+MerchyPoöoP is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Y Club Discoteca, Barcelona on Sat, 19 Sept 2026.
 
-MerchyPoöoP is a trance and techno artist based in Spain, tracked on soundcheck, with 1 set logged across Barcelona. Often billed alongside Basil O'Glue, DJ Serio and GuyOhm. Next up: Y Club Discoteca, Barcelona on Sat 19 Sept.
+MerchyPoöoP is a techno and trance artist based in Spain, tracked on soundcheck, with 1 set logged across Barcelona. Often billed alongside Rebeka Brown, GuyOhm and Rebe Komplot. Next up: Y Club Discoteca, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ MerchyPoöoP is a trance and techno artist based in Spain, tracked on soundcheck
 
 ## Shares bills with
 
-Basil O'Glue, DJ Serio, GuyOhm
+Rebeka Brown, GuyOhm, Rebe Komplot
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merchypooop/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/merchypooop/)*

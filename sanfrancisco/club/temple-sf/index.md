@@ -1,14 +1,13 @@
 # Temple SF
 
-Temple SF is a music venue in San Francisco/Oakland with 10 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "THE LET OUT - OFFICIAL AFTER PARTY" on Sun, 30 Aug 2026.
+Temple SF is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "NO BASIC SF" on Fri, 4 Sept 2026.
 
-Temple SF is a music venue in Sanfrancisco listed on soundcheck. 10 upcoming nights, with line-ups including Double B and TBA. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
+Temple SF is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including Double B and TBA. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | THE LET OUT - OFFICIAL AFTER PARTY |  |
 | Fri, 4 Sept 2026 | NO BASIC SF | TBA |
 | Sat, 5 Sept 2026 | SEXOLANDIA - Cachirula & Loojan |  |
 | Sun, 6 Sept 2026 | PERREO SAN FRANCISCO - LABOR DAY SUNDAY | Double B |
@@ -23,4 +22,4 @@ Temple SF is a music venue in Sanfrancisco listed on soundcheck. 10 upcoming nig
 
 540 Howard St., San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*

@@ -1,6 +1,6 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Nitsa Club, Barcelona on Sat, 5 Sept 2026.
+Ivan Smagghe is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Nitsa Club, Barcelona on Sat, 5 Sept 2026.
 
 Ivan Smagghe is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Nitsa Club, Barcelona on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Ivan Smagghe is a house and techno artist tracked on soundcheck, with 183 sets l
 
 Manfredas, Craig Richards, Chez de Milo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*

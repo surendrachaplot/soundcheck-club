@@ -1,6 +1,6 @@
 # DJ EL
 
-DJ EL is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Phantom Bar Berlin, Berlin on Fri, 11 Sept 2026.
+DJ EL is a House and Ballroom artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Phantom Bar Berlin, Berlin on Fri, 11 Sept 2026.
 
 DJ EL is a house and ballroom artist based in Germany, tracked on soundcheck, with 24 sets logged across Amsterdam, Basel, Berlin and Geneva and 3 more. Often billed alongside clay (DE), Ben Reymann and Christa K. Next up: Phantom Bar Berlin, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DJ EL is a house and ballroom artist based in Germany, tracked on soundcheck, wi
 
 clay (DE), Ben Reymann, Christa K
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djel/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djel/)*

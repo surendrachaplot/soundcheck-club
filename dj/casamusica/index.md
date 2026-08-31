@@ -1,6 +1,6 @@
 # CASAMUSICA
 
-CASAMUSICA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Secret Warehouse 2 Rooms, Hong Kong on Sat, 12 Sept 2026.
+CASAMUSICA is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Secret Warehouse 2 Rooms, Hong Kong on Sat, 12 Sept 2026.
 
 CASAMUSICA is a house and disco artist based in Japan, tracked on soundcheck, with 16 sets logged across Hongkong and Seoul. Often billed alongside DJ Kirby, Zora Chan and Jeremy Cheung. Next up: TBA - Secret Warehouse 2 Rooms, Hongkong on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ CASAMUSICA is a house and disco artist based in Japan, tracked on soundcheck, wi
 
 DJ Kirby, Zora Chan, Jeremy Cheung
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casamusica/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/casamusica/)*

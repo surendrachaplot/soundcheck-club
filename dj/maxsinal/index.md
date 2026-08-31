@@ -1,21 +1,20 @@
 # Max Sinàl
 
-Max Sinàl is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Max Sinàl is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at KOKO, London on Fri, 4 Sept 2026.
 
-Max Sinàl is a deep house and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Brighton and London. Often billed alongside Mr James, LEV (UK) and Elliot Schooling. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Max Sinàl is a deep house and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Brighton and London. Often billed alongside Mr James, LEV (UK) and Elliot Schooling. Next up: KOKO, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
-| Sun, 30 Aug 2026 | fabric | London |
 | Fri, 4 Sept 2026 | KOKO | London |
 | Sat, 12 Sept 2026 | The Glove That Fits | London |
 | Sat, 19 Sept 2026 | Grow | London |
 
 ## Recently played
 
+- fabric, London — Sun, 30 Aug 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Filly Brook, London — Sun, 16 Aug 2026
 - Setlist @ Somerset House, London — Sun, 2 Aug 2026
@@ -23,10 +22,9 @@ Max Sinàl is a deep house and house artist tracked on soundcheck, with 32 sets 
 - The Glove That Fits, London — Sat, 27 Jun 2026
 - KOKO, London — Fri, 29 May 2026
 - Dudley's, London — Sun, 3 May 2026
-- WaterBear Venue, Brighton — Sat, 4 Apr 2026
 
 ## Shares bills with
 
 Mr James, LEV (UK), Elliot Schooling
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*

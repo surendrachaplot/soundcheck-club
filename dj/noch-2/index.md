@@ -1,6 +1,6 @@
 # NOCH (2)
 
-NOCH (2) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 12 Sept 2026.
+NOCH (2) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 12 Sept 2026.
 
 NOCH (2) is a house and electro artist based in France, tracked on soundcheck, with 8 sets logged across Paris and Tbilisi. Often billed alongside El Hey, Sebizarre and IAMBP. Next up: Cabaret Sauvage, Paris on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ NOCH (2) is a house and electro artist based in France, tracked on soundcheck, w
 
 El Hey, Sebizarre, IAMBP
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noch-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noch-2/)*

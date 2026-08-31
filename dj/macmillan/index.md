@@ -1,6 +1,6 @@
 # Macmillan
 
-Macmillan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at OneSixOne, Melbourne on Fri, 4 Sept 2026.
+Macmillan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at OneSixOne, Melbourne on Fri, 4 Sept 2026.
 
 Macmillan is a house and deep house artist based in Australia, tracked on soundcheck, with 35 sets logged across Auckland and Melbourne. Often billed alongside Crozier, Amber Ferraro and Adam Trace. Next up: OneSixOne, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Macmillan is a house and deep house artist based in Australia, tracked on soundc
 
 Crozier, Amber Ferraro, Adam Trace
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macmillan/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/macmillan/)*

@@ -1,18 +1,18 @@
 # Lychee (CA)
 
-Lychee (CA) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Tapestry, Toronto on Sun, 30 Aug 2026.
+Lychee (CA) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
 
-Lychee (CA) is a house and minimal artist tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside Akkai (2), Chloe J and Maves. Next up: Tapestry, Toronto on Sun 30 Aug.
+Lychee (CA) is a house and minimal artist tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside Akkai (2), Chloe J and Maves. Next up: Soleil, Toronto on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Tapestry | Toronto |
 | Sat, 19 Sept 2026 | Soleil | Toronto |
 
 ## Recently played
 
+- Tapestry, Toronto — Sun, 30 Aug 2026
 - Rhythm, Toronto — Thu, 20 Aug 2026
 - Tapestry, Toronto — Sat, 30 May 2026
 - Reverie at the Park, Toronto — Sat, 14 Mar 2026
@@ -25,4 +25,4 @@ Lychee (CA) is a house and minimal artist tracked on soundcheck, with 9 sets log
 
 Akkai (2), Chloe J, Maves
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lycheeca/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lycheeca/)*

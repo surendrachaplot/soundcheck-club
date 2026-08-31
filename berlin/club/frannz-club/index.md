@@ -1,6 +1,6 @@
 # Frannz Club
 
-Frannz Club is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "NEUNUNDNEUNZIG" on Fri, 30 Oct 2026.
+Frannz Club is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "NEUNUNDNEUNZIG" on Fri, 30 Oct 2026.
 
 Frannz Club is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Schönhauser Allee 36, 10435 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Frannz Club is a music venue in Berlin listed on soundcheck. 1 upcoming night. B
 
 Schönhauser Allee 36, 10435 Berlin, Germany, Berlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frannz-club/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frannz-club/)*

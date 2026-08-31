@@ -1,14 +1,13 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 21 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Good Minds Gathering X Scrambled Network" on Sun, 30 Aug 2026.
+Stage and Radio is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Beneath Earth Pres. HNDRXX Birthday Bash" on Fri, 4 Sept 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 21 upcoming nights, with line-ups including adamine, AJ Jonesy, Anah and b_d (UK) and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including adamine, AJ Jonesy, Anah and b_d (UK) and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Good Minds Gathering X Scrambled Network |  |
 | Fri, 4 Sept 2026 | Beneath Earth Pres. HNDRXX Birthday Bash |  |
 | Fri, 4 Sept 2026 | Clockwork |  |
 | Sat, 5 Sept 2026 | Cinco Shades: RUSSKE & Special Guests | Jentzen |
@@ -18,9 +17,10 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 21 upcoming
 | Fri, 11 Sept 2026 | Contrabando presents: Foynez | Yaggo |
 | Sat, 12 Sept 2026 | Size Ten Records x The Druids of Dub | Fearless Dread |
 | Sat, 19 Sept 2026 | Cut the Rug 10th Birthday W/Special Guest & Nick & Nath - Night Only | Cut the Rug, Finn Nelson, Nick & Nath |
+| Thu, 24 Sept 2026 | radio sez presents FGWW |  |
 
 ## Address
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

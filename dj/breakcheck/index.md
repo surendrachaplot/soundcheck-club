@@ -1,6 +1,6 @@
 # Breakcheck
 
-Breakcheck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Village au Pied-du-Courant, Montreal on Thu, 10 Sept 2026.
+Breakcheck is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Village au Pied-du-Courant, Montreal on Thu, 10 Sept 2026.
 
 Breakcheck is a techno and house artist tracked on soundcheck, with 18 sets logged across Bristol and Montreal. Often billed alongside s.talbot, Amy Kisnorbo and Anabasine. Next up: Village au Pied-du-Courant, Montreal on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Breakcheck is a techno and house artist tracked on soundcheck, with 18 sets logg
 
 s.talbot, Amy Kisnorbo, Anabasine
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breakcheck/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/breakcheck/)*

@@ -1,6 +1,6 @@
 # Sad Paco
 
-Sad Paco is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Weetamix, Geneva on Sat, 12 Sept 2026.
+Sad Paco is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Weetamix, Geneva on Sat, 12 Sept 2026.
 
 Sad Paco is a techno and industrial artist based in Switzerland, tracked on soundcheck, with 4 sets logged across Geneva. Often billed alongside Christelle Angela, Brady and HUGOAT. Next up: Weetamix, Geneva on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Sad Paco is a techno and industrial artist based in Switzerland, tracked on soun
 
 Christelle Angela, Brady, HUGOAT
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sadpaco/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sadpaco/)*

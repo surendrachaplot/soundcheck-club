@@ -1,14 +1,13 @@
 # brvder jakob
 
-brvder jakob is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at ://about blank, Berlin on Fri, 28 Aug 2026.
+brvder jakob is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-brvder jakob is a techno and trance artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Hamburg, Leipzig and Vienna. Often billed alongside PASSA, DJ Blockflöte 2000 and alemiko. Next up: ://about blank, Berlin on Fri 28 Aug.
+brvder jakob is a techno and trance artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Hamburg, Leipzig and Vienna. Often billed alongside PASSA, DJ Blockflöte 2000 and alemiko. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | ://about blank | Berlin |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Sat, 10 Oct 2026 | Lokschuppen Berlin | Berlin |
 
@@ -27,4 +26,4 @@ brvder jakob is a techno and trance artist based in Germany, tracked on soundche
 
 PASSA, DJ Blockflöte 2000, alemiko
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brvderjakob/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brvderjakob/)*

@@ -1,6 +1,6 @@
 # No Pressure
 
-No Pressure is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 10 Sept 2026.
+No Pressure is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 10 Sept 2026.
 
 No Pressure is a house and deep house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Losangeles. Often billed alongside Andy Oro, Akumen and agraybé. Next up: General Lee's Cocktail House, Losangeles on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ No Pressure is a house and deep house artist based in United States of America, 
 
 Andy Oro, Akumen, agraybé
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nopressure/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nopressure/)*

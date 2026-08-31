@@ -1,6 +1,6 @@
 # Gleis19
 
-Gleis19 is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Emotion Powerhouse OPEN AIR (w/ Filly, OSAYA, Ayshat Campbell, SQF2000, Kid on Air)" on Sat, 5 Sept 2026.
+Gleis19 is a music venue in Vienna with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Emotion Powerhouse OPEN AIR (w/ Filly, OSAYA, Ayshat Campbell, SQF2000, Kid on Air)" on Sat, 5 Sept 2026.
 
 Gleis19 is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with line-ups including Anna Ullrich, Crystal O, Joey (2) and Kat Ze and 2 more. Browse upcoming dates, start times and who's playing. Gundoldstraße 12, 1190 Wien.
 
@@ -17,4 +17,4 @@ Gleis19 is a music venue in Vienna listed on soundcheck. 4 upcoming nights, with
 
 Gundoldstraße 12, 1190 Wien, Vienna
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/gleis19/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/gleis19/)*

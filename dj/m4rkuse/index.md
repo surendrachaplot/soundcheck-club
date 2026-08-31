@@ -1,6 +1,6 @@
 # m4rküse
 
-m4rküse is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at DETROIT CLUB, Barcelona on Sat, 5 Sept 2026.
+m4rküse is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at DETROIT CLUB, Barcelona on Sat, 5 Sept 2026.
 
 m4rküse is an industrial and techno artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside INEXXSTABLE, Bluntz (2) and CLANDESTINE (2). Next up: DETROIT CLUB, Barcelona on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ m4rküse is an industrial and techno artist tracked on soundcheck, with 3 sets l
 
 INEXXSTABLE, Bluntz (2), CLANDESTINE (2)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m4rkuse/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/m4rkuse/)*

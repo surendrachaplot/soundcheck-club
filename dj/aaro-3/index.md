@@ -1,6 +1,6 @@
 # Aaro (3)
 
-Aaro (3) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Artheater, Cologne on Sat, 5 Sept 2026.
+Aaro (3) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Artheater, Cologne on Sat, 5 Sept 2026.
 
 Aaro (3) is a techno and tech house artist based in Germany, tracked on soundcheck, with 14 sets logged across Cologne and Frankfurt. Often billed alongside Gîn Bali, Andras_2020 and Redfocks. Next up: Artheater, Cologne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Aaro (3) is a techno and tech house artist based in Germany, tracked on soundche
 
 Gîn Bali, Andras_2020, Redfocks
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaro-3/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aaro-3/)*

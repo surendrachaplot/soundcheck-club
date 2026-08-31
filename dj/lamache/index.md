@@ -1,6 +1,6 @@
 # Lamache
 
-Lamache is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Montreal on Sat, 5 Sept 2026.
+Lamache is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Montreal on Sat, 5 Sept 2026.
 
 Lamache is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Aline Umber, Automatic Writing and Aline Brooklyn. Next up: TBA, Montreal on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Lamache is a house and techno artist tracked on soundcheck, with 110 sets logged
 
 Aline Umber, Automatic Writing, Aline Brooklyn
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*

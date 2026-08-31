@@ -1,6 +1,6 @@
 # ephemeral objects
 
-ephemeral objects is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+ephemeral objects is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
 ephemeral objects is a techno and experimental artist based in Canada, tracked on soundcheck, with 25 sets logged across Vancouver. Often billed alongside IHA (CA), DJ Hockey and Michael Red. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ ephemeral objects is a techno and experimental artist based in Canada, tracked o
 
 IHA (CA), DJ Hockey, Michael Red
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ephemeralobjects/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ephemeralobjects/)*

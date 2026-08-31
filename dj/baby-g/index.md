@@ -1,6 +1,6 @@
 # baby-g
 
-baby-g is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Onyx Room at House of Yes, New York City on Sat, 19 Sept 2026.
+baby-g is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Onyx Room at House of Yes, New York City on Sat, 19 Sept 2026.
 
 baby-g is a techno and house artist based in South Africa, tracked on soundcheck, with 52 sets logged across Mexicocity, Newyorkcity and Philadelphia. Often billed alongside Chillosophy, Lucia Haze and ACIDMOM. Next up: The Onyx Room at House of Yes, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ baby-g is a techno and house artist based in South Africa, tracked on soundcheck
 
 Chillosophy, Lucia Haze, ACIDMOM
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baby-g/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baby-g/)*

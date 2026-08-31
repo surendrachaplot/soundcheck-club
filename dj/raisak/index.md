@@ -1,6 +1,6 @@
 # Raisa K
 
-Raisa K is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
+Raisa K is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
 
 Raisa K is a downtempo and experimental artist tracked on soundcheck, with 8 sets logged across Glasgow, London, Manchester and Paris and 1 more. Often billed alongside John T. Gast, Rocheman and Ugnė Uma. Next up: Bermondsey Triangle, London on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Raisa K is a downtempo and experimental artist tracked on soundcheck, with 8 set
 
 John T. Gast, Rocheman, Ugnė Uma
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raisak/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raisak/)*

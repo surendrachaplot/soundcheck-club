@@ -1,14 +1,13 @@
 # Ben Sterling
 
-Ben Sterling is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Amnesia Ibiza, Ibiza on Sun, 30 Aug 2026.
+Ben Sterling is a Tech House and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Ben Sterling is a tech house and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: Amnesia Ibiza, Ibiza on Sun 30 Aug.
+Ben Sterling is a tech house and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Marco Carola, Max Dean and Ms. Mada. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | TBA - Lisboa | Lisbon |
 | Fri, 11 Sept 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
@@ -23,6 +22,7 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 186 se
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Sun, 30 Aug 2026
 - Santanna Mykonos, Mykonos — Mon, 24 Aug 2026
 - fabric, London — Fri, 21 Aug 2026
 - Thuishaven, Amsterdam — Sun, 2 Aug 2026
@@ -30,10 +30,9 @@ Ben Sterling is a tech house and house artist tracked on soundcheck, with 186 se
 - Hï Ibiza, Ibiza — Sat, 25 Jul 2026
 - Hï Ibiza, Ibiza — Tue, 21 Jul 2026
 - Brooklyn Army Terminal, New York City — Sun, 19 Jul 2026
-- KOKO, London — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Marco Carola, Max Dean, Ms. Mada
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bensterling/)*

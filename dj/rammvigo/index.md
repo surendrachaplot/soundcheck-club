@@ -1,6 +1,6 @@
 # Rammvigo
 
-Rammvigo is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Rammvigo is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Rammvigo is a techno artist based in Greece, tracked on soundcheck, with 18 sets logged across Athens. Often billed alongside Cerebral Circuits, Brazi and Ther3min. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Rammvigo is a techno artist based in Greece, tracked on soundcheck, with 18 sets
 
 Cerebral Circuits, Brazi, Ther3min
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rammvigo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rammvigo/)*

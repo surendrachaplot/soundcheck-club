@@ -1,6 +1,6 @@
 # Pekodjinn
 
-Pekodjinn is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Gravière, Geneva on Thu, 17 Sept 2026.
+Pekodjinn is a Baile Funk and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at La Gravière, Geneva on Thu, 17 Sept 2026.
 
 Pekodjinn is a baile funk and afrobeat artist tracked on soundcheck, with 35 sets logged across Barcelona, Brussels, Geneva and Lisbon and 3 more. Often billed alongside Dj Danifox, Esengo and Molyness. Next up: La Gravière, Geneva on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Pekodjinn is a baile funk and afrobeat artist tracked on soundcheck, with 35 set
 
 Dj Danifox, Esengo, Molyness
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pekodjinn/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pekodjinn/)*

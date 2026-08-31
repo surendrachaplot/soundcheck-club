@@ -1,6 +1,6 @@
 # Hardsoul
 
-Hardsoul is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Freeze HiFi, Liverpool on Wed, 16 Sept 2026.
+Hardsoul is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Freeze HiFi, Liverpool on Wed, 16 Sept 2026.
 
 Hardsoul is a funk / soul and house artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Ibiza and Liverpool. Often billed alongside ROOG, ALXS and Brian S.. Next up: Freeze HiFi, Liverpool on Wed 16 Sept.
 
@@ -19,4 +19,4 @@ Hardsoul is a funk / soul and house artist based in Netherlands, tracked on soun
 
 ROOG, ALXS, Brian S.
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardsoul/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hardsoul/)*

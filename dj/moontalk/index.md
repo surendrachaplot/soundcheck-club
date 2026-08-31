@@ -1,6 +1,6 @@
 # Moontalk
 
-Moontalk is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at gART.n, Berlin on Sat, 19 Sept 2026.
+Moontalk is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at gART.n, Berlin on Sat, 19 Sept 2026.
 
 Moontalk is a house and tech house artist tracked on soundcheck, with 19 sets logged across Austin, Berlin, Copenhagen and Ibiza and 7 more. Often billed alongside Darius Syrossian, Jamie Jones and Tummetott. Next up: gART.n, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Moontalk is a house and tech house artist tracked on soundcheck, with 19 sets lo
 
 Darius Syrossian, Jamie Jones, Tummetott
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moontalk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moontalk/)*

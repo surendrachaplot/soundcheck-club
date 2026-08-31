@@ -1,6 +1,6 @@
 # DONT BLINK
 
-DONT BLINK is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+DONT BLINK is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 DONT BLINK is a tech house and techno artist tracked on soundcheck, with 20 sets logged across Amsterdam, Bangkok, Berlin and Frankfurt and 10 more. Often billed alongside Jil Tanner, Juliet Sikora and LOVRA. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DONT BLINK is a tech house and techno artist tracked on soundcheck, with 20 sets
 
 Jil Tanner, Juliet Sikora, LOVRA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dontblink/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dontblink/)*

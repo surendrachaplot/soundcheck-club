@@ -1,6 +1,6 @@
 # Samm (BE)
 
-Samm (BE) is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Scorpios, Mykonos on Tue, 1 Sept 2026.
+Samm (BE) is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Scorpios, Mykonos on Tue, 1 Sept 2026.
 
 Samm (BE) is a house and afro house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside ARODES, AJNA and Alex Wann. Next up: Scorpios, Mykonos on Tue 1 Sept.
 
@@ -27,4 +27,4 @@ Samm (BE) is a house and afro house artist tracked on soundcheck, with 58 sets l
 
 ARODES, AJNA, Alex Wann
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*

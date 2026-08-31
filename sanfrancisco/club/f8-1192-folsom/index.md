@@ -1,14 +1,13 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 19 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Stamina presents Classic Jungle Night" on Sun, 30 Aug 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "INTERZONE - Darkwave Tuesdays - Guest DJ Sina Star" on Tue, 1 Sept 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcoming nights, with line-ups including Akumen, Amino, ANDYLAND and Andy Oro and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming nights, with line-ups including Akumen, Amino, ANDYLAND and Andy Oro and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Stamina presents Classic Jungle Night | Discnogirl, Method One, khariszma |
 | Tue, 1 Sept 2026 | INTERZONE - Darkwave Tuesdays - Guest DJ Sina Star | Hex Embrace |
 | Wed, 2 Sept 2026 | Strut SF and F8 present Dollarhide's Bday Jam | YUKA YU |
 | Thu, 3 Sept 2026 | HIDRA and F8 present Music Is the Answer | HIDRA, SARA AFSHAR |
@@ -18,9 +17,10 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 19 upcomin
 | Wed, 9 Sept 2026 | Run it Back September Edition | DJ Parrot |
 | Fri, 11 Sept 2026 | MOMENTUM PRESENTS: 2SIINZ | Byrd, SNAQ |
 | Tue, 15 Sept 2026 | INTERZONE - Darkwave Tuesdays - Guest DJ ERINYES | Byter, ERINYES, Hex Embrace |
+| Thu, 17 Sept 2026 | Causmic Creative presents Fern's Bday Bash |  |
 
 ## Address
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

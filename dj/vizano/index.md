@@ -1,6 +1,6 @@
 # VIZANO
 
-VIZANO is a Deep House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 2 Sept 2026.
+VIZANO is a Deep House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 2 Sept 2026.
 
 VIZANO is a deep house and afro tech artist tracked on soundcheck, with 3 sets logged across Ibiza and London. Often billed alongside Alay, Amu (1) and GiZ. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 2 Sept.
 
@@ -19,4 +19,4 @@ VIZANO is a deep house and afro tech artist tracked on soundcheck, with 3 sets l
 
 Alay, Amu (1), GiZ
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vizano/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vizano/)*

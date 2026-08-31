@@ -1,6 +1,6 @@
 # SIOBHAN.
 
-SIOBHAN. is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Dalston Den, London on Sat, 12 Sept 2026.
+SIOBHAN. is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Dalston Den, London on Sat, 12 Sept 2026.
 
 SIOBHAN. is a techno and experimental artist tracked on soundcheck, with 10 sets logged across London and Losangeles. Often billed alongside AAKAARA, Lockhart and New Flesh (2). Next up: Dalston Den, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ SIOBHAN. is a techno and experimental artist tracked on soundcheck, with 10 sets
 
 AAKAARA, Lockhart, New Flesh (2)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siobhan./)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siobhan./)*

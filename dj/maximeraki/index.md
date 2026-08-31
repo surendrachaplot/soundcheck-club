@@ -1,6 +1,6 @@
 # Maxi Meraki
 
-Maxi Meraki is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 31 Aug 2026.
+Maxi Meraki is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 31 Aug 2026.
 
 Maxi Meraki is a house and afro house artist tracked on soundcheck, with 90 sets logged across Antwerp, Athens, Austin and Bali and 34 more. Often billed alongside Mahmut Orhan, AJNA and Adriatique. Next up: Hï Ibiza, Ibiza on Mon 31 Aug.
 
@@ -26,4 +26,4 @@ Maxi Meraki is a house and afro house artist tracked on soundcheck, with 90 sets
 
 Mahmut Orhan, AJNA, Adriatique
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*

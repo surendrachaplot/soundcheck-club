@@ -1,6 +1,6 @@
 # SUITSIDE
 
-SUITSIDE is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Grelle Forelle, Vienna on Sat, 5 Sept 2026.
+SUITSIDE is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Grelle Forelle, Vienna on Sat, 5 Sept 2026.
 
 SUITSIDE is a trance and techno artist based in Austria, tracked on soundcheck, with 62 sets logged across Berlin, Cologne, Munich and Vienna. Often billed alongside Joey (2), ASCHENBRENNER and Crystal O. Next up: Grelle Forelle, Vienna on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ SUITSIDE is a trance and techno artist based in Austria, tracked on soundcheck, 
 
 Joey (2), ASCHENBRENNER, Crystal O
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suitside/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/suitside/)*

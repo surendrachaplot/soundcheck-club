@@ -1,6 +1,6 @@
 # Kiyoyuki Kanno
 
-Kiyoyuki Kanno is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at WOMB, Tokyo on Sat, 5 Sept 2026.
+Kiyoyuki Kanno is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at WOMB, Tokyo on Sat, 5 Sept 2026.
 
 Kiyoyuki Kanno is a techno and industrial artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside marimari, Kaori Watt and Akiko Iwahara. Next up: WOMB, Tokyo on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Kiyoyuki Kanno is a techno and industrial artist based in Japan, tracked on soun
 
 marimari, Kaori Watt, Akiko Iwahara
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoyukikanno/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyoyukikanno/)*

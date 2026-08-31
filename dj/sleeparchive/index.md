@@ -1,6 +1,6 @@
 # Sleeparchive
 
-Sleeparchive is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
+Sleeparchive is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
 
 Sleeparchive is a techno and electro artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Birmingham and Brussels and 3 more. Often billed alongside DJ Pete, Developer and HGR. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Sleeparchive is a techno and electro artist tracked on soundcheck, with 18 sets 
 
 DJ Pete, Developer, HGR
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sleeparchive/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sleeparchive/)*

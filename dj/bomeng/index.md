@@ -1,6 +1,6 @@
 # Bo Meng
 
-Bo Meng is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Illegaal, Brussels on Sat, 12 Sept 2026.
+Bo Meng is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Illegaal, Brussels on Sat, 12 Sept 2026.
 
 Bo Meng is an electro and pop artist tracked on soundcheck, with 12 sets logged across Antwerp, Brussels and Paris. Often billed alongside Moonshine, San Farafina and &RY.. Next up: Illegaal, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bo Meng is an electro and pop artist tracked on soundcheck, with 12 sets logged 
 
 Moonshine, San Farafina, &RY.
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bomeng/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bomeng/)*

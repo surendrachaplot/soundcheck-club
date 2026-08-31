@@ -1,6 +1,6 @@
 # Livia
 
-Livia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 11 Sept 2026.
+Livia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 11 Sept 2026.
 
 Livia is a techno and house artist tracked on soundcheck, with 9 sets logged across Lisbon, Melbourne, Newyorkcity and Stockholm. Often billed alongside Mike Callander, Afonso (PT) and Andrea Guadalupi. Next up: Revolver Upstairs, Melbourne on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Livia is a techno and house artist tracked on soundcheck, with 9 sets logged acr
 
 Mike Callander, Afonso (PT), Andrea Guadalupi
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livia/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/livia/)*

@@ -1,6 +1,6 @@
 # DāM FunK
 
-DāM FunK is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
+DāM FunK is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
 
 DāM FunK is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 13 sets logged across Denver, Losangeles, Miami and Newyorkcity and 2 more. Often billed alongside Abraham Othwell, DJ Koco aka Shimokita and Donny Burlin. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DāM FunK is a house and funk / soul artist based in United States of America, t
 
 Abraham Othwell, DJ Koco aka Shimokita, Donny Burlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dam-funk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dam-funk/)*

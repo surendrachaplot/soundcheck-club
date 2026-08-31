@@ -1,6 +1,6 @@
 # TAYHANA
 
-TAYHANA is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The White Hotel, Manchester on Sat, 19 Sept 2026.
+TAYHANA is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The White Hotel, Manchester on Sat, 19 Sept 2026.
 
 TAYHANA is a techno and latin bass artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Marie Davidson, Manuka Honey and Slim Soledad. Next up: The White Hotel, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ TAYHANA is a techno and latin bass artist tracked on soundcheck, with 67 sets lo
 
 Marie Davidson, Manuka Honey, Slim Soledad
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tayhana/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tayhana/)*

@@ -1,6 +1,6 @@
 # Olivér (Arg)
 
-Olivér (Arg) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bohnengold, Berlin on Fri, 11 Sept 2026.
+Olivér (Arg) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bohnengold, Berlin on Fri, 11 Sept 2026.
 
 Olivér (Arg) is a house and club artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Javier Anxiety, Aimé You and Alexis Mariano. Next up: Bohnengold, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Olivér (Arg) is a house and club artist tracked on soundcheck, with 14 sets log
 
 Javier Anxiety, Aimé You, Alexis Mariano
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverarg/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverarg/)*

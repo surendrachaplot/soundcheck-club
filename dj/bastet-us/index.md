@@ -1,6 +1,6 @@
 # Bastet (US)
 
-Bastet (US) is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 12 Sept 2026.
+Bastet (US) is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 12 Sept 2026.
 
 Bastet (US) is a techno and minimal techno artist tracked on soundcheck, with 6 sets logged across Washingtondc. Often billed alongside Associate, Juana and Kiva. Next up: TRANSMISSION DC, Washingtondc on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Bastet (US) is a techno and minimal techno artist tracked on soundcheck, with 6 
 
 Associate, Juana, Kiva
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastet-us/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bastet-us/)*

@@ -1,6 +1,6 @@
 # Sasha Rome
 
-Sasha Rome is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at SILO, New York City on Thu, 24 Sept 2026.
+Sasha Rome is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at SILO, New York City on Thu, 24 Sept 2026.
 
 Sasha Rome is a garage and house artist tracked on soundcheck, with 24 sets logged across Chicago and Newyorkcity. Often billed alongside Lovelydaze, Gigi Rio and Lord of Ciphers. Next up: SILO, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Sasha Rome is a garage and house artist tracked on soundcheck, with 24 sets logg
 
 Lovelydaze, Gigi Rio, Lord of Ciphers
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasharome/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sasharome/)*

@@ -1,6 +1,6 @@
 # MUENZE
 
-MUENZE is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "BCCO x Hot Meal" on Sat, 28 Nov 2026.
+MUENZE is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "BCCO x Hot Meal" on Sat, 28 Nov 2026.
 
 MUENZE is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Alycia Bezgo, Bad Boombox, David Löhlein and DJ Cringey and 2 more. Browse upcoming dates, start times and who's playing. Molkenmarkt 2; Mitte; 10179 Berlin; Germany.
 
@@ -14,4 +14,4 @@ MUENZE is a music venue in Berlin listed on soundcheck. 1 upcoming night, with l
 
 Molkenmarkt 2; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/muenze/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/muenze/)*

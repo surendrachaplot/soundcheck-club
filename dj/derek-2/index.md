@@ -1,6 +1,6 @@
 # Derek (2)
 
-Derek (2) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at A38, Budapest on Thu, 17 Sept 2026.
+Derek (2) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at A38, Budapest on Thu, 17 Sept 2026.
 
 Derek (2) is a house and deep house artist tracked on soundcheck, with 3 sets logged across Budapest. Often billed alongside Electric Boutique, Oliver SCH and Peter Bernath. Next up: A38, Budapest on Thu 17 Sept.
 
@@ -19,4 +19,4 @@ Derek (2) is a house and deep house artist tracked on soundcheck, with 3 sets lo
 
 Electric Boutique, Oliver SCH, Peter Bernath
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derek-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/derek-2/)*

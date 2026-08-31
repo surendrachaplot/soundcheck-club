@@ -1,6 +1,6 @@
 # Bar Oriente
 
-Bar Oriente is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Ben Miller, Yazz Escobar, Zenzs" on Fri, 4 Sept 2026.
+Bar Oriente is a music venue in Mexico City with 8 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Ben Miller, Yazz Escobar, Zenzs" on Fri, 4 Sept 2026.
 
 Bar Oriente is a music venue in Mexicocity listed on soundcheck. 8 upcoming nights, with line-ups including AEREA, Ignacio Rosa, Motel Flamingo and TRIVEAT. Browse upcoming dates, start times and who's playing. Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -21,4 +21,4 @@ Bar Oriente is a music venue in Mexicocity listed on soundcheck. 8 upcoming nigh
 
 Calle de Durango 181, Roma Nte., 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bar-oriente/)*

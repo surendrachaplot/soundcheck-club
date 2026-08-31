@@ -1,6 +1,6 @@
 # Cow Tools
 
-Cow Tools is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bogart House, New York City on Sat, 12 Sept 2026.
+Cow Tools is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bogart House, New York City on Sat, 12 Sept 2026.
 
 Cow Tools is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside R-DNA, COVE(US) and Simge. Next up: Bogart House, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Cow Tools is a techno and house artist based in United States of America, tracke
 
 R-DNA, COVE(US), Simge
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cowtools/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cowtools/)*

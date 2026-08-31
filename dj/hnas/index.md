@@ -1,6 +1,6 @@
 # HNAS
 
-HNAS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
+HNAS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
 
 HNAS is a techno and trance artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Frankfurt, Mexicocity and Nurnberg and 2 more. Often billed alongside Dominique Lamee, Towicz and Kø:lab. Next up: Airport Würzburg, Nurnberg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ HNAS is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 Dominique Lamee, Towicz, Kø:lab
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hnas/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hnas/)*

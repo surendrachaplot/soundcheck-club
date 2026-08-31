@@ -1,6 +1,6 @@
 # Hicky & Kalo
 
-Hicky & Kalo is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at StereoBar, Montreal on Sat, 12 Sept 2026.
+Hicky & Kalo is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at StereoBar, Montreal on Sat, 12 Sept 2026.
 
 Hicky & Kalo are a progressive house and techno duo tracked on soundcheck, with 76 sets logged across Amsterdam, Auckland, Buenosaires and Chicago and 8 more. Often billed alongside Sebastien Leger, Roy Rosenfeld and Guy Mantzur. Next up: StereoBar, Montreal on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Hicky & Kalo are a progressive house and techno duo tracked on soundcheck, with 
 
 Sebastien Leger, Roy Rosenfeld, Guy Mantzur
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hickykalo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hickykalo/)*

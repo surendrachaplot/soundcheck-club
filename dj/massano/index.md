@@ -1,14 +1,13 @@
 # Massano
 
-Massano is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Hamburg Cruise Center Altona, Hamburg on Fri, 28 Aug 2026.
+Massano is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at [UNVRS], Ibiza on Mon, 31 Aug 2026.
 
-Massano is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Hamburg Cruise Center Altona, Hamburg on Fri 28 Aug.
+Massano is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: [UNVRS], Ibiza on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Hamburg Cruise Center Altona | Hamburg |
 | Mon, 31 Aug 2026 | [UNVRS] | Ibiza |
 | Wed, 9 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Lofi | Amsterdam |
@@ -34,4 +33,4 @@ Massano is a techno and house artist tracked on soundcheck, with 158 sets logged
 
 Adam Beyer, CamelPhat, Chris Avantgarde
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*

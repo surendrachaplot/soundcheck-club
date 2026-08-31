@@ -1,6 +1,6 @@
 # S.P.Y
 
-S.P.Y is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+S.P.Y is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 S.P.Y is a drum & bass and jungle artist tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Auckland and Bali and 29 more. Often billed alongside LowQui, K Motionz and Mozey. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ S.P.Y is a drum & bass and jungle artist tracked on soundcheck, with 62 sets log
 
 LowQui, K Motionz, Mozey
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y/)*

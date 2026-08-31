@@ -1,6 +1,6 @@
 # Aimé You
 
-Aimé You is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 18 Sept 2026.
+Aimé You is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Fri, 18 Sept 2026.
 
 Aimé You is a house and techno artist tracked on soundcheck, with 62 sets logged across Berlin, Copenhagen, Hamburg and Munich. Often billed alongside _____.neo, Nikklaas and Seemless. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Aimé You is a house and techno artist tracked on soundcheck, with 62 sets logge
 
 _____.neo, Nikklaas, Seemless
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aimeyou/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aimeyou/)*

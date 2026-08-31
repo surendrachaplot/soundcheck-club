@@ -1,6 +1,6 @@
 # Stan Yaroslavsky
 
-Stan Yaroslavsky is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Signal, New York City on Fri, 11 Sept 2026.
+Stan Yaroslavsky is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Signal, New York City on Fri, 11 Sept 2026.
 
 Stan Yaroslavsky is a house and breakbeat artist tracked on soundcheck, with 14 sets logged across Berlin, Lisbon, London and Newyorkcity and 1 more. Often billed alongside Benjamin Fehr, Modebaku and Alex Celler. Next up: Signal, Newyorkcity on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Stan Yaroslavsky is a house and breakbeat artist tracked on soundcheck, with 14 
 
 Benjamin Fehr, Modebaku, Alex Celler
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stanyaroslavsky/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stanyaroslavsky/)*

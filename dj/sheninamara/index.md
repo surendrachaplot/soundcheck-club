@@ -1,14 +1,13 @@
 # Shenin Amara
 
-Shenin Amara is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at E1, London on Sun, 30 Aug 2026.
+Shenin Amara is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Ministry Of Sound, London on Mon, 31 Aug 2026.
 
-Shenin Amara is a tech house and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside JAYDAA, Jerome Six and Beezo. Next up: E1, London on Sun 30 Aug.
+Shenin Amara is a tech house and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Birmingham, Ibiza and London and 3 more. Often billed alongside JAYDAA, Jerome Six and Beezo. Next up: Ministry Of Sound, London on Mon 31 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | E1 | London |
 | Mon, 31 Aug 2026 | Ministry Of Sound | London |
 | Mon, 31 Aug 2026 | The North London Tavern | London |
 | Sat, 12 Sept 2026 | XOYO | London |
@@ -19,6 +18,7 @@ Shenin Amara is a tech house and house artist tracked on soundcheck, with 202 se
 
 ## Recently played
 
+- E1, London — Sun, 30 Aug 2026
 - Amber's, Manchester — Sat, 29 Aug 2026
 - Basing House, London — Fri, 21 Aug 2026
 - Ministry Of Sound, London — Sat, 15 Aug 2026
@@ -26,10 +26,9 @@ Shenin Amara is a tech house and house artist tracked on soundcheck, with 202 se
 - Addington Park, London — Sat, 8 Aug 2026
 - Eutopia Warehouse, London — Sat, 18 Jul 2026
 - Egg London, London — Sat, 18 Jul 2026
-- XOYO, London — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 JAYDAA, Jerome Six, Beezo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheninamara/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheninamara/)*

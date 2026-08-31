@@ -1,6 +1,6 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Alan Fitzpatrick is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
 Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Belfast and Belgrade and 33 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
@@ -35,4 +35,4 @@ Alan Fitzpatrick is a techno and house artist tracked on soundcheck, with 111 se
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

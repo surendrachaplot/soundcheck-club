@@ -1,8 +1,8 @@
 # GIZBY
 
-GIZBY is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Basing House, London on Sat, 5 Sept 2026.
+GIZBY is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Basing House, London on Sat, 5 Sept 2026.
 
-GIZBY is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside DJ LIL-E, Mezza and Slencho. Next up: Basing House, London on Sat 5 Sept.
+GIZBY is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Slencho, Mezza and DJ LIL-E. Next up: Basing House, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ GIZBY is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-DJ LIL-E, Mezza, Slencho
+Slencho, Mezza, DJ LIL-E
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gizby/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gizby/)*

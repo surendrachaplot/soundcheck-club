@@ -1,6 +1,6 @@
 # Arht
 
-Arht is a Minimal Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Studio 615, Nashville on Sun, 6 Sept 2026.
+Arht is a Minimal Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Studio 615, Nashville on Sun, 6 Sept 2026.
 
 Arht is a minimal techno and tech house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Nashville. Often billed alongside Cheeko and Com Truise. Next up: Studio 615, Nashville on Sun 6 Sept.
 
@@ -19,4 +19,4 @@ Arht is a minimal techno and tech house artist based in United States of America
 
 Cheeko, Com Truise
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arht/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arht/)*

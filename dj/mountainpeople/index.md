@@ -1,6 +1,6 @@
 # Mountain People
 
-Mountain People is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Mountain People is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Mountain People is a house and minimal artist based in Switzerland, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Berlin and Istanbul and 5 more. Often billed alongside Aline (CH), Aron (CH) and Enrica Falqui. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Mountain People is a house and minimal artist based in Switzerland, tracked on s
 
 Aline (CH), Aron (CH), Enrica Falqui
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mountainpeople/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mountainpeople/)*

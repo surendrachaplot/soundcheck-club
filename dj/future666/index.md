@@ -1,15 +1,13 @@
 # future.666
 
-future.666 is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+future.666 is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Secret Location, Boston on Fri, 4 Sept 2026.
 
-future.666 is a techno and trance artist tracked on soundcheck, with 223 sets logged across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+future.666 is a techno and trance artist tracked on soundcheck, with 223 sets logged across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: TBA - Secret Location, Boston on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 4 Sept 2026 | TBA - Secret Location | Boston |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | Domicile | Miami |
@@ -20,6 +18,8 @@ future.666 is a techno and trance artist tracked on soundcheck, with 223 sets lo
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Spook Club | Valencia |
 | Fri, 30 Oct 2026 | E1 | London |
+| Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
+| Sat, 31 Oct 2026 | Fabrik | Madrid |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ future.666 is a techno and trance artist tracked on soundcheck, with 223 sets lo
 
 DJ Hyperdrive, ÜBERKIKZ, Adrian Mills
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*

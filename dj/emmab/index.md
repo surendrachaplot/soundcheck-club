@@ -1,6 +1,6 @@
 # Emma B
 
-Emma B is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Waranga, Stuttgart on Sat, 5 Sept 2026.
+Emma B is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Waranga, Stuttgart on Sat, 5 Sept 2026.
 
 Emma B is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 25 more. Often billed alongside Deborah Aime La Bagarre, Solah and Baccus. Next up: Waranga, Stuttgart on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Emma B is a house and techno artist tracked on soundcheck, with 96 sets logged a
 
 Deborah Aime La Bagarre, Solah, Baccus
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*

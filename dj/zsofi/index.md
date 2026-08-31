@@ -1,14 +1,13 @@
 # Zsófi
 
-Zsófi is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Zsófi is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fabrik Du Plaisir, Zurich on Sat, 12 Sept 2026.
 
-Zsófi is a trance and house artist tracked on soundcheck, with 13 sets logged across Zurich. Often billed alongside MosArt, DJ Equipment and fraumuhlin. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Zsófi is a trance and house artist tracked on soundcheck, with 13 sets logged across Zurich. Often billed alongside MosArt, DJ Equipment and fraumuhlin. Next up: Fabrik Du Plaisir, Zurich on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Sat, 12 Sept 2026 | Fabrik Du Plaisir | Zurich |
 
 ## Recently played
@@ -26,4 +25,4 @@ Zsófi is a trance and house artist tracked on soundcheck, with 13 sets logged a
 
 MosArt, DJ Equipment, fraumuhlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zsofi/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zsofi/)*

@@ -1,14 +1,13 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 11 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "TAIKO" on Sun, 30 Aug 2026.
+Dalston Den is a music venue in London with 10 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Far From Alone with Data Flow, Foxtrot, & Scratch That Itch" on Fri, 4 Sept 2026.
 
-Dalston Den is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including 22Cheeky, AAKAARA, Das ist Vas and Data Flow and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
+Dalston Den is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including 22Cheeky, AAKAARA, Das ist Vas and Data Flow and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | TAIKO |  |
 | Fri, 4 Sept 2026 | Far From Alone with Data Flow, Foxtrot, & Scratch That Itch | Data Flow, Foxtrot (2), Jefferson King, Markozonio |
 | Sat, 5 Sept 2026 | Breakfast Club #2 | Donnie on a Bike, Nou (UK) |
 | Sat, 5 Sept 2026 | After Meridian Summer Closing Party AT THE DEN |  |
@@ -18,9 +17,10 @@ Dalston Den is a music venue in London listed on soundcheck. 11 upcoming nights,
 | Fri, 18 Sept 2026 | Breakaway - Jungle / Drum & Bass |  |
 | Thu, 24 Sept 2026 | Sam Polks presents: Dancing Through The Night |  |
 | Fri, 25 Sept 2026 | Lessocial: Talking Stage |  |
+| Fri, 30 Oct 2026 | Breakaway: Halloween Party - Breaks / Jungle / Drum & Bass |  |
 
 ## Address
 
 91-93 Kingsland High Street, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

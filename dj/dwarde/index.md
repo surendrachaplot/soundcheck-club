@@ -1,6 +1,6 @@
 # Dwarde
 
-Dwarde is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TRAUM, Antwerp on Sat, 10 Oct 2026.
+Dwarde is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TRAUM, Antwerp on Sat, 10 Oct 2026.
 
 Dwarde is a jungle and drum & bass artist tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 24 more. Often billed alongside Tim Reaper, Coco Bryce and Sully. Next up: TRAUM, Antwerp on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Dwarde is a jungle and drum & bass artist tracked on soundcheck, with 117 sets l
 
 Tim Reaper, Coco Bryce, Sully
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dwarde/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dwarde/)*

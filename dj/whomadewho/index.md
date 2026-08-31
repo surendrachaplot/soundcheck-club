@@ -1,14 +1,13 @@
 # WhoMadeWho
 
-WhoMadeWho is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at 528 Ibiza, Ibiza on Sun, 30 Aug 2026.
+WhoMadeWho is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-WhoMadeWho is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: 528 Ibiza, Ibiza on Sun 30 Aug.
+WhoMadeWho is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | 528 Ibiza | Ibiza |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | The Concourse Project | Austin |
 | Sun, 4 Oct 2026 | Scorpios | Mykonos |
@@ -16,6 +15,7 @@ WhoMadeWho is a techno and house artist tracked on soundcheck, with 144 sets log
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Sun, 30 Aug 2026
 - Mercado Pago Hall, Sao Paulo — Sat, 22 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 11 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
@@ -23,10 +23,9 @@ WhoMadeWho is a techno and house artist tracked on soundcheck, with 144 sets log
 - [UNVRS], Ibiza — Tue, 7 Jul 2026
 - Antonioli Hangar, Ibiza — Tue, 7 Jul 2026
 - Pacha Ibiza, Ibiza — Tue, 16 Jun 2026
-- Fira Gran Via, Barcelona — Mon, 15 Jun 2026
 
 ## Shares bills with
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

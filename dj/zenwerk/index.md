@@ -1,6 +1,6 @@
 # zenwerk
 
-zenwerk is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
+zenwerk is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
 
 zenwerk is a tech house and techno artist tracked on soundcheck, with 54 sets logged across Krakow, Lisbon and Warsaw. Often billed alongside aist (LT), zuzaeksperyment and Helga. Next up: Jasna 1, Warsaw on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ zenwerk is a tech house and techno artist tracked on soundcheck, with 54 sets lo
 
 aist (LT), zuzaeksperyment, Helga
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zenwerk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zenwerk/)*

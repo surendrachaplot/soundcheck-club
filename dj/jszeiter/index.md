@@ -1,6 +1,6 @@
 # JS Zeiter
 
-JS Zeiter is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Soup, Manchester on Sat, 19 Sept 2026.
+JS Zeiter is a Breakbeat and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Soup, Manchester on Sat, 19 Sept 2026.
 
 JS Zeiter is a breakbeat and techno artist tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside Bugs Groove, Quadrant Soundscape and Simon Scott. Next up: Soup, Manchester on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ JS Zeiter is a breakbeat and techno artist tracked on soundcheck, with 6 sets lo
 
 Bugs Groove, Quadrant Soundscape, Simon Scott
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jszeiter/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jszeiter/)*

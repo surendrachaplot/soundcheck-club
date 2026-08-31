@@ -1,6 +1,6 @@
 # sts (US)
 
-sts (US) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Detroit on Fri, 25 Sept 2026.
+sts (US) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Detroit on Fri, 25 Sept 2026.
 
 sts (US) is a techno and electro artist based in United States of America, tracked on soundcheck, with 25 sets logged across Antwerp and Detroit. Often billed alongside Green River Haze, 2Lanes and BEIGE. Next up: TBA, Detroit on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ sts (US) is a techno and electro artist based in United States of America, track
 
 Green River Haze, 2Lanes, BEIGE
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sts-us/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sts-us/)*

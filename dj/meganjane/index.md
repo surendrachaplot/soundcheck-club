@@ -1,6 +1,6 @@
 # Megan Jane
 
-Megan Jane is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+Megan Jane is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
 Megan Jane is a bass and techno artist tracked on soundcheck, with 10 sets logged across Amsterdam, London, Rotterdam and Utrecht. Often billed alongside BLUMITSU, Kurashi Soundsystem and AIDA (CA). Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Megan Jane is a bass and techno artist tracked on soundcheck, with 10 sets logge
 
 BLUMITSU, Kurashi Soundsystem, AIDA (CA)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meganjane/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meganjane/)*

@@ -1,6 +1,6 @@
 # CATSAWAY
 
-CATSAWAY is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Le Gambetta Club, Paris on Sat, 12 Sept 2026.
+CATSAWAY is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Le Gambetta Club, Paris on Sat, 12 Sept 2026.
 
 CATSAWAY is a tech house and trance artist tracked on soundcheck, with 7 sets logged across Paris. Often billed alongside Ranae Vallis, Michel D. and Acid Arab. Next up: Le Gambetta Club, Paris on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ CATSAWAY is a tech house and trance artist tracked on soundcheck, with 7 sets lo
 
 Ranae Vallis, Michel D., Acid Arab
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catsaway/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catsaway/)*

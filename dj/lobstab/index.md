@@ -1,6 +1,6 @@
 # Lobsta B
 
-Lobsta B is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Phonox, London on Sat, 12 Sept 2026.
+Lobsta B is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Phonox, London on Sat, 12 Sept 2026.
 
 Lobsta B is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Brighton and Bristol and 19 more. Often billed alongside 3DMA, alterum and Peggy Viennetta. Next up: Phonox, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Lobsta B is a techno and trance artist based in United Kingdom, tracked on sound
 
 3DMA, alterum, Peggy Viennetta
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lobstab/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lobstab/)*

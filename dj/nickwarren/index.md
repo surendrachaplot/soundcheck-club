@@ -1,6 +1,6 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNLOCKED, London on Sat, 5 Sept 2026.
+Nick Warren is a Progressive House and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at UNLOCKED, London on Sat, 5 Sept 2026.
 
 Nick Warren is a progressive house and house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: UNLOCKED, London on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Nick Warren is a progressive house and house artist tracked on soundcheck, with 
 
 Hernan Cattaneo, Martin Fredes, Sasha
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*

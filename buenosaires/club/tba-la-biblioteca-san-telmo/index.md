@@ -1,6 +1,6 @@
 # TBA - La Biblioteca, San Telmo
 
-TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 13 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Jorge Savoretti + Pato Mallet x My House, La Biblioteca, San Telmo Buenos Aires" on Fri, 4 Sept 2026.
+TBA - La Biblioteca, San Telmo is a music venue in Buenos Aires with 13 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Jorge Savoretti + Pato Mallet x My House, La Biblioteca, San Telmo Buenos Aires" on Fri, 4 Sept 2026.
 
 TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundcheck. 13 upcoming nights, with line-ups including Alex O'Rion, Alex Stein, Antrim and Eli Nissan and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - La Biblioteca, San Telmo is a music venue in Buenosaires listed on soundch
 | Sat, 26 Sept 2026 | Eli Nissan x Somos Produce, La Biblioteca, San Telmo Buenos Aires | Eli Nissan |
 | Fri, 2 Oct 2026 | Nick Varon, Progressive Ar, La Biblioteca, San Telmo Buenos Aires | Nick Varon |
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-biblioteca-san-telmo/)*

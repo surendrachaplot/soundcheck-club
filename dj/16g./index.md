@@ -1,6 +1,6 @@
 # 16G.
 
-16G. is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at IT Athens, Athens on Fri, 18 Sept 2026.
+16G. is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at IT Athens, Athens on Fri, 18 Sept 2026.
 
 16G. is an electronic artist based in Greece, tracked on soundcheck, with 1 set logged across Athens. Often billed alongside Dom K and NEFARIOUS. Next up: IT Athens, Athens on Fri 18 Sept.
 
@@ -14,4 +14,4 @@
 
 Dom K, NEFARIOUS
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/16g./)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/16g./)*

@@ -1,6 +1,6 @@
 # Lil Zé
 
-Lil Zé is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Pianos, New York City on Tue, 3 Nov 2026.
+Lil Zé is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Pianos, New York City on Tue, 3 Nov 2026.
 
 Lil Zé is a club and baile funk artist tracked on soundcheck, with 32 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Papi Weli, Yuca Frita and 8ULENTINA. Next up: Pianos, Newyorkcity on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Lil Zé is a club and baile funk artist tracked on soundcheck, with 32 sets logg
 
 Papi Weli, Yuca Frita, 8ULENTINA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilze/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilze/)*

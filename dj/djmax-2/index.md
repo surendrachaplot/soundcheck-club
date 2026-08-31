@@ -1,6 +1,6 @@
 # DJ MAX (2)
 
-DJ MAX (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Van de Werf, Amsterdam on Sat, 24 Oct 2026.
+DJ MAX (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Van de Werf, Amsterdam on Sat, 24 Oct 2026.
 
 DJ MAX (2) is a tech house and house artist based in Croatia, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside DJ Izee and Kardano. Next up: Van de Werf, Amsterdam on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ DJ MAX (2) is a tech house and house artist based in Croatia, tracked on soundch
 
 DJ Izee, Kardano
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmax-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmax-2/)*

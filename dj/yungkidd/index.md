@@ -1,6 +1,6 @@
 # yung kidd
 
-yung kidd is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Sneaky Pete's, Edinburgh on Thu, 3 Sept 2026.
+yung kidd is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Sneaky Pete's, Edinburgh on Thu, 3 Sept 2026.
 
 yung kidd is a techno and house artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Edinburgh and Glasgow. Often billed alongside Smiff, Lowree and Lara Sinclair. Next up: Sneaky Pete's, Edinburgh on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ yung kidd is a techno and house artist based in United Kingdom, tracked on sound
 
 Smiff, Lowree, Lara Sinclair
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yungkidd/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yungkidd/)*

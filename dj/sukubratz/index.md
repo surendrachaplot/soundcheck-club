@@ -1,6 +1,6 @@
 # Sukubratz
 
-Sukubratz is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at export, Rotterdam on Fri, 4 Sept 2026.
+Sukubratz is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at export, Rotterdam on Fri, 4 Sept 2026.
 
 Sukubratz is a techno and club artist tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Slimfit, Miss Jay (RO) and DIORA. Next up: export, Rotterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Sukubratz is a techno and club artist tracked on soundcheck, with 66 sets logged
 
 Slimfit, Miss Jay (RO), DIORA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sukubratz/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sukubratz/)*

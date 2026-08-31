@@ -1,14 +1,13 @@
 # Barroness
 
-Barroness is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Leslie Lookout Park, Toronto on Sat, 29 Aug 2026.
+Barroness is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Wiggle Room, Toronto on Sun, 6 Sept 2026.
 
-Barroness is a tech house and house artist tracked on soundcheck, with 139 sets logged across Toronto. Often billed alongside TAKiN, Tyler Hill and Manzone & Strong. Next up: Leslie Lookout Park, Toronto on Sat 29 Aug.
+Barroness is a tech house and house artist tracked on soundcheck, with 139 sets logged across Toronto. Often billed alongside TAKiN, Tyler Hill and Manzone & Strong. Next up: Wiggle Room, Toronto on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Leslie Lookout Park | Toronto |
 | Sun, 6 Sept 2026 | Wiggle Room | Toronto |
 | Sat, 26 Sept 2026 | Wiggle Room | Toronto |
 
@@ -27,4 +26,4 @@ Barroness is a tech house and house artist tracked on soundcheck, with 139 sets 
 
 TAKiN, Tyler Hill, Manzone & Strong
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barroness/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/barroness/)*

@@ -1,6 +1,6 @@
 # Jean Frais
 
-Jean Frais is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
+Jean Frais is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
 
 Jean Frais is a house and disco artist tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Crimson Lake, DJ Kodah and nonduality. Next up: KitKatClub, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jean Frais is a house and disco artist tracked on soundcheck, with 22 sets logge
 
 Crimson Lake, DJ Kodah, nonduality
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanfrais/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanfrais/)*

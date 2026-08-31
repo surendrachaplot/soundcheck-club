@@ -1,6 +1,6 @@
 # Veil
 
-Veil is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Autumn Three, London on Sun, 6 Sept 2026.
+Veil is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Autumn Three, London on Sun, 6 Sept 2026.
 
 Veil is a techno and experimental artist based in Kuwait, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Anahita Shamsaei, Baabax and Ben.zo. Next up: Autumn Three, London on Sun 6 Sept.
 
@@ -18,4 +18,4 @@ Veil is a techno and experimental artist based in Kuwait, tracked on soundcheck,
 
 Anahita Shamsaei, Baabax, Ben.zo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veil/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/veil/)*

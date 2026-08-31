@@ -1,6 +1,6 @@
 # Noah Kulaga
 
-Noah Kulaga is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at LIVE EVIL, Munich on Wed, 23 Sept 2026.
+Noah Kulaga is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at LIVE EVIL, Munich on Wed, 23 Sept 2026.
 
 Noah Kulaga is a house and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Munich. Often billed alongside KINNIKS, Seto and Bondi (DE). Next up: LIVE EVIL, Munich on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Noah Kulaga is a house and techno artist based in Germany, tracked on soundcheck
 
 KINNIKS, Seto, Bondi (DE)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noahkulaga/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noahkulaga/)*

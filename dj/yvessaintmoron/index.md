@@ -1,6 +1,6 @@
 # YVESSAINTMORON
 
-YVESSAINTMORON is a Amapiano and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lvls, London on Sun, 6 Sept 2026.
+YVESSAINTMORON is a Amapiano and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lvls, London on Sun, 6 Sept 2026.
 
 YVESSAINTMORON is an amapiano and afrobeats artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside SCARBA. Next up: Lvls, London on Sun 6 Sept.
 
@@ -18,4 +18,4 @@ YVESSAINTMORON is an amapiano and afrobeats artist based in United Kingdom, trac
 
 SCARBA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yvessaintmoron/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yvessaintmoron/)*

@@ -1,6 +1,6 @@
 # Daltons Brighton
 
-Daltons Brighton is a music venue in Brighton with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Lost Angels" on Sat, 12 Sept 2026.
+Daltons Brighton is a music venue in Brighton with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Lost Angels" on Sat, 12 Sept 2026.
 
 Daltons Brighton is a music venue in Brighton listed on soundcheck. 2 upcoming nights, with line-ups including LUNAx3, Scar XL, Surati and Willow J. Browse upcoming dates, start times and who's playing. Under Brighton Zip - Lower Promenade, Madeira Drive, Brighton, BN2 1TB.
 
@@ -15,4 +15,4 @@ Daltons Brighton is a music venue in Brighton listed on soundcheck. 2 upcoming n
 
 Under Brighton Zip - Lower Promenade, Madeira Drive, Brighton, BN2 1TB, Brighton
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/daltons-brighton/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/daltons-brighton/)*

@@ -1,6 +1,6 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Flash, Washington DC on Fri, 11 Sept 2026.
+John Talabot is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Flash, Washington DC on Fri, 11 Sept 2026.
 
 John Talabot is a house and techno artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Bali and 51 more. Often billed alongside mad miran, Nicolas Lutz and Palms Trax. Next up: Flash, Washingtondc on Fri 11 Sept.
 
@@ -34,4 +34,4 @@ John Talabot is a house and techno artist tracked on soundcheck, with 177 sets l
 
 mad miran, Nicolas Lutz, Palms Trax
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

@@ -1,6 +1,6 @@
 # neko.ea
 
-neko.ea is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Evelyn Hotel, Melbourne on Fri, 4 Sept 2026.
+neko.ea is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Evelyn Hotel, Melbourne on Fri, 4 Sept 2026.
 
 neko.ea is a techno and progressive house artist based in Indonesia, tracked on soundcheck, with 12 sets logged across Melbourne and Seoul. Often billed alongside Hasvat Informant, Ali Bilal and Alilia. Next up: The Evelyn Hotel, Melbourne on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ neko.ea is a techno and progressive house artist based in Indonesia, tracked on 
 
 Hasvat Informant, Ali Bilal, Alilia
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neko.ea/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neko.ea/)*

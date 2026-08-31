@@ -1,6 +1,6 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at AMT, Berlin on Wed, 9 Sept 2026.
+Mar/us is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at AMT, Berlin on Wed, 9 Sept 2026.
 
 Mar/us is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Bangkok and Berlin and 23 more. Often billed alongside BOYCA, Cristian Marras and Metaraph. Next up: AMT, Berlin on Wed 9 Sept.
 
@@ -29,4 +29,4 @@ Mar/us is a techno and house artist tracked on soundcheck, with 85 sets logged a
 
 BOYCA, Cristian Marras, Metaraph
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*

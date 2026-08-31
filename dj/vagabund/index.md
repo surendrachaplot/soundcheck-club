@@ -1,14 +1,13 @@
 # Vagabund
 
-Vagabund is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Vagabund is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
 
-Vagabund is a techno and trance artist tracked on soundcheck, with 69 sets logged across Antwerp, Barcelona, Basel and Berlin and 10 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Vagabund is a techno and trance artist tracked on soundcheck, with 69 sets logged across Antwerp, Barcelona, Basel and Berlin and 10 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: Lutfi Kirdar Congress Center, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 17 Oct 2026 | Lutfi Kirdar Congress Center | Istanbul |
 | Sat, 31 Oct 2026 | Left Bank Leeds | Leeds |
 
@@ -27,4 +26,4 @@ Vagabund is a techno and trance artist tracked on soundcheck, with 69 sets logge
 
 KUKO, Cloudy, Johannes Schuster
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*

@@ -1,6 +1,6 @@
 # Fisher Bryce
 
-Fisher Bryce is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Platform9, Vancouver on Fri, 25 Sept 2026.
+Fisher Bryce is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Platform9, Vancouver on Fri, 25 Sept 2026.
 
 Fisher Bryce is a house and techno artist tracked on soundcheck, with 35 sets logged across Mexicocity, Seattle and Vancouver. Often billed alongside ZIGGY ZAYA, educación física and jiggity jeff. Next up: Platform9, Vancouver on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Fisher Bryce is a house and techno artist tracked on soundcheck, with 35 sets lo
 
 ZIGGY ZAYA, educación física, jiggity jeff
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fisherbryce/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fisherbryce/)*

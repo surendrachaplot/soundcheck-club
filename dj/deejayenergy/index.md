@@ -1,6 +1,6 @@
 # Deejay Energy
 
-Deejay Energy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Trans-Pecos, New York City on Fri, 4 Sept 2026.
+Deejay Energy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Trans-Pecos, New York City on Fri, 4 Sept 2026.
 
 Deejay Energy is a techno and house artist based in Mexico, tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Berlin and Boston and 3 more. Often billed alongside Enya Botello, Bluecommand and Phanta. Next up: Trans-Pecos, Newyorkcity on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Deejay Energy is a techno and house artist based in Mexico, tracked on soundchec
 
 Enya Botello, Bluecommand, Phanta
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deejayenergy/)*

@@ -1,6 +1,6 @@
 # Shayleen Rose
 
-Shayleen Rose is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Glove That Fits, London on Thu, 3 Sept 2026.
+Shayleen Rose is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Glove That Fits, London on Thu, 3 Sept 2026.
 
 Shayleen Rose is a techno artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Aniaef, CITYTRONIX and Modlar. Next up: The Glove That Fits, London on Thu 3 Sept.
 
@@ -18,4 +18,4 @@ Shayleen Rose is a techno artist tracked on soundcheck, with 2 sets logged acros
 
 Aniaef, CITYTRONIX, Modlar
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shayleenrose/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shayleenrose/)*

@@ -1,6 +1,6 @@
 # African Head Charge
 
-African Head Charge is a Dub and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Future Yard, Liverpool on Sat, 7 Nov 2026.
+African Head Charge is a Dub and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Future Yard, Liverpool on Sat, 7 Nov 2026.
 
 African Head Charge is a dub and afrobeat artist tracked on soundcheck, with 19 sets logged across Berlin, Edinburgh, Glasgow and Leeds and 6 more. Often billed alongside Marta De Pascalis, PRAED and Perera Elsewhere. Next up: Future Yard, Liverpool on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ African Head Charge is a dub and afrobeat artist tracked on soundcheck, with 19 
 
 Marta De Pascalis, PRAED, Perera Elsewhere
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/africanheadcharge/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/africanheadcharge/)*

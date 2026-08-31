@@ -1,6 +1,6 @@
 # Blood Orange
 
-Blood Orange is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Blood Orange is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Blood Orange is an electronica and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Copenhagen, London, Miami and Paris and 1 more. Often billed alongside YHWH Nailgun, Jump Source and Smerz. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Blood Orange is an electronica and techno artist based in United States of Ameri
 
 YHWH Nailgun, Jump Source, Smerz
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodorange/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodorange/)*

@@ -1,6 +1,6 @@
 # SOUZAC
 
-SOUZAC is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Index, Dublin on Fri, 25 Sept 2026.
+SOUZAC is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Index, Dublin on Fri, 25 Sept 2026.
 
 SOUZAC is a progressive house and techno artist based in Brazil, tracked on soundcheck, with 50 sets logged across Dublin. Often billed alongside GABR:EL, Belen G and NAZARENO. Next up: Index, Dublin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ SOUZAC is a progressive house and techno artist based in Brazil, tracked on soun
 
 GABR:EL, Belen G, NAZARENO
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/souzac/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/souzac/)*

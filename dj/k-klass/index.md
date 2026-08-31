@@ -1,6 +1,6 @@
 # K-Klass
 
-K-Klass is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - THE STRAY, HARROGATE, Leeds on Sat, 5 Sept 2026.
+K-Klass is a House and Club artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - THE STRAY, HARROGATE, Leeds on Sat, 5 Sept 2026.
 
 K-Klass is a house and club artist tracked on soundcheck, with 55 sets logged across Aberdeen, Birmingham, Bristol and Glasgow and 7 more. Often billed alongside Todd Terry, Graeme Park and Seb Fontaine. Next up: TBA - THE STRAY, HARROGATE, Leeds on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ K-Klass is a house and club artist tracked on soundcheck, with 55 sets logged ac
 
 Todd Terry, Graeme Park, Seb Fontaine
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-klass/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/k-klass/)*

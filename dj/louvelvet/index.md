@@ -1,6 +1,6 @@
 # Lou Velvet
 
-Lou Velvet is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Legal, Munich on Fri, 11 Sept 2026.
+Lou Velvet is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Legal, Munich on Fri, 11 Sept 2026.
 
 Lou Velvet is a house and tech house artist based in Germany, tracked on soundcheck, with 5 sets logged across Munich. Often billed alongside Almedina (2), Kuduxxti and 600-cell. Next up: Legal, Munich on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Lou Velvet is a house and tech house artist based in Germany, tracked on soundch
 
 Almedina (2), Kuduxxti, 600-cell
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louvelvet/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louvelvet/)*

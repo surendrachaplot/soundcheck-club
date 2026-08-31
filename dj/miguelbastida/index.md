@@ -1,6 +1,6 @@
 # Miguel Bastida
 
-Miguel Bastida is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Area Costanera, Quilmes, Buenos Aires on Sun, 11 Oct 2026.
+Miguel Bastida is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Area Costanera, Quilmes, Buenos Aires on Sun, 11 Oct 2026.
 
 Miguel Bastida is a tech house and house artist based in Spain, tracked on soundcheck, with 24 sets logged across Barcelona, Buenosaires, Ibiza and Lisbon and 5 more. Often billed alongside Wade, Daniel Aguilar (2) and FISHER. Next up: TBA - Area Costanera, Quilmes, Buenosaires on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Miguel Bastida is a tech house and house artist based in Spain, tracked on sound
 
 Wade, Daniel Aguilar (2), FISHER
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelbastida/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelbastida/)*

@@ -1,6 +1,6 @@
 # Noah (GE)
 
-Noah (GE) is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Odonien, Cologne on Wed, 2 Sept 2026.
+Noah (GE) is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Odonien, Cologne on Wed, 2 Sept 2026.
 
 Noah (GE) is a techno and hip-hop artist tracked on soundcheck, with 11 sets logged across Cologne, Frankfurt, Istanbul and London and 5 more. Often billed alongside Aletha, Alexander Aurel and BLCKWA. Next up: Odonien, Cologne on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Noah (GE) is a techno and hip-hop artist tracked on soundcheck, with 11 sets log
 
 Aletha, Alexander Aurel, BLCKWA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noah-ge/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noah-ge/)*

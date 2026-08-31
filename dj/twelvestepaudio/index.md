@@ -1,6 +1,6 @@
 # Twelve Step Audio
 
-Twelve Step Audio is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Volks, Brighton on Sat, 12 Sept 2026.
+Twelve Step Audio is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Volks, Brighton on Sat, 12 Sept 2026.
 
 Twelve Step Audio is a drum & bass and jungle artist tracked on soundcheck, with 4 sets logged across Brighton and London. Often billed alongside Degs, Alcemist and DJ Hazard. Next up: Volks, Brighton on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Twelve Step Audio is a drum & bass and jungle artist tracked on soundcheck, with
 
 Degs, Alcemist, DJ Hazard
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twelvestepaudio/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/twelvestepaudio/)*

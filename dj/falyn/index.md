@@ -1,6 +1,6 @@
 # FALYN
 
-FALYN is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Knockdown Center, New York City on Fri, 4 Sept 2026.
+FALYN is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Knockdown Center, New York City on Fri, 4 Sept 2026.
 
 FALYN is an afro house and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Ibiza, London, Losangeles and Miami and 2 more. Often billed alongside RARA (US), MoBlack and Nii Tei. Next up: Knockdown Center, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ FALYN is an afro house and house artist based in United States of America, track
 
 RARA (US), MoBlack, Nii Tei
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/falyn/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/falyn/)*

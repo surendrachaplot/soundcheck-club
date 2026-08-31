@@ -1,6 +1,6 @@
 # Orlok
 
-Orlok is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at murmur, Amsterdam on Fri, 18 Sept 2026.
+Orlok is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at murmur, Amsterdam on Fri, 18 Sept 2026.
 
 Orlok is an electronic artist based in Tunisia, tracked on soundcheck, with 1 set logged across Amsterdam. Next up: murmur, Amsterdam on Fri 18 Sept.
 
@@ -10,4 +10,4 @@ Orlok is an electronic artist based in Tunisia, tracked on soundcheck, with 1 se
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | murmur | Amsterdam |
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orlok/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/orlok/)*

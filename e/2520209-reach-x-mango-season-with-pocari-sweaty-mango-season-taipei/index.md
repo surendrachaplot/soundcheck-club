@@ -1,6 +1,6 @@
-# Reach x Mango Season with Pocari Sweaty (Mango Season, Taipei) + Andy S (Reach, Hong Kong) at 宀 Club
+# Reach x Mango Season with Pocari Sweaty (Mango Season, Taipei) + Andy-S (Reach, Hong Kong) at 宀 Club
 
-Reach x Mango Season with Pocari Sweaty (Mango Season, Taipei) + Andy S (Reach, Hong Kong) at 宀 Club on Fri 2 Oct, Hongkong. 2 acts on the bill: Andy-S and Pocari Sweaty. House and Disco. Preview the line-up and save it on soundcheck.
+Reach x Mango Season with Pocari Sweaty (Mango Season, Taipei) + Andy-S (Reach, Hong Kong) at 宀 Club on Fri 2 Oct, Hongkong. 2 acts on the bill: Andy-S and Pocari Sweaty. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

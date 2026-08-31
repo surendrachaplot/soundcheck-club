@@ -1,6 +1,6 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 13 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Ypsilonka" on Thu, 3 Sept 2026.
+Bar v Krymský is a music venue in Prague with 13 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Ypsilonka" on Thu, 3 Sept 2026.
 
 Bar v Krymský is a music venue in Prague listed on soundcheck. 13 upcoming nights, with line-ups including Eva Falt, ishka machina, Orkus and Raphael Kosmos and 2 more. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
 
@@ -23,4 +23,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 13 upcoming nigh
 
 Krymská 21, Praha, Prague
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

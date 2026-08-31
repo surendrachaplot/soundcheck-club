@@ -1,6 +1,6 @@
 # Athena (2)
 
-Athena (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
+Athena (2) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
 
 Athena (2) is a techno and electronica artist based in Canada, tracked on soundcheck, with 6 sets logged across Hongkong, Mexicocity, Newyorkcity and Toronto. Often billed alongside Athena, Azyr and Bianca Oblivion. Next up: TBA - Kai Tak Cruise Terminal Waiting Hall A, Hongkong on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Athena (2) is a techno and electronica artist based in Canada, tracked on soundc
 
 Athena, Azyr, Bianca Oblivion
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/athena-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/athena-2/)*

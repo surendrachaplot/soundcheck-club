@@ -1,6 +1,6 @@
 # Budapest Park
 
-Budapest Park is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Maximum Drum and Bass with Chris SU, IAN Autorun, Shaymi, MNBT, Winstone ⏾ Nights of BPP" on Fri, 4 Sept 2026.
+Budapest Park is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Maximum Drum and Bass with Chris SU, IAN Autorun, Shaymi, MNBT, Winstone ⏾ Nights of BPP" on Fri, 4 Sept 2026.
 
 Budapest Park is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including Âme, LAVKY and Ratkay. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
 
@@ -18,4 +18,4 @@ Budapest Park is a music venue in Budapest listed on soundcheck. 5 upcoming nigh
 
 1095 Budapest, Fábián Juli tér 1., Budapest
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*

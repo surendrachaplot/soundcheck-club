@@ -1,6 +1,6 @@
 # EMilio (2)
 
-EMilio (2) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Thu, 10 Sept 2026.
+EMilio (2) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Thu, 10 Sept 2026.
 
 EMilio (2) is a techno and electro artist based in Uruguay, tracked on soundcheck, with 54 sets logged across Barcelona, Liverpool, London and Madrid and 3 more. Often billed alongside Z@p, DJ Koolt and KINO (UY). Next up: Seaseaclub Barcelona, Barcelona on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ EMilio (2) is a techno and electro artist based in Uruguay, tracked on soundchec
 
 Z@p, DJ Koolt, KINO (UY)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio-2/)*

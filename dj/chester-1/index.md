@@ -1,6 +1,6 @@
 # Chester (1)
 
-Chester (1) is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 4 Sept 2026.
+Chester (1) is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 4 Sept 2026.
 
 Chester (1) is a drum & bass and breakbeat artist tracked on soundcheck, with 4 sets logged across Lisbon and Manchester. Often billed alongside Cleary, DJ Poco and Ensarr. Next up: Village Underground Lisboa, Lisbon on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ Chester (1) is a drum & bass and breakbeat artist tracked on soundcheck, with 4 
 
 Cleary, DJ Poco, Ensarr
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chester-1/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chester-1/)*

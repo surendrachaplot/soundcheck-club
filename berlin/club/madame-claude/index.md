@@ -1,6 +1,6 @@
 # Madame Claude
 
-Madame Claude is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Madame Claude's Experimontag" on Mon, 31 Aug 2026.
+Madame Claude is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Madame Claude's Experimontag" on Mon, 31 Aug 2026.
 
 Madame Claude is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Koh, Matthew Ryals, M Love and Slak. Browse upcoming dates, start times and who's playing. Lübbener Str. 19, 10997 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Madame Claude is a music venue in Berlin listed on soundcheck. 11 upcoming night
 
 Lübbener Str. 19, 10997 Berlin, Germany, Berlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/madame-claude/)*

@@ -1,6 +1,6 @@
 # Yubu
 
-Yubu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Benelux BAR, Amsterdam on Sat, 19 Sept 2026.
+Yubu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Benelux BAR, Amsterdam on Sat, 19 Sept 2026.
 
 Yubu is a house and techno artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Basel and Brussels and 3 more. Often billed alongside Mattie, Mia Cecille and Caim. Next up: Benelux BAR, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Yubu is a house and techno artist tracked on soundcheck, with 25 sets logged acr
 
 Mattie, Mia Cecille, Caim
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yubu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yubu/)*

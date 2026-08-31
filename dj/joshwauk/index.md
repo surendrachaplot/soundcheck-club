@@ -1,6 +1,6 @@
 # Joshwa
 
-Joshwa is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Club Vinyl, Denver on Sun, 6 Sept 2026.
+Joshwa is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Club Vinyl, Denver on Sun, 6 Sept 2026.
 
 Joshwa is a tech house and house artist tracked on soundcheck, with 82 sets logged across Boston, Chicago, Copenhagen and Denver and 26 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: Club Vinyl, Denver on Sun 6 Sept.
 
@@ -30,4 +30,4 @@ Joshwa is a tech house and house artist tracked on soundcheck, with 82 sets logg
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*

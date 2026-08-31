@@ -1,6 +1,6 @@
 # Salbany
 
-Salbany is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Lux Fragil, Lisbon on Fri, 4 Sept 2026.
+Salbany is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Lux Fragil, Lisbon on Fri, 4 Sept 2026.
 
 Salbany is a techno and house artist based in Portugal, tracked on soundcheck, with 55 sets logged across Berlin, Lisbon, London and Madrid and 3 more. Often billed alongside Jesterr, Chima Isaaro and Temudo. Next up: Lux Fragil, Lisbon on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Salbany is a techno and house artist based in Portugal, tracked on soundcheck, w
 
 Jesterr, Chima Isaaro, Temudo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salbany/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salbany/)*

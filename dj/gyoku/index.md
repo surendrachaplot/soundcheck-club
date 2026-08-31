@@ -1,6 +1,6 @@
 # GYOKU
 
-GYOKU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Socore Factory, Osaka on Wed, 23 Sept 2026.
+GYOKU is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Socore Factory, Osaka on Wed, 23 Sept 2026.
 
 GYOKU is a house and techno artist tracked on soundcheck, with 19 sets logged across Osaka. Often billed alongside KA4U, SPINNUTS and Ascalypso. Next up: Socore Factory, Osaka on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ GYOKU is a house and techno artist tracked on soundcheck, with 19 sets logged ac
 
 KA4U, SPINNUTS, Ascalypso
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gyoku/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gyoku/)*

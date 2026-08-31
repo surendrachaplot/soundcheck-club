@@ -1,6 +1,6 @@
 # XipNoize
 
-XipNoize is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Carmo Rooftop, Lisbon on Fri, 11 Sept 2026.
+XipNoize is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Carmo Rooftop, Lisbon on Fri, 11 Sept 2026.
 
 XipNoize is a techno and house artist based in Spain, tracked on soundcheck, with 39 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Gabo Oliveira, PAZ WAZ HERE and NOBODYISALICE. Next up: Carmo Rooftop, Lisbon on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ XipNoize is a techno and house artist based in Spain, tracked on soundcheck, wit
 
 Gabo Oliveira, PAZ WAZ HERE, NOBODYISALICE
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xipnoize/)*

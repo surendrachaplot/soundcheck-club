@@ -1,6 +1,6 @@
 # Khun
 
-Khun is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
+Khun is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
 
 Khun is a house and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Bangkok, Barcelona and Utrecht. Often billed alongside Mees Mattern, Luis Ripa and nik-ey. Next up: Shelter Amsterdam, Amsterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Khun is a house and tech house artist tracked on soundcheck, with 28 sets logged
 
 Mees Mattern, Luis Ripa, nik-ey
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khun/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/khun/)*

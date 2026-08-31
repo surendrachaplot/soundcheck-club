@@ -1,6 +1,6 @@
 # Liebe Nachbarn
 
-Liebe Nachbarn is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lieberscholli, Munich on Sat, 12 Sept 2026.
+Liebe Nachbarn is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lieberscholli, Munich on Sat, 12 Sept 2026.
 
 Liebe Nachbarn is a tech house and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Munich. Often billed alongside Anna Lazer, DJ Nebelmaschine and Baerbel. Next up: Lieberscholli, Munich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Liebe Nachbarn is a tech house and house artist based in Germany, tracked on sou
 
 Anna Lazer, DJ Nebelmaschine, Baerbel
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liebenachbarn/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/liebenachbarn/)*

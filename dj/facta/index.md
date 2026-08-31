@@ -1,6 +1,6 @@
 # Facta
 
-Facta is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Gaffe, London on Sat, 19 Sept 2026.
+Facta is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Gaffe, London on Sat, 19 Sept 2026.
 
 Facta is a bass and house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Auckland, Berlin and Bristol and 13 more. Often billed alongside K-LONE, Yushh and EMA (1). Next up: Gaffe, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Facta is a bass and house artist tracked on soundcheck, with 54 sets logged acro
 
 K-LONE, Yushh, EMA (1)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/facta/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/facta/)*

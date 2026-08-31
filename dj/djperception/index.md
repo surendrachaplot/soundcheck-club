@@ -1,6 +1,6 @@
 # DJ Perception
 
-DJ Perception is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Freight Brixton, London on Sat, 5 Sept 2026.
+DJ Perception is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Freight Brixton, London on Sat, 5 Sept 2026.
 
 DJ Perception is a garage and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 13 more. Often billed alongside Lady Passion, Jeremy Sylvester and Harry Luda. Next up: Freight Brixton, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ DJ Perception is a garage and house artist tracked on soundcheck, with 80 sets l
 
 Lady Passion, Jeremy Sylvester, Harry Luda
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djperception/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djperception/)*

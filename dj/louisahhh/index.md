@@ -1,6 +1,6 @@
 # Louisahhh
 
-Louisahhh is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Mia Mao, Paris on Sat, 19 Sept 2026.
+Louisahhh is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Mia Mao, Paris on Sat, 19 Sept 2026.
 
 Louisahhh is a techno and industrial artist based in United States of America, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Maëlstrom, Lewis G. Burton and Wax Wings. Next up: Mia Mao, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Louisahhh is a techno and industrial artist based in United States of America, t
 
 Maëlstrom, Lewis G. Burton, Wax Wings
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louisahhh/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louisahhh/)*

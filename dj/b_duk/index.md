@@ -1,6 +1,6 @@
 # b_d (UK)
 
-b_d (UK) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Stage and Radio, Manchester on Fri, 6 Nov 2026.
+b_d (UK) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Stage and Radio, Manchester on Fri, 6 Nov 2026.
 
 b_d (UK) is a house and electro artist tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside ADNR, Kensa and tINI. Next up: Stage and Radio, Manchester on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ b_d (UK) is a house and electro artist tracked on soundcheck, with 2 sets logged
 
 ADNR, Kensa, tINI
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b_duk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b_duk/)*

@@ -1,6 +1,6 @@
 # Good Room
 
-Good Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Lloyd's Bday ft Beautiful Swimmers, dreamcastmoe, James Bangura" on Fri, 4 Sept 2026.
+Good Room is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Lloyd's Bday ft Beautiful Swimmers, dreamcastmoe, James Bangura" on Fri, 4 Sept 2026.
 
 Good Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including A lana, Beautiful Swimmers, beewack and Budino and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
@@ -23,4 +23,4 @@ Good Room is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nigh
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

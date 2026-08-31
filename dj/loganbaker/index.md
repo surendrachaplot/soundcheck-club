@@ -1,6 +1,6 @@
 # Logan Baker
 
-Logan Baker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kemuri Hi-Fi, Auckland on Sat, 5 Sept 2026.
+Logan Baker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kemuri Hi-Fi, Auckland on Sat, 5 Sept 2026.
 
 Logan Baker is a house and tech house artist tracked on soundcheck, with 35 sets logged across Auckland, Berlin, Melbourne and Sydney. Often billed alongside Mia Kober, DirdyGerdi and DJ Name. Next up: Kemuri Hi-Fi, Auckland on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Logan Baker is a house and tech house artist tracked on soundcheck, with 35 sets
 
 Mia Kober, DirdyGerdi, DJ Name
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loganbaker/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/loganbaker/)*

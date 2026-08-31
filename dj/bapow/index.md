@@ -1,6 +1,6 @@
 # Bapow
 
-Bapow is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UMI, Brussels on Sat, 12 Sept 2026.
+Bapow is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at UMI, Brussels on Sat, 12 Sept 2026.
 
 Bapow is a house and electro artist based in Belgium, tracked on soundcheck, with 13 sets logged across Brussels and Budapest. Often billed alongside Poppy (BE), Ava Eva and Dyed Soundorom. Next up: UMI, Brussels on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Bapow is a house and electro artist based in Belgium, tracked on soundcheck, wit
 
 Poppy (BE), Ava Eva, Dyed Soundorom
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bapow/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bapow/)*

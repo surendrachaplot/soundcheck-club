@@ -1,6 +1,6 @@
 # Showtek
 
-Showtek is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Showtek is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Showtek is a techno and house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Chicago, Denver, Dusseldorf and Glasgow and 7 more. Often billed alongside Darren Styles, Coone and Gammer. Next up: NOS Event Center, Losangeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Showtek is a techno and house artist based in Netherlands, tracked on soundcheck
 
 Darren Styles, Coone, Gammer
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/showtek/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/showtek/)*

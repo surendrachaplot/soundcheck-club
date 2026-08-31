@@ -1,6 +1,6 @@
 # Gianni Romano
 
-Gianni Romano is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Löwenpalais Berlin Grunewald   Koenigsallee 30 - 32, 14193 Berlin, Berlin on Fri, 11 Sept 2026.
+Gianni Romano is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Löwenpalais Berlin Grunewald   Koenigsallee 30 - 32, 14193 Berlin, Berlin on Fri, 11 Sept 2026.
 
 Gianni Romano is a house and disco artist tracked on soundcheck, with 8 sets logged across Berlin, Ibiza, Istanbul and Malta and 2 more. Often billed alongside Emanuele Esposito, Aura and Aüra. Next up: TBA - Löwenpalais Berlin Grunewald   Koenigsallee 30 - 32, 14193 Berlin, Berlin on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Gianni Romano is a house and disco artist tracked on soundcheck, with 8 sets log
 
 Emanuele Esposito, Aura, Aüra
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianniromano/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gianniromano/)*

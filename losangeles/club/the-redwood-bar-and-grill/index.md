@@ -1,6 +1,6 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "an evening with" on Thu, 10 Sept 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 9 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "an evening with" on Thu, 10 Sept 2026.
 
 The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
@@ -22,4 +22,4 @@ The Redwood Bar And Grill is a music venue in Losangeles listed on soundcheck. 9
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

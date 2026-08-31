@@ -1,6 +1,6 @@
 # Anders Horse
 
-Anders Horse is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 12 Sept 2026.
+Anders Horse is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Den Anden Side, Copenhagen on Sat, 12 Sept 2026.
 
 Anders Horse is a techno and trance artist based in Denmark, tracked on soundcheck, with 14 sets logged across Copenhagen. Often billed alongside Johannes Astrup, Anna Logic and FILTH.y. Next up: Den Anden Side, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Anders Horse is a techno and trance artist based in Denmark, tracked on soundche
 
 Johannes Astrup, Anna Logic, FILTH.y
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andershorse/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andershorse/)*

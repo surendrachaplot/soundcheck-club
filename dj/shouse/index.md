@@ -1,6 +1,6 @@
 # Shouse
 
-Shouse is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Howler, Melbourne on Sun, 13 Sept 2026.
+Shouse is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Howler, Melbourne on Sun, 13 Sept 2026.
 
 Shouse is a house and techno artist based in Australia, tracked on soundcheck, with 20 sets logged across Berlin, Budapest, Copenhagen and Ibiza and 6 more. Often billed alongside DJ LONER, James Juke and AROHA. Next up: Howler, Melbourne on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Shouse is a house and techno artist based in Australia, tracked on soundcheck, w
 
 DJ LONER, James Juke, AROHA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shouse/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shouse/)*

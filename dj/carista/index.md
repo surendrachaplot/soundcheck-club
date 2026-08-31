@@ -1,6 +1,6 @@
 # CARISTA
 
-CARISTA is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+CARISTA is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 CARISTA is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Job Jobse, Eris Drew and Suze Ijó. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -34,4 +34,4 @@ CARISTA is a house and techno artist tracked on soundcheck, with 184 sets logged
 
 Job Jobse, Eris Drew, Suze Ijó
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carista/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carista/)*

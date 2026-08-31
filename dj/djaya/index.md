@@ -1,14 +1,13 @@
 # DJ AYA
 
-DJ AYA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+DJ AYA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Nitsa Club, Barcelona on Sat, 26 Sept 2026.
 
-DJ AYA is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside DJ Fuckoff, Aaron Blau and DJ Gigola. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+DJ AYA is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside DJ Fuckoff, Aaron Blau and DJ Gigola. Next up: Nitsa Club, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 26 Sept 2026 | Nitsa Club | Barcelona |
 | Fri, 16 Oct 2026 | Tokonoma Club | Frankfurt |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
@@ -28,4 +27,4 @@ DJ AYA is a techno and house artist tracked on soundcheck, with 170 sets logged 
 
 DJ Fuckoff, Aaron Blau, DJ Gigola
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djaya/)*

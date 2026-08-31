@@ -1,6 +1,6 @@
 # Clarks (FR)
 
-Clarks (FR) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - LE YACHT, Lyon on Sat, 5 Sept 2026.
+Clarks (FR) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - LE YACHT, Lyon on Sat, 5 Sept 2026.
 
 Clarks (FR) is a tech house and techno artist based in France, tracked on soundcheck, with 1 set logged across Lyon. Often billed alongside Kiko. Next up: TBA - LE YACHT, Lyon on Sat 5 Sept.
 
@@ -14,4 +14,4 @@ Clarks (FR) is a tech house and techno artist based in France, tracked on soundc
 
 Kiko
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarksfr/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarksfr/)*

@@ -1,6 +1,6 @@
 # Marte (US)
 
-Marte (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Ground at Club Space, Miami on Sat, 12 Sept 2026.
+Marte (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Ground at Club Space, Miami on Sat, 12 Sept 2026.
 
 Marte (US) is a house and techno artist tracked on soundcheck, with 51 sets logged across Chicago, Losangeles and Miami. Often billed alongside SATURNSARii, 1-800-Lolita and XANA (US). Next up: The Ground at Club Space, Miami on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Marte (US) is a house and techno artist tracked on soundcheck, with 51 sets logg
 
 SATURNSARii, 1-800-Lolita, XANA (US)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marte-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marte-2/)*

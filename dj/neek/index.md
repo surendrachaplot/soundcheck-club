@@ -1,6 +1,6 @@
 # Neek
 
-Neek is a Techno and Dubstep artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Village Underground Barcelona, Barcelona on Fri, 4 Sept 2026.
+Neek is a Techno and Dubstep artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Village Underground Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 Neek is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 66 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: Village Underground Barcelona, Barcelona on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Neek is a techno and dubstep artist based in United Kingdom, tracked on soundche
 
 Kahn, Medis, SGT Pokes
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*

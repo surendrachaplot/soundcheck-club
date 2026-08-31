@@ -1,6 +1,6 @@
 # Basmati (1)
 
-Basmati (1) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+Basmati (1) is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
 Basmati (1) is a garage and bass artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside TEDESCO, Zaleel and Aisha Mirza. Next up: Colour Factory, London on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Basmati (1) is a garage and bass artist tracked on soundcheck, with 4 sets logge
 
 TEDESCO, Zaleel, Aisha Mirza
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basmati-1/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/basmati-1/)*

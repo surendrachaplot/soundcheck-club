@@ -1,6 +1,6 @@
 # DJ Poco
 
-DJ Poco is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 4 Sept 2026.
+DJ Poco is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 4 Sept 2026.
 
 DJ Poco is a drum & bass and breakbeat artist based in Portugal, tracked on soundcheck, with 6 sets logged across Lisbon. Often billed alongside Dadifox, DJ Lycox and Dj Danifox. Next up: Village Underground Lisboa, Lisbon on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ DJ Poco is a drum & bass and breakbeat artist based in Portugal, tracked on soun
 
 Dadifox, DJ Lycox, Dj Danifox
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoco/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoco/)*

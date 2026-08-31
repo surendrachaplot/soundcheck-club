@@ -1,6 +1,6 @@
 # Ndrx
 
-Ndrx is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at FOLD, London on Sat, 5 Sept 2026.
+Ndrx is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at FOLD, London on Sat, 5 Sept 2026.
 
 Ndrx is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 23 more. Often billed alongside Newa, Kancheli and Sophie Phare. Next up: FOLD, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Ndrx is a techno and house artist tracked on soundcheck, with 108 sets logged ac
 
 Newa, Kancheli, Sophie Phare
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ndrx/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ndrx/)*

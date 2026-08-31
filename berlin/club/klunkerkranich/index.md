@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "MONDAY ROAST w. Robin Schellenberg" on Mon, 31 Aug 2026.
+Klunkerkranich is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "MONDAY ROAST w. Robin Schellenberg" on Mon, 31 Aug 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including DirdyGerdi, Ida Daugaard, Kahl & Kæmena and Kito and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -17,4 +17,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 4 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

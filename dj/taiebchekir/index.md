@@ -1,6 +1,6 @@
 # Taieb Chékir
 
-Taieb Chékir is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at essaim, Paris on Sun, 27 Sept 2026.
+Taieb Chékir is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at essaim, Paris on Sun, 27 Sept 2026.
 
 Taieb Chékir is an electro and techno artist tracked on soundcheck, with 24 sets logged across Barcelona, Lisbon and Paris. Often billed alongside Alyhas, Bassam and Blanco. Next up: essaim, Paris on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Taieb Chékir is an electro and techno artist tracked on soundcheck, with 24 set
 
 Alyhas, Bassam, Blanco
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taiebchekir/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taiebchekir/)*

@@ -1,6 +1,6 @@
 # Ellara
 
-Ellara is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Vancouver on Sat, 19 Sept 2026.
+Ellara is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Vancouver on Sat, 19 Sept 2026.
 
 Ellara is a techno artist based in Canada, tracked on soundcheck, with 3 sets logged across Vancouver. Often billed alongside Bronsön, DJ Hockey and DK PAU. Next up: TBA, Vancouver on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Ellara is a techno artist based in Canada, tracked on soundcheck, with 3 sets lo
 
 Bronsön, DJ Hockey, DK PAU
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellara/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellara/)*

@@ -1,6 +1,6 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 16 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Emmit Fenn" on Fri, 4 Sept 2026.
+ZeyZey is a music venue in Miami with 16 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Emmit Fenn" on Fri, 4 Sept 2026.
 
 ZeyZey is a music venue in Miami listed on soundcheck. 16 upcoming nights, with line-ups including Cezaire, Cult Member, Eli & Fur and JAEL and 2 more. Browse upcoming dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
@@ -23,4 +23,4 @@ ZeyZey is a music venue in Miami listed on soundcheck. 16 upcoming nights, with 
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

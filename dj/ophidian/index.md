@@ -1,6 +1,6 @@
 # Ophidian
 
-Ophidian is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Warehouse, Nantes on Fri, 4 Sept 2026.
+Ophidian is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Warehouse, Nantes on Fri, 4 Sept 2026.
 
 Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Drokz, Anime and Korsakoff. Next up: Warehouse, Nantes on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundc
 
 Drokz, Anime, Korsakoff
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*

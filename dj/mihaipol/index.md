@@ -1,6 +1,6 @@
 # Mihai Pol
 
-Mihai Pol is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Rhythm, Toronto on Fri, 4 Sept 2026.
+Mihai Pol is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Rhythm, Toronto on Fri, 4 Sept 2026.
 
 Mihai Pol is a minimal and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Constratti, Daescu and Prichindel. Next up: Rhythm, Toronto on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Mihai Pol is a minimal and house artist tracked on soundcheck, with 66 sets logg
 
 Constratti, Daescu, Prichindel
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipol/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipol/)*

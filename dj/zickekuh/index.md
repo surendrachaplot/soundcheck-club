@@ -1,6 +1,6 @@
 # zicke kuh
 
-zicke kuh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Void Club, Berlin on Fri, 11 Sept 2026.
+zicke kuh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Void Club, Berlin on Fri, 11 Sept 2026.
 
 zicke kuh is a techno and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Popsen, Deltapeak and ESCALEA. Next up: Void Club, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ zicke kuh is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Popsen, Deltapeak, ESCALEA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zickekuh/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zickekuh/)*

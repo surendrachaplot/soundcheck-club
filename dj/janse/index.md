@@ -1,6 +1,6 @@
 # JANSE
 
-JANSE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at BORIS CLUB, Barcelona on Sat, 19 Sept 2026.
+JANSE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at BORIS CLUB, Barcelona on Sat, 19 Sept 2026.
 
 JANSE is a house and tech house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Cucut, Abdon and Marcel BS. Next up: BORIS CLUB, Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ JANSE is a house and tech house artist tracked on soundcheck, with 54 sets logge
 
 Cucut, Abdon, Marcel BS
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janse/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janse/)*

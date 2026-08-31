@@ -1,6 +1,6 @@
 # Max Gyver
 
-Max Gyver is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at MS Stubnitz, Hamburg on Fri, 25 Sept 2026.
+Max Gyver is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at MS Stubnitz, Hamburg on Fri, 25 Sept 2026.
 
 Max Gyver is a disco and funk / soul artist based in Germany, tracked on soundcheck, with 11 sets logged across Hamburg. Often billed alongside Bushfya, CHEWCHEW and Diskohengst. Next up: MS Stubnitz, Hamburg on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Max Gyver is a disco and funk / soul artist based in Germany, tracked on soundch
 
 Bushfya, CHEWCHEW, Diskohengst
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgyver/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgyver/)*

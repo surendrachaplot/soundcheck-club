@@ -1,6 +1,6 @@
 # Huijari
 
-Huijari is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
+Huijari is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
 
 Huijari is a techno and dub techno artist tracked on soundcheck, with 3 sets logged across London, Riga and Stockholm. Often billed alongside Aeden (1), Andemon and Calder. Next up: Slakthuset, Stockholm on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Huijari is a techno and dub techno artist tracked on soundcheck, with 3 sets log
 
 Aeden (1), Andemon, Calder
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/huijari/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/huijari/)*

@@ -1,6 +1,6 @@
 # Guy Mantzur
 
-Guy Mantzur is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Espacio CHN, Ituzaingo, Buenos Aires on Fri, 2 Oct 2026.
+Guy Mantzur is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Espacio CHN, Ituzaingo, Buenos Aires on Fri, 2 Oct 2026.
 
 Guy Mantzur is a progressive house and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside Guy J, Sahar Z and Roy Rosenfeld. Next up: TBA - Espacio CHN, Ituzaingo, Buenosaires on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Guy Mantzur is a progressive house and house artist tracked on soundcheck, with 
 
 Guy J, Sahar Z, Roy Rosenfeld
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guymantzur/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guymantzur/)*

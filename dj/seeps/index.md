@@ -1,6 +1,6 @@
 # SEEPS
 
-SEEPS is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
+SEEPS is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
 
 SEEPS is a house and deep house artist tracked on soundcheck, with 61 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 1 more. Often billed alongside Aaron Paar, DJ Sneak and Ian Llorens. Next up: California Plaza, Losangeles on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SEEPS is a house and deep house artist tracked on soundcheck, with 61 sets logge
 
 Aaron Paar, DJ Sneak, Ian Llorens
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*

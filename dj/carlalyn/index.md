@@ -1,6 +1,6 @@
 # Carla Lyn
 
-Carla Lyn is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Harlan Records, San Francisco/Oakland on Sat, 5 Sept 2026.
+Carla Lyn is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Harlan Records, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Carla Lyn is an acid and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside Romii and Ab.rham. Next up: Harlan Records, Sanfrancisco on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Carla Lyn is an acid and house artist based in United States of America, tracked
 
 Romii, Ab.rham
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlalyn/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlalyn/)*

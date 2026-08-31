@@ -1,6 +1,6 @@
 # Panjabi Hit Squad
 
-Panjabi Hit Squad is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Night Tales, London on Sat, 7 Nov 2026.
+Panjabi Hit Squad is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Night Tales, London on Sat, 7 Nov 2026.
 
 Panjabi Hit Squad is a garage and house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Birmingham and Chicago and 8 more. Often billed alongside DJ EZ, KI/KI and Notion. Next up: Night Tales, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Panjabi Hit Squad is a garage and house artist tracked on soundcheck, with 23 se
 
 DJ EZ, KI/KI, Notion
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panjabihitsquad/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/panjabihitsquad/)*

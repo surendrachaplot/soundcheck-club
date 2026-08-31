@@ -1,6 +1,6 @@
 # MARC WERNER
 
-MARC WERNER is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 13 Sept 2026.
+MARC WERNER is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 13 Sept 2026.
 
 MARC WERNER is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Bucharest and Copenhagen and 6 more. Often billed alongside FYNN, AVAION and Dan Mlinar. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ MARC WERNER is a techno and house artist based in Germany, tracked on soundcheck
 
 FYNN, AVAION, Dan Mlinar
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcwerner/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcwerner/)*

@@ -1,14 +1,13 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "ReIncarnation" on Sun, 30 Aug 2026.
+Dogenzaka Church is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "MISH-MASH" on Wed, 2 Sept 2026.
 
-Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including 35DH-1, A K, Hironobu Jyounai and MOTOKA and 2 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
+Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including A K, Hironobu Jyounai, MOTOKA and ROKI and 1 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | ReIncarnation | 35DH-1 |
 | Wed, 2 Sept 2026 | MISH-MASH | MOTOKA |
 | Thu, 3 Sept 2026 | 魔神魂教会 |  |
 | Fri, 4 Sept 2026 | BASS CATHEDRAL - DRUM'N'BASS SHIBUYA | Hironobu Jyounai, vinylDJ Eiji Takehana |
@@ -20,4 +19,4 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 7 upcoming nigh
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

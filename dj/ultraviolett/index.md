@@ -1,6 +1,6 @@
 # Ultraviolett
 
-Ultraviolett is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Ultraviolett is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 Ultraviolett is a techno and trance artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside SALCHIKILLER, multivitaminmarie and Alex Friday. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Ultraviolett is a techno and trance artist tracked on soundcheck, with 3 sets lo
 
 SALCHIKILLER, multivitaminmarie, Alex Friday
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultraviolett/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultraviolett/)*

@@ -1,14 +1,13 @@
 # WILDERÍCH
 
-WILDERÍCH is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+WILDERÍCH is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
-WILDERÍCH is a techno and trance artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+WILDERÍCH is a techno and trance artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sun, 6 Sept 2026 | TBA | San Francisco/Oakland |
@@ -31,4 +30,4 @@ WILDERÍCH is a techno and trance artist tracked on soundcheck, with 87 sets log
 
 zwilling., Serafina, Adrian Mills
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*

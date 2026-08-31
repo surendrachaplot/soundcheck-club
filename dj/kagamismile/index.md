@@ -1,6 +1,6 @@
 # Kagami Smile
 
-Kagami Smile is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at OIL Club, Shenzhen on Sun, 6 Sept 2026.
+Kagami Smile is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at OIL Club, Shenzhen on Sun, 6 Sept 2026.
 
 Kagami Smile is an experimental and ambient artist tracked on soundcheck, with 10 sets logged across Hongkong and Shenzhen. Often billed alongside Nebulae, Warmchainss and mingo. Next up: OIL Club, Shenzhen on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Kagami Smile is an experimental and ambient artist tracked on soundcheck, with 1
 
 Nebulae, Warmchainss, mingo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kagamismile/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kagamismile/)*

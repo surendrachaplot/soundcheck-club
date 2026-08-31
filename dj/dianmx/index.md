@@ -1,6 +1,6 @@
 # Dian (MX)
 
-Dian (MX) is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at CHICO, Mexico City on Sat, 12 Sept 2026.
+Dian (MX) is a Club and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at CHICO, Mexico City on Sat, 12 Sept 2026.
 
 Dian (MX) is a club and latin bass artist based in Mexico, tracked on soundcheck, with 4 sets logged across Mexicocity. Often billed alongside Lyo XS, Un Dilema and DJ Fabis. Next up: CHICO, Mexicocity on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Dian (MX) is a club and latin bass artist based in Mexico, tracked on soundcheck
 
 Lyo XS, Un Dilema, DJ Fabis
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dianmx/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dianmx/)*

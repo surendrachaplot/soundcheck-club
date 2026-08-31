@@ -1,14 +1,13 @@
 # Paloma
 
-Paloma is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Paloma is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 27 Sept 2026.
 
-Paloma is a house and disco artist tracked on soundcheck, with 15 sets logged across Berlin, Buenosaires, Ibiza and Madrid and 8 more. Often billed alongside ADO (DE), Acid Arab and Add FM. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Paloma is a house and disco artist tracked on soundcheck, with 15 sets logged across Berlin, Buenosaires, Ibiza and Madrid and 8 more. Often billed alongside ADO (DE), Acid Arab and Add FM. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Sun, 27 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
@@ -26,4 +25,4 @@ Paloma is a house and disco artist tracked on soundcheck, with 15 sets logged ac
 
 ADO (DE), Acid Arab, Add FM
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paloma/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/paloma/)*

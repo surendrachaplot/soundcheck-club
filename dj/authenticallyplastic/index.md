@@ -1,6 +1,6 @@
 # Authentically Plastic
 
-Authentically Plastic is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
+Authentically Plastic is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
 
 Authentically Plastic is a techno and club artist based in Uganda, tracked on soundcheck, with 54 sets logged across Amsterdam, Austin, Berlin and Brussels and 18 more. Often billed alongside Nsasi, Soft Break and Turkana. Next up: La Fabriek, Brussels on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Authentically Plastic is a techno and club artist based in Uganda, tracked on so
 
 Nsasi, Soft Break, Turkana
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/authenticallyplastic/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/authenticallyplastic/)*

@@ -1,6 +1,6 @@
 # Acidalia
 
-Acidalia is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at OXI, Berlin on Tue, 15 Sept 2026.
+Acidalia is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at OXI, Berlin on Tue, 15 Sept 2026.
 
 Acidalia is a techno artist based in France, tracked on soundcheck, with 36 sets logged across Berlin, Milan and Paris. Often billed alongside Alimac, Industrial Romantico and Naydiaa. Next up: OXI, Berlin on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Acidalia is a techno artist based in France, tracked on soundcheck, with 36 sets
 
 Alimac, Industrial Romantico, Naydiaa
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidalia/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidalia/)*

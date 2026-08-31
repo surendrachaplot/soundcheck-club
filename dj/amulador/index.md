@@ -1,6 +1,6 @@
 # Amulador
 
-Amulador is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Anfiteatro de Pedra, Lisbon on Sat, 12 Sept 2026.
+Amulador is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Anfiteatro de Pedra, Lisbon on Sat, 12 Sept 2026.
 
 Amulador is a techno and electronica artist tracked on soundcheck, with 201 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Andre Cascais, Maria Callapez and Tiago Fragateiro. Next up: Anfiteatro de Pedra, Lisbon on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Amulador is a techno and electronica artist tracked on soundcheck, with 201 sets
 
 Andre Cascais, Maria Callapez, Tiago Fragateiro
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amulador/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amulador/)*

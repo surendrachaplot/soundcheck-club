@@ -1,6 +1,6 @@
 # Yorlig
 
-Yorlig is a Downtempo and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
+Yorlig is a Downtempo and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
 
 Yorlig is a downtempo and trance artist tracked on soundcheck, with 10 sets logged across Manchester. Often billed alongside Alex Milo, April (UK) and Max Ctrl. Next up: Honey Street Studio, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Yorlig is a downtempo and trance artist tracked on soundcheck, with 10 sets logg
 
 Alex Milo, April (UK), Max Ctrl
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yorlig/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yorlig/)*

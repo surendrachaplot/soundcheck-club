@@ -1,6 +1,6 @@
 # BASS SLVT
 
-BASS SLVT is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Flinders, Sydney on Sat, 3 Oct 2026.
+BASS SLVT is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Flinders, Sydney on Sat, 3 Oct 2026.
 
 BASS SLVT is a techno and industrial artist based in Australia, tracked on soundcheck, with 12 sets logged across Sydney. Often billed alongside ONARSÉ, ARTISAH and Angie (FR). Next up: The Flinders, Sydney on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ BASS SLVT is a techno and industrial artist based in Australia, tracked on sound
 
 ONARSÉ, ARTISAH, Angie (FR)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bassslvt/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bassslvt/)*

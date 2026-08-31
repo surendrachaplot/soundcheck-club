@@ -1,6 +1,6 @@
 # DJ Stretch
 
-DJ Stretch is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Planet Wax, London on Sat, 5 Sept 2026.
+DJ Stretch is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Planet Wax, London on Sat, 5 Sept 2026.
 
 DJ Stretch is a jungle and drum & bass artist tracked on soundcheck, with 20 sets logged across Amsterdam, Brighton, Bristol and Frankfurt and 4 more. Often billed alongside Decibella, DJ Storm and Djinn. Next up: Planet Wax, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DJ Stretch is a jungle and drum & bass artist tracked on soundcheck, with 20 set
 
 Decibella, DJ Storm, Djinn
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstretch/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djstretch/)*

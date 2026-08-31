@@ -1,6 +1,6 @@
 # Trade
 
-Trade is a Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Planet Wax, London on Sat, 19 Sept 2026.
+Trade is a Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Planet Wax, London on Sat, 19 Sept 2026.
 
 Trade is a garage artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside DJ Listener, DJ Perception and Little D (CO). Next up: Planet Wax, London on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Trade is a garage artist tracked on soundcheck, with 3 sets logged across London
 
 DJ Listener, DJ Perception, Little D (CO)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trade/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trade/)*

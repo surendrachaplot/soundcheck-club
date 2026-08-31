@@ -1,14 +1,13 @@
 # Jardins de Joan Brossa
 
-Jardins de Joan Brossa is a music venue in Barcelona with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Brunch Electronik Barcelona - Marco Carola, East and Dubs, Cuartero, + más" on Sun, 30 Aug 2026.
+Jardins de Joan Brossa is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Brunch Electronik Barcelona - Solomun" on Sat, 5 Sept 2026.
 
-Jardins de Joan Brossa is a music venue in Barcelona listed on soundcheck. 3 upcoming nights, with line-ups including Cuartero, Dennis Cruz, East End Dubs and Francesco Carvetta and 2 more. Browse upcoming dates, start times and who's playing. Plaça de Dante, 9999, 08038 Barcelona.
+Jardins de Joan Brossa is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Dennis Cruz, Josh Baker, LondonGround and SAIDAH and 2 more. Browse upcoming dates, start times and who's playing. Plaça de Dante, 9999, 08038 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Brunch Electronik Barcelona - Marco Carola, East and Dubs, Cuartero, + más | Cuartero, East End Dubs, Francesco Carvetta, HANIE, Hitch, Marco Carola, Mathew Jonson |
 | Sat, 5 Sept 2026 | Brunch Electronik Barcelona - Solomun | Solomun |
 | Sun, 13 Sept 2026 | [SEASON CLOSING] Brunch Electronik Barcelona - Dennis Cruz b2b Josh Baker | Dennis Cruz, Josh Baker, LondonGround, SAIDAH, Saoirse |
 
@@ -16,4 +15,4 @@ Jardins de Joan Brossa is a music venue in Barcelona listed on soundcheck. 3 upc
 
 Plaça de Dante, 9999, 08038 Barcelona, Barcelona
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/jardins-de-joan-brossa/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/jardins-de-joan-brossa/)*

@@ -1,6 +1,6 @@
 # Negin
 
-Negin is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Rhythm, Toronto on Fri, 18 Sept 2026.
+Negin is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Rhythm, Toronto on Fri, 18 Sept 2026.
 
 Negin is a house and minimal artist based in Iran, tracked on soundcheck, with 39 sets logged across Montreal, Oslo, Toronto and Vienna. Often billed alongside Milidi, Chafic and Steve Marto. Next up: Rhythm, Toronto on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Negin is a house and minimal artist based in Iran, tracked on soundcheck, with 3
 
 Milidi, Chafic, Steve Marto
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negin/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/negin/)*

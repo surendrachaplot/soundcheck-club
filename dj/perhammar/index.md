@@ -1,6 +1,6 @@
 # Per Hammar
 
-Per Hammar is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Moon Club, Bristol on Fri, 4 Sept 2026.
+Per Hammar is a Minimal and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Moon Club, Bristol on Fri, 4 Sept 2026.
 
 Per Hammar is a minimal and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Auckland, Austin and Bangkok and 32 more. Often billed alongside Olga Korol, Abbas and And.re. Next up: Moon Club, Bristol on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Per Hammar is a minimal and house artist tracked on soundcheck, with 80 sets log
 
 Olga Korol, Abbas, And.re
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*

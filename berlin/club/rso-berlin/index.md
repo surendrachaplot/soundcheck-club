@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "XTRUDE x LASTER w/ Alarico, Akua, Olivia Mendez, Sandrien and Kameliia" on Sat, 29 Aug 2026.
+RSO.BERLIN is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "PULS x shockwerk x coconut concepts pres. LAST SUMMER NIGHT" on Fri, 4 Sept 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AEREA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AEREA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | XTRUDE x LASTER w/ Alarico, Akua, Olivia Mendez, Sandrien and Kameliia | Akua, Alarico, Decka, Henning Baer, Kameliia, Laia, Nadia Struiwigh, ORBE, Olivia Mendez, Psyk, Roll Dann, Sandrien, Shadow Hrym (ES) |
 | Fri, 4 Sept 2026 | PULS x shockwerk x coconut concepts pres. LAST SUMMER NIGHT | BUTZ, Bardo (1), Carl Bergé, Cromby, DJ SPORTSCHUH, Elvin, Gordon Flash, HERMETICA, Jesse G, Kedi Bounce, Obscure Shape, Talia Dorr, Tino Machauer, lex_shockwerk |
 | Sat, 5 Sept 2026 | XTRUDE w/ Alexander Kowalski, Justine Perry, Philippa Pacho, Benjamin Damage and BADSISTA | Alexander Kowalski, BADSISTA, Benjamin Damage, Blue Hour, DINA, HEDDA, Justine Perry, Mademoisel, Philippa Pacho, Procombo, RONI, VEL (MA), Ø [Phase] |
 | Fri, 11 Sept 2026 | The Third Room w/ .VRIL live, Ahmet Sisman, Dasha Rush, Ehua b2b Felix Fleer | .VRIL, Ahmet Sisman, Dasha Rush, Ehua, Felix Fleer |
@@ -18,9 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 15 upcoming nights, 
 | Fri, 25 Sept 2026 | SESH | 2HOT2PLAY, Bruno Brero, GEN97, NYRA (DE), Paraçek, SATYS FYRE, Shake Daddy, XIMA, davyboi |
 | Sat, 26 Sept 2026 | XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor | AgainstMe, Alírio, Anabel Arroyo, Beibeilon, DJ 86, EMAN (FR), François X, Hontas, Jensen Interceptor, Jin Synth, Matrixxman, Árni |
 | Fri, 23 Oct 2026 | Open2Close: Juliana Huxtable all night long | Juliana Huxtable |
+| Sat, 24 Oct 2026 | HEISSS I 30 hours | Amphia, Cryptofauna, Disguised, Ignez, Kaiser (K S R), Kim She, Toobris |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

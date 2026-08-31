@@ -1,6 +1,6 @@
 # Mum & Dad
 
-Mum & Dad is a Disco and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Nest and Vine, London on Fri, 4 Sept 2026.
+Mum & Dad is a Disco and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Nest and Vine, London on Fri, 4 Sept 2026.
 
 Mum & Dad are a disco and trance duo based in United Kingdom, tracked on soundcheck, with 10 sets logged across Auckland and London. Often billed alongside Boat Floaters, DJ Bax and SHUFFA. Next up: Nest and Vine, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Mum & Dad are a disco and trance duo based in United Kingdom, tracked on soundch
 
 Boat Floaters, DJ Bax, SHUFFA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdad/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdad/)*

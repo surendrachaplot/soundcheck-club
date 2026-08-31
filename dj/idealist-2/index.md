@@ -1,6 +1,6 @@
 # Idealist (2)
 
-Idealist (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
+Idealist (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
 
 Idealist (2) is a techno and trance artist based in Malta, tracked on soundcheck, with 7 sets logged across Malta. Often billed alongside Naomi Baldacchino, PEACHY and Tntna. Next up: Liquid Club, Malta on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Idealist (2) is a techno and trance artist based in Malta, tracked on soundcheck
 
 Naomi Baldacchino, PEACHY, Tntna
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idealist-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idealist-2/)*

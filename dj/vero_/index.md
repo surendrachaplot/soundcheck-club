@@ -1,6 +1,6 @@
 # Vero_
 
-Vero_ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
+Vero_ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Void Club, Berlin on Fri, 25 Sept 2026.
 
 Vero_ is a techno and trance artist based in Netherlands, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 1 more. Often billed alongside Gabrielle (DE), JOTAno and TAKT130. Next up: Void Club, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Vero_ is a techno and trance artist based in Netherlands, tracked on soundcheck,
 
 Gabrielle (DE), JOTAno, TAKT130
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vero_/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vero_/)*

@@ -1,6 +1,6 @@
 # Kasra V
 
-Kasra V is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Colour Factory, London on Sat, 12 Sept 2026.
+Kasra V is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Colour Factory, London on Sat, 12 Sept 2026.
 
 Kasra V is a techno and house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Bristol and Brussels and 20 more. Often billed alongside Angel D'lite, Marie Malarie and 131bpm. Next up: Colour Factory, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kasra V is a techno and house artist tracked on soundcheck, with 65 sets logged 
 
 Angel D'lite, Marie Malarie, 131bpm
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasrav/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kasrav/)*

@@ -1,6 +1,6 @@
 # Flying Fat
 
-Flying Fat is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
+Flying Fat is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
 
 Flying Fat is a progressive house and house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside AALEX, Alythia Kwan and Arterapsy. Next up: Basing House, London on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Flying Fat is a progressive house and house artist tracked on soundcheck, with 5
 
 AALEX, Alythia Kwan, Arterapsy
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flyingfat/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flyingfat/)*

@@ -1,6 +1,6 @@
 # Bertie
 
-Bertie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 12 Sept 2026.
+Bertie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 12 Sept 2026.
 
 Bertie is a house and techno artist tracked on soundcheck, with 64 sets logged across Amsterdam, London, Melbourne and Munich and 2 more. Often billed alongside Baby G, DAWS and BELLA (NL). Next up: SISSI'S Amsterdam, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bertie is a house and techno artist tracked on soundcheck, with 64 sets logged a
 
 Baby G, DAWS, BELLA (NL)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bertie/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bertie/)*

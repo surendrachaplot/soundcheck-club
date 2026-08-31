@@ -1,6 +1,6 @@
 # SSXXCH
 
-SSXXCH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Œlgarten, Berlin on Sat, 5 Sept 2026.
+SSXXCH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Œlgarten, Berlin on Sat, 5 Sept 2026.
 
 SSXXCH is a techno and house artist based in Ukraine, tracked on soundcheck, with 29 sets logged across Berlin and Leipzig. Often billed alongside KOIA (2), sterni (DE) and Amo (IT). Next up: Œlgarten, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ SSXXCH is a techno and house artist based in Ukraine, tracked on soundcheck, wit
 
 KOIA (2), sterni (DE), Amo (IT)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ssxxch/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ssxxch/)*

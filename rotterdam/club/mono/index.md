@@ -1,6 +1,6 @@
 # Mono
 
-Mono is a music venue in Rotterdam with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "MASH Summer Afterparty" on Sat, 5 Sept 2026.
+Mono is a music venue in Rotterdam with 6 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "MASH Summer Afterparty" on Sat, 5 Sept 2026.
 
 Mono is a music venue in Rotterdam listed on soundcheck. 6 upcoming nights, with line-ups including AMBRR, ARRA, DJ Assault and Flansie and 2 more. Browse upcoming dates, start times and who's playing. Vijverhofstraat 15, 3032 SB Rotterdam.
 
@@ -19,4 +19,4 @@ Mono is a music venue in Rotterdam listed on soundcheck. 6 upcoming nights, with
 
 Vijverhofstraat 15, 3032 SB Rotterdam, Rotterdam
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mono/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/mono/)*

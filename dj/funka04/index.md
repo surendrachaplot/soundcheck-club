@@ -1,6 +1,6 @@
 # FUNKA04
 
-FUNKA04 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
+FUNKA04 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
 
 FUNKA04 is a techno and house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside solar2k, Basti Thielburg and CALiACRA. Next up: TBA, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ FUNKA04 is a techno and house artist tracked on soundcheck, with 14 sets logged 
 
 solar2k, Basti Thielburg, CALiACRA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*

@@ -1,6 +1,6 @@
 # Oden
 
-Oden is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Oden is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
 Oden is a house and tech house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Austin and Bali and 38 more. Often billed alongside Fatzo, Sam Divine and Armand Van Helden. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Oden is a house and tech house artist tracked on soundcheck, with 140 sets logge
 
 Fatzo, Sam Divine, Armand Van Helden
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*

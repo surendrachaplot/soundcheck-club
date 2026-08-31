@@ -1,6 +1,6 @@
 # Andrea Dama
 
-Andrea Dama is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Hang Dai Chinese, Dublin on Fri, 18 Sept 2026.
+Andrea Dama is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Hang Dai Chinese, Dublin on Fri, 18 Sept 2026.
 
 Andrea Dama is a house and italo disco artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Buenosaires and Dublin and 2 more. Often billed alongside Delfonic, Audrey Danza and Nadia Wise. Next up: Hang Dai Chinese, Dublin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Andrea Dama is a house and italo disco artist tracked on soundcheck, with 21 set
 
 Delfonic, Audrey Danza, Nadia Wise
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdama/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdama/)*

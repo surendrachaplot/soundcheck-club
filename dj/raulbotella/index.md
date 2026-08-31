@@ -1,6 +1,6 @@
 # Raul Botella
 
-Raul Botella is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fire, London on Sat, 5 Sept 2026.
+Raul Botella is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fire, London on Sat, 5 Sept 2026.
 
 Raul Botella is a house and pop artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across London and Manchester. Often billed alongside Ross Anderson, ABSOLUTE. and ASHTREY. Next up: Fire, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Raul Botella is a house and pop artist based in United Kingdom, tracked on sound
 
 Ross Anderson, ABSOLUTE., ASHTREY
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raulbotella/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raulbotella/)*

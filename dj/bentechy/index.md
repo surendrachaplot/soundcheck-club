@@ -1,6 +1,6 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
+Ben Techy is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
 
 Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: Circuit de Barcelona - Catalunya, Barcelona on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Ben Techy is a techno and industrial artist based in United Kingdom, tracked on 
 
 Raxeller, SANTØS, KARAH
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*

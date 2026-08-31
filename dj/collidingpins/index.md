@@ -1,6 +1,6 @@
 # Colliding Pins
 
-Colliding Pins is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Strays, Detroit on Fri, 18 Sept 2026.
+Colliding Pins is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Strays, Detroit on Fri, 18 Sept 2026.
 
 Colliding Pins is a techno and acid artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit. Often billed alongside Nick Burgess, madeofants and DykeChow. Next up: The Strays, Detroit on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Colliding Pins is a techno and acid artist based in United States of America, tr
 
 Nick Burgess, madeofants, DykeChow
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/collidingpins/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/collidingpins/)*

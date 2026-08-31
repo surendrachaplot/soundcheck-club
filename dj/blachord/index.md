@@ -1,6 +1,6 @@
 # Blachord
 
-Blachord is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Berlin on Fri, 4 Sept 2026.
+Blachord is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Berlin on Fri, 4 Sept 2026.
 
 Blachord is a techno and house artist based in Greece, tracked on soundcheck, with 50 sets logged across Berlin. Often billed alongside Papa Hase, DJ Marviosi and beta_phase. Next up: TBA, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Blachord is a techno and house artist based in Greece, tracked on soundcheck, wi
 
 Papa Hase, DJ Marviosi, beta_phase
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blachord/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blachord/)*

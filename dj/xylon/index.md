@@ -1,6 +1,6 @@
 # xylon
 
-xylon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bar Temp., Bangkok on Fri, 4 Sept 2026.
+xylon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bar Temp., Bangkok on Fri, 4 Sept 2026.
 
 xylon is a techno and house artist based in China, tracked on soundcheck, with 30 sets logged across Bangkok, Hongkong and Shenzhen. Often billed alongside Faxtory, ADRIANNA.C and VSLORIA. Next up: Bar Temp., Bangkok on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ xylon is a techno and house artist based in China, tracked on soundcheck, with 3
 
 Faxtory, ADRIANNA.C, VSLORIA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xylon/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xylon/)*

@@ -1,6 +1,6 @@
 # Alicia Hahn
 
-Alicia Hahn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
+Alicia Hahn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
 
 Alicia Hahn is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside julës jay, Anahit Vardanyan and Chris Liebing. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Alicia Hahn is a techno and house artist tracked on soundcheck, with 35 sets log
 
 julës jay, Anahit Vardanyan, Chris Liebing
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciahahn/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciahahn/)*

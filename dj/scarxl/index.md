@@ -1,6 +1,6 @@
 # Scar XL
 
-Scar XL is a Gabber and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Daltons Brighton, Brighton on Sat, 12 Sept 2026.
+Scar XL is a Gabber and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Daltons Brighton, Brighton on Sat, 12 Sept 2026.
 
 Scar XL is a gabber and club artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Brighton and London. Often billed alongside AC (dot robot), Arexibo and Chooc Ly. Next up: Daltons Brighton, Brighton on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Scar XL is a gabber and club artist based in United Kingdom, tracked on soundche
 
 AC (dot robot), Arexibo, Chooc Ly
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarxl/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scarxl/)*

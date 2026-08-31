@@ -1,6 +1,6 @@
 # Rolling Stock
 
-Rolling Stock is a music venue in London with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Evelyn's Birthday Party and Virgo Affair" on Sat, 12 Sept 2026.
+Rolling Stock is a music venue in London with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Evelyn's Birthday Party and Virgo Affair" on Sat, 12 Sept 2026.
 
 Rolling Stock is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Larnie. Browse upcoming dates, start times and who's playing. 48 Kingsland Road, Shoreditch E2 8AA.
 
@@ -15,4 +15,4 @@ Rolling Stock is a music venue in London listed on soundcheck. 2 upcoming nights
 
 48 Kingsland Road, Shoreditch E2 8AA, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*

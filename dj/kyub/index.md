@@ -1,6 +1,6 @@
 # KYUB
 
-KYUB is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Secret location Neukölln, Berlin on Fri, 18 Sept 2026.
+KYUB is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Secret location Neukölln, Berlin on Fri, 18 Sept 2026.
 
 KYUB is a techno and trance artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside JENKA, ALLES ATZIG and AR Keetman. Next up: TBA - Secret location Neukölln, Berlin on Fri 18 Sept.
 
@@ -18,4 +18,4 @@ KYUB is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 JENKA, ALLES ATZIG, AR Keetman
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyub/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyub/)*

@@ -1,6 +1,6 @@
 # Lx Factory
 
-Lx Factory is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Swag On - 3 Setembro - Ferro Velho, Lx Factory" on Thu, 3 Sept 2026.
+Lx Factory is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Swag On - 3 Setembro - Ferro Velho, Lx Factory" on Thu, 3 Sept 2026.
 
 Lx Factory is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including A-Gold, Andre Cascais, Lerosa and Mary B (2) and 2 more. Browse upcoming dates, start times and who's playing. RUA RODRIGUES FARIA, 103 (ALCÂNTARA / CÁLVARIO) LISBON.
 
@@ -15,4 +15,4 @@ Lx Factory is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, w
 
 RUA RODRIGUES FARIA, 103 (ALCÂNTARA / CÁLVARIO) LISBON, Lisbon
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lx-factory/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lx-factory/)*

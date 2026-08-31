@@ -1,14 +1,13 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 37 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "High Hoops Pride Part 2 with Bell Towers, Jessica Nightlife & Merve" on Sun, 30 Aug 2026.
+The White Hotel is a music venue in Manchester with 36 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Ordinary Friends presents Paula Tape & Simone de Kunovich" on Fri, 4 Sept 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 37 upcoming nights, with line-ups including Paula Tape, ABADIR, Abena and Alessandro Adriani and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 36 upcoming nights, with line-ups including Paula Tape, ABADIR, Abena and Alessandro Adriani and 2 more. Browse upcoming dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | High Hoops Pride Part 2 with Bell Towers, Jessica Nightlife & Merve | Bell Towers, Jessica Nightlife, Merve |
 | Fri, 4 Sept 2026 | Ordinary Friends presents Paula Tape & Simone de Kunovich | Paula Tape, Simone de Kunovich |
 | Sat, 5 Sept 2026 | Mia Koden / Beatrice M / special guest {DAY} | Beatrice M., Mia Koden |
 | Sat, 5 Sept 2026 | OK Williams & SHERELLE | OK Williams, SHERELLE |
@@ -18,9 +17,10 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 37 upcoming
 | Thu, 17 Sept 2026 | JK Flesh | JK Flesh |
 | Fri, 18 Sept 2026 | Pangaea / Bitter Babe / Henzo | Bitter Babe, Henzo, Pangaea |
 | Sat, 19 Sept 2026 | TAYHANA / Anderson do Paraiso / Kelman Duran / Kusasa | Kelman Duran, Kusasa, TAYHANA |
+| Sun, 20 Sept 2026 | Sunday Club - Shy One, Chunky, Finn, BFTT & Esqueezy | BFTT, Chunky, Esqueezy, Finn, Shy One |
 
 ## Address
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

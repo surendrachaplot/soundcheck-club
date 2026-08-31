@@ -1,6 +1,6 @@
 # Celeste
 
-Celeste is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "ACT UP - Fundraiser 4 Aids Hilfe Wien" on Fri, 4 Sept 2026.
+Celeste is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "ACT UP - Fundraiser 4 Aids Hilfe Wien" on Fri, 4 Sept 2026.
 
 Celeste is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including EcleKtric, esti.d, Peter Puenktlich (2) and মm. and 2 more. Browse upcoming dates, start times and who's playing. Hamburgerstrasse 18, 1050 Vienna; Austria.
 
@@ -14,4 +14,4 @@ Celeste is a music venue in Vienna listed on soundcheck. 1 upcoming night, with 
 
 Hamburgerstrasse 18, 1050 Vienna; Austria, Vienna
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*

@@ -1,6 +1,6 @@
 # Vera
 
-Vera is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Vera is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Vera is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Edward, Eli Verveine and Gwenan. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ Vera is a techno and house artist tracked on soundcheck, with 143 sets logged ac
 
 Edward, Eli Verveine, Gwenan
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vera/)*

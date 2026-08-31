@@ -1,6 +1,6 @@
 # Jean Mauj
 
-Jean Mauj is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Escala25, Lisbon on Sat, 5 Sept 2026.
+Jean Mauj is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Escala25, Lisbon on Sat, 5 Sept 2026.
 
 Jean Mauj is a house and techno artist based in Germany, tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Berlin and Cologne and 7 more. Often billed alongside Anton Jonathan, Carluschka and Daisy Weweh. Next up: Escala25, Lisbon on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Jean Mauj is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Anton Jonathan, Carluschka, Daisy Weweh
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmauj/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmauj/)*

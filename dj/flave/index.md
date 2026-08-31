@@ -1,6 +1,6 @@
 # FLAVE
 
-FLAVE is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Lieberscholli, Munich on Sat, 10 Oct 2026.
+FLAVE is a Downtempo and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lieberscholli, Munich on Sat, 10 Oct 2026.
 
 FLAVE is a downtempo and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Sahra Bass, Frida Darko and Urem. Next up: Lieberscholli, Munich on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ FLAVE is a downtempo and techno artist tracked on soundcheck, with 41 sets logge
 
 Sahra Bass, Frida Darko, Urem
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flave/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flave/)*

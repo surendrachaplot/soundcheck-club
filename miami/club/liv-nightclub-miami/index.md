@@ -1,6 +1,6 @@
 # LIV Nightclub Miami
 
-LIV Nightclub Miami is a music venue in Miami with 9 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Skilla Baby" on Sun, 30 Aug 2026.
+LIV Nightclub Miami is a music venue in Miami with 9 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Fetty Wap" on Fri, 4 Sept 2026.
 
 LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 9 upcoming nights, with line-ups including Korolova. Browse upcoming dates, start times and who's playing. 4441 Collins Ave; Miami Beach, FL 33139; United States.
 
@@ -8,7 +8,7 @@ LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 9 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Skilla Baby |  |
+| Fri, 4 Sept 2026 | Fetty Wap |  |
 | Sat, 5 Sept 2026 | Disco lines |  |
 | Fri, 18 Sept 2026 | Korolova | Korolova |
 | Sat, 19 Sept 2026 | Matroda |  |
@@ -22,4 +22,4 @@ LIV Nightclub Miami is a music venue in Miami listed on soundcheck. 9 upcoming n
 
 4441 Collins Ave; Miami Beach, FL 33139; United States, Miami
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/liv-nightclub-miami/)*

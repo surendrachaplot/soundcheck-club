@@ -1,6 +1,6 @@
 # Apontow Akyi
 
-Apontow Akyi is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 5 Sept 2026.
+Apontow Akyi is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 5 Sept 2026.
 
 Apontow Akyi is a house artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam. Often billed alongside D Stone, Kléo and Ryan Elliott. Next up: Shelter Amsterdam, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Apontow Akyi is a house artist based in Netherlands, tracked on soundcheck, with
 
 D Stone, Kléo, Ryan Elliott
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apontowakyi/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/apontowakyi/)*

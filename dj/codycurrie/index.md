@@ -1,14 +1,13 @@
 # Cody Currie
 
-Cody Currie is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Cody Currie is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Studio1111, Berlin on Fri, 4 Sept 2026.
 
-Cody Currie is a house and disco artist tracked on soundcheck, with 126 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 40 more. Often billed alongside Kapote, Gee Lane and Sam Ruffillo. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Cody Currie is a house and disco artist tracked on soundcheck, with 126 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 40 more. Often billed alongside Kapote, Gee Lane and Sam Ruffillo. Next up: Studio1111, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Fri, 4 Sept 2026 | Studio1111 | Berlin |
 | Fri, 11 Sept 2026 | Jaeger | Oslo |
 | Sat, 12 Sept 2026 | Rex Club | Paris |
@@ -28,4 +27,4 @@ Cody Currie is a house and disco artist tracked on soundcheck, with 126 sets log
 
 Kapote, Gee Lane, Sam Ruffillo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/codycurrie/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/codycurrie/)*

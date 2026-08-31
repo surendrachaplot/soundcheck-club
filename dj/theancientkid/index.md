@@ -1,6 +1,6 @@
 # The Ancient Kid
 
-The Ancient Kid is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at MH5 Rooftop, Munich on Sat, 12 Sept 2026.
+The Ancient Kid is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at MH5 Rooftop, Munich on Sat, 12 Sept 2026.
 
 The Ancient Kid is a house and tech house artist based in Ukraine, tracked on soundcheck, with 15 sets logged across Berlin, Frankfurt, Munich and Nurnberg and 1 more. Often billed alongside Mark Tarmonea, JSavant and RIØ (DE). Next up: MH5 Rooftop, Munich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ The Ancient Kid is a house and tech house artist based in Ukraine, tracked on so
 
 Mark Tarmonea, JSavant, RIØ (DE)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theancientkid/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theancientkid/)*

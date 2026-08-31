@@ -1,6 +1,6 @@
 # Taberia
 
-Taberia is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kater, Berlin on Fri, 25 Sept 2026.
+Taberia is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Kater, Berlin on Fri, 25 Sept 2026.
 
 Taberia is a techno and tech house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Copenhagen, Hamburg and Munich. Often billed alongside Naicet, Daniel Neuland and Sika Akis. Next up: Kater, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Taberia is a techno and tech house artist based in Germany, tracked on soundchec
 
 Naicet, Daniel Neuland, Sika Akis
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taberia/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/taberia/)*

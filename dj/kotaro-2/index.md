@@ -1,6 +1,6 @@
 # KOTARO (2)
 
-KOTARO (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 26 Sept 2026.
+KOTARO (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Heavy Sick Zero, Tokyo on Sat, 26 Sept 2026.
 
 KOTARO (2) is an electro and techno artist tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside AEMI, HOBOBRAZIL and MDMC. Next up: Heavy Sick Zero, Tokyo on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ KOTARO (2) is an electro and techno artist tracked on soundcheck, with 2 sets lo
 
 AEMI, HOBOBRAZIL, MDMC
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kotaro-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kotaro-2/)*

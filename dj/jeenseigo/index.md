@@ -1,6 +1,6 @@
 # JEEN SEIGO
 
-JEEN SEIGO is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
+JEEN SEIGO is a Tech House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
 
 JEEN SEIGO is a tech house and drum & bass artist based in Japan, tracked on soundcheck, with 27 sets logged across Amsterdam, Singapore and Tokyo. Often billed alongside DJ AKi, You Liang and JERRRY. Next up: Blend XL, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ JEEN SEIGO is a tech house and drum & bass artist based in Japan, tracked on sou
 
 DJ AKi, You Liang, JERRRY
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeenseigo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jeenseigo/)*

@@ -1,6 +1,6 @@
 # XT1ANA
 
-XT1ANA is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
+XT1ANA is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
 
 XT1ANA is a club and hip-hop artist tracked on soundcheck, with 24 sets logged across Brussels and London. Often billed alongside Jean Blaire, BBSHKALES and SALD3E. Next up: Recyclart, Brussels on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ XT1ANA is a club and hip-hop artist tracked on soundcheck, with 24 sets logged a
 
 Jean Blaire, BBSHKALES, SALD3E
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xt1ana/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xt1ana/)*

@@ -1,6 +1,6 @@
 # Butch (JP)
 
-Butch (JP) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 10 Oct 2026.
+Butch (JP) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 10 Oct 2026.
 
 Butch (JP) is an electronic artist based in Japan, tracked on soundcheck, with 2 sets logged across Ibiza. Often billed alongside Aca [RO], Andrea Oliva and East End Dubs. Next up: Ushuaïa Ibiza, Ibiza on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Butch (JP) is an electronic artist based in Japan, tracked on soundcheck, with 2
 
 Aca [RO], Andrea Oliva, East End Dubs
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butch-jp/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butch-jp/)*

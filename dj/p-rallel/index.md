@@ -1,14 +1,13 @@
 # p-rallel
 
-p-rallel is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+p-rallel is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-p-rallel is a garage and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 21 more. Often billed alongside Dr Dubplate, Special Request and Casnova. Next up: Kelvedon Hall, London on Sat 29 Aug.
+p-rallel is a garage and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 21 more. Often billed alongside Dr Dubplate, Special Request and Casnova. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 24 Oct 2026 | Patterns | Brighton |
 | Fri, 30 Oct 2026 | Phonox | London |
@@ -30,4 +29,4 @@ p-rallel is a garage and house artist tracked on soundcheck, with 84 sets logged
 
 Dr Dubplate, Special Request, Casnova
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p-rallel/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/p-rallel/)*

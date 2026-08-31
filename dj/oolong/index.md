@@ -1,6 +1,6 @@
 # Oolong
 
-Oolong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Distillery N17, London on Fri, 16 Oct 2026.
+Oolong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Distillery N17, London on Fri, 16 Oct 2026.
 
 Oolong is a techno and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Bangkok and London. Often billed alongside hameslice, KISA and Mando (2). Next up: Distillery N17, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Oolong is a techno and house artist based in United Kingdom, tracked on soundche
 
 hameslice, KISA, Mando (2)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oolong/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oolong/)*

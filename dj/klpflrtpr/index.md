@@ -1,6 +1,6 @@
 # klpflrtpr
 
-klpflrtpr is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Pontoon Budapest, Budapest on Thu, 3 Sept 2026.
+klpflrtpr is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Pontoon Budapest, Budapest on Thu, 3 Sept 2026.
 
 klpflrtpr is a techno and house artist tracked on soundcheck, with 44 sets logged across Budapest and Prague. Often billed alongside Meduzah, Kiqo and SLYM. Next up: Pontoon Budapest, Budapest on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ klpflrtpr is a techno and house artist tracked on soundcheck, with 44 sets logge
 
 Meduzah, Kiqo, SLYM
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klpflrtpr/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klpflrtpr/)*

@@ -1,6 +1,6 @@
 # Datalogs
 
-Datalogs is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Datalogs is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Datalogs is a techno and electro artist tracked on soundcheck, with 38 sets logged across Athens. Often billed alongside IMPVLSIV, Kazteins and DΛS. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Datalogs is a techno and electro artist tracked on soundcheck, with 38 sets logg
 
 IMPVLSIV, Kazteins, DΛS
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datalogs/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/datalogs/)*

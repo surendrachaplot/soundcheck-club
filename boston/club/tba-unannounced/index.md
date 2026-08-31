@@ -1,6 +1,6 @@
 # TBA - Unannounced
 
-TBA - Unannounced is a music venue in Boston with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "ZERO HOUR" on Sat, 12 Sept 2026.
+TBA - Unannounced is a music venue in Boston with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "ZERO HOUR" on Sat, 12 Sept 2026.
 
 TBA - Unannounced is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including Dev/Null and FortifiedStructures. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Unannounced is a music venue in Boston listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | ZERO HOUR | Dev/Null, FortifiedStructures |
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-unannounced/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-unannounced/)*

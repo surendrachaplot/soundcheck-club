@@ -1,6 +1,6 @@
 # Proton the Club
 
-Proton the Club is a music venue in Stuttgart with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "NAHUAL — ROUND III" on Sat, 5 Sept 2026.
+Proton the Club is a music venue in Stuttgart with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "NAHUAL — ROUND III" on Sat, 5 Sept 2026.
 
 Proton the Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming nights, with line-ups including Adi Dassler. Browse upcoming dates, start times and who's playing. Königstraße 49, 70173 Stuttgart, Germany.
 
@@ -15,4 +15,4 @@ Proton the Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming n
 
 Königstraße 49, 70173 Stuttgart, Germany, Stuttgart
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/proton-the-club/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/proton-the-club/)*

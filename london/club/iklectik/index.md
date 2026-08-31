@@ -1,6 +1,6 @@
 # IKLECTIK
 
-IKLECTIK is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Scald invites... Mick Harris" on Thu, 24 Sept 2026.
+IKLECTIK is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Scald invites... Mick Harris" on Thu, 24 Sept 2026.
 
 IKLECTIK is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Jamie Adam and Pye Corner Audio. Browse upcoming dates, start times and who's playing. Peckham Levels - 95a Rye Ln, London SE15 4ST.
 
@@ -16,4 +16,4 @@ IKLECTIK is a music venue in London listed on soundcheck. 3 upcoming nights, wit
 
 Peckham Levels - 95a Rye Ln, London SE15 4ST, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/iklectik/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/iklectik/)*

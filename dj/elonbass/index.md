@@ -1,6 +1,6 @@
 # Elon Bass
 
-Elon Bass is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 5 Sept 2026.
+Elon Bass is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Karmen Camina, Strasbourg on Sat, 5 Sept 2026.
 
 Elon Bass is a techno and trance artist based in Germany, tracked on soundcheck, with 109 sets logged across Berlin, Cologne, Frankfurt and Ghent and 8 more. Often billed alongside BNZN, AKIIM and Antonym. Next up: Karmen Camina, Strasbourg on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Elon Bass is a techno and trance artist based in Germany, tracked on soundcheck,
 
 BNZN, AKIIM, Antonym
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elonbass/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elonbass/)*

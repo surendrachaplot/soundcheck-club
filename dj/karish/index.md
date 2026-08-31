@@ -1,6 +1,6 @@
 # KARISH
 
-KARISH is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at OST, Berlin on Sat, 12 Sept 2026.
+KARISH is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at OST, Berlin on Sat, 12 Sept 2026.
 
 KARISH is a trance and techno artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 2 more. Often billed alongside Niotech, 3LEEZA and VAENT. Next up: OST, Berlin on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ KARISH is a trance and techno artist based in Netherlands, tracked on soundcheck
 
 Niotech, 3LEEZA, VAENT
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karish/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karish/)*

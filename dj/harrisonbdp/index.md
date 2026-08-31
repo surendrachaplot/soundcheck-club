@@ -1,6 +1,6 @@
 # Harrison BDP
 
-Harrison BDP is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 5 Sept 2026.
+Harrison BDP is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Public Works, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Harrison BDP is a house and tech house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Auckland, Bali and Barcelona and 37 more. Often billed alongside Black Loops, Kolter and Alien Communications. Next up: Public Works, Sanfrancisco on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Harrison BDP is a house and tech house artist tracked on soundcheck, with 135 se
 
 Black Loops, Kolter, Alien Communications
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonbdp/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrisonbdp/)*

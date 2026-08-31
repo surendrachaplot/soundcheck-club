@@ -1,6 +1,6 @@
 # Mylo Harvey
 
-Mylo Harvey is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
+Mylo Harvey is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
 
 Mylo Harvey is a house and disco artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Brighton, London and Manchester. Often billed alongside Chenzo, Acuña Collective and Kojay. Next up: The Glove That Fits, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mylo Harvey is a house and disco artist based in United Kingdom, tracked on soun
 
 Chenzo, Acuña Collective, Kojay
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myloharvey/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/myloharvey/)*

@@ -1,6 +1,6 @@
 # la piscine
 
-la piscine is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Club Makossa, London on Thu, 3 Sept 2026.
+la piscine is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Club Makossa, London on Thu, 3 Sept 2026.
 
 la piscine is a techno and house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside EWERED, MIZNIK and Misura. Next up: Club Makossa, London on Thu 3 Sept.
 
@@ -22,4 +22,4 @@ la piscine is a techno and house artist tracked on soundcheck, with 6 sets logge
 
 EWERED, MIZNIK, Misura
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lapiscine/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lapiscine/)*

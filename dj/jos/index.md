@@ -1,6 +1,6 @@
 # Jos
 
-Jos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Golden Pudel Club, Hamburg on Thu, 10 Sept 2026.
+Jos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Golden Pudel Club, Hamburg on Thu, 10 Sept 2026.
 
 Jos is a techno and house artist based in United Kingdom, tracked on soundcheck, with 133 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Alien Communications, Loa Szala and De La Reef. Next up: Golden Pudel Club, Hamburg on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Jos is a techno and house artist based in United Kingdom, tracked on soundcheck,
 
 Alien Communications, Loa Szala, De La Reef
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*

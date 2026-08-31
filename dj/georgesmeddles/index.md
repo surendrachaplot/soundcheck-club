@@ -1,6 +1,6 @@
 # George Smeddles
 
-George Smeddles is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Sankeys, Manchester on Sat, 10 Oct 2026.
+George Smeddles is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Sankeys, Manchester on Sat, 10 Oct 2026.
 
 George Smeddles is a house and tech house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Austin, Bangkok and Brighton and 21 more. Often billed alongside Darius Syrossian, GW Harrison and Prunk. Next up: Sankeys, Manchester on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ George Smeddles is a house and tech house artist tracked on soundcheck, with 72 
 
 Darius Syrossian, GW Harrison, Prunk
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*

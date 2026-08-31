@@ -1,6 +1,6 @@
 # Saul
 
-Saul is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 10 Oct 2026.
+Saul is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Shelter Amsterdam, Amsterdam on Sat, 10 Oct 2026.
 
 Saul is a house artist tracked on soundcheck, with 3 sets logged across Amsterdam and London. Often billed alongside Bjarki, Eline and Entasia. Next up: Shelter Amsterdam, Amsterdam on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ Saul is a house artist tracked on soundcheck, with 3 sets logged across Amsterda
 
 Bjarki, Eline, Entasia
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saul/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saul/)*

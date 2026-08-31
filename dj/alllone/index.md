@@ -1,6 +1,6 @@
 # alllone
 
-alllone is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mucha, Berlin on Fri, 11 Sept 2026.
+alllone is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mucha, Berlin on Fri, 11 Sept 2026.
 
 alllone is a jungle and bass artist based in Austria, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Turrican, Dub Isotope and Mc Jamie White. Next up: Mucha, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ alllone is a jungle and bass artist based in Austria, tracked on soundcheck, wit
 
 Turrican, Dub Isotope, Mc Jamie White
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alllone/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alllone/)*

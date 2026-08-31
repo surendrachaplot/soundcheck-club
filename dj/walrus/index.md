@@ -1,6 +1,6 @@
 # Walrus
 
-Walrus is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Barcelona on Fri, 4 Sept 2026.
+Walrus is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Barcelona on Fri, 4 Sept 2026.
 
 Walrus is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 18 more. Often billed alongside DJ Rino, Penelope (2) and Boudewijn Ericx. Next up: TBA, Barcelona on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Walrus is a house and techno artist tracked on soundcheck, with 95 sets logged a
 
 DJ Rino, Penelope (2), Boudewijn Ericx
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/walrus/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/walrus/)*

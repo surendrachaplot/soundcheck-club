@@ -1,6 +1,6 @@
 # Ed Kent
 
-Ed Kent is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Melbourne on Sat, 26 Sept 2026.
+Ed Kent is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Melbourne on Sat, 26 Sept 2026.
 
 Ed Kent is a house and techno artist based in Australia, tracked on soundcheck, with 73 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Hannah D, Séarlait and Miki (3). Next up: TBA, Melbourne on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Ed Kent is a house and techno artist based in Australia, tracked on soundcheck, 
 
 Hannah D, Séarlait, Miki (3)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*

@@ -1,6 +1,6 @@
 # Circolo Magnolia
 
-Circolo Magnolia is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Ely Oaks + Yub" on Fri, 4 Sept 2026.
+Circolo Magnolia is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Ely Oaks + Yub" on Fri, 4 Sept 2026.
 
 Circolo Magnolia is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including Ely Oaks, Mr. Belt & Wezol, Vandi and Vithz. Browse upcoming dates, start times and who's playing. Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy.
 
@@ -15,4 +15,4 @@ Circolo Magnolia is a music venue in Milan listed on soundcheck. 2 upcoming nigh
 
 Via Circonvallazione Idroscalo, 20090 Segrate (MI), Italy, Milan
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-magnolia/)*

@@ -1,6 +1,6 @@
 # Ptwiggs
 
-Ptwiggs is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - EORA, Sydney on Sat, 12 Sept 2026.
+Ptwiggs is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - EORA, Sydney on Sat, 12 Sept 2026.
 
 Ptwiggs is an experimental and techno artist tracked on soundcheck, with 11 sets logged across Melbourne and Sydney. Often billed alongside Cloudy Ku, Female Wizard and Arsonist. Next up: TBA - EORA, Sydney on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ptwiggs is an experimental and techno artist tracked on soundcheck, with 11 sets
 
 Cloudy Ku, Female Wizard, Arsonist
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ptwiggs/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ptwiggs/)*

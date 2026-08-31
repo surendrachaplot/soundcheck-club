@@ -1,6 +1,6 @@
 # Raqpar
 
-Raqpar is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at A38, Budapest on Thu, 17 Sept 2026.
+Raqpar is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at A38, Budapest on Thu, 17 Sept 2026.
 
 Raqpar is a house and minimal artist tracked on soundcheck, with 19 sets logged across Budapest. Often billed alongside Robert Dobak, Cassiel and Electric Boutique. Next up: A38, Budapest on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Raqpar is a house and minimal artist tracked on soundcheck, with 19 sets logged 
 
 Robert Dobak, Cassiel, Electric Boutique
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raqpar-hu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raqpar-hu/)*

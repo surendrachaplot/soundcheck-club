@@ -1,6 +1,6 @@
 # GAIVEU
 
-GAIVEU is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Fuse, Brussels on Fri, 4 Sept 2026.
+GAIVEU is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Fuse, Brussels on Fri, 4 Sept 2026.
 
 GAIVEU is a techno and acid artist tracked on soundcheck, with 46 sets logged across Berlin, Brussels, Lisbon and Porto. Often billed alongside Ornella, Anastasiya Ty and Madson Carpenter. Next up: Fuse, Brussels on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ GAIVEU is a techno and acid artist tracked on soundcheck, with 46 sets logged ac
 
 Ornella, Anastasiya Ty, Madson Carpenter
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiveu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiveu/)*

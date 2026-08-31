@@ -1,6 +1,6 @@
 # dirtymoney
 
-dirtymoney is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Chicago on Sat, 5 Sept 2026.
+dirtymoney is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Chicago on Sat, 5 Sept 2026.
 
 dirtymoney is a techno and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Chicago and Detroit. Often billed alongside Adam Pecho, quade and ATT1C. Next up: TBA, Chicago on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ dirtymoney is a techno and house artist based in United States of America, track
 
 Adam Pecho, quade, ATT1C
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtymoney/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtymoney/)*

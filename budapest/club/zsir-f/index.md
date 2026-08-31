@@ -1,6 +1,6 @@
 # Zsiráf
 
-Zsiráf is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Calling The Sun with VOMEE (IT) - - Day&Night Open Air Party in downtown Budapest" on Sat, 12 Sept 2026.
+Zsiráf is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Calling The Sun with VOMEE (IT) - - Day&Night Open Air Party in downtown Budapest" on Sat, 12 Sept 2026.
 
 Zsiráf is a music venue in Budapest listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Budapest, Teréz krt. 53, 1062 Hungary.
 
@@ -14,4 +14,4 @@ Zsiráf is a music venue in Budapest listed on soundcheck. 1 upcoming night. Bro
 
 Budapest, Teréz krt. 53, 1062 Hungary, Budapest
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/zsir-f/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/zsir-f/)*

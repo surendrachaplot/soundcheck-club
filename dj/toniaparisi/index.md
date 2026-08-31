@@ -1,6 +1,6 @@
 # Toni Aparisi
 
-Toni Aparisi is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Sala Villanos, Madrid on Sat, 10 Oct 2026.
+Toni Aparisi is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Sala Villanos, Madrid on Sat, 10 Oct 2026.
 
 Toni Aparisi is a house and electronica artist based in Spain, tracked on soundcheck, with 50 sets logged across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside lebollet, Arnau Obiols and DIGUES. Next up: Sala Villanos, Madrid on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Toni Aparisi is a house and electronica artist based in Spain, tracked on soundc
 
 lebollet, Arnau Obiols, DIGUES
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toniaparisi/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/toniaparisi/)*

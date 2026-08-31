@@ -1,6 +1,6 @@
 # Poly Chain
 
-Poly Chain is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at KHIDI, Tbilisi on Sat, 5 Sept 2026.
+Poly Chain is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at KHIDI, Tbilisi on Sat, 5 Sept 2026.
 
 Poly Chain is a techno and electro artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside DJ MELL G, MSJY and Anastasia Kristensen. Next up: KHIDI, Tbilisi on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Poly Chain is a techno and electro artist tracked on soundcheck, with 46 sets lo
 
 DJ MELL G, MSJY, Anastasia Kristensen
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polychain/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/polychain/)*

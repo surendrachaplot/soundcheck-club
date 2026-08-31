@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "ctrl x King4King present: 𓆩𝙁𝙇𝙀𝙓𝙊𝙍𝙄𝘼𝙏𝙄𝙊𝙉𓆪" on Fri, 4 Sept 2026.
+control is a music venue in Bucharest with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "ctrl x King4King present: 𓆩𝙁𝙇𝙀𝙓𝙊𝙍𝙄𝘼𝙏𝙄𝙊𝙉𓆪" on Fri, 4 Sept 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 5 upcoming nights, with line-ups including AEREA, DAR DISKU, dragosh (RO) and Greg Downey and 1 more. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -18,4 +18,4 @@ control is a music venue in Bucharest listed on soundcheck. 5 upcoming nights, w
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

@@ -1,6 +1,6 @@
 # La Clairière
 
-La Clairière is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "La Clairière: CamelPhat, Calao" on Sat, 5 Sept 2026.
+La Clairière is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "La Clairière: CamelPhat, Calao" on Sat, 5 Sept 2026.
 
 La Clairière is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Calao, CamelPhat, Darco and Feder and 2 more. Browse upcoming dates, start times and who's playing. 1, carrefour de Longchamp, 75116 Paris, France.
 
@@ -18,4 +18,4 @@ La Clairière is a music venue in Paris listed on soundcheck. 5 upcoming nights,
 
 1, carrefour de Longchamp, 75116 Paris, France, Paris
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-clairi-re/)*

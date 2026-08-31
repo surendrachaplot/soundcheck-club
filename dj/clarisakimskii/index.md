@@ -1,14 +1,13 @@
 # Clarisa Kimskii
 
-Clarisa Kimskii is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 29 Aug 2026.
+Clarisa Kimskii is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Chocolate Factory, New York City on Fri, 11 Sept 2026.
 
-Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 29 Aug.
+Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: The Chocolate Factory, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 11 Sept 2026 | The Chocolate Factory | New York City |
 | Sat, 12 Sept 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
@@ -30,4 +29,4 @@ Clarisa Kimskii is a techno and house artist tracked on soundcheck, with 159 set
 
 Ne/Re/A, Mike Servito, Wata Igarashi
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*

@@ -1,6 +1,6 @@
 # Masha Mar
 
-Masha Mar is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Sat, 5 Sept 2026.
+Masha Mar is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Sat, 5 Sept 2026.
 
 Masha Mar is a house and techno artist tracked on soundcheck, with 153 sets logged across Athens, Belgrade, Berlin and Denver and 14 more. Often billed alongside Heidi Lawden, Masha and Stacy Christine. Next up: TBA - Open Air: Downtown Los Angeles, Losangeles on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Masha Mar is a house and techno artist tracked on soundcheck, with 153 sets logg
 
 Heidi Lawden, Masha, Stacy Christine
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*

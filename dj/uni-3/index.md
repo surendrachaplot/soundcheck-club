@@ -1,6 +1,6 @@
 # Uni (3)
 
-Uni (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Modeci, Seoul on Fri, 4 Sept 2026.
+Uni (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Modeci, Seoul on Fri, 4 Sept 2026.
 
 Uni (3) is a house and techno artist based in South Korea, tracked on soundcheck, with 39 sets logged across Bangkok, Newyorkcity and Seoul. Often billed alongside Bolm, YAREE and Xing Xing. Next up: Modeci, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Uni (3) is a house and techno artist based in South Korea, tracked on soundcheck
 
 Bolm, YAREE, Xing Xing
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uni-3/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uni-3/)*

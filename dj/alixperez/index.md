@@ -1,6 +1,6 @@
 # Alix Perez
 
-Alix Perez is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Alix Perez is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 57 sets logged across Antwerp, Auckland, Basel and Berlin and 25 more. Often billed alongside SP:MC, Cesco and Visages. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 57 sets 
 
 SP:MC, Cesco, Visages
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*

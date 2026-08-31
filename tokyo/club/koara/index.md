@@ -1,6 +1,6 @@
 # Koara
 
-Koara is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "R.S.A" on Wed, 2 Sept 2026.
+Koara is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "R.S.A" on Wed, 2 Sept 2026.
 
 Koara is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including DJ Shota Funada, Mikio Kaminakamura, Riko and Rina Sakai and 2 more. Browse upcoming dates, start times and who's playing. 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
 
@@ -16,4 +16,4 @@ Koara is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with li
 
 1-13-15 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan, Tokyo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koara/)*

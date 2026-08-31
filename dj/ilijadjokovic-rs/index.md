@@ -1,6 +1,6 @@
 # Ilija Djokovic
 
-Ilija Djokovic is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Barutana, Belgrade on Fri, 4 Sept 2026.
+Ilija Djokovic is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Barutana, Belgrade on Fri, 4 Sept 2026.
 
 Ilija Djokovic is a techno and progressive house artist based in Serbia, tracked on soundcheck, with 21 sets logged across Belgrade, Berlin, Hamburg and Istanbul. Often billed alongside Coeus, Kasia (OFC) and Lee Burridge. Next up: Barutana, Belgrade on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ilija Djokovic is a techno and progressive house artist based in Serbia, tracked
 
 Coeus, Kasia (OFC), Lee Burridge
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilijadjokovic-rs/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ilijadjokovic-rs/)*

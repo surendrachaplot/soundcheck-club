@@ -1,6 +1,6 @@
 # Mel (FR)
 
-Mel (FR) is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Paris, Paris on Fri, 18 Sept 2026.
+Mel (FR) is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Paris, Paris on Fri, 18 Sept 2026.
 
 Mel (FR) is a techno and minimal artist tracked on soundcheck, with 12 sets logged across Paris and Strasbourg. Often billed alongside Domi (FR), Jolly (FR) and Mathiou. Next up: TBA - Paris, Paris on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mel (FR) is a techno and minimal artist tracked on soundcheck, with 12 sets logg
 
 Domi (FR), Jolly (FR), Mathiou
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mel-fr/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mel-fr/)*

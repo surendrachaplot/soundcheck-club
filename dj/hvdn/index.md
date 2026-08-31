@@ -1,6 +1,6 @@
 # HVDN
 
-HVDN is a Downtempo artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Beate Uwe, Berlin on Sun, 27 Sept 2026.
+HVDN is a Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Beate Uwe, Berlin on Sun, 27 Sept 2026.
 
 HVDN is a downtempo artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside dety. Next up: Beate Uwe, Berlin on Sun 27 Sept.
 
@@ -14,4 +14,4 @@ HVDN is a downtempo artist based in Germany, tracked on soundcheck, with 1 set l
 
 dety
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvdn/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvdn/)*

@@ -1,14 +1,13 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Hagglers Corner, Sheffield on Sun, 30 Aug 2026.
+Yu Su is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Landesmuseum, Zurich on Tue, 1 Sept 2026.
 
-Yu Su is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: Hagglers Corner, Sheffield on Sun 30 Aug.
+Yu Su is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: Landesmuseum, Zurich on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Hagglers Corner | Sheffield |
 | Tue, 1 Sept 2026 | Landesmuseum | Zurich |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 12 Sept 2026 | fabric | London |
@@ -23,6 +22,7 @@ Yu Su is a house and techno artist tracked on soundcheck, with 145 sets logged a
 
 ## Recently played
 
+- Hagglers Corner, Sheffield — Sun, 30 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 31 Jul 2026
 - Phonica Records, London — Wed, 29 Jul 2026
@@ -30,10 +30,9 @@ Yu Su is a house and techno artist tracked on soundcheck, with 145 sets logged a
 - TBA - Casal d'Amposta, Barcelona — Fri, 17 Jul 2026
 - M.O.T, London — Sat, 20 Jun 2026
 - Phonox, London — Sat, 20 Jun 2026
-- SISSI'S Amsterdam, Amsterdam — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Leon Vynehall, DJ Python, Paula Tape
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

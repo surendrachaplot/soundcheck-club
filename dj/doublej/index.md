@@ -1,6 +1,6 @@
 # Double J
 
-Double J is a Hip-Hop and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
+Double J is a Hip-Hop and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fuchs2, Prague on Sat, 26 Sept 2026.
 
 Double J is a hip-hop and grime artist based in Czech Republic, tracked on soundcheck, with 9 sets logged across Brighton and Prague. Often billed alongside Kembe, Manga Saint Hilare and Orion. Next up: Fuchs2, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Double J is a hip-hop and grime artist based in Czech Republic, tracked on sound
 
 Kembe, Manga Saint Hilare, Orion
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doublej/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doublej/)*

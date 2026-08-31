@@ -1,6 +1,6 @@
 # Marvin Aloys
 
-Marvin Aloys is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
+Marvin Aloys is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Nido Cocktailbar, Amsterdam on Fri, 23 Oct 2026.
 
 Marvin Aloys is a tech house and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Bucharest and Cologne and 2 more. Often billed alongside Alice DiMar, YEPIK and AARON. Next up: Nido Cocktailbar, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Marvin Aloys is a tech house and house artist based in Germany, tracked on sound
 
 Alice DiMar, YEPIK, AARON
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinaloys/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinaloys/)*

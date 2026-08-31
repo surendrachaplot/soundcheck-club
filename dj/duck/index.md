@@ -1,6 +1,6 @@
 # DUCK
 
-DUCK is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Forestlimit, Tokyo on Wed, 2 Sept 2026.
+DUCK is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Forestlimit, Tokyo on Wed, 2 Sept 2026.
 
 DUCK is a bass and dub artist based in Japan, tracked on soundcheck, with 8 sets logged across Prague and Tokyo. Often billed alongside akii, ovrrride and BLUEMEW. Next up: Forestlimit, Tokyo on Wed 2 Sept.
 
@@ -24,4 +24,4 @@ DUCK is a bass and dub artist based in Japan, tracked on soundcheck, with 8 sets
 
 akii, ovrrride, BLUEMEW
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duck/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/duck/)*

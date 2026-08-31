@@ -1,6 +1,6 @@
 # ISHAPE
 
-ISHAPE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA, Berlin on Fri, 18 Sept 2026.
+ISHAPE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Berlin on Fri, 18 Sept 2026.
 
 ISHAPE is a techno and house artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin and Hamburg. Often billed alongside AKIIM, Cryptofauna and Elisa Bee. Next up: TBA, Berlin on Fri 18 Sept.
 
@@ -15,4 +15,4 @@ ISHAPE is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 AKIIM, Cryptofauna, Elisa Bee
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ishape/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ishape/)*

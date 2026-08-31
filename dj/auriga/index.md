@@ -1,6 +1,6 @@
 # Auriga
 
-Auriga is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA -  INDUSTRIE CAR WASH , Geneva on Fri, 25 Sept 2026.
+Auriga is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA -  INDUSTRIE CAR WASH , Geneva on Fri, 25 Sept 2026.
 
 Auriga is a techno and house artist tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Cologne and Geneva and 3 more. Often billed alongside Alchemiah, Kos:mo and CAY (1). Next up: TBA -  INDUSTRIE CAR WASH , Geneva on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Auriga is a techno and house artist tracked on soundcheck, with 18 sets logged a
 
 Alchemiah, Kos:mo, CAY (1)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auriga/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auriga/)*

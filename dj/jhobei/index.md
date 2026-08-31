@@ -1,14 +1,13 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 10 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Steelyard Kelham, Sheffield on Sun, 30 Aug 2026.
+Jhobei is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 11 Sept 2026.
 
-Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 10 more. Often billed alongside B.Love, Julian Anthony and Reeshy. Next up: Steelyard Kelham, Sheffield on Sun 30 Aug.
+Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 10 more. Often billed alongside B.Love, Julian Anthony and Reeshy. Next up: Les Enfants Brillants, Barcelona on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Steelyard Kelham | Sheffield |
 | Fri, 11 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 25 Sept 2026 | 93 Feet East | London |
@@ -21,6 +20,7 @@ Jhobei is a house and electro artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
+- Steelyard Kelham, Sheffield — Sun, 30 Aug 2026
 - Shelter Amsterdam, Amsterdam — Fri, 28 Aug 2026
 - The Fox and Firkin, London — Sat, 1 Aug 2026
 - Gaffe, London — Sat, 25 Jul 2026
@@ -28,10 +28,9 @@ Jhobei is a house and electro artist based in United Kingdom, tracked on soundch
 - Cabaret Voltaire, Edinburgh — Fri, 26 Jun 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Fri, 19 Jun 2026
 - High Lights - Barking Park, London — Sat, 30 May 2026
-- The Cause, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 B.Love, Julian Anthony, Reeshy
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

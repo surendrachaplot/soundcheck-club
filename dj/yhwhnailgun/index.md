@@ -1,14 +1,13 @@
 # YHWH Nailgun
 
-YHWH Nailgun is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Downs, Bristol, Bristol on Sat, 29 Aug 2026.
+YHWH Nailgun is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-YHWH Nailgun is a techno and electronica artist tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Bristol and Brussels and 13 more. Often billed alongside DjRUM, Smerz and Blood Orange. Next up: The Downs, Bristol, Bristol on Sat 29 Aug.
+YHWH Nailgun is a techno and electronica artist tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Bristol and Brussels and 13 more. Often billed alongside DjRUM, Smerz and Blood Orange. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | The Downs, Bristol | Bristol |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -26,4 +25,4 @@ YHWH Nailgun is a techno and electronica artist tracked on soundcheck, with 26 s
 
 DjRUM, Smerz, Blood Orange
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yhwhnailgun/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yhwhnailgun/)*

@@ -1,6 +1,6 @@
 # BMSK
 
-BMSK is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+BMSK is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 BMSK is a techno and experimental artist based in Greece, tracked on soundcheck, with 94 sets logged across Athens and Berlin. Often billed alongside JERM, IMPVLSIV and Mr.M. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ BMSK is a techno and experimental artist based in Greece, tracked on soundcheck,
 
 JERM, IMPVLSIV, Mr.M
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bmsk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bmsk/)*

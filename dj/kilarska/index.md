@@ -1,6 +1,6 @@
 # Kilarska
 
-Kilarska is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
+Kilarska is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
 Kilarska is a trance and techno artist tracked on soundcheck, with 13 sets logged across Berlin, Krakow, Stuttgart and Warsaw. Often billed alongside Penera, 1luu and A.T.E.K. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kilarska is a trance and techno artist tracked on soundcheck, with 13 sets logge
 
 Penera, 1luu, A.T.E.K
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kilarska/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kilarska/)*

@@ -1,14 +1,13 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 62 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "wieder: BOILER ROOM SETUP + MARKETPLACE" on Sun, 30 Aug 2026.
+Lokschuppen Berlin is a music venue in Berlin with 61 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "PHASE:ONE" on Tue, 1 Sept 2026.
 
-Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 62 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and 5euroGoldi and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
+Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 61 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and 5euroGoldi and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE | Hanne B, KOSTJA, Romina Mazzini, SØMOS |
 | Tue, 1 Sept 2026 | PHASE:ONE | LARIOUS |
 | Wed, 2 Sept 2026 | SIGNALS - 5€ Tickets - with Trancestrudel ALL NIGHT LONG | Trancestrudel |
 | Fri, 4 Sept 2026 | LOKSCHUPPEN KLUBNACHT pres. PARACEK INVITES w CARGO, MRGNSTRN + MORE | ABAD MANNERS, Anna Ullrich, CARGO, CARGO (DE), Carotin, Cobb Douglas, DJ SKIPLIST, ELOISA, KLITTY, MRGNSTRN, Ozzwald, Paraçek, Sonora, UNORDNUNGSAMT, ZÖ (1) |
@@ -18,9 +17,10 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 62 upcoming 
 | Tue, 8 Sept 2026 | PHASE:ONE | WhoisAlice |
 | Wed, 9 Sept 2026 | SIGNALS - 5€ Tickets - with BENNETT, alemiko LIVE, MIMI404 | BENNETT, MIMI404, alemiko |
 | Fri, 11 Sept 2026 | CUTE invites PASTIS & BUENRI | Aexhy, Cobb Douglas, DJ Henk, Der Schaffner, Florelle, H369, IceLipzz, Limoncello, LŸBRA, Makinarium, Pastis & Buenri, Ryukyu, SACID, Sonny Smiles, alemiko, bbymeister, cravings320, happysadgirl |
+| Sat, 12 Sept 2026 | 2Much at Lokschuppen: DJ YARAK, Orbi, t e s t p r e s s | Blayde, DETOXX, DJ YARAK, Die Klar, Eva Charley, JUICY (DE), Kichta, Linds, Lisek, Millie Forsberg, Orbi, Sacha Harland, Shake Daddy, XIMA, t e s t p r e s s |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

@@ -1,8 +1,8 @@
 # Dj-Tee
 
-Dj-Tee is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
+Dj-Tee is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Ham Farm, Lewes,, Brighton on Fri, 28 Aug 2026.
 
-Dj-Tee is a garage and drum & bass artist based in Tunisia, tracked on soundcheck, with 1 set logged across Brighton. Often billed alongside AC13, Afters and Charlie. Next up: Ham Farm, Lewes,, Brighton on Fri 28 Aug.
+Dj-Tee is a drum & bass and garage artist based in Tunisia, tracked on soundcheck, with 1 set logged across Brighton. Often billed alongside GABS (SK), Dreadnaught and Afters. Next up: Ham Farm, Lewes,, Brighton on Fri 28 Aug.
 
 ## Upcoming shows
 
@@ -16,6 +16,6 @@ Dj-Tee is a garage and drum & bass artist based in Tunisia, tracked on soundchec
 
 ## Shares bills with
 
-AC13, Afters, Charlie
+GABS (SK), Dreadnaught, Afters
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-tee/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-tee/)*

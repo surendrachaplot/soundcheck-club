@@ -1,6 +1,6 @@
 # Floorplan
 
-Floorplan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at BERHTA, Washington DC on Fri, 4 Sept 2026.
+Floorplan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at BERHTA, Washington DC on Fri, 4 Sept 2026.
 
 Floorplan is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 20 more. Often billed alongside Melvo Baptiste, Robert Hood and DJ Holographic. Next up: BERHTA, Washingtondc on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Floorplan is a house and techno artist based in United States of America, tracke
 
 Melvo Baptiste, Robert Hood, DJ Holographic
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*

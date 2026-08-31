@@ -1,6 +1,6 @@
 # My Aeon
 
-My Aeon is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "'150 LIVE' Showcase [Vol. 6] - All LIVE Electronic on Machines - My Aeon" on Fri, 4 Sept 2026.
+My Aeon is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "'150 LIVE' Showcase [Vol. 6] - All LIVE Electronic on Machines - My Aeon" on Fri, 4 Sept 2026.
 
 My Aeon is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including CAITY WATSON, Chris NG, cuznmatt and Jani HO and 2 more. Browse upcoming dates, start times and who's playing. 791 Sydney Rd; Brunswick VIC 3056; Australia.
 
@@ -16,4 +16,4 @@ My Aeon is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, w
 
 791 Sydney Rd; Brunswick VIC 3056; Australia, Melbourne
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/my-aeon/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/my-aeon/)*

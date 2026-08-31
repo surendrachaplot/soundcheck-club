@@ -1,6 +1,6 @@
 # Junior Lopez
 
-Junior Lopez is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Wiggle Room, Toronto on Sat, 12 Sept 2026.
+Junior Lopez is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Wiggle Room, Toronto on Sat, 12 Sept 2026.
 
 Junior Lopez is a tech house and house artist based in Spain, tracked on soundcheck, with 34 sets logged across Barcelona and Toronto. Often billed alongside TAKiN, Juan Gmoney Jaramillo and Barroness. Next up: Wiggle Room, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Junior Lopez is a tech house and house artist based in Spain, tracked on soundch
 
 TAKiN, Juan Gmoney Jaramillo, Barroness
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorlopez/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorlopez/)*

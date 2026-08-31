@@ -1,6 +1,6 @@
 # GENE
 
-GENE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
+GENE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
 
 GENE is a techno and house artist based in Italy, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Bucharest and Philadelphia and 2 more. Often billed alongside Alec Dienaar, BioN and Desuba. Next up: TBA -  Somewhere in East Berlin, Berlin on Fri 28 Aug.
 
@@ -25,4 +25,4 @@ GENE is a techno and house artist based in Italy, tracked on soundcheck, with 9 
 
 Alec Dienaar, BioN, Desuba
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gene-3/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gene-3/)*

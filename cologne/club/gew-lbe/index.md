@@ -1,6 +1,6 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Simple present with DCHM, Lara Fein, Ryan Elliott" on Fri, 4 Sept 2026.
+Gewölbe is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Simple present with DCHM, Lara Fein, Ryan Elliott" on Fri, 4 Sept 2026.
 
 Gewölbe is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including Adiel, DCHM, Denis Stockhausen and Di² (1) and 2 more. Browse upcoming dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
@@ -21,4 +21,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 8 upcoming nights, wi
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

@@ -1,6 +1,6 @@
 # Grzechu Warty
 
-Grzechu Warty is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Piękny Pies, Krakow on Sat, 19 Sept 2026.
+Grzechu Warty is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Piękny Pies, Krakow on Sat, 19 Sept 2026.
 
 Grzechu Warty is an electronica and house artist based in Poland, tracked on soundcheck, with 10 sets logged across Berlin, Krakow and Warsaw. Often billed alongside drm_dj, Adam John Williams and BarTech. Next up: Piękny Pies, Krakow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Grzechu Warty is an electronica and house artist based in Poland, tracked on sou
 
 drm_dj, Adam John Williams, BarTech
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grzechuwarty/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/grzechuwarty/)*

@@ -1,6 +1,6 @@
 # CAM GIRL
 
-CAM GIRL is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Marble Bar, Detroit on Fri, 18 Sept 2026.
+CAM GIRL is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Marble Bar, Detroit on Fri, 18 Sept 2026.
 
 CAM GIRL is a pop and electro artist tracked on soundcheck, with 11 sets logged across Detroit, Hongkong, Losangeles and Miami and 4 more. Often billed alongside MAMA SAN, ABRA and BAAWLA. Next up: Marble Bar, Detroit on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ CAM GIRL is a pop and electro artist tracked on soundcheck, with 11 sets logged 
 
 MAMA SAN, ABRA, BAAWLA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camgirl/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camgirl/)*

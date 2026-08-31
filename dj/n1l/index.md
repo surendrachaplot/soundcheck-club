@@ -1,6 +1,6 @@
 # N1L
 
-N1L is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at M.O.T, London on Thu, 1 Oct 2026.
+N1L is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at M.O.T, London on Thu, 1 Oct 2026.
 
 N1L is a trance and techno artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside FITS ME FUNNY, Reformist and Speedboat Lomé. Next up: M.O.T, London on Thu 1 Oct.
 
@@ -18,4 +18,4 @@ N1L is a trance and techno artist tracked on soundcheck, with 2 sets logged acro
 
 FITS ME FUNNY, Reformist, Speedboat Lomé
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n1l/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/n1l/)*

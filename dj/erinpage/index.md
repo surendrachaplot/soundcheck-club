@@ -1,6 +1,6 @@
 # Erin Page
 
-Erin Page is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Honey's, New York City on Sun, 6 Sept 2026.
+Erin Page is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Honey's, New York City on Sun, 6 Sept 2026.
 
 Erin Page is a house and techno artist tracked on soundcheck, with 17 sets logged across Newyorkcity and Washingtondc. Often billed alongside Cobrastrk, DJ AstroNat and j:drive. Next up: Honey's, Newyorkcity on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Erin Page is a house and techno artist tracked on soundcheck, with 17 sets logge
 
 Cobrastrk, DJ AstroNat, j:drive
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erinpage/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/erinpage/)*

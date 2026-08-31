@@ -1,6 +1,6 @@
 # SMG (UK)
 
-SMG (UK) is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+SMG (UK) is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 10 sets logged across Bristol, London, Madrid and Malta and 4 more. Often billed alongside Waeys, Calyx and Skantia. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 10 sets 
 
 Waeys, Calyx, Skantia
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*

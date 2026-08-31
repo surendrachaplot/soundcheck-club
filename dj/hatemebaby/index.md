@@ -1,6 +1,6 @@
 # hatemebaby
 
-hatemebaby is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at OIL Club, Shenzhen on Sat, 3 Oct 2026.
+hatemebaby is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at OIL Club, Shenzhen on Sat, 3 Oct 2026.
 
 hatemebaby is a club and experimental artist based in China, tracked on soundcheck, with 5 sets logged across Hongkong and Shenzhen. Often billed alongside Manson, Replica.mp3 and BNT (CN). Next up: OIL Club, Shenzhen on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ hatemebaby is a club and experimental artist based in China, tracked on soundche
 
 Manson, Replica.mp3, BNT (CN)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hatemebaby/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hatemebaby/)*

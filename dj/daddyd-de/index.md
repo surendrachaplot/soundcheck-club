@@ -1,6 +1,6 @@
 # Daddy D
 
-Daddy D is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Toldi Klub, Budapest on Fri, 4 Sept 2026.
+Daddy D is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Toldi Klub, Budapest on Fri, 4 Sept 2026.
 
 Daddy D is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Budapest. Often billed alongside schraeder, Akác and CRB. Next up: Toldi Klub, Budapest on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Daddy D is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 schraeder, Akác, CRB
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daddyd-de/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daddyd-de/)*

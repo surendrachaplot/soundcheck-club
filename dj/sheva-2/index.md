@@ -1,6 +1,6 @@
 # SHEVA (2)
 
-SHEVA (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sun, 6 Sept 2026.
+SHEVA (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Geary Avenue Warehouse Project, Toronto on Sun, 6 Sept 2026.
 
 SHEVA (2) is a techno and tech house artist tracked on soundcheck, with 2 sets logged across Toronto. Often billed alongside Deimos & Phobos and KUROTEK. Next up: Geary Avenue Warehouse Project, Toronto on Sun 6 Sept.
 
@@ -18,4 +18,4 @@ SHEVA (2) is a techno and tech house artist tracked on soundcheck, with 2 sets l
 
 Deimos & Phobos, KUROTEK
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheva-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sheva-2/)*

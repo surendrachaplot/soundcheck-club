@@ -1,6 +1,6 @@
 # Rozie
 
-Rozie is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Terrrazza, Barcelona on Thu, 17 Sept 2026.
+Rozie is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at La Terrrazza, Barcelona on Thu, 17 Sept 2026.
 
 Rozie is a house and trance artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Barcelona and Paris and 3 more. Often billed alongside Moody Mehran, Benwal and Freddi. Next up: La Terrrazza, Barcelona on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Rozie is a house and trance artist tracked on soundcheck, with 76 sets logged ac
 
 Moody Mehran, Benwal, Freddi
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rozie/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rozie/)*

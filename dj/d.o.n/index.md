@@ -1,6 +1,6 @@
 # D.O.N
 
-D.O.N is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 6 Sept 2026.
+D.O.N is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Sunseabar Beach Club, Barcelona on Sun, 6 Sept 2026.
 
 D.O.N is a techno and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside ATMEN, Cesar Martino and Lokesh. Next up: Sunseabar Beach Club, Barcelona on Sun 6 Sept.
 
@@ -19,4 +19,4 @@ D.O.N is a techno and house artist based in United Kingdom, tracked on soundchec
 
 ATMEN, Cesar Martino, Lokesh
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.n/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.n/)*

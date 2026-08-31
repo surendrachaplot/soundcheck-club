@@ -1,6 +1,6 @@
 # Lottie (SI)
 
-Lottie (SI) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Gaffe, London on Sat, 26 Sept 2026.
+Lottie (SI) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Gaffe, London on Sat, 26 Sept 2026.
 
 Lottie (SI) is a tech house and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Dublin and London and 2 more. Often billed alongside Lerro, Monti1one and PJPJPJ. Next up: Gaffe, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lottie (SI) is a tech house and house artist tracked on soundcheck, with 13 sets
 
 Lerro, Monti1one, PJPJPJ
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lottie-si/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lottie-si/)*

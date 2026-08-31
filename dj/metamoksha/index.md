@@ -1,6 +1,6 @@
 # Metamoksha
 
-Metamoksha is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Padimai Art & Tech Studio, Singapore on Sat, 12 Sept 2026.
+Metamoksha is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Padimai Art & Tech Studio, Singapore on Sat, 12 Sept 2026.
 
 Metamoksha is a techno and industrial artist based in Singapore, tracked on soundcheck, with 13 sets logged across Bangkok, Kualalumpur and Singapore. Often billed alongside rEmPiT g0dDe$$, nydthakid and howrøng. Next up: Padimai Art & Tech Studio, Singapore on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Metamoksha is a techno and industrial artist based in Singapore, tracked on soun
 
 rEmPiT g0dDe$$, nydthakid, howrøng
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metamoksha/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/metamoksha/)*

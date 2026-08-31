@@ -1,6 +1,6 @@
 # Little Nats
 
-Little Nats is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at PETER EDEL, Berlin on Fri, 6 Nov 2026.
+Little Nats is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at PETER EDEL, Berlin on Fri, 6 Nov 2026.
 
 Little Nats is a techno and tech house artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Bäggy, Kriszpy and OELEX. Next up: PETER EDEL, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Little Nats is a techno and tech house artist based in Germany, tracked on sound
 
 Bäggy, Kriszpy, OELEX
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littlenats/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/littlenats/)*

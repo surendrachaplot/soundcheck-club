@@ -1,15 +1,13 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 29 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "新面孔 xīn miàn kǒng Vol.48" on Sun, 30 Aug 2026.
+OIL Club is a music venue in Shenzhen with 27 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "好事星期四 House Thursday" on Thu, 3 Sept 2026.
 
-OIL Club is a music venue in Shenzhen listed on soundcheck. 29 upcoming nights, with line-ups including ADEAD, ADRIANNA, Alex Banks and Alion and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
+OIL Club is a music venue in Shenzhen listed on soundcheck. 27 upcoming nights, with line-ups including ADEAD, ADRIANNA, Alex Banks and Alion and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | 新面孔 xīn miàn kǒng Vol.48 |  |
-| Sun, 30 Aug 2026 | DJ Workshop | Foambb |
 | Thu, 3 Sept 2026 | 好事星期四 House Thursday |  |
 | Fri, 4 Sept 2026 | PAiN 2st Ann. Pres. 蛇精病发作中 Kinara & Soup snakeS | Butterfly (2), Manson, Replica.mp3, Soup snakeS |
 | Fri, 4 Sept 2026 | SYNTONY |  |
@@ -18,9 +16,11 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 29 upcoming nights, 
 | Fri, 11 Sept 2026 | Dabeull in Shenzhen | Jascer, o0 (1) |
 | Sat, 12 Sept 2026 | OIL Pres Proc Fiskal | Proc Fiskal, Sirens, Sulk |
 | Sat, 12 Sept 2026 | ROOMTOO: Ours |  |
+| Sun, 13 Sept 2026 | DIVA POP ON：我就爱蹦流行歌 |  |
+| Thu, 17 Sept 2026 | YUCI pres. LISTORIO & Blame the Booker & Jayzo | Blame the Booker, Fischmonger, Jayzo, LISTORIO |
 
 ## Address
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

@@ -1,6 +1,6 @@
 # Pueblo Gelb
 
-Pueblo Gelb is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Odonien, Cologne on Wed, 2 Sept 2026.
+Pueblo Gelb is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Odonien, Cologne on Wed, 2 Sept 2026.
 
 Pueblo Gelb is a techno and club artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Cologne and Munich. Often billed alongside BabaBass3000, OSKAMAXX and Baumeister98. Next up: Odonien, Cologne on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Pueblo Gelb is a techno and club artist based in Germany, tracked on soundcheck,
 
 BabaBass3000, OSKAMAXX, Baumeister98
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pueblogelb/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pueblogelb/)*

@@ -1,6 +1,6 @@
 # HVL
 
-HVL is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at FOLD, London on Sat, 5 Sept 2026.
+HVL is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at FOLD, London on Sat, 5 Sept 2026.
 
 HVL is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Kvanchi, Ndrx and Newa. Next up: FOLD, London on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ HVL is a techno and house artist tracked on soundcheck, with 102 sets logged acr
 
 Kvanchi, Ndrx, Newa
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvl/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hvl/)*

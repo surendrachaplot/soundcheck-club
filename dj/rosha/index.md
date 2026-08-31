@@ -1,6 +1,6 @@
 # rosha
 
-rosha is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Jackhammer Chicago, Chicago on Sun, 6 Sept 2026.
+rosha is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Jackhammer Chicago, Chicago on Sun, 6 Sept 2026.
 
 rosha is a techno and acid artist tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Chicago and Cologne. Often billed alongside Linus Villa, SENOR and Scootadood. Next up: The Jackhammer Chicago, Chicago on Sun 6 Sept.
 
@@ -23,4 +23,4 @@ rosha is a techno and acid artist tracked on soundcheck, with 7 sets logged acro
 
 Linus Villa, SENOR, Scootadood
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosha/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosha/)*

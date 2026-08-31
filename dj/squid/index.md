@@ -1,6 +1,6 @@
 # Squid
 
-Squid is a Electronica and Dembow artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Squid is a Electronica and Dembow artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 Squid is an electronica and dembow artist tracked on soundcheck, with 2 sets logged across Bristol and Mexicocity. Often billed alongside 96 Back, A Good Year and Alex Wilcox. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -18,4 +18,4 @@ Squid is an electronica and dembow artist tracked on soundcheck, with 2 sets log
 
 96 Back, A Good Year, Alex Wilcox
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/squid/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/squid/)*

@@ -1,14 +1,13 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 6 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Reggae Sunday *Bank Holiday Special*" on Sun, 30 Aug 2026.
+Outlaws Yacht Club is a music venue in Leeds with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Opus with Vassallo and Phil Warner" on Fri, 4 Sept 2026.
 
-Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 6 upcoming nights, with line-ups including Ben Daddy, Laura Not, Phil Warner and Shauna and 2 more. Browse upcoming dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
+Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 5 upcoming nights, with line-ups including Ben Daddy, Laura Not, Phil Warner and Shauna and 2 more. Browse upcoming dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Reggae Sunday *Bank Holiday Special* |  |
 | Fri, 4 Sept 2026 | Opus with Vassallo and Phil Warner | Phil Warner, Vassallo |
 | Sat, 12 Sept 2026 | Modern Fairytale with Andy Whittaker  |  |
 | Sat, 19 Sept 2026 | Disco Discharge: Disco's Revenge | Ben Daddy, Shauna |
@@ -19,4 +18,4 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 6 upcoming ni
 
 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom, Leeds
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*

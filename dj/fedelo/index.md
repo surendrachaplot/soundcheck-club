@@ -1,6 +1,6 @@
 # fedelo
 
-fedelo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at L'after Club, Geneva on Fri, 27 Nov 2026.
+fedelo is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at L'after Club, Geneva on Fri, 27 Nov 2026.
 
 fedelo is a techno and industrial artist tracked on soundcheck, with 2 sets logged across Geneva. Often billed alongside Fernando De Matos, Hector Moreno and Pablo Say. Next up: L'after Club, Geneva on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ fedelo is a techno and industrial artist tracked on soundcheck, with 2 sets logg
 
 Fernando De Matos, Hector Moreno, Pablo Say
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fedelo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fedelo/)*

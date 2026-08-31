@@ -1,6 +1,6 @@
 # FOLD
 
-FOLD is a music venue in London with 25 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "UNFOLD CXXX (EXTENDED - 33 Hour)" on Sun, 30 Aug 2026.
+FOLD is a music venue in London with 25 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "UNFOLD CXXX (EXTENDED - 33 Hour)" on Sun, 30 Aug 2026.
 
 FOLD is a music venue in London listed on soundcheck. 25 upcoming nights, with line-ups including Alba Heidari, Alicia (UK), Anabel Arroyo and Andre Zimmer and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 25 upcoming nights, with l
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

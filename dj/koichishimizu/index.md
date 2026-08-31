@@ -1,14 +1,15 @@
 # Koichi Shimizu
 
-Koichi Shimizu is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Kagurane, Tokyo on Sat, 19 Sept 2026.
+Koichi Shimizu is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Kagurane, Tokyo on Sat, 19 Sept 2026.
 
-Koichi Shimizu is an experimental and techno artist based in Thailand, tracked on soundcheck, with 19 sets logged across Bangkok, Hongkong, Naples and Seoul and 1 more. Often billed alongside C-KAY, Numb (JP) and In Ray. Next up: Kagurane, Tokyo on Sat 19 Sept.
+Koichi Shimizu is an experimental and techno artist based in Thailand, tracked on soundcheck, with 20 sets logged across Bangkok, Hongkong, Naples and Seoul and 1 more. Often billed alongside C-KAY, Numb (JP) and In Ray. Next up: Kagurane, Tokyo on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Kagurane | Tokyo |
+| Sat, 31 Oct 2026 | Cloud 11 Hall | Bangkok |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Koichi Shimizu is an experimental and techno artist based in Thailand, tracked o
 
 C-KAY, Numb (JP), In Ray
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koichishimizu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/koichishimizu/)*

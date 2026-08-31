@@ -1,6 +1,6 @@
 # Vans Hellwirth
 
-Vans Hellwirth is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Golden Gate, Berlin on Thu, 17 Sept 2026.
+Vans Hellwirth is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Golden Gate, Berlin on Thu, 17 Sept 2026.
 
 Vans Hellwirth is an electronic artist tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Bee Lincoln, Neco and Turmspringer. Next up: Golden Gate, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Vans Hellwirth is an electronic artist tracked on soundcheck, with 16 sets logge
 
 Bee Lincoln, Neco, Turmspringer
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanshellwirth/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vanshellwirth/)*

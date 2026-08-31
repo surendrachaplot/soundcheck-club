@@ -1,6 +1,6 @@
 # xeon æon
 
-xeon æon is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Buddies in Bad Times, Toronto on Fri, 11 Sept 2026.
+xeon æon is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Buddies in Bad Times, Toronto on Fri, 11 Sept 2026.
 
 xeon æon is a hardcore and trance artist tracked on soundcheck, with 18 sets logged across Toronto. Often billed alongside GUSSYEE, 666.pastel and Rareasfck. Next up: Buddies in Bad Times, Toronto on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ xeon æon is a hardcore and trance artist tracked on soundcheck, with 18 sets lo
 
 GUSSYEE, 666.pastel, Rareasfck
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xeonæon/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xeonæon/)*

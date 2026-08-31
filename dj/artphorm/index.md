@@ -1,6 +1,6 @@
 # Artphorm
 
-Artphorm is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Salon Daomé, Montreal on Sat, 5 Sept 2026.
+Artphorm is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Salon Daomé, Montreal on Sat, 5 Sept 2026.
 
 Artphorm is a house and electro artist based in Egypt, tracked on soundcheck, with 12 sets logged across Montreal and Toronto. Often billed alongside Lara Bee, MightyKat and Adam Husa. Next up: Salon Daomé, Montreal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Artphorm is a house and electro artist based in Egypt, tracked on soundcheck, wi
 
 Lara Bee, MightyKat, Adam Husa
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artphorm/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artphorm/)*

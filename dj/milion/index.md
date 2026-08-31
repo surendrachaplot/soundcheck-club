@@ -1,14 +1,13 @@
 # Milion
 
-Milion is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Milion is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Club Vaag, Antwerp on Fri, 2 Oct 2026.
 
-Milion is a house and garage artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Bali and Bristol and 20 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Milion is a house and garage artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Bali and Bristol and 20 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: Club Vaag, Antwerp on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Fri, 2 Oct 2026 | Club Vaag | Antwerp |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sun, 25 Oct 2026 | H7 Warehouse | Amsterdam |
@@ -31,4 +30,4 @@ Milion is a house and garage artist tracked on soundcheck, with 100 sets logged 
 
 SAIDAH, Locky, Bella Claxton
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milion/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milion/)*

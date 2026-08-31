@@ -1,6 +1,6 @@
 # Valorin
 
-Valorin is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Nordstern, Basel on Fri, 23 Oct 2026.
+Valorin is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Nordstern, Basel on Fri, 23 Oct 2026.
 
 Valorin is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Basel, Berlin, London and Zurich. Often billed alongside 4NOUK, Acid Asian and Après. Next up: Nordstern, Basel on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Valorin is a techno and trance artist based in United Kingdom, tracked on soundc
 
 4NOUK, Acid Asian, Après
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valorin/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/valorin/)*

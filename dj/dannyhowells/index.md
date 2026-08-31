@@ -1,6 +1,6 @@
 # Danny Howells
 
-Danny Howells is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Horse & Groom, London on Sat, 5 Sept 2026.
+Danny Howells is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Horse & Groom, London on Sat, 5 Sept 2026.
 
 Danny Howells is a progressive house and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Auckland, Barcelona and Brighton and 19 more. Often billed alongside Dave Seaman, Anthony Pappa and Hernan Cattaneo. Next up: The Horse & Groom, London on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Danny Howells is a progressive house and house artist tracked on soundcheck, wit
 
 Dave Seaman, Anthony Pappa, Hernan Cattaneo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*

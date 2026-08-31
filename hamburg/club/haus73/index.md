@@ -1,8 +1,8 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Lust auf Techno? by Tous Les Fruits" on Fri, 4 Sept 2026.
+Haus73 is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Lust auf Techno? by Tous Les Fruits" on Fri, 4 Sept 2026.
 
-Haus73 is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including ACID B4RBIE, aitch, Ivaldo Gino and Lang Jan (2) and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
+Haus73 is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including ACID B4RBIE, aitch, Ivaldo Gino and Lang Jan (2) and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with
 | Fri, 11 Sept 2026 | Submassive x Give Me A Break | Ivaldo Gino, Lang Jan (2), PUSS1 BABA, Sarah Q, Suzi Mystique, Usus |
 | Sun, 13 Sept 2026 | Danny Steinmeyer |  |
 | Sun, 13 Sept 2026 | Hermine Flanger |  |
+| Fri, 18 Sept 2026 | FREAKY SUMMER CLOSING |  |
 | Sat, 19 Sept 2026 | PL4STIC WORLD | ACID B4RBIE, PILEA, aitch |
 | Sat, 26 Sept 2026 | Operation Electro | TBA |
 
@@ -20,4 +21,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

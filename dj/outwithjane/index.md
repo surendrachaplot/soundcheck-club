@@ -1,6 +1,6 @@
 # OutWithJane
 
-OutWithJane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Distillery, Leipzig on Fri, 25 Sept 2026.
+OutWithJane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Distillery, Leipzig on Fri, 25 Sept 2026.
 
 OutWithJane is a house and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Leipzig. Often billed alongside T.Schaui, Kalpea and Aio. Next up: Distillery, Leipzig on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ OutWithJane is a house and techno artist based in Germany, tracked on soundcheck
 
 T.Schaui, Kalpea, Aio
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outwithjane/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/outwithjane/)*

@@ -1,6 +1,6 @@
 # Acid Oslo
 
-Acid Oslo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Gare / Le Gore, Paris on Mon, 31 Aug 2026.
+Acid Oslo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at La Gare / Le Gore, Paris on Mon, 31 Aug 2026.
 
 Acid Oslo is a techno and electro artist tracked on soundcheck, with 84 sets logged across Lyon, Paris and Turin. Often billed alongside NEWIN, Ben Manson and Karmakiddo. Next up: La Gare / Le Gore, Paris on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Acid Oslo is a techno and electro artist tracked on soundcheck, with 84 sets log
 
 NEWIN, Ben Manson, Karmakiddo
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidoslo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidoslo/)*

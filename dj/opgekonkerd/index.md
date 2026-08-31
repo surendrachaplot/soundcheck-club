@@ -1,6 +1,6 @@
 # Opgekonkerd
 
-Opgekonkerd is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Terminus, Paris on Sat, 12 Sept 2026.
+Opgekonkerd is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Terminus, Paris on Sat, 12 Sept 2026.
 
 Opgekonkerd is a hardcore and gabber artist tracked on soundcheck, with 7 sets logged across Antwerp, Berlin, Frankfurt and Madrid and 1 more. Often billed alongside Anubis, A² and B+. Next up: Terminus, Paris on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Opgekonkerd is a hardcore and gabber artist tracked on soundcheck, with 7 sets l
 
 Anubis, A², B+
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/opgekonkerd/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/opgekonkerd/)*

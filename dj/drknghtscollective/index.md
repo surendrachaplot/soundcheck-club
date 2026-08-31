@@ -1,6 +1,6 @@
 # DRKNGHTS
 
-DRKNGHTS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Skatecafe, Amsterdam on Fri, 11 Sept 2026.
+DRKNGHTS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Skatecafe, Amsterdam on Fri, 11 Sept 2026.
 
 DRKNGHTS is a techno and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Rotterdam and Utrecht. Often billed alongside ARAKAZA, OG Karin and TWIENA. Next up: Skatecafe, Amsterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DRKNGHTS is a techno and house artist tracked on soundcheck, with 26 sets logged
 
 ARAKAZA, OG Karin, TWIENA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drknghtscollective/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/drknghtscollective/)*

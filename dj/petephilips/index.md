@@ -1,6 +1,6 @@
 # Pete Philips
 
-Pete Philips is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at NWHR, Montreal on Fri, 4 Sept 2026.
+Pete Philips is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at NWHR, Montreal on Fri, 4 Sept 2026.
 
 Pete Philips is a house and techno artist tracked on soundcheck, with 3 sets logged across Montreal and Vancouver. Often billed alongside Siavash, Husa & Zeyada and Mustafa Ismaeel. Next up: NWHR, Montreal on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ Pete Philips is a house and techno artist tracked on soundcheck, with 3 sets log
 
 Siavash, Husa & Zeyada, Mustafa Ismaeel
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petephilips/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/petephilips/)*

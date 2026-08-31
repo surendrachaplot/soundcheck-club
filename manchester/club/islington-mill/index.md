@@ -1,6 +1,6 @@
 # Islington Mill
 
-Islington Mill is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "T4T Monster Ball 2026" on Fri, 23 Oct 2026.
+Islington Mill is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "T4T Monster Ball 2026" on Fri, 23 Oct 2026.
 
 Islington Mill is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Regents Estate, Oldfield Road, M5 4DE.
 
@@ -14,4 +14,4 @@ Islington Mill is a music venue in Manchester listed on soundcheck. 1 upcoming n
 
 Regents Estate, Oldfield Road, M5 4DE, Manchester
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/islington-mill/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/islington-mill/)*

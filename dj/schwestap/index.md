@@ -1,14 +1,13 @@
 # Schwesta P
 
-Schwesta P is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Dürener Badesee, Cologne on Fri, 28 Aug 2026.
+Schwesta P is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
-Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 7 more. Often billed alongside EliaHaze, Anton Jonathan and Carluschka. Next up: Dürener Badesee, Cologne on Fri 28 Aug.
+Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 7 more. Often billed alongside EliaHaze, Anton Jonathan and Carluschka. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Dürener Badesee | Cologne |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Thu, 22 Oct 2026 | Ijver | Amsterdam |
 | Sat, 7 Nov 2026 | Neue Welle | Leipzig |
@@ -29,4 +28,4 @@ Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck
 
 EliaHaze, Anton Jonathan, Carluschka
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*

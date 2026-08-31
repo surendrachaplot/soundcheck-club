@@ -1,14 +1,15 @@
 # Downloadable Content
 
-Downloadable Content is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Downloadable Content is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
-Downloadable Content is a techno and house artist tracked on soundcheck, with 54 sets logged across Munich, Newyorkcity and Tokyo. Often billed alongside Aquatic Themes, Aurora Halal and DJ DEADNAME. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Downloadable Content is a techno and house artist tracked on soundcheck, with 55 sets logged across Munich, Newyorkcity and Tokyo. Often billed alongside Aquatic Themes, Aurora Halal and DJ DEADNAME. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
+| Wed, 16 Sept 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Downloadable Content is a techno and house artist tracked on soundcheck, with 54
 
 Aquatic Themes, Aurora Halal, DJ DEADNAME
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/downloadablecontent/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/downloadablecontent/)*

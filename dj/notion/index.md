@@ -1,6 +1,6 @@
 # Notion
 
-Notion is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+Notion is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 Notion is a garage and house artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -33,4 +33,4 @@ Notion is a garage and house artist based in United Kingdom, tracked on soundche
 
 Oppidan, Conducta, Interplanetary Criminal
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*

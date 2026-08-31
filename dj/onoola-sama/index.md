@@ -1,6 +1,6 @@
 # onoola-sama
 
-onoola-sama is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Stereo, Glasgow on Fri, 18 Sept 2026.
+onoola-sama is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Stereo, Glasgow on Fri, 18 Sept 2026.
 
 onoola-sama is a hip-hop and club artist based in Canada, tracked on soundcheck, with 6 sets logged across Glasgow, London, Marseille and Toronto. Often billed alongside Feroh, AMBRR and Bamao Yendé. Next up: Stereo, Glasgow on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ onoola-sama is a hip-hop and club artist based in Canada, tracked on soundcheck,
 
 Feroh, AMBRR, Bamao Yendé
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onoola-sama/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/onoola-sama/)*

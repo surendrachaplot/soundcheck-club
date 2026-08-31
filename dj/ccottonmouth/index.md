@@ -1,6 +1,6 @@
 # ccottonmouth
 
-ccottonmouth is a Electro and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Cakeshop, Seoul on Fri, 11 Sept 2026.
+ccottonmouth is a Electro and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Cakeshop, Seoul on Fri, 11 Sept 2026.
 
 ccottonmouth is an electro and bass artist based in South Korea, tracked on soundcheck, with 2 sets logged across Seoul. Often billed alongside Excultist, DDD (2) and Mount XLR. Next up: Cakeshop, Seoul on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ ccottonmouth is an electro and bass artist based in South Korea, tracked on soun
 
 Excultist, DDD (2), Mount XLR
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ccottonmouth/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ccottonmouth/)*

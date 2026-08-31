@@ -1,6 +1,6 @@
 # Dom Carlo
 
-Dom Carlo is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Island, Bristol on Sat, 3 Oct 2026.
+Dom Carlo is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Island, Bristol on Sat, 3 Oct 2026.
 
 Dom Carlo is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Bristol, London, Manchester and Nottingham. Often billed alongside Ehua, Mulholland and Pluralist (UK). Next up: The Island, Bristol on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Dom Carlo is a techno and bass artist based in United Kingdom, tracked on soundc
 
 Ehua, Mulholland, Pluralist (UK)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domcarlo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/domcarlo/)*

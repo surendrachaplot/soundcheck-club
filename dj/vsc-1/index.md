@@ -1,6 +1,6 @@
 # VSC (1)
 
-VSC (1) is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun, 13 Sept 2026.
+VSC (1) is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun, 13 Sept 2026.
 
 VSC (1) is a dub and bass artist based in Italy, tracked on soundcheck, with 12 sets logged across Rome. Often billed alongside Mantis (IT), Her Nice Too and Prest. Next up: TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ VSC (1) is a dub and bass artist based in Italy, tracked on soundcheck, with 12 
 
 Mantis (IT), Her Nice Too, Prest
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vsc-1/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vsc-1/)*

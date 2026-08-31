@@ -1,6 +1,6 @@
 # SIRDSAPES
 
-SIRDSAPES is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Laska V21, Riga on Fri, 9 Oct 2026.
+SIRDSAPES is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Laska V21, Riga on Fri, 9 Oct 2026.
 
 SIRDSAPES is a techno and electro artist tracked on soundcheck, with 45 sets logged across Prague, Riga, Tallinn and Warsaw. Often billed alongside Taiga (LV), maniken05 and Queer On Acid. Next up: Laska V21, Riga on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ SIRDSAPES is a techno and electro artist tracked on soundcheck, with 45 sets log
 
 Taiga (LV), maniken05, Queer On Acid
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sirdsapes/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sirdsapes/)*

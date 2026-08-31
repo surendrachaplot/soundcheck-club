@@ -1,6 +1,6 @@
 # Addison Groove
 
-Addison Groove is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Clock Factory, Bristol on Sat, 7 Nov 2026.
+Addison Groove is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Clock Factory, Bristol on Sat, 7 Nov 2026.
 
 Addison Groove is a techno and bass artist tracked on soundcheck, with 57 sets logged across Auckland, Barcelona, Berlin and Brisbane and 22 more. Often billed alongside Sam Binga, Amy Kisnorbo and Danielle. Next up: The Clock Factory, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Addison Groove is a techno and bass artist tracked on soundcheck, with 57 sets l
 
 Sam Binga, Amy Kisnorbo, Danielle
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/addisongroove/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/addisongroove/)*

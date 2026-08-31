@@ -1,6 +1,6 @@
 # Roshan
 
-Roshan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at RASA, Singapore on Fri, 25 Sept 2026.
+Roshan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at RASA, Singapore on Fri, 25 Sept 2026.
 
 Roshan is a house and techno artist based in Malaysia, tracked on soundcheck, with 73 sets logged across Kualalumpur, Leeds, Melbourne and Munich and 2 more. Often billed alongside JonnyVicious, LZZY and Axel Groove. Next up: RASA, Singapore on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Roshan is a house and techno artist based in Malaysia, tracked on soundcheck, wi
 
 JonnyVicious, LZZY, Axel Groove
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roshan/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roshan/)*

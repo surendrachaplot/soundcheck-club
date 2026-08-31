@@ -1,6 +1,6 @@
 # The Russian House
 
-The Russian House is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Platform x Soundcheck presents: Hybrid 003" on Sat, 12 Sept 2026.
+The Russian House is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Platform x Soundcheck presents: Hybrid 003" on Sat, 12 Sept 2026.
 
 The Russian House is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Flat Esoteric, Ivan Kyrov, Lask and Mai Kah and 2 more. Browse upcoming dates, start times and who's playing. 118 Greeves Street, Fitzroy, 3065.
 
@@ -15,4 +15,4 @@ The Russian House is a music venue in Melbourne listed on soundcheck. 2 upcoming
 
 118 Greeves Street, Fitzroy, 3065, Melbourne
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-russian-house/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-russian-house/)*

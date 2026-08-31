@@ -1,6 +1,6 @@
 # MakeCatBleed
 
-MakeCatBleed is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at República Da Música, Lisbon on Sat, 12 Sept 2026.
+MakeCatBleed is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at República Da Música, Lisbon on Sat, 12 Sept 2026.
 
 MakeCatBleed is a hardcore and techno artist tracked on soundcheck, with 7 sets logged across Lisbon and Paris. Often billed alongside shoutz, Anastasiya Ty and Pharah. Next up: República Da Música, Lisbon on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ MakeCatBleed is a hardcore and techno artist tracked on soundcheck, with 7 sets 
 
 shoutz, Anastasiya Ty, Pharah
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makecatbleed/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makecatbleed/)*

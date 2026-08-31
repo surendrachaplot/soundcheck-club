@@ -1,8 +1,8 @@
 # OneAgent
 
-OneAgent is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Tresor / Globus, Berlin on Wed, 9 Sept 2026.
+OneAgent is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tresor / Globus, Berlin on Wed, 9 Sept 2026.
 
-OneAgent is an electronic artist based in Israel, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Blint, One Agent and Victoria Arena. Next up: Tresor / Globus, Berlin on Wed 9 Sept.
+OneAgent is an electronic artist based in Israel, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Blint, jiyun kim and Victoria Arena. Next up: Tresor / Globus, Berlin on Wed 9 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ OneAgent is an electronic artist based in Israel, tracked on soundcheck, with 1 
 
 ## Shares bills with
 
-Blint, One Agent, Victoria Arena
+Blint, jiyun kim, Victoria Arena
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oneagent/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oneagent/)*

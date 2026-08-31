@@ -1,6 +1,6 @@
 # heSAWyou
 
-heSAWyou is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+heSAWyou is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
 heSAWyou is a house and minimal artist based in Mexico, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 1 more. Often billed alongside Alain Hellion, Timid Boy and Anthony Attalla. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ heSAWyou is a house and minimal artist based in Mexico, tracked on soundcheck, w
 
 Alain Hellion, Timid Boy, Anthony Attalla
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hesawyou/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hesawyou/)*

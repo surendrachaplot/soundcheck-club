@@ -1,6 +1,6 @@
 # Tatiana
 
-Tatiana is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Tatiana is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Tatiana is a house and disco artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside Bustin' Loose, Magnolia_ and Crystal Touch. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Tatiana is a house and disco artist tracked on soundcheck, with 95 sets logged a
 
 Bustin' Loose, Magnolia_, Crystal Touch
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiana/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiana/)*

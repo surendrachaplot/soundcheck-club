@@ -1,6 +1,6 @@
 # indiy
 
-indiy is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at ZEROTOKYO, Tokyo on Thu, 3 Sept 2026.
+indiy is a Hip-Hop and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at ZEROTOKYO, Tokyo on Thu, 3 Sept 2026.
 
 indiy is a hip-hop and afrobeats artist tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside MICO, LoversOnly and DJ B2B. Next up: ZEROTOKYO, Tokyo on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ indiy is a hip-hop and afrobeats artist tracked on soundcheck, with 10 sets logg
 
 MICO, LoversOnly, DJ B2B
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indiy/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/indiy/)*

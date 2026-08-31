@@ -1,6 +1,6 @@
 # u.r.trax
 
-u.r.trax is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at The Popstel, Istanbul on Fri, 4 Sept 2026.
+u.r.trax is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Popstel, Istanbul on Fri, 4 Sept 2026.
 
 u.r.trax is a techno and house artist tracked on soundcheck, with 142 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 49 more. Often billed alongside Nina Kraviz, Héctor Oaks and SALOME. Next up: The Popstel, Istanbul on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ u.r.trax is a techno and house artist tracked on soundcheck, with 142 sets logge
 
 Nina Kraviz, Héctor Oaks, SALOME
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/u.r.trax/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/u.r.trax/)*

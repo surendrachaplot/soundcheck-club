@@ -1,6 +1,6 @@
 # Jo-Sie
 
-Jo-Sie is a electronic artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Macarena Club, Barcelona on Mon, 31 Aug 2026.
+Jo-Sie is a electronic artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Macarena Club, Barcelona on Mon, 31 Aug 2026.
 
 Jo-Sie is an electronic artist tracked on soundcheck, with 67 sets logged across Barcelona. Often billed alongside Idriss D, PILAR MOLINERO and Antonio Marrandino. Next up: Macarena Club, Barcelona on Mon 31 Aug.
 
@@ -28,4 +28,4 @@ Jo-Sie is an electronic artist tracked on soundcheck, with 67 sets logged across
 
 Idriss D, PILAR MOLINERO, Antonio Marrandino
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Jo-sie/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Jo-sie/)*

@@ -1,6 +1,6 @@
 # Cerebral Circuits
 
-Cerebral Circuits is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Cerebral Circuits is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Cerebral Circuits is a techno artist tracked on soundcheck, with 10 sets logged across Athens. Often billed alongside Rammvigo, Hudd and 118119. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Cerebral Circuits is a techno artist tracked on soundcheck, with 10 sets logged 
 
 Rammvigo, Hudd, 118119
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cerebralcircuits/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cerebralcircuits/)*

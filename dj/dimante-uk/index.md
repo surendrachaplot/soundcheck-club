@@ -1,8 +1,8 @@
 # Dimanté
 
-Dimanté is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Union Club, Vauxhall, London on Fri, 4 Sept 2026.
+Dimanté is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Union Club, Vauxhall, London on Fri, 4 Sept 2026.
 
-Dimanté is a techno and tech house artist based in Ukraine, tracked on soundcheck, with 1 set logged across London. Often billed alongside Cristian Ebasta, Dimanté and Enrico Chirchiello. Next up: Union Club, Vauxhall, London on Fri 4 Sept.
+Dimanté is a tech house and techno artist based in Ukraine, tracked on soundcheck, with 1 set logged across London. Often billed alongside Picep, Dimanté and Cristian Ebasta. Next up: Union Club, Vauxhall, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Dimanté is a techno and tech house artist based in Ukraine, tracked on soundche
 
 ## Shares bills with
 
-Cristian Ebasta, Dimanté, Enrico Chirchiello
+Picep, Dimanté, Cristian Ebasta
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*

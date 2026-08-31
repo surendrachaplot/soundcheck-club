@@ -1,6 +1,6 @@
-# BLOOD MOON -HARD TECHNO- at Tide Tokyo
+# BLOOD MOON - HARD TECHNO - at Tide Tokyo
 
-BLOOD MOON -HARD TECHNO- at Tide Tokyo on Sat 26 Sept, Tokyo. 3 acts on the bill: DALJAE, KAITO (5) and KATSU (2). Techno and Industrial. Preview the line-up and save it on soundcheck.
+BLOOD MOON - HARD TECHNO - at Tide Tokyo on Sat 26 Sept, Tokyo. 3 acts on the bill: DALJAE, KAITO (5) and KATSU (2). Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

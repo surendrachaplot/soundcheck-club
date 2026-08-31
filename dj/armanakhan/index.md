@@ -1,6 +1,6 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Market Hotel, New York City on Fri, 4 Sept 2026.
+ARMANA KHAN is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Market Hotel, New York City on Fri, 4 Sept 2026.
 
 ARMANA KHAN is a club and techno artist based in United States of America, tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 24 more. Often billed alongside ARCHANGEL (US), Manuka Honey and Meg10. Next up: Market Hotel, Newyorkcity on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ ARMANA KHAN is a club and techno artist based in United States of America, track
 
 ARCHANGEL (US), Manuka Honey, Meg10
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*

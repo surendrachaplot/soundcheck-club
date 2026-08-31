@@ -1,18 +1,17 @@
 # Steelyard Kelham
 
-Steelyard Kelham is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "bullet tooth - Groovebox x Bounded at SteelYard Sheff" on Sun, 30 Aug 2026.
+Steelyard Kelham is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Sidney Charles, Luuk van Dijk & MORE - Groovebox at SteelYard" on Sat, 26 Sept 2026.
 
-Steelyard Kelham is a music venue in Sheffield listed on soundcheck. 2 upcoming nights, with line-ups including Boss Priester, bullet tooth, Emma 2000 and Jhobei and 2 more. Browse upcoming dates, start times and who's playing. The Yard, Bardwell Rd, Neepsend, Sheffield S3 8AS.
+Steelyard Kelham is a music venue in Sheffield listed on soundcheck. 1 upcoming night, with line-ups including Emma 2000, Luuk van Dijk and Sidney Charles. Browse upcoming dates, start times and who's playing. The Yard, Bardwell Rd, Neepsend, Sheffield S3 8AS.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | bullet tooth - Groovebox x Bounded at SteelYard Sheff | Boss Priester, Jhobei, Taylor (UK), bullet tooth |
 | Sat, 26 Sept 2026 | Sidney Charles, Luuk van Dijk & MORE - Groovebox at SteelYard | Emma 2000, Luuk van Dijk, Sidney Charles |
 
 ## Address
 
 The Yard, Bardwell Rd, Neepsend, Sheffield S3 8AS, Sheffield
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/steelyard-kelham/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/steelyard-kelham/)*

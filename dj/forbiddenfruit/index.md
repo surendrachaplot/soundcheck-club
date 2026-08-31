@@ -1,14 +1,13 @@
 # Forbidden Fruit
 
-Forbidden Fruit is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Former Smatch Supermarket, Antwerp on Fri, 28 Aug 2026.
+Forbidden Fruit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club Wintercircus, Ghent on Sat, 7 Nov 2026.
 
-Forbidden Fruit is a house and techno artist tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Nico Juice, WLC (BE) and Deejames. Next up: Former Smatch Supermarket, Antwerp on Fri 28 Aug.
+Forbidden Fruit is a house and techno artist tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Nico Juice, WLC (BE) and Deejames. Next up: Club Wintercircus, Ghent on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | Former Smatch Supermarket | Antwerp |
 | Sat, 7 Nov 2026 | Club Wintercircus | Ghent |
 
 ## Recently played
@@ -26,4 +25,4 @@ Forbidden Fruit is a house and techno artist tracked on soundcheck, with 19 sets
 
 Nico Juice, WLC (BE), Deejames
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forbiddenfruit/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/forbiddenfruit/)*

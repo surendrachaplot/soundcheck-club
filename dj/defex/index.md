@@ -1,6 +1,6 @@
 # Defex
 
-Defex is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Tue, 8 Sept 2026.
+Defex is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Playa Soleil Ibiza, Ibiza on Tue, 8 Sept 2026.
 
 Defex is a house and tech house artist tracked on soundcheck, with 80 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 9 more. Often billed alongside Camilo Miranda, Bushwacka! and S/A/M. Next up: Playa Soleil Ibiza, Ibiza on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ Defex is a house and tech house artist tracked on soundcheck, with 80 sets logge
 
 Camilo Miranda, Bushwacka!, S/A/M
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/defex/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/defex/)*

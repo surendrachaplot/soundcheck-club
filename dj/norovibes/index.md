@@ -1,6 +1,6 @@
 # NORO VIBES
 
-NORO VIBES is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Pluto, Los Angeles on Sun, 4 Oct 2026.
+NORO VIBES is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Pluto, Los Angeles on Sun, 4 Oct 2026.
 
 NORO VIBES is an afro house and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Losangeles. Often billed alongside YASMINA. Next up: Pluto, Losangeles on Sun 4 Oct.
 
@@ -18,4 +18,4 @@ NORO VIBES is an afro house and house artist based in United States of America, 
 
 YASMINA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norovibes/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/norovibes/)*

@@ -1,6 +1,6 @@
 # Karim Soliman
 
-Karim Soliman is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Maassilo, Rotterdam on Sat, 31 Oct 2026.
+Karim Soliman is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Maassilo, Rotterdam on Sat, 31 Oct 2026.
 
 Karim Soliman is a house and tech house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Paris and Rotterdam and 2 more. Often billed alongside Benny Rodrigues, Michel de Hey and MENESIX. Next up: Maassilo, Rotterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Karim Soliman is a house and tech house artist tracked on soundcheck, with 62 se
 
 Benny Rodrigues, Michel de Hey, MENESIX
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karimsoliman/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karimsoliman/)*

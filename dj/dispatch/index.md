@@ -1,6 +1,6 @@
 # Dispatch
 
-Dispatch is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at The Fox and Firkin, London on Fri, 4 Sept 2026.
+Dispatch is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Fox and Firkin, London on Fri, 4 Sept 2026.
 
 Dispatch is a drum & bass and techno artist tracked on soundcheck, with 4 sets logged across Berlin, Liverpool and London. Often billed alongside Upzet, 1985 and 2-C Breaks. Next up: The Fox and Firkin, London on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ Dispatch is a drum & bass and techno artist tracked on soundcheck, with 4 sets l
 
 Upzet, 1985, 2-C Breaks
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dispatch/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dispatch/)*

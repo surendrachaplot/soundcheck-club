@@ -1,14 +1,13 @@
 # Bennet (DE)
 
-Bennet (DE) is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at TBA - Schwing und Stampf Festival, Zurich on Thu, 27 Aug 2026.
+Bennet (DE) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at BRET, Amsterdam on Sat, 12 Sept 2026.
 
-Bennet (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Bennet, Bambounou and Byron Yeates. Next up: TBA - Schwing und Stampf Festival, Zurich on Thu 27 Aug.
+Bennet (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Bennet, Bambounou and Byron Yeates. Next up: BRET, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 27 Aug 2026 | TBA - Schwing und Stampf Festival | Zurich |
 | Sat, 12 Sept 2026 | BRET | Amsterdam |
 | Fri, 2 Oct 2026 | Badaboum | Paris |
 | Fri, 9 Oct 2026 | Shelter Amsterdam | Amsterdam |
@@ -31,4 +30,4 @@ Bennet (DE) is a house and techno artist based in Germany, tracked on soundcheck
 
 Bennet, Bambounou, Byron Yeates
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*

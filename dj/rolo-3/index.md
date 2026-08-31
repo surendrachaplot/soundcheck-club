@@ -1,6 +1,6 @@
 # Rolo (3)
 
-Rolo (3) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at A38, Budapest on Thu, 1 Oct 2026.
+Rolo (3) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at A38, Budapest on Thu, 1 Oct 2026.
 
 Rolo (3) is a house and minimal artist based in Hungary, tracked on soundcheck, with 17 sets logged across Budapest. Often billed alongside Electric Boutique, MöB (1) and Robert Dobak. Next up: A38, Budapest on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Rolo (3) is a house and minimal artist based in Hungary, tracked on soundcheck, 
 
 Electric Boutique, MöB (1), Robert Dobak
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolo-3/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rolo-3/)*

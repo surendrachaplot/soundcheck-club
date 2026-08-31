@@ -1,6 +1,6 @@
 # IANOSH
 
-IANOSH is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Main Club, Milan on Sat, 12 Sept 2026.
+IANOSH is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Main Club, Milan on Sat, 12 Sept 2026.
 
 IANOSH is a techno and psytrance artist tracked on soundcheck, with 14 sets logged across Milan. Often billed alongside IRVØ, TUROTUNZ and DEPA (3). Next up: Main Club, Milan on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ IANOSH is a techno and psytrance artist tracked on soundcheck, with 14 sets logg
 
 IRVØ, TUROTUNZ, DEPA (3)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianosh/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianosh/)*

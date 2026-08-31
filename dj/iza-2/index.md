@@ -1,6 +1,6 @@
 # IZA (2)
 
-IZA (2) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
+IZA (2) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
 
 IZA (2) is a progressive house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Brussels, Hamburg and Leipzig and 1 more. Often billed alongside AALIYAH, Agem and Andi Beat. Next up: Südpol, Hamburg on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ IZA (2) is a progressive house and techno artist based in Germany, tracked on so
 
 AALIYAH, Agem, Andi Beat
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-2/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-2/)*

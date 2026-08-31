@@ -1,14 +1,13 @@
 # Klur
 
-Klur is a Progressive House and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Blique by Nobis Rooftop, Stockholm on Sat, 29 Aug 2026.
+Klur is a Progressive House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at E1, London on Sat, 10 Oct 2026.
 
-Klur is a progressive house and breakbeat artist tracked on soundcheck, with 7 sets logged across Amsterdam, London, Newyorkcity and Stockholm and 1 more. Often billed alongside Estiva, L.GU. and ALLKNIGHT. Next up: Blique by Nobis Rooftop, Stockholm on Sat 29 Aug.
+Klur is a progressive house and breakbeat artist tracked on soundcheck, with 7 sets logged across Amsterdam, London, Newyorkcity and Stockholm and 1 more. Often billed alongside Estiva, L.GU. and ALLKNIGHT. Next up: E1, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Blique by Nobis Rooftop | Stockholm |
 | Sat, 10 Oct 2026 | E1 | London |
 | Thu, 22 Oct 2026 | Toekomstmuziek | Amsterdam |
 
@@ -24,4 +23,4 @@ Klur is a progressive house and breakbeat artist tracked on soundcheck, with 7 s
 
 Estiva, L.GU., ALLKNIGHT
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klur/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klur/)*

@@ -1,6 +1,6 @@
 # roomquake
 
-roomquake is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Azumaya, Tokyo on Mon, 31 Aug 2026.
+roomquake is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Azumaya, Tokyo on Mon, 31 Aug 2026.
 
 roomquake is a techno and bass artist based in Japan, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside Kanamemandala, Seimei and PANICWORKS. Next up: Azumaya, Tokyo on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ roomquake is a techno and bass artist based in Japan, tracked on soundcheck, wit
 
 Kanamemandala, Seimei, PANICWORKS
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roomquake/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roomquake/)*

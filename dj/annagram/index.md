@@ -1,6 +1,6 @@
 # Anna Gram
 
-Anna Gram is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at La Cheetah Club, Glasgow on Sat, 12 Sept 2026.
+Anna Gram is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at La Cheetah Club, Glasgow on Sat, 12 Sept 2026.
 
 Anna Gram is an italo disco and disco artist tracked on soundcheck, with 12 sets logged across Edinburgh, Glasgow and Manchester. Often billed alongside Bonzai Bonner, Belters 4U and LEZZER QUEST. Next up: La Cheetah Club, Glasgow on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Anna Gram is an italo disco and disco artist tracked on soundcheck, with 12 sets
 
 Bonzai Bonner, Belters 4U, LEZZER QUEST
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annagram/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/annagram/)*

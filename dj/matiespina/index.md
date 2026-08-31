@@ -1,6 +1,6 @@
 # Mati Espina
 
-Mati Espina is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 18 Sept 2026.
+Mati Espina is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 18 Sept 2026.
 
 Mati Espina is a house and minimal artist based in Argentina, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Hubz, Agua con gas and Anderson (US). Next up: Bulbul Berlin, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mati Espina is a house and minimal artist based in Argentina, tracked on soundch
 
 Hubz, Agua con gas, Anderson (US)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matiespina/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matiespina/)*

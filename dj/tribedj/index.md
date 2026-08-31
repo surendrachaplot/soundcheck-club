@@ -1,6 +1,6 @@
 # Tribe Dj
 
-Tribe Dj is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Bar22, Amsterdam on Sun, 25 Oct 2026.
+Tribe Dj is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bar22, Amsterdam on Sun, 25 Oct 2026.
 
 Tribe Dj is a techno artist based in Italy, tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin and London. Often billed alongside Luciano Mancini Luke, Paolo Tossio and Erica (IT). Next up: Bar22, Amsterdam on Sun 25 Oct.
 
@@ -21,4 +21,4 @@ Tribe Dj is a techno artist based in Italy, tracked on soundcheck, with 5 sets l
 
 Luciano Mancini Luke, Paolo Tossio, Erica (IT)
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tribedj/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tribedj/)*

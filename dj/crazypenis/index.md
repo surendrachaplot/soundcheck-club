@@ -1,15 +1,13 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Kelvedon Hall, London on Sat, 29 Aug 2026.
+Crazy P is a Disco and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at LDN East, London on Sat, 5 Sept 2026.
 
-Crazy P is a disco and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and MiNNA. Next up: Kelvedon Hall, London on Sat 29 Aug.
+Crazy P is a disco and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and MiNNA. Next up: LDN East, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 29 Aug 2026 | Kelvedon Hall | London |
-| Sat, 29 Aug 2026 | The Downs, Bristol | Bristol |
 | Sat, 5 Sept 2026 | LDN East | London |
 | Wed, 16 Sept 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 19 Sept 2026 | Brick Street | Liverpool |
@@ -33,4 +31,4 @@ Crazy P is a disco and house artist tracked on soundcheck, with 131 sets logged 
 
 DJ Paulette, Luke Una, MiNNA
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*

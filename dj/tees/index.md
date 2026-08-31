@@ -1,6 +1,6 @@
 # Tees
 
-Tees is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 4 Sept 2026.
+Tees is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 4 Sept 2026.
 
 Tees is a house and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside El.Bo and Sands Spheric. Next up: Two Tribes CAMPFIRE, London on Fri 4 Sept.
 
@@ -14,4 +14,4 @@ Tees is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 El.Bo, Sands Spheric
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tees/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tees/)*

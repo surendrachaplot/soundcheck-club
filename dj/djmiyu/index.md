@@ -1,6 +1,6 @@
 # DJ MIYU
 
-DJ MIYU is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Enter Shibuya, Tokyo on Sun, 20 Sept 2026.
+DJ MIYU is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Enter Shibuya, Tokyo on Sun, 20 Sept 2026.
 
 DJ MIYU is a drum & bass and bass artist tracked on soundcheck, with 26 sets logged across Melbourne and Tokyo. Often billed alongside ReFuCafé, SN_Yeah and yuitty. Next up: Enter Shibuya, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ DJ MIYU is a drum & bass and bass artist tracked on soundcheck, with 26 sets log
 
 ReFuCafé, SN_Yeah, yuitty
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmiyu/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djmiyu/)*

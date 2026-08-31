@@ -1,6 +1,6 @@
 # Sala Pirandelo
 
-Sala Pirandelo is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "ITACA LAST SUMMER EDITION WITH Miguel Rivas, NVMB ND P1P3" on Sat, 5 Sept 2026.
+Sala Pirandelo is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "ITACA LAST SUMMER EDITION WITH Miguel Rivas, NVMB ND P1P3" on Sat, 5 Sept 2026.
 
 Sala Pirandelo is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including Miguel Rivas, NVMB and P1P3. Browse upcoming dates, start times and who's playing. Calle de Martín de los Heros, 14; 28008 Madrid; Spain.
 
@@ -15,4 +15,4 @@ Sala Pirandelo is a music venue in Madrid listed on soundcheck. 2 upcoming night
 
 Calle de Martín de los Heros, 14; 28008 Madrid; Spain, Madrid
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-pirandelo/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-pirandelo/)*

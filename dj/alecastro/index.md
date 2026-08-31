@@ -1,6 +1,6 @@
 # Ale Castro
 
-Ale Castro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 30 Aug 2026, next at Golden Gate, Berlin on Thu, 10 Sept 2026.
+Ale Castro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Golden Gate, Berlin on Thu, 10 Sept 2026.
 
 Ale Castro is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Frankie Flowerz, The Checkup and Javier Anxiety. Next up: Golden Gate, Berlin on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Ale Castro is a house and techno artist tracked on soundcheck, with 17 sets logg
 
 Frankie Flowerz, The Checkup, Javier Anxiety
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecastro/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alecastro/)*

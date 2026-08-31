@@ -1,6 +1,6 @@
 # Phonica Records
 
-Phonica Records is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 30 Aug 2026; the next is "Altered State Book Talk" on Wed, 9 Sept 2026.
+Phonica Records is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Altered State Book Talk" on Wed, 9 Sept 2026.
 
 Phonica Records is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Grace Sands. Browse upcoming dates, start times and who's playing. 51 Poland Street; Soho; London W1F 7RJ; United Kingdom.
 
@@ -14,4 +14,4 @@ Phonica Records is a music venue in London listed on soundcheck. 1 upcoming nigh
 
 51 Poland Street; Soho; London W1F 7RJ; United Kingdom, London
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonica-records/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonica-records/)*

@@ -1,6 +1,6 @@
 # Thys
 
-Thys is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Thys is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Thys is a techno and drum & bass artist based in Poland, tracked on soundcheck, with 23 sets logged across Amsterdam, Bali, Berlin and Brighton and 15 more. Often billed alongside Dan Brocksmith, Flowdan and Imanu. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Thys is a techno and drum & bass artist based in Poland, tracked on soundcheck, 
 
 Dan Brocksmith, Flowdan, Imanu
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thys/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thys/)*

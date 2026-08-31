@@ -1,6 +1,6 @@
 # Tapefeed
 
-Tapefeed is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at fabric, London on Sat, 17 Oct 2026.
+Tapefeed is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at fabric, London on Sat, 17 Oct 2026.
 
 Tapefeed is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Boston and Budapest and 9 more. Often billed alongside Anna Wall, Craig Richards and Rene Wise. Next up: fabric, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Tapefeed is a techno and house artist tracked on soundcheck, with 68 sets logged
 
 Anna Wall, Craig Richards, Rene Wise
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tapefeed/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tapefeed/)*

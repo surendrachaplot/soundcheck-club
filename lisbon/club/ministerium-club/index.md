@@ -1,14 +1,13 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 11 upcoming nights listed on soundcheck as of Sun, 30 Aug 2026; the next is "Brunch Electronik x Estrago: Official Afterparty" on Sun, 30 Aug 2026.
+Ministerium Club is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Riktus with LIEKS, BLNK, Angel Karel" on Thu, 3 Sept 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 11 upcoming nights, with line-ups including aalice, Angel Karel, ANÍBAL and apukas and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, with line-ups including aalice, Angel Karel, ANÍBAL and apukas and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 30 Aug 2026 | Brunch Electronik x Estrago: Official Afterparty | BIIA, Freshkitos |
 | Thu, 3 Sept 2026 | Riktus with LIEKS, BLNK, Angel Karel | Angel Karel, BLNK, LIEKS |
 | Fri, 4 Sept 2026 | Art Bei Ton: from Berlin to Lisbon ~ 17 | Hypnotic Black Magic, Luis FMR, Maria Callapez, apukas, ena b. |
 | Sat, 5 Sept 2026 | Cirque x Fuse Records: Mella Dee | DJ Nox, MURI, Mella Dee, Minimart |
@@ -18,9 +17,10 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 11 upcoming ni
 | Fri, 25 Sept 2026 | Ministerium Club // Kevin Saunderson | Kevin Saunderson |
 | Sat, 26 Sept 2026 | 1/4 Escuro x Vault Sessions Second Shift | Client, John Wick, Salbany, aalice |
 | Sun, 4 Oct 2026 | Riktus presents: GAIVEU All Night Long #2 | GAIVEU, Golpe, La Vera Notte, TASSERY |
+| Fri, 9 Oct 2026 | Ministerium Club // Raresh | Raresh |
 
 ## Address
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

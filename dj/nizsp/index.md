@@ -1,6 +1,6 @@
 # NIZ (SP)
 
-NIZ (SP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 30 Aug 2026, next at Nitsa Club, Barcelona on Sat, 5 Sept 2026.
+NIZ (SP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Nitsa Club, Barcelona on Sat, 5 Sept 2026.
 
 NIZ (SP) is a techno and house artist tracked on soundcheck, with 57 sets logged across Barcelona, Madrid and Valencia. Often billed alongside Ana Alves, DAX J and Lucía Gea. Next up: Nitsa Club, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ NIZ (SP) is a techno and house artist tracked on soundcheck, with 57 sets logged
 
 Ana Alves, DAX J, Lucía Gea
 
-*Updated Sun, 30 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nizsp/)*
+*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nizsp/)*
