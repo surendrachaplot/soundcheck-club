@@ -14,7 +14,7 @@ Grow is a music venue in London listed on soundcheck. 11 upcoming nights, with l
 | Sat, 12 Sept 2026 | DeepDig: Patrick Forge // Cosmo Sofi | Cosmo Sofi, Patrick Forge |
 | Fri, 18 Sept 2026 | Rook Records: Mr Redley, Jawa Jones, Tall Nico, Alfie Panaiotis | Alfie Panaiotis, Mr. Redley, Tall Nico |
 | Sat, 19 Sept 2026 | Soul Satisfaction: Max Sinàl // Maria Hanlon | Maria Hanlon, Max Sinàl |
-| Fri, 25 Sept 2026 | DUBMERGE: Moontalk // OKAMI // THEMPRESS | Moontalk, THEMPRESS, ŌKAMI |
+| Fri, 25 Sept 2026 | DUBMERGE: Moontalk // OKAMI // THEMPRESS | Moontalk, OKAMI, THEMPRESS |
 | Sat, 26 Sept 2026 | Kula Colletive: Sticky Dub, donwella, Zafeer | Sticky Dub, donwella |
 | Sat, 3 Oct 2026 | Grow presents: CSGRV & Demacque All Night Long | CSGRV |
 | Sat, 10 Oct 2026 | DeepDig; Stu Clark (Wolf Music) // Lenny | Lenny (UK), Stu Clark, Wolf Music |

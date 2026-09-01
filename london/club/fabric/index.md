@@ -15,9 +15,9 @@ fabric is a music venue in London listed on soundcheck. 28 upcoming nights, with
 | Sat, 12 Sept 2026 | fabric presents Mount Kimbie mix launch: Yu Su, Tijana T, Leo Gosh, DJ Python, Galcher Lustwerk | DJ Python, Galcher Lustwerk, Leo Gosh, Mor Elian, Mount Kimbie, Tijana T, Yu Su |
 | Sun, 13 Sept 2026 | CAYA by fabric: bloop london Radio - 11 Year Anniversary | Alfie, Dean Mir, El Cassar, Elliot Moriarty, Hunter. S, I Like Wires, Joey & OBS, Kanedo, Lake Turner |
 | Fri, 18 Sept 2026 | fabric: Deborah De Luca, Cera Khin, Noise Mafia, MarcelDune  | Cera Khin, Deborah De Luca, MarcelDune, Noise Mafia |
-| Sat, 19 Sept 2026 | fabric: Sam Paganini, Simone Zino, Marco Faraone, Ryan Resso, FIFI FORTE | FIFI FORTE, Marco Faraone, Ryan Resso, Sam Paganini, Simone Zino |
+| Sat, 19 Sept 2026 | fabric: Sam Paganini, Simone Zino, Marco Faraone, FIFI FORTE | FIFI FORTE, Marco Faraone, Ryan Resso, Sam Paganini, Simone Zino |
 | Sun, 20 Sept 2026 | CAYA by fabric - Unity Sound | BALA (3), FITS ME FUNNY, Kittani, Luke Elias, Rocco Han, Sinjin, misschief, samasama |
-| Fri, 25 Sept 2026 | fabric: Kölsch, Ankhoï, Laolu, Sef Kombo, Mayssa, Leeda, Teaser, Jimono B2B The Almanac | Ankhoï, Kolsch, Laolu, Leeda, Mayssa, Sef Kombo, The Almanac |
+| Fri, 25 Sept 2026 | fabric: Kölsch, Ankhoï, Laolu, Sef Kombo, Mayssa, Leeda, Teaser, Jïmono B2B The Almanac | Ankhoï, JÏMONO, Kolsch, Laolu, Leeda, Mayssa, Sef Kombo, The Almanac |
 
 ## Address
 

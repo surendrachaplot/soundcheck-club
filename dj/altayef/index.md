@@ -1,14 +1,14 @@
 # Altayef
 
-Altayef is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Tereza Joanne Boat, London on Fri, 4 Sept 2026.
+Altayef is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Tereza-Joanne Boat, London on Fri, 4 Sept 2026.
 
-Altayef is a techno and downtempo artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Will C, PROFF and Apsara (UK). Next up: Tereza Joanne Boat, London on Fri 4 Sept.
+Altayef is a techno and downtempo artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Will C, PROFF and Apsara (UK). Next up: Tereza-Joanne Boat, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Tereza Joanne Boat | London |
+| Fri, 4 Sept 2026 | Tereza-Joanne Boat | London |
 | Sat, 17 Oct 2026 | Folklore | London |
 
 ## Recently played

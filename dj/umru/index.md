@@ -10,7 +10,7 @@ umru is a club and pop artist based in United States of America, tracked on soun
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Pearl | Vancouver |
 | Thu, 24 Sept 2026 | National Gallery Prague | Prague |
-| Sat, 26 Sept 2026 | Club360 | London |
+| Sat, 26 Sept 2026 | TBA | London |
 | Fri, 6 Nov 2026 | Botanique | Brussels |
 
 ## Recently played

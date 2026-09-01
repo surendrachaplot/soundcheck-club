@@ -1,11 +1,11 @@
-# Eclectic Zoo presents: Kaufmann at Tereza Joanne Boat
+# Eclectic Zoo presents: Kaufmann at Tereza-Joanne Boat
 
-Eclectic Zoo presents: Kaufmann at Tereza Joanne Boat on Fri 4 Sept, London. 4 acts on the bill: Altayef, Dari-A, Innerstice and Kaufmann. Techno. Preview the line-up and save it on soundcheck.
+Eclectic Zoo presents: Kaufmann at Tereza-Joanne Boat on Fri 4 Sept, London. 4 acts on the bill: Altayef, Dari-A, Innerstice and Kaufmann. Techno and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 4 Sept 2026 |
-| Venue | Tereza Joanne Boat |
+| Venue | Tereza-Joanne Boat |
 | City | London |
 
 ## Line-up

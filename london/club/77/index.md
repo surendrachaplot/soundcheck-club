@@ -1,8 +1,8 @@
 # 77
 
-77 is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "FullHouse: Saint Lukez" on Fri, 4 Sept 2026.
+77 is a music venue in London with 9 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "FullHouse: Saint Lukez" on Fri, 4 Sept 2026.
 
-77 is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Darius Syrossian, Duo, FLORA THA EXPLORA and Guy Williams and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Darius Syrossian, Duo, FLORA THA EXPLORA and Guy Williams and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
@@ -14,6 +14,7 @@
 | Sat, 12 Sept 2026 | 77: Zakes Bantwini | Zakes Bantwini |
 | Thu, 17 Sept 2026 | No Permission x MAX&Co. — London Fashion Week Edition | REMIXIA, Wolfram |
 | Sat, 19 Sept 2026 | 77: DEB FA | Duo, Kidflo |
+| Sat, 26 Sept 2026 | 77: Vanco | Vanco |
 | Fri, 9 Oct 2026 | 77: Novak & Vidojean | Novak |
 | Sat, 24 Oct 2026 | Pyra x Residents presents: A House on Fire II @ 77 |  |
 

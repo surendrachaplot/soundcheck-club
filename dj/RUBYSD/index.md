@@ -1,13 +1,14 @@
 # Ruby SD
 
-Ruby SD is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
+Ruby SD is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Next Door Records Two, London on Fri, 18 Sept 2026.
 
-Ruby SD is a breakbeat and electro artist tracked on soundcheck, with 45 sets logged across Birmingham, Bristol, Hamburg and Leeds and 2 more. Often billed alongside Son of Paul, Birrell and Bunney. Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
+Ruby SD is an electro and techno artist tracked on soundcheck, with 46 sets logged across Birmingham, Bristol, Hamburg and Leeds and 2 more. Often billed alongside Son of Paul, Birrell and Bunney. Next up: Next Door Records Two, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Next Door Records Two | London |
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played

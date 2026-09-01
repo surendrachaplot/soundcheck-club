@@ -9,7 +9,7 @@ AMANDA SZE is a garage and bass artist tracked on soundcheck, with 8 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Jazz Cafe | London |
-| Sat, 26 Sept 2026 | Club360 | London |
+| Sat, 26 Sept 2026 | TBA | London |
 
 ## Recently played
 
