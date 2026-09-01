@@ -1,6 +1,6 @@
 # RAVE-LIFE 1 at Acud Macht NEU
 
-RAVE-LIFE 1 at Acud Macht NEU on Sun 6 Sept, Berlin. 4 acts on the bill: DJ GHEPARD, DJ Hristos, griefeater and Simoncello. Techno and Post-Punk. Preview the line-up and save it on soundcheck.
+RAVE-LIFE 1 at Acud Macht NEU on Sun 6 Sept, Berlin. 5 acts on the bill: DJ GHEPARD, DJ Hristos, griefeater and lokik and 1 more. Techno and Post-Punk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ RAVE-LIFE 1 at Acud Macht NEU on Sun 6 Sept, Berlin. 4 acts on the bill: DJ GHEP
 - DJ GHEPARD
 - DJ Hristos
 - griefeater
+- lokik
 - Simoncello
 
 *Source: [soundcheck](https://soundcheck.club/e/2523799-rave-life-1-at-acud-macht-neu/)*

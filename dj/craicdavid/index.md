@@ -1,14 +1,15 @@
 # CRAIC DAVID
 
-CRAIC DAVID is a Footwork and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rebellion, Manchester on Fri, 2 Oct 2026.
+CRAIC DAVID is a Footwork and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Rebellion, Manchester on Fri, 2 Oct 2026.
 
-CRAIC DAVID is a footwork and hardcore artist tracked on soundcheck, with 20 sets logged across Leeds, London and Manchester. Often billed alongside Big Dope P, sohotsospicy and Mia Moto. Next up: Rebellion, Manchester on Fri 2 Oct.
+CRAIC DAVID is a footwork and hardcore artist tracked on soundcheck, with 21 sets logged across Leeds, London and Manchester. Often billed alongside Big Dope P, sohotsospicy and Mia Moto. Next up: Rebellion, Manchester on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Rebellion | Manchester |
+| Fri, 16 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 

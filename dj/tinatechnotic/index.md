@@ -1,14 +1,15 @@
 # Tina Technotic
 
-Tina Technotic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Distillery N17, London on Fri, 25 Sept 2026.
+Tina Technotic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Distillery N17, London on Fri, 25 Sept 2026.
 
-Tina Technotic is a techno and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Berlin, London and Vienna. Often billed alongside Yukari, Kazuki Takahashi and Emilion Dollar Baby. Next up: Distillery N17, London on Fri 25 Sept.
+Tina Technotic is a techno and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin, London, Madrid and Vienna. Often billed alongside Yukari, Kazuki Takahashi and Emilion Dollar Baby. Next up: Distillery N17, London on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Distillery N17 | London |
+| Thu, 1 Oct 2026 | Teatro Eslava | Madrid |
 
 ## Recently played
 

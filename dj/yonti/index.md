@@ -1,13 +1,14 @@
 # Yonti
 
-Yonti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
+Yonti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
 
-Yonti is a techno and house artist based in Germany, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Roi Perez, Blasha & Allatt and Rachel Noon. Next up: Ex Fabrica de Harina Anden Tacuba, Mexicocity on Sat 31 Oct.
+Yonti is a techno and house artist based in Germany, tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Roi Perez, Blasha & Allatt and Rachel Noon. Next up: Tresor / Globus, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Tresor / Globus | Berlin |
 | Sat, 31 Oct 2026 | Ex Fabrica de Harina Anden Tacuba | Mexico City |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Handmade
 
-Handmade is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
+Handmade is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
 
-Handmade is a techno and house artist based in Germany, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 15 more. Often billed alongside VCO, Madalba and Kingsizebed. Next up: Südpol, Hamburg on Fri 4 Sept.
+Handmade is a techno and house artist based in Germany, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 15 more. Often billed alongside VCO, Madalba and Kingsizebed. Next up: Südpol, Hamburg on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Handmade is a techno and house artist based in Germany, tracked on soundcheck, w
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Südpol | Hamburg |
 | Fri, 11 Sept 2026 | Renate | Berlin |
+| Sat, 17 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

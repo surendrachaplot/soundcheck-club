@@ -1,8 +1,8 @@
 # babxi
 
-babxi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Crack Bellmer, Berlin on Sat, 12 Sept 2026.
+babxi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Crack Bellmer, Berlin on Sat, 12 Sept 2026.
 
-babxi is a house and techno artist based in Canada, tracked on soundcheck, with 105 sets logged across Berlin, Cologne, Hamburg and Newyorkcity. Often billed alongside Seemless, Don Andres and Martin Meyer. Next up: Crack Bellmer, Berlin on Sat 12 Sept.
+babxi is a house and techno artist based in Canada, tracked on soundcheck, with 106 sets logged across Berlin, Cologne, Hamburg and Newyorkcity. Often billed alongside Seemless, Don Andres and Martin Meyer. Next up: Crack Bellmer, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ babxi is a house and techno artist based in Canada, tracked on soundcheck, with 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Crack Bellmer | Berlin |
 | Fri, 25 Sept 2026 | Golden Gate | Berlin |
+| Sat, 17 Oct 2026 | OST | Berlin |
 
 ## Recently played
 

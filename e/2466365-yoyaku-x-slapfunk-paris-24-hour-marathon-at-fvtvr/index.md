@@ -1,6 +1,6 @@
 # Yoyaku x SlapFunk Paris 24 hour Marathon at Fvtvr
 
-Yoyaku x SlapFunk Paris 24 hour Marathon at Fvtvr on Sat 12 Sept, Paris. 16 acts on the bill: A.M. Project, DJ Senc, Doudou MD and Dr. Rubinstein and 12 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Yoyaku x SlapFunk Paris 24 hour Marathon at Fvtvr on Sat 12 Sept, Paris. 18 acts on the bill: A.M. Project, DJ Senc, Doudou MD and Dr. Rubinstein and 14 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,11 +18,13 @@ Yoyaku x SlapFunk Paris 24 hour Marathon at Fvtvr on Sat 12 Sept, Paris. 16 acts
 - Ellen Allien
 - Garrett David
 - Krol
+- Labouts
 - Laidlaw
 - Lea Occhi
 - Margaret Dygas
 - Mari.te
 - Samuel Deep
+- Satoshi Tomiie
 - Sonja Moonear
 - Woddd
 - Zeina

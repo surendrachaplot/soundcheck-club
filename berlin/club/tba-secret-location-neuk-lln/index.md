@@ -1,8 +1,8 @@
-# TBA - secret location - NEUKÖLLN
+# TBA - Secret location Neukölln
 
-TBA - secret location - NEUKÖLLN is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Ritmo de la Noche Vol. 4" on Sat, 12 Sept 2026.
+TBA - Secret location Neukölln is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Ritmo de la Noche Vol. 4" on Sat, 12 Sept 2026.
 
-TBA - secret location - NEUKÖLLN is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including DJ Dios, Francisco Nada, FRÆNCIS and JENKA and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret location Neukölln is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including DJ Dios, Francisco Nada, FRÆNCIS and JENKA and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

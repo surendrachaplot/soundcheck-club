@@ -1,6 +1,6 @@
 # Giri x TM - 25Sommervorbei at Giri
 
-Giri x TM - 25Sommervorbei on Thu 17 Sept, Berlin. Preview the line-up and save it on soundcheck.
+Giri x TM - 25Sommervorbei on Thu 17 Sept, Berlin. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

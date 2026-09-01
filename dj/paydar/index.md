@@ -1,14 +1,15 @@
 # PAYDAR
 
-PAYDAR is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Fållan, Stockholm on Sat, 19 Sept 2026.
+PAYDAR is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fållan, Stockholm on Sat, 19 Sept 2026.
 
-PAYDAR is a club and experimental artist tracked on soundcheck, with 21 sets logged across Bangkok, Berlin, Copenhagen and Hamburg and 2 more. Often billed alongside Dj Paydar, CHAMOS and Gavnlig. Next up: Fållan, Stockholm on Sat 19 Sept.
+PAYDAR is a club and electronica artist tracked on soundcheck, with 22 sets logged across Bangkok, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Dj Paydar, CHAMOS and Gavnlig. Next up: Fållan, Stockholm on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Fållan | Stockholm |
+| Fri, 16 Oct 2026 | Colour Factory | London |
 
 ## Recently played
 

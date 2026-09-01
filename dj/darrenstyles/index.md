@@ -1,14 +1,15 @@
 # Darren Styles
 
-Darren Styles is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Darren Styles is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Darren Styles is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Aberdeen, Birmingham, Brighton and Edinburgh and 10 more. Often billed alongside Hixxy, Gammer and Showtek. Next up: NOS Event Center, Losangeles on Fri 30 Oct.
+Darren Styles is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Aberdeen, Birmingham, Brighton and Edinburgh and 10 more. Often billed alongside Hixxy, Gammer and Showtek. Next up: NOS Event Center, Losangeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

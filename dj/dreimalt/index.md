@@ -1,8 +1,8 @@
 # Dreimal T
 
-Dreimal T is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 5 Sept 2026.
+Dreimal T is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 5 Sept 2026.
 
-Dreimal T is a techno and trance artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Leipzig, Munich and Warsaw. Often billed alongside degen, Leone Knight and mole (2). Next up: TBA - Secret Location, Berlin on Sat 5 Sept.
+Dreimal T is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Leipzig, Munich and Warsaw. Often billed alongside degen, Leone Knight and mole (2). Next up: TBA - Secret Location, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dreimal T is a techno and trance artist based in Germany, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA - Secret Location | Berlin |
 | Sat, 19 Sept 2026 | Paloma | Berlin |
+| Fri, 2 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

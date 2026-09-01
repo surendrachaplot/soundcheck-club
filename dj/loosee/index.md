@@ -1,8 +1,8 @@
 # Loose E
 
-Loose E is a Garage and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Oran Mor, Glasgow on Tue, 15 Sept 2026.
+Loose E is a Garage and Jungle artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Oran Mor, Glasgow on Tue, 15 Sept 2026.
 
-Loose E is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Edinburgh, Glasgow and London. Often billed alongside 3-Lix, Emiliooo and Orla Halligan. Next up: Oran Mor, Glasgow on Tue 15 Sept.
+Loose E is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Edinburgh, Glasgow and London. Often billed alongside 3-Lix, Emiliooo and Orla Halligan. Next up: Oran Mor, Glasgow on Tue 15 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Loose E is a garage and jungle artist based in United Kingdom, tracked on soundc
 | Thu, 17 Sept 2026 | The Berkeley Suite | Glasgow |
 | Thu, 24 Sept 2026 | Stereo | Glasgow |
 | Sat, 3 Oct 2026 | SWG3 | Glasgow |
+| Sat, 10 Oct 2026 | Stereo | Glasgow |
 
 ## Recently played
 

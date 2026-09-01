@@ -1,6 +1,6 @@
 # Katernacht + 30 Years of Mira with Harry Romero, Lulah Francs, Rotciv + more at Kater
 
-Katernacht + 30 Years of Mira with Harry Romero, Lulah Francs, Rotciv + more on Sat 26 Sept, Berlin. 12 acts on the bill: Anjawah, Beatina, eira haul and Harry Romero and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
+Katernacht + 30 Years of Mira with Harry Romero, Lulah Francs, Rotciv + more on Sat 26 Sept, Berlin. 13 acts on the bill: Anjawah, Beatina, eira haul and Harry Romero and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ Katernacht + 30 Years of Mira with Harry Romero, Lulah Francs, Rotciv + more on 
 - Lulah Francs
 - Melanie Havens
 - Mira
+- Moderna
 - Peter Schumann
 - Rotciv
 - SAM AROHA

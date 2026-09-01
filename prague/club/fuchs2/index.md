@@ -16,7 +16,7 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming nights, with
 | Fri, 18 Sept 2026 | SEASON OPENING: Fuchs2 x Bike Jesus | Alfred Czital, DC Salas, DDK (1), Dash (CZ), LULU (1), Midirama, Misha Jaru, Miss Univers, Perc, SJ Yellow, TRANSmisia, Zuzana Hakl, domizako, mʊdʌki |
 | Sat, 19 Sept 2026 | hereandthere x Spectrum Waves: open-air day & night | Adamatron, Arthur Robert, Fake Agent, Lea Occhi, Maria Politi, Natalie Robinson, Pink Concrete, RÆZA, SOTTOH, aláya |
 | Sat, 26 Sept 2026 | X-RAY: Roll Deep | Dj Alyaz, Double J, JohnyM, Manga Saint Hilare, Noir, Riko Dan, Sir Free, fahell |
-| Sat, 3 Oct 2026 | GEGEN PRAGUE |  |
+| Sat, 3 Oct 2026 | GEGEN PRAGUE | Cristian Marras, Mar/us, Samantha Togni, jardabpm |
 | Sat, 10 Oct 2026 | mʊdʌki INVITES Samurai Breaks | Dj Alyaz, Samurai Breaks, mʊdʌki |
 
 ## Address

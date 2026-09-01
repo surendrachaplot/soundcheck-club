@@ -1,8 +1,8 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Floyd, Miami on Fri, 4 Sept 2026.
+DXNBY is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Floyd, Miami on Fri, 4 Sept 2026.
 
-DXNBY is a house and tech house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: Floyd, Miami on Fri 4 Sept.
+DXNBY is a house and tech house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: Floyd, Miami on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ DXNBY is a house and tech house artist tracked on soundcheck, with 116 sets logg
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 26 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 2 Oct 2026 | World Headquarters | Newcastle |
+| Thu, 22 Oct 2026 | The Bulldog Palace | Amsterdam |
 | Sat, 7 Nov 2026 | Mint XL | Leeds |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
 

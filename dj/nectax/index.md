@@ -1,14 +1,15 @@
 # Nectax
 
-Nectax is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Cause, London on Sat, 5 Sept 2026.
+Nectax is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Cause, London on Sat, 5 Sept 2026.
 
-Nectax is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 14 more. Often billed alongside melba, Sketchy Rida and DJ Flight. Next up: The Cause, London on Sat 5 Sept.
+Nectax is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 14 more. Often billed alongside melba, Sketchy Rida and DJ Flight. Next up: The Cause, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | The Cause | London |
+| Fri, 16 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 

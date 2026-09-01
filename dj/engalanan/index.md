@@ -1,13 +1,14 @@
 # ENGALANAN
 
-ENGALANAN is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
+ENGALANAN is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Razzmatazz, Barcelona on Fri, 18 Sept 2026.
 
-ENGALANAN is a techno and club artist based in Spain, tracked on soundcheck, with 67 sets logged across Athens, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside softchaos, M8NSE and Acidnena. Next up: KREUZWERK, Berlin on Fri 25 Sept.
+ENGALANAN is a techno and club artist based in Spain, tracked on soundcheck, with 68 sets logged across Athens, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside softchaos, M8NSE and Acidnena. Next up: Razzmatazz, Barcelona on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Razzmatazz | Barcelona |
 | Fri, 25 Sept 2026 | KREUZWERK | Berlin |
 
 ## Recently played

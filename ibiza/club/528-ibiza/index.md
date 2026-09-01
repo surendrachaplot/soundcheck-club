@@ -12,7 +12,7 @@
 | Thu, 3 Sept 2026 | MINISTRY OF SOUND | Benji B, Dan Shake, Louie Vega, Paisley Jensen, Reelow |
 | Fri, 4 Sept 2026 | Gaskin's Bass Jamz Ibiza | Archie Hamilton, Boss Priester, Ellam, Ellia Jaya, Gaskin, Locky |
 | Sat, 5 Sept 2026 | PIKES PRESENTS AT 528 WITH Hunee b2b Erol Alkan b2b Luke Una | CC:DISCO!, Claudio Ricci, Defex, Elisa Elisa, Erol Alkan, Forest (PL), Hunee, Luca Averna, Luke Una, Paula Tape |
-| Tue, 8 Sept 2026 | PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO | Bushwacka!, Ceri, Cici, Forest (PL), Groove Armada, Prosumer, TEED |
+| Tue, 8 Sept 2026 | PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO | Bushwacka!, Ceri, Cici, Forest (PL), Groove Armada, Mia Lypso, Prosumer, TEED |
 | Sat, 12 Sept 2026 | PIKES PRESENTS AT 528 WITH Kruder & Dorfmeister | Defex, Funk D'Void, George FitzGerald, Kruder & Dorfmeister, TSODOR |
 | Sun, 13 Sept 2026 | NEXUP with Max Dean | Max Dean |
 | Tue, 15 Sept 2026 | PIKES PRESENTS AT 528 X DETROIT LOVE | Carl Craig, Mirko Loko, Ryan O Gorman |

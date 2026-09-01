@@ -1,14 +1,15 @@
 # LUMA (UK)
 
-LUMA (UK) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 4 Sept 2026.
+LUMA (UK) is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 4 Sept 2026.
 
-LUMA (UK) is a bass and club artist tracked on soundcheck, with 35 sets logged across Brighton, London and Newcastle. Often billed alongside Aisha Mirza, Calm Stiege and Fita. Next up: Nico's Bar at Hackney Bridge, London on Fri 4 Sept.
+LUMA (UK) is a bass and club artist tracked on soundcheck, with 36 sets logged across Brighton, London and Newcastle. Often billed alongside Aisha Mirza, Calm Stiege and Fita. Next up: Nico's Bar at Hackney Bridge, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Nico's Bar at Hackney Bridge | London |
+| Fri, 16 Oct 2026 | Colour Factory | London |
 
 ## Recently played
 

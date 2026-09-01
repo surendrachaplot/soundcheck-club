@@ -1,13 +1,14 @@
 # Tina Tornade
 
-Tina Tornade is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Lieu Unique / Nantes, Nantes on Sat, 10 Oct 2026.
+Tina Tornade is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Glazart, Paris on Sun, 20 Sept 2026.
 
-Tina Tornade is a techno and bass artist tracked on soundcheck, with 45 sets logged across Nantes, Paris and Strasbourg. Often billed alongside KUSS, Alys LF and Or'l. Next up: Le Lieu Unique / Nantes, Nantes on Sat 10 Oct.
+Tina Tornade is a techno and bass artist tracked on soundcheck, with 46 sets logged across Nantes, Paris and Strasbourg. Often billed alongside KUSS, Alys LF and Or'l. Next up: Glazart, Paris on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | Glazart | Paris |
 | Sat, 10 Oct 2026 | Le Lieu Unique / Nantes | Nantes |
 
 ## Recently played

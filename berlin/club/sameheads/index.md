@@ -16,7 +16,7 @@ Sameheads is a music venue in Berlin listed on soundcheck. 12 upcoming nights, w
 | Fri, 11 Sept 2026 | The Mission | Esther Dune |
 | Sat, 12 Sept 2026 | HEADZOO with Tomoki Tamura | Courtney Bailey, Tomoki Tamura, Yuzo Iwata |
 | Sat, 19 Sept 2026 | Sambol Grind - Sambol Foundation Fundraiser | Ike, MPeach, Nive, Perera Elsewhere, SETH DS |
-| Fri, 25 Sept 2026 | ((echon)) pres. Morgan Buckley (Wah Wah Wino, UK) Live | Capablanca, Diamin |
+| Fri, 25 Sept 2026 | ((echon)) pres. Morgan Buckley (Wah Wah Wino) Live | Capablanca, Diamin |
 | Sat, 26 Sept 2026 | Big Wide World of Smells | ALF CHAMPION, Ngly, Niklas Wandt, jewelry |
 
 ## Address

@@ -1,8 +1,8 @@
 # Mia Cecille
 
-Mia Cecille is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Gaffe, London on Sat, 5 Sept 2026.
+Mia Cecille is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Gaffe, London on Sat, 5 Sept 2026.
 
-Mia Cecille is a house and techno artist based in Netherlands, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Marie K (1), Daan Donk and 42nd Avenue. Next up: Gaffe, London on Sat 5 Sept.
+Mia Cecille is a house and techno artist based in Netherlands, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 14 more. Often billed alongside Marie K (1), Daan Donk and 42nd Avenue. Next up: Gaffe, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mia Cecille is a house and techno artist based in Netherlands, tracked on soundc
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Gaffe | London |
 | Fri, 18 Sept 2026 | CLUB RAUM | Amsterdam |
+| Sat, 3 Oct 2026 | De Fik Garden | Amsterdam |
 
 ## Recently played
 

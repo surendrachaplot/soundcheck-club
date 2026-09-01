@@ -1,13 +1,14 @@
 # quest?onmarq
 
-quest?onmarq is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The White Hotel, Manchester on Sat, 10 Oct 2026.
+quest?onmarq is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
 
-quest?onmarq is a techno and club artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Brussels and Manchester and 3 more. Often billed alongside Miss Italia, Nadia Struiwigh and Dj handbag. Next up: The White Hotel, Manchester on Sat 10 Oct.
+quest?onmarq is a techno and club artist based in United States of America, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Brussels and Manchester and 3 more. Often billed alongside Nadia Struiwigh, MAEDON and Miss Italia. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Tresor / Globus | Berlin |
 | Sat, 10 Oct 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -23,6 +24,6 @@ quest?onmarq is a techno and club artist based in United States of America, trac
 
 ## Shares bills with
 
-Miss Italia, Nadia Struiwigh, Dj handbag
+Nadia Struiwigh, MAEDON, Miss Italia
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/questonmarc/)*

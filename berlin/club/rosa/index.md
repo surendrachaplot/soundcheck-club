@@ -9,7 +9,7 @@ ROSA is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with li
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | 10 YEARS OF Klub Verboten x BERLIN |  |
-| Sat, 19 Sept 2026 | LIBIDOH █ 5 years █ new venue | Amo (IT), An Chen, DJ Traytex, ELOISA, Erebos, Hocki, Nanzhen Yang, Samantha Togni, maedchenballern |
+| Sat, 19 Sept 2026 | LIBIDOH █ 5 years █ new venue | Amo (IT), An Chen, DJ Traytex, ELOISA, Erebos, Hocki, Nanzhen Yang, Samantha Togni, Sekt auf Eis, maedchenballern |
 | Sat, 3 Oct 2026 | Klub Verboten x BERLIN |  |
 
 ## Address

@@ -1,8 +1,8 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 28 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Milkshake, Ministry Of Sound - London's Biggest Student Night" on Tue, 1 Sept 2026.
+Ministry Of Sound is a music venue in London with 29 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Milkshake, Ministry Of Sound - London's Biggest Student Night" on Tue, 1 Sept 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Alastair Lane, Alex Mills, Amtrac and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 29 upcoming nights, with line-ups including Alastair Lane, Alex Mills, Amtrac and Anderdox and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 

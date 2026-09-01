@@ -1,6 +1,6 @@
 # SECRET RAVE - ABANDONED BUILDING - 3 STAGES - 32 DJs at TBA
 
-SECRET RAVE - ABANDONED BUILDING - 3 STAGES - 32 DJs at TBA on Fri 18 Sept, Warsaw. 6 acts on the bill: harder danny, Józef Keuner, kieniewicz and Medzz and 2 more. Trance and Bass. Preview the line-up and save it on soundcheck.
+SECRET RAVE - ABANDONED BUILDING - 3 STAGES - 32 DJs at TBA on Fri 18 Sept, Warsaw. 7 acts on the bill: Casper Weiss, harder danny, Józef Keuner and kieniewicz and 3 more. Trance and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SECRET RAVE - ABANDONED BUILDING - 3 STAGES - 32 DJs at TBA on Fri 18 Sept, Wars
 
 ## Line-up
 
+- Casper Weiss
 - harder danny
 - Józef Keuner
 - kieniewicz

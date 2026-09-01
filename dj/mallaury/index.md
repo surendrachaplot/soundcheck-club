@@ -1,14 +1,15 @@
 # MALLAURY
 
-MALLAURY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at nachbar, Amsterdam on Sat, 5 Sept 2026.
+MALLAURY is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at nachbar, Amsterdam on Sat, 5 Sept 2026.
 
-MALLAURY is a house and techno artist based in France, tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Paris and Rotterdam and 1 more. Often billed alongside Passion DEEZ, Cinnaman and Deez. Next up: nachbar, Amsterdam on Sat 5 Sept.
+MALLAURY is a house and techno artist based in France, tracked on soundcheck, with 37 sets logged across Amsterdam, Antwerp, Paris and Rotterdam and 1 more. Often billed alongside Passion DEEZ, Cinnaman and Deez. Next up: nachbar, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | nachbar | Amsterdam |
+| Sat, 19 Sept 2026 | dubble | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 
 ## Recently played

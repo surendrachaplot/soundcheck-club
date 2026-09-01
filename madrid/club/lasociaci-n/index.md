@@ -13,7 +13,7 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming nights,
 | Fri, 18 Sept 2026 | ArkAbyss | ADRI.G, Trasto |
 | Fri, 25 Sept 2026 | Ego-Trip with Ben Kamal, Hermética | Ben Kamal, HERMETICA, Varo (ES) |
 | Sat, 26 Sept 2026 | Selected Records Showcase | Angelo Stasi, G4G0, Gabriel D'or & Bordoy |
-| Fri, 2 Oct 2026 | Bunkers Collective TBA |  |
+| Fri, 2 Oct 2026 | Bunkers Collective w / Victor, Marius Bø & Montse B2B KATIA | KATIA, Marius Bø, Montse |
 | Fri, 16 Oct 2026 | DARKMASS Lasociaciøn /// TICKETS PROMO  |  |
 | Sat, 17 Oct 2026 | 100x100 Techno Rentrée |  |
 

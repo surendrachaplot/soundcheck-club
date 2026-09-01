@@ -11,7 +11,7 @@ Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with li
 | Fri, 4 Sept 2026 | Fvtvr INVITES: Jimi Jules, RAG | Jimi Jules, RAG |
 | Sat, 5 Sept 2026 | Fvtvr INVITES KEY VINYL: Freddy K EXTENDED SET, Beste Hira | Beste Hira, Freddy K |
 | Fri, 11 Sept 2026 | Fvtvr X KALT: DVS1, Philippa Pacho, CHILL | Chill (FR), DVS1, Philippa Pacho |
-| Sat, 12 Sept 2026 | Yoyaku x SlapFunk Paris 24 hour Marathon | A.M. Project, DJ Senc, Doudou MD, Dr. Rubinstein, Dyed Soundorom, Ellen Allien, Garrett David, Krol, Laidlaw, Lea Occhi, Margaret Dygas, Mari.te, Samuel Deep, Sonja Moonear, Woddd, Zeina |
+| Sat, 12 Sept 2026 | Yoyaku x SlapFunk Paris 24 hour Marathon | A.M. Project, DJ Senc, Doudou MD, Dr. Rubinstein, Dyed Soundorom, Ellen Allien, Garrett David, Krol, Labouts, Laidlaw, Lea Occhi, Margaret Dygas, Mari.te, Samuel Deep, Satoshi Tomiie, Sonja Moonear, Woddd, Zeina |
 | Sat, 12 Sept 2026 | Transgenik | BAUGRUPPE90, Luke Hovey, TOXIMAMI |
 | Fri, 18 Sept 2026 | The Third Room: 32H | .VRIL, Ahmet Sisman, Call Super, Christian AB, Fadi Mohem, Felix Fleer, Fred P, Isabel Soto, Nastia Reigel, ORBE, Oscar Mulero, Psyk, Rami Chami, Tauceti (FR), abs8lute |
 | Fri, 25 Sept 2026 | imagine FAMILY: Lamache ALL NIGHT LONG | Lamache |

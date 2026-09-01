@@ -9,7 +9,7 @@ River's King is a music venue in Paris listed on soundcheck. 2 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 1 Sept 2026 | DISCO DISCO CROISIÈRE: Donna Gibson, Young Pulse | Donna Gibson, Young Pulse |
-| Tue, 8 Sept 2026 | CLOSING DISCO DISCO CROISIÈRE : Dusty Fingers, La Gloria | Dusty Fingers |
+| Tue, 8 Sept 2026 | CLOSING DISCO DISCO CROISIÈRE : Young Pulse, La Gloria | Dusty Fingers, Young Pulse |
 
 ## Address
 

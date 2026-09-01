@@ -9,7 +9,7 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | B48 LIVE x THE GROOVE TELLERS | Freeka, Pullär |
-| Fri, 4 Sept 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Mancaro, UNER |
+| Fri, 4 Sept 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Mancaro, OTRODIEGO, UNER |
 | Sat, 5 Sept 2026 | TRANSITION |  |
 | Thu, 10 Sept 2026 | B48 live x BEHIND | Bucle, Golden (2), KRYTE |
 | Fri, 11 Sept 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience |  |

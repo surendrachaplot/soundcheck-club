@@ -10,7 +10,7 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 18 upcoming nights, 
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | BORS COLECTIVE OPEN DECKS: Monar, R333, Sockrates & Icyrxber, Tony Surk, Yulius  |  |
 | Fri, 4 Sept 2026 | AXIOM CLUBBING: Xpansul, R1TON, Súper Pä, Sfhir | R1TON, Súper Pä, Xpansul |
-| Sat, 5 Sept 2026 | BOSSA: Lulo, Julio Machicado, Héctor Pericet, Grau, Rguinea | Héctor Pericet, Julio Machicado |
+| Sat, 5 Sept 2026 | BOSSA: Lulo, Julio Machicado, Héctor Pericet, Grau, Rguinea | Grau (ES), Héctor Pericet, Julio Machicado |
 | Sun, 6 Sept 2026 | RIOT CLUB: Alviker, Arok Shiva, Leofix | Alviker, Arok Shiva, Leofix |
 | Thu, 10 Sept 2026 | THE PLATFORM PRODUCTIONS X LEWRI: Restinga, Blackwa, Oumoukala, Mojé, Ajoke | Restinga |
 | Fri, 11 Sept 2026 | PHARMAZY: Ribé, Yeiks, Javier Klash, Dyans, Lebo | Dyans, Javier Klash, Ribé, Yeiks |

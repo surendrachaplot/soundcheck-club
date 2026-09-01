@@ -1,6 +1,6 @@
 # Glücks-Modus at Beate Uwe
 
-Glücks-Modus at Beate Uwe on Fri 11 Sept, Berlin. 5 acts on the bill: Antonio Pérez, Coyo (Berlin), Johnny Gutmann and MKLY and 1 more. House. Preview the line-up and save it on soundcheck.
+Glücks-Modus at Beate Uwe on Fri 11 Sept, Berlin. 6 acts on the bill: Antonio Pérez, Coyo (Berlin), Johnny Gutmann and MKLY and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ Glücks-Modus at Beate Uwe on Fri 11 Sept, Berlin. 5 acts on the bill: Antonio P
 - Johnny Gutmann
 - MKLY
 - Monika Punanski
+- Simba.Mbino
 
 *Source: [soundcheck](https://soundcheck.club/e/2502422-gl-cks-modus-at-beate-uwe/)*

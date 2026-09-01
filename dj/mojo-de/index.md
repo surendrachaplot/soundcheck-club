@@ -1,8 +1,8 @@
-# mojo (DE)
+# mojo
 
-mojo (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Renate, Berlin on Fri, 4 Sept 2026.
+mojo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Renate, Berlin on Fri, 4 Sept 2026.
 
-mojo (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 9 more. Often billed alongside Waldymoto, Ariel (DE) and Anna Konda. Next up: Renate, Berlin on Fri 4 Sept.
+mojo is a techno and house artist based in Germany, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 9 more. Often billed alongside Waldymoto, Ariel (DE) and Anna Konda. Next up: Renate, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 

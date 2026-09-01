@@ -1,8 +1,8 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Smote (UK), Codex Serafini (UK)" on Thu, 3 Sept 2026.
+Neue Zukunft is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Smote (UK), Codex Serafini (UK)" on Thu, 3 Sept 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming nights.
 | Wed, 14 Oct 2026 | Dazzling Killmen (US), Prophet & Flesh |  |
 | Sun, 25 Oct 2026 | Lagrimas (US), ONLY, Greetings From |  |
 | Fri, 27 Nov 2026 | BLUES BUMPS: THE DARTS (US) + support // Berlin Neue Zukunft |  |
+| Mon, 30 Nov 2026 | Lost In Kyiv (FR / Pelagic Rec.) |  |
 
 ## Address
 

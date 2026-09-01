@@ -1,8 +1,8 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 12 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Remember Them Days: Crazy Cousinz & Donch" on Fri, 4 Sept 2026.
+Brixton Jamm is a music venue in London with 13 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Remember Them Days: Crazy Cousinz & Donch" on Fri, 4 Sept 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Crazy Cousinz, DJ SS, Donch and Harry Wilson and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including Benny Page, CHICCA, Crazy Cousinz and Deekline and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 

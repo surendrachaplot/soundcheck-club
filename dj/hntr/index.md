@@ -1,13 +1,15 @@
 # HNTR
 
-HNTR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+HNTR is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
-HNTR is a techno and house artist tracked on soundcheck, with 40 sets logged across Austin, Boston, Chicago and Cologne and 17 more. Often billed alongside DÉTOLLY, Eli Brown and Adam Beyer. Next up: The Concourse Project, Austin on Fri 13 Nov.
+HNTR is a techno and house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Austin, Boston and Chicago and 18 more. Often billed alongside DÉTOLLY, Eli Brown and Adam Beyer. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
+| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Sat, 14 Nov 2026 | City Market | Los Angeles |
 

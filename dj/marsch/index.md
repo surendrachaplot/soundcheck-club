@@ -1,14 +1,15 @@
 # Marsch
 
-Marsch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
+Marsch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
-Marsch is a techno and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Leipzig and Manchester and 2 more. Often billed alongside KETCH, Black Mirror Park and MYRA (NL). Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
+Marsch is a techno and house artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Leipzig and Manchester and 2 more. Often billed alongside KETCH, Black Mirror Park and MYRA (NL). Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
+| Sat, 24 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

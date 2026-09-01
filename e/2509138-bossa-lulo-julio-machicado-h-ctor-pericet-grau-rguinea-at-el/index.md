@@ -1,6 +1,6 @@
 # BOSSA: Lulo, Julio Machicado, Héctor Pericet, Grau, Rguinea at EL SÓTANO
 
-BOSSA: Lulo, Julio Machicado, Héctor Pericet, Grau, Rguinea at EL SÓTANO on Sat 5 Sept, Madrid. 2 acts on the bill: Héctor Pericet and Julio Machicado. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+BOSSA: Lulo, Julio Machicado, Héctor Pericet, Grau, Rguinea at EL SÓTANO on Sat 5 Sept, Madrid. 3 acts on the bill: Grau (ES), Héctor Pericet and Julio Machicado. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BOSSA: Lulo, Julio Machicado, Héctor Pericet, Grau, Rguinea at EL SÓTANO on Sa
 
 ## Line-up
 
+- Grau (ES)
 - Héctor Pericet
 - Julio Machicado
 

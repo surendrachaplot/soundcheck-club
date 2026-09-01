@@ -1,13 +1,14 @@
 # IKIIR
 
-IKIIR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Gaffe, London on Sat, 17 Oct 2026.
+IKIIR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 12 Sept 2026.
 
-IKIIR is a techno and house artist tracked on soundcheck, with 35 sets logged across London and Milan. Often billed alongside ARMANDO, Luca Armando and Hertz Collision. Next up: Gaffe, London on Sat 17 Oct.
+IKIIR is a techno and house artist tracked on soundcheck, with 36 sets logged across London and Milan. Often billed alongside ARMANDO, Luca Armando and Hertz Collision. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Sat, 17 Oct 2026 | Gaffe | London |
 | Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
 

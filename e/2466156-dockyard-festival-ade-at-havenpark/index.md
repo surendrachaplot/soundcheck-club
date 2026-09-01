@@ -1,11 +1,33 @@
 # Dockyard Festival ADE at Havenpark
 
-Dockyard Festival ADE at Havenpark on Sat 24 Oct, Amsterdam. Trance and Techno. Preview the line-up and save it on soundcheck.
+Dockyard Festival ADE at Havenpark on Sat 24 Oct, Amsterdam. 19 acts on the bill: Benny Rodrigues, BLANKA, DAX J and DJ EZ and 15 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 24 Oct 2026 |
 | Venue | Havenpark |
 | City | Amsterdam |
+
+## Line-up
+
+- Benny Rodrigues
+- BLANKA
+- DAX J
+- DJ EZ
+- DJ Heartstring
+- Ely Oaks
+- Fiene
+- Helena Lauwaert
+- HI-LO
+- HNTR
+- Jen Cardini
+- Joran van Pol
+- Oscar Mulero
+- Partiboi69
+- Rayzir
+- Space 92
+- Supergloss
+- SYREETA
+- Yanamaste
 
 *Source: [soundcheck](https://soundcheck.club/e/2466156-dockyard-festival-ade-at-havenpark/)*

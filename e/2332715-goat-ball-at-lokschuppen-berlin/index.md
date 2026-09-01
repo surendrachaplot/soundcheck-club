@@ -1,6 +1,6 @@
 # GOAT BALL at Lokschuppen Berlin
 
-GOAT BALL at Lokschuppen Berlin on Sat 31 Oct, Berlin. 4 acts on the bill: Krash Cora, Shanixx, Stinny Stone and TERRA TWIINS. Trance and Techno. Preview the line-up and save it on soundcheck.
+GOAT BALL at Lokschuppen Berlin on Sat 31 Oct, Berlin. 5 acts on the bill: Krash Cora, Noise Mafia, Shanixx and Stinny Stone and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ GOAT BALL at Lokschuppen Berlin on Sat 31 Oct, Berlin. 4 acts on the bill: Krash
 ## Line-up
 
 - Krash Cora
+- Noise Mafia
 - Shanixx
 - Stinny Stone
 - TERRA TWIINS

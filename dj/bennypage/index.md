@@ -1,8 +1,8 @@
 # Benny Page
 
-Benny Page is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Howler, Melbourne on Sat, 19 Sept 2026.
+Benny Page is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Howler, Melbourne on Sat, 19 Sept 2026.
 
-Benny Page is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Bangkok, Birmingham and Boston and 14 more. Often billed alongside Deekline, Navigator and Burt Cope. Next up: Howler, Melbourne on Sat 19 Sept.
+Benny Page is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Bangkok, Birmingham and Boston and 14 more. Often billed alongside Deekline, Navigator and Burt Cope. Next up: Howler, Melbourne on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Benny Page is a drum & bass and jungle artist based in United Kingdom, tracked o
 | Sat, 19 Sept 2026 | Howler | Melbourne |
 | Sat, 17 Oct 2026 | Jumunjy Bar | London |
 | Fri, 23 Oct 2026 | Audio | Glasgow |
+| Fri, 30 Oct 2026 | Brixton Jamm | London |
 
 ## Recently played
 

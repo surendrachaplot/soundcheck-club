@@ -9,10 +9,10 @@ City Hall is a music venue in Barcelona listed on soundcheck. 17 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 1 Sept 2026 | KHALI Dj SET ALL NIGHT LONG at SECRET ROOM II Hard Techno II DOWNLOAD YOUR FREE PASS |  |
-| Wed, 2 Sept 2026 | City Hall pres. FIEBRE COUPLE EDITION · DOWNLOAD YOUR FREE PASS |  |
-| Wed, 2 Sept 2026 | ROLO x ROBERTA Dj SET at SECRET ROOM // DOWNLOAD YOUR FREE PASS |  |
+| Wed, 2 Sept 2026 | City Hall pres. FIEBRE COUPLE EDITION · HARD TECHNO SET l LAST FREE PASS |  |
+| Wed, 2 Sept 2026 | ROLO x ROBERTA Dj SET at SECRET TECHNO ROOM // DOWNLOAD YOUR FREE PASS |  |
 | Thu, 3 Sept 2026 | City Hall pres. DAVE.IT AKA BUENRI x 10th ANNIVERSARY of TECHNOPOLIS / LAST FREE PASS | DAVE IT aka BUENRI, Djomby, Efren Kairos, RAGE AMORETTY |
-| Fri, 4 Sept 2026 | City Hall pres. VOID at SECRET ROOM // FRIDAY | SZABØ |
+| Fri, 4 Sept 2026 | City Hall pres. VOID at SECRET ROOM // TECHNO SET I FREE PASS | SZABØ |
 | Sat, 5 Sept 2026 | City Hall pres. METODI by AQV x PÜR society x ERASER | BRU ON, Benja Millan, Fat-P, Gastón quibel, Giuliano, METODI |
 | Tue, 8 Sept 2026 | City Hall pres. BOILER ROOM · DOWNLOAD YOUR FREE PASS |  |
 | Wed, 9 Sept 2026 | MAKI NOVA at SECRET ROOM · DOWNLOAD YOUR FREE PASS |  |

@@ -1,14 +1,15 @@
 # DJ Millz
 
-DJ Millz is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Fire, London on Sat, 26 Sept 2026.
+DJ Millz is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fire, London on Sat, 26 Sept 2026.
 
-DJ Millz is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Bangkok, Brighton, Bristol and London. Often billed alongside Nicky Blackmarket, Nicky B and Charlotte Devaney. Next up: Fire, London on Sat 26 Sept.
+DJ Millz is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Bangkok, Brighton, Bristol and London. Often billed alongside Nicky Blackmarket, Nicky B and Charlotte Devaney. Next up: Fire, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Fire | London |
+| Fri, 30 Oct 2026 | Brixton Jamm | London |
 
 ## Recently played
 

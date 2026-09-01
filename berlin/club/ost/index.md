@@ -1,8 +1,8 @@
 # OST
 
-OST is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Savory - Techno Every Thursday" on Thu, 3 Sept 2026.
+OST is a music venue in Berlin with 27 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Savory - Techno Every Thursday" on Thu, 3 Sept 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 27 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 

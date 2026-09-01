@@ -1,6 +1,6 @@
 # BRM Agency & Barbur Room pres. ADE Friday Night Showcase at TBA - 50:HERTZ HOUSE & TECHNO CLUB
 
-BRM Agency & Barbur Room pres. ADE Friday Night Showcase at TBA - 50:HERTZ HOUSE & TECHNO CLUB on Fri 23 Oct, Amsterdam. 5 acts on the bill: Barbur, Franz Matthews, Ornery and POLS and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+BRM Agency & Barbur Room pres. ADE Friday Night Showcase at TBA - 50:HERTZ HOUSE & TECHNO CLUB on Fri 23 Oct, Amsterdam. 6 acts on the bill: Barbur, Franz Matthews, NDNA and Ornery and 2 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ BRM Agency & Barbur Room pres. ADE Friday Night Showcase at TBA - 50:HERTZ HOUSE
 
 - Barbur
 - Franz Matthews
+- NDNA
 - Ornery
 - POLS
 - Underspreche

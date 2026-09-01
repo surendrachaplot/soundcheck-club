@@ -1,8 +1,8 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 4 Sept 2026.
+Yanamaste is a Techno and House artist with 23 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 4 Sept 2026.
 
-Yanamaste is a techno and house artist tracked on soundcheck, with 220 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Studio Club Malaga, Malaga on Fri 4 Sept.
+Yanamaste is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Studio Club Malaga, Malaga on Fri 4 Sept.
 
 ## Upcoming shows
 

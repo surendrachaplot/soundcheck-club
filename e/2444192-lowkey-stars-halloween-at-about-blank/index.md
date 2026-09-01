@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ HALLOWEEN at ://about blank
 
-★ LOWKEY STARS ☆ HALLOWEEN at ://about blank on Fri 30 Oct, Berlin. 19 acts on the bill: Anna Hoeber, antyo, Bambii and Bélavie and 15 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+★ LOWKEY STARS ☆ HALLOWEEN at ://about blank on Fri 30 Oct, Berlin. 20 acts on the bill: Anna Hoeber, antyo, Bambii and Bélavie and 16 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@
 - Dino S
 - DJ Spaßgetränk
 - EVYA
+- L.OST
 - LEIA (2)
 - M O N A (US)
 - MAD.MOD

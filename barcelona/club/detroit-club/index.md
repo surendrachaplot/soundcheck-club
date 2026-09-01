@@ -9,7 +9,7 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 8 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Bootleg Vinyl Night: The Lady Machine, Radial, Serkin, DJ Bruce Lee | DJ Bruce Lee, Radial, Serkin, The Lady Machine |
-| Sat, 5 Sept 2026 | VOLTAGE x DETROIT (FREE before 1.00h) | ERØXX, MMartinez, Rowsi, m4rküse |
+| Sat, 5 Sept 2026 | VOLTAGE x DETROIT | ERØXX, MMartinez, Rowsi, m4rküse |
 | Sat, 12 Sept 2026 | Resonance | Kleyver Reyes |
 | Fri, 18 Sept 2026 | Techno_MINCODE_ NICOLAS CETINA Invites: SVRECA  - YULIËN | Nicolas Cetina., Svreca, Yuliën |
 | Sat, 19 Sept 2026 | EKLIPSE pres. Toobris | TBA, Toobris |

@@ -1,6 +1,6 @@
 # Klangangriff Label Night at Monarch
 
-Klangangriff Label Night at Monarch on Sat 5 Sept, Berlin. 4 acts on the bill: A_Phan, MERS, Natasha Moreno and Yakkushi. Techno. Preview the line-up and save it on soundcheck.
+Klangangriff Label Night at Monarch on Sat 5 Sept, Berlin. 4 acts on the bill: A_Phan, Natasha Moreno, Numero 6 and Yakkushi. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Klangangriff Label Night at Monarch on Sat 5 Sept, Berlin. 4 acts on the bill: A
 ## Line-up
 
 - A_Phan
-- MERS
 - Natasha Moreno
+- Numero 6
 - Yakkushi
 
 *Source: [soundcheck](https://soundcheck.club/e/2518336-klangangriff-label-night-at-monarch/)*

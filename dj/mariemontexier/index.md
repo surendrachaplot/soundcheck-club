@@ -1,8 +1,8 @@
 # Marie Montexier
 
-Marie Montexier is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
+Marie Montexier is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
 
-Marie Montexier is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside DVS1, Ryan Elliott and Anetha. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
+Marie Montexier is a techno and house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside DVS1, Ryan Elliott and Anetha. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marie Montexier is a techno and house artist tracked on soundcheck, with 214 set
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 23 Sept 2026 | 528 Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | DURO | Milan |
 | Sat, 26 Sept 2026 | DURO | Milan |
 | Sat, 10 Oct 2026 | Q35 WAREHOUSE | Turin |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |

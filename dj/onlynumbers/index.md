@@ -1,8 +1,8 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at 131 Mccormack St, Toronto on Sun, 6 Sept 2026.
+Onlynumbers is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at 131 Mccormack St, Toronto on Sun, 6 Sept 2026.
 
-Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside NOVAH, Basswell and Fantasm. Next up: 131 Mccormack St, Toronto on Sun 6 Sept.
+Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside NOVAH, Basswell and Fantasm. Next up: 131 Mccormack St, Toronto on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Onlynumbers is a techno and hardcore artist tracked on soundcheck, with 71 sets 
 | Sat, 19 Sept 2026 | Arzenal | Budapest |
 | Thu, 8 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
+| Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

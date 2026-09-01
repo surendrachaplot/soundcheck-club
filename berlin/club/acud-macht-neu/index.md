@@ -9,7 +9,7 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 5 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | GIALO NIGHT |  |
-| Sun, 6 Sept 2026 | RAVE-LIFE 1 | DJ GHEPARD, DJ Hristos, Simoncello, griefeater |
+| Sun, 6 Sept 2026 | RAVE-LIFE 1 | DJ GHEPARD, DJ Hristos, Simoncello, griefeater, lokik |
 | Fri, 11 Sept 2026 | BOUNCE UP |  |
 | Sat, 26 Sept 2026 | Letzte Welle #5 | Testbild |
 | Sat, 3 Oct 2026 | LEYA / Berlin Concert | LEYA |

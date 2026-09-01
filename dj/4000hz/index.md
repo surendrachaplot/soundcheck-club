@@ -1,14 +1,15 @@
 # 4000 Hz
 
-4000 Hz is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Virage, Paris on Fri, 4 Sept 2026.
+4000 Hz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Virage, Paris on Fri, 4 Sept 2026.
 
-4000 Hz is a trance and techno artist tracked on soundcheck, with 10 sets logged across Berlin, London and Paris. Often billed alongside AREA ØNE, Abdénord and Athina. Next up: Virage, Paris on Fri 4 Sept.
+4000 Hz is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin, London, Manchester and Paris. Often billed alongside AREA ØNE, 2FEL and Abdénord. Next up: Virage, Paris on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Virage | Paris |
+| Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@
 
 ## Shares bills with
 
-AREA ØNE, Abdénord, Athina
+AREA ØNE, 2FEL, Abdénord
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4000hz/)*

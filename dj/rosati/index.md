@@ -1,14 +1,15 @@
 # Rosati
 
-Rosati is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Amsterdam on Fri, 2 Oct 2026.
+Rosati is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Amsterdam on Fri, 2 Oct 2026.
 
-Rosati is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Steffi, Comrade Winston and DVS1. Next up: TBA, Amsterdam on Fri 2 Oct.
+Rosati is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Berlin and Brussels and 21 more. Often billed alongside Steffi, Comrade Winston and DVS1. Next up: TBA, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA | Amsterdam |
+| Sat, 17 Oct 2026 | Tresor / Globus | Berlin |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 
 ## Recently played
