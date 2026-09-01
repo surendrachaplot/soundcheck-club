@@ -1,8 +1,8 @@
 # Funkhaus Berlin
 
-Funkhaus Berlin is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Crushed Now–After Turning // Beyond Presence" on Sun, 13 Sept 2026.
+Funkhaus Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Crushed Now–After Turning // Beyond Presence" on Sun, 13 Sept 2026.
 
-Funkhaus Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Alva Noto and Ryuichi Sakamoto. Browse upcoming dates, start times and who's playing. Nalepastraße 18, 12459 Berlin.
+Funkhaus Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Alva Noto, Bendik Giske, Dustin Zahn and GORDI (1) and 2 more. Browse upcoming dates, start times and who's playing. Nalepastraße 18, 12459 Berlin.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Funkhaus Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming nigh
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Crushed Now–After Turning // Beyond Presence |  |
 | Sat, 26 Sept 2026 | Ryuichi Sakamoto Opus (Audiophile Screening) | Alva Noto, Ryuichi Sakamoto |
+| Sat, 10 Oct 2026 | PEOPLE Festival | Bendik Giske, Dustin Zahn, GORDI (1), Helado Negro, Jeremy Black, Kaitlyn Aurelia Smith, Liam Mour, Lucinda Chua, MA (39), Peder Mannerfelt, Peter Broderick, Tomas Crow |
 
 ## Address
 

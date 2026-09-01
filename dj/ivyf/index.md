@@ -1,13 +1,14 @@
 # Ivy F
 
-Ivy F is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Dundee Arms, Bethnal Green, London on Sat, 26 Sept 2026.
+Ivy F is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Club Cheek, London on Fri, 18 Sept 2026.
 
-Ivy F is a house and techno artist tracked on soundcheck, with 8 sets logged across Amsterdam and London. Often billed alongside teleopath, ASHTREY and Aiden Francis. Next up: The Dundee Arms, Bethnal Green, London on Sat 26 Sept.
+Ivy F is a house and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam and London. Often billed alongside teleopath, ASHTREY and Aiden Francis. Next up: Club Cheek, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Club Cheek | London |
 | Sat, 26 Sept 2026 | The Dundee Arms, Bethnal Green | London |
 
 ## Recently played

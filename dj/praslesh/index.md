@@ -1,13 +1,14 @@
 # Praslesh
 
-Praslesh is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Liverpool on Sat, 31 Oct 2026.
+Praslesh is a Minimal and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at FOLD, London on Fri, 30 Oct 2026.
 
-Praslesh is a minimal and house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 5 more. Often billed alongside Praslea, Raresh and Sonja Moonear. Next up: TBA, Liverpool on Sat 31 Oct.
+Praslesh is a minimal and techno artist tracked on soundcheck, with 22 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 5 more. Often billed alongside Praslea, Raresh and Sonja Moonear. Next up: FOLD, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | FOLD | London |
 | Sat, 31 Oct 2026 | TBA | Liverpool |
 
 ## Recently played

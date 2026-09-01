@@ -15,7 +15,7 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 21 upcoming n
 | Fri, 11 Sept 2026 | Oszillation x Villa Wumms | AHAB, Anna Almani, Südstern, Toke12, guttation |
 | Sat, 12 Sept 2026 | KNEIPENKLÄNGE /// BOX OFFICE 15€ | Carotin, DJ Buona Sara, DJ Sweedee, HØLLE (2), Lisatrix, M1RABELLE, Plattenlieferant, S.3000, tamarawrx3 |
 | Tue, 15 Sept 2026 | Open Decks & Tischtennis |  |
-| Sat, 19 Sept 2026 | FLIGHTMODE | Arnaud Denzler, Dr. Sud, Lobo (DE), Monsai, Ten Fingerz, __iwana__, elliephunk |
+| Sat, 19 Sept 2026 | FLIGHTMODE | Arnaud Denzler, Dr. Sud, Lobo (DE), Monsai, Rakla Maté (2), Ten Fingerz, __iwana__, elliephunk |
 | Tue, 22 Sept 2026 | Open Decks & Tischtennis |  |
 | Tue, 29 Sept 2026 | Open Decks & Tischtennis |  |
 

@@ -1,8 +1,8 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Boschetti Reali Monza , Milan on Thu, 3 Sept 2026.
+Raresh is a House and Minimal artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Boschetti Reali Monza , Milan on Thu, 3 Sept 2026.
 
-Raresh is a house and minimal artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: TBA - Boschetti Reali Monza , Milan on Thu 3 Sept.
+Raresh is a house and minimal artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: TBA - Boschetti Reali Monza , Milan on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Raresh is a house and minimal artist tracked on soundcheck, with 191 sets logged
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Ministerium Club | Lisbon |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
+| Fri, 30 Oct 2026 | FOLD | London |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # CMK (DE)
 
-CMK (DE) is a Electro and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Else, Berlin on Sat, 19 Sept 2026.
+CMK (DE) is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at ciao ciao Bar, Berlin on Fri, 11 Sept 2026.
 
-CMK (DE) is an electro and hip-hop artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Alfandi, Linus Villa and Isaiah (NL). Next up: Else, Berlin on Sat 19 Sept.
+CMK (DE) is an electro and house artist tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Alfandi, Linus Villa and Isaiah (NL). Next up: ciao ciao Bar, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | ciao ciao Bar | Berlin |
 | Sat, 19 Sept 2026 | Else | Berlin |
 
 ## Recently played

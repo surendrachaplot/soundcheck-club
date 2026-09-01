@@ -1,8 +1,8 @@
 # Gaffe
 
-Gaffe is a music venue in London with 17 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "thumbprint 5 years ⋆ 𖤓 ⋆˚࿔ day to night, to day" on Sat, 5 Sept 2026.
+Gaffe is a music venue in London with 18 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "thumbprint 5 years ⋆ 𖤓 ⋆˚࿔ day to night, to day" on Sat, 5 Sept 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, 3 Minds and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, 3 Minds and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 10 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "SELECTOR: House vs UK Garage (FREE ENTRY)" on Thu, 3 Sept 2026.
+Club Makossa is a music venue in London with 11 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "SELECTOR: House vs UK Garage (FREE ENTRY)" on Thu, 3 Sept 2026.
 
-Club Makossa is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Anna Kiss, Aruna, Bella Rysk and DJ4BLUE and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
+Club Makossa is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Anna Kiss, Aruna, Bella Rysk and DJ4BLUE and 2 more. Browse upcoming dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
 ## What's on
 

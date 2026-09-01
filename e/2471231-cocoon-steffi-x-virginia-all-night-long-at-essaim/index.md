@@ -1,6 +1,6 @@
-# cocoon - Steffi X Virginia - all night long at essaim
+# cocoon - Steffi x Virginia - all night long at essaim
 
-cocoon - Steffi X Virginia - all night long at essaim on Sat 26 Sept, Paris. 2 acts on the bill: Steffi and Virginia. Techno. Preview the line-up and save it on soundcheck.
+cocoon - Steffi x Virginia - all night long at essaim on Sat 26 Sept, Paris. 2 acts on the bill: Steffi and Virginia. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

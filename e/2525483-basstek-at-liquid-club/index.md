@@ -1,6 +1,6 @@
-# BASSTEK at Liquid Club
+# ✰BASSTEK✰ at Liquid Club
 
-BASSTEK at Liquid Club on Fri 9 Oct, Malta. Preview the line-up and save it on soundcheck.
+✰BASSTEK✰ at Liquid Club on Fri 9 Oct, Malta. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

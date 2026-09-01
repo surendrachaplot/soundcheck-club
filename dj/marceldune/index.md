@@ -1,8 +1,8 @@
 # MarcelDune
 
-MarcelDune is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at KREUZWERK, Berlin on Sat, 5 Sept 2026.
+MarcelDune is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at KREUZWERK, Berlin on Sat, 5 Sept 2026.
 
-MarcelDune is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, ASHTREY and Gloria Rose. Next up: KREUZWERK, Berlin on Sat 5 Sept.
+MarcelDune is a techno and house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Athens, Berlin and Brighton and 11 more. Often billed alongside Amphia, ASHTREY and Gloria Rose. Next up: KREUZWERK, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ MarcelDune is a techno and house artist tracked on soundcheck, with 63 sets logg
 | Sat, 5 Sept 2026 | KREUZWERK | Berlin |
 | Fri, 18 Sept 2026 | fabric | London |
 | Sat, 3 Oct 2026 | The Cause | London |
+| Fri, 16 Oct 2026 | Mia Mao | Paris |
 
 ## Recently played
 

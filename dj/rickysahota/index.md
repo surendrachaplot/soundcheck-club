@@ -1,14 +1,15 @@
 # Ricky Sahota
 
-Ricky Sahota is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Basing House, London on Fri, 4 Sept 2026.
+Ricky Sahota is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Basing House, London on Fri, 4 Sept 2026.
 
-Ricky Sahota is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Ibiza and London. Often billed alongside Beezo, JAYDAA and Shenin Amara. Next up: Basing House, London on Fri 4 Sept.
+Ricky Sahota is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Amsterdam, Ibiza and London. Often billed alongside Beezo, JAYDAA and Shenin Amara. Next up: Basing House, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Basing House | London |
+| Sat, 5 Sept 2026 | Egg London | London |
 
 ## Recently played
 

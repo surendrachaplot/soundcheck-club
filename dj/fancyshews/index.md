@@ -1,0 +1,28 @@
+# Fancy Shews
+
+Fancy Shews is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Cheek, London on Fri, 18 Sept 2026.
+
+Fancy Shews is a house and techno artist tracked on soundcheck, with 18 sets logged across Berlin, Brighton, Cardiff and London and 2 more. Often billed alongside FAFF, Angel D'lite and David Elimelech. Next up: Club Cheek, London on Fri 18 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 18 Sept 2026 | Club Cheek | London |
+
+## Recently played
+
+- The Roses of Elagabalus, London — Sat, 22 Aug 2026
+- The Golden Lion, Manchester — Sat, 25 Jul 2026
+- Jacobs Basement, Cardiff — Sat, 13 Jun 2026
+- Southwark Park, London — Sun, 24 Aug 2025
+- Patterns, Brighton — Fri, 1 Aug 2025
+- The Yard, London — Sat, 15 Feb 2025
+- The Carpet Shop, London — Fri, 17 Jan 2025
+- Good Room, New York City — Sat, 11 Jan 2025
+
+## Shares bills with
+
+FAFF, Angel D'lite, David Elimelech
+
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fancyshews/)*

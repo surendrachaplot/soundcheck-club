@@ -1,8 +1,8 @@
 # Monkey Safari
 
-Monkey Safari is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Newcastle Australia, Newcastle on Fri, 25 Sept 2026.
+Monkey Safari is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Newcastle Australia, Newcastle on Fri, 25 Sept 2026.
 
-Monkey Safari is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 30 more. Often billed alongside Einmusik, Surreal Flight and ELIF. Next up: TBA - Newcastle Australia, Newcastle on Fri 25 Sept.
+Monkey Safari is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 30 more. Often billed alongside Einmusik, Surreal Flight and ELIF. Next up: TBA - Newcastle Australia, Newcastle on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Monkey Safari is a house and techno artist tracked on soundcheck, with 104 sets 
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Sun, 27 Sept 2026 | Revolver Upstairs | Melbourne |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
+| Sat, 14 Nov 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 

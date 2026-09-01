@@ -8,7 +8,7 @@ BORIS CLUB is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Boris presents LILU - FREE TICKETS |  |
+| Fri, 4 Sept 2026 | Boris presents LILU - FREE TICKETS | MARAU, Taha Malki |
 | Sat, 5 Sept 2026 | Boris Saturday - FREE TICKETS | Blind Mind, JE·ROME, Jessy, K:ROL |
 | Fri, 11 Sept 2026 | Boris CLÉO x KAIRO pres: ALEX TWIN |  |
 | Sat, 12 Sept 2026 | Boris Saturday |  |

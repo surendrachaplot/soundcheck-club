@@ -1,6 +1,6 @@
 # Calibre at The Roundhouse
 
-Calibre at The Roundhouse on Sat 21 Nov, London. Drum & Bass. Preview the line-up and save it on soundcheck.
+Calibre at The Roundhouse on Sat 21 Nov, London. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

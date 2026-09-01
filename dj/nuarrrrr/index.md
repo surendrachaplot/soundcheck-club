@@ -1,13 +1,14 @@
 # nuarrrrr
 
-nuarrrrr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Marmorbar, Berlin on Fri, 18 Sept 2026.
+nuarrrrr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Renate, Berlin on Sun, 6 Sept 2026.
 
-nuarrrrr is a house and techno artist tracked on soundcheck, with 115 sets logged across Berlin, Brussels, Krakow and Warsaw. Often billed alongside Nadezh No, Sava (3) and Aslamin. Next up: Marmorbar, Berlin on Fri 18 Sept.
+nuarrrrr is a house and techno artist tracked on soundcheck, with 116 sets logged across Berlin, Brussels, Krakow and Warsaw. Often billed alongside Nadezh No, Sava (3) and Aslamin. Next up: Renate, Berlin on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | Renate | Berlin |
 | Fri, 18 Sept 2026 | Marmorbar | Berlin |
 
 ## Recently played

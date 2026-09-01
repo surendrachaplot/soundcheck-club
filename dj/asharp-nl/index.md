@@ -1,14 +1,16 @@
 # Alex Sharp
 
-Alex Sharp is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at WestWeelde, Amsterdam on Sun, 6 Sept 2026.
+Alex Sharp is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at John Doe, Amsterdam on Fri, 4 Sept 2026.
 
-Alex Sharp is a techno and tech house artist tracked on soundcheck, with 338 sets logged across Amsterdam, Barcelona, London and Saopaulo. Often billed alongside Lino Fuso, SOROUSH and Main Identity. Next up: WestWeelde, Amsterdam on Sun 6 Sept.
+Alex Sharp is a techno and tech house artist tracked on soundcheck, with 340 sets logged across Amsterdam, Barcelona, London and Saopaulo. Often billed alongside Lino Fuso, SOROUSH and Main Identity. Next up: John Doe, Amsterdam on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | John Doe | Amsterdam |
 | Sun, 6 Sept 2026 | WestWeelde | Amsterdam |
+| Fri, 25 Sept 2026 | John Doe | Amsterdam |
 | Wed, 21 Oct 2026 | John Doe | Amsterdam |
 | Fri, 23 Oct 2026 | John Doe | Amsterdam |
 | Sun, 25 Oct 2026 | John Doe | Amsterdam |
