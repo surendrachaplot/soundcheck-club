@@ -1,14 +1,15 @@
 # FLACCO
 
-FLACCO is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+FLACCO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
 
-FLACCO is a trance and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside CAIVA, Carmen Electro and EMILIJA. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
+FLACCO is a techno and trance artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Cologne. Often billed alongside CAIVA, Carmen Electro and DJ SODBRENNEN. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
+| Sun, 20 Sept 2026 | Odonien | Cologne |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ FLACCO is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 ## Shares bills with
 
-CAIVA, Carmen Electro, EMILIJA
+CAIVA, Carmen Electro, DJ SODBRENNEN
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flacco/)*

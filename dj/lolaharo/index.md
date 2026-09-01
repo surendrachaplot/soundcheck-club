@@ -1,14 +1,15 @@
 # Lola Haro
 
-Lola Haro is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hotel Butterfly, Rome on Thu, 3 Sept 2026.
+Lola Haro is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hotel Butterfly, Rome on Thu, 3 Sept 2026.
 
-Lola Haro is a house and techno artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 43 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: Hotel Butterfly, Rome on Thu 3 Sept.
+Lola Haro is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 43 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: Hotel Butterfly, Rome on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Hotel Butterfly | Rome |
+| Sat, 5 Sept 2026 | Prince Charles | Berlin |
 | Sat, 19 Sept 2026 | TBA | Toronto |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 | Fri, 2 Oct 2026 | FOLD | London |

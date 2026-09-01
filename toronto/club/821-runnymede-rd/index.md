@@ -8,7 +8,7 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | 404: BLURREDMOVEMENT |  |
+| Sat, 5 Sept 2026 | 404: BLURREDMOVEMENT | KILL 9 1 |
 | Mon, 28 Sept 2026 | liberti healey |  |
 | Sat, 3 Oct 2026 | 404: Anderex | KAYN, KILL 9 1, Maul (2), R4TS |
 

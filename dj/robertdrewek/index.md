@@ -1,13 +1,14 @@
 # Robert Drewek
 
-Robert Drewek is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Momem - Museum of Modern Electronic Music, Frankfurt on Sat, 19 Sept 2026.
+Robert Drewek is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA -  RIMINI PIZZA OFFENBACH AM MAIN, Frankfurt on Sun, 6 Sept 2026.
 
-Robert Drewek is a house and techno artist tracked on soundcheck, with 112 sets logged across Antwerp, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside Matt Star, Move D and Meat. Next up: Momem - Museum of Modern Electronic Music, Frankfurt on Sat 19 Sept.
+Robert Drewek is a house and techno artist tracked on soundcheck, with 113 sets logged across Antwerp, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside Matt Star, Move D and Meat. Next up: TBA -  RIMINI PIZZA OFFENBACH AM MAIN, Frankfurt on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | TBA -  RIMINI PIZZA OFFENBACH AM MAIN | Frankfurt |
 | Sat, 19 Sept 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Sat, 19 Sept 2026 | TBA - CAFÉ BAR JARDIN BENSHEIM | Frankfurt |
 | Sat, 24 Oct 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |

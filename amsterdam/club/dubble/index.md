@@ -11,7 +11,7 @@ dubble is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, wi
 | Sat, 5 Sept 2026 | afternoon interlude w/ Emilio Arias | Emilio Arias |
 | Thu, 10 Sept 2026 | ephemeris record shop opening | DJ Klapsalon |
 | Sat, 12 Sept 2026 | afternoon interlude with Noach | NOACH (2) |
-| Sun, 13 Sept 2026 | dubble invites: pobal cafe |  |
+| Sun, 13 Sept 2026 | dubble invites: pobal  |  |
 | Sat, 19 Sept 2026 | Magenta release session: Phase Shift | Lena Rigel, MALLAURY, Marijn S, Masha Wordpress |
 | Sun, 20 Sept 2026 | innerzone with robbin | robbin |
 | Sat, 26 Sept 2026 | buen finde! a mexican weekend | Miguel De Bois, Nikko Axzul |

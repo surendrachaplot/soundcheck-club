@@ -11,7 +11,7 @@ Atno is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with 
 | Fri, 4 Sept 2026 | egynegyven | Meduzah |
 | Fri, 11 Sept 2026 | ◉ RIGHT TIME - Dead Man's Chest (Western Lore - UK) ◉ | Aikatherina, Benc, Dead Man's Chest, Mentalien |
 | Sat, 12 Sept 2026 | Technodub Seance x Atno ep. 2 | Bekø, Garpo, Maron, ZOL |
-| Fri, 25 Sept 2026 | co-motion 1.0 | Lost in Details, Peter Bernath, Robert Dobak, Toro Lomo |
+| Fri, 25 Sept 2026 | co-motion 1.0 | Den (4), Lost in Details, Peter Bernath, Robert Dobak, Toro Lomo |
 
 ## Address
 

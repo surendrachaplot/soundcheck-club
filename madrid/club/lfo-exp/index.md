@@ -10,7 +10,7 @@ LFO.exp is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | EN1GMACLUB OPENING | LVL1, Ninalash!, Rozzer |
 | Fri, 18 Sept 2026 | Evolve x Karne | Atrice, Bat (US), ISA (ES), Mena G |
-| Fri, 2 Oct 2026 | Mediums | Abdulla A., Avo (ES), Deceit |
+| Fri, 2 Oct 2026 | Mediums | Abdulla A., Avo (ES), Deceit, Jorge Padilla |
 
 ## Address
 

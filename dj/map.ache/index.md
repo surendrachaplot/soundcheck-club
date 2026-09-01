@@ -1,13 +1,14 @@
 # Map.ache
 
-Map.ache is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Brooklyn Storehouse, New York City on Fri, 30 Oct 2026.
+Map.ache is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
-Map.ache is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 22 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Brooklyn Storehouse, Newyorkcity on Fri 30 Oct.
+Map.ache is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 22 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
 
 ## Recently played

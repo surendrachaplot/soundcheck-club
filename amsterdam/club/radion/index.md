@@ -11,7 +11,7 @@ RADION is a music venue in Amsterdam listed on soundcheck. 26 upcoming nights, w
 | Fri, 4 Sept 2026 | RADION x ACTA Gathering |  |
 | Sat, 5 Sept 2026 | RADION Season Opener | Flits, Hashashin, Hedemann, Isaiah (NL), Lobster (NL), Malou (NL), SHE/HER, The Advent, Vuur |
 | Fri, 11 Sept 2026 | RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming | Cleric, LINDS (NL), Pink Concrete, Pooja B |
-| Fri, 11 Sept 2026 | RADION presents: DJ Assault | DJ Assault |
+| Fri, 11 Sept 2026 | RADION presents: DJ Assault | DJ Assault, Gyatso, Jensen Interceptor, lizz.e |
 | Sat, 12 Sept 2026 | RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming | Cleric, LINDS (NL), Pink Concrete, Pooja B |
 | Fri, 18 Sept 2026 | RADION invites WAXXX x RIOT | Maria Louisa, Mila Haj Kasem, Selene, Shaleen |
 | Fri, 18 Sept 2026 | RADION invites Waxxx Society x RIOT | Bloody Mary, Maria Louisa, Mila Haj Kasem, Selene, Shaleen |

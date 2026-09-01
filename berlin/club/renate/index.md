@@ -9,7 +9,7 @@ Renate is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) x RBL | Make It Big, Pearla, Tina (DE), lady jestive |
-| Fri, 4 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with SEVEN | Sabine Hoffmann, TATA (DE), Zarling, jewelry, mojo |
+| Fri, 4 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with SEVEN | ESVEAE, Sabine Hoffmann, TATA (DE), Zarling, jewelry, mojo |
 | Sat, 5 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Threads of Liberation x Zenith x Black.is | Aalia Iraki, Alain Gertrand, BAY-BUSH-KA, Baba T, KVLR, Lea Czychy, Moehecan, Mython, NoName, ODERA, SOLE DOSI, Schicktanz, Shanda, Ukãi Ndame |
 | Sun, 6 Sept 2026 | Renate Free Market by Transient from Ukraine | Ann Mysochka, Mark Gill, nuarrrrr |
 | Thu, 10 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Solace Space | Asa Tate, Cashper, Cathal, Fhionn, Slowfoam |

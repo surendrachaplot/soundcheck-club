@@ -1,8 +1,8 @@
 # Ken Ishii
 
-Ken Ishii is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at clubasia, Tokyo on Fri, 4 Sept 2026.
+Ken Ishii is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at clubasia, Tokyo on Fri, 4 Sept 2026.
 
-Ken Ishii is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Budapest and 13 more. Often billed alongside Drunken Kong, Ririko and Risa Taniguchi. Next up: clubasia, Tokyo on Fri 4 Sept.
+Ken Ishii is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Budapest and 13 more. Often billed alongside Drunken Kong, Ririko and Risa Taniguchi. Next up: clubasia, Tokyo on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ken Ishii is a techno and house artist tracked on soundcheck, with 107 sets logg
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | clubasia | Tokyo |
 | Fri, 18 Sept 2026 | R Lounge | Tokyo |
+| Sun, 20 Sept 2026 | Mogra | Tokyo |
 | Sun, 25 Oct 2026 | Substation | Seattle |
 
 ## Recently played

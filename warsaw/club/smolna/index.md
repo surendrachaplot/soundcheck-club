@@ -8,7 +8,7 @@ Smolna is a music venue in Warsaw listed on soundcheck. 8 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Bassmates x Smolna invites Solin | Sarba, Solin, long w |
+| Fri, 4 Sept 2026 | Bassmates x Smolna invites Solin | Kogiel, NOV1K, Sarba, Solin, long w |
 | Sat, 5 Sept 2026 | Smolna x Theia Crush | Myris, Sabre, Sickdat |
 | Fri, 11 Sept 2026 | Smolna x Bavno | Mazi, Ricoo, Tony Bellotti |
 | Sat, 12 Sept 2026 | Smolna: Carla Roca all night long | Carla Roca, Peter Fern |

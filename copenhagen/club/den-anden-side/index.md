@@ -9,7 +9,7 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 8 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Yours Truly - The Last Dance | Lucky Lube, Maara, Paul Wolsch, Sham |
-| Sat, 5 Sept 2026 | Club Resistance – VAs for Palestine, Release Event | Adam Eisert, Anton Goltermann, DJ 2LATE, Dico Nemus, ELCA, JACOBXFREY, Johannes Astrup, Miss Puppy, Qwenty, SONYDIAM, Samuel Rees, Tamara, avoN, steamboi |
+| Sat, 5 Sept 2026 | Club Resistance – VAs for Palestine, Release Event | ASTA MARI, Adam Eisert, Anton Goltermann, DJ 2LATE, Dico Nemus, ELCA, JACOBXFREY, Johannes Astrup, Miss Puppy, Qwenty, SONYDIAM, Samuel Rees, Tamara, avoN, steamboi |
 | Fri, 11 Sept 2026 | One Dragon Service with Nene H & DJ TOOL | DJ TOOL, Nene H |
 | Sat, 12 Sept 2026 | Seaworld - Water From a Vine Leaf | Anders Horse, Peachlyfe, Tino, Vani Vachi, zamara |
 | Fri, 18 Sept 2026 | CUETIES: hot mess! | BIXBITA, Britney Speed, DJ BENDER, babysquid, vazkez |

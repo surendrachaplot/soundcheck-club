@@ -8,8 +8,8 @@ BARDO is a music venue in Milan listed on soundcheck. 3 upcoming nights, with li
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | PRE-OPENING BARDO | Naima (2) |
-| Sat, 5 Sept 2026 | PRE-OPENING BARDO | CAMILLA |
+| Fri, 4 Sept 2026 | PRE-OPENING BARDO | CAMILLA |
+| Sat, 5 Sept 2026 | PRE-OPENING BARDO | Naima (2) |
 | Sun, 6 Sept 2026 | PRE-OPENING BARDO |  |
 
 ## Address

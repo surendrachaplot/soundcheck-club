@@ -1,8 +1,8 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "JOUST (USA) + more" on Fri, 4 Sept 2026.
+Le Red Room is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "JOUST (USA) + more" on Fri, 4 Sept 2026.
 
-Le Red Room is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including AYMÉ, Babaganouschka, DJ RURU and fangsie and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
+Le Red Room is a music venue in Montreal listed on soundcheck. 14 upcoming nights, with line-ups including AYMÉ, Babaganouschka, Boomy and DJ RURU and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 13 upcoming night
 | Sun, 13 Sept 2026 | Electro Oasis (every Sunday) *Free with RSVP ticket* | Ratchet |
 | Tue, 15 Sept 2026 | 5:14 Sessions with PEC [All Night Long] |  |
 | Fri, 18 Sept 2026 | SWEAT VOL 6 | Babaganouschka, Shadya |
+| Sun, 20 Sept 2026 | Electro Oasis (every Sunday) *Free with RSVP ticket* | Boomy, EMN (1), namanariii |
 | Tue, 22 Sept 2026 | 5:14 Sessions with AliK2 [All Night Long] |  |
-| Fri, 25 Sept 2026 | KAÏROS |  |
 
 ## Address
 

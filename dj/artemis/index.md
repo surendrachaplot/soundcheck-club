@@ -1,14 +1,15 @@
 # Artemis
 
-Artemis is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Bateau Phare, Paris on Sat, 12 Sept 2026.
+Artemis is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Le Bateau Phare, Paris on Sat, 12 Sept 2026.
 
-Artemis is a house and electro artist tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Bristol and London and 5 more. Often billed alongside Fred V, LOUISA INDIA and A Little Sound. Next up: Le Bateau Phare, Paris on Sat 12 Sept.
+Artemis is a house and electro artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Bristol and London and 5 more. Often billed alongside Fred V, Just Jane and LOUISA INDIA. Next up: Le Bateau Phare, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Le Bateau Phare | Paris |
+| Sat, 7 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Artemis is a house and electro artist tracked on soundcheck, with 18 sets logged
 
 ## Shares bills with
 
-Fred V, LOUISA INDIA, A Little Sound
+Fred V, Just Jane, LOUISA INDIA
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artemis/)*

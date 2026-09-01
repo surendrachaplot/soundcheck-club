@@ -2,7 +2,7 @@
 
 Wilkinson is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Wilkinson is a drum & bass and bass artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Austin and Bali and 31 more. Often billed alongside Kanine, Mozey and Shy FX. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Wilkinson is a drum & bass and bass artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Austin and Bali and 31 more. Often billed alongside Kanine, Bou (UK) and Mozey. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Wilkinson is a drum & bass and bass artist tracked on soundcheck, with 77 sets l
 
 ## Shares bills with
 
-Kanine, Mozey, Shy FX
+Kanine, Bou (UK), Mozey
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilkinson/)*

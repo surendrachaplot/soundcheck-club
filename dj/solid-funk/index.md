@@ -1,14 +1,15 @@
 # Solid-Funk
 
-Solid-Funk is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Lx Factory, Lisbon on Thu, 10 Sept 2026.
+Solid-Funk is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Lx Factory, Lisbon on Thu, 10 Sept 2026.
 
-Solid-Funk is a techno and electronica artist tracked on soundcheck, with 56 sets logged across Berlin, Lisbon and Porto. Often billed alongside Mary B (2), Ze Salvador and Schlingen. Next up: Lx Factory, Lisbon on Thu 10 Sept.
+Solid-Funk is a techno and electronica artist tracked on soundcheck, with 57 sets logged across Berlin, Lisbon and Porto. Often billed alongside Mary B (2), Ze Salvador and Schlingen. Next up: Lx Factory, Lisbon on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Lx Factory | Lisbon |
+| Sat, 26 Sept 2026 | Collect LX Factory | Lisbon |
 | Sat, 3 Oct 2026 | Collect LX Factory | Lisbon |
 | Sat, 10 Oct 2026 | Collect LX Factory | Lisbon |
 

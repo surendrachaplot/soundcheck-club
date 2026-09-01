@@ -1,10 +1,10 @@
 # PRE-OPENING BARDO at BARDO
 
-PRE-OPENING BARDO on Fri 4 Sept, Milan. 1 act on the bill: Naima (2). Dub and Electronica. Preview the line-up and save it on soundcheck.
+PRE-OPENING BARDO on Sat 5 Sept, Milan. 1 act on the bill: Naima (2). Dub and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 4 Sept 2026 |
+| Date | Sat, 5 Sept 2026 |
 | Venue | BARDO |
 | City | Milan |
 

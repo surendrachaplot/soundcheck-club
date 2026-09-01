@@ -1,14 +1,15 @@
 # lizz.e
 
-lizz.e is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 4 Sept 2026.
+lizz.e is a Progressive House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 4 Sept 2026.
 
-lizz.e is a progressive house and tech house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Thehague and Utrecht. Often billed alongside Boss Priester, DJ Life and Dennis Quin. Next up: SISSI'S Amsterdam, Amsterdam on Fri 4 Sept.
+lizz.e is a progressive house and tech house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Thehague and Utrecht. Often billed alongside Boss Priester, DJ Life and Dennis Quin. Next up: SISSI'S Amsterdam, Amsterdam on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
+| Fri, 11 Sept 2026 | RADION | Amsterdam |
 
 ## Recently played
 

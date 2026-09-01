@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA - secret location
 
-TBA - Secret Location is a music venue in London with 45 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "EXPERIENCE + FUTURE 666" on Fri, 4 Sept 2026.
+TBA - secret location is a music venue in London with 45 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "EXPERIENCE + FUTURE 666" on Fri, 4 Sept 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 45 upcoming nights, with line-ups including 0dysseus, 7038634357, DJ JUANNY and Atlantic Energy and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - secret location is a music venue in London listed on soundcheck. 45 upcoming nights, with line-ups including 0dysseus, 7038634357, DJ JUANNY and Atlantic Energy and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

@@ -1,13 +1,14 @@
 # Call Super
 
-Call Super is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Call Super is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Petit CAB, Marseille on Fri, 11 Sept 2026.
 
-Call Super is a techno and house artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Shanti Celeste, Anz and Objekt. Next up: The Cause, London on Sat 12 Sept.
+Call Super is a house and techno artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 62 more. Often billed alongside Shanti Celeste, Anz and Objekt. Next up: Petit CAB, Marseille on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Petit CAB | Marseille |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |

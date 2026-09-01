@@ -1,13 +1,14 @@
 # Diass
 
-Diass is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 6 Sept 2026.
+Diass is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Pracht, Frankfurt on Sat, 5 Sept 2026.
 
-Diass is a techno and house artist based in Bulgaria, tracked on soundcheck, with 3 sets logged across Berlin and Ibiza. Often billed alongside Dj Diass, Bedouin and Ben Evers. Next up: Hï Ibiza, Ibiza on Sun 6 Sept.
+Diass is a house and techno artist based in Bulgaria, tracked on soundcheck, with 4 sets logged across Berlin, Frankfurt and Ibiza. Often billed alongside Dj Diass, BIANCA BLANCO and Bedouin. Next up: Pracht, Frankfurt on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Pracht | Frankfurt |
 | Sun, 6 Sept 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
@@ -17,6 +18,6 @@ Diass is a techno and house artist based in Bulgaria, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Dj Diass, Bedouin, Ben Evers
+Dj Diass, BIANCA BLANCO, Bedouin
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diass/)*

@@ -9,7 +9,7 @@ Zemin Art Gallery is a music venue in Berlin listed on soundcheck. 3 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TASTE OF GRACE | House Of Grace, Lady J (Berlin) |
-| Sat, 12 Sept 2026 | Diskotek Berlin X The Groove Yard | Alterra, Blachord |
+| Sat, 12 Sept 2026 | Diskotek Berlin X The Groove Yard: Berlin Art Week | Alterra, Blachord |
 | Sun, 4 Oct 2026 | DAY DREAMER SESSIONS × AMBIENT BABY: CORE - TAG DER CLUBKULTUR | Joa Luna |
 
 ## Address

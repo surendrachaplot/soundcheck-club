@@ -1,14 +1,15 @@
 # Sweetpea
 
-Sweetpea is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Sweetpea is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Sweetpea is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Berlin, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Decibella, Dillinja and Minor Forms. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Sweetpea is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Berlin, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Decibella, Dillinja and Minor Forms. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Sat, 7 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 

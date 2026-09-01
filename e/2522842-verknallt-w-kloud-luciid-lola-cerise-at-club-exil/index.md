@@ -1,6 +1,6 @@
 # VERKNALLT w/ KLOUD, Luciid, Lola Cerise at Club Exil
 
-VERKNALLT w/ KLOUD, Luciid, Lola Cerise at Club Exil on Sat 26 Sept, Vienna. 2 acts on the bill: KLOUD and Luciid. Techno. Preview the line-up and save it on soundcheck.
+VERKNALLT w/ KLOUD, Luciid, Lola Cerise at Club Exil on Sat 26 Sept, Vienna. 3 acts on the bill: KLOUD, Luciid and ORYMA. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ VERKNALLT w/ KLOUD, Luciid, Lola Cerise at Club Exil on Sat 26 Sept, Vienna. 2 a
 
 - KLOUD
 - Luciid
+- ORYMA
 
 *Source: [soundcheck](https://soundcheck.club/e/2522842-verknallt-w-kloud-luciid-lola-cerise-at-club-exil/)*

@@ -1,8 +1,8 @@
 # Slim Soledad
 
-Slim Soledad is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Razzmatazz, Barcelona on Fri, 4 Sept 2026.
+Slim Soledad is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Razzmatazz, Barcelona on Fri, 4 Sept 2026.
 
-Slim Soledad is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside JASSS, MCMLXXXV and CEM. Next up: Razzmatazz, Barcelona on Fri 4 Sept.
+Slim Soledad is a techno and house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside JASSS, MCMLXXXV and CEM. Next up: Razzmatazz, Barcelona on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Slim Soledad is a techno and house artist tracked on soundcheck, with 132 sets l
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Razzmatazz | Barcelona |
 | Sat, 5 Sept 2026 | Else | Berlin |
+| Fri, 25 Sept 2026 | Q Club | Milan |
 | Sat, 3 Oct 2026 | The Cause | London |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 

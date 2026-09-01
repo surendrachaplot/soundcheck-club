@@ -1,6 +1,6 @@
-# Therapy Sessions XVII - Hell-O-Ween with Current Value, Peter Kurten, Upzet, Unknown at Void Club
+# Therapy Sessions XVII - Hell-O-Ween with Current Value, Peter Kurten, Upzet, Unknown, Zak McCoy at Void Club
 
-Therapy Sessions XVII - Hell-O-Ween with Current Value, Peter Kurten, Upzet, Unknown at Void Club on Sat 31 Oct, Berlin. 4 acts on the bill: Current Value, Gianni Noel, unknown.dnb and Upzet. Drum & Bass and Hardcore. Preview the line-up and save it on soundcheck.
+Therapy Sessions XVII - Hell-O-Ween with Current Value, Peter Kurten, Upzet, Unknown, Zak McCoy at Void Club on Sat 31 Oct, Berlin. 6 acts on the bill: Current Value, Emma Ro.zn, Gianni Noel and unknown.dnb and 2 more. Drum & Bass and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ Therapy Sessions XVII - Hell-O-Ween with Current Value, Peter Kurten, Upzet, Unk
 ## Line-up
 
 - Current Value
+- Emma Ro.zn
 - Gianni Noel
 - unknown.dnb
 - Upzet
+- Zak McCoy
 
 *Source: [soundcheck](https://soundcheck.club/e/2488261-therapy-sessions-xvii-hell-o-ween-with-current-value-peter-k/)*

@@ -1,8 +1,8 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 18 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Fully Flared 360°: ADR • Bristol" on Sat, 5 Sept 2026.
+The Clock Factory is a music venue in Bristol with 19 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Fully Flared 360°: ADR • Bristol" on Sat, 5 Sept 2026.
 
-The Clock Factory is a music venue in Bristol listed on soundcheck. 18 upcoming nights, with line-ups including Addison Groove, Calyx, Capo Lee and Club Angel and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
+The Clock Factory is a music venue in Bristol listed on soundcheck. 19 upcoming nights, with line-ups including Addison Groove, Calyx, Capo Lee and Club Angel and 2 more. Browse upcoming dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
 ## What's on
 

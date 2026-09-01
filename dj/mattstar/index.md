@@ -1,13 +1,14 @@
 # Matt Star
 
-Matt Star is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Momem - Museum of Modern Electronic Music, Frankfurt on Sat, 19 Sept 2026.
+Matt Star is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA -  RIMINI PIZZA OFFENBACH AM MAIN, Frankfurt on Sun, 6 Sept 2026.
 
-Matt Star is a house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Cologne, Frankfurt and Prague. Often billed alongside Robert Drewek, Dana Ruh and Move D. Next up: Momem - Museum of Modern Electronic Music, Frankfurt on Sat 19 Sept.
+Matt Star is a house and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Frankfurt and Prague. Often billed alongside Robert Drewek, Dana Ruh and Move D. Next up: TBA -  RIMINI PIZZA OFFENBACH AM MAIN, Frankfurt on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | TBA -  RIMINI PIZZA OFFENBACH AM MAIN | Frankfurt |
 | Sat, 19 Sept 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 | Sat, 24 Oct 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
 

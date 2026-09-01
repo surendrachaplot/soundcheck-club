@@ -1,13 +1,14 @@
 # COBRA
 
-COBRA is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Celeste, Vienna on Fri, 18 Sept 2026.
+COBRA is a Techno and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at PRST, Vienna on Sat, 12 Sept 2026.
 
-COBRA is a techno and disco artist based in Austria, tracked on soundcheck, with 13 sets logged across Vienna. Often billed alongside CHERCHES, Paul Mile and BOYOHBOY. Next up: Celeste, Vienna on Fri 18 Sept.
+COBRA is a techno and disco artist based in Austria, tracked on soundcheck, with 14 sets logged across Vienna. Often billed alongside CHERCHES, Paul Mile and BOYOHBOY. Next up: PRST, Vienna on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | PRST | Vienna |
 | Fri, 18 Sept 2026 | Celeste | Vienna |
 
 ## Recently played

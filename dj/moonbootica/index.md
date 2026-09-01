@@ -1,13 +1,14 @@
 # Moonbootica
 
-Moonbootica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ritter Butzke, Berlin on Sat, 26 Sept 2026.
+Moonbootica is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Pacha, Munich on Fri, 4 Sept 2026.
 
-Moonbootica is a techno and house artist tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 6 more. Often billed alongside Format B, AKA AKA and Dominik Eulberg. Next up: Ritter Butzke, Berlin on Sat 26 Sept.
+Moonbootica is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 6 more. Often billed alongside Format B, AKA AKA and Dominik Eulberg. Next up: Pacha, Munich on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Pacha | Munich |
 | Sat, 26 Sept 2026 | Ritter Butzke | Berlin |
 
 ## Recently played

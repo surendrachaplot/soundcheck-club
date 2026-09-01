@@ -1,8 +1,8 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at RADION, Amsterdam on Fri, 11 Sept 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at RADION, Amsterdam on Fri, 11 Sept 2026.
 
-DJ Assault is a ghetto tech and techno artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, Sheefy McFly and DJ AYA. Next up: RADION, Amsterdam on Fri 11 Sept.
+DJ Assault is a ghetto tech and techno artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside Fullbodydurag, Sheefy McFly and DJ AYA. Next up: RADION, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ DJ Assault is a ghetto tech and techno artist tracked on soundcheck, with 167 se
 | Sat, 3 Oct 2026 | The Pearl | Vancouver |
 | Fri, 9 Oct 2026 | BASIS | Utrecht |
 | Sat, 10 Oct 2026 | The Art School | Glasgow |
+| Fri, 13 Nov 2026 | Colour Factory | London |
 
 ## Recently played
 

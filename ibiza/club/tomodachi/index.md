@@ -16,8 +16,8 @@ Tomodachi is a music venue in Ibiza listed on soundcheck. 18 upcoming nights. Br
 | Sat, 12 Sept 2026 | Tomodachi x DYBBUK Athens |  |
 | Tue, 15 Sept 2026 | Real Gang w/ Ohm Hourani ALL NIGHT LONG |  |
 | Fri, 18 Sept 2026 | Tomodachi w/ Brawther ALL NIGHT LONG  |  |
-| Sat, 19 Sept 2026 | Tomodachi |  |
-| Tue, 22 Sept 2026 | Real Gang |  |
+| Sat, 19 Sept 2026 | Tomodachi w/ TOMOKI TAMURA |  |
+| Tue, 22 Sept 2026 | Real Gang w/ SIBIL |  |
 
 ## Address
 

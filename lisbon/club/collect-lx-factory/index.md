@@ -12,7 +12,7 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 11 upcoming 
 | Sat, 5 Sept 2026 | WARM with Markus Sommer ( Pager Records ) | Bernardo Vaz, La Gugga, Markus Sommer |
 | Thu, 10 Sept 2026 | Assembling AFTER PARTY | Kaesar |
 | Sat, 19 Sept 2026 | All Nice Records #1 | Bobby Dreams, CVLT, Lake Haze, NSX3000, Nick Anthony Simoncino |
-| Sat, 26 Sept 2026 | Collect LX Factory presents Lawrence ( Dial // Smallville ) | Lawrence |
+| Sat, 26 Sept 2026 | Collect LX Factory presents Lawrence ( Dial // Smallville ) | Elless & Benn, Lawrence, Solid-Funk |
 | Sat, 3 Oct 2026 | Collect LX Factory presents Mammo (live) | Andre Cascais, Mammo, Solid-Funk |
 | Sat, 10 Oct 2026 | 15 YEARS of ASSEMBLE MUSIC W/ Willow (UK) + Patrick Specke (DE) | MARY-B, Patrick Specke, Schlingen, Solid-Funk, Willow, Ze Salvador |
 | Sat, 17 Oct 2026 | Collect LX Factory presents Shoal (live) | Billi, Shoal, Ze Salvador |

@@ -1,14 +1,15 @@
 # Monrroe
 
-Monrroe is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Monrroe is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Monrroe is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Amsterdam, Auckland, Bali and Bangkok and 28 more. Often billed alongside Duskee, Emily Makis and GLXY. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Monrroe is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Auckland, Bali and Bangkok and 28 more. Often billed alongside Duskee, Emily Makis and GLXY. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
+| Sat, 7 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 

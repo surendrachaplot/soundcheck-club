@@ -1,13 +1,14 @@
 # Gyatso
 
-Gyatso is a Ghetto Tech and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 25 Sept 2026.
+Gyatso is a Ghetto Tech and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at RADION, Amsterdam on Fri, 11 Sept 2026.
 
-Gyatso is a ghetto tech and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Bangkok and Belgrade and 9 more. Often billed alongside Franky Sticks, ZEP (NL) and SAIDAH. Next up: SISSI'S Amsterdam, Amsterdam on Fri 25 Sept.
+Gyatso is a ghetto tech and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Bangkok and Belgrade and 9 more. Often billed alongside Franky Sticks, ZEP (NL) and SAIDAH. Next up: RADION, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | RADION | Amsterdam |
 | Fri, 25 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 

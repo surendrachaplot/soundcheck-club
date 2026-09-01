@@ -1,14 +1,15 @@
 # CHERCHES
 
-CHERCHES is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rhiz, Vienna on Sat, 5 Sept 2026.
+CHERCHES is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Rhiz, Vienna on Sat, 5 Sept 2026.
 
-CHERCHES is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 12 sets logged across Vienna. Often billed alongside COBRA, KEEO.FM and Paul Mile. Next up: Rhiz, Vienna on Sat 5 Sept.
+CHERCHES is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 13 sets logged across Vienna. Often billed alongside COBRA, Paul Mile and KEEO.FM. Next up: Rhiz, Vienna on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Rhiz | Vienna |
+| Sat, 12 Sept 2026 | PRST | Vienna |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ CHERCHES is a drum & bass and dubstep artist based in Germany, tracked on soundc
 
 ## Shares bills with
 
-COBRA, KEEO.FM, Paul Mile
+COBRA, Paul Mile, KEEO.FM
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cherches/)*

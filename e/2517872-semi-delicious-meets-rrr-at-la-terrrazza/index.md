@@ -1,6 +1,6 @@
 # Semi Delicious meets RRR at La Terrrazza
 
-Semi Delicious meets RRR at La Terrrazza on Fri 4 Sept, Barcelona. 1 act on the bill: Demi Riquisimo. House. Preview the line-up and save it on soundcheck.
+Semi Delicious meets RRR at La Terrrazza on Fri 4 Sept, Barcelona. 3 acts on the bill: Baldo, Demi Riquisimo and Lulah Francs. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Semi Delicious meets RRR at La Terrrazza on Fri 4 Sept, Barcelona. 1 act on the 
 
 ## Line-up
 
+- Baldo
 - Demi Riquisimo
+- Lulah Francs
 
 *Source: [soundcheck](https://soundcheck.club/e/2517872-semi-delicious-meets-rrr-at-la-terrrazza/)*

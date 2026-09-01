@@ -1,13 +1,14 @@
 # Solyr
 
-Solyr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
+Solyr is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at B-SIDE, Warsaw on Fri, 11 Sept 2026.
 
-Solyr is a house and techno artist tracked on soundcheck, with 13 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside sensour, mitt and Fuunkt. Next up: TBA, Berlin on Sat 19 Sept.
+Solyr is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside sensour, mitt and zeroday. Next up: B-SIDE, Warsaw on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | B-SIDE | Warsaw |
 | Sat, 19 Sept 2026 | TBA | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Solyr is a house and techno artist tracked on soundcheck, with 13 sets logged ac
 
 ## Shares bills with
 
-sensour, mitt, Fuunkt
+sensour, mitt, zeroday
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solyr/)*

@@ -1,13 +1,14 @@
 # Chloé
 
-Chloé is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at DURO, Milan on Fri, 27 Nov 2026.
+Chloé is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at DURO, Milan on Fri, 27 Nov 2026.
 
-Chloé is a techno and house artist tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Brighton and Edinburgh and 10 more. Often billed alongside Belaria, Ivan Smagghe and Mad Rey. Next up: DURO, Milan on Fri 27 Nov.
+Chloé is a techno and house artist tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Brighton and Edinburgh and 10 more. Often billed alongside Belaria, Ivan Smagghe and Mad Rey. Next up: DURO, Milan on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | DURO | Milan |
 | Fri, 27 Nov 2026 | DURO | Milan |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # ODF (1)
 
-ODF (1) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Clock Factory, Bristol on Fri, 25 Sept 2026.
+ODF (1) is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Clock Factory, Bristol on Fri, 25 Sept 2026.
 
-ODF (1) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Brighton, Brisbane, Bristol and Cork and 8 more. Often billed alongside Fiaa, Jackum and harpriya. Next up: The Clock Factory, Bristol on Fri 25 Sept.
+ODF (1) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Brighton, Brisbane, Bristol and Cork and 8 more. Often billed alongside Fiaa, Jackum and Just Jane. Next up: The Clock Factory, Bristol on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | The Clock Factory | Bristol |
+| Sat, 7 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ODF (1) is a garage and house artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-Fiaa, Jackum, harpriya
+Fiaa, Jackum, Just Jane
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odf-1/)*

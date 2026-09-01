@@ -10,7 +10,7 @@ Mastak is a music venue in Warsaw listed on soundcheck. 17 upcoming nights, with
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | BARCHAN | Herrszt, MARCUCCIO, MAUER, PLATTER, Subcode, Violent |
 | Sat, 5 Sept 2026 | a r u (in?) | Ania R, RRRKRTA, uszko |
-| Sun, 6 Sept 2026 | SUNDAY |  |
+| Sun, 6 Sept 2026 | SUNDAY: Inhaberin / koktelbel | Inhaberin (2), koktelbel |
 | Fri, 11 Sept 2026 | NOKTURN - N ska, Helena Dark, Pean, sporra, szadow | N ska, Pean, sporra, szadow |
 | Sat, 12 Sept 2026 | L.A.N.L. II – Live Acts All Night Long III | Internal Observer |
 | Sun, 13 Sept 2026 | SUNDAY |  |

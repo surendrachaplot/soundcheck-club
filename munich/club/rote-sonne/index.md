@@ -1,13 +1,14 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "RS:CommunityNight" on Fri, 11 Sept 2026.
+Rote Sonne is a music venue in Munich with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "HEISSS x Casual Tunes" on Fri, 4 Sept 2026.
 
-Rote Sonne is a music venue in Munich listed on soundcheck. 2 upcoming nights, with line-ups including crystal crimez (2), DJ Yugo, ENERGY TAPE and Liroy. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
+Rote Sonne is a music venue in Munich listed on soundcheck. 3 upcoming nights, with line-ups including Bless The Speakers, crystal crimez (2), DJ Yugo and ENERGY TAPE and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | HEISSS x Casual Tunes | Bless The Speakers, Kim She, Vincent Neumann |
 | Fri, 11 Sept 2026 | RS:CommunityNight |  |
 | Sat, 26 Sept 2026 | slippy series | DJ Yugo, ENERGY TAPE, Liroy, crystal crimez (2) |
 

@@ -1,6 +1,6 @@
 # Mediums at LFO.exp
 
-Mediums at LFO.exp on Fri 2 Oct, Madrid. 3 acts on the bill: Abdulla A., Avo (ES) and Deceit. House and Electronica. Preview the line-up and save it on soundcheck.
+Mediums at LFO.exp on Fri 2 Oct, Madrid. 4 acts on the bill: Abdulla A., Avo (ES), Deceit and Jorge Padilla. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Mediums at LFO.exp on Fri 2 Oct, Madrid. 3 acts on the bill: Abdulla A., Avo (ES
 - Abdulla A.
 - Avo (ES)
 - Deceit
+- Jorge Padilla
 
 *Source: [soundcheck](https://soundcheck.club/e/2525928-mediums-at-lfo-exp/)*

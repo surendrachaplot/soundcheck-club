@@ -1,14 +1,15 @@
 # Arkyn
 
-Arkyn is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rebellion, Manchester on Fri, 2 Oct 2026.
+Arkyn is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Rebellion, Manchester on Fri, 2 Oct 2026.
 
-Arkyn is a jungle and hardcore artist tracked on soundcheck, with 19 sets logged across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside Vinyl Junkie, Billy Daniel Bunter and Swankout. Next up: Rebellion, Manchester on Fri 2 Oct.
+Arkyn is a jungle and hardcore artist tracked on soundcheck, with 20 sets logged across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside Vinyl Junkie, Billy Daniel Bunter and Swankout. Next up: Rebellion, Manchester on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Rebellion | Manchester |
+| Fri, 9 Oct 2026 | M.O.T | London |
 
 ## Recently played
 

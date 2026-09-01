@@ -10,7 +10,7 @@ Club Exil is a music venue in Vienna listed on soundcheck. 6 upcoming nights, wi
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TUFF opening with Fake_Friends, two girls one mom, SZG, Airod, Jacidorex, Serafin | Airod, Albin Brezlan, Aleta, BRX (2), Huebl, Jacidorex, SZG, Serafin (AT), Telicho, Vanessa Sa |
 | Fri, 25 Sept 2026 | OYXDICE FESTIVAL | DJ DIAMOND (2), Kat Ze, WO.IZZY |
-| Sat, 26 Sept 2026 | VERKNALLT w/ KLOUD, Luciid, Lola Cerise | KLOUD, Luciid |
+| Sat, 26 Sept 2026 | VERKNALLT w/ KLOUD, Luciid, Lola Cerise | KLOUD, Luciid, ORYMA |
 | Fri, 2 Oct 2026 | RITUAL II with Felicie, Phara, Truncate, Uncertain | Félicie, Phara, Truncate, Uncertain |
 | Sat, 3 Oct 2026 | Liquicity Vienna 2026 | Anaïs, ESKEI83, Maduk, Paul SG, Technimatic, Whiney |
 | Fri, 6 Nov 2026 | BIOSPHERE | Anna Ullrich, DORAH, Sam Paganini, The Advent, Who is ela¿, maro |

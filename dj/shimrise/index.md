@@ -1,13 +1,14 @@
 # Shimrise
 
-Shimrise is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Shimrise is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at E1, London on Sat, 12 Sept 2026.
 
-Shimrise is a house and garage artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across London and Manchester. Often billed alongside Rich Reason, Chunky and Obeka. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Shimrise is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across London and Manchester. Often billed alongside Rich Reason, Chunky and Obeka. Next up: E1, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | E1 | London |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

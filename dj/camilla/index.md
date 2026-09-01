@@ -1,14 +1,14 @@
 # CAMILLA
 
-CAMILLA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at BARDO, Milan on Sat, 5 Sept 2026.
+CAMILLA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at BARDO, Milan on Fri, 4 Sept 2026.
 
-CAMILLA is a house and techno artist tracked on soundcheck, with 137 sets logged across Berlin, Boston, Chicago and Lisbon and 6 more. Often billed alongside Joiah, Black Pomade and Shvili. Next up: BARDO, Milan on Sat 5 Sept.
+CAMILLA is a house and techno artist tracked on soundcheck, with 137 sets logged across Berlin, Boston, Chicago and Lisbon and 6 more. Often billed alongside Joiah, Black Pomade and Shvili. Next up: BARDO, Milan on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | BARDO | Milan |
+| Fri, 4 Sept 2026 | BARDO | Milan |
 | Thu, 10 Sept 2026 | Dead Letter No. 9 | New York City |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 

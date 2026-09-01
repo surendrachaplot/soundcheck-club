@@ -1,6 +1,6 @@
 # Club Resistance – VAs for Palestine, Release Event at Den Anden Side
 
-Club Resistance – VAs for Palestine, Release Event at Den Anden Side on Sat 5 Sept, Copenhagen. 14 acts on the bill: Adam Eisert, Anton Goltermann, avoN and Dico Nemus and 10 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Club Resistance – VAs for Palestine, Release Event at Den Anden Side on Sat 5 Sept, Copenhagen. 15 acts on the bill: Adam Eisert, Anton Goltermann, ASTA MARI and avoN and 11 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Club Resistance – VAs for Palestine, Release Event at Den Anden Side on Sat 5 
 
 - Adam Eisert
 - Anton Goltermann
+- ASTA MARI
 - avoN
 - Dico Nemus
 - DJ 2LATE

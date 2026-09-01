@@ -1,8 +1,8 @@
 # Kyrist
 
-Kyrist is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Kyrist is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Auckland, Berlin and Brighton and 10 more. Often billed alongside SP:MC, Visionobi and EN:VY. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Auckland, Berlin and Brighton and 10 more. Often billed alongside SP:MC, Visionobi and Calyx. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on so
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 10 Oct 2026 | The Clock Factory | Bristol |
 | Sat, 10 Oct 2026 | The Clock Factory | Bristol |
 | Fri, 23 Oct 2026 | fabric | London |
 
@@ -26,6 +27,6 @@ Kyrist is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-SP:MC, Visionobi, EN:VY
+SP:MC, Visionobi, Calyx
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrist/)*

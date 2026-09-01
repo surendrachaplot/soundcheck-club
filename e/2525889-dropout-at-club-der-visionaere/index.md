@@ -1,6 +1,6 @@
 # Dropout at Club der Visionaere
 
-Dropout at Club der Visionaere on Sat 5 Sept, Berlin. 4 acts on the bill: Gebrüder Teichmann, Jackbox, Raymond Ernst and S-max. Preview the line-up and save it on soundcheck.
+Dropout at Club der Visionaere on Sat 5 Sept, Berlin. 5 acts on the bill: Andi Teichmann, Gebrüder Teichmann, Jackbox and Raymond Ernst and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Dropout at Club der Visionaere on Sat 5 Sept, Berlin. 4 acts on the bill: Gebrü
 
 ## Line-up
 
+- Andi Teichmann
 - Gebrüder Teichmann
 - Jackbox
 - Raymond Ernst

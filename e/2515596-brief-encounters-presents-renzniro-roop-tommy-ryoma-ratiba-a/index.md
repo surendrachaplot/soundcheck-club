@@ -1,6 +1,6 @@
-# Brief Encounters presents: RenzNiro, roop, Tommy Ryoma + Ratiba Ayadi at The Greyhound
+# Brief Encounters presents: RenzNiro, roop, Tommy Ryoma, Ratiba Ayadi + Jah$tar at The Greyhound
 
-Brief Encounters presents: RenzNiro, roop, Tommy Ryoma + Ratiba Ayadi at The Greyhound on Wed 23 Sept, London. 2 acts on the bill: RenzNiro and roop. Experimental. Preview the line-up and save it on soundcheck.
+Brief Encounters presents: RenzNiro, roop, Tommy Ryoma, Ratiba Ayadi + Jah$tar at The Greyhound on Wed 23 Sept, London. 2 acts on the bill: RenzNiro and roop. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

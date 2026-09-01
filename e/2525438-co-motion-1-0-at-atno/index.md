@@ -1,6 +1,6 @@
 # co-motion 1.0 at Atno
 
-co-motion 1.0 at Atno on Fri 25 Sept, Budapest. 4 acts on the bill: Lost in Details, Peter Bernath, Robert Dobak and Toro Lomo. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+co-motion 1.0 at Atno on Fri 25 Sept, Budapest. 5 acts on the bill: Den (4), Lost in Details, Peter Bernath and Robert Dobak and 1 more. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ co-motion 1.0 at Atno on Fri 25 Sept, Budapest. 4 acts on the bill: Lost in Deta
 
 ## Line-up
 
+- Den (4)
 - Lost in Details
 - Peter Bernath
 - Robert Dobak

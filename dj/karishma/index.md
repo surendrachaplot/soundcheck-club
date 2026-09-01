@@ -1,14 +1,15 @@
 # karishma
 
-karishma is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Last Arch, London on Sat, 3 Oct 2026.
+karishma is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Last Arch, London on Sat, 3 Oct 2026.
 
-karishma is a jungle and drum & bass artist tracked on soundcheck, with 30 sets logged across Leeds and London. Often billed alongside Deselecta, MF Ceól and The Dangers of Jazz. Next up: Last Arch, London on Sat 3 Oct.
+karishma is a jungle and drum & bass artist tracked on soundcheck, with 31 sets logged across Leeds and London. Often billed alongside Deselecta, MF Ceól and The Dangers of Jazz. Next up: Last Arch, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Last Arch | London |
+| Fri, 9 Oct 2026 | M.O.T | London |
 | Fri, 16 Oct 2026 | Tola | London |
 
 ## Recently played

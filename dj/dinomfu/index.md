@@ -1,13 +1,14 @@
 # Dino MFU
 
-Dino MFU is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Athens on Sun, 20 Sept 2026.
+Dino MFU is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Plateia Olypiakis Aeroporias Elliniko , Athens on Sun, 6 Sept 2026.
 
-Dino MFU is a house and disco artist tracked on soundcheck, with 13 sets logged across Athens and Mykonos. Often billed alongside Agent Greg, David Morales and Deelo. Next up: TBA, Athens on Sun 20 Sept.
+Dino MFU is a house and disco artist tracked on soundcheck, with 14 sets logged across Athens and Mykonos. Often billed alongside Agent Greg, David Morales and Deelo. Next up: TBA - Plateia Olypiakis Aeroporias Elliniko , Athens on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | TBA - Plateia Olypiakis Aeroporias Elliniko  | Athens |
 | Sun, 20 Sept 2026 | TBA | Athens |
 
 ## Recently played

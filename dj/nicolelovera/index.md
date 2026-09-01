@@ -1,14 +1,15 @@
 # Nicole Lovera
 
-Nicole Lovera is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
+Nicole Lovera is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
 
-Nicole Lovera is a techno and electronica artist based in Italy, tracked on soundcheck, with 11 sets logged across Milan and Turin. Often billed alongside sizing, Gandalf and Marbox. Next up: TBA, Turin on Sun 13 Sept.
+Nicole Lovera is a techno and downtempo artist based in Italy, tracked on soundcheck, with 12 sets logged across Milan and Turin. Often billed alongside sizing, Gandalf and Marbox. Next up: TBA, Turin on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | TBA | Turin |
+| Thu, 17 Sept 2026 | Main Club | Milan |
 
 ## Recently played
 

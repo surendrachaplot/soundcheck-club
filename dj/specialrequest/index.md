@@ -1,8 +1,8 @@
 # Special Request
 
-Special Request is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Electric Studios, Sheffield on Fri, 4 Sept 2026.
+Special Request is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Electric Studios, Sheffield on Fri, 4 Sept 2026.
 
-Special Request is a techno and house artist tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 46 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: Electric Studios, Sheffield on Fri 4 Sept.
+Special Request is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 46 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: Electric Studios, Sheffield on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Special Request is a techno and house artist tracked on soundcheck, with 165 set
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Sat, 7 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 

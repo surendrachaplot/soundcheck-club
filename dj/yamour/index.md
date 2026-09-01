@@ -1,8 +1,8 @@
 # Yamour
 
-Yamour is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Yamour is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
-Yamour is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Auckland and Bali and 31 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
+Yamour is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Auckland and Bali and 31 more. Often billed alongside Konstantin, Edward and Leafar Legov. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Yamour is a house and techno artist tracked on soundcheck, with 159 sets logged 
 | Fri, 11 Sept 2026 | Fünk | Mexico City |
 | Sat, 26 Sept 2026 | H0L0 | New York City |
 | Sun, 25 Oct 2026 | Shelter Amsterdam | Amsterdam |
+| Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played
 

@@ -17,7 +17,7 @@ Studio 338 is a music venue in London listed on soundcheck. 11 upcoming nights, 
 | Sun, 27 Sept 2026 | Party Hard UK - Day Party |  |
 | Fri, 2 Oct 2026 | F*CK ME IT'S FRESHERS LONDON - THE BIGGEST FRESHERS EVENT IN THE UK |  |
 | Sun, 4 Oct 2026 | The Official Karan Aujla Concert After Party - Studio 338 |  |
-| Sat, 31 Oct 2026 | Release Halloween - Ida Engberg, Bontan, Matthias Tanzmann + more | ASHOJU, Bontan, Chicks Luv Us, FLORENTIA, Forge (UK), Ida Engberg, Matthias Tanzmann |
+| Sat, 31 Oct 2026 | Release Halloween - Ida Engberg, Bontan, Matthias Tanzmann, Nick Curly  + more | ASHOJU, Bontan, Chicks Luv Us, FLORENTIA, Forge (UK), Ida Engberg, Matthias Tanzmann, Nick Curly |
 
 ## Address
 

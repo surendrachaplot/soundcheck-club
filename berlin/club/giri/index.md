@@ -2,7 +2,7 @@
 
 Giri is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Giri x El Manto: Dario Jongerius release" on Wed, 2 Sept 2026.
 
-Giri is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Airaboi, Chris Gorrie, Dimensionless Unity and Jessica Nightlife and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
+Giri is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Airaboi, Chris Gorrie, Dimensionless Unity and Daniel Norrel and 2 more. Browse upcoming dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Giri is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with l
 | Thu, 10 Sept 2026 | Re:Frame 2026 Opening Night by CiLENS x Giri | Temple Rat |
 | Fri, 11 Sept 2026 | Giri x Wormhole Studies | Chris Gorrie, Sean Gonzalez |
 | Thu, 17 Sept 2026 | Giri x TM - 25Sommervorbei |  |
-| Fri, 18 Sept 2026 | Giri x Eclectic Limited |  |
+| Fri, 18 Sept 2026 | Giri x Eclectic Limited | Daniel Norrel, Kenny Dahl, Salvatore Foglia |
 | Thu, 24 Sept 2026 | Giri x Amour Africain |  |
 | Fri, 25 Sept 2026 | Giri x Dimensionless Unity: Love To The World | Dimensionless Unity, Trent, Yas |
 
