@@ -1,14 +1,15 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Whitehouse, The Hague on Sat, 5 Sept 2026.
+Stef Davidse is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Whitehouse, The Hague on Sat, 5 Sept 2026.
 
-Stef Davidse is a house and tech house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 15 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Whitehouse, Thehague on Sat 5 Sept.
+Stef Davidse is a house and tech house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 15 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Whitehouse, Thehague on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Whitehouse | The Hague |
+| Sat, 5 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 18 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | Distrikt | Leeds |

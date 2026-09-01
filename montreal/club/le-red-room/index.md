@@ -11,7 +11,7 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 13 upcoming night
 | Fri, 4 Sept 2026 | JOUST (USA) + more |  |
 | Sat, 5 Sept 2026 | SupporTechnique presents Dark Matter: Free Techno All Night Long | AYMÉ, Walji |
 | Sun, 6 Sept 2026 | Electro Oasis (every Sunday) *Free with RSVP ticket* | SAM CHEF |
-| Mon, 7 Sept 2026 | Electro Oasis |  |
+| Mon, 7 Sept 2026 | Electro Oasis w/ Hardest Frequencies - Free with RSVP |  |
 | Thu, 10 Sept 2026 | BLEEDER | Mowie (2), fangsie |
 | Sun, 13 Sept 2026 | Electro Oasis (every Sunday) *Free with RSVP ticket* | Ratchet |
 | Tue, 15 Sept 2026 | 5:14 Sessions with PEC [All Night Long] |  |

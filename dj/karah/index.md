@@ -10,7 +10,6 @@ KARAH is a techno and industrial artist tracked on soundcheck, with 146 sets log
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | E1 | London |
 | Fri, 4 Sept 2026 | E1 | London |
-| Fri, 4 Sept 2026 | E1 | London |
 | Tue, 15 Sept 2026 | Eden | Ibiza |
 | Tue, 15 Sept 2026 | Eden | Ibiza |
 | Fri, 9 Oct 2026 | TBA - SEKTOR6D | Warsaw |
@@ -19,6 +18,7 @@ KARAH is a techno and industrial artist tracked on soundcheck, with 146 sets log
 | Fri, 30 Oct 2026 | TBA | Glasgow |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Sat, 31 Oct 2026 | La Cubierta de Leganés | Madrid |
+| Sat, 7 Nov 2026 | E1 | London |
 | Sat, 28 Nov 2026 | TBA | Budapest |
 
 ## Recently played

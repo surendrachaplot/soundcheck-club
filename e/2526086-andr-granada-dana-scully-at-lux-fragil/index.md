@@ -1,6 +1,6 @@
 # André Granada & Dana Scully at Lux Fragil
 
-André Granada & Dana Scully at Lux Fragil on Thu 3 Sept, Lisbon. 1 act on the bill: André Granada (2). Preview the line-up and save it on soundcheck.
+André Granada & Dana Scully at Lux Fragil on Thu 3 Sept, Lisbon. 2 acts on the bill: André Granada (2) and sanio. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ André Granada & Dana Scully at Lux Fragil on Thu 3 Sept, Lisbon. 1 act on the b
 ## Line-up
 
 - André Granada (2)
+- sanio
 
 *Source: [soundcheck](https://soundcheck.club/e/2526086-andr-granada-dana-scully-at-lux-fragil/)*

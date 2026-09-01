@@ -13,7 +13,7 @@ The Cause is a music venue in London listed on soundcheck. 21 upcoming nights, w
 | Fri, 18 Sept 2026 | SG Lewis presents Forever Days | D Stone, Heidi Lawden, SG Lewis, Storm Mollison, Strath, TEED, X & Ivy |
 | Sat, 19 Sept 2026 | The Cause: Summer Festival | Aletha, D.N.S, Dan Beaumont, ESG, Giles Smith, Gilles Peterson, Horse Meat Disco, Joe Claussell, Lily London, Macca (2), Macca., Nadia Ksaiba, Reece Spooner, Rosy Ross, Thris Tian, Zakia |
 | Sun, 20 Sept 2026 | X CLUB. present HIDE THE JUNK | Jeshi, KT, Luke Alessi, Miley Serious, Sam Alfred, X CLUB. |
-| Sat, 26 Sept 2026 | Kolter (All Day Long) - London | Kolter |
+| Sat, 26 Sept 2026 | Kolter (All Day Long) - London [SOLD OUT] | Kolter |
 | Sun, 27 Sept 2026 | Zulu Nation - All White Party  | Angela Rose, DJ Majesty, Gemini (2) |
 | Sat, 3 Oct 2026 | Labyrinth presents: Boys Noize ONES and ZEROS | Boys Noize, LSDXOXO, MarcelDune, Slim Soledad |
 | Fri, 9 Oct 2026 | Gray presents: Antisocial Sound - London |  |

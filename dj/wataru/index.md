@@ -1,8 +1,8 @@
 # WATARU
 
-WATARU is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Circus Tokyo, Tokyo on Sun, 6 Sept 2026.
+WATARU is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Circus Tokyo, Tokyo on Sun, 6 Sept 2026.
 
-WATARU is a techno and psytrance artist based in Japan, tracked on soundcheck, with 43 sets logged across Osaka, Shanghai and Tokyo. Often billed alongside PONTA, HK. (1) and Drunken Kong. Next up: Circus Tokyo, Tokyo on Sun 6 Sept.
+WATARU is a techno and trance artist based in Japan, tracked on soundcheck, with 44 sets logged across Osaka, Shanghai and Tokyo. Often billed alongside PONTA, HK. (1) and Drunken Kong. Next up: Circus Tokyo, Tokyo on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ WATARU is a techno and psytrance artist based in Japan, tracked on soundcheck, w
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Circus Tokyo | Tokyo |
 | Sat, 26 Sept 2026 | WOMB | Tokyo |
+| Sat, 17 Oct 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
 

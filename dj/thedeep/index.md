@@ -1,14 +1,14 @@
 # The Deep
 
-The Deep is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, London on Sat, 26 Sept 2026.
+The Deep is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Exhibition London, London on Sat, 26 Sept 2026.
 
-The Deep is a garage and club artist tracked on soundcheck, with 4 sets logged across London, Seoul and Tokyo. Often billed alongside AMANDA SZE, ANDOW and Big Dope P. Next up: TBA, London on Sat 26 Sept.
+The Deep is a garage and club artist tracked on soundcheck, with 4 sets logged across London, Seoul and Tokyo. Often billed alongside AMANDA SZE, ANDOW and Big Dope P. Next up: Exhibition London, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | TBA | London |
+| Sat, 26 Sept 2026 | Exhibition London | London |
 
 ## Recently played
 

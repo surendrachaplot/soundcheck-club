@@ -1,14 +1,14 @@
 # Airport Düsseldorf
 
-Airport Düsseldorf is a music venue in Düsseldorf with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Hawā Open Air at DUS Airport - Closing Weekender Day 1 - Saturday, 05.09.2026" on Sat, 5 Sept 2026.
+Airport Düsseldorf is a music venue in Düsseldorf with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Hawā Open Air at DUS Airport w/ Mira / Bryan Kessler / Lexx - Saturday, 05.09.2026" on Sat, 5 Sept 2026.
 
-Airport Düsseldorf is a music venue in Dusseldorf listed on soundcheck. 3 upcoming nights, with line-ups including Âme, Frank Wiedemann and Jonathan Kaspar. Browse upcoming dates, start times and who's playing. Flughafenstraße 105, 40474 Düsseldorf.
+Airport Düsseldorf is a music venue in Dusseldorf listed on soundcheck. 3 upcoming nights, with line-ups including Âme, Bryan Kessler, Frank Wiedemann and Jonathan Kaspar and 2 more. Browse upcoming dates, start times and who's playing. Flughafenstraße 105, 40474 Düsseldorf.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Hawā Open Air at DUS Airport - Closing Weekender Day 1 - Saturday, 05.09.2026 | Jonathan Kaspar |
+| Sat, 5 Sept 2026 | Hawā Open Air at DUS Airport w/ Mira / Bryan Kessler / Lexx - Saturday, 05.09.2026 | Bryan Kessler, Jonathan Kaspar, Lexx (BE), Mira |
 | Sun, 6 Sept 2026 | Hawā Open Air at DUS Airport w/ Âme Live - Closing Weekender Day 2 - Sunday, 06.09.2026 | Frank Wiedemann, Jonathan Kaspar, Âme |
 | Sat, 31 Oct 2026 | Hawā Halloween - Friday, 31.10.2026 | Jonathan Kaspar |
 

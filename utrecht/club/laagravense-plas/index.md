@@ -8,6 +8,6 @@ Laagravense Plas is a music venue in Utrecht listed on soundcheck. 1 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Smeerboel Festival 2026 | A For Alpha, ANNASNEL, Alignment, Benny Rodrigues, BØĘRY, DART, DJ Chuckie, Emma Champagne Queen, Freddi, HUJUS, Jamback, Jessie Dols, Job de Jong, KELLAR, Kyle Starkey, Lauren Lo Sung, Lisa Korver, Luuk van Dijk, NewTone, OLIVIA LENSEN, Paige Tomlinson, Parfait, SHE/HER, SNTS, Siggy Lou, Trym, Vall Du Son, Yucky, davyboi |
+| Sat, 12 Sept 2026 | Smeerboel Festival 2026 | A For Alpha, ANNASNEL, Alignment, Benny Rodrigues, BØĘRY, DART, DJ Chuckie, Emma Champagne Queen, Freddi, HUJUS, Jamback, Jessie Dols, Job de Jong, KELLAR, Kyle Starkey, Lauren Lo Sung, Lisa Korver, Luuk van Dijk, NIKOLINA_, NewTone, OLIVIA LENSEN, Paige Tomlinson, Parfait, SHE/HER, SNTS, Siggy Lou, Trym, Vall Du Son, Yucky, davyboi |
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/laagravense-plas/)*

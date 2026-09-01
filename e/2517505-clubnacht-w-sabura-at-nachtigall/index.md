@@ -1,6 +1,6 @@
-# CLUBNACHT w/Sabura at Nachtigall
+# CLUBNACHT w/ Sabura at Nachtigall
 
-CLUBNACHT w/Sabura at Nachtigall on Sat 19 Sept, Cologne. 2 acts on the bill: Cosmic Dance and Sabura. Techno. Preview the line-up and save it on soundcheck.
+CLUBNACHT w/ Sabura at Nachtigall on Sat 19 Sept, Cologne. 2 acts on the bill: Cosmic Dance and Sabura. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

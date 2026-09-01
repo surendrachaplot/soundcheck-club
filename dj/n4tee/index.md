@@ -1,13 +1,14 @@
 # n4tee
 
-n4tee is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Night Tales Loft, London on Fri, 2 Oct 2026.
+n4tee is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
 
-n4tee is a garage and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Barcelona, Belfast, Berlin and Brighton and 14 more. Often billed alongside Auramatic, ESC (5) and Skeptic. Next up: Night Tales Loft, London on Fri 2 Oct.
+n4tee is a garage and house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 15 more. Often billed alongside Auramatic, ESC (5) and Skeptic. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 2 Oct 2026 | Night Tales Loft | London |
 | Fri, 16 Oct 2026 | Distrikt | Leeds |
 | Fri, 30 Oct 2026 | The Brickworks | Nottingham |

@@ -1,8 +1,8 @@
 # Nicole.
 
-Nicole. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
+Nicole. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
 
-Nicole. is a techno and house artist tracked on soundcheck, with 50 sets logged across Berlin, Bucharest, Copenhagen and Paris and 4 more. Often billed alongside Bekuchi, DJ Troy and NX (1). Next up: Kater, Berlin on Sat 5 Sept.
+Nicole. is a techno and house artist tracked on soundcheck, with 51 sets logged across Berlin, Bucharest, Copenhagen and Hamburg and 5 more. Often billed alongside DJ Troy, Bekuchi and NX (1). Next up: Kater, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nicole. is a techno and house artist tracked on soundcheck, with 50 sets logged 
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Kater | Berlin |
 | Fri, 18 Sept 2026 | Marmorbar | Berlin |
+| Sat, 26 Sept 2026 | MS Stubnitz | Hamburg |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Nicole. is a techno and house artist tracked on soundcheck, with 50 sets logged 
 
 ## Shares bills with
 
-Bekuchi, DJ Troy, NX (1)
+DJ Troy, Bekuchi, NX (1)
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicole-2/)*

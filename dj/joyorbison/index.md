@@ -1,8 +1,8 @@
 # Joy Orbison
 
-Joy Orbison is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Joy Orbison is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Joy Orbison is a house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Belfast and 41 more. Often billed alongside Interplanetary Criminal, Overmono and Jyoty. Next up: Union Park, Chicago on Fri 4 Sept.
+Joy Orbison is a house and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Belfast and 41 more. Often billed alongside Interplanetary Criminal, Overmono and Jyoty. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Joy Orbison is a house and techno artist tracked on soundcheck, with 101 sets lo
 | Sat, 5 Sept 2026 | TBA | Toronto |
 | Sun, 6 Sept 2026 | Knockdown Center | New York City |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Sat, 10 Oct 2026 | The Prospect Building | Bristol |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | Plaza Monumental de Barcelona | Barcelona |
 

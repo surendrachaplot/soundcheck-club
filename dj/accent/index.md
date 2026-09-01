@@ -1,14 +1,15 @@
 # Accent'
 
-Accent' is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Machine Hall, Sydney on Fri, 4 Sept 2026.
+Accent' is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Machine Hall, Sydney on Fri, 4 Sept 2026.
 
-Accent' is a house and techno artist based in Australia, tracked on soundcheck, with 41 sets logged across Bali, Melbourne, Seoul and Sydney. Often billed alongside Bortzo, Lewba and louís. Next up: Machine Hall, Sydney on Fri 4 Sept.
+Accent' is a house and techno artist based in Australia, tracked on soundcheck, with 42 sets logged across Bali, Melbourne, Seoul and Sydney. Often billed alongside Bortzo, Lewba and louís. Next up: Machine Hall, Sydney on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Machine Hall | Sydney |
+| Sat, 12 Sept 2026 | TBA | Sydney |
 | Sat, 12 Sept 2026 | TBA | Sydney |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Jonathan Kaspar, Switchdance, HNRQ, Inês Duarte, Varela at Lux Fragil
 
-Jonathan Kaspar, Switchdance, HNRQ, Inês Duarte, Varela at Lux Fragil on Sat 12 Sept, Lisbon. 5 acts on the bill: HNRQ (2), Inês Duarte, Jonathan Kaspar and Switchdance and 1 more. Preview the line-up and save it on soundcheck.
+Jonathan Kaspar, Switchdance, HNRQ, Inês Duarte, Varela at Lux Fragil on Sat 12 Sept, Lisbon. 8 acts on the bill: Fabich, HNRQ (2), Inês Duarte and Jonathan Kaspar and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,12 @@ Jonathan Kaspar, Switchdance, HNRQ, Inês Duarte, Varela at Lux Fragil on Sat 12
 
 ## Line-up
 
+- Fabich
 - HNRQ (2)
 - Inês Duarte
 - Jonathan Kaspar
+- Juju Manju
+- Moulin
 - Switchdance
 - Varela
 

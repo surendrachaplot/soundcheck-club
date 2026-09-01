@@ -9,7 +9,7 @@ Altinbas is a techno and house artist tracked on soundcheck, with 167 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Nitsa Club | Barcelona |
-| Fri, 16 Oct 2026 | La Gravière | Geneva |
+| Fri, 16 Oct 2026 | Various Venues - Genève | Geneva |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 

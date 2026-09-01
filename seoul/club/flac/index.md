@@ -9,7 +9,7 @@ Flac is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with lin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Flac: Gallya with Kotono Shirai | Davico, Gallya, Kotono Shirai |
-| Sat, 5 Sept 2026 | Flac: Shubostar | DARIMI TABLE, Departs, Shubostar |
+| Sat, 5 Sept 2026 | Flac: Shubostar(Kr/Uju records) | DARIMI TABLE, Departs, Shubostar |
 
 ## Address
 

@@ -11,7 +11,7 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 169 sets logge
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 6 Sept 2026 | TBA | Toronto |
 | Fri, 11 Sept 2026 | MÄX | Zurich |
-| Sat, 12 Sept 2026 | TBA | Munich |
+| Sat, 12 Sept 2026 | Zenith - Die Kulturhalle | Munich |
 | Sun, 13 Sept 2026 | Else | Berlin |
 | Sat, 19 Sept 2026 | Mondo Open Air | Madrid |
 | Sat, 19 Sept 2026 | Mondo | Madrid |

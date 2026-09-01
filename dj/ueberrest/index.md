@@ -9,7 +9,7 @@ Ueberrest is a techno and trance artist tracked on soundcheck, with 89 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Industry City | New York City |
-| Sat, 12 Sept 2026 | TBA | Munich |
+| Sat, 12 Sept 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 19 Sept 2026 | Westhafen | Leipzig |
 | Fri, 25 Sept 2026 | Club Vaag | Antwerp |
 | Sat, 26 Sept 2026 | Südbrücke Open Air | Cologne |

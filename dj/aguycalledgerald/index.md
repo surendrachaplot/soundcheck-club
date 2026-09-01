@@ -1,13 +1,14 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
+A Guy Called Gerald is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Lux Fragil, Lisbon on Fri, 18 Sept 2026.
 
-A Guy Called Gerald is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 34 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: The Jazz Cafe, London on Fri 25 Sept.
+A Guy Called Gerald is a house and techno artist tracked on soundcheck, with 110 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 34 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: Lux Fragil, Lisbon on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Lux Fragil | Lisbon |
 | Fri, 25 Sept 2026 | The Jazz Cafe | London |
 | Wed, 4 Nov 2026 | The Castle & Falcon | Birmingham |
 

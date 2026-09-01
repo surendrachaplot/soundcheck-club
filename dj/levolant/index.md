@@ -1,13 +1,14 @@
 # levolant
 
-levolant is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mitsuki, Tokyo on Tue, 29 Sept 2026.
+levolant is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri, 25 Sept 2026.
 
-levolant is a house and techno artist based in Japan, tracked on soundcheck, with 151 sets logged across Bangkok, Hongkong, Kyoto and Osaka and 2 more. Often billed alongside Satoshi Otsuki, DJ Shibata and Celter. Next up: Mitsuki, Tokyo on Tue 29 Sept.
+levolant is a house and techno artist based in Japan, tracked on soundcheck, with 152 sets logged across Bangkok, Hongkong, Kyoto and Osaka and 2 more. Often billed alongside Satoshi Otsuki, DJ Shibata and Celter. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
 | Tue, 29 Sept 2026 | Mitsuki | Tokyo |
 | Mon, 12 Oct 2026 | Mitsuki | Tokyo |
 | Sat, 24 Oct 2026 | Mitsuki | Tokyo |

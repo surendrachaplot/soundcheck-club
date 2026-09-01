@@ -1,8 +1,8 @@
 # Tash LC
 
-Tash LC is a House and Dancehall artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Else, Berlin on Sat, 5 Sept 2026.
+Tash LC is a Dancehall and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Else, Berlin on Sat, 5 Sept 2026.
 
-Tash LC is a house and dancehall artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Ahadadream, Jamz Supernova and Moxie. Next up: Else, Berlin on Sat 5 Sept.
+Tash LC is a dancehall and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Ahadadream, Jamz Supernova and Moxie. Next up: Else, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 

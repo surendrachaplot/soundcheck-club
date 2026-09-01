@@ -10,7 +10,7 @@ Kobosil is a techno and house artist tracked on soundcheck, with 226 sets logged
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
-| Sat, 12 Sept 2026 | TBA | Munich |
+| Sat, 12 Sept 2026 | Zenith - Die Kulturhalle | Munich |
 | Sun, 13 Sept 2026 | Escala25 | Lisbon |
 | Fri, 18 Sept 2026 | Radius | Chicago |
 | Fri, 18 Sept 2026 | Radius | Chicago |

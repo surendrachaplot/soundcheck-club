@@ -1,13 +1,14 @@
 # William Kiss
 
-William Kiss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
+William Kiss is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
 
-William Kiss is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside Jordan Brando, Luke Alessi and Azzecca. Next up: Factory Town, Miami on Fri 30 Oct.
+William Kiss is a house and techno artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside Jordan Brando, Luke Alessi and Azzecca. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played

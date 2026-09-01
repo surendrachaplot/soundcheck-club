@@ -1,8 +1,8 @@
 # S.H.V
 
-S.H.V is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Saloon, Tokyo on Thu, 3 Sept 2026.
+S.H.V is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Saloon, Tokyo on Thu, 3 Sept 2026.
 
-S.H.V is a techno and bass artist based in Japan, tracked on soundcheck, with 22 sets logged across Tokyo. Often billed alongside MoEPiKA, SAMO (JP) and YUVIE. Next up: Saloon, Tokyo on Thu 3 Sept.
+S.H.V is a techno and bass artist based in Japan, tracked on soundcheck, with 23 sets logged across Tokyo. Often billed alongside MoEPiKA, YUVIE and Eichi Abe. Next up: Saloon, Tokyo on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ S.H.V is a techno and bass artist based in Japan, tracked on soundcheck, with 22
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Saloon | Tokyo |
 | Fri, 11 Sept 2026 | Saloon | Tokyo |
+| Fri, 9 Oct 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ S.H.V is a techno and bass artist based in Japan, tracked on soundcheck, with 22
 
 ## Shares bills with
 
-MoEPiKA, SAMO (JP), YUVIE
+MoEPiKA, YUVIE, Eichi Abe
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.h.v/)*

@@ -9,7 +9,7 @@ Samuel Deep is a house and techno artist tracked on soundcheck, with 186 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Bassiani | Tbilisi |
-| Sat, 5 Sept 2026 | TBA | Liverpool |
+| Sat, 5 Sept 2026 | St Brides Church | Liverpool |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | The Loft | Manchester |

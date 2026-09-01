@@ -9,8 +9,8 @@ La Vera Notte is a techno and industrial artist based in Spain, tracked on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | E1 | London |
-| Fri, 4 Sept 2026 | E1 | London |
 | Sun, 4 Oct 2026 | Ministerium Club | Lisbon |
+| Sat, 7 Nov 2026 | E1 | London |
 
 ## Recently played
 

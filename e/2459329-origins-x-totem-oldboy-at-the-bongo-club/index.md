@@ -1,6 +1,6 @@
 # Origins x TOTEM: Oldboy at The Bongo Club
 
-Origins x TOTEM: Oldboy at The Bongo Club on Thu 17 Sept, Edinburgh. 3 acts on the bill: Oldboy (UK), Rònan White and yung kidd. House. Preview the line-up and save it on soundcheck.
+Origins x TOTEM: Oldboy at The Bongo Club on Thu 17 Sept, Edinburgh. 6 acts on the bill: Fug (1), Lui Mackay, Oldboy and Oldboy (UK) and 2 more. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Origins x TOTEM: Oldboy at The Bongo Club on Thu 17 Sept, Edinburgh. 3 acts on t
 
 ## Line-up
 
+- Fug (1)
+- Lui Mackay
+- Oldboy
 - Oldboy (UK)
 - Rònan White
 - yung kidd

@@ -1,6 +1,6 @@
 # Fantastic Man, Raphael Carrau, Inês Duarte, HNRQ, NVNO at Lux Fragil
 
-Fantastic Man, Raphael Carrau, Inês Duarte, HNRQ, NVNO at Lux Fragil on Sat 5 Sept, Lisbon. 4 acts on the bill: Fantastic Man, HNRQ (2), Inês Duarte and Raphael Carrau. Preview the line-up and save it on soundcheck.
+Fantastic Man, Raphael Carrau, Inês Duarte, HNRQ, NVNO at Lux Fragil on Sat 5 Sept, Lisbon. 5 acts on the bill: Fantastic Man, HNRQ (2), Inês Duarte and Nadezda and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Fantastic Man, Raphael Carrau, Inês Duarte, HNRQ, NVNO at Lux Fragil on Sat 5 S
 - Fantastic Man
 - HNRQ (2)
 - Inês Duarte
+- Nadezda
 - Raphael Carrau
 
 *Source: [soundcheck](https://soundcheck.club/e/2526091-fantastic-man-raphael-carrau-in-s-duarte-hnrq-nvno-at-lux-fr/)*

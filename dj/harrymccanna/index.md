@@ -1,14 +1,14 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Liverpool on Sat, 5 Sept 2026.
+Harry McCanna is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at St Brides Church, Liverpool on Sat, 5 Sept 2026.
 
-Harry McCanna is a house and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: TBA, Liverpool on Sat 5 Sept.
+Harry McCanna is a house and tech house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: St Brides Church, Liverpool on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA | Liverpool |
+| Sat, 5 Sept 2026 | St Brides Church | Liverpool |
 | Fri, 11 Sept 2026 | FOLD | London |
 | Sat, 12 Sept 2026 | Starlane Pizza Bar | London |
 | Sat, 12 Sept 2026 | Starlane Pizza Bar | London |

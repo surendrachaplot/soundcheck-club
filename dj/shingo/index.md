@@ -1,13 +1,14 @@
 # Shingo
 
-Shingo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Daphnia, Osaka on Sat, 26 Sept 2026.
+Shingo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Nué Seoul, Seoul on Sat, 5 Sept 2026.
 
-Shingo is a techno and house artist based in Japan, tracked on soundcheck, with 67 sets logged across Bali, Kyoto, Liverpool and Osaka and 2 more. Often billed alongside ONO (3), VIDEOBOY and AOKI takamasa. Next up: Club Daphnia, Osaka on Sat 26 Sept.
+Shingo is a techno and house artist based in Japan, tracked on soundcheck, with 68 sets logged across Bali, Kyoto, Liverpool and Osaka and 2 more. Often billed alongside ONO (3), VIDEOBOY and AOKI takamasa. Next up: Nué Seoul, Seoul on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Nué Seoul | Seoul |
 | Sat, 26 Sept 2026 | Club Daphnia | Osaka |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Hasenbau Halloween Festival at TBA
 
-Hasenbau Halloween Festival at TBA on Sat 31 Oct, Cologne. Preview the line-up and save it on soundcheck.
+Hasenbau Halloween Festival at TBA on Sat 31 Oct, Cologne. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

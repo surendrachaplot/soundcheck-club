@@ -1,14 +1,15 @@
 # Dicky Trisco
 
-Dicky Trisco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mad Radio Miami, Miami on Fri, 4 Sept 2026.
+Dicky Trisco is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mad Radio Miami, Miami on Fri, 4 Sept 2026.
 
-Dicky Trisco is a disco and house artist tracked on soundcheck, with 61 sets logged across Aberdeen, Bangkok, Barcelona and Denver and 12 more. Often billed alongside Natasha Kitty Katt, Lisa Loud and Irena Stanisic. Next up: Mad Radio Miami, Miami on Fri 4 Sept.
+Dicky Trisco is a disco and house artist tracked on soundcheck, with 62 sets logged across Aberdeen, Bangkok, Barcelona and Denver and 12 more. Often billed alongside Natasha Kitty Katt, Lisa Loud and Irena Stanisic. Next up: Mad Radio Miami, Miami on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Mad Radio Miami | Miami |
+| Fri, 11 Sept 2026 | Hi Dive | Denver |
 
 ## Recently played
 

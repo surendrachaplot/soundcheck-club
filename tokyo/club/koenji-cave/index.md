@@ -14,7 +14,7 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, w
 | Sat, 12 Sept 2026 | 'The Psychedelic Trance Party' Kaleidoscope Vol.21 | BERLINER KINDL |
 | Fri, 18 Sept 2026 | Koenji Cave presents ◎PHANTOM◎ Vol.34 | CyberMoripy, Raveman |
 | Tue, 22 Sept 2026 | Koenji Cave presents - EL DORADO - XXII | CATRONICA, NAGEE |
-| Fri, 25 Sept 2026 | Koenji Cave presents ▷ Laboratory Vol.34 | Frank S |
+| Fri, 25 Sept 2026 | Koenji Cave presents ▷ Laboratory Vol.34 | Bones, Frank S |
 | Sat, 26 Sept 2026 | Koenji Cave presents - Tempest - Vol.23 |  |
 
 ## Address

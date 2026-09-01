@@ -11,7 +11,7 @@ Obscure Shape is a techno and house artist tracked on soundcheck, with 89 sets l
 | Fri, 4 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 5 Sept 2026 | TBA - Secret Warehouse | Paris |
 | Thu, 10 Sept 2026 | The Art School | Glasgow |
-| Sat, 12 Sept 2026 | TBA | Munich |
+| Sat, 12 Sept 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 25 Sept 2026 | 1520 | Manchester |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 30 Oct 2026 | Airport Würzburg | Nürnberg |

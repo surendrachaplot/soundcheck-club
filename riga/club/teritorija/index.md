@@ -1,8 +1,8 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "COSMO RAVE: HYPNOSES" on Fri, 4 Sept 2026.
+Teritorija is a music venue in Riga with 14 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "COSMO RAVE: HYPNOSES" on Fri, 4 Sept 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 8 upcoming nights, with line-ups including B2BBASS, DENOVA, Esoniq and excels and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 14 upcoming nights, with line-ups including Aniri Chan, ARRISHA, B2BBASS and DENOVA and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
@@ -10,12 +10,14 @@ Teritorija is a music venue in Riga listed on soundcheck. 8 upcoming nights, wit
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | COSMO RAVE: HYPNOSES | Golden Habit, Ikss, UZAY |
 | Sat, 5 Sept 2026 | Vinyl Pressure | Esoniq, UZAY |
-| Sat, 19 Sept 2026 | BASS SLAUGHTER x TRT: ANGEL'S SECRET | DENOVA, MVKO, XSYNC19, excels, oshigakill |
+| Fri, 11 Sept 2026 | Aniri Chan // VLAD PHANGAN | Aniri Chan, VLAD PHANGAN |
+| Sat, 12 Sept 2026 | LETRIX // ARRISHA | ARRISHA, LETRIX |
+| Fri, 18 Sept 2026 | mOZ // Notwelcome | Notwelcome, mOZ (2) |
+| Sat, 19 Sept 2026 | VLAD PHANGAN | VLAD PHANGAN |
+| Sat, 19 Sept 2026 | BASS SLAUGHTER x TRT: ANGEL'S SECRET | DENOVA, MVKO, VLAD PHANGAN, XSYNC19, excels, oshigakill |
 | Sat, 19 Sept 2026 | BASS SLAUGHTER session 6 (ANGEL'S SECRET) | B2BBASS, XSYNC19, excels, keyshawty |
-| Fri, 9 Oct 2026 | COSMO RAVE: AROUND THE WORLD |  |
-| Fri, 16 Oct 2026 | Platz fur Tanz x Teritorija 10 Years Anniversary |  |
-| Sat, 31 Oct 2026 | BASS SLAUGHTER x TRT: HALLOWEEN NIGHTMARE |  |
-| Fri, 20 Nov 2026 | Platz fur Tanz x Teritorija |  |
+| Fri, 25 Sept 2026 | Mike Discoid // Pulss | Mike Discoid, Pulss |
+| Sat, 26 Sept 2026 | Kat Kat Tat | Kat Kat Tat |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # Interval - Dan Newman [UK] + Ryan Maloney at Glamorama
 
-Interval - Dan Newman [UK] + Ryan Maloney at Glamorama on Fri 4 Sept, Melbourne. 2 acts on the bill: Dan Newman and Ryan Maloney. Trance and House. Preview the line-up and save it on soundcheck.
+Interval - Dan Newman [UK] + Ryan Maloney at Glamorama on Fri 4 Sept, Melbourne. 4 acts on the bill: BETHANY (1), CAGED, Dan Newman and Ryan Maloney. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Interval - Dan Newman [UK] + Ryan Maloney at Glamorama on Fri 4 Sept, Melbourne.
 
 ## Line-up
 
+- BETHANY (1)
+- CAGED
 - Dan Newman
 - Ryan Maloney
 

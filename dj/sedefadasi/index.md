@@ -1,8 +1,8 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
+Sedef Adasï is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
 
-Sedef Adasï is a techno and house artist tracked on soundcheck, with 274 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Sept.
+Sedef Adasï is a techno and house artist tracked on soundcheck, with 275 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 274 sets l
 | Mon, 7 Sept 2026 | DC-10 | Ibiza |
 | Sun, 20 Sept 2026 | Nowadays | New York City |
 | Sat, 26 Sept 2026 | Sub Club | Glasgow |
+| Fri, 16 Oct 2026 | Various Venues - Genève | Geneva |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |

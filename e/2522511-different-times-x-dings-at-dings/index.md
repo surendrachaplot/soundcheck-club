@@ -1,10 +1,10 @@
 # Different times x Dings at Dings
 
-Different times x Dings on Sat 17 Oct, Munich. House and Dub Techno. Preview the line-up and save it on soundcheck.
+Different times x Dings on Sat 24 Oct, Munich. House and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 17 Oct 2026 |
+| Date | Sat, 24 Oct 2026 |
 | Venue | Dings |
 | City | Munich |
 

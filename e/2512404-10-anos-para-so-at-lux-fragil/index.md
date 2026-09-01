@@ -1,6 +1,6 @@
 # 10 Anos Paraíso at Lux Fragil
 
-10 Anos Paraíso at Lux Fragil on Fri 4 Sept, Lisbon. 7 acts on the bill: Dexter Lux, Maria Amor, rkeat and RoundHouse Kick and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+10 Anos Paraíso at Lux Fragil on Fri 4 Sept, Lisbon. 9 acts on the bill: Adam Purnell, CVLT, Dexter Lux and Maria Amor and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@
 
 ## Line-up
 
+- Adam Purnell
+- CVLT
 - Dexter Lux
 - Maria Amor
 - rkeat

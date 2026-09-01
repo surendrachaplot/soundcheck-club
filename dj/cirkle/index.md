@@ -12,7 +12,7 @@ Cirkle is a techno and house artist tracked on soundcheck, with 123 sets logged 
 | Fri, 18 Sept 2026 | Else | Berlin |
 | Fri, 25 Sept 2026 | AUX Club | Athens |
 | Fri, 2 Oct 2026 | AUX Club | Athens |
-| Fri, 16 Oct 2026 | La Gravière | Geneva |
+| Fri, 16 Oct 2026 | Various Venues - Genève | Geneva |
 | Tue, 27 Oct 2026 | AUX Club | Athens |
 | Sat, 7 Nov 2026 | Universe Athens | Athens |
 

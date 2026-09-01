@@ -1,14 +1,15 @@
 # Nettta
 
-Nettta is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at ://about blank, Berlin on Fri, 4 Sept 2026.
+Nettta is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at ://about blank, Berlin on Fri, 4 Sept 2026.
 
-Nettta is a techno and trance artist based in Germany, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Hamburg and Paris. Often billed alongside EZA (DE), Blossmbae and Cobb Douglas. Next up: ://about blank, Berlin on Fri 4 Sept.
+Nettta is a techno and trance artist based in Germany, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 1 more. Often billed alongside EZA (DE), Blossmbae and Cobb Douglas. Next up: ://about blank, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | ://about blank | Berlin |
+| Sat, 5 Sept 2026 | Schrotty | Cologne |
 | Wed, 16 Sept 2026 | KitKatClub | Berlin |
 | Fri, 18 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 10 Oct 2026 | Lokschuppen Berlin | Berlin |

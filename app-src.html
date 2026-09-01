@@ -1802,6 +1802,17 @@
     /* the promoter mark is the one type with no photo AND a namesake venue row right
        next to it — the accent tint is what separates them at a glance. */
     .sx-uni-ic.sx-ic-promoter{ color:var(--accent); }
+    /* Mixcloud's widget is the stage, not a hidden iframe: their API only works
+       when it is visible, and it carries their branding and a link back. */
+    .video-wrap iframe.mc{ width:100%; height:120px; border:0; border-radius:var(--radius); background:var(--surface-2); }
+    /* The collapsed dock parks .video-wrap off-canvas at opacity 0 — which is
+       fine for SoundCloud (audio only, hidden by design) and fatal for Mixcloud,
+       whose API stops answering when its widget is not visible. So for Mixcloud
+       the widget stays on screen in the collapsed dock too. */
+    .dock.mc-on:not(.expanded) .video-wrap{ position:static; width:100%; height:auto; opacity:1; pointer-events:auto; z-index:auto; }
+    /* Mixcloud refuses seek() on some mixes. A knob that moves and changes
+       nothing is worse than one that plainly cannot, so the bar goes inert. */
+    body.no-seek #bar{ cursor:default; opacity:.55; pointer-events:none; }
     .sx-uni-m{ flex:1; min-width:0; display:flex; flex-direction:column; }
     .sx-uni-nm{ font:700 var(--fs-base)/var(--lh-base) var(--head); letter-spacing:-.01em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .sx-uni-sub{ font:600 var(--fs-xs)/var(--lh-xs) var(--body); color:var(--muted); margin-top:1px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
@@ -4268,7 +4279,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788265978910">
+<meta name="sc-build" content="1788273004435">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4327,7 +4338,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">23 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">104 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">130 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">23 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">23 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">103 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">130 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">23 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4464,7 +4475,7 @@
     // Bump on ANY change to how a set is matched or ranked: it is the cache key
     // for both /api/youtube/sets and /api/youtube/cached, so one edit here drops
     // every stale copy in every browser and at the edge.
-    var YT_SETS_V = '4';   // 2026-08-30: uploader-name collisions (Binh) — bumped to bust every cached set list
+    var YT_SETS_V = '5';   // 2026-09-01: MixesDB joins the Sets tab, and the embed-URL fix rewrote every stored mix url
 
     var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -4828,7 +4839,7 @@
     }
 
     // YouTube IFrame API readiness
-    var ytReady=false, pendingYt=null, ytPlayer=null, ytReadyFlag=false, scWidget=null, currentType=null;
+    var ytReady=false, pendingYt=null, ytPlayer=null, ytReadyFlag=false, scWidget=null, mcWidget=null, mcCanSeek=true, currentType=null;
     window.onYouTubeIframeAPIReady=function(){ ytReady=true; if(pendingYt){ var f=pendingYt; pendingYt=null; f(); } };
 
     // ── lazy SDK loaders (first play only — keeps both off the critical path) ──
@@ -4845,6 +4856,13 @@
       if(scApiLoading) return; scApiLoading=true;
       var s=document.createElement('script'); s.src='https://w.soundcloud.com/player/api.js'; s.async=true;
       s.onload=function(){ var cbs=scReadyCbs; scReadyCbs=[]; cbs.forEach(function(f){ try{ f(); }catch(_){} }); };
+      document.head.appendChild(s);
+    }
+    // Mixcloud's widget API, loaded the same lazy way as SoundCloud's.
+    function loadMcApi(cb){
+      if(window.Mixcloud && window.Mixcloud.PlayerWidget){ cb(); return; }
+      var s=document.createElement('script'); s.src='https://widget.mixcloud.com/media/js/widgetApi.js'; s.async=true;
+      s.onload=cb; s.onerror=function(){};
       document.head.appendChild(s);
     }
 
@@ -4869,7 +4887,7 @@
         }
       }catch(_){}
     }   /* keep the slider playhead's icon in sync with the transport play button */
-    function clearPlayers(){ stopPoll(); if(ytPlayer){ try{ ytPlayer.destroy(); }catch(_){} ytPlayer=null; ytReadyFlag=false; } scWidget=null; currentType=null; pendingYt=null; resetScrub(); }
+    function clearPlayers(){ stopPoll(); if(ytPlayer){ try{ ytPlayer.destroy(); }catch(_){} ytPlayer=null; ytReadyFlag=false; } scWidget=null; mcWidget=null; mcCanSeek=true; document.body.classList.remove('no-seek'); dock.classList.remove('mc-on'); currentType=null; pendingYt=null; resetScrub(); }
     function ytSize(){ var w = window.innerWidth<=620 ? Math.min(320, window.innerWidth-40) : 400; return { w:w, h:Math.round(w*9/16) }; }
 
     // ── scrubber (works for both YT IFrame API and SC Widget API) ──
@@ -4882,7 +4900,15 @@
     function stopPoll(){ if(pollTimer){ clearInterval(pollTimer); pollTimer=null; } }
     function startPoll(){ stopPoll(); pollTimer=setInterval(function(){ if(scrubbing) return; if(currentType==='yt'&&ytPlayer&&ytPlayer.getCurrentTime){ pos=ytPlayer.getCurrentTime()||0; var d=ytPlayer.getDuration&&ytPlayer.getDuration(); if(d) dur=d; paintScrub(); } },500); }
     function livePos(){ if(currentType==='yt'&&ytPlayer&&ytPlayer.getCurrentTime) return ytPlayer.getCurrentTime()||0; return pos; }
-    function seekTo(sec){ sec=Math.max(0,dur?Math.min(dur,sec):sec); if(currentType==='yt'&&ytPlayer&&ytPlayer.seekTo){ ytPlayer.seekTo(sec,true); } else if(currentType==='sc'&&scWidget){ scWidget.seekTo(sec*1000); } pos=sec; paintScrub(); }
+    function seekTo(sec){ sec=Math.max(0,dur?Math.min(dur,sec):sec); if(currentType==='yt'&&ytPlayer&&ytPlayer.seekTo){ ytPlayer.seekTo(sec,true); } else if(currentType==='sc'&&scWidget){ scWidget.seekTo(sec*1000); }
+      // Mixcloud answers seek() with true/false — it is not always allowed. A
+      // knob that moves and changes nothing is worse than a knob that says it
+      // cannot; on a refusal the bar goes read-only and stays there.
+      else if(currentType==='mc'&&mcWidget){
+        if(!mcCanSeek) return;
+        try{ mcWidget.seek(sec).then(function(ok){ if(ok===false){ mcCanSeek=false; document.body.classList.add('no-seek'); } }); }catch(_){}
+      }
+      pos=sec; paintScrub(); }
     function barFrac(e){ var r=barEl.getBoundingClientRect(); var cx=(e.clientX!=null?e.clientX:(e.touches&&e.touches[0]?e.touches[0].clientX:0)); return Math.min(1,Math.max(0,(cx-r.left)/r.width)); }
     // Seek by fraction, for the native app's dock.
     //
@@ -5099,6 +5125,61 @@
         try{ scWidget.getDuration(function(ms){ if(ms){ dur=ms/1000; paintScrub(); } }); }catch(_){} // READY may have already fired
       });
     }
+    // ── Mixcloud ────────────────────────────────────────────────────────────
+    // Same shape as playSc: their iframe widget, with their API bound to it for
+    // the scrubber and play/pause. Not a scraped stream — the widget is what
+    // pays the rights holders, and it is the only way they permit.
+    //
+    // ONE REAL DIFFERENCE: their API needs the widget VISIBLE. SoundCloud's can
+    // sit hidden behind the album art; this one is the stage. That is also the
+    // honest thing to show — it carries their branding and a link back.
+    function playMc(btn){
+      clearPlayers(); currentType='mc';
+      var f=document.createElement('iframe');
+      f.className='mc'; f.allow='autoplay'; f.setAttribute('frameborder','0');
+      f.width='100%'; f.height='120';
+      f.src='https://player-widget.mixcloud.com/widget/iframe/?feed='+encodeURIComponent(btn.dataset.mc)+'&hide_cover=1&mini=1&light=0';
+      dockMedia.innerHTML='';
+      dockMedia.appendChild(f);
+      dock.classList.add('mc-on');
+      openDockUI(btn, btn.dataset.name||'Now playing', btn.dataset.sub||'Mixcloud', true);
+      curTracklist=[]; curVideoId=null; dock.classList.remove('has-tl');
+      loadMcApi(function(){
+        if(currentType!=='mc' || !f.isConnected) return;   // listener moved on
+        try{ mcWidget=Mixcloud.PlayerWidget(f); }catch(_){ return; }
+        mcWidget.ready.then(function(){
+          if(currentType!=='mc') return;
+          // Browsers block autoplay the listener did not ask for. They DID ask —
+          // they pressed play on a set — but the gesture happened in our page,
+          // not in their iframe, so this can still be refused. It is not an
+          // error worth surfacing: the widget shows its own play button.
+          try{ mcWidget.play(); }catch(_){}
+          mcWidget.getDuration().then(function(d){ if(d){ dur=d; paintScrub(); } }).catch(function(){});
+          mcWidget.events.play.on(function(){ updatePP(true); });
+          mcWidget.events.pause.on(function(){ updatePP(false); });
+          mcWidget.events.ended.on(function(){ updatePP(false); });
+          mcWidget.events.progress.on(function(p, d){
+            if(scrubbing) return;
+            if(typeof p==='number') pos=p;
+            if(typeof d==='number' && d) dur=d;
+            paintScrub();
+          });
+        }).catch(function(){});
+      });
+    }
+    function playMcUrl(url, title, art, source, artist){
+      if(!url) return false;
+      setDockReport('', '', source||'mixcloud');   // nothing to demote — no YouTube video here
+      var who=(artist&&artist.name)||'', slug=(artist&&artist.slug)||'';
+      var el=document.createElement('button'); el.className='play mc';
+      el.dataset.mc=url;
+      el.dataset.name=who||title||'Set';
+      el.dataset.slug=slug;
+      el.dataset.kind='mc';
+      el.dataset.sub=[who?title:'', source||'Mixcloud'].filter(Boolean).join(' · ');
+      el.dataset.poster=art||'';
+      playMc(el); return true;
+    }
     function playYt(btn,videoId,startSec){
       if(typeof radio!=='undefined' && radio.on) radioStop();   // taking over from the radio
       // Clear the previously-playing button if we're switching tracks.
@@ -5192,6 +5273,7 @@
       if(currentType==='yt' && ytPlayer && ytPlayer.getPlayerState){
         if(ytPlayer.getPlayerState()===1) ytPlayer.pauseVideo(); else ytPlayer.playVideo();
       } else if(currentType==='sc' && scWidget){ scWidget.toggle(); }
+      else if(currentType==='mc' && mcWidget){ try{ mcWidget.togglePlay(); }catch(_){} }
     }
     dockPP.addEventListener('click',togglePlay);
     // Spacebar toggles play/pause on web — but never when typing in a field or with a
@@ -9527,10 +9609,26 @@
             // One bump of YT_SETS_V now busts all three together.
             grab('/api/youtube/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(artist)+'&v='+YT_SETS_V),
             grab('/api/soundcloud/sets?slug='+encodeURIComponent(slug)+'&v='+YT_SETS_V),
-            grab('/api/nts/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(artist)+'&v='+YT_SETS_V)
+            grab('/api/nts/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(artist)+'&v='+YT_SETS_V),
+            // MixesDB: sets keyed to the artist by a person, not matched from a
+            // title. Its rows are the trustworthy ones — see mixesdb.js.
+            grab('/api/mixesdb/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(artist)+'&v='+YT_SETS_V)
           ]).then(function(res){
-            var yj=res[0]||{}, sj=res[1]||{}, nj=res[2]||{};
+            var yj=res[0]||{}, sj=res[1]||{}, nj=res[2]||{}, mj=res[3]||{};
             var items=[];
+            // FIRST, because a human put this set on this artist. Everything
+            // below it was matched from a title, which is what put seven
+            // Vietnamese remixes on Binh's page.
+            var MC_KIND={ soundcloud:'sc', youtube:'yt', mixcloud:'mc' };
+            var MC_BADGE={ soundcloud:'SC', youtube:'YT', mixcloud:'MC' };
+            ((mj.sets)||[]).forEach(function(s){
+              var k=MC_KIND[s.host]; if(!k) return;      // a host we cannot play
+              items.push({
+                kind:k, title:s.page_title||'Set', src:'MixesDB', badge:MC_BADGE[s.host],
+                thumb:'', dur:s.duration_sec, url:s.host==='youtube'?null:s.url,
+                videoId:s.host==='youtube'?(/[?&]v=([\w-]+)/.exec(s.url)||/youtu\.be\/([\w-]+)/.exec(s.url)||[])[1]:null,
+                page:s.page, tracks:s.n_tracks, partial:s.tracks_partial });
+            });
             // YouTube first — it is the primary source and usually the fullest.
             ((yj.sets)||[]).forEach(function(s){ items.push({
               kind:'yt', title:s.title||'Set', src:s.channel||'YouTube', badge:'YT',
@@ -9551,6 +9649,20 @@
             // punctuation stripped; keep the first of each group. Same channel
             // AND same series is a deliberately narrow rule, so genuinely
             // different sets on one channel still stand alone.
+            // THE SAME SET FROM TWO SOURCES IS ONE SET. MixesDB carries the
+            // SoundCloud URL, and /api/soundcloud/sets returns the same mix from
+            // the artist's own profile — without this, every Binh set is listed
+            // twice with different titles. MixesDB is added first, so it wins.
+            (function(){
+              var byUrl={}, out=[];
+              items.forEach(function(it){
+                var k=it.videoId?('v:'+it.videoId):(it.url?('u:'+String(it.url).replace(/\/+$/,'').toLowerCase()):null);
+                if(k && byUrl[k]) return;
+                if(k) byUrl[k]=1;
+                out.push(it);
+              });
+              items=out;
+            })();
             (function(){
               var seen={}, out=[];
               items.forEach(function(it){
@@ -9591,7 +9703,10 @@
               if(it.kind==='yt'){ playYtList(ytQ, ytQ.findIndex(function(x){ return x.videoId===it.videoId; })); return; }
               // SoundCloud and NTS both play through the SC widget — an NTS
               // episode's audio_source IS a soundcloud url.
-              playScUrl(it.url||it.audio, it.title, it.thumb, it.badge==='NTS'?'NTS Radio':'SoundCloud', { name:artist, slug:slug });
+              // Mixcloud has its own widget — same shape as the SoundCloud one,
+              // but its API needs the iframe visible, so it cannot share playSc.
+              if(it.kind==='mc'){ playMcUrl(it.url, it.title, it.thumb, it.src||'Mixcloud', { name:artist, slug:slug }); return; }
+              playScUrl(it.url||it.audio, it.title, it.thumb, it.badge==='NTS'?'NTS Radio':(it.src==='MixesDB'?'MixesDB':'SoundCloud'), { name:artist, slug:slug });
             }); });
 
             // Shelves are keyed by videoId, so they stay on the YouTube rows.

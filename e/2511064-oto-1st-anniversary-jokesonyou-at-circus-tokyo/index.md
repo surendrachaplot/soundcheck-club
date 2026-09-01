@@ -1,6 +1,6 @@
 # OTO 1ST ANNIVERSARY -JOKESONYOU- at Circus Tokyo
 
-OTO 1ST ANNIVERSARY -JOKESONYOU- at Circus Tokyo on Fri 11 Sept, Tokyo. 4 acts on the bill: Elena Midori, JOKESONYOU, PANICWORKS and STRATAH. Trance and Techno. Preview the line-up and save it on soundcheck.
+OTO 1ST ANNIVERSARY -JOKESONYOU- at Circus Tokyo on Fri 11 Sept, Tokyo. 5 acts on the bill: Elena Midori, JOKESONYOU, LOUNA (2) and PANICWORKS and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ OTO 1ST ANNIVERSARY -JOKESONYOU- at Circus Tokyo on Fri 11 Sept, Tokyo. 4 acts o
 
 - Elena Midori
 - JOKESONYOU
+- LOUNA (2)
 - PANICWORKS
 - STRATAH
 

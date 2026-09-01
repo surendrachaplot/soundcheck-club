@@ -1,6 +1,6 @@
 # Smeerboel Festival 2026 at Laagravense Plas
 
-Smeerboel Festival 2026 at Laagravense Plas on Sat 12 Sept, Utrecht. 29 acts on the bill: A For Alpha, Alignment, ANNASNEL and Benny Rodrigues and 25 more. Techno and House. Preview the line-up and save it on soundcheck.
+Smeerboel Festival 2026 at Laagravense Plas on Sat 12 Sept, Utrecht. 30 acts on the bill: A For Alpha, Alignment, ANNASNEL and Benny Rodrigues and 26 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -30,6 +30,7 @@ Smeerboel Festival 2026 at Laagravense Plas on Sat 12 Sept, Utrecht. 29 acts on 
 - Lisa Korver
 - Luuk van Dijk
 - NewTone
+- NIKOLINA_
 - OLIVIA LENSEN
 - Paige Tomlinson
 - Parfait

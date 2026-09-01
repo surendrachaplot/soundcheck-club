@@ -1,8 +1,8 @@
 # I-F
 
-I-F is a Disco and Italo Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Sameheads, Berlin on Sat, 5 Sept 2026.
+I-F is a Disco and Italo Disco artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Sameheads, Berlin on Sat, 5 Sept 2026.
 
-I-F is a disco and italo disco artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 11 more. Often billed alongside Intergalactic Gary, Marsman and Esther Dune. Next up: Sameheads, Berlin on Sat 5 Sept.
+I-F is a disco and italo disco artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside Intergalactic Gary, Marsman and Esther Dune. Next up: Sameheads, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ I-F is a disco and italo disco artist tracked on soundcheck, with 81 sets logged
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Sameheads | Berlin |
 | Sat, 5 Sept 2026 | Sameheads | Berlin |
+| Fri, 18 Sept 2026 | Lux Fragil | Lisbon |
 | Fri, 25 Sept 2026 | Het Sieraad | Amsterdam |
 | Sat, 26 Sept 2026 | TBA - Inter-city  | The Hague |
 | Sat, 10 Oct 2026 | Rachdingue | Barcelona |

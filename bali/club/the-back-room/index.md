@@ -1,0 +1,17 @@
+# The Back Room
+
+The Back Room is a music venue in Bali with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "COSMOS - Oshana, Ace Vision & Archie" on Fri, 18 Sept 2026.
+
+The Back Room is a music venue in Bali listed on soundcheck. 1 upcoming night, with line-ups including Ace Vision, Archie Dennis and Oshana. Browse upcoming dates, start times and who's playing. Jl. Pantai Batu Bolong No.39a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Fri, 18 Sept 2026 | COSMOS - Oshana, Ace Vision & Archie | Ace Vision, Archie Dennis, Oshana |
+
+## Address
+
+Jl. Pantai Batu Bolong No.39a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia, Bali
+
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/bali/club/the-back-room/)*

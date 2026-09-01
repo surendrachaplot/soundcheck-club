@@ -1,13 +1,14 @@
 # Gabriel Muñoz
 
-Gabriel Muñoz is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Gabriel Muñoz is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
 
-Gabriel Muñoz is a house and garage artist tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Bali and Berlin and 8 more. Often billed alongside Milion, Lasse Top and Bella Claxton. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Gabriel Muñoz is a house and garage artist tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Bali and Berlin and 8 more. Often billed alongside Milion, Bella Claxton and Lasse Top. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 24 Oct 2026 | Ijland | Amsterdam |
 
@@ -24,6 +25,6 @@ Gabriel Muñoz is a house and garage artist tracked on soundcheck, with 35 sets 
 
 ## Shares bills with
 
-Milion, Lasse Top, Bella Claxton
+Milion, Bella Claxton, Lasse Top
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielmunoz/)*

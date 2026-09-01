@@ -1,8 +1,8 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "BRAZLOMBIA" on Tue, 1 Sept 2026.
+Wax Music Lounge is a music venue in Melbourne with 11 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "BRAZLOMBIA" on Tue, 1 Sept 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including Beatski and Joey Lightbulb. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 11 upcoming nights, with line-ups including Beatski and Joey Lightbulb. Browse upcoming dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 9 upcoming 
 | Sun, 6 Sept 2026 | JIB & FRIENDS |  |
 | Fri, 11 Sept 2026 | DOWNSTAIRS DISCO • Steely Ann & Joey Lightbulb | Joey Lightbulb |
 | Sat, 12 Sept 2026 | AFRO SEXY |  |
+| Sat, 10 Oct 2026 | DANCEHALL TING |  |
 | Sat, 17 Oct 2026 | JUNGLE MANIA | Beatski |
 
 ## Address

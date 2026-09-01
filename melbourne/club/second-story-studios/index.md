@@ -9,7 +9,7 @@ Second Story Studios is a music venue in Melbourne listed on soundcheck. 3 upcom
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | The Jazz Doof Vol. 9 | Afrodisiac, Tom Eclect |
-| Fri, 25 Sept 2026 | Gallery: Secret Guest + Cousin, FUKHED, Hannah D, Guy Contact, Char, with Ess | Char(k), Cousin, FUKHED, Guy Contact, Hannah D, With Ess |
+| Fri, 25 Sept 2026 | Gallery: Sleep D, Cousin, FUKHED, Hannah D, Guy Contact, Char, with Ess | Char(k), Cousin, FUKHED, Guy Contact, Hannah D, Sleep D, With Ess |
 | Fri, 13 Nov 2026 | CLUB SAUNA |  |
 
 ## Address

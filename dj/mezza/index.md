@@ -1,8 +1,8 @@
 # Mezza
 
-Mezza is a Drum & Bass and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Basing House, London on Sat, 5 Sept 2026.
+Mezza is a Techno and Jungle artist with 13 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Basing House, London on Sat, 5 Sept 2026.
 
-Mezza is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London, Malta and Strasbourg. Often billed alongside Chill (FR), Dima Roas and STU (FR). Next up: Basing House, London on Sat 5 Sept.
+Mezza is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across London, Malta and Strasbourg. Often billed alongside Chill (FR), Dima Roas and STU (FR). Next up: Basing House, London on Sat 5 Sept.
 
 ## Upcoming shows
 

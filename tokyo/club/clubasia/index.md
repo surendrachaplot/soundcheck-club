@@ -1,8 +1,8 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "club asia THURSDAY" on Thu, 3 Sept 2026.
+clubasia is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "club asia THURSDAY" on Thu, 3 Sept 2026.
 
-clubasia is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including AMIDAdrive, Bonnie, discopants and FELINE (JP) and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+clubasia is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including AMIDAdrive, Bass, Bonnie and discopants and 2 more. Browse upcoming dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
@@ -14,6 +14,7 @@ clubasia is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with
 | Sun, 20 Sept 2026 | VITA 11th Anniversary -A New Chapter- | Karsten Sollors |
 | Thu, 24 Sept 2026 | club asia THURSDAY | AMIDAdrive, YELLOWUHURU, savezearth |
 | Fri, 16 Oct 2026 | GROOVIN' 2nd Anniversary | Bonnie, MK woop, Shoma fr,dambosound, YELLOWUHURU, YO.AN, discopants, m-int, yodel |
+| Mon, 19 Oct 2026 | TOMMY GUERRERO NEW ALBUM RELEASE 'PAWN SHOP MELODIES' JAPAN TOUR 2026 in TOKYO *FINAL | Bass |
 
 ## Address
 

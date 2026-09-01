@@ -12,7 +12,7 @@ KGR(n) is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with l
 | Fri, 2 Oct 2026 | Marionette x KGRn TOKYO | C-KAY, Compuma, Grimwig, Moli (3) |
 | Thu, 8 Oct 2026 | Astral Industries × KGRn TOKYO | Ario, C-KAY, Hems |
 | Mon, 12 Oct 2026 | KGR(resident) | In Ray, KotaNakano, Moli (3), karanaki |
-| Fri, 20 Nov 2026 | From The Cave Supported by KGRn TOKYO and Liminal Dreams  | C-KAY, Lemna |
+| Fri, 20 Nov 2026 | From The Cave presented by KGRn TOKYO and Liminal Dreams | C-KAY, Lemna |
 | Sat, 28 Nov 2026 | TBA |  |
 
 ## Address

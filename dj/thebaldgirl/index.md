@@ -1,14 +1,15 @@
 # the bald girl
 
-the bald girl is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Toscadura, Montreal on Fri, 4 Sept 2026.
+the bald girl is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at La Toscadura, Montreal on Fri, 4 Sept 2026.
 
-the bald girl is a hardcore and gabber artist tracked on soundcheck, with 39 sets logged across Montreal and Toronto. Often billed alongside Outback, Baby Bimbo and Mowie (2). Next up: La Toscadura, Montreal on Fri 4 Sept.
+the bald girl is a hardcore and gabber artist tracked on soundcheck, with 40 sets logged across Montreal and Toronto. Often billed alongside Outback, Baby Bimbo and Mowie (2). Next up: La Toscadura, Montreal on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | La Toscadura | Montreal |
+| Fri, 11 Sept 2026 | ESC | Montreal |
 
 ## Recently played
 

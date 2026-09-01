@@ -9,7 +9,7 @@ KASTILO is a techno and industrial artist based in Spain, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | E1 | London |
-| Fri, 4 Sept 2026 | E1 | London |
+| Sat, 7 Nov 2026 | E1 | London |
 
 ## Recently played
 

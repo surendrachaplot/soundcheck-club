@@ -1,14 +1,15 @@
 # iced lattina
 
-iced lattina is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
+iced lattina is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Recyclart, Brussels on Sat, 12 Sept 2026.
 
-iced lattina is a club and experimental artist based in Portugal, tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 9 more. Often billed alongside VINESSETT, Dangermami and De Grandi. Next up: Recyclart, Brussels on Sat 12 Sept.
+iced lattina is a club and experimental artist based in Portugal, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 9 more. Often billed alongside VINESSETT, Brodinski and Dangermami. Next up: Recyclart, Brussels on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Recyclart | Brussels |
+| Fri, 18 Sept 2026 | La Station - Gare des Mines | Paris |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ iced lattina is a club and experimental artist based in Portugal, tracked on sou
 
 ## Shares bills with
 
-VINESSETT, Dangermami, De Grandi
+VINESSETT, Brodinski, Dangermami
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icedlattina/)*

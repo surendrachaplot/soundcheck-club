@@ -1,6 +1,6 @@
 # BDrive: xxxxxxxxxxxxxxx at Platform9
 
-BDrive: xxxxxxxxxxxxxxx at Platform9 on Fri 18 Sept, Vancouver. Techno and Club. Preview the line-up and save it on soundcheck.
+BDrive: xxxxxxxxxxxxxxx at Platform9 on Fri 18 Sept, Vancouver. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

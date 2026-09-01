@@ -1,8 +1,8 @@
 # SG Lewis
 
-SG Lewis is a House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Valby Parken, Copenhagen on Fri, 11 Sept 2026.
+SG Lewis is a House and Electronica artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Valby Parken, Copenhagen on Fri, 11 Sept 2026.
 
-SG Lewis is a house and electronica artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Valby Parken, Copenhagen on Fri 11 Sept.
+SG Lewis is a house and electronica artist tracked on soundcheck, with 89 sets logged across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Valby Parken, Copenhagen on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SG Lewis is a house and electronica artist tracked on soundcheck, with 88 sets l
 | Sat, 12 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | The Cause | London |
 | Sat, 19 Sept 2026 | Index | Dublin |
+| Fri, 25 Sept 2026 | FS. | Tokyo |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sun, 27 Sept 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | TBA - Passeio Marítimo de Algés, Portugal | Lisbon |

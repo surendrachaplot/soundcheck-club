@@ -1,6 +1,6 @@
 # Friday, September 25, 2026 at teller
 
-Friday, September 25, 2026 at teller on Fri 25 Sept, Seoul. 3 acts on the bill: Lyumin, Soyo and Young Sun. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
+Friday, September 25, 2026 at teller on Fri 25 Sept, Seoul. 4 acts on the bill: Lyumin, Mihak, Soyo and Young Sun. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Friday, September 25, 2026 at teller on Fri 25 Sept, Seoul. 3 acts on the bill: 
 ## Line-up
 
 - Lyumin
+- Mihak
 - Soyo
 - Young Sun
 

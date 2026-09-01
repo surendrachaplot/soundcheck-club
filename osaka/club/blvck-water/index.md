@@ -1,8 +1,8 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 10 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is " 'sutura' TECHNO ADDICT at Night Club Blvck Water RESIDENT NIGHT" on Tue, 1 Sept 2026.
+Blvck Water is a music venue in Osaka with 11 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is " 'sutura' TECHNO ADDICT at Night Club Blvck Water RESIDENT NIGHT" on Tue, 1 Sept 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 10 upcoming nights, with line-ups including 死者蘇生CH, amor (JP), DØLLHAUS and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 11 upcoming nights, with line-ups including 死者蘇生CH, amor (JP), DØLLHAUS and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 10 upcoming nights, 
 | Tue, 15 Sept 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water | ZAGUN, dyn (JP) |
 | Fri, 18 Sept 2026 | HARD TECHNO 'CRACKS' with neqr, FENGX2, inudog system | FENGX2, inudog system |
 | Tue, 22 Sept 2026 | 'sutura'×DELTA TECHNO ADDICT at Night Club Blvck Water SPECIAL COLLABORATION | Liza, ZAGUN |
+| Fri, 25 Sept 2026 | HARD TECHNO 'CRACKS' with FUJI TRILL, FENGX2, Frank Rayo, ZAGUN | FENGX2, FUJI TRILL, Frank Rayo, ZAGUN |
 | Sun, 27 Sept 2026 | FRONT LINE in OSAKA |  |
-| Tue, 29 Sept 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water with DJ Kaoll | ZAGUN, amor (JP), dyn (JP) |
 
 ## Address
 

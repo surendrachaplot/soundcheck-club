@@ -1,8 +1,8 @@
-# TBA - downtown
+# TBA - Downtown
 
-TBA - downtown is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "CSW x PACIFIC MODE: Powder [4hr set] and DJ Healthy" on Fri, 4 Sept 2026.
+TBA - Downtown is a music venue in Los Angeles with 6 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "CSW x PACIFIC MODE: Powder [4hr set] and DJ Healthy" on Fri, 4 Sept 2026.
 
-TBA - downtown is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including 2ManyDJs, 88 MPH, Act of Rage and Akanbi and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Downtown is a music venue in Losangeles listed on soundcheck. 6 upcoming nights, with line-ups including 2ManyDJs, 88 MPH, Act of Rage and Akanbi and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

@@ -1,14 +1,14 @@
 # Tommy Farrow
 
-Tommy Farrow is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Dutch Master, London on Sat, 5 Sept 2026.
+Tommy Farrow is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The River Thames, London on Sat, 5 Sept 2026.
 
-Tommy Farrow is a house and progressive house artist tracked on soundcheck, with 27 sets logged across Brighton, Lisbon, Liverpool and London and 3 more. Often billed alongside Leena Punks, Asch Pintura and Nour (UK). Next up: The Dutch Master, London on Sat 5 Sept.
+Tommy Farrow is a house and progressive house artist tracked on soundcheck, with 27 sets logged across Brighton, Lisbon, Liverpool and London and 3 more. Often billed alongside Leena Punks, Asch Pintura and Nour (UK). Next up: The River Thames, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | The Dutch Master | London |
+| Sat, 5 Sept 2026 | The River Thames | London |
 
 ## Recently played
 

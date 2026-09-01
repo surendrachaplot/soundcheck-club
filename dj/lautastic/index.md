@@ -9,8 +9,8 @@ Lau.tastic is a techno and industrial artist tracked on soundcheck, with 87 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | E1 | London |
-| Fri, 4 Sept 2026 | E1 | London |
 | Thu, 15 Oct 2026 | The Glove That Fits | London |
+| Sat, 7 Nov 2026 | E1 | London |
 
 ## Recently played
 

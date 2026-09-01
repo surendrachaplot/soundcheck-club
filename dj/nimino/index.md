@@ -1,8 +1,8 @@
 # nimino
 
-nimino is a House and Downtempo artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Outset, Chicago on Sat, 5 Sept 2026.
+nimino is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Outset, Chicago on Sat, 5 Sept 2026.
 
-nimino is a house and downtempo artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Boston and 20 more. Often billed alongside Lane 8, Elderbrook and Honey Dijon. Next up: Outset, Chicago on Sat 5 Sept.
+nimino is a house and electronica artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Boston and 20 more. Often billed alongside Lane 8, Elderbrook and Honey Dijon. Next up: Outset, Chicago on Sat 5 Sept.
 
 ## Upcoming shows
 

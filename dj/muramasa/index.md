@@ -1,8 +1,8 @@
 # Mura Masa
 
-Mura Masa is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
+Mura Masa is a Bass and R&B artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
 
-Mura Masa is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Barcelona and Berlin and 20 more. Often billed alongside Boo, I. JORDAN and JADA MORAES. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
+Mura Masa is a bass and r&b artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Berlin and 20 more. Often billed alongside Yaeji, Boo and DARIUS. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mura Masa is a bass and garage artist based in United Kingdom, tracked on soundc
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Namura Zosenjo Atochi / Creative Center Osaka | Osaka |
 | Tue, 22 Sept 2026 | Odaiba | Tokyo |
+| Fri, 25 Sept 2026 | FS. | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Mura Masa is a bass and garage artist based in United Kingdom, tracked on soundc
 
 ## Shares bills with
 
-Boo, I. JORDAN, JADA MORAES
+Yaeji, Boo, DARIUS
 
 *Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muramasa/)*

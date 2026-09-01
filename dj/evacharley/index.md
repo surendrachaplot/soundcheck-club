@@ -1,13 +1,14 @@
 # Eva Charley
 
-Eva Charley is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
+Eva Charley is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Schrotty, Cologne on Sat, 5 Sept 2026.
 
-Eva Charley is a techno and trance artist tracked on soundcheck, with 33 sets logged across Berlin, Hamburg and Sydney. Often billed alongside GMOZ, Malfunkt and Charlie Shell. Next up: Lokschuppen Berlin, Berlin on Sat 12 Sept.
+Eva Charley is a techno and trance artist tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Hamburg and Sydney. Often billed alongside GMOZ, Malfunkt and Charlie Shell. Next up: Schrotty, Cologne on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Schrotty | Cologne |
 | Sat, 12 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 26 Sept 2026 | OST | Berlin |
 | Sat, 17 Oct 2026 | Lokschuppen Berlin | Berlin |

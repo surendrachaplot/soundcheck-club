@@ -1,8 +1,8 @@
 # DJ Cringey
 
-DJ Cringey is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Z-Bau, Nürnberg on Sat, 5 Sept 2026.
+DJ Cringey is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Z-Bau, Nürnberg on Sat, 5 Sept 2026.
 
-DJ Cringey is a techno and trance artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Basel and Belfast and 22 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Z-Bau, Nurnberg on Sat 5 Sept.
+DJ Cringey is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Basel and Belfast and 22 more. Often billed alongside TOXIMAMI, DJ Hyperdrive and ANTHRAZIT. Next up: Z-Bau, Nurnberg on Sat 5 Sept.
 
 ## Upcoming shows
 

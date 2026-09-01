@@ -1,14 +1,15 @@
 # Meltmode (2)
 
-Meltmode (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bar Temp., Bangkok on Fri, 25 Sept 2026.
+Meltmode (2) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bar Temp., Bangkok on Fri, 25 Sept 2026.
 
-Meltmode (2) is a house and tech house artist tracked on soundcheck, with 37 sets logged across Bali, Bangkok, Ibiza and Kualalumpur and 4 more. Often billed alongside Wildealer, Tissanai and IYY (TH). Next up: Bar Temp., Bangkok on Fri 25 Sept.
+Meltmode (2) is a house and tech house artist tracked on soundcheck, with 38 sets logged across Bali, Bangkok, Ibiza and Kualalumpur and 4 more. Often billed alongside Wildealer, Tissanai and IYY (TH). Next up: Bar Temp., Bangkok on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Bar Temp. | Bangkok |
+| Sat, 26 Sept 2026 | Dual | Bangkok |
 
 ## Recently played
 

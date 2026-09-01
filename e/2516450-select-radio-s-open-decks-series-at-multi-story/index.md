@@ -1,6 +1,6 @@
 # Select Radio's Open Decks Series at Multi Story
 
-Select Radio's Open Decks Series at Multi Story on Thu 3 Sept, London. 3 acts on the bill: Max Volume (UK), Onncor and Teresa Jane. House and Electronica. Preview the line-up and save it on soundcheck.
+Select Radio's Open Decks Series at Multi Story on Thu 3 Sept, London. 4 acts on the bill: Little Luce, Max Volume (UK), Onncor and Teresa Jane. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Select Radio's Open Decks Series at Multi Story on Thu 3 Sept, London. 3 acts on
 
 ## Line-up
 
+- Little Luce
 - Max Volume (UK)
 - Onncor
 - Teresa Jane

@@ -1,14 +1,15 @@
 # Taylah Elaine
 
-Taylah Elaine is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
+Taylah Elaine is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
-Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Auckland, Bali and Barcelona and 28 more. Often billed alongside Jyoty, DJ Heartstring and Donnie Sunshine. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
+Taylah Elaine is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 78 sets logged across Amsterdam, Auckland, Bali and Barcelona and 29 more. Often billed alongside Jyoty, DJ Heartstring and Donnie Sunshine. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Elsewhere | New York City |
+| Sat, 10 Oct 2026 | Temper. Wine Room & Lounge | Singapore |
 
 ## Recently played
 

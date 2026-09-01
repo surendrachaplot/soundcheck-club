@@ -1,14 +1,15 @@
 # Ryunosuke Urabe
 
-Ryunosuke Urabe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at VENT, Tokyo on Fri, 4 Sept 2026.
+Ryunosuke Urabe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at VENT, Tokyo on Fri, 4 Sept 2026.
 
-Ryunosuke Urabe is a techno and house artist based in Japan, tracked on soundcheck, with 29 sets logged across Seoul and Tokyo. Often billed alongside Lupion, EVE (1) and KOSHIRO. Next up: VENT, Tokyo on Fri 4 Sept.
+Ryunosuke Urabe is a techno and house artist based in Japan, tracked on soundcheck, with 30 sets logged across Seoul and Tokyo. Often billed alongside Lupion, EVE (1) and KOSHIRO. Next up: VENT, Tokyo on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | VENT | Tokyo |
+| Fri, 25 Sept 2026 | Secret Venue in Minatoku-Nishiazabu | Tokyo |
 
 ## Recently played
 
