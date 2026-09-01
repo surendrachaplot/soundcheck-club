@@ -1,6 +1,6 @@
 # FKA Hardcore
 
-FKA Hardcore is a Hardcore and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The DBA, Manchester on Fri, 4 Sept 2026.
+FKA Hardcore is a Hardcore and Jungle artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The DBA, Manchester on Fri, 4 Sept 2026.
 
 FKA Hardcore is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Bristol, London, Manchester and Nottingham and 1 more. Often billed alongside Yyre, DJ Soyboi and djlaundrybasket. Next up: The DBA, Manchester on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ FKA Hardcore is a hardcore and jungle artist based in United Kingdom, tracked on
 
 Yyre, DJ Soyboi, djlaundrybasket
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fkahardcore/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkahardcore/)*

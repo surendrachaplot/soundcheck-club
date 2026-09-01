@@ -1,8 +1,8 @@
 # D Stone
 
-D Stone is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Radio Radio, Amsterdam on Sat, 12 Sept 2026.
+D Stone is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Radio Radio, Amsterdam on Sat, 12 Sept 2026.
 
-D Stone is a house and tech house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Bali, Barcelona and Berlin and 17 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: Radio Radio, Amsterdam on Sat 12 Sept.
+D Stone is a house and tech house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Bali, Barcelona and Berlin and 17 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Dam Swindle. Next up: Radio Radio, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ D Stone is a house and tech house artist tracked on soundcheck, with 113 sets lo
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Radio Radio | Amsterdam |
 | Fri, 18 Sept 2026 | The Cause | London |
+| Fri, 25 Sept 2026 | La Java | Paris |
 | Fri, 9 Oct 2026 | Lofi | Amsterdam |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
@@ -32,4 +33,4 @@ D Stone is a house and tech house artist tracked on soundcheck, with 113 sets lo
 
 Benjamin Berg, Benny Rodrigues, Dam Swindle
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dstone/)*

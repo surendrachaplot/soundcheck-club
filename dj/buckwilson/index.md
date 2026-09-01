@@ -1,6 +1,6 @@
 # Buck Wilson
 
-Buck Wilson is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club Six, San Francisco/Oakland on Thu, 24 Sept 2026.
+Buck Wilson is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Six, San Francisco/Oakland on Thu, 24 Sept 2026.
 
 Buck Wilson is a club and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Sanfrancisco. Often billed alongside Discnogirl, Golem (US) and QUETZAL. Next up: Club Six, Sanfrancisco on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Buck Wilson is a club and techno artist based in United States of America, track
 
 Discnogirl, Golem (US), QUETZAL
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buckwilson/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buckwilson/)*

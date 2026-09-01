@@ -1,6 +1,6 @@
 # Massuma
 
-Massuma is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lion's Den, Miami on Fri, 4 Sept 2026.
+Massuma is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lion's Den, Miami on Fri, 4 Sept 2026.
 
 Massuma is a house and afro house artist tracked on soundcheck, with 8 sets logged across Ibiza, London, Miami and Mykonos and 1 more. Often billed alongside &friends, Afshin Momadi and Alan Dixon. Next up: Lion's Den, Miami on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Massuma is a house and afro house artist tracked on soundcheck, with 8 sets logg
 
 &friends, Afshin Momadi, Alan Dixon
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/massuma/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massuma/)*

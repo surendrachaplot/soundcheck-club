@@ -1,6 +1,6 @@
 # BRUS
 
-BRUS is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "30´s years Electronic Music" on Sat, 17 Oct 2026.
+BRUS is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "30´s years Electronic Music" on Sat, 17 Oct 2026.
 
 BRUS is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Bass and Progressive. Browse upcoming dates, start times and who's playing. Guldbergsgade 29, 2200 København N.
 
@@ -14,4 +14,4 @@ BRUS is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with
 
 Guldbergsgade 29, 2200 København N, Copenhagen
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/brus/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/brus/)*

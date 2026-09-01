@@ -1,6 +1,6 @@
 # Bryan Wolf Ear
 
-Bryan Wolf Ear is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Waterfront #4, Montreal on Fri, 18 Sept 2026.
+Bryan Wolf Ear is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Waterfront #4, Montreal on Fri, 18 Sept 2026.
 
 Bryan Wolf Ear is a progressive house and electronica artist based in Canada, tracked on soundcheck, with 6 sets logged across Amsterdam and Montreal. Often billed alongside Kostya Outta, Alísha and Pedro Mercado. Next up: Waterfront #4, Montreal on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Bryan Wolf Ear is a progressive house and electronica artist based in Canada, tr
 
 Kostya Outta, Alísha, Pedro Mercado
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bryanwolfear/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bryanwolfear/)*

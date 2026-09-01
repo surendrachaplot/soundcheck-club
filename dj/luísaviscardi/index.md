@@ -1,6 +1,6 @@
 # Luísa Viscardi
 
-Luísa Viscardi is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Sigurd CPH, Copenhagen on Fri, 18 Sept 2026.
+Luísa Viscardi is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sigurd CPH, Copenhagen on Fri, 18 Sept 2026.
 
 Luísa Viscardi is a hip-hop and house artist tracked on soundcheck, with 9 sets logged across Copenhagen and Saopaulo. Often billed alongside Tamenpi, DJ Nuts and Lys Ventura. Next up: Sigurd CPH, Copenhagen on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Luísa Viscardi is a hip-hop and house artist tracked on soundcheck, with 9 sets
 
 Tamenpi, DJ Nuts, Lys Ventura
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luísaviscardi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luísaviscardi/)*

@@ -1,14 +1,15 @@
 # Roof (2)
 
-Roof (2) is a Bass and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Golden Pudel Club, Hamburg on Thu, 3 Sept 2026.
+Roof (2) is a Bass and Pop artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 3 Sept 2026.
 
-Roof (2) is a bass and pop artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Frankfurt, Hamburg and Leipzig. Often billed alongside Unfug Abla, yung_womb and Lang Jan (2). Next up: Golden Pudel Club, Hamburg on Thu 3 Sept.
+Roof (2) is a bass and pop artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Frankfurt, Hamburg and Leipzig. Often billed alongside Unfug Abla, yung_womb and DJ Babyblade. Next up: Golden Pudel Club, Hamburg on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Golden Pudel Club | Hamburg |
+| Sun, 25 Oct 2026 | Café Schöne Aussichten (CSA) | Hamburg |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Roof (2) is a bass and pop artist based in Germany, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Unfug Abla, yung_womb, Lang Jan (2)
+Unfug Abla, yung_womb, DJ Babyblade
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roof-2/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roof-2/)*

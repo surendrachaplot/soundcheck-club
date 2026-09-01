@@ -1,6 +1,6 @@
 # Julio Red
 
-Julio Red is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Folies Pigalle, Paris on Sat, 12 Sept 2026.
+Julio Red is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Folies Pigalle, Paris on Sat, 12 Sept 2026.
 
 Julio Red is a house and tech house artist tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside Ben:Rodd, F.E.X and Karl Jefferson. Next up: Folies Pigalle, Paris on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Julio Red is a house and tech house artist tracked on soundcheck, with 2 sets lo
 
 Ben:Rodd, F.E.X, Karl Jefferson
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliored/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliored/)*

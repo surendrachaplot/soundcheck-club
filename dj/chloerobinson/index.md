@@ -1,6 +1,6 @@
 # Chloé Robinson
 
-Chloé Robinson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at fabric, London on Fri, 30 Oct 2026.
+Chloé Robinson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at fabric, London on Fri, 30 Oct 2026.
 
 Chloé Robinson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside DJ ADHD, Nikki Nair and Four Tet. Next up: fabric, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Chloé Robinson is a house and techno artist based in United Kingdom, tracked on
 
 DJ ADHD, Nikki Nair, Four Tet
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chloerobinson/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloerobinson/)*

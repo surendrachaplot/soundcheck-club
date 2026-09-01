@@ -1,6 +1,6 @@
 # Shaneo
 
-Shaneo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at HWK Garden / Terrace, London on Sun, 20 Sept 2026.
+Shaneo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at HWK Garden / Terrace, London on Sun, 20 Sept 2026.
 
 Shaneo is a house and disco artist tracked on soundcheck, with 23 sets logged across Edinburgh, Glasgow, London and Sydney. Often billed alongside DRUMA, Chelliis and Columba. Next up: HWK Garden / Terrace, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Shaneo is a house and disco artist tracked on soundcheck, with 23 sets logged ac
 
 DRUMA, Chelliis, Columba
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneo/)*

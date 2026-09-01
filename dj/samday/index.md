@@ -1,6 +1,6 @@
 # Sam Day
 
-Sam Day is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Last Arch, London on Sat, 5 Sept 2026.
+Sam Day is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Last Arch, London on Sat, 5 Sept 2026.
 
 Sam Day is a house and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam and London. Often billed alongside Drinks On Me, Tom Wigley and Southby. Next up: Last Arch, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sam Day is a house and techno artist tracked on soundcheck, with 13 sets logged 
 
 Drinks On Me, Tom Wigley, Southby
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samday/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samday/)*

@@ -1,6 +1,6 @@
 # Fernie
 
-Fernie is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at McChuills Music Bar, Glasgow on Sun, 27 Sept 2026.
+Fernie is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at McChuills Music Bar, Glasgow on Sun, 27 Sept 2026.
 
 Fernie is a techno and ambient artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Barcelona, Glasgow, London and Manchester. Often billed alongside Repart, Deepbass and Derrick Burns. Next up: McChuills Music Bar, Glasgow on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Fernie is a techno and ambient artist based in United Kingdom, tracked on soundc
 
 Repart, Deepbass, Derrick Burns
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fernie/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernie/)*

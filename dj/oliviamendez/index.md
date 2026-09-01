@@ -1,6 +1,6 @@
 # Olivia Mendez
 
-Olivia Mendez is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
+Olivia Mendez is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
 
 Olivia Mendez is a techno and house artist based in France, tracked on soundcheck, with 146 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Chami, Blasha & Allatt and Freddy K. Next up: Lofi, Amsterdam on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Olivia Mendez is a techno and house artist based in France, tracked on soundchec
 
 Chami, Blasha & Allatt, Freddy K
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*

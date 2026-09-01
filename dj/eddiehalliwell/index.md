@@ -1,6 +1,6 @@
 # Eddie Halliwell
 
-Eddie Halliwell is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Eddie Halliwell is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Eddie Halliwell is a trance and techno artist tracked on soundcheck, with 13 sets logged across Birmingham, Dundee, Edinburgh and Glasgow and 3 more. Often billed alongside Mauro Picotto, Aly & Fila and Billy Gillies. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Eddie Halliwell is a trance and techno artist tracked on soundcheck, with 13 set
 
 Mauro Picotto, Aly & Fila, Billy Gillies
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiehalliwell/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiehalliwell/)*

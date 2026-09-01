@@ -1,13 +1,14 @@
 # Vlada
 
-Vlada is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Gaffe, London on Sat, 5 Sept 2026.
+Vlada is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Gare Porto, Porto on Fri, 4 Sept 2026.
 
-Vlada is a techno and house artist tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 49 more. Often billed alongside Vaahzer, Konduku and Max Vaahs. Next up: Gaffe, London on Sat 5 Sept.
+Vlada is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 49 more. Often billed alongside Vaahzer, Konduku and Max Vaahs. Next up: Gare Porto, Porto on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Gare Porto | Porto |
 | Sat, 5 Sept 2026 | Gaffe | London |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 19 Sept 2026 | Nowadays | New York City |
@@ -31,4 +32,4 @@ Vlada is a techno and house artist tracked on soundcheck, with 193 sets logged a
 
 Vaahzer, Konduku, Max Vaahs
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*

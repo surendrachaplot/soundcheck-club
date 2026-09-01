@@ -1,8 +1,8 @@
 # Mumble
 
-Mumble is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at New Cross Inn, London on Tue, 29 Sept 2026.
+Mumble is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at New Cross Inn, London on Tue, 29 Sept 2026.
 
-Mumble is an electro and pop artist based in United States of America, tracked on soundcheck, with 1 set logged across London. Next up: New Cross Inn, London on Tue 29 Sept.
+Mumble is a pop and electro artist based in United States of America, tracked on soundcheck, with 1 set logged across London. Next up: New Cross Inn, London on Tue 29 Sept.
 
 ## Upcoming shows
 
@@ -10,4 +10,4 @@ Mumble is an electro and pop artist based in United States of America, tracked o
 | --- | --- | --- |
 | Tue, 29 Sept 2026 | New Cross Inn | London |
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mumble/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mumble/)*

@@ -1,6 +1,6 @@
 # STRAPAZE X PhonoVision OPEN AIR at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN
 
-STRAPAZE X PhonoVision OPEN AIR at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN on Sat 12 Sept, Cologne. 6 acts on the bill: alleira, Arninho, Bergen and DJ PLUS PLUS and 2 more. Preview the line-up and save it on soundcheck.
+STRAPAZE X PhonoVision OPEN AIR at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN on Sat 12 Sept, Cologne. 7 acts on the bill: alleira, Arninho, Bergen and Bergen (DE) and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ STRAPAZE X PhonoVision OPEN AIR at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖ
 - alleira
 - Arninho
 - Bergen
+- Bergen (DE)
 - DJ PLUS PLUS
 - HiHat
 - nutenrieth

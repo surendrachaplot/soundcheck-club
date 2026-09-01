@@ -1,14 +1,16 @@
 # Oliviu
 
-Oliviu is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at VDI | Vybe Department Ibiza, Ibiza on Sun, 13 Sept 2026.
+Oliviu is a Minimal and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Funky Room, Ibiza on Tue, 1 Sept 2026.
 
-Oliviu is a minimal and techno artist tracked on soundcheck, with 7 sets logged across Bucharest, Budapest, Hamburg and Ibiza. Often billed alongside Alma the Palma, Andrija Jäger and Bonjessu. Next up: VDI | Vybe Department Ibiza, Ibiza on Sun 13 Sept.
+Oliviu is a minimal and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam, Bucharest, Budapest and Hamburg and 1 more. Often billed alongside Alma the Palma, Andrija Jäger and Bonjessu. Next up: Funky Room, Ibiza on Tue 1 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 1 Sept 2026 | Funky Room | Ibiza |
 | Sun, 13 Sept 2026 | VDI / Vybe Department Ibiza | Ibiza |
+| Sat, 26 Sept 2026 | TBA - Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -23,4 +25,4 @@ Oliviu is a minimal and techno artist tracked on soundcheck, with 7 sets logged 
 
 Alma the Palma, Andrija Jäger, Bonjessu
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Oliviu/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Oliviu/)*

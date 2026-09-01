@@ -1,8 +1,8 @@
 # sak (4)
 
-sak (4) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at West Harlem, Kyoto on Thu, 3 Sept 2026.
+sak (4) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at West Harlem, Kyoto on Thu, 3 Sept 2026.
 
-sak (4) is a techno and house artist based in Japan, tracked on soundcheck, with 7 sets logged across Kyoto and Osaka. Often billed alongside kotakunisaki, C.Versa and DJ Master Kohta. Next up: West Harlem, Kyoto on Thu 3 Sept.
+sak (4) is a house and techno artist based in Japan, tracked on soundcheck, with 9 sets logged across Kyoto and Osaka. Often billed alongside kotakunisaki, Matthias Abe and C.Versa. Next up: West Harlem, Kyoto on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ sak (4) is a techno and house artist based in Japan, tracked on soundcheck, with
 ## Recently played
 
 - West Harlem, Kyoto — Wed, 26 Aug 2026
+- West Harlem, Kyoto — Sun, 2 Aug 2026
+- West Harlem, Kyoto — Sun, 2 Aug 2026
 - West Harlem, Kyoto — Wed, 29 Jul 2026
 - West Harlem, Kyoto — Sun, 26 Jul 2026
 - West Harlem, Kyoto — Wed, 27 May 2026
@@ -21,6 +23,6 @@ sak (4) is a techno and house artist based in Japan, tracked on soundcheck, with
 
 ## Shares bills with
 
-kotakunisaki, C.Versa, DJ Master Kohta
+kotakunisaki, Matthias Abe, C.Versa
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sak-4/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sak-4/)*

@@ -1,8 +1,8 @@
 # MOHO (1)
 
-MOHO (1) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Cakeshop, Seoul on Fri, 18 Sept 2026.
+MOHO (1) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cakeshop, Seoul on Fri, 18 Sept 2026.
 
-MOHO (1) is a bass and club artist based in South Korea, tracked on soundcheck, with 1 set logged across Seoul. Often billed alongside JIHEE KIM, KoiKoi and KISEWA. Next up: Cakeshop, Seoul on Fri 18 Sept.
+MOHO (1) is a bass and club artist based in South Korea, tracked on soundcheck, with 1 set logged across Seoul. Often billed alongside Dinamarca, JIHEE KIM and KISEWA. Next up: Cakeshop, Seoul on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ MOHO (1) is a bass and club artist based in South Korea, tracked on soundcheck, 
 
 ## Shares bills with
 
-JIHEE KIM, KoiKoi, KISEWA
+Dinamarca, JIHEE KIM, KISEWA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/moho-1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moho-1/)*

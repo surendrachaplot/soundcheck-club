@@ -1,6 +1,6 @@
 # Alex Oxley
 
-Alex Oxley is a Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Social, London on Fri, 25 Sept 2026.
+Alex Oxley is a Disco and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Social, London on Fri, 25 Sept 2026.
 
 Alex Oxley is a disco and ebm artist tracked on soundcheck, with 48 sets logged across Auckland, Austin, Berlin and Birmingham and 21 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: The Social, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Alex Oxley is a disco and ebm artist tracked on soundcheck, with 48 sets logged 
 
 Roxanne Roll, Fleetmac Wood, Horror Hi-Fi
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*

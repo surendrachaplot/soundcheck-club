@@ -1,6 +1,6 @@
 # Mau (VE)
 
-Mau (VE) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at MS Club, Marseille on Sat, 19 Sept 2026.
+Mau (VE) is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at MS Club, Marseille on Sat, 19 Sept 2026.
 
 Mau (VE) is a house and club artist tracked on soundcheck, with 6 sets logged across Amsterdam, Marseille, Miami and Newyorkcity. Often billed alongside 42nd Avenue, ADHI and AYIM. Next up: MS Club, Marseille on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Mau (VE) is a house and club artist tracked on soundcheck, with 6 sets logged ac
 
 42nd Avenue, ADHI, AYIM
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mau-1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mau-1/)*

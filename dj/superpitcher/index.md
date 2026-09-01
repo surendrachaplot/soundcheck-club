@@ -1,6 +1,6 @@
 # Superpitcher
 
-Superpitcher is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Bonnieux - Luberon - outdoor, Marseille on Sat, 5 Sept 2026.
+Superpitcher is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Bonnieux - Luberon - outdoor, Marseille on Sat, 5 Sept 2026.
 
 Superpitcher is a house and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Cologne, Ibiza and Lisbon and 6 more. Often billed alongside Daniel Weil, Denis Stockhausen and Fantastic Twins. Next up: TBA - Bonnieux - Luberon - outdoor, Marseille on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Superpitcher is a house and techno artist based in Germany, tracked on soundchec
 
 Daniel Weil, Denis Stockhausen, Fantastic Twins
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/superpitcher/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/superpitcher/)*

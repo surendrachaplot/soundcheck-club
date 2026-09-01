@@ -1,6 +1,6 @@
 # Z.I.P.P.O
 
-Z.I.P.P.O is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at OHM, Berlin on Sat, 5 Sept 2026.
+Z.I.P.P.O is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at OHM, Berlin on Sat, 5 Sept 2026.
 
 Z.I.P.P.O is a techno and house artist tracked on soundcheck, with 66 sets logged across Athens, Berlin, Boston and Brussels and 14 more. Often billed alongside Asymptote, Fireground and Hiver. Next up: OHM, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Z.I.P.P.O is a techno and house artist tracked on soundcheck, with 66 sets logge
 
 Asymptote, Fireground, Hiver
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/z.i.p.p.o/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/z.i.p.p.o/)*

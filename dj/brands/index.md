@@ -1,6 +1,6 @@
 # Brands
 
-Brands is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
+Brands is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Basing House, London on Fri, 11 Sept 2026.
 
 Brands is a house and garage artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Olly Brady, AALEX and AUDIO DUNE. Next up: Basing House, London on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Brands is a house and garage artist tracked on soundcheck, with 5 sets logged ac
 
 Olly Brady, AALEX, AUDIO DUNE
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/brands/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brands/)*

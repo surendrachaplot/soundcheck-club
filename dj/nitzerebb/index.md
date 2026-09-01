@@ -1,6 +1,6 @@
 # Nitzer Ebb
 
-Nitzer Ebb is a Industrial and New Wave artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Music Box, San Diego on Sun, 6 Sept 2026.
+Nitzer Ebb is a Industrial and New Wave artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Music Box, San Diego on Sun, 6 Sept 2026.
 
 Nitzer Ebb is an industrial and new wave artist tracked on soundcheck, with 16 sets logged across Austin, Berlin, Chicago and Detroit and 6 more. Often billed alongside Front 242, Depeche Mode and ECHO. Next up: Music Box, Sandiego on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ Nitzer Ebb is an industrial and new wave artist tracked on soundcheck, with 16 s
 
 Front 242, Depeche Mode, ECHO
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nitzerebb/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitzerebb/)*

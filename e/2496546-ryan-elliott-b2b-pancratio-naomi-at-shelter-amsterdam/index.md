@@ -1,6 +1,6 @@
 # Ryan Elliott b2b Pancratio, Naomi at Shelter Amsterdam
 
-Ryan Elliott b2b Pancratio, Naomi at Shelter Amsterdam on Sat 5 Sept, Amsterdam. 5 acts on the bill: Apontow Akyi, Naomi (1), Pancratio and Ryan Elliott and 1 more. House. Preview the line-up and save it on soundcheck.
+Ryan Elliott b2b Pancratio, Naomi at Shelter Amsterdam on Sat 5 Sept, Amsterdam. 6 acts on the bill: Apontow Akyi, Naomi (1), Naomi (Berlin) and Pancratio and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Ryan Elliott b2b Pancratio, Naomi at Shelter Amsterdam on Sat 5 Sept, Amsterdam.
 
 - Apontow Akyi
 - Naomi (1)
+- Naomi (Berlin)
 - Pancratio
 - Ryan Elliott
 - Tommy Chikara

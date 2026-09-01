@@ -1,6 +1,6 @@
 # Flex
 
-Flex is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
+Flex is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
 
 Flex is a drum & bass and jungle artist tracked on soundcheck, with 11 sets logged across Barcelona, Bristol, Glasgow and Liverpool and 3 more. Often billed alongside A-Sides, Bailey (UK) and Benny L. Next up: Hive Club, Zurich on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Flex is a drum & bass and jungle artist tracked on soundcheck, with 11 sets logg
 
 A-Sides, Bailey (UK), Benny L
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/flex/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flex/)*

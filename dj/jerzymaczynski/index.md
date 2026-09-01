@@ -1,6 +1,6 @@
 # Jerzy Mączyński
 
-Jerzy Mączyński is a Experimental and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Cafe OTO, London on Fri, 6 Nov 2026.
+Jerzy Mączyński is a Experimental and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cafe OTO, London on Fri, 6 Nov 2026.
 
 Jerzy Mączyński is an experimental and jazz artist based in Poland, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Bristol and Krakow and 2 more. Often billed alongside Hieroglyphic Being, Nour Sokhon and Rabih Beaini. Next up: Cafe OTO, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jerzy Mączyński is an experimental and jazz artist based in Poland, tracked on
 
 Hieroglyphic Being, Nour Sokhon, Rabih Beaini
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jerzymaczynski/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jerzymaczynski/)*

@@ -1,6 +1,6 @@
 # The Nest
 
-The Nest is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "SOTA, Circadian & MORE - Groovebox X Submerged" on Sat, 14 Nov 2026.
+The Nest is a music venue in Nottingham with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "SOTA, Circadian & MORE - Groovebox X Submerged" on Sat, 14 Nov 2026.
 
 The Nest is a music venue in Nottingham listed on soundcheck. 1 upcoming night, with line-ups including Benny L, Circadian, PIRAPUS and SOTA. Browse upcoming dates, start times and who's playing. The Nest,  Iremonger Rd,  Nottingham  NG2 3HU.
 
@@ -14,4 +14,4 @@ The Nest is a music venue in Nottingham listed on soundcheck. 1 upcoming night, 
 
 The Nest,  Iremonger Rd,  Nottingham  NG2 3HU, Nottingham
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-nest/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-nest/)*

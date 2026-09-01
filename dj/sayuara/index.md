@@ -1,6 +1,6 @@
 # sayuara
 
-sayuara is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Fridas Pier, Stuttgart on Sat, 12 Sept 2026.
+sayuara is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 12 Sept 2026.
 
 sayuara is a techno and tech house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Hamburg, Munich and Stuttgart and 1 more. Often billed alongside Thilo Who, Moritz Minoa and SILSAN. Next up: Fridas Pier, Stuttgart on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ sayuara is a techno and tech house artist based in Germany, tracked on soundchec
 
 Thilo Who, Moritz Minoa, SILSAN
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuara/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuara/)*

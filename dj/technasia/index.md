@@ -1,6 +1,6 @@
 # Technasia
 
-Technasia is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fabrik, Madrid on Sat, 5 Sept 2026.
+Technasia is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Fabrik, Madrid on Sat, 5 Sept 2026.
 
 Technasia is a tech house and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 14 more. Often billed alongside Lexlay, Carlo Lio and Dub Tiger. Next up: Fabrik, Madrid on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Technasia is a tech house and house artist tracked on soundcheck, with 49 sets l
 
 Lexlay, Carlo Lio, Dub Tiger
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/technasia/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technasia/)*

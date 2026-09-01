@@ -1,8 +1,8 @@
 # Zero_null
 
-Zero_null is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+Zero_null is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
-Zero_null is an electronic artist tracked on soundcheck, with 17 sets logged across Warsaw. Often billed alongside Doga, Yaris and Mohji. Next up: Jasna 1, Warsaw on Sat 12 Sept.
+Zero_null is a techno and bass artist tracked on soundcheck, with 17 sets logged across Warsaw. Often billed alongside Doga, Yaris and Mohji. Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Zero_null is an electronic artist tracked on soundcheck, with 17 sets logged acr
 
 Doga, Yaris, Mohji
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zero_null/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zero_null/)*

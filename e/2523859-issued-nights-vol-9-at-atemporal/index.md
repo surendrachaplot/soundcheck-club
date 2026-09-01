@@ -1,6 +1,6 @@
-# ISSUED NIGHTS VOL. 9 at Atemporal
+# Issued Nights Vol. 9 at Atemporal
 
-ISSUED NIGHTS VOL. 9 at Atemporal on Wed 16 Sept, Berlin. Ambient and Jazz. Preview the line-up and save it on soundcheck.
+Issued Nights Vol. 9 at Atemporal on Wed 16 Sept, Berlin. Ambient and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

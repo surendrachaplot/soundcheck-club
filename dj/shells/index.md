@@ -1,6 +1,6 @@
 # Shells
 
-Shells is a Ambient and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - The American Riad | 920 Euclid, Detroit on Sun, 13 Sept 2026.
+Shells is a Ambient and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - The American Riad | 920 Euclid, Detroit on Sun, 13 Sept 2026.
 
 Shells is an ambient and disco artist tracked on soundcheck, with 3 sets logged across Detroit. Often billed alongside Anthony Jasper, Cherriel and Eddie Logix. Next up: TBA - The American Riad | 920 Euclid, Detroit on Sun 13 Sept.
 
@@ -19,4 +19,4 @@ Shells is an ambient and disco artist tracked on soundcheck, with 3 sets logged 
 
 Anthony Jasper, Cherriel, Eddie Logix
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shells/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shells/)*

@@ -1,6 +1,6 @@
 # CH3RI
 
-CH3RI is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Paragon, New York City on Mon, 7 Sept 2026.
+CH3RI is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Paragon, New York City on Mon, 7 Sept 2026.
 
 CH3RI is a club and experimental artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity and Saopaulo. Often billed alongside Total XTC, purp and Bodegaparty. Next up: Paragon, Newyorkcity on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ CH3RI is a club and experimental artist based in United States of America, track
 
 Total XTC, purp, Bodegaparty
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ch3ri/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ch3ri/)*

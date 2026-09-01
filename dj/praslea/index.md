@@ -1,8 +1,8 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at VENT, Tokyo on Sun, 20 Sept 2026.
+Praslea is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at VENT, Tokyo on Sun, 20 Sept 2026.
 
-Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: VENT, Tokyo on Sun 20 Sept.
+Praslea is a minimal and house artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Raresh, CEZAR and Traumer. Next up: VENT, Tokyo on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Praslea is a minimal and house artist tracked on soundcheck, with 93 sets logged
 - NUMBER 90 LONDON, London — Sat, 29 Aug 2026
 - Supermarket, Zurich — Fri, 7 Aug 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 1 Aug 2026
+- Les Enfants Brillants, Barcelona — Sat, 1 Aug 2026
 - Starlane Pizza Bar, London — Sat, 25 Jul 2026
 - Platforma Wolff, Bucharest — Fri, 10 Jul 2026
 - Club der Visionaere, Berlin — Sun, 5 Jul 2026
 - Deseo BS AS, Buenos Aires — Sat, 18 Apr 2026
-- Kapsule, Liverpool — Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Raresh, CEZAR, Traumer
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

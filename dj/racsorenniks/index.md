@@ -1,6 +1,6 @@
 # Racso Renniks
 
-Racso Renniks is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Jago, London on Fri, 18 Sept 2026.
+Racso Renniks is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Jago, London on Fri, 18 Sept 2026.
 
 Racso Renniks is a house and disco artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across London. Often billed alongside Chris Airplays, Noisy Neighbour and Lazy Bones. Next up: The Jago, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Racso Renniks is a house and disco artist based in United Kingdom, tracked on so
 
 Chris Airplays, Noisy Neighbour, Lazy Bones
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/racsorenniks/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/racsorenniks/)*

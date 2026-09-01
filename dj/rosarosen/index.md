@@ -1,6 +1,6 @@
 # Rosa Rosen
 
-Rosa Rosen is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Gleis19, Vienna on Sun, 6 Sept 2026.
+Rosa Rosen is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gleis19, Vienna on Sun, 6 Sept 2026.
 
 Rosa Rosen is a techno and ghetto tech artist based in Austria, tracked on soundcheck, with 17 sets logged across Vienna. Often billed alongside Anna Ullrich, Max Wagner and KRAWALLBARBIE. Next up: Gleis19, Vienna on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Rosa Rosen is a techno and ghetto tech artist based in Austria, tracked on sound
 
 Anna Ullrich, Max Wagner, KRAWALLBARBIE
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rosarosen/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosarosen/)*

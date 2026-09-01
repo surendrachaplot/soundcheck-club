@@ -1,6 +1,6 @@
 # ART Madrid Club
 
-ART Madrid Club is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "EKHO / Regal + SHDW" on Fri, 11 Sept 2026.
+ART Madrid Club is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "EKHO / Regal + SHDW" on Fri, 11 Sept 2026.
 
 ART Madrid Club is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including Adriana Lopez, CESAR ALMENA, Cleric and Nuke and 2 more. Browse upcoming dates, start times and who's playing. P.º de la Florida, 2Moncloa - Aravaca, 28008 Madrid, Spain.
 
@@ -16,4 +16,4 @@ ART Madrid Club is a music venue in Madrid listed on soundcheck. 3 upcoming nigh
 
 P.º de la Florida, 2Moncloa - Aravaca, 28008 Madrid, Spain, Madrid
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/art-madrid-club/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/art-madrid-club/)*

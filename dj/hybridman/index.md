@@ -1,6 +1,6 @@
 # Hybrid Man
 
-Hybrid Man is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tender, Melbourne on Sat, 5 Sept 2026.
+Hybrid Man is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tender, Melbourne on Sat, 5 Sept 2026.
 
 Hybrid Man is a techno and house artist based in Australia, tracked on soundcheck, with 36 sets logged across Berlin, Birmingham, Kyoto and Melbourne and 4 more. Often billed alongside Pjenné, Darcy Justice and Paper-Cuts. Next up: Tender, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Hybrid Man is a techno and house artist based in Australia, tracked on soundchec
 
 Pjenné, Darcy Justice, Paper-Cuts
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridman/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridman/)*

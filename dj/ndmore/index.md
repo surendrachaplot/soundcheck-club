@@ -1,6 +1,6 @@
 # &ndmore
 
-&ndmore is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 5 Sept 2026.
+&ndmore is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 &ndmore is a house and disco artist based in United States of America, tracked on soundcheck, with 23 sets logged across Sanfrancisco. Often billed alongside DJ M3, Galen and Alvaro. Next up: The Great Northern, Sanfrancisco on Sat 5 Sept.
 
@@ -25,4 +25,4 @@
 
 DJ M3, Galen, Alvaro
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ndmore/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ndmore/)*

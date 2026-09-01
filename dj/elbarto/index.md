@@ -1,6 +1,6 @@
 # Elbarto
 
-Elbarto is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Romantso, Athens on Fri, 18 Sept 2026.
+Elbarto is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Romantso, Athens on Fri, 18 Sept 2026.
 
 Elbarto is a bass and breakbeat artist based in Greece, tracked on soundcheck, with 11 sets logged across Athens, Barcelona, Kualalumpur and Melbourne and 4 more. Often billed alongside Madam X, Jay Carder and Poor J’Darr. Next up: Romantso, Athens on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Elbarto is a bass and breakbeat artist based in Greece, tracked on soundcheck, w
 
 Madam X, Jay Carder, Poor J’Darr
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elbarto/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elbarto/)*

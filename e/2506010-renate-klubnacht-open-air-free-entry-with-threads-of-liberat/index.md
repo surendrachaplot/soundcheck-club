@@ -1,6 +1,6 @@
 # Renate Klubnacht + Open Air (Free Entry) with Threads of Liberation x Zenith x Black.is at Renate
 
-Renate Klubnacht + Open Air (Free Entry) with Threads of Liberation x Zenith x Black.is on Sat 5 Sept, Berlin. 13 acts on the bill: Aalia Iraki, Baba T, BAY-BUSH-KA and KVLR and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
+Renate Klubnacht + Open Air (Free Entry) with Threads of Liberation x Zenith x Black.is on Sat 5 Sept, Berlin. 14 acts on the bill: Aalia Iraki, Alain Gertrand, Baba T and BAY-BUSH-KA and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Renate Klubnacht + Open Air (Free Entry) with Threads of Liberation x Zenith x B
 ## Line-up
 
 - Aalia Iraki
+- Alain Gertrand
 - Baba T
 - BAY-BUSH-KA
 - KVLR

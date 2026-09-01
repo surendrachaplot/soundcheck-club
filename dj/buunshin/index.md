@@ -1,6 +1,6 @@
 # Buunshin
 
-Buunshin is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Knust, Hamburg on Sat, 12 Sept 2026.
+Buunshin is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Knust, Hamburg on Sat, 12 Sept 2026.
 
 Buunshin is a drum & bass and jungle artist tracked on soundcheck, with 44 sets logged across Amsterdam, Auckland, Basel and Berlin and 25 more. Often billed alongside Imanu, Phace and S.P.Y. Next up: Knust, Hamburg on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Buunshin is a drum & bass and jungle artist tracked on soundcheck, with 44 sets 
 
 Imanu, Phace, S.P.Y
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/buunshin/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buunshin/)*

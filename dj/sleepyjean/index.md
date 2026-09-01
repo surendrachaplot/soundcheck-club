@@ -1,6 +1,6 @@
 # Sleepy Jean
 
-Sleepy Jean is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Loft, Manchester on Fri, 16 Oct 2026.
+Sleepy Jean is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Loft, Manchester on Fri, 16 Oct 2026.
 
 Sleepy Jean is a house and electro artist tracked on soundcheck, with 35 sets logged across Berlin, Birmingham, Brighton and Leeds and 2 more. Often billed alongside TSUNIMAN, Touré and A For Alpha. Next up: The Loft, Manchester on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sleepy Jean is a house and electro artist tracked on soundcheck, with 35 sets lo
 
 TSUNIMAN, Touré, A For Alpha
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*

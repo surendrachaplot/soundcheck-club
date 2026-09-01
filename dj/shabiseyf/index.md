@@ -1,6 +1,6 @@
 # Shabi Seyf
 
-Shabi Seyf is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mercato Metropolitano, London on Sat, 19 Sept 2026.
+Shabi Seyf is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mercato Metropolitano, London on Sat, 19 Sept 2026.
 
 Shabi Seyf is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin and London. Often billed alongside Adam Romo, Bear Winder and Bren Bailey. Next up: Mercato Metropolitano, London on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Shabi Seyf is a house and deep house artist based in United Kingdom, tracked on 
 
 Adam Romo, Bear Winder, Bren Bailey
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shabiseyf/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shabiseyf/)*

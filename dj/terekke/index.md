@@ -1,8 +1,8 @@
 # Terekke
 
-Terekke is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Terekke is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
-Terekke is an ambient and techno artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Crystallmess, James Ferraro and Jessy Lanza. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
+Terekke is a techno and ambient artist based in United States of America, tracked on soundcheck, with 1 set logged across Newyorkcity. Often billed alongside Carl Stone, Charlemagne Palestine and Crystallmess. Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Terekke is an ambient and techno artist based in United States of America, track
 
 ## Shares bills with
 
-Crystallmess, James Ferraro, Jessy Lanza
+Carl Stone, Charlemagne Palestine, Crystallmess
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/terekke/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terekke/)*

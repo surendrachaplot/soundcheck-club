@@ -1,6 +1,6 @@
 # Sunlast
 
-Sunlast is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Beate Uwe, Berlin on Sat, 12 Sept 2026.
+Sunlast is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Beate Uwe, Berlin on Sat, 12 Sept 2026.
 
 Sunlast is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Dirty Doering, Niconé and AVA Irandoost. Next up: Beate Uwe, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sunlast is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Dirty Doering, Niconé, AVA Irandoost
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sunlast/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunlast/)*

@@ -1,6 +1,6 @@
 # Traskel
 
-Traskel is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at De Vierde Zaal, Ghent on Sat, 19 Sept 2026.
+Traskel is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at De Vierde Zaal, Ghent on Sat, 19 Sept 2026.
 
 Traskel is an electronic artist based in Denmark, tracked on soundcheck, with 2 sets logged across Copenhagen and Ghent. Often billed alongside Filen and Samsnavs. Next up: De Vierde Zaal, Ghent on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Traskel is an electronic artist based in Denmark, tracked on soundcheck, with 2 
 
 Filen, Samsnavs
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traskel/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traskel/)*

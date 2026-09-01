@@ -1,6 +1,6 @@
 # Mothership
 
-Mothership is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "oksional First Thursdays: Professor Bang" on Thu, 3 Sept 2026.
+Mothership is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "oksional First Thursdays: Professor Bang" on Thu, 3 Sept 2026.
 
 Mothership is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Justyn Myers. Browse upcoming dates, start times and who's playing. 3152 Mission Street San Francisco, CA 94110.
 
@@ -10,10 +10,10 @@ Mothership is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nig
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | oksional First Thursdays: Professor Bang | Justyn Myers |
 | Sat, 19 Sept 2026 | Maja Blast feat. Panderer |  |
-| Sun, 4 Oct 2026 | Tromac |  |
+| Sun, 4 Oct 2026 | Tromac in San Francisco 10/4 |  |
 
 ## Address
 
 3152 Mission Street San Francisco, CA 94110, San Francisco/Oakland
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/mothership/)*

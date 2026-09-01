@@ -1,6 +1,6 @@
 # Allius
 
-Allius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Honey Street Studio, Manchester on Sat, 19 Sept 2026.
+Allius is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Honey Street Studio, Manchester on Sat, 19 Sept 2026.
 
 Allius is a house and techno artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Leeds, London and Manchester. Often billed alongside Cersy, ngoma and Channell. Next up: Honey Street Studio, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Allius is a house and techno artist based in United Kingdom, tracked on soundche
 
 Cersy, ngoma, Channell
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*

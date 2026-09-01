@@ -1,6 +1,6 @@
 # DJ Dreams
 
-DJ Dreams is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Frappant, Hamburg on Fri, 4 Sept 2026.
+DJ Dreams is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Frappant, Hamburg on Fri, 4 Sept 2026.
 
 DJ Dreams is a house and disco artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Hamburg and Munich. Often billed alongside david bay, Hufnagel and Shimmy Robin. Next up: Frappant, Hamburg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Dreams is a house and disco artist based in Germany, tracked on soundcheck, w
 
 david bay, Hufnagel, Shimmy Robin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreams/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreams/)*

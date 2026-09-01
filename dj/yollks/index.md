@@ -1,6 +1,6 @@
 # Yollks
 
-Yollks is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Inner North Location, Melbourne on Sat, 12 Sept 2026.
+Yollks is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Inner North Location, Melbourne on Sat, 12 Sept 2026.
 
 Yollks is a techno and bass artist based in Australia, tracked on soundcheck, with 51 sets logged across Hobart, London, Melbourne and Sydney. Often billed alongside House Mum, BDE and Monfreaq. Next up: TBA - Inner North Location, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Yollks is a techno and bass artist based in Australia, tracked on soundcheck, wi
 
 House Mum, BDE, Monfreaq
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yollks/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yollks/)*

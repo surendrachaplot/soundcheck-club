@@ -1,6 +1,6 @@
 # Mama Tzo
 
-Mama Tzo is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Cross, London on Sat, 5 Sept 2026.
+Mama Tzo is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Cross, London on Sat, 5 Sept 2026.
 
 Mama Tzo is an afro house and deep house artist tracked on soundcheck, with 6 sets logged across Athens and London. Often billed alongside Paulo PG, AVANTIME and Altayef. Next up: The Cross, London on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Mama Tzo is an afro house and deep house artist tracked on soundcheck, with 6 se
 
 Paulo PG, AVANTIME, Altayef
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mamatzo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamatzo/)*

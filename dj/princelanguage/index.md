@@ -1,6 +1,6 @@
 # Prince Language
 
-Prince Language is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bambi's, Toronto on Sat, 12 Sept 2026.
+Prince Language is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bambi's, Toronto on Sat, 12 Sept 2026.
 
 Prince Language is a house and techno artist tracked on soundcheck, with 31 sets logged across Newyorkcity, Sanfrancisco and Toronto. Often billed alongside Ivan Berko, Lauren Murada and 063N13. Next up: Bambi's, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Prince Language is a house and techno artist tracked on soundcheck, with 31 sets
 
 Ivan Berko, Lauren Murada, 063N13
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princelanguage/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princelanguage/)*

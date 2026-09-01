@@ -1,6 +1,6 @@
 # Wendel
 
-Wendel is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Trip-Hop Thursdays" on Thu, 3 Sept 2026.
+Wendel is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Trip-Hop Thursdays" on Thu, 3 Sept 2026.
 
 Wendel is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Anton Quasi, EMBEE3, Kijara and Larhythmix. Browse upcoming dates, start times and who's playing. Schlesische Strasse 42; Kreuzberg; 10997; Germany.
 
@@ -16,4 +16,4 @@ Wendel is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with 
 
 Schlesische Strasse 42; Kreuzberg; 10997; Germany, Berlin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wendel/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wendel/)*

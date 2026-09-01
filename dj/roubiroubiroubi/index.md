@@ -1,8 +1,8 @@
 # Roubi Roubi Roubi
 
-Roubi Roubi Roubi is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Burger Disco Club, Athens on Sun, 15 Nov 2026.
+Roubi Roubi Roubi is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Burger Disco Club, Athens on Sun, 15 Nov 2026.
 
-Roubi Roubi Roubi is a club and house artist based in Greece, tracked on soundcheck, with 3 sets logged across Athens. Often billed alongside Stratos (2), Vladimir Ivkovic and jayjayGR. Next up: Burger Disco Club, Athens on Sun 15 Nov.
+Roubi Roubi Roubi is a club and house artist based in Greece, tracked on soundcheck, with 3 sets logged across Athens. Often billed alongside Boogie Chillen, Stratos (2) and Vladimir Ivkovic. Next up: Burger Disco Club, Athens on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Roubi Roubi Roubi is a club and house artist based in Greece, tracked on soundch
 
 ## Shares bills with
 
-Stratos (2), Vladimir Ivkovic, jayjayGR
+Boogie Chillen, Stratos (2), Vladimir Ivkovic
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/roubiroubiroubi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roubiroubiroubi/)*

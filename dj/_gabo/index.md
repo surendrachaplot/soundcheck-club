@@ -1,13 +1,14 @@
 # _Gabo
 
-_Gabo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at 303 Audiophile Bar, Barcelona on Thu, 10 Sept 2026.
+_Gabo is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Baggen, Copenhagen on Fri, 4 Sept 2026.
 
-_Gabo is a house and deep house artist tracked on soundcheck, with 4 sets logged across Barcelona, Chicago and Losangeles. Often billed alongside Ricardo Roessel, CHOíCE and David Paglia. Next up: 303 Audiophile Bar, Barcelona on Thu 10 Sept.
+_Gabo is a house and deep house artist tracked on soundcheck, with 5 sets logged across Barcelona, Chicago, Copenhagen and Losangeles. Often billed alongside Ricardo Roessel, MaNu (UK) and CHOíCE. Next up: Baggen, Copenhagen on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Baggen | Copenhagen |
 | Thu, 10 Sept 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played
@@ -18,6 +19,6 @@ _Gabo is a house and deep house artist tracked on soundcheck, with 4 sets logged
 
 ## Shares bills with
 
-Ricardo Roessel, CHOíCE, David Paglia
+Ricardo Roessel, MaNu (UK), CHOíCE
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/_gabo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/_gabo/)*

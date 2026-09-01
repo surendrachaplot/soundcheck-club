@@ -1,6 +1,6 @@
 # DJ Oliver
 
-DJ Oliver is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 12 Sept 2026.
+DJ Oliver is a House and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Amnesia Ibiza, Ibiza on Sat, 12 Sept 2026.
 
 DJ Oliver is a house and reggaeton artist tracked on soundcheck, with 68 sets logged across Ibiza, Madrid, Newyorkcity and Valencia. Often billed alongside Alvaro Smart, Paco Osuna and Andres Campo. Next up: Amnesia Ibiza, Ibiza on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ Oliver is a house and reggaeton artist tracked on soundcheck, with 68 sets lo
 
 Alvaro Smart, Paco Osuna, Andres Campo
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djoliver/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoliver/)*

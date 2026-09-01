@@ -1,6 +1,6 @@
 # Kø:lab
 
-Kø:lab is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Das Werk, Vienna on Fri, 11 Sept 2026.
+Kø:lab is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Das Werk, Vienna on Fri, 11 Sept 2026.
 
 Kø:lab is a techno and trance artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 20 more. Often billed alongside SEKTOR69, Cara Elizabeth and Dominique Lamee. Next up: Das Werk, Vienna on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Kø:lab is a techno and trance artist tracked on soundcheck, with 112 sets logge
 
 SEKTOR69, Cara Elizabeth, Dominique Lamee
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolab/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolab/)*

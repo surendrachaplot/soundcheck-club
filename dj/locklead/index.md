@@ -1,6 +1,6 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Cova Santa, Ibiza on Tue, 1 Sept 2026.
+Locklead is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Cova Santa, Ibiza on Tue, 1 Sept 2026.
 
 Locklead is a house and tech house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stassy and East End Dubs. Next up: Cova Santa, Ibiza on Tue 1 Sept.
 
@@ -36,4 +36,4 @@ Locklead is a house and tech house artist tracked on soundcheck, with 189 sets l
 
 Marsolo, Chris Stassy, East End Dubs
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

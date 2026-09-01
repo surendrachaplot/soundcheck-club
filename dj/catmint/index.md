@@ -1,6 +1,6 @@
 # CatMint
 
-CatMint is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Colours Hoxton, London on Sat, 26 Sept 2026.
+CatMint is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Colours Hoxton, London on Sat, 26 Sept 2026.
 
 CatMint is a techno and house artist tracked on soundcheck, with 22 sets logged across Berlin, Brussels, Geneva and London and 1 more. Often billed alongside Reita D Russo, Tweeman and Nastya Muravyova. Next up: Colours Hoxton, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ CatMint is a techno and house artist tracked on soundcheck, with 22 sets logged 
 
 Reita D Russo, Tweeman, Nastya Muravyova
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catmint/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catmint/)*

@@ -1,6 +1,6 @@
 # Gabi
 
-Gabi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Do Not Sit On The Furniture, Miami on Thu, 3 Sept 2026.
+Gabi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Do Not Sit On The Furniture, Miami on Thu, 3 Sept 2026.
 
 Gabi is a techno and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Berlin, Detroit, London and Miami and 2 more. Often billed alongside Blood Orange, Ciel and DJ Voices. Next up: Do Not Sit On The Furniture, Miami on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Gabi is a techno and house artist based in United States of America, tracked on 
 
 Blood Orange, Ciel, DJ Voices
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gabi-us/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabi-us/)*

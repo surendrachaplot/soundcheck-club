@@ -1,6 +1,6 @@
 # Antigone
 
-Antigone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at VENT, Tokyo on Fri, 18 Sept 2026.
+Antigone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at VENT, Tokyo on Fri, 18 Sept 2026.
 
 Antigone is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Bali, Barcelona and Basel and 27 more. Often billed alongside Bours?, Parallx and Dylan Fogarty. Next up: VENT, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Antigone is a techno and house artist tracked on soundcheck, with 71 sets logged
 
 Bours?, Parallx, Dylan Fogarty
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antigone/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antigone/)*

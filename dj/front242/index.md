@@ -1,6 +1,6 @@
 # Front 242
 
-Front 242 is a EBM and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Jama, Toronto on Fri, 25 Sept 2026.
+Front 242 is a EBM and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Jama, Toronto on Fri, 25 Sept 2026.
 
 Front 242 is an ebm and electronica artist tracked on soundcheck, with 30 sets logged across Athens, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Nitzer Ebb, Depeche Mode and ECHO. Next up: The Jama, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Front 242 is an ebm and electronica artist tracked on soundcheck, with 30 sets l
 
 Nitzer Ebb, Depeche Mode, ECHO
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/front242/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/front242/)*

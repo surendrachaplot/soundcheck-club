@@ -1,14 +1,15 @@
 # Caratastrophe
 
-Caratastrophe is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jade, New York City on Fri, 4 Sept 2026.
+Caratastrophe is a electronic artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Jade, New York City on Fri, 4 Sept 2026.
 
-Caratastrophe is an electronic artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside Jake Korolev and Jhariah. Next up: Jade, Newyorkcity on Fri 4 Sept.
+Caratastrophe is an electronic artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Jake Korolev and Jhariah. Next up: Jade, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Jade | New York City |
+| Fri, 11 Sept 2026 | Mood Ring | New York City |
 
 ## Recently played
 
@@ -18,4 +19,4 @@ Caratastrophe is an electronic artist based in United States of America, tracked
 
 Jake Korolev, Jhariah
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caratastrophe/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caratastrophe/)*

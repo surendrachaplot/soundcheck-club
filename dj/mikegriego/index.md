@@ -1,6 +1,6 @@
 # Mike Griego
 
-Mike Griego is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Lulú Club, Palermo, Buenos Aires on Sat, 12 Sept 2026.
+Mike Griego is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Lulú Club, Palermo, Buenos Aires on Sat, 12 Sept 2026.
 
 Mike Griego is a progressive house and techno artist tracked on soundcheck, with 7 sets logged across Buenosaires and Mexicocity. Often billed alongside Balance, Köves and VEGMART. Next up: TBA - Lulú Club, Palermo, Buenosaires on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Mike Griego is a progressive house and techno artist tracked on soundcheck, with
 
 Balance, Köves, VEGMART
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegriego/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikegriego/)*

@@ -1,6 +1,6 @@
 # Aston Evans
 
-Aston Evans is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at El Charcon Beach, Malaga on Sat, 19 Sept 2026.
+Aston Evans is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at El Charcon Beach, Malaga on Sat, 19 Sept 2026.
 
 Aston Evans is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Edinburgh, London, Malaga and Malta. Often billed alongside Sol Brown, Groove Assassin and Milady. Next up: El Charcon Beach, Malaga on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Aston Evans is a house and deep house artist based in United Kingdom, tracked on
 
 Sol Brown, Groove Assassin, Milady
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/astonevans/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astonevans/)*

@@ -1,6 +1,6 @@
 # Louis Millne
 
-Louis Millne is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Egg London, London on Sat, 26 Sept 2026.
+Louis Millne is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Egg London, London on Sat, 26 Sept 2026.
 
 Louis Millne is a house and tech house artist tracked on soundcheck, with 17 sets logged across Amsterdam, Ibiza, Leeds and Liverpool and 3 more. Often billed alongside GW Harrison, Will Wiley and Danny Howard. Next up: Egg London, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Louis Millne is a house and tech house artist tracked on soundcheck, with 17 set
 
 GW Harrison, Will Wiley, Danny Howard
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/louismillne/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louismillne/)*

@@ -1,6 +1,6 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
+Sama' Abdulhadi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
 
 Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 46 more. Often billed alongside Richie Hawtin, Adam Beyer and Anfisa Letyago. Next up: Sophie Festival, Malaga on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Sama' Abdulhadi is a techno and house artist tracked on soundcheck, with 140 set
 
 Richie Hawtin, Adam Beyer, Anfisa Letyago
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*

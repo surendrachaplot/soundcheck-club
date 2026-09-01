@@ -1,13 +1,14 @@
 # Mila Black
 
-Mila Black is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
+Mila Black is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Alte Münze, Berlin on Sat, 5 Sept 2026.
 
-Mila Black is a techno and club artist based in Netherlands, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Hamburg and Munich and 4 more. Often billed alongside MCR-T, TWIENA and ALCATRAZ. Next up: Edelfettwerk, Hamburg on Fri 2 Oct.
+Mila Black is a techno and trance artist based in Netherlands, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Hamburg and Munich and 4 more. Often billed alongside MCR-T, TWIENA and ALCATRAZ. Next up: Alte Münze, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Alte Münze | Berlin |
 | Fri, 2 Oct 2026 | Edelfettwerk | Hamburg |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mila Black is a techno and club artist based in Netherlands, tracked on soundche
 
 MCR-T, TWIENA, ALCATRAZ
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milablack/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milablack/)*

@@ -1,6 +1,6 @@
 # drysu
 
-drysu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at radial, London on Sat, 5 Sept 2026.
+drysu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at radial, London on Sat, 5 Sept 2026.
 
 drysu is a techno and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Bristol, Leeds and London. Often billed alongside Angel D'lite, Ariane V and Avsluta. Next up: radial, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ drysu is a techno and house artist tracked on soundcheck, with 26 sets logged ac
 
 Angel D'lite, Ariane V, Avsluta
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/iona-uk/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iona-uk/)*

@@ -1,6 +1,6 @@
 # Kolsch
 
-Kolsch is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Cova Santa, Ibiza on Fri, 4 Sept 2026.
+Kolsch is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Cova Santa, Ibiza on Fri, 4 Sept 2026.
 
 Kolsch is a techno and house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 37 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Cova Santa, Ibiza on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Kolsch is a techno and house artist tracked on soundcheck, with 143 sets logged 
 
 Kevin de Vries, Olympe, CamelPhat
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

@@ -1,6 +1,6 @@
 # Fireground
 
-Fireground is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
+Fireground is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
 
 Fireground is a techno and house artist based in Italy, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Zenker Brothers, Stenny and Ben Sims. Next up: Hive Club, Zurich on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Fireground is a techno and house artist based in Italy, tracked on soundcheck, w
 
 Zenker Brothers, Stenny, Ben Sims
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fireground/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fireground/)*

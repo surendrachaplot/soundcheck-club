@@ -1,6 +1,6 @@
 # RDL.wav
 
-RDL.wav is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Blaue Lagune, Düsseldorf on Sat, 5 Sept 2026.
+RDL.wav is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Blaue Lagune, Düsseldorf on Sat, 5 Sept 2026.
 
 RDL.wav is a tech house and progressive house artist tracked on soundcheck, with 4 sets logged across Dusseldorf, Frankfurt and Hamburg. Often billed alongside Alexander Aurel, Biagio Sibilla and Boyos (1). Next up: Blaue Lagune, Dusseldorf on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ RDL.wav is a tech house and progressive house artist tracked on soundcheck, with
 
 Alexander Aurel, Biagio Sibilla, Boyos (1)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rdl.wav/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rdl.wav/)*

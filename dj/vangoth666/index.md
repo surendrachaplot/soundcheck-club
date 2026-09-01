@@ -1,6 +1,6 @@
 # Vangoth666
 
-Vangoth666 is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tuff Club, Singapore on Fri, 18 Sept 2026.
+Vangoth666 is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tuff Club, Singapore on Fri, 18 Sept 2026.
 
 Vangoth666 is a club and experimental artist tracked on soundcheck, with 10 sets logged across Berlin, Glasgow, London and Singapore. Often billed alongside S280F, Ship Sket and AKUMU. Next up: Tuff Club, Singapore on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Vangoth666 is a club and experimental artist tracked on soundcheck, with 10 sets
 
 S280F, Ship Sket, AKUMU
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vangoth666/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vangoth666/)*

@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "LOS TEKKENOS" on Mon, 31 Aug 2026.
+Cross Club is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "PR7 RECORDS SHOWCASE" on Fri, 4 Sept 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including Amygdala, Dave Tarrida, Ghandi and Neonlight and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including Amygdala, Dave Tarrida, Ghandi and Neonlight and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 31 Aug 2026 | LOS TEKKENOS |  |
 | Fri, 4 Sept 2026 | PR7 RECORDS SHOWCASE |  |
 | Sat, 5 Sept 2026 | 10 YEARS OF NEXT:GEN CREW | Dave Tarrida, Ghandi, Nika77, Sir Free |
 | Fri, 11 Sept 2026 | THALASSOPHOBIA: SAVE OUR SOULS |  |
@@ -22,4 +21,4 @@ Cross Club is a music venue in Prague listed on soundcheck. 9 upcoming nights, w
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

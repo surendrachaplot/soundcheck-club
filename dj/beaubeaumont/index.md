@@ -1,6 +1,6 @@
 # Beau Beaumont
 
-Beau Beaumont is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lost Art Shop, Liverpool on Fri, 18 Sept 2026.
+Beau Beaumont is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lost Art Shop, Liverpool on Fri, 18 Sept 2026.
 
 Beau Beaumont is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol, Leeds, Liverpool and Tokyo. Often billed alongside AM sin, Abbie Morris and Astma. Next up: Lost Art Shop, Liverpool on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Beau Beaumont is a techno and electronica artist based in United Kingdom, tracke
 
 AM sin, Abbie Morris, Astma
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beaubeaumont/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beaubeaumont/)*

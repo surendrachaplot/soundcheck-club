@@ -1,6 +1,6 @@
 # NotMeghan
 
-NotMeghan is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Reelworks Denver, Denver on Sat, 26 Sept 2026.
+NotMeghan is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Reelworks Denver, Denver on Sat, 26 Sept 2026.
 
 NotMeghan is a techno and progressive house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Amsterdam, Denver and Montreal. Often billed alongside AKIVA, Aubrey Fry and Cris-H. Next up: Reelworks Denver, Denver on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ NotMeghan is a techno and progressive house artist based in United States of Ame
 
 AKIVA, Aubrey Fry, Cris-H
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/notmeghan/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notmeghan/)*

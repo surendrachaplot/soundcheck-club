@@ -1,6 +1,6 @@
 # Marco Passarani
 
-Marco Passarani is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Golden Lion, Manchester on Sat, 19 Sept 2026.
+Marco Passarani is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Golden Lion, Manchester on Sat, 19 Sept 2026.
 
 Marco Passarani is an electro and techno artist based in Italy, tracked on soundcheck, with 16 sets logged across Berlin, Glasgow, London and Lyon and 7 more. Often billed alongside Alessandro Adriani, Alden Tyrell and Alessandro Hòtel Blangetti. Next up: The Golden Lion, Manchester on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Marco Passarani is an electro and techno artist based in Italy, tracked on sound
 
 Alessandro Adriani, Alden Tyrell, Alessandro Hòtel Blangetti
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcopassarani/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcopassarani/)*

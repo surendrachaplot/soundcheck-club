@@ -1,6 +1,6 @@
 # THABLACKGOD
 
-THABLACKGOD is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Paragon, New York City on Sat, 5 Sept 2026.
+THABLACKGOD is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Paragon, New York City on Sat, 5 Sept 2026.
 
 THABLACKGOD is a club and techno artist tracked on soundcheck, with 28 sets logged across Newyorkcity and Washingtondc. Often billed alongside GET FACE, znorthy and Franxx. Next up: Paragon, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ THABLACKGOD is a club and techno artist tracked on soundcheck, with 28 sets logg
 
 GET FACE, znorthy, Franxx
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thablackgod/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thablackgod/)*

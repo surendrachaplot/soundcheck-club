@@ -1,6 +1,6 @@
 # Nick Hurton
 
-Nick Hurton is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 4 Sept 2026.
+Nick Hurton is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 4 Sept 2026.
 
 Nick Hurton is a trance and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Stuttgart. Often billed alongside crystal crimez (2), ARKAST and Caldarelli. Next up: Fridas Pier, Stuttgart on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Nick Hurton is a trance and techno artist based in Germany, tracked on soundchec
 
 crystal crimez (2), ARKAST, Caldarelli
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhurton/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickhurton/)*

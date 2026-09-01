@@ -1,6 +1,6 @@
 # __iwana__
 
-__iwana__ is a Disco and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Humboldthain Club, Berlin on Sat, 19 Sept 2026.
+__iwana__ is a Disco and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Humboldthain Club, Berlin on Sat, 19 Sept 2026.
 
 __iwana__ is a disco and r&b artist based in Ecuador, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside dOctOr doms, Roots. and Dr. Sud. Next up: Humboldthain Club, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ __iwana__ is a disco and r&b artist based in Ecuador, tracked on soundcheck, wit
 
 dOctOr doms, Roots., Dr. Sud
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/__iwana__/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/__iwana__/)*

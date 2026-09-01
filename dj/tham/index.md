@@ -1,13 +1,14 @@
 # Tham
 
-Tham is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
+Tham is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Alte Münze, Berlin on Sat, 5 Sept 2026.
 
-Tham is a techno and trance artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Acierate, CARAVEL and Vendex. Next up: Airport Würzburg, Nurnberg on Fri 20 Nov.
+Tham is a techno and trance artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Acierate, CARAVEL and Vendex. Next up: Alte Münze, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Alte Münze | Berlin |
 | Fri, 20 Nov 2026 | Airport Würzburg | Nürnberg |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tham is a techno and trance artist tracked on soundcheck, with 150 sets logged a
 
 Acierate, CARAVEL, Vendex
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*

@@ -1,6 +1,6 @@
 # Neco
 
-Neco is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Golden Gate, Berlin on Fri, 18 Sept 2026.
+Neco is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Golden Gate, Berlin on Fri, 18 Sept 2026.
 
 Neco is an electronic artist based in Japan, tracked on soundcheck, with 38 sets logged across Berlin, Copenhagen and Saopaulo. Often billed alongside Edgar Peng, Slurm McKenzie and Nils Ohrmann. Next up: Golden Gate, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Neco is an electronic artist based in Japan, tracked on soundcheck, with 38 sets
 
 Edgar Peng, Slurm McKenzie, Nils Ohrmann
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neco/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neco/)*

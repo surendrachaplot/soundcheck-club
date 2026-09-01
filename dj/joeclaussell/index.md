@@ -1,8 +1,8 @@
 # Joe Claussell
 
-Joe Claussell is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Locust Grove, New York City on Sat, 5 Sept 2026.
+Joe Claussell is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Locust Grove, New York City on Sat, 5 Sept 2026.
 
-Joe Claussell is a house and deep house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 23 more. Often billed alongside Danny Krivit, Francois K and DJ Tennis. Next up: Locust Grove, Newyorkcity on Sat 5 Sept.
+Joe Claussell is a house and deep house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 23 more. Often billed alongside Danny Krivit, Francois K and DJ Tennis. Next up: Locust Grove, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Joe Claussell is a house and deep house artist tracked on soundcheck, with 85 se
 | Sat, 5 Sept 2026 | Locust Grove | New York City |
 | Sat, 19 Sept 2026 | The Cause | London |
 | Sat, 26 Sept 2026 | Karmakoma | Belgrade |
+| Sun, 18 Oct 2026 | Longboat Hall | Toronto |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Joe Claussell is a house and deep house artist tracked on soundcheck, with 85 se
 
 Danny Krivit, Francois K, DJ Tennis
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*

@@ -1,6 +1,6 @@
 # Labyrinthine
 
-Labyrinthine is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Starlane Pizza Bar, London on Sun, 6 Sept 2026.
+Labyrinthine is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Starlane Pizza Bar, London on Sun, 6 Sept 2026.
 
 Labyrinthine is a techno and ambient artist tracked on soundcheck, with 97 sets logged across Barcelona, Berlin, Buenosaires and London and 4 more. Often billed alongside Jamie de Rooy, Harknee and Concrete Gold. Next up: Starlane Pizza Bar, London on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Labyrinthine is a techno and ambient artist tracked on soundcheck, with 97 sets 
 
 Jamie de Rooy, Harknee, Concrete Gold
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/labyrinthine/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/labyrinthine/)*

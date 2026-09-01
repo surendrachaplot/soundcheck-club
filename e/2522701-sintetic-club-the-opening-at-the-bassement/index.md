@@ -1,6 +1,6 @@
 # Sintetic Club: The Opening at The Bassement
 
-Sintetic Club: The Opening at The Bassement on Thu 24 Sept, Madrid. 1 act on the bill: Sora Éke. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Sintetic Club: The Opening at The Bassement on Thu 24 Sept, Madrid. 2 acts on the bill: Legiøn and Sora Éke. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Sintetic Club: The Opening at The Bassement on Thu 24 Sept, Madrid. 1 act on the
 
 ## Line-up
 
+- Legiøn
 - Sora Éke
 
 *Source: [soundcheck](https://soundcheck.club/e/2522701-sintetic-club-the-opening-at-the-bassement/)*

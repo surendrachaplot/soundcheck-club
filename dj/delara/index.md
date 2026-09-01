@@ -1,14 +1,15 @@
 # DELARA
 
-DELARA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at M.O.T, London on Sat, 3 Oct 2026.
+DELARA is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at M.O.T, London on Sat, 3 Oct 2026.
 
-DELARA is a techno and electro artist based in Spain, tracked on soundcheck, with 29 sets logged across London. Often billed alongside TOOTHTAXI, Modlar and SAN.SAN. Next up: M.O.T, London on Sat 3 Oct.
+DELARA is a techno and electro artist based in Spain, tracked on soundcheck, with 30 sets logged across London. Often billed alongside TOOTHTAXI, LIZAZA and Modlar. Next up: M.O.T, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | M.O.T | London |
+| Sat, 31 Oct 2026 | Vespers Club | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DELARA is a techno and electro artist based in Spain, tracked on soundcheck, wit
 
 ## Shares bills with
 
-TOOTHTAXI, Modlar, SAN.SAN
+TOOTHTAXI, LIZAZA, Modlar
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/delara/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delara/)*

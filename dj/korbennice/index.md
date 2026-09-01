@@ -1,6 +1,6 @@
 # Korben Nice
 
-Korben Nice is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Sigma, Ibiza on Sat, 5 Sept 2026.
+Korben Nice is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sigma, Ibiza on Sat, 5 Sept 2026.
 
 Korben Nice is a techno and minimal techno artist tracked on soundcheck, with 6 sets logged across Barcelona, Buenosaires and Ibiza. Often billed alongside MIA MAZ, SEMREH and Christian Wunsch. Next up: Sigma, Ibiza on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Korben Nice is a techno and minimal techno artist tracked on soundcheck, with 6 
 
 MIA MAZ, SEMREH, Christian Wunsch
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/korbennice/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korbennice/)*

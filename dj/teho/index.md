@@ -1,6 +1,6 @@
 # Teho
 
-Teho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fuse, Brussels on Sat, 19 Sept 2026.
+Teho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Fuse, Brussels on Sat, 19 Sept 2026.
 
 Teho is a house and techno artist based in France, tracked on soundcheck, with 29 sets logged across Basel, Berlin, Brussels and Chicago and 12 more. Often billed alongside Joachim Pastor, Joris Delacroix and NTO. Next up: Fuse, Brussels on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Teho is a house and techno artist based in France, tracked on soundcheck, with 2
 
 Joachim Pastor, Joris Delacroix, NTO
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teho/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teho/)*

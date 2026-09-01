@@ -1,6 +1,6 @@
 # AGNES (IT)
 
-AGNES (IT) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Villa Ricotti - La Valera, Milan on Sat, 5 Sept 2026.
+AGNES (IT) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Villa Ricotti - La Valera, Milan on Sat, 5 Sept 2026.
 
 AGNES (IT) is a house and trance artist based in Italy, tracked on soundcheck, with 55 sets logged across Amsterdam, London, Madrid and Milan and 4 more. Often billed alongside Leo Benassi, Dante (H501) and Fabrizio Sala. Next up: Villa Ricotti - La Valera, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ AGNES (IT) is a house and trance artist based in Italy, tracked on soundcheck, w
 
 Leo Benassi, Dante (H501), Fabrizio Sala
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agnes-it/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agnes-it/)*

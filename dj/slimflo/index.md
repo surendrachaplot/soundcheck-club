@@ -1,8 +1,8 @@
 # Slimflo
 
-Slimflo is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at John Doe, Amsterdam on Fri, 23 Oct 2026.
+Slimflo is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at John Doe, Amsterdam on Fri, 23 Oct 2026.
 
-Slimflo is a techno artist based in Switzerland, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Darksidevinyl, Alex Sharp and Alex Medina. Next up: John Doe, Amsterdam on Fri 23 Oct.
+Slimflo is a techno artist based in Switzerland, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Alex Medina, Alex Sharp and D-Formation. Next up: John Doe, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Slimflo is a techno artist based in Switzerland, tracked on soundcheck, with 1 s
 
 ## Shares bills with
 
-Darksidevinyl, Alex Sharp, Alex Medina
+Alex Medina, Alex Sharp, D-Formation
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/slimflo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slimflo/)*

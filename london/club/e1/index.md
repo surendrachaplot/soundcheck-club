@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 35 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "HOSTILE TAKE OVER" on Fri, 4 Sept 2026.
+E1 is a music venue in London with 35 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "HOSTILE TAKE OVER" on Fri, 4 Sept 2026.
 
 E1 is a music venue in London listed on soundcheck. 35 upcoming nights, with line-ups including 2HOT2PLAY, 8KAYS, Paolo Ferrara and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 35 upcoming nights, with lin
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

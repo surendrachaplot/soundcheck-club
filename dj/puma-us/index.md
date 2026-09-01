@@ -1,13 +1,14 @@
 # Puma (US)
 
-Puma (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Puma (US) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mad Radio Miami, Miami on Sat, 5 Sept 2026.
 
-Puma (US) is a house and deep house artist based in Venezuela, tracked on soundcheck, with 50 sets logged across Miami and Newyorkcity. Often billed alongside Terence Tabeau, Benton and Brother Dan. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Puma (US) is a house and deep house artist based in Venezuela, tracked on soundcheck, with 51 sets logged across Miami and Newyorkcity. Often billed alongside Terence Tabeau, Benton and Brother Dan. Next up: Mad Radio Miami, Miami on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Mad Radio Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ Puma (US) is a house and deep house artist based in Venezuela, tracked on soundc
 
 Terence Tabeau, Benton, Brother Dan
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/puma-us/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puma-us/)*

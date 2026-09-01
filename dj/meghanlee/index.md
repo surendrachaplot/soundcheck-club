@@ -1,13 +1,14 @@
 # Meghan Lee
 
-Meghan Lee is a Acid and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Meghan Lee is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mad Radio Miami, Miami on Thu, 3 Sept 2026.
 
-Meghan Lee is an acid and dub techno artist tracked on soundcheck, with 7 sets logged across Miami and Newyorkcity. Often billed alongside True Vine, Ultrathem and Bort. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Meghan Lee is an acid and house artist tracked on soundcheck, with 8 sets logged across Miami and Newyorkcity. Often billed alongside True Vine, Ultrathem and Bort. Next up: Mad Radio Miami, Miami on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Mad Radio Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -23,4 +24,4 @@ Meghan Lee is an acid and dub techno artist tracked on soundcheck, with 7 sets l
 
 True Vine, Ultrathem, Bort
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/meghanlee/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meghanlee/)*

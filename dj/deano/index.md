@@ -1,6 +1,6 @@
 # Deano
 
-Deano is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Les Enfants Brillants, Barcelona on Thu, 3 Sept 2026.
+Deano is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 3 Sept 2026.
 
 Deano is a techno and house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Faretrade, JED (ZA) and Árni. Next up: Les Enfants Brillants, Barcelona on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Deano is a techno and house artist tracked on soundcheck, with 19 sets logged ac
 
 Faretrade, JED (ZA), Árni
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deano/)*

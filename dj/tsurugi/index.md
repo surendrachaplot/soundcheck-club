@@ -1,6 +1,6 @@
 # Tsurugi
 
-Tsurugi is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 12 Sept 2026.
+Tsurugi is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 12 Sept 2026.
 
 Tsurugi is a techno and ambient artist tracked on soundcheck, with 4 sets logged across Washingtondc. Often billed alongside Artemis.105, Bastet (US) and Juana. Next up: TRANSMISSION DC, Washingtondc on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Tsurugi is a techno and ambient artist tracked on soundcheck, with 4 sets logged
 
 Artemis.105, Bastet (US), Juana
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsurugi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsurugi/)*

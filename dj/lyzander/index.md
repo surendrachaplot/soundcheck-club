@@ -1,6 +1,6 @@
 # LYZANDER
 
-LYZANDER is a Techno and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
+LYZANDER is a Techno and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
 
 LYZANDER is a techno and dubstep artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol and London. Often billed alongside Ifeoluwa, Lilian Lyzander and Princess Xixi. Next up: Hackney Bridge, London on Sun 6 Sept.
 
@@ -24,4 +24,4 @@ LYZANDER is a techno and dubstep artist based in United Kingdom, tracked on soun
 
 Ifeoluwa, Lilian Lyzander, Princess Xixi
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzander/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzander/)*

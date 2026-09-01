@@ -1,6 +1,6 @@
 # Donny Vega
 
-Donny Vega is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Donny Vega is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Donny Vega is a techno and tech house artist based in Canada, tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside HVN (1), Ana Luisa and Ard1n. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Donny Vega is a techno and tech house artist based in Canada, tracked on soundch
 
 HVN (1), Ana Luisa, Ard1n
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/donnyvega/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donnyvega/)*

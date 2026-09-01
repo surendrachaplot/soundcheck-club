@@ -1,6 +1,6 @@
 # Fredfades
 
-Fredfades is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Atelie Gallery, Oslo on Thu, 3 Sept 2026.
+Fredfades is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Atelie Gallery, Oslo on Thu, 3 Sept 2026.
 
 Fredfades is a house and techno artist based in Norway, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Bucharest and Madrid and 6 more. Often billed alongside CHEWCHEW, Darone Sassounian and Faux Majeure. Next up: Atelie Gallery, Oslo on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Fredfades is a house and techno artist based in Norway, tracked on soundcheck, w
 
 CHEWCHEW, Darone Sassounian, Faux Majeure
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fredfades/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fredfades/)*

@@ -1,6 +1,6 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 18 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Supercharged & BassKonection presents Mandidextrous" on Sat, 12 Sept 2026.
+Quarters is a music venue in Brighton with 18 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Supercharged & BassKonection presents Mandidextrous" on Sat, 12 Sept 2026.
 
 Quarters is a music venue in Brighton listed on soundcheck. 18 upcoming nights, with line-ups including 4am Kru, ADR (UK), Andy C and Basstripper and 2 more. Browse upcoming dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
@@ -23,4 +23,4 @@ Quarters is a music venue in Brighton listed on soundcheck. 18 upcoming nights, 
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

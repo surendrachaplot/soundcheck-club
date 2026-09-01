@@ -1,6 +1,6 @@
 # Vino (1)
 
-Vino (1) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at or, Tokyo on Sat, 26 Sept 2026.
+Vino (1) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at or, Tokyo on Sat, 26 Sept 2026.
 
 Vino (1) is a house and progressive house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside Conures (DJ Tokunaga), Kamekawa and 2bnsn. Next up: or, Tokyo on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Vino (1) is a house and progressive house artist based in United States of Ameri
 
 Conures (DJ Tokunaga), Kamekawa, 2bnsn
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vino-1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vino-1/)*

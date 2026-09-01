@@ -1,6 +1,6 @@
 # Zedd
 
-Zedd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Zedd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Zedd is a house and techno artist tracked on soundcheck, with 28 sets logged across Bali, Bangkok, Berlin and Buenosaires and 12 more. Often billed alongside Galantis, Dom Dolla and SOFI TUKKER. Next up: NOS Event Center, Losangeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Zedd is a house and techno artist tracked on soundcheck, with 28 sets logged acr
 
 Galantis, Dom Dolla, SOFI TUKKER
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zedd/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zedd/)*

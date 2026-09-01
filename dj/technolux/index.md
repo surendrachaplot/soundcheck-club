@@ -1,6 +1,6 @@
 # TECHNOLUX
 
-TECHNOLUX is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kiss Camden, London on Fri, 18 Sept 2026.
+TECHNOLUX is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Kiss Camden, London on Fri, 18 Sept 2026.
 
 TECHNOLUX is a techno artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Erica (IT), Sohtech and DREIAN. Next up: Kiss Camden, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ TECHNOLUX is a techno artist tracked on soundcheck, with 12 sets logged across L
 
 Erica (IT), Sohtech, DREIAN
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/technolux/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technolux/)*

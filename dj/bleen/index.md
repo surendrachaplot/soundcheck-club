@@ -1,6 +1,6 @@
 # BLEEN
 
-BLEEN is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Stereo, Glasgow on Thu, 17 Sept 2026.
+BLEEN is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Stereo, Glasgow on Thu, 17 Sept 2026.
 
 BLEEN is a techno and electro artist based in Ireland, tracked on soundcheck, with 14 sets logged across Dundee and Glasgow. Often billed alongside Kneave, Para Phase and George Best. Next up: Stereo, Glasgow on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ BLEEN is a techno and electro artist based in Ireland, tracked on soundcheck, wi
 
 Kneave, Para Phase, George Best
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bleen/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bleen/)*

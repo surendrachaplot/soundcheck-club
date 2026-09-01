@@ -1,6 +1,6 @@
 # Sandwell District
 
-Sandwell District is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Sandwell District is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Sandwell District is a techno and dub techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Regis, Function and mad miran. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Sandwell District is a techno and dub techno artist based in Germany, tracked on
 
 Regis, Function, mad miran
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwelldistrict/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwelldistrict/)*

@@ -1,6 +1,6 @@
 # dOctOr doms
 
-dOctOr doms is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Crack Bellmer, Berlin on Thu, 10 Sept 2026.
+dOctOr doms is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Crack Bellmer, Berlin on Thu, 10 Sept 2026.
 
 dOctOr doms is a techno and trance artist based in Germany, tracked on soundcheck, with 63 sets logged across Berlin and Marseille. Often billed alongside OM (COL), VO227 and Roots.. Next up: Crack Bellmer, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ dOctOr doms is a techno and trance artist based in Germany, tracked on soundchec
 
 OM (COL), VO227, Roots.
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*

@@ -1,6 +1,6 @@
 # Octave
 
-Octave is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Knockdown Center, New York City on Fri, 4 Sept 2026.
+Octave is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Knockdown Center, New York City on Fri, 4 Sept 2026.
 
 Octave is a house and electronica artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Bucharest and London and 1 more. Often billed alongside Celestra, Kesh (1) and Manu Invader. Next up: Knockdown Center, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Octave is a house and electronica artist tracked on soundcheck, with 10 sets log
 
 Celestra, Kesh (1), Manu Invader
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/octave/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octave/)*

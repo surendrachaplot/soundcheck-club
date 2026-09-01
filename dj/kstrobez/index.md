@@ -1,6 +1,6 @@
 # kstrobez
 
-kstrobez is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 4 Sept 2026.
+kstrobez is a Jungle and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 4 Sept 2026.
 
 kstrobez is a jungle and house artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside 32LVS, EDEN BEKELE and Gina Turner. Next up: Dead Letter No. 9, Newyorkcity on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ kstrobez is a jungle and house artist tracked on soundcheck, with 5 sets logged 
 
 32LVS, EDEN BEKELE, Gina Turner
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kstrobez/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kstrobez/)*

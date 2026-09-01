@@ -1,6 +1,6 @@
 # Schubas
 
-Schubas is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Gramaphone Records presents: Clark St Jams" on Fri, 4 Sept 2026.
+Schubas is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Gramaphone Records presents: Clark St Jams" on Fri, 4 Sept 2026.
 
 Schubas is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Dylan Gold and Hush Hush (US). Browse upcoming dates, start times and who's playing. 3159 N. Southport Ave; Chicago, IL 60657; United States.
 
@@ -14,4 +14,4 @@ Schubas is a music venue in Chicago listed on soundcheck. 1 upcoming night, with
 
 3159 N. Southport Ave; Chicago, IL 60657; United States, Chicago
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/schubas/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/schubas/)*

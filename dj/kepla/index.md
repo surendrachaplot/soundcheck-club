@@ -1,6 +1,6 @@
 # Kepla
 
-Kepla is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lost Art Shop, Liverpool on Fri, 18 Sept 2026.
+Kepla is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lost Art Shop, Liverpool on Fri, 18 Sept 2026.
 
 Kepla is an experimental and ambient artist tracked on soundcheck, with 6 sets logged across Leeds, Liverpool and Manchester. Often billed alongside Beau Beaumont, Ben Vince and Grey Streak. Next up: Lost Art Shop, Liverpool on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Kepla is an experimental and ambient artist tracked on soundcheck, with 6 sets l
 
 Beau Beaumont, Ben Vince, Grey Streak
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kepla/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kepla/)*

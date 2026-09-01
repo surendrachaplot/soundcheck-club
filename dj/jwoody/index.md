@@ -1,6 +1,6 @@
 # JWOODY
 
-JWOODY is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at EQ San Diego, San Diego on Fri, 18 Sept 2026.
+JWOODY is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at EQ San Diego, San Diego on Fri, 18 Sept 2026.
 
 JWOODY is a techno and club artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sandiego. Often billed alongside DEVZ, JAQ.XS and Michelle Mendez. Next up: EQ San Diego, Sandiego on Fri 18 Sept.
 
@@ -18,4 +18,4 @@ JWOODY is a techno and club artist based in United States of America, tracked on
 
 DEVZ, JAQ.XS, Michelle Mendez
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jwoody/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jwoody/)*

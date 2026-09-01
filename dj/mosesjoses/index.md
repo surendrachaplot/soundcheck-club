@@ -1,6 +1,6 @@
 # Moses Joses
 
-Moses Joses is a Acid and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Hope House, Leeds on Sat, 26 Sept 2026.
+Moses Joses is a Acid and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hope House, Leeds on Sat, 26 Sept 2026.
 
 Moses Joses is an acid and breakbeat artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Frankfurt and 4 more. Often billed alongside Erika Lowin, Marie Pravda and Naone. Next up: Hope House, Leeds on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Moses Joses is an acid and breakbeat artist tracked on soundcheck, with 20 sets 
 
 Erika Lowin, Marie Pravda, Naone
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mosesjoses/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosesjoses/)*

@@ -1,6 +1,6 @@
 # Maarten Spoor
 
-Maarten Spoor is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
+Maarten Spoor is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
 
 Maarten Spoor is a techno and progressive house artist tracked on soundcheck, with 14 sets logged across Amsterdam and Thehague. Often billed alongside Stoac, T-Gray and Cyantist. Next up: Het Veronica Schip, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Maarten Spoor is a techno and progressive house artist tracked on soundcheck, wi
 
 Stoac, T-Gray, Cyantist
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maartenspoor/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maartenspoor/)*

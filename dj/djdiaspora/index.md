@@ -1,6 +1,6 @@
 # DJ Diaspora
 
-DJ Diaspora is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+DJ Diaspora is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 DJ Diaspora is a house and techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Washingtondc. Often billed alongside Babypufff, Black Grealish and Chef Carl. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ DJ Diaspora is a house and techno artist based in United States of America, trac
 
 Babypufff, Black Grealish, Chef Carl
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdiaspora/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdiaspora/)*

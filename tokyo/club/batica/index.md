@@ -1,6 +1,6 @@
 # Batica
 
-Batica is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "SOFT WAVES 01" on Tue, 1 Sept 2026.
+Batica is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "SOFT WAVES 01" on Tue, 1 Sept 2026.
 
 Batica is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including Acidclank, AON (1), Iga and juli (8) and 2 more. Browse upcoming dates, start times and who's playing. 3-1-25 Ebisuminami, Shibuya-ku, Tokyo, 150-0022 Japan.
 
@@ -17,4 +17,4 @@ Batica is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with l
 
 3-1-25 Ebisuminami, Shibuya-ku, Tokyo, 150-0022 Japan, Tokyo
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/batica/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/batica/)*

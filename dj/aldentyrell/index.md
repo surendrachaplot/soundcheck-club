@@ -1,6 +1,6 @@
 # Alden Tyrell
 
-Alden Tyrell is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
+Alden Tyrell is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
 
 Alden Tyrell is a house and disco artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Madrid and Rotterdam and 2 more. Often billed alongside I-F, Marsman and David Vunk. Next up: TBA - Inter-city , Thehague on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Alden Tyrell is a house and disco artist tracked on soundcheck, with 12 sets log
 
 I-F, Marsman, David Vunk
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldentyrell/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldentyrell/)*

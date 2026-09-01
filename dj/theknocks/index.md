@@ -1,6 +1,6 @@
 # The Knocks
 
-The Knocks is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Foro Niebla, Mexico City on Fri, 25 Sept 2026.
+The Knocks is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Foro Niebla, Mexico City on Fri, 25 Sept 2026.
 
 The Knocks is a house and electronica artist based in United States of America, tracked on soundcheck, with 13 sets logged across Chicago, Losangeles, Mexicocity and Miami and 4 more. Often billed alongside Destructo, KSHMR and LOVRA. Next up: Foro Niebla, Mexicocity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ The Knocks is a house and electronica artist based in United States of America, 
 
 Destructo, KSHMR, LOVRA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theknocks/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theknocks/)*

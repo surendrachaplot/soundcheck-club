@@ -1,14 +1,15 @@
 # Camille Maria
 
-Camille Maria is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
+Camille Maria is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
 
-Camille Maria is a dub and bass artist tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Rome and Utrecht. Often billed alongside Gropina, ojoo and Hermeneia. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
+Camille Maria is a dub and bass artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Rome and Utrecht. Often billed alongside Gropina, ojoo and Hermeneia. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Garage Noord | Amsterdam |
+| Fri, 23 Oct 2026 | De Sering | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Camille Maria is a dub and bass artist tracked on soundcheck, with 25 sets logge
 
 Gropina, ojoo, Hermeneia
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camillemaria/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camillemaria/)*

@@ -1,8 +1,8 @@
 # Estella Boersma
 
-Estella Boersma is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Hï Ibiza, Ibiza on Sun, 6 Sept 2026.
+Estella Boersma is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 6 Sept 2026.
 
-Estella Boersma is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Patrick Mason, Daria Kolosova and Cera Khin. Next up: Hï Ibiza, Ibiza on Sun 6 Sept.
+Estella Boersma is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Patrick Mason, Daria Kolosova and Cera Khin. Next up: Hï Ibiza, Ibiza on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Estella Boersma is a techno and house artist tracked on soundcheck, with 170 set
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Hï Ibiza | Ibiza |
 | Wed, 16 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 19 Sept 2026 | UNDERCITY | Seoul |
 | Sun, 20 Sept 2026 | ZEROTOKYO | Tokyo |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
@@ -29,4 +30,4 @@ Estella Boersma is a techno and house artist tracked on soundcheck, with 170 set
 
 Patrick Mason, Daria Kolosova, Cera Khin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*

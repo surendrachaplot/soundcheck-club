@@ -1,6 +1,6 @@
 # KRYTE
 
-KRYTE is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Can Luis, Barcelona on Thu, 3 Sept 2026.
+KRYTE is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Can Luis, Barcelona on Thu, 3 Sept 2026.
 
 KRYTE is a techno and electronica artist tracked on soundcheck, with 36 sets logged across Barcelona. Often billed alongside Kolja (TR), Gato and Pullär. Next up: Can Luis, Barcelona on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ KRYTE is a techno and electronica artist tracked on soundcheck, with 36 sets log
 
 Kolja (TR), Gato, Pullär
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kryte/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kryte/)*

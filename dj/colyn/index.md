@@ -1,6 +1,6 @@
 # Colyn
 
-Colyn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Colyn is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
 Colyn is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Austin and 39 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Colyn is a techno and house artist tracked on soundcheck, with 159 sets logged a
 
 Adriatique, Innellea, CamelPhat
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*

@@ -1,6 +1,6 @@
 # Just Seba
 
-Just Seba is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Lucky Cat, Sydney on Fri, 11 Sept 2026.
+Just Seba is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Lucky Cat, Sydney on Fri, 11 Sept 2026.
 
 Just Seba is a techno and progressive house artist tracked on soundcheck, with 4 sets logged across Sydney. Often billed alongside D3W4N, Dave Stuart and Vic Zee. Next up: The Lucky Cat, Sydney on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Just Seba is a techno and progressive house artist tracked on soundcheck, with 4
 
 D3W4N, Dave Stuart, Vic Zee
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justseba/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justseba/)*

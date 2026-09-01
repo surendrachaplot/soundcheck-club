@@ -1,13 +1,14 @@
 # Inga Sama
 
-Inga Sama is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Neukölln Secret Location, Berlin on Fri, 11 Sept 2026.
+Inga Sama is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Pleasure Patterns, Berlin on Sat, 5 Sept 2026.
 
-Inga Sama is a progressive house and techno artist based in France, tracked on soundcheck, with 20 sets logged across Berlin and Strasbourg. Often billed alongside Ahni, Ina Vietha and Manta. Next up: TBA - Neukölln Secret Location, Berlin on Fri 11 Sept.
+Inga Sama is a progressive house and trance artist based in France, tracked on soundcheck, with 21 sets logged across Berlin and Strasbourg. Often billed alongside Ahni, Ina Vietha and Kidcat. Next up: Pleasure Patterns, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Pleasure Patterns | Berlin |
 | Fri, 11 Sept 2026 | TBA - Neukölln Secret Location | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Inga Sama is a progressive house and techno artist based in France, tracked on s
 
 ## Shares bills with
 
-Ahni, Ina Vietha, Manta
+Ahni, Ina Vietha, Kidcat
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ingasama/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ingasama/)*

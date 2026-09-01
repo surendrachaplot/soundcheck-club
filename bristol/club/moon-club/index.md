@@ -1,8 +1,8 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Moon Club 1st Birthday" on Fri, 4 Sept 2026.
+Moon Club is a music venue in Bristol with 6 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Moon Club 1st Birthday" on Fri, 4 Sept 2026.
 
-Moon Club is a music venue in Bristol listed on soundcheck. 5 upcoming nights, with line-ups including Appleblim, Ben Pest, Hamish & Toby and IZZIT and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
+Moon Club is a music venue in Bristol listed on soundcheck. 6 upcoming nights, with line-ups including Appleblim, Ben Pest, ETHICS and Gremlinz and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
 ## What's on
 
@@ -12,10 +12,11 @@ Moon Club is a music venue in Bristol listed on soundcheck. 5 upcoming nights, w
 | Fri, 11 Sept 2026 | High Canopy w/Radioactive Man, Appleblim, Ben Pest and Second Storey | Appleblim, Ben Pest, Radioactive Man, Second Storey |
 | Thu, 17 Sept 2026 | Klub Kaos | Kyle Starkey, MTOM, Neil And I, ROWANA, STYLI |
 | Fri, 25 Sept 2026 | Hamish and Toby, Willow | Hamish & Toby, Willow |
+| Fri, 2 Oct 2026 | Rekonize X UVB-76 | ETHICS, Gremlinz, Joe Joiner, Loxy, Sideshow |
 | Sat, 7 Nov 2026 | UN.KNOWN |  |
 
 ## Address
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

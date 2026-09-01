@@ -1,13 +1,14 @@
 # Leo Pol
 
-Leo Pol is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Friche Belle de Mai, Marseille on Fri, 25 Sept 2026.
+Leo Pol is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Rex Club, Paris on Fri, 4 Sept 2026.
 
-Leo Pol is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Julie Desire, Benwal and Jersey. Next up: Friche Belle de Mai, Marseille on Fri 25 Sept.
+Leo Pol is a house and techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Julie Desire, Benwal and Jersey. Next up: Rex Club, Paris on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Rex Club | Paris |
 | Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
 
 ## Recently played
@@ -25,4 +26,4 @@ Leo Pol is a house and techno artist tracked on soundcheck, with 78 sets logged 
 
 Julie Desire, Benwal, Jersey
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leopol/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leopol/)*

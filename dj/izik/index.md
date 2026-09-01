@@ -1,6 +1,6 @@
 # IZIK
 
-IZIK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Great Northern, San Francisco/Oakland on Sat, 12 Sept 2026.
+IZIK is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 IZIK is a techno and house artist tracked on soundcheck, with 42 sets logged across Miami and Sanfrancisco. Often billed alongside Emanate, Vann Essa and Gru.di. Next up: The Great Northern, Sanfrancisco on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ IZIK is a techno and house artist tracked on soundcheck, with 42 sets logged acr
 
 Emanate, Vann Essa, Gru.di
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/izik/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izik/)*

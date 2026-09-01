@@ -1,6 +1,6 @@
 # KABUL à GoGo
 
-KABUL à GoGo is a music venue in Utrecht with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "CYBERLESQUE" on Sat, 5 Sept 2026.
+KABUL à GoGo is a music venue in Utrecht with 7 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "CYBERLESQUE" on Sat, 5 Sept 2026.
 
 KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 7 upcoming nights, with line-ups including 36framez, Argento, CHEM:EX and DJ Soyboy and 2 more. Browse upcoming dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
 
@@ -20,4 +20,4 @@ KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 7 upcoming night
 
 Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands, Utrecht
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*

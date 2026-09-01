@@ -1,8 +1,8 @@
 # RITCHRD
 
-RITCHRD is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 4 Sept 2026.
+RITCHRD is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 4 Sept 2026.
 
-RITCHRD is a club and techno artist tracked on soundcheck, with 111 sets logged across Denver, London, Newyorkcity and Rotterdam and 2 more. Often billed alongside Discnogirl, Bored Lord and Tom Marsi. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 4 Sept.
+RITCHRD is a club and techno artist tracked on soundcheck, with 112 sets logged across Denver, London, Newyorkcity and Paris and 3 more. Often billed alongside Discnogirl, Bored Lord and Tom Marsi. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ RITCHRD is a club and techno artist tracked on soundcheck, with 111 sets logged 
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 11 Sept 2026 | Rotterdam Centre | Rotterdam |
+| Sun, 13 Sept 2026 | Zeralda | Paris |
 | Fri, 2 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
@@ -28,4 +29,4 @@ RITCHRD is a club and techno artist tracked on soundcheck, with 111 sets logged 
 
 Discnogirl, Bored Lord, Tom Marsi
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchrd/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchrd/)*

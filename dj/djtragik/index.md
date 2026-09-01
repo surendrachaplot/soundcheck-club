@@ -1,6 +1,6 @@
 # DJ Tragik
 
-DJ Tragik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Ritter Butzke, Berlin on Sat, 26 Sept 2026.
+DJ Tragik is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ritter Butzke, Berlin on Sat, 26 Sept 2026.
 
 DJ Tragik is a techno and house artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Budapest and Leipzig. Often billed alongside DJ Jordan, Dominik Eulberg and Moonbootica. Next up: Ritter Butzke, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Tragik is a techno and house artist tracked on soundcheck, with 10 sets logge
 
 DJ Jordan, Dominik Eulberg, Moonbootica
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djtragik/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtragik/)*

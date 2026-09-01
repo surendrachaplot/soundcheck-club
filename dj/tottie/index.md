@@ -1,14 +1,14 @@
 # Tottie
 
-Tottie is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Sat, 5 Sept 2026.
+Tottie is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 5 Sept 2026.
 
-Tottie is a house and electronica artist based in United States of America, tracked on soundcheck, with 89 sets logged across Barcelona, Detroit, Lisbon and Losangeles and 4 more. Often billed alongside Maddy Maia, LAALLS and Masha Mar. Next up: TBA - Open Air: Downtown Los Angeles, Losangeles on Sat 5 Sept.
+Tottie is a house and electronica artist based in United States of America, tracked on soundcheck, with 89 sets logged across Barcelona, Detroit, Lisbon and Losangeles and 4 more. Often billed alongside Maddy Maia, LAALLS and Masha Mar. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
+| Sat, 5 Sept 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Tottie is a house and electronica artist based in United States of America, trac
 
 Maddy Maia, LAALLS, Masha Mar
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tottie/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tottie/)*

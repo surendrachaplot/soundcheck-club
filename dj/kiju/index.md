@@ -1,6 +1,6 @@
 # Kiju
 
-Kiju is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 5 Sept 2026.
+Kiju is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sat, 5 Sept 2026.
 
 Kiju is a techno and house artist tracked on soundcheck, with 63 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside coldchainlogistics, Evita and Sako (2). Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Kiju is a techno and house artist tracked on soundcheck, with 63 sets logged acr
 
 coldchainlogistics, Evita, Sako (2)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kiju/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiju/)*

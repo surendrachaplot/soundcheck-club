@@ -1,6 +1,6 @@
 # Kolter
 
-Kolter is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Thuishaven, Amsterdam on Sun, 6 Sept 2026.
+Kolter is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Thuishaven, Amsterdam on Sun, 6 Sept 2026.
 
 Kolter is a house and tech house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Bali, Barcelona and Basel and 40 more. Often billed alongside East End Dubs, Jamback and M-High. Next up: Thuishaven, Amsterdam on Sun 6 Sept.
 
@@ -29,4 +29,4 @@ Kolter is a house and tech house artist tracked on soundcheck, with 153 sets log
 
 East End Dubs, Jamback, M-High
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*

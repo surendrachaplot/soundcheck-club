@@ -1,6 +1,6 @@
 # Lotus Phaze
 
-Lotus Phaze is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Lotus Phaze is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
 Lotus Phaze is a bass and club artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Edinburgh, Glasgow, Leeds and London and 1 more. Often billed alongside Girl Called Sim, Usawa and James Frances. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Lotus Phaze is a bass and club artist based in United Kingdom, tracked on soundc
 
 Girl Called Sim, Usawa, James Frances
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lotusphaze/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lotusphaze/)*

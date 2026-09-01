@@ -1,8 +1,8 @@
 # dtekk
 
-dtekk is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Jasna 1, Warsaw on Fri, 11 Sept 2026.
+dtekk is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Jasna 1, Warsaw on Fri, 11 Sept 2026.
 
-dtekk is a techno and electro artist based in Poland, tracked on soundcheck, with 57 sets logged across Berlin, Krakow, Lisbon and Oslo and 2 more. Often billed alongside Kovvalsky, Blazej Malinowski and MATRIX3K. Next up: Jasna 1, Warsaw on Fri 11 Sept.
+dtekk is a techno and electro artist based in Poland, tracked on soundcheck, with 58 sets logged across Berlin, Krakow, Lisbon and Oslo and 2 more. Often billed alongside Kovvalsky, Blazej Malinowski and MATRIX3K. Next up: Jasna 1, Warsaw on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ dtekk is a techno and electro artist based in Poland, tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Jasna 1 | Warsaw |
 | Sat, 19 Sept 2026 | Forum Horyzonty | Krakow |
+| Fri, 25 Sept 2026 | Gare Porto | Porto |
 | Fri, 2 Oct 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
@@ -27,4 +28,4 @@ dtekk is a techno and electro artist based in Poland, tracked on soundcheck, wit
 
 Kovvalsky, Blazej Malinowski, MATRIX3K
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dtekk-pl/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtekk-pl/)*

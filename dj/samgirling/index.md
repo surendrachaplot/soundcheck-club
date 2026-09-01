@@ -1,8 +1,8 @@
 # Sam Girling
 
-Sam Girling is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Villa, Oslo on Sat, 12 Sept 2026.
+Sam Girling is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Villa, Oslo on Sat, 12 Sept 2026.
 
-Sam Girling is a house and garage artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 15 more. Often billed alongside LAMMER, Body Clinic and CIAN__. Next up: The Villa, Oslo on Sat 12 Sept.
+Sam Girling is a house and garage artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside LAMMER, Body Clinic and CIAN__. Next up: The Villa, Oslo on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Sam Girling is a house and garage artist based in United Kingdom, tracked on sou
 | Fri, 25 Sept 2026 | KABUL à GoGo | Utrecht |
 | Sat, 26 Sept 2026 | Wigwam | Dublin |
 | Fri, 2 Oct 2026 | The Model | Nottingham |
+| Mon, 30 Nov 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Sam Girling is a house and garage artist based in United Kingdom, tracked on sou
 
 LAMMER, Body Clinic, CIAN__
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samgirling/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samgirling/)*

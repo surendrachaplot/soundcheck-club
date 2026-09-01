@@ -1,6 +1,6 @@
 # DASEPLATE
 
-DASEPLATE is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Green Works, Bristol on Sat, 12 Sept 2026.
+DASEPLATE is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Green Works, Bristol on Sat, 12 Sept 2026.
 
 DASEPLATE is a dubstep and grime artist tracked on soundcheck, with 15 sets logged across Birmingham, Bristol, Leeds and Manchester and 3 more. Often billed alongside Biome, ENiGMA Dubz and Rich Reason. Next up: Green Works, Bristol on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DASEPLATE is a dubstep and grime artist tracked on soundcheck, with 15 sets logg
 
 Biome, ENiGMA Dubz, Rich Reason
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daseplate/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daseplate/)*

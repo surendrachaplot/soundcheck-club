@@ -1,6 +1,6 @@
 # Vinyl Richiee
 
-Vinyl Richiee is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 19 Sept 2026.
+Vinyl Richiee is a Disco and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 19 Sept 2026.
 
 Vinyl Richiee is a disco and electronica artist tracked on soundcheck, with 17 sets logged across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Sunny Side Up, Nonna Fab and Hames. Next up: Eastern Bloc Records, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Vinyl Richiee is a disco and electronica artist tracked on soundcheck, with 17 s
 
 Sunny Side Up, Nonna Fab, Hames
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylrichiee/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylrichiee/)*

@@ -1,6 +1,6 @@
 # ARTIIC
 
-ARTIIC is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 3 Sept 2026.
+ARTIIC is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 3 Sept 2026.
 
 ARTIIC is an electronica and electro artist based in Spain, tracked on soundcheck, with 5 sets logged across Barcelona and Madrid. Often billed alongside Bustins, Arlo and Eli Kapowski. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ ARTIIC is an electronica and electro artist based in Spain, tracked on soundchec
 
 Bustins, Arlo, Eli Kapowski
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artiic/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artiic/)*

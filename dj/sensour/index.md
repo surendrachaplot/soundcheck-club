@@ -1,6 +1,6 @@
 # sensour
 
-sensour is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
+sensour is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
 
 sensour is a house and electronica artist tracked on soundcheck, with 13 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside Solyr, Fuunkt and nuarrrrr. Next up: TBA, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ sensour is a house and electronica artist tracked on soundcheck, with 13 sets lo
 
 Solyr, Fuunkt, nuarrrrr
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sensour/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sensour/)*

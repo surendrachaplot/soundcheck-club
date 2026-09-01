@@ -1,6 +1,6 @@
 # Second Wind at RADION
 
-Second Wind at RADION on Sun 25 Oct, Amsterdam. 15 acts on the bill: 42nd Avenue, Caim, Christian AB and Craig Richards and 11 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Second Wind at RADION on Sun 25 Oct, Amsterdam. 16 acts on the bill: 42nd Avenue, Ben UFO, Caim and Christian AB and 12 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Second Wind at RADION on Sun 25 Oct, Amsterdam. 15 acts on the bill: 42nd Avenue
 ## Line-up
 
 - 42nd Avenue
+- Ben UFO
 - Caim
 - Christian AB
 - Craig Richards

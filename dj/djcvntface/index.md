@@ -1,6 +1,6 @@
 # Dj Cvntface
 
-Dj Cvntface is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kassa Boat, Budapest on Sat, 26 Sept 2026.
+Dj Cvntface is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Kassa Boat, Budapest on Sat, 26 Sept 2026.
 
 Dj Cvntface is a techno and hardcore artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Budapest. Often billed alongside Viscerale, Dagobird and FLUCC. Next up: Kassa Boat, Budapest on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Dj Cvntface is a techno and hardcore artist based in Germany, tracked on soundch
 
 Viscerale, Dagobird, FLUCC
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djcvntface/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcvntface/)*

@@ -1,17 +1,17 @@
 # Lehar
 
-Lehar is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - MAERA, Mykonos on Fri, 28 Aug 2026.
+Lehar is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Powered by: Void Acoustics, Madrid on Fri, 11 Sept 2026.
 
-Lehar is a house and techno artist tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Musumeci, Denis Horvat and CENKK. Next up: TBA - MAERA, Mykonos on Fri 28 Aug.
+Lehar is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Musumeci, Denis Horvat and CENKK. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | TBA - MAERA | Mykonos |
 | Fri, 11 Sept 2026 | TBA - Powered by: Void Acoustics | Madrid |
 | Sat, 24 Oct 2026 | Waterhouse Studios | Amsterdam |
 | Fri, 30 Oct 2026 | Do Not Sit On The Furniture | Miami |
+| Sat, 31 Oct 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ Lehar is a house and techno artist tracked on soundcheck, with 69 sets logged ac
 
 Musumeci, Denis Horvat, CENKK
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lehar/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lehar/)*

@@ -1,6 +1,6 @@
 # RedtomCat
 
-RedtomCat is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bredouille, Berlin on Sat, 5 Sept 2026.
+RedtomCat is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bredouille, Berlin on Sat, 5 Sept 2026.
 
 RedtomCat is a tech house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Phat Beat, JaFrei Loufoque and Bisk. Next up: Bredouille, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ RedtomCat is a tech house and techno artist based in Germany, tracked on soundch
 
 Phat Beat, JaFrei Loufoque, Bisk
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redtomcat/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redtomcat/)*

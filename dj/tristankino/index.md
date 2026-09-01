@@ -1,6 +1,6 @@
 # Tristan Kino
 
-Tristan Kino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bar Temp., Bangkok on Fri, 4 Sept 2026.
+Tristan Kino is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bar Temp., Bangkok on Fri, 4 Sept 2026.
 
 Tristan Kino is a techno and house artist based in France, tracked on soundcheck, with 33 sets logged across Bangkok. Often billed alongside Gaspray, E Nick and DZ GAS. Next up: Bar Temp., Bangkok on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Tristan Kino is a techno and house artist based in France, tracked on soundcheck
 
 Gaspray, E Nick, DZ GAS
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tristankino/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristankino/)*

@@ -1,6 +1,6 @@
 # Eddy Tango
 
-Eddy Tango is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Eddy Tango is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Eddy Tango is a progressive house and house artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside JP Lantieri, Pedro Mercado and AMYMI MUSICA. Next up: Bears Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Eddy Tango is a progressive house and house artist tracked on soundcheck, with 3
 
 JP Lantieri, Pedro Mercado, AMYMI MUSICA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eddytango/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddytango/)*

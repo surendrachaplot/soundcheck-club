@@ -1,6 +1,6 @@
 # MIRA
 
-MIRA is a music venue in Paris with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "humn pattrn - MEET 001" on Wed, 16 Sept 2026.
+MIRA is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "humn pattrn - MEET 001" on Wed, 16 Sept 2026.
 
 MIRA is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including egoh. Browse upcoming dates, start times and who's playing. 4 bis rue saint sauveur, 75002 Paris.
 
@@ -14,4 +14,4 @@ MIRA is a music venue in Paris listed on soundcheck. 1 upcoming night, with line
 
 4 bis rue saint sauveur, 75002 Paris, Paris
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mira/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mira/)*

@@ -1,6 +1,6 @@
 # Hugo Humblet
 
-Hugo Humblet is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Amigo, Ghent on Fri, 18 Sept 2026.
+Hugo Humblet is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Amigo, Ghent on Fri, 18 Sept 2026.
 
 Hugo Humblet is a techno artist based in Belgium, tracked on soundcheck, with 3 sets logged across Brussels and Ghent. Often billed alongside Clara D, Ecleptix and Laura Charlier. Next up: Amigo, Ghent on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Hugo Humblet is a techno artist based in Belgium, tracked on soundcheck, with 3 
 
 Clara D, Ecleptix, Laura Charlier
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hugohumblet/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugohumblet/)*

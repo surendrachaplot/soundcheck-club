@@ -1,8 +1,8 @@
 # Signal
 
-Signal is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Archivio presents mink, Pablo Romero & Daniel Dutts" on Thu, 3 Sept 2026.
+Signal is a music venue in New York City with 18 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Archivio presents mink, Pablo Romero & Daniel Dutts" on Thu, 3 Sept 2026.
 
-Signal is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including 550am, 98dots, adobeprincess and Alissa Brianna and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in Newyorkcity listed on soundcheck. 18 upcoming nights, with line-ups including 550am, 98dots, adobeprincess and ALEXIS DE LA ROSA and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

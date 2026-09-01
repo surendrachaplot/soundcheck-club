@@ -1,6 +1,6 @@
 # Queen of Air
 
-Queen of Air is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Denver on Fri, 4 Sept 2026.
+Queen of Air is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Denver on Fri, 4 Sept 2026.
 
 Queen of Air is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Denver. Often billed alongside DJ PurRpLeXeD, MoBlack and Pounces. Next up: TBA, Denver on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Queen of Air is a techno and house artist based in United States of America, tra
 
 DJ PurRpLeXeD, MoBlack, Pounces
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/queenofair/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queenofair/)*

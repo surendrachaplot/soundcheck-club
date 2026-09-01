@@ -1,6 +1,6 @@
 # Domicile
 
-Domicile is a music venue in Miami with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Friday Labor Day Weekend THAM Miami Debut" on Fri, 4 Sept 2026.
+Domicile is a music venue in Miami with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Friday Labor Day Weekend THAM Miami Debut" on Fri, 4 Sept 2026.
 
 Domicile is a music venue in Miami listed on soundcheck. 3 upcoming nights, with line-ups including future.666, Gioh Cecato, Jay Toledo and Lil Texas and 2 more. Browse upcoming dates, start times and who's playing. 2900 NW Seventh Ave, Miami, FL  33127.
 
@@ -16,4 +16,4 @@ Domicile is a music venue in Miami listed on soundcheck. 3 upcoming nights, with
 
 2900 NW Seventh Ave, Miami, FL  33127, Miami
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/domicile/)*

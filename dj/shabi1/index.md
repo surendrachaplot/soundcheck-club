@@ -1,6 +1,6 @@
 # Shabi1
 
-Shabi1 is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Artheater, Cologne on Fri, 25 Sept 2026.
+Shabi1 is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Artheater, Cologne on Fri, 25 Sept 2026.
 
 Shabi1 is a techno artist tracked on soundcheck, with 2 sets logged across Cologne. Often billed alongside die jane., lollo and Esch. Next up: Artheater, Cologne on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ Shabi1 is a techno artist tracked on soundcheck, with 2 sets logged across Colog
 
 die jane., lollo, Esch
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shabi1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shabi1/)*

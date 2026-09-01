@@ -1,6 +1,6 @@
 # Lorel
 
-Lorel is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Secret Location, Berlin on Sun, 13 Sept 2026.
+Lorel is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location, Berlin on Sun, 13 Sept 2026.
 
 Lorel is a bass and trance artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside gredeson, Air Protection Office and Arriba Rima. Next up: TBA - Secret Location, Berlin on Sun 13 Sept.
 
@@ -21,4 +21,4 @@ Lorel is a bass and trance artist tracked on soundcheck, with 5 sets logged acro
 
 gredeson, Air Protection Office, Arriba Rima
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lorel/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorel/)*

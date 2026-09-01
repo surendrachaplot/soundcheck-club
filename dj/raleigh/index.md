@@ -1,6 +1,6 @@
 # Raleigh
 
-Raleigh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Gare Porto, Porto on Sat, 12 Sept 2026.
+Raleigh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gare Porto, Porto on Sat, 12 Sept 2026.
 
 Raleigh is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Birmingham and London and 6 more. Often billed alongside Alfred Czital, Yan (CZ) and Zeynep. Next up: Gare Porto, Porto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Raleigh is a techno and trance artist based in Czech Republic, tracked on soundc
 
 Alfred Czital, Yan (CZ), Zeynep
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raleigh/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raleigh/)*

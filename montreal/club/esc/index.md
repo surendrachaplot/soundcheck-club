@@ -1,6 +1,6 @@
 # ESC
 
-ESC is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "KØRE avec un K" on Fri, 4 Sept 2026.
+ESC is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "KØRE avec un K" on Fri, 4 Sept 2026.
 
 ESC is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including CrisseMarqueur, Ekitwanda, Esther Côté and Forello. Browse upcoming dates, start times and who's playing. 2023 St Laurent Blvd, Montreal, QC H2X 2T3.
 
@@ -17,4 +17,4 @@ ESC is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with l
 
 2023 St Laurent Blvd, Montreal, QC H2X 2T3, Montreal
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/esc/)*

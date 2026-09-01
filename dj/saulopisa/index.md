@@ -1,6 +1,6 @@
 # Saulo Pisa
 
-Saulo Pisa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Almar Beach Club, Barcelona on Fri, 11 Sept 2026.
+Saulo Pisa is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 11 Sept 2026.
 
 Saulo Pisa is a techno and house artist based in Spain, tracked on soundcheck, with 108 sets logged across Barcelona. Often billed alongside Keyblow, ONIVID and Miguel Silva. Next up: Almar Beach Club, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Saulo Pisa is a techno and house artist based in Spain, tracked on soundcheck, w
 
 Keyblow, ONIVID, Miguel Silva
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/saulopisa/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saulopisa/)*

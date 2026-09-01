@@ -1,6 +1,6 @@
 # Wolf Story
 
-Wolf Story is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Secret Spot DT LA, Los Angeles on Tue, 1 Sept 2026.
+Wolf Story is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Secret Spot DT LA, Los Angeles on Tue, 1 Sept 2026.
 
 Wolf Story is a house and techno artist tracked on soundcheck, with 54 sets logged across Denver, Kyoto, Losangeles and Miami and 3 more. Often billed alongside Sebastian Arreguin, Yury Black and Michael Toobz. Next up: Secret Spot DT LA, Losangeles on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Wolf Story is a house and techno artist tracked on soundcheck, with 54 sets logg
 
 Sebastian Arreguin, Yury Black, Michael Toobz
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfstory/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfstory/)*

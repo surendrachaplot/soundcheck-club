@@ -1,6 +1,6 @@
 # Stasi Sanlin
 
-Stasi Sanlin is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Stasi Sanlin is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Stasi Sanlin is an afro house and house artist tracked on soundcheck, with 16 sets logged across Amsterdam, Athens, Bali and Brussels and 7 more. Often billed alongside &ME, 999999999 and AJNA. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Stasi Sanlin is an afro house and house artist tracked on soundcheck, with 16 se
 
 &ME, 999999999, AJNA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stasisanlin/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stasisanlin/)*

@@ -1,6 +1,6 @@
 # beccs
 
-beccs is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Golden Pudel Club, Hamburg on Thu, 10 Sept 2026.
+beccs is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 10 Sept 2026.
 
 beccs is a tech house and techno artist based in Germany, tracked on soundcheck, with 78 sets logged across Berlin, Frankfurt, Hamburg and Leeds and 4 more. Often billed alongside Anton Jonathan, Najeh and Lenard Klein. Next up: Golden Pudel Club, Hamburg on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ beccs is a tech house and techno artist based in Germany, tracked on soundcheck,
 
 Anton Jonathan, Najeh, Lenard Klein
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beccs-de/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beccs-de/)*

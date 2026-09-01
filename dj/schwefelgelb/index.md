@@ -1,6 +1,6 @@
 # Schwefelgelb
 
-Schwefelgelb is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at OXI, Berlin on Tue, 15 Sept 2026.
+Schwefelgelb is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at OXI, Berlin on Tue, 15 Sept 2026.
 
 Schwefelgelb is a techno and ebm artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: OXI, Berlin on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Schwefelgelb is a techno and ebm artist tracked on soundcheck, with 52 sets logg
 
 Ancient Methods, OTHR, Parrish Smith
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*

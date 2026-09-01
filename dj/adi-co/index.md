@@ -1,14 +1,15 @@
 # Adi (CO)
 
-Adi (CO) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Sheffield on Fri, 4 Sept 2026.
+Adi (CO) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Sheffield on Fri, 4 Sept 2026.
 
-Adi (CO) is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Unai Trotti, Jane Fitz and Walrus. Next up: TBA, Sheffield on Fri 4 Sept.
+Adi (CO) is a techno and house artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Unai Trotti, Jane Fitz and Walrus. Next up: TBA, Sheffield on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | TBA | Sheffield |
+| Fri, 25 Sept 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Adi (CO) is a techno and house artist tracked on soundcheck, with 103 sets logge
 
 Unai Trotti, Jane Fitz, Walrus
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adi-co/)*

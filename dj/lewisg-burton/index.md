@@ -1,6 +1,6 @@
 # Lewis G. Burton
 
-Lewis G. Burton is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
+Lewis G. Burton is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
 
 Lewis G. Burton is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Glasgow and Lisbon and 5 more. Often billed alongside Samantha Togni, Wax Wings and Slim Soledad. Next up: Hackney Bridge, London on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Lewis G. Burton is a techno and hardcore artist based in United Kingdom, tracked
 
 Samantha Togni, Wax Wings, Slim Soledad
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisg-burton/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisg-burton/)*

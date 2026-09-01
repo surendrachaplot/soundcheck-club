@@ -1,6 +1,6 @@
 # DJOOMPH
 
-DJOOMPH is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club NYX, Amsterdam on Sat, 5 Sept 2026.
+DJOOMPH is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club NYX, Amsterdam on Sat, 5 Sept 2026.
 
 DJOOMPH is a pop and house artist tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Bass Btch, Edward Meunier and Jordy Jordos. Next up: Club NYX, Amsterdam on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ DJOOMPH is a pop and house artist tracked on soundcheck, with 2 sets logged acro
 
 Bass Btch, Edward Meunier, Jordy Jordos
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djoomph/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoomph/)*

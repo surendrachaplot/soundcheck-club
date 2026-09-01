@@ -1,6 +1,6 @@
 # HMOT
 
-HMOT is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Silent Green, Berlin on Tue, 20 Oct 2026.
+HMOT is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Silent Green, Berlin on Tue, 20 Oct 2026.
 
 HMOT is an experimental and techno artist tracked on soundcheck, with 7 sets logged across Basel, Berlin and Turin. Often billed alongside Rabih Beaini, Riccardo La Foresta and otay:onii. Next up: Silent Green, Berlin on Tue 20 Oct.
 
@@ -23,4 +23,4 @@ HMOT is an experimental and techno artist tracked on soundcheck, with 7 sets log
 
 Rabih Beaini, Riccardo La Foresta, otay:onii
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hmot/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hmot/)*

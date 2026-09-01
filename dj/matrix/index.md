@@ -1,6 +1,6 @@
 # Matrix
 
-Matrix is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TivoliVredenburg, Utrecht on Fri, 4 Sept 2026.
+Matrix is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TivoliVredenburg, Utrecht on Fri, 4 Sept 2026.
 
 Matrix is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Brighton, Brisbane, Budapest and Denver and 8 more. Often billed alongside Futurebound, Optical and Black Sun Empire. Next up: TivoliVredenburg, Utrecht on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Matrix is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Futurebound, Optical, Black Sun Empire
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix/)*

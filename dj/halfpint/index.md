@@ -1,6 +1,6 @@
 # HALFPINT
 
-HALFPINT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at fabric, London on Fri, 16 Oct 2026.
+HALFPINT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at fabric, London on Fri, 16 Oct 2026.
 
 HALFPINT is a house and techno artist tracked on soundcheck, with 43 sets logged across Amsterdam, Brighton, Dublin and Hamburg and 2 more. Often billed alongside Sossa, Jamback and Seth Troxler. Next up: fabric, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ HALFPINT is a house and techno artist tracked on soundcheck, with 43 sets logged
 
 Sossa, Jamback, Seth Troxler
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*

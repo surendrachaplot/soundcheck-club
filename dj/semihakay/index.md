@@ -1,6 +1,6 @@
 # Semih Akay
 
-Semih Akay is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Florida Beach Istanbul, Istanbul on Sat, 12 Sept 2026.
+Semih Akay is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Florida Beach Istanbul, Istanbul on Sat, 12 Sept 2026.
 
 Semih Akay is a house and tech house artist based in Turkey, tracked on soundcheck, with 40 sets logged across Istanbul. Often billed alongside Alexandr Grecov, DJ Queto and Fault. Next up: Florida Beach Istanbul, Istanbul on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Semih Akay is a house and tech house artist based in Turkey, tracked on soundche
 
 Alexandr Grecov, DJ Queto, Fault
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/semihakay/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/semihakay/)*

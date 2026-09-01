@@ -1,8 +1,8 @@
 # Innersha
 
-Innersha is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at public records, New York City on Mon, 9 Nov 2026.
+Innersha is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
-Innersha is a techno and experimental artist tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Brussels and Budapest and 12 more. Often billed alongside Dasha Rush, Decoder and Woody92. Next up: public records, Newyorkcity on Mon 9 Nov.
+Innersha is a techno and experimental artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Brussels and Budapest and 12 more. Often billed alongside Dasha Rush, Decoder and Trois-Quarts Taxi System. Next up: public records, Newyorkcity on Mon 9 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Innersha is a techno and experimental artist tracked on soundcheck, with 23 sets
 | --- | --- | --- |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Fri, 13 Nov 2026 | public records | New York City |
+| Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 
 ## Recently played
@@ -25,6 +26,6 @@ Innersha is a techno and experimental artist tracked on soundcheck, with 23 sets
 
 ## Shares bills with
 
-Dasha Rush, Decoder, Woody92
+Dasha Rush, Decoder, Trois-Quarts Taxi System
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*

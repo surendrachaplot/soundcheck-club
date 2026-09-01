@@ -1,8 +1,8 @@
 # Shaun J. Wright
 
-Shaun J. Wright is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at smartbar, Chicago on Fri, 4 Sept 2026.
+Shaun J. Wright is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at smartbar, Chicago on Fri, 4 Sept 2026.
 
-Shaun J. Wright is a house and techno artist tracked on soundcheck, with 193 sets logged across Berlin, Boston, Chicago and Detroit and 8 more. Often billed alongside Michael Serafini, Derrick Carter and Mike Servito. Next up: smartbar, Chicago on Fri 4 Sept.
+Shaun J. Wright is a house and techno artist tracked on soundcheck, with 194 sets logged across Berlin, Boston, Chicago and Detroit and 8 more. Often billed alongside Michael Serafini, Derrick Carter and Mike Servito. Next up: smartbar, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Shaun J. Wright is a house and techno artist tracked on soundcheck, with 193 set
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 25 Sept 2026 | TBA - LOCATION EMAILED TO TICKETHOLDERS | Chicago |
 | Sun, 27 Sept 2026 | smartbar | Chicago |
+| Sun, 1 Nov 2026 | Signal | New York City |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Shaun J. Wright is a house and techno artist tracked on soundcheck, with 193 set
 
 Michael Serafini, Derrick Carter, Mike Servito
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunjwright/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunjwright/)*

@@ -1,6 +1,6 @@
 # Aii PS
 
-Aii PS is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
+Aii PS is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
 
 Aii PS is an electronica and house artist tracked on soundcheck, with 25 sets logged across Berlin, Hamburg, Tbilisi and Warsaw. Often billed alongside Jacob Knob, Ilja Franz and Acid Pablo. Next up: Jasna 1, Warsaw on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Aii PS is an electronica and house artist tracked on soundcheck, with 25 sets lo
 
 Jacob Knob, Ilja Franz, Acid Pablo
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aiips/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aiips/)*

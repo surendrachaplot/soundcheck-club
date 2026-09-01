@@ -1,6 +1,6 @@
 # Athens of the North
 
-Athens of the North is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
+Athens of the North is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
 
 Athens of the North is a disco and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Edinburgh and Glasgow and 2 more. Often billed alongside Lel Palfrey, Euan Fryer and James Alexander Bright. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Athens of the North is a disco and house artist based in United Kingdom, tracked
 
 Lel Palfrey, Euan Fryer, James Alexander Bright
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/athensofthenorth/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/athensofthenorth/)*

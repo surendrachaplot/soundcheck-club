@@ -1,6 +1,6 @@
 # Malachi (2)
 
-Malachi (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Good Room, New York City on Sat, 12 Sept 2026.
+Malachi (2) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Good Room, New York City on Sat, 12 Sept 2026.
 
 Malachi (2) is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London and Newyorkcity. Often billed alongside Malachi, Sho (UK) and Bruce & H. Next up: Good Room, Newyorkcity on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Malachi (2) is a house and minimal artist based in United Kingdom, tracked on so
 
 Malachi, Sho (UK), Bruce & H
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/malachi-2/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malachi-2/)*

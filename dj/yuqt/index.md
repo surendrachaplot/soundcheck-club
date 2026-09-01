@@ -1,14 +1,15 @@
 # Y U QT
 
-Y U QT is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+Y U QT is a Garage and Bass artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
-Y U QT is a garage and bass artist tracked on soundcheck, with 110 sets logged across Antwerp, Auckland, Bangkok and Barcelona and 26 more. Often billed alongside Dr Dubplate, Yung Singh and Bakey. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
+Y U QT is a garage and bass artist tracked on soundcheck, with 111 sets logged across Antwerp, Auckland, Bangkok and Barcelona and 26 more. Often billed alongside Dr Dubplate, Yung Singh and Bakey. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Rotterdam Centre | Rotterdam |
+| Sat, 12 Sept 2026 | Worm | Rotterdam |
 | Fri, 18 Sept 2026 | World Headquarters | Newcastle |
 | Fri, 25 Sept 2026 | TRAUM | Antwerp |
 | Sat, 10 Oct 2026 | Mint XL | Leeds |
@@ -29,4 +30,4 @@ Y U QT is a garage and bass artist tracked on soundcheck, with 110 sets logged a
 
 Dr Dubplate, Yung Singh, Bakey
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yuqt/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuqt/)*

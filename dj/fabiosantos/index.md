@@ -1,6 +1,6 @@
 # Fabio Santos
 
-Fabio Santos is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Distrikt, Leeds on Fri, 18 Sept 2026.
+Fabio Santos is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Distrikt, Leeds on Fri, 18 Sept 2026.
 
 Fabio Santos is a house and garage artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Leeds, Rotterdam and Thehague and 1 more. Often billed alongside Michel de Hey, AAT (NL) and Benny Rodrigues. Next up: Distrikt, Leeds on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Fabio Santos is a house and garage artist based in Netherlands, tracked on sound
 
 Michel de Hey, AAT (NL), Benny Rodrigues
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiosantos/)*

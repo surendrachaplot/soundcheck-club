@@ -1,6 +1,6 @@
 # O'Flynn
 
-O'Flynn is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Oxford Art Factory, Sydney on Fri, 11 Sept 2026.
+O'Flynn is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Oxford Art Factory, Sydney on Fri, 11 Sept 2026.
 
 O'Flynn is a house and garage artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Auckland, Barcelona, Berlin and Brighton and 26 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: Oxford Art Factory, Sydney on Fri 11 Sept.
 
@@ -32,4 +32,4 @@ O'Flynn is a house and garage artist based in United Kingdom, tracked on soundch
 
 Dan Shake, Eliza Rose, Jasper Tygner
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*

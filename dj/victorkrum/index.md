@@ -1,6 +1,6 @@
 # Victor Krum
 
-Victor Krum is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at block., Dublin on Sat, 26 Sept 2026.
+Victor Krum is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at block., Dublin on Sat, 26 Sept 2026.
 
 Victor Krum is a techno and industrial artist tracked on soundcheck, with 23 sets logged across Belfast, Brisbane, Dublin and Glasgow and 1 more. Often billed alongside NAT TYPE, Cailín and Connect. Next up: block., Dublin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Victor Krum is a techno and industrial artist tracked on soundcheck, with 23 set
 
 NAT TYPE, Cailín, Connect
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorkrum/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victorkrum/)*

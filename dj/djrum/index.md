@@ -1,6 +1,6 @@
 # DjRUM
 
-DjRUM is a Techno and Bass artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Tresor / Globus, Berlin on Fri, 11 Sept 2026.
+DjRUM is a Techno and Bass artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Tresor / Globus, Berlin on Fri, 11 Sept 2026.
 
 DjRUM is a techno and bass artist tracked on soundcheck, with 136 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 45 more. Often billed alongside Skee Mask, Kia (AU) and Mia Koden. Next up: Tresor / Globus, Berlin on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ DjRUM is a techno and bass artist tracked on soundcheck, with 136 sets logged ac
 
 Skee Mask, Kia (AU), Mia Koden
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djrum/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrum/)*

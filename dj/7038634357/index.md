@@ -1,6 +1,6 @@
 # 7038634357
 
-7038634357 is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Secret Location, New York City on Thu, 17 Sept 2026.
+7038634357 is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location, New York City on Thu, 17 Sept 2026.
 
 7038634357 is an experimental and ambient artist tracked on soundcheck, with 24 sets logged across Austin, Brussels, Chicago and Copenhagen and 10 more. Often billed alongside Shyboi, 2K88 and Ian Kim Judd. Next up: TBA - Secret Location, Newyorkcity on Thu 17 Sept.
 
@@ -25,4 +25,4 @@
 
 Shyboi, 2K88, Ian Kim Judd
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/7038634357/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/7038634357/)*

@@ -1,6 +1,6 @@
 # FIUZA (MX)
 
-FIUZA (MX) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Paraiso Estereo, Miami on Sat, 19 Sept 2026.
+FIUZA (MX) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Paraiso Estereo, Miami on Sat, 19 Sept 2026.
 
 FIUZA (MX) is a techno and trance artist tracked on soundcheck, with 9 sets logged across Miami. Often billed alongside Madison Kay, PROLETAR and KUJO (US). Next up: Paraiso Estereo, Miami on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ FIUZA (MX) is a techno and trance artist tracked on soundcheck, with 9 sets logg
 
 Madison Kay, PROLETAR, KUJO (US)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiuza-mx/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiuza-mx/)*

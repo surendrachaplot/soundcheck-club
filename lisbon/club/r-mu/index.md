@@ -1,6 +1,6 @@
 # Rūmu
 
-Rūmu is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Room pres.: Robert Roman (Ubiyu, US)" on Wed, 2 Sept 2026.
+Rūmu is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Room pres.: Robert Roman (Ubiyu, US)" on Wed, 2 Sept 2026.
 
 Rūmu is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including Barbu, Boyá, C4STRO and Jorge Caiado and 2 more. Browse upcoming dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
 
@@ -18,4 +18,4 @@ Rūmu is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with l
 
 R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal, Lisbon
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*

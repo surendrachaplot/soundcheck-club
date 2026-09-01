@@ -1,6 +1,6 @@
 # Lino Fuso
 
-Lino Fuso is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Flava Beach, Naples on Sat, 5 Sept 2026.
+Lino Fuso is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Flava Beach, Naples on Sat, 5 Sept 2026.
 
 Lino Fuso is a techno and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Cambric, Alex Sharp and ADRIANNA. Next up: Flava Beach, Naples on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Lino Fuso is a techno and tech house artist tracked on soundcheck, with 65 sets 
 
 Cambric, Alex Sharp, ADRIANNA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*

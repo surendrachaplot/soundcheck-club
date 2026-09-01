@@ -1,6 +1,6 @@
 # Stefan Meser
 
-Stefan Meser is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Blaue Lagune, Düsseldorf on Sat, 5 Sept 2026.
+Stefan Meser is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Blaue Lagune, Düsseldorf on Sat, 5 Sept 2026.
 
 Stefan Meser is a house and tech house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Dusseldorf, Rotterdam and Thehague and 1 more. Often billed alongside Karim Soliman, SANTØS and Ammé. Next up: Blaue Lagune, Dusseldorf on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Stefan Meser is a house and tech house artist tracked on soundcheck, with 20 set
 
 Karim Soliman, SANTØS, Ammé
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmeser/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmeser/)*

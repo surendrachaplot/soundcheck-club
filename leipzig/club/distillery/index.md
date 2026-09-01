@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 14 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "ROW RECORDS × FUNCTION" on Fri, 4 Sept 2026.
+Distillery is a music venue in Leipzig with 14 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "ROW RECORDS × FUNCTION" on Fri, 4 Sept 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 14 upcoming nights, with line-ups including Alexia (2), ali e., Bärtaub and Bephål and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -16,11 +16,11 @@ Distillery is a music venue in Leipzig listed on soundcheck. 14 upcoming nights,
 | Sat, 19 Sept 2026 | VACANZA × Butschi all night long | Butschi |
 | Fri, 25 Sept 2026 | S.D.H.Q. presents: Sonic Dimensions #1 | Kalitos, OutWithJane |
 | Sat, 26 Sept 2026 | METRO × distillery NEW KIDS |  |
-| Sat, 3 Oct 2026 | FOCUS + KARETE BU invites |  |
+| Sat, 3 Oct 2026 | FOCUS + KARETE BU invites | V:SONNTAG, karete bu |
 | Sat, 10 Oct 2026 | KEINKOLLEKTIV X NORMAN NODGE [ all night long ] | Norman Nodge |
 
 ## Address
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

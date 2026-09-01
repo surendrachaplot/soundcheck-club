@@ -1,17 +1,18 @@
 # So-Fi
 
-So-Fi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Colour Factory, London on Mon, 31 Aug 2026.
+So-Fi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
 
-So-Fi is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Matthias (1), Ancut and Carl H. Next up: Colour Factory, London on Mon 31 Aug.
+So-Fi is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Matthias (1), Ancut and Carl H. Next up: Signal, Newyorkcity on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 31 Aug 2026 | Colour Factory | London |
+| Fri, 30 Oct 2026 | Signal | New York City |
 
 ## Recently played
 
+- Colour Factory, London — Mon, 31 Aug 2026
 - Sonnenraum, Berlin — Sat, 29 Aug 2026
 - Renate, Berlin — Fri, 7 Aug 2026
 - Tresor / Globus, Berlin — Sat, 18 Jul 2026
@@ -19,10 +20,9 @@ So-Fi is a house and techno artist tracked on soundcheck, with 94 sets logged ac
 - TBA - CHATEAU DE TILLOLOY, 80700 TILLOLOY, FRANCE, Paris — Fri, 5 Jun 2026
 - TBA - JK (near S Greifswalder), Berlin — Fri, 5 Jun 2026
 - Hoppetosse, Berlin — Fri, 29 May 2026
-- Funke, Ghent — Sat, 2 May 2026
 
 ## Shares bills with
 
 Matthias (1), Ancut, Carl H
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*

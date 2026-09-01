@@ -1,6 +1,6 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at block., Dublin on Sat, 5 Sept 2026.
+Captain Wallop is a Garage and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at block., Dublin on Sat, 5 Sept 2026.
 
 Captain Wallop is a garage and house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 11 more. Often billed alongside RTK Tarantino, Soul Mass Transit System and Alec Falconer. Next up: block., Dublin on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ Captain Wallop is a garage and house artist tracked on soundcheck, with 46 sets 
 
 RTK Tarantino, Soul Mass Transit System, Alec Falconer
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

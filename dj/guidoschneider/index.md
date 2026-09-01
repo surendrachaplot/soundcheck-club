@@ -1,6 +1,6 @@
 # Guido Schneider
 
-Guido Schneider is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club Frau Holle, Hamburg on Fri, 4 Sept 2026.
+Guido Schneider is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Frau Holle, Hamburg on Fri, 4 Sept 2026.
 
 Guido Schneider is a techno and tech house artist tracked on soundcheck, with 9 sets logged across Berlin and Hamburg. Often billed alongside Daniel Dreier, Alex Kraemer and DAVIDE (2). Next up: Club Frau Holle, Hamburg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Guido Schneider is a techno and tech house artist tracked on soundcheck, with 9 
 
 Daniel Dreier, Alex Kraemer, DAVIDE (2)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoschneider/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guidoschneider/)*

@@ -1,6 +1,6 @@
 # Fabrique im Gängeviertel
 
-Fabrique im Gängeviertel is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Hammonia x Nautilus" on Fri, 4 Sept 2026.
+Fabrique im Gängeviertel is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Hammonia x Nautilus" on Fri, 4 Sept 2026.
 
 Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with line-ups including Coco (2), Cornyjava, EXPLICIT and Fab Massimo and 2 more. Browse upcoming dates, start times and who's playing. Valentinskamp 34A, 20355 Hamburg, Germany.
 
@@ -17,4 +17,4 @@ Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 4 up
 
 Valentinskamp 34A, 20355 Hamburg, Germany, Hamburg
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*

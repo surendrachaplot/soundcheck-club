@@ -1,6 +1,6 @@
 # Analog Kitchen
 
-Analog Kitchen is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at WestWeelde, Amsterdam on Sat, 28 Nov 2026.
+Analog Kitchen is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at WestWeelde, Amsterdam on Sat, 28 Nov 2026.
 
 Analog Kitchen is a techno and progressive house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Dublin and Rotterdam. Often billed alongside Jelle Bolijn, SURCO and Tomo in der Muhlen. Next up: WestWeelde, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Analog Kitchen is a techno and progressive house artist tracked on soundcheck, w
 
 Jelle Bolijn, SURCO, Tomo in der Muhlen
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/analogkitchen/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/analogkitchen/)*

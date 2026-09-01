@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Summer Outdoor Garage Festival - Studio 338 London" on Sat, 5 Sept 2026.
+Studio 338 is a music venue in London with 11 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Summer Outdoor Garage Festival - Studio 338 London" on Sat, 5 Sept 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Alex P, Anil Aras, ASHOJU and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -23,4 +23,4 @@ Studio 338 is a music venue in London listed on soundcheck. 11 upcoming nights, 
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

@@ -1,6 +1,6 @@
 # Ibrahim Alfa
 
-Ibrahim Alfa is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Strange Brew, Bristol on Fri, 11 Sept 2026.
+Ibrahim Alfa is a House and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Strange Brew, Bristol on Fri, 11 Sept 2026.
 
 Ibrahim Alfa is a house and experimental artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol, Frankfurt and London. Often billed alongside Bienoise, Daisy Moon and Flora Yin-Wong. Next up: Strange Brew, Bristol on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Ibrahim Alfa is a house and experimental artist based in United Kingdom, tracked
 
 Bienoise, Daisy Moon, Flora Yin-Wong
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ibrahimalfa/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ibrahimalfa/)*

@@ -1,6 +1,6 @@
 # Devious D
 
-Devious D is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Devious D is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Devious D is a house and bass artist based in United States of America, tracked on soundcheck, with 11 sets logged across Denver and London. Often billed alongside Nicky Blackmarket, The Ragga Twins and DJ SS. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Devious D is a house and bass artist based in United States of America, tracked 
 
 Nicky Blackmarket, The Ragga Twins, DJ SS
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deviousd/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deviousd/)*

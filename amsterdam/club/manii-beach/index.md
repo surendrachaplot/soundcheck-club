@@ -1,6 +1,6 @@
 # Manii Beach
 
-Manii Beach is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Love House at the Beach" on Sat, 12 Sept 2026.
+Manii Beach is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Love House at the Beach" on Sat, 12 Sept 2026.
 
 Manii Beach is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Zuidstrand 2, 2042AG, Zandvoort.
 
@@ -14,4 +14,4 @@ Manii Beach is a music venue in Amsterdam listed on soundcheck. 1 upcoming night
 
 Zuidstrand 2, 2042AG, Zandvoort, Amsterdam
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/manii-beach/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/manii-beach/)*

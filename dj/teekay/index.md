@@ -1,8 +1,8 @@
 # Teekay
 
-Teekay is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Sawmills, Bristol on Sat, 5 Sept 2026.
+Teekay is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sawmills, Bristol on Sat, 5 Sept 2026.
 
-Teekay is a house and tech house artist based in Germany, tracked on soundcheck, with 1 set logged across Bristol. Often billed alongside fern (4), LACEY and Amber. Next up: Sawmills, Bristol on Sat 5 Sept.
+Teekay is a tech house and house artist based in Germany, tracked on soundcheck, with 1 set logged across Bristol. Often billed alongside AVA (3), Amber and IZZIT. Next up: Sawmills, Bristol on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Teekay is a house and tech house artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-fern (4), LACEY, Amber
+AVA (3), Amber, IZZIT
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teekay/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teekay/)*

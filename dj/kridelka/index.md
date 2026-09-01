@@ -1,6 +1,6 @@
 # Kridelka
 
-Kridelka is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Système, Montreal on Sun, 20 Sept 2026.
+Kridelka is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Système, Montreal on Sun, 20 Sept 2026.
 
 Kridelka is a house and disco artist tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside Bolarinho, Burn Baby and DJ InYourFace. Next up: Système, Montreal on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Kridelka is a house and disco artist tracked on soundcheck, with 13 sets logged 
 
 Bolarinho, Burn Baby, DJ InYourFace
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kridelka/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kridelka/)*

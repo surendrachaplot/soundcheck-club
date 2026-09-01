@@ -1,6 +1,6 @@
 # MAXIM (8)
 
-MAXIM (8) is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Aiiro Cafe, Tokyo on Sat, 19 Sept 2026.
+MAXIM (8) is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Aiiro Cafe, Tokyo on Sat, 19 Sept 2026.
 
 MAXIM (8) is a house and electro artist based in Japan, tracked on soundcheck, with 23 sets logged across Tokyo. Often billed alongside MUNÉO, RUKE and crazist. Next up: Aiiro Cafe, Tokyo on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ MAXIM (8) is a house and electro artist based in Japan, tracked on soundcheck, w
 
 MUNÉO, RUKE, crazist
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim-8/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxim-8/)*

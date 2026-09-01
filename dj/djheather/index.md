@@ -1,6 +1,6 @@
 # DJ Heather
 
-DJ Heather is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+DJ Heather is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 DJ Heather is a house and deep house artist tracked on soundcheck, with 129 sets logged across Austin, Chicago, Detroit and Losangeles and 9 more. Often billed alongside DJ Colette, Derrick Carter and Mark Farina. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ DJ Heather is a house and deep house artist tracked on soundcheck, with 129 sets
 
 DJ Colette, Derrick Carter, Mark Farina
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*

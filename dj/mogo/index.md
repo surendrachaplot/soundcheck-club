@@ -1,6 +1,6 @@
 # MOGO
 
-MOGO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Electric Garden, Dublin on Sat, 12 Sept 2026.
+MOGO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Electric Garden, Dublin on Sat, 12 Sept 2026.
 
 MOGO is a techno and house artist tracked on soundcheck, with 16 sets logged across Dublin and Valencia. Often billed alongside Lady Keta, VKT 1 and Moduse. Next up: Electric Garden, Dublin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ MOGO is a techno and house artist tracked on soundcheck, with 16 sets logged acr
 
 Lady Keta, VKT 1, Moduse
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mogo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mogo/)*

@@ -1,6 +1,6 @@
 # Kim (JP)
 
-Kim (JP) is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at ZEROTOKYO, Tokyo on Thu, 17 Sept 2026.
+Kim (JP) is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at ZEROTOKYO, Tokyo on Thu, 17 Sept 2026.
 
 Kim (JP) is a drum & bass and garage artist tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside Rikk (2), Altemica and CRAZYHYUGA. Next up: ZEROTOKYO, Tokyo on Thu 17 Sept.
 
@@ -24,4 +24,4 @@ Kim (JP) is a drum & bass and garage artist tracked on soundcheck, with 8 sets l
 
 Rikk (2), Altemica, CRAZYHYUGA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kim-jp/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kim-jp/)*

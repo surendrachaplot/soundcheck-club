@@ -1,6 +1,6 @@
 # Adam BFD
 
-Adam BFD is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at YuYu Cine Club, Mexico City on Fri, 4 Sept 2026.
+Adam BFD is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 4 Sept 2026.
 
 Adam BFD is a breakbeat and house artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Istanbul and London and 3 more. Often billed alongside DJ Physical, Ams (FR) and Baroć. Next up: YuYu Cine Club, Mexicocity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Adam BFD is a breakbeat and house artist tracked on soundcheck, with 18 sets log
 
 DJ Physical, Ams (FR), Baroć
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adambfd/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adambfd/)*

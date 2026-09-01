@@ -1,6 +1,6 @@
 # HELIX (NYC)
 
-HELIX (NYC) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Honey's, New York City on Fri, 9 Oct 2026.
+HELIX (NYC) is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Honey's, New York City on Fri, 9 Oct 2026.
 
 HELIX (NYC) is a techno and minimal artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Tim Dauz, Aleska and Anthorp. Next up: Honey's, Newyorkcity on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ HELIX (NYC) is a techno and minimal artist tracked on soundcheck, with 5 sets lo
 
 Tim Dauz, Aleska, Anthorp
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helix-2/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helix-2/)*

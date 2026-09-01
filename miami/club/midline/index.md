@@ -1,6 +1,6 @@
 # Midline
 
-Midline is a music venue in Miami with 11 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Andrew Power MIAMI" on Sat, 5 Sept 2026.
+Midline is a music venue in Miami with 11 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Andrew Power MIAMI" on Sat, 5 Sept 2026.
 
 Midline is a music venue in Miami listed on soundcheck. 11 upcoming nights, with line-ups including Andre Power, DJ Habibeats, Mose and Six Sex. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Midline is a music venue in Miami listed on soundcheck. 11 upcoming nights, with
 | Fri, 13 Nov 2026 | honestav - The Sweet American Boy Tour MIAMI |  |
 | Wed, 25 Nov 2026 | INNA MIAMI |  |
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*

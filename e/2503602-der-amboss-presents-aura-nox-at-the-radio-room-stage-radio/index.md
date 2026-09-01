@@ -1,6 +1,6 @@
 # Der Amboss presents Aura Nox at The Radio Room @ Stage & Radio
 
-Der Amboss presents Aura Nox at The Radio Room @ Stage & Radio on Sat 19 Sept, Manchester. 1 act on the bill: Aura Nox. Electro and Acid. Preview the line-up and save it on soundcheck.
+Der Amboss presents Aura Nox at The Radio Room @ Stage & Radio on Sat 19 Sept, Manchester. 1 act on the bill: Aura Nox. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

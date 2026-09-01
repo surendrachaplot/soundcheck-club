@@ -1,14 +1,16 @@
 # Mihak
 
-Mihak is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bar Temp., Bangkok on Sat, 5 Sept 2026.
+Mihak is a Tech House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bar Temp., Bangkok on Sat, 5 Sept 2026.
 
-Mihak is a tech house and electro artist tracked on soundcheck, with 142 sets logged across Bangkok, Osaka, Seoul and Tokyo. Often billed alongside Kang Seongmin, Lyumin and Krijka. Next up: Bar Temp., Bangkok on Sat 5 Sept.
+Mihak is a tech house and electro artist tracked on soundcheck, with 144 sets logged across Bangkok, Osaka, Seoul and Tokyo. Often billed alongside Kang Seongmin, Lyumin and Krijka. Next up: Bar Temp., Bangkok on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Bar Temp. | Bangkok |
+| Fri, 11 Sept 2026 | teller | Seoul |
+| Sat, 26 Sept 2026 | teller | Seoul |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Mihak is a tech house and electro artist tracked on soundcheck, with 142 sets lo
 
 Kang Seongmin, Lyumin, Krijka
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mihak/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihak/)*

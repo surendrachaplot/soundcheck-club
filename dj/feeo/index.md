@@ -1,6 +1,6 @@
 # feeo
 
-feeo is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
+feeo is a Experimental and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
 
 feeo is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Bristol and Brussels and 9 more. Often billed alongside Lol K, Ugnė Uma and Valentina Magaletti. Next up: TBA - Multiple Venues, Vienna on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ feeo is an experimental and electronica artist based in United Kingdom, tracked 
 
 Lol K, Ugnė Uma, Valentina Magaletti
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*

@@ -1,6 +1,6 @@
 # estocastic Yin Gathering at TBA - Casa Androna
 
-estocastic Yin Gathering at TBA - Casa Androna on Sun 20 Sept, Barcelona. 2 acts on the bill: Avsluta and Myrcene. Ambient. Preview the line-up and save it on soundcheck.
+estocastic Yin Gathering at TBA - Casa Androna on Sun 20 Sept, Barcelona. 3 acts on the bill: Akagat, Avsluta and Myrcene. Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ estocastic Yin Gathering at TBA - Casa Androna on Sun 20 Sept, Barcelona. 2 acts
 
 ## Line-up
 
+- Akagat
 - Avsluta
 - Myrcene
 

@@ -1,6 +1,6 @@
 # Niko Hoke
 
-Niko Hoke is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Studio Citygate, Brussels on Sat, 12 Sept 2026.
+Niko Hoke is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Studio Citygate, Brussels on Sat, 12 Sept 2026.
 
 Niko Hoke is a trance and techno artist based in Belgium, tracked on soundcheck, with 18 sets logged across Brussels. Often billed alongside BISOUX, John Gilliot and Maëlle. Next up: Studio Citygate, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Niko Hoke is a trance and techno artist based in Belgium, tracked on soundcheck,
 
 BISOUX, John Gilliot, Maëlle
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nikohoke/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikohoke/)*

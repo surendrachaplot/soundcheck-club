@@ -1,6 +1,6 @@
 # Odrik
 
-Odrik is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Gallery, London on Sat, 5 Sept 2026.
+Odrik is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Gallery, London on Sat, 5 Sept 2026.
 
 Odrik is a house and funk / soul artist based in France, tracked on soundcheck, with 19 sets logged across Barcelona, Brussels, Ibiza and London. Often billed alongside Cucut, Mayssa and Wurz. Next up: Gallery, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Odrik is a house and funk / soul artist based in France, tracked on soundcheck, 
 
 Cucut, Mayssa, Wurz
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/odrik/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odrik/)*

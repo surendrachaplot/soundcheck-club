@@ -1,6 +1,6 @@
 # nAo12xu
 
-nAo12xu is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at 渋谷音楽堂, Tokyo on Mon, 7 Sept 2026.
+nAo12xu is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at 渋谷音楽堂, Tokyo on Mon, 7 Sept 2026.
 
 nAo12xu is an industrial and techno artist tracked on soundcheck, with 11 sets logged across Osaka and Tokyo. Often billed alongside FECROMASS, RICKY and ATEBOI. Next up: 渋谷音楽堂, Tokyo on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ nAo12xu is an industrial and techno artist tracked on soundcheck, with 11 sets l
 
 FECROMASS, RICKY, ATEBOI
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nao12xu/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nao12xu/)*

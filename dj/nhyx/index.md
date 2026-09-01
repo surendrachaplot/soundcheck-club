@@ -1,6 +1,6 @@
 # Nhyx
 
-Nhyx is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Le Gambetta Club, Paris on Fri, 18 Sept 2026.
+Nhyx is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Gambetta Club, Paris on Fri, 18 Sept 2026.
 
 Nhyx is a house and electro artist based in France, tracked on soundcheck, with 52 sets logged across Lyon and Paris. Often billed alongside Tiki Taka, Diskay and Antoine Chambe. Next up: Le Gambetta Club, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Nhyx is a house and electro artist based in France, tracked on soundcheck, with 
 
 Tiki Taka, Diskay, Antoine Chambe
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nhyx/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nhyx/)*

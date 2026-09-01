@@ -1,6 +1,6 @@
 # Lautaro Deem
 
-Lautaro Deem is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Atlantic Sound, Barcelona on Sat, 5 Sept 2026.
+Lautaro Deem is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Atlantic Sound, Barcelona on Sat, 5 Sept 2026.
 
 Lautaro Deem is a house and afro house artist tracked on soundcheck, with 31 sets logged across Barcelona and Dublin. Often billed alongside Julieta Wins, Phil Bass and Romanetto. Next up: Atlantic Sound, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Lautaro Deem is a house and afro house artist tracked on soundcheck, with 31 set
 
 Julieta Wins, Phil Bass, Romanetto
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lautarodeem/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lautarodeem/)*

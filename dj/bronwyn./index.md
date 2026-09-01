@@ -1,6 +1,6 @@
 # Bronwyn.
 
-Bronwyn. is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Sound House, Dublin on Fri, 18 Sept 2026.
+Bronwyn. is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Sound House, Dublin on Fri, 18 Sept 2026.
 
 Bronwyn. is a techno and electronica artist based in Ireland, tracked on soundcheck, with 12 sets logged across Dublin. Often billed alongside JWY (1), Naoise and Rhyzine. Next up: The Sound House, Dublin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Bronwyn. is a techno and electronica artist based in Ireland, tracked on soundch
 
 JWY (1), Naoise, Rhyzine
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn./)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn./)*

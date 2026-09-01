@@ -1,6 +1,6 @@
 # James Falco
 
-James Falco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at OXI, Berlin on Sat, 19 Sept 2026.
+James Falco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at OXI, Berlin on Sat, 19 Sept 2026.
 
 James Falco is a house and disco artist based in Italy, tracked on soundcheck, with 37 sets logged across Bangkok, Barcelona, Berlin and Budapest and 14 more. Often billed alongside Eternal Love, Barbara Boeing and Evie. Next up: OXI, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ James Falco is a house and disco artist based in Italy, tracked on soundcheck, w
 
 Eternal Love, Barbara Boeing, Evie
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesfalco/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesfalco/)*

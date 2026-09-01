@@ -1,6 +1,6 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Home The Venue, Sydney on Fri, 4 Sept 2026.
+Mika Heggemann is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Home The Venue, Sydney on Fri, 4 Sept 2026.
 
 Mika Heggemann is a techno and trance artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Home The Venue, Sydney on Fri 4 Sept.
 
@@ -33,4 +33,4 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 164 set
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

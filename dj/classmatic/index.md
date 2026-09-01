@@ -1,6 +1,6 @@
 # Classmatic
 
-Classmatic is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Club Vinyl, Denver on Fri, 4 Sept 2026.
+Classmatic is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Club Vinyl, Denver on Fri, 4 Sept 2026.
 
 Classmatic is a tech house and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Barcelona and Basel and 24 more. Often billed alongside The Martinez Brothers, Paco Osuna and Jesse Calosso. Next up: Club Vinyl, Denver on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Classmatic is a tech house and house artist tracked on soundcheck, with 85 sets 
 
 The Martinez Brothers, Paco Osuna, Jesse Calosso
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/classmatic/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/classmatic/)*

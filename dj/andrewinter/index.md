@@ -1,6 +1,6 @@
 # Andre Winter
 
-Andre Winter is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 18 Sept 2026.
+Andre Winter is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 18 Sept 2026.
 
 Andre Winter is a techno and tech house artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside Oliver Huntemann, BOHO and Sandra Gold. Next up: Fridas Pier, Stuttgart on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Andre Winter is a techno and tech house artist tracked on soundcheck, with 15 se
 
 Oliver Huntemann, BOHO, Sandra Gold
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewinter/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewinter/)*

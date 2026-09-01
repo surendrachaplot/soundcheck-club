@@ -1,6 +1,6 @@
 # Viv IP
 
-Viv IP is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kraftwerket, Copenhagen on Sat, 12 Sept 2026.
+Viv IP is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Kraftwerket, Copenhagen on Sat, 12 Sept 2026.
 
 Viv IP is a techno and trance artist tracked on soundcheck, with 3 sets logged across Copenhagen. Often billed alongside Dj Algorythm, Anastasia Kristensen and Boris. Next up: Kraftwerket, Copenhagen on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Viv IP is a techno and trance artist tracked on soundcheck, with 3 sets logged a
 
 Dj Algorythm, Anastasia Kristensen, Boris
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivip/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivip/)*

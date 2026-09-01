@@ -1,6 +1,6 @@
 # Bel Cobain
 
-Bel Cobain is a R&B and Jazz artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Belgrave Music Hall, Leeds on Wed, 14 Oct 2026.
+Bel Cobain is a R&B and Jazz artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Belgrave Music Hall, Leeds on Wed, 14 Oct 2026.
 
 Bel Cobain is a r&b and jazz artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin, Leeds, Liverpool and London and 1 more. Often billed alongside 2fox, Coco Maria and Ella Knight. Next up: Belgrave Music Hall, Leeds on Wed 14 Oct.
 
@@ -27,4 +27,4 @@ Bel Cobain is a r&b and jazz artist based in United Kingdom, tracked on soundche
 
 2fox, Coco Maria, Ella Knight
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belcobain/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belcobain/)*

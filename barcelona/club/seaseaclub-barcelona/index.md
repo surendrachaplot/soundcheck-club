@@ -1,8 +1,8 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Output pres. Apollonia + Sonja Moonear + Gabbs" on Sat, 5 Sept 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Output pres. Apollonia + Sonja Moonear + Gabbs" on Sat, 5 Sept 2026.
 
-Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including ABRIL LOVE, Agatha Pher, Apollonia and arnald and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
+Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including ABRIL LOVE, Agatha Pher, Apollonia and arnald and 2 more. Browse upcoming dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 14 upco
 | Sat, 19 Sept 2026 | TSOA: Fritz Kalkbrenner & Einmusik (Open Air) | Agatha Pher, Einmusik, Envel, Fritz Kalkbrenner |
 | Sun, 20 Sept 2026 | SWING pres. Nic Fanciulli | BizZa, DIROS, Nic Fanciulli, Rendher |
 | Sat, 26 Sept 2026 | MUTE pres Joris Voorn + Fedele + Bob Tosh | Bob Tosh, Fedele, Joris Voorn |
+| Sat, 26 Sept 2026 | Sunset Experience 1 Year Anniversary | DJ SOFÍDIA, Tanya Andros |
 | Sat, 3 Oct 2026 | TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air) | Agatha Pher, Marino Canal, Patrice Bäumel, Stavroz |
 | Sat, 10 Oct 2026 | Diggin' pres. Lamache and Voodoos & Taboos. (MUAMUA) | Lamache, Nancy (3), Vallde, Vilalta, Voodoos and Taboos, arnald |
-| Sun, 11 Oct 2026 | SWING pres. Hot Since 82 | Hot Since 82 |
 
 ## Address
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

@@ -1,6 +1,6 @@
 # Peter James
 
-Peter James is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Happys Belfast, Belfast on Fri, 2 Oct 2026.
+Peter James is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Happys Belfast, Belfast on Fri, 2 Oct 2026.
 
 Peter James is a house and techno artist tracked on soundcheck, with 5 sets logged across Belfast. Often billed alongside GUZZ., KACPER and Keeva G. Next up: Happys Belfast, Belfast on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Peter James is a house and techno artist tracked on soundcheck, with 5 sets logg
 
 GUZZ., KACPER, Keeva G
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterjames/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterjames/)*

@@ -1,6 +1,6 @@
 # ZHAZHA WANG
 
-ZHAZHA WANG is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tempio del Futuro Perduto, Milan on Fri, 25 Sept 2026.
+ZHAZHA WANG is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tempio del Futuro Perduto, Milan on Fri, 25 Sept 2026.
 
 ZHAZHA WANG is an electronic artist tracked on soundcheck, with 11 sets logged across Milan. Often billed alongside SHŪ (1), Morva and Zenyee. Next up: Tempio del Futuro Perduto, Milan on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ ZHAZHA WANG is an electronic artist tracked on soundcheck, with 11 sets logged a
 
 SHŪ (1), Morva, Zenyee
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zhazhawang/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zhazhawang/)*

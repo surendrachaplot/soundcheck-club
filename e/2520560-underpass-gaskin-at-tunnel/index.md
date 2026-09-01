@@ -1,6 +1,6 @@
 # UNDERPASS - Gaskin at Tunnel
 
-UNDERPASS - Gaskin at Tunnel on Fri 18 Sept, Milan. 3 acts on the bill: Gaskin, RECAP and ZOIG. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+UNDERPASS - Gaskin at Tunnel on Fri 18 Sept, Milan. 4 acts on the bill: CLELIA, Gaskin, RECAP and ZOIG. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ UNDERPASS - Gaskin at Tunnel on Fri 18 Sept, Milan. 3 acts on the bill: Gaskin, 
 
 ## Line-up
 
+- CLELIA
 - Gaskin
 - RECAP
 - ZOIG

@@ -1,6 +1,6 @@
 # Sixtroke
 
-Sixtroke is a House and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Downtown, Toronto on Fri, 18 Sept 2026.
+Sixtroke is a House and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Downtown, Toronto on Fri, 18 Sept 2026.
 
 Sixtroke is a house and hardcore artist based in Canada, tracked on soundcheck, with 26 sets logged across Toronto. Often billed alongside 25ohms, 666.pastel and 88 MPH. Next up: TBA - Downtown, Toronto on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Sixtroke is a house and hardcore artist based in Canada, tracked on soundcheck, 
 
 25ohms, 666.pastel, 88 MPH
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtroke/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixtroke/)*

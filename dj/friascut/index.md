@@ -1,6 +1,6 @@
 # Friascut
 
-Friascut is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Almar Beach Club, Barcelona on Sun, 13 Sept 2026.
+Friascut is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 13 Sept 2026.
 
 Friascut is a deep house and house artist tracked on soundcheck, with 32 sets logged across Barcelona. Often billed alongside Baffa, Matteo Floris and Guille Pinet. Next up: Almar Beach Club, Barcelona on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Friascut is a deep house and house artist tracked on soundcheck, with 32 sets lo
 
 Baffa, Matteo Floris, Guille Pinet
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/friascut/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/friascut/)*

@@ -1,14 +1,15 @@
 # AMARI
 
-AMARI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at DUNGEON akihabara, Tokyo on Sat, 19 Sept 2026.
+AMARI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at DUNGEON akihabara, Tokyo on Sat, 19 Sept 2026.
 
-AMARI is a techno and house artist based in Japan, tracked on soundcheck, with 19 sets logged across Antwerp, Chicago, London and Tokyo. Often billed alongside cosmolady, Alex Kislov and REKI. Next up: DUNGEON akihabara, Tokyo on Sat 19 Sept.
+AMARI is a techno and house artist based in Japan, tracked on soundcheck, with 20 sets logged across Antwerp, Chicago, London and Tokyo. Often billed alongside cosmolady, Alex Kislov and REKI. Next up: DUNGEON akihabara, Tokyo on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | DUNGEON akihabara | Tokyo |
+| Sun, 4 Oct 2026 | The Room | Tokyo |
 | Fri, 9 Oct 2026 | The Jazz Cafe | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ AMARI is a techno and house artist based in Japan, tracked on soundcheck, with 1
 
 cosmolady, Alex Kislov, REKI
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amari/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amari/)*

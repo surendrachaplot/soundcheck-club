@@ -1,6 +1,6 @@
 # 8MM
 
-8MM is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "RenzNiro Live" on Thu, 10 Sept 2026.
+8MM is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "RenzNiro Live" on Thu, 10 Sept 2026.
 
 8MM is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Aleksandra Słyż, Circular Ruins, Devon Rexi and Faux Sermons and 2 more. Browse upcoming dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
@@ -23,4 +23,4 @@
 
 Schönhauser Allee 177b, 10119 Berlin, Berlin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*

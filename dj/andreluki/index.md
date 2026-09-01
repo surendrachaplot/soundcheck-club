@@ -1,6 +1,6 @@
 # André Luki
 
-André Luki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Crono Club, Sao Paulo on Sat, 12 Sept 2026.
+André Luki is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Crono Club, Sao Paulo on Sat, 12 Sept 2026.
 
 André Luki is a techno and house artist tracked on soundcheck, with 2 sets logged across Saopaulo. Often billed alongside ASKE, BETRIZA and Bllack Rose. Next up: Crono Club, Saopaulo on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ André Luki is a techno and house artist tracked on soundcheck, with 2 sets logg
 
 ASKE, BETRIZA, Bllack Rose
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andreluki/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreluki/)*

@@ -1,6 +1,6 @@
 # HNTR
 
-HNTR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+HNTR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 HNTR is a techno and house artist tracked on soundcheck, with 40 sets logged across Austin, Boston, Chicago and Cologne and 17 more. Often billed alongside DÉTOLLY, Eli Brown and Adam Beyer. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ HNTR is a techno and house artist tracked on soundcheck, with 40 sets logged acr
 
 DÉTOLLY, Eli Brown, Adam Beyer
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hntr/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hntr/)*

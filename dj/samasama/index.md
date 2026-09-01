@@ -1,6 +1,6 @@
 # samasama
 
-samasama is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at fabric, London on Sun, 20 Sept 2026.
+samasama is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at fabric, London on Sun, 20 Sept 2026.
 
 samasama is an electronic artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside FITS ME FUNNY, Rocco Han and BALA (3). Next up: fabric, London on Sun 20 Sept.
 
@@ -19,4 +19,4 @@ samasama is an electronic artist tracked on soundcheck, with 3 sets logged acros
 
 FITS ME FUNNY, Rocco Han, BALA (3)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/samasama/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samasama/)*

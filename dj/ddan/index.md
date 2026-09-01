@@ -1,6 +1,6 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 4 Sept 2026.
+D.Dan is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 4 Sept 2026.
 
 D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 4 Sept.
 
@@ -35,4 +35,4 @@ D.Dan is a techno and house artist tracked on soundcheck, with 196 sets logged a
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

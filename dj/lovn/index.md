@@ -1,6 +1,6 @@
 # Løvn
 
-Løvn is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Pontoon Budapest, Budapest on Sun, 6 Sept 2026.
+Løvn is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Pontoon Budapest, Budapest on Sun, 6 Sept 2026.
 
 Løvn is a progressive house and house artist tracked on soundcheck, with 6 sets logged across Budapest. Often billed alongside ANESI, Kloos and Agettro. Next up: Pontoon Budapest, Budapest on Sun 6 Sept.
 
@@ -22,4 +22,4 @@ Løvn is a progressive house and house artist tracked on soundcheck, with 6 sets
 
 ANESI, Kloos, Agettro
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lovn/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovn/)*

@@ -1,6 +1,6 @@
 # Pip Blom
 
-Pip Blom is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Skatecafe, Amsterdam on Thu, 24 Sept 2026.
+Pip Blom is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Skatecafe, Amsterdam on Thu, 24 Sept 2026.
 
 Pip Blom is an electronic artist tracked on soundcheck, with 7 sets logged across Amsterdam, Bristol, Budapest and London and 1 more. Often billed alongside 36framez, AMÉMÉ and ANNĒ. Next up: Skatecafe, Amsterdam on Thu 24 Sept.
 
@@ -23,4 +23,4 @@ Pip Blom is an electronic artist tracked on soundcheck, with 7 sets logged acros
 
 36framez, AMÉMÉ, ANNĒ
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pipblom/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pipblom/)*

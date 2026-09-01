@@ -1,6 +1,6 @@
 # Nuzzo
 
-Nuzzo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Eden, Ibiza on Tue, 1 Sept 2026.
+Nuzzo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Eden, Ibiza on Tue, 1 Sept 2026.
 
 Nuzzo is a house and minimal artist tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Ibiza and London and 2 more. Often billed alongside Pol K, Carlos Vila and Hugo Martinez. Next up: Eden, Ibiza on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ Nuzzo is a house and minimal artist tracked on soundcheck, with 48 sets logged a
 
 Pol K, Carlos Vila, Hugo Martinez
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzzo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzzo/)*

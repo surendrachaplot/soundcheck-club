@@ -1,6 +1,6 @@
 # DNNS
 
-DNNS is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Flinders, Sydney on Fri, 4 Sept 2026.
+DNNS is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Flinders, Sydney on Fri, 4 Sept 2026.
 
 DNNS is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 13 more. Often billed alongside Zorza, KILL 9 1 and NTBR. Next up: The Flinders, Sydney on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ DNNS is a techno and hardcore artist based in Belgium, tracked on soundcheck, wi
 
 Zorza, KILL 9 1, NTBR
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dnns-2/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dnns-2/)*

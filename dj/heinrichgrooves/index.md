@@ -1,6 +1,6 @@
 # heinrich grooves
 
-heinrich grooves is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at OXI, Berlin on Fri, 11 Sept 2026.
+heinrich grooves is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at OXI, Berlin on Fri, 11 Sept 2026.
 
 heinrich grooves is a house and club artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Brahmski, ADHSMR and Anestis. Next up: OXI, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ heinrich grooves is a house and club artist based in Germany, tracked on soundch
 
 Brahmski, ADHSMR, Anestis
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/heinrichgrooves/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heinrichgrooves/)*

@@ -1,6 +1,6 @@
 # cuci cuci coo
 
-cuci cuci coo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
+cuci cuci coo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
 
 cuci cuci coo is a techno and house artist tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside Andriy K., Archypness and colell. Next up: Honey Street Studio, Manchester on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ cuci cuci coo is a techno and house artist tracked on soundcheck, with 6 sets lo
 
 Andriy K., Archypness, colell
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicucicoo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicucicoo/)*

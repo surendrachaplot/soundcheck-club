@@ -1,6 +1,6 @@
 # RIGO
 
-RIGO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Macadam, Nantes on Sun, 13 Sept 2026.
+RIGO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Macadam, Nantes on Sun, 13 Sept 2026.
 
 RIGO is a techno and trance artist tracked on soundcheck, with 32 sets logged across Berlin, Dusseldorf, Lyon and Nantes and 1 more. Often billed alongside CallBackSami, P errine and oror. Next up: Macadam, Nantes on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ RIGO is a techno and trance artist tracked on soundcheck, with 32 sets logged ac
 
 CallBackSami, P errine, oror
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rigo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rigo/)*

@@ -1,6 +1,6 @@
 # Stallo
 
-Stallo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Sensorium, Berlin on Sun, 20 Sept 2026.
+Stallo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sensorium, Berlin on Sun, 20 Sept 2026.
 
 Stallo is a techno and tech house artist based in Switzerland, tracked on soundcheck, with 27 sets logged across Berlin, Brussels, Budapest and Rome. Often billed alongside TIKOA, Viktor Kampf and Cristian Marras. Next up: Sensorium, Berlin on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Stallo is a techno and tech house artist based in Switzerland, tracked on soundc
 
 TIKOA, Viktor Kampf, Cristian Marras
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stallo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stallo/)*

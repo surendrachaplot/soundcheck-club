@@ -1,6 +1,6 @@
 # EUFORIA x BUNKER WITH DJ MARIA AT ZEROTOKYO: TECHNO - HARD TECHNO - HOUSE at ZEROTOKYO
 
-EUFORIA x BUNKER WITH DJ MARIA AT ZEROTOKYO: TECHNO - HARD TECHNO - HOUSE on Sat 5 Sept, Tokyo. 9 acts on the bill: AYANA KOSHIBA, Chamcham, DJ MARIA. and EMILIO (3) and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+EUFORIA x BUNKER WITH DJ MARIA AT ZEROTOKYO: TECHNO - HARD TECHNO - HOUSE on Sat 5 Sept, Tokyo. 10 acts on the bill: AYANA KOSHIBA, Chamcham, DJ MARIA. and EMILIO (3) and 6 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ EUFORIA x BUNKER WITH DJ MARIA AT ZEROTOKYO: TECHNO - HARD TECHNO - HOUSE on Sat
 - DJ MARIA.
 - EMILIO (3)
 - Maya
+- Maya (Shonan Balearic)
 - SONATA
 - uuu7
 - VOX (1)

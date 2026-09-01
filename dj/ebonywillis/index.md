@@ -1,6 +1,6 @@
 # Ebony Willis
 
-Ebony Willis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at MODULE, Copenhagen on Sat, 12 Sept 2026.
+Ebony Willis is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at MODULE, Copenhagen on Sat, 12 Sept 2026.
 
 Ebony Willis is a techno and trance artist based in Australia, tracked on soundcheck, with 33 sets logged across Berlin, Copenhagen, Melbourne and Oslo and 1 more. Often billed alongside Notion (AU), Safira and WISER. Next up: MODULE, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ebony Willis is a techno and trance artist based in Australia, tracked on soundc
 
 Notion (AU), Safira, WISER
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ebonywillis/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ebonywillis/)*

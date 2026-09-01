@@ -1,6 +1,6 @@
 # Michael Fam
 
-Michael Fam is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at YSY, Berlin on Thu, 10 Sept 2026.
+Michael Fam is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at YSY, Berlin on Thu, 10 Sept 2026.
 
 Michael Fam is a house and minimal artist based in United States of America, tracked on soundcheck, with 30 sets logged across Berlin and Losangeles. Often billed alongside Ray Kash, Enzo Muro and Adam Rose. Next up: YSY, Berlin on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Michael Fam is a house and minimal artist based in United States of America, tra
 
 Ray Kash, Enzo Muro, Adam Rose
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelfam-us/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelfam-us/)*

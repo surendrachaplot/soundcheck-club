@@ -1,6 +1,6 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 17 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90" on Fri, 4 Sept 2026.
+BASIS is a music venue in Utrecht with 17 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90" on Fri, 4 Sept 2026.
 
 BASIS is a music venue in Utrecht listed on soundcheck. 17 upcoming nights, with line-ups including 36framez, Alarico, Aphøtic and BIIA and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
@@ -8,7 +8,7 @@ BASIS is a music venue in Utrecht listed on soundcheck. 17 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90 | Nedir Nadir, Ramon Berendes, Upper90 |
+| Fri, 4 Sept 2026 | BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90 | CAIVA, Nedir Nadir, Ramon Berendes, Upper90 |
 | Sat, 5 Sept 2026 | BASIS/ ANOUQUE/ Cybersex/ DJ HÖRDE/ DJ SPORTSCHUH | Cybersex, DJ HÖRDE, DJ SPORTSCHUH |
 | Fri, 11 Sept 2026 | BASIS x Hardline/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah | Alarico, DJ Cosworth, Hardline, Oldboy |
 | Sat, 12 Sept 2026 | BASIS x Smeerboel After/ Anna Nymphaea/ DART b2b Kyle Starkey/ Jessie Dols | DART, Jessie Dols, Kyle Starkey |
@@ -23,4 +23,4 @@ BASIS is a music venue in Utrecht listed on soundcheck. 17 upcoming nights, with
 
 Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands, Utrecht
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*

@@ -1,6 +1,6 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "GARAGE" on Sun, 6 Sept 2026.
+The Sultan Room is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "GARAGE" on Sun, 6 Sept 2026.
 
 The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including Carlo Sine, DREAMINSLOW, Feonix (2) and Greg Eversoul and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
@@ -18,4 +18,4 @@ The Sultan Room is a music venue in Newyorkcity listed on soundcheck. 5 upcoming
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

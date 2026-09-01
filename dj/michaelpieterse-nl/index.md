@@ -1,6 +1,6 @@
 # Michael Pieterse
 
-Michael Pieterse is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club Up, Amsterdam on Sat, 24 Oct 2026.
+Michael Pieterse is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Up, Amsterdam on Sat, 24 Oct 2026.
 
 Michael Pieterse is a house and garage artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin and London. Often billed alongside Xamount, Ive Lovers and DJANGO (NL). Next up: Club Up, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Michael Pieterse is a house and garage artist based in Netherlands, tracked on s
 
 Xamount, Ive Lovers, DJANGO (NL)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelpieterse-nl/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelpieterse-nl/)*

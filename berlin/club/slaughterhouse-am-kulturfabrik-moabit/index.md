@@ -1,6 +1,6 @@
 # Slaughterhouse am Kulturfabrik Moabit
 
-Slaughterhouse am Kulturfabrik Moabit is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Same Old Madness" on Fri, 18 Sept 2026.
+Slaughterhouse am Kulturfabrik Moabit is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Same Old Madness" on Fri, 18 Sept 2026.
 
 Slaughterhouse am Kulturfabrik Moabit is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Marko König, Philipp Strobel and Uwe Marx. Browse upcoming dates, start times and who's playing. Lehrter Str. 35, 10557 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Slaughterhouse am Kulturfabrik Moabit is a music venue in Berlin listed on sound
 
 Lehrter Str. 35, 10557 Berlin, Germany, Berlin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/slaughterhouse-am-kulturfabrik-moabit/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/slaughterhouse-am-kulturfabrik-moabit/)*

@@ -1,8 +1,8 @@
 # Riccardo Leone
 
-Riccardo Leone is a Dub Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Neukolln, Berlin on Sat, 12 Sept 2026.
+Riccardo Leone is a Dub Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Neukolln, Berlin on Sat, 12 Sept 2026.
 
-Riccardo Leone is a dub techno and minimal techno artist based in Italy, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Linda shiro, Andress and Paàl. Next up: TBA - Neukolln, Berlin on Sat 12 Sept.
+Riccardo Leone is a dub techno and minimal techno artist based in Italy, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Andress, Caligula and Linda shiro. Next up: TBA - Neukolln, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Riccardo Leone is a dub techno and minimal techno artist based in Italy, tracked
 
 ## Shares bills with
 
-Linda shiro, Andress, Paàl
+Andress, Caligula, Linda shiro
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/riccardoleone/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riccardoleone/)*

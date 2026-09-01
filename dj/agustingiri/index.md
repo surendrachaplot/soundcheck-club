@@ -1,6 +1,6 @@
 # Agustin Giri
 
-Agustin Giri is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 5 Sept 2026.
+Agustin Giri is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 5 Sept 2026.
 
 Agustin Giri is a techno and electronica artist tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Buenosaires and Paris. Often billed alongside Gespona, Last Men On Earth and Agents Of Time. Next up: TBA - AMK Club, Almagro, Buenosaires on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Agustin Giri is a techno and electronica artist tracked on soundcheck, with 23 s
 
 Gespona, Last Men On Earth, Agents Of Time
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/agustingiri/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustingiri/)*

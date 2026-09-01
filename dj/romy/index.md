@@ -1,6 +1,6 @@
 # Romy
 
-Romy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at fi, Cologne on Sat, 12 Sept 2026.
+Romy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at fi, Cologne on Sat, 12 Sept 2026.
 
 Romy is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 33 more. Often billed alongside Romy Mats, HAAi and Your Muther. Next up: fi, Cologne on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Romy is a techno and house artist tracked on soundcheck, with 130 sets logged ac
 
 Romy Mats, HAAi, Your Muther
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/romy/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romy/)*

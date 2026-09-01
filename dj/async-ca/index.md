@@ -1,13 +1,14 @@
 # /ASYNC
 
-/ASYNC is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
+/ASYNC is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Lee's Palace, Toronto on Fri, 18 Sept 2026.
 
-/ASYNC is an electro and techno artist based in Ukraine, tracked on soundcheck, with 27 sets logged across Toronto. Often billed alongside Xela., Hycastle and TJ Traxx. Next up: TBA, Toronto on Sat 19 Sept.
+/ASYNC is an electro and techno artist based in Ukraine, tracked on soundcheck, with 28 sets logged across Toronto. Often billed alongside Xela., Hycastle and TJ Traxx. Next up: Lee's Palace, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Lee's Palace | Toronto |
 | Sat, 19 Sept 2026 | TBA | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@
 
 Xela., Hycastle, TJ Traxx
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/async-ca/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/async-ca/)*

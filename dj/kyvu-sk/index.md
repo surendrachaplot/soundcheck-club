@@ -1,14 +1,15 @@
 # KYVU
 
-KYVU is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Atdge Seoul, Seoul on Sat, 5 Sept 2026.
+KYVU is a Minimal and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Atdge Seoul, Seoul on Sat, 5 Sept 2026.
 
-KYVU is a minimal and techno artist based in South Korea, tracked on soundcheck, with 30 sets logged across Seoul. Often billed alongside Yeji, Seo Youngcha and Hwiah. Next up: Atdge Seoul, Seoul on Sat 5 Sept.
+KYVU is a minimal and techno artist based in South Korea, tracked on soundcheck, with 31 sets logged across Seoul. Often billed alongside Yeji, Seo Youngcha and Hwiah. Next up: Atdge Seoul, Seoul on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Atdge Seoul | Seoul |
+| Fri, 11 Sept 2026 | Volnost | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KYVU is a minimal and techno artist based in South Korea, tracked on soundcheck,
 
 Yeji, Seo Youngcha, Hwiah
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kyvu-sk/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyvu-sk/)*

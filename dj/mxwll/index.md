@@ -1,6 +1,6 @@
 # MXWLL
 
-MXWLL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Room 2 Glasgow, Glasgow on Fri, 18 Sept 2026.
+MXWLL is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Room 2 Glasgow, Glasgow on Fri, 18 Sept 2026.
 
 MXWLL is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Glasgow. Often billed alongside A-TØN, JRD and Kane (2). Next up: Room 2 Glasgow, Glasgow on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ MXWLL is a techno and trance artist based in United Kingdom, tracked on soundche
 
 A-TØN, JRD, Kane (2)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mxwll/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mxwll/)*

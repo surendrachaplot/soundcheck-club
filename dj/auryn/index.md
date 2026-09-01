@@ -1,6 +1,6 @@
 # Auryn
 
-Auryn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tresor / Globus, Berlin on Wed, 30 Sept 2026.
+Auryn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tresor / Globus, Berlin on Wed, 30 Sept 2026.
 
 Auryn is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Thehague. Often billed alongside Inverse Element, AADJA and Ana Molina. Next up: Tresor / Globus, Berlin on Wed 30 Sept.
 
@@ -23,4 +23,4 @@ Auryn is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Inverse Element, AADJA, Ana Molina
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auryn/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auryn/)*

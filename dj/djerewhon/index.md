@@ -1,6 +1,6 @@
 # DJ Erewhon
 
-DJ Erewhon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mood Ring, New York City on Sat, 26 Sept 2026.
+DJ Erewhon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mood Ring, New York City on Sat, 26 Sept 2026.
 
 DJ Erewhon is a techno and house artist tracked on soundcheck, with 52 sets logged across Newyorkcity and Tokyo. Often billed alongside Pressure Assist, Guarionex Jr and hypebeck. Next up: Mood Ring, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Erewhon is a techno and house artist tracked on soundcheck, with 52 sets logg
 
 Pressure Assist, Guarionex Jr, hypebeck
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djerewhon/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djerewhon/)*

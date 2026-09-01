@@ -1,14 +1,15 @@
 # George Mensah
 
-George Mensah is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+George Mensah is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
-George Mensah is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Brighton, Ibiza, Leeds and Liverpool and 5 more. Often billed alongside Sammy Porter, Tilli Murphy and Charlotte Van de Peer. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
+George Mensah is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 93 sets logged across Brighton, Ibiza, Leeds and Liverpool and 5 more. Often billed alongside Sammy Porter, Tilli Murphy and Charlotte Van de Peer. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - KENT COUNTY SHOWGROUND | London |
+| Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ George Mensah is a house and tech house artist based in United Kingdom, tracked 
 
 Sammy Porter, Tilli Murphy, Charlotte Van de Peer
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgemensah/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgemensah/)*

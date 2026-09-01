@@ -1,13 +1,14 @@
 # VIVI909
 
-VIVI909 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+VIVI909 is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at elipamanoke, Leipzig on Sat, 12 Sept 2026.
 
-VIVI909 is a techno and trance artist tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Hamburg and Paris. Often billed alongside CAIVA, e.leptic and B.R.K.Ø.. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+VIVI909 is a techno and trance artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Hamburg and Leipzig and 1 more. Often billed alongside CAIVA, e.leptic and B.R.K.Ø.. Next up: elipamanoke, Leipzig on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | elipamanoke | Leipzig |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Sat, 3 Oct 2026 | OST | Berlin |
 | Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |
@@ -27,4 +28,4 @@ VIVI909 is a techno and trance artist tracked on soundcheck, with 14 sets logged
 
 CAIVA, e.leptic, B.R.K.Ø.
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi909/)*

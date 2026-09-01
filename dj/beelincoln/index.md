@@ -1,6 +1,6 @@
 # Bee Lincoln
 
-Bee Lincoln is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Sensorium, Berlin on Wed, 23 Sept 2026.
+Bee Lincoln is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sensorium, Berlin on Wed, 23 Sept 2026.
 
 Bee Lincoln is a techno and house artist tracked on soundcheck, with 89 sets logged across Berlin, Hamburg, Kualalumpur and Nurnberg and 1 more. Often billed alongside Coco, Empro and Stan Starry. Next up: Sensorium, Berlin on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Bee Lincoln is a techno and house artist tracked on soundcheck, with 89 sets log
 
 Coco, Empro, Stan Starry
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beelincoln/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beelincoln/)*

@@ -1,6 +1,6 @@
 # DUBMERGE: Moontalk // OKAMI // THEMPRESS at Grow
 
-DUBMERGE: Moontalk // OKAMI // THEMPRESS at Grow on Fri 25 Sept, London. 3 acts on the bill: Moontalk, OKAMI and THEMPRESS. Bass and Dub. Preview the line-up and save it on soundcheck.
+DUBMERGE: Moontalk // OKAMI // THEMPRESS at Grow on Fri 25 Sept, London. 3 acts on the bill: Moontalk, ŌKAMI and THEMPRESS. Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ DUBMERGE: Moontalk // OKAMI // THEMPRESS at Grow on Fri 25 Sept, London. 3 acts 
 ## Line-up
 
 - Moontalk
-- OKAMI
+- ŌKAMI
 - THEMPRESS
 
 *Source: [soundcheck](https://soundcheck.club/e/2520617-dubmerge-moontalk-okami-thempress-at-grow/)*

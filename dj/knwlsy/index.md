@@ -1,6 +1,6 @@
 # KNWLSY
 
-KNWLSY is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mezzanine - Tooting, London on Sat, 26 Sept 2026.
+KNWLSY is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mezzanine - Tooting, London on Sat, 26 Sept 2026.
 
 KNWLSY is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside NouchKat, Ginn LDN and Olly Brady. Next up: Mezzanine - Tooting, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ KNWLSY is a tech house and house artist based in United Kingdom, tracked on soun
 
 NouchKat, Ginn LDN, Olly Brady
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/knwlsy/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knwlsy/)*

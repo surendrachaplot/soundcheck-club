@@ -1,6 +1,6 @@
 # Sequence Six
 
-Sequence Six is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Ora, Seattle on Fri, 4 Sept 2026.
+Sequence Six is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Ora, Seattle on Fri, 4 Sept 2026.
 
 Sequence Six is a trance and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Chicago, Losangeles, Montreal and Sandiego and 1 more. Often billed alongside Billy Gillies, David Rust and Infected Mushroom. Next up: Ora, Seattle on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Sequence Six is a trance and techno artist based in United States of America, tr
 
 Billy Gillies, David Rust, Infected Mushroom
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sequencesix/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sequencesix/)*

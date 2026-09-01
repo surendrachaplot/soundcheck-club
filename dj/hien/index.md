@@ -1,6 +1,6 @@
 # HIEN
 
-HIEN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - secret location in bed-stuy, New York City on Fri, 11 Sept 2026.
+HIEN is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - secret location in bed-stuy, New York City on Fri, 11 Sept 2026.
 
 HIEN is a club and house artist based in Hungary, tracked on soundcheck, with 9 sets logged across Budapest, Cologne and Newyorkcity. Often billed alongside $EJ, 444 (1) and 99 ranch. Next up: TBA - secret location in bed-stuy, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ HIEN is a club and house artist based in Hungary, tracked on soundcheck, with 9 
 
 $EJ, 444 (1), 99 ranch
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hien/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hien/)*

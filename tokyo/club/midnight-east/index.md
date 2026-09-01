@@ -1,6 +1,6 @@
 # MIDNIGHT EAST
 
-MIDNIGHT EAST is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "ShioriyBradshaw: 20th Anniversary -All Night Long-" on Fri, 4 Sept 2026.
+MIDNIGHT EAST is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "ShioriyBradshaw: 20th Anniversary -All Night Long-" on Fri, 4 Sept 2026.
 
 MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including Al Jones, Arpy Brown, Chris MS and Dan Shake and 2 more. Browse upcoming dates, start times and who's playing. 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -18,4 +18,4 @@ MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 5 upcoming nights,
 
 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*

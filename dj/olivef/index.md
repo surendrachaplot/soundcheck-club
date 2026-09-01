@@ -1,8 +1,8 @@
 # Olive F
 
-Olive F is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at [UNVRS], Ibiza on Sat, 5 Sept 2026.
+Olive F is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at [UNVRS], Ibiza on Sat, 5 Sept 2026.
 
-Olive F is a house and tech house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: [UNVRS], Ibiza on Sat 5 Sept.
+Olive F is a house and tech house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: [UNVRS], Ibiza on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Olive F is a house and tech house artist tracked on soundcheck, with 128 sets lo
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | [UNVRS] | Ibiza |
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
+| Fri, 2 Oct 2026 | Spybar | Chicago |
 | Sat, 3 Oct 2026 | BERHTA | Washington DC |
 | Sun, 4 Oct 2026 | Superior Ingredients | New York City |
 | Sat, 10 Oct 2026 | Ushuaïa Ibiza | Ibiza |
@@ -32,4 +33,4 @@ Olive F is a house and tech house artist tracked on soundcheck, with 128 sets lo
 
 Darius Syrossian, Eats Everything, Nic Fanciulli
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*

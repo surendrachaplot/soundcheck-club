@@ -1,6 +1,6 @@
 # Zuckerzauber
 
-Zuckerzauber is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Zuckerzauber Season Closing (Day 1)" on Fri, 11 Sept 2026.
+Zuckerzauber is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Zuckerzauber Season Closing (Day 1)" on Fri, 11 Sept 2026.
 
 Zuckerzauber is a music venue in Berlin listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin.
 
@@ -16,4 +16,4 @@ Zuckerzauber is a music venue in Berlin listed on soundcheck. 3 upcoming nights.
 
 Markgrafendamm 24c, 10245 Berlin, Berlin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zuckerzauber/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zuckerzauber/)*

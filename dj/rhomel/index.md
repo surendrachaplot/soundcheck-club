@@ -1,6 +1,6 @@
 # Rhomel
 
-Rhomel is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Mexico City on Sun, 13 Sept 2026.
+Rhomel is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Mexico City on Sun, 13 Sept 2026.
 
 Rhomel is a reggaeton and electronica artist tracked on soundcheck, with 2 sets logged across Mexicocity. Often billed alongside Factory Setup, Julya Karma and Maria Nocheydía. Next up: TBA, Mexicocity on Sun 13 Sept.
 
@@ -18,4 +18,4 @@ Rhomel is a reggaeton and electronica artist tracked on soundcheck, with 2 sets 
 
 Factory Setup, Julya Karma, Maria Nocheydía
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rhomel/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhomel/)*

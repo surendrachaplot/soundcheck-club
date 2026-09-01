@@ -1,6 +1,6 @@
 # KLARYOKO
 
-KLARYOKO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Artheater, Cologne on Sat, 5 Sept 2026.
+KLARYOKO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Artheater, Cologne on Sat, 5 Sept 2026.
 
 KLARYOKO is a techno and trance artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Cologne and Hamburg and 1 more. Often billed alongside DJ Pinky Promise, Carluschka and Antonym. Next up: Artheater, Cologne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ KLARYOKO is a techno and trance artist tracked on soundcheck, with 51 sets logge
 
 DJ Pinky Promise, Carluschka, Antonym
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klaryoko/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klaryoko/)*

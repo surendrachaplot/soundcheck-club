@@ -1,6 +1,6 @@
 # Official Video Music Awards After Party at Level 8 DTLA
 
-Official Video Music Awards After Party at Level 8 DTLA on Sun 27 Sept, Losangeles. House. Preview the line-up and save it on soundcheck.
+Official Video Music Awards After Party at Level 8 DTLA on Sun 27 Sept, Losangeles. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

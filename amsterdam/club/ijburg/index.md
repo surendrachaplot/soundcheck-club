@@ -1,6 +1,6 @@
 # Ijburg
 
-Ijburg is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "De Zomervloot - Zomerclosing" on Sun, 13 Sept 2026.
+Ijburg is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "De Zomervloot - Zomerclosing" on Sun, 13 Sept 2026.
 
 Ijburg is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Bert haanstrakade 1053.
 
@@ -14,4 +14,4 @@ Ijburg is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Bro
 
 Bert haanstrakade 1053, Amsterdam
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijburg/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijburg/)*

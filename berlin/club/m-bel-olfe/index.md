@@ -1,6 +1,6 @@
 # Möbel-Olfe
 
-Möbel-Olfe is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Japan Takeover" on Sat, 5 Sept 2026.
+Möbel-Olfe is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Japan Takeover" on Sat, 5 Sept 2026.
 
 Möbel-Olfe is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including DJ NOB. Browse upcoming dates, start times and who's playing. Reichenberger Str. 177, 10999 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Möbel-Olfe is a music venue in Berlin listed on soundcheck. 1 upcoming night, w
 
 Reichenberger Str. 177, 10999 Berlin, Germany, Berlin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bel-olfe/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bel-olfe/)*

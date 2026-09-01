@@ -1,6 +1,6 @@
 # Bank30
 
-Bank30 is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Entspannung" on Sun, 6 Sept 2026.
+Bank30 is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Entspannung" on Sun, 6 Sept 2026.
 
 Bank30 is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including 雷庵(RYan), Jm3Yoci, MAHO (2) and Mickey and 2 more. Browse upcoming dates, start times and who's playing. 1-10-45, Kaigann, Minato-ku, Tokyo, 105-0022, Japan.
 
@@ -14,4 +14,4 @@ Bank30 is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with li
 
 1-10-45, Kaigann, Minato-ku, Tokyo, 105-0022, Japan, Tokyo
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bank30/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bank30/)*

@@ -1,6 +1,6 @@
 # EXPLICIT
 
-EXPLICIT is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
+EXPLICIT is a Techno and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
 
 EXPLICIT is a techno and r&b artist tracked on soundcheck, with 5 sets logged across Hamburg and Newyorkcity. Often billed alongside Cornyjava, Limpid and F!NN. Next up: Fabrique im Gängeviertel, Hamburg on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ EXPLICIT is a techno and r&b artist tracked on soundcheck, with 5 sets logged ac
 
 Cornyjava, Limpid, F!NN
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/explicit/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/explicit/)*

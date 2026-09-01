@@ -1,6 +1,6 @@
 # Hünter
 
-Hünter is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at De Besturing, The Hague on Fri, 25 Sept 2026.
+Hünter is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at De Besturing, The Hague on Fri, 25 Sept 2026.
 
 Hünter is a techno and idm artist based in United States of America, tracked on soundcheck, with 14 sets logged across Seattle and Thehague. Often billed alongside Austin R, noRecall and x1aoy3. Next up: De Besturing, Thehague on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Hünter is a techno and idm artist based in United States of America, tracked on
 
 Austin R, noRecall, x1aoy3
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hunter/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hunter/)*

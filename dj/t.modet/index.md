@@ -1,6 +1,6 @@
 # T.Modet
 
-T.Modet is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Nitsa Club, Barcelona on Fri, 11 Sept 2026.
+T.Modet is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Nitsa Club, Barcelona on Fri, 11 Sept 2026.
 
 T.Modet is a techno and experimental artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona and Zurich. Often billed alongside EYRA, Phran and Sama Yax. Next up: Nitsa Club, Barcelona on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ T.Modet is a techno and experimental artist based in Spain, tracked on soundchec
 
 EYRA, Phran, Sama Yax
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/t.modet/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t.modet/)*

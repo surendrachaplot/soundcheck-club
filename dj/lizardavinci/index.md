@@ -1,6 +1,6 @@
 # LizárdaVinci
 
-LizárdaVinci is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at EQ San Diego, San Diego on Fri, 4 Sept 2026.
+LizárdaVinci is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at EQ San Diego, San Diego on Fri, 4 Sept 2026.
 
 LizárdaVinci is a house and tech house artist based in United States of America, tracked on soundcheck, with 1 set logged across Sandiego. Often billed alongside ARP8. Next up: EQ San Diego, Sandiego on Fri 4 Sept.
 
@@ -14,4 +14,4 @@ LizárdaVinci is a house and tech house artist based in United States of America
 
 ARP8
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lizardavinci/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizardavinci/)*

@@ -1,6 +1,6 @@
 # VISNEACS
 
-VISNEACS is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bike Jesus, Prague on Sat, 5 Sept 2026.
+VISNEACS is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bike Jesus, Prague on Sat, 5 Sept 2026.
 
 VISNEACS is a techno and club artist based in Mexico, tracked on soundcheck, with 17 sets logged across Prague. Often billed alongside DJames (2), Katrixia and AVHD. Next up: Bike Jesus, Prague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ VISNEACS is a techno and club artist based in Mexico, tracked on soundcheck, wit
 
 DJames (2), Katrixia, AVHD
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/visneacs/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/visneacs/)*

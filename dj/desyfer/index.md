@@ -1,6 +1,6 @@
 # Desyfer
 
-Desyfer is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
+Desyfer is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
 
 Desyfer is a deep house and house artist tracked on soundcheck, with 5 sets logged across Amsterdam, Ibiza, London and Malta. Often billed alongside P.O.U, Alexa (KR) and Alythia Kwan. Next up: The Timber Loft, London on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Desyfer is a deep house and house artist tracked on soundcheck, with 5 sets logg
 
 P.O.U, Alexa (KR), Alythia Kwan
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/desyfer/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desyfer/)*

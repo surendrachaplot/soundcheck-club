@@ -1,6 +1,6 @@
 # Bennet (DE)
 
-Bennet (DE) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at BRET, Amsterdam on Sat, 12 Sept 2026.
+Bennet (DE) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at BRET, Amsterdam on Sat, 12 Sept 2026.
 
 Bennet (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Bennet, Bambounou and Byron Yeates. Next up: BRET, Amsterdam on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Bennet (DE) is a house and techno artist based in Germany, tracked on soundcheck
 
 Bennet, Bambounou, Byron Yeates
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*

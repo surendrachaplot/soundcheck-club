@@ -1,6 +1,6 @@
 # Takumi Inamoto
 
-Takumi Inamoto is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+Takumi Inamoto is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 Takumi Inamoto is a techno and trance artist based in Japan, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Copenhagen and Hongkong and 2 more. Often billed alongside DJ MARIA., OCCA and DJ Yazi. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Takumi Inamoto is a techno and trance artist based in Japan, tracked on soundche
 
 DJ MARIA., OCCA, DJ Yazi
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/takumiinamoto/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takumiinamoto/)*

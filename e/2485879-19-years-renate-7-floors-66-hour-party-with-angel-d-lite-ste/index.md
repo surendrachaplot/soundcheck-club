@@ -1,6 +1,6 @@
 # 19 Years Renate - 7 Floors - 66 Hour Party with Angel D'lite, Stenny, Mary Lake, Daniel Avery at Renate
 
-19 Years Renate - 7 Floors - 66 Hour Party with Angel D'lite, Stenny, Mary Lake, Daniel Avery on Fri 11 Sept, Berlin. 60 acts on the bill: ābnamā, Adam Cooke, AGILY and Alison Swing and 56 more. Techno and House. Preview the line-up and save it on soundcheck.
+19 Years Renate - 7 Floors - 66 Hour Party with Angel D'lite, Stenny, Mary Lake, Daniel Avery on Fri 11 Sept, Berlin. 61 acts on the bill: ābnamā, Adam Cooke, AGILY and Alison Swing and 57 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -40,6 +40,7 @@
 - Hendrik Stein
 - Immy
 - JM Moser
+- Johanna Elias
 - John Loveless
 - Lara Fein
 - lisa tba

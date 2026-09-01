@@ -1,6 +1,6 @@
 # Woodstock'69
 
-Woodstock'69 is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Dixon b2b Jimi Jules + Gizem" on Sun, 6 Sept 2026.
+Woodstock'69 is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Dixon b2b Jimi Jules + Gizem" on Sun, 6 Sept 2026.
 
 Woodstock'69 is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Dixon, Gizem, Jimi Jules and Lucky Done Gone and 1 more. Browse upcoming dates, start times and who's playing. Zeeweg 7, 2051 EB Overveen, Netherlands.
 
@@ -15,4 +15,4 @@ Woodstock'69 is a music venue in Amsterdam listed on soundcheck. 2 upcoming nigh
 
 Zeeweg 7, 2051 EB Overveen, Netherlands, Amsterdam
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/woodstock-69/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/woodstock-69/)*

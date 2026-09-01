@@ -1,6 +1,6 @@
 # Pedro Goya
 
-Pedro Goya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Myra Ostraria, Lisbon on Fri, 4 Sept 2026.
+Pedro Goya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Myra Ostraria, Lisbon on Fri, 4 Sept 2026.
 
 Pedro Goya is a house and techno artist tracked on soundcheck, with 31 sets logged across Budapest and Lisbon. Often billed alongside Kee_ko, Jorge Caiado and Kristina (2). Next up: Myra Ostraria, Lisbon on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Pedro Goya is a house and techno artist tracked on soundcheck, with 31 sets logg
 
 Kee_ko, Jorge Caiado, Kristina (2)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogoya/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogoya/)*

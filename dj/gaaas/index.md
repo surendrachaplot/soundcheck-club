@@ -1,6 +1,6 @@
 # GAAAS
 
-GAAAS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
+GAAAS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
 GAAAS is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Frankfurt, Lisbon and Malta and 3 more. Often billed alongside Kacy, Bvffes and Daniela Monroe. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ GAAAS is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Kacy, Bvffes, Daniela Monroe
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gaaas/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaaas/)*

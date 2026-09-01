@@ -1,6 +1,6 @@
 # 𖦹 Chitta - Instrospective Explorations 𖦹 at Platt Fields Market Garden
 
-𖦹 Chitta - Instrospective Explorations 𖦹 at Platt Fields Market Garden on Sat 12 Sept, Manchester. 11 acts on the bill: Ana K Miller, djcd, Etienne Groh and Jude Race and 7 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+𖦹 Chitta - Instrospective Explorations 𖦹 at Platt Fields Market Garden on Sat 12 Sept, Manchester. 12 acts on the bill: Ana K Miller, djcd, Etienne Groh and Jude Race and 8 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@
 - Jude Race
 - KD22LR
 - Kop-Z
+- Lapalace
 - Medlock
 - Sharari
 - Tamus

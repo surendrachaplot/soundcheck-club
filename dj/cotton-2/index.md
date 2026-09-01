@@ -1,6 +1,6 @@
 # cotton
 
-cotton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at BASEMENT, New York City on Sat, 19 Sept 2026.
+cotton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at BASEMENT, New York City on Sat, 19 Sept 2026.
 
 cotton is a techno and house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Athens, Berlin, Chicago and Istanbul and 2 more. Often billed alongside Juliana Huxtable, Kilopatrah Jones and Massimiliano Pagliara. Next up: BASEMENT, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ cotton is a techno and house artist based in United States of America, tracked o
 
 Juliana Huxtable, Kilopatrah Jones, Massimiliano Pagliara
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*

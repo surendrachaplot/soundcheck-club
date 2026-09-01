@@ -1,6 +1,6 @@
 # Beiger
 
-Beiger is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - East London Location TBA, London on Sat, 5 Sept 2026.
+Beiger is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - East London Location TBA, London on Sat, 5 Sept 2026.
 
 Beiger is a minimal techno and house artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside LUUD, Billa Bazz and David Beiger. Next up: TBA - East London Location TBA, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Beiger is a minimal techno and house artist tracked on soundcheck, with 11 sets 
 
 LUUD, Billa Bazz, David Beiger
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beiger/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beiger/)*

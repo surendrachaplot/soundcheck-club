@@ -1,6 +1,6 @@
 # Stark
 
-Stark is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bulbul Berlin, Berlin on Thu, 3 Sept 2026.
+Stark is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bulbul Berlin, Berlin on Thu, 3 Sept 2026.
 
 Stark is a house and tech house artist tracked on soundcheck, with 24 sets logged across Berlin, Budapest and Newyorkcity. Often billed alongside Hanussen, Knoll and MSKD. Next up: Bulbul Berlin, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Stark is a house and tech house artist tracked on soundcheck, with 24 sets logge
 
 Hanussen, Knoll, MSKD
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*

@@ -1,6 +1,6 @@
 # BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90 at BASIS
 
-BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90 on Fri 4 Sept, Utrecht. 3 acts on the bill: Nedir Nadir, Ramon Berendes and Upper90. Trance and House. Preview the line-up and save it on soundcheck.
+BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90 on Fri 4 Sept, Utrecht. 4 acts on the bill: CAIVA, Nedir Nadir, Ramon Berendes and Upper90. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90 on Fri 4 Sept, Utrecht. 3 act
 
 ## Line-up
 
+- CAIVA
 - Nedir Nadir
 - Ramon Berendes
 - Upper90

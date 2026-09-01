@@ -1,6 +1,6 @@
 # Luke Brancaccio
 
-Luke Brancaccio is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at After Dark, Bristol on Sat, 19 Sept 2026.
+Luke Brancaccio is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at After Dark, Bristol on Sat, 19 Sept 2026.
 
 Luke Brancaccio is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Brighton and Bristol. Often billed alongside Dave Seaman, Jawjee and Just Her. Next up: After Dark, Bristol on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Luke Brancaccio is a progressive house and deep house artist based in United Kin
 
 Dave Seaman, Jawjee, Just Her
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lukebrancaccio/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukebrancaccio/)*

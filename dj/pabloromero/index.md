@@ -1,14 +1,15 @@
 # Pablo Romero
 
-Pablo Romero is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Signal, New York City on Thu, 3 Sept 2026.
+Pablo Romero is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Signal, New York City on Thu, 3 Sept 2026.
 
-Pablo Romero is a house and techno artist based in United States of America, tracked on soundcheck, with 125 sets logged across Amsterdam, Boston, Frankfurt and London and 6 more. Often billed alongside Daniel Dutts, mink and Jean-Paul. Next up: Signal, Newyorkcity on Thu 3 Sept.
+Pablo Romero is a house and techno artist based in United States of America, tracked on soundcheck, with 126 sets logged across Amsterdam, Boston, Frankfurt and London and 6 more. Often billed alongside Daniel Dutts, mink and Jean-Paul. Next up: Signal, Newyorkcity on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Signal | New York City |
+| Fri, 4 Sept 2026 | Roof Terrace BK | New York City |
 | Fri, 4 Sept 2026 | Roof Terrace BK | New York City |
 | Mon, 21 Sept 2026 | Bossa Nova Civic Club | New York City |
 
@@ -27,4 +28,4 @@ Pablo Romero is a house and techno artist based in United States of America, tra
 
 Daniel Dutts, mink, Jean-Paul
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*

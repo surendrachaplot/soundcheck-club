@@ -1,6 +1,6 @@
 # TSVI
 
-TSVI is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Ormside Projects, London on Sat, 19 Sept 2026.
+TSVI is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Ormside Projects, London on Sat, 19 Sept 2026.
 
 TSVI is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Anunaku, Ehua and Identified Patient. Next up: Ormside Projects, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ TSVI is a techno and bass artist based in United Kingdom, tracked on soundcheck,
 
 Anunaku, Ehua, Identified Patient
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tsvi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsvi/)*

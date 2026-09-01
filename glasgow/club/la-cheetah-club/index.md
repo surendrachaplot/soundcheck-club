@@ -1,8 +1,8 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 23 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Lewis Carroll // Bounce In Motion" on Thu, 3 Sept 2026.
+La Cheetah Club is a music venue in Glasgow with 24 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Lewis Carroll // Bounce In Motion" on Thu, 3 Sept 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 23 upcoming nights, with line-ups including Anna Barrie, Anna Gram, Antal and Arlo Duke and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 24 upcoming nights, with line-ups including Anna Barrie, Anna Gram, Antal and Arlo Duke and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 23 upcoming ni
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

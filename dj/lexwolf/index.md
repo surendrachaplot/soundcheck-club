@@ -1,6 +1,6 @@
 # LEX WOLF
 
-LEX WOLF is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at 528 Ibiza, Ibiza on Tue, 1 Sept 2026.
+LEX WOLF is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 1 Sept 2026.
 
 LEX WOLF is a house and electro artist tracked on soundcheck, with 15 sets logged across Barcelona, Ibiza and London. Often billed alongside Ben Westbeech, Bushwacka! and Erol Alkan. Next up: 528 Ibiza, Ibiza on Tue 1 Sept.
 
@@ -25,4 +25,4 @@ LEX WOLF is a house and electro artist tracked on soundcheck, with 15 sets logge
 
 Ben Westbeech, Bushwacka!, Erol Alkan
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lexwolf/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexwolf/)*

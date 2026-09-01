@@ -1,6 +1,6 @@
 # RYX (1)
 
-RYX (1) is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
+RYX (1) is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
 
 RYX (1) is a techno and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Bucharest, Cologne and Ibiza and 4 more. Often billed alongside CÖLN, Badlokk and BBUBU. Next up: DSTRKT Club Berlin, Berlin on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ RYX (1) is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 CÖLN, Badlokk, BBUBU
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*

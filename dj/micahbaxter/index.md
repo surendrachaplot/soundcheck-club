@@ -1,6 +1,6 @@
 # Micah Baxter
 
-Micah Baxter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at XOYO, London on Sat, 17 Oct 2026.
+Micah Baxter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at XOYO, London on Sat, 17 Oct 2026.
 
 Micah Baxter is a house and tech house artist tracked on soundcheck, with 23 sets logged across Leeds, London, Malta and Manchester and 2 more. Often billed alongside Jenny C (1), Joss Dean and EVIE UK. Next up: XOYO, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Micah Baxter is a house and tech house artist tracked on soundcheck, with 23 set
 
 Jenny C (1), Joss Dean, EVIE UK
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/micahbaxter/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micahbaxter/)*

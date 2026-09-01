@@ -1,6 +1,6 @@
 # Hunee
 
-Hunee is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at 528 Ibiza, Ibiza on Sat, 5 Sept 2026.
+Hunee is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 5 Sept 2026.
 
 Hunee is a house and disco artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside Antal, Call Super and Job Jobse. Next up: 528 Ibiza, Ibiza on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Hunee is a house and disco artist tracked on soundcheck, with 144 sets logged ac
 
 Antal, Call Super, Job Jobse
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*

@@ -1,6 +1,6 @@
 # Remco Beekwilder
 
-Remco Beekwilder is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Tresor / Globus, Berlin on Mon, 21 Sept 2026.
+Remco Beekwilder is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Tresor / Globus, Berlin on Mon, 21 Sept 2026.
 
 Remco Beekwilder is a techno and house artist based in Netherlands, tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Athens and Belfast and 23 more. Often billed alongside Stephanie Sykes, Isaiah (NL) and Laure Croft. Next up: Tresor / Globus, Berlin on Mon 21 Sept.
 
@@ -27,4 +27,4 @@ Remco Beekwilder is a techno and house artist based in Netherlands, tracked on s
 
 Stephanie Sykes, Isaiah (NL), Laure Croft
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/remcobeekwilder/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remcobeekwilder/)*

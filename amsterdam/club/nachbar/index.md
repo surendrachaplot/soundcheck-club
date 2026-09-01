@@ -1,26 +1,26 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ AiMii [JP] / KATSUKI / ROBBY / STINNA & AMBOE" on Wed, 2 Sept 2026.
+nachbar is a music venue in Amsterdam with 25 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ AiMii [JP] / KATSUKI / ROBBY / STINNA & AMBOE" on Wed, 2 Sept 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including AiMii and fka.m4a. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, with line-ups including AiMii, Cinnaman, COZi and DJ Koolt and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | RAVING CHARLIE: Hard Techno / Rave w/ AiMii [JP] / KATSUKI / ROBBY / STINNA & AMBOE | AiMii |
+| Thu, 3 Sept 2026 | Electro Boutique w/ Mayo, YAR b2b Glandorff, Frank Zaza | mayo (NL) |
+| Fri, 4 Sept 2026 | DJ Koolt & Iggy P b2b ZTO | DJ Koolt, Iggy P |
+| Sat, 5 Sept 2026 | Mallaury & shoplifter | MALLAURY, Shoplifter |
 | Wed, 9 Sept 2026 | RAVING CHARLIE: Hard Techno / Rave w/ STYC / MIKRYPT / HRTLESS ANGL / KRØVØ |  |
+| Thu, 10 Sept 2026 | Firewire BACK2SCHOOL w/ orczi96, Sandor Dayala, april2222, tizi, Project X (Live) | Sandor Dayala, TiZi (NL) |
+| Fri, 11 Sept 2026 | Merel Helderman & Tommy Chikara | Merel Helderman, Tommy Chikara |
+| Sat, 12 Sept 2026 | Cinnaman | Cinnaman |
 | Wed, 16 Sept 2026 | RAVING CHARLIE: Hard Techno / Rave w/ UTOPIA / KYNØ / PURE2 / CITØ |  |
-| Wed, 23 Sept 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
-| Fri, 25 Sept 2026 | CONTR4ST pres. fka.m4a [all night long] | fka.m4a |
-| Wed, 30 Sept 2026 | RAVING CHARLIE: Hard Techno / Rave w/ POKEDECKS / BRIZZIA / INSKYI / DEVØX |  |
-| Wed, 7 Oct 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
-| Wed, 14 Oct 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
-| Sun, 25 Oct 2026 | 20 Years of Permanent Vacation at ADE |  |
-| Wed, 28 Oct 2026 | RAVING CHARLIE: Hard Techno / Rave |  |
+| Thu, 17 Sept 2026 | Double trouble by CARI |  |
 
 ## Address
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

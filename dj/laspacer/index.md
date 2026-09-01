@@ -1,6 +1,6 @@
 # La Spacer
 
-La Spacer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Chicago Eagle, Chicago on Sat, 12 Sept 2026.
+La Spacer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Chicago Eagle, Chicago on Sat, 12 Sept 2026.
 
 La Spacer is a techno and house artist tracked on soundcheck, with 46 sets logged across Chicago, Detroit and Miami. Often billed alongside CQQCHiFRUIT, Chachi Guerrero and Flores Negras. Next up: Chicago Eagle, Chicago on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ La Spacer is a techno and house artist tracked on soundcheck, with 46 sets logge
 
 CQQCHiFRUIT, Chachi Guerrero, Flores Negras
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laspacer/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laspacer/)*

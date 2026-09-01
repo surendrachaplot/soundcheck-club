@@ -1,6 +1,6 @@
 # Christian Arcila
 
-Christian Arcila is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 25 Sept 2026.
+Christian Arcila is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 25 Sept 2026.
 
 Christian Arcila is a house and electro artist tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Bucharest and Lisbon and 3 more. Often billed alongside Nulek, Onoffon and Rufo. Next up: Les Enfants Brillants, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Christian Arcila is a house and electro artist tracked on soundcheck, with 38 se
 
 Nulek, Onoffon, Rufo
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christianarcila/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianarcila/)*

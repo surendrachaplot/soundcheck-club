@@ -1,6 +1,6 @@
 # Fetus
 
-Fetus is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at R Lounge, Tokyo on Sat, 12 Sept 2026.
+Fetus is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at R Lounge, Tokyo on Sat, 12 Sept 2026.
 
 Fetus is a bass and techno artist tracked on soundcheck, with 38 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Oyubi, Seimei and Albino Sound. Next up: R Lounge, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Fetus is a bass and techno artist tracked on soundcheck, with 38 sets logged acr
 
 Oyubi, Seimei, Albino Sound
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fetus/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fetus/)*

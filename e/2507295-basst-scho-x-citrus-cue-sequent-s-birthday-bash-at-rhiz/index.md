@@ -1,6 +1,6 @@
 # BASST SCHO x CITRUS CUE: Sequent's Birthday Bash at Rhiz
 
-BASST SCHO x CITRUS CUE: Sequent's Birthday Bash at Rhiz on Sat 5 Sept, Vienna. 3 acts on the bill: CHERCHES, Rudolfode and Sequent. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+BASST SCHO x CITRUS CUE: Sequent's Birthday Bash at Rhiz on Sat 5 Sept, Vienna. 5 acts on the bill: CHERCHES, Dj DEX, Iden Mind and Rudolfode and 1 more. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ BASST SCHO x CITRUS CUE: Sequent's Birthday Bash at Rhiz on Sat 5 Sept, Vienna. 
 ## Line-up
 
 - CHERCHES
+- Dj DEX
+- Iden Mind
 - Rudolfode
 - Sequent
 

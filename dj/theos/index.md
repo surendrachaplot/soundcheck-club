@@ -1,6 +1,6 @@
 # THEOS (1)
 
-THEOS (1) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Virage, Paris on Fri, 18 Sept 2026.
+THEOS (1) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Virage, Paris on Fri, 18 Sept 2026.
 
 THEOS (1) is a house and electro artist tracked on soundcheck, with 59 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 12 more. Often billed alongside Vitess, Deborah Aime La Bagarre and Mira Ló. Next up: Virage, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ THEOS (1) is a house and electro artist tracked on soundcheck, with 59 sets logg
 
 Vitess, Deborah Aime La Bagarre, Mira Ló
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theos/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theos/)*

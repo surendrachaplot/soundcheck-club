@@ -1,6 +1,6 @@
 # Camilla Rae
 
-Camilla Rae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Containerhafen, Berlin on Sun, 13 Sept 2026.
+Camilla Rae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Containerhafen, Berlin on Sun, 13 Sept 2026.
 
 Camilla Rae is a house and techno artist tracked on soundcheck, with 80 sets logged across Berlin, Brussels, Bucharest and Glasgow and 5 more. Often billed alongside 131bpm, Stella Zekri and ābnamā. Next up: Containerhafen, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Camilla Rae is a house and techno artist tracked on soundcheck, with 80 sets log
 
 131bpm, Stella Zekri, ābnamā
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camillarae/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camillarae/)*

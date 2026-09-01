@@ -1,6 +1,6 @@
 # FIDDI
 
-FIDDI is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at radial, London on Sat, 10 Oct 2026.
+FIDDI is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at radial, London on Sat, 10 Oct 2026.
 
 FIDDI is a house and trance artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside D.G., Hecha and John Xie. Next up: radial, London on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ FIDDI is a house and trance artist tracked on soundcheck, with 5 sets logged acr
 
 D.G., Hecha, John Xie
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiddi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiddi/)*

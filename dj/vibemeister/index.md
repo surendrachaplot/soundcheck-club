@@ -1,6 +1,6 @@
 # vibemeister
 
-vibemeister is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fundbureau, Hamburg on Fri, 11 Sept 2026.
+vibemeister is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Fundbureau, Hamburg on Fri, 11 Sept 2026.
 
 vibemeister is a trance and techno artist based in Georgia, tracked on soundcheck, with 6 sets logged across Berlin and Hamburg. Often billed alongside sabenzzzo, Shilo and 3LEEZA. Next up: Fundbureau, Hamburg on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ vibemeister is a trance and techno artist based in Georgia, tracked on soundchec
 
 sabenzzzo, Shilo, 3LEEZA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vibemeister/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vibemeister/)*

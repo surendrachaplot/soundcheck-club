@@ -1,6 +1,6 @@
 # Gay Felony
 
-Gay Felony is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Eagle of Detroit, Detroit on Sat, 5 Sept 2026.
+Gay Felony is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Eagle of Detroit, Detroit on Sat, 5 Sept 2026.
 
 Gay Felony is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Chicago, Detroit, Losangeles and Sanfrancisco. Often billed alongside Jen Ferrer, Adam O (1) and Danny Goliger. Next up: The Eagle of Detroit, Detroit on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Gay Felony is a house and techno artist based in United States of America, track
 
 Jen Ferrer, Adam O (1), Danny Goliger
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gayfelony/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gayfelony/)*

@@ -1,6 +1,6 @@
 # Club Drippy
 
-Club Drippy is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Cape Lookout, Portland on Fri, 11 Sept 2026.
+Club Drippy is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Cape Lookout, Portland on Fri, 11 Sept 2026.
 
 Club Drippy is a techno and industrial artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside JS Alvarez, Jumpr and Nolia. Next up: TBA - Cape Lookout, Portland on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Club Drippy is a techno and industrial artist based in United States of America,
 
 JS Alvarez, Jumpr, Nolia
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/clubdrippy/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubdrippy/)*

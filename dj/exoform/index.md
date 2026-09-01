@@ -1,6 +1,6 @@
 # exoførm
 
-exoførm is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Noce KRK, Krakow on Fri, 2 Oct 2026.
+exoførm is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Noce KRK, Krakow on Fri, 2 Oct 2026.
 
 exoførm is a techno and bass artist based in Poland, tracked on soundcheck, with 4 sets logged across Krakow. Often billed alongside Char2, marshallkrk and Ŧoxygene. Next up: Noce KRK, Krakow on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ exoførm is a techno and bass artist based in Poland, tracked on soundcheck, wit
 
 Char2, marshallkrk, Ŧoxygene
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/exoform/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exoform/)*

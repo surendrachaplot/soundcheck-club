@@ -1,6 +1,6 @@
 # simzzz
 
-simzzz is a Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Chausseestrasse 131, Berlin on Fri, 4 Sept 2026.
+simzzz is a Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Chausseestrasse 131, Berlin on Fri, 4 Sept 2026.
 
 simzzz is an electro artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Christophe Darbouze, general whatever and CUNT REMEMBER. Next up: Chausseestrasse 131, Berlin on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ simzzz is an electro artist tracked on soundcheck, with 3 sets logged across Ber
 
 Christophe Darbouze, general whatever, CUNT REMEMBER
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simzzz/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simzzz/)*

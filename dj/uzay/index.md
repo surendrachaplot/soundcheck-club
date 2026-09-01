@@ -1,14 +1,15 @@
 # UZAY
 
-UZAY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Teritorija, Riga on Fri, 4 Sept 2026.
+UZAY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Teritorija, Riga on Fri, 4 Sept 2026.
 
-UZAY is a house and techno artist tracked on soundcheck, with 14 sets logged across Malta and Riga. Often billed alongside DV8 (LV), hitomori and maniken05. Next up: Teritorija, Riga on Fri 4 Sept.
+UZAY is a house and techno artist tracked on soundcheck, with 15 sets logged across Malta and Riga. Often billed alongside DV8 (LV), Esoniq and hitomori. Next up: Teritorija, Riga on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Teritorija | Riga |
+| Sat, 5 Sept 2026 | Teritorija | Riga |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ UZAY is a house and techno artist tracked on soundcheck, with 14 sets logged acr
 
 ## Shares bills with
 
-DV8 (LV), hitomori, maniken05
+DV8 (LV), Esoniq, hitomori
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/uzay/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uzay/)*

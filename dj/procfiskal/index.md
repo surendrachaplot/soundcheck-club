@@ -1,6 +1,6 @@
 # Proc Fiskal
 
-Proc Fiskal is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Haus der Elektronischen Künste, Basel on Fri, 4 Sept 2026.
+Proc Fiskal is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Haus der Elektronischen Künste, Basel on Fri, 4 Sept 2026.
 
 Proc Fiskal is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Creep Woland, Ship Sket and Feena. Next up: TBA - Haus der Elektronischen Künste, Basel on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Proc Fiskal is an experimental and techno artist based in United Kingdom, tracke
 
 Creep Woland, Ship Sket, Feena
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/procfiskal/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/procfiskal/)*

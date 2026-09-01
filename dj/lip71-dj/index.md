@@ -1,8 +1,8 @@
 # LIP 71
 
-LIP 71 is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at elipamanoke, Leipzig on Fri, 11 Sept 2026.
+LIP 71 is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at elipamanoke, Leipzig on Fri, 11 Sept 2026.
 
-LIP 71 is a techno artist based in Germany, tracked on soundcheck, with 1 set logged across Leipzig. Often billed alongside Dychromatic, LUZI (2) and makahaun. Next up: elipamanoke, Leipzig on Fri 11 Sept.
+LIP 71 is a techno artist based in Germany, tracked on soundcheck, with 1 set logged across Leipzig. Often billed alongside Anuli, Dychromatic and LUZI (2). Next up: elipamanoke, Leipzig on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ LIP 71 is a techno artist based in Germany, tracked on soundcheck, with 1 set lo
 
 ## Shares bills with
 
-Dychromatic, LUZI (2), makahaun
+Anuli, Dychromatic, LUZI (2)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lip71-dj/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lip71-dj/)*

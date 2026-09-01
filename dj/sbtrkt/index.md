@@ -1,6 +1,6 @@
 # SBTRKT
 
-SBTRKT is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+SBTRKT is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 SBTRKT is a house and garage artist tracked on soundcheck, with 45 sets logged across Amsterdam, Bali, Barcelona and Birmingham and 18 more. Often billed alongside Dixon, Little Dragon and Marcel Dettmann. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ SBTRKT is a house and garage artist tracked on soundcheck, with 45 sets logged a
 
 Dixon, Little Dragon, Marcel Dettmann
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sbtrkt/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sbtrkt/)*

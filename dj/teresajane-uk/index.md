@@ -1,6 +1,6 @@
 # Teresa Jane
 
-Teresa Jane is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Multi Story, London on Thu, 3 Sept 2026.
+Teresa Jane is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Multi Story, London on Thu, 3 Sept 2026.
 
 Teresa Jane is a house and disco artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Alex Rebel, Blonde Dahlia and Chloe Gibbs. Next up: Multi Story, London on Thu 3 Sept.
 
@@ -20,4 +20,4 @@ Teresa Jane is a house and disco artist tracked on soundcheck, with 4 sets logge
 
 Alex Rebel, Blonde Dahlia, Chloe Gibbs
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/teresajane-uk/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teresajane-uk/)*

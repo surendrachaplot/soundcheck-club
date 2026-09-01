@@ -1,6 +1,6 @@
 # Lenny (UK)
 
-Lenny (UK) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Grow, London on Sat, 10 Oct 2026.
+Lenny (UK) is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Grow, London on Sat, 10 Oct 2026.
 
 Lenny (UK) is a deep house and house artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside Profundo Rise, Danny Bodega and Dominic (UK). Next up: Grow, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Lenny (UK) is a deep house and house artist tracked on soundcheck, with 17 sets 
 
 Profundo Rise, Danny Bodega, Dominic (UK)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyuk/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyuk/)*

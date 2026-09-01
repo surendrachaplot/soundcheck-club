@@ -1,13 +1,14 @@
 # Niyah West
 
-Niyah West is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Dead Letter No. 9, New York City on Thu, 17 Sept 2026.
+Niyah West is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Silence Please, New York City on Fri, 4 Sept 2026.
 
-Niyah West is a house and techno artist based in United States of America, tracked on soundcheck, with 106 sets logged across Berlin, Copenhagen, Detroit and Losangeles and 3 more. Often billed alongside DJ Shannon, theoretic and Kilopatrah Jones. Next up: Dead Letter No. 9, Newyorkcity on Thu 17 Sept.
+Niyah West is a house and techno artist based in United States of America, tracked on soundcheck, with 107 sets logged across Berlin, Copenhagen, Detroit and Losangeles and 3 more. Often billed alongside DJ Shannon, theoretic and Kilopatrah Jones. Next up: Silence Please, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Silence Please | New York City |
 | Thu, 17 Sept 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Niyah West is a house and techno artist based in United States of America, track
 
 DJ Shannon, theoretic, Kilopatrah Jones
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*

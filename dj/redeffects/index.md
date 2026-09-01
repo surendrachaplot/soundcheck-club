@@ -1,6 +1,6 @@
 # Red Effects
 
-Red Effects is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lula Club, Madrid on Fri, 4 Sept 2026.
+Red Effects is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lula Club, Madrid on Fri, 4 Sept 2026.
 
 Red Effects is a house and minimal techno artist tracked on soundcheck, with 17 sets logged across Barcelona and Madrid. Often billed alongside Fran Lobato, Adrian Mart and Alci. Next up: Lula Club, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Red Effects is a house and minimal techno artist tracked on soundcheck, with 17 
 
 Fran Lobato, Adrian Mart, Alci
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/redeffects/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redeffects/)*

@@ -1,6 +1,6 @@
 # dorraa
 
-dorraa is a Experimental and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
+dorraa is a Experimental and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
 
 dorraa is an experimental and progressive house artist tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside Acote, Aperçu and Chafic. Next up: TBA, Toronto on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ dorraa is an experimental and progressive house artist tracked on soundcheck, wi
 
 Acote, Aperçu, Chafic
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dorraa/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dorraa/)*

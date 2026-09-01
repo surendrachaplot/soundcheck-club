@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "LACE: Rhyw // KD22LR // Zuri" on Sat, 5 Sept 2026.
+Hidden is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "LACE: Rhyw // KD22LR // Zuri" on Sat, 5 Sept 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, Charlie Shell and Christian AB and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 22 upcoming nights, 
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

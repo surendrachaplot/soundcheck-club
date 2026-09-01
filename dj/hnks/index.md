@@ -1,6 +1,6 @@
 # HNKS
 
-HNKS is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - BIGG Fit Barcelona, Barcelona on Fri, 4 Sept 2026.
+HNKS is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - BIGG Fit Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 HNKS is a techno and progressive house artist tracked on soundcheck, with 46 sets logged across Antwerp, Barcelona, Dublin and Lisbon and 1 more. Often billed alongside Sasha Kohana, AN5 (SP) and ANDRË. Next up: TBA - BIGG Fit Barcelona, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ HNKS is a techno and progressive house artist tracked on soundcheck, with 46 set
 
 Sasha Kohana, AN5 (SP), ANDRË
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hnks/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hnks/)*

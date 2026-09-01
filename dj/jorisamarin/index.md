@@ -1,8 +1,8 @@
 # Jori Samarin
 
-Jori Samarin is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
+Jori Samarin is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
 
-Jori Samarin is a techno artist based in Finland, tracked on soundcheck, with 1 set logged across Tallinn. Often billed alongside Lee Wander, QSLAP and In Furcht. Next up: Hall, Tallinn on Fri 11 Sept.
+Jori Samarin is a techno artist based in Finland, tracked on soundcheck, with 1 set logged across Tallinn. Often billed alongside ANNDRA, Discolisko and In Furcht. Next up: Hall, Tallinn on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Jori Samarin is a techno artist based in Finland, tracked on soundcheck, with 1 
 
 ## Shares bills with
 
-Lee Wander, QSLAP, In Furcht
+ANNDRA, Discolisko, In Furcht
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisamarin/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisamarin/)*

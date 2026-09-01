@@ -1,6 +1,6 @@
 # Shinedoe
 
-Shinedoe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lofi, Amsterdam on Wed, 21 Oct 2026.
+Shinedoe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lofi, Amsterdam on Wed, 21 Oct 2026.
 
 Shinedoe is a techno and house artist based in Netherlands, tracked on soundcheck, with 56 sets logged across Amsterdam, Bali, Berlin and Copenhagen and 13 more. Often billed alongside Answer Code Request, BASHKKA and Barker. Next up: Lofi, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Shinedoe is a techno and house artist based in Netherlands, tracked on soundchec
 
 Answer Code Request, BASHKKA, Barker
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shinedoe/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shinedoe/)*

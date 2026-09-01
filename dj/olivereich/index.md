@@ -1,6 +1,6 @@
 # Oliver Eich
 
-Oliver Eich is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club Frau Holle, Hamburg on Sat, 5 Sept 2026.
+Oliver Eich is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Frau Holle, Hamburg on Sat, 5 Sept 2026.
 
 Oliver Eich is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Hamburg and Prague. Often billed alongside DAIVER, Matt Blue and SKADI. Next up: Club Frau Holle, Hamburg on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Oliver Eich is a techno and house artist based in Germany, tracked on soundcheck
 
 DAIVER, Matt Blue, SKADI
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olivereich/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivereich/)*

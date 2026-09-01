@@ -1,6 +1,6 @@
 # VYSSKA
 
-VYSSKA is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+VYSSKA is a Progressive House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 VYSSKA is a progressive house and electro artist tracked on soundcheck, with 12 sets logged across Athens. Often billed alongside Maaantz, Miss Trouli and Adam Des. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ VYSSKA is a progressive house and electro artist tracked on soundcheck, with 12 
 
 Maaantz, Miss Trouli, Adam Des
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vysska/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vysska/)*

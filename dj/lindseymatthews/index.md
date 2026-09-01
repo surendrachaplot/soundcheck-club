@@ -1,6 +1,6 @@
 # Lindsey Matthews
 
-Lindsey Matthews is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Gallery, London on Thu, 3 Sept 2026.
+Lindsey Matthews is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gallery, London on Thu, 3 Sept 2026.
 
 Lindsey Matthews is a tech house and minimal artist tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Brighton and Bristol and 8 more. Often billed alongside Fabe, Ben Sterling and Casey Spillman. Next up: Gallery, London on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Lindsey Matthews is a tech house and minimal artist tracked on soundcheck, with 
 
 Fabe, Ben Sterling, Casey Spillman
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseymatthews/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lindseymatthews/)*

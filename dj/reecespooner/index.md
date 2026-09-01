@@ -1,6 +1,6 @@
 # Reece Spooner
 
-Reece Spooner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Cause, London on Sat, 19 Sept 2026.
+Reece Spooner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
 
 Reece Spooner is a house and techno artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Brighton, Bristol and Brussels and 4 more. Often billed alongside Peach, Job Jobse and Josh Caffé. Next up: The Cause, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Reece Spooner is a house and techno artist based in United Kingdom, tracked on s
 
 Peach, Job Jobse, Josh Caffé
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reecespooner/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reecespooner/)*

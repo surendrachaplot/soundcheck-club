@@ -1,6 +1,6 @@
 # Persimmon Sound at SJQ
 
-Persimmon Sound at SJQ on Sat 5 Sept, London. 2 acts on the bill: Gus de Silva and Wan Tu. House and Acid. Preview the line-up and save it on soundcheck.
+Persimmon Sound at SJQ on Sat 5 Sept, London. 2 acts on the bill: Gus de Silva and Wan Tu. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

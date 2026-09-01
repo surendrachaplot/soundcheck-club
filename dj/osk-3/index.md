@@ -1,6 +1,6 @@
 # OSK (3)
 
-OSK (3) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Beat Boutique, Hamburg on Sat, 5 Sept 2026.
+OSK (3) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Beat Boutique, Hamburg on Sat, 5 Sept 2026.
 
 OSK (3) is a techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Hamburg and London. Often billed alongside ALCATRAZ, DJ Gigola and The Twins. Next up: Beat Boutique, Hamburg on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ OSK (3) is a techno artist based in Germany, tracked on soundcheck, with 2 sets 
 
 ALCATRAZ, DJ Gigola, The Twins
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/osk-3/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osk-3/)*

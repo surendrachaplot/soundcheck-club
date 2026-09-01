@@ -1,6 +1,6 @@
 # TBA - Casa Blanca, San Telmo
 
-TBA - Casa Blanca, San Telmo is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Paax - Suono and Mystic, Casa Blanca San Telmo" on Sat, 5 Sept 2026.
+TBA - Casa Blanca, San Telmo is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Paax - Suono and Mystic, Casa Blanca San Telmo" on Sat, 5 Sept 2026.
 
 TBA - Casa Blanca, San Telmo is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including PAAX Tulum and RADON. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Casa Blanca, San Telmo is a music venue in Buenosaires listed on soundchec
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Paax - Suono and Mystic, Casa Blanca San Telmo | PAAX Tulum, RADON |
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-casa-blanca-san-telmo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-casa-blanca-san-telmo/)*

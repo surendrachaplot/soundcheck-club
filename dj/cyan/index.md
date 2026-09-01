@@ -1,6 +1,6 @@
 # Cyan
 
-Cyan is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Forestlimit, Tokyo on Wed, 2 Sept 2026.
+Cyan is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Forestlimit, Tokyo on Wed, 2 Sept 2026.
 
 Cyan is a club and pop artist tracked on soundcheck, with 2 sets logged across Ghent and Tokyo. Often billed alongside DUCK, Mike Dee and Naoki Ikawa. Next up: Forestlimit, Tokyo on Wed 2 Sept.
 
@@ -18,4 +18,4 @@ Cyan is a club and pop artist tracked on soundcheck, with 2 sets logged across G
 
 DUCK, Mike Dee, Naoki Ikawa
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cyan/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cyan/)*

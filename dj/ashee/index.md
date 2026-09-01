@@ -1,6 +1,6 @@
 # Ashee
 
-Ashee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at FOLD, London on Fri, 9 Oct 2026.
+Ashee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at FOLD, London on Fri, 9 Oct 2026.
 
 Ashee is a house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Chicago and London and 2 more. Often billed alongside DJ Tennis, ANII and Chris Avantgarde. Next up: FOLD, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ashee is a house and techno artist based in United Kingdom, tracked on soundchec
 
 DJ Tennis, ANII, Chris Avantgarde
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashee/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashee/)*

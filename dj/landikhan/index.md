@@ -1,6 +1,6 @@
 # Landikhan
 
-Landikhan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Cova Santa, Ibiza on Fri, 18 Sept 2026.
+Landikhan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Cova Santa, Ibiza on Fri, 18 Sept 2026.
 
 Landikhan is a house and tech house artist based in Spain, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 5 more. Often billed alongside Omer Tayar, Igor Marijuan and Mira. Next up: Cova Santa, Ibiza on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Landikhan is a house and tech house artist based in Spain, tracked on soundcheck
 
 Omer Tayar, Igor Marijuan, Mira
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/landikhan/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/landikhan/)*

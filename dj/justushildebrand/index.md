@@ -1,6 +1,6 @@
 # Justus Hildebrand
 
-Justus Hildebrand is a Electro and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at ://about blank, Berlin on Thu, 3 Sept 2026.
+Justus Hildebrand is a Electro and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at ://about blank, Berlin on Thu, 3 Sept 2026.
 
 Justus Hildebrand is an electro and trance artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Balkhausen, HOCK (DE) and Krash Cora. Next up: ://about blank, Berlin on Thu 3 Sept.
 
@@ -19,4 +19,4 @@ Justus Hildebrand is an electro and trance artist based in Germany, tracked on s
 
 Balkhausen, HOCK (DE), Krash Cora
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/justushildebrand/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justushildebrand/)*

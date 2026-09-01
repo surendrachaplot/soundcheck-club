@@ -1,8 +1,8 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Knockdown Center, New York City on Sat, 5 Sept 2026.
+Danny Tenaglia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Knockdown Center, New York City on Sat, 5 Sept 2026.
 
-Danny Tenaglia is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Auckland, Austin and Barcelona and 24 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: Knockdown Center, Newyorkcity on Sat 5 Sept.
+Danny Tenaglia is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Auckland, Austin and Barcelona and 25 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: Knockdown Center, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Danny Tenaglia is a house and techno artist tracked on soundcheck, with 105 sets
 | Sat, 5 Sept 2026 | Knockdown Center | New York City |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Fri, 2 Oct 2026 | Amnesia Ibiza | Ibiza |
+| Sat, 17 Oct 2026 | TBA - Ciudad Universitaria, Belgrano | Buenos Aires |
 | Sat, 31 Oct 2026 | Stereo | Montreal |
 
 ## Recently played
@@ -28,4 +29,4 @@ Danny Tenaglia is a house and techno artist tracked on soundcheck, with 105 sets
 
 Brandon Block, DJ Chus, Darren Emerson
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

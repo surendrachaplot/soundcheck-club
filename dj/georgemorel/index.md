@@ -1,6 +1,6 @@
 # George Morel
 
-George Morel is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club Z in Zimmermans, Cologne on Fri, 11 Sept 2026.
+George Morel is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Z in Zimmermans, Cologne on Fri, 11 Sept 2026.
 
 George Morel is a techno and tech house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Berlin and Cologne. Often billed alongside Adonis Wolf, Diana May and Helge Baumberg. Next up: Club Z in Zimmermans, Cologne on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ George Morel is a techno and tech house artist based in United States of America
 
 Adonis Wolf, Diana May, Helge Baumberg
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgemorel/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgemorel/)*

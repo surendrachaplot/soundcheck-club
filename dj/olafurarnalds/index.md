@@ -1,6 +1,6 @@
 # Olafur Arnalds
 
-Olafur Arnalds is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Wiltern, Los Angeles on Fri, 13 Nov 2026.
+Olafur Arnalds is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Wiltern, Los Angeles on Fri, 13 Nov 2026.
 
 Olafur Arnalds is an electronic artist tracked on soundcheck, with 3 sets logged across Cologne, London and Losangeles. Often billed alongside Janus Rasmussen, Kiasmos and Rival Consoles. Next up: The Wiltern, Losangeles on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Olafur Arnalds is an electronic artist tracked on soundcheck, with 3 sets logged
 
 Janus Rasmussen, Kiasmos, Rival Consoles
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/olafurarnalds/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olafurarnalds/)*

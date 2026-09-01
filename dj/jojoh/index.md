@@ -1,6 +1,6 @@
 # JOJOH
 
-JOJOH is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Blaq Lyte Bloq, Bangkok on Sat, 5 Sept 2026.
+JOJOH is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Blaq Lyte Bloq, Bangkok on Sat, 5 Sept 2026.
 
 JOJOH is a drum & bass and dubstep artist based in Thailand, tracked on soundcheck, with 10 sets logged across Bangkok. Often billed alongside LXYN, KAMIKO and NENEIA. Next up: Blaq Lyte Bloq, Bangkok on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ JOJOH is a drum & bass and dubstep artist based in Thailand, tracked on soundche
 
 LXYN, KAMIKO, NENEIA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jojoh/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jojoh/)*

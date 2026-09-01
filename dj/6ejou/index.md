@@ -1,8 +1,8 @@
 # 6EJOU
 
-6EJOU is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at ZEROTOKYO, Tokyo on Fri, 11 Sept 2026.
+6EJOU is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 11 Sept 2026.
 
-6EJOU is a techno and industrial artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside KARAH, Raxeller and CARV. Next up: ZEROTOKYO, Tokyo on Fri 11 Sept.
+6EJOU is a techno and industrial artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside KARAH, Raxeller and CARV. Next up: ZEROTOKYO, Tokyo on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | ZEROTOKYO | Tokyo |
 | Fri, 18 Sept 2026 | KALT | Strasbourg |
+| Fri, 9 Oct 2026 | Studio Club Malaga | Malaga |
 | Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 
 ## Recently played
@@ -27,4 +28,4 @@
 
 KARAH, Raxeller, CARV
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*

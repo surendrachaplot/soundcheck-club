@@ -1,6 +1,6 @@
 # PIKES PRESENTS AT 528 x BUGGED OUT at 528 Ibiza
 
-PIKES PRESENTS AT 528 x BUGGED OUT at 528 Ibiza on Sat 19 Sept, Ibiza. 2 acts on the bill: Felix Da Housecat and HAAi. House. Preview the line-up and save it on soundcheck.
+PIKES PRESENTS AT 528 x BUGGED OUT at 528 Ibiza on Sat 19 Sept, Ibiza. 9 acts on the bill: Andy Baxter, Defex, Federico Grazzini and Felix Da Housecat and 5 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,14 @@ PIKES PRESENTS AT 528 x BUGGED OUT at 528 Ibiza on Sat 19 Sept, Ibiza. 2 acts on
 
 ## Line-up
 
+- Andy Baxter
+- Defex
+- Federico Grazzini
 - Felix Da Housecat
+- Flashbaxx
 - HAAi
+- James Lavelle
+- Milou
+- Mina
 
 *Source: [soundcheck](https://soundcheck.club/e/2430592-pikes-presents-at-528-x-bugged-out-at-528-ibiza/)*

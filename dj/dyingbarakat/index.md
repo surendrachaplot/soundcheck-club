@@ -1,6 +1,6 @@
 # Dying & Barakat
 
-Dying & Barakat is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
+Dying & Barakat is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
 
 Dying & Barakat are a techno and experimental duo tracked on soundcheck, with 9 sets logged across Berlin, Buenosaires, Leipzig and Malaga. Often billed alongside Tourres, Volpe and Alci. Next up: Sophie Festival, Malaga on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Dying & Barakat are a techno and experimental duo tracked on soundcheck, with 9 
 
 Tourres, Volpe, Alci
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dyingbarakat/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyingbarakat/)*

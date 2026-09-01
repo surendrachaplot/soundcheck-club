@@ -1,6 +1,6 @@
 # Baxtak
 
-Baxtak is a Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Freight Brixton, London on Sat, 5 Sept 2026.
+Baxtak is a Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Freight Brixton, London on Sat, 5 Sept 2026.
 
 Baxtak is a garage artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Earthly Measures, BlackMagicWoman and Chunky. Next up: Freight Brixton, London on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Baxtak is a garage artist tracked on soundcheck, with 4 sets logged across Londo
 
 Earthly Measures, BlackMagicWoman, Chunky
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/baxtak/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baxtak/)*

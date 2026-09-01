@@ -1,6 +1,6 @@
 # flowers by HOVR at gART.n
 
-flowers by HOVR at gART.n on Sat 12 Sept, Berlin. 4 acts on the bill: HOVR, Michael Lane, Organza and Sherø. House. Preview the line-up and save it on soundcheck.
+flowers by HOVR at gART.n on Sat 12 Sept, Berlin. 5 acts on the bill: Dj handbag, HOVR, Michael Lane and Organza and 1 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ flowers by HOVR at gART.n on Sat 12 Sept, Berlin. 4 acts on the bill: HOVR, Mich
 
 ## Line-up
 
+- Dj handbag
 - HOVR
 - Michael Lane
 - Organza

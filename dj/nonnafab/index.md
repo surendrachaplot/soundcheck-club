@@ -1,6 +1,6 @@
 # Nonna Fab
 
-Nonna Fab is a Funk / Soul and Jazz artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Eastern Bloc Records, Manchester on Sat, 19 Sept 2026.
+Nonna Fab is a Funk / Soul and Jazz artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Eastern Bloc Records, Manchester on Sat, 19 Sept 2026.
 
 Nonna Fab is a funk / soul and jazz artist tracked on soundcheck, with 90 sets logged across Cardiff, Leeds, Liverpool and London and 3 more. Often billed alongside Joi La Frique, Sirrey and Wow & Flutter. Next up: Eastern Bloc Records, Manchester on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Nonna Fab is a funk / soul and jazz artist tracked on soundcheck, with 90 sets l
 
 Joi La Frique, Sirrey, Wow & Flutter
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nonnafab/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonnafab/)*

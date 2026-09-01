@@ -1,6 +1,6 @@
 # Trym
 
-Trym is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at New City Gas, Montreal on Fri, 4 Sept 2026.
+Trym is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at New City Gas, Montreal on Fri, 4 Sept 2026.
 
 Trym is a techno and trance artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside Shlømo, Nico Moreno and 999999999. Next up: New City Gas, Montreal on Fri 4 Sept.
 
@@ -33,4 +33,4 @@ Trym is a techno and trance artist tracked on soundcheck, with 177 sets logged a
 
 Shlømo, Nico Moreno, 999999999
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*

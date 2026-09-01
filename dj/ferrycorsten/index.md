@@ -1,6 +1,6 @@
 # Ferry Corsten
 
-Ferry Corsten is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Amnesia Ibiza, Ibiza on Sat, 26 Sept 2026.
+Ferry Corsten is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Amnesia Ibiza, Ibiza on Sat, 26 Sept 2026.
 
 Ferry Corsten is a trance and progressive house artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Brisbane, Bristol, Budapest and Chicago and 24 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: Amnesia Ibiza, Ibiza on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Ferry Corsten is a trance and progressive house artist based in Netherlands, tra
 
 Amy Wiles, Billy Gillies, Aly & Fila
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*

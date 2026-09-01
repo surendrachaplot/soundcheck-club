@@ -1,6 +1,6 @@
 # Neev.
 
-Neev. is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The DBA, Manchester on Sat, 7 Nov 2026.
+Neev. is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The DBA, Manchester on Sat, 7 Nov 2026.
 
 Neev. is an electro and techno artist tracked on soundcheck, with 5 sets logged across London and Manchester. Often billed alongside ATST, FROND and Holba. Next up: The DBA, Manchester on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Neev. is an electro and techno artist tracked on soundcheck, with 5 sets logged 
 
 ATST, FROND, Holba
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neev./)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neev./)*

@@ -1,6 +1,6 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and Ambient artist with 10 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Trädgården, Stockholm on Fri, 4 Sept 2026.
+Claudio PRC is a Techno and Ambient artist with 10 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Trädgården, Stockholm on Fri, 4 Sept 2026.
 
 Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Trädgården, Stockholm on Fri 4 Sept.
 
@@ -34,4 +34,4 @@ Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck
 
 Isabel Soto, Luigi Tozzi, Adriana Lopez
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*

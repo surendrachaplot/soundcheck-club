@@ -1,6 +1,6 @@
 # KINEKTA
 
-KINEKTA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at QQQ ST. Park, Melbourne on Fri, 4 Sept 2026.
+KINEKTA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at QQQ ST. Park, Melbourne on Fri, 4 Sept 2026.
 
 KINEKTA is a techno and industrial artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside Dylan Smith, SHEV (2) and Stackpackers. Next up: QQQ ST. Park, Melbourne on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ KINEKTA is a techno and industrial artist based in Australia, tracked on soundch
 
 Dylan Smith, SHEV (2), Stackpackers
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kinekta/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kinekta/)*

@@ -1,8 +1,8 @@
 # Darius Syrossian
 
-Darius Syrossian is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at 77, London on Sat, 5 Sept 2026.
+Darius Syrossian is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at 77, London on Sat, 5 Sept 2026.
 
-Darius Syrossian is a house and tech house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: 77, London on Sat 5 Sept.
+Darius Syrossian is a house and tech house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: 77, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Darius Syrossian is a house and tech house artist tracked on soundcheck, with 19
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
+| Thu, 22 Oct 2026 | Oliva | Amsterdam |
 | Sat, 24 Oct 2026 | Sankeys | Manchester |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 
@@ -35,4 +36,4 @@ Darius Syrossian is a house and tech house artist tracked on soundcheck, with 19
 
 Olive F, Prunk, GW Harrison
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariussyrossian/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariussyrossian/)*

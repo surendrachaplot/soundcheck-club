@@ -1,6 +1,6 @@
 # mikubat
 
-mikubat is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Vancouver Art Gallery, Vancouver on Sun, 6 Sept 2026.
+mikubat is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Vancouver Art Gallery, Vancouver on Sun, 6 Sept 2026.
 
 mikubat is an experimental and house artist tracked on soundcheck, with 14 sets logged across Vancouver. Often billed alongside Saghiaa, Afrooz and IHA (CA). Next up: Vancouver Art Gallery, Vancouver on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ mikubat is an experimental and house artist tracked on soundcheck, with 14 sets 
 
 Saghiaa, Afrooz, IHA (CA)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mikubat/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikubat/)*

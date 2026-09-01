@@ -1,6 +1,6 @@
 # Chef Carl
 
-Chef Carl is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Chef Carl is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Chef Carl is a house and balearic artist based in United States of America, tracked on soundcheck, with 7 sets logged across Philadelphia and Washingtondc. Often billed alongside Joyce Lim, Tommy Cornelis and side II side. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Chef Carl is a house and balearic artist based in United States of America, trac
 
 Joyce Lim, Tommy Cornelis, side II side
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chefcarl/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chefcarl/)*

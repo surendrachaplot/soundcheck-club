@@ -1,6 +1,6 @@
 # মm.
 
-মm. is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Celeste, Vienna on Fri, 4 Sept 2026.
+মm. is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Celeste, Vienna on Fri, 4 Sept 2026.
 
 মm. is a techno and pop artist tracked on soundcheck, with 30 sets logged across London, Prague and Vienna. Often billed alongside zey, Gawdesque and Qamareen. Next up: Celeste, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@
 
 zey, Gawdesque, Qamareen
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/read-mwo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/read-mwo/)*

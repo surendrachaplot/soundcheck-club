@@ -1,6 +1,6 @@
 # Marshall Jefferson
 
-Marshall Jefferson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Freeze HiFi, Liverpool on Sat, 19 Sept 2026.
+Marshall Jefferson is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Freeze HiFi, Liverpool on Sat, 19 Sept 2026.
 
 Marshall Jefferson is a house and deep house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Bristol and 14 more. Often billed alongside Andy Baxter, Jason Bye and Armand Van Helden. Next up: Freeze HiFi, Liverpool on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Marshall Jefferson is a house and deep house artist tracked on soundcheck, with 
 
 Andy Baxter, Jason Bye, Armand Van Helden
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marshalljefferson/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marshalljefferson/)*

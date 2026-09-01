@@ -1,6 +1,6 @@
 # Smuda
 
-Smuda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kauz, Zurich on Sun, 13 Sept 2026.
+Smuda is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Kauz, Zurich on Sun, 13 Sept 2026.
 
 Smuda is a house and techno artist tracked on soundcheck, with 4 sets logged across Berlin and Zurich. Often billed alongside CATALUNA, Caniche and Ellen Allien. Next up: Kauz, Zurich on Sun 13 Sept.
 
@@ -20,4 +20,4 @@ Smuda is a house and techno artist tracked on soundcheck, with 4 sets logged acr
 
 CATALUNA, Caniche, Ellen Allien
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smuda/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smuda/)*

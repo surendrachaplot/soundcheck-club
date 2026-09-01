@@ -1,6 +1,6 @@
 # NEUX
 
-NEUX is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Mia Mao, Paris on Fri, 4 Sept 2026.
+NEUX is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mia Mao, Paris on Fri, 4 Sept 2026.
 
 NEUX is a techno and electro artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: Mia Mao, Paris on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ NEUX is a techno and electro artist tracked on soundcheck, with 72 sets logged a
 
 Ben Klock, Sevda, Vulkanski
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*

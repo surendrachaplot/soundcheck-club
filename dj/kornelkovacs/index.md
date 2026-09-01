@@ -1,6 +1,6 @@
 # Kornél Kovács
 
-Kornél Kovács is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Fünk, Mexico City on Fri, 4 Sept 2026.
+Kornél Kovács is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fünk, Mexico City on Fri, 4 Sept 2026.
 
 Kornél Kovács is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 29 more. Often billed alongside Axel Boman, Pedrodollar and Studio Barnhus. Next up: Fünk, Mexicocity on Fri 4 Sept.
 
@@ -9,7 +9,7 @@ Kornél Kovács is a house and techno artist tracked on soundcheck, with 97 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Fünk | Mexico City |
-| Sat, 5 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
+| Sat, 5 Sept 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Kornél Kovács is a house and techno artist tracked on soundcheck, with 97 sets
 
 Axel Boman, Pedrodollar, Studio Barnhus
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kornelkovacs/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kornelkovacs/)*

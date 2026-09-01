@@ -1,8 +1,8 @@
 # Bobby O'Donnell
 
-Bobby O'Donnell is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Ouseburn Garden, Newcastle on Sat, 19 Sept 2026.
+Bobby O'Donnell is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 19 Sept 2026.
 
-Bobby O'Donnell is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Berlin, Leeds, Liverpool and London and 3 more. Often billed alongside Annie Errez, Enzo Siragusa and Simon Scott. Next up: Ouseburn Garden, Newcastle on Sat 19 Sept.
+Bobby O'Donnell is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Berlin, Leeds, Liverpool and London and 3 more. Often billed alongside Annie Errez, Enzo Siragusa and Simon Scott. Next up: Ouseburn Garden, Newcastle on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Bobby O'Donnell is a tech house and house artist based in United Kingdom, tracke
 
 ## Recently played
 
+- Distrikt, Leeds — Thu, 27 Aug 2026
 - Club der Visionaere, Berlin — Sun, 28 Jun 2026
 - Mint Warehouse, Leeds — Sun, 24 May 2026
 - Newsam Green Farm, Leeds — Sat, 2 May 2026
@@ -21,10 +22,9 @@ Bobby O'Donnell is a tech house and house artist based in United Kingdom, tracke
 - Mint Warehouse, Leeds — Sat, 7 Mar 2026
 - Mint Warehouse, Leeds — Sat, 31 Jan 2026
 - Distrikt, Leeds — Thu, 18 Dec 2025
-- Freedom Mills, Leeds — Fri, 28 Nov 2025
 
 ## Shares bills with
 
 Annie Errez, Enzo Siragusa, Simon Scott
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyodonnell/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyodonnell/)*

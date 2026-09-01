@@ -1,6 +1,6 @@
 # Seattle Sunset Lovers Vol 6 at TBA - The Nest
 
-Seattle Sunset Lovers Vol 6 at TBA - The Nest on Sun 6 Sept, Seattle. 2 acts on the bill: Jono (2) and Misha Mir. House. Preview the line-up and save it on soundcheck.
+Seattle Sunset Lovers Vol 6 at TBA - The Nest on Sun 6 Sept, Seattle. 3 acts on the bill: Alessandro Carrabba, Jono (2) and Misha Mir. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Seattle Sunset Lovers Vol 6 at TBA - The Nest on Sun 6 Sept, Seattle. 2 acts on 
 
 ## Line-up
 
+- Alessandro Carrabba
 - Jono (2)
 - Misha Mir
 

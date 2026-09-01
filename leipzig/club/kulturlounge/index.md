@@ -1,6 +1,6 @@
 # Kulturlounge
 
-Kulturlounge is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "JETSET" on Fri, 11 Sept 2026.
+Kulturlounge is a music venue in Leipzig with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "JETSET" on Fri, 11 Sept 2026.
 
 Kulturlounge is a music venue in Leipzig listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Dresdner Straße 25, 04103 Leipzig.
 
@@ -15,4 +15,4 @@ Kulturlounge is a music venue in Leipzig listed on soundcheck. 2 upcoming nights
 
 Dresdner Straße 25, 04103 Leipzig, Leipzig
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/kulturlounge/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/kulturlounge/)*

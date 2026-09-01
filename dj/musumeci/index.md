@@ -1,6 +1,6 @@
 # Musumeci
 
-Musumeci is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Macarena Club, Barcelona on Thu, 3 Sept 2026.
+Musumeci is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Macarena Club, Barcelona on Thu, 3 Sept 2026.
 
 Musumeci is a house and deep house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 29 more. Often billed alongside Lehar, Frankey & Sandrino and Phunkadelica. Next up: Macarena Club, Barcelona on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Musumeci is a house and deep house artist tracked on soundcheck, with 84 sets lo
 
 Lehar, Frankey & Sandrino, Phunkadelica
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*

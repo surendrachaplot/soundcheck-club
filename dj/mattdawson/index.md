@@ -1,6 +1,6 @@
 # Matt Dawson
 
-Matt Dawson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Gallery, London on Sat, 26 Sept 2026.
+Matt Dawson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gallery, London on Sat, 26 Sept 2026.
 
 Matt Dawson is a house and tech house artist tracked on soundcheck, with 2 sets logged across Amsterdam and London. Often billed alongside Carly Carmen, Dj Cash Only and Huck Finn. Next up: Gallery, London on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Matt Dawson is a house and tech house artist tracked on soundcheck, with 2 sets 
 
 Carly Carmen, Dj Cash Only, Huck Finn
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mattdawson/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattdawson/)*

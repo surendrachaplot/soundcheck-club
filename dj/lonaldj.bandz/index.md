@@ -1,14 +1,15 @@
 # Lonald J. Bandz
 
-Lonald J. Bandz is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bossa Nova Civic Club, New York City on Fri, 4 Sept 2026.
+Lonald J. Bandz is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 4 Sept 2026.
 
-Lonald J. Bandz is a club and techno artist based in United States of America, tracked on soundcheck, with 56 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Discnogirl, RITCHRD and Tom Marsi. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 4 Sept.
+Lonald J. Bandz is a club and techno artist based in United States of America, tracked on soundcheck, with 57 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Discnogirl, RITCHRD and Tom Marsi. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Bossa Nova Civic Club | New York City |
+| Wed, 14 Oct 2026 | El Rio | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lonald J. Bandz is a club and techno artist based in United States of America, t
 
 Discnogirl, RITCHRD, Tom Marsi
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lonaldj.bandz/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lonaldj.bandz/)*

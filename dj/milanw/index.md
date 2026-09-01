@@ -1,6 +1,6 @@
 # Milan W.
 
-Milan W. is a Pop and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Manggha, Krakow on Sat, 10 Oct 2026.
+Milan W. is a Pop and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Manggha, Krakow on Sat, 10 Oct 2026.
 
 Milan W. is a pop and post-punk artist tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside Nosedrip, Al Wootton and Andy Stott. Next up: Manggha, Krakow on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Milan W. is a pop and post-punk artist tracked on soundcheck, with 21 sets logge
 
 Nosedrip, Al Wootton, Andy Stott
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milanw/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milanw/)*

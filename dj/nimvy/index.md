@@ -1,13 +1,14 @@
 # Nimvy
 
-Nimvy is a Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Cakeshop, Seoul on Sat, 26 Sept 2026.
+Nimvy is a Bass and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Kote, Seoul on Sat, 5 Sept 2026.
 
-Nimvy is a bass and breakbeat artist based in South Korea, tracked on soundcheck, with 60 sets logged across Seoul and Tokyo. Often billed alongside Tabris, HASHTAGPOPE and Dan Dara. Next up: Cakeshop, Seoul on Sat 26 Sept.
+Nimvy is a bass and breakbeat artist based in South Korea, tracked on soundcheck, with 61 sets logged across Seoul and Tokyo. Often billed alongside Tabris, HASHTAGPOPE and Dan Dara. Next up: Kote, Seoul on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Kote | Seoul |
 | Sat, 26 Sept 2026 | Cakeshop | Seoul |
 | Fri, 6 Nov 2026 | Cakeshop | Seoul |
 
@@ -26,4 +27,4 @@ Nimvy is a bass and breakbeat artist based in South Korea, tracked on soundcheck
 
 Tabris, HASHTAGPOPE, Dan Dara
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nimvy/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nimvy/)*

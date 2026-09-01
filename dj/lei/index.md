@@ -1,6 +1,6 @@
 # LEI
 
-LEI is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at 99 Scott Ave, New York City on Sun, 6 Sept 2026.
+LEI is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at 99 Scott Ave, New York City on Sun, 6 Sept 2026.
 
 LEI is a house and minimal artist tracked on soundcheck, with 20 sets logged across Berlin, Newyorkcity, Paris and Sanfrancisco and 1 more. Often billed alongside OmNa, Monoclick and James Houdini. Next up: 99 Scott Ave, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ LEI is a house and minimal artist tracked on soundcheck, with 20 sets logged acr
 
 OmNa, Monoclick, James Houdini
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lei/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lei/)*

@@ -1,6 +1,6 @@
 # gem.ini
 
-gem.ini is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at AMT, Berlin on Sat, 24 Oct 2026.
+gem.ini is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at AMT, Berlin on Sat, 24 Oct 2026.
 
 gem.ini is a house and techno artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin, Hamburg, Lisbon and Nurnberg and 1 more. Often billed alongside Dela Nesto, Adrian Ernst and Ateş Sönmez. Next up: AMT, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ gem.ini is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Dela Nesto, Adrian Ernst, Ateş Sönmez
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gem.ini/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gem.ini/)*

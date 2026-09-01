@@ -1,6 +1,6 @@
 # BELLADONNA
 
-BELLADONNA is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+BELLADONNA is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
 BELLADONNA is a tech house and minimal techno artist tracked on soundcheck, with 10 sets logged across Berlin, Dusseldorf, Frankfurt and Ibiza and 2 more. Often billed alongside belladonna of sadness, Afshin Momadi and theories. Next up: Knockdown Center, Newyorkcity on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ BELLADONNA is a tech house and minimal techno artist tracked on soundcheck, with
 
 belladonna of sadness, Afshin Momadi, theories
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/belladonna/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belladonna/)*

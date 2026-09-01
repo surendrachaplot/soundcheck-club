@@ -1,6 +1,6 @@
 # Mary Jane (US)
 
-Mary Jane (US) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Distillery, Leipzig on Fri, 11 Sept 2026.
+Mary Jane (US) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Distillery, Leipzig on Fri, 11 Sept 2026.
 
 Mary Jane (US) is a house and deep house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Leipzig, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside Dude Skywalker, Kike Roldan and Nii Tei. Next up: Distillery, Leipzig on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Mary Jane (US) is a house and deep house artist based in United States of Americ
 
 Dude Skywalker, Kike Roldan, Nii Tei
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane-us/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maryjane-us/)*

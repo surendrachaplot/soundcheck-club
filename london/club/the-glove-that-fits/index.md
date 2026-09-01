@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 22 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Rubedo II" on Thu, 3 Sept 2026.
+The Glove That Fits is a music venue in London with 22 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Rubedo II" on Thu, 3 Sept 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including A.Wild, AJ Manning, Alan Fitzpatrick and Amor Ante and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -11,7 +11,7 @@ The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming
 | Thu, 3 Sept 2026 | Rubedo II | CITYTRONIX, Modlar, Shayleen Rose |
 | Fri, 4 Sept 2026 | Club Hiatus x Nein: Danny Daze | Danny Daze, Franklin DJ, Meltem Yazar, Tronik Youth |
 | Fri, 4 Sept 2026 | Wap.Recs presents Greville, A.Wild, Patrick Rowe | A.Wild, Greville, Patrick Rowe, Skip Wooznam |
-| Sat, 5 Sept 2026 | Day & Night: Vinyl House & Techno  | Ardishko, FASTON, Saumac |
+| Sat, 5 Sept 2026 | Day & Night: Vinyl House & Techno  | Ardishko, Benebe, FASTON, Saumac, dj mush |
 | Sun, 6 Sept 2026 | Fossil Archive presents: Gareth Wild, Vindya, R.M.K | Gareth Wild, R.M.K, Vindya |
 | Fri, 11 Sept 2026 | CLUB BOOTS VOL II | Katie Baxter, Meg Ward |
 | Sat, 12 Sept 2026 | 10 Years of Sunshine Soul: ULTRAVIOLET DANCE | Chenzo, DREY (UK), Kojay, LEV (UK), LORA S, Max Sinàl, Mylo Harvey, P-Lucas, Raphael (UK), Selassie TBC, WheelUP |
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 22 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

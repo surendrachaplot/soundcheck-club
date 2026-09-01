@@ -1,6 +1,6 @@
 # Tom Wigley
 
-Tom Wigley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Last Arch, London on Sat, 5 Sept 2026.
+Tom Wigley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Last Arch, London on Sat, 5 Sept 2026.
 
 Tom Wigley is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Sam Day, YRS (1) and Drinks On Me. Next up: Last Arch, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tom Wigley is a house and techno artist based in United Kingdom, tracked on soun
 
 Sam Day, YRS (1), Drinks On Me
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tomwigley/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomwigley/)*

@@ -1,6 +1,6 @@
 # Natch Nadjafi
 
-Natch Nadjafi is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Otherworld ATX, Austin on Sat, 5 Sept 2026.
+Natch Nadjafi is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Otherworld ATX, Austin on Sat, 5 Sept 2026.
 
 Natch Nadjafi is a techno and acid artist tracked on soundcheck, with 26 sets logged across Austin and Houston. Often billed alongside Hana Sabri, RAMGON and GODEMPEROR. Next up: TBA - Otherworld ATX, Austin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Natch Nadjafi is a techno and acid artist tracked on soundcheck, with 26 sets lo
 
 Hana Sabri, RAMGON, GODEMPEROR
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/natchnadjafi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natchnadjafi/)*

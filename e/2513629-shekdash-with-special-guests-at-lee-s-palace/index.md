@@ -1,6 +1,6 @@
 # shekdash with Special Guests at Lee's Palace
 
-shekdash with Special Guests at Lee's Palace on Fri 18 Sept, Toronto. 1 act on the bill: shekdash. Techno. Preview the line-up and save it on soundcheck.
+shekdash with Special Guests at Lee's Palace on Fri 18 Sept, Toronto. 3 acts on the bill: /ASYNC, 0xydr0p and shekdash. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ shekdash with Special Guests at Lee's Palace on Fri 18 Sept, Toronto. 1 act on t
 
 ## Line-up
 
+- /ASYNC
+- 0xydr0p
 - shekdash
 
 *Source: [soundcheck](https://soundcheck.club/e/2513629-shekdash-with-special-guests-at-lee-s-palace/)*

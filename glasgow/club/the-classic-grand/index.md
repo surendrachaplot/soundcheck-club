@@ -1,8 +1,8 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Technodome - Event V - Dyewitness and much more" on Sat, 5 Sept 2026.
+The Classic Grand is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Technodome - Event V - Dyewitness and much more" on Sat, 5 Sept 2026.
 
-The Classic Grand is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including Carbon Based Lifeforms, Charlie B, Dougal and DYEN and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
+The Classic Grand is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, with line-ups including Carbon Based Lifeforms, Charlie B, Dougal and DYEN and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 13 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

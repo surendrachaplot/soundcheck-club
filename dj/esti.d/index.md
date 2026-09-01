@@ -1,6 +1,6 @@
 # esti.d
 
-esti.d is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Celeste, Vienna on Fri, 4 Sept 2026.
+esti.d is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Celeste, Vienna on Fri, 4 Sept 2026.
 
 esti.d is a pop and techno artist tracked on soundcheck, with 33 sets logged across Glasgow, London, Prague and Vienna. Often billed alongside neon.kotze, Peter Puenktlich (2) and saschka. Next up: Celeste, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ esti.d is a pop and techno artist tracked on soundcheck, with 33 sets logged acr
 
 neon.kotze, Peter Puenktlich (2), saschka
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/esti.d/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esti.d/)*

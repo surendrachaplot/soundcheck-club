@@ -1,6 +1,6 @@
 # diskoheinz
 
-diskoheinz is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
+diskoheinz is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
 
 diskoheinz is a house and tech house artist based in Germany, tracked on soundcheck, with 12 sets logged across Amsterdam, Cologne, Dusseldorf and Munich and 1 more. Often billed alongside Alice DiMar, Artur Bredo and Timo Elias. Next up: Park Café München, Munich on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ diskoheinz is a house and tech house artist based in Germany, tracked on soundch
 
 Alice DiMar, Artur Bredo, Timo Elias
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoheinz/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoheinz/)*

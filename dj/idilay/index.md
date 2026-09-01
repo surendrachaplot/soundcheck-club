@@ -1,6 +1,6 @@
 # Idilay
 
-Idilay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
+Idilay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
 
 Idilay is a house and techno artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Rotterdam and Utrecht. Often billed alongside Cybersex, Daan Donk and Amandla. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Idilay is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 Cybersex, Daan Donk, Amandla
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idilay/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idilay/)*

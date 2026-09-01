@@ -1,6 +1,6 @@
 # SY (DE)
 
-SY (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Bulbul Berlin, Berlin on Sat, 5 Sept 2026.
+SY (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bulbul Berlin, Berlin on Sat, 5 Sept 2026.
 
 SY (DE) is a house and techno artist tracked on soundcheck, with 33 sets logged across Berlin, Lisbon, Manchester and Paris and 2 more. Often billed alongside Pedro Tabuada, Sparkling Water Dreams and Alessia Ceruti. Next up: Bulbul Berlin, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ SY (DE) is a house and techno artist tracked on soundcheck, with 33 sets logged 
 
 Pedro Tabuada, Sparkling Water Dreams, Alessia Ceruti
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sy-de/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sy-de/)*

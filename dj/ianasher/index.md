@@ -1,14 +1,15 @@
 # Ian Asher
 
-Ian Asher is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Big Night Live, Boston on Sat, 12 Sept 2026.
+Ian Asher is a House and Pop artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Big Night Live, Boston on Sat, 12 Sept 2026.
 
-Ian Asher is a house and pop artist tracked on soundcheck, with 41 sets logged across Amsterdam, Austin, Boston and Brisbane and 16 more. Often billed alongside Benny Benassi, KREAM and Liquid Stranger. Next up: Big Night Live, Boston on Sat 12 Sept.
+Ian Asher is a house and pop artist tracked on soundcheck, with 42 sets logged across Amsterdam, Austin, Boston and Brisbane and 16 more. Often billed alongside Benny Benassi, KREAM and Liquid Stranger. Next up: Big Night Live, Boston on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Big Night Live | Boston |
+| Sat, 24 Oct 2026 | The Concourse Project | Austin |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 
 ## Recently played
@@ -26,4 +27,4 @@ Ian Asher is a house and pop artist tracked on soundcheck, with 41 sets logged a
 
 Benny Benassi, KREAM, Liquid Stranger
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*

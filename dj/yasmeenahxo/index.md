@@ -1,14 +1,15 @@
 # YASMEENAH (2)
 
-YASMEENAH (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
+YASMEENAH (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
 
-YASMEENAH (2) is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Berlin, Chicago, Detroit and London and 1 more. Often billed alongside Blackmoonchild, DJ Etta (US) and A K. Next up: Tresor / Globus, Berlin on Fri 4 Sept.
+YASMEENAH (2) is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Berlin, Chicago, Detroit and London and 1 more. Often billed alongside Blackmoonchild, DJ Etta (US) and A K. Next up: Tresor / Globus, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Tresor / Globus | Berlin |
+| Sat, 26 Sept 2026 | Northern Lights Lounge | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ YASMEENAH (2) is a techno and house artist based in United States of America, tr
 
 Blackmoonchild, DJ Etta (US), A K
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmeenahxo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmeenahxo/)*

@@ -1,14 +1,15 @@
 # Salvi k
 
-Salvi k is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Salvi k is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
-Salvi k is an electro and techno artist based in Greece, tracked on soundcheck, with 56 sets logged across Athens and Berlin. Often billed alongside Maaantz, Ther3min and Dora Mask. Next up: B side Athens, Athens on Thu 3 Sept.
+Salvi k is an electro and techno artist based in Greece, tracked on soundcheck, with 57 sets logged across Athens and Berlin. Often billed alongside Maaantz, Ther3min and Dora Mask. Next up: B side Athens, Athens on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | B side Athens | Athens |
+| Sat, 12 Sept 2026 | Cantina Social | Athens |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Salvi k is an electro and techno artist based in Greece, tracked on soundcheck, 
 
 Maaantz, Ther3min, Dora Mask
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/salvik/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salvik/)*

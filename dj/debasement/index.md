@@ -1,6 +1,6 @@
 # deBasement
 
-deBasement is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Botanique, Brussels on Sat, 5 Sept 2026.
+deBasement is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Botanique, Brussels on Sat, 5 Sept 2026.
 
 deBasement is a techno and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Marie Davidson, ARMANA KHAN and BASHKKA. Next up: Botanique, Brussels on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ deBasement is a techno and house artist tracked on soundcheck, with 36 sets logg
 
 Marie Davidson, ARMANA KHAN, BASHKKA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*

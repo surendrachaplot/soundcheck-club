@@ -1,6 +1,6 @@
 # Artemis.105
 
-Artemis.105 is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TRANSMISSION DC, Washington DC on Sat, 12 Sept 2026.
+Artemis.105 is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 12 Sept 2026.
 
 Artemis.105 is a techno and club artist based in United States of America, tracked on soundcheck, with 27 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Juana, side II side and Nocturnal Wax. Next up: TRANSMISSION DC, Washingtondc on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Artemis.105 is a techno and club artist based in United States of America, track
 
 Juana, side II side, Nocturnal Wax
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/artemis.105/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artemis.105/)*

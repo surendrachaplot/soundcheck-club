@@ -1,6 +1,6 @@
 # Karellos
 
-Karellos is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Arch 14, London on Fri, 25 Sept 2026.
+Karellos is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Arch 14, London on Fri, 25 Sept 2026.
 
 Karellos is a deep house and techno artist tracked on soundcheck, with 20 sets logged across Barcelona and London. Often billed alongside Dyl Payne, Henry Dummett and Theo T. Next up: Arch 14, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Karellos is a deep house and techno artist tracked on soundcheck, with 20 sets l
 
 Dyl Payne, Henry Dummett, Theo T
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karellos/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karellos/)*

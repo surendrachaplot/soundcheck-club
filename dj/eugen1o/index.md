@@ -1,14 +1,14 @@
 # EUGEN1O
 
-EUGEN1O is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Blue Summer Ibiza Boat, Ibiza on Sun, 13 Sept 2026.
+EUGEN1O is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Marina Botafoch, Ibiza on Sun, 13 Sept 2026.
 
-EUGEN1O is a house and minimal artist tracked on soundcheck, with 8 sets logged across Ibiza and Vienna. Often billed alongside Pornbugs, de larrechea and Angel Linde. Next up: Blue Summer Ibiza Boat, Ibiza on Sun 13 Sept.
+EUGEN1O is a house and minimal artist tracked on soundcheck, with 8 sets logged across Ibiza and Vienna. Often billed alongside Pornbugs, de larrechea and Angel Linde. Next up: Marina Botafoch, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Blue Summer Ibiza Boat | Ibiza |
+| Sun, 13 Sept 2026 | Marina Botafoch | Ibiza |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ EUGEN1O is a house and minimal artist tracked on soundcheck, with 8 sets logged 
 
 Pornbugs, de larrechea, Angel Linde
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eugen1o/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eugen1o/)*

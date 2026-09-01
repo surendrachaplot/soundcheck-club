@@ -1,6 +1,6 @@
 # Fidge
 
-Fidge is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at WaV, Liverpool on Sat, 24 Oct 2026.
+Fidge is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at WaV, Liverpool on Sat, 24 Oct 2026.
 
 Fidge is a techno and house artist tracked on soundcheck, with 11 sets logged across Liverpool. Often billed alongside Moritz, Quivver and Steve Parry. Next up: WaV, Liverpool on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Fidge is a techno and house artist tracked on soundcheck, with 11 sets logged ac
 
 Moritz, Quivver, Steve Parry
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fidge/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fidge/)*

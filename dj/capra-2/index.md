@@ -1,6 +1,6 @@
 # Capra (2)
 
-Capra (2) is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
+Capra (2) is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 16 Oct 2026.
 
 Capra (2) is a house artist tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside nik-ey, Caim and ETERNAL JOE. Next up: Shelter Amsterdam, Amsterdam on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Capra (2) is a house artist tracked on soundcheck, with 5 sets logged across Ams
 
 nik-ey, Caim, ETERNAL JOE
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/capra-2/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/capra-2/)*

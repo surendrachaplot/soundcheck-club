@@ -1,6 +1,6 @@
 # Cristi Cons
 
-Cristi Cons is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
+Cristi Cons is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
 
 Cristi Cons is a house and minimal artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 31 more. Often billed alongside Vlad Caia, SIT Amphia and Sublee. Next up: BRET, Amsterdam on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Cristi Cons is a house and minimal artist tracked on soundcheck, with 110 sets l
 
 Vlad Caia, SIT Amphia, Sublee
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*

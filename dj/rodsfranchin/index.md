@@ -1,6 +1,6 @@
 # Rods Franchin
 
-Rods Franchin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Macarena Club, Barcelona on Fri, 25 Sept 2026.
+Rods Franchin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Macarena Club, Barcelona on Fri, 25 Sept 2026.
 
 Rods Franchin is a techno and house artist based in Brazil, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 6 more. Often billed alongside Gabo Oliveira, Alex Sharp and Turcovich. Next up: Macarena Club, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Rods Franchin is a techno and house artist based in Brazil, tracked on soundchec
 
 Gabo Oliveira, Alex Sharp, Turcovich
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rodsfranchin/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodsfranchin/)*

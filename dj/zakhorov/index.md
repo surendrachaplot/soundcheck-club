@@ -1,6 +1,6 @@
 # Zakhorov
 
-Zakhorov is a Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Turbina, Budapest on Fri, 4 Sept 2026.
+Zakhorov is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Turbina, Budapest on Fri, 4 Sept 2026.
 
 Zakhorov is an electronica artist tracked on soundcheck, with 16 sets logged across Budapest and Vienna. Often billed alongside Meo Culpa, OIEE and Csodaszoba. Next up: Turbina, Budapest on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Zakhorov is an electronica artist tracked on soundcheck, with 16 sets logged acr
 
 Meo Culpa, OIEE, Csodaszoba
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zakhorov/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zakhorov/)*

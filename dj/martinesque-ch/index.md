@@ -1,6 +1,6 @@
 # Martinesque
 
-Martinesque is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Postkantine, Basel on Sat, 26 Sept 2026.
+Martinesque is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Postkantine, Basel on Sat, 26 Sept 2026.
 
 Martinesque is a house and techno artist based in Switzerland, tracked on soundcheck, with 14 sets logged across Basel and Zurich. Often billed alongside Aline (CH), Ben Kaczor and Christopher Ledger. Next up: Postkantine, Basel on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Martinesque is a house and techno artist based in Switzerland, tracked on soundc
 
 Aline (CH), Ben Kaczor, Christopher Ledger
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/martinesque-ch/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martinesque-ch/)*

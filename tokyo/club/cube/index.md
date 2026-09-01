@@ -1,6 +1,6 @@
 # Cube
 
-Cube is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Perfect Education【HARDCORE / BREAKCORE / INDUSTRIAL】" on Sat, 5 Sept 2026.
+Cube is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Perfect Education【HARDCORE / BREAKCORE / INDUSTRIAL】" on Sat, 5 Sept 2026.
 
 Cube is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including DOLPHIN, Miyuki Omura and Reverse16. Browse upcoming dates, start times and who's playing. 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo.
 
@@ -14,4 +14,4 @@ Cube is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line
 
 3-4-11 B1 Chuoiikurabil, Azabudai, Minato-ku, Tokyo, Tokyo
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cube/)*

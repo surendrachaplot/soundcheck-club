@@ -1,8 +1,8 @@
 # Julian James
 
-Julian James is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Julian James is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Julian James is a club and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Terry Golden, Jono Stephenson and Gareden. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Julian James is a house and club artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Andrew Rayel, Black Box and DONT BLINK. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Julian James is a club and house artist based in United Kingdom, tracked on soun
 
 ## Shares bills with
 
-Terry Golden, Jono Stephenson, Gareden
+Andrew Rayel, Black Box, DONT BLINK
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/julianjames/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianjames/)*

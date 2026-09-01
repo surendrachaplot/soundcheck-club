@@ -1,6 +1,6 @@
 # styx
 
-styx is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
+styx is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
 
 styx is a house and minimal artist based in Romania, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Berlin and Bucharest and 5 more. Often billed alongside Rares Gherman, Alex Sharp and Alma Linda. Next up: Culture Box, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ styx is a house and minimal artist based in Romania, tracked on soundcheck, with
 
 Rares Gherman, Alex Sharp, Alma Linda
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/styx/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/styx/)*

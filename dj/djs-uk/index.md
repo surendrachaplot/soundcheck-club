@@ -1,6 +1,6 @@
 # DJ S (UK)
 
-DJ S (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Clock Factory, Bristol on Fri, 11 Sept 2026.
+DJ S (UK) is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Clock Factory, Bristol on Fri, 11 Sept 2026.
 
 DJ S (UK) is a house and tech house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Bangkok and Belfast and 27 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: The Clock Factory, Bristol on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ DJ S (UK) is a house and tech house artist tracked on soundcheck, with 166 sets 
 
 Shenin Amara, Jerome Six, JAYDAA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*

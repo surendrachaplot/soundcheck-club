@@ -1,6 +1,6 @@
 # Fiin
 
-Fiin is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Fiin is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Fiin is a house and deep house artist tracked on soundcheck, with 14 sets logged across Miami. Often billed alongside Max Stern, Nii Tei and ALEJO (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Fiin is a house and deep house artist tracked on soundcheck, with 14 sets logged
 
 Max Stern, Nii Tei, ALEJO (US)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fiin/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fiin/)*

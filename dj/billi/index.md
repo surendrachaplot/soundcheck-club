@@ -1,13 +1,14 @@
 # Billi
 
-Billi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Lisbon on Sat, 26 Sept 2026.
+Billi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 25 Sept 2026.
 
-Billi is a house and techno artist tracked on soundcheck, with 16 sets logged across Lisbon. Often billed alongside Pitcho, FRESKO and Francisca Urbano. Next up: TBA, Lisbon on Sat 26 Sept.
+Billi is a house and techno artist tracked on soundcheck, with 17 sets logged across Barcelona and Lisbon. Often billed alongside Pitcho, FRESKO and Francisca Urbano. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sat, 26 Sept 2026 | TBA | Lisbon |
 | Sat, 17 Oct 2026 | Collect LX Factory | Lisbon |
 
@@ -26,4 +27,4 @@ Billi is a house and techno artist tracked on soundcheck, with 16 sets logged ac
 
 Pitcho, FRESKO, Francisca Urbano
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/billi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billi/)*

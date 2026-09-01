@@ -1,6 +1,6 @@
 # Initials
 
-Initials is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Toekomstmuziek, Amsterdam on Fri, 11 Sept 2026.
+Initials is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Toekomstmuziek, Amsterdam on Fri, 11 Sept 2026.
 
 Initials is a house and minimal artist based in Croatia, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Karmon and Vanell. Next up: Toekomstmuziek, Amsterdam on Fri 11 Sept.
 
@@ -14,4 +14,4 @@ Initials is a house and minimal artist based in Croatia, tracked on soundcheck, 
 
 Karmon, Vanell
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/initials/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/initials/)*

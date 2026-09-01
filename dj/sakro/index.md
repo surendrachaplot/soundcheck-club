@@ -1,6 +1,6 @@
 # Sakro
 
-Sakro is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - 93 BEER TAP, Mexico City on Sat, 26 Sept 2026.
+Sakro is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - 93 BEER TAP, Mexico City on Sat, 26 Sept 2026.
 
 Sakro is a house and minimal artist based in Mexico, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 9 more. Often billed alongside Mejia, Miguel Puente and Ray Okpara. Next up: TBA - 93 BEER TAP, Mexicocity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sakro is a house and minimal artist based in Mexico, tracked on soundcheck, with
 
 Mejia, Miguel Puente, Ray Okpara
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sakro/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakro/)*

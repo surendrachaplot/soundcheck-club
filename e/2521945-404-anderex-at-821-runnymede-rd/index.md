@@ -1,6 +1,6 @@
 # 404: Anderex at 821 Runnymede Rd
 
-404: Anderex at 821 Runnymede Rd on Sat 3 Oct, Toronto. 3 acts on the bill: KILL 9 1, Maul (2) and R4TS. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+404: Anderex at 821 Runnymede Rd on Sat 3 Oct, Toronto. 4 acts on the bill: KAYN, KILL 9 1, Maul (2) and R4TS. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- KAYN
 - KILL 9 1
 - Maul (2)
 - R4TS

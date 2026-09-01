@@ -1,6 +1,6 @@
 # Airaboi
 
-Airaboi is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Giri, Berlin on Wed, 2 Sept 2026.
+Airaboi is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Giri, Berlin on Wed, 2 Sept 2026.
 
 Airaboi is an experimental and ambient artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Luca Elsi, Manuel Carbone and ZFK (1). Next up: Giri, Berlin on Wed 2 Sept.
 
@@ -22,4 +22,4 @@ Airaboi is an experimental and ambient artist tracked on soundcheck, with 6 sets
 
 Luca Elsi, Manuel Carbone, ZFK (1)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/airaboi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/airaboi/)*

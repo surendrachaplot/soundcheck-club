@@ -1,6 +1,6 @@
 # Jay Bee
 
-Jay Bee is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Jay Bee is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 Jay Bee is a drum & bass and house artist tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 2 more. Often billed alongside A.M.C., Basstripper and Bryan Gee. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Jay Bee is a drum & bass and house artist tracked on soundcheck, with 10 sets lo
 
 A.M.C., Basstripper, Bryan Gee
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaybee/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaybee/)*

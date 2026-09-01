@@ -1,6 +1,6 @@
 # Operaen
 
-Operaen is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Kraner X Education Development Tanzania: Støttefest for voldsramte kvinder" on Sat, 24 Oct 2026.
+Operaen is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Kraner X Education Development Tanzania: Støttefest for voldsramte kvinder" on Sat, 24 Oct 2026.
 
 Operaen is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Afskum, HEX ELECTRONIX and steamboi. Browse upcoming dates, start times and who's playing. Pusher Street, Christiania.
 
@@ -14,4 +14,4 @@ Operaen is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, w
 
 Pusher Street, Christiania, Copenhagen
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/operaen/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/operaen/)*

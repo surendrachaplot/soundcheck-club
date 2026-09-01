@@ -1,8 +1,8 @@
 # El.Bo
 
-El.Bo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Two Tribes CAMPFIRE, London on Fri, 4 Sept 2026.
+El.Bo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 4 Sept 2026.
 
-El.Bo is a house and techno artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside Sands Spheric and Tees. Next up: Two Tribes CAMPFIRE, London on Fri 4 Sept.
+El.Bo is a techno and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside D1SND, Sands Spheric and Shemi SZN. Next up: Two Tribes CAMPFIRE, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,8 +10,12 @@ El.Bo is a house and techno artist based in United Kingdom, tracked on soundchec
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Two Tribes CAMPFIRE | London |
 
+## Recently played
+
+- Aaja Basement, London — Fri, 21 Aug 2026
+
 ## Shares bills with
 
-Sands Spheric, Tees
+D1SND, Sands Spheric, Shemi SZN
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/el.bo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/el.bo/)*

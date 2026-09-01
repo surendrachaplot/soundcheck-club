@@ -1,6 +1,6 @@
 # Stamina MC
 
-Stamina MC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
+Stamina MC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
 
 Stamina MC is a drum & bass and jungle artist tracked on soundcheck, with 31 sets logged across Bali, Birmingham, Brighton and Bristol and 9 more. Often billed alongside DJ Marky, Shy FX and Bryan Gee. Next up: Outernet Live, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Stamina MC is a drum & bass and jungle artist tracked on soundcheck, with 31 set
 
 DJ Marky, Shy FX, Bryan Gee
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/staminamc/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/staminamc/)*

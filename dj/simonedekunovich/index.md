@@ -1,6 +1,6 @@
 # Simone de Kunovich
 
-Simone de Kunovich is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The White Hotel, Manchester on Fri, 4 Sept 2026.
+Simone de Kunovich is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The White Hotel, Manchester on Fri, 4 Sept 2026.
 
 Simone de Kunovich is a house and techno artist tracked on soundcheck, with 147 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside PARAMIDA, Pascal Moscheni and Dante (H501). Next up: The White Hotel, Manchester on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Simone de Kunovich is a house and techno artist tracked on soundcheck, with 147 
 
 PARAMIDA, Pascal Moscheni, Dante (H501)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonedekunovich/)*

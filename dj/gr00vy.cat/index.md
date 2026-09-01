@@ -1,6 +1,6 @@
 # gr00vy.cat
 
-gr00vy.cat is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Ramona, Manchester on Sat, 5 Sept 2026.
+gr00vy.cat is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ramona, Manchester on Sat, 5 Sept 2026.
 
 gr00vy.cat is a house and garage artist tracked on soundcheck, with 18 sets logged across Manchester. Often billed alongside Jumbled, krioso and Macy Lancaster. Next up: Ramona, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ gr00vy.cat is a house and garage artist tracked on soundcheck, with 18 sets logg
 
 Jumbled, krioso, Macy Lancaster
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gr00vy.cat/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gr00vy.cat/)*

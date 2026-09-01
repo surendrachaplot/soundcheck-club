@@ -1,6 +1,6 @@
 # 142b Lounge
 
-142b Lounge is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "A$AP ROCKY AFTERPARTY" on Fri, 4 Sept 2026.
+142b Lounge is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "A$AP ROCKY AFTERPARTY" on Fri, 4 Sept 2026.
 
 142b Lounge is a music venue in Glasgow listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
 
@@ -19,4 +19,4 @@
 
 142b St Vincent St, Glasgow G2 5LA, Glasgow
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*

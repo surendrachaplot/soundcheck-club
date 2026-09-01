@@ -1,6 +1,6 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Woodshop with MANGUMAMI + ellen.j - Dead Letter No.9" on Thu, 3 Sept 2026.
+Dead Letter No. 9 is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Woodshop with MANGUMAMI + ellen.j - Dead Letter No.9" on Thu, 3 Sept 2026.
 
 Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including Amber Valentine, Baby Prince, Birdee and Borbón and 2 more. Browse upcoming dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
@@ -23,4 +23,4 @@ Dead Letter No. 9 is a music venue in Newyorkcity listed on soundcheck. 16 upcom
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

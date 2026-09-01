@@ -1,6 +1,6 @@
 # JANE RYSE
 
-JANE RYSE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
+JANE RYSE is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
 
 JANE RYSE is a house and afro house artist tracked on soundcheck, with 51 sets logged across Antwerp, Basel, Belgrade and Berlin and 10 more. Often billed alongside Hyenah, Walter Griot and Ukãi Ndame. Next up: SAGE, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ JANE RYSE is a house and afro house artist tracked on soundcheck, with 51 sets l
 
 Hyenah, Walter Griot, Ukãi Ndame
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/janeryse/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janeryse/)*

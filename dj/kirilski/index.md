@@ -1,6 +1,6 @@
 # Kirilski
 
-Kirilski is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Loop51, Amsterdam on Fri, 4 Sept 2026.
+Kirilski is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Loop51, Amsterdam on Fri, 4 Sept 2026.
 
 Kirilski is a house and techno artist based in Ukraine, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, London and Miami and 1 more. Often billed alongside Pura Pachanga, Snooz and Emma Champagne Queen. Next up: Loop51, Amsterdam on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Kirilski is a house and techno artist based in Ukraine, tracked on soundcheck, w
 
 Pura Pachanga, Snooz, Emma Champagne Queen
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilski/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilski/)*

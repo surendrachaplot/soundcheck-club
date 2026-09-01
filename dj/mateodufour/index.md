@@ -1,13 +1,14 @@
 # Mateo Dufour
 
-Mateo Dufour is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
+Mateo Dufour is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Grand Hall, La Plata, Buenos Aires on Sat, 26 Sept 2026.
 
-Mateo Dufour is a house and tech house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 12 more. Often billed alongside ANOTR, Sven Vath and Alci. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
+Mateo Dufour is a house and tech house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 12 more. Often billed alongside ANOTR, Sven Vath and Alci. Next up: TBA - Grand Hall, La Plata, Buenosaires on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | TBA - Grand Hall, La Plata | Buenos Aires |
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 
@@ -26,4 +27,4 @@ Mateo Dufour is a house and tech house artist tracked on soundcheck, with 77 set
 
 ANOTR, Sven Vath, Alci
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*

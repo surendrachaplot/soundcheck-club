@@ -1,6 +1,6 @@
 # Gush
 
-Gush is a Club and Amapiano artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kildevæld Kulturcenter, Copenhagen on Thu, 24 Sept 2026.
+Gush is a Club and Amapiano artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Kildevæld Kulturcenter, Copenhagen on Thu, 24 Sept 2026.
 
 Gush is a club and amapiano artist tracked on soundcheck, with 4 sets logged across Bucharest, Copenhagen, Dublin and Washingtondc. Often billed alongside Ayesha, Cait and Ex Continent. Next up: Kildevæld Kulturcenter, Copenhagen on Thu 24 Sept.
 
@@ -20,4 +20,4 @@ Gush is a club and amapiano artist tracked on soundcheck, with 4 sets logged acr
 
 Ayesha, Cait, Ex Continent
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gush/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gush/)*

@@ -1,6 +1,6 @@
 # Ludmila Di Pasquale
 
-Ludmila Di Pasquale is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 25 Sept 2026.
+Ludmila Di Pasquale is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 25 Sept 2026.
 
 Ludmila Di Pasquale is a house and techno artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside Bermani, Lucas Escarioni and Ana Hagen. Next up: Crobar - Buenos Aires, Buenosaires on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Ludmila Di Pasquale is a house and techno artist tracked on soundcheck, with 50 
 
 Bermani, Lucas Escarioni, Ana Hagen
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmiladipasquale/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmiladipasquale/)*

@@ -1,6 +1,6 @@
 # Gil Tamazyan
 
-Gil Tamazyan is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Los Angeles on Sun, 13 Sept 2026.
+Gil Tamazyan is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Los Angeles on Sun, 13 Sept 2026.
 
 Gil Tamazyan is a deep house and house artist tracked on soundcheck, with 5 sets logged across Losangeles and Sydney. Often billed alongside Beggar, DJ Shroomie and Glo Phase. Next up: TBA, Losangeles on Sun 13 Sept.
 
@@ -21,4 +21,4 @@ Gil Tamazyan is a deep house and house artist tracked on soundcheck, with 5 sets
 
 Beggar, DJ Shroomie, Glo Phase
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/giltamazyan/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giltamazyan/)*

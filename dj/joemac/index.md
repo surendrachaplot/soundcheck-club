@@ -1,6 +1,6 @@
 # Joe Mac
 
-Joe Mac is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Rebellion, Manchester on Fri, 23 Oct 2026.
+Joe Mac is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rebellion, Manchester on Fri, 23 Oct 2026.
 
 Joe Mac is a drum & bass and garage artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Bristol, Liverpool and Manchester. Often billed alongside Amber Rose, Miggs and Arundel. Next up: Rebellion, Manchester on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Joe Mac is a drum & bass and garage artist based in United Kingdom, tracked on s
 
 Amber Rose, Miggs, Arundel
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/joemac/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joemac/)*

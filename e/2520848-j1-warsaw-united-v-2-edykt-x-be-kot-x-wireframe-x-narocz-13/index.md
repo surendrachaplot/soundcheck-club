@@ -1,6 +1,6 @@
 # J1 - Warsaw United v.2 EDYKT x Bełkot x Wireframe x Narocz 13 at Jasna 1
 
-J1 - Warsaw United v.2 EDYKT x Bełkot x Wireframe x Narocz 13 at Jasna 1 on Sat 12 Sept, Warsaw. 12 acts on the bill: Dedenia, Doga, faron and hawwwa and 8 more. Preview the line-up and save it on soundcheck.
+J1 - Warsaw United v.2 EDYKT x Bełkot x Wireframe x Narocz 13 at Jasna 1 on Sat 12 Sept, Warsaw. 15 acts on the bill: Dedenia, Doga, faron and gummi and 11 more. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,12 +13,15 @@ J1 - Warsaw United v.2 EDYKT x Bełkot x Wireframe x Narocz 13 at Jasna 1 on Sat
 - Dedenia
 - Doga
 - faron
+- gummi
 - hawwwa
 - ILLEGAL
+- illgal
 - JKO
 - KANCIAK
 - m0nagenda
 - Mohji
+- PayoYayo
 - Viennaus
 - Yaris
 - Zero_null

@@ -1,6 +1,6 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Yellow House 5 September" on Fri, 4 Sept 2026.
+Yellow House is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Yellow House 5 September" on Fri, 4 Sept 2026.
 
 Yellow House is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Ammé, Bambi-S, Be Lion and Ben Horton and 2 more. Browse upcoming dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
@@ -20,4 +20,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 7 upcoming nigh
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

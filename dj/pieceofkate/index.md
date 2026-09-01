@@ -1,6 +1,6 @@
 # Piece of Kate
 
-Piece of Kate is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Piece of Kate is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Piece of Kate is an electronic artist based in Greece, tracked on soundcheck, with 25 sets logged across Athens. Often billed alongside Yorz, IMPVLSIV and SuperCub90. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Piece of Kate is an electronic artist based in Greece, tracked on soundcheck, wi
 
 Yorz, IMPVLSIV, SuperCub90
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pieceofkate/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pieceofkate/)*

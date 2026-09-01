@@ -1,18 +1,18 @@
 # Maybe Laura
 
-Maybe Laura is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Sauna Social Club, London on Mon, 31 Aug 2026.
+Maybe Laura is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Big Penny Social, London on Sat, 12 Sept 2026.
 
-Maybe Laura is a house and techno artist tracked on soundcheck, with 41 sets logged across Leeds, London and Newyorkcity. Often billed alongside Remi Mazet, Alien Communications and Avsluta. Next up: Sauna Social Club, London on Mon 31 Aug.
+Maybe Laura is a house and techno artist tracked on soundcheck, with 41 sets logged across Leeds, London and Newyorkcity. Often billed alongside Remi Mazet, Alien Communications and Avsluta. Next up: Big Penny Social, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 31 Aug 2026 | Sauna Social Club | London |
 | Sat, 12 Sept 2026 | Big Penny Social | London |
 
 ## Recently played
 
+- Sauna Social Club, London — Mon, 31 Aug 2026
 - The Cause, London — Sat, 6 Jun 2026
 - NUMBER 90 LONDON, London — Sat, 23 May 2026
 - MKII, London — Sat, 9 May 2026
@@ -20,10 +20,9 @@ Maybe Laura is a house and techno artist tracked on soundcheck, with 41 sets log
 - 17 Little Portland Street, London — Sat, 25 Oct 2025
 - Last Arch, London — Sat, 11 Oct 2025
 - Ministry Of Sound, London — Sat, 6 Sept 2025
-- Night Tales, London — Sat, 16 Aug 2025
 
 ## Shares bills with
 
 Remi Mazet, Alien Communications, Avsluta
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/maybelaura/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maybelaura/)*

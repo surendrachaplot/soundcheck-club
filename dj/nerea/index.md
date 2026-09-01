@@ -1,6 +1,6 @@
 # Ne/Re/A
 
-Ne/Re/A is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Moog Club, Barcelona on Wed, 9 Sept 2026.
+Ne/Re/A is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Moog Club, Barcelona on Wed, 9 Sept 2026.
 
 Ne/Re/A is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Boston and 6 more. Often billed alongside Clarisa Kimskii, Juana and Auspex. Next up: Moog Club, Barcelona on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ Ne/Re/A is a techno and house artist tracked on soundcheck, with 91 sets logged 
 
 Clarisa Kimskii, Juana, Auspex
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nerea/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nerea/)*

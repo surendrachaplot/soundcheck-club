@@ -1,13 +1,14 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Sub Club Melbourne, Melbourne on Sat, 26 Sept 2026.
+Spekki Webu is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Chinese Laundry, Sydney on Sat, 19 Sept 2026.
 
-Spekki Webu is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Auckland and Bangkok and 42 more. Often billed alongside OCCA, Mama Snake and Feral. Next up: Sub Club Melbourne, Melbourne on Sat 26 Sept.
+Spekki Webu is a techno and house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Athens, Auckland and Bangkok and 42 more. Often billed alongside OCCA, Mama Snake and Feral. Next up: Chinese Laundry, Sydney on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Chinese Laundry | Sydney |
 | Sat, 26 Sept 2026 | Sub Club Melbourne | Melbourne |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
@@ -26,4 +27,4 @@ Spekki Webu is a techno and house artist tracked on soundcheck, with 195 sets lo
 
 OCCA, Mama Snake, Feral
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

@@ -1,8 +1,8 @@
 # DJILF
 
-DJILF is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Marmorbar, Berlin on Sat, 12 Sept 2026.
+DJILF is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Marmorbar, Berlin on Sat, 12 Sept 2026.
 
-DJILF is a techno and trance artist based in Poland, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Nastya Muravyova, KINTEL and LADY $UKA. Next up: Marmorbar, Berlin on Sat 12 Sept.
+DJILF is a techno and trance artist based in Poland, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Dj handbag, ENNIO and KINTEL. Next up: Marmorbar, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ DJILF is a techno and trance artist based in Poland, tracked on soundcheck, with
 
 ## Shares bills with
 
-Nastya Muravyova, KINTEL, LADY $UKA
+Dj handbag, ENNIO, KINTEL
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djilf/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djilf/)*

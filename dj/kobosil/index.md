@@ -1,6 +1,6 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Kobosil is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 Kobosil is a techno and house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -35,4 +35,4 @@ Kobosil is a techno and house artist tracked on soundcheck, with 226 sets logged
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

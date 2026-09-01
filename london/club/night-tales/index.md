@@ -1,6 +1,6 @@
 # Night Tales
 
-Night Tales is a music venue in London with 28 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "DISCO TEHRAN IN LONDON" on Fri, 4 Sept 2026.
+Night Tales is a music venue in London with 28 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "DISCO TEHRAN IN LONDON" on Fri, 4 Sept 2026.
 
 Night Tales is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including 90 (1), Paula Tape, Alexia Glensy and Alex Neri and 2 more. Browse upcoming dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
@@ -23,4 +23,4 @@ Night Tales is a music venue in London listed on soundcheck. 28 upcoming nights,
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

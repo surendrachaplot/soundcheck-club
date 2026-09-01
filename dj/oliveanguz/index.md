@@ -1,6 +1,6 @@
 # Olive Anguz
 
-Olive Anguz is a Trance and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Boomerang Beach, The Hague on Sat, 5 Sept 2026.
+Olive Anguz is a Trance and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Boomerang Beach, The Hague on Sat, 5 Sept 2026.
 
 Olive Anguz is a trance and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benwal, Mika Heggemann and NewTone. Next up: Boomerang Beach, Thehague on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Olive Anguz is a trance and house artist based in Netherlands, tracked on soundc
 
 Benwal, Mika Heggemann, NewTone
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*

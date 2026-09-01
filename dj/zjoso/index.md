@@ -1,6 +1,6 @@
 # Zjoso
 
-Zjoso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Evelyn Hotel, Melbourne on Fri, 4 Sept 2026.
+Zjoso is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Evelyn Hotel, Melbourne on Fri, 4 Sept 2026.
 
 Zjoso is a house and deep house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Bangkok, Berlin and London and 6 more. Often billed alongside Zepherin Saint, DJ JNETT and Adriana (1). Next up: The Evelyn Hotel, Melbourne on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Zjoso is a house and deep house artist tracked on soundcheck, with 91 sets logge
 
 Zepherin Saint, DJ JNETT, Adriana (1)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/zjoso/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zjoso/)*

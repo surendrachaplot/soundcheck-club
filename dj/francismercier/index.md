@@ -1,14 +1,13 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Hï Ibiza, Ibiza on Mon, 31 Aug 2026.
+Francis Mercier is a Afro House and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - The Port Lands, Toronto on Sun, 6 Sept 2026.
 
-Francis Mercier is an afro house and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: Hï Ibiza, Ibiza on Mon 31 Aug.
+Francis Mercier is an afro house and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: TBA - The Port Lands, Toronto on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 31 Aug 2026 | Hï Ibiza | Ibiza |
 | Sun, 6 Sept 2026 | TBA - The Port Lands | Toronto |
 | Sun, 6 Sept 2026 | TBA - The Port Lands | Toronto |
 | Mon, 7 Sept 2026 | Hï Ibiza | Ibiza |
@@ -23,6 +22,7 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Mon, 31 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 24 Aug 2026
 - Santanna Mykonos, Mykonos — Wed, 19 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 17 Aug 2026
@@ -30,10 +30,9 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 - Santanna Mykonos, Mykonos — Sat, 8 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 3 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 27 Jul 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

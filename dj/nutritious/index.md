@@ -1,6 +1,6 @@
 # Nutritious
 
-Nutritious is a Deep House and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Danger Danger, New York City on Sat, 19 Sept 2026.
+Nutritious is a Deep House and Downtempo artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Danger Danger, New York City on Sat, 19 Sept 2026.
 
 Nutritious is a deep house and downtempo artist tracked on soundcheck, with 8 sets logged across Miami, Nashville, Newyorkcity and Washingtondc. Often billed alongside DJ Mark Brickman, Jask and Jay-J. Next up: Danger Danger, Newyorkcity on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Nutritious is a deep house and downtempo artist tracked on soundcheck, with 8 se
 
 DJ Mark Brickman, Jask, Jay-J
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nutritious/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nutritious/)*

@@ -1,6 +1,6 @@
 # Luttrell
 
-Luttrell is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Foro Basement, Mexico City on Fri, 30 Oct 2026.
+Luttrell is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Foro Basement, Mexico City on Fri, 30 Oct 2026.
 
 Luttrell is a deep house and house artist tracked on soundcheck, with 47 sets logged across Auckland, Austin, Chicago and Denver and 16 more. Often billed alongside Hana, Jody Wisternoff and CRi. Next up: Foro Basement, Mexicocity on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Luttrell is a deep house and house artist tracked on soundcheck, with 47 sets lo
 
 Hana, Jody Wisternoff, CRi
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luttrell/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luttrell/)*

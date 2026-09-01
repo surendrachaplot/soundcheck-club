@@ -1,6 +1,6 @@
 # Prakash
 
-Prakash is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Switch Bar, Barcelona on Fri, 4 Sept 2026.
+Prakash is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Switch Bar, Barcelona on Fri, 4 Sept 2026.
 
 Prakash is a house artist tracked on soundcheck, with 2 sets logged across Barcelona and Istanbul. Often billed alongside Ezgi and Reformed Society. Next up: Switch Bar, Barcelona on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ Prakash is a house artist tracked on soundcheck, with 2 sets logged across Barce
 
 Ezgi, Reformed Society
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/prakash-es/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prakash-es/)*

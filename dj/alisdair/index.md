@@ -1,13 +1,14 @@
 # Alisdair
 
-Alisdair is a Minimal and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
+Alisdair is a Electro and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 17 Oct 2026.
 
-Alisdair is a minimal and electro artist tracked on soundcheck, with 19 sets logged across Bristol, Leeds, London and Newcastle. Often billed alongside LEN., Aris (Ldn) and Chaddy. Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
+Alisdair is an electro and minimal artist tracked on soundcheck, with 20 sets logged across Bristol, Leeds, London and Newcastle. Often billed alongside LEN., Aris (Ldn) and Chaddy. Next up: Ouseburn Garden, Newcastle on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Ouseburn Garden | Newcastle |
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |
 | Sun, 22 Nov 2026 | Starlane Pizza Bar | London |
 
@@ -26,4 +27,4 @@ Alisdair is a minimal and electro artist tracked on soundcheck, with 19 sets log
 
 LEN., Aris (Ldn), Chaddy
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alisdair/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alisdair/)*

@@ -1,10 +1,10 @@
 # Lady Gaga Tribute by Carrie Fern Live at Basing House
 
-Lady Gaga Tribute by Carrie Fern Live at Basing House on Sun 30 Aug, London. Pop. Preview the line-up and save it on soundcheck.
+Lady Gaga Tribute by Carrie Fern Live at Basing House on Sun 29 Nov, London. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 30 Aug 2026 |
+| Date | Sun, 29 Nov 2026 |
 | Venue | Basing House |
 | City | London |
 

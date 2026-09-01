@@ -1,6 +1,6 @@
 # Siavash
 
-Siavash is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at NWHR, Montreal on Fri, 4 Sept 2026.
+Siavash is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at NWHR, Montreal on Fri, 4 Sept 2026.
 
 Siavash is a house and deep house artist based in Canada, tracked on soundcheck, with 37 sets logged across Amsterdam, Montreal, Toronto and Vancouver. Often billed alongside Tiago de Renor, Made By Pete and Perspectiv. Next up: NWHR, Montreal on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Siavash is a house and deep house artist based in Canada, tracked on soundcheck,
 
 Tiago de Renor, Made By Pete, Perspectiv
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/siavash/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siavash/)*

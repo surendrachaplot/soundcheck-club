@@ -1,6 +1,6 @@
 # Daddy Problems
 
-Daddy Problems is a Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Timebar, Stockholm on Fri, 30 Oct 2026.
+Daddy Problems is a Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Timebar, Stockholm on Fri, 30 Oct 2026.
 
 Daddy Problems is a garage artist based in Sweden, tracked on soundcheck, with 1 set logged across Stockholm. Often billed alongside Marble. Next up: Timebar, Stockholm on Fri 30 Oct.
 
@@ -14,4 +14,4 @@ Daddy Problems is a garage artist based in Sweden, tracked on soundcheck, with 1
 
 Marble
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daddyproblems/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daddyproblems/)*

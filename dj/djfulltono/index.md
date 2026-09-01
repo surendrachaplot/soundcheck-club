@@ -1,6 +1,6 @@
 # D.J.Fulltono
 
-D.J.Fulltono is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at West Harlem, Kyoto on Sat, 5 Sept 2026.
+D.J.Fulltono is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at West Harlem, Kyoto on Sat, 5 Sept 2026.
 
 D.J.Fulltono is a techno and footwork artist based in Japan, tracked on soundcheck, with 48 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside ntank, Ryoma Sasaki and KA4U. Next up: West Harlem, Kyoto on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ D.J.Fulltono is a techno and footwork artist based in Japan, tracked on soundche
 
 ntank, Ryoma Sasaki, KA4U
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djfulltono/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfulltono/)*

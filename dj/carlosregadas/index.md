@@ -1,6 +1,6 @@
 # Carlos Regadas
 
-Carlos Regadas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at P4 na Praia, Porto on Sun, 13 Sept 2026.
+Carlos Regadas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at P4 na Praia, Porto on Sun, 13 Sept 2026.
 
 Carlos Regadas is a house and tech house artist based in Portugal, tracked on soundcheck, with 37 sets logged across Barcelona, Lisbon and Porto. Often billed alongside Pedro Tabuada, DJ Nox and 9T2. Next up: P4 na Praia, Porto on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Carlos Regadas is a house and tech house artist based in Portugal, tracked on so
 
 Pedro Tabuada, DJ Nox, 9T2
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosregadas/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosregadas/)*

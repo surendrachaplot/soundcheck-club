@@ -1,6 +1,6 @@
 # Ashlea Milinkovic
 
-Ashlea Milinkovic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat, 19 Sept 2026.
+Ashlea Milinkovic is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat, 19 Sept 2026.
 
 Ashlea Milinkovic is a house and disco artist tracked on soundcheck, with 26 sets logged across Sydney. Often billed alongside BRAD WATTS, SOHAIL and Lucy B. Next up: TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ashlea Milinkovic is a house and disco artist tracked on soundcheck, with 26 set
 
 BRAD WATTS, SOHAIL, Lucy B
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleamilinkovic/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleamilinkovic/)*

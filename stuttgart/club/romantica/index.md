@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "MÄRCHENSTUNDE am DIENSTAG mit MØGLI & SMOKIE" on Tue, 1 Sept 2026.
+Romantica is a music venue in Stuttgart with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "MÄRCHENSTUNDE am DIENSTAG mit MØGLI & SMOKIE" on Tue, 1 Sept 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 5 upcoming nights, with line-ups including Jochen Junker and Marco Bastone. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -18,4 +18,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 5 upcoming nights,
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

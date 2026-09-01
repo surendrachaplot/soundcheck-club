@@ -1,6 +1,6 @@
 # Solaar
 
-Solaar is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kollage Kollectiv, Berlin on Sat, 12 Sept 2026.
+Solaar is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Kollage Kollectiv, Berlin on Sat, 12 Sept 2026.
 
 Solaar is a minimal and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Khmgnff, 01100110 and Thoma'. Next up: Kollage Kollectiv, Berlin on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Solaar is a minimal and house artist based in Germany, tracked on soundcheck, wi
 
 Khmgnff, 01100110, Thoma'
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/solaar/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solaar/)*

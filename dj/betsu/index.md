@@ -1,6 +1,6 @@
 # Betsu
 
-Betsu is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Betsu is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Betsu is a house artist tracked on soundcheck, with 10 sets logged across Athens. Often billed alongside Marsha, Bakerman and Dub Relief Soundsystem. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Betsu is a house artist tracked on soundcheck, with 10 sets logged across Athens
 
 Marsha, Bakerman, Dub Relief Soundsystem
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/betsu/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betsu/)*

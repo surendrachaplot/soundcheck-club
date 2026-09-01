@@ -1,6 +1,6 @@
 # Chee Shimizu
 
-Chee Shimizu is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Nowadays, New York City on Sat, 12 Sept 2026.
+Chee Shimizu is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Nowadays, New York City on Sat, 12 Sept 2026.
 
 Chee Shimizu is a house and balearic artist based in Japan, tracked on soundcheck, with 33 sets logged across Bali, Losangeles, Melbourne and Newyorkcity and 2 more. Often billed alongside AKIRAM EN, Justin Carter and Eamon Harkin. Next up: Nowadays, Newyorkcity on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Chee Shimizu is a house and balearic artist based in Japan, tracked on soundchec
 
 AKIRAM EN, Justin Carter, Eamon Harkin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeshimizu/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheeshimizu/)*

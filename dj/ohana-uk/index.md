@@ -1,6 +1,6 @@
 # Ohana
 
-Ohana is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Cavo Rooftop, Lisbon on Fri, 18 Sept 2026.
+Ohana is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cavo Rooftop, Lisbon on Fri, 18 Sept 2026.
 
 Ohana is a deep house and house artist tracked on soundcheck, with 10 sets logged across Bristol, Lisbon and London. Often billed alongside Dani Whylie, Lockhart and R.Nev. Next up: Cavo Rooftop, Lisbon on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ohana is a deep house and house artist tracked on soundcheck, with 10 sets logge
 
 Dani Whylie, Lockhart, R.Nev
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ohana-uk/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohana-uk/)*

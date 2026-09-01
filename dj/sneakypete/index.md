@@ -1,6 +1,6 @@
 # Sneaky Pete
 
-Sneaky Pete is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Artheater, Cologne on Sat, 19 Sept 2026.
+Sneaky Pete is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Artheater, Cologne on Sat, 19 Sept 2026.
 
 Sneaky Pete is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Cologne and Detroit. Often billed alongside HUELLE, Prossowski and RCGT. Next up: Artheater, Cologne on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Sneaky Pete is a techno and house artist based in United States of America, trac
 
 HUELLE, Prossowski, RCGT
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sneakypete/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sneakypete/)*

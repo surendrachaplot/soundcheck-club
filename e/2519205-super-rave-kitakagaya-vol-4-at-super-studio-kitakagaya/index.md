@@ -1,6 +1,6 @@
 # SUPER RAVE KITAKAGAYA vol.4 at Super Studio Kitakagaya
 
-SUPER RAVE KITAKAGAYA vol.4 at Super Studio Kitakagaya on Sat 19 Sept, Osaka. 3 acts on the bill: CAPTAIN HOOK Jr., Chiaki Uehira and WÖNDER GIRL. Techno and House. Preview the line-up and save it on soundcheck.
+SUPER RAVE KITAKAGAYA vol.4 at Super Studio Kitakagaya on Sat 19 Sept, Osaka. 4 acts on the bill: CAPTAIN HOOK Jr., Chiaki Uehira, Loe (JP) and WÖNDER GIRL. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ SUPER RAVE KITAKAGAYA vol.4 at Super Studio Kitakagaya on Sat 19 Sept, Osaka. 3 
 
 - CAPTAIN HOOK Jr.
 - Chiaki Uehira
+- Loe (JP)
 - WÖNDER GIRL
 
 *Source: [soundcheck](https://soundcheck.club/e/2519205-super-rave-kitakagaya-vol-4-at-super-studio-kitakagaya/)*

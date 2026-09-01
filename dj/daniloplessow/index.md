@@ -1,6 +1,6 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at fabric, London on Sat, 5 Sept 2026.
+Danilo Plessow is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
 
 Danilo Plessow is a house and disco artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: fabric, London on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Danilo Plessow is a house and disco artist tracked on soundcheck, with 163 sets 
 
 Motor City Drum Ensemble, Hugo LX, Antal
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*

@@ -1,6 +1,6 @@
 # Therese Terror
 
-Therese Terror is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Celeste, Vienna on Fri, 4 Sept 2026.
+Therese Terror is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Celeste, Vienna on Fri, 4 Sept 2026.
 
 Therese Terror is a techno and electronica artist tracked on soundcheck, with 17 sets logged across Vienna. Often billed alongside AXT, Anni Herzer and Crazy Sonic. Next up: Celeste, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Therese Terror is a techno and electronica artist tracked on soundcheck, with 17
 
 AXT, Anni Herzer, Crazy Sonic
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/thereseterror/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thereseterror/)*

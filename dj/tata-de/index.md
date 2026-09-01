@@ -1,6 +1,6 @@
 # TATA (DE)
 
-TATA (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Renate, Berlin on Fri, 4 Sept 2026.
+TATA (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Renate, Berlin on Fri, 4 Sept 2026.
 
 TATA (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Hamburg and Munich and 2 more. Often billed alongside Sarica, Aaron Leviz and Oscar Faivre. Next up: Renate, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ TATA (DE) is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Sarica, Aaron Leviz, Oscar Faivre
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tata-de/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tata-de/)*

@@ -1,6 +1,6 @@
 # Caleb Jay
 
-Caleb Jay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Revolver Upstairs, Melbourne on Fri, 18 Sept 2026.
+Caleb Jay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 18 Sept 2026.
 
 Caleb Jay is a house and techno artist based in Australia, tracked on soundcheck, with 30 sets logged across Berlin, London and Melbourne. Often billed alongside JÄMO, HAUSWiFE and Tommy Craig. Next up: Revolver Upstairs, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Caleb Jay is a house and techno artist based in Australia, tracked on soundcheck
 
 JÄMO, HAUSWiFE, Tommy Craig
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjay/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjay/)*

@@ -1,6 +1,6 @@
 # Smolna x Bavno at Smolna
 
-Smolna x Bavno on Fri 11 Sept, Warsaw. 2 acts on the bill: Mazi and Tony Bellotti. Techno and House. Preview the line-up and save it on soundcheck.
+Smolna x Bavno on Fri 11 Sept, Warsaw. 3 acts on the bill: Mazi, Ricoo and Tony Bellotti. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Smolna x Bavno on Fri 11 Sept, Warsaw. 2 acts on the bill: Mazi and Tony Bellott
 ## Line-up
 
 - Mazi
+- Ricoo
 - Tony Bellotti
 
 *Source: [soundcheck](https://soundcheck.club/e/2491341-smolna-x-bavno-at-smolna/)*

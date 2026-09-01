@@ -1,6 +1,6 @@
 # Sigh.CLUB with Reptant (live) + Free Zing at Cadavra
 
-Sigh.CLUB with Reptant (live) + Free Zing at Cadavra on Fri 25 Sept, Madrid. 3 acts on the bill: Avo (ES), Free Zing and Reptant. Electronica. Preview the line-up and save it on soundcheck.
+Sigh.CLUB with Reptant (live) + Free Zing at Cadavra on Fri 25 Sept, Madrid. 4 acts on the bill: Avo (ES), Cesc (ES), Free Zing and Reptant. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Sigh.CLUB with Reptant (live) + Free Zing at Cadavra on Fri 25 Sept, Madrid. 3 a
 ## Line-up
 
 - Avo (ES)
+- Cesc (ES)
 - Free Zing
 - Reptant
 

@@ -1,6 +1,6 @@
 # Freud
 
-Freud is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Village Underground Lisboa, Lisbon on Fri, 4 Sept 2026.
+Freud is a Drum & Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 4 Sept 2026.
 
 Freud is a drum & bass and breakbeat artist tracked on soundcheck, with 4 sets logged across Brussels and Lisbon. Often billed alongside Xtanki, 404 Not Found and Angel D'lite. Next up: Village Underground Lisboa, Lisbon on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ Freud is a drum & bass and breakbeat artist tracked on soundcheck, with 4 sets l
 
 Xtanki, 404 Not Found, Angel D'lite
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/freud/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freud/)*

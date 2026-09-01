@@ -1,8 +1,8 @@
 # pips (US)
 
-pips (US) is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Banshee House, Denver on Sat, 5 Sept 2026.
+pips (US) is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Banshee House, Denver on Sat, 5 Sept 2026.
 
-pips (US) is a house and italo disco artist based in United States of America, tracked on soundcheck, with 1 set logged across Denver. Often billed alongside wngdu. Next up: The Banshee House, Denver on Sat 5 Sept.
+pips (US) is an italo disco and house artist based in United States of America, tracked on soundcheck, with 1 set logged across Denver. Often billed alongside wngdu. Next up: The Banshee House, Denver on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -14,4 +14,4 @@ pips (US) is a house and italo disco artist based in United States of America, t
 
 wngdu
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pips-usa/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pips-usa/)*

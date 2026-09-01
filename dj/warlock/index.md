@@ -1,6 +1,6 @@
 # Warlock
 
-Warlock is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at M.O.T, London on Sat, 12 Sept 2026.
+Warlock is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at M.O.T, London on Sat, 12 Sept 2026.
 
 Warlock is a jungle and breakbeat artist tracked on soundcheck, with 44 sets logged across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside Louise Plus One, Hughesee and Equinox (UK). Next up: M.O.T, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Warlock is a jungle and breakbeat artist tracked on soundcheck, with 44 sets log
 
 Louise Plus One, Hughesee, Equinox (UK)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/warlock/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warlock/)*

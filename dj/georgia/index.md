@@ -1,6 +1,6 @@
 # Georgia
 
-Georgia is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Jicoo - The Floating Bar, Tokyo on Sat, 5 Sept 2026.
+Georgia is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Jicoo - The Floating Bar, Tokyo on Sat, 5 Sept 2026.
 
 Georgia is a drum & bass and dubstep artist based in Indonesia, tracked on soundcheck, with 144 sets logged across Amsterdam, Bali, Barcelona and Berlin and 46 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Jicoo - The Floating Bar, Tokyo on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Georgia is a drum & bass and dubstep artist based in Indonesia, tracked on sound
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/georgia/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgia/)*

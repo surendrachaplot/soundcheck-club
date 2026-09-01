@@ -1,6 +1,6 @@
 # Steller
 
-Steller is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Elektricity, Detroit on Sat, 14 Nov 2026.
+Steller is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Elektricity, Detroit on Sat, 14 Nov 2026.
 
 Steller is a bass and dubstep artist tracked on soundcheck, with 7 sets logged across Austin, Boston, Detroit and Newyorkcity and 2 more. Often billed alongside Dom Dolla, Eli Brown and J. Worra. Next up: Elektricity, Detroit on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Steller is a bass and dubstep artist tracked on soundcheck, with 7 sets logged a
 
 Dom Dolla, Eli Brown, J. Worra
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/steller/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steller/)*

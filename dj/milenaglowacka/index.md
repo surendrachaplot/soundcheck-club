@@ -1,6 +1,6 @@
 # Milena Glowacka
 
-Milena Glowacka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jasna 1, Warsaw on Sat, 5 Sept 2026.
+Milena Glowacka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Jasna 1, Warsaw on Sat, 5 Sept 2026.
 
 Milena Glowacka is a techno and house artist based in Poland, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Krakow and London and 3 more. Often billed alongside Sept, AKOMPANIAMENT and ANNĒ. Next up: Jasna 1, Warsaw on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Milena Glowacka is a techno and house artist based in Poland, tracked on soundch
 
 Sept, AKOMPANIAMENT, ANNĒ
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/milenaglowacka/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milenaglowacka/)*

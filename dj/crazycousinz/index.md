@@ -1,6 +1,6 @@
 # Crazy Cousinz
 
-Crazy Cousinz is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Brixton Jamm, London on Fri, 4 Sept 2026.
+Crazy Cousinz is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Brixton Jamm, London on Fri, 4 Sept 2026.
 
 Crazy Cousinz is a garage and uk funky artist tracked on soundcheck, with 39 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Donae'o, Pioneer and Jerome Six. Next up: Brixton Jamm, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Crazy Cousinz is a garage and uk funky artist tracked on soundcheck, with 39 set
 
 Donae'o, Pioneer, Jerome Six
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*

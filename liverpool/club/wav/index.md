@@ -1,6 +1,6 @@
 # WaV
 
-WaV is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "909 x LTS presents Groove Garden w/ Dj Rush, Blasha & Allatt" on Sat, 19 Sept 2026.
+WaV is a music venue in Liverpool with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "909 x LTS presents Groove Garden w/ Dj Rush, Blasha & Allatt" on Sat, 19 Sept 2026.
 
 WaV is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, with line-ups including Aidyscape, Blasha & Allatt, Ciaran McAuley and Connor (UK) and 2 more. Browse upcoming dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
@@ -21,4 +21,4 @@ WaV is a music venue in Liverpool listed on soundcheck. 8 upcoming nights, with 
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

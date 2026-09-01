@@ -1,6 +1,6 @@
 # MRTI
 
-MRTI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bulbul Berlin, Berlin on Fri, 4 Sept 2026.
+MRTI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 4 Sept 2026.
 
 MRTI is a techno and trance artist tracked on soundcheck, with 51 sets logged across Berlin, Hamburg, Leipzig and Munich. Often billed alongside Louis EMP, Leon Haller and Alicea. Next up: Bulbul Berlin, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ MRTI is a techno and trance artist tracked on soundcheck, with 51 sets logged ac
 
 Louis EMP, Leon Haller, Alicea
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrti/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrti/)*

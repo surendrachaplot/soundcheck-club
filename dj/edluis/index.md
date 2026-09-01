@@ -1,6 +1,6 @@
 # Ed Luis
 
-Ed Luis is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club Cello, Basel on Sat, 12 Sept 2026.
+Ed Luis is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Cello, Basel on Sat, 12 Sept 2026.
 
 Ed Luis is an electronica and house artist tracked on soundcheck, with 2 sets logged across Basel. Often billed alongside Blaqq & Why'd, De La Maso and Luca Fiasco. Next up: Club Cello, Basel on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Ed Luis is an electronica and house artist tracked on soundcheck, with 2 sets lo
 
 Blaqq & Why'd, De La Maso, Luca Fiasco
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edluis/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edluis/)*

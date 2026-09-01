@@ -1,6 +1,6 @@
 # Ollie Lishman
 
-Ollie Lishman is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Ollie Lishman is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 Ollie Lishman is a techno and trance artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Ollie Lishman is a techno and trance artist tracked on soundcheck, with 127 sets
 
 Bad Boombox, Janis Zielinski, Mischluft
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*

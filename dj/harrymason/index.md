@@ -1,8 +1,8 @@
 # Harry Mason
 
-Harry Mason is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tola, London on Fri, 25 Sept 2026.
+Harry Mason is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tola, London on Fri, 25 Sept 2026.
 
-Harry Mason is a garage and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside 1KY (1), ZAZA C and Harmony. Next up: Tola, London on Fri 25 Sept.
+Harry Mason is a garage and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across London. Often billed alongside 1KY (1), Harmony and Josh Wickers. Next up: Tola, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Harry Mason is a garage and house artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-1KY (1), ZAZA C, Harmony
+1KY (1), Harmony, Josh Wickers
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymason/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymason/)*

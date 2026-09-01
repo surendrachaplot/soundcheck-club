@@ -1,6 +1,6 @@
 # Eliazar
 
-Eliazar is a Latin Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Golden Gate, Berlin on Fri, 18 Sept 2026.
+Eliazar is a Latin Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Golden Gate, Berlin on Fri, 18 Sept 2026.
 
 Eliazar is a latin bass and electronica artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Coco, Gustavo and Hochholzner. Next up: Golden Gate, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Eliazar is a latin bass and electronica artist tracked on soundcheck, with 14 se
 
 Coco, Gustavo, Hochholzner
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/eliazar/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliazar/)*

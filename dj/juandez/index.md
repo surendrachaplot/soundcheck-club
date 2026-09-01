@@ -1,6 +1,6 @@
 # Juandez
 
-Juandez is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Dear Darling, London on Fri, 4 Sept 2026.
+Juandez is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Dear Darling, London on Fri, 4 Sept 2026.
 
 Juandez is a tech house and house artist based in Colombia, tracked on soundcheck, with 8 sets logged across London. Often billed alongside P2UYA, Nojan and Wellzee. Next up: Dear Darling, London on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Juandez is a tech house and house artist based in Colombia, tracked on soundchec
 
 P2UYA, Nojan, Wellzee
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juandez/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juandez/)*

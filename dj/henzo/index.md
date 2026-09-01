@@ -1,6 +1,6 @@
 # Henzo
 
-Henzo is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The White Hotel, Manchester on Fri, 18 Sept 2026.
+Henzo is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The White Hotel, Manchester on Fri, 18 Sept 2026.
 
 Henzo is a bass and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 9 more. Often billed alongside Emby, Korzi and Aletha. Next up: The White Hotel, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Henzo is a bass and techno artist tracked on soundcheck, with 45 sets logged acr
 
 Emby, Korzi, Aletha
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henzo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henzo/)*

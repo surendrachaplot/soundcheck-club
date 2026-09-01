@@ -1,6 +1,6 @@
 # Upper90
 
-Upper90 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at BASIS, Utrecht on Fri, 4 Sept 2026.
+Upper90 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at BASIS, Utrecht on Fri, 4 Sept 2026.
 
 Upper90 is a techno and trance artist tracked on soundcheck, with 122 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 31 more. Often billed alongside Janis Zielinski, Butschi and Funk Tribu. Next up: BASIS, Utrecht on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Upper90 is a techno and trance artist tracked on soundcheck, with 122 sets logge
 
 Janis Zielinski, Butschi, Funk Tribu
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/upper90/)*

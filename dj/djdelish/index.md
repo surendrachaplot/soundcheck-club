@@ -1,6 +1,6 @@
 # DJ Delish
 
-DJ Delish is a House and Ballroom artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Market Hotel, New York City on Fri, 4 Sept 2026.
+DJ Delish is a House and Ballroom artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Market Hotel, New York City on Fri, 4 Sept 2026.
 
 DJ Delish is a house and ballroom artist based in United States of America, tracked on soundcheck, with 40 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside DJ Dommis, Archangel and BLAIZE. Next up: Market Hotel, Newyorkcity on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ DJ Delish is a house and ballroom artist based in United States of America, trac
 
 DJ Dommis, Archangel, BLAIZE
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelish/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelish/)*

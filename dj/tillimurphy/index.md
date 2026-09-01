@@ -1,14 +1,15 @@
 # Tilli Murphy
 
-Tilli Murphy is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Tilli Murphy is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
-Tilli Murphy is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Ibiza, Leeds, London and Malta. Often billed alongside Sammy Porter, George Mensah and Goody (UK). Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
+Tilli Murphy is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Ibiza, Leeds, London and Malta. Often billed alongside Sammy Porter, George Mensah and Goody (UK). Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - KENT COUNTY SHOWGROUND | London |
+| Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tilli Murphy is a house and tech house artist based in United Kingdom, tracked o
 
 Sammy Porter, George Mensah, Goody (UK)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tillimurphy/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tillimurphy/)*

@@ -1,6 +1,6 @@
 # DJ Shota Funada
 
-DJ Shota Funada is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Koara, Tokyo on Sat, 5 Sept 2026.
+DJ Shota Funada is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Koara, Tokyo on Sat, 5 Sept 2026.
 
 DJ Shota Funada is a house and disco artist based in Japan, tracked on soundcheck, with 14 sets logged across Tokyo. Often billed alongside TKS1T, Rina Sakai and BANANA-CHAN. Next up: Koara, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DJ Shota Funada is a house and disco artist based in Japan, tracked on soundchec
 
 TKS1T, Rina Sakai, BANANA-CHAN
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djshotafunada/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djshotafunada/)*

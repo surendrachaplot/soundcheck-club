@@ -1,6 +1,6 @@
 # EDEN BEKELE
 
-EDEN BEKELE is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Dead Letter No. 9, New York City on Fri, 4 Sept 2026.
+EDEN BEKELE is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Dead Letter No. 9, New York City on Fri, 4 Sept 2026.
 
 EDEN BEKELE is a club and house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Newyorkcity and Tokyo. Often billed alongside Teigh, HiTech and Dennis Free. Next up: Dead Letter No. 9, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ EDEN BEKELE is a club and house artist based in United States of America, tracke
 
 Teigh, HiTech, Dennis Free
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/edenbekele/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edenbekele/)*

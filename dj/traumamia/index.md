@@ -1,14 +1,15 @@
 # TraumaMia
 
-TraumaMia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
+TraumaMia is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
 
-TraumaMia is a techno and house artist based in Germany, tracked on soundcheck, with 88 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Ele Luz, Katzengold and Maurice Mino. Next up: Kater, Berlin on Fri 18 Sept.
+TraumaMia is a techno and house artist based in Germany, tracked on soundcheck, with 89 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Ele Luz, Katzengold and Maurice Mino. Next up: Kater, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Kater | Berlin |
+| Sat, 26 Sept 2026 | Cassiopeia | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ TraumaMia is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Ele Luz, Katzengold, Maurice Mino
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/traumamia/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traumamia/)*

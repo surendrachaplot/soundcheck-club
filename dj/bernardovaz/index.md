@@ -1,6 +1,6 @@
 # Bernardo Vaz
 
-Bernardo Vaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 5 Sept 2026.
+Bernardo Vaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 5 Sept 2026.
 
 Bernardo Vaz is a house and techno artist based in Portugal, tracked on soundcheck, with 102 sets logged across Lisbon and Porto. Often billed alongside Kaesar, John-E and Gear. Next up: Collect LX Factory, Lisbon on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Bernardo Vaz is a house and techno artist based in Portugal, tracked on soundche
 
 Kaesar, John-E, Gear
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardovaz/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardovaz/)*

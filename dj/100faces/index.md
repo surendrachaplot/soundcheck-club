@@ -1,6 +1,6 @@
 # 100 faces
 
-100 faces is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at 303 Audiophile Bar, Barcelona on Fri, 18 Sept 2026.
+100 faces is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 18 Sept 2026.
 
 100 faces is a house artist tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside Rivaldo, Emilio Mustafá and DJ Gamba. Next up: 303 Audiophile Bar, Barcelona on Fri 18 Sept.
 
@@ -24,4 +24,4 @@
 
 Rivaldo, Emilio Mustafá, DJ Gamba
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/100faces/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/100faces/)*

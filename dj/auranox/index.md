@@ -1,6 +1,6 @@
 # Aura Nox
 
-Aura Nox is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Radio Room @ Stage & Radio, Manchester on Sat, 19 Sept 2026.
+Aura Nox is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Radio Room @ Stage & Radio, Manchester on Sat, 19 Sept 2026.
 
 Aura Nox is an electro and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Athens, Barcelona, Berlin and Glasgow and 8 more. Often billed alongside Milan Hermess, ElectroDon and Mejle. Next up: The Radio Room @ Stage & Radio, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Aura Nox is an electro and techno artist based in United States of America, trac
 
 Milan Hermess, ElectroDon, Mejle
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/auranox/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auranox/)*

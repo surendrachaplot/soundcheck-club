@@ -1,8 +1,8 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Home The Venue, Sydney on Fri, 18 Sept 2026.
+Nora En Pure is a Deep House and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Home The Venue, Sydney on Fri, 18 Sept 2026.
 
-Nora En Pure is a deep house and house artist tracked on soundcheck, with 136 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Paradoks, Claptone and Corren Cavini. Next up: Home The Venue, Sydney on Fri 18 Sept.
+Nora En Pure is a deep house and house artist tracked on soundcheck, with 137 sets logged across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Paradoks, Claptone and Corren Cavini. Next up: Home The Venue, Sydney on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Nora En Pure is a deep house and house artist tracked on soundcheck, with 136 se
 | Sat, 19 Sept 2026 | TBA | Melbourne |
 | Fri, 2 Oct 2026 | Electric Bristol | Bristol |
 | Sat, 3 Oct 2026 | Chinois Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
@@ -29,4 +30,4 @@ Nora En Pure is a deep house and house artist tracked on soundcheck, with 136 se
 
 Paradoks, Claptone, Corren Cavini
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

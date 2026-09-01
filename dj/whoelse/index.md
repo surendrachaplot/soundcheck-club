@@ -1,6 +1,6 @@
 # WHO ELSE
 
-WHO ELSE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bikini Club, Barcelona on Sat, 12 Sept 2026.
+WHO ELSE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bikini Club, Barcelona on Sat, 12 Sept 2026.
 
 WHO ELSE is a house and tech house artist based in Argentina, tracked on soundcheck, with 6 sets logged across Amsterdam and Barcelona. Often billed alongside SHINO (AR), YANNIK (CH) and Abstraal. Next up: Bikini Club, Barcelona on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ WHO ELSE is a house and tech house artist based in Argentina, tracked on soundch
 
 SHINO (AR), YANNIK (CH), Abstraal
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/whoelse/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whoelse/)*

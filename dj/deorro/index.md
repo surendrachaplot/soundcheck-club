@@ -1,6 +1,6 @@
 # Deorro
 
-Deorro is a Latin Bass and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Deorro is a Latin Bass and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Deorro is a latin bass and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Austin, Boston, Chicago and Denver and 7 more. Often billed alongside Hedex, Loco Dice and Seven Lions. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Deorro is a latin bass and house artist based in United States of America, track
 
 Hedex, Loco Dice, Seven Lions
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*

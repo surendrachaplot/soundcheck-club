@@ -1,6 +1,6 @@
 # Henry Dummett
 
-Henry Dummett is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Arch 14, London on Fri, 25 Sept 2026.
+Henry Dummett is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Arch 14, London on Fri, 25 Sept 2026.
 
 Henry Dummett is a techno and house artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside Dyl Payne, Fikayo and Theo T. Next up: Arch 14, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Henry Dummett is a techno and house artist tracked on soundcheck, with 16 sets l
 
 Dyl Payne, Fikayo, Theo T
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/henrydummett/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrydummett/)*

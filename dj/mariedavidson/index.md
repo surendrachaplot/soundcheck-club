@@ -1,6 +1,6 @@
 # Marie Davidson
 
-Marie Davidson is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Whelans, Dublin on Tue, 1 Sept 2026.
+Marie Davidson is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Whelans, Dublin on Tue, 1 Sept 2026.
 
 Marie Davidson is a techno and electro artist tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Austin and Bangkok and 50 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: Whelans, Dublin on Tue 1 Sept.
 
@@ -29,4 +29,4 @@ Marie Davidson is a techno and electro artist tracked on soundcheck, with 152 se
 
 Laurel Halo, TAYHANA, deBasement
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*

@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "LA CREOLE À LA STATION #7 — ULTIMATE PARTY" on Fri, 4 Sept 2026.
+La Station - Gare des Mines is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "LA CREOLE À LA STATION #7 — ULTIMATE PARTY" on Fri, 4 Sept 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including Albal, cfds, Cici That Walk and Fenouil2000 and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 15 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

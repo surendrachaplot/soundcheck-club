@@ -1,6 +1,6 @@
 # Helena Lua
 
-Helena Lua is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kassa Boat, Budapest on Fri, 11 Sept 2026.
+Helena Lua is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Kassa Boat, Budapest on Fri, 11 Sept 2026.
 
 Helena Lua is a house and garage artist tracked on soundcheck, with 15 sets logged across Berlin and Budapest. Often billed alongside baeker, 96zen and Kiqo. Next up: Kassa Boat, Budapest on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Helena Lua is a house and garage artist tracked on soundcheck, with 15 sets logg
 
 baeker, 96zen, Kiqo
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalua/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalua/)*

@@ -1,13 +1,14 @@
 # nthng
 
-nthng is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
+nthng is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
 
-nthng is a techno and trance artist tracked on soundcheck, with 43 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 16 more. Often billed alongside Hame (1), DJ TOOL and GiGi FM. Next up: Magasins Généraux, Paris on Fri 20 Nov.
+nthng is a techno and trance artist tracked on soundcheck, with 44 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 16 more. Often billed alongside Hame (1), DJ TOOL and GiGi FM. Next up: Magasins Généraux, Paris on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ nthng is a techno and trance artist tracked on soundcheck, with 43 sets logged a
 
 Hame (1), DJ TOOL, GiGi FM
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nthng/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nthng/)*

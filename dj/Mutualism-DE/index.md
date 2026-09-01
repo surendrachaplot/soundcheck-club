@@ -1,6 +1,6 @@
 # Mutualism (DE)
 
-Mutualism (DE) is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at PETER EDEL, Berlin on Fri, 6 Nov 2026.
+Mutualism (DE) is a Techno and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at PETER EDEL, Berlin on Fri, 6 Nov 2026.
 
 Mutualism (DE) is a techno and italo disco artist tracked on soundcheck, with 15 sets logged across Austin, Berlin, Newyorkcity and Sanfrancisco. Often billed alongside Valerej, Mutualism and GEMO. Next up: PETER EDEL, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mutualism (DE) is a techno and italo disco artist tracked on soundcheck, with 15
 
 Valerej, Mutualism, GEMO
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Mutualism-DE/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Mutualism-DE/)*

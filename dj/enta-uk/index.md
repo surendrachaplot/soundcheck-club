@@ -1,6 +1,6 @@
 # Enta
 
-Enta is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Bricks, London on Thu, 3 Sept 2026.
+Enta is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bricks, London on Thu, 3 Sept 2026.
 
 Enta is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Brighton, Bristol, London and Rotterdam. Often billed alongside Ed Rush, Optical and Prolix. Next up: Bricks, London on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Enta is a drum & bass and jungle artist based in United Kingdom, tracked on soun
 
 Ed Rush, Optical, Prolix
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/enta-uk/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enta-uk/)*

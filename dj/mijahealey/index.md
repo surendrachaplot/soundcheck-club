@@ -1,6 +1,6 @@
 # Mija Healey
 
-Mija Healey is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Sydney on Fri, 4 Sept 2026.
+Mija Healey is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Sydney on Fri, 4 Sept 2026.
 
 Mija Healey is an idm and techno artist tracked on soundcheck, with 4 sets logged across Melbourne and Sydney. Often billed alongside Zara, Andy Garvey and Ben Fester. Next up: TBA, Sydney on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ Mija Healey is an idm and techno artist tracked on soundcheck, with 4 sets logge
 
 Zara, Andy Garvey, Ben Fester
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mijahealey/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mijahealey/)*

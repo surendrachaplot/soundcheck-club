@@ -1,6 +1,6 @@
 # PIKES PRESENTS AT 528 WITH Hunee b2b Erol Alkan b2b Luke Una at 528 Ibiza
 
-PIKES PRESENTS AT 528 WITH Hunee b2b Erol Alkan b2b Luke Una at 528 Ibiza on Sat 5 Sept, Ibiza. 5 acts on the bill: CC:DISCO!, Erol Alkan, Hunee and Luke Una and 1 more. House. Preview the line-up and save it on soundcheck.
+PIKES PRESENTS AT 528 WITH Hunee b2b Erol Alkan b2b Luke Una at 528 Ibiza on Sat 5 Sept, Ibiza. 10 acts on the bill: CC:DISCO!, Claudio Ricci, Defex and Elisa Elisa and 6 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,13 @@ PIKES PRESENTS AT 528 WITH Hunee b2b Erol Alkan b2b Luke Una at 528 Ibiza on Sat
 ## Line-up
 
 - CC:DISCO!
+- Claudio Ricci
+- Defex
+- Elisa Elisa
 - Erol Alkan
+- Forest (PL)
 - Hunee
+- Luca Averna
 - Luke Una
 - Paula Tape
 

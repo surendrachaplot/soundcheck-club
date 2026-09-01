@@ -1,6 +1,6 @@
 # D.Zeledon
 
-D.Zeledon is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 3 Oct 2026.
+D.Zeledon is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 3 Oct 2026.
 
 D.Zeledon is a house and latin bass artist tracked on soundcheck, with 3 sets logged across Losangeles. Often billed alongside Sabrosura Boyz, Artur (US) and Cappuccino. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ D.Zeledon is a house and latin bass artist tracked on soundcheck, with 3 sets lo
 
 Sabrosura Boyz, Artur (US), Cappuccino
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dzeledon/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dzeledon/)*

@@ -1,6 +1,6 @@
 # Bronx94
 
-Bronx94 is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat, 19 Sept 2026.
+Bronx94 is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat, 19 Sept 2026.
 
 Bronx94 is a deep house and tech house artist tracked on soundcheck, with 2 sets logged across Melbourne and Sydney. Often billed alongside A.Well, Ashlea Milinkovic and BRAD WATTS. Next up: TBA - SPICE CELLAR SYDNEY CITY, Sydney on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Bronx94 is a deep house and tech house artist tracked on soundcheck, with 2 sets
 
 A.Well, Ashlea Milinkovic, BRAD WATTS
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bronx94/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bronx94/)*

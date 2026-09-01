@@ -1,6 +1,6 @@
 # Lowtec
 
-Lowtec is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Lowtec is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
 Lowtec is a house and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin, Leipzig, Lisbon and Tbilisi. Often billed alongside Yamour, Edward and Lawrence. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Lowtec is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Yamour, Edward, Lawrence
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lowtec/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowtec/)*

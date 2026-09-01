@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at [UNVRS], Ibiza on Wed, 23 Sept 2026.
+Cam Stockman is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at [UNVRS], Ibiza on Wed, 23 Sept 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 18 more. Often billed alongside Ellia Jaya, Gaskin and Julian Fijma. Next up: [UNVRS], Ibiza on Wed 23 Sept.
 
@@ -30,4 +30,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 
 Ellia Jaya, Gaskin, Julian Fijma
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

@@ -1,6 +1,6 @@
 # PAX (2)
 
-PAX (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at .exe archive, Berlin on Sat, 5 Sept 2026.
+PAX (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at .exe archive, Berlin on Sat, 5 Sept 2026.
 
 PAX (2) is a techno and trance artist based in Argentina, tracked on soundcheck, with 45 sets logged across Berlin, Leipzig, London and Losangeles and 5 more. Often billed alongside CUNT REMEMBER, Reinhaudt and truthspeaker. Next up: .exe archive, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ PAX (2) is a techno and trance artist based in Argentina, tracked on soundcheck,
 
 CUNT REMEMBER, Reinhaudt, truthspeaker
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pax-2/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pax-2/)*

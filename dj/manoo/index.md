@@ -1,6 +1,6 @@
 # Manoo
 
-Manoo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Cabaret Sauvage, Paris on Sat, 5 Sept 2026.
+Manoo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 5 Sept 2026.
 
 Manoo is a house and disco artist based in France, tracked on soundcheck, with 29 sets logged across Amsterdam, Ibiza, Lisbon and London and 3 more. Often billed alongside Black Coffee, Damian Lazarus and Boddhi Satva. Next up: Cabaret Sauvage, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Manoo is a house and disco artist based in France, tracked on soundcheck, with 2
 
 Black Coffee, Damian Lazarus, Boddhi Satva
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/manoo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manoo/)*

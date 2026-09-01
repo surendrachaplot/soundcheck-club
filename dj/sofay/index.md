@@ -1,13 +1,14 @@
 # Sofay
 
-Sofay is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Miscellania, Melbourne on Sat, 19 Sept 2026.
+Sofay is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Tender, Melbourne on Sat, 12 Sept 2026.
 
-Sofay is an electronica and experimental artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Edinburgh, Glasgow, Manchester and Melbourne and 1 more. Often billed alongside Ribeka, Moopie and Bridget Small (2). Next up: Miscellania, Melbourne on Sat 19 Sept.
+Sofay is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Edinburgh, Glasgow, Manchester and Melbourne and 1 more. Often billed alongside Ribeka, Moopie and Bridget Small (2). Next up: Tender, Melbourne on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Tender | Melbourne |
 | Sat, 19 Sept 2026 | Miscellania | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sofay is an electronica and experimental artist based in United Kingdom, tracked
 
 Ribeka, Moopie, Bridget Small (2)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sofay/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofay/)*

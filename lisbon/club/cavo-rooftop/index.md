@@ -1,6 +1,6 @@
 # Cavo Rooftop
 
-Cavo Rooftop is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Nicolle Velcro ‣ Blan.ca ‣ Rui Alves ‣ Neapo - SUNDAY 6 SEP × CAVO TERRACE • FREE" on Sun, 6 Sept 2026.
+Cavo Rooftop is a music venue in Lisbon with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Nicolle Velcro ‣ Blan.ca ‣ Rui Alves ‣ Neapo - SUNDAY 6 SEP × CAVO TERRACE • FREE" on Sun, 6 Sept 2026.
 
 Cavo Rooftop is a music venue in Lisbon listed on soundcheck. 2 upcoming nights, with line-ups including Juju Manju, La Gugga, Nicolle Velcro and Ohana and 1 more. Browse upcoming dates, start times and who's playing. Terminal de Cruzeiros de Lisboa, Lisbon, Portugal 1100-651.
 
@@ -15,4 +15,4 @@ Cavo Rooftop is a music venue in Lisbon listed on soundcheck. 2 upcoming nights,
 
 Terminal de Cruzeiros de Lisboa, Lisbon, Portugal 1100-651, Lisbon
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/cavo-rooftop/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/cavo-rooftop/)*

@@ -1,6 +1,6 @@
 # Obskur
 
-Obskur is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Obskur is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Obskur is a house and tech house artist tracked on soundcheck, with 152 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Max Dean and ALISHA. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -33,4 +33,4 @@ Obskur is a house and tech house artist tracked on soundcheck, with 152 sets log
 
 East End Dubs, Max Dean, ALISHA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*

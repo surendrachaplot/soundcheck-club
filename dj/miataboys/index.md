@@ -1,6 +1,6 @@
 # Miata Boys
 
-Miata Boys is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Sultan Room, New York City on Fri, 11 Sept 2026.
+Miata Boys is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Sultan Room, New York City on Fri, 11 Sept 2026.
 
 Miata Boys is a house and trance artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Poolhaus, Auphoria and Bella Mutino. Next up: The Sultan Room, Newyorkcity on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Miata Boys is a house and trance artist based in United States of America, track
 
 Poolhaus, Auphoria, Bella Mutino
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miataboys/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miataboys/)*

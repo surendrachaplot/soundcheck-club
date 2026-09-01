@@ -1,8 +1,8 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Landesmuseum, Zurich on Tue, 1 Sept 2026.
+Yu Su is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Landesmuseum, Zurich on Tue, 1 Sept 2026.
 
-Yu Su is a house and techno artist tracked on soundcheck, with 145 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: Landesmuseum, Zurich on Tue 1 Sept.
+Yu Su is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Austin, Bali and Barcelona and 44 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: Landesmuseum, Zurich on Tue 1 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Yu Su is a house and techno artist tracked on soundcheck, with 145 sets logged a
 | Fri, 23 Oct 2026 | TBA | Amsterdam |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Sun, 15 Nov 2026 | public records | New York City |
+| Fri, 27 Nov 2026 | Stinsen | Stockholm |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Yu Su is a house and techno artist tracked on soundcheck, with 145 sets logged a
 
 Leon Vynehall, DJ Python, Paula Tape
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

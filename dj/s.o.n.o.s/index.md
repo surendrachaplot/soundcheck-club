@@ -1,6 +1,6 @@
 # S.O.N.O.S
 
-S.O.N.O.S is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at OHM, Berlin on Thu, 24 Sept 2026.
+S.O.N.O.S is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at OHM, Berlin on Thu, 24 Sept 2026.
 
 S.O.N.O.S is a house and experimental artist based in Spain, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Alexy, Architectural and Banu. Next up: OHM, Berlin on Thu 24 Sept.
 
@@ -18,4 +18,4 @@ S.O.N.O.S is a house and experimental artist based in Spain, tracked on soundche
 
 Alexy, Architectural, Banu
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/s.o.n.o.s/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.o.n.o.s/)*

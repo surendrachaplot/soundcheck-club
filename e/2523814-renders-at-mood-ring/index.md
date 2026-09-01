@@ -1,6 +1,6 @@
 # Renders at Mood Ring
 
-Renders at Mood Ring on Thu 8 Oct, Newyorkcity. 3 acts on the bill: elle xxo, entity_A and JOHNNY O. Preview the line-up and save it on soundcheck.
+Renders at Mood Ring on Thu 8 Oct, Newyorkcity. 4 acts on the bill: Bella Hex, elle xxo, entity_A and JOHNNY O. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Renders at Mood Ring on Thu 8 Oct, Newyorkcity. 3 acts on the bill: elle xxo, en
 
 ## Line-up
 
+- Bella Hex
 - elle xxo
 - entity_A
 - JOHNNY O

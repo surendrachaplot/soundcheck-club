@@ -1,8 +1,8 @@
 # Miley Serious
 
-Miley Serious is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Rex Club, Paris on Sat, 5 Sept 2026.
+Miley Serious is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Rex Club, Paris on Sat, 5 Sept 2026.
 
-Miley Serious is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 51 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: Rex Club, Paris on Sat 5 Sept.
+Miley Serious is a techno and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 52 more. Often billed alongside Lu2k, Dr Dubplate and Shampain. Next up: Rex Club, Paris on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Miley Serious is a techno and house artist tracked on soundcheck, with 166 sets 
 | Fri, 25 Sept 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 26 Sept 2026 | Paragon | New York City |
 | Sat, 14 Nov 2026 | Hangaren | Copenhagen |
+| Sat, 28 Nov 2026 | Stinsen | Stockholm |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Miley Serious is a techno and house artist tracked on soundcheck, with 166 sets 
 
 Lu2k, Dr Dubplate, Shampain
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mileyserious/)*

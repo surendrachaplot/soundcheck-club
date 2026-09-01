@@ -1,6 +1,6 @@
 # Borbón
 
-Borbón is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Green Room NYC, New York City on Fri, 11 Sept 2026.
+Borbón is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Green Room NYC, New York City on Fri, 11 Sept 2026.
 
 Borbón is a house and disco artist based in United States of America, tracked on soundcheck, with 25 sets logged across Newyorkcity. Often billed alongside Omer Mil, Miss Gypsy and Arianna Danae. Next up: Green Room NYC, Newyorkcity on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Borbón is a house and disco artist based in United States of America, tracked o
 
 Omer Mil, Miss Gypsy, Arianna Danae
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/borbon/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borbon/)*

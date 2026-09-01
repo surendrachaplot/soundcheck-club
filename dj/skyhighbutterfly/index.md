@@ -1,8 +1,8 @@
 # Skyhigh Butterfly
 
-Skyhigh Butterfly is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Lovétosse, Berlin on Sat, 5 Sept 2026.
+Skyhigh Butterfly is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Lovétosse, Berlin on Sat, 5 Sept 2026.
 
-Skyhigh Butterfly is an electronic artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Eliseo Adri, Lyo. and CH3LO. Next up: TBA - Lovétosse, Berlin on Sat 5 Sept.
+Skyhigh Butterfly is an electronic artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside Aalia Iraki, CH3LO and DJ CHICHI. Next up: TBA - Lovétosse, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Skyhigh Butterfly is an electronic artist based in Germany, tracked on soundchec
 
 ## Shares bills with
 
-Eliseo Adri, Lyo., CH3LO
+Aalia Iraki, CH3LO, DJ CHICHI
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skyhighbutterfly/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skyhighbutterfly/)*

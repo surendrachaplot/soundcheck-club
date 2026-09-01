@@ -1,14 +1,15 @@
 # Marylou
 
-Marylou is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Sept 2026.
+Marylou is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Sept 2026.
 
-Marylou is a club and experimental artist tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside ophélie, Marco Shuttle and Darwin. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 2 Sept.
+Marylou is a club and experimental artist tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside ophélie, Darwin and Marco Shuttle. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | TBA - Secret Location (near Frankfurter Allee) | Berlin |
+| Fri, 23 Oct 2026 | De Sering | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Marylou is a club and experimental artist tracked on soundcheck, with 104 sets l
 
 ## Shares bills with
 
-ophélie, Marco Shuttle, Darwin
+ophélie, Darwin, Marco Shuttle
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marylou/)*

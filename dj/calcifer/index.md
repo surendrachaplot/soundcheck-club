@@ -1,6 +1,6 @@
 # Calcifer
 
-Calcifer is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Großer Bunkerberg Volkspark Fhain, Berlin on Sat, 5 Sept 2026.
+Calcifer is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Großer Bunkerberg Volkspark Fhain, Berlin on Sat, 5 Sept 2026.
 
 Calcifer is a techno and trance artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Elias Nuit (2), EZA (DE) and bbymeister. Next up: Großer Bunkerberg Volkspark Fhain, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Calcifer is a techno and trance artist tracked on soundcheck, with 20 sets logge
 
 Elias Nuit (2), EZA (DE), bbymeister
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/calcifer/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calcifer/)*

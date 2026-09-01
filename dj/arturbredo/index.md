@@ -1,13 +1,14 @@
 # Artur Bredo
 
-Artur Bredo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Park Café München, Munich on Thu, 24 Sept 2026.
+Artur Bredo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Gasteig, Munich on Sat, 12 Sept 2026.
 
-Artur Bredo is a house and tech house artist based in Ukraine, tracked on soundcheck, with 4 sets logged across Amsterdam, Cologne and Munich. Often billed alongside Alice DiMar, diskoheinz and YEPIK. Next up: Park Café München, Munich on Thu 24 Sept.
+Artur Bredo is a house and tech house artist based in Ukraine, tracked on soundcheck, with 5 sets logged across Amsterdam, Cologne and Munich. Often billed alongside Alice DiMar, YEPIK and ZARE. Next up: Gasteig, Munich on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Gasteig | Munich |
 | Thu, 24 Sept 2026 | Park Café München | Munich |
 | Sat, 24 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 
@@ -18,6 +19,6 @@ Artur Bredo is a house and tech house artist based in Ukraine, tracked on soundc
 
 ## Shares bills with
 
-Alice DiMar, diskoheinz, YEPIK
+Alice DiMar, YEPIK, ZARE
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/arturbredo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arturbredo/)*

@@ -1,6 +1,6 @@
 # pig snatchers
 
-pig snatchers is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at XOYO, London on Sat, 24 Oct 2026.
+pig snatchers is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at XOYO, London on Sat, 24 Oct 2026.
 
 pig snatchers is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Alex P, Brandon Block and Tenacious. Next up: XOYO, London on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ pig snatchers is a house and tech house artist based in United Kingdom, tracked 
 
 Alex P, Brandon Block, Tenacious
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pigsnatchers/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pigsnatchers/)*

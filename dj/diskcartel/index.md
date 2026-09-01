@@ -1,6 +1,6 @@
 # Disk Cartel
 
-Disk Cartel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Disk Cartel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Disk Cartel is a house and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Leipzig and London and 2 more. Often billed alongside THC, S-candalo and Byron Yeates. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -24,4 +24,4 @@ Disk Cartel is a house and techno artist based in Germany, tracked on soundcheck
 
 THC, S-candalo, Byron Yeates
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/diskcartel/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diskcartel/)*

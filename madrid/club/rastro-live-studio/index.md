@@ -1,6 +1,6 @@
 # Rastro Live Studio
 
-Rastro Live Studio is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Mood Pepar x Rastro Live - harold., Pépe (live), AERAE (live)" on Fri, 25 Sept 2026.
+Rastro Live Studio is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Mood Pepar x Rastro Live - harold., Pépe (live), AERAE (live)" on Fri, 25 Sept 2026.
 
 Rastro Live Studio is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including AERAE, Andrés Cremisini, Ato Rodriguez and Forello and 2 more. Browse upcoming dates, start times and who's playing. Santa Ana 9, 28005 Madrid.
 
@@ -17,4 +17,4 @@ Rastro Live Studio is a music venue in Madrid listed on soundcheck. 4 upcoming n
 
 Santa Ana 9, 28005 Madrid, Madrid
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/rastro-live-studio/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/rastro-live-studio/)*

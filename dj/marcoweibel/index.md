@@ -1,6 +1,6 @@
 # Marco Weibel
 
-Marco Weibel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Klymax Discotheque, Bali on Fri, 11 Sept 2026.
+Marco Weibel is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Klymax Discotheque, Bali on Fri, 11 Sept 2026.
 
 Marco Weibel is a house and techno artist tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Bali and Berlin and 19 more. Often billed alongside Lefto Early Bird, Spurge and Dean Chew. Next up: Klymax Discotheque, Bali on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Marco Weibel is a house and techno artist tracked on soundcheck, with 125 sets l
 
 Lefto Early Bird, Spurge, Dean Chew
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*

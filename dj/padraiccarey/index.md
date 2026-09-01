@@ -1,13 +1,14 @@
 # Padraic Carey
 
-Padraic Carey is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+Padraic Carey is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mad Radio Miami, Miami on Fri, 4 Sept 2026.
 
-Padraic Carey is a house and disco artist based in United States of America, tracked on soundcheck, with 30 sets logged across Miami. Often billed alongside Atomyard, Tostao and Alex Cecil. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
+Padraic Carey is a house and disco artist based in United States of America, tracked on soundcheck, with 31 sets logged across Miami. Often billed alongside Atomyard, Tostao and Dicky Trisco. Next up: Mad Radio Miami, Miami on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Mad Radio Miami | Miami |
 | Sat, 12 Sept 2026 | Barracuda in the Grove | Miami |
 
 ## Recently played
@@ -23,6 +24,6 @@ Padraic Carey is a house and disco artist based in United States of America, tra
 
 ## Shares bills with
 
-Atomyard, Tostao, Alex Cecil
+Atomyard, Tostao, Dicky Trisco
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/padraiccarey/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/padraiccarey/)*

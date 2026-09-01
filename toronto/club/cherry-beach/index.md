@@ -1,6 +1,6 @@
 # Cherry Beach
 
-Cherry Beach is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Promise Cherry Beach Season Finale Monday September 7" on Mon, 7 Sept 2026.
+Cherry Beach is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Promise Cherry Beach Season Finale Monday September 7" on Mon, 7 Sept 2026.
 
 Cherry Beach is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Kiki LeFreak, Mark Oliver, Milch (1) and Valeroo. Browse upcoming dates, start times and who's playing. Toronto, ON; Canada.
 
@@ -14,4 +14,4 @@ Cherry Beach is a music venue in Toronto listed on soundcheck. 1 upcoming night,
 
 Toronto, ON; Canada, Toronto
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cherry-beach/)*

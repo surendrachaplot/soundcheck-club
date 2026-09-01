@@ -1,6 +1,6 @@
 # FREY.
 
-FREY. is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club NYX, Amsterdam on Sat, 31 Oct 2026.
+FREY. is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club NYX, Amsterdam on Sat, 31 Oct 2026.
 
 FREY. is a pop and techno artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Absoluut, TMORGZ and Alexis Knox. Next up: Club NYX, Amsterdam on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ FREY. is a pop and techno artist tracked on soundcheck, with 3 sets logged acros
 
 Absoluut, TMORGZ, Alexis Knox
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frey-nl/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frey-nl/)*

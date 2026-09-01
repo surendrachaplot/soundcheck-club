@@ -1,6 +1,6 @@
 # State Park
 
-State Park is a music venue in Boston with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Baile Tropidélico 2 Year Anniversary" on Sat, 5 Sept 2026.
+State Park is a music venue in Boston with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Baile Tropidélico 2 Year Anniversary" on Sat, 5 Sept 2026.
 
 State Park is a music venue in Boston listed on soundcheck. 1 upcoming night, with line-ups including Nickodemus. Browse upcoming dates, start times and who's playing. Lower Level, 15 Hampshire St Bldg 300, Cambridge, MA 02139.
 
@@ -14,4 +14,4 @@ State Park is a music venue in Boston listed on soundcheck. 1 upcoming night, wi
 
 Lower Level, 15 Hampshire St Bldg 300, Cambridge, MA 02139, Boston
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/boston/club/state-park/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/state-park/)*

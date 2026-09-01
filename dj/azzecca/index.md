@@ -1,6 +1,6 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Castaways, Chicago on Thu, 3 Sept 2026.
+Azzecca is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Castaways, Chicago on Thu, 3 Sept 2026.
 
 Azzecca is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Berlin and Boston and 20 more. Often billed alongside Gorgon City, Chris Lake and Dom Dolla. Next up: Castaways, Chicago on Thu 3 Sept.
 
@@ -30,4 +30,4 @@ Azzecca is a house and techno artist tracked on soundcheck, with 81 sets logged 
 
 Gorgon City, Chris Lake, Dom Dolla
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*

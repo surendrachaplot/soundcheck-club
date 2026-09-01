@@ -1,6 +1,6 @@
 # Small Face
 
-Small Face is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Triangle, Osaka on Wed, 9 Sept 2026.
+Small Face is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Triangle, Osaka on Wed, 9 Sept 2026.
 
 Small Face is a drum & bass and jungle artist tracked on soundcheck, with 16 sets logged across Osaka. Often billed alongside kakepon, yu-more and TERU. Next up: Triangle, Osaka on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Small Face is a drum & bass and jungle artist tracked on soundcheck, with 16 set
 
 kakepon, yu-more, TERU
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smallface/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smallface/)*

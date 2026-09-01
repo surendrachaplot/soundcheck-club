@@ -1,6 +1,6 @@
 # Adam Des
 
-Adam Des is a Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Adam Des is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Adam Des is a techno artist tracked on soundcheck, with 19 sets logged across Athens. Often billed alongside Indelekt, Cirkle and VSSLS. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Adam Des is a techno artist tracked on soundcheck, with 19 sets logged across At
 
 Indelekt, Cirkle, VSSLS
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdes/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdes/)*

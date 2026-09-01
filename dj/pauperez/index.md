@@ -1,13 +1,15 @@
 # Pau Pérez
 
-Pau Pérez is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Spook Club, Valencia on Sat, 31 Oct 2026.
+Pau Pérez is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Resume Valencia, Valencia on Fri, 4 Sept 2026.
 
-Pau Pérez is a house and tech house artist tracked on soundcheck, with 109 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 6 more. Often billed alongside Sueezo, Pin and Blanch. Next up: Spook Club, Valencia on Sat 31 Oct.
+Pau Pérez is a house and tech house artist tracked on soundcheck, with 111 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 6 more. Often billed alongside Sueezo, Pin and Blanch. Next up: Resume Valencia, Valencia on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Resume Valencia | Valencia |
+| Fri, 25 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sat, 31 Oct 2026 | Spook Club | Valencia |
 
 ## Recently played
@@ -25,4 +27,4 @@ Pau Pérez is a house and tech house artist tracked on soundcheck, with 109 sets
 
 Sueezo, Pin, Blanch
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pauperez/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauperez/)*

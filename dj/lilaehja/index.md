@@ -1,6 +1,6 @@
 # Lila Ehjä
 
-Lila Ehjä is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
+Lila Ehjä is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
 
 Lila Ehjä is an ebm and electro artist based in France, tracked on soundcheck, with 4 sets logged across Athens, Berlin, Brussels and Paris. Often billed alongside Gabbor, Kalyug Citizen and Leona Jacewska. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Lila Ehjä is an ebm and electro artist based in France, tracked on soundcheck, 
 
 Gabbor, Kalyug Citizen, Leona Jacewska
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilaehja/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilaehja/)*

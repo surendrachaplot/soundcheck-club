@@ -1,8 +1,8 @@
 # Ida Daugaard
 
-Ida Daugaard is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Klunkerkranich, Berlin on Thu, 3 Sept 2026.
+Ida Daugaard is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Klunkerkranich, Berlin on Thu, 3 Sept 2026.
 
-Ida Daugaard is a techno and house artist based in Denmark, tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Ana Karla, Markovela and Mira. Next up: Klunkerkranich, Berlin on Thu 3 Sept.
+Ida Daugaard is a techno and house artist based in Denmark, tracked on soundcheck, with 56 sets logged across Barcelona, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Ana Karla, Markovela and Mira. Next up: Klunkerkranich, Berlin on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ida Daugaard is a techno and house artist based in Denmark, tracked on soundchec
 | Thu, 3 Sept 2026 | Klunkerkranich | Berlin |
 | Fri, 11 Sept 2026 | Kater | Berlin |
 | Fri, 11 Sept 2026 | Hoppetosse | Berlin |
+| Sat, 26 Sept 2026 | gART.n | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Ida Daugaard is a techno and house artist based in Denmark, tracked on soundchec
 
 Ana Karla, Markovela, Mira
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/idadaugaard-de/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idadaugaard-de/)*

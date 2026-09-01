@@ -1,8 +1,8 @@
 # DJP (1)
 
-DJP (1) is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
+DJP (1) is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
-DJP (1) is a house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Edinburgh. Often billed alongside DJ PLANE-SPOTTER, NewTone and CLEAR UK. Next up: The Mash House, Edinburgh on Sat 10 Oct.
+DJP (1) is a house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Edinburgh. Often billed alongside CLEAR UK, DJ PLANE-SPOTTER and Inafekt. Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ DJP (1) is a house artist based in United Kingdom, tracked on soundcheck, with 1
 
 ## Shares bills with
 
-DJ PLANE-SPOTTER, NewTone, CLEAR UK
+CLEAR UK, DJ PLANE-SPOTTER, Inafekt
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djp-1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djp-1/)*

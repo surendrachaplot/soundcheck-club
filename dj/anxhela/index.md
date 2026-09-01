@@ -1,6 +1,6 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Kilomètre25, Paris on Sat, 5 Sept 2026.
+ANXHELA is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Kilomètre25, Paris on Sat, 5 Sept 2026.
 
 ANXHELA is a techno and trance artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Alignment, KØZLØV and DIØN. Next up: Kilomètre25, Paris on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ ANXHELA is a techno and trance artist tracked on soundcheck, with 120 sets logge
 
 Alignment, KØZLØV, DIØN
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*

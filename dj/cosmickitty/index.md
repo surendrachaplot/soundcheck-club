@@ -1,6 +1,6 @@
 # Cosmic Kitty
 
-Cosmic Kitty is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Chicago on Sat, 5 Sept 2026.
+Cosmic Kitty is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Chicago on Sat, 5 Sept 2026.
 
 Cosmic Kitty is a techno and acid artist tracked on soundcheck, with 4 sets logged across Austin and Chicago. Often billed alongside DAIYAH, DJ LIGMA and Flores Negras. Next up: TBA, Chicago on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Cosmic Kitty is a techno and acid artist tracked on soundcheck, with 4 sets logg
 
 DAIYAH, DJ LIGMA, Flores Negras
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmickitty/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmickitty/)*

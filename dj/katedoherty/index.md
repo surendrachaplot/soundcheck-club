@@ -1,6 +1,6 @@
 # Kate Doherty
 
-Kate Doherty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club 77, Sydney on Fri, 11 Sept 2026.
+Kate Doherty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club 77, Sydney on Fri, 11 Sept 2026.
 
 Kate Doherty is a techno and house artist tracked on soundcheck, with 17 sets logged across Sydney. Often billed alongside Dave Stuart, Methodix and Ulia. Next up: Club 77, Sydney on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Kate Doherty is a techno and house artist tracked on soundcheck, with 17 sets lo
 
 Dave Stuart, Methodix, Ulia
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/katedoherty/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katedoherty/)*

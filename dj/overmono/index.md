@@ -1,8 +1,8 @@
 # Overmono
 
-Overmono is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Hollywood Palladium, Los Angeles on Fri, 25 Sept 2026.
+Overmono is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hollywood Palladium, Los Angeles on Fri, 25 Sept 2026.
 
-Overmono is a techno and house artist tracked on soundcheck, with 98 sets logged across Aberdeen, Amsterdam, Athens and Austin and 43 more. Often billed alongside DJ Heartstring, Interplanetary Criminal and Joy Orbison. Next up: Hollywood Palladium, Losangeles on Fri 25 Sept.
+Overmono is a techno and house artist tracked on soundcheck, with 99 sets logged across Aberdeen, Amsterdam, Athens and Austin and 44 more. Often billed alongside DJ Heartstring, Interplanetary Criminal and Joy Orbison. Next up: Hollywood Palladium, Losangeles on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Overmono is a techno and house artist tracked on soundcheck, with 98 sets logged
 | Sat, 10 Oct 2026 | History | Toronto |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Thu, 12 Nov 2026 | Uber Eats Music Hall | Berlin |
+| Sat, 28 Nov 2026 | Stinsen | Stockholm |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Overmono is a techno and house artist tracked on soundcheck, with 98 sets logged
 
 DJ Heartstring, Interplanetary Criminal, Joy Orbison
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*

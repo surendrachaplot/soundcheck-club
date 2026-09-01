@@ -1,6 +1,6 @@
 # Record Shop
 
-Record Shop is a music venue in New York City with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Matthew Ryals, Amir ElSaffar, Gian Perez" on Wed, 2 Sept 2026.
+Record Shop is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Matthew Ryals, Amir ElSaffar, Gian Perez" on Wed, 2 Sept 2026.
 
 Record Shop is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Matthew Ryals. Browse upcoming dates, start times and who's playing. 360 Van Brunt St, Brooklyn, NY 11231.
 
@@ -14,4 +14,4 @@ Record Shop is a music venue in Newyorkcity listed on soundcheck. 1 upcoming nig
 
 360 Van Brunt St, Brooklyn, NY 11231, New York City
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/record-shop/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/record-shop/)*

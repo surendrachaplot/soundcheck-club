@@ -1,6 +1,6 @@
 # Victor Hugo
 
-Victor Hugo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Hoxton, Poblenou, Barcelona on Fri, 11 Sept 2026.
+Victor Hugo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Hoxton, Poblenou, Barcelona on Fri, 11 Sept 2026.
 
 Victor Hugo is a house and disco artist based in Mexico, tracked on soundcheck, with 60 sets logged across Barcelona, Ibiza, Madrid and Mexicocity. Often billed alongside Eudald Selva, Elwei and PINI. Next up: The Hoxton, Poblenou, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Victor Hugo is a house and disco artist based in Mexico, tracked on soundcheck, 
 
 Eudald Selva, Elwei, PINI
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*

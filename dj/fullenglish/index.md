@@ -1,6 +1,6 @@
 # FULLENGLISH
 
-FULLENGLISH is a Disco and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at 24 Kitchen Street, Liverpool on Sat, 5 Sept 2026.
+FULLENGLISH is a Disco and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at 24 Kitchen Street, Liverpool on Sat, 5 Sept 2026.
 
 FULLENGLISH is a disco and afro house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Liverpool and London. Often billed alongside Cassine, yeahitsrenee and Jeanie Crystal. Next up: 24 Kitchen Street, Liverpool on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ FULLENGLISH is a disco and afro house artist based in United Kingdom, tracked on
 
 Cassine, yeahitsrenee, Jeanie Crystal
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fullenglish/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullenglish/)*

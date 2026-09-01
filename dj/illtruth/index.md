@@ -1,6 +1,6 @@
 # Ill Truth
 
-Ill Truth is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Onyx (E1), London on Fri, 23 Oct 2026.
+Ill Truth is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Onyx (E1), London on Fri, 23 Oct 2026.
 
 Ill Truth is a drum & bass and jungle artist tracked on soundcheck, with 19 sets logged across Amsterdam, Auckland, Brighton and Bristol and 3 more. Often billed alongside Visionobi, Rizzle and Ama (UK). Next up: Onyx (E1), London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ill Truth is a drum & bass and jungle artist tracked on soundcheck, with 19 sets
 
 Visionobi, Rizzle, Ama (UK)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/illtruth/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illtruth/)*

@@ -1,6 +1,6 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Südpol, Hamburg on Fri, 11 Sept 2026.
+DJ Minx is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Südpol, Hamburg on Fri, 11 Sept 2026.
 
 DJ Minx is a house and techno artist tracked on soundcheck, with 178 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Südpol, Hamburg on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ DJ Minx is a house and techno artist tracked on soundcheck, with 178 sets logged
 
 DJ Holographic, Carl Craig, Soul Clap
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*

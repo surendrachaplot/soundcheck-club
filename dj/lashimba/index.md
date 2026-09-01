@@ -1,6 +1,6 @@
 # Lashimba
 
-Lashimba is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at renae, Manchester on Sat, 12 Sept 2026.
+Lashimba is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at renae, Manchester on Sat, 12 Sept 2026.
 
 Lashimba is a tech house and minimal artist tracked on soundcheck, with 10 sets logged across London and Manchester. Often billed alongside Obeka, CBABY and Dan Louder. Next up: renae, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lashimba is a tech house and minimal artist tracked on soundcheck, with 10 sets 
 
 Obeka, CBABY, Dan Louder
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lashimba/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lashimba/)*

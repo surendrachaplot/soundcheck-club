@@ -1,6 +1,6 @@
 # Chuck Gunn
 
-Chuck Gunn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Chuck Gunn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Chuck Gunn is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Detroit, Mexicocity and Sanfrancisco. Often billed alongside Stōned Früit, Carlos Souffront and Carrieondisco. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Chuck Gunn is a house and techno artist based in United States of America, track
 
 Stōned Früit, Carlos Souffront, Carrieondisco
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chuckgunn/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chuckgunn/)*

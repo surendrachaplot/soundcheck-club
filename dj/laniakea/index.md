@@ -1,6 +1,6 @@
 # LANI AKEA
 
-LANI AKEA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Die Rakete, Nürnberg on Sat, 12 Sept 2026.
+LANI AKEA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Die Rakete, Nürnberg on Sat, 12 Sept 2026.
 
 LANI AKEA is a techno and house artist tracked on soundcheck, with 16 sets logged across Berlin and Nurnberg. Often billed alongside Marco Lautner, Sempasa and Fiedel. Next up: Die Rakete, Nurnberg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ LANI AKEA is a techno and house artist tracked on soundcheck, with 16 sets logge
 
 Marco Lautner, Sempasa, Fiedel
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laniakea/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laniakea/)*

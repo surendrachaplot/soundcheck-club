@@ -1,6 +1,6 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Circolo Magnolia, Milan on Fri, 4 Sept 2026.
+Ely Oaks is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Circolo Magnolia, Milan on Fri, 4 Sept 2026.
 
 Ely Oaks is a techno and house artist tracked on soundcheck, with 38 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 22 more. Often billed alongside ADEMES, BOVSKI and Dimension. Next up: Circolo Magnolia, Milan on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Ely Oaks is a techno and house artist tracked on soundcheck, with 38 sets logged
 
 ADEMES, BOVSKI, Dimension
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

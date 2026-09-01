@@ -1,8 +1,8 @@
 # Jeny Michelle
 
-Jeny Michelle is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Echostage, Washington DC on Sat, 5 Sept 2026.
+Jeny Michelle is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Echostage, Washington DC on Sat, 5 Sept 2026.
 
-Jeny Michelle is a house and minimal artist based in Mexico, tracked on soundcheck, with 70 sets logged across London, Mexicocity, Newyorkcity and Sandiego and 1 more. Often billed alongside Auphoria, Amba and shanty mane. Next up: Echostage, Washingtondc on Sat 5 Sept.
+Jeny Michelle is a house and minimal artist based in Mexico, tracked on soundcheck, with 71 sets logged across London, Mexicocity, Newyorkcity and Sandiego and 1 more. Often billed alongside Auphoria, Amba and shanty mane. Next up: Echostage, Washingtondc on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jeny Michelle is a house and minimal artist based in Mexico, tracked on soundche
 | Sat, 5 Sept 2026 | Echostage | Washington DC |
 | Mon, 7 Sept 2026 | Moondog Hifi | New York City |
 | Thu, 10 Sept 2026 | Signal | New York City |
+| Sat, 26 Sept 2026 | House of Yes | New York City |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Jeny Michelle is a house and minimal artist based in Mexico, tracked on soundche
 
 Auphoria, Amba, shanty mane
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*

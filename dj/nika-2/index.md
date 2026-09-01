@@ -1,8 +1,8 @@
 # Nika (2)
 
-Nika (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fridas Pier, Stuttgart on Fri, 9 Oct 2026.
+Nika (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 9 Oct 2026.
 
-Nika (2) is a techno artist based in Slovenia, tracked on soundcheck, with 1 set logged across Stuttgart. Often billed alongside Teenage Mutants, Sayuri (1) and Bjørnson. Next up: Fridas Pier, Stuttgart on Fri 9 Oct.
+Nika (2) is a techno artist based in Slovenia, tracked on soundcheck, with 1 set logged across Stuttgart. Often billed alongside Bjørnson, Sayuri (1) and Teenage Mutants. Next up: Fridas Pier, Stuttgart on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Nika (2) is a techno artist based in Slovenia, tracked on soundcheck, with 1 set
 
 ## Shares bills with
 
-Teenage Mutants, Sayuri (1), Bjørnson
+Bjørnson, Sayuri (1), Teenage Mutants
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nika-2/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nika-2/)*

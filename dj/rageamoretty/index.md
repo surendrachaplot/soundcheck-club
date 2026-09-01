@@ -1,8 +1,8 @@
 # RAGE AMORETTY
 
-RAGE AMORETTY is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at City Hall, Barcelona on Thu, 3 Sept 2026.
+RAGE AMORETTY is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at City Hall, Barcelona on Thu, 3 Sept 2026.
 
-RAGE AMORETTY is a techno artist tracked on soundcheck, with 8 sets logged across Barcelona, Berlin and Ibiza. Often billed alongside Djomby, DAVE IT aka BUENRI and Rabent. Next up: City Hall, Barcelona on Thu 3 Sept.
+RAGE AMORETTY is an electronica and techno artist tracked on soundcheck, with 8 sets logged across Barcelona, Berlin and Ibiza. Often billed alongside DAVE IT aka BUENRI, Djomby and Rabent. Next up: City Hall, Barcelona on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ RAGE AMORETTY is a techno artist tracked on soundcheck, with 8 sets logged acros
 
 ## Shares bills with
 
-Djomby, DAVE IT aka BUENRI, Rabent
+DAVE IT aka BUENRI, Djomby, Rabent
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rageamoretty/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rageamoretty/)*

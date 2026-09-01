@@ -1,6 +1,6 @@
 # Yourte Bugarach
 
-Yourte Bugarach is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Rei Room, Mexico City on Fri, 4 Sept 2026.
+Yourte Bugarach is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rei Room, Mexico City on Fri, 4 Sept 2026.
 
 Yourte Bugarach is an electronica and techno artist based in Mexico, tracked on soundcheck, with 2 sets logged across Mexicocity. Often billed alongside M. Dagdug. Next up: Rei Room, Mexicocity on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ Yourte Bugarach is an electronica and techno artist based in Mexico, tracked on 
 
 M. Dagdug
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/yourtebugarach/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yourtebugarach/)*

@@ -1,8 +1,8 @@
 # Owen McCoy
 
-Owen McCoy is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Basing House, London on Fri, 11 Sept 2026.
+Owen McCoy is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Basing House, London on Fri, 11 Sept 2026.
 
-Owen McCoy is a deep house and progressive house artist tracked on soundcheck, with 1 set logged across London. Often billed alongside Pietro LGF, KENDIR and Reaching Planets. Next up: Basing House, London on Fri 11 Sept.
+Owen McCoy is a deep house and progressive house artist tracked on soundcheck, with 1 set logged across London. Often billed alongside AALEX, Adela and Alythia Kwan. Next up: Basing House, London on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Owen McCoy is a deep house and progressive house artist tracked on soundcheck, w
 
 ## Shares bills with
 
-Pietro LGF, KENDIR, Reaching Planets
+AALEX, Adela, Alythia Kwan
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/owenmccoy/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/owenmccoy/)*

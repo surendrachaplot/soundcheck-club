@@ -1,6 +1,6 @@
 # Dawn of the DJs II (A Golden Record NYC Production) at TBA - East Williamsburg
 
-Dawn of the DJs II (A Golden Record NYC Production) at TBA - East Williamsburg on Sat 31 Oct, Newyorkcity. 19 acts on the bill: Armii1n, Ash Lauryn, Bruno Schmidt and CAMILLA and 15 more. Techno and House. Preview the line-up and save it on soundcheck.
+Dawn of the DJs II (A Golden Record NYC Production) at TBA - East Williamsburg on Sat 31 Oct, Newyorkcity. 22 acts on the bill: 1morning, Armii1n, Ash Lauryn and Bruno Schmidt and 18 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,13 +10,16 @@ Dawn of the DJs II (A Golden Record NYC Production) at TBA - East Williamsburg o
 
 ## Line-up
 
+- 1morning
 - Armii1n
 - Ash Lauryn
 - Bruno Schmidt
 - CAMILLA
+- Devoye
 - DJ Bone
 - DJ Healthy
 - DLR
+- DLR (nyc)
 - Emsho
 - JADALAREIGN
 - Karla Böhm

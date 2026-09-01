@@ -1,6 +1,6 @@
 # RAGGA NYC at Paragon
 
-RAGGA NYC at Paragon on Fri 25 Sept, Newyorkcity. 2 acts on the bill: Juliana Huxtable and Sausha. Electro and Club. Preview the line-up and save it on soundcheck.
+RAGGA NYC at Paragon on Fri 25 Sept, Newyorkcity. 5 acts on the bill: Josh Steers, Juliana Huxtable, Nita Aviance and Sausha and 1 more. Electro and Dancehall. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ RAGGA NYC at Paragon on Fri 25 Sept, Newyorkcity. 2 acts on the bill: Juliana Hu
 
 ## Line-up
 
+- Josh Steers
 - Juliana Huxtable
+- Nita Aviance
 - Sausha
+- Sevyn Love
 
 *Source: [soundcheck](https://soundcheck.club/e/2516076-ragga-nyc-at-paragon/)*

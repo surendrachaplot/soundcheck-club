@@ -1,6 +1,6 @@
 # Guille Pinet
 
-Guille Pinet is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Jardins de la Devesa, Girona, Barcelona on Sat, 5 Sept 2026.
+Guille Pinet is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Jardins de la Devesa, Girona, Barcelona on Sat, 5 Sept 2026.
 
 Guille Pinet is a house and minimal techno artist tracked on soundcheck, with 33 sets logged across Barcelona and Berlin. Often billed alongside Misla, Elwei and MarioF. Next up: Jardins de la Devesa, Girona, Barcelona on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Guille Pinet is a house and minimal techno artist tracked on soundcheck, with 33
 
 Misla, Elwei, MarioF
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/guillepinet/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guillepinet/)*

@@ -1,14 +1,15 @@
 # DJ-CK
 
-DJ-CK is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Glove That Fits, London on Fri, 2 Oct 2026.
+DJ-CK is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Glove That Fits, London on Fri, 2 Oct 2026.
 
-DJ-CK is a house and techno artist based in Ireland, tracked on soundcheck, with 38 sets logged across Antwerp, Cork, London and Nottingham. Often billed alongside Katiaki, Toraigh and GLUT Sound. Next up: The Glove That Fits, London on Fri 2 Oct.
+DJ-CK is a house and trance artist based in Ireland, tracked on soundcheck, with 39 sets logged across Antwerp, Cork, London and Nottingham. Often billed alongside Katiaki, Toraigh and GLUT Sound. Next up: The Glove That Fits, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Glove That Fits | London |
+| Sat, 17 Oct 2026 | The Waiting Room | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ-CK is a house and techno artist based in Ireland, tracked on soundcheck, with
 
 Katiaki, Toraigh, GLUT Sound
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ck/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ck/)*

@@ -1,6 +1,6 @@
 # Skellyoz
 
-Skellyoz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Happys Belfast, Belfast on Fri, 2 Oct 2026.
+Skellyoz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Happys Belfast, Belfast on Fri, 2 Oct 2026.
 
 Skellyoz is a house and techno artist tracked on soundcheck, with 4 sets logged across Belfast. Often billed alongside GUZZ., Casual and CLERK.. Next up: Happys Belfast, Belfast on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Skellyoz is a house and techno artist tracked on soundcheck, with 4 sets logged 
 
 GUZZ., Casual, CLERK.
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/skellyoz/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skellyoz/)*

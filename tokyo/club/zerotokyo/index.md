@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 20 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "PRESSURE - HIPHOP / HOUSE / TRANCE -" on Thu, 3 Sept 2026.
+ZEROTOKYO is a music venue in Tokyo with 20 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "PRESSURE - HIPHOP / HOUSE / TRANCE -" on Thu, 3 Sept 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming nights, with line-ups including 6EJOU, Aiobahn, Axwell and AYANA KOSHIBA and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -10,7 +10,7 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming nights, wi
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | PRESSURE - HIPHOP / HOUSE / TRANCE - | indiy |
 | Fri, 4 Sept 2026 | ULTRAHAUS - HOUSE / TECH HOUSE - | CARTOON, Dan Miyagishi, Kijta, PUNK N MATRIX, Yamariki |
-| Sat, 5 Sept 2026 | EUFORIA x BUNKER WITH DJ MARIA AT ZEROTOKYO: TECHNO - HARD TECHNO - HOUSE | AYANA KOSHIBA, Chamcham, DJ MARIA., EMILIO (3), Maya, SONATA, VOX (1), YAMARCHY, uuu7 |
+| Sat, 5 Sept 2026 | EUFORIA x BUNKER WITH DJ MARIA AT ZEROTOKYO: TECHNO - HARD TECHNO - HOUSE | AYANA KOSHIBA, Chamcham, DJ MARIA., EMILIO (3), Maya, Maya (Shonan Balearic), SONATA, VOX (1), YAMARCHY, uuu7 |
 | Sun, 6 Sept 2026 | SYNC | RYO2 |
 | Thu, 10 Sept 2026 | 理由 - ELECTRO / HIPHOP / R&B / HOUSE / BASS - | DA BOOK, DJ EYELASH |
 | Fri, 11 Sept 2026 | Locker Room feat.6EJOU - HARD TECHNO / TECHNO - | 6EJOU, DALJAE, LYOM, Rikk (2), YUXI |
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming nights, wi
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

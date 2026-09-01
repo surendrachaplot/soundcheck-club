@@ -1,6 +1,6 @@
 # Nina Gaia
 
-Nina Gaia is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Ipse, Berlin on Sun, 27 Sept 2026.
+Nina Gaia is a Progressive House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ipse, Berlin on Sun, 27 Sept 2026.
 
 Nina Gaia is a progressive house and tech house artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Alp.fX, Creti and fake maybach. Next up: Ipse, Berlin on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ Nina Gaia is a progressive house and tech house artist based in Germany, tracked
 
 Alp.fX, Creti, fake maybach
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ninagaia/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninagaia/)*

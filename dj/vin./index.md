@@ -1,6 +1,6 @@
 # vin.
 
-vin. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
+vin. is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 vin. is a house and tech house artist tracked on soundcheck, with 4 sets logged across Chicago and Sanfrancisco. Often billed alongside PNG (US), Acid Boner and Jack Galactic. Next up: Monarch, Sanfrancisco on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ vin. is a house and tech house artist tracked on soundcheck, with 4 sets logged 
 
 PNG (US), Acid Boner, Jack Galactic
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vin./)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vin./)*

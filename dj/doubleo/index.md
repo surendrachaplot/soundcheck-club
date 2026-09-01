@@ -1,6 +1,6 @@
 # Double O
 
-Double O is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Double O is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Double O is a jungle and drum & bass artist tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Brighton and Bristol and 14 more. Often billed alongside Mantra, Blackeye MC and Decibella. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -28,4 +28,4 @@ Double O is a jungle and drum & bass artist tracked on soundcheck, with 87 sets 
 
 Mantra, Blackeye MC, Decibella
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleo/)*

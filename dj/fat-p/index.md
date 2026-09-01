@@ -1,6 +1,6 @@
 # Fat-P
 
-Fat-P is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TOC Hostel, Barcelona on Fri, 4 Sept 2026.
+Fat-P is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TOC Hostel, Barcelona on Fri, 4 Sept 2026.
 
 Fat-P is a techno and house artist based in Argentina, tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside Jo Kazan, MøønkiZa and Alphanova. Next up: TOC Hostel, Barcelona on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Fat-P is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 Jo Kazan, MøønkiZa, Alphanova
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-p/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fat-p/)*

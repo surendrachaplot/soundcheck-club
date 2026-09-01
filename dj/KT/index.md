@@ -1,6 +1,6 @@
 # KT
 
-KT is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Loft, Manchester on Fri, 4 Sept 2026.
+KT is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Loft, Manchester on Fri, 4 Sept 2026.
 
 KT is a house and techno artist tracked on soundcheck, with 124 sets logged across Barcelona, Berlin, Brighton and Bristol and 22 more. Often billed alongside Papa Nugs, Darush and Alien Communications. Next up: The Loft, Manchester on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ KT is a house and techno artist tracked on soundcheck, with 124 sets logged acro
 
 Papa Nugs, Darush, Alien Communications
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*

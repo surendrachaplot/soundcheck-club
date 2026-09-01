@@ -1,6 +1,6 @@
 # Cult=us
 
-Cult=us is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "Love Transmission with Ajuma" on Fri, 11 Sept 2026.
+Cult=us is a music venue in Rotterdam with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Love Transmission with Ajuma" on Fri, 11 Sept 2026.
 
 Cult=us is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, with line-ups including Ajuma, Ays (NL) and Kuriosa. Browse upcoming dates, start times and who's playing. Keilestraat 7a, 3029 BP Rotterdam.
 
@@ -14,4 +14,4 @@ Cult=us is a music venue in Rotterdam listed on soundcheck. 1 upcoming night, wi
 
 Keilestraat 7a, 3029 BP Rotterdam, Rotterdam
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/cult-us/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/cult-us/)*

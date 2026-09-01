@@ -1,6 +1,6 @@
 # Tim Strafinsky
 
-Tim Strafinsky is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Funke, Ghent on Fri, 25 Sept 2026.
+Tim Strafinsky is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Funke, Ghent on Fri, 25 Sept 2026.
 
 Tim Strafinsky is a techno artist tracked on soundcheck, with 6 sets logged across Ghent. Often billed alongside Formwandler, Corvus Ex and Marie-Julie. Next up: Funke, Ghent on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Tim Strafinsky is a techno artist tracked on soundcheck, with 6 sets logged acro
 
 Formwandler, Corvus Ex, Marie-Julie
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/timstrafinsky/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timstrafinsky/)*

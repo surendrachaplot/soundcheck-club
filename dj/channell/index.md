@@ -1,6 +1,6 @@
 # Channell
 
-Channell is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Phonox, London on Sat, 3 Oct 2026.
+Channell is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Phonox, London on Sat, 3 Oct 2026.
 
 Channell is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across London, Manchester and Vienna. Often billed alongside Zar., MC Fox and EVABEE. Next up: Phonox, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Channell is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Zar., MC Fox, EVABEE
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/channell/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/channell/)*

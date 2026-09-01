@@ -1,14 +1,15 @@
 # Ellen Trenn
 
-Ellen Trenn is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Garage Klub, Antwerp on Sat, 5 Sept 2026.
+Ellen Trenn is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Garage Klub, Antwerp on Sat, 5 Sept 2026.
 
-Ellen Trenn is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 8 more. Often billed alongside DJ SeXex, Flour and Mondaiji. Next up: Garage Klub, Antwerp on Sat 5 Sept.
+Ellen Trenn is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 8 more. Often billed alongside Flour, BLONDEX and DJ SeXex. Next up: Garage Klub, Antwerp on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Garage Klub | Antwerp |
+| Sat, 5 Sept 2026 | Ampere | Antwerp |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 
@@ -25,6 +26,6 @@ Ellen Trenn is a techno and house artist based in Germany, tracked on soundcheck
 
 ## Shares bills with
 
-DJ SeXex, Flour, Mondaiji
+Flour, BLONDEX, DJ SeXex
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ellentrenn/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellentrenn/)*

@@ -1,6 +1,6 @@
 # Mark Knight
 
-Mark Knight is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Pacha Ibiza, Ibiza on Sat, 5 Sept 2026.
+Mark Knight is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Pacha Ibiza, Ibiza on Sat, 5 Sept 2026.
 
 Mark Knight is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Barcelona and Chicago and 22 more. Often billed alongside Martin Ikin, Gene Farris and CASSIMM. Next up: Pacha Ibiza, Ibiza on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Mark Knight is a house and tech house artist based in United Kingdom, tracked on
 
 Martin Ikin, Gene Farris, CASSIMM
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/markknight/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markknight/)*

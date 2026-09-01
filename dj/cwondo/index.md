@@ -1,6 +1,6 @@
 # Cwondo
 
-Cwondo is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Forestlimit, Tokyo on Tue, 15 Sept 2026.
+Cwondo is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Forestlimit, Tokyo on Tue, 15 Sept 2026.
 
 Cwondo is an electronica and club artist tracked on soundcheck, with 29 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Yoyou, illequal and uku kasai. Next up: Forestlimit, Tokyo on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Cwondo is an electronica and club artist tracked on soundcheck, with 29 sets log
 
 Yoyou, illequal, uku kasai
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cwondo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cwondo/)*

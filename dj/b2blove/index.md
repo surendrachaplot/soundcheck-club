@@ -1,6 +1,6 @@
 # B2BLOVE
 
-B2BLOVE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+B2BLOVE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 B2BLOVE is a house and techno artist tracked on soundcheck, with 5 sets logged across Berlin and Melbourne. Often billed alongside Paulpatsch, AKEYLAH and ANNĒ. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ B2BLOVE is a house and techno artist tracked on soundcheck, with 5 sets logged a
 
 Paulpatsch, AKEYLAH, ANNĒ
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/b2blove/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b2blove/)*

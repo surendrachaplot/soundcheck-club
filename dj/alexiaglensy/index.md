@@ -1,6 +1,6 @@
 # Alexia Glensy
 
-Alexia Glensy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Night Tales, London on Sat, 5 Sept 2026.
+Alexia Glensy is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Night Tales, London on Sat, 5 Sept 2026.
 
 Alexia Glensy is a house and techno artist tracked on soundcheck, with 164 sets logged across Amsterdam, Barcelona, Berlin and Boston and 33 more. Often billed alongside Alex Dima, Gabbs and Christian AB. Next up: Night Tales, London on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Alexia Glensy is a house and techno artist tracked on soundcheck, with 164 sets 
 
 Alex Dima, Gabbs, Christian AB
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*

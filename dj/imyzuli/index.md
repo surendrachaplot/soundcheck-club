@@ -1,6 +1,6 @@
 # imyzuli
 
-imyzuli is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Yes, Manchester on Thu, 17 Sept 2026.
+imyzuli is a Pop and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Yes, Manchester on Thu, 17 Sept 2026.
 
 imyzuli is a pop and electro artist tracked on soundcheck, with 7 sets logged across London and Manchester. Often billed alongside Akamwave, Hunnygloss and Princess Elf Bar. Next up: Yes, Manchester on Thu 17 Sept.
 
@@ -23,4 +23,4 @@ imyzuli is a pop and electro artist tracked on soundcheck, with 7 sets logged ac
 
 Akamwave, Hunnygloss, Princess Elf Bar
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/imyzuli/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imyzuli/)*

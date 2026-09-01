@@ -1,6 +1,6 @@
 # Coone
 
-Coone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Coone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Coone is a techno and house artist based in Belgium, tracked on soundcheck, with 19 sets logged across Amsterdam, Dusseldorf, Glasgow and London and 5 more. Often billed alongside Brennan Heart, Da Tweekaz and Dual Damage. Next up: NOS Event Center, Losangeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Coone is a techno and house artist based in Belgium, tracked on soundcheck, with
 
 Brennan Heart, Da Tweekaz, Dual Damage
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*

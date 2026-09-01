@@ -1,6 +1,6 @@
 # Kandelissa
 
-Kandelissa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Le Sucre, Lyon on Fri, 4 Sept 2026.
+Kandelissa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Sucre, Lyon on Fri, 4 Sept 2026.
 
 Kandelissa is a techno and house artist based in France, tracked on soundcheck, with 39 sets logged across Berlin, Lyon, Marseille and Paris and 2 more. Often billed alongside Lucifer, Ben Manson and COCKO. Next up: Le Sucre, Lyon on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Kandelissa is a techno and house artist based in France, tracked on soundcheck, 
 
 Lucifer, Ben Manson, COCKO
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kandelissa/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kandelissa/)*

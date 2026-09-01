@@ -1,6 +1,6 @@
 # PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO at 528 Ibiza
 
-PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO at 528 Ibiza on Tue 8 Sept, Ibiza. 4 acts on the bill: Bushwacka!, Groove Armada, Prosumer and TEED. House. Preview the line-up and save it on soundcheck.
+PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO at 528 Ibiza on Tue 8 Sept, Ibiza. 7 acts on the bill: Bushwacka!, Ceri, Cici and Forest (PL) and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,9 @@ PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO at 528 Ibiza on Tue 8 Sept, Ibiza. 4 ac
 ## Line-up
 
 - Bushwacka!
+- Ceri
+- Cici
+- Forest (PL)
 - Groove Armada
 - Prosumer
 - TEED

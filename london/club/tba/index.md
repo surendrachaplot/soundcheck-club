@@ -1,15 +1,14 @@
 # TBA
 
-TBA is a music venue in London with 282 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "MILLLOWATT" on Fri, 28 Aug 2026.
+TBA is a music venue in London with 291 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Test Event - Barcode" on Wed, 2 Sept 2026.
 
-TBA is a music venue in London listed on soundcheck. 282 upcoming nights, with line-ups including 1-800 GIRLS, 1morning, 320 (1) and 3 Minds and 2 more. Browse upcoming dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 291 upcoming nights, with line-ups including 1-800 GIRLS, 1morning, 320 (1) and 3 Minds and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | MILLLOWATT | Yakobi Narubi |
-| Sun, 30 Aug 2026 | Buenos Beats - OFFSHORE | CHINO [AR], DJ Ruby |
+| Wed, 2 Sept 2026 | Test Event - Barcode |  |
 | Thu, 3 Sept 2026 | SOLACE |  |
 | Thu, 3 Sept 2026 | - |  |
 | Thu, 3 Sept 2026 | Infra presents: Frazi.er, Lorely Mur, & Meschwitz | Frazi.er, Lorely Mur, Meschwitz |
@@ -18,5 +17,6 @@ TBA is a music venue in London listed on soundcheck. 282 upcoming nights, with l
 | Fri, 4 Sept 2026 | ADUNANZA ~ |  |
 | Fri, 4 Sept 2026 | PIT//STOP 7: CEM, AceMo, Sevyn 0000, OZA, DJ USA | AceMo, CEM, DJ USA, OZA, Sevyn 0000 |
 | Fri, 4 Sept 2026 | tba | Adi (CO), Diamin, Jane Fitz, Melina Serser |
+| Fri, 4 Sept 2026 | Mariano Mellino - Brunch Madrid | Mariano Mellino |
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

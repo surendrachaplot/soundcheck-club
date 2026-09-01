@@ -1,14 +1,15 @@
 # Coco Maria
 
-Coco Maria is a House and Jazz artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Elsewhere, New York City on Fri, 18 Sept 2026.
+Coco Maria is a House and Jazz artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Elsewhere, New York City on Fri, 18 Sept 2026.
 
-Coco Maria is a house and jazz artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Elsewhere, Newyorkcity on Fri 18 Sept.
+Coco Maria is a house and jazz artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Elsewhere, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Elsewhere | New York City |
+| Sun, 20 Sept 2026 | White Owl Social Club | Portland |
 | Sat, 3 Oct 2026 | Carriageworks | Sydney |
 | Sun, 4 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 
@@ -27,4 +28,4 @@ Coco Maria is a house and jazz artist tracked on soundcheck, with 119 sets logge
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

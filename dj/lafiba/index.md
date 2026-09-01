@@ -1,6 +1,6 @@
 # La Fiba
 
-La Fiba is a Drum & Bass and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Milandia Greifensee, Zurich on Sat, 5 Sept 2026.
+La Fiba is a Drum & Bass and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Milandia Greifensee, Zurich on Sat, 5 Sept 2026.
 
 La Fiba is a drum & bass and ghetto tech artist based in Switzerland, tracked on soundcheck, with 6 sets logged across Basel, Berlin and Zurich. Often billed alongside ButchVoyage, Delilah and Hypatia. Next up: Milandia Greifensee, Zurich on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ La Fiba is a drum & bass and ghetto tech artist based in Switzerland, tracked on
 
 ButchVoyage, Delilah, Hypatia
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lafiba/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lafiba/)*

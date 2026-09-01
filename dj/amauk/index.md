@@ -1,6 +1,6 @@
 # Ama (UK)
 
-Ama (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Ama (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Ama (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Bali, Birmingham and Brighton and 10 more. Often billed alongside Grooverider, Hybrid Minds and Voltage. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Ama (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Grooverider, Hybrid Minds, Voltage
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/amauk/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amauk/)*

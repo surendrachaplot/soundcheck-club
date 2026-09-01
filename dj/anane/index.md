@@ -1,14 +1,15 @@
 # Anane
 
-Anane is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at KOKO, London on Fri, 4 Sept 2026.
+Anane is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at KOKO, London on Fri, 4 Sept 2026.
 
-Anane is a house and afro house artist tracked on soundcheck, with 87 sets logged across Chicago, Denver, Detroit and Ibiza and 11 more. Often billed alongside Louie Vega, Christian Mantini and Jihad Muhammad. Next up: KOKO, London on Fri 4 Sept.
+Anane is a house and afro house artist tracked on soundcheck, with 88 sets logged across Chicago, Denver, Detroit and Ibiza and 11 more. Often billed alongside Louie Vega, Christian Mantini and Jihad Muhammad. Next up: KOKO, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | KOKO | London |
+| Sat, 19 Sept 2026 | Le Bain | New York City |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Sun, 18 Oct 2026 | H0L0 | New York City |
 
@@ -27,4 +28,4 @@ Anane is a house and afro house artist tracked on soundcheck, with 87 sets logge
 
 Louie Vega, Christian Mantini, Jihad Muhammad
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anane/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anane/)*

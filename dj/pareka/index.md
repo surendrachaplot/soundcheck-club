@@ -1,6 +1,6 @@
 # PAREKA
 
-PAREKA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Tresor / Globus, Berlin on Wed, 30 Sept 2026.
+PAREKA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tresor / Globus, Berlin on Wed, 30 Sept 2026.
 
 PAREKA is a techno and house artist tracked on soundcheck, with 10 sets logged across Berlin and Nurnberg. Often billed alongside Eluzid, Brut. and Victor (DE). Next up: Tresor / Globus, Berlin on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ PAREKA is a techno and house artist tracked on soundcheck, with 10 sets logged a
 
 Eluzid, Brut., Victor (DE)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pareka/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pareka/)*

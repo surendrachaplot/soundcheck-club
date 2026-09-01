@@ -1,6 +1,6 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 4 Sept 2026.
+Coffintexts is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 4 Sept 2026.
 
 Coffintexts is a techno and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: TBA - Los Angeles (Warehouse), Losangeles on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Coffintexts is a techno and house artist tracked on soundcheck, with 127 sets lo
 
 Sister System, SATURNSARii, Berrakka
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*

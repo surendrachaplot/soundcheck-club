@@ -1,6 +1,6 @@
 # ik0nixx
 
-ik0nixx is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Plot 22, Sheffield on Fri, 18 Sept 2026.
+ik0nixx is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Plot 22, Sheffield on Fri, 18 Sept 2026.
 
 ik0nixx is a tech house and acid artist tracked on soundcheck, with 3 sets logged across Sheffield. Often billed alongside HausKlown, FKA Hardcore and Yyre. Next up: Plot 22, Sheffield on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ ik0nixx is a tech house and acid artist tracked on soundcheck, with 3 sets logge
 
 HausKlown, FKA Hardcore, Yyre
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ik0nixx/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ik0nixx/)*

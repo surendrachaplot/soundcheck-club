@@ -1,18 +1,19 @@
 # Luigi Madonna
 
-Luigi Madonna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+Luigi Madonna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
 
-Luigi Madonna is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside Indira Paganotto, Markantonio and Joseph Capriati. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
+Luigi Madonna is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside Indira Paganotto, Markantonio and Joseph Capriati. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | The Bulldog Palace | Amsterdam |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
-- TBA - Warehouse, Toronto — Sat, 29 Aug 2026
+- Motorista Studio, Toronto — Sat, 29 Aug 2026
 - Stereo, Montreal — Fri, 28 Aug 2026
 - TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver — Sat, 22 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 28 Jul 2026
@@ -25,4 +26,4 @@ Luigi Madonna is a techno and house artist tracked on soundcheck, with 58 sets l
 
 Indira Paganotto, Markantonio, Joseph Capriati
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*

@@ -1,6 +1,6 @@
 # NEW YORK
 
-NEW YORK is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Giselle, Düsseldorf on Sat, 5 Sept 2026.
+NEW YORK is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Giselle, Düsseldorf on Sat, 5 Sept 2026.
 
 NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundcheck, with 163 sets logged across Amsterdam, Bali, Barcelona and Berlin and 50 more. Often billed alongside AMEX (UK), APP and Alaska (2). Next up: Giselle, Dusseldorf on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ NEW YORK is an electro and pop artist based in United Kingdom, tracked on soundc
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*

@@ -1,6 +1,6 @@
 # XZ5000
 
-XZ5000 is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at .exe archive, Berlin on Sat, 5 Sept 2026.
+XZ5000 is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at .exe archive, Berlin on Sat, 5 Sept 2026.
 
 XZ5000 is a psytrance and techno artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside HMEHDI, CUNT REMEMBER and Grillac. Next up: .exe archive, Berlin on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ XZ5000 is a psytrance and techno artist tracked on soundcheck, with 7 sets logge
 
 HMEHDI, CUNT REMEMBER, Grillac
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/xz5000/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xz5000/)*

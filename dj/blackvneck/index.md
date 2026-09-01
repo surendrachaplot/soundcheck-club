@@ -1,13 +1,14 @@
 # Black V Neck
 
-Black V Neck is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bauhaus, Houston on Fri, 18 Sept 2026.
+Black V Neck is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Sat, 12 Sept 2026.
 
-Black V Neck is a house and tech house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Austin, Boston, Chicago and Detroit and 11 more. Often billed alongside Vnssa, Matroda and Walker & Royce. Next up: Bauhaus, Houston on Fri 18 Sept.
+Black V Neck is a house and tech house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Austin, Boston, Chicago and Detroit and 11 more. Often billed alongside Vnssa, Matroda and Walker & Royce. Next up: Madarae San Francisco, Sanfrancisco on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Madarae San Francisco | San Francisco/Oakland |
 | Fri, 18 Sept 2026 | Bauhaus | Houston |
 
 ## Recently played
@@ -25,4 +26,4 @@ Black V Neck is a house and tech house artist based in United States of America,
 
 Vnssa, Matroda, Walker & Royce
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackvneck/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackvneck/)*

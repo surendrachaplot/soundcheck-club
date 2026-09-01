@@ -1,6 +1,6 @@
 # G3p3tto
 
-G3p3tto is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+G3p3tto is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 G3p3tto is a techno artist tracked on soundcheck, with 16 sets logged across Athens. Often billed alongside 118119, Mr.M and Nadja. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ G3p3tto is a techno artist tracked on soundcheck, with 16 sets logged across Ath
 
 118119, Mr.M, Nadja
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/g3p3tto/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g3p3tto/)*

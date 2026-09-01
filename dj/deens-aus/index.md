@@ -1,6 +1,6 @@
 # Deens
 
-Deens is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Lord Gladstone, Sydney on Sat, 5 Sept 2026.
+Deens is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Lord Gladstone, Sydney on Sat, 5 Sept 2026.
 
 Deens is a garage and techno artist based in Australia, tracked on soundcheck, with 36 sets logged across Manchester, Melbourne and Sydney. Often billed alongside Domonique Dee, Duzi and Jessi Lowkey. Next up: The Lord Gladstone, Sydney on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Deens is a garage and techno artist based in Australia, tracked on soundcheck, w
 
 Domonique Dee, Duzi, Jessi Lowkey
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deens-aus/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deens-aus/)*

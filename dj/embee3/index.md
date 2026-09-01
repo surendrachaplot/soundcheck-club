@@ -1,6 +1,6 @@
 # EMBEE3
 
-EMBEE3 is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Wendel, Berlin on Sat, 26 Sept 2026.
+EMBEE3 is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Wendel, Berlin on Sat, 26 Sept 2026.
 
 EMBEE3 is a drum & bass and garage artist tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside Dj Quien, Anton Quasi and Dub Isotope. Next up: Wendel, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ EMBEE3 is a drum & bass and garage artist tracked on soundcheck, with 27 sets lo
 
 Dj Quien, Anton Quasi, Dub Isotope
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/embee3/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/embee3/)*

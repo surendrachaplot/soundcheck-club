@@ -1,6 +1,6 @@
 # Les Studios du Rhin
 
-Les Studios du Rhin is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "House Tea Dance #4" on Sun, 27 Sept 2026.
+Les Studios du Rhin is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "House Tea Dance #4" on Sun, 27 Sept 2026.
 
 Les Studios du Rhin is a music venue in Strasbourg listed on soundcheck. 1 upcoming night, with line-ups including Tal Stef. Browse upcoming dates, start times and who's playing. 2 rue du Rhin Napoleon, 67000 Strasbourg, France.
 
@@ -14,4 +14,4 @@ Les Studios du Rhin is a music venue in Strasbourg listed on soundcheck. 1 upcom
 
 2 rue du Rhin Napoleon, 67000 Strasbourg, France, Strasbourg
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/les-studios-du-rhin/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/les-studios-du-rhin/)*

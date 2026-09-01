@@ -1,6 +1,6 @@
 # Christian Voldstad
 
-Christian Voldstad is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Signal, New York City on Sat, 17 Oct 2026.
+Christian Voldstad is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Signal, New York City on Sat, 17 Oct 2026.
 
 Christian Voldstad is a deep house and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Amsterdam, Montreal and Newyorkcity. Often billed alongside Iman Rizky, Lovecraft and Dim Kelly. Next up: Signal, Newyorkcity on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Christian Voldstad is a deep house and house artist based in United States of Am
 
 Iman Rizky, Lovecraft, Dim Kelly
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/christianvoldstad/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianvoldstad/)*

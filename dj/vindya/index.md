@@ -1,6 +1,6 @@
 # Vindya
 
-Vindya is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Glove That Fits, London on Sun, 6 Sept 2026.
+Vindya is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Glove That Fits, London on Sun, 6 Sept 2026.
 
 Vindya is a techno and trance artist tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Liverpool and London and 3 more. Often billed alongside LOCKS, Nakamo and Bethan. Next up: The Glove That Fits, London on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Vindya is a techno and trance artist tracked on soundcheck, with 41 sets logged 
 
 LOCKS, Nakamo, Bethan
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vindya/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vindya/)*

@@ -1,6 +1,6 @@
 # Cleopard2000
 
-Cleopard2000 is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Home The Venue, Sydney on Fri, 4 Sept 2026.
+Cleopard2000 is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Home The Venue, Sydney on Fri, 4 Sept 2026.
 
 Cleopard2000 is a techno and trance artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 28 more. Often billed alongside Mika Heggemann, Elotrance and Trancemaster Krause. Next up: Home The Venue, Sydney on Fri 4 Sept.
 
@@ -33,4 +33,4 @@ Cleopard2000 is a techno and trance artist tracked on soundcheck, with 158 sets 
 
 Mika Heggemann, Elotrance, Trancemaster Krause
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cleopard2000/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cleopard2000/)*

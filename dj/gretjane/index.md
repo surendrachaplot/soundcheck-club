@@ -1,14 +1,15 @@
 # Gretjane
 
-Gretjane is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
+Gretjane is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
 
-Gretjane is a techno and minimal techno artist tracked on soundcheck, with 5 sets logged across Riga. Often billed alongside 2B (1), Existal and Freiya March. Next up: Korpuss, Riga on Fri 4 Sept.
+Gretjane is a techno and minimal techno artist tracked on soundcheck, with 6 sets logged across Riga. Often billed alongside 2B (1), DEP (LV) and Existal. Next up: Korpuss, Riga on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Korpuss | Riga |
+| Fri, 11 Sept 2026 | Korpuss | Riga |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Gretjane is a techno and minimal techno artist tracked on soundcheck, with 5 set
 
 ## Shares bills with
 
-2B (1), Existal, Freiya March
+2B (1), DEP (LV), Existal
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gretjane/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gretjane/)*

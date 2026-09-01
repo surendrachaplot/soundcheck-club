@@ -1,6 +1,6 @@
 # FULLBODYDURAG, JUNO, RATONC1TO, D STRANGE at Podlasie Club
 
-FULLBODYDURAG, JUNO, RATONC1TO, D STRANGE at Podlasie Club on Fri 11 Sept, Chicago. 4 acts on the bill: D. Strange, FULLBODY, Juno (NY) and RATONC1T0. Preview the line-up and save it on soundcheck.
+FULLBODYDURAG, JUNO, RATONC1TO, D STRANGE at Podlasie Club on Fri 11 Sept, Chicago. 5 acts on the bill: D. Strange, FULLBODY, Fullbodydurag and Juno (NY) and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ FULLBODYDURAG, JUNO, RATONC1TO, D STRANGE at Podlasie Club on Fri 11 Sept, Chica
 
 - D. Strange
 - FULLBODY
+- Fullbodydurag
 - Juno (NY)
 - RATONC1T0
 

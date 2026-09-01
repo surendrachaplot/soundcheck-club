@@ -1,6 +1,6 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Absys Rec x Bodytonic present S.P.Y" on Fri, 4 Sept 2026.
+The Racket Space is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Absys Rec x Bodytonic present S.P.Y" on Fri, 4 Sept 2026.
 
 The Racket Space is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including Cailín, camoufly, IsGwan and MADVILLA and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
@@ -22,4 +22,4 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 9 upcoming nig
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

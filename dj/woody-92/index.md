@@ -1,6 +1,6 @@
 # Woody92
 
-Woody92 is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Sept 2026.
+Woody92 is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Sept 2026.
 
 Woody92 is a techno and experimental artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Loek Frey, Jeans (NL) and Konduku. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Woody92 is a techno and experimental artist tracked on soundcheck, with 133 sets
 
 Loek Frey, Jeans (NL), Konduku
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/woody-92/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woody-92/)*

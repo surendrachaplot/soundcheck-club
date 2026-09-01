@@ -1,8 +1,8 @@
 # Dimanté
 
-Dimanté is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Union Club, Vauxhall, London on Fri, 4 Sept 2026.
+Dimanté is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Union Club, Vauxhall, London on Fri, 4 Sept 2026.
 
-Dimanté is a techno and progressive house artist based in Ukraine, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Any Koh, Folek and Monnay. Next up: Union Club, Vauxhall, London on Fri 4 Sept.
+Dimanté is a techno and progressive house artist based in Ukraine, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Dimanté, Any Koh and Folek. Next up: Union Club, Vauxhall, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Dimanté is a techno and progressive house artist based in Ukraine, tracked on s
 
 ## Shares bills with
 
-Any Koh, Folek, Monnay
+Dimanté, Any Koh, Folek
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante/)*

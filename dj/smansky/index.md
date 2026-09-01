@@ -1,8 +1,8 @@
 # Smansky
 
-Smansky is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mastak, Warsaw on Sat, 26 Sept 2026.
+Smansky is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mastak, Warsaw on Sat, 26 Sept 2026.
 
-Smansky is an electro and techno artist based in Poland, tracked on soundcheck, with 1 set logged across Warsaw. Often billed alongside SKFF and FM (PL). Next up: Mastak, Warsaw on Sat 26 Sept.
+Smansky is a techno and electro artist based in Poland, tracked on soundcheck, with 1 set logged across Warsaw. Often billed alongside FM (PL) and SKFF. Next up: Mastak, Warsaw on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Smansky is an electro and techno artist based in Poland, tracked on soundcheck, 
 
 ## Shares bills with
 
-SKFF, FM (PL)
+FM (PL), SKFF
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/smansky/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smansky/)*

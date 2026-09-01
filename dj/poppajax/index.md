@@ -1,6 +1,6 @@
 # Poppa Jax
 
-Poppa Jax is a Techno and Ballroom artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+Poppa Jax is a Techno and Ballroom artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
 Poppa Jax is a techno and ballroom artist tracked on soundcheck, with 20 sets logged across Auckland, London, Melbourne and Rotterdam and 1 more. Often billed alongside HALF QUEEN, ATARANGI and Baby Cocada. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Poppa Jax is a techno and ballroom artist tracked on soundcheck, with 20 sets lo
 
 HALF QUEEN, ATARANGI, Baby Cocada
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/poppajax/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poppajax/)*

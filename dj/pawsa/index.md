@@ -1,6 +1,6 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Fulton Fish Market - Hunts Point, New York City on Sat, 5 Sept 2026.
+PAWSA is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fulton Fish Market - Hunts Point, New York City on Sat, 5 Sept 2026.
 
 PAWSA is a house and tech house artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Dennis Cruz, Silvie Loto and ANOTR. Next up: Fulton Fish Market - Hunts Point, Newyorkcity on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ PAWSA is a house and tech house artist tracked on soundcheck, with 143 sets logg
 
 Dennis Cruz, Silvie Loto, ANOTR
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawsa/)*

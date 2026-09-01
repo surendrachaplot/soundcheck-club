@@ -1,6 +1,6 @@
 # Franco Rossi
 
-Franco Rossi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Les Enfants Brillants, Barcelona on Thu, 3 Sept 2026.
+Franco Rossi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 3 Sept 2026.
 
 Franco Rossi is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 7 more. Often billed alongside JXXXO, ANDRØMEDA and Ana Alves. Next up: Les Enfants Brillants, Barcelona on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Franco Rossi is a techno and house artist tracked on soundcheck, with 55 sets lo
 
 JXXXO, ANDRØMEDA, Ana Alves
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francorossi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francorossi/)*

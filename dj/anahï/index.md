@@ -1,6 +1,6 @@
 # anahï
 
-anahï is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Beate Uwe, Berlin on Sun, 13 Sept 2026.
+anahï is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Beate Uwe, Berlin on Sun, 13 Sept 2026.
 
 anahï is a downtempo and electronica artist based in Brazil, tracked on soundcheck, with 44 sets logged across Berlin, Hamburg and Munich. Often billed alongside Luca Musto, Emorine and ELIZEN THE EMPEROR. Next up: Beate Uwe, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ anahï is a downtempo and electronica artist based in Brazil, tracked on soundch
 
 Luca Musto, Emorine, ELIZEN THE EMPEROR
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anahï/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anahï/)*

@@ -1,6 +1,6 @@
 # Aura with ÜBERKIKZ & Alarico at Odonien
 
-Aura with ÜBERKIKZ & Alarico at Odonien on Fri 4 Sept, Cologne. 2 acts on the bill: Alarico and ÜBERKIKZ. Techno and House. Preview the line-up and save it on soundcheck.
+Aura with ÜBERKIKZ & Alarico at Odonien on Fri 4 Sept, Cologne. 5 acts on the bill: Alarico, Prossowski, Szunflower and Tschatsching and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,9 @@ Aura with ÜBERKIKZ & Alarico at Odonien on Fri 4 Sept, Cologne. 2 acts on the b
 ## Line-up
 
 - Alarico
+- Prossowski
+- Szunflower
+- Tschatsching
 - ÜBERKIKZ
 
 *Source: [soundcheck](https://soundcheck.club/e/2391351-aura-with-berkikz-alarico-at-odonien/)*

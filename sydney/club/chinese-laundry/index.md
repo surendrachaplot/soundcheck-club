@@ -1,17 +1,25 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "bradeazy - Sydney" on Sat, 3 Oct 2026.
+Chinese Laundry is a music venue in Sydney with 9 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Chinese Laundry Invites Prizefight & Ed Kent [ALL NIGHT LONG] + OVERDRIVE MAG TAKEOVER" on Fri, 4 Sept 2026.
 
-Chinese Laundry is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including bradeazy. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
+Chinese Laundry is a music venue in Sydney listed on soundcheck. 9 upcoming nights, with line-ups including AMMARA, Amotik, bradeazy and C.FRIM and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Chinese Laundry Invites Prizefight & Ed Kent [ALL NIGHT LONG] + OVERDRIVE MAG TAKEOVER | Ed Kent, Love, Jess, Prizefight |
+| Sat, 5 Sept 2026 | Chinese Laundry Invites Danny Rankin [UK] + OFF THE MAP TAKEOVER | Danny Rankin, Klein Rietje |
+| Fri, 11 Sept 2026 | Chinese Laundry Invites C.FRIM + MIRASIA | C.FRIM, MIRASIA |
+| Sat, 12 Sept 2026 | Chinese Laundry Invites PEOPLE'S PARTY [FULL VENUE TAKEOVER] |  |
+| Fri, 18 Sept 2026 | Chinese Laundry Invites FRICTION [FULL VENUE TAKEOVER] & Kid Kenobi [30 YEARS] | Kid Kenobi |
+| Sat, 19 Sept 2026 | Chinese Laundry Invites Spekki Webu [NL] + Mehmet Alpdogan & FRIENDS | Mehmet Alpdogan, Spekki Webu |
+| Fri, 25 Sept 2026 | Chinese Laundry Invites C'EST LA VIE FT. AMMARA [UK] + PARTIGIRL | AMMARA, PARTIGIRL |
+| Sat, 26 Sept 2026 | Chinese Laundry Invites Headhunters [GUY CONTACT & SOLAR SUITE] + Amotik [DE] | Amotik, Headhunters |
 | Sat, 3 Oct 2026 | bradeazy - Sydney | bradeazy |
 
 ## Address
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

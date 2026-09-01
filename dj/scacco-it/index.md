@@ -1,6 +1,6 @@
 # Scacco
 
-Scacco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Scacco is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Scacco is a techno and house artist based in Italy, tracked on soundcheck, with 15 sets logged across Buenosaires, Ibiza, Malaga and Mallorca and 4 more. Often billed alongside tINI, Boyoon and Hyerang. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Scacco is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 tINI, Boyoon, Hyerang
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scacco-it/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scacco-it/)*

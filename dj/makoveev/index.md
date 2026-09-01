@@ -1,6 +1,6 @@
 # Makoveev
 
-Makoveev is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Amigo, Ghent on Fri, 18 Sept 2026.
+Makoveev is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Amigo, Ghent on Fri, 18 Sept 2026.
 
 Makoveev is a techno and industrial artist based in Spain, tracked on soundcheck, with 31 sets logged across Brussels and Ghent. Often billed alongside Auk., Leck Barker and Laura Charlier. Next up: Amigo, Ghent on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Makoveev is a techno and industrial artist based in Spain, tracked on soundcheck
 
 Auk., Leck Barker, Laura Charlier
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/makoveev/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makoveev/)*

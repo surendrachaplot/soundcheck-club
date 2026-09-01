@@ -1,6 +1,6 @@
 # Princess Xixi
 
-Princess Xixi is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
+Princess Xixi is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
 
 Princess Xixi is a club and bass artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Berlin, Brighton, Bristol and Glasgow and 5 more. Often billed alongside THEMPRESS, CHEZA LUCINA and LOVECAT. Next up: Hackney Bridge, London on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Princess Xixi is a club and bass artist based in United Kingdom, tracked on soun
 
 THEMPRESS, CHEZA LUCINA, LOVECAT
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*

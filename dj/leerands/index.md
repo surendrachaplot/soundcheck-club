@@ -1,6 +1,6 @@
 # Lee Rands
 
-Lee Rands is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Kapsule, Liverpool on Sat, 12 Sept 2026.
+Lee Rands is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Kapsule, Liverpool on Sat, 12 Sept 2026.
 
 Lee Rands is a techno and house artist tracked on soundcheck, with 12 sets logged across Liverpool and London. Often billed alongside Ryan Elliott, Alex Arnout and Aly P. Next up: Kapsule, Liverpool on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Lee Rands is a techno and house artist tracked on soundcheck, with 12 sets logge
 
 Ryan Elliott, Alex Arnout, Aly P
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leerands/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leerands/)*

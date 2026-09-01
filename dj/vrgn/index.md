@@ -1,6 +1,6 @@
 # VRGN
 
-VRGN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+VRGN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 VRGN is a techno and house artist tracked on soundcheck, with 25 sets logged across Athens. Often billed alongside Cirkle, a.metz and Mr.M. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ VRGN is a techno and house artist tracked on soundcheck, with 25 sets logged acr
 
 Cirkle, a.metz, Mr.M
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vrgn/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vrgn/)*

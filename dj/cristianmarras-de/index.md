@@ -1,8 +1,8 @@
 # Cristian Marras
 
-Cristian Marras is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at RADION, Amsterdam on Sat, 10 Oct 2026.
+Cristian Marras is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at RADION, Amsterdam on Sat, 10 Oct 2026.
 
-Cristian Marras is a techno and house artist based in Germany, tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Brussels and Budapest and 10 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: RADION, Amsterdam on Sat 10 Oct.
+Cristian Marras is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Brussels and Budapest and 10 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: RADION, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Cristian Marras is a techno and house artist based in Germany, tracked on soundc
 | Sat, 10 Oct 2026 | RADION | Amsterdam |
 | Fri, 13 Nov 2026 | KitKatClub | Berlin |
 | Sun, 15 Nov 2026 | KitKatClub | Berlin |
+| Sat, 21 Nov 2026 | Skin Club | Madrid |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Cristian Marras is a techno and house artist based in Germany, tracked on soundc
 
 Mar/us, Metaraph, OCD
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*

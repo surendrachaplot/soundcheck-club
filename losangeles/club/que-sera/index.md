@@ -1,6 +1,6 @@
 # Que Sera
 
-Que Sera is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Virtigo presents: Diavol Strain ( Chile), Velas Negras, and Hammerwhip" on Fri, 11 Sept 2026.
+Que Sera is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Virtigo presents: Diavol Strain ( Chile), Velas Negras, and Hammerwhip" on Fri, 11 Sept 2026.
 
 Que Sera is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including heelbite316, Shay De Castro and Tattoopudge. Browse upcoming dates, start times and who's playing. 1923 E 7th St,  Long Beach, CA 90813.
 
@@ -15,4 +15,4 @@ Que Sera is a music venue in Losangeles listed on soundcheck. 2 upcoming nights,
 
 1923 E 7th St,  Long Beach, CA 90813, Los Angeles
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/que-sera/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/que-sera/)*

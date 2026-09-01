@@ -1,6 +1,6 @@
 # Will Clarke
 
-Will Clarke is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Will Clarke is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Will Clarke is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside DJ Minx, Dombresky and Boys Noize. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Will Clarke is a techno and house artist tracked on soundcheck, with 89 sets log
 
 DJ Minx, Dombresky, Boys Noize
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willclarke/)*

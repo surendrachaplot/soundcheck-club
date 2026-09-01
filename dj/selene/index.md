@@ -1,6 +1,6 @@
 # Selene
 
-Selene is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at RADION, Amsterdam on Fri, 18 Sept 2026.
+Selene is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at RADION, Amsterdam on Fri, 18 Sept 2026.
 
 Selene is a disco and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, Newyorkcity and Thehague. Often billed alongside Alessandro Parisi, Benji DF and David Vunk. Next up: RADION, Amsterdam on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Selene is a disco and techno artist based in United States of America, tracked o
 
 Alessandro Parisi, Benji DF, David Vunk
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/selene/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selene/)*

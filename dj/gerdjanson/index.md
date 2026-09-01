@@ -1,6 +1,6 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at La Terrrazza, Barcelona on Sat, 5 Sept 2026.
+Gerd Janson is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at La Terrrazza, Barcelona on Sat, 5 Sept 2026.
 
 Gerd Janson is a house and techno artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: La Terrrazza, Barcelona on Sat 5 Sept.
 
@@ -34,4 +34,4 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 296 sets lo
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

@@ -1,6 +1,6 @@
 # Ultima Esuna
 
-Ultima Esuna is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Système, Montreal on Sat, 5 Sept 2026.
+Ultima Esuna is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Système, Montreal on Sat, 5 Sept 2026.
 
 Ultima Esuna is a bass and club artist tracked on soundcheck, with 12 sets logged across Montreal, Toronto and Vancouver. Often billed alongside Dj Hermano, Jordan Gardner and Ben UFO. Next up: Système, Montreal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ultima Esuna is a bass and club artist tracked on soundcheck, with 12 sets logge
 
 Dj Hermano, Jordan Gardner, Ben UFO
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultimaesuna/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultimaesuna/)*

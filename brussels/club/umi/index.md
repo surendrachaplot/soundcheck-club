@@ -1,6 +1,6 @@
 # UMI
 
-UMI is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "CAVE x Knallspiel x Fetish Project - LVST" on Fri, 4 Sept 2026.
+UMI is a music venue in Brussels with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "CAVE x Knallspiel x Fetish Project - LVST" on Fri, 4 Sept 2026.
 
 UMI is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with line-ups including Bambi (Menage a Trois), Bapow, Bass Toast and Bibi Seck and 2 more. Browse upcoming dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
@@ -18,4 +18,4 @@ UMI is a music venue in Brussels listed on soundcheck. 5 upcoming nights, with l
 
 Rue du Marché aux Fromages 10, 1000 Bruxelles, Brussels
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/umi/)*

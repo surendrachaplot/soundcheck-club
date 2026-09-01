@@ -1,6 +1,6 @@
 # Tommy Four Seven
 
-Tommy Four Seven is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Europa Boat, Budapest on Sat, 5 Sept 2026.
+Tommy Four Seven is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Europa Boat, Budapest on Sat, 5 Sept 2026.
 
 Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Tauceti (FR), Adriana Lopez and CESAR ALMENA. Next up: Europa Boat, Budapest on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Tommy Four Seven is a techno and industrial artist tracked on soundcheck, with 1
 
 Tauceti (FR), Adriana Lopez, CESAR ALMENA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*

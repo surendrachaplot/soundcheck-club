@@ -1,6 +1,6 @@
 # Andres Campo
 
-Andres Campo is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Eden, Ibiza on Tue, 1 Sept 2026.
+Andres Campo is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Eden, Ibiza on Tue, 1 Sept 2026.
 
 Andres Campo is a techno and tech house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bali, Barcelona and Buenosaires and 15 more. Often billed alongside Fatima Hajji, Luca Donzelli and Luxi Villar. Next up: Eden, Ibiza on Tue 1 Sept.
 
@@ -30,4 +30,4 @@ Andres Campo is a techno and tech house artist tracked on soundcheck, with 79 se
 
 Fatima Hajji, Luca Donzelli, Luxi Villar
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescampo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrescampo/)*

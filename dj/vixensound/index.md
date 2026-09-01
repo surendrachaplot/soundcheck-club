@@ -1,6 +1,6 @@
 # Vixen Sound
 
-Vixen Sound is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Poetry Club, Glasgow on Sat, 19 Sept 2026.
+Vixen Sound is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Poetry Club, Glasgow on Sat, 19 Sept 2026.
 
 Vixen Sound is a dub and bass artist tracked on soundcheck, with 17 sets logged across Bristol, Brussels, Edinburgh and Geneva and 8 more. Often billed alongside Iration Steppas, Aba Shanti-I and DJ Nobu. Next up: The Poetry Club, Glasgow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Vixen Sound is a dub and bass artist tracked on soundcheck, with 17 sets logged 
 
 Iration Steppas, Aba Shanti-I, DJ Nobu
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/vixensound/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vixensound/)*

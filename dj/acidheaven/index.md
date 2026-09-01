@@ -1,6 +1,6 @@
 # acidheaven
 
-acidheaven is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at La Paloma, Barcelona on Fri, 25 Sept 2026.
+acidheaven is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at La Paloma, Barcelona on Fri, 25 Sept 2026.
 
 acidheaven is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 5 more. Often billed alongside ISAbella, Chico Blanco and Albal. Next up: La Paloma, Barcelona on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ acidheaven is a house and techno artist tracked on soundcheck, with 80 sets logg
 
 ISAbella, Chico Blanco, Albal
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/acidheaven/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidheaven/)*

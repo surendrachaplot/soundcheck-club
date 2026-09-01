@@ -1,14 +1,15 @@
 # Alex Osifo
 
-Alex Osifo is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Maya Marylebone, London on Fri, 11 Sept 2026.
+Alex Osifo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Maya Marylebone, London on Fri, 11 Sept 2026.
 
-Alex Osifo is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Leeds, London and Manchester. Often billed alongside 3 Minds, Binyamhn and Casey Spillman. Next up: Maya Marylebone, London on Fri 11 Sept.
+Alex Osifo is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Leeds, London and Manchester. Often billed alongside Binyamhn, 3 Minds and Casey Spillman. Next up: Maya Marylebone, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Maya Marylebone | London |
+| Sat, 31 Oct 2026 | Distrikt | Leeds |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Alex Osifo is a deep house and house artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-3 Minds, Binyamhn, Casey Spillman
+Binyamhn, 3 Minds, Casey Spillman
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexosifo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexosifo/)*

@@ -1,6 +1,6 @@
 # RO3
 
-RO3 is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+RO3 is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
 
 RO3 is a deep house and techno artist tracked on soundcheck, with 10 sets logged across Miami and Newyorkcity. Often billed alongside Grove Shaman, Soto Music and Jason Rault. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ RO3 is a deep house and techno artist tracked on soundcheck, with 10 sets logged
 
 Grove Shaman, Soto Music, Jason Rault
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ro3/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ro3/)*

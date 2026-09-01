@@ -1,14 +1,15 @@
 # karete bu
 
-karete bu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
+karete bu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bassiani, Tbilisi on Fri, 25 Sept 2026.
 
-karete bu is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, Brussels and Frankfurt and 6 more. Often billed alongside fr. JPLA, Jessamine and André Dancekowski. Next up: Bassiani, Tbilisi on Fri 25 Sept.
+karete bu is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Brussels and Frankfurt and 6 more. Often billed alongside fr. JPLA, Jessamine and V:SONNTAG. Next up: Bassiani, Tbilisi on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Bassiani | Tbilisi |
+| Sat, 3 Oct 2026 | Distillery | Leipzig |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ karete bu is a house and techno artist tracked on soundcheck, with 84 sets logge
 
 ## Shares bills with
 
-fr. JPLA, Jessamine, André Dancekowski
+fr. JPLA, Jessamine, V:SONNTAG
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/karetebu/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karetebu/)*

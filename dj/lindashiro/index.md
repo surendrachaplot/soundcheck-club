@@ -1,14 +1,13 @@
 # Linda shiro
 
-Linda shiro is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
+Linda shiro is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Neukolln, Berlin on Sat, 12 Sept 2026.
 
-Linda shiro is a house and minimal techno artist based in Italy, tracked on soundcheck, with 30 sets logged across Barcelona and Berlin. Often billed alongside maniac&me, Planetary Echoes and BioN. Next up: TBA -  Somewhere in East Berlin, Berlin on Fri 28 Aug.
+Linda shiro is a house and minimal techno artist based in Italy, tracked on soundcheck, with 30 sets logged across Barcelona and Berlin. Often billed alongside maniac&me, Planetary Echoes and BioN. Next up: TBA - Neukolln, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | TBA -  Somewhere in East Berlin | Berlin |
 | Sat, 12 Sept 2026 | TBA - Neukolln | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Linda shiro is a house and minimal techno artist based in Italy, tracked on soun
 
 maniac&me, Planetary Echoes, BioN
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lindashiro/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lindashiro/)*

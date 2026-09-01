@@ -1,6 +1,6 @@
 # MRRV
 
-MRRV is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Boston on Sat, 5 Sept 2026.
+MRRV is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Boston on Sat, 5 Sept 2026.
 
 MRRV is a techno and house artist tracked on soundcheck, with 21 sets logged across Boston, Miami and Newyorkcity. Often billed alongside Xoce, XAM76 and CSILLA. Next up: TBA, Boston on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ MRRV is a techno and house artist tracked on soundcheck, with 21 sets logged acr
 
 Xoce, XAM76, CSILLA
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mrrv/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrrv/)*

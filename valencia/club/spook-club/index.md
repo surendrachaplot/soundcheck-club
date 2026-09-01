@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 14 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "PRADA2000 + Kander + invitados" on Sat, 5 Sept 2026.
+Spook Club is a music venue in Valencia with 14 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "PRADA2000 + Kander + invitados" on Sat, 5 Sept 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 14 upcoming nights, with line-ups including Angelinanyulí, A.N.I., Ariezzz and BIXBITA and 2 more. Browse upcoming dates, start times and who's playing. Pinedo Valencia.
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 14 upcoming nights
 
 Pinedo Valencia, Valencia
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

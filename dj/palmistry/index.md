@@ -1,6 +1,6 @@
 # Palmistry
 
-Palmistry is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
+Palmistry is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
 
 Palmistry is an experimental and club artist tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Berlin and Brussels and 9 more. Often billed alongside Blood of Aza, Kamixlo and Felix Lee. Next up: Ormside Projects, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Palmistry is an experimental and club artist tracked on soundcheck, with 34 sets
 
 Blood of Aza, Kamixlo, Felix Lee
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/palmistry/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/palmistry/)*

@@ -1,6 +1,6 @@
 # Big Murk
 
-Big Murk is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Le Douze, Geneva on Fri, 4 Sept 2026.
+Big Murk is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Douze, Geneva on Fri, 4 Sept 2026.
 
 Big Murk is a bass and breakbeat artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Bristol and Budapest and 5 more. Often billed alongside Jeneen, SSSLIP and ZULI. Next up: Le Douze, Geneva on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Big Murk is a bass and breakbeat artist tracked on soundcheck, with 15 sets logg
 
 Jeneen, SSSLIP, ZULI
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bigmurk/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bigmurk/)*

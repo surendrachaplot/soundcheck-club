@@ -1,6 +1,6 @@
 # Luca Cazal
 
-Luca Cazal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Les Enfants Brillants, Barcelona on Fri, 4 Sept 2026.
+Luca Cazal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 4 Sept 2026.
 
 Luca Cazal is a house and techno artist based in Italy, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 5 more. Often billed alongside Maxime dB, AD:mE and Claudia Kane. Next up: Les Enfants Brillants, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Luca Cazal is a house and techno artist based in Italy, tracked on soundcheck, w
 
 Maxime dB, AD:mE, Claudia Kane
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacazal/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacazal/)*

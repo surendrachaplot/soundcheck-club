@@ -1,6 +1,6 @@
 # Centre Point
 
-Centre Point is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Influence X Centre Point presents: The Smiler & Andrew Cairns" on Fri, 4 Sept 2026.
+Centre Point is a music venue in Dublin with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Influence X Centre Point presents: The Smiler & Andrew Cairns" on Fri, 4 Sept 2026.
 
 Centre Point is a music venue in Dublin listed on soundcheck. 4 upcoming nights, with line-ups including Andrew Cairns, James Nash and Route 94. Browse upcoming dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
 
@@ -17,4 +17,4 @@ Centre Point is a music venue in Dublin listed on soundcheck. 4 upcoming nights,
 
 Temple Lane Street, Temple Bar, Dublin, Dublin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*

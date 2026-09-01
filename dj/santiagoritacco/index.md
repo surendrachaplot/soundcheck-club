@@ -1,6 +1,6 @@
 # Santiago Ritacco
 
-Santiago Ritacco is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Cafe La Palma, Madrid on Sat, 26 Sept 2026.
+Santiago Ritacco is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cafe La Palma, Madrid on Sat, 26 Sept 2026.
 
 Santiago Ritacco is a house and electro artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona, Ibiza, Madrid and Valencia. Often billed alongside Adria (ES), Pau Rosés and 4Pleasure. Next up: Cafe La Palma, Madrid on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Santiago Ritacco is a house and electro artist based in Spain, tracked on soundc
 
 Adria (ES), Pau Rosés, 4Pleasure
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagoritacco/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/santiagoritacco/)*

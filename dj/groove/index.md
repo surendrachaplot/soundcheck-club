@@ -1,6 +1,6 @@
 # Groove
 
-Groove is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Le Hasard Ludique, Paris on Sat, 5 Sept 2026.
+Groove is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Hasard Ludique, Paris on Sat, 5 Sept 2026.
 
 Groove is a techno and acid artist based in Bulgaria, tracked on soundcheck, with 22 sets logged across Athens, Bangkok, Berlin and Bristol and 9 more. Often billed alongside DANI8L, ANNA and After X. Next up: Le Hasard Ludique, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Groove is a techno and acid artist based in Bulgaria, tracked on soundcheck, wit
 
 DANI8L, ANNA, After X
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/groove/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groove/)*

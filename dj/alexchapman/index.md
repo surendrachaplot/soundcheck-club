@@ -1,6 +1,6 @@
 # Alex Chapman
 
-Alex Chapman is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Ingram Plaza, San Diego on Sat, 17 Oct 2026.
+Alex Chapman is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Ingram Plaza, San Diego on Sat, 17 Oct 2026.
 
 Alex Chapman is a club and pop artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago, Ibiza, London and Losangeles and 6 more. Often billed alongside Zoe Gitter, MALUGI and VTSS. Next up: Ingram Plaza, Sandiego on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Alex Chapman is a club and pop artist based in United States of America, tracked
 
 Zoe Gitter, MALUGI, VTSS
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexchapman/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexchapman/)*

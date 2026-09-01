@@ -1,6 +1,6 @@
 # Highrise
 
-Highrise is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Spook Club, Valencia on Sat, 3 Oct 2026.
+Highrise is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Spook Club, Valencia on Sat, 3 Oct 2026.
 
 Highrise is a garage and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Berlin, Brussels, Glasgow and London and 3 more. Often billed alongside Dwarde, Strange Signals and ohmydais. Next up: Spook Club, Valencia on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Highrise is a garage and techno artist based in United Kingdom, tracked on sound
 
 Dwarde, Strange Signals, ohmydais
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/highrise/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/highrise/)*

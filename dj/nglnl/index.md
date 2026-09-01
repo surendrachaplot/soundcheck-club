@@ -1,6 +1,6 @@
 # NGL (NL)
 
-NGL (NL) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Temple, Belfast on Sat, 19 Sept 2026.
+NGL (NL) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Temple, Belfast on Sat, 19 Sept 2026.
 
 NGL (NL) is a techno and hardcore artist tracked on soundcheck, with 6 sets logged across Belfast, Cologne, Glasgow and Nurnberg and 1 more. Often billed alongside LOOKY, Cassa Cristano and Charlie. Next up: The Temple, Belfast on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ NGL (NL) is a techno and hardcore artist tracked on soundcheck, with 6 sets logg
 
 LOOKY, Cassa Cristano, Charlie
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nglnl/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nglnl/)*

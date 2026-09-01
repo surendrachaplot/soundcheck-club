@@ -1,6 +1,6 @@
-# Re+Load at Suree
+# Re:Load at Suree
 
-Re+Load at Suree on Fri 18 Sept, Tokyo. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Re:Load at Suree on Fri 18 Sept, Tokyo. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

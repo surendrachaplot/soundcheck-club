@@ -1,8 +1,8 @@
 # upsammy
 
-upsammy is a Techno and Experimental artist with 8 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+upsammy is a Techno and Experimental artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-upsammy is a techno and experimental artist tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+upsammy is a techno and experimental artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Barcelona and Berlin and 47 more. Often billed alongside Valentina Magaletti, CCL and Skee Mask. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 185 sets
 | Fri, 2 Oct 2026 | Gessnerallee | Zurich |
 | Thu, 22 Oct 2026 | Garage Noord | Amsterdam |
 | Wed, 4 Nov 2026 | Philharmonie de Paris | Paris |
+| Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 
 ## Recently played
@@ -32,4 +33,4 @@ upsammy is a techno and experimental artist tracked on soundcheck, with 185 sets
 
 Valentina Magaletti, CCL, Skee Mask
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/upsammy/)*

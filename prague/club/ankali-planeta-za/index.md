@@ -1,8 +1,8 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Amphibian X Sinestesie: Abo Abo (live), Amanita, Marco Maldarella (live), Theo" on Fri, 4 Sept 2026.
+Ankali & Planeta Za is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Amphibian X Sinestesie: Abo Abo (live), Amanita, Marco Maldarella (live), Theo" on Fri, 4 Sept 2026.
 
-Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including 3ever, Abo Abo, Adamovia and AE.WAI and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
+Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including 3ever, Abo Abo, Adamovia and AE.WAI and 2 more. Browse upcoming dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 7 upcoming 
 | Sat, 19 Sept 2026 | Rádio Unie 2: Canino FM + Infame + Labe + Shella | Just Claudia, Pépe, mata rubia, patricccio |
 | Fri, 25 Sept 2026 | Weltraum 5th Anniversary with Connor Wall [AUS] | AE.WAI, Arton (CZ), Axis Alpha, Connor Wall, Edits, Eva Falt, Kobayashi Maru, Madeleine |
 | Sat, 26 Sept 2026 | ★ BRUXA with Huamaniser, Rachel de Moncuit, Nina Farrina & 3ever ★ | 3ever, Huamaniser, Nina Farrina, RayRay |
+| Sat, 24 Oct 2026 | ✦ Kitchen Collective ✦: New Season | AVHD, DJames (2), Marie Pravda, Møreti, Takē, ishka machina |
 
 ## Address
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

@@ -1,6 +1,6 @@
 # Oscar G
 
-Oscar G is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Edge Miami, Miami on Sat, 5 Sept 2026.
+Oscar G is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Edge Miami, Miami on Sat, 5 Sept 2026.
 
 Oscar G is a house and tech house artist tracked on soundcheck, with 78 sets logged across Ibiza, Miami, Newyorkcity and Philadelphia and 1 more. Often billed alongside Lazaro Casanova, Nicole Fiallo and Amal Nemer. Next up: Edge Miami, Miami on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Oscar G is a house and tech house artist tracked on soundcheck, with 78 sets log
 
 Lazaro Casanova, Nicole Fiallo, Amal Nemer
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarg/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarg/)*

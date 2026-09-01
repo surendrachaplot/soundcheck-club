@@ -1,13 +1,14 @@
 # Scre_wy
 
-Scre_wy is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Panke, Berlin on Fri, 16 Oct 2026.
+Scre_wy is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
-Scre_wy is a drum & bass and dubstep artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Tempestfeather, VILIFY and Dub Isotope. Next up: Panke, Berlin on Fri 16 Oct.
+Scre_wy is a drum & bass and bass artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Dub Isotope, Migz and Tempestfeather. Next up: Void Club, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Void Club | Berlin |
 | Fri, 16 Oct 2026 | Panke | Berlin |
 
 ## Recently played
@@ -21,6 +22,6 @@ Scre_wy is a drum & bass and dubstep artist tracked on soundcheck, with 7 sets l
 
 ## Shares bills with
 
-Tempestfeather, VILIFY, Dub Isotope
+Dub Isotope, Migz, Tempestfeather
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/scre_wy/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scre_wy/)*

@@ -1,14 +1,15 @@
 # C Frame
 
-C Frame is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at EXIT Glasgow, Glasgow on Fri, 18 Sept 2026.
+C Frame is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 18 Sept 2026.
 
-C Frame is a techno and house artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside Jenn Gunn (2), Big Miz and ELANDA. Next up: EXIT Glasgow, Glasgow on Fri 18 Sept.
+C Frame is a techno and house artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside Jenn Gunn (2), Skillis and Big Miz. Next up: EXIT Glasgow, Glasgow on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | EXIT Glasgow | Glasgow |
+| Sat, 19 Sept 2026 | Argyle Arcade (Buchanan Street Entrance) | Glasgow |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ C Frame is a techno and house artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-Jenn Gunn (2), Big Miz, ELANDA
+Jenn Gunn (2), Skillis, Big Miz
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cframe/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cframe/)*

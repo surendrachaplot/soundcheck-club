@@ -1,6 +1,6 @@
 # Shirlee
 
-Shirlee is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at StereoBar, Montreal on Sat, 5 Sept 2026.
+Shirlee is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at StereoBar, Montreal on Sat, 5 Sept 2026.
 
 Shirlee is a house and deep house artist tracked on soundcheck, with 28 sets logged across Montreal. Often billed alongside Guillaume Michaud, Ben Sterling and A$H BANKS. Next up: StereoBar, Montreal on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Shirlee is a house and deep house artist tracked on soundcheck, with 28 sets log
 
 Guillaume Michaud, Ben Sterling, A$H BANKS
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlee/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlee/)*

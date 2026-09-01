@@ -1,6 +1,6 @@
 # MAROSI
 
-MAROSI is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Toldi Klub, Budapest on Sat, 5 Sept 2026.
+MAROSI is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Toldi Klub, Budapest on Sat, 5 Sept 2026.
 
 MAROSI is a house and disco artist tracked on soundcheck, with 35 sets logged across Budapest. Often billed alongside Krudy C, Adis Is OK and Hanussen. Next up: Toldi Klub, Budapest on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ MAROSI is a house and disco artist tracked on soundcheck, with 35 sets logged ac
 
 Krudy C, Adis Is OK, Hanussen
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marosi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marosi/)*

@@ -1,8 +1,8 @@
 # NSX3000
 
-NSX3000 is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Collect LX Factory, Lisbon on Sat, 19 Sept 2026.
+NSX3000 is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 19 Sept 2026.
 
-NSX3000 is a house artist based in Portugal, tracked on soundcheck, with 1 set logged across Lisbon. Often billed alongside CVLT, Lake Haze and Nick Anthony Simoncino. Next up: Collect LX Factory, Lisbon on Sat 19 Sept.
+NSX3000 is a house artist based in Portugal, tracked on soundcheck, with 1 set logged across Lisbon. Often billed alongside Bobby Dreams, CVLT and Lake Haze. Next up: Collect LX Factory, Lisbon on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ NSX3000 is a house artist based in Portugal, tracked on soundcheck, with 1 set l
 
 ## Shares bills with
 
-CVLT, Lake Haze, Nick Anthony Simoncino
+Bobby Dreams, CVLT, Lake Haze
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nsx3000/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nsx3000/)*

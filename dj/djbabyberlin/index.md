@@ -1,6 +1,6 @@
 # DJ Baby Berlin
 
-DJ Baby Berlin is a New Wave and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Johnny Brenda's, Philadelphia on Fri, 4 Sept 2026.
+DJ Baby Berlin is a New Wave and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Johnny Brenda's, Philadelphia on Fri, 4 Sept 2026.
 
 DJ Baby Berlin is a new wave and ebm artist based in United States of America, tracked on soundcheck, with 78 sets logged across Newyorkcity and Philadelphia. Often billed alongside Brad Scott, DJ Nightwitch and Void Vision. Next up: Johnny Brenda's, Philadelphia on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Baby Berlin is a new wave and ebm artist based in United States of America, t
 
 Brad Scott, DJ Nightwitch, Void Vision
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbabyberlin/)*

@@ -1,6 +1,6 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Boomerang Beach, The Hague on Sat, 5 Sept 2026.
+Daria Kolosova is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Boomerang Beach, The Hague on Sat, 5 Sept 2026.
 
 Daria Kolosova is a techno and house artist tracked on soundcheck, with 276 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: Boomerang Beach, Thehague on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ Daria Kolosova is a techno and house artist tracked on soundcheck, with 276 sets
 
 DAX J, KlangKuenstler, Patrick Mason
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*

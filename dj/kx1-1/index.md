@@ -1,6 +1,6 @@
 # KX1 (1)
 
-KX1 (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+KX1 (1) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 KX1 (1) is an electronic artist tracked on soundcheck, with 4 sets logged across Athens. Often billed alongside Mr.M, Adam Des and Bakerman. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -20,4 +20,4 @@ KX1 (1) is an electronic artist tracked on soundcheck, with 4 sets logged across
 
 Mr.M, Adam Des, Bakerman
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kx1-1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kx1-1/)*

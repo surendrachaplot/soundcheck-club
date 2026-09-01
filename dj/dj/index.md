@@ -1,8 +1,8 @@
-# Soju Gang
+# MERS
 
-Soju Gang is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Angel Music Bar, Melbourne on Thu, 3 Sept 2026.
+MERS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Angel Music Bar, Melbourne on Thu, 3 Sept 2026.
 
-Soju Gang is a house and techno artist tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: Angel Music Bar, Melbourne on Thu 3 Sept.
+MERS is a house and techno artist tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: Angel Music Bar, Melbourne on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Soju Gang is a house and techno artist tracked on soundcheck, with 113 sets logg
 
 Haus of Ralph, AANO, DJ PGZ
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*

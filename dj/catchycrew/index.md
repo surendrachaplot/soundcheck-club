@@ -1,6 +1,6 @@
 # catchycrew
 
-catchycrew is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Leipzig on Sat, 24 Oct 2026.
+catchycrew is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Leipzig on Sat, 24 Oct 2026.
 
 catchycrew is a tech house and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Leipzig. Often billed alongside PERISinLE. Next up: TBA, Leipzig on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ catchycrew is a tech house and house artist based in Germany, tracked on soundch
 
 PERISinLE
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/catchycrew/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catchycrew/)*

@@ -1,8 +1,8 @@
 # JAMBALAYA
 
-JAMBALAYA is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+JAMBALAYA is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-JAMBALAYA is a club and hardcore artist based in United States of America, tracked on soundcheck, with 1 set logged across Washingtondc. Often billed alongside THABLACKGOD, Darling Cool and Shyboi. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
+JAMBALAYA is a hardcore and club artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity and Washingtondc. Often billed alongside CFCF, Cadeem LaMarr and CalvoMusic. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,8 +10,12 @@ JAMBALAYA is a club and hardcore artist based in United States of America, track
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 
+## Recently played
+
+- Mood Ring, New York City — Fri, 14 Aug 2026
+
 ## Shares bills with
 
-THABLACKGOD, Darling Cool, Shyboi
+CFCF, Cadeem LaMarr, CalvoMusic
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jambalaya/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jambalaya/)*

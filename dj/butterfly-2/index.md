@@ -1,6 +1,6 @@
 # Butterfly (2)
 
-Butterfly (2) is a Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at OIL Club, Shenzhen on Fri, 4 Sept 2026.
+Butterfly (2) is a Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at OIL Club, Shenzhen on Fri, 4 Sept 2026.
 
 Butterfly (2) is a club artist based in China, tracked on soundcheck, with 2 sets logged across Shenzhen. Often billed alongside Manson, Replica.mp3 and Flower Boy. Next up: OIL Club, Shenzhen on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ Butterfly (2) is a club artist based in China, tracked on soundcheck, with 2 set
 
 Manson, Replica.mp3, Flower Boy
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/butterfly-2/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butterfly-2/)*

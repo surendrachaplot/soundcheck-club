@@ -1,14 +1,15 @@
 # Ae:ther
 
-Ae:ther is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at MTW, Frankfurt on Sat, 5 Sept 2026.
+Ae:ther is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at MTW, Frankfurt on Sat, 5 Sept 2026.
 
-Ae:ther is a techno and house artist based in Germany, tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Basel and Berlin and 20 more. Often billed alongside VNTM, Adriatique and Colyn. Next up: MTW, Frankfurt on Sat 5 Sept.
+Ae:ther is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Basel and Berlin and 20 more. Often billed alongside VNTM, Adriatique and Colyn. Next up: MTW, Frankfurt on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | MTW | Frankfurt |
+| Thu, 22 Oct 2026 | Oliva | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ae:ther is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 VNTM, Adriatique, Colyn
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aether/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aether/)*

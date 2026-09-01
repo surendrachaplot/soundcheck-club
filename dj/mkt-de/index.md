@@ -1,6 +1,6 @@
 # MKT (DE)
 
-MKT (DE) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Garage 442, Barcelona on Wed, 16 Sept 2026.
+MKT (DE) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Garage 442, Barcelona on Wed, 16 Sept 2026.
 
 MKT (DE) is an electronic artist based in Germany, tracked on soundcheck, with 1 set logged across Barcelona. Next up: Garage 442, Barcelona on Wed 16 Sept.
 
@@ -10,4 +10,4 @@ MKT (DE) is an electronic artist based in Germany, tracked on soundcheck, with 1
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Garage 442 | Barcelona |
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mkt-de/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mkt-de/)*

@@ -1,6 +1,6 @@
 # Miramizu
 
-Miramizu is a Club and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Village Underground Barcelona, Barcelona on Fri, 4 Sept 2026.
+Miramizu is a Club and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Village Underground Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 Miramizu is a club and breakbeat artist tracked on soundcheck, with 28 sets logged across Barcelona and Madrid. Often billed alongside 00970, Jehia and B4mba. Next up: Village Underground Barcelona, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Miramizu is a club and breakbeat artist tracked on soundcheck, with 28 sets logg
 
 00970, Jehia, B4mba
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miramizu/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miramizu/)*

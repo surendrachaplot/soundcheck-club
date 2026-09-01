@@ -1,6 +1,6 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 6 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "LOCAL HEADZ: Gioski • Neciō • Megix • Phalera [VJs L12B]" on Fri, 4 Sept 2026.
+Zoo is a music venue in Geneva with 6 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "LOCAL HEADZ: Gioski • Neciō • Megix • Phalera [VJs L12B]" on Fri, 4 Sept 2026.
 
 Zoo is a music venue in Geneva listed on soundcheck. 6 upcoming nights, with line-ups including Adiel, Alex Nantaya, Alpha Tracks and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
@@ -19,4 +19,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 6 upcoming nights, with lin
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

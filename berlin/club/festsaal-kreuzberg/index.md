@@ -1,6 +1,6 @@
 # Festsaal Kreuzberg
 
-Festsaal Kreuzberg is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "In the Mountains 2026" on Sat, 26 Sept 2026.
+Festsaal Kreuzberg is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "In the Mountains 2026" on Sat, 26 Sept 2026.
 
 Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Absolute Body Control, Claudia Kane, LAVION and Mercúrio Gótico and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 2, 12435 Berlin.
 
@@ -16,4 +16,4 @@ Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 3 upcoming n
 
 Am Flutgraben 2, 12435 Berlin, Berlin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*

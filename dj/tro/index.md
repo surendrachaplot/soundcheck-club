@@ -1,6 +1,6 @@
 # Tro
 
-Tro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Monarch, Berlin on Fri, 4 Sept 2026.
+Tro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Monarch, Berlin on Fri, 4 Sept 2026.
 
 Tro is a house and techno artist tracked on soundcheck, with 8 sets logged across Berlin, Tokyo and Toronto. Often billed alongside Chicaiza, Cosmic JD and Kamyar Keramati. Next up: Monarch, Berlin on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Tro is a house and techno artist tracked on soundcheck, with 8 sets logged acros
 
 Chicaiza, Cosmic JD, Kamyar Keramati
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tro/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tro/)*

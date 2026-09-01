@@ -1,6 +1,6 @@
 # Fatale Furylax
 
-Fatale Furylax is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Bal Chavaux, Paris on Fri, 4 Sept 2026.
+Fatale Furylax is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bal Chavaux, Paris on Fri, 4 Sept 2026.
 
 Fatale Furylax is a bass and dubstep artist tracked on soundcheck, with 31 sets logged across Brussels, London, Lyon and Marseille and 2 more. Often billed alongside Brutal Experiences, MARIAD and Meli Mena. Next up: Bal Chavaux, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Fatale Furylax is a bass and dubstep artist tracked on soundcheck, with 31 sets 
 
 Brutal Experiences, MARIAD, Meli Mena
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fatalefurylax/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatalefurylax/)*

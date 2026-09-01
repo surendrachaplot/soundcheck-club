@@ -1,6 +1,6 @@
 # DEA MAGNA
 
-DEA MAGNA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at NOS Event Center, Los Angeles on Fri, 4 Sept 2026.
+DEA MAGNA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 4 Sept 2026.
 
 DEA MAGNA is a techno and hardcore artist tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Losangeles and Newyorkcity and 3 more. Often billed alongside ARCHON, Alex Sharp and Aundreja. Next up: NOS Event Center, Losangeles on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DEA MAGNA is a techno and hardcore artist tracked on soundcheck, with 12 sets lo
 
 ARCHON, Alex Sharp, Aundreja
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/deamagna/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deamagna/)*

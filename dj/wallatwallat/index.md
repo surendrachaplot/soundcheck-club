@@ -1,6 +1,6 @@
 # Wallat Wallat
 
-Wallat Wallat is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Berlin on Fri, 4 Sept 2026.
+Wallat Wallat is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Berlin on Fri, 4 Sept 2026.
 
 Wallat Wallat is a house and club artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Almost Famous, ADAM REC. and Bruder Jakob. Next up: TBA, Berlin on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Wallat Wallat is a house and club artist based in Germany, tracked on soundcheck
 
 Almost Famous, ADAM REC., Bruder Jakob
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wallatwallat/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wallatwallat/)*

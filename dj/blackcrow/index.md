@@ -1,6 +1,6 @@
 # BLACK CROW
 
-BLACK CROW is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA, Turin on Sun, 13 Sept 2026.
+BLACK CROW is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
 
 BLACK CROW is a techno and electronica artist tracked on soundcheck, with 10 sets logged across Milan, Tokyo and Turin. Often billed alongside EMPTY(IT), Gandalf and Niceteed. Next up: TBA, Turin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ BLACK CROW is a techno and electronica artist tracked on soundcheck, with 10 set
 
 EMPTY(IT), Gandalf, Niceteed
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcrow/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcrow/)*

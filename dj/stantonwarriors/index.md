@@ -1,6 +1,6 @@
 # Stanton Warriors
 
-Stanton Warriors is a Breakbeat and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Stanton Warriors is a Breakbeat and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Stanton Warriors is a breakbeat and bass artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, Birmingham, Brighton and Brisbane and 9 more. Often billed alongside Krafty Kuts, Plump DJs and Evil Nine. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Stanton Warriors is a breakbeat and bass artist based in United Kingdom, tracked
 
 Krafty Kuts, Plump DJs, Evil Nine
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stantonwarriors/)*

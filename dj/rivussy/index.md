@@ -1,6 +1,6 @@
 # Rivussy
 
-Rivussy is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 10 Sept 2026.
+Rivussy is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 10 Sept 2026.
 
 Rivussy is a club and house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Losangeles and Sanfrancisco. Often billed alongside Alxander Ivey, BB Shaine and NEPTUNEWAVEY. Next up: General Lee's Cocktail House, Losangeles on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Rivussy is a club and house artist based in United States of America, tracked on
 
 Alxander Ivey, BB Shaine, NEPTUNEWAVEY
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rivussy/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivussy/)*

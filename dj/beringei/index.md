@@ -1,6 +1,6 @@
 # Beringei
 
-Beringei is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Eastway Baths, London on Sat, 19 Sept 2026.
+Beringei is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Eastway Baths, London on Sat, 19 Sept 2026.
 
 Beringei is a broken beat and house artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside warmluke, lucello and Last Nubian. Next up: Eastway Baths, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Beringei is a broken beat and house artist tracked on soundcheck, with 17 sets l
 
 warmluke, lucello, Last Nubian
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/beringei/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beringei/)*

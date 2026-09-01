@@ -1,6 +1,6 @@
 # NPLGNN
 
-NPLGNN is a Bass and Dancehall artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Masseria Ferraioli - Afragola, Naples on Sun, 6 Sept 2026.
+NPLGNN is a Bass and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Masseria Ferraioli - Afragola, Naples on Sun, 6 Sept 2026.
 
 NPLGNN is a bass and dancehall artist tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 6 more. Often billed alongside ojoo, B4mba and Just Claudia. Next up: TBA - Masseria Ferraioli - Afragola, Naples on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ NPLGNN is a bass and dancehall artist tracked on soundcheck, with 33 sets logged
 
 ojoo, B4mba, Just Claudia
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nplgnn/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nplgnn/)*

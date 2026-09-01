@@ -1,6 +1,6 @@
 # Coco & Breezy
 
-Coco & Breezy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Chinois Ibiza, Ibiza on Fri, 4 Sept 2026.
+Coco & Breezy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 4 Sept 2026.
 
 Coco & Breezy are a house and techno duo tracked on soundcheck, with 85 sets logged across Austin, Boston, Chicago and Copenhagen and 20 more. Often billed alongside Aluna, Breezy and Eric Prydz. Next up: Chinois Ibiza, Ibiza on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Coco & Breezy are a house and techno duo tracked on soundcheck, with 85 sets log
 
 Aluna, Breezy, Eric Prydz
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*

@@ -1,6 +1,6 @@
 # Rowen Clark
 
-Rowen Clark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Zumana Bali, Bali on Sat, 5 Sept 2026.
+Rowen Clark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Zumana Bali, Bali on Sat, 5 Sept 2026.
 
 Rowen Clark is a house and deep house artist tracked on soundcheck, with 11 sets logged across Amsterdam, Bali, Liverpool and Rotterdam and 1 more. Often billed alongside BRAD WATTS, Aidan Bega and Edger. Next up: Zumana Bali, Bali on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Rowen Clark is a house and deep house artist tracked on soundcheck, with 11 sets
 
 BRAD WATTS, Aidan Bega, Edger
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/rowenclark/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rowenclark/)*

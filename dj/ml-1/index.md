@@ -1,6 +1,6 @@
 # ML (1)
 
-ML (1) is a Club and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Secret Location, Berlin, Berlin on Sat, 12 Sept 2026.
+ML (1) is a Club and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location, Berlin, Berlin on Sat, 12 Sept 2026.
 
 ML (1) is a club and drum & bass artist tracked on soundcheck, with 18 sets logged across Austin, Berlin, Bristol and Brussels and 1 more. Often billed alongside Ozan Maral, Jürgen Ratan and Nosedrip. Next up: TBA - Secret Location, Berlin, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ ML (1) is a club and drum & bass artist tracked on soundcheck, with 18 sets logg
 
 Ozan Maral, Jürgen Ratan, Nosedrip
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ml-1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ml-1/)*

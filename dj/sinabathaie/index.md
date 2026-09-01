@@ -1,8 +1,8 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 9 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at LAV - Lisboa ao Vivo, Lisbon on Fri, 4 Sept 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 10 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at LAV - Lisboa ao Vivo, Lisbon on Fri, 4 Sept 2026.
 
-Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Auckland and Austin and 41 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: LAV - Lisboa ao Vivo, Lisbon on Fri 4 Sept.
+Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Auckland and Austin and 41 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: LAV - Lisboa ao Vivo, Lisbon on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 91
 | Sun, 8 Nov 2026 | Phoenix Concert Theatre | Toronto |
 | Mon, 9 Nov 2026 | Hollywood Theatre | Vancouver |
 | Thu, 12 Nov 2026 | The Vermont Hollywood | Los Angeles |
+| Sat, 14 Nov 2026 | Quartyard | San Diego |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 91
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

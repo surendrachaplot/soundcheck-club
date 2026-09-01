@@ -1,6 +1,6 @@
 # ReSolute presents: Traumer All-Night Long at H0L0
 
-ReSolute presents: Traumer All-Night Long at H0L0 on Fri 4 Sept, Newyorkcity. 1 act on the bill: Traumer. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+ReSolute presents: Traumer All-Night Long at H0L0 on Fri 4 Sept, Newyorkcity. 3 acts on the bill: Auphoria, Rana Iravani and Traumer. House and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ ReSolute presents: Traumer All-Night Long at H0L0 on Fri 4 Sept, Newyorkcity. 1 
 
 ## Line-up
 
+- Auphoria
+- Rana Iravani
 - Traumer
 
 *Source: [soundcheck](https://soundcheck.club/e/2466739-resolute-presents-traumer-all-night-long-at-h0l0/)*

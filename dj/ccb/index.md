@@ -1,14 +1,15 @@
 # ccb
 
-ccb is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Atdge Seoul, Seoul on Fri, 4 Sept 2026.
+ccb is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Atdge Seoul, Seoul on Fri, 4 Sept 2026.
 
-ccb is a techno and minimal techno artist tracked on soundcheck, with 80 sets logged across Seoul. Often billed alongside Hogun, Hii. and Haemi Park. Next up: Atdge Seoul, Seoul on Fri 4 Sept.
+ccb is a techno and minimal techno artist tracked on soundcheck, with 81 sets logged across Seoul. Often billed alongside Hogun, Hii. and Haemi Park. Next up: Atdge Seoul, Seoul on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Atdge Seoul | Seoul |
+| Fri, 18 Sept 2026 | Volnost | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ccb is a techno and minimal techno artist tracked on soundcheck, with 80 sets lo
 
 Hogun, Hii., Haemi Park
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ccb/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccb/)*

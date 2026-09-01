@@ -1,8 +1,8 @@
 # Ana Selina
 
-Ana Selina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Ana Selina is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
-Ana Selina is a house and techno artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Often billed alongside AGILY, Adam Cooke and Alison Swing. Next up: Renate, Berlin on Fri 11 Sept.
+Ana Selina is a house and disco artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Robin Flux, AGILY and Adam Cooke. Next up: Renate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,8 +10,12 @@ Ana Selina is a house and techno artist based in Germany, tracked on soundcheck,
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 
+## Recently played
+
+- Säälchen, Berlin — Fri, 14 Aug 2026
+
 ## Shares bills with
 
-AGILY, Adam Cooke, Alison Swing
+Robin Flux, AGILY, Adam Cooke
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/anaselina/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anaselina/)*

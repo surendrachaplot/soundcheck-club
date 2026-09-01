@@ -1,6 +1,6 @@
 # Elliot Schooling
 
-Elliot Schooling is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at [UNVRS], Ibiza on Wed, 2 Sept 2026.
+Elliot Schooling is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at [UNVRS], Ibiza on Wed, 2 Sept 2026.
 
 Elliot Schooling is a house and tech house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Liam Palmer, Locky and L.P. Rhythm. Next up: [UNVRS], Ibiza on Wed 2 Sept.
 
@@ -27,4 +27,4 @@ Elliot Schooling is a house and tech house artist tracked on soundcheck, with 15
 
 Liam Palmer, Locky, L.P. Rhythm
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotschooling/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotschooling/)*

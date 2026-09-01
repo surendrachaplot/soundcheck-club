@@ -1,6 +1,6 @@
 # Frankie B
 
-Frankie B is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fluid510, San Francisco/Oakland on Sat, 12 Sept 2026.
+Frankie B is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Fluid510, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Frankie B is a funk / soul and house artist tracked on soundcheck, with 3 sets logged across Barcelona and Sanfrancisco. Often billed alongside Nick Reverse, Bass and Black Panda. Next up: Fluid510, Sanfrancisco on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Frankie B is a funk / soul and house artist tracked on soundcheck, with 3 sets l
 
 Nick Reverse, Bass, Black Panda
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieb/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankieb/)*

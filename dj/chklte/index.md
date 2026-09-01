@@ -1,6 +1,6 @@
 # CHKLTE
 
-CHKLTE is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Myra Ostraria, Lisbon on Fri, 4 Sept 2026.
+CHKLTE is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Myra Ostraria, Lisbon on Fri, 4 Sept 2026.
 
 CHKLTE is a house and minimal artist tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Auckland and Austin and 28 more. Often billed alongside David Berrie, Kev Gee and Brett Johnson. Next up: Myra Ostraria, Lisbon on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ CHKLTE is a house and minimal artist tracked on soundcheck, with 115 sets logged
 
 David Berrie, Kev Gee, Brett Johnson
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chklte/)*

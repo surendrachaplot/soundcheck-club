@@ -1,6 +1,6 @@
 # Extra Andrew
 
-Extra Andrew is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Extra Andrew is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Extra Andrew is a house and balearic artist based in United States of America, tracked on soundcheck, with 23 sets logged across Austin, Miami and Newyorkcity. Often billed alongside Gee Dee, Earth Beat and DJ Ray (2). Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Extra Andrew is a house and balearic artist based in United States of America, t
 
 Gee Dee, Earth Beat, DJ Ray (2)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/extraandrew/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/extraandrew/)*

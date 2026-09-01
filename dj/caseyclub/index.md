@@ -1,6 +1,6 @@
 # Casey Club
 
-Casey Club is a Dubstep and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at SILO, New York City on Fri, 11 Sept 2026.
+Casey Club is a Dubstep and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at SILO, New York City on Fri, 11 Sept 2026.
 
 Casey Club is a dubstep and garage artist tracked on soundcheck, with 14 sets logged across Brighton, Bristol, London and Newyorkcity and 2 more. Often billed alongside Flava D, A Little Sound and Anaïs. Next up: SILO, Newyorkcity on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Casey Club is a dubstep and garage artist tracked on soundcheck, with 14 sets lo
 
 Flava D, A Little Sound, Anaïs
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*

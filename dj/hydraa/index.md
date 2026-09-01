@@ -1,6 +1,6 @@
 # hydraa
 
-hydraa is a Breakcore and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Detroit Shipping Company, Detroit on Sat, 19 Sept 2026.
+hydraa is a Breakcore and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Detroit Shipping Company, Detroit on Sat, 19 Sept 2026.
 
 hydraa is a breakcore and club artist tracked on soundcheck, with 2 sets logged across Detroit. Often billed alongside Obi-Wan Shinobi, Seanni B and DON 614. Next up: Detroit Shipping Company, Detroit on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ hydraa is a breakcore and club artist tracked on soundcheck, with 2 sets logged 
 
 Obi-Wan Shinobi, Seanni B, DON 614
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hydraa/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hydraa/)*

@@ -1,6 +1,6 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 18 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "#MITTWOCHENENDE in Odonien" on Wed, 2 Sept 2026.
+Odonien is a music venue in Cologne with 18 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "#MITTWOCHENENDE in Odonien" on Wed, 2 Sept 2026.
 
 Odonien is a music venue in Cologne listed on soundcheck. 18 upcoming nights, with line-ups including Aio, Alarico, An On Bast and Bergen and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
@@ -9,7 +9,7 @@ Odonien is a music venue in Cologne listed on soundcheck. 18 upcoming nights, wi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | #MITTWOCHENENDE in Odonien | DJ Hüftschwung, LSG, MAURO, Noah (GE), Pueblo Gelb, VINYA, nordcorreia.mp3 |
-| Fri, 4 Sept 2026 | Aura with ÜBERKIKZ & Alarico | Alarico, ÜBERKIKZ |
+| Fri, 4 Sept 2026 | Aura with ÜBERKIKZ & Alarico | Alarico, Prossowski, Szunflower, Tschatsching, ÜBERKIKZ |
 | Sat, 5 Sept 2026 | Der Dritte Raum - LIVE (TREIBSTOFF KLUB & WIR SCHWESTERN) Odonien | Der Dritte Raum, EPHIE, Elisen, Eszter, ISABELL (1), Leolo Lozone, Pfeiffer |
 | Sat, 5 Sept 2026 | Der Dritte Raum - LIVE (TREIBSTOFF KLUB & WIR SCHWESTERN) Odonien | ANNA, Der Dritte Raum, EPHIE, Elisen, Eszter, ISABELL (1), Leolo Lozone, Pfeiffer |
 | Sat, 5 Sept 2026 | Der Dritte Raum - LIVE (TREIBSTOFF KLUB & WIR SCHWESTERN) Odonien | ANNA, Der Dritte Raum, EPHIE, Elisen, Eszter, ISABELL (1), Leolo Lozone, Pfeiffer |
@@ -23,4 +23,4 @@ Odonien is a music venue in Cologne listed on soundcheck. 18 upcoming nights, wi
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

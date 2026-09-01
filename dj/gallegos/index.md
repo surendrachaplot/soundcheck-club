@@ -1,14 +1,15 @@
 # Gallegos
 
-Gallegos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Club Cheek, London on Fri, 16 Oct 2026.
+Gallegos is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Club Cheek, London on Fri, 16 Oct 2026.
 
-Gallegos is a house and techno artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Belfast, Berlin, Bristol and Edinburgh and 7 more. Often billed alongside nd_baumecker, Fadi Mohem and JakoJako. Next up: Club Cheek, London on Fri 16 Oct.
+Gallegos is a house and techno artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Belfast, Berlin, Bristol and Edinburgh and 7 more. Often billed alongside nd_baumecker, Fadi Mohem and JakoJako. Next up: Club Cheek, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Club Cheek | London |
+| Sun, 29 Nov 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gallegos is a house and techno artist based in United Kingdom, tracked on soundc
 
 nd_baumecker, Fadi Mohem, JakoJako
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/gallegos/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gallegos/)*

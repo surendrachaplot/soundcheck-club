@@ -1,6 +1,6 @@
 # DJanae
 
-DJanae is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mood Ring, New York City on Sat, 12 Sept 2026.
+DJanae is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mood Ring, New York City on Sat, 12 Sept 2026.
 
 DJanae is a footwork and club artist based in United States of America, tracked on soundcheck, with 14 sets logged across Newyorkcity. Often billed alongside HEYFAYBAE, Petite Nhi and shirlz. Next up: Mood Ring, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJanae is a footwork and club artist based in United States of America, tracked 
 
 HEYFAYBAE, Petite Nhi, shirlz
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djanae/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djanae/)*

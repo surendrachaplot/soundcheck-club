@@ -1,13 +1,14 @@
 # Franky Sticks
 
-Franky Sticks is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+Franky Sticks is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mitsuki, Tokyo on Sat, 5 Sept 2026.
 
-Franky Sticks is a house and techno artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Ghent and Rotterdam and 3 more. Often billed alongside Gyatso, ZEP (NL) and Jarreau Vandal. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
+Franky Sticks is a house and techno artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Ghent and Rotterdam and 4 more. Often billed alongside Gyatso, ZEP (NL) and Jarreau Vandal. Next up: Mitsuki, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Mitsuki | Tokyo |
 | Fri, 11 Sept 2026 | Rotterdam Centre | Rotterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Franky Sticks is a house and techno artist based in Netherlands, tracked on soun
 
 Gyatso, ZEP (NL), Jarreau Vandal
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/frankysticks/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankysticks/)*

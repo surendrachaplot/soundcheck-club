@@ -1,6 +1,6 @@
 # Jamie Stevens
 
-Jamie Stevens is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 5 Sept 2026.
+Jamie Stevens is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 5 Sept 2026.
 
 Jamie Stevens is a progressive house and techno artist tracked on soundcheck, with 16 sets logged across Auckland, Brisbane, Buenosaires and Glasgow and 3 more. Often billed alongside Andrew Till, Anthony Pappa and Eric Lune. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Jamie Stevens is a progressive house and techno artist tracked on soundcheck, wi
 
 Andrew Till, Anthony Pappa, Eric Lune
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiestevens/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiestevens/)*

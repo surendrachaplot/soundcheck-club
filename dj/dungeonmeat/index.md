@@ -1,6 +1,6 @@
 # Dungeon Meat
 
-Dungeon Meat is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Home The Venue, Sydney on Sun, 4 Oct 2026.
+Dungeon Meat is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Home The Venue, Sydney on Sun, 4 Oct 2026.
 
 Dungeon Meat is a house and garage artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Birmingham and Chicago and 15 more. Often billed alongside Tristan da Cunha, Brawther and Samuel Deep. Next up: Home The Venue, Sydney on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ Dungeon Meat is a house and garage artist tracked on soundcheck, with 63 sets lo
 
 Tristan da Cunha, Brawther, Samuel Deep
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmeat/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmeat/)*

@@ -1,6 +1,6 @@
 # August (3)
 
-August (3) is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Cakeshop, Seoul on Fri, 4 Sept 2026.
+August (3) is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cakeshop, Seoul on Fri, 4 Sept 2026.
 
 August (3) is a club and baile funk artist based in South Korea, tracked on soundcheck, with 13 sets logged across Seoul. Often billed alongside MAZE (KR), dayoung and KoiKoi. Next up: Cakeshop, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ August (3) is a club and baile funk artist based in South Korea, tracked on soun
 
 MAZE (KR), dayoung, KoiKoi
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/august-3/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/august-3/)*

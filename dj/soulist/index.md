@@ -1,6 +1,6 @@
 # Soulist
 
-Soulist is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at La Bellevilloise, Paris on Sat, 19 Sept 2026.
+Soulist is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Bellevilloise, Paris on Sat, 19 Sept 2026.
 
 Soulist is a house and funk / soul artist tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside Darone Sassounian, Habibi Funk and Mangabey. Next up: La Bellevilloise, Paris on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Soulist is a house and funk / soul artist tracked on soundcheck, with 2 sets log
 
 Darone Sassounian, Habibi Funk, Mangabey
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/soulist/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulist/)*

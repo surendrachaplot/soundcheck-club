@@ -1,6 +1,6 @@
 # Wala
 
-Wala is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Levenslang Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Wala is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Levenslang Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Wala is a techno artist based in Belgium, tracked on soundcheck, with 12 sets logged across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Ignez, Inox Traxx and Altinbas. Next up: Levenslang Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Wala is a techno artist based in Belgium, tracked on soundcheck, with 12 sets lo
 
 Ignez, Inox Traxx, Altinbas
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wala-3/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wala-3/)*

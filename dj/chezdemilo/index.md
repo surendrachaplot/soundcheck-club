@@ -1,6 +1,6 @@
 # Chez de Milo
 
-Chez de Milo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Club der Visionaere, Berlin on Fri, 4 Sept 2026.
+Chez de Milo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Club der Visionaere, Berlin on Fri, 4 Sept 2026.
 
 Chez de Milo is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: Club der Visionaere, Berlin on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Chez de Milo is a house and techno artist tracked on soundcheck, with 127 sets l
 
 Ellie Stokes, Dave Harvey, Ivan Smagghe
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdemilo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdemilo/)*

@@ -1,6 +1,6 @@
 # Jaime Frias
 
-Jaime Frias is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Benelux BAR, Amsterdam on Sat, 19 Sept 2026.
+Jaime Frias is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 19 Sept 2026.
 
 Jaime Frias is a house and techno artist tracked on soundcheck, with 7 sets logged across Amsterdam, Copenhagen and Rotterdam. Often billed alongside Caim, Joris Zwetsloot and Eversines. Next up: Benelux BAR, Amsterdam on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Jaime Frias is a house and techno artist tracked on soundcheck, with 7 sets logg
 
 Caim, Joris Zwetsloot, Eversines
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimefrias/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaimefrias/)*

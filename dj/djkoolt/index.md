@@ -1,13 +1,14 @@
 # DJ Koolt
 
-DJ Koolt is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Seaseaclub Barcelona, Barcelona on Thu, 10 Sept 2026.
+DJ Koolt is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at nachbar, Amsterdam on Fri, 4 Sept 2026.
 
-DJ Koolt is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 27 more. Often billed alongside ASIA (DE), Christian AB and Ogazón. Next up: Seaseaclub Barcelona, Barcelona on Thu 10 Sept.
+DJ Koolt is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 27 more. Often billed alongside ASIA (DE), Christian AB and Ogazón. Next up: nachbar, Amsterdam on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | nachbar | Amsterdam |
 | Thu, 10 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 12 Sept 2026 | The Cause | London |
 | Sat, 7 Nov 2026 | TBA | Seattle |
@@ -27,4 +28,4 @@ DJ Koolt is a house and techno artist tracked on soundcheck, with 93 sets logged
 
 ASIA (DE), Christian AB, Ogazón
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*

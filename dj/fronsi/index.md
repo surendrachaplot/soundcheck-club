@@ -1,6 +1,6 @@
 # Fronsi
 
-Fronsi is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
+Fronsi is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
 
 Fronsi is a trance and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 4 more. Often billed alongside Amøn, DETOXX and Boltcore. Next up: Schrotty, Cologne on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Fronsi is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 Amøn, DETOXX, Boltcore
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/fronsi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fronsi/)*

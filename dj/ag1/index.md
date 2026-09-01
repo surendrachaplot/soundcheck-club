@@ -1,6 +1,6 @@
 # AG (1)
 
-AG (1) is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mood Ring, New York City on Sat, 12 Sept 2026.
+AG (1) is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mood Ring, New York City on Sat, 12 Sept 2026.
 
 AG (1) is a club and footwork artist based in United States of America, tracked on soundcheck, with 40 sets logged across Chicago, Miami, Newyorkcity and Sanfrancisco. Often billed alongside DJ Fat Frog, Tromac and Eevee. Next up: Mood Ring, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ AG (1) is a club and footwork artist based in United States of America, tracked 
 
 DJ Fat Frog, Tromac, Eevee
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ag1/)*

@@ -1,6 +1,6 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 17 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "GRASSROOTS - FREE First Fridays - Disco, Funk & House - 04/09/26" on Fri, 4 Sept 2026.
+Patterns is a music venue in Brighton with 17 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "GRASSROOTS - FREE First Fridays - Disco, Funk & House - 04/09/26" on Fri, 4 Sept 2026.
 
 Patterns is a music venue in Brighton listed on soundcheck. 17 upcoming nights, with line-ups including Benji Hedonator, BIKINIWAX (2), Boris and Dusky and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
@@ -23,4 +23,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 17 upcoming nights, 
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

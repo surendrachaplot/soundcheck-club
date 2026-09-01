@@ -1,6 +1,6 @@
 # nastygloss
 
-nastygloss is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Village au Pied-du-Courant, Montreal on Thu, 3 Sept 2026.
+nastygloss is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Village au Pied-du-Courant, Montreal on Thu, 3 Sept 2026.
 
 nastygloss is a techno and club artist tracked on soundcheck, with 56 sets logged across Montreal. Often billed alongside hÿdra, Casa Kobrae and Katamina. Next up: Village au Pied-du-Courant, Montreal on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ nastygloss is a techno and club artist tracked on soundcheck, with 56 sets logge
 
 hÿdra, Casa Kobrae, Katamina
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nastygloss/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastygloss/)*

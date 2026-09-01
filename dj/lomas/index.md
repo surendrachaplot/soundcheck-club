@@ -1,6 +1,6 @@
 # Lomas
 
-Lomas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
+Lomas is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
 
 Lomas is a house and deep house artist tracked on soundcheck, with 4 sets logged across London, Madrid and Manchester. Often billed alongside Alexa (KR), Alythia Kwan and AmyElle. Next up: The Timber Loft, London on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Lomas is a house and deep house artist tracked on soundcheck, with 4 sets logged
 
 Alexa (KR), Alythia Kwan, AmyElle
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lomas/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lomas/)*

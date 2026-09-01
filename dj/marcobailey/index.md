@@ -1,6 +1,6 @@
 # Marco Bailey
 
-Marco Bailey is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TRAUM, Antwerp on Sat, 19 Sept 2026.
+Marco Bailey is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TRAUM, Antwerp on Sat, 19 Sept 2026.
 
 Marco Bailey is a techno and tech house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 32 more. Often billed alongside Dave Clarke, Kobosil and Lino Fuso. Next up: TRAUM, Antwerp on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Marco Bailey is a techno and tech house artist tracked on soundcheck, with 89 se
 
 Dave Clarke, Kobosil, Lino Fuso
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*

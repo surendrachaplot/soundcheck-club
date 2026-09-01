@@ -1,6 +1,6 @@
 # BCM
 
-BCM is a music venue in Mallorca with 10 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "East End Dubs" on Thu, 3 Sept 2026.
+BCM is a music venue in Mallorca with 10 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "East End Dubs" on Thu, 3 Sept 2026.
 
 BCM is a music venue in Mallorca listed on soundcheck. 10 upcoming nights, with line-ups including ARODES, Dombresky, East End Dubs and Juany Bravo and 2 more. Browse upcoming dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
@@ -23,4 +23,4 @@ BCM is a music venue in Mallorca listed on soundcheck. 10 upcoming nights, with 
 
 BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain, Mallorca
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/bcm/)*

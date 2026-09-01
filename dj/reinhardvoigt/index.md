@@ -1,6 +1,6 @@
 # Reinhard Voigt
 
-Reinhard Voigt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at fi, Cologne on Fri, 25 Sept 2026.
+Reinhard Voigt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at fi, Cologne on Fri, 25 Sept 2026.
 
 Reinhard Voigt is a techno and house artist tracked on soundcheck, with 8 sets logged across Barcelona, Berlin, Cologne and Tbilisi. Often billed alongside Michael Mayer, Denis Stockhausen and Robag Wruhme. Next up: fi, Cologne on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Reinhard Voigt is a techno and house artist tracked on soundcheck, with 8 sets l
 
 Michael Mayer, Denis Stockhausen, Robag Wruhme
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/reinhardvoigt/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reinhardvoigt/)*

@@ -1,6 +1,6 @@
 # Label Night at Mastak
 
-Label Night at Mastak on Fri 18 Sept, Warsaw. 3 acts on the bill: Densel, koktelbel and Salat. Techno. Preview the line-up and save it on soundcheck.
+Label Night at Mastak on Fri 18 Sept, Warsaw. 4 acts on the bill: Densel, koktelbel, Salat and Teen A Teen. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Label Night at Mastak on Fri 18 Sept, Warsaw. 3 acts on the bill: Densel, koktel
 - Densel
 - koktelbel
 - Salat
+- Teen A Teen
 
 *Source: [soundcheck](https://soundcheck.club/e/2518559-label-night-at-mastak/)*

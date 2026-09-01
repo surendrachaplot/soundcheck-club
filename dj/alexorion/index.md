@@ -1,6 +1,6 @@
 # Alex O'Rion
 
-Alex O'Rion is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 12 Sept 2026.
+Alex O'Rion is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - La Biblioteca, San Telmo, Buenos Aires on Sat, 12 Sept 2026.
 
 Alex O'Rion is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Bristol and Budapest and 17 more. Often billed alongside Alain Pauwels, Around Us and Cris-H. Next up: TBA - La Biblioteca, San Telmo, Buenosaires on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Alex O'Rion is a progressive house and deep house artist based in Netherlands, t
 
 Alain Pauwels, Around Us, Cris-H
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/alexorion/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexorion/)*

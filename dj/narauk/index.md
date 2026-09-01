@@ -1,6 +1,6 @@
 # NARA (UK)
 
-NARA (UK) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - HACKNEY WICK, London on Fri, 11 Sept 2026.
+NARA (UK) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - HACKNEY WICK, London on Fri, 11 Sept 2026.
 
 NARA (UK) is a techno and industrial artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside AYLIN IDAH, Amphia and David Ramsay. Next up: TBA - HACKNEY WICK, London on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ NARA (UK) is a techno and industrial artist tracked on soundcheck, with 5 sets l
 
 AYLIN IDAH, Amphia, David Ramsay
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/narauk/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/narauk/)*

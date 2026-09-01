@@ -1,13 +1,14 @@
 # Aline Brooklyn
 
-Aline Brooklyn is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at DURO, Milan on Fri, 25 Sept 2026.
+Aline Brooklyn is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at DURO, Milan on Fri, 25 Sept 2026.
 
-Aline Brooklyn is a house and tech house artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Detroit and Lisbon and 7 more. Often billed alongside Aman Umber, Krol and Maxime dB. Next up: DURO, Milan on Fri 25 Sept.
+Aline Brooklyn is a house and tech house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Detroit and Lisbon and 7 more. Often billed alongside Aman Umber, Krol and Maxime dB. Next up: DURO, Milan on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | DURO | Milan |
 | Fri, 25 Sept 2026 | DURO | Milan |
 | Thu, 22 Oct 2026 | Blast Galaxy | Amsterdam |
 
@@ -26,4 +27,4 @@ Aline Brooklyn is a house and tech house artist tracked on soundcheck, with 54 s
 
 Aman Umber, Krol, Maxime dB
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/Alinebrooklyn/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Alinebrooklyn/)*

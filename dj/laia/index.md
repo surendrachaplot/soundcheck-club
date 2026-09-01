@@ -1,6 +1,6 @@
 # Laia
 
-Laia is a Techno and Electro artist with 12 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Zoo, Geneva on Fri, 11 Sept 2026.
+Laia is a Techno and Electro artist with 12 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Zoo, Geneva on Fri, 11 Sept 2026.
 
 Laia is a techno and electro artist tracked on soundcheck, with 121 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Roll Dann, Shadow Hrym (ES) and Alexandre Laeddis. Next up: Zoo, Geneva on Fri 11 Sept.
 
@@ -36,4 +36,4 @@ Laia is a techno and electro artist tracked on soundcheck, with 121 sets logged 
 
 Roll Dann, Shadow Hrym (ES), Alexandre Laeddis
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laia/)*

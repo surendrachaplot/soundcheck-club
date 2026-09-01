@@ -1,6 +1,6 @@
 # Peter Puenktlich (2)
 
-Peter Puenktlich (2) is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Celeste, Vienna on Fri, 4 Sept 2026.
+Peter Puenktlich (2) is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Celeste, Vienna on Fri, 4 Sept 2026.
 
 Peter Puenktlich (2) is a pop and techno artist tracked on soundcheck, with 13 sets logged across Prague and Vienna. Often billed alongside esti.d, neon.kotze and hapuk. Next up: Celeste, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Peter Puenktlich (2) is a pop and techno artist tracked on soundcheck, with 13 s
 
 esti.d, neon.kotze, hapuk
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpuenktlich-2/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpuenktlich-2/)*

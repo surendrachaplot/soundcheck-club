@@ -1,6 +1,6 @@
 # Akey
 
-Akey is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at VENT, Tokyo on Sat, 19 Sept 2026.
+Akey is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at VENT, Tokyo on Sat, 19 Sept 2026.
 
 Akey is a techno and electro artist based in Japan, tracked on soundcheck, with 45 sets logged across Melbourne, Osaka and Tokyo. Often billed alongside Golpe Mortal, MAYUDEPTH and the2$. Next up: VENT, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Akey is a techno and electro artist based in Japan, tracked on soundcheck, with 
 
 Golpe Mortal, MAYUDEPTH, the2$
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/akey/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akey/)*

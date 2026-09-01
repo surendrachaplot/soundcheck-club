@@ -1,6 +1,6 @@
 # Raidaa
 
-Raidaa is a Afrobeat and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
+Raidaa is a Afrobeat and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
 
 Raidaa is an afrobeat and broken beat artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside Raji Rags, Rohan Rakhit and Mera Bhai. Next up: Hackney Bridge, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Raidaa is an afrobeat and broken beat artist tracked on soundcheck, with 16 sets
 
 Raji Rags, Rohan Rakhit, Mera Bhai
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/raidaa/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raidaa/)*

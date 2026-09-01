@@ -1,8 +1,8 @@
 # KLENA
 
-KLENA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
+KLENA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
 
-KLENA is a house and techno artist based in Spain, tracked on soundcheck, with 1 set logged across Copenhagen. Often billed alongside Sakena Ali, Prom Night and Kirakingkong. Next up: Culture Box, Copenhagen on Fri 18 Sept.
+KLENA is a techno and house artist based in Spain, tracked on soundcheck, with 1 set logged across Copenhagen. Often billed alongside Biesmans, Eva Claudia and Kawun. Next up: Culture Box, Copenhagen on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ KLENA is a house and techno artist based in Spain, tracked on soundcheck, with 1
 
 ## Shares bills with
 
-Sakena Ali, Prom Night, Kirakingkong
+Biesmans, Eva Claudia, Kawun
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klena/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klena/)*

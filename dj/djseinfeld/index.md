@@ -1,8 +1,8 @@
 # DJ Seinfeld
 
-DJ Seinfeld is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Sub Club, Glasgow on Thu, 17 Sept 2026.
+DJ Seinfeld is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Sub Club, Glasgow on Thu, 17 Sept 2026.
 
-DJ Seinfeld is a house and techno artist tracked on soundcheck, with 184 sets logged across Aberdeen, Amsterdam, Austin and Bali and 49 more. Often billed alongside DJ BORING, Sossa and Dom Dolla. Next up: Sub Club, Glasgow on Thu 17 Sept.
+DJ Seinfeld is a house and techno artist tracked on soundcheck, with 185 sets logged across Aberdeen, Amsterdam, Austin and Bali and 49 more. Often billed alongside DJ BORING, Sossa and Dom Dolla. Next up: Sub Club, Glasgow on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ DJ Seinfeld is a house and techno artist tracked on soundcheck, with 184 sets lo
 | Fri, 2 Oct 2026 | Kesselhaus | Berlin |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Sat, 28 Nov 2026 | The Warehouse | Leeds |
 
 ## Recently played
@@ -31,4 +32,4 @@ DJ Seinfeld is a house and techno artist tracked on soundcheck, with 184 sets lo
 
 DJ BORING, Sossa, Dom Dolla
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*

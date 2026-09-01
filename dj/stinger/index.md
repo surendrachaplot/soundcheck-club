@@ -1,8 +1,8 @@
 # Stinger
 
-Stinger is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 10 Oct 2026.
+Stinger is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 10 Oct 2026.
 
-Stinger is a gabber and hardcore artist based in France, tracked on soundcheck, with 1 set logged across Frankfurt. Often billed alongside Tripped and TINNITUS. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 10 Oct.
+Stinger is a hardcore and gabber artist based in France, tracked on soundcheck, with 1 set logged across Frankfurt. Often billed alongside TINNITUS and Tripped. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,6 @@ Stinger is a gabber and hardcore artist based in France, tracked on soundcheck, 
 
 ## Shares bills with
 
-Tripped, TINNITUS
+TINNITUS, Tripped
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/stinger/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stinger/)*

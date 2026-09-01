@@ -1,6 +1,6 @@
 # Betty
 
-Betty is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at The Bag Factory, Manchester on Fri, 4 Sept 2026.
+Betty is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Bag Factory, Manchester on Fri, 4 Sept 2026.
 
 Betty is an electro and tech house artist based in France, tracked on soundcheck, with 14 sets logged across Kyoto, London, Manchester and Paris and 2 more. Often billed alongside Slidge, Aaron Dynamic and Adriatique. Next up: The Bag Factory, Manchester on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Betty is an electro and tech house artist based in France, tracked on soundcheck
 
 Slidge, Aaron Dynamic, Adriatique
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/betty/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betty/)*

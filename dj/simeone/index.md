@@ -1,6 +1,6 @@
 # Simeone
 
-Simeone is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Altenburg 1964, Prague on Thu, 10 Sept 2026.
+Simeone is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Altenburg 1964, Prague on Thu, 10 Sept 2026.
 
 Simeone is a house and techno artist based in Croatia, tracked on soundcheck, with 2 sets logged across Prague. Often billed alongside AVHD, Atlaskin and DDK (1). Next up: Altenburg 1964, Prague on Thu 10 Sept.
 
@@ -18,4 +18,4 @@ Simeone is a house and techno artist based in Croatia, tracked on soundcheck, wi
 
 AVHD, Atlaskin, DDK (1)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/simeone/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simeone/)*

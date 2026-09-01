@@ -1,6 +1,6 @@
 # ORIOL //
 
-ORIOL // is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Kink Bar & Restaurant, Berlin on Thu, 3 Sept 2026.
+ORIOL // is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Kink Bar & Restaurant, Berlin on Thu, 3 Sept 2026.
 
 ORIOL // is a disco and funk / soul artist based in Spain, tracked on soundcheck, with 8 sets logged across Berlin. Next up: Kink Bar & Restaurant, Berlin on Thu 3 Sept.
 
@@ -20,4 +20,4 @@ ORIOL // is a disco and funk / soul artist based in Spain, tracked on soundcheck
 - arkaoda Berlin, Berlin — Sun, 15 Feb 2026
 - Orangerie Neukölln, Berlin — Tue, 2 Dec 2025
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/oriol-1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oriol-1/)*

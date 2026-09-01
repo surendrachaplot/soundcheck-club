@@ -1,6 +1,6 @@
 # Nyah Cami
 
-Nyah Cami is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Jupiter Disco, New York City on Wed, 9 Sept 2026.
+Nyah Cami is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Jupiter Disco, New York City on Wed, 9 Sept 2026.
 
 Nyah Cami is an electronic artist tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside CMD+JAZMINE, Saint Clair and senoritajuicy. Next up: Jupiter Disco, Newyorkcity on Wed 9 Sept.
 
@@ -18,4 +18,4 @@ Nyah Cami is an electronic artist tracked on soundcheck, with 2 sets logged acro
 
 CMD+JAZMINE, Saint Clair, senoritajuicy
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*

@@ -1,6 +1,6 @@
 # NEONVITA
 
-NEONVITA is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at People's Leisure Club, Edinburgh on Thu, 3 Sept 2026.
+NEONVITA is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at People's Leisure Club, Edinburgh on Thu, 3 Sept 2026.
 
 NEONVITA is a techno and ebm artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Edinburgh. Often billed alongside Lucid (Sco), 3SBAT and KOPI O. Next up: People's Leisure Club, Edinburgh on Thu 3 Sept.
 
@@ -18,4 +18,4 @@ NEONVITA is a techno and ebm artist based in United Kingdom, tracked on soundche
 
 Lucid (Sco), 3SBAT, KOPI O
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/neonvita/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neonvita/)*

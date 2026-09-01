@@ -1,6 +1,6 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 13 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Siempre Club x Fünk" on Thu, 3 Sept 2026.
+Fünk is a music venue in Mexico City with 13 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Siempre Club x Fünk" on Thu, 3 Sept 2026.
 
 Fünk is a music venue in Mexicocity listed on soundcheck. 13 upcoming nights, with line-ups including Alexa Rosas, Ana Armada, Axel Boman and Baby Mango and 2 more. Browse upcoming dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
@@ -23,4 +23,4 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 13 upcoming nights, w
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

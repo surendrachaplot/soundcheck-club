@@ -1,6 +1,6 @@
 # NICNAC (DE)
 
-NICNAC (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at ://about blank, Berlin on Fri, 4 Sept 2026.
+NICNAC (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at ://about blank, Berlin on Fri, 4 Sept 2026.
 
 NICNAC (DE) is a techno and trance artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Alex Friday, OLED and elvito. Next up: ://about blank, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ NICNAC (DE) is a techno and trance artist tracked on soundcheck, with 12 sets lo
 
 Alex Friday, OLED, elvito
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/nicnac-de/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicnac-de/)*

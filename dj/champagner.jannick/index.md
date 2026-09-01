@@ -1,6 +1,6 @@
 # Champagner.Jannick
 
-Champagner.Jannick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at ciao ciao Bar, Berlin on Sun, 6 Sept 2026.
+Champagner.Jannick is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at ciao ciao Bar, Berlin on Sun, 6 Sept 2026.
 
 Champagner.Jannick is a house and techno artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Denifitiv Manu, MARIE.MOON and Schorli. Next up: ciao ciao Bar, Berlin on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Champagner.Jannick is a house and techno artist tracked on soundcheck, with 10 s
 
 Denifitiv Manu, MARIE.MOON, Schorli
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/champagner.jannick/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/champagner.jannick/)*

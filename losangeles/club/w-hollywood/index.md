@@ -1,6 +1,6 @@
 # W Hollywood
 
-W Hollywood is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Mon, 31 Aug 2026; the next is "What The Duck Pool Party" on Sun, 6 Sept 2026.
+W Hollywood is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "What The Duck Pool Party" on Sun, 6 Sept 2026.
 
 W Hollywood is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Ardalan and Kittamami. Browse upcoming dates, start times and who's playing. 6250 Hollywood Blvd, Hollywood, CA 90028.
 
@@ -14,4 +14,4 @@ W Hollywood is a music venue in Losangeles listed on soundcheck. 1 upcoming nigh
 
 6250 Hollywood Blvd, Hollywood, CA 90028, Los Angeles
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/w-hollywood/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/w-hollywood/)*

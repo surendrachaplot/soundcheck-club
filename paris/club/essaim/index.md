@@ -1,6 +1,6 @@
 # essaim
 
-essaim is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "tribalism - FJAAK (Vinyl Set), Vitaline" on Fri, 4 Sept 2026.
+essaim is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "tribalism - FJAAK (Vinyl Set), Vitaline" on Fri, 4 Sept 2026.
 
 essaim is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including AgainstMe, ANNĒ, DAX J and DJ Nobu and 2 more. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
@@ -23,4 +23,4 @@ essaim is a music venue in Paris listed on soundcheck. 16 upcoming nights, with 
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

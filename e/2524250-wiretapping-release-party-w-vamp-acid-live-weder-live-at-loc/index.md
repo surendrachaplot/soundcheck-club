@@ -1,6 +1,6 @@
-# Wiretapping release party w/Vamp Acid (live), WEDER (live) at Locke
+# Wiretapping release party w/ Vamp Acid (live), WEDER (live) at Locke
 
-Wiretapping release party w/Vamp Acid (live), WEDER (live) at Locke on Thu 3 Sept, Hamburg. 2 acts on the bill: Vamp Acid and WEDER. House and Acid. Preview the line-up and save it on soundcheck.
+Wiretapping release party w/ Vamp Acid (live), WEDER (live) at Locke on Thu 3 Sept, Hamburg. 2 acts on the bill: Vamp Acid and WEDER. House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

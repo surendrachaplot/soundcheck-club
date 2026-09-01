@@ -1,6 +1,6 @@
 # 2077
 
-2077 is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Luka, Seoul on Fri, 4 Sept 2026.
+2077 is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Luka, Seoul on Fri, 4 Sept 2026.
 
 2077 is a techno and electro artist tracked on soundcheck, with 16 sets logged across Paris and Seoul. Often billed alongside Beat Tekniks, Ben Manson and blancat. Next up: Luka, Seoul on Fri 4 Sept.
 
@@ -26,4 +26,4 @@
 
 Beat Tekniks, Ben Manson, blancat
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/2077/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2077/)*

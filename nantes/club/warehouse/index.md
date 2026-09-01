@@ -1,6 +1,6 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 10 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Rave in Da Club x Wolf City: Hysta, Lekkerfaces, Ophidian, RDØ Nantes" on Fri, 4 Sept 2026.
+Warehouse is a music venue in Nantes with 10 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Rave in Da Club x Wolf City: Hysta, Lekkerfaces, Ophidian, RDØ Nantes" on Fri, 4 Sept 2026.
 
 Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming nights, with line-ups including Bellaire, Bob Sinclar, Corentin Mab and Dan Bono and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
@@ -23,4 +23,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming nights, w
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

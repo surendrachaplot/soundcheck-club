@@ -1,6 +1,6 @@
 # Day & Night: Vinyl House & Techno at The Glove That Fits
 
-Day & Night: Vinyl House & Techno at The Glove That Fits on Sat 5 Sept, London. 3 acts on the bill: Ardishko, FASTON and Saumac. Techno and House. Preview the line-up and save it on soundcheck.
+Day & Night: Vinyl House & Techno at The Glove That Fits on Sat 5 Sept, London. 5 acts on the bill: Ardishko, Benebe, dj mush and FASTON and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Day & Night: Vinyl House & Techno at The Glove That Fits on Sat 5 Sept, London. 
 ## Line-up
 
 - Ardishko
+- Benebe
+- dj mush
 - FASTON
 - Saumac
 

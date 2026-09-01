@@ -1,6 +1,6 @@
 # Voin Oruwu
 
-Voin Oruwu is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Marmorbar, Berlin on Fri, 18 Sept 2026.
+Voin Oruwu is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Marmorbar, Berlin on Fri, 18 Sept 2026.
 
 Voin Oruwu is a techno and tech house artist tracked on soundcheck, with 9 sets logged across Athens, Berlin, Bucharest and Krakow and 2 more. Often billed alongside BUDZKO, Dima Kachan and Nastia. Next up: Marmorbar, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Voin Oruwu is a techno and tech house artist tracked on soundcheck, with 9 sets 
 
 BUDZKO, Dima Kachan, Nastia
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/voinoruwu/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voinoruwu/)*

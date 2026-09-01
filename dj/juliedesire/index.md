@@ -1,6 +1,6 @@
 # Julie Desire
 
-Julie Desire is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Le Sucre, Lyon on Fri, 4 Sept 2026.
+Julie Desire is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Le Sucre, Lyon on Fri, 4 Sept 2026.
 
 Julie Desire is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: Le Sucre, Lyon on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Julie Desire is a techno and house artist tracked on soundcheck, with 110 sets l
 
 Cheriii, Mars O10C, A-440
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*

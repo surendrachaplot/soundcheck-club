@@ -1,6 +1,6 @@
 # CHIDA
 
-CHIDA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Mitsuki, Tokyo on Wed, 2 Sept 2026.
+CHIDA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mitsuki, Tokyo on Wed, 2 Sept 2026.
 
 CHIDA is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 8 more. Often billed alongside YAMARCHY, FFAN and FU (JP). Next up: Mitsuki, Tokyo on Wed 2 Sept.
 
@@ -27,4 +27,4 @@ CHIDA is a house and techno artist tracked on soundcheck, with 182 sets logged a
 
 YAMARCHY, FFAN, FU (JP)
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/chida/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chida/)*

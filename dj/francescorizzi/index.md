@@ -1,6 +1,6 @@
 # Francesco Rizzi
 
-Francesco Rizzi is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Ritter Butzke, Berlin on Fri, 2 Oct 2026.
+Francesco Rizzi is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ritter Butzke, Berlin on Fri, 2 Oct 2026.
 
 Francesco Rizzi is a downtempo and deep house artist tracked on soundcheck, with 26 sets logged across Berlin, Stuttgart and Zurich. Often billed alongside Adrian Schneider, Tvísker and Brigade. Next up: Ritter Butzke, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Francesco Rizzi is a downtempo and deep house artist tracked on soundcheck, with
 
 Adrian Schneider, Tvísker, Brigade
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/francescorizzi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescorizzi/)*

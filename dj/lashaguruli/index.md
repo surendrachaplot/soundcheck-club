@@ -1,6 +1,6 @@
 # Lasha Guruli
 
-Lasha Guruli is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Golden Gate, Berlin on Fri, 11 Sept 2026.
+Lasha Guruli is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Golden Gate, Berlin on Fri, 11 Sept 2026.
 
 Lasha Guruli is a hip-hop and club artist based in Georgia, tracked on soundcheck, with 23 sets logged across Athens, Berlin and Tbilisi. Often billed alongside Lena Brumby, CIKO and Emanuele Barilli. Next up: Golden Gate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Lasha Guruli is a hip-hop and club artist based in Georgia, tracked on soundchec
 
 Lena Brumby, CIKO, Emanuele Barilli
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lashaguruli/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lashaguruli/)*

@@ -1,14 +1,13 @@
 # BioN
 
-BioN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at TBA -  Somewhere in East Berlin, Berlin on Fri, 28 Aug 2026.
+BioN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club der Visionaere, Berlin on Mon, 7 Sept 2026.
 
-BioN is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Francesco Passantino, Hamsa and Luc Ringeisen. Next up: TBA -  Somewhere in East Berlin, Berlin on Fri 28 Aug.
+BioN is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Francesco Passantino, Hamsa and Luc Ringeisen. Next up: Club der Visionaere, Berlin on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 28 Aug 2026 | TBA -  Somewhere in East Berlin | Berlin |
 | Mon, 7 Sept 2026 | Club der Visionaere | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ BioN is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Francesco Passantino, Hamsa, Luc Ringeisen
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bion/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bion/)*

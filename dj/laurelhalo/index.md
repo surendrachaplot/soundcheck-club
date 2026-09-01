@@ -1,6 +1,6 @@
 # Laurel Halo
 
-Laurel Halo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Monument SF, San Francisco/Oakland on Sat, 14 Nov 2026.
+Laurel Halo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Monument SF, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Laurel Halo is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Marie Davidson, Aurora Halal and CCL. Next up: Monument SF, Sanfrancisco on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Laurel Halo is a techno and house artist tracked on soundcheck, with 97 sets log
 
 Marie Davidson, Aurora Halal, CCL
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/laurelhalo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurelhalo/)*

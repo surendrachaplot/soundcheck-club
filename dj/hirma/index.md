@@ -1,6 +1,6 @@
 # Hirma
 
-Hirma is a Baile Funk and Dancehall artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Motel Campo, Geneva on Sat, 12 Sept 2026.
+Hirma is a Baile Funk and Dancehall artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Motel Campo, Geneva on Sat, 12 Sept 2026.
 
 Hirma is a baile funk and dancehall artist based in Switzerland, tracked on soundcheck, with 48 sets logged across Brussels, Geneva, Lyon and Paris. Often billed alongside Esengo, Sampaio and Bony Fly. Next up: Motel Campo, Geneva on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Hirma is a baile funk and dancehall artist based in Switzerland, tracked on soun
 
 Esengo, Sampaio, Bony Fly
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/hirma/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hirma/)*

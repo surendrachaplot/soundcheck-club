@@ -1,6 +1,6 @@
 # Surfface
 
-Surfface is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Timebar, Stockholm on Fri, 11 Sept 2026.
+Surfface is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Timebar, Stockholm on Fri, 11 Sept 2026.
 
 Surfface is a house and tech house artist based in Sweden, tracked on soundcheck, with 36 sets logged across Amsterdam, Stockholm and Warsaw. Often billed alongside Coralie Llie, Anders Ödman and Coralie. Next up: Timebar, Stockholm on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Surfface is a house and tech house artist based in Sweden, tracked on soundcheck
 
 Coralie Llie, Anders Ödman, Coralie
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/surfface/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surfface/)*

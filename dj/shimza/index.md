@@ -1,6 +1,6 @@
 # Shimza
 
-Shimza is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Jevremovac Botanical Garden, Belgrade on Wed, 2 Sept 2026.
+Shimza is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Jevremovac Botanical Garden, Belgrade on Wed, 2 Sept 2026.
 
 Shimza is an afro house and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Jevremovac Botanical Garden, Belgrade on Wed 2 Sept.
 
@@ -28,4 +28,4 @@ Shimza is an afro house and house artist tracked on soundcheck, with 144 sets lo
 
 ARODES, Andrea Oliva, Mahmut Orhan
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*

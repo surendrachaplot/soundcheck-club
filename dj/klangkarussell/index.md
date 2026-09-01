@@ -1,6 +1,6 @@
 # Klangkarussell
 
-Klangkarussell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Ritter Butzke, Berlin on Sat, 21 Nov 2026.
+Klangkarussell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ritter Butzke, Berlin on Sat, 21 Nov 2026.
 
 Klangkarussell is a house and techno artist based in Austria, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Basel and Berlin and 18 more. Often billed alongside Andre Klang, Michel Sacher and Prismode. Next up: Ritter Butzke, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Klangkarussell is a house and techno artist based in Austria, tracked on soundch
 
 Andre Klang, Michel Sacher, Prismode
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkarussell/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klangkarussell/)*

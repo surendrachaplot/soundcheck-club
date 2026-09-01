@@ -1,6 +1,6 @@
 # Sans Nom
 
-Sans Nom is a Minimal Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - Ventura , Los Angeles on Sat, 26 Sept 2026.
+Sans Nom is a Minimal Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Ventura , Los Angeles on Sat, 26 Sept 2026.
 
 Sans Nom is a minimal techno and drum & bass artist tracked on soundcheck, with 4 sets logged across Losangeles. Often billed alongside Bird Lady, Brad Moontribe and Bret Wallace. Next up: TBA - Ventura , Losangeles on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Sans Nom is a minimal techno and drum & bass artist tracked on soundcheck, with 
 
 Bird Lady, Brad Moontribe, Bret Wallace
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/sansnom/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sansnom/)*

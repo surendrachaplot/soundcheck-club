@@ -1,13 +1,14 @@
 # Lil Mofo
 
-Lil Mofo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mitsuki, Tokyo on Sat, 26 Sept 2026.
+Lil Mofo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Forestlimit, Tokyo on Sat, 5 Sept 2026.
 
-Lil Mofo is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 10 more. Often billed alongside OG Militant B, HIBI BLISS and BEENIE PIMP. Next up: Mitsuki, Tokyo on Sat 26 Sept.
+Lil Mofo is a house and techno artist tracked on soundcheck, with 96 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 10 more. Often billed alongside OG Militant B, HIBI BLISS and BEENIE PIMP. Next up: Forestlimit, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Forestlimit | Tokyo |
 | Sat, 26 Sept 2026 | Mitsuki | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lil Mofo is a house and techno artist tracked on soundcheck, with 95 sets logged
 
 OG Militant B, HIBI BLISS, BEENIE PIMP
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/lilmofo/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilmofo/)*

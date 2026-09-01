@@ -1,6 +1,6 @@
 # Ultrathem
 
-Ultrathem is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Ultrathem is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Ultrathem is a techno and acid artist tracked on soundcheck, with 101 sets logged across Austin, Berlin, Boston and Chicago and 8 more. Often billed alongside Winter Wrong, Robyn Sin Love and SDRV. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ultrathem is a techno and acid artist tracked on soundcheck, with 101 sets logge
 
 Winter Wrong, Robyn Sin Love, SDRV
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrathem/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrathem/)*

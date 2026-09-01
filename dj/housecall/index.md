@@ -1,6 +1,6 @@
 # Housecall
 
-Housecall is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Plantation, Paris on Fri, 4 Sept 2026.
+Housecall is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Plantation, Paris on Fri, 4 Sept 2026.
 
 Housecall is a house and disco artist tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Lyon and Paris. Often billed alongside Longneck, Larry Houl and Barée Masse. Next up: Plantation, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Housecall is a house and disco artist tracked on soundcheck, with 38 sets logged
 
 Longneck, Larry Houl, Barée Masse
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/housecall/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/housecall/)*

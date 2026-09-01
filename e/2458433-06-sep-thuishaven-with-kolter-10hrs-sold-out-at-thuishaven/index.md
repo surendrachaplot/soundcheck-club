@@ -1,6 +1,6 @@
 # 06 SEP - Thuishaven with Kolter 10HRS SOLD OUT at Thuishaven
 
-06 SEP - Thuishaven with Kolter 10HRS SOLD OUT on Sun 6 Sept, Amsterdam. 4 acts on the bill: Giammarco Orsini, Kolter, Rich NXT and Tiago Walter. Preview the line-up and save it on soundcheck.
+06 SEP - Thuishaven with Kolter 10HRS SOLD OUT on Sun 6 Sept, Amsterdam. 6 acts on the bill: Boris Coelman, Breezy S, Giammarco Orsini and Kolter and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@
 
 ## Line-up
 
+- Boris Coelman
+- Breezy S
 - Giammarco Orsini
 - Kolter
 - Rich NXT

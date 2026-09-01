@@ -1,13 +1,14 @@
 # WHO
 
-WHO is a Tech House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+WHO is a Club and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Thu, 22 Oct 2026.
 
-WHO is a tech house and club artist tracked on soundcheck, with 6 sets logged across Ibiza, London and Miami. Often billed alongside Claptone, ACID HARRY and Artche. Next up: Fire & Lightbox, London on Sat 31 Oct.
+WHO is a club and tech house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Ibiza, London and Miami. Often billed alongside Claptone, ACID HARRY and Artche. Next up: Grand Café Heineken Hoek, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 | Sat, 31 Oct 2026 | Fire & Lightbox | London |
 
 ## Recently played
@@ -22,4 +23,4 @@ WHO is a tech house and club artist tracked on soundcheck, with 6 sets logged ac
 
 Claptone, ACID HARRY, Artche
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/who/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/who/)*

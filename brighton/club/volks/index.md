@@ -1,6 +1,6 @@
 # Volks
 
-Volks is a music venue in Brighton with 8 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "In The Face presents: Off Me Nut Records" on Fri, 11 Sept 2026.
+Volks is a music venue in Brighton with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "In The Face presents: Off Me Nut Records" on Fri, 11 Sept 2026.
 
 Volks is a music venue in Brighton listed on soundcheck. 8 upcoming nights, with line-ups including A.M.C., Acid Carbon, Bluntz and Channel One Sound and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
@@ -21,4 +21,4 @@ Volks is a music venue in Brighton listed on soundcheck. 8 upcoming nights, with
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

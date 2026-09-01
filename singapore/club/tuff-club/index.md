@@ -1,6 +1,6 @@
 # Tuff Club
 
-Tuff Club is a music venue in Singapore with 4 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Fractal Minds presents STARLAB" on Fri, 4 Sept 2026.
+Tuff Club is a music venue in Singapore with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Fractal Minds presents STARLAB" on Fri, 4 Sept 2026.
 
 Tuff Club is a music venue in Singapore listed on soundcheck. 4 upcoming nights, with line-ups including S280F, Cosmo Carbon, James Selva and Matrixxman and 2 more. Browse upcoming dates, start times and who's playing. 138 Robinson Road #19-01, Singapore 068906.
 
@@ -17,4 +17,4 @@ Tuff Club is a music venue in Singapore listed on soundcheck. 4 upcoming nights,
 
 138 Robinson Road #19-01, Singapore 068906, Singapore
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/tuff-club/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/tuff-club/)*

@@ -1,6 +1,6 @@
-# Giri x  Presshouse at Giri
+# Giri x Presshouse at Giri
 
-Giri x  Presshouse on Fri 4 Sept, Berlin. 2 acts on the bill: Jessica Nightlife and Sanaz. House. Preview the line-up and save it on soundcheck.
+Giri x Presshouse on Fri 4 Sept, Berlin. 2 acts on the bill: Jessica Nightlife and Sanaz. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

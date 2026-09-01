@@ -1,6 +1,6 @@
 # Miura
 
-Miura is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Atelier Rooftop, Berlin on Fri, 25 Sept 2026.
+Miura is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Atelier Rooftop, Berlin on Fri, 25 Sept 2026.
 
 Miura is a house and techno artist based in Ukraine, tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Bali and Berlin and 17 more. Often billed alongside Eva Selezneva, CAPTNNN' and Agathe Mougin. Next up: Atelier Rooftop, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Miura is a house and techno artist based in Ukraine, tracked on soundcheck, with
 
 Eva Selezneva, CAPTNNN', Agathe Mougin
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/miura/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miura/)*

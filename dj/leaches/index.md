@@ -1,6 +1,6 @@
 # Leaches
 
-Leaches is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Low Profile Studios, London on Sat, 26 Sept 2026.
+Leaches is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Low Profile Studios, London on Sat, 26 Sept 2026.
 
 Leaches is a techno and dub techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London and Manchester. Often billed alongside Ununu, Alisa Murphy and Autumns. Next up: Low Profile Studios, London on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Leaches is a techno and dub techno artist based in United Kingdom, tracked on so
 
 Ununu, Alisa Murphy, Autumns
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leaches/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leaches/)*

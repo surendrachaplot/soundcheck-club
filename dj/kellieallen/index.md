@@ -1,6 +1,6 @@
 # Kellie Allen
 
-Kellie Allen is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 6 Sept 2026.
+Kellie Allen is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 6 Sept 2026.
 
 Kellie Allen is a house and tech house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 21 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: Los Angeles State Historic Park, Losangeles on Sun 6 Sept.
 
@@ -32,4 +32,4 @@ Kellie Allen is a house and tech house artist tracked on soundcheck, with 120 se
 
 Prunk, Dennis Quin, M-High
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*

@@ -1,6 +1,6 @@
 # Juan Atkins
 
-Juan Atkins is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at clubasia, Tokyo on Fri, 4 Sept 2026.
+Juan Atkins is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at clubasia, Tokyo on Fri, 4 Sept 2026.
 
 Juan Atkins is a techno and house artist based in United States of America, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 23 more. Often billed alongside Delano Smith, Carl Craig and Christian AB. Next up: clubasia, Tokyo on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Juan Atkins is a techno and house artist based in United States of America, trac
 
 Delano Smith, Carl Craig, Christian AB
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/juanatkins/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanatkins/)*

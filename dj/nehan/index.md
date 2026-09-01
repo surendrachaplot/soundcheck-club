@@ -1,0 +1,28 @@
+# Nehan
+
+Nehan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Red Bar, Tokyo on Fri, 4 Sept 2026.
+
+Nehan is a house and techno artist based in Japan, tracked on soundcheck, with 35 sets logged across Tokyo. Often billed alongside P-YAN, Arao and RIHO ASAEDA. Next up: Red Bar, Tokyo on Fri 4 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 4 Sept 2026 | Red Bar | Tokyo |
+
+## Recently played
+
+- Koara, Tokyo — Thu, 20 Aug 2026
+- WOMB, Tokyo — Sat, 18 Jul 2026
+- Red Bar, Tokyo — Fri, 12 Jun 2026
+- Oath, Tokyo — Fri, 8 May 2026
+- Aoyama Hachi, Tokyo — Sat, 21 Mar 2026
+- Red Bar, Tokyo — Sat, 7 Mar 2026
+- Aoyama Hachi, Tokyo — Sun, 8 Feb 2026
+- Mitsuki, Tokyo — Tue, 16 Dec 2025
+
+## Shares bills with
+
+P-YAN, Arao, RIHO ASAEDA
+
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nehan/)*

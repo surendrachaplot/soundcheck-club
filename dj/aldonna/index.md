@@ -1,6 +1,6 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Sacré, Paris on Fri, 4 Sept 2026.
+Aldonna is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Sacré, Paris on Fri, 4 Sept 2026.
 
 Aldonna is a house and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Bali, Berlin and Brisbane and 26 more. Often billed alongside Tjade, D Stone and DAWS. Next up: Sacré, Paris on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Aldonna is a house and techno artist tracked on soundcheck, with 130 sets logged
 
 Tjade, D Stone, DAWS
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

@@ -1,8 +1,8 @@
 # Leolo Lozone
 
-Leolo Lozone is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Odonien, Cologne on Sat, 5 Sept 2026.
+Leolo Lozone is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Odonien, Cologne on Sat, 5 Sept 2026.
 
-Leolo Lozone is a techno and house artist tracked on soundcheck, with 31 sets logged across Cologne. Often billed alongside Marcel Janovsky, Elisen and Eszter. Next up: Odonien, Cologne on Sat 5 Sept.
+Leolo Lozone is a techno and house artist tracked on soundcheck, with 32 sets logged across Cologne. Often billed alongside Marcel Janovsky, Elisen and Eszter. Next up: Odonien, Cologne on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Leolo Lozone is a techno and house artist tracked on soundcheck, with 31 sets lo
 | Sat, 5 Sept 2026 | Odonien | Cologne |
 | Sat, 5 Sept 2026 | Odonien | Cologne |
 | Sat, 5 Sept 2026 | Odonien | Cologne |
+| Wed, 16 Sept 2026 | Garagen | Cologne |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Leolo Lozone is a techno and house artist tracked on soundcheck, with 31 sets lo
 
 Marcel Janovsky, Elisen, Eszter
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/leololozone/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leololozone/)*

@@ -1,14 +1,13 @@
 # DC-10
 
-DC-10 is a music venue in Ibiza with 12 upcoming nights listed on soundcheck as of Mon, 31 Aug 2026; the next is "Circoloco Ibiza - Week 19" on Mon, 31 Aug 2026.
+DC-10 is a music venue in Ibiza with 11 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Solid Grooves - Week 14" on Thu, 3 Sept 2026.
 
-DC-10 is a music venue in Ibiza listed on soundcheck. 12 upcoming nights, with line-ups including Antal, Bedouin, Chloé Caillet and Kamma and 2 more. Browse upcoming dates, start times and who's playing. PM-802, Sant Josep de sa Talaia, Ibiza Spain.
+DC-10 is a music venue in Ibiza listed on soundcheck. 11 upcoming nights, with line-ups including Antal, Bedouin, Chloé Caillet and Kamma and 2 more. Browse upcoming dates, start times and who's playing. PM-802, Sant Josep de sa Talaia, Ibiza Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 31 Aug 2026 | Circoloco Ibiza - Week 19 |  |
 | Thu, 3 Sept 2026 | Solid Grooves - Week 14 |  |
 | Mon, 7 Sept 2026 | Circoloco Ibiza - Week 20 | Antal, Bedouin, Chloé Caillet, Kamma, Leon Vynehall, Luke Alessi, Mano Le Tough, Masalo, Pascal Moscheni, Petre Inspirescu, Raresh, Rhadoo, Roi Perez, Sedef Adasï, Seth Troxler, Sossa |
 | Thu, 10 Sept 2026 | Solid Grooves - Week 15 |  |
@@ -18,9 +17,10 @@ DC-10 is a music venue in Ibiza listed on soundcheck. 12 upcoming nights, with l
 | Thu, 24 Sept 2026 | Solid Grooves - Week 17 |  |
 | Mon, 28 Sept 2026 | CircoLoco Ibiza - Week 23 |  |
 | Thu, 1 Oct 2026 | Solid Grooves - Closing Party |  |
+| Mon, 5 Oct 2026 | CircoLoco Ibiza - Week 24 |  |
 
 ## Address
 
 PM-802, Sant Josep de sa Talaia, Ibiza Spain, Ibiza
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*

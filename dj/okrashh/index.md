@@ -1,6 +1,6 @@
 # OKRASHH
 
-OKRASHH is a Baile Funk and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Bateau de Genève, Geneva on Sat, 5 Sept 2026.
+OKRASHH is a Baile Funk and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bateau de Genève, Geneva on Sat, 5 Sept 2026.
 
 OKRASHH is a baile funk and hip-hop artist based in Switzerland, tracked on soundcheck, with 18 sets logged across Geneva. Often billed alongside Spice & Curls, Imsobaby and PATRÃO. Next up: Bateau de Genève, Geneva on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ OKRASHH is a baile funk and hip-hop artist based in Switzerland, tracked on soun
 
 Spice & Curls, Imsobaby, PATRÃO
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/okrashh/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okrashh/)*

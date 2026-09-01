@@ -1,6 +1,6 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
+A Guy Called Gerald is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Jazz Cafe, London on Fri, 25 Sept 2026.
 
 A Guy Called Gerald is a house and techno artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 34 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: The Jazz Cafe, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ A Guy Called Gerald is a house and techno artist tracked on soundcheck, with 109
 
 Will B, gyrofield, Ben UFO
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*

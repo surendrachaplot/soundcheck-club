@@ -1,6 +1,6 @@
 # Tiyumii
 
-Tiyumii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
+Tiyumii is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
 
 Tiyumii is a techno and house artist based in Venezuela, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Lisbon and London and 3 more. Often billed alongside Julio César, Sofy Suars and T0M1. Next up: Nitsa Club, Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Tiyumii is a techno and house artist based in Venezuela, tracked on soundcheck, 
 
 Julio César, Sofy Suars, T0M1
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tiyumii/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiyumii/)*

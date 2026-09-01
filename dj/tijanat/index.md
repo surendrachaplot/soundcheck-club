@@ -1,6 +1,6 @@
 # Tijana T
 
-Tijana T is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at fabric, London on Sat, 12 Sept 2026.
+Tijana T is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at fabric, London on Sat, 12 Sept 2026.
 
 Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 35 more. Often billed alongside Marcel Dettmann, Sedef Adasï and Adiel. Next up: fabric, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Tijana T is a techno and house artist tracked on soundcheck, with 109 sets logge
 
 Marcel Dettmann, Sedef Adasï, Adiel
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*

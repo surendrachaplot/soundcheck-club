@@ -1,6 +1,6 @@
 # An toi
 
-An toi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Mitsuki, Tokyo on Sat, 19 Sept 2026.
+An toi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mitsuki, Tokyo on Sat, 19 Sept 2026.
 
 An toi is a house and techno artist based in Japan, tracked on soundcheck, with 72 sets logged across Berlin, London, Paris and Tokyo. Often billed alongside 50Minimals, Toshiyuki Goto and Young Marco. Next up: Mitsuki, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ An toi is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 50Minimals, Toshiyuki Goto, Young Marco
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/antoi/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antoi/)*

@@ -1,8 +1,8 @@
 # Benny (El Rio Hostel)
 
-Benny (El Rio Hostel) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Golden Pudel Club, Hamburg on Fri, 4 Sept 2026.
+Benny (El Rio Hostel) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 4 Sept 2026.
 
-Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 4 more. Often billed alongside Adi (CO), Barbaros and David Lenk. Next up: Golden Pudel Club, Hamburg on Fri 4 Sept.
+Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside Adi (CO), Barbaros and David Lenk. Next up: Golden Pudel Club, Hamburg on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, 
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Golden Pudel Club | Hamburg |
 | Fri, 18 Sept 2026 | Starlane Pizza Bar | London |
+| Fri, 25 Sept 2026 | Cobalt Studios | Newcastle |
 | Fri, 2 Oct 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
@@ -27,4 +28,4 @@ Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, 
 
 Adi (CO), Barbaros, David Lenk
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*

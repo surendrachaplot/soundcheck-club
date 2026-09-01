@@ -1,6 +1,6 @@
 # Boris Saturday - FREE TICKETS at BORIS CLUB
 
-Boris Saturday - FREE TICKETS at BORIS CLUB on Sat 5 Sept, Barcelona. 2 acts on the bill: Jessy and K:ROL. House. Preview the line-up and save it on soundcheck.
+Boris Saturday - FREE TICKETS at BORIS CLUB on Sat 5 Sept, Barcelona. 4 acts on the bill: Blind Mind, JE·ROME, Jessy and K:ROL. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Boris Saturday - FREE TICKETS at BORIS CLUB on Sat 5 Sept, Barcelona. 2 acts on 
 
 ## Line-up
 
+- Blind Mind
+- JE·ROME
 - Jessy
 - K:ROL
 

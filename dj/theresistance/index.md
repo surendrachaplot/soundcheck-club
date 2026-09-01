@@ -1,6 +1,6 @@
 # The Resistance
 
-The Resistance is a Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Q Nightclub, Seattle on Sat, 24 Oct 2026.
+The Resistance is a Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Q Nightclub, Seattle on Sat, 24 Oct 2026.
 
 The Resistance is a dubstep artist tracked on soundcheck, with 3 sets logged across Budapest, Detroit and Seattle. Often billed alongside BARK, Delta Heavy and Metrik. Next up: Q Nightclub, Seattle on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ The Resistance is a dubstep artist tracked on soundcheck, with 3 sets logged acr
 
 BARK, Delta Heavy, Metrik
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theresistance/)*

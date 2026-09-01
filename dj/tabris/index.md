@@ -1,13 +1,14 @@
 # Tabris
 
-Tabris is a Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Cakeshop, Seoul on Sat, 26 Sept 2026.
+Tabris is a Bass and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Kote, Seoul on Sun, 6 Sept 2026.
 
-Tabris is a bass and breakbeat artist based in South Korea, tracked on soundcheck, with 55 sets logged across Seoul and Tokyo. Often billed alongside Nimvy, HASHTAGPOPE and Dan Dara. Next up: Cakeshop, Seoul on Sat 26 Sept.
+Tabris is a bass and breakbeat artist based in South Korea, tracked on soundcheck, with 56 sets logged across Seoul and Tokyo. Often billed alongside Nimvy, HASHTAGPOPE and Dan Dara. Next up: Kote, Seoul on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | Kote | Seoul |
 | Sat, 26 Sept 2026 | Cakeshop | Seoul |
 | Fri, 6 Nov 2026 | Cakeshop | Seoul |
 
@@ -26,4 +27,4 @@ Tabris is a bass and breakbeat artist based in South Korea, tracked on soundchec
 
 Nimvy, HASHTAGPOPE, Dan Dara
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/tabris/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tabris/)*

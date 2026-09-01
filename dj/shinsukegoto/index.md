@@ -1,14 +1,15 @@
 # Shinsuke Goto
 
-Shinsuke Goto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Spread, Tokyo on Sat, 5 Sept 2026.
+Shinsuke Goto is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Spread, Tokyo on Sat, 5 Sept 2026.
 
-Shinsuke Goto is a techno and house artist tracked on soundcheck, with 168 sets logged across Bangkok, Berlin, Dusseldorf and Hongkong and 5 more. Often billed alongside Mari Sakurai, YUTA and DJ Yazi. Next up: Spread, Tokyo on Sat 5 Sept.
+Shinsuke Goto is a techno and house artist tracked on soundcheck, with 169 sets logged across Bangkok, Berlin, Dusseldorf and Hongkong and 5 more. Often billed alongside Mari Sakurai, YUTA and DJ Yazi. Next up: Spread, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Spread | Tokyo |
+| Mon, 21 Sept 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Shinsuke Goto is a techno and house artist tracked on soundcheck, with 168 sets 
 
 Mari Sakurai, YUTA, DJ Yazi
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/shinsukegoto/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shinsukegoto/)*

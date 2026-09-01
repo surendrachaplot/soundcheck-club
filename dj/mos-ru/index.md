@@ -1,6 +1,6 @@
 # M.O.S.
 
-M.O.S. is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
+M.O.S. is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
 
 M.O.S. is a house and progressive house artist based in Czech Republic, tracked on soundcheck, with 10 sets logged across Amsterdam, Brisbane, Budapest and Melbourne and 3 more. Often billed alongside Miguel Campbell, OLIIV and 16BL. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ M.O.S. is a house and progressive house artist based in Czech Republic, tracked 
 
 Miguel Campbell, OLIIV, 16BL
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/mos-ru/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mos-ru/)*

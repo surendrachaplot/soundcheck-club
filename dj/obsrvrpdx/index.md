@@ -1,6 +1,6 @@
 # Øbsrvr (PDX)
 
-Øbsrvr (PDX) is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Underground SF, San Francisco/Oakland on Sat, 10 Oct 2026.
+Øbsrvr (PDX) is a Electro and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 10 Oct 2026.
 
 Øbsrvr (PDX) is an electro and idm artist tracked on soundcheck, with 3 sets logged across Portland and Sanfrancisco. Often billed alongside Alexandernaut, Convextion and Cygnus. Next up: Underground SF, Sanfrancisco on Sat 10 Oct.
 
@@ -19,4 +19,4 @@
 
 Alexandernaut, Convextion, Cygnus
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/obsrvrpdx/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obsrvrpdx/)*

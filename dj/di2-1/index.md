@@ -1,6 +1,6 @@
 # Di² (1)
 
-Di² (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at Gewölbe, Cologne on Sat, 19 Sept 2026.
+Di² (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gewölbe, Cologne on Sat, 19 Sept 2026.
 
 Di² (1) is a techno and house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf. Often billed alongside Jordy, Adiel and DJ Very Good Plus. Next up: Gewölbe, Cologne on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Di² (1) is a techno and house artist tracked on soundcheck, with 7 sets logged 
 
 Jordy, Adiel, DJ Very Good Plus
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/di2-1/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/di2-1/)*

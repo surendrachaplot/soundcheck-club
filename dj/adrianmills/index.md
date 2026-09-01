@@ -1,8 +1,8 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Mon, 31 Aug 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Adrian Mills is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Adrian Mills is a techno and trance artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 52 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Union Park, Chicago on Fri 4 Sept.
+Adrian Mills is a techno and trance artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Adrian Mills is a techno and trance artist tracked on soundcheck, with 213 sets 
 | Fri, 2 Oct 2026 | Schrotty | Cologne |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
+| Sat, 17 Oct 2026 | Universe Athens | Athens |
 | Tue, 27 Oct 2026 | Roxy | Prague |
 
 ## Recently played
@@ -34,4 +35,4 @@ Adrian Mills is a techno and trance artist tracked on soundcheck, with 213 sets 
 
 Cloudy, KUKO, Serafina
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

@@ -1,6 +1,6 @@
 # Wegmann
 
-Wegmann is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 31 Aug 2026, next at TBA - SECRET WOODS, Cologne on Sat, 5 Sept 2026.
+Wegmann is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - SECRET WOODS, Cologne on Sat, 5 Sept 2026.
 
 Wegmann is a techno artist based in Germany, tracked on soundcheck, with 1 set logged across Cologne. Next up: TBA - SECRET WOODS, Cologne on Sat 5 Sept.
 
@@ -10,4 +10,4 @@ Wegmann is a techno artist based in Germany, tracked on soundcheck, with 1 set l
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA - SECRET WOODS | Cologne |
 
-*Updated Mon, 31 Aug 2026 · source: [soundcheck](https://soundcheck.club/dj/wegmann/)*
+*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wegmann/)*
