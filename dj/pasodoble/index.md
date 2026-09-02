@@ -1,6 +1,6 @@
 # Paso Doble
 
-Paso Doble is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at YoYo - Palais de Tokyo, Paris on Sat, 19 Sept 2026.
+Paso Doble is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at YoYo - Palais de Tokyo, Paris on Sat, 19 Sept 2026.
 
 Paso Doble is a house and deep house artist based in Canada, tracked on soundcheck, with 18 sets logged across Geneva, Ibiza, Istanbul and Lisbon and 4 more. Often billed alongside Jay Fase, AJNA and Acid Pauli. Next up: YoYo - Palais de Tokyo, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Paso Doble is a house and deep house artist based in Canada, tracked on soundche
 
 Jay Fase, AJNA, Acid Pauli
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pasodoble/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pasodoble/)*

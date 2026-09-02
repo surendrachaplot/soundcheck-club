@@ -1,6 +1,6 @@
 # Indelekt
 
-Indelekt is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Indelekt is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Indelekt is an electronic artist tracked on soundcheck, with 22 sets logged across Athens. Often billed alongside Adam Des, Nuumett and VSSLS. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Indelekt is an electronic artist tracked on soundcheck, with 22 sets logged acro
 
 Adam Des, Nuumett, VSSLS
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indelekt/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indelekt/)*

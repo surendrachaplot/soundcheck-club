@@ -1,6 +1,6 @@
 # melting the people
 
-melting the people is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Lieberscholli, Munich on Sat, 19 Sept 2026.
+melting the people is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Lieberscholli, Munich on Sat, 19 Sept 2026.
 
 melting the people is a techno and house artist tracked on soundcheck, with 5 sets logged across Munich. Often billed alongside Modul Kollektiv, Nothing But Love and Quirin (DE). Next up: Lieberscholli, Munich on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ melting the people is a techno and house artist tracked on soundcheck, with 5 se
 
 Modul Kollektiv, Nothing But Love, Quirin (DE)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meltingthepeople/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meltingthepeople/)*

@@ -1,6 +1,6 @@
 # Bubba Oasis, Islington
 
-Bubba Oasis, Islington is a music venue in London with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "House Party" on Fri, 4 Sept 2026.
+Bubba Oasis, Islington is a music venue in London with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "House Party" on Fri, 4 Sept 2026.
 
 Bubba Oasis, Islington is a music venue in London listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 57-58 Upper St, London, N1 0NY.
 
@@ -21,4 +21,4 @@ Bubba Oasis, Islington is a music venue in London listed on soundcheck. 8 upcomi
 
 57-58 Upper St, London, N1 0NY, London
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bubba-oasis-islington/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bubba-oasis-islington/)*

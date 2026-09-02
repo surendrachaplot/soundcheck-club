@@ -1,8 +1,8 @@
 # NIKOLINA_
 
-NIKOLINA_ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fuse, Brussels on Fri, 4 Sept 2026.
+NIKOLINA_ is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fuse, Brussels on Fri, 4 Sept 2026.
 
-NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brussels and Budapest and 20 more. Often billed alongside A.N.I., Azyr and DJ Sonnenbrand. Next up: Fuse, Brussels on Fri 4 Sept.
+NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Brussels and Budapest and 20 more. Often billed alongside A.N.I., Azyr and DJ Sonnenbrand. Next up: Fuse, Brussels on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, 
 | Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Sat, 12 Sept 2026 | Zenith - Die Kulturhalle | Munich |
+| Sat, 17 Oct 2026 | E-Werk Kulturzentrum | Nürnberg |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, 
 
 A.N.I., Azyr, DJ Sonnenbrand
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina_/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina_/)*

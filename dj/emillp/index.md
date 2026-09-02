@@ -1,6 +1,6 @@
 # Emil LP
 
-Emil LP is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 18 Sept 2026.
+Emil LP is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 18 Sept 2026.
 
 Emil LP is a deep house and disco artist based in Australia, tracked on soundcheck, with 9 sets logged across Melbourne. Often billed alongside Miles Ahead, Aarti Jadu and Akane (1). Next up: Angel Music Bar, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Emil LP is a deep house and disco artist based in Australia, tracked on soundche
 
 Miles Ahead, Aarti Jadu, Akane (1)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emillp/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emillp/)*

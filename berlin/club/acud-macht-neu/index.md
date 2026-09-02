@@ -1,6 +1,6 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "GIALO NIGHT" on Sat, 5 Sept 2026.
+Acud Macht NEU is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "GIALO NIGHT" on Sat, 5 Sept 2026.
 
 Acud Macht NEU is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including DJ GHEPARD, DJ Hristos, griefeater and LEYA and 2 more. Browse upcoming dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
@@ -18,4 +18,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 5 upcoming night
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

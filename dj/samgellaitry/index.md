@@ -1,6 +1,6 @@
 # Sam Gellaitry
 
-Sam Gellaitry is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Cow Palace, San Francisco/Oakland on Fri, 16 Oct 2026.
+Sam Gellaitry is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Cow Palace, San Francisco/Oakland on Fri, 16 Oct 2026.
 
 Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Brighton and Glasgow and 18 more. Often billed alongside Kovop, Jyoty and Channel Tres. Next up: Cow Palace, Sanfrancisco on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Sam Gellaitry is a house and electronica artist based in United Kingdom, tracked
 
 Kovop, Jyoty, Channel Tres
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*

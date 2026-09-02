@@ -1,6 +1,6 @@
 # Max Web
 
-Max Web is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Green Room NYC, New York City on Fri, 18 Sept 2026.
+Max Web is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Green Room NYC, New York City on Fri, 18 Sept 2026.
 
 Max Web is a house and minimal artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside AMZEL, Ramin Majlessi and Armii1n. Next up: Green Room NYC, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Max Web is a house and minimal artist based in United States of America, tracked
 
 AMZEL, Ramin Majlessi, Armii1n
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxweb/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxweb/)*

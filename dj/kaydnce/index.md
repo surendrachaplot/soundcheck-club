@@ -1,6 +1,6 @@
 # KAYDNCE
 
-KAYDNCE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gigi's Hoxton, London on Fri, 30 Oct 2026.
+KAYDNCE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Gigi's Hoxton, London on Fri, 30 Oct 2026.
 
 KAYDNCE is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Jo Cruz, Jerome Awtem and Sonata Collective. Next up: Gigi's Hoxton, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ KAYDNCE is a tech house and house artist based in United Kingdom, tracked on sou
 
 Jo Cruz, Jerome Awtem, Sonata Collective
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaydnce/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaydnce/)*

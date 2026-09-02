@@ -1,6 +1,6 @@
 # Unregular
 
-Unregular is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Het Sieraad, Amsterdam on Sat, 12 Sept 2026.
+Unregular is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Het Sieraad, Amsterdam on Sat, 12 Sept 2026.
 
 Unregular is a house and trance artist tracked on soundcheck, with 3 sets logged across Amsterdam and Antwerp. Often billed alongside Arter, Faster Horses and Jef Nice. Next up: Het Sieraad, Amsterdam on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Unregular is a house and trance artist tracked on soundcheck, with 3 sets logged
 
 Arter, Faster Horses, Jef Nice
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unregular/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unregular/)*

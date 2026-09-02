@@ -1,6 +1,6 @@
 # Mykola Lebed
 
-Mykola Lebed is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tea & Vinyl, Berlin on Wed, 2 Sept 2026.
+Mykola Lebed is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tea & Vinyl, Berlin on Wed, 2 Sept 2026.
 
 Mykola Lebed is an experimental and ambient artist based in Ukraine, tracked on soundcheck, with 10 sets logged across Berlin, Hamburg and Krakow. Often billed alongside Andriy K., Dmytro Filatov and Khrystyna Kirik. Next up: Tea & Vinyl, Berlin on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Mykola Lebed is an experimental and ambient artist based in Ukraine, tracked on 
 
 Andriy K., Dmytro Filatov, Khrystyna Kirik
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykolalebed/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykolalebed/)*

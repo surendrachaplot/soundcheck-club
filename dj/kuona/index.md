@@ -1,6 +1,6 @@
 # Kuona
 
-Kuona is a Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
+Kuona is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hive Club, Zurich on Fri, 25 Sept 2026.
 
 Kuona is a techno artist tracked on soundcheck, with 4 sets logged across Zurich. Often billed alongside Fadi Mohem, Ben Sims and D.Dan. Next up: Hive Club, Zurich on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Kuona is a techno artist tracked on soundcheck, with 4 sets logged across Zurich
 
 Fadi Mohem, Ben Sims, D.Dan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuona/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuona/)*

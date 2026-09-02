@@ -1,6 +1,6 @@
 # Original Peter
 
-Original Peter is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Void Club, Berlin on Fri, 23 Oct 2026.
+Original Peter is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Void Club, Berlin on Fri, 23 Oct 2026.
 
 Original Peter is a techno and psytrance artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside JoMi, Alexander Kowalski and Cherry Core. Next up: Void Club, Berlin on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Original Peter is a techno and psytrance artist tracked on soundcheck, with 3 se
 
 JoMi, Alexander Kowalski, Cherry Core
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/originalpeter/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/originalpeter/)*

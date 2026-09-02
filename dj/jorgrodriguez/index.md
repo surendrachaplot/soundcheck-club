@@ -1,6 +1,6 @@
 # Jörg Rodriguez
 
-Jörg Rodriguez is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mariano Escobedo 494, Mexico City on Fri, 11 Sept 2026.
+Jörg Rodriguez is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mariano Escobedo 494, Mexico City on Fri, 11 Sept 2026.
 
 Jörg Rodriguez is a techno artist tracked on soundcheck, with 3 sets logged across Mexicocity. Often billed alongside Alejandro Franco, Deepak Sharma and Ricardo Garduno. Next up: Mariano Escobedo 494, Mexicocity on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Jörg Rodriguez is a techno artist tracked on soundcheck, with 3 sets logged acr
 
 Alejandro Franco, Deepak Sharma, Ricardo Garduno
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgrodriguez/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgrodriguez/)*

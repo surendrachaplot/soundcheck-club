@@ -1,6 +1,6 @@
 # BLEND 4: IT'S SLIME TIME at TBA
 
-BLEND 4: IT'S SLIME TIME at TBA on Fri 30 Oct, Sheffield. Techno and Garage. Preview the line-up and save it on soundcheck.
+BLEND 4: IT'S SLIME TIME at TBA on Fri 30 Oct, Sheffield. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

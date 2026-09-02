@@ -1,6 +1,6 @@
 # Chunky
 
-Chunky is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Freight Brixton, London on Sat, 5 Sept 2026.
+Chunky is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Freight Brixton, London on Sat, 5 Sept 2026.
 
 Chunky is a garage and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Brisbane and 9 more. Often billed alongside Rich Reason, Tom Boogizm and Chimpo. Next up: Freight Brixton, London on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Chunky is a garage and house artist tracked on soundcheck, with 99 sets logged a
 
 Rich Reason, Tom Boogizm, Chimpo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chunky/)*

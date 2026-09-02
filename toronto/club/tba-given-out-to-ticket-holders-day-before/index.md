@@ -1,6 +1,6 @@
 # TBA - given out to ticket holders day before
 
-TBA - given out to ticket holders day before is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "11PME2: HEAVEN IS HARDCORE NIGHT 1" on Fri, 13 Nov 2026.
+TBA - given out to ticket holders day before is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "11PME2: HEAVEN IS HARDCORE NIGHT 1" on Fri, 13 Nov 2026.
 
 TBA - given out to ticket holders day before is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Prince Batrick. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - given out to ticket holders day before is a music venue in Toronto listed 
 | Fri, 13 Nov 2026 | 11PME2: HEAVEN IS HARDCORE NIGHT 1 | Prince Batrick |
 | Sat, 14 Nov 2026 | 11PME2: HEAVEN IS HARDCORE NIGHT 2 | Prince Batrick |
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-given-out-to-ticket-holders-day-before/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-given-out-to-ticket-holders-day-before/)*

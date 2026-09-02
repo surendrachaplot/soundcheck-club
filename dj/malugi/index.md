@@ -1,6 +1,6 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Madrid Caja Mágica, Madrid on Fri, 11 Sept 2026.
+MALUGI is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Madrid Caja Mágica, Madrid on Fri, 11 Sept 2026.
 
 MALUGI is a techno and house artist tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Madrid Caja Mágica, Madrid on Fri 11 Sept.
 
@@ -32,4 +32,4 @@ MALUGI is a techno and house artist tracked on soundcheck, with 224 sets logged 
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

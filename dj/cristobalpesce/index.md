@@ -1,6 +1,6 @@
 # Cristobal Pesce
 
-Cristobal Pesce is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 9 Oct 2026.
+Cristobal Pesce is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Brooklyn, New York City on Fri, 9 Oct 2026.
 
 Cristobal Pesce is a techno and trance artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside 999999999, Ornella and 6EJOU. Next up: TBA - Brooklyn, Newyorkcity on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Cristobal Pesce is a techno and trance artist tracked on soundcheck, with 67 set
 
 999999999, Ornella, 6EJOU
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalpesce/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalpesce/)*

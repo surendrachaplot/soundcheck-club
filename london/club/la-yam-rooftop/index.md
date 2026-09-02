@@ -1,6 +1,6 @@
 # LA-YAM Rooftop
 
-LA-YAM Rooftop is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Groovers on the Rooftop" on Fri, 4 Sept 2026.
+LA-YAM Rooftop is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Groovers on the Rooftop" on Fri, 4 Sept 2026.
 
 LA-YAM Rooftop is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Cesar Merveille, Johnny Fiore, Pedrum and Ronnie Spiteri and 2 more. Browse upcoming dates, start times and who's playing. Kingsbourne House, 229-231 High Holborn.
 
@@ -16,4 +16,4 @@ LA-YAM Rooftop is a music venue in London listed on soundcheck. 3 upcoming night
 
 Kingsbourne House, 229-231 High Holborn, London
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/la-yam-rooftop/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/la-yam-rooftop/)*

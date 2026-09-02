@@ -1,6 +1,6 @@
 # Robert Roman
 
-Robert Roman is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Rūmu, Lisbon on Wed, 2 Sept 2026.
+Robert Roman is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Rūmu, Lisbon on Wed, 2 Sept 2026.
 
 Robert Roman is a house and minimal artist based in United States of America, tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Austin and Berlin and 8 more. Often billed alongside Brett Johnson, CHKLTE and Jacques-André. Next up: Rūmu, Lisbon on Wed 2 Sept.
 
@@ -28,4 +28,4 @@ Robert Roman is a house and minimal artist based in United States of America, tr
 
 Brett Johnson, CHKLTE, Jacques-André
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertroman/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertroman/)*

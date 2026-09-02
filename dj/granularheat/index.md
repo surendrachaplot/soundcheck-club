@@ -1,6 +1,6 @@
 # Granular Heat
 
-Granular Heat is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Segelschiff Mare Frisium, Hamburg on Sat, 12 Sept 2026.
+Granular Heat is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Segelschiff Mare Frisium, Hamburg on Sat, 12 Sept 2026.
 
 Granular Heat is a techno and deep house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Hamburg and Ibiza. Often billed alongside David Bucka, Nikiija and SKKIN VELVET. Next up: Segelschiff Mare Frisium, Hamburg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Granular Heat is a techno and deep house artist based in Germany, tracked on sou
 
 David Bucka, Nikiija, SKKIN VELVET
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/granularheat/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/granularheat/)*

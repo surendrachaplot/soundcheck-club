@@ -1,6 +1,6 @@
 # Cam Harrop
 
-Cam Harrop is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Headrow House, Leeds on Fri, 18 Sept 2026.
+Cam Harrop is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Headrow House, Leeds on Fri, 18 Sept 2026.
 
 Cam Harrop is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Leeds, London and Newcastle. Often billed alongside Kinso, Luke Reynolds and Redshift (2). Next up: Headrow House, Leeds on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Cam Harrop is a tech house and house artist based in United Kingdom, tracked on 
 
 Kinso, Luke Reynolds, Redshift (2)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camharrop/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camharrop/)*

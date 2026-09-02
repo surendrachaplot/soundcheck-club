@@ -1,6 +1,6 @@
 # HIFEELINGS
 
-HIFEELINGS is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bread & Butter Arch, London on Sat, 3 Oct 2026.
+HIFEELINGS is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bread & Butter Arch, London on Sat, 3 Oct 2026.
 
 HIFEELINGS is a bass and garage artist tracked on soundcheck, with 3 sets logged across London and Madrid. Often billed alongside DBA (ES), Headrow and Sensu (2). Next up: Bread & Butter Arch, London on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ HIFEELINGS is a bass and garage artist tracked on soundcheck, with 3 sets logged
 
 DBA (ES), Headrow, Sensu (2)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hifeelings/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hifeelings/)*

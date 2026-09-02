@@ -1,6 +1,6 @@
 # Ben Carr
 
-Ben Carr is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mezzanine - Tooting, London on Thu, 17 Sept 2026.
+Ben Carr is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mezzanine - Tooting, London on Thu, 17 Sept 2026.
 
 Ben Carr is a house and garage artist tracked on soundcheck, with 3 sets logged across London. Often billed alongside Vinni_frm_bratfud, AUDIO DUNE and Brands. Next up: Mezzanine - Tooting, London on Thu 17 Sept.
 
@@ -19,4 +19,4 @@ Ben Carr is a house and garage artist tracked on soundcheck, with 3 sets logged 
 
 Vinni_frm_bratfud, AUDIO DUNE, Brands
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bencarr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bencarr/)*

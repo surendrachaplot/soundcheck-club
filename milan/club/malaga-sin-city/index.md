@@ -1,6 +1,6 @@
 # Malaga Sin City
 
-Malaga Sin City is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Break Fast CORE || Malaga Sin City" on Fri, 4 Sept 2026.
+Malaga Sin City is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Break Fast CORE || Malaga Sin City" on Fri, 4 Sept 2026.
 
 Malaga Sin City is a music venue in Milan listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Via Enrico Schievano 8, Milano, 20143, Italy.
 
@@ -15,4 +15,4 @@ Malaga Sin City is a music venue in Milan listed on soundcheck. 2 upcoming night
 
 Via Enrico Schievano 8, Milano, 20143, Italy, Milan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*

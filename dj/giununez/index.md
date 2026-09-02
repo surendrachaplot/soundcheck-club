@@ -1,6 +1,6 @@
 # Giu Nunez
 
-Giu Nunez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Radio Radio, Amsterdam on Fri, 4 Sept 2026.
+Giu Nunez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Radio Radio, Amsterdam on Fri, 4 Sept 2026.
 
 Giu Nunez is a house and disco artist based in Brazil, tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Lisbon and London and 8 more. Often billed alongside Craig Ouar, Zopelar and Anacalypto. Next up: Radio Radio, Amsterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Giu Nunez is a house and disco artist based in Brazil, tracked on soundcheck, wi
 
 Craig Ouar, Zopelar, Anacalypto
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*

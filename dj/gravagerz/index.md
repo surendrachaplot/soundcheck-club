@@ -1,6 +1,6 @@
 # Gravagerz
 
-Gravagerz is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fortune Sound Club, Vancouver on Sat, 12 Sept 2026.
+Gravagerz is a House and Garage artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fortune Sound Club, Vancouver on Sat, 12 Sept 2026.
 
 Gravagerz is a house and garage artist based in Italy, tracked on soundcheck, with 11 sets logged across Amsterdam, Boston, Copenhagen and London and 7 more. Often billed alongside James Hype (UK), Joshwa and TroyBoi. Next up: Fortune Sound Club, Vancouver on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Gravagerz is a house and garage artist based in Italy, tracked on soundcheck, wi
 
 James Hype (UK), Joshwa, TroyBoi
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*

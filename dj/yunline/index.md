@@ -1,6 +1,6 @@
 # Yun Line
 
-Yun Line is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Seoul on Sat, 19 Sept 2026.
+Yun Line is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Seoul on Sat, 19 Sept 2026.
 
 Yun Line is a techno and house artist based in South Korea, tracked on soundcheck, with 32 sets logged across Seoul. Often billed alongside S.Telecom, Zoonpark and PAIK. Next up: TBA, Seoul on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Yun Line is a techno and house artist based in South Korea, tracked on soundchec
 
 S.Telecom, Zoonpark, PAIK
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yunline/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yunline/)*

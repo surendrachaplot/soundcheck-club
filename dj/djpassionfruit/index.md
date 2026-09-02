@@ -1,6 +1,6 @@
 # DJ Passion Fruit
 
-DJ Passion Fruit is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mood Ring, New York City on Wed, 2 Sept 2026.
+DJ Passion Fruit is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mood Ring, New York City on Wed, 2 Sept 2026.
 
 DJ Passion Fruit is a deep house and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Newyorkcity. Often billed alongside DJ Courtney K, SilkyBlack and girl_irl. Next up: Mood Ring, Newyorkcity on Wed 2 Sept.
 
@@ -18,4 +18,4 @@ DJ Passion Fruit is a deep house and house artist based in United States of Amer
 
 DJ Courtney K, SilkyBlack, girl_irl
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpassionfruit/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpassionfruit/)*

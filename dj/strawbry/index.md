@@ -1,14 +1,15 @@
 # STRAWBRY
 
-STRAWBRY is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+STRAWBRY is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
-STRAWBRY is a house and club artist based in United States of America, tracked on soundcheck, with 21 sets logged across Losangeles, Miami, Sandiego and Sanfrancisco. Often billed alongside ATRIP, BIATA and Hannah Laing. Next up: TBA, Losangeles on Sun 27 Sept.
+STRAWBRY is a house and club artist based in United States of America, tracked on soundcheck, with 22 sets logged across Losangeles, Manchester, Miami and Sandiego and 1 more. Often billed alongside ATRIP, Oppidan and BIATA. Next up: TBA, Losangeles on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
+| Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ STRAWBRY is a house and club artist based in United States of America, tracked o
 
 ## Shares bills with
 
-ATRIP, BIATA, Hannah Laing
+ATRIP, Oppidan, BIATA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strawbry/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/strawbry/)*

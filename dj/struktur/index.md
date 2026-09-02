@@ -1,6 +1,6 @@
 # Struktur
 
-Struktur is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Waidmarkt and St. Gertrud Church, Cologne on Sat, 26 Sept 2026.
+Struktur is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Waidmarkt and St. Gertrud Church, Cologne on Sat, 26 Sept 2026.
 
 Struktur is an experimental and ambient artist tracked on soundcheck, with 3 sets logged across Berlin and Cologne. Often billed alongside lomi, AceMoMA and Actress. Next up: TBA - Waidmarkt and St. Gertrud Church, Cologne on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Struktur is an experimental and ambient artist tracked on soundcheck, with 3 set
 
 lomi, AceMoMA, Actress
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/struktur/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/struktur/)*

@@ -1,6 +1,6 @@
 # Silicon Radio x LDDS: Coco Maria (Mexico) at White Owl Social Club
 
-Silicon Radio x LDDS: Coco Maria (Mexico) at White Owl Social Club on Sun 20 Sept, Portland. 2 acts on the bill: backyardmango and Coco Maria. Afrobeat and Funk / Soul. Preview the line-up and save it on soundcheck.
+Silicon Radio x LDDS: Coco Maria (Mexico) at White Owl Social Club on Sun 20 Sept, Portland. 2 acts on the bill: backyardmango and Coco Maria. Funk / Soul and Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

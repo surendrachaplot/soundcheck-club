@@ -1,6 +1,6 @@
 # Craig Richards
 
-Craig Richards is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Under the K Bridge, New York City on Sat, 5 Sept 2026.
+Craig Richards is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Under the K Bridge, New York City on Sat, 5 Sept 2026.
 
 Craig Richards is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 28 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Under the K Bridge, Newyorkcity on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Craig Richards is a techno and house artist tracked on soundcheck, with 153 sets
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

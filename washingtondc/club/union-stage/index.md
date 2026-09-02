@@ -1,6 +1,6 @@
 # Union Stage
 
-Union Stage is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "REGGAETON Y 2000s (Perreo Classics + Y2K All Night!)" on Sat, 12 Sept 2026.
+Union Stage is a music venue in Washington DC with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "REGGAETON Y 2000s (Perreo Classics + Y2K All Night!)" on Sat, 12 Sept 2026.
 
 Union Stage is a music venue in Washingtondc listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 740 Water St SW.
 
@@ -15,4 +15,4 @@ Union Stage is a music venue in Washingtondc listed on soundcheck. 2 upcoming ni
 
 740 Water St SW, Washington DC
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/union-stage/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/union-stage/)*

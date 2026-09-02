@@ -1,6 +1,6 @@
 # The Second I
 
-The Second I is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Schrotty, Cologne on Sat, 5 Sept 2026.
+The Second I is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Schrotty, Cologne on Sat, 5 Sept 2026.
 
 The Second I is a trance and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin and Cologne. Often billed alongside BabaBass3000, Atzendent and Ferrand. Next up: Schrotty, Cologne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ The Second I is a trance and techno artist based in Germany, tracked on soundche
 
 BabaBass3000, Atzendent, Ferrand
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thesecondi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thesecondi/)*

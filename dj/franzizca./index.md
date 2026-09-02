@@ -1,6 +1,6 @@
 # Franzizca.
 
-Franzizca. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Cadavra, Madrid on Fri, 4 Sept 2026.
+Franzizca. is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Cadavra, Madrid on Fri, 4 Sept 2026.
 
 Franzizca. is a techno and house artist tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 3 more. Often billed alongside Bermani, EMIR-B and Leena. Next up: Cadavra, Madrid on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Franzizca. is a techno and house artist tracked on soundcheck, with 16 sets logg
 
 Bermani, EMIR-B, Leena
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franzizca./)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franzizca./)*

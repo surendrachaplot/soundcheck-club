@@ -1,6 +1,6 @@
 # Alley Cat
 
-Alley Cat is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gretchen, Berlin on Sat, 10 Oct 2026.
+Alley Cat is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Gretchen, Berlin on Sat, 10 Oct 2026.
 
 Alley Cat is a bass and breakbeat artist tracked on soundcheck, with 16 sets logged across Berlin and London. Often billed alongside DJ Flight, DJ Storm and Double O. Next up: Gretchen, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Alley Cat is a bass and breakbeat artist tracked on soundcheck, with 16 sets log
 
 DJ Flight, DJ Storm, Double O
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alleycat/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alleycat/)*

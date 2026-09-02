@@ -1,6 +1,6 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Mietze Conte" on Thu, 3 Sept 2026.
+Cafeteria is a music venue in Toronto with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Mietze Conte" on Thu, 3 Sept 2026.
 
 Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming nights, with line-ups including FCUKERS, Gremlinz, Indie Sleaze and Jackson Walker Lewis and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
@@ -20,4 +20,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming nights, w
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

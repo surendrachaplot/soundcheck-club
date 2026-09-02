@@ -1,6 +1,6 @@
 # Hyperrealist Dreamer
 
-Hyperrealist Dreamer is a Tech House and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sensorium, Berlin on Fri, 11 Sept 2026.
+Hyperrealist Dreamer is a Tech House and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sensorium, Berlin on Fri, 11 Sept 2026.
 
 Hyperrealist Dreamer is a tech house and ambient artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Bouquet and N3LYSTAR. Next up: Sensorium, Berlin on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Hyperrealist Dreamer is a tech house and ambient artist tracked on soundcheck, w
 
 Bouquet, N3LYSTAR
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperrealistdreamer/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperrealistdreamer/)*

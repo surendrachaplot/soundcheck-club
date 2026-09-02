@@ -1,6 +1,6 @@
 # Ethan McNamara
 
-Ethan McNamara is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Warehouse 34, Newcastle on Fri, 25 Sept 2026.
+Ethan McNamara is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Warehouse 34, Newcastle on Fri, 25 Sept 2026.
 
 Ethan McNamara is an electro and techno artist tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Bucharest and Leeds and 5 more. Often billed alongside Ryan Ingleby, Louie G and A.L.C. Next up: Warehouse 34, Newcastle on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Ethan McNamara is an electro and techno artist tracked on soundcheck, with 69 se
 
 Ryan Ingleby, Louie G, A.L.C
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcnamara/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcnamara/)*

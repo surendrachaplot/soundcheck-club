@@ -1,8 +1,8 @@
 # RHR
 
-RHR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Strange Brew, Bristol on Fri, 4 Sept 2026.
+RHR is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Strange Brew, Bristol on Fri, 4 Sept 2026.
 
-RHR is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: Strange Brew, Bristol on Fri 4 Sept.
+RHR is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Cashu, upsammy and BADSISTA. Next up: Strange Brew, Bristol on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ RHR is a techno and house artist tracked on soundcheck, with 110 sets logged acr
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Strange Brew | Bristol |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Fri, 25 Sept 2026 | Milkys | Los Angeles |
 | Sat, 26 Sept 2026 | Nowadays | New York City |
+| Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ RHR is a techno and house artist tracked on soundcheck, with 110 sets logged acr
 
 Cashu, upsammy, BADSISTA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*

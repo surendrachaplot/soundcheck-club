@@ -1,6 +1,6 @@
 # AWEN
 
-AWEN is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bazart, Montreal on Fri, 4 Sept 2026.
+AWEN is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bazart, Montreal on Fri, 4 Sept 2026.
 
 AWEN is an afro house and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Shimza, Francis Mercier and DJEFF. Next up: Bazart, Montreal on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ AWEN is an afro house and house artist tracked on soundcheck, with 73 sets logge
 
 Shimza, Francis Mercier, DJEFF
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awen/)*

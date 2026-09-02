@@ -1,14 +1,15 @@
 # Brodinski
 
-Brodinski is a Hip-Hop and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
+Brodinski is a Hip-Hop and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
 
-Brodinski is a hip-hop and techno artist based in France, tracked on soundcheck, with 57 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 24 more. Often billed alongside Slikback, Polygonia and aya. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
+Brodinski is a hip-hop and techno artist based in France, tracked on soundcheck, with 58 sets logged across Amsterdam, Bangkok, Belgrade and Berlin and 24 more. Often billed alongside Slikback, Polygonia and aya. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | La Station - Gare des Mines | Paris |
+| Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Brodinski is a hip-hop and techno artist based in France, tracked on soundcheck,
 
 Slikback, Polygonia, aya
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brodinski/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brodinski/)*

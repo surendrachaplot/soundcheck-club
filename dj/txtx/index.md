@@ -1,6 +1,6 @@
 # TXTX
 
-TXTX is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lauschangriff, Berlin on Thu, 3 Sept 2026.
+TXTX is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lauschangriff, Berlin on Thu, 3 Sept 2026.
 
 TXTX is a bass and techno artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Carne, Monosi and Al Hut. Next up: Lauschangriff, Berlin on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ TXTX is a bass and techno artist tracked on soundcheck, with 5 sets logged acros
 
 Carne, Monosi, Al Hut
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/txtx/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/txtx/)*

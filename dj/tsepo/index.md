@@ -1,6 +1,6 @@
 # Tsepo
 
-Tsepo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Uto-Staffel, Zurich on Sat, 5 Sept 2026.
+Tsepo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Uto-Staffel, Zurich on Sat, 5 Sept 2026.
 
 Tsepo is a house and techno artist tracked on soundcheck, with 121 sets logged across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Lucky Done Gone, dj sweet6teen and Eversines. Next up: Uto-Staffel, Zurich on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Tsepo is a house and techno artist tracked on soundcheck, with 121 sets logged a
 
 Lucky Done Gone, dj sweet6teen, Eversines
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsepo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsepo/)*

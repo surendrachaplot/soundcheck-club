@@ -1,6 +1,6 @@
 # Tarj
 
-Tarj is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
+Tarj is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
 
 Tarj is a techno and progressive house artist tracked on soundcheck, with 4 sets logged across Sydney. Often billed alongside ANNX, Accent' and Admo. Next up: TBA, Sydney on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Tarj is a techno and progressive house artist tracked on soundcheck, with 4 sets
 
 ANNX, Accent', Admo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarj/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarj/)*

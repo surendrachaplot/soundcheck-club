@@ -1,6 +1,6 @@
 # TBA - Césure Paris
 
-TBA - Césure Paris is a music venue in Paris with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Festival Facettes" on Sat, 17 Oct 2026.
+TBA - Césure Paris is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Festival Facettes" on Sat, 17 Oct 2026.
 
 TBA - Césure Paris is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Vice Experience. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Césure Paris is a music venue in Paris listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Festival Facettes | Vice Experience |
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-c-sure-paris/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-c-sure-paris/)*

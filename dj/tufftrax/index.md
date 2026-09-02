@@ -1,6 +1,6 @@
 # Tuff Trax
 
-Tuff Trax is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Evelyn Hotel, Melbourne on Fri, 18 Sept 2026.
+Tuff Trax is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Evelyn Hotel, Melbourne on Fri, 18 Sept 2026.
 
 Tuff Trax is a garage and house artist based in Australia, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Budapest and London and 3 more. Often billed alongside IsGwan, Kovac and Tinika. Next up: The Evelyn Hotel, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tuff Trax is a garage and house artist based in Australia, tracked on soundcheck
 
 IsGwan, Kovac, Tinika
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tufftrax/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tufftrax/)*

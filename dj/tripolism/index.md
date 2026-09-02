@@ -1,6 +1,6 @@
 # Tripolism
 
-Tripolism is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Scorpios, Mykonos on Tue, 8 Sept 2026.
+Tripolism is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Scorpios, Mykonos on Tue, 8 Sept 2026.
 
 Tripolism is a house and techno artist tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Bedouin, WhoMadeWho and Franky Wah. Next up: Scorpios, Mykonos on Tue 8 Sept.
 
@@ -29,4 +29,4 @@ Tripolism is a house and techno artist tracked on soundcheck, with 75 sets logge
 
 Bedouin, WhoMadeWho, Franky Wah
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripolism/)*

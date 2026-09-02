@@ -1,6 +1,6 @@
 # Tim Heaney
 
-Tim Heaney is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ticcle, Hobart on Sun, 29 Nov 2026.
+Tim Heaney is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ticcle, Hobart on Sun, 29 Nov 2026.
 
 Tim Heaney is a deep house and techno artist tracked on soundcheck, with 16 sets logged across Berlin, Hobart, Melbourne and Osaka. Often billed alongside Billus, Miris and Norachi. Next up: Ticcle, Hobart on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Tim Heaney is a deep house and techno artist tracked on soundcheck, with 16 sets
 
 Billus, Miris, Norachi
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timheaney/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timheaney/)*

@@ -1,6 +1,6 @@
 # fleet.dreams
 
-fleet.dreams is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Système, Montreal on Sat, 5 Sept 2026.
+fleet.dreams is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Système, Montreal on Sat, 5 Sept 2026.
 
 fleet.dreams is a house and techno artist tracked on soundcheck, with 62 sets logged across Chicago, Detroit, Mexicocity and Montreal and 1 more. Often billed alongside EscaFlowne, KYRUH and Rose Kourts. Next up: Système, Montreal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ fleet.dreams is a house and techno artist tracked on soundcheck, with 62 sets lo
 
 EscaFlowne, KYRUH, Rose Kourts
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetdreams/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetdreams/)*

@@ -1,6 +1,6 @@
 # Alessandra Leone
 
-Alessandra Leone is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Communale Saint-Ouen, Paris on Thu, 24 Sept 2026.
+Alessandra Leone is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Communale Saint-Ouen, Paris on Thu, 24 Sept 2026.
 
 Alessandra Leone is an experimental and electronica artist based in Italy, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Mexicocity and Montreal and 4 more. Often billed alongside Zoë Mc Pherson, Evian Christ and Amnesia Scanner. Next up: Communale Saint-Ouen, Paris on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Alessandra Leone is an experimental and electronica artist based in Italy, track
 
 Zoë Mc Pherson, Evian Christ, Amnesia Scanner
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandraleone/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandraleone/)*

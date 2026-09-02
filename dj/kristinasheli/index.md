@@ -1,6 +1,6 @@
 # Kristina Sheli
 
-Kristina Sheli is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Beate Uwe, Berlin on Sat, 21 Nov 2026.
+Kristina Sheli is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Beate Uwe, Berlin on Sat, 21 Nov 2026.
 
 Kristina Sheli is a house and electro artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin. Often billed alongside LIZZN, Marvel Gold and Natasha Roze. Next up: Beate Uwe, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Kristina Sheli is a house and electro artist based in Germany, tracked on soundc
 
 LIZZN, Marvel Gold, Natasha Roze
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinasheli/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinasheli/)*

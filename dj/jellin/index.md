@@ -1,6 +1,6 @@
 # Jellin
 
-Jellin is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at MONKEY LOVE, Warsaw on Sat, 12 Sept 2026.
+Jellin is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at MONKEY LOVE, Warsaw on Sat, 12 Sept 2026.
 
 Jellin is a house and minimal artist based in Poland, tracked on soundcheck, with 19 sets logged across Berlin and Warsaw. Often billed alongside Nowosad, uiava and Easy Audio. Next up: MONKEY LOVE, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jellin is a house and minimal artist based in Poland, tracked on soundcheck, wit
 
 Nowosad, uiava, Easy Audio
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jellin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jellin/)*

@@ -1,6 +1,6 @@
 # Maree
 
-Maree is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at fi, Cologne on Sat, 12 Sept 2026.
+Maree is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at fi, Cologne on Sat, 12 Sept 2026.
 
 Maree is a house and techno artist tracked on soundcheck, with 6 sets logged across Barcelona and Cologne. Often billed alongside Arturo Rivera, Keyblow and 86Hz. Next up: fi, Cologne on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Maree is a house and techno artist tracked on soundcheck, with 6 sets logged acr
 
 Arturo Rivera, Keyblow, 86Hz
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maree/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maree/)*

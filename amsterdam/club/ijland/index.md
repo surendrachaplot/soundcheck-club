@@ -1,6 +1,6 @@
 # Ijland
 
-Ijland is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Olivier Weiter b2b Miss Melera" on Sat, 12 Sept 2026.
+Ijland is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Olivier Weiter b2b Miss Melera" on Sat, 12 Sept 2026.
 
 Ijland is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Kepler, Benny Rodrigues, bullet tooth and Caleb Jackson and 2 more. Browse upcoming dates, start times and who's playing. Tt. Vasumweg 171, 1033 SG Amsterdam.
 
@@ -18,4 +18,4 @@ Ijland is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, wi
 
 Tt. Vasumweg 171, 1033 SG Amsterdam, Amsterdam
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*

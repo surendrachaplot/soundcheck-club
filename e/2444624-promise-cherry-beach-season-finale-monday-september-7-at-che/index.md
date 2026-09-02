@@ -1,6 +1,6 @@
 # Promise Cherry Beach Season Finale Monday September 7 at Cherry Beach
 
-Promise Cherry Beach Season Finale Monday September 7 on Mon 7 Sept, Toronto. 4 acts on the bill: Kiki LeFreak, Mark Oliver, Milch (1) and Valeroo. Techno and House. Preview the line-up and save it on soundcheck.
+Promise Cherry Beach Season Finale Monday September 7 on Mon 7 Sept, Toronto. 7 acts on the bill: Arsen, Kiki LeFreak, Kristian Sunflower and Lebaron and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ Promise Cherry Beach Season Finale Monday September 7 on Mon 7 Sept, Toronto. 4 
 
 ## Line-up
 
+- Arsen
 - Kiki LeFreak
+- Kristian Sunflower
+- Lebaron
 - Mark Oliver
 - Milch (1)
 - Valeroo

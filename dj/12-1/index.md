@@ -1,6 +1,6 @@
 # Γ12 (1)
 
-Γ12 (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Γ12 (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Γ12 (1) is a techno and industrial artist based in Greece, tracked on soundcheck, with 5 sets logged across Athens. Often billed alongside IMPVLSIV, Adam Des and Artee. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -21,4 +21,4 @@
 
 IMPVLSIV, Adam Des, Artee
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/12-1/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/12-1/)*

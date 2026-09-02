@@ -1,6 +1,6 @@
 # Holon._
 
-Holon._ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Factory Floor, Sheffield on Fri, 4 Sept 2026.
+Holon._ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Factory Floor, Sheffield on Fri, 4 Sept 2026.
 
 Holon._ is a house and techno artist tracked on soundcheck, with 7 sets logged across Sheffield. Often billed alongside Sam J, mdj (0815) and Ashley Holmes. Next up: Factory Floor, Sheffield on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Holon._ is a house and techno artist tracked on soundcheck, with 7 sets logged a
 
 Sam J, mdj (0815), Ashley Holmes
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holon._/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holon._/)*

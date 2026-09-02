@@ -1,6 +1,6 @@
 # Skumring_
 
-Skumring_ is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 27 Nov 2026.
+Skumring_ is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 27 Nov 2026.
 
 Skumring_ is an ebm and techno artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 3 more. Often billed alongside Zeitreise, Desert Drone and In A Slaughter Brain. Next up: STK 47 WAREHOUSE, Krakow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Skumring_ is an ebm and techno artist tracked on soundcheck, with 13 sets logged
 
 Zeitreise, Desert Drone, In A Slaughter Brain
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skumring_/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skumring_/)*

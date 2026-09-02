@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 12 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "London Love Letter by Night with Danielle b2b Amaliah + AmeliaBC feat. Kurtis Lincoln " on Sat, 5 Sept 2026.
+Vittoria Wharf Studio is a music venue in London with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "London Love Letter by Night with Danielle b2b Amaliah + AmeliaBC feat. Kurtis Lincoln " on Sat, 5 Sept 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Aldonna, Amaliah, AmeliaBC and Arnault and 2 more. Browse upcoming dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -23,4 +23,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 12 upcomi
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

@@ -1,6 +1,6 @@
 # Headhunters
 
-Headhunters is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Chinese Laundry, Sydney on Sat, 26 Sept 2026.
+Headhunters is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Chinese Laundry, Sydney on Sat, 26 Sept 2026.
 
 Headhunters is a house and tech house artist tracked on soundcheck, with 6 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Amotik, Asha Franco and Char(k). Next up: Chinese Laundry, Sydney on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Headhunters is a house and tech house artist tracked on soundcheck, with 6 sets 
 
 Amotik, Asha Franco, Char(k)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/headhunters/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/headhunters/)*

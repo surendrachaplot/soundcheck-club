@@ -1,6 +1,6 @@
 # Karina Saakyan
 
-Karina Saakyan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at KHIDI, Tbilisi on Fri, 4 Sept 2026.
+Karina Saakyan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at KHIDI, Tbilisi on Fri, 4 Sept 2026.
 
 Karina Saakyan is a techno and house artist based in Armenia, tracked on soundcheck, with 20 sets logged across Berlin, Munich and Tbilisi. Often billed alongside Lilith., Pierce (GE) and Puritan. Next up: KHIDI, Tbilisi on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Karina Saakyan is a techno and house artist based in Armenia, tracked on soundch
 
 Lilith., Pierce (GE), Puritan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karinasaakyan/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karinasaakyan/)*

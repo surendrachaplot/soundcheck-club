@@ -1,6 +1,6 @@
 # Cafe&diner ｽﾀｼﾞｵ
 
-Cafe&diner ｽﾀｼﾞｵ is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "NEW WAVE LOUNGE" on Mon, 7 Sept 2026.
+Cafe&diner ｽﾀｼﾞｵ is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "NEW WAVE LOUNGE" on Mon, 7 Sept 2026.
 
 Cafe&diner ｽﾀｼﾞｵ is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cafe&diner ｽﾀｼﾞｵ is a music venue in Tokyo listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Mon, 7 Sept 2026 | NEW WAVE LOUNGE |  |
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafe-diner/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafe-diner/)*

@@ -1,6 +1,6 @@
 # Oren (IT)
 
-Oren (IT) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Greyhound, London on Fri, 11 Sept 2026.
+Oren (IT) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Greyhound, London on Fri, 11 Sept 2026.
 
 Oren (IT) is an electro and house artist tracked on soundcheck, with 39 sets logged across Brighton, London, Malaga and Naples and 2 more. Often billed alongside Peter Grand, Yuma (UK) and FeR (IT). Next up: The Greyhound, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Oren (IT) is an electro and house artist tracked on soundcheck, with 39 sets log
 
 Peter Grand, Yuma (UK), FeR (IT)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orenit/)*

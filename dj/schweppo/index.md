@@ -1,6 +1,6 @@
 # Schweppo
 
-Schweppo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lieberscholli, Munich on Sat, 5 Sept 2026.
+Schweppo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lieberscholli, Munich on Sat, 5 Sept 2026.
 
 Schweppo is a techno and trance artist tracked on soundcheck, with 3 sets logged across Hamburg and Munich. Often billed alongside DJ Babyblade, ACID B4RBIE and AEND. Next up: Lieberscholli, Munich on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Schweppo is a techno and trance artist tracked on soundcheck, with 3 sets logged
 
 DJ Babyblade, ACID B4RBIE, AEND
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schweppo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schweppo/)*

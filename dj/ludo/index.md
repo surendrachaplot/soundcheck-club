@@ -1,6 +1,6 @@
 # L U D O
 
-L U D O is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sun, 6 Sept 2026.
+L U D O is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Paradise Grapevine Winery, Toronto on Sun, 6 Sept 2026.
 
 L U D O is a house and afro house artist based in Mexico, tracked on soundcheck, with 10 sets logged across Barcelona, Mexicocity, Newyorkcity and Toronto and 1 more. Often billed alongside Veronika Amie, Bruce Wayne (US) and IgP (1). Next up: Paradise Grapevine Winery, Toronto on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ L U D O is a house and afro house artist based in Mexico, tracked on soundcheck,
 
 Veronika Amie, Bruce Wayne (US), IgP (1)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ludo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ludo/)*

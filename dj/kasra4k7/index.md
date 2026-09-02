@@ -1,6 +1,6 @@
 # kasra4k7
 
-kasra4k7 is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Secret Location, London on Thu, 10 Sept 2026.
+kasra4k7 is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Secret Location, London on Thu, 10 Sept 2026.
 
 kasra4k7 is a techno and ebm artist tracked on soundcheck, with 6 sets logged across London and Tbilisi. Often billed alongside HOLDKEDVESET, zegond and Teh.Killa. Next up: Secret Location, London on Thu 10 Sept.
 
@@ -22,4 +22,4 @@ kasra4k7 is a techno and ebm artist tracked on soundcheck, with 6 sets logged ac
 
 HOLDKEDVESET, zegond, Teh.Killa
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasra4k7/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasra4k7/)*

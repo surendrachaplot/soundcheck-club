@@ -1,6 +1,6 @@
 # Laura de Vasconcelos
 
-Laura de Vasconcelos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
+Laura de Vasconcelos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
 
 Laura de Vasconcelos is a house and techno artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin and Brussels. Often billed alongside BLACK ANTHEM RESTORE, Camilla Rae and Inverse Element. Next up: Crack Bellmer, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Laura de Vasconcelos is a house and techno artist based in Germany, tracked on s
 
 BLACK ANTHEM RESTORE, Camilla Rae, Inverse Element
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradevasconcelos/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauradevasconcelos/)*

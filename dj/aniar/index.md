@@ -1,6 +1,6 @@
 # Ania R
 
-Ania R is a Acid and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mastak, Warsaw on Sat, 5 Sept 2026.
+Ania R is a Acid and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mastak, Warsaw on Sat, 5 Sept 2026.
 
 Ania R is an acid and experimental artist tracked on soundcheck, with 13 sets logged across Warsaw. Often billed alongside Richie Beige, dd (PL) and szkoda. Next up: Mastak, Warsaw on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ania R is an acid and experimental artist tracked on soundcheck, with 13 sets lo
 
 Richie Beige, dd (PL), szkoda
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniar/)*

@@ -1,6 +1,6 @@
 # Ruffhouse
 
-Ruffhouse is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Wharf Chambers, Leeds on Fri, 25 Sept 2026.
+Ruffhouse is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Wharf Chambers, Leeds on Fri, 25 Sept 2026.
 
 Ruffhouse is a techno and drum & bass artist tracked on soundcheck, with 3 sets logged across Bristol, Leeds and Milan. Often billed alongside Katatonic Silentio, Rose Again and Bladeblanc. Next up: Wharf Chambers, Leeds on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ Ruffhouse is a techno and drum & bass artist tracked on soundcheck, with 3 sets 
 
 Katatonic Silentio, Rose Again, Bladeblanc
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffhouse/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruffhouse/)*

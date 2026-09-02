@@ -1,6 +1,6 @@
 # Leroy Se Meurt
 
-Leroy Se Meurt is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Madame Moustache, Brussels on Thu, 3 Sept 2026.
+Leroy Se Meurt is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Madame Moustache, Brussels on Thu, 3 Sept 2026.
 
 Leroy Se Meurt is a techno and ebm artist tracked on soundcheck, with 12 sets logged across Athens, Berlin, Brussels and Leipzig and 7 more. Often billed alongside Alessandro Adriani, Alice in Flames and Alpha Sect. Next up: Madame Moustache, Brussels on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Leroy Se Meurt is a techno and ebm artist tracked on soundcheck, with 12 sets lo
 
 Alessandro Adriani, Alice in Flames, Alpha Sect
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leroysemeurt/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leroysemeurt/)*

@@ -1,6 +1,6 @@
 # Qemist
 
-Qemist is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 11 Sept 2026.
+Qemist is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 11 Sept 2026.
 
 Qemist is a club and techno artist tracked on soundcheck, with 33 sets logged across Chicago, London, Losangeles and Miami and 7 more. Often billed alongside Dj Nico, bastiengoat and Lastword. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Qemist is a club and techno artist tracked on soundcheck, with 33 sets logged ac
 
 Dj Nico, bastiengoat, Lastword
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qemist/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qemist/)*

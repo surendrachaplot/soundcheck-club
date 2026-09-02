@@ -1,6 +1,6 @@
 # Ezekiel (DE)
 
-Ezekiel (DE) is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bollwerk Cologne, Cologne on Thu, 10 Sept 2026.
+Ezekiel (DE) is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bollwerk Cologne, Cologne on Thu, 10 Sept 2026.
 
 Ezekiel (DE) is a techno and deep house artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin and Cologne. Often billed alongside Cat Vermillion, Der Eggert and Jens Schwan. Next up: Bollwerk Cologne, Cologne on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Ezekiel (DE) is a techno and deep house artist based in Germany, tracked on soun
 
 Cat Vermillion, Der Eggert, Jens Schwan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezekielger-de/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezekielger-de/)*

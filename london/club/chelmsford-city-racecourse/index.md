@@ -1,6 +1,6 @@
 # Chelmsford City Racecourse
 
-Chelmsford City Racecourse is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Run Away Halloween - Sat 31 October at Chelmsford Racecourse" on Sat, 31 Oct 2026.
+Chelmsford City Racecourse is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Run Away Halloween - Sat 31 October at Chelmsford Racecourse" on Sat, 31 Oct 2026.
 
 Chelmsford City Racecourse is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including 2 Bad Mice, Armand Van Helden, Billy Daniel Bunter and Chopper (UK) and 2 more. Browse upcoming dates, start times and who's playing. Chelmsford City Racecourse, Chelmsford, Essex CM3 1QP.
 
@@ -15,4 +15,4 @@ Chelmsford City Racecourse is a music venue in London listed on soundcheck. 2 up
 
 Chelmsford City Racecourse, Chelmsford, Essex CM3 1QP, London
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/chelmsford-city-racecourse/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/chelmsford-city-racecourse/)*

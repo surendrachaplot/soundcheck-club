@@ -1,6 +1,6 @@
 # TERU
 
-TERU is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Club Daphnia, Osaka on Sat, 12 Sept 2026.
+TERU is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Club Daphnia, Osaka on Sat, 12 Sept 2026.
 
 TERU is a bass and drum & bass artist tracked on soundcheck, with 73 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside CHISE, kakepon and yu-more. Next up: Club Daphnia, Osaka on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ TERU is a bass and drum & bass artist tracked on soundcheck, with 73 sets logged
 
 CHISE, kakepon, yu-more
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teru/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teru/)*

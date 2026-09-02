@@ -1,6 +1,6 @@
 # Fernando Lagreca
 
-Fernando Lagreca is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
+Fernando Lagreca is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
 
 Fernando Lagreca is a techno and progressive house artist based in Spain, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 1 more. Often billed alongside Pascale Voltaire, AFFKT and AM.I. Next up: Sunseabar Beach Club, Barcelona on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Fernando Lagreca is a techno and progressive house artist based in Spain, tracke
 
 Pascale Voltaire, AFFKT, AM.I
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandolagreca/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandolagreca/)*

@@ -1,6 +1,6 @@
 # MIKA G
 
-MIKA G is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Chausseestrasse 131, Berlin on Sat, 19 Sept 2026.
+MIKA G is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Chausseestrasse 131, Berlin on Sat, 19 Sept 2026.
 
 MIKA G is a techno and house artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin. Often billed alongside Eric Brwn, Enis Asfah and UWE!. Next up: Chausseestrasse 131, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ MIKA G is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Eric Brwn, Enis Asfah, UWE!
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikag/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikag/)*

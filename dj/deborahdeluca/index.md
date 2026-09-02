@@ -1,6 +1,6 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at fabric, London on Fri, 18 Sept 2026.
+Deborah De Luca is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at fabric, London on Fri, 18 Sept 2026.
 
 Deborah De Luca is a techno and house artist tracked on soundcheck, with 148 sets logged across Antwerp, Athens, Austin and Bali and 44 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: fabric, London on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Deborah De Luca is a techno and house artist tracked on soundcheck, with 148 set
 
 Luca Donzelli, I Hate Models, 999999999
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*

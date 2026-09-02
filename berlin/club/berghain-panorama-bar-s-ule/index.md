@@ -1,6 +1,6 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "OMEN WAPTA" on Thu, 3 Sept 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "OMEN WAPTA" on Thu, 3 Sept 2026.
 
 Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Acronym, Agata, Agata (PL) and Alinka and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

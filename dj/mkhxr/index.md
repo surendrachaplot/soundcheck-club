@@ -1,6 +1,6 @@
 # MKHXR
 
-MKHXR is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at OST, Berlin on Sat, 5 Sept 2026.
+MKHXR is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at OST, Berlin on Sat, 5 Sept 2026.
 
 MKHXR is a techno and trance artist tracked on soundcheck, with 36 sets logged across Berlin, Hamburg, Lyon and Munich and 1 more. Often billed alongside SKKIN VELVET, KENZ and LNTX. Next up: OST, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ MKHXR is a techno and trance artist tracked on soundcheck, with 36 sets logged a
 
 SKKIN VELVET, KENZ, LNTX
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mkhxr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mkhxr/)*

@@ -1,6 +1,6 @@
 # MotorCity Wine
 
-MotorCity Wine is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Maybe Tonight" on Sun, 6 Sept 2026.
+MotorCity Wine is a music venue in Detroit with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Maybe Tonight" on Sun, 6 Sept 2026.
 
 MotorCity Wine is a music venue in Detroit listed on soundcheck. 3 upcoming nights, with line-ups including Bill Spencer, BLESSTONIO, Charles Trees and dej.y and 2 more. Browse upcoming dates, start times and who's playing. 1949 Michigan Ave. Detroit, MI 48216.
 
@@ -16,4 +16,4 @@ MotorCity Wine is a music venue in Detroit listed on soundcheck. 3 upcoming nigh
 
 1949 Michigan Ave. Detroit, MI 48216, Detroit
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/motorcity-wine/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/motorcity-wine/)*

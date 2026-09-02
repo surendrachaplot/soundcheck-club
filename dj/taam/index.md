@@ -1,6 +1,6 @@
 # TA AM
 
-TA AM is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Madam, Amsterdam on Sat, 3 Oct 2026.
+TA AM is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Madam, Amsterdam on Sat, 3 Oct 2026.
 
 TA AM is a house and deep house artist tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Yoffi, Laurent (3) and Mr. D. Next up: Madam, Amsterdam on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ TA AM is a house and deep house artist tracked on soundcheck, with 4 sets logged
 
 Yoffi, Laurent (3), Mr. D
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taam/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taam/)*

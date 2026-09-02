@@ -1,6 +1,6 @@
 # TELEPORT: 3 YEARS OF TELEMETRY at Bossa Nova Civic Club
 
-TELEPORT: 3 YEARS OF TELEMETRY at Bossa Nova Civic Club on Mon 21 Sept, Newyorkcity. 6 acts on the bill: James Axon, Muerte Lenta, Pablo Romero and Simge and 2 more. Techno. Preview the line-up and save it on soundcheck.
+TELEPORT: 3 YEARS OF TELEMETRY at Bossa Nova Civic Club on Mon 21 Sept, Newyorkcity. 7 acts on the bill: Annie Lew, James Axon, Muerte Lenta and Pablo Romero and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TELEPORT: 3 YEARS OF TELEMETRY at Bossa Nova Civic Club on Mon 21 Sept, Newyorkc
 
 ## Line-up
 
+- Annie Lew
 - James Axon
 - Muerte Lenta
 - Pablo Romero

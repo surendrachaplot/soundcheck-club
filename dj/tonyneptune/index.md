@@ -1,6 +1,6 @@
 # Tony Neptune
 
-Tony Neptune is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The DBA, Manchester on Sun, 27 Sept 2026.
+Tony Neptune is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The DBA, Manchester on Sun, 27 Sept 2026.
 
 Tony Neptune is a house and techno artist tracked on soundcheck, with 10 sets logged across Leeds and Manchester. Often billed alongside Lemyn, Simon Scott and aalice. Next up: The DBA, Manchester on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Tony Neptune is a house and techno artist tracked on soundcheck, with 10 sets lo
 
 Lemyn, Simon Scott, aalice
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyneptune/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyneptune/)*

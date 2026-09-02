@@ -1,6 +1,6 @@
 # Ratchet
 
-Ratchet is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Red Room, Montreal on Sun, 13 Sept 2026.
+Ratchet is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Red Room, Montreal on Sun, 13 Sept 2026.
 
 Ratchet is a techno and trance artist tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside Char.l.n, Xaviera and 2HOT2PLAY. Next up: Le Red Room, Montreal on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Ratchet is a techno and trance artist tracked on soundcheck, with 9 sets logged 
 
 Char.l.n, Xaviera, 2HOT2PLAY
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ratchet/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ratchet/)*

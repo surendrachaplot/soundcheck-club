@@ -1,6 +1,6 @@
 # Talia Goddess
 
-Talia Goddess is a Club and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Silence Please, New York City on Thu, 3 Sept 2026.
+Talia Goddess is a Club and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Silence Please, New York City on Thu, 3 Sept 2026.
 
 Talia Goddess is a club and dancehall artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Brussels, London and Miami and 1 more. Often billed alongside KLIPKILLA, Chinnamasta and Total XTC. Next up: Silence Please, Newyorkcity on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Talia Goddess is a club and dancehall artist based in United States of America, 
 
 KLIPKILLA, Chinnamasta, Total XTC
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taliagoddess/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taliagoddess/)*

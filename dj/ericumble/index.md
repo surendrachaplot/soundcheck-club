@@ -1,6 +1,6 @@
 # Eric Umble
 
-Eric Umble is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Chocolate Factory, New York City on Fri, 11 Sept 2026.
+Eric Umble is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Chocolate Factory, New York City on Fri, 11 Sept 2026.
 
 Eric Umble is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Denver, Detroit, Newyorkcity and Philadelphia. Often billed alongside Mark Holcomb, Rebecca Goldberg and Elle Dee. Next up: The Chocolate Factory, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Eric Umble is a techno and house artist based in United States of America, track
 
 Mark Holcomb, Rebecca Goldberg, Elle Dee
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericumble/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericumble/)*

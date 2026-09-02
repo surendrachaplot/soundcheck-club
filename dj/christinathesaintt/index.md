@@ -1,6 +1,6 @@
 # Christinathesaintt
 
-Christinathesaintt is a Club and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 5 Sept 2026.
+Christinathesaintt is a Club and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 5 Sept 2026.
 
 Christinathesaintt is a club and disco artist based in United States of America, tracked on soundcheck, with 5 sets logged across Boston and Newyorkcity. Often billed alongside Elysian (1), ARCHANGEL (US) and Amarji King. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Christinathesaintt is a club and disco artist based in United States of America,
 
 Elysian (1), ARCHANGEL (US), Amarji King
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christinathesaintt/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christinathesaintt/)*

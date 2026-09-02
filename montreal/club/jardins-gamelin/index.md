@@ -1,6 +1,6 @@
 # Jardins Gamelin
 
-Jardins Gamelin is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "JARDINS D'ILLUSION | AFRODITE 🎧🎵 KOPPI, MANSA, MLLE CEE" on Thu, 3 Sept 2026.
+Jardins Gamelin is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "JARDINS D'ILLUSION | AFRODITE 🎧🎵 KOPPI, MANSA, MLLE CEE" on Thu, 3 Sept 2026.
 
 Jardins Gamelin is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including Elias Erium, Mansa, MLLE CEE and Rebel Of Sleep. Browse upcoming dates, start times and who's playing. 1500 Rue Berri, Montréal, QC H2L 2C4.
 
@@ -15,4 +15,4 @@ Jardins Gamelin is a music venue in Montreal listed on soundcheck. 2 upcoming ni
 
 1500 Rue Berri, Montréal, QC H2L 2C4, Montreal
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/jardins-gamelin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/jardins-gamelin/)*

@@ -1,6 +1,6 @@
 # Stiffdance
 
-Stiffdance is a Acid and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Gabriela, New York City on Sat, 26 Sept 2026.
+Stiffdance is a Acid and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gabriela, New York City on Sat, 26 Sept 2026.
 
 Stiffdance is an acid and electro artist tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Andi, Dante Scaglione and Justin Aulis Long. Next up: Gabriela, Newyorkcity on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Stiffdance is an acid and electro artist tracked on soundcheck, with 4 sets logg
 
 Andi, Dante Scaglione, Justin Aulis Long
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stiffdance/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stiffdance/)*

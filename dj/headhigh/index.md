@@ -1,6 +1,6 @@
 # Head High
 
-Head High is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bassiani, Tbilisi on Sat, 26 Sept 2026.
+Head High is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bassiani, Tbilisi on Sat, 26 Sept 2026.
 
 Head High is a dub techno and techno artist tracked on soundcheck, with 15 sets logged across Berlin, London, Madrid and Mexicocity and 3 more. Often billed alongside Shed, Ahadadream and Bakey. Next up: Bassiani, Tbilisi on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Head High is a dub techno and techno artist tracked on soundcheck, with 15 sets 
 
 Shed, Ahadadream, Bakey
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/headhigh/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/headhigh/)*

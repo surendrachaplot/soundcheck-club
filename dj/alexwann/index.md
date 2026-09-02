@@ -1,6 +1,6 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fitz Mallorca, Mallorca on Fri, 4 Sept 2026.
+Alex Wann is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fitz Mallorca, Mallorca on Fri, 4 Sept 2026.
 
 Alex Wann is an afro house and house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Antwerp, Athens and Bali and 40 more. Often billed alongside Notre Dame, Francis Mercier and ARODES. Next up: Fitz Mallorca, Mallorca on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Alex Wann is an afro house and house artist tracked on soundcheck, with 139 sets
 
 Notre Dame, Francis Mercier, ARODES
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

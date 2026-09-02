@@ -1,6 +1,6 @@
 # DJ ritalino
 
-DJ ritalino is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+DJ ritalino is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 DJ ritalino is a techno and trance artist based in Germany, tracked on soundcheck, with 41 sets logged across Basel, Berlin, Leipzig and Malta and 1 more. Often billed alongside Desperate House Guy, :MUMM and DJ Sanity Check. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ DJ ritalino is a techno and trance artist based in Germany, tracked on soundchec
 
 Desperate House Guy, :MUMM, DJ Sanity Check
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djritalino/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djritalino/)*

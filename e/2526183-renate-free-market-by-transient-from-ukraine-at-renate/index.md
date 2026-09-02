@@ -1,6 +1,6 @@
 # Renate Free Market by Transient from Ukraine at Renate
 
-Renate Free Market by Transient from Ukraine on Sun 6 Sept, Berlin. 3 acts on the bill: Ann Mysochka, Mark Gill and nuarrrrr. Preview the line-up and save it on soundcheck.
+Renate Free Market by Transient from Ukraine on Sun 6 Sept, Berlin. 5 acts on the bill: Ann Mysochka, Loves_kills, Mark Gill and nuarrrrr and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ Renate Free Market by Transient from Ukraine on Sun 6 Sept, Berlin. 3 acts on th
 ## Line-up
 
 - Ann Mysochka
+- Loves_kills
 - Mark Gill
 - nuarrrrr
+- Rina Katen
 
 *Source: [soundcheck](https://soundcheck.club/e/2526183-renate-free-market-by-transient-from-ukraine-at-renate/)*

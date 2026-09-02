@@ -1,6 +1,6 @@
 # GABRIELEFEDELE
 
-GABRIELEFEDELE is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Apollo Club Milano, Milan on Sat, 5 Sept 2026.
+GABRIELEFEDELE is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Apollo Club Milano, Milan on Sat, 5 Sept 2026.
 
 GABRIELEFEDELE is an electro and techno artist based in Italy, tracked on soundcheck, with 4 sets logged across Milan. Often billed alongside Bitter Saint and rar3. Next up: Apollo Club Milano, Milan on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ GABRIELEFEDELE is an electro and techno artist based in Italy, tracked on soundc
 
 Bitter Saint, rar3
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielefedele/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielefedele/)*

@@ -1,6 +1,6 @@
 # Sherryaeri
 
-Sherryaeri is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Cherry on Top, Ganghoferstr 10, Berlin on Sun, 6 Sept 2026.
+Sherryaeri is a Club and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Cherry on Top, Ganghoferstr 10, Berlin on Sun, 6 Sept 2026.
 
 Sherryaeri is a club and baile funk artist based in Germany, tracked on soundcheck, with 20 sets logged across Athens, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside Soyklo, ADIRA and AGILY. Next up: TBA - Cherry on Top, Ganghoferstr 10, Berlin on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Sherryaeri is a club and baile funk artist based in Germany, tracked on soundche
 
 Soyklo, ADIRA, AGILY
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherryaeri/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherryaeri/)*

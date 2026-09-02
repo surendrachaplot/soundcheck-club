@@ -1,6 +1,6 @@
 # Cosmo
 
-Cosmo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at House of Yes, New York City on Sat, 5 Sept 2026.
+Cosmo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at House of Yes, New York City on Sat, 5 Sept 2026.
 
 Cosmo is a house and techno artist based in Italy, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Bucharest and Chicago and 12 more. Often billed alongside Cosmo (NY), Jordz and Kim.Qna. Next up: House of Yes, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Cosmo is a house and techno artist based in Italy, tracked on soundcheck, with 4
 
 Cosmo (NY), Jordz, Kim.Qna
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*

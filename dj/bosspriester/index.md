@@ -1,6 +1,6 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 4 Sept 2026.
+Boss Priester is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 4 Sept 2026.
 
 Boss Priester is a house and tech house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: 528 Ibiza, Ibiza on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Boss Priester is a house and tech house artist tracked on soundcheck, with 103 s
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

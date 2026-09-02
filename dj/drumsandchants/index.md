@@ -1,6 +1,6 @@
 # DRUMS AND CHANTS
 
-DRUMS AND CHANTS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at DURO, Milan on Fri, 11 Sept 2026.
+DRUMS AND CHANTS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at DURO, Milan on Fri, 11 Sept 2026.
 
 DRUMS AND CHANTS are a house and techno duo based in France, tracked on soundcheck, with 17 sets logged across Amsterdam, Milan and Turin. Often billed alongside The Robinson, Enrico Vivaldi and Bulma Brief. Next up: DURO, Milan on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ DRUMS AND CHANTS are a house and techno duo based in France, tracked on soundche
 
 The Robinson, Enrico Vivaldi, Bulma Brief
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drumsandchants/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drumsandchants/)*

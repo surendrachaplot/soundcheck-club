@@ -1,6 +1,6 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Cinema Verité feat. Pedro b2b Dichas" on Thu, 3 Sept 2026.
+Club Malasaña is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Cinema Verité feat. Pedro b2b Dichas" on Thu, 3 Sept 2026.
 
 Club Malasaña is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Dichas, John Heaven, Nile Fee and Taxi Drivers. Browse upcoming dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
@@ -17,4 +17,4 @@ Club Malasaña is a music venue in Madrid listed on soundcheck. 4 upcoming night
 
 Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain, Madrid
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*

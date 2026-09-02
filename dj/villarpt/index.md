@@ -1,6 +1,6 @@
 # Villar (PT)
 
-Villar (PT) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
+Villar (PT) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
 
 Villar (PT) is a trance and techno artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Bollmann, IGDA and NOTMYTYPE (2). Next up: DSTRKT Club Berlin, Berlin on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ Villar (PT) is a trance and techno artist tracked on soundcheck, with 3 sets log
 
 Bollmann, IGDA, NOTMYTYPE (2)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/villarpt/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/villarpt/)*

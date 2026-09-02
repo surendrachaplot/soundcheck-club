@@ -1,6 +1,6 @@
 # Nest
 
-Nest is a music venue in Basel with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "VORTEX: 5 years yamatai records" on Sat, 12 Sept 2026.
+Nest is a music venue in Basel with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "VORTEX: 5 years yamatai records" on Sat, 12 Sept 2026.
 
 Nest is a music venue in Basel listed on soundcheck. 2 upcoming nights, with line-ups including Fearful and LSN_. Browse upcoming dates, start times and who's playing. Nachtigallenwäldeli 9, 4051 Basel.
 
@@ -15,4 +15,4 @@ Nest is a music venue in Basel listed on soundcheck. 2 upcoming nights, with lin
 
 Nachtigallenwäldeli 9, 4051 Basel, Basel
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*

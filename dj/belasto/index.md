@@ -1,6 +1,6 @@
 # Belasto
 
-Belasto is a Gabber artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Garagen, Cologne on Sat, 26 Sept 2026.
+Belasto is a Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Garagen, Cologne on Sat, 26 Sept 2026.
 
 Belasto is a gabber artist based in Germany, tracked on soundcheck, with 2 sets logged across Cologne and Frankfurt. Often billed alongside Eurodance2000, Franzi Dries and GI.O. Next up: Garagen, Cologne on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Belasto is a gabber artist based in Germany, tracked on soundcheck, with 2 sets 
 
 Eurodance2000, Franzi Dries, GI.O
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belasto/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belasto/)*

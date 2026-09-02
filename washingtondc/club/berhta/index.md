@@ -1,8 +1,8 @@
 # BERHTA
 
-BERHTA is a music venue in Washington DC with 24 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Mochakk" on Fri, 4 Sept 2026.
+BERHTA is a music venue in Washington DC with 25 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Mochakk" on Fri, 4 Sept 2026.
 
-BERHTA is a music venue in Washingtondc listed on soundcheck. 24 upcoming nights, with line-ups including 100 gecs, Cassian, Chus & Ceballos and Danny L Harle and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
+BERHTA is a music venue in Washingtondc listed on soundcheck. 25 upcoming nights, with line-ups including 100 gecs, Anfisa Letyago, Cassian and Chus & Ceballos and 2 more. Browse upcoming dates, start times and who's playing. 1237 W Place NE, Washington, D.C., 20018.
 
 ## What's on
 
@@ -23,4 +23,4 @@ BERHTA is a music venue in Washingtondc listed on soundcheck. 24 upcoming nights
 
 1237 W Place NE, Washington, D.C., 20018, Washington DC
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/berhta/)*

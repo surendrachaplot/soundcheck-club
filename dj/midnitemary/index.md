@@ -1,6 +1,6 @@
 # Midnite Mary
 
-Midnite Mary is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Apotheke, Los Angeles on Fri, 11 Sept 2026.
+Midnite Mary is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Apotheke, Los Angeles on Fri, 11 Sept 2026.
 
 Midnite Mary is a house and disco artist based in United States of America, tracked on soundcheck, with 21 sets logged across Losangeles and Newyorkcity. Often billed alongside Tavish, Connor Mikami and Dakota Dean. Next up: Apotheke, Losangeles on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Midnite Mary is a house and disco artist based in United States of America, trac
 
 Tavish, Connor Mikami, Dakota Dean
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midnitemary/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midnitemary/)*

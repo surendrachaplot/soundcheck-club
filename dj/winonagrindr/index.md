@@ -1,6 +1,6 @@
 # Winona Grindr
 
-Winona Grindr is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - 6910 Shirley Avenue , Austin on Fri, 4 Sept 2026.
+Winona Grindr is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - 6910 Shirley Avenue , Austin on Fri, 4 Sept 2026.
 
 Winona Grindr is a house and acid artist tracked on soundcheck, with 16 sets logged across Austin, Houston and Mexicocity. Often billed alongside JAViii, Brett Johnson and Purple Matter. Next up: TBA - 6910 Shirley Avenue , Austin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Winona Grindr is a house and acid artist tracked on soundcheck, with 16 sets log
 
 JAViii, Brett Johnson, Purple Matter
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winonagrindr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winonagrindr/)*

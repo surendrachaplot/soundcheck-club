@@ -1,6 +1,6 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Odonien, Cologne on Fri, 4 Sept 2026.
+ÜBERKIKZ is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Odonien, Cologne on Fri, 4 Sept 2026.
 
 ÜBERKIKZ is a techno and house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: Odonien, Cologne on Fri 4 Sept.
 
@@ -35,4 +35,4 @@
 
 future.666, DJ Hyperdrive, Cloudy
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

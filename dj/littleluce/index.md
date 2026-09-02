@@ -1,6 +1,6 @@
 # Little Luce
 
-Little Luce is a House and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Multi Story, London on Thu, 3 Sept 2026.
+Little Luce is a House and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Multi Story, London on Thu, 3 Sept 2026.
 
 Little Luce is a house and jungle artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Jahmed, Onncor and Bryn Brax. Next up: Multi Story, London on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Little Luce is a house and jungle artist tracked on soundcheck, with 15 sets log
 
 Jahmed, Onncor, Bryn Brax
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/littleluce/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/littleluce/)*

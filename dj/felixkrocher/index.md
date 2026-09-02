@@ -1,6 +1,6 @@
 # Felix Kröcher
 
-Felix Kröcher is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Grelle Forelle, Vienna on Fri, 11 Sept 2026.
+Felix Kröcher is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Grelle Forelle, Vienna on Fri, 11 Sept 2026.
 
 Felix Kröcher is a techno and electro artist tracked on soundcheck, with 50 sets logged across Bangkok, Barcelona, Basel and Berlin and 10 more. Often billed alongside LOVRA, Anna Tur and Simina Grigoriu. Next up: Grelle Forelle, Vienna on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ Felix Kröcher is a techno and electro artist tracked on soundcheck, with 50 set
 
 LOVRA, Anna Tur, Simina Grigoriu
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*

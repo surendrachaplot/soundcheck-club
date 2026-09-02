@@ -1,6 +1,6 @@
 # Michelle
 
-Michelle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Virage, Paris on Wed, 2 Sept 2026.
+Michelle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Virage, Paris on Wed, 2 Sept 2026.
 
 Michelle is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Craig Richards, Alyhas and Christian AB. Next up: Virage, Paris on Wed 2 Sept.
 
@@ -27,4 +27,4 @@ Michelle is a house and techno artist tracked on soundcheck, with 57 sets logged
 
 Craig Richards, Alyhas, Christian AB
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michelle/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michelle/)*

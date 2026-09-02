@@ -1,6 +1,6 @@
 # NUSIZ
 
-NUSIZ is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at UNDERCITY, Seoul on Fri, 11 Sept 2026.
+NUSIZ is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at UNDERCITY, Seoul on Fri, 11 Sept 2026.
 
 NUSIZ is a techno and minimal artist tracked on soundcheck, with 20 sets logged across Seoul. Often billed alongside Cy Nico, DJ SIN and Maetel. Next up: UNDERCITY, Seoul on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ NUSIZ is a techno and minimal artist tracked on soundcheck, with 20 sets logged 
 
 Cy Nico, DJ SIN, Maetel
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nusiz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nusiz/)*

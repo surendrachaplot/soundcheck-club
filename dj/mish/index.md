@@ -1,6 +1,6 @@
 # Mish
 
-Mish is a R&B and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
+Mish is a R&B and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
 
 Mish is a r&b and hip-hop artist tracked on soundcheck, with 21 sets logged across Amsterdam, Auckland, Bristol and Frankfurt and 5 more. Often billed alongside Angerfist, Act of Rage and Adjuzt. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Mish is a r&b and hip-hop artist tracked on soundcheck, with 21 sets logged acro
 
 Angerfist, Act of Rage, Adjuzt
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*

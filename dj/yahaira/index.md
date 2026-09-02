@@ -1,6 +1,6 @@
 # Yahaira
 
-Yahaira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at KitKatClub, Berlin on Mon, 21 Sept 2026.
+Yahaira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at KitKatClub, Berlin on Mon, 21 Sept 2026.
 
 Yahaira is a house and techno artist based in Spain, tracked on soundcheck, with 82 sets logged across Barcelona, Berlin, Madrid and Malaga and 2 more. Often billed alongside DIGUES, Certain People and David Ponziano. Next up: KitKatClub, Berlin on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Yahaira is a house and techno artist based in Spain, tracked on soundcheck, with
 
 DIGUES, Certain People, David Ponziano
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yahaira/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yahaira/)*

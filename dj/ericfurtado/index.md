@@ -1,6 +1,6 @@
 # Eric Furtado
 
-Eric Furtado is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Carmo Rooftop, Lisbon on Sun, 20 Sept 2026.
+Eric Furtado is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Carmo Rooftop, Lisbon on Sun, 20 Sept 2026.
 
 Eric Furtado is a house and deep house artist tracked on soundcheck, with 14 sets logged across Lisbon. Often billed alongside Markov (cult), Alive and CVLT. Next up: Carmo Rooftop, Lisbon on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Eric Furtado is a house and deep house artist tracked on soundcheck, with 14 set
 
 Markov (cult), Alive, CVLT
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfurtado/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericfurtado/)*

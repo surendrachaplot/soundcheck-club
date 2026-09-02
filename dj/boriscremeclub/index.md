@@ -1,6 +1,6 @@
 # boris (creme club)
 
-boris (creme club) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
+boris (creme club) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
 
 boris (creme club) is a house and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Leipzig and Munich. Often billed alongside Davy (Crème Club), Lulu & Nell and jewelry. Next up: Distillery, Leipzig on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ boris (creme club) is a house and techno artist based in Germany, tracked on sou
 
 Davy (Crème Club), Lulu & Nell, jewelry
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boriscremeclub/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boriscremeclub/)*

@@ -1,6 +1,6 @@
 # D'Julz
 
-D'Julz is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at St Brides Church, Liverpool on Sat, 5 Sept 2026.
+D'Julz is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at St Brides Church, Liverpool on Sat, 5 Sept 2026.
 
 D'Julz is a house and minimal artist based in France, tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Alexander Skancke, DJ Senc and Traumer. Next up: St Brides Church, Liverpool on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ D'Julz is a house and minimal artist based in France, tracked on soundcheck, wit
 
 Alexander Skancke, DJ Senc, Traumer
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*

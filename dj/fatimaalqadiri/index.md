@@ -1,6 +1,6 @@
 # Fatima Al Qadiri
 
-Fatima Al Qadiri is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
+Fatima Al Qadiri is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at National Gallery Prague, Prague on Thu, 24 Sept 2026.
 
 Fatima Al Qadiri is an electronica and experimental artist tracked on soundcheck, with 2 sets logged across Prague and Utrecht. Often billed alongside upsammy, 33EMYBW and ARN4L2. Next up: National Gallery Prague, Prague on Thu 24 Sept.
 
@@ -18,4 +18,4 @@ Fatima Al Qadiri is an electronica and experimental artist tracked on soundcheck
 
 upsammy, 33EMYBW, ARN4L2
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimaalqadiri/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimaalqadiri/)*

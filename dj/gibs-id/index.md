@@ -1,6 +1,6 @@
 # Gibs (ID)
 
-Gibs (ID) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Gibs (ID) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 Gibs (ID) is a house and electro artist based in Indonesia, tracked on soundcheck, with 7 sets logged across Bali and Paris. Often billed alongside Zoot, Adrien Calvet and Akaj. Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -23,4 +23,4 @@ Gibs (ID) is a house and electro artist based in Indonesia, tracked on soundchec
 
 Zoot, Adrien Calvet, Akaj
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gibs-id/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gibs-id/)*

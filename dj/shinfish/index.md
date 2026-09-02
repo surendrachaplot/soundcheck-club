@@ -1,6 +1,6 @@
 # Shinfish
 
-Shinfish is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Dual, Bangkok on Fri, 4 Sept 2026.
+Shinfish is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Dual, Bangkok on Fri, 4 Sept 2026.
 
 Shinfish is a house and minimal artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside Elaheh, Koish and Gaspray. Next up: Dual, Bangkok on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Shinfish is a house and minimal artist based in Netherlands, tracked on soundche
 
 Elaheh, Koish, Gaspray
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shinfish/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shinfish/)*

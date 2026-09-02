@@ -1,6 +1,6 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "DJ COMMUNITY - 02/09" on Wed, 2 Sept 2026.
+Bangkok Island is a music venue in Bangkok with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "DJ COMMUNITY - 02/09" on Wed, 2 Sept 2026.
 
 Bangkok Island is a music venue in Bangkok listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
@@ -21,4 +21,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 8 upcoming nigh
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

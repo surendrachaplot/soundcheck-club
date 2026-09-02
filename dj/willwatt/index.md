@@ -1,6 +1,6 @@
 # Will Watt
 
-Will Watt is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at E1, London on Sat, 5 Sept 2026.
+Will Watt is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at E1, London on Sat, 5 Sept 2026.
 
 Will Watt is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Arielle Free, Bear Winder and Carlos Martinez. Next up: E1, London on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Will Watt is a house and tech house artist based in United Kingdom, tracked on s
 
 Arielle Free, Bear Winder, Carlos Martinez
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willwatt/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willwatt/)*

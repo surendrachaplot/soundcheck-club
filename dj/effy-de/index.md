@@ -1,6 +1,6 @@
 # Effy (DE)
 
-Effy (DE) is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Terrrazza, Barcelona on Sat, 26 Sept 2026.
+Effy (DE) is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Terrrazza, Barcelona on Sat, 26 Sept 2026.
 
 Effy (DE) is a house artist tracked on soundcheck, with 2 sets logged across Barcelona and London. Often billed alongside Arthi, D Double E and DJ EZ. Next up: La Terrrazza, Barcelona on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Effy (DE) is a house artist tracked on soundcheck, with 2 sets logged across Bar
 
 Arthi, D Double E, DJ EZ
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/effy-de/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/effy-de/)*

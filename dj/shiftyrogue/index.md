@@ -1,6 +1,6 @@
 # Shifty Rogue
 
-Shifty Rogue is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
+Shifty Rogue is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
 
 Shifty Rogue is a jungle and garage artist based in United States of America, tracked on soundcheck, with 12 sets logged across Berlin and London. Often billed alongside KaraKara, DJ Chromz and Hovercat. Next up: TBA, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Shifty Rogue is a jungle and garage artist based in United States of America, tr
 
 KaraKara, DJ Chromz, Hovercat
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftyrogue/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftyrogue/)*

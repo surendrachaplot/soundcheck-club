@@ -1,6 +1,6 @@
 # Generatorx
 
-Generatorx is a Electro and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bampot Tea House, Toronto on Fri, 11 Sept 2026.
+Generatorx is a Electro and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bampot Tea House, Toronto on Fri, 11 Sept 2026.
 
 Generatorx is an electro and ghetto tech artist based in Canada, tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside /ASYNC, 1905 and 999ADJ. Next up: Bampot Tea House, Toronto on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Generatorx is an electro and ghetto tech artist based in Canada, tracked on soun
 
 /ASYNC, 1905, 999ADJ
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/generatorx/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/generatorx/)*

@@ -1,14 +1,15 @@
 # Freeman 713
 
-Freeman 713 is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Airliner, Los Angeles on Thu, 24 Sept 2026.
+Freeman 713 is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Airliner, Los Angeles on Thu, 24 Sept 2026.
 
-Freeman 713 is a techno and experimental artist based in United States of America, tracked on soundcheck, with 57 sets logged across Austin, Berlin, Chicago and Houston and 10 more. Often billed alongside Brick (US), FAUNA (2) and Lavender Persuasion. Next up: The Airliner, Losangeles on Thu 24 Sept.
+Freeman 713 is a techno and experimental artist based in United States of America, tracked on soundcheck, with 58 sets logged across Austin, Berlin, Chicago and Houston and 10 more. Often billed alongside Brick (US), FAUNA (2) and Lavender Persuasion. Next up: The Airliner, Losangeles on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | The Airliner | Los Angeles |
+| Fri, 25 Sept 2026 | Milkys | Los Angeles |
 | Sat, 21 Nov 2026 | Underground SF | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +27,4 @@ Freeman 713 is a techno and experimental artist based in United States of Americ
 
 Brick (US), FAUNA (2), Lavender Persuasion
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freeman713/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freeman713/)*

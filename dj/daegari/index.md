@@ -1,6 +1,6 @@
 # DAEGARI
 
-DAEGARI is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Pistil, Seoul on Fri, 4 Sept 2026.
+DAEGARI is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pistil, Seoul on Fri, 4 Sept 2026.
 
 DAEGARI is an electro and club artist tracked on soundcheck, with 8 sets logged across Seoul. Often billed alongside Hogi, MOHOHOMO and O.od. Next up: Pistil, Seoul on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ DAEGARI is an electro and club artist tracked on soundcheck, with 8 sets logged 
 
 Hogi, MOHOHOMO, O.od
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daegari/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daegari/)*

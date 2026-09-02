@@ -1,8 +1,8 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 7 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "MRAK Season Opening with Massimiliano Pagliara" on Fri, 4 Sept 2026.
+Drugstore Beograd is a music venue in Belgrade with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "MRAK Season Opening with Massimiliano Pagliara" on Fri, 4 Sept 2026.
 
-Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 7 upcoming nights, with line-ups including Ali Guney, Carbon Based Lifeforms, cassandrah and Commissar  Lag and 2 more. Browse upcoming dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
+Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 7 upcoming nights, with line-ups including Ali Guney, Asarri, Carbon Based Lifeforms and cassandrah and 2 more. Browse upcoming dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
 ## What's on
 
@@ -12,7 +12,7 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 7 upcoming 
 | Tue, 15 Sept 2026 | Frenzee, Grim Rhythm, Reckoning |  |
 | Sat, 19 Sept 2026 | INDOOR HARDCORE VOL.V ( 70% SOLD OUT ) | Commissar  Lag, D/K/OXY, SNTS, Stashha, Suzana, cassandrah, laccotti |
 | Fri, 25 Sept 2026 | KRШ Season Opener with Rommek & JERM  | HETEM, JERM, Rommek, mdngt |
-| Sat, 17 Oct 2026 | ALTEREGO TIMES TWO / DRUGSTORE & PARA |  |
+| Sat, 17 Oct 2026 | ALTEREGO: TIMES TWO / Daria Kolosova, Insolate + others | Asarri, Daria Kolosova, Deeda, Gostoja, Insolate, RAR, SODOMA, YPSY |
 | Mon, 19 Oct 2026 | Carbon Based Lifeforms - Belgrade- 19.10.26 -Drugstore | Carbon Based Lifeforms |
 | Fri, 20 Nov 2026 | ALTEREGO - ALL YOU CAN ACID II |  |
 
@@ -20,4 +20,4 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 7 upcoming 
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

@@ -1,6 +1,6 @@
 # Peer Pressure
 
-Peer Pressure is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Stud, San Francisco/Oakland on Sat, 5 Sept 2026.
+Peer Pressure is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Stud, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Peer Pressure is a techno and house artist tracked on soundcheck, with 10 sets logged across Newyorkcity, Sanfrancisco and Washingtondc. Often billed alongside Sammy Taylor, That Matt and likeholywine. Next up: The Stud, Sanfrancisco on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Peer Pressure is a techno and house artist tracked on soundcheck, with 10 sets l
 
 Sammy Taylor, That Matt, likeholywine
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peerpressure/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peerpressure/)*

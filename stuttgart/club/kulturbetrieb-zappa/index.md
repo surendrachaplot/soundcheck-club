@@ -1,6 +1,6 @@
 # Kulturbetrieb Zappa
 
-Kulturbetrieb Zappa is a music venue in Stuttgart with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "GrooveTogether" on Sat, 19 Sept 2026.
+Kulturbetrieb Zappa is a music venue in Stuttgart with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "GrooveTogether" on Sat, 19 Sept 2026.
 
 Kulturbetrieb Zappa is a music venue in Stuttgart listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Stuttgarter Str. 3, 73525 Schwäbisch Gmünd, Germany.
 
@@ -14,4 +14,4 @@ Kulturbetrieb Zappa is a music venue in Stuttgart listed on soundcheck. 1 upcomi
 
 Stuttgarter Str. 3, 73525 Schwäbisch Gmünd, Germany, Stuttgart
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kulturbetrieb-zappa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kulturbetrieb-zappa/)*

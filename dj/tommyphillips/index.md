@@ -1,6 +1,6 @@
 # Tommy Phillips
 
-Tommy Phillips is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at A.i Warehouse, Washington DC on Sat, 5 Sept 2026.
+Tommy Phillips is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at A.i Warehouse, Washington DC on Sat, 5 Sept 2026.
 
 Tommy Phillips is a tech house and house artist tracked on soundcheck, with 63 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: A.i Warehouse, Washingtondc on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Tommy Phillips is a tech house and house artist tracked on soundcheck, with 63 s
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

@@ -1,6 +1,6 @@
 # BAUTZ
 
-BAUTZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
+BAUTZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
 
 BAUTZ is a house and techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside BUTZ, CC:NIELOS and Christa K. Next up: Lokschuppen Berlin, Berlin on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ BAUTZ is a house and techno artist tracked on soundcheck, with 2 sets logged acr
 
 BUTZ, CC:NIELOS, Christa K
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bautz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bautz/)*

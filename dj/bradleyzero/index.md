@@ -1,6 +1,6 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
+Bradley Zero is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
 
 Bradley Zero is a house and techno artist tracked on soundcheck, with 215 sets logged across Amsterdam, Austin, Bali and Bangkok and 52 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: Chinois Ibiza, Ibiza on Thu 10 Sept.
 
@@ -30,4 +30,4 @@ Bradley Zero is a house and techno artist tracked on soundcheck, with 215 sets l
 
 MLE (UK), Sally C, Chloé Caillet
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*

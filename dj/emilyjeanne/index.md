@@ -1,6 +1,6 @@
 # Emily Jeanne
 
-Emily Jeanne is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gare Porto, Porto on Sat, 5 Sept 2026.
+Emily Jeanne is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Gare Porto, Porto on Sat, 5 Sept 2026.
 
 Emily Jeanne is a techno and house artist based in Belgium, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 19 more. Often billed alongside Carrier, DjRUM and Nosedrip. Next up: Gare Porto, Porto on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Emily Jeanne is a techno and house artist based in Belgium, tracked on soundchec
 
 Carrier, DjRUM, Nosedrip
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjeanne/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjeanne/)*

@@ -1,6 +1,6 @@
 # Zoom Club
 
-Zoom Club is a music venue in Frankfurt with 7 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "HEAT TAKEOVER 2026 with Somewhen & Ueberrest All Night Long" on Sat, 26 Sept 2026.
+Zoom Club is a music venue in Frankfurt with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "HEAT TAKEOVER 2026 with Somewhen & Ueberrest All Night Long" on Sat, 26 Sept 2026.
 
 Zoom Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming nights, with line-ups including Fedele, Marcel Dettmann, Maurizio Schmitz and NTO and 2 more. Browse upcoming dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
 
@@ -20,4 +20,4 @@ Zoom Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming nights,
 
 Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*

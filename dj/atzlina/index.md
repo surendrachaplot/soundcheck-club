@@ -1,6 +1,6 @@
 # Atzlina
 
-Atzlina is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Humboldthain Club, Berlin on Fri, 4 Sept 2026.
+Atzlina is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Humboldthain Club, Berlin on Fri, 4 Sept 2026.
 
 Atzlina is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Munich. Often billed alongside Dudelburschen, Linz (Grell) and danuschek. Next up: Humboldthain Club, Berlin on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Atzlina is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 Dudelburschen, Linz (Grell), danuschek
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atzlina/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atzlina/)*

@@ -1,6 +1,6 @@
 # Omer Mil
 
-Omer Mil is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Green Room NYC, New York City on Fri, 11 Sept 2026.
+Omer Mil is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Green Room NYC, New York City on Fri, 11 Sept 2026.
 
 Omer Mil is a house and techno artist based in United States of America, tracked on soundcheck, with 79 sets logged across Mexicocity, Naples and Newyorkcity. Often billed alongside Morgan, Disgonuts and Kiyoshi. Next up: Green Room NYC, Newyorkcity on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Omer Mil is a house and techno artist based in United States of America, tracked
 
 Morgan, Disgonuts, Kiyoshi
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*

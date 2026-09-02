@@ -1,6 +1,6 @@
 # The Mighty Zaf
 
-The Mighty Zaf is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gingerino's Pizza, Newcastle on Sat, 31 Oct 2026.
+The Mighty Zaf is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Gingerino's Pizza, Newcastle on Sat, 31 Oct 2026.
 
 The Mighty Zaf is a disco and house artist tracked on soundcheck, with 22 sets logged across Amsterdam, Brighton, Bristol and Cork and 6 more. Often billed alongside Rotation Policy, Euan Fryer and Lel Palfrey. Next up: Gingerino's Pizza, Newcastle on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ The Mighty Zaf is a disco and house artist tracked on soundcheck, with 22 sets l
 
 Rotation Policy, Euan Fryer, Lel Palfrey
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themightyzaf/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themightyzaf/)*

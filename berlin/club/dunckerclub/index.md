@@ -1,6 +1,6 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Dark Monday" on Mon, 30 Nov 2026.
+Dunckerclub is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Dark Monday" on Mon, 30 Nov 2026.
 
 Dunckerclub is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
@@ -14,4 +14,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 1 upcoming night. B
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

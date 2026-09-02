@@ -1,6 +1,6 @@
 # Conor Schmtz
 
-Conor Schmtz is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - SECRET LOCATION, Belfast on Sat, 5 Sept 2026.
+Conor Schmtz is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - SECRET LOCATION, Belfast on Sat, 5 Sept 2026.
 
 Conor Schmtz is a house and electronica artist tracked on soundcheck, with 33 sets logged across Belfast, Berlin, Dublin and London. Often billed alongside Marion Hawkes, ByPhil and Matcha. Next up: TBA - SECRET LOCATION, Belfast on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Conor Schmtz is a house and electronica artist tracked on soundcheck, with 33 se
 
 Marion Hawkes, ByPhil, Matcha
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conorschmtz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conorschmtz/)*

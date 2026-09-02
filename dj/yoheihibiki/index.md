@@ -1,6 +1,6 @@
 # Yohei Hibiki
 
-Yohei Hibiki is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at WOMB, Tokyo on Fri, 4 Sept 2026.
+Yohei Hibiki is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at WOMB, Tokyo on Fri, 4 Sept 2026.
 
 Yohei Hibiki is a techno and house artist based in Japan, tracked on soundcheck, with 52 sets logged across Osaka and Tokyo. Often billed alongside SIGNAL (JP), Ayana Pattra and MOTOKA. Next up: WOMB, Tokyo on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Yohei Hibiki is a techno and house artist based in Japan, tracked on soundcheck,
 
 SIGNAL (JP), Ayana Pattra, MOTOKA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoheihibiki/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoheihibiki/)*

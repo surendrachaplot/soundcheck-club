@@ -1,6 +1,6 @@
 # Ani Phoebe
 
-Ani Phoebe is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Night Tales, London on Fri, 4 Sept 2026.
+Ani Phoebe is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Night Tales, London on Fri, 4 Sept 2026.
 
 Ani Phoebe is a house and balearic artist tracked on soundcheck, with 67 sets logged across Bangkok, Berlin, Hongkong and Lisbon and 14 more. Often billed alongside Seelie, Vio PRG and Heels & Souls. Next up: Night Tales, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ani Phoebe is a house and balearic artist tracked on soundcheck, with 67 sets lo
 
 Seelie, Vio PRG, Heels & Souls
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniphoebe/)*

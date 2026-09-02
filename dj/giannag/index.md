@@ -1,6 +1,6 @@
 # Gianna G
 
-Gianna G is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mansions, New York City on Thu, 3 Sept 2026.
+Gianna G is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mansions, New York City on Thu, 3 Sept 2026.
 
 Gianna G is a house and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Fabiola, Arjun Shah and Baltra. Next up: Mansions, Newyorkcity on Thu 3 Sept.
 
@@ -23,4 +23,4 @@ Gianna G is a house and electro artist based in United States of America, tracke
 
 Fabiola, Arjun Shah, Baltra
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giannag/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giannag/)*

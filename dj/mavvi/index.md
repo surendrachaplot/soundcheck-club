@@ -1,6 +1,6 @@
 # Mavvi
 
-Mavvi is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Born 2B Music Bar, Barcelona on Sat, 5 Sept 2026.
+Mavvi is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Born 2B Music Bar, Barcelona on Sat, 5 Sept 2026.
 
 Mavvi is an electronica and house artist tracked on soundcheck, with 4 sets logged across Barcelona, Budapest, London and Madrid. Often billed alongside Jamz Supernova, RUD4 and SonikGroove. Next up: Born 2B Music Bar, Barcelona on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Mavvi is an electronica and house artist tracked on soundcheck, with 4 sets logg
 
 Jamz Supernova, RUD4, SonikGroove
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mavvi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mavvi/)*

@@ -1,6 +1,6 @@
 # The Bath House
 
-The Bath House is a music venue in London with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "The Tiny Oscars 2026" on Fri, 4 Sept 2026.
+The Bath House is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "The Tiny Oscars 2026" on Fri, 4 Sept 2026.
 
 The Bath House is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. The Bath House, Hackney Wick, 80 Eastway, London, E9 5JH.
 
@@ -15,4 +15,4 @@ The Bath House is a music venue in London listed on soundcheck. 2 upcoming night
 
 The Bath House, Hackney Wick, 80 Eastway, London, E9 5JH, London
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bath-house/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bath-house/)*

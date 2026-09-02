@@ -1,6 +1,6 @@
 # VIDO (2)
 
-VIDO (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Kilomètre25, Paris on Sat, 19 Sept 2026.
+VIDO (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Kilomètre25, Paris on Sat, 19 Sept 2026.
 
 VIDO (2) is a techno and hardcore artist tracked on soundcheck, with 16 sets logged across Antwerp, Berlin, Brussels and Geneva and 7 more. Often billed alongside 999999999, B2 (1) and CALLUSH. Next up: Kilomètre25, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ VIDO (2) is a techno and hardcore artist tracked on soundcheck, with 16 sets log
 
 999999999, B2 (1), CALLUSH
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vido-2/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vido-2/)*

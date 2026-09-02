@@ -1,6 +1,6 @@
 # Parra for Cuva
 
-Parra for Cuva is a House and Electronica artist with 10 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Parra for Cuva is a House and Electronica artist with 10 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Parra for Cuva is a house and electronica artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -34,4 +34,4 @@ Parra for Cuva is a house and electronica artist tracked on soundcheck, with 70 
 
 Christian Löffler, Natascha Polké, Deer Jade
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*

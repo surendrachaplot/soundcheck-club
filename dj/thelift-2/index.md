@@ -1,6 +1,6 @@
 # The Lift (2)
 
-The Lift (2) is a Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Next Door Records Two, London on Sat, 12 Sept 2026.
+The Lift (2) is a Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Next Door Records Two, London on Sat, 12 Sept 2026.
 
 The Lift (2) is a downtempo artist tracked on soundcheck, with 15 sets logged across London. Next up: Next Door Records Two, London on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ The Lift (2) is a downtempo artist tracked on soundcheck, with 15 sets logged ac
 - Chiave, London — Wed, 18 Mar 2026
 - New Forms, London — Fri, 27 Feb 2026
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelift-2/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelift-2/)*

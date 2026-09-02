@@ -1,6 +1,6 @@
 # Sky Club
 
-Sky Club is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "TECHNOSOPHIE" on Sat, 19 Sept 2026.
+Sky Club is a music venue in Leipzig with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "TECHNOSOPHIE" on Sat, 19 Sept 2026.
 
 Sky Club is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, with line-ups including Abzocka, AMBAM, Ave (DE) and B-TUR (2) and 2 more. Browse upcoming dates, start times and who's playing. Riesaer Str. 56-64, 04328 Leipzig.
 
@@ -16,4 +16,4 @@ Sky Club is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, wi
 
 Riesaer Str. 56-64, 04328 Leipzig, Leipzig
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/sky-club/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/sky-club/)*

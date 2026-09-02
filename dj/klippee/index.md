@@ -1,6 +1,6 @@
 # Klippee
 
-Klippee is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Red Room, Vancouver on Sat, 3 Oct 2026.
+Klippee is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Red Room, Vancouver on Sat, 3 Oct 2026.
 
 Klippee is a drum & bass and dubstep artist tracked on soundcheck, with 4 sets logged across Losangeles, Sandiego, Seattle and Vancouver. Often billed alongside Calyx & Teebee, Dara Genesis and Enei. Next up: The Red Room, Vancouver on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Klippee is a drum & bass and dubstep artist tracked on soundcheck, with 4 sets l
 
 Calyx & Teebee, Dara Genesis, Enei
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klippee/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klippee/)*

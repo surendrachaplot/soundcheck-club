@@ -1,6 +1,6 @@
 # Stevie B
 
-Stevie B is a Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Planet Wax, London on Sat, 31 Oct 2026.
+Stevie B is a Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Sat, 31 Oct 2026.
 
 Stevie B is a garage artist tracked on soundcheck, with 3 sets logged across London and Toronto. Often billed alongside Black Box, DJ Para and Justin Ballard. Next up: Planet Wax, London on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Stevie B is a garage artist tracked on soundcheck, with 3 sets logged across Lon
 
 Black Box, DJ Para, Justin Ballard
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevieb/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevieb/)*

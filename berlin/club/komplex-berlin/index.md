@@ -1,6 +1,6 @@
 # Komplex Berlin
 
-Komplex Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Climax - Goth / Industrial club night + play areas" on Sat, 3 Oct 2026.
+Komplex Berlin is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Climax - Goth / Industrial club night + play areas" on Sat, 3 Oct 2026.
 
 Komplex Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Mira Iranpour. Browse upcoming dates, start times and who's playing. Modersohnstraße 34-45, 10245 Berlin.
 
@@ -14,4 +14,4 @@ Komplex Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming night
 
 Modersohnstraße 34-45, 10245 Berlin, Berlin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/komplex-berlin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/komplex-berlin/)*

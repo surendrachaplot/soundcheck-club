@@ -1,6 +1,6 @@
 # metrologic
 
-metrologic is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Endeavour, London on Sat, 5 Sept 2026.
+metrologic is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Endeavour, London on Sat, 5 Sept 2026.
 
 metrologic is a techno and electro artist based in Greece, tracked on soundcheck, with 17 sets logged across London. Often billed alongside Almeida Moura, MAL33T and MUSICKLUNATIC. Next up: Endeavour, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ metrologic is a techno and electro artist based in Greece, tracked on soundcheck
 
 Almeida Moura, MAL33T, MUSICKLUNATIC
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metrologic/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metrologic/)*

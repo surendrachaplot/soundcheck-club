@@ -1,8 +1,8 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 17 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "KI/KI Manchester" on Fri, 18 Sept 2026.
+Depot Mayfield is a music venue in Manchester with 18 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "KI/KI Manchester" on Fri, 18 Sept 2026.
 
-Depot Mayfield is a music venue in Manchester listed on soundcheck. 17 upcoming nights, with line-ups including 2FEL, 2Shy MC, 4000 Hz and Kepler and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
+Depot Mayfield is a music venue in Manchester listed on soundcheck. 18 upcoming nights, with line-ups including 2FEL, 2Shy MC, 4000 Hz and 4am Kru and 2 more. Browse upcoming dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 17 upcoming 
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

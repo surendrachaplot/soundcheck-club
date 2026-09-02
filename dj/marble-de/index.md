@@ -1,6 +1,6 @@
 # Marble
 
-Marble is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Timebar, Stockholm on Fri, 30 Oct 2026.
+Marble is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Timebar, Stockholm on Fri, 30 Oct 2026.
 
 Marble is a garage and breakbeat artist based in Sweden, tracked on soundcheck, with 38 sets logged across Berlin, Copenhagen and Stockholm. Often billed alongside dj døden, Boj Lucki and Malin Edvardsen. Next up: Timebar, Stockholm on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Marble is a garage and breakbeat artist based in Sweden, tracked on soundcheck, 
 
 dj døden, Boj Lucki, Malin Edvardsen
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marble-de/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marble-de/)*

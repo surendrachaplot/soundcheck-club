@@ -1,6 +1,6 @@
 # Rui Azevedo
 
-Rui Azevedo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Era uma vez no Porto, Porto on Wed, 30 Sept 2026.
+Rui Azevedo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Era uma vez no Porto, Porto on Wed, 30 Sept 2026.
 
 Rui Azevedo is a house and techno artist tracked on soundcheck, with 3 sets logged across Porto. Often billed alongside Rui Trintaeum and Vasco Valente. Next up: Era uma vez no Porto, Porto on Wed 30 Sept.
 
@@ -19,4 +19,4 @@ Rui Azevedo is a house and techno artist tracked on soundcheck, with 3 sets logg
 
 Rui Trintaeum, Vasco Valente
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruiazevedo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruiazevedo/)*

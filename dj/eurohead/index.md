@@ -1,6 +1,6 @@
 # Eurohead
 
-Eurohead is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Warfield, San Francisco/Oakland on Sat, 21 Nov 2026.
+Eurohead is a Trance and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Warfield, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 Eurohead is a trance and club artist tracked on soundcheck, with 19 sets logged across Austin, Barcelona, Berlin and Houston and 8 more. Often billed alongside Ali RQ, Frost Children and 10cust. Next up: The Warfield, Sanfrancisco on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Eurohead is a trance and club artist tracked on soundcheck, with 19 sets logged 
 
 Ali RQ, Frost Children, 10cust
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*

@@ -1,6 +1,6 @@
 # T-SHA
 
-T-SHA is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Meraki, Liverpool on Fri, 2 Oct 2026.
+T-SHA is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Meraki, Liverpool on Fri, 2 Oct 2026.
 
 T-SHA is a garage and drum & bass artist tracked on soundcheck, with 5 sets logged across Amsterdam, Bali and Liverpool. Often billed alongside AAA, NATHIFA EFIA and Godsendo. Next up: Meraki, Liverpool on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ T-SHA is a garage and drum & bass artist tracked on soundcheck, with 5 sets logg
 
 AAA, NATHIFA EFIA, Godsendo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t-sha/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t-sha/)*

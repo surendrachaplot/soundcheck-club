@@ -1,6 +1,6 @@
 # X CLUB. - Montréal at Société des arts technologiques
 
-X CLUB. - Montréal at Société des arts technologiques on Sat 5 Sept, Montreal. 1 act on the bill: X CLUB.. Trance and Techno. Preview the line-up and save it on soundcheck.
+X CLUB. - Montréal at Société des arts technologiques on Sat 5 Sept, Montreal. 3 acts on the bill: Audrey Bélanger, Vayia and X CLUB.. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ X CLUB. - Montréal at Société des arts technologiques on Sat 5 Sept, Montreal
 
 ## Line-up
 
+- Audrey Bélanger
+- Vayia
 - X CLUB.
 
 *Source: [soundcheck](https://soundcheck.club/e/2484946-x-club-montr-al-at-soci-t-des-arts-technologiques/)*

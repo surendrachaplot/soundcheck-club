@@ -1,6 +1,6 @@
 # Lena Rigel
 
-Lena Rigel is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at dubble, Amsterdam on Sat, 19 Sept 2026.
+Lena Rigel is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at dubble, Amsterdam on Sat, 19 Sept 2026.
 
 Lena Rigel is a house and garage artist tracked on soundcheck, with 13 sets logged across Amsterdam. Often billed alongside Masha Wordpress, AYEDA and baby ganoush. Next up: dubble, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Lena Rigel is a house and garage artist tracked on soundcheck, with 13 sets logg
 
 Masha Wordpress, AYEDA, baby ganoush
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenarigel/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenarigel/)*

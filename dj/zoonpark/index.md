@@ -1,6 +1,6 @@
 # Zoonpark
 
-Zoonpark is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Nué Seoul, Seoul on Sat, 5 Sept 2026.
+Zoonpark is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nué Seoul, Seoul on Sat, 5 Sept 2026.
 
 Zoonpark is a techno and house artist based in South Korea, tracked on soundcheck, with 103 sets logged across Bangkok, Hongkong and Seoul. Often billed alongside Kim.Qna, Yun Line and DJ Funny. Next up: Nué Seoul, Seoul on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Zoonpark is a techno and house artist based in South Korea, tracked on soundchec
 
 Kim.Qna, Yun Line, DJ Funny
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoonpark/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoonpark/)*

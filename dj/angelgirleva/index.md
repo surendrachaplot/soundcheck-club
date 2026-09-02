@@ -1,6 +1,6 @@
 # angelgirl EVA
 
-angelgirl EVA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Detroit on Sat, 10 Oct 2026.
+angelgirl EVA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Detroit on Sat, 10 Oct 2026.
 
 angelgirl EVA is a club and techno artist based in United States of America, tracked on soundcheck, with 2 sets logged across Detroit and Newyorkcity. Often billed alongside Innergroove, Le Schlippy and Lulannie. Next up: TBA, Detroit on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ angelgirl EVA is a club and techno artist based in United States of America, tra
 
 Innergroove, Le Schlippy, Lulannie
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelgirleva/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelgirleva/)*

@@ -1,6 +1,6 @@
 # Andros
 
-Andros is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lux Fragil, Lisbon on Fri, 11 Sept 2026.
+Andros is a Trance and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lux Fragil, Lisbon on Fri, 11 Sept 2026.
 
 Andros is a trance and experimental artist based in Austria, tracked on soundcheck, with 2 sets logged across Lisbon. Often billed alongside Antaares, Britta Arnold and Chris Schwarzwälder. Next up: Lux Fragil, Lisbon on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Andros is a trance and experimental artist based in Austria, tracked on soundche
 
 Antaares, Britta Arnold, Chris Schwarzwälder
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andros/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andros/)*

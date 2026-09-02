@@ -1,6 +1,6 @@
 # Emel White
 
-Emel White is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at elipamanoke, Leipzig on Fri, 4 Sept 2026.
+Emel White is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at elipamanoke, Leipzig on Fri, 4 Sept 2026.
 
 Emel White is a techno and trance artist tracked on soundcheck, with 51 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside Silvi Knallt, Blank Vision and Jakomo. Next up: elipamanoke, Leipzig on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Emel White is a techno and trance artist tracked on soundcheck, with 51 sets log
 
 Silvi Knallt, Blank Vision, Jakomo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emelwhite/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emelwhite/)*

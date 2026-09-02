@@ -1,6 +1,6 @@
 # Karla Böhm
 
-Karla Böhm is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Karla Böhm is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Karla Böhm is a house and techno artist based in Belgium, tracked on soundcheck, with 55 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 12 more. Often billed alongside Dana Kuehr, Islas and Camiflage. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Karla Böhm is a house and techno artist based in Belgium, tracked on soundcheck
 
 Dana Kuehr, Islas, Camiflage
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karlabohm/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karlabohm/)*

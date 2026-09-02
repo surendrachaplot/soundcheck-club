@@ -1,6 +1,6 @@
 # Tonto
 
-Tonto is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Het Groene Veld, Amsterdam on Sat, 12 Sept 2026.
+Tonto is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Het Groene Veld, Amsterdam on Sat, 12 Sept 2026.
 
 Tonto is an electronic artist tracked on soundcheck, with 4 sets logged across Amsterdam and Utrecht. Often billed alongside 33EMYBW, ARN4L2 and Able Noise. Next up: Het Groene Veld, Amsterdam on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Tonto is an electronic artist tracked on soundcheck, with 4 sets logged across A
 
 33EMYBW, ARN4L2, Able Noise
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonto/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonto/)*

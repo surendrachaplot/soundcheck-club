@@ -1,6 +1,6 @@
 # Surreal (DE)
 
-Surreal (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
+Surreal (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
 Surreal (DE) is a techno and house artist tracked on soundcheck, with 70 sets logged across Berlin, Hamburg, Munich and Newyorkcity and 1 more. Often billed alongside Antoine Baiser, Marco Baskind and ESSHAR. Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Surreal (DE) is a techno and house artist tracked on soundcheck, with 70 sets lo
 
 Antoine Baiser, Marco Baskind, ESSHAR
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surreal-de/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surreal-de/)*

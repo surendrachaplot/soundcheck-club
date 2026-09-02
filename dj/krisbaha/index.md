@@ -1,6 +1,6 @@
 # Kris Baha
 
-Kris Baha is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Low Profile Studios, London on Sat, 26 Sept 2026.
+Kris Baha is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Low Profile Studios, London on Sat, 26 Sept 2026.
 
 Kris Baha is a techno and ebm artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Zanias, Bloody Mary and Berlin Bunny. Next up: Low Profile Studios, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Kris Baha is a techno and ebm artist tracked on soundcheck, with 80 sets logged 
 
 Zanias, Bloody Mary, Berlin Bunny
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krisbaha/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krisbaha/)*

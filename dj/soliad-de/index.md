@@ -1,6 +1,6 @@
 # Soliad
 
-Soliad is a Electronica and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Barcelona on Fri, 4 Sept 2026.
+Soliad is a Electronica and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Barcelona on Fri, 4 Sept 2026.
 
 Soliad is an electronica and club artist tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Malaga and Valencia. Often billed alongside Lenut, Bouch and Andrew James Gustav. Next up: TBA, Barcelona on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Soliad is an electronica and club artist tracked on soundcheck, with 14 sets log
 
 Lenut, Bouch, Andrew James Gustav
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soliad-de/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soliad-de/)*

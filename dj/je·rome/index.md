@@ -1,6 +1,6 @@
 # JE·ROME
 
-JE·ROME is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at BORIS CLUB, Barcelona on Sat, 5 Sept 2026.
+JE·ROME is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at BORIS CLUB, Barcelona on Sat, 5 Sept 2026.
 
 JE·ROME is a house artist tracked on soundcheck, with 20 sets logged across Barcelona. Often billed alongside Thomas Hernandez, NUUP and Diesco. Next up: BORIS CLUB, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ JE·ROME is a house artist tracked on soundcheck, with 20 sets logged across Bar
 
 Thomas Hernandez, NUUP, Diesco
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/je·rome/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/je·rome/)*

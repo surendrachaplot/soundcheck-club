@@ -1,6 +1,6 @@
 # Caillou (DE)
 
-Caillou (DE) is a Post-Punk and Krautrock artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lavallée, Brussels on Fri, 9 Oct 2026.
+Caillou (DE) is a Post-Punk and Krautrock artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lavallée, Brussels on Fri, 9 Oct 2026.
 
 Caillou (DE) is a post-punk and krautrock artist based in Germany, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Brussels and Prague. Often billed alongside Philipp Strobel, Joshua Murphy and Tomás Nochteff. Next up: Lavallée, Brussels on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Caillou (DE) is a post-punk and krautrock artist based in Germany, tracked on so
 
 Philipp Strobel, Joshua Murphy, Tomás Nochteff
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou-de/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou-de/)*

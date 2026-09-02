@@ -1,6 +1,6 @@
 # Nayoo
 
-Nayoo is a Ghetto Tech and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at ÆDEN, Berlin on Wed, 2 Sept 2026.
+Nayoo is a Ghetto Tech and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at ÆDEN, Berlin on Wed, 2 Sept 2026.
 
 Nayoo is a ghetto tech and club artist tracked on soundcheck, with 9 sets logged across Berlin, Valencia and Vienna. Often billed alongside AOIFE, Abu Zeinah and Benjie Bäm. Next up: ÆDEN, Berlin on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Nayoo is a ghetto tech and club artist tracked on soundcheck, with 9 sets logged
 
 AOIFE, Abu Zeinah, Benjie Bäm
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nayoo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nayoo/)*

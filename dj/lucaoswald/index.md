@@ -1,6 +1,6 @@
 # Luca Oswald
 
-Luca Oswald is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Haus73, Hamburg on Fri, 4 Sept 2026.
+Luca Oswald is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Haus73, Hamburg on Fri, 4 Sept 2026.
 
 Luca Oswald is a techno and trance artist tracked on soundcheck, with 5 sets logged across Hamburg. Often billed alongside Alphabae, Franziska Frizzante and KLARYOKO. Next up: Haus73, Hamburg on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Luca Oswald is a techno and trance artist tracked on soundcheck, with 5 sets log
 
 Alphabae, Franziska Frizzante, KLARYOKO
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaoswald/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaoswald/)*

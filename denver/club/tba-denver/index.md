@@ -1,6 +1,6 @@
 # TBA - Denver
 
-TBA - Denver is a music venue in Denver with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Regis B2B TERRY DONOVAN - ALL NIGHT LONG" on Sat, 10 Oct 2026.
+TBA - Denver is a music venue in Denver with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Regis B2B TERRY DONOVAN - ALL NIGHT LONG" on Sat, 10 Oct 2026.
 
 TBA - Denver is a music venue in Denver listed on soundcheck. 1 upcoming night, with line-ups including Regis. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Denver is a music venue in Denver listed on soundcheck. 1 upcoming night, 
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Regis B2B TERRY DONOVAN - ALL NIGHT LONG | Regis |
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-denver/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-denver/)*

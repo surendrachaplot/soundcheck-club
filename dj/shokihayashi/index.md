@@ -1,6 +1,6 @@
 # Shoki Hayashi
 
-Shoki Hayashi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Oath, Tokyo on Sun, 6 Sept 2026.
+Shoki Hayashi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Oath, Tokyo on Sun, 6 Sept 2026.
 
 Shoki Hayashi is a techno and house artist tracked on soundcheck, with 4 sets logged across Osaka and Tokyo. Often billed alongside 3.14, Astma and Goth-Trad. Next up: Oath, Tokyo on Sun 6 Sept.
 
@@ -20,4 +20,4 @@ Shoki Hayashi is a techno and house artist tracked on soundcheck, with 4 sets lo
 
 3.14, Astma, Goth-Trad
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shokihayashi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shokihayashi/)*

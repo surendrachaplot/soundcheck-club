@@ -1,6 +1,6 @@
 # Hudson’s Choice
 
-Hudson’s Choice is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Transit, Amsterdam on Thu, 22 Oct 2026.
+Hudson’s Choice is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Transit, Amsterdam on Thu, 22 Oct 2026.
 
 Hudson’s Choice is a deep house and house artist tracked on soundcheck, with 25 sets logged across Amsterdam, Bristol, Lisbon and London and 1 more. Often billed alongside Conrad Lee, Rainbow Conspiracy and House Purist. Next up: Transit, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Hudson’s Choice is a deep house and house artist tracked on soundcheck, with 2
 
 Conrad Lee, Rainbow Conspiracy, House Purist
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hudsonschoice/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hudsonschoice/)*

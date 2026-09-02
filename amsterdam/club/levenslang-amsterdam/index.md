@@ -1,6 +1,6 @@
 # Levenslang Amsterdam
 
-Levenslang Amsterdam is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Intercell ADE Kickoff | ADE By Day" on Wed, 21 Oct 2026.
+Levenslang Amsterdam is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Intercell ADE Kickoff | ADE By Day" on Wed, 21 Oct 2026.
 
 Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Adriana Lopez, camoufly, Claudio PRC and Daria Kolosova and 2 more. Browse upcoming dates, start times and who's playing. H.J.E. Wenckebachweg 48, 1096AN, Amsterdam.
 
@@ -20,4 +20,4 @@ Levenslang Amsterdam is a music venue in Amsterdam listed on soundcheck. 7 upcom
 
 H.J.E. Wenckebachweg 48, 1096AN, Amsterdam, Amsterdam
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/levenslang-amsterdam/)*

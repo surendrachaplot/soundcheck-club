@@ -1,13 +1,14 @@
 # Adrian Hex
 
-Adrian Hex is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Adrian Hex is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Good Room, New York City on Thu, 24 Sept 2026.
 
-Adrian Hex is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 57 sets logged across Berlin, Detroit, Newyorkcity and Washingtondc. Often billed alongside Secret Raver, STE-VÍ and jay york. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washingtondc on Sat 17 Oct.
+Adrian Hex is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Berlin, Detroit, Newyorkcity and Washingtondc. Often billed alongside Secret Raver, STE-VÍ and jay york. Next up: Good Room, Newyorkcity on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Good Room | New York City |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
 
 ## Recently played
@@ -25,4 +26,4 @@ Adrian Hex is a techno and minimal techno artist based in United States of Ameri
 
 Secret Raver, STE-VÍ, jay york
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianhex/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianhex/)*

@@ -1,6 +1,6 @@
 # MC Koast
 
-MC Koast is a Amapiano and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cu, London on Sat, 19 Sept 2026.
+MC Koast is a Amapiano and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Cu, London on Sat, 19 Sept 2026.
 
 MC Koast is an amapiano and bass artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol and London. Often billed alongside Blackdown, Alix Perez and Atki2. Next up: Cu, London on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ MC Koast is an amapiano and bass artist based in United Kingdom, tracked on soun
 
 Blackdown, Alix Perez, Atki2
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mckoast/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mckoast/)*

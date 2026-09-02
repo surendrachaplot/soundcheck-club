@@ -1,6 +1,6 @@
 # Unknown Mobile
 
-Unknown Mobile is a Downtempo and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at pos studios, Amsterdam on Sun, 4 Oct 2026.
+Unknown Mobile is a Downtempo and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at pos studios, Amsterdam on Sun, 4 Oct 2026.
 
 Unknown Mobile is a downtempo and ambient artist based in Canada, tracked on soundcheck, with 8 sets logged across Amsterdam, Copenhagen, Oslo and Sandiego and 2 more. Often billed alongside Atrevido, Crushed Peanut and DJ D.Dee. Next up: pos studios, Amsterdam on Sun 4 Oct.
 
@@ -24,4 +24,4 @@ Unknown Mobile is a downtempo and ambient artist based in Canada, tracked on sou
 
 Atrevido, Crushed Peanut, DJ D.Dee
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unknownmobile/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unknownmobile/)*

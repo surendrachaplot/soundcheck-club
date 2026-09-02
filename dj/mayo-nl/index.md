@@ -1,6 +1,6 @@
 # mayo (NL)
 
-mayo (NL) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at nachbar, Amsterdam on Thu, 3 Sept 2026.
+mayo (NL) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at nachbar, Amsterdam on Thu, 3 Sept 2026.
 
 mayo (NL) is a techno and house artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam and Utrecht. Often billed alongside mayo (2), Afra and Animistic Beliefs. Next up: nachbar, Amsterdam on Thu 3 Sept.
 
@@ -19,4 +19,4 @@ mayo (NL) is a techno and house artist based in Netherlands, tracked on soundche
 
 mayo (2), Afra, Animistic Beliefs
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayo-nl/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayo-nl/)*

@@ -1,6 +1,6 @@
 # Von Di
 
-Von Di is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Moon Club, Lisbon on Sat, 3 Oct 2026.
+Von Di is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Moon Club, Lisbon on Sat, 3 Oct 2026.
 
 Von Di is a techno and club artist based in Portugal, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 2 more. Often billed alongside Saint Caboclo, Meg10 and UMAFRICANA. Next up: Moon Club, Lisbon on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Von Di is a techno and club artist based in Portugal, tracked on soundcheck, wit
 
 Saint Caboclo, Meg10, UMAFRICANA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vondi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vondi/)*

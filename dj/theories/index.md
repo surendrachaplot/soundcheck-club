@@ -1,6 +1,6 @@
 # theories
 
-theories is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Coco Boule, Berlin on Fri, 11 Sept 2026.
+theories is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Coco Boule, Berlin on Fri, 11 Sept 2026.
 
 theories is a techno and house artist tracked on soundcheck, with 26 sets logged across Berlin and Brussels. Often billed alongside MFX (1), Menzel and DJ Buona Sara. Next up: Coco Boule, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ theories is a techno and house artist tracked on soundcheck, with 26 sets logged
 
 MFX (1), Menzel, DJ Buona Sara
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theories/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theories/)*

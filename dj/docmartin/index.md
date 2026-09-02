@@ -1,6 +1,6 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sat, 5 Sept 2026.
+Doc Martin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Doc Martin is a house and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Austin, Chicago and Denver and 16 more. Often billed alongside DJ M3, DJ Sneak and Mark Farina. Next up: The Great Northern, Sanfrancisco on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Doc Martin is a house and techno artist tracked on soundcheck, with 92 sets logg
 
 DJ M3, DJ Sneak, Mark Farina
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*

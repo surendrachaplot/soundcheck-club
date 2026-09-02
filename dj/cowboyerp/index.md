@@ -1,6 +1,6 @@
 # Cowboy erp
 
-Cowboy erp is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sneaky Pete's, Edinburgh on Sat, 12 Sept 2026.
+Cowboy erp is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sneaky Pete's, Edinburgh on Sat, 12 Sept 2026.
 
 Cowboy erp is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Edinburgh. Often billed alongside JI_2001, ZO3 (1) and Casement. Next up: Sneaky Pete's, Edinburgh on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Cowboy erp is a grime and dubstep artist based in United Kingdom, tracked on sou
 
 JI_2001, ZO3 (1), Casement
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cowboyerp/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cowboyerp/)*

@@ -1,6 +1,6 @@
 # Daughter In Law
 
-Daughter In Law is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
+Daughter In Law is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
 
 Daughter In Law is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Basel, Frankfurt and Munich and 4 more. Often billed alongside Alex Dallas, Animal Trainer and De La Maso. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Daughter In Law is a house and techno artist tracked on soundcheck, with 52 sets
 
 Alex Dallas, Animal Trainer, De La Maso
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*

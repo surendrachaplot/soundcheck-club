@@ -1,6 +1,6 @@
 # Pezzner
 
-Pezzner is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Monkey Loft, Seattle on Thu, 10 Sept 2026.
+Pezzner is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Monkey Loft, Seattle on Thu, 10 Sept 2026.
 
 Pezzner is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Portland, Sandiego, Sanfrancisco and Seattle and 2 more. Often billed alongside Doza, Michael Manahan and Hanssen. Next up: The Monkey Loft, Seattle on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Pezzner is a house and techno artist based in United States of America, tracked 
 
 Doza, Michael Manahan, Hanssen
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pezzner/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pezzner/)*

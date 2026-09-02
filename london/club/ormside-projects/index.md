@@ -1,6 +1,6 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 11 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Atomiser: Music" on Fri, 4 Sept 2026.
+Ormside Projects is a music venue in London with 11 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Atomiser: Music" on Fri, 4 Sept 2026.
 
 Ormside Projects is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AYEGY, Azu Tiwaline, basic chanel and Cold Hippie and 2 more. Browse upcoming dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 11 upcoming ni
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

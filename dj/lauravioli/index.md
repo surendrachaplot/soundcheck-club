@@ -1,6 +1,6 @@
 # Lauravioli
 
-Lauravioli is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TRAUM, Antwerp on Fri, 25 Sept 2026.
+Lauravioli is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TRAUM, Antwerp on Fri, 25 Sept 2026.
 
 Lauravioli is a bass and drum & bass artist based in Belgium, tracked on soundcheck, with 5 sets logged across Antwerp and Brussels. Often billed alongside Alix Perez, Anz and ENERVIU. Next up: TRAUM, Antwerp on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Lauravioli is a bass and drum & bass artist based in Belgium, tracked on soundch
 
 Alix Perez, Anz, ENERVIU
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*

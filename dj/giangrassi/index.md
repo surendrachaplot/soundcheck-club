@@ -1,6 +1,6 @@
 # Gian Grassi
 
-Gian Grassi is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 12 Sept 2026.
+Gian Grassi is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 12 Sept 2026.
 
 Gian Grassi is a progressive house artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside PABLON and JUAN BELDARREIN. Next up: Kadinsky Cafe, Amsterdam on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Gian Grassi is a progressive house artist tracked on soundcheck, with 3 sets log
 
 PABLON, JUAN BELDARREIN
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giangrassi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giangrassi/)*

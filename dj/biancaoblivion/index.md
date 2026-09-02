@@ -1,6 +1,6 @@
 # Bianca Oblivion
 
-Bianca Oblivion is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+Bianca Oblivion is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
 Bianca Oblivion is a bass and club artist tracked on soundcheck, with 163 sets logged across Amsterdam, Auckland, Austin and Bangkok and 46 more. Often billed alongside Star Eyes, Sam Binga and Cquestt. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Bianca Oblivion is a bass and club artist tracked on soundcheck, with 163 sets l
 
 Star Eyes, Sam Binga, Cquestt
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biancaoblivion/)*

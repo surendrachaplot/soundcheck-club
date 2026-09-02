@@ -1,6 +1,6 @@
 # Mario Verandi
 
-Mario Verandi is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ikii, Berlin on Sat, 5 Sept 2026.
+Mario Verandi is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ikii, Berlin on Sat, 5 Sept 2026.
 
 Mario Verandi is an ambient and experimental artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Cleymoore, First Body and Tonbo. Next up: Ikii, Berlin on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Mario Verandi is an ambient and experimental artist based in Germany, tracked on
 
 Cleymoore, First Body, Tonbo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marioverandi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marioverandi/)*

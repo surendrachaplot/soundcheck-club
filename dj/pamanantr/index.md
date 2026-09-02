@@ -1,6 +1,6 @@
 # Pam Anantr
 
-Pam Anantr is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Siwilai Radical Club, Bangkok on Fri, 4 Sept 2026.
+Pam Anantr is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Siwilai Radical Club, Bangkok on Fri, 4 Sept 2026.
 
 Pam Anantr is a house and disco artist tracked on soundcheck, with 57 sets logged across Bali, Bangkok, Melbourne and Osaka and 5 more. Often billed alongside Brent Burns, Seelie and Mr.Mowgli. Next up: Siwilai Radical Club, Bangkok on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Pam Anantr is a house and disco artist tracked on soundcheck, with 57 sets logge
 
 Brent Burns, Seelie, Mr.Mowgli
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pamanantr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pamanantr/)*

@@ -1,6 +1,6 @@
 # Jojo Deevoy
 
-Jojo Deevoy is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at fabric, London on Fri, 4 Sept 2026.
+Jojo Deevoy is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at fabric, London on Fri, 4 Sept 2026.
 
 Jojo Deevoy is a drum & bass artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside SAVANNAH, Crazy Cousinz and Donae'o. Next up: fabric, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jojo Deevoy is a drum & bass artist tracked on soundcheck, with 14 sets logged a
 
 SAVANNAH, Crazy Cousinz, Donae'o
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jojodeevoy/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jojodeevoy/)*

@@ -1,6 +1,6 @@
 # Joeski
 
-Joeski is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at LoHi, New York City on Sat, 12 Sept 2026.
+Joeski is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at LoHi, New York City on Sat, 12 Sept 2026.
 
 Joeski is a house and afro house artist tracked on soundcheck, with 58 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside DJ Joeski, DJ Chus and Black Coffee. Next up: LoHi, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Joeski is a house and afro house artist tracked on soundcheck, with 58 sets logg
 
 DJ Joeski, DJ Chus, Black Coffee
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeski/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeski/)*

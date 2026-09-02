@@ -1,6 +1,6 @@
 # DJ Tree
 
-DJ Tree is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Nido Marseille, Marseille on Sat, 5 Sept 2026.
+DJ Tree is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nido Marseille, Marseille on Sat, 5 Sept 2026.
 
 DJ Tree is a techno and house artist based in Germany, tracked on soundcheck, with 50 sets logged across Bali, Barcelona, Berlin and Bucharest and 16 more. Often billed alongside Matthias (1), Niff and C.ru.z. Next up: Nido Marseille, Marseille on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ DJ Tree is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Matthias (1), Niff, C.ru.z
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtree/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtree/)*

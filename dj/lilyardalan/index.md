@@ -1,6 +1,6 @@
 # Lily Ardalan
 
-Lily Ardalan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Jupiter Disco, New York City on Sun, 27 Sept 2026.
+Lily Ardalan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jupiter Disco, New York City on Sun, 27 Sept 2026.
 
 Lily Ardalan is a techno and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside Adrian Reyes, BAE BAE and BIATA. Next up: Jupiter Disco, Newyorkcity on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Lily Ardalan is a techno and house artist based in United States of America, tra
 
 Adrian Reyes, BAE BAE, BIATA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyardalan/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyardalan/)*

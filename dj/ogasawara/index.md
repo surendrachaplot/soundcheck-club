@@ -1,6 +1,6 @@
 # Ogasawara
 
-Ogasawara is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 5 Sept 2026.
+Ogasawara is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 5 Sept 2026.
 
 Ogasawara is a garage and bass artist based in Japan, tracked on soundcheck, with 40 sets logged across Tokyo. Often billed alongside MOOTOE, VECSILLE and Genick. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ogasawara is a garage and bass artist based in Japan, tracked on soundcheck, wit
 
 MOOTOE, VECSILLE, Genick
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogasawara/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogasawara/)*

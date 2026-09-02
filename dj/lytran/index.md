@@ -1,6 +1,6 @@
 # Ly Tran
 
-Ly Tran is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at El Cid, Los Angeles on Sat, 26 Sept 2026.
+Ly Tran is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at El Cid, Los Angeles on Sat, 26 Sept 2026.
 
 Ly Tran is a club and techno artist tracked on soundcheck, with 18 sets logged across Losangeles and Newyorkcity. Often billed alongside Pauliewog, Jae-an and Azure. Next up: El Cid, Losangeles on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ly Tran is a club and techno artist tracked on soundcheck, with 18 sets logged a
 
 Pauliewog, Jae-an, Azure
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lytran/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lytran/)*

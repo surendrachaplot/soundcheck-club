@@ -1,6 +1,6 @@
 # Erna (FR)
 
-Erna (FR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Unité.22, Marseille on Fri, 4 Sept 2026.
+Erna (FR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Unité.22, Marseille on Fri, 4 Sept 2026.
 
 Erna (FR) is a techno and house artist tracked on soundcheck, with 58 sets logged across Antwerp, Berlin, Brussels and Hamburg and 6 more. Often billed alongside Egna, Amor Satyr and Kanucia. Next up: Unité.22, Marseille on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Erna (FR) is a techno and house artist tracked on soundcheck, with 58 sets logge
 
 Egna, Amor Satyr, Kanucia
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erna-fr/)*

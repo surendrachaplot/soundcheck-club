@@ -1,6 +1,6 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "LOVA" on Thu, 3 Sept 2026.
+Panic Room is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "LOVA" on Thu, 3 Sept 2026.
 
 Panic Room is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including Galgish and Vice Experience. Browse upcoming dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
@@ -18,4 +18,4 @@ Panic Room is a music venue in Paris listed on soundcheck. 5 upcoming nights, wi
 
 101 rue Amelot; 75011; Paris; France, Paris
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*

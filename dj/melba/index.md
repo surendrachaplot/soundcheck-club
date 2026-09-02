@@ -1,6 +1,6 @@
 # melba
 
-melba is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
+melba is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
 melba is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Auckland, Berlin, Edinburgh and London and 5 more. Often billed alongside Nectax, e-kitty and Sketchy Rida. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ melba is a jungle and bass artist based in United Kingdom, tracked on soundcheck
 
 Nectax, e-kitty, Sketchy Rida
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melba/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melba/)*

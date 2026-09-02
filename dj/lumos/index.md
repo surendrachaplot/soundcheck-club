@@ -1,6 +1,6 @@
 # Lumos
 
-Lumos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Lumos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 Lumos is a techno and house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside Hashashin, Rosati and Akua. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lumos is a techno and house artist tracked on soundcheck, with 13 sets logged ac
 
 Hashashin, Rosati, Akua
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumos/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumos/)*

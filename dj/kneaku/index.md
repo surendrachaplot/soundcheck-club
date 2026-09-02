@@ -1,6 +1,6 @@
 # Kneaku
 
-Kneaku is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Metropolitan Bar, New York City on Fri, 4 Sept 2026.
+Kneaku is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Metropolitan Bar, New York City on Fri, 4 Sept 2026.
 
 Kneaku is a club and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside DJ Shannon, Madre Guía and Bodegaparty. Next up: Metropolitan Bar, Newyorkcity on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Kneaku is a club and techno artist based in United States of America, tracked on
 
 DJ Shannon, Madre Guía, Bodegaparty
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kneaku/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kneaku/)*

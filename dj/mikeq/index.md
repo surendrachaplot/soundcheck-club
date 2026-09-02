@@ -1,6 +1,6 @@
 # MikeQ
 
-MikeQ is a Ballroom and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at 314 Scholes, New York City on Fri, 18 Sept 2026.
+MikeQ is a Ballroom and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 314 Scholes, New York City on Fri, 18 Sept 2026.
 
 MikeQ is a ballroom and club artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside Sinjin Hawke, Leonce and Litney. Next up: 314 Scholes, Newyorkcity on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ MikeQ is a ballroom and club artist based in United States of America, tracked o
 
 Sinjin Hawke, Leonce, Litney
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*

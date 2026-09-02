@@ -1,6 +1,6 @@
 # Dimi Angelis
 
-Dimi Angelis is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at public records, New York City on Fri, 4 Sept 2026.
+Dimi Angelis is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at public records, New York City on Fri, 4 Sept 2026.
 
 Dimi Angelis is a techno and minimal techno artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Marco Ramos, Oscar Mulero and Saoirse. Next up: public records, Newyorkcity on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Dimi Angelis is a techno and minimal techno artist based in Netherlands, tracked
 
 Marco Ramos, Oscar Mulero, Saoirse
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimiangelis/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimiangelis/)*

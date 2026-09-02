@@ -1,6 +1,6 @@
 # ORYMA
 
-ORYMA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Exil, Vienna on Sat, 26 Sept 2026.
+ORYMA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club Exil, Vienna on Sat, 26 Sept 2026.
 
 ORYMA is a techno and trance artist tracked on soundcheck, with 13 sets logged across Cologne, Geneva, Milan and Tallinn and 1 more. Often billed alongside Sutter Cane, DANBERG and Isa Tchesnokova. Next up: Club Exil, Vienna on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ ORYMA is a techno and trance artist tracked on soundcheck, with 13 sets logged a
 
 Sutter Cane, DANBERG, Isa Tchesnokova
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oryma/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oryma/)*

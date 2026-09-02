@@ -1,6 +1,6 @@
 # Axis Alpha
 
-Axis Alpha is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bike Jesus, Prague on Fri, 4 Sept 2026.
+Axis Alpha is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bike Jesus, Prague on Fri, 4 Sept 2026.
 
 Axis Alpha is a techno and dub techno artist tracked on soundcheck, with 72 sets logged across Berlin, Milan, Prague and Tokyo. Often billed alongside Eva Falt, Nior and DJ Slater. Next up: Bike Jesus, Prague on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Axis Alpha is a techno and dub techno artist tracked on soundcheck, with 72 sets
 
 Eva Falt, Nior, DJ Slater
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axisalpha/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axisalpha/)*

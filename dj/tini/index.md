@@ -1,6 +1,6 @@
 # tINI
 
-tINI is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Prince Charles, Berlin on Sat, 5 Sept 2026.
+tINI is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Prince Charles, Berlin on Sat, 5 Sept 2026.
 
 tINI is a house and techno artist tracked on soundcheck, with 235 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: Prince Charles, Berlin on Sat 5 Sept.
 
@@ -35,4 +35,4 @@ tINI is a house and techno artist tracked on soundcheck, with 235 sets logged ac
 
 Gene On Earth, Anthea, Dyed Soundorom
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tini/)*

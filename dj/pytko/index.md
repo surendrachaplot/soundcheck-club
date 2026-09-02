@@ -1,6 +1,6 @@
 # PYTKO
 
-PYTKO is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Vespers Club, London on Fri, 18 Sept 2026.
+PYTKO is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Vespers Club, London on Fri, 18 Sept 2026.
 
 PYTKO is an experimental and ambient artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Al Wootton, Alexi Shell and Ben Vince. Next up: Vespers Club, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ PYTKO is an experimental and ambient artist tracked on soundcheck, with 12 sets 
 
 Al Wootton, Alexi Shell, Ben Vince
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pytko/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pytko/)*

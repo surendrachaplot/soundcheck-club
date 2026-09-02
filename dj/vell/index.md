@@ -1,6 +1,6 @@
 # Vell
 
-Vell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Dual, Bangkok on Fri, 4 Sept 2026.
+Vell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Dual, Bangkok on Fri, 4 Sept 2026.
 
 Vell is a house and techno artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Bangkok and Seoul. Often billed alongside Chalo, Issasha and DOTT. Next up: Dual, Bangkok on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Vell is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Chalo, Issasha, DOTT
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vell/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vell/)*

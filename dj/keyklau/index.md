@@ -1,14 +1,15 @@
 # Keyklau
 
-Keyklau is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rex Club, Paris on Wed, 16 Sept 2026.
+Keyklau is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Rex Club, Paris on Wed, 16 Sept 2026.
 
-Keyklau is a techno artist based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Madrid and Paris. Often billed alongside Giusseppi, Felinae and Matt.p. Next up: Rex Club, Paris on Wed 16 Sept.
+Keyklau is a techno and trance artist based in Spain, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Madrid and Nurnberg and 1 more. Often billed alongside Giusseppi, Felinae and Matt.p. Next up: Rex Club, Paris on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Rex Club | Paris |
+| Sat, 17 Oct 2026 | E-Werk Kulturzentrum | Nürnberg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Keyklau is a techno artist based in Spain, tracked on soundcheck, with 21 sets l
 
 Giusseppi, Felinae, Matt.p
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyklau/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyklau/)*

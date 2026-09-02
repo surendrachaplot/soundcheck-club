@@ -1,6 +1,6 @@
 # TiDo
 
-TiDo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ehemaliges Polizeipräsidium, Frankfurt on Sat, 5 Sept 2026.
+TiDo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ehemaliges Polizeipräsidium, Frankfurt on Sat, 5 Sept 2026.
 
 TiDo is a trance and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne and Frankfurt. Often billed alongside Kacy, DJ DRECKISCH and Franzi Dries. Next up: Ehemaliges Polizeipräsidium, Frankfurt on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ TiDo is a trance and techno artist based in Germany, tracked on soundcheck, with
 
 Kacy, DJ DRECKISCH, Franzi Dries
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tido/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tido/)*

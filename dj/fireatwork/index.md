@@ -1,6 +1,6 @@
 # Fire At Work
 
-Fire At Work is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Morphine Raum, Berlin on Sat, 19 Sept 2026.
+Fire At Work is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Morphine Raum, Berlin on Sat, 19 Sept 2026.
 
 Fire At Work is an experimental and electronica artist tracked on soundcheck, with 7 sets logged across Berlin and Rome. Often billed alongside Menion, Mogano and Odra Ode. Next up: Morphine Raum, Berlin on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Fire At Work is an experimental and electronica artist tracked on soundcheck, wi
 
 Menion, Mogano, Odra Ode
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fireatwork/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fireatwork/)*

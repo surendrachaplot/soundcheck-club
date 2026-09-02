@@ -1,6 +1,6 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 25 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ AiMii [JP] / KATSUKI / ROBBY / STINNA & AMBOE" on Wed, 2 Sept 2026.
+nachbar is a music venue in Amsterdam with 25 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "RAVING CHARLIE: Hard Techno / Rave w/ AiMii [JP] / KATSUKI / ROBBY / STINNA & AMBOE" on Wed, 2 Sept 2026.
 
 nachbar is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, with line-ups including AiMii, Cinnaman, COZi and DJ Koolt and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
@@ -23,4 +23,4 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, 
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

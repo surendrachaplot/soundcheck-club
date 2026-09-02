@@ -1,6 +1,6 @@
 # Jo Cruz
 
-Jo Cruz is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gigi's Hoxton, London on Fri, 30 Oct 2026.
+Jo Cruz is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Gigi's Hoxton, London on Fri, 30 Oct 2026.
 
 Jo Cruz is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Ibiza and London. Often billed alongside Dom James U.K, RJB (UK) and CHNDRA. Next up: Gigi's Hoxton, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jo Cruz is a tech house and deep house artist based in United Kingdom, tracked o
 
 Dom James U.K, RJB (UK), CHNDRA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jocruz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jocruz/)*

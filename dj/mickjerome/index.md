@@ -1,6 +1,6 @@
 # Mick Jerome
 
-Mick Jerome is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Floyd, Miami on Sat, 17 Oct 2026.
+Mick Jerome is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Floyd, Miami on Sat, 17 Oct 2026.
 
 Mick Jerome is a house and tech house artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Miami. Often billed alongside Thunderpony, Alex Dovo and Bonilla. Next up: Floyd, Miami on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Mick Jerome is a house and tech house artist based in Netherlands, tracked on so
 
 Thunderpony, Alex Dovo, Bonilla
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mickjerome/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mickjerome/)*

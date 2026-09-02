@@ -1,6 +1,6 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 17 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Reggaeton Rave" on Fri, 4 Sept 2026.
+Q Nightclub is a music venue in Seattle with 17 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Reggaeton Rave" on Fri, 4 Sept 2026.
 
 Q Nightclub is a music venue in Seattle listed on soundcheck. 17 upcoming nights, with line-ups including Arlo, Biscits, Krewella and Kyle Watson and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
@@ -23,4 +23,4 @@ Q Nightclub is a music venue in Seattle listed on soundcheck. 17 upcoming nights
 
 1426 Broadway, Seattle, WA., Seattle
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*

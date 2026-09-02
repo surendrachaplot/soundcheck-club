@@ -1,6 +1,6 @@
 # Floyd Lavine
 
-Floyd Lavine is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 26 Sept 2026.
+Floyd Lavine is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 26 Sept 2026.
 
 Floyd Lavine is an afro house and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Bali and Barcelona and 21 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: Village Underground Barcelona, Barcelona on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Floyd Lavine is an afro house and house artist tracked on soundcheck, with 67 se
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floydlavine/)*

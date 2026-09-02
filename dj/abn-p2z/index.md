@@ -1,6 +1,6 @@
 # Abn - P2z
 
-Abn - P2z is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
+Abn - P2z is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
 
 Abn - P2z is a deep house and minimal artist based in France, tracked on soundcheck, with 5 sets logged across Marseille and Paris. Often billed alongside P2z, Deep Tears On Clamart and Ben Kaczor. Next up: La Cité Fertile, Paris on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Abn - P2z is a deep house and minimal artist based in France, tracked on soundch
 
 P2z, Deep Tears On Clamart, Ben Kaczor
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abn-p2z/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abn-p2z/)*

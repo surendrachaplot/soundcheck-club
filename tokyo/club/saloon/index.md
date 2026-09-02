@@ -1,6 +1,6 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "MONOGATARI 003" on Thu, 3 Sept 2026.
+Saloon is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "MONOGATARI 003" on Thu, 3 Sept 2026.
 
 Saloon is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including DJ CENTERFOLD, Do Shock Booze, ecec and eijin and 2 more. Browse upcoming dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
@@ -23,4 +23,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with 
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

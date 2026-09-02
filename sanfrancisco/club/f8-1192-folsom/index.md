@@ -1,14 +1,13 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "INTERZONE - Darkwave Tuesdays - Guest DJ Sina Star" on Tue, 1 Sept 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Strut SF and F8 present Dollarhide's Bday Jam" on Wed, 2 Sept 2026.
 
-F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming nights, with line-ups including Akumen, Amino, ANDYLAND and Andy Oro and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 17 upcoming nights, with line-ups including Akumen, Amino, ANDYLAND and Andy Oro and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 1 Sept 2026 | INTERZONE - Darkwave Tuesdays - Guest DJ Sina Star | Hex Embrace |
 | Wed, 2 Sept 2026 | Strut SF and F8 present Dollarhide's Bday Jam | YUKA YU |
 | Thu, 3 Sept 2026 | HIDRA and F8 present Music Is the Answer | HIDRA, SARA AFSHAR |
 | Fri, 4 Sept 2026 | HYPERDRIVE with KAYA! |  |
@@ -18,9 +17,10 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 18 upcomin
 | Fri, 11 Sept 2026 | MOMENTUM PRESENTS: 2SIINZ | Byrd, SNAQ |
 | Tue, 15 Sept 2026 | INTERZONE - Darkwave Tuesdays - Guest DJ ERINYES | Byter, ERINYES, Hex Embrace |
 | Thu, 17 Sept 2026 | Causmic Creative presents Fern's Bday Bash |  |
+| Sat, 19 Sept 2026 | Generaiderz X LOTEK: HARDCORE! LEXXY JAX, FORTIFIED STRUCTURES, KIMMYKAT | Dope On Plastic, FortifiedStructures, Lexxy Jax, Queermom, Soeneido, Technopagan |
 
 ## Address
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

@@ -1,6 +1,6 @@
 # Sergio LLamas
 
-Sergio LLamas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Puerto Bahia Club de Mar, Barcelona on Sat, 5 Sept 2026.
+Sergio LLamas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Puerto Bahia Club de Mar, Barcelona on Sat, 5 Sept 2026.
 
 Sergio LLamas is a house and techno artist tracked on soundcheck, with 49 sets logged across Barcelona and Madrid. Often billed alongside VITALI (1), Violeta Reynal and Biotech Patagonia. Next up: Puerto Bahia Club de Mar, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sergio LLamas is a house and techno artist tracked on soundcheck, with 49 sets l
 
 VITALI (1), Violeta Reynal, Biotech Patagonia
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*

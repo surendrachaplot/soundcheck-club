@@ -1,18 +1,17 @@
 # River's King
 
-River's King is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "DISCO DISCO CROISIÈRE: Donna Gibson, Young Pulse" on Tue, 1 Sept 2026.
+River's King is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "CLOSING DISCO DISCO CROISIÈRE : Young Pulse, La Gloria" on Tue, 8 Sept 2026.
 
-River's King is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including Donna Gibson, Dusty Fingers and Young Pulse. Browse upcoming dates, start times and who's playing. 4 Quai Saint-Bernard, 75005 Paris, France.
+River's King is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Dusty Fingers and Young Pulse. Browse upcoming dates, start times and who's playing. 4 Quai Saint-Bernard, 75005 Paris, France.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 1 Sept 2026 | DISCO DISCO CROISIÈRE: Donna Gibson, Young Pulse | Donna Gibson, Young Pulse |
 | Tue, 8 Sept 2026 | CLOSING DISCO DISCO CROISIÈRE : Young Pulse, La Gloria | Dusty Fingers, Young Pulse |
 
 ## Address
 
 4 Quai Saint-Bernard, 75005 Paris, France, Paris
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/river-s-king/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/river-s-king/)*

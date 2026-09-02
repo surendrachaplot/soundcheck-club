@@ -1,13 +1,14 @@
 # OHTHR333
 
-OHTHR333 is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at EQ San Diego, San Diego on Thu, 10 Sept 2026.
+OHTHR333 is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at EQ San Diego, San Diego on Wed, 2 Sept 2026.
 
-OHTHR333 is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 9 sets logged across Sandiego. Often billed alongside DJ Kale, JOHNNY O and Lurker. Next up: EQ San Diego, Sandiego on Thu 10 Sept.
+OHTHR333 is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 10 sets logged across Sandiego. Often billed alongside ARP8, DJ Kale and JOHNNY O. Next up: EQ San Diego, Sandiego on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 2 Sept 2026 | EQ San Diego | San Diego |
 | Thu, 10 Sept 2026 | EQ San Diego | San Diego |
 
 ## Recently played
@@ -23,6 +24,6 @@ OHTHR333 is a techno and ghetto tech artist based in United States of America, t
 
 ## Shares bills with
 
-DJ Kale, JOHNNY O, Lurker
+ARP8, DJ Kale, JOHNNY O
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohthr333/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohthr333/)*

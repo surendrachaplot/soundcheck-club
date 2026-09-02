@@ -1,6 +1,6 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fvtvr, Paris on Sat, 5 Sept 2026.
+Beste Hira is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fvtvr, Paris on Sat, 5 Sept 2026.
 
 Beste Hira is a techno and house artist tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Rødhåd, Lobster (NL) and Freddy K. Next up: Fvtvr, Paris on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Beste Hira is a techno and house artist tracked on soundcheck, with 176 sets log
 
 Rødhåd, Lobster (NL), Freddy K
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

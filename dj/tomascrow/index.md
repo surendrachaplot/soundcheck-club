@@ -1,6 +1,6 @@
 # Tomas Crow
 
-Tomas Crow is a Krautrock and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
+Tomas Crow is a Krautrock and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
 
 Tomas Crow is a krautrock and disco artist tracked on soundcheck, with 7 sets logged across Berlin and London. Often billed alongside Jeremy Black, Louf and Bendik Giske. Next up: Funkhaus Berlin, Berlin on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Tomas Crow is a krautrock and disco artist tracked on soundcheck, with 7 sets lo
 
 Jeremy Black, Louf, Bendik Giske
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomascrow/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomascrow/)*

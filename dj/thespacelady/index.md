@@ -1,6 +1,6 @@
 # The Space Lady
 
-The Space Lady is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Strange Brew, Bristol on Sat, 5 Sept 2026.
+The Space Lady is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Strange Brew, Bristol on Sat, 5 Sept 2026.
 
 The Space Lady is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 9 sets logged across Bristol, Copenhagen, Denver and Glasgow and 4 more. Often billed alongside Mark Ernestus, Mary Lattimore and Smerz. Next up: Strange Brew, Bristol on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ The Space Lady is an experimental and electronica artist based in United States 
 
 Mark Ernestus, Mary Lattimore, Smerz
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thespacelady/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thespacelady/)*

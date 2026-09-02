@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "+1 833 246 46 22 American Airlines New York Office" on Sat, 5 Sept 2026.
+Giselle is a music venue in Düsseldorf with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "+1 833 246 46 22 American Airlines New York Office" on Sat, 5 Sept 2026.
 
 Giselle is a music venue in Dusseldorf listed on soundcheck. 2 upcoming nights, with line-ups including DJ Flatbeat, Lavan and NEW YORK. Browse upcoming dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -15,4 +15,4 @@ Giselle is a music venue in Dusseldorf listed on soundcheck. 2 upcoming nights, 
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

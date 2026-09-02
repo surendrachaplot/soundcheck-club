@@ -1,6 +1,6 @@
 # Ollie Kirk
 
-Ollie Kirk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Love Inn, Bristol on Fri, 4 Sept 2026.
+Ollie Kirk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Love Inn, Bristol on Fri, 4 Sept 2026.
 
 Ollie Kirk is a house and techno artist tracked on soundcheck, with 30 sets logged across Amsterdam, Bristol, London and Manchester. Often billed alongside Boulderhead, Hannd and Monika Taneska. Next up: The Love Inn, Bristol on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ollie Kirk is a house and techno artist tracked on soundcheck, with 30 sets logg
 
 Boulderhead, Hannd, Monika Taneska
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olliekirk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olliekirk/)*

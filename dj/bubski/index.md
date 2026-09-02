@@ -1,6 +1,6 @@
 # Bubski
 
-Bubski is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
+Bubski is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
 
 Bubski is a drum & bass and house artist tracked on soundcheck, with 10 sets logged across Bristol and London. Often billed alongside REA (UK), AÆE and Dunman. Next up: Colour Factory, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Bubski is a drum & bass and house artist tracked on soundcheck, with 10 sets log
 
 REA (UK), AÆE, Dunman
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bubski/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bubski/)*

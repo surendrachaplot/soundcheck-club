@@ -1,6 +1,6 @@
 # Ak-4ya
 
-Ak-4ya is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - 6910 Shirley Avenue , Austin on Thu, 10 Sept 2026.
+Ak-4ya is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - 6910 Shirley Avenue , Austin on Thu, 10 Sept 2026.
 
 Ak-4ya is a techno and electro artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin. Often billed alongside AMANDA KOONTZ, Al V Dam and Artime. Next up: TBA - 6910 Shirley Avenue , Austin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Ak-4ya is a techno and electro artist based in United States of America, tracked
 
 AMANDA KOONTZ, Al V Dam, Artime
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-4ya/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-4ya/)*

@@ -1,6 +1,6 @@
 # Wasteland SoCal Festival 2026 at NOS Event Center
 
-Wasteland SoCal Festival 2026 at NOS Event Center on Fri 4 Sept, Losangeles. 6 acts on the bill: ARCHON, Cara Elizabeth, DEA MAGNA and Lil Texas and 2 more. Hardcore. Preview the line-up and save it on soundcheck.
+Wasteland SoCal Festival 2026 at NOS Event Center on Fri 4 Sept, Losangeles. 7 acts on the bill: ARCHON, Cara Elizabeth, DEA MAGNA and Fatima Hajji and 3 more. Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Wasteland SoCal Festival 2026 at NOS Event Center on Fri 4 Sept, Losangeles. 6 a
 - ARCHON
 - Cara Elizabeth
 - DEA MAGNA
+- Fatima Hajji
 - Lil Texas
 - Shmitty
 - Soren

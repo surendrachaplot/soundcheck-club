@@ -1,6 +1,6 @@
 # Actual Angel
 
-Actual Angel is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hart Bar, New York City on Sat, 26 Sept 2026.
+Actual Angel is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hart Bar, New York City on Sat, 26 Sept 2026.
 
 Actual Angel is a club and hardcore artist tracked on soundcheck, with 26 sets logged across Berlin, London and Newyorkcity. Often billed alongside SIREN (3), Brutal Twink and Melona. Next up: Hart Bar, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Actual Angel is a club and hardcore artist tracked on soundcheck, with 26 sets l
 
 SIREN (3), Brutal Twink, Melona
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/actualangel/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/actualangel/)*

@@ -1,6 +1,6 @@
 # Kacper Pieta
 
-Kacper Pieta is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The System, Sheffield on Thu, 24 Sept 2026.
+Kacper Pieta is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The System, Sheffield on Thu, 24 Sept 2026.
 
 Kacper Pieta is a disco and balearic artist tracked on soundcheck, with 30 sets logged across Edinburgh, Glasgow, London and Madrid and 4 more. Often billed alongside Andrea Montalto, Dazzle Drums and Shelle.y. Next up: The System, Sheffield on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Kacper Pieta is a disco and balearic artist tracked on soundcheck, with 30 sets 
 
 Andrea Montalto, Dazzle Drums, Shelle.y
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kacperpieta/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kacperpieta/)*

@@ -1,6 +1,6 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "J1 - Mugshot Gang with Comrade Winston [vinyl only]" on Fri, 4 Sept 2026.
+Jasna 1 is a music venue in Warsaw with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "J1 - Mugshot Gang with Comrade Winston [vinyl only]" on Fri, 4 Sept 2026.
 
 Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, with line-ups including 999999999, Abrew, Aetha and Aii PS and 2 more. Browse upcoming dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
@@ -23,4 +23,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 12 upcoming nights, wit
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

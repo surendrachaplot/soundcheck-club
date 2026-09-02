@@ -1,6 +1,6 @@
 # Solo Viking
 
-Solo Viking is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Slakthuset, Stockholm on Fri, 25 Sept 2026.
+Solo Viking is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Slakthuset, Stockholm on Fri, 25 Sept 2026.
 
 Solo Viking is a techno and drum & bass artist tracked on soundcheck, with 7 sets logged across Barcelona, Lisbon, Madrid and Stockholm and 1 more. Often billed alongside 999999999, Abel Ramos and Alba Franch. Next up: Slakthuset, Stockholm on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Solo Viking is a techno and drum & bass artist tracked on soundcheck, with 7 set
 
 999999999, Abel Ramos, Alba Franch
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soloviking/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soloviking/)*

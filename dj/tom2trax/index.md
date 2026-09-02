@@ -1,6 +1,6 @@
 # Tom2trax
 
-Tom2trax is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at New Wave Ramen, Manchester on Sat, 5 Sept 2026.
+Tom2trax is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at New Wave Ramen, Manchester on Sat, 5 Sept 2026.
 
 Tom2trax is a house and disco artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Liverpool and Manchester. Often billed alongside Liam Oliver, Kickin Pigeon and James Greenwood. Next up: New Wave Ramen, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tom2trax is a house and disco artist based in United Kingdom, tracked on soundch
 
 Liam Oliver, Kickin Pigeon, James Greenwood
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2trax/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2trax/)*

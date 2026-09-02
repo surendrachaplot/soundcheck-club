@@ -1,6 +1,6 @@
 # Jazzie B Obe
 
-Jazzie B Obe is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Night Tales Loft, London on Fri, 18 Sept 2026.
+Jazzie B Obe is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Night Tales Loft, London on Fri, 18 Sept 2026.
 
 Jazzie B Obe is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Brighton, Glasgow, London and Newcastle. Often billed alongside Norman Jay, Craig Charles and Armand Van Helden. Next up: Night Tales Loft, London on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ Jazzie B Obe is a disco and funk / soul artist based in United Kingdom, tracked 
 
 Norman Jay, Craig Charles, Armand Van Helden
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazziebobe/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazziebobe/)*

@@ -1,6 +1,6 @@
 # Jacidorex
 
-Jacidorex is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Groove, Buenos Aires on Sat, 12 Sept 2026.
+Jacidorex is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Groove, Buenos Aires on Sat, 12 Sept 2026.
 
 Jacidorex is a techno and trance artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Airod, LESSSS and Nico Moreno. Next up: Groove, Buenosaires on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Jacidorex is a techno and trance artist tracked on soundcheck, with 105 sets log
 
 Airod, LESSSS, Nico Moreno
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacidorex/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacidorex/)*

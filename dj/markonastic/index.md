@@ -1,6 +1,6 @@
 # Marko Nastic
 
-Marko Nastic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Golden Gate, Berlin on Fri, 11 Sept 2026.
+Marko Nastic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Gate, Berlin on Fri, 11 Sept 2026.
 
 Marko Nastic is a techno and house artist based in Serbia, tracked on soundcheck, with 54 sets logged across Barcelona, Belgrade, Berlin and Budapest and 4 more. Often billed alongside Okain, Pauli Pocket and Ray Okpara. Next up: Golden Gate, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Marko Nastic is a techno and house artist based in Serbia, tracked on soundcheck
 
 Okain, Pauli Pocket, Ray Okpara
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markonastic/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markonastic/)*

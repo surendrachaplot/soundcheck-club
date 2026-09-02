@@ -1,6 +1,6 @@
 # OMG.BLOG
 
-OMG.BLOG is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sound Machine, Toronto on Fri, 18 Sept 2026.
+OMG.BLOG is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sound Machine, Toronto on Fri, 18 Sept 2026.
 
 OMG.BLOG is an electro and club artist based in Canada, tracked on soundcheck, with 38 sets logged across Toronto. Often billed alongside Marnigurl, Kuscheln and Valeroo. Next up: Sound Machine, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ OMG.BLOG is an electro and club artist based in Canada, tracked on soundcheck, w
 
 Marnigurl, Kuscheln, Valeroo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omg.blog/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omg.blog/)*

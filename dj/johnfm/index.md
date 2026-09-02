@@ -1,6 +1,6 @@
 # John F.M.
 
-John F.M. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Moondog Cafe, Detroit on Fri, 11 Sept 2026.
+John F.M. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Moondog Cafe, Detroit on Fri, 11 Sept 2026.
 
 John F.M. is a techno and house artist tracked on soundcheck, with 12 sets logged across Detroit, Newyorkcity and Tokyo. Often billed alongside Gulley, Kesswa and 1morning. Next up: Moondog Cafe, Detroit on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ John F.M. is a techno and house artist tracked on soundcheck, with 12 sets logge
 
 Gulley, Kesswa, 1morning
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfm/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfm/)*

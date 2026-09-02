@@ -1,6 +1,6 @@
 # Frazi.er
 
-Frazi.er is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Boston on Thu, 3 Sept 2026.
+Frazi.er is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Boston on Thu, 3 Sept 2026.
 
 Frazi.er is a techno and house artist tracked on soundcheck, with 102 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 28 more. Often billed alongside E.DN, Liam Cappello and 999999999. Next up: TBA, Boston on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Frazi.er is a techno and house artist tracked on soundcheck, with 102 sets logge
 
 E.DN, Liam Cappello, 999999999
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frazier-uk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frazier-uk/)*

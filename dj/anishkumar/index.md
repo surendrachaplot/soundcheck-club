@@ -1,8 +1,8 @@
 # Anish Kumar
 
-Anish Kumar is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Substation, Seattle on Sun, 20 Sept 2026.
+Anish Kumar is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Substation, Seattle on Sun, 20 Sept 2026.
 
-Anish Kumar is a house and disco artist tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Brighton and Bristol and 13 more. Often billed alongside Dan Shake, Hagop Tchaparian and Jasper Tygner. Next up: Substation, Seattle on Sun 20 Sept.
+Anish Kumar is a house and disco artist tracked on soundcheck, with 70 sets logged across Barcelona, Berlin, Brighton and Bristol and 13 more. Often billed alongside Dan Shake, Hagop Tchaparian and DJ BORING. Next up: Substation, Seattle on Sun 20 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Anish Kumar is a house and disco artist tracked on soundcheck, with 69 sets logg
 | Fri, 9 Oct 2026 | Phonox | London |
 | Fri, 16 Oct 2026 | Phonox | London |
 | Fri, 23 Oct 2026 | Phonox | London |
+| Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
@@ -27,6 +28,6 @@ Anish Kumar is a house and disco artist tracked on soundcheck, with 69 sets logg
 
 ## Shares bills with
 
-Dan Shake, Hagop Tchaparian, Jasper Tygner
+Dan Shake, Hagop Tchaparian, DJ BORING
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*

@@ -1,6 +1,6 @@
 # Donna Gardner
 
-Donna Gardner is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Spkrbox, Detroit on Wed, 2 Sept 2026.
+Donna Gardner is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Spkrbox, Detroit on Wed, 2 Sept 2026.
 
 Donna Gardner is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 94 sets logged across Detroit. Often billed alongside DJ Moppy, Isaac Prieto and Jesse Cory. Next up: Spkrbox, Detroit on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Donna Gardner is a house and funk / soul artist based in United States of Americ
 
 DJ Moppy, Isaac Prieto, Jesse Cory
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagardner/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donnagardner/)*

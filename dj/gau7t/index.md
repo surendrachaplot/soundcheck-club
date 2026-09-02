@@ -1,6 +1,6 @@
 # gau7t
 
-gau7t is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 4 Sept 2026.
+gau7t is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at La Cheetah Club, Glasgow on Fri, 4 Sept 2026.
 
 gau7t is a techno and house artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Aberdeen, Amsterdam, Dundee and Edinburgh and 3 more. Often billed alongside Oakley Carter, Tedzx and HERBS. Next up: La Cheetah Club, Glasgow on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ gau7t is a techno and house artist based in United Kingdom, tracked on soundchec
 
 Oakley Carter, Tedzx, HERBS
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gau7t/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gau7t/)*

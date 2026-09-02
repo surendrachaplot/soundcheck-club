@@ -1,6 +1,6 @@
 # JIALING
 
-JIALING is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Location With Ticket, Denver on Fri, 4 Sept 2026.
+JIALING is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Location With Ticket, Denver on Fri, 4 Sept 2026.
 
 JIALING is a club and techno artist tracked on soundcheck, with 115 sets logged across Berlin, Chicago, Denver and Detroit and 14 more. Often billed alongside Mui Mui, PHANTAZN and Korea Town Acid. Next up: TBA - Location With Ticket, Denver on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ JIALING is a club and techno artist tracked on soundcheck, with 115 sets logged 
 
 Mui Mui, PHANTAZN, Korea Town Acid
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*

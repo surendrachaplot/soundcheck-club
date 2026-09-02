@@ -1,6 +1,6 @@
 # Rezident
 
-Rezident is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tumbalong Park, Sydney on Sat, 28 Nov 2026.
+Rezident is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tumbalong Park, Sydney on Sat, 28 Nov 2026.
 
 Rezident is a progressive house and house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 20 more. Often billed alongside Nicky Elisabeth, Braxton and Qrion. Next up: Tumbalong Park, Sydney on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rezident is a progressive house and house artist tracked on soundcheck, with 42 
 
 Nicky Elisabeth, Braxton, Qrion
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rezident/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rezident/)*

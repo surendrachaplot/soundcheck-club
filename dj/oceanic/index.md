@@ -1,6 +1,6 @@
 # Oceanic
 
-Oceanic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Time is the new space, Rotterdam on Sat, 12 Sept 2026.
+Oceanic is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Time is the new space, Rotterdam on Sat, 12 Sept 2026.
 
 Oceanic is a techno and house artist based in Netherlands, tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Oberman, Mary Lake and Nelly (NL). Next up: Time is the new space, Rotterdam on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Oceanic is a techno and house artist based in Netherlands, tracked on soundcheck
 
 Oberman, Mary Lake, Nelly (NL)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanic/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oceanic/)*

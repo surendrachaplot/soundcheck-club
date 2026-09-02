@@ -1,6 +1,6 @@
 # ORFIGYAL
 
-ORFIGYAL is a Reggaeton and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Motel Campo, Geneva on Sat, 12 Sept 2026.
+ORFIGYAL is a Reggaeton and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Motel Campo, Geneva on Sat, 12 Sept 2026.
 
 ORFIGYAL is a reggaeton and neo perreo artist based in Spain, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Boston and Brussels and 5 more. Often billed alongside Mena G, NAD1A and TINA (ES). Next up: Motel Campo, Geneva on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ ORFIGYAL is a reggaeton and neo perreo artist based in Spain, tracked on soundch
 
 Mena G, NAD1A, TINA (ES)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orfigyal/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orfigyal/)*

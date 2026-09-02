@@ -1,6 +1,6 @@
 # WYR (UK)
 
-WYR (UK) is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Planet Wax, London on Fri, 25 Sept 2026.
+WYR (UK) is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Fri, 25 Sept 2026.
 
 WYR (UK) is a drum & bass and electronica artist tracked on soundcheck, with 8 sets logged across London and Newcastle. Often billed alongside SYPHON, WAVES and Decaz. Next up: Planet Wax, London on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ WYR (UK) is a drum & bass and electronica artist tracked on soundcheck, with 8 s
 
 SYPHON, WAVES, Decaz
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wyruk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wyruk/)*

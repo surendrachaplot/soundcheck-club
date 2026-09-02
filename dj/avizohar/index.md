@@ -1,6 +1,6 @@
 # Avizohar
 
-Avizohar is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Paris on Sat, 5 Sept 2026.
+Avizohar is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Paris on Sat, 5 Sept 2026.
 
 Avizohar is an experimental and ambient artist tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside Bart Bell, Epsilove and Mondkopf. Next up: TBA, Paris on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Avizohar is an experimental and ambient artist tracked on soundcheck, with 2 set
 
 Bart Bell, Epsilove, Mondkopf
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avizohar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avizohar/)*

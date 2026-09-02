@@ -1,6 +1,6 @@
 # Benwal
 
-Benwal is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Place Noord, Brussels on Sat, 5 Sept 2026.
+Benwal is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Place Noord, Brussels on Sat, 5 Sept 2026.
 
 Benwal is a techno and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Austin and Bali and 40 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Place Noord, Brussels on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Benwal is a techno and house artist tracked on soundcheck, with 173 sets logged 
 
 Kyle Starkey, MALUGI, Pegassi
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

@@ -1,6 +1,6 @@
 # Schak
 
-Schak is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Box Arena Carlisle, Newcastle on Sat, 12 Sept 2026.
+Schak is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Box Arena Carlisle, Newcastle on Sat, 12 Sept 2026.
 
 Schak is a house and techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Aberdeen, Belfast, Brighton and Bristol and 14 more. Often billed alongside Hannah Laing, Ben Hemsley and Claptone. Next up: TBA - Box Arena Carlisle, Newcastle on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Schak is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Hannah Laing, Ben Hemsley, Claptone
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schak/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schak/)*

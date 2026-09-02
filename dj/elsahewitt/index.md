@@ -1,6 +1,6 @@
 # Elsa Hewitt
 
-Elsa Hewitt is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at PINK, Manchester on Sat, 17 Oct 2026.
+Elsa Hewitt is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at PINK, Manchester on Sat, 17 Oct 2026.
 
 Elsa Hewitt is an electronica and downtempo artist tracked on soundcheck, with 5 sets logged across Glasgow, Leeds, London and Manchester. Often billed alongside Bambooman, Boe&Lx and Comfy Bella. Next up: PINK, Manchester on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Elsa Hewitt is an electronica and downtempo artist tracked on soundcheck, with 5
 
 Bambooman, Boe&Lx, Comfy Bella
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsahewitt/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elsahewitt/)*

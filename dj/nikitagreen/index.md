@@ -1,6 +1,6 @@
 # Nikita Green
 
-Nikita Green is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at House of Yes, New York City on Sat, 5 Sept 2026.
+Nikita Green is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at House of Yes, New York City on Sat, 5 Sept 2026.
 
 Nikita Green is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Detroit, Madrid, Miami and Newyorkcity. Often billed alongside Souls Departed, True Vine and Coffintexts. Next up: House of Yes, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Nikita Green is a house and techno artist based in United States of America, tra
 
 Souls Departed, True Vine, Coffintexts
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitagreen/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitagreen/)*

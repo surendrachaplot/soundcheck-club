@@ -1,6 +1,6 @@
 # Stevie Whisper
 
-Stevie Whisper is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at 宀 Club, Hong Kong on Fri, 4 Sept 2026.
+Stevie Whisper is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 宀 Club, Hong Kong on Fri, 4 Sept 2026.
 
 Stevie Whisper is a techno and bass artist tracked on soundcheck, with 26 sets logged across Amsterdam, Bangkok, Belgrade and Hongkong and 1 more. Often billed alongside Phillie P, Matkec and Sacha Mambo. Next up: 宀 Club, Hongkong on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Stevie Whisper is a techno and bass artist tracked on soundcheck, with 26 sets l
 
 Phillie P, Matkec, Sacha Mambo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steviewhisper/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steviewhisper/)*

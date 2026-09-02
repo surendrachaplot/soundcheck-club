@@ -1,6 +1,6 @@
 # D4N (1)
 
-D4N (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 19 Sept 2026.
+D4N (1) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 19 Sept 2026.
 
 D4N (1) is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Berlin, Edinburgh, Glasgow and Lyon and 2 more. Often billed alongside LA MAISON, Jude Bradshaw and VXYX. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ D4N (1) is a techno and trance artist based in United Kingdom, tracked on soundc
 
 LA MAISON, Jude Bradshaw, VXYX
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d4n-1/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d4n-1/)*

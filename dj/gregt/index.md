@@ -1,6 +1,6 @@
 # Greg T
 
-Greg T is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Garage 442, Barcelona on Fri, 11 Sept 2026.
+Greg T is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Garage 442, Barcelona on Fri, 11 Sept 2026.
 
 Greg T is a garage and dubstep artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside Leon James and Satta B. Next up: Garage 442, Barcelona on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Greg T is a garage and dubstep artist based in United Kingdom, tracked on soundc
 
 Leon James, Satta B
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gregt/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gregt/)*

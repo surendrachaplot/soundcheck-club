@@ -1,6 +1,6 @@
 # Mall Grab
 
-Mall Grab is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Electric Studios, Sheffield on Fri, 4 Sept 2026.
+Mall Grab is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Electric Studios, Sheffield on Fri, 4 Sept 2026.
 
 Mall Grab is a house and techno artist tracked on soundcheck, with 204 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Electric Studios, Sheffield on Fri 4 Sept.
 
@@ -32,4 +32,4 @@ Mall Grab is a house and techno artist tracked on soundcheck, with 204 sets logg
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

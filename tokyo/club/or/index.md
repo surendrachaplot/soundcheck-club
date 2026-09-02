@@ -1,6 +1,6 @@
 # or
 
-or is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "or 6TH ANNIVERSARY DAY4" on Sat, 26 Sept 2026.
+or is a music venue in Tokyo with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "or 6TH ANNIVERSARY DAY4" on Sat, 26 Sept 2026.
 
 or is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-ups including 2bnsn, AKIRAM EN, AMIDAdrive and ANZU and 2 more. Browse upcoming dates, start times and who's playing. 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
@@ -17,4 +17,4 @@ or is a music venue in Tokyo listed on soundcheck. 4 upcoming nights, with line-
 
 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/or/)*

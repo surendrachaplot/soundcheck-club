@@ -1,6 +1,6 @@
 # Stefan Goldmann
 
-Stefan Goldmann is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Compufunk Records, Osaka on Sat, 10 Oct 2026.
+Stefan Goldmann is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Compufunk Records, Osaka on Sat, 10 Oct 2026.
 
 Stefan Goldmann is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Athens, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Ryoma Sasaki, Ouchi-S and Paul Leonard. Next up: Compufunk Records, Osaka on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Stefan Goldmann is a techno and house artist based in Germany, tracked on soundc
 
 Ryoma Sasaki, Ouchi-S, Paul Leonard
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefangoldmann/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefangoldmann/)*

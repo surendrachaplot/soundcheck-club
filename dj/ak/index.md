@@ -1,6 +1,6 @@
 # A K
 
-A K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Dogenzaka Church, Tokyo on Thu, 10 Sept 2026.
+A K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Dogenzaka Church, Tokyo on Thu, 10 Sept 2026.
 
 A K is a techno and house artist tracked on soundcheck, with 17 sets logged across Berlin, Chicago, Detroit and Ibiza and 2 more. Often billed alongside Blackmoonchild, DJ Etta (US) and Huey Mnemonic. Next up: Dogenzaka Church, Tokyo on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ A K is a techno and house artist tracked on soundcheck, with 17 sets logged acro
 
 Blackmoonchild, DJ Etta (US), Huey Mnemonic
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ak/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ak/)*

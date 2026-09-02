@@ -1,6 +1,6 @@
 # DJ Koco aka Shimokita
 
-DJ Koco aka Shimokita is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
+DJ Koco aka Shimokita is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
 
 DJ Koco aka Shimokita is a house and hip-hop artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Antwerp, Barcelona, Berlin and Brussels and 16 more. Often billed alongside DJ Spinna, Lefto Early Bird and Anz. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ DJ Koco aka Shimokita is a house and hip-hop artist based in United Kingdom, tra
 
 DJ Spinna, Lefto Early Bird, Anz
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkocoakashimokita/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkocoakashimokita/)*

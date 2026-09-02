@@ -1,6 +1,6 @@
 # Peroli
 
-Peroli is a Baile Funk and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
+Peroli is a Baile Funk and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
 
 Peroli is a baile funk and house artist tracked on soundcheck, with 20 sets logged across London and Saopaulo. Often billed alongside Suelen Mesmo, Deekapz and Redíneas. Next up: Planet Wax, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Peroli is a baile funk and house artist tracked on soundcheck, with 20 sets logg
 
 Suelen Mesmo, Deekapz, Redíneas
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peroli/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peroli/)*

@@ -1,6 +1,6 @@
 # N2N (US)
 
-N2N (US) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Gold Coast, Chicago on Sat, 12 Sept 2026.
+N2N (US) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Gold Coast, Chicago on Sat, 12 Sept 2026.
 
 N2N (US) is a house and tech house artist tracked on soundcheck, with 33 sets logged across Chicago, Denver, Losangeles and Miami and 7 more. Often billed alongside AMPRS&ND, Felix Cartal and Mary Droppinz. Next up: TBA - Gold Coast, Chicago on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ N2N (US) is a house and tech house artist tracked on soundcheck, with 33 sets lo
 
 AMPRS&ND, Felix Cartal, Mary Droppinz
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n2nus/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n2nus/)*

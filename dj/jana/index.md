@@ -1,6 +1,6 @@
 # Jana
 
-Jana is a Hip-Hop and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Panke, Berlin on Thu, 8 Oct 2026.
+Jana is a Hip-Hop and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Panke, Berlin on Thu, 8 Oct 2026.
 
 Jana is a hip-hop and baile funk artist based in Egypt, tracked on soundcheck, with 6 sets logged across Amsterdam and Berlin. Often billed alongside C.FRIM, CANDIE (2) and Cheyanne Hudson. Next up: Panke, Berlin on Thu 8 Oct.
 
@@ -22,4 +22,4 @@ Jana is a hip-hop and baile funk artist based in Egypt, tracked on soundcheck, w
 
 C.FRIM, CANDIE (2), Cheyanne Hudson
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jana/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jana/)*

@@ -1,6 +1,6 @@
 # Barry Can't Swim
 
-Barry Can't Swim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Barry Can't Swim is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 Barry Can't Swim is a house and techno artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Auckland, Barcelona and Belfast and 33 more. Often billed alongside salute, Jayda G and Avalon Emerson. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Barry Can't Swim is a house and techno artist based in United Kingdom, tracked o
 
 salute, Jayda G, Avalon Emerson
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barrycantswim/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barrycantswim/)*

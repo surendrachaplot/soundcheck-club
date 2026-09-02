@@ -1,6 +1,6 @@
 # exmantera
 
-exmantera is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at French Street (Strange Field), Glasgow on Fri, 18 Sept 2026.
+exmantera is a Experimental and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at French Street (Strange Field), Glasgow on Fri, 18 Sept 2026.
 
 exmantera is an experimental and club artist tracked on soundcheck, with 32 sets logged across Berlin, Brussels, Denver and Glasgow and 7 more. Often billed alongside bod [包家巷], Warlord® and Acid Souljah. Next up: French Street (Strange Field), Glasgow on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ exmantera is an experimental and club artist tracked on soundcheck, with 32 sets
 
 bod [包家巷], Warlord®, Acid Souljah
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exmantera/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/exmantera/)*

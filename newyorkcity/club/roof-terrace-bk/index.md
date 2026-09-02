@@ -1,6 +1,6 @@
 # Roof Terrace BK
 
-Roof Terrace BK is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Brooklyn x Colombia - Earthquake Relief Fundraiser (White Party)" on Fri, 4 Sept 2026.
+Roof Terrace BK is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Brooklyn x Colombia - Earthquake Relief Fundraiser (White Party)" on Fri, 4 Sept 2026.
 
 Roof Terrace BK is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Pablo Romero. Browse upcoming dates, start times and who's playing. 359 Meserole St.
 
@@ -15,4 +15,4 @@ Roof Terrace BK is a music venue in Newyorkcity listed on soundcheck. 2 upcoming
 
 359 Meserole St, New York City
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roof-terrace-bk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roof-terrace-bk/)*

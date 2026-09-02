@@ -1,6 +1,6 @@
 # Neil Frances
 
-Neil Frances is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at 888 Garage, San Francisco/Oakland on Fri, 25 Sept 2026.
+Neil Frances is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 888 Garage, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 Neil Frances is a house and disco artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Austin, Barcelona and Brussels and 14 more. Often billed alongside KI/KI, Octo Octa and 999999999. Next up: 888 Garage, Sanfrancisco on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Neil Frances is a house and disco artist based in United States of America, trac
 
 KI/KI, Octo Octa, 999999999
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neilfrances/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neilfrances/)*

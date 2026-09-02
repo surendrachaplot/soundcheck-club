@@ -1,6 +1,6 @@
 # NIKKI030
 
-NIKKI030 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
+NIKKI030 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
 
 NIKKI030 is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Cologne and Vienna. Often billed alongside Anuuk, DonChoppa and Charleen Herzig. Next up: Schrotty, Cologne on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ NIKKI030 is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Anuuk, DonChoppa, Charleen Herzig
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikki030/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikki030/)*

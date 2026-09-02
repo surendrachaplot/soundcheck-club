@@ -1,6 +1,6 @@
 # Judy (ES)
 
-Judy (ES) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - LFO, Madrid on Fri, 4 Sept 2026.
+Judy (ES) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - LFO, Madrid on Fri, 4 Sept 2026.
 
 Judy (ES) is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Kyoto and 7 more. Often billed alongside Tuber, R-010 and Alexandre Laeddis. Next up: TBA - LFO, Madrid on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Judy (ES) is a techno and house artist tracked on soundcheck, with 55 sets logge
 
 Tuber, R-010, Alexandre Laeddis
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/judy-es/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/judy-es/)*

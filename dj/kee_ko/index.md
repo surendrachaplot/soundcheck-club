@@ -1,6 +1,6 @@
 # Kee_ko
 
-Kee_ko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
+Kee_ko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
 
 Kee_ko is a house and techno artist tracked on soundcheck, with 182 sets logged across Lisbon, London and Porto. Often billed alongside Jorge Caiado, John-E and Gear. Next up: Village Underground Lisboa, Lisbon on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Kee_ko is a house and techno artist tracked on soundcheck, with 182 sets logged 
 
 Jorge Caiado, John-E, Gear
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kee_ko/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kee_ko/)*

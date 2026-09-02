@@ -1,6 +1,6 @@
 # T4NIT
 
-T4NIT is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Celeste, Vienna on Fri, 4 Sept 2026.
+T4NIT is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Celeste, Vienna on Fri, 4 Sept 2026.
 
 T4NIT is a pop and techno artist based in Austria, tracked on soundcheck, with 4 sets logged across Vienna. Often billed alongside ADIRA, Hassandra and ARMANA KHAN. Next up: Celeste, Vienna on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ T4NIT is a pop and techno artist based in Austria, tracked on soundcheck, with 4
 
 ADIRA, Hassandra, ARMANA KHAN
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t4nit/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t4nit/)*

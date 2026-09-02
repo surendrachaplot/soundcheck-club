@@ -1,6 +1,6 @@
 # Jacklyn
 
-Jacklyn is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - HACKNEY WICK, London on Fri, 11 Sept 2026.
+Jacklyn is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - HACKNEY WICK, London on Fri, 11 Sept 2026.
 
 Jacklyn is a techno and trance artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Boo, 1000raks and AYLIN IDAH. Next up: TBA - HACKNEY WICK, London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Jacklyn is a techno and trance artist tracked on soundcheck, with 47 sets logged
 
 Boo, 1000raks, AYLIN IDAH
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklyn/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacklyn/)*

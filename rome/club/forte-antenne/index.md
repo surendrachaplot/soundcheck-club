@@ -1,6 +1,6 @@
 # Forte Antenne
 
-Forte Antenne is a music venue in Rome with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "NEON pres Nina Kraviz" on Fri, 4 Sept 2026.
+Forte Antenne is a music venue in Rome with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "NEON pres Nina Kraviz" on Fri, 4 Sept 2026.
 
 Forte Antenne is a music venue in Rome listed on soundcheck. 5 upcoming nights, with line-ups including 000vda, Adiel, Dixon and fivequestionmarks and 2 more. Browse upcoming dates, start times and who's playing. Via del Forte Antenne, 12, 00199 Roma RM, Italy.
 
@@ -18,4 +18,4 @@ Forte Antenne is a music venue in Rome listed on soundcheck. 5 upcoming nights, 
 
 Via del Forte Antenne, 12, 00199 Roma RM, Italy, Rome
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*

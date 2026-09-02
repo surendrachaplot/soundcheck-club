@@ -1,8 +1,8 @@
 # Milli Meng
 
-Milli Meng is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Sept 2026.
+Milli Meng is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Sept 2026.
 
-Milli Meng is a techno and club artist based in United States of America, tracked on soundcheck, with 18 sets logged across Sanfrancisco. Often billed alongside Kaytree, YANNI and BAD JUUJU. Next up: F8 1192 Folsom, Sanfrancisco on Sat 5 Sept.
+Milli Meng is a techno and club artist based in United States of America, tracked on soundcheck, with 19 sets logged across Sanfrancisco. Often billed alongside Kaytree, YANNI and BAD JUUJU. Next up: F8 1192 Folsom, Sanfrancisco on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Milli Meng is a techno and club artist based in United States of America, tracke
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sun, 13 Sept 2026 | 888 Garage | San Francisco/Oakland |
+| Sat, 26 Sept 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Milli Meng is a techno and club artist based in United States of America, tracke
 
 Kaytree, YANNI, BAD JUUJU
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millimeng/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millimeng/)*

@@ -1,6 +1,6 @@
 # grid (KR)
 
-grid (KR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Stoked&stoned, Seoul on Thu, 3 Sept 2026.
+grid (KR) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Stoked&stoned, Seoul on Thu, 3 Sept 2026.
 
 grid (KR) is a house and techno artist based in South Korea, tracked on soundcheck, with 106 sets logged across Seoul and Tokyo. Often billed alongside RTRP, Conan and dguru. Next up: Stoked&stoned, Seoul on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ grid (KR) is a house and techno artist based in South Korea, tracked on soundche
 
 RTRP, Conan, dguru
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grid-kr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grid-kr/)*

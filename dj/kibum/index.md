@@ -1,6 +1,6 @@
 # Kibum
 
-Kibum is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at teller, Seoul on Sat, 5 Sept 2026.
+Kibum is a Minimal and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at teller, Seoul on Sat, 5 Sept 2026.
 
 Kibum is a minimal and minimal techno artist based in South Korea, tracked on soundcheck, with 99 sets logged across Seoul. Often billed alongside Jongho, Mihak and kimmtae. Next up: teller, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Kibum is a minimal and minimal techno artist based in South Korea, tracked on so
 
 Jongho, Mihak, kimmtae
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kibum/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kibum/)*

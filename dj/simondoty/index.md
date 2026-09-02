@@ -1,6 +1,6 @@
 # Simon Doty
 
-Simon Doty is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Refuge, New York City on Sat, 3 Oct 2026.
+Simon Doty is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Refuge, New York City on Sat, 3 Oct 2026.
 
 Simon Doty is a progressive house and house artist tracked on soundcheck, with 99 sets logged across Austin, Boston, Brighton and Bristol and 30 more. Often billed alongside Marsh, Braxton and Dosem. Next up: Refuge, Newyorkcity on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Simon Doty is a progressive house and house artist tracked on soundcheck, with 9
 
 Marsh, Braxton, Dosem
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simondoty/)*

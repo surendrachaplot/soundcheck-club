@@ -1,6 +1,6 @@
 # Marley Swain
 
-Marley Swain is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
+Marley Swain is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
 
 Marley Swain is an electronica and house artist tracked on soundcheck, with 16 sets logged across Melbourne. Often billed alongside Pjenné, Kate Miller and Andy Hart. Next up: Collingwood Children's Farm, Melbourne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Marley Swain is an electronica and house artist tracked on soundcheck, with 16 s
 
 Pjenné, Kate Miller, Andy Hart
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marleyswain/)*

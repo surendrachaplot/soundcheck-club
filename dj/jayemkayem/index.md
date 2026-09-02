@@ -1,6 +1,6 @@
 # Jayemkayem
 
-Jayemkayem is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Planet Wax, London on Sat, 26 Sept 2026.
+Jayemkayem is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Sat, 26 Sept 2026.
 
 Jayemkayem is a garage and uk funky artist based in Canada, tracked on soundcheck, with 22 sets logged across Birmingham, London, Montreal and Toronto. Often billed alongside Freeza Chin, Ana Luisa and Choirboi. Next up: Planet Wax, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jayemkayem is a garage and uk funky artist based in Canada, tracked on soundchec
 
 Freeza Chin, Ana Luisa, Choirboi
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayemkayem/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayemkayem/)*

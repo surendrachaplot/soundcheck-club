@@ -1,6 +1,6 @@
 # DJ Storm (2)
 
-DJ Storm (2) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+DJ Storm (2) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 DJ Storm (2) is a jungle and drum & bass artist based in Italy, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Bristol and London and 3 more. Often billed alongside DJ Flight, Bakey and Darwin. Next up: The Cause, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ Storm (2) is a jungle and drum & bass artist based in Italy, tracked on sound
 
 DJ Flight, Bakey, Darwin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm-2/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm-2/)*

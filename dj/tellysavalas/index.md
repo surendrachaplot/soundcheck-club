@@ -1,6 +1,6 @@
 # Telly Savalas
 
-Telly Savalas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Chapeau Rouge, Prague on Fri, 9 Oct 2026.
+Telly Savalas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Chapeau Rouge, Prague on Fri, 9 Oct 2026.
 
 Telly Savalas is a house and techno artist based in Czech Republic, tracked on soundcheck, with 11 sets logged across Prague. Often billed alongside Daniel Neighbour, Eva Falt and Smeghouse. Next up: Chapeau Rouge, Prague on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Telly Savalas is a house and techno artist based in Czech Republic, tracked on s
 
 Daniel Neighbour, Eva Falt, Smeghouse
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tellysavalas/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tellysavalas/)*

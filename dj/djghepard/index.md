@@ -1,6 +1,6 @@
 # DJ GHEPARD
 
-DJ GHEPARD is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Acud Macht NEU, Berlin on Sun, 6 Sept 2026.
+DJ GHEPARD is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Acud Macht NEU, Berlin on Sun, 6 Sept 2026.
 
 DJ GHEPARD is a club and experimental artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside t0ni, gmaail and 7777 の天使. Next up: Acud Macht NEU, Berlin on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ DJ GHEPARD is a club and experimental artist tracked on soundcheck, with 70 sets
 
 t0ni, gmaail, 7777 の天使
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djghepard/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djghepard/)*

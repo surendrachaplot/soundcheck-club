@@ -1,6 +1,6 @@
 # Fraulein Z
 
-Fraulein Z is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Now&Wow, Rotterdam on Sat, 7 Nov 2026.
+Fraulein Z is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Now&Wow, Rotterdam on Sat, 7 Nov 2026.
 
 Fraulein Z is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside TanzMan, RAKKATACK and Joris Turenhout. Next up: Now&Wow, Rotterdam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Fraulein Z is a techno and tech house artist based in Netherlands, tracked on so
 
 TanzMan, RAKKATACK, Joris Turenhout
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frauleinz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frauleinz/)*

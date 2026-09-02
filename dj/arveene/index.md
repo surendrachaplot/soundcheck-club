@@ -1,6 +1,6 @@
 # Arveene
 
-Arveene is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hang Dai Chinese, Dublin on Sun, 6 Sept 2026.
+Arveene is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hang Dai Chinese, Dublin on Sun, 6 Sept 2026.
 
 Arveene is a techno and house artist based in Ireland, tracked on soundcheck, with 3 sets logged across Belfast and Dublin. Often billed alongside Billy Scurry, Justin Strauss and Jordan Nocturne. Next up: Hang Dai Chinese, Dublin on Sun 6 Sept.
 
@@ -19,4 +19,4 @@ Arveene is a techno and house artist based in Ireland, tracked on soundcheck, wi
 
 Billy Scurry, Justin Strauss, Jordan Nocturne
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arveene/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arveene/)*

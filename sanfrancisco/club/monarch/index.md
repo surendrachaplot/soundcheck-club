@@ -1,6 +1,6 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "CALAVERA" on Fri, 4 Sept 2026.
+Monarch is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "CALAVERA" on Fri, 4 Sept 2026.
 
 Monarch is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including Acid Boner, Afakasi Papi, Duserock and ESTRELLA and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
@@ -22,4 +22,4 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

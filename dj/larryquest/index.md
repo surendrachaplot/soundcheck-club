@@ -1,6 +1,6 @@
 # Larry Quest
 
-Larry Quest is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Miradouro de Baixo, Lisbon on Sat, 19 Sept 2026.
+Larry Quest is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Miradouro de Baixo, Lisbon on Sat, 19 Sept 2026.
 
 Larry Quest is a house and disco artist tracked on soundcheck, with 9 sets logged across Lisbon. Often billed alongside Black Pomade, Jamaimoi and Adam Purnell. Next up: Miradouro de Baixo, Lisbon on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Larry Quest is a house and disco artist tracked on soundcheck, with 9 sets logge
 
 Black Pomade, Jamaimoi, Adam Purnell
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larryquest/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larryquest/)*

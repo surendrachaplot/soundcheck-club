@@ -1,6 +1,6 @@
 # Fat Tony
 
-Fat Tony is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 4 Sept 2026.
+Fat Tony is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 4 Sept 2026.
 
 Fat Tony is a house and disco artist tracked on soundcheck, with 68 sets logged across Amsterdam, Birmingham, Brighton and Brisbane and 12 more. Often billed alongside Princess Julia, Pj Gardner and Melvo Baptiste. Next up: Amnesia Ibiza, Ibiza on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Fat Tony is a house and disco artist tracked on soundcheck, with 68 sets logged 
 
 Princess Julia, Pj Gardner, Melvo Baptiste
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony-uk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony-uk/)*

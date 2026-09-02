@@ -1,6 +1,6 @@
 # Daul
 
-Daul is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bolero, Seoul on Fri, 4 Sept 2026.
+Daul is a House and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bolero, Seoul on Fri, 4 Sept 2026.
 
 Daul is a house and hip-hop artist based in South Korea, tracked on soundcheck, with 96 sets logged across Seoul and Tokyo. Often billed alongside TRUEUNSOL, DJ Wow and Gyusco. Next up: Bolero, Seoul on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Daul is a house and hip-hop artist based in South Korea, tracked on soundcheck, 
 
 TRUEUNSOL, DJ Wow, Gyusco
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daul/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daul/)*

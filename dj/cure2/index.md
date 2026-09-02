@@ -1,6 +1,6 @@
 # Cure2
 
-Cure2 is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Jade, New York City on Sat, 5 Sept 2026.
+Cure2 is a Pop and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jade, New York City on Sat, 5 Sept 2026.
 
 Cure2 is a pop and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside ntrllite, ASTER (DJ) and fake.stan. Next up: Jade, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Cure2 is a pop and techno artist based in United States of America, tracked on s
 
 ntrllite, ASTER (DJ), fake.stan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cure2/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cure2/)*

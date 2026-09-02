@@ -1,6 +1,6 @@
 # Lake Turner
 
-Lake Turner is a Electro and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at fabric, London on Sun, 13 Sept 2026.
+Lake Turner is a Electro and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at fabric, London on Sun, 13 Sept 2026.
 
 Lake Turner is an electro and deep house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Alfie, Alythia Kwan and Dean Mir. Next up: fabric, London on Sun 13 Sept.
 
@@ -20,4 +20,4 @@ Lake Turner is an electro and deep house artist based in United Kingdom, tracked
 
 Alfie, Alythia Kwan, Dean Mir
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laketurner/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laketurner/)*

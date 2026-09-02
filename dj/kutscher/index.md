@@ -1,6 +1,6 @@
 # kutscher
 
-kutscher is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hoppetosse, Berlin on Sat, 19 Sept 2026.
+kutscher is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hoppetosse, Berlin on Sat, 19 Sept 2026.
 
 kutscher is a techno and house artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Copenhagen. Often billed alongside BENDOM, FRËIHERR and Nilinski. Next up: Hoppetosse, Berlin on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ kutscher is a techno and house artist based in Germany, tracked on soundcheck, w
 
 BENDOM, FRËIHERR, Nilinski
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kutscher/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kutscher/)*

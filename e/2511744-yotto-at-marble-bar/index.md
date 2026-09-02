@@ -1,6 +1,6 @@
 # Yotto at Marble Bar
 
-Yotto at Marble Bar on Fri 4 Sept, Detroit. 5 acts on the bill: Avernon, LOFILA, Mac Diesel and Mekato and 1 more. Preview the line-up and save it on soundcheck.
+Yotto at Marble Bar on Fri 4 Sept, Detroit. 6 acts on the bill: Avernon, Hjafri, LOFILA and Mac Diesel and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Yotto at Marble Bar on Fri 4 Sept, Detroit. 5 acts on the bill: Avernon, LOFILA,
 ## Line-up
 
 - Avernon
+- Hjafri
 - LOFILA
 - Mac Diesel
 - Mekato

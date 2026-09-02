@@ -1,6 +1,6 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 12 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "IKAKO, PAU PEREZ" on Fri, 4 Sept 2026.
+Resume Valencia is a music venue in Valencia with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "IKAKO, PAU PEREZ" on Fri, 4 Sept 2026.
 
 Resume Valencia is a music venue in Valencia listed on soundcheck. 12 upcoming nights, with line-ups including blan.trrs, Camiel Daamen, chldrns and Cristian Sarde and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
@@ -23,4 +23,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 12 upcoming n
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

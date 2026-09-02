@@ -1,6 +1,6 @@
 # Firn
 
-Firn is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Firn Frequency - Restless Planet - ft. Noah Coinflip" on Thu, 3 Sept 2026.
+Firn is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Firn Frequency: Restless Planet with Noah Coinflip" on Thu, 3 Sept 2026.
 
 Firn is a music venue in Seattle listed on soundcheck. 4 upcoming nights, with line-ups including Jono (2) and Misha Mir. Browse upcoming dates, start times and who's playing.
 
@@ -8,9 +8,9 @@ Firn is a music venue in Seattle listed on soundcheck. 4 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | Firn Frequency - Restless Planet - ft. Noah Coinflip | Jono (2), Misha Mir |
+| Thu, 3 Sept 2026 | Firn Frequency: Restless Planet with Noah Coinflip | Jono (2), Misha Mir |
 | Thu, 10 Sept 2026 | Firn Frequency - Restless Planet | Jono (2), Misha Mir |
 | Thu, 17 Sept 2026 | Firn Frequency - Restless Planet | Jono (2), Misha Mir |
 | Thu, 24 Sept 2026 | Firn Frequency: Restless Planet | Jono (2), Misha Mir |
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/firn/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/firn/)*

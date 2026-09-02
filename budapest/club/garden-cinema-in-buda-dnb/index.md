@@ -1,6 +1,6 @@
 # Garden Cinema in Buda DnB
 
-Garden Cinema in Buda DnB is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Garden Cinema Drum and Bass Szomszédok x The problem is the war" on Fri, 11 Sept 2026.
+Garden Cinema in Buda DnB is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Garden Cinema Drum and Bass Szomszédok x The problem is the war" on Fri, 11 Sept 2026.
 
 Garden Cinema in Buda DnB is a music venue in Budapest listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Garden Cinema in Buda DnB is a music venue in Budapest listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Garden Cinema Drum and Bass Szomszédok x The problem is the war |  |
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/garden-cinema-in-buda-dnb/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/garden-cinema-in-buda-dnb/)*

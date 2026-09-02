@@ -1,6 +1,6 @@
 # Maxi Meraki
 
-Maxi Meraki is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Maxi Meraki is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Maxi Meraki is a house and afro house artist tracked on soundcheck, with 90 sets logged across Antwerp, Athens, Austin and Bali and 34 more. Often billed alongside Mahmut Orhan, AJNA and Adriatique. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Maxi Meraki is a house and afro house artist tracked on soundcheck, with 90 sets
 
 Mahmut Orhan, AJNA, Adriatique
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*

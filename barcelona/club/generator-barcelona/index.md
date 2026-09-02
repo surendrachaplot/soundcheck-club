@@ -1,6 +1,6 @@
 # Generator Barcelona
 
-Generator Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Eclectic Sounds: Nabil Saffouri + Dr Pepper" on Fri, 18 Sept 2026.
+Generator Barcelona is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Eclectic Sounds: Nabil Saffouri + Dr Pepper" on Fri, 18 Sept 2026.
 
 Generator Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Nabil Saffouri DJ. Browse upcoming dates, start times and who's playing. Carrer de Còrsega, 373, 08037 Barcelona.
 
@@ -14,4 +14,4 @@ Generator Barcelona is a music venue in Barcelona listed on soundcheck. 1 upcomi
 
 Carrer de Còrsega, 373, 08037 Barcelona, Barcelona
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/generator-barcelona/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/generator-barcelona/)*

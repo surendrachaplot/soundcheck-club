@@ -1,6 +1,6 @@
 # Kai Alce
 
-Kai Alce is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Green Room NYC, New York City on Fri, 11 Sept 2026.
+Kai Alce is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Green Room NYC, New York City on Fri, 11 Sept 2026.
 
 Kai Alce is a house and deep house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 16 more. Often billed alongside DJ Kemit, Ash Lauryn and Omer Mil. Next up: Green Room NYC, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Kai Alce is a house and deep house artist tracked on soundcheck, with 84 sets lo
 
 DJ Kemit, Ash Lauryn, Omer Mil
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaialce/)*

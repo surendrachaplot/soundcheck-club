@@ -1,6 +1,6 @@
 # Chet Rubbs
 
-Chet Rubbs is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Silbergold, Frankfurt on Fri, 4 Sept 2026.
+Chet Rubbs is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Silbergold, Frankfurt on Fri, 4 Sept 2026.
 
 Chet Rubbs is a house and tech house artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Dusseldorf, Frankfurt and Hamburg and 2 more. Often billed alongside Goiaba, Rollo3000 and Mo the prophet. Next up: Silbergold, Frankfurt on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Chet Rubbs is a house and tech house artist based in Germany, tracked on soundch
 
 Goiaba, Rollo3000, Mo the prophet
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chetrubbs/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chetrubbs/)*

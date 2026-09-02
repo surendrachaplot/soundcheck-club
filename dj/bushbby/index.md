@@ -1,6 +1,6 @@
 # Bushbby
 
-Bushbby is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Carpet Shop, London on Sat, 5 Sept 2026.
+Bushbby is a Reggaeton and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Carpet Shop, London on Sat, 5 Sept 2026.
 
 Bushbby is a reggaeton and latin bass artist tracked on soundcheck, with 98 sets logged across Barcelona, Bristol, Brussels and Geneva and 8 more. Often billed alongside Papaoul, Arthi and Ìyáàlù. Next up: The Carpet Shop, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Bushbby is a reggaeton and latin bass artist tracked on soundcheck, with 98 sets
 
 Papaoul, Arthi, Ìyáàlù
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbby/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbby/)*

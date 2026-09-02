@@ -1,6 +1,6 @@
 # Concepción Huerta
 
-Concepción Huerta is a Experimental and Drone artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
+Concepción Huerta is a Experimental and Drone artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Rotterdam Various Locations, Rotterdam on Thu, 24 Sept 2026.
 
 Concepción Huerta is an experimental and drone artist based in Mexico, tracked on soundcheck, with 28 sets logged across Barcelona, Berlin, London and Mexicocity and 3 more. Often billed alongside Abul Mogard, Turning Torso and bela. Next up: TBA - Rotterdam Various Locations, Rotterdam on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Concepción Huerta is an experimental and drone artist based in Mexico, tracked 
 
 Abul Mogard, Turning Torso, bela
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/concepcionhuerta/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/concepcionhuerta/)*

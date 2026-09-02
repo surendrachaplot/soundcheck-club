@@ -1,6 +1,6 @@
 # Iden Mind
 
-Iden Mind is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rhiz, Vienna on Sat, 5 Sept 2026.
+Iden Mind is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Rhiz, Vienna on Sat, 5 Sept 2026.
 
 Iden Mind is a drum & bass and dubstep artist tracked on soundcheck, with 2 sets logged across Vienna. Often billed alongside CHERCHES, Rudolfode and Sequent. Next up: Rhiz, Vienna on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Iden Mind is a drum & bass and dubstep artist tracked on soundcheck, with 2 sets
 
 CHERCHES, Rudolfode, Sequent
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idenmind/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idenmind/)*

@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 13 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Empress: Ladies of Gloss and Gore" on Thu, 3 Sept 2026.
+People's Leisure Club is a music venue in Edinburgh with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Empress: Ladies of Gloss and Gore" on Thu, 3 Sept 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 13 upcoming nights, with line-ups including Accident Machine, Astro, Auntie Flo and Body Clinic and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 13 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

@@ -1,8 +1,8 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at FOLD, London on Fri, 4 Sept 2026.
+Rene Wise is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at FOLD, London on Fri, 4 Sept 2026.
 
-Rene Wise is a techno and house artist tracked on soundcheck, with 243 sets logged across Amsterdam, Athens, Austin and Barcelona and 69 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: FOLD, London on Fri 4 Sept.
+Rene Wise is a techno and house artist tracked on soundcheck, with 244 sets logged across Amsterdam, Athens, Austin and Barcelona and 70 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: FOLD, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 243 sets logg
 | Fri, 18 Sept 2026 | essaim | Paris |
 | Sat, 19 Sept 2026 | SMUT Athens | Athens |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
+| Fri, 25 Sept 2026 | TBA - sf warehouse | San Francisco/Oakland |
 | Sat, 26 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 2 Oct 2026 | TBA | Boston |
 | Sat, 3 Oct 2026 | Art Club | Houston |
@@ -19,7 +20,6 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 243 sets logg
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 30 Oct 2026 | Flash | Washington DC |
-| Fri, 13 Nov 2026 | Poolen | Copenhagen |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 243 sets logg
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

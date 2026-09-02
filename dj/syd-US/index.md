@@ -1,6 +1,6 @@
 # Syd (US)
 
-Syd (US) is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Marble Bar, Detroit on Sat, 5 Sept 2026.
+Syd (US) is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Marble Bar, Detroit on Sat, 5 Sept 2026.
 
 Syd (US) is a club and techno artist tracked on soundcheck, with 90 sets logged across Boston, Chicago, Detroit and Losangeles and 8 more. Often billed alongside NATALIA., Tromac and NoahG. Next up: Marble Bar, Detroit on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Syd (US) is a club and techno artist tracked on soundcheck, with 90 sets logged 
 
 NATALIA., Tromac, NoahG
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syd-US/)*

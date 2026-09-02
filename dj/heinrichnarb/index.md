@@ -1,6 +1,6 @@
 # Heinrich Narb
 
-Heinrich Narb is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Silbergold, Frankfurt on Fri, 4 Sept 2026.
+Heinrich Narb is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Silbergold, Frankfurt on Fri, 4 Sept 2026.
 
 Heinrich Narb is a house and electro artist tracked on soundcheck, with 10 sets logged across Frankfurt and Munich. Often billed alongside Phil SD, Chet Rubbs and Goiaba. Next up: Silbergold, Frankfurt on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Heinrich Narb is a house and electro artist tracked on soundcheck, with 10 sets 
 
 Phil SD, Chet Rubbs, Goiaba
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heinrichnarb/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heinrichnarb/)*

@@ -1,6 +1,6 @@
 # DJ ZiL
 
-DJ ZiL is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Camelot, Tokyo on Sun, 20 Sept 2026.
+DJ ZiL is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Camelot, Tokyo on Sun, 20 Sept 2026.
 
 DJ ZiL is a house and techno artist tracked on soundcheck, with 24 sets logged across Tokyo. Often billed alongside DQ Sakura, Luna* and Mutron. Next up: Camelot, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ DJ ZiL is a house and techno artist tracked on soundcheck, with 24 sets logged a
 
 DQ Sakura, Luna*, Mutron
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzil/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djzil/)*

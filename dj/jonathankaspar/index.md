@@ -1,8 +1,8 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Airport Düsseldorf, Düsseldorf on Sat, 5 Sept 2026.
+Jonathan Kaspar is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Airport Düsseldorf, Düsseldorf on Sat, 5 Sept 2026.
 
-Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 189 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Robag Wruhme and Chris Schwarzwälder. Next up: Airport Düsseldorf, Dusseldorf on Sat 5 Sept.
+Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Robag Wruhme and Chris Schwarzwälder. Next up: Airport Düsseldorf, Dusseldorf on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 189 set
 | Sun, 6 Sept 2026 | Airport Düsseldorf | Düsseldorf |
 | Sat, 12 Sept 2026 | Lux Fragil | Lisbon |
 | Fri, 18 Sept 2026 | Chinois Ibiza | Ibiza |
+| Sun, 20 Sept 2026 | Bikini Beach | Cologne |
 | Sat, 26 Sept 2026 | fabric | London |
 | Sat, 17 Oct 2026 | fi | Cologne |
 | Sat, 31 Oct 2026 | Airport Düsseldorf | Düsseldorf |
@@ -32,4 +33,4 @@ Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 189 set
 
 Mira, Robag Wruhme, Chris Schwarzwälder
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

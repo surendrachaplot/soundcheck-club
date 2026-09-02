@@ -1,6 +1,6 @@
 # NOB (1)
 
-NOB (1) is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Golden Gate, Berlin on Sat, 26 Sept 2026.
+NOB (1) is a House and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Gate, Berlin on Sat, 26 Sept 2026.
 
 NOB (1) is a house and jungle artist based in Japan, tracked on soundcheck, with 9 sets logged across Berlin, Osaka and Tokyo. Often billed alongside Cleymoore, Karuta and Hreno. Next up: Golden Gate, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ NOB (1) is a house and jungle artist based in Japan, tracked on soundcheck, with
 
 Cleymoore, Karuta, Hreno
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nob-1/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nob-1/)*

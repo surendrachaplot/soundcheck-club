@@ -1,6 +1,6 @@
 # es.cher
 
-es.cher is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Puppet Theatre Barge, London on Thu, 15 Oct 2026.
+es.cher is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Puppet Theatre Barge, London on Thu, 15 Oct 2026.
 
 es.cher is a pop and experimental artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside CESKA, SIMMS and Selthe. Next up: The Puppet Theatre Barge, London on Thu 15 Oct.
 
@@ -18,4 +18,4 @@ es.cher is a pop and experimental artist tracked on soundcheck, with 2 sets logg
 
 CESKA, SIMMS, Selthe
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/es.cher/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/es.cher/)*

@@ -1,6 +1,6 @@
 # Tiago
 
-Tiago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gare Porto, Porto on Sat, 19 Sept 2026.
+Tiago is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Gare Porto, Porto on Sat, 19 Sept 2026.
 
 Tiago is a house and techno artist based in Portugal, tracked on soundcheck, with 83 sets logged across Amsterdam, Lisbon, Liverpool and Madrid and 8 more. Often billed alongside Inês Duarte, Varela and Ze Pedro Moura. Next up: Gare Porto, Porto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tiago is a house and techno artist based in Portugal, tracked on soundcheck, wit
 
 Inês Duarte, Varela, Ze Pedro Moura
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiago/)*

@@ -1,6 +1,6 @@
 # Julie Fleischer
 
-Julie Fleischer is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Palais, Munich on Fri, 2 Oct 2026.
+Julie Fleischer is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Palais, Munich on Fri, 2 Oct 2026.
 
 Julie Fleischer is a house and disco artist tracked on soundcheck, with 48 sets logged across Munich and Vienna. Often billed alongside Kapote, Mikey Gee and A-DEE. Next up: Palais, Munich on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Julie Fleischer is a house and disco artist tracked on soundcheck, with 48 sets 
 
 Kapote, Mikey Gee, A-DEE
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliefleischer/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliefleischer/)*

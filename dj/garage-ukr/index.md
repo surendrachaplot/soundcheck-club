@@ -1,6 +1,6 @@
 # Garage
 
-Garage is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Night Tales, London on Sat, 14 Nov 2026.
+Garage is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Night Tales, London on Sat, 14 Nov 2026.
 
 Garage is a garage and drum & bass artist tracked on soundcheck, with 16 sets logged across Bristol, Istanbul, London and Milan and 3 more. Often billed alongside Jungle (UK), More (3) and 90 (1). Next up: Night Tales, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Garage is a garage and drum & bass artist tracked on soundcheck, with 16 sets lo
 
 Jungle (UK), More (3), 90 (1)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garage-ukr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garage-ukr/)*

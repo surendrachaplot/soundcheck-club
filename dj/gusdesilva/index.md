@@ -1,6 +1,6 @@
 # Gus de Silva
 
-Gus de Silva is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at SJQ, London on Sat, 5 Sept 2026.
+Gus de Silva is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at SJQ, London on Sat, 5 Sept 2026.
 
 Gus de Silva is a house and disco artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Wan Tu and Martini. Next up: SJQ, London on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ Gus de Silva is a house and disco artist based in United Kingdom, tracked on sou
 
 Wan Tu, Martini
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gusdesilva/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gusdesilva/)*

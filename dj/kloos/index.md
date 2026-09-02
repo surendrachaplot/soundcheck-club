@@ -1,6 +1,6 @@
 # Kloos
 
-Kloos is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Pontoon Budapest, Budapest on Sun, 6 Sept 2026.
+Kloos is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pontoon Budapest, Budapest on Sun, 6 Sept 2026.
 
 Kloos is a house and progressive house artist based in Spain, tracked on soundcheck, with 13 sets logged across Amsterdam, Budapest and Madrid. Often billed alongside ANESI, Agettro and Løvn. Next up: Pontoon Budapest, Budapest on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Kloos is a house and progressive house artist based in Spain, tracked on soundch
 
 ANESI, Agettro, Løvn
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloos/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloos/)*

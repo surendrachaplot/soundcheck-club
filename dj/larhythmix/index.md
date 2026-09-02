@@ -1,6 +1,6 @@
 # Larhythmix
 
-Larhythmix is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Wendel, Berlin on Thu, 3 Sept 2026.
+Larhythmix is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Wendel, Berlin on Thu, 3 Sept 2026.
 
 Larhythmix is a hip-hop and experimental artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Amy Kisnorbo, Creatura and DEMEANOR. Next up: Wendel, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Larhythmix is a hip-hop and experimental artist based in United Kingdom, tracked
 
 Amy Kisnorbo, Creatura, DEMEANOR
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larhythmix/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larhythmix/)*

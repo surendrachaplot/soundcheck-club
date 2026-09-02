@@ -1,6 +1,6 @@
 # Little Buildings
 
-Little Buildings is a music venue in Newcastle with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "_grıt: Slo DADs" on Fri, 11 Sept 2026.
+Little Buildings is a music venue in Newcastle with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "_grıt: Slo DADs" on Fri, 11 Sept 2026.
 
 Little Buildings is a music venue in Newcastle listed on soundcheck. 2 upcoming nights, with line-ups including DADs. Browse upcoming dates, start times and who's playing. Ford St, Newcastle upon Tyne NE6 1LN, UK.
 
@@ -15,4 +15,4 @@ Little Buildings is a music venue in Newcastle listed on soundcheck. 2 upcoming 
 
 Ford St, Newcastle upon Tyne NE6 1LN, UK, Newcastle
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/little-buildings/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/little-buildings/)*

@@ -1,6 +1,6 @@
 # Sham
 
-Sham is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 4 Sept 2026.
+Sham is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 4 Sept 2026.
 
 Sham is a house and deep house artist tracked on soundcheck, with 8 sets logged across Chicago, Copenhagen, Miami and Munich and 1 more. Often billed alongside Alex Dovo, Alfredo92 and Amal Nemer. Next up: Den Anden Side, Copenhagen on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Sham is a house and deep house artist tracked on soundcheck, with 8 sets logged 
 
 Alex Dovo, Alfredo92, Amal Nemer
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sham5/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sham5/)*

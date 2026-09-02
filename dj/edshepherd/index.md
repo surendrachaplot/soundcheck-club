@@ -1,6 +1,6 @@
 # Ed Shepherd
 
-Ed Shepherd is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Void Hall, Berlin on Fri, 11 Sept 2026.
+Ed Shepherd is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Void Hall, Berlin on Fri, 11 Sept 2026.
 
 Ed Shepherd is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin. Often billed alongside Upzet, Anton Quasi and Flow TNTS. Next up: Void Hall, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ed Shepherd is a drum & bass and techno artist based in Germany, tracked on soun
 
 Upzet, Anton Quasi, Flow TNTS
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edshepherd/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edshepherd/)*

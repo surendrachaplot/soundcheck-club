@@ -1,6 +1,6 @@
 # DJ Snake
 
-DJ Snake is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Paradiso, Amsterdam on Wed, 21 Oct 2026.
+DJ Snake is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Paradiso, Amsterdam on Wed, 21 Oct 2026.
 
 DJ Snake is a house and electro artist tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Barcelona and Boston and 17 more. Often billed alongside Henry Fong, Audien and Zedd. Next up: Paradiso, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ DJ Snake is a house and electro artist tracked on soundcheck, with 46 sets logge
 
 Henry Fong, Audien, Zedd
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*

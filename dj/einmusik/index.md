@@ -1,6 +1,6 @@
 # Einmusik
 
-Einmusik is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow on Sat, 5 Sept 2026.
+Einmusik is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow on Sat, 5 Sept 2026.
 
 Einmusik is a techno and progressive house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Einmusik is a techno and progressive house artist tracked on soundcheck, with 12
 
 Prismode, Solvane, Markus Klee
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/einmusik/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/einmusik/)*

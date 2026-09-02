@@ -1,6 +1,6 @@
 # Benny Rodrigues
 
-Benny Rodrigues is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Benny Rodrigues is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
 Benny Rodrigues is a house and techno artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Berlin and Ibiza and 4 more. Often billed alongside Michel de Hey, Prunk and Karim Soliman. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Benny Rodrigues is a house and techno artist tracked on soundcheck, with 196 set
 
 Michel de Hey, Prunk, Karim Soliman
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*

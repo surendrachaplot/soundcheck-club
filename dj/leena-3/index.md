@@ -1,6 +1,6 @@
 # Leena
 
-Leena is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at DURO, Milan on Sat, 19 Sept 2026.
+Leena is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at DURO, Milan on Sat, 19 Sept 2026.
 
 Leena is a techno and house artist tracked on soundcheck, with 39 sets logged across Berlin, Milan, Oslo and Rome and 1 more. Often billed alongside Enrico Vivaldi, Dario Lem and Guglielmo Morandini. Next up: DURO, Milan on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Leena is a techno and house artist tracked on soundcheck, with 39 sets logged ac
 
 Enrico Vivaldi, Dario Lem, Guglielmo Morandini
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leena-3/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leena-3/)*

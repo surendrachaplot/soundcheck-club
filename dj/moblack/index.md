@@ -1,6 +1,6 @@
 # MoBlack
 
-MoBlack is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Knockdown Center, New York City on Fri, 4 Sept 2026.
+MoBlack is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Knockdown Center, New York City on Fri, 4 Sept 2026.
 
 MoBlack is an afro house and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Francis Mercier, Nitefreak and FALYN. Next up: Knockdown Center, Newyorkcity on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ MoBlack is an afro house and house artist tracked on soundcheck, with 89 sets lo
 
 Francis Mercier, Nitefreak, FALYN
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*

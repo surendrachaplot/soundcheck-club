@@ -1,6 +1,6 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "maximalism VOL.12" on Wed, 2 Sept 2026.
+rake?raka? is a music venue in Osaka with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "maximalism VOL.12" on Wed, 2 Sept 2026.
 
 rake?raka? is a music venue in Osaka listed on soundcheck. 4 upcoming nights, with line-ups including ALTF4, MATSURYO, nima (2) and Phekam and 2 more. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
@@ -17,4 +17,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 4 upcoming nights, wi
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

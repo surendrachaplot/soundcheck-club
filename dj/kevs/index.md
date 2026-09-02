@@ -1,6 +1,6 @@
 # KEVS
 
-KEVS is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Letnisko Żoliborz, Warsaw on Sat, 5 Sept 2026.
+KEVS is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Letnisko Żoliborz, Warsaw on Sat, 5 Sept 2026.
 
 KEVS is a tech house and house artist based in Poland, tracked on soundcheck, with 73 sets logged across Warsaw. Often billed alongside Mabu, HANICZ and Meskalino. Next up: Letnisko Żoliborz, Warsaw on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ KEVS is a tech house and house artist based in Poland, tracked on soundcheck, wi
 
 Mabu, HANICZ, Meskalino
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevs/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevs/)*

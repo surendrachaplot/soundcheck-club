@@ -1,6 +1,6 @@
 # Ø [Phase]
 
-Ø [Phase] is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
+Ø [Phase] is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
 
 Ø [Phase] is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Basel and Berlin and 39 more. Often billed alongside Luke Slater, Setaoc Mass and Adriana Lopez. Next up: RSO.BERLIN, Berlin on Sat 5 Sept.
 
@@ -28,4 +28,4 @@
 
 Luke Slater, Setaoc Mass, Adriana Lopez
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*

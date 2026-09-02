@@ -1,6 +1,6 @@
 # ANIIKA
 
-ANIIKA is a Reggaeton and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Village au Pied-du-Courant, Montreal on Sat, 5 Sept 2026.
+ANIIKA is a Reggaeton and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Village au Pied-du-Courant, Montreal on Sat, 5 Sept 2026.
 
 ANIIKA is a reggaeton and baile funk artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal and Toronto. Often billed alongside DJ Punani, JASHIM and Claireyy. Next up: Village au Pied-du-Courant, Montreal on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ ANIIKA is a reggaeton and baile funk artist based in Canada, tracked on soundche
 
 DJ Punani, JASHIM, Claireyy
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniika/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aniika/)*

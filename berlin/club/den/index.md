@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Floating Over - ÆDEN/ŒL Garten" on Wed, 2 Sept 2026.
+ÆDEN is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Floating Over - ÆDEN/ŒL Garten" on Wed, 2 Sept 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Aaron Blau, Acierate, August Kind and Bae Blade and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | Floating Over - ÆDEN/ŒL Garten | Nayoo |
-| Wed, 2 Sept 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE | Beth Alana, Dahveed |
+| Wed, 2 Sept 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE | Beth Alana, Dahveed, OSKAR. |
 | Thu, 3 Sept 2026 | Soundhall | Blosvenn, DMZ (DE), Genghis C_nt, K1000o, PW DISTORTION, Philena, Pylerinstinct1, Redondoo, Yiye, wisje |
 | Fri, 4 Sept 2026 | Cuddles: VIRGO SEASON | Aaron Blau, Chico Blanco, Katy De Jesus, MCMLXXXV, Sterling Juan Diaz, Vani Vachi, Verushka, puppy |
 | Sat, 5 Sept 2026 | SAME FLOOR | Dj Andi, Randali, Vero |
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

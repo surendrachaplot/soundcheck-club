@@ -1,6 +1,6 @@
 # Anahita Shamsaei
 
-Anahita Shamsaei is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Cheek, London on Sun, 13 Sept 2026.
+Anahita Shamsaei is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club Cheek, London on Sun, 13 Sept 2026.
 
 Anahita Shamsaei is a techno and electro artist tracked on soundcheck, with 56 sets logged across Berlin, Copenhagen, Istanbul and London and 1 more. Often billed alongside ANAHITA, Tafkanik and Milli. Next up: Club Cheek, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Anahita Shamsaei is a techno and electro artist tracked on soundcheck, with 56 s
 
 ANAHITA, Tafkanik, Milli
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anahitashamsaei/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anahitashamsaei/)*

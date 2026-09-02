@@ -1,6 +1,6 @@
 # Qaoz
 
-Qaoz is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Wiener Würstelstand - Spittelau, Vienna on Fri, 4 Sept 2026.
+Qaoz is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Wiener Würstelstand - Spittelau, Vienna on Fri, 4 Sept 2026.
 
 Qaoz is a trance and techno artist based in Austria, tracked on soundcheck, with 9 sets logged across Vienna. Often billed alongside pinklotion, Arman Shadow and DJ Wolle. Next up: Wiener Würstelstand - Spittelau, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Qaoz is a trance and techno artist based in Austria, tracked on soundcheck, with
 
 pinklotion, Arman Shadow, DJ Wolle
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qaoz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qaoz/)*

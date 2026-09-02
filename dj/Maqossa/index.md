@@ -1,6 +1,6 @@
 # Maqossa
 
-Maqossa is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Gallery, London on Fri, 18 Sept 2026.
+Maqossa is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gallery, London on Fri, 18 Sept 2026.
 
 Maqossa is a house and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Dusseldorf and Ibiza and 6 more. Often billed alongside Joey Daniel, Prunk and Benny Rodrigues. Next up: Gallery, London on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Maqossa is a house and tech house artist tracked on soundcheck, with 98 sets log
 
 Joey Daniel, Prunk, Benny Rodrigues
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Maqossa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Maqossa/)*

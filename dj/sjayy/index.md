@@ -1,6 +1,6 @@
 # SJAYY
 
-SJAYY is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Los Angeles on Sat, 5 Sept 2026.
+SJAYY is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Los Angeles on Sat, 5 Sept 2026.
 
 SJAYY is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 36 sets logged across Chicago, Losangeles, Newyorkcity and Philadelphia and 3 more. Often billed alongside VICTORIA MOURA, baby.com and Marvelito. Next up: TBA, Losangeles on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ SJAYY is a club and hip-hop artist based in United States of America, tracked on
 
 VICTORIA MOURA, baby.com, Marvelito
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sjayy/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sjayy/)*

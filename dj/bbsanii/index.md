@@ -1,6 +1,6 @@
 # bbsanii
 
-bbsanii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Miscellania, Melbourne on Sat, 5 Sept 2026.
+bbsanii is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Miscellania, Melbourne on Sat, 5 Sept 2026.
 
 bbsanii is a techno and house artist tracked on soundcheck, with 27 sets logged across Melbourne. Often billed alongside Tina Disco, JUPiTA and Black Dave. Next up: Miscellania, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ bbsanii is a techno and house artist tracked on soundcheck, with 27 sets logged 
 
 Tina Disco, JUPiTA, Black Dave
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*

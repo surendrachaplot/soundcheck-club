@@ -1,6 +1,6 @@
 # Sasha Nevolin
 
-Sasha Nevolin is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Kolektor, Prague on Thu, 3 Sept 2026.
+Sasha Nevolin is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Kolektor, Prague on Thu, 3 Sept 2026.
 
 Sasha Nevolin is a house and club artist tracked on soundcheck, with 47 sets logged across Berlin and Prague. Often billed alongside Chep, Alex Neivel and Olinstvi. Next up: Kolektor, Prague on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Sasha Nevolin is a house and club artist tracked on soundcheck, with 47 sets log
 
 Chep, Alex Neivel, Olinstvi
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sashanevolin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sashanevolin/)*

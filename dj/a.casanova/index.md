@@ -1,6 +1,6 @@
 # A. CASANOVA
 
-A. CASANOVA is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Sept 2026.
+A. CASANOVA is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 A. CASANOVA is a house and electro artist tracked on soundcheck, with 18 sets logged across Barcelona. Often billed alongside FLEX.cat, J.Benitez (2) and Funky Shirts MZN. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ A. CASANOVA is a house and electro artist tracked on soundcheck, with 18 sets lo
 
 FLEX.cat, J.Benitez (2), Funky Shirts MZN
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.casanova/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.casanova/)*

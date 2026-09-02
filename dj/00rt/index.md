@@ -1,6 +1,6 @@
 # 00rt
 
-00rt is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mia Mao, Paris on Fri, 4 Sept 2026.
+00rt is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mia Mao, Paris on Fri, 4 Sept 2026.
 
 00rt is a techno and acid artist tracked on soundcheck, with 43 sets logged across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Ancient Methods, Unhuman and Frequency Shifter. Next up: Mia Mao, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@
 
 Ancient Methods, Unhuman, Frequency Shifter
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/00rt/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/00rt/)*

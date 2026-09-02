@@ -1,6 +1,6 @@
 # DSQISE
 
-DSQISE is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Location With Ticket, Denver on Sat, 5 Sept 2026.
+DSQISE is a Garage and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Location With Ticket, Denver on Sat, 5 Sept 2026.
 
 DSQISE is a garage and club artist based in United States of America, tracked on soundcheck, with 15 sets logged across Denver. Often billed alongside Andrew Bon Bosher, J BOLIVAR and Left/Right. Next up: TBA - Location With Ticket, Denver on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DSQISE is a garage and club artist based in United States of America, tracked on
 
 Andrew Bon Bosher, J BOLIVAR, Left/Right
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dsqise/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dsqise/)*

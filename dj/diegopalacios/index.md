@@ -1,6 +1,6 @@
 # Diego Palacios
 
-Diego Palacios is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sexto Piso, Mexico City on Tue, 15 Sept 2026.
+Diego Palacios is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sexto Piso, Mexico City on Tue, 15 Sept 2026.
 
 Diego Palacios is a trance and techno artist based in Mexico, tracked on soundcheck, with 9 sets logged across Mexicocity. Often billed alongside Leidbaz, rodrig0800 and INAKARA. Next up: Sexto Piso, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Diego Palacios is a trance and techno artist based in Mexico, tracked on soundch
 
 Leidbaz, rodrig0800, INAKARA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diegopalacios/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diegopalacios/)*

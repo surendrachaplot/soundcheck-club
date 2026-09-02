@@ -1,6 +1,6 @@
 # LNS
 
-LNS is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
+LNS is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
 
 LNS is an electro and techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Detroit and Leipzig and 7 more. Often billed alongside DJ Sotofett, IMOGEN and Function. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ LNS is an electro and techno artist tracked on soundcheck, with 44 sets logged a
 
 DJ Sotofett, IMOGEN, Function
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lns/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lns/)*

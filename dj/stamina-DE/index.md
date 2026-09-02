@@ -1,6 +1,6 @@
 # Stamina (DE)
 
-Stamina (DE) is a House and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hoppetosse, Berlin on Sat, 3 Oct 2026.
+Stamina (DE) is a House and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hoppetosse, Berlin on Sat, 3 Oct 2026.
 
 Stamina (DE) is a house and minimal techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Hamburg, Istanbul and London and 2 more. Often billed alongside DJ Regret, IC3 and K Motionz. Next up: Hoppetosse, Berlin on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Stamina (DE) is a house and minimal techno artist based in Germany, tracked on s
 
 DJ Regret, IC3, K Motionz
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stamina-DE/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stamina-DE/)*

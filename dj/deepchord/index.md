@@ -1,6 +1,6 @@
 # DeepChord
 
-DeepChord is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Agora Records, Los Angeles on Fri, 18 Sept 2026.
+DeepChord is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Agora Records, Los Angeles on Fri, 18 Sept 2026.
 
 DeepChord is a techno and dub techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Claudio PRC, Relaxer and Stacey Hotwaxx Hale. Next up: Agora Records, Losangeles on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DeepChord is a techno and dub techno artist tracked on soundcheck, with 12 sets 
 
 Claudio PRC, Relaxer, Stacey Hotwaxx Hale
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepchord/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepchord/)*

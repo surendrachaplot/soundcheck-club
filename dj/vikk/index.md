@@ -1,6 +1,6 @@
 # VIKk
 
-VIKk is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Sept 2026.
+VIKk is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 VIKk is a house and electro artist based in Spain, tracked on soundcheck, with 74 sets logged across Barcelona, Berlin, Brussels and Budapest and 8 more. Often billed alongside Perro Jimbo, MATT.. and Lamache. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ VIKk is a house and electro artist based in Spain, tracked on soundcheck, with 7
 
 Perro Jimbo, MATT.., Lamache
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*

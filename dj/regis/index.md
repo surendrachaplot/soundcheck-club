@@ -1,6 +1,6 @@
 # Regis
 
-Regis is a Techno and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Tresor / Globus, Berlin on Sat, 5 Sept 2026.
+Regis is a Techno and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Tresor / Globus, Berlin on Sat, 5 Sept 2026.
 
 Regis is a techno and drum & bass artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Tresor / Globus, Berlin on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Regis is a techno and drum & bass artist tracked on soundcheck, with 105 sets lo
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

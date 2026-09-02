@@ -1,6 +1,6 @@
 # INKY MCKAY
 
-INKY MCKAY is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 11 Sept 2026.
+INKY MCKAY is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 11 Sept 2026.
 
 INKY MCKAY is a garage and jungle artist tracked on soundcheck, with 14 sets logged across Brighton and Liverpool. Often billed alongside JAY-MO, Octave Ian and Luv (UK). Next up: 24 Kitchen Street, Liverpool on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ INKY MCKAY is a garage and jungle artist tracked on soundcheck, with 14 sets log
 
 JAY-MO, Octave Ian, Luv (UK)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inkymckay/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inkymckay/)*

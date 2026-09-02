@@ -1,6 +1,6 @@
 # Océane (2)
 
-Océane (2) is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Océane (2) is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Océane (2) is a club and trance artist based in United States of America, tracked on soundcheck, with 19 sets logged across Boston, Miami, Newyorkcity and Philadelphia and 1 more. Often billed alongside Warpstr, Tromac and umru. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Océane (2) is a club and trance artist based in United States of America, track
 
 Warpstr, Tromac, umru
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oceane-2/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oceane-2/)*

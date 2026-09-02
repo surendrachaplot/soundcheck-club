@@ -1,6 +1,6 @@
 # WHO
 
-WHO is a Club and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Thu, 22 Oct 2026.
+WHO is a Club and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Thu, 22 Oct 2026.
 
 WHO is a club and tech house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Ibiza, London and Miami. Often billed alongside Claptone, ACID HARRY and Artche. Next up: Grand Café Heineken Hoek, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ WHO is a club and tech house artist tracked on soundcheck, with 7 sets logged ac
 
 Claptone, ACID HARRY, Artche
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/who/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/who/)*

@@ -1,6 +1,6 @@
 # Jive Talk
 
-Jive Talk is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Distrikt, Leeds on Fri, 11 Sept 2026.
+Jive Talk is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Distrikt, Leeds on Fri, 11 Sept 2026.
 
 Jive Talk is a house and electro artist tracked on soundcheck, with 68 sets logged across Amsterdam, Brighton, Bristol and Brussels and 7 more. Often billed alongside Just Jam, Lulah Francs and Trixie (UK). Next up: Distrikt, Leeds on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Jive Talk is a house and electro artist tracked on soundcheck, with 68 sets logg
 
 Just Jam, Lulah Francs, Trixie (UK)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jivetalk-uk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jivetalk-uk/)*

@@ -1,6 +1,6 @@
 # Mac Diesel
 
-Mac Diesel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Marble Bar, Detroit on Fri, 4 Sept 2026.
+Mac Diesel is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Marble Bar, Detroit on Fri, 4 Sept 2026.
 
 Mac Diesel is a house and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Detroit. Often billed alongside Andrea Ghita, Bernat and Darren Shelton. Next up: Marble Bar, Detroit on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Mac Diesel is a house and techno artist based in United States of America, track
 
 Andrea Ghita, Bernat, Darren Shelton
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macdiesel/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macdiesel/)*

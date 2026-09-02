@@ -1,6 +1,6 @@
 # Trafic MC
 
-Trafic MC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lab 11, Birmingham on Fri, 18 Sept 2026.
+Trafic MC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lab 11, Birmingham on Fri, 18 Sept 2026.
 
 Trafic MC is a drum & bass and jungle artist tracked on soundcheck, with 28 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 3 more. Often billed alongside Crossy, Aries and Carasel. Next up: Lab 11, Birmingham on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Trafic MC is a drum & bass and jungle artist tracked on soundcheck, with 28 sets
 
 Crossy, Aries, Carasel
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traficmc/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traficmc/)*

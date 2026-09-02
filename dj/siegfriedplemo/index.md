@@ -1,6 +1,6 @@
 # Siegfried Plemo
 
-Siegfried Plemo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hoppetosse, Berlin on Sat, 19 Sept 2026.
+Siegfried Plemo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hoppetosse, Berlin on Sat, 19 Sept 2026.
 
 Siegfried Plemo is a house and club artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Bailey Brown, Etiennette and Fear Of Color. Next up: Hoppetosse, Berlin on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Siegfried Plemo is a house and club artist based in Germany, tracked on soundche
 
 Bailey Brown, Etiennette, Fear Of Color
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siegfriedplemo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siegfriedplemo/)*

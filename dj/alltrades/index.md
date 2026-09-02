@@ -1,6 +1,6 @@
 # All Trades
 
-All Trades is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Brick Street, Liverpool on Sat, 26 Sept 2026.
+All Trades is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Brick Street, Liverpool on Sat, 26 Sept 2026.
 
 All Trades is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Lisbon, Liverpool, Manchester and Singapore. Often billed alongside Sound of Drowning, Luna Thee Frenchie and Identikid. Next up: Brick Street, Liverpool on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ All Trades is a techno and electro artist based in United Kingdom, tracked on so
 
 Sound of Drowning, Luna Thee Frenchie, Identikid
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alltrades/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alltrades/)*

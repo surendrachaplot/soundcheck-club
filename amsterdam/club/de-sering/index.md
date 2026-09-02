@@ -1,6 +1,6 @@
 # De Sering
 
-De Sering is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "GALEJ" on Fri, 4 Sept 2026.
+De Sering is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "GALEJ" on Fri, 4 Sept 2026.
 
 De Sering is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Camille Maria, Darwin, Eylon and GATTOMUSiC and 2 more. Browse upcoming dates, start times and who's playing. Rhoneweg 6, 1043 AH Amsterdam, Netherlands.
 
@@ -16,4 +16,4 @@ De Sering is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights,
 
 Rhoneweg 6, 1043 AH Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-sering/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-sering/)*

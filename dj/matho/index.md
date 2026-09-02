@@ -1,6 +1,6 @@
 # Matho
 
-Matho is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 4 Sept 2026.
+Matho is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 4 Sept 2026.
 
 Matho is a garage and breakbeat artist based in Belgium, tracked on soundcheck, with 32 sets logged across Antwerp, Brussels, Ghent and Lisbon. Often billed alongside Nidrev, Ensarr and Nayrah. Next up: Village Underground Lisboa, Lisbon on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Matho is a garage and breakbeat artist based in Belgium, tracked on soundcheck, 
 
 Nidrev, Ensarr, Nayrah
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matho/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matho/)*

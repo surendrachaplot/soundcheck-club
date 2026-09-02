@@ -1,6 +1,6 @@
 # Apolonia
 
-Apolonia is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lieberscholli, Munich on Sun, 6 Sept 2026.
+Apolonia is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lieberscholli, Munich on Sun, 6 Sept 2026.
 
 Apolonia is a downtempo and electronica artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Hamburg, Munich and Warsaw. Often billed alongside WIEK, Blame the Booker and Cara Carpaccio. Next up: Lieberscholli, Munich on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Apolonia is a downtempo and electronica artist based in Germany, tracked on soun
 
 WIEK, Blame the Booker, Cara Carpaccio
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apolonia/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apolonia/)*

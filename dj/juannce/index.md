@@ -1,6 +1,6 @@
 # Juannce
 
-Juannce is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Discoteca Karma, Barcelona on Thu, 24 Sept 2026.
+Juannce is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Discoteca Karma, Barcelona on Thu, 24 Sept 2026.
 
 Juannce is a tech house and house artist tracked on soundcheck, with 48 sets logged across Barcelona. Often billed alongside DAGZZ, Fede Roses and Juan Ruesch. Next up: Discoteca Karma, Barcelona on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Juannce is a tech house and house artist tracked on soundcheck, with 48 sets log
 
 DAGZZ, Fede Roses, Juan Ruesch
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juannce/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juannce/)*

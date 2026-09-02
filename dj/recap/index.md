@@ -1,6 +1,6 @@
 # RECAP
 
-RECAP is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Monza Boschetti Reali , Milan on Sun, 6 Sept 2026.
+RECAP is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Monza Boschetti Reali , Milan on Sun, 6 Sept 2026.
 
 RECAP is a tech house and house artist tracked on soundcheck, with 2 sets logged across Milan. Often billed alongside CLELIA, Davide Squillace and Gaskin. Next up: TBA - Monza Boschetti Reali , Milan on Sun 6 Sept.
 
@@ -15,4 +15,4 @@ RECAP is a tech house and house artist tracked on soundcheck, with 2 sets logged
 
 CLELIA, Davide Squillace, Gaskin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/recap/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/recap/)*

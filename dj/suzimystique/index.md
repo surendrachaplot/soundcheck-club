@@ -1,6 +1,6 @@
 # Suzi Mystique
 
-Suzi Mystique is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Haus73, Hamburg on Fri, 11 Sept 2026.
+Suzi Mystique is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Haus73, Hamburg on Fri, 11 Sept 2026.
 
 Suzi Mystique is a house and breakbeat artist tracked on soundcheck, with 20 sets logged across Hamburg. Often billed alongside Ivaldo Gino, Ring41 and L.A.tifa. Next up: Haus73, Hamburg on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Suzi Mystique is a house and breakbeat artist tracked on soundcheck, with 20 set
 
 Ivaldo Gino, Ring41, L.A.tifa
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzimystique/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzimystique/)*

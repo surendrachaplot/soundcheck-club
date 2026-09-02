@@ -1,8 +1,8 @@
 # Gardenparty
 
-Gardenparty is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Process PDX, Portland on Fri, 18 Sept 2026.
+Gardenparty is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Process PDX, Portland on Fri, 18 Sept 2026.
 
-Gardenparty is a techno and bass artist tracked on soundcheck, with 14 sets logged across Portland and Vancouver. Often billed alongside DJ Eft, Carly Barton and Succubass. Next up: Process PDX, Portland on Fri 18 Sept.
+Gardenparty is a techno and bass artist tracked on soundcheck, with 15 sets logged across Portland and Vancouver. Often billed alongside DJ Eft, Carly Barton and Succubass. Next up: Process PDX, Portland on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gardenparty is a techno and bass artist tracked on soundcheck, with 14 sets logg
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Process PDX | Portland |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
+| Fri, 16 Oct 2026 | TBA - 525 SE Pine st | Portland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Gardenparty is a techno and bass artist tracked on soundcheck, with 14 sets logg
 
 DJ Eft, Carly Barton, Succubass
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gardenparty/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gardenparty/)*

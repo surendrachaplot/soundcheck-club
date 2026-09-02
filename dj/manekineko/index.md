@@ -1,6 +1,6 @@
 # Maneki Neko
 
-Maneki Neko is a New Wave and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bar Neun, Berlin on Sat, 19 Sept 2026.
+Maneki Neko is a New Wave and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bar Neun, Berlin on Sat, 19 Sept 2026.
 
 Maneki Neko is a new wave and ebm artist based in Czech Republic, tracked on soundcheck, with 15 sets logged across Berlin and Prague. Often billed alongside 3ever, DDK (1) and Demonika. Next up: Bar Neun, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Maneki Neko is a new wave and ebm artist based in Czech Republic, tracked on sou
 
 3ever, DDK (1), Demonika
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manekineko/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manekineko/)*

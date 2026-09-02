@@ -1,6 +1,6 @@
 # Liquid Asset
 
-Liquid Asset is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - 2041 Coral St Suite 2, Philadelphia, PA 19125, Philadelphia on Sat, 5 Sept 2026.
+Liquid Asset is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - 2041 Coral St Suite 2, Philadelphia, PA 19125, Philadelphia on Sat, 5 Sept 2026.
 
 Liquid Asset is a techno and industrial artist tracked on soundcheck, with 4 sets logged across Newyorkcity and Philadelphia. Often billed alongside JADALAREIGN, ADAB and Ali Berger. Next up: TBA - 2041 Coral St Suite 2, Philadelphia, PA 19125, Philadelphia on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Liquid Asset is a techno and industrial artist tracked on soundcheck, with 4 set
 
 JADALAREIGN, ADAB, Ali Berger
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidasset/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidasset/)*

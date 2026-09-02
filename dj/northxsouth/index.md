@@ -1,6 +1,6 @@
 # NORTHXSOUTH
 
-NORTHXSOUTH is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at clubasia, Tokyo on Fri, 4 Sept 2026.
+NORTHXSOUTH is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at clubasia, Tokyo on Fri, 4 Sept 2026.
 
 NORTHXSOUTH is a hip-hop and afrobeat artist tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside Muro, Jamon Iberico and Boo. Next up: clubasia, Tokyo on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ NORTHXSOUTH is a hip-hop and afrobeat artist tracked on soundcheck, with 5 sets 
 
 Muro, Jamon Iberico, Boo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/northxsouth/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/northxsouth/)*

@@ -1,6 +1,6 @@
 # Flexonaut
 
-Flexonaut is a Krautrock and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at ://about blank, Berlin on Wed, 2 Sept 2026.
+Flexonaut is a Krautrock and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at ://about blank, Berlin on Wed, 2 Sept 2026.
 
 Flexonaut is a krautrock and electronica artist tracked on soundcheck, with 3 sets logged across Amsterdam and Berlin. Often billed alongside Cobyn, Cosmic Force and Jungle By Night. Next up: ://about blank, Berlin on Wed 2 Sept.
 
@@ -19,4 +19,4 @@ Flexonaut is a krautrock and electronica artist tracked on soundcheck, with 3 se
 
 Cobyn, Cosmic Force, Jungle By Night
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flexonaut/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flexonaut/)*

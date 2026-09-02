@@ -1,6 +1,6 @@
 # Jer (CA)
 
-Jer (CA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Skylight Warehouse, Vancouver on Fri, 2 Oct 2026.
+Jer (CA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Skylight Warehouse, Vancouver on Fri, 2 Oct 2026.
 
 Jer (CA) is a techno and house artist based in Canada, tracked on soundcheck, with 5 sets logged across Vancouver. Often billed alongside 0xydr0p, alecks and 1905. Next up: Skylight Warehouse, Vancouver on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Jer (CA) is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 0xydr0p, alecks, 1905
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jer-ca/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jer-ca/)*

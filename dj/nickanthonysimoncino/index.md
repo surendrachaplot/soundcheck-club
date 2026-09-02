@@ -1,6 +1,6 @@
 # Nick Anthony Simoncino
 
-Nick Anthony Simoncino is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 19 Sept 2026.
+Nick Anthony Simoncino is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 19 Sept 2026.
 
 Nick Anthony Simoncino is a house artist tracked on soundcheck, with 3 sets logged across Barcelona, Berlin and Lisbon. Often billed alongside Antonio Marrandino, Bobby Dreams and CVLT. Next up: Collect LX Factory, Lisbon on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Nick Anthony Simoncino is a house artist tracked on soundcheck, with 3 sets logg
 
 Antonio Marrandino, Bobby Dreams, CVLT
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickanthonysimoncino/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickanthonysimoncino/)*

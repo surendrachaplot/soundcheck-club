@@ -1,6 +1,6 @@
 # Der Dritte Raum
 
-Der Dritte Raum is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Odonien, Cologne on Sat, 5 Sept 2026.
+Der Dritte Raum is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Odonien, Cologne on Sat, 5 Sept 2026.
 
 Der Dritte Raum is a techno and house artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Brussels and Cologne and 1 more. Often billed alongside Caleesi, Cotumo and EPHIE. Next up: Odonien, Cologne on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Der Dritte Raum is a techno and house artist tracked on soundcheck, with 12 sets
 
 Caleesi, Cotumo, EPHIE
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/derdritteraum/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/derdritteraum/)*

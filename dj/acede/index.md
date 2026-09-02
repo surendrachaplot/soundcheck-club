@@ -1,6 +1,6 @@
 # ACE [DE]
 
-ACE [DE] is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 10 Sept 2026.
+ACE [DE] is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 10 Sept 2026.
 
 ACE [DE] is a trance and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Munich. Often billed alongside 1luu, 9LALEY and Akuma. Next up: Bahnwärter Thiel, Munich on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ ACE [DE] is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 1luu, 9LALEY, Akuma
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acede/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acede/)*

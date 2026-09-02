@@ -1,6 +1,6 @@
 # Felinae
 
-Felinae is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Felinae is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Felinae is a techno and trance artist tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Budapest and Ibiza and 1 more. Often billed alongside Ozzwald, Rowsi and Amøn. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Felinae is a techno and trance artist tracked on soundcheck, with 40 sets logged
 
 Ozzwald, Rowsi, Amøn
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felinae/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felinae/)*

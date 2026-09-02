@@ -1,6 +1,6 @@
 # Scrappy Coco
 
-Scrappy Coco is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at elipamanoke, Leipzig on Sat, 12 Sept 2026.
+Scrappy Coco is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at elipamanoke, Leipzig on Sat, 12 Sept 2026.
 
 Scrappy Coco is a trance and techno artist tracked on soundcheck, with 57 sets logged across Leipzig and Mexicocity. Often billed alongside Richie Rollin, Gigi Spears and VLUNA. Next up: elipamanoke, Leipzig on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Scrappy Coco is a trance and techno artist tracked on soundcheck, with 57 sets l
 
 Richie Rollin, Gigi Spears, VLUNA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scrappycoco/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scrappycoco/)*

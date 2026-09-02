@@ -1,6 +1,6 @@
 # MELLIA
 
-MELLIA is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Otherworld ATX, Austin on Fri, 4 Sept 2026.
+MELLIA is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Otherworld ATX, Austin on Fri, 4 Sept 2026.
 
 MELLIA is a techno and minimal techno artist tracked on soundcheck, with 3 sets logged across Austin. Often billed alongside Apellum, DJ Hifi and Hana Sabri. Next up: TBA - Otherworld ATX, Austin on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ MELLIA is a techno and minimal techno artist tracked on soundcheck, with 3 sets 
 
 Apellum, DJ Hifi, Hana Sabri
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mellia/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mellia/)*

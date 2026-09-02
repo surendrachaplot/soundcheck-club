@@ -1,6 +1,6 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The White Hotel, Manchester on Fri, 4 Sept 2026.
+Paula Tape is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The White Hotel, Manchester on Fri, 4 Sept 2026.
 
 Paula Tape is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Athens, Bali and Bangkok and 48 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: The White Hotel, Manchester on Fri 4 Sept.
 
@@ -32,4 +32,4 @@ Paula Tape is a house and techno artist tracked on soundcheck, with 159 sets log
 
 Avalon Emerson, Bonobo, Bradley Zero
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

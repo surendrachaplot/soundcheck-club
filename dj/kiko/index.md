@@ -1,6 +1,6 @@
 # Kiko
 
-Kiko is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - LE YACHT, Lyon on Sat, 5 Sept 2026.
+Kiko is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - LE YACHT, Lyon on Sat, 5 Sept 2026.
 
 Kiko is a house and techno artist based in France, tracked on soundcheck, with 24 sets logged across Amsterdam, Athens, Berlin and Frankfurt and 9 more. Often billed alongside Darin Epsilon, La Forêt and Miss Monique. Next up: TBA - LE YACHT, Lyon on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Kiko is a house and techno artist based in France, tracked on soundcheck, with 2
 
 Darin Epsilon, La Forêt, Miss Monique
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko/)*

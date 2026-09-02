@@ -1,6 +1,6 @@
 # Nadezda
 
-Nadezda is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lux Fragil, Lisbon on Sat, 5 Sept 2026.
+Nadezda is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lux Fragil, Lisbon on Sat, 5 Sept 2026.
 
 Nadezda is an electronica and progressive house artist tracked on soundcheck, with 3 sets logged across Belgrade and Lisbon. Often billed alongside NADEZDA, Fantastic Man and HNRQ (2). Next up: Lux Fragil, Lisbon on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Nadezda is an electronica and progressive house artist tracked on soundcheck, wi
 
 NADEZDA, Fantastic Man, HNRQ (2)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadezdad/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadezdad/)*

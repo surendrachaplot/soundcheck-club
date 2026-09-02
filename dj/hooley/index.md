@@ -1,6 +1,6 @@
 # Hooley
 
-Hooley is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Holding Patterns, Leeds on Sat, 5 Sept 2026.
+Hooley is a Ambient and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Holding Patterns, Leeds on Sat, 5 Sept 2026.
 
 Hooley is an ambient and downtempo artist tracked on soundcheck, with 17 sets logged across Leeds, Manchester and Sheffield. Often billed alongside Simon Scott, Slacky [Space Ritual] and Ana K Miller. Next up: Holding Patterns, Leeds on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Hooley is an ambient and downtempo artist tracked on soundcheck, with 17 sets lo
 
 Simon Scott, Slacky [Space Ritual], Ana K Miller
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hooley/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hooley/)*

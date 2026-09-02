@@ -1,6 +1,6 @@
 # Art''otel Amsterdam
 
-Art''otel Amsterdam is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "The Disco Express: ADE Label Showcase" on Fri, 23 Oct 2026.
+Art''otel Amsterdam is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "The Disco Express: ADE Label Showcase" on Fri, 23 Oct 2026.
 
 Art''otel Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Bustin' Loose, Crystal Touch, Dan Cluskey and Monsieur Van Pratt and 2 more. Browse upcoming dates, start times and who's playing. Prins Hendrikkade 33, 1012 TM Amsterdam.
 
@@ -14,4 +14,4 @@ Art''otel Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcomi
 
 Prins Hendrikkade 33, 1012 TM Amsterdam, Amsterdam
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/art-otel-amsterdam/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/art-otel-amsterdam/)*

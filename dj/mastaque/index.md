@@ -1,6 +1,6 @@
 # mastaque
 
-mastaque is a Hip-Hop and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
+mastaque is a Hip-Hop and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
 
 mastaque is a hip-hop and garage artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Angel Gray, Cass Brewster and Continental GT. Next up: Queen Elizabeth Olympic Park, London on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ mastaque is a hip-hop and garage artist based in United Kingdom, tracked on soun
 
 Angel Gray, Cass Brewster, Continental GT
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mastaque/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mastaque/)*

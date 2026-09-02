@@ -1,6 +1,6 @@
 # Sergio Manyez
 
-Sergio Manyez is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Resume Valencia, Valencia on Sat, 19 Sept 2026.
+Sergio Manyez is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Resume Valencia, Valencia on Sat, 19 Sept 2026.
 
 Sergio Manyez is a tech house and house artist based in Spain, tracked on soundcheck, with 14 sets logged across Valencia. Often billed alongside DJ Free Download, Pau Pérez and Tommaso Pizzelli. Next up: Resume Valencia, Valencia on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sergio Manyez is a tech house and house artist based in Spain, tracked on soundc
 
 DJ Free Download, Pau Pérez, Tommaso Pizzelli
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiomanyez/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiomanyez/)*

@@ -1,6 +1,6 @@
 # Dj Lynce
 
-Dj Lynce is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Desterro, Lisbon on Fri, 11 Sept 2026.
+Dj Lynce is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Desterro, Lisbon on Fri, 11 Sept 2026.
 
 Dj Lynce is a techno and experimental artist tracked on soundcheck, with 35 sets logged across Berlin, Lisbon and Porto. Often billed alongside Nuno Beats, Nídia and Pisitakun. Next up: Desterro, Lisbon on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Dj Lynce is a techno and experimental artist tracked on soundcheck, with 35 sets
 
 Nuno Beats, Nídia, Pisitakun
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlynce/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlynce/)*

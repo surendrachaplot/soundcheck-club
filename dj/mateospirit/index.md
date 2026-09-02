@@ -1,6 +1,6 @@
 # Mateo & Spirit
 
-Mateo & Spirit is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Akvárium Klub, Budapest on Fri, 11 Sept 2026.
+Mateo & Spirit is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Akvárium Klub, Budapest on Fri, 11 Sept 2026.
 
 Mateo & Spirit are a techno and tech house duo based in Hungary, tracked on soundcheck, with 21 sets logged across Budapest. Often billed alongside Secret Factory, Shabaam and Denes Toth. Next up: Akvárium Klub, Budapest on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Mateo & Spirit are a techno and tech house duo based in Hungary, tracked on soun
 
 Secret Factory, Shabaam, Denes Toth
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mateospirit/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mateospirit/)*

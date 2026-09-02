@@ -1,6 +1,6 @@
 # Minna-no-Kimochi
 
-Minna-no-Kimochi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Parallel, Amsterdam on Thu, 22 Oct 2026.
+Minna-no-Kimochi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Parallel, Amsterdam on Thu, 22 Oct 2026.
 
 Minna-no-Kimochi is a techno and house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Bangkok, Belfast and Berlin and 14 more. Often billed alongside AKIRAM EN, Bambounou and Clouds. Next up: Parallel, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Minna-no-Kimochi is a techno and house artist based in United Kingdom, tracked o
 
 AKIRAM EN, Bambounou, Clouds
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*

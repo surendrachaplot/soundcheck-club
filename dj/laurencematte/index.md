@@ -1,6 +1,6 @@
 # Laurence Matte
 
-Laurence Matte is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 12 Sept 2026.
+Laurence Matte is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Société des arts technologiques, Montreal on Sat, 12 Sept 2026.
 
 Laurence Matte is a house and techno artist tracked on soundcheck, with 32 sets logged across Dusseldorf, Montreal, Newyorkcity and Paris and 1 more. Often billed alongside DJ Tennis, Vayia and Young Marco. Next up: Société des arts technologiques, Montreal on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Laurence Matte is a house and techno artist tracked on soundcheck, with 32 sets 
 
 DJ Tennis, Vayia, Young Marco
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencematte/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencematte/)*

@@ -1,6 +1,6 @@
 # Rob James
 
-Rob James is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Rob James is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Rob James is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Brighton, London and Malta. Often billed alongside Beiger, GRED and Lulu (UK). Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Rob James is a house and deep house artist based in United Kingdom, tracked on s
 
 Beiger, GRED, Lulu (UK)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robjames/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robjames/)*

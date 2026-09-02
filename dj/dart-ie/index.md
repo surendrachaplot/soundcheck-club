@@ -1,6 +1,6 @@
 # DART
 
-DART is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TivoliVredenburg, Utrecht on Fri, 4 Sept 2026.
+DART is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TivoliVredenburg, Utrecht on Fri, 4 Sept 2026.
 
 DART is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 23 more. Often billed alongside Kyle Starkey, Ben Hemsley and NewTone. Next up: TivoliVredenburg, Utrecht on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ DART is a techno and house artist tracked on soundcheck, with 111 sets logged ac
 
 Kyle Starkey, Ben Hemsley, NewTone
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*

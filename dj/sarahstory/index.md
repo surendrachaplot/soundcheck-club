@@ -1,6 +1,6 @@
 # Sarah Story
 
-Sarah Story is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Sarah Story is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
 Sarah Story is a house and techno artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 25 more. Often billed alongside Arielle Free, Danny Howard and Eats Everything. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Sarah Story is a house and techno artist based in United Kingdom, tracked on sou
 
 Arielle Free, Danny Howard, Eats Everything
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahstory/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahstory/)*

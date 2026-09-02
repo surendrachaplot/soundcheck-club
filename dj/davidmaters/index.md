@@ -1,6 +1,6 @@
 # David Maters
 
-David Maters is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Yan Gastro, Istanbul on Sat, 5 Sept 2026.
+David Maters is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Yan Gastro, Istanbul on Sat, 5 Sept 2026.
 
 David Maters is a house and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Frankfurt, Istanbul and Turin. Often billed alongside Joris Turenhout, Bienfait & Latour and Katrii. Next up: Yan Gastro, Istanbul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ David Maters is a house and techno artist tracked on soundcheck, with 21 sets lo
 
 Joris Turenhout, Bienfait & Latour, Katrii
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmaters/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmaters/)*

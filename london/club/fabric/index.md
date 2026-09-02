@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 28 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "FABRICLIVE x UKF: Koven, Taiki Nulight, Zero, Arcando, BCee, Brookes Brothers + more" on Fri, 4 Sept 2026.
+fabric is a music venue in London with 28 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "FABRICLIVE x UKF: Koven, Taiki Nulight, Zero, Arcando, BCee, Brookes Brothers + more" on Fri, 4 Sept 2026.
 
 fabric is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including A For Alpha, Alfie, Alfie Aukett and Ali Velmi and 2 more. Browse upcoming dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 28 upcoming nights, with
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

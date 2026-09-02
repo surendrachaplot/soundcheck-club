@@ -1,6 +1,6 @@
 # Varg²™
 
-Varg²™ is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Gaîté Lyrique, Paris on Sat, 5 Sept 2026.
+Varg²™ is a Techno and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Gaîté Lyrique, Paris on Sat, 5 Sept 2026.
 
 Varg²™ is a techno and pop artist tracked on soundcheck, with 32 sets logged across Basel, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside Anthony Linell, Mechatok and Kamixlo. Next up: La Gaîté Lyrique, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Varg²™ is a techno and pop artist tracked on soundcheck, with 32 sets logged 
 
 Anthony Linell, Mechatok, Kamixlo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varg2tm/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varg2tm/)*

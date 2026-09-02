@@ -1,6 +1,6 @@
 # nath (UK)
 
-nath (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at komunal, Birmingham on Sat, 5 Sept 2026.
+nath (UK) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at komunal, Birmingham on Sat, 5 Sept 2026.
 
 nath (UK) is a tech house and house artist tracked on soundcheck, with 4 sets logged across Birmingham and London. Often billed alongside George King, Harry Dale and Josh Dolton. Next up: komunal, Birmingham on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ nath (UK) is a tech house and house artist tracked on soundcheck, with 4 sets lo
 
 George King, Harry Dale, Josh Dolton
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nath-uk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nath-uk/)*

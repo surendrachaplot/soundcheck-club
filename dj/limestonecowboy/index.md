@@ -1,6 +1,6 @@
 # Limestone Cowboy
 
-Limestone Cowboy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at QUIVR, Brisbane on Fri, 4 Sept 2026.
+Limestone Cowboy is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at QUIVR, Brisbane on Fri, 4 Sept 2026.
 
 Limestone Cowboy is a house and disco artist based in Australia, tracked on soundcheck, with 3 sets logged across Brisbane. Often billed alongside WAHL and Rahaan. Next up: QUIVR, Brisbane on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ Limestone Cowboy is a house and disco artist based in Australia, tracked on soun
 
 WAHL, Rahaan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/limestonecowboy/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/limestonecowboy/)*

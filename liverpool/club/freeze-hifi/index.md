@@ -1,6 +1,6 @@
 # Freeze HiFi
 
-Freeze HiFi is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Freeze HiFi presents ROOG (Hardsoul) and ALXS" on Wed, 16 Sept 2026.
+Freeze HiFi is a music venue in Liverpool with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Freeze HiFi presents ROOG (Hardsoul) and ALXS" on Wed, 16 Sept 2026.
 
 Freeze HiFi is a music venue in Liverpool listed on soundcheck. 4 upcoming nights, with line-ups including ALXS, Greg Wilson, Hardsoul and K-Klass and 2 more. Browse upcoming dates, start times and who's playing. 82 Wood Street, Liverpool, United Kingdom, L1 4DQ.
 
@@ -17,4 +17,4 @@ Freeze HiFi is a music venue in Liverpool listed on soundcheck. 4 upcoming night
 
 82 Wood Street, Liverpool, United Kingdom, L1 4DQ, Liverpool
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*

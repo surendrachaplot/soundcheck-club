@@ -1,6 +1,6 @@
 # Lowki
 
-Lowki is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Shinjuku Duusraa, Tokyo on Fri, 18 Sept 2026.
+Lowki is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Shinjuku Duusraa, Tokyo on Fri, 18 Sept 2026.
 
 Lowki is a techno and bass artist based in United States of America, tracked on soundcheck, with 25 sets logged across Chicago, Cologne, Detroit and Tokyo. Often billed alongside A to C, Acrocanthosaurus and Fonts. Next up: Shinjuku Duusraa, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Lowki is a techno and bass artist based in United States of America, tracked on 
 
 A to C, Acrocanthosaurus, Fonts
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowki/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowki/)*

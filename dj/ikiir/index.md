@@ -1,6 +1,6 @@
 # IKIIR
 
-IKIIR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 12 Sept 2026.
+IKIIR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 12 Sept 2026.
 
 IKIIR is a techno and house artist tracked on soundcheck, with 36 sets logged across London and Milan. Often billed alongside ARMANDO, Luca Armando and Hertz Collision. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ IKIIR is a techno and house artist tracked on soundcheck, with 36 sets logged ac
 
 ARMANDO, Luca Armando, Hertz Collision
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikiir/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikiir/)*

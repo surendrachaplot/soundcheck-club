@@ -1,6 +1,6 @@
 # DJ Gilla
 
-DJ Gilla is a Broken Beat and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Total Refreshment Centre, London on Fri, 25 Sept 2026.
+DJ Gilla is a Broken Beat and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Total Refreshment Centre, London on Fri, 25 Sept 2026.
 
 DJ Gilla is a broken beat and funk / soul artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Leeds and London. Often billed alongside Russ Ryan, Children of Zeus and Alex Phountzi. Next up: Total Refreshment Centre, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ DJ Gilla is a broken beat and funk / soul artist based in United Kingdom, tracke
 
 Russ Ryan, Children of Zeus, Alex Phountzi
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgilla/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgilla/)*

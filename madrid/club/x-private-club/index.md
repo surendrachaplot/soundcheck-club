@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "lueasa at X club Madrid" on Sat, 5 Sept 2026.
+X Private Club is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "lueasa at X club Madrid" on Sat, 5 Sept 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including ALEX FÖX, Herrera (ES), Jaime O'Connor and lueasa and 2 more. Browse upcoming dates, start times and who's playing. Madrid.
 
@@ -17,4 +17,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 4 upcoming night
 
 Madrid, Madrid
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

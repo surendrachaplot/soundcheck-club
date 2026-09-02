@@ -1,6 +1,6 @@
 # Qino
 
-Qino is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Deli @ Dwell, American St & Thompson St, Philadelphia on Sat, 5 Sept 2026.
+Qino is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Deli @ Dwell, American St & Thompson St, Philadelphia on Sat, 5 Sept 2026.
 
 Qino is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 4 sets logged across Philadelphia. Often billed alongside tj groover, Big Queso and Cowa. Next up: TBA - Deli @ Dwell, American St & Thompson St, Philadelphia on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Qino is a house and funk / soul artist based in United States of America, tracke
 
 tj groover, Big Queso, Cowa
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qino/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qino/)*

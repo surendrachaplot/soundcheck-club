@@ -1,6 +1,6 @@
 # Neele
 
-Neele is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
+Neele is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 Neele is a techno and house artist based in Germany, tracked on soundcheck, with 51 sets logged across Berlin, Cologne, Geneva and Hamburg and 2 more. Often billed alongside Anna Malysz, Black Mirror Park and Momo. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Neele is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Anna Malysz, Black Mirror Park, Momo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neele/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neele/)*

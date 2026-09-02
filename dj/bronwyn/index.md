@@ -1,6 +1,6 @@
 # Bronwyn
 
-Bronwyn is a Experimental and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Planet Wax, London on Thu, 19 Nov 2026.
+Bronwyn is a Experimental and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Thu, 19 Nov 2026.
 
 Bronwyn is an experimental and drum & bass artist tracked on soundcheck, with 12 sets logged across Dublin, London and Vancouver. Often billed alongside cy.matic, IHA (CA) and Vasho. Next up: Planet Wax, London on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Bronwyn is an experimental and drum & bass artist tracked on soundcheck, with 12
 
 cy.matic, IHA (CA), Vasho
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn/)*

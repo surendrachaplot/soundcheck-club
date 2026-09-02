@@ -1,6 +1,6 @@
 # After X
 
-After X is a Techno and Noise artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Hasard Ludique, Paris on Sat, 5 Sept 2026.
+After X is a Techno and Noise artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Hasard Ludique, Paris on Sat, 5 Sept 2026.
 
 After X is a techno and noise artist tracked on soundcheck, with 10 sets logged across Berlin, Losangeles, Osaka and Paris and 1 more. Often billed alongside PARIS (AU), TBA and Bassvictim. Next up: Le Hasard Ludique, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ After X is a techno and noise artist tracked on soundcheck, with 10 sets logged 
 
 PARIS (AU), TBA, Bassvictim
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afterx/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afterx/)*

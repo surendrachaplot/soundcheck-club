@@ -1,6 +1,6 @@
 # Stereo Visions
 
-Stereo Visions is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sunny High, Stuttgart on Sat, 12 Sept 2026.
+Stereo Visions is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sunny High, Stuttgart on Sat, 12 Sept 2026.
 
 Stereo Visions is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin and Stuttgart. Often billed alongside Needs (2), Hjalte and Ardt. Next up: Sunny High, Stuttgart on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Stereo Visions is a techno and house artist based in Germany, tracked on soundch
 
 Needs (2), Hjalte, Ardt
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stereovisions/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stereovisions/)*

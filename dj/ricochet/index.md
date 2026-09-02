@@ -1,6 +1,6 @@
 # Ricochet
 
-Ricochet is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Carpet Shop, London on Sat, 5 Sept 2026.
+Ricochet is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Carpet Shop, London on Sat, 5 Sept 2026.
 
 Ricochet is a drum & bass and garage artist based in Bosnia and Herzegovina, tracked on soundcheck, with 5 sets logged across Brighton and London. Often billed alongside AC13, Acolyte and Afters. Next up: The Carpet Shop, London on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Ricochet is a drum & bass and garage artist based in Bosnia and Herzegovina, tra
 
 AC13, Acolyte, Afters
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricochet/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricochet/)*

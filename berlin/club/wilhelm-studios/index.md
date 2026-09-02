@@ -1,6 +1,6 @@
 # Wilhelm Studios
 
-Wilhelm Studios is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "+1 833 246 46 22 American Airlines Quebec Office" on Sat, 5 Sept 2026.
+Wilhelm Studios is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "+1 833 246 46 22 American Airlines Quebec Office" on Sat, 5 Sept 2026.
 
 Wilhelm Studios is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Kopenhagenerstr. 60-68, 13407 Berlin, Deutschland.
 
@@ -14,4 +14,4 @@ Wilhelm Studios is a music venue in Berlin listed on soundcheck. 1 upcoming nigh
 
 Kopenhagenerstr. 60-68, 13407 Berlin, Deutschland, Berlin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wilhelm-studios/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wilhelm-studios/)*

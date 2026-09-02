@@ -1,6 +1,6 @@
 # INLIMEN
 
-INLIMEN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hidden, Manchester on Sat, 12 Sept 2026.
+INLIMEN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hidden, Manchester on Sat, 12 Sept 2026.
 
 INLIMEN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Birmingham, Glasgow and Leeds and 8 more. Often billed alongside Arkane, Danny Roach and Mold Boutique. Next up: Hidden, Manchester on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ INLIMEN is a techno and house artist based in United Kingdom, tracked on soundch
 
 Arkane, Danny Roach, Mold Boutique
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inlimen/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inlimen/)*

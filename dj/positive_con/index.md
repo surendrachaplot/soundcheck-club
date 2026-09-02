@@ -1,6 +1,6 @@
 # Positive_Con
 
-Positive_Con is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Islington Arts Club, London on Sat, 5 Sept 2026.
+Positive_Con is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Islington Arts Club, London on Sat, 5 Sept 2026.
 
 Positive_Con is a drum & bass and garage artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside tasha.mp4, Faded Society and Gem Precious. Next up: Islington Arts Club, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Positive_Con is a drum & bass and garage artist tracked on soundcheck, with 11 s
 
 tasha.mp4, Faded Society, Gem Precious
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/positive_con/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/positive_con/)*

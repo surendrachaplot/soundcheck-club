@@ -1,6 +1,6 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Signal, New York City on Fri, 4 Sept 2026.
+Enrica Falqui is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Signal, New York City on Fri, 4 Sept 2026.
 
 Enrica Falqui is a techno and house artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Dea (6), ERIS and Alexia Glensy. Next up: Signal, Newyorkcity on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Enrica Falqui is a techno and house artist tracked on soundcheck, with 113 sets 
 
 Dea (6), ERIS, Alexia Glensy
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*

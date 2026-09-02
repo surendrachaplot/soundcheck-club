@@ -1,6 +1,6 @@
 # Adelina
 
-Adelina is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Monarch, Berlin on Fri, 4 Sept 2026.
+Adelina is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Monarch, Berlin on Fri, 4 Sept 2026.
 
 Adelina is a techno and house artist based in Ukraine, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Copenhagen and Melbourne and 3 more. Often billed alongside Travis or Alice, Minho Lee and Stanislav Tolkachev. Next up: Monarch, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Adelina is a techno and house artist based in Ukraine, tracked on soundcheck, wi
 
 Travis or Alice, Minho Lee, Stanislav Tolkachev
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adelina/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adelina/)*

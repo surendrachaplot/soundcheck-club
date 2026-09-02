@@ -1,6 +1,6 @@
 # Jason Leung
 
-Jason Leung is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Paper Dress Vintage, London on Sat, 12 Sept 2026.
+Jason Leung is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Paper Dress Vintage, London on Sat, 12 Sept 2026.
 
 Jason Leung is a house and jazz artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside EVM128, Goldbar and Grace Sands. Next up: Paper Dress Vintage, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jason Leung is a house and jazz artist tracked on soundcheck, with 17 sets logge
 
 EVM128, Goldbar, Grace Sands
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonleung/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonleung/)*

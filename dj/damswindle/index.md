@@ -1,6 +1,6 @@
 # Dam Swindle
 
-Dam Swindle is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at House of Yes, New York City on Sat, 5 Sept 2026.
+Dam Swindle is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at House of Yes, New York City on Sat, 5 Sept 2026.
 
 Dam Swindle is a house and disco artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside D Stone, BELLA (NL) and Cinthie. Next up: House of Yes, Newyorkcity on Sat 5 Sept.
 
@@ -33,4 +33,4 @@ Dam Swindle is a house and disco artist tracked on soundcheck, with 183 sets log
 
 D Stone, BELLA (NL), Cinthie
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*

@@ -1,6 +1,6 @@
 # Nay Nay
 
-Nay Nay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Miscellania, Melbourne on Thu, 3 Sept 2026.
+Nay Nay is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Miscellania, Melbourne on Thu, 3 Sept 2026.
 
 Nay Nay is a techno and house artist based in Australia, tracked on soundcheck, with 25 sets logged across Birmingham, Manchester, Melbourne and Paris and 1 more. Often billed alongside Zalina, Mon Franco and Casey Leaver. Next up: Miscellania, Melbourne on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Nay Nay is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Zalina, Mon Franco, Casey Leaver
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naynay/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naynay/)*

@@ -1,6 +1,6 @@
 # Taborkirche
 
-Taborkirche is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "ORGAN SEQUENCES XXXIV" on Sun, 13 Sept 2026.
+Taborkirche is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "ORGAN SEQUENCES XXXIV" on Sun, 13 Sept 2026.
 
 Taborkirche is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Taborstraße 17, 10997 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Taborkirche is a music venue in Berlin listed on soundcheck. 2 upcoming nights. 
 
 Taborstraße 17, 10997 Berlin, Germany, Berlin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/taborkirche/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/taborkirche/)*

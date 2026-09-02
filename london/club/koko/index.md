@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 17 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Louie Vega & Anané: The Ritual" on Fri, 4 Sept 2026.
+KOKO is a music venue in London with 17 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Louie Vega & Anané: The Ritual" on Fri, 4 Sept 2026.
 
 KOKO is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Yulia Niko, Alan Dixon, Anane and Benji B and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 17 upcoming nights, with l
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

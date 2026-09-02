@@ -1,6 +1,6 @@
 # Philipp Drube
 
-Philipp Drube is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Pleasure Patterns, Berlin on Sat, 5 Sept 2026.
+Philipp Drube is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pleasure Patterns, Berlin on Sat, 5 Sept 2026.
 
 Philipp Drube is a techno and trance artist tracked on soundcheck, with 67 sets logged across Berlin, Brussels, Budapest and Copenhagen and 13 more. Often billed alongside Frank Heise, Inverse Element and DINA. Next up: Pleasure Patterns, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Philipp Drube is a techno and trance artist tracked on soundcheck, with 67 sets 
 
 Frank Heise, Inverse Element, DINA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippdrube/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippdrube/)*

@@ -1,6 +1,6 @@
 # Doomkat
 
-Doomkat is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Nué Seoul, Seoul on Sun, 6 Sept 2026.
+Doomkat is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Nué Seoul, Seoul on Sun, 6 Sept 2026.
 
 Doomkat is an ambient and experimental artist tracked on soundcheck, with 3 sets logged across Seoul. Often billed alongside Joyul, Minuc and PAIK. Next up: Nué Seoul, Seoul on Sun 6 Sept.
 
@@ -19,4 +19,4 @@ Doomkat is an ambient and experimental artist tracked on soundcheck, with 3 sets
 
 Joyul, Minuc, PAIK
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doomkat/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doomkat/)*

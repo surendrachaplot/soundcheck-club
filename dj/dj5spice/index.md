@@ -1,6 +1,6 @@
 # dj 5spice
 
-dj 5spice is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Jupiter Disco, New York City on Wed, 23 Sept 2026.
+dj 5spice is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jupiter Disco, New York City on Wed, 23 Sept 2026.
 
 dj 5spice is a footwork and club artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity. Often billed alongside DJ Fat Frog, satandoll and Petal. Next up: Jupiter Disco, Newyorkcity on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ dj 5spice is a footwork and club artist based in United States of America, track
 
 DJ Fat Frog, satandoll, Petal
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj5spice/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj5spice/)*

@@ -1,6 +1,6 @@
 # Magnus Westwell
 
-Magnus Westwell is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 11 Sept 2026.
+Magnus Westwell is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 11 Sept 2026.
 
 Magnus Westwell is a techno and breakbeat artist tracked on soundcheck, with 6 sets logged across Bristol, Glasgow and London. Often billed alongside Malthus, ELIXIR and INKARA. Next up: EXIT Glasgow, Glasgow on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Magnus Westwell is a techno and breakbeat artist tracked on soundcheck, with 6 s
 
 Malthus, ELIXIR, INKARA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magnuswestwell/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/magnuswestwell/)*

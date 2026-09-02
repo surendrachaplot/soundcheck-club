@@ -1,6 +1,6 @@
 # Bailey Brown
 
-Bailey Brown is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hoppetosse, Berlin on Sat, 19 Sept 2026.
+Bailey Brown is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hoppetosse, Berlin on Sat, 19 Sept 2026.
 
 Bailey Brown is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin and Hamburg. Often billed alongside DJ BTM, Alex Benz and SKKIN VELVET. Next up: Hoppetosse, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Bailey Brown is a techno and house artist based in Germany, tracked on soundchec
 
 DJ BTM, Alex Benz, SKKIN VELVET
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baileybrown/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baileybrown/)*

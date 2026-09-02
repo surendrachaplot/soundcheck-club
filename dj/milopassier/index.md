@@ -1,6 +1,6 @@
 # Milo Passier
 
-Milo Passier is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Yellow House, Amsterdam on Sat, 12 Sept 2026.
+Milo Passier is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Yellow House, Amsterdam on Sat, 12 Sept 2026.
 
 Milo Passier is a house and tech house artist based in Netherlands, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Lisbon and Rotterdam and 1 more. Often billed alongside Lasse Top, Camikazy Uzi and Julian Wijn. Next up: Yellow House, Amsterdam on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Milo Passier is a house and tech house artist based in Netherlands, tracked on s
 
 Lasse Top, Camikazy Uzi, Julian Wijn
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milopassier/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milopassier/)*

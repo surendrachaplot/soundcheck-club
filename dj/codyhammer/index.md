@@ -1,6 +1,6 @@
 # Cody Hammer
 
-Cody Hammer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Spkrbox, Detroit on Fri, 4 Sept 2026.
+Cody Hammer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Spkrbox, Detroit on Fri, 4 Sept 2026.
 
 Cody Hammer is a techno and house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Detroit and Newyorkcity. Often billed alongside Floor Supervisor, Antonio Lombardo and Buzz Goree. Next up: Spkrbox, Detroit on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Cody Hammer is a techno and house artist based in United States of America, trac
 
 Floor Supervisor, Antonio Lombardo, Buzz Goree
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/codyhammer/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/codyhammer/)*

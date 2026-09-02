@@ -1,6 +1,6 @@
 # Konrad Ritter
 
-Konrad Ritter is a Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at ://about blank, Berlin on Wed, 2 Sept 2026.
+Konrad Ritter is a Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at ://about blank, Berlin on Wed, 2 Sept 2026.
 
 Konrad Ritter is an electro artist tracked on soundcheck, with 4 sets logged across Berlin and Hamburg. Often billed alongside A.B.U., AADJA and ARCHERY. Next up: ://about blank, Berlin on Wed 2 Sept.
 
@@ -20,4 +20,4 @@ Konrad Ritter is an electro artist tracked on soundcheck, with 4 sets logged acr
 
 A.B.U., AADJA, ARCHERY
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konradritter/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konradritter/)*

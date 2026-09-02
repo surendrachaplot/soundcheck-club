@@ -1,6 +1,6 @@
 # Joy Velas
 
-Joy Velas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Cheek, London on Fri, 18 Sept 2026.
+Joy Velas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club Cheek, London on Fri, 18 Sept 2026.
 
 Joy Velas is a house and techno artist tracked on soundcheck, with 9 sets logged across London and Saopaulo. Often billed alongside Corvina, PR.A.DO and Reizko. Next up: Club Cheek, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Joy Velas is a house and techno artist tracked on soundcheck, with 9 sets logged
 
 Corvina, PR.A.DO, Reizko
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyvelas/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyvelas/)*

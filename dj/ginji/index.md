@@ -1,6 +1,6 @@
 # Ginji
 
-Ginji is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Solfa, Tokyo on Fri, 11 Sept 2026.
+Ginji is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Solfa, Tokyo on Fri, 11 Sept 2026.
 
 Ginji is a bass and experimental artist based in Japan, tracked on soundcheck, with 51 sets logged across Tokyo. Often billed alongside KIMURA, AKIRAM EN and SAKO. Next up: Solfa, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ginji is a bass and experimental artist based in Japan, tracked on soundcheck, w
 
 KIMURA, AKIRAM EN, SAKO
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ginji/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ginji/)*

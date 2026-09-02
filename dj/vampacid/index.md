@@ -1,6 +1,6 @@
 # Vamp Acid
 
-Vamp Acid is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Locke, Hamburg on Thu, 3 Sept 2026.
+Vamp Acid is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Locke, Hamburg on Thu, 3 Sept 2026.
 
 Vamp Acid is an acid and techno artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Hamburg and Losangeles. Often billed alongside Vamp, Kimbownaut and ICKX. Next up: Locke, Hamburg on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Vamp Acid is an acid and techno artist tracked on soundcheck, with 15 sets logge
 
 Vamp, Kimbownaut, ICKX
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vampacid/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vampacid/)*

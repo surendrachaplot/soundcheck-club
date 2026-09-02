@@ -1,6 +1,6 @@
 # Kasja
 
-Kasja is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
+Kasja is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
 
 Kasja is a club and pop artist tracked on soundcheck, with 19 sets logged across Athens and Berlin. Often billed alongside Milad Samara, ELAYN and Souci. Next up: TBA -  VARIOUS, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kasja is a club and pop artist tracked on soundcheck, with 19 sets logged across
 
 Milad Samara, ELAYN, Souci
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasja/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kasja/)*

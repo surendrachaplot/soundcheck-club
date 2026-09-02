@@ -1,6 +1,6 @@
 # Syd Maes
 
-Syd Maes is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Terrace, Poblenou, Barcelona on Sat, 19 Sept 2026.
+Syd Maes is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Terrace, Poblenou, Barcelona on Sat, 19 Sept 2026.
 
 Syd Maes is a house and electronica artist based in Italy, tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside Jeep. Next up: TBA - Secret Terrace, Poblenou, Barcelona on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Syd Maes is a house and electronica artist based in Italy, tracked on soundcheck
 
 Jeep
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sydmaes/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sydmaes/)*

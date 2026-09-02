@@ -1,6 +1,6 @@
 # C4STRO
 
-C4STRO is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rūmu, Lisbon on Wed, 23 Sept 2026.
+C4STRO is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Rūmu, Lisbon on Wed, 23 Sept 2026.
 
 C4STRO is a house and funk / soul artist based in Portugal, tracked on soundcheck, with 16 sets logged across Lisbon. Often billed alongside Martim Tonic, MURI and 4IN. Next up: Rūmu, Lisbon on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ C4STRO is a house and funk / soul artist based in Portugal, tracked on soundchec
 
 Martim Tonic, MURI, 4IN
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c4stro/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c4stro/)*

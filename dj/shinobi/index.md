@@ -1,6 +1,6 @@
 # Shinobi
 
-Shinobi is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Shinobi is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Shinobi is a drum & bass and jungle artist tracked on soundcheck, with 26 sets logged across Brighton, Melbourne, Miami and Newyorkcity and 3 more. Often billed alongside Berrakka, Marie Qrie and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Shinobi is a drum & bass and jungle artist tracked on soundcheck, with 26 sets l
 
 Berrakka, Marie Qrie, SATURNSARii
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shinobi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shinobi/)*

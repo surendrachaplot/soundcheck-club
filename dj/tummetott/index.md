@@ -1,6 +1,6 @@
 # Tummetott
 
-Tummetott is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at gART.n, Berlin on Sat, 19 Sept 2026.
+Tummetott is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at gART.n, Berlin on Sat, 19 Sept 2026.
 
 Tummetott is a house and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Hamburg, Munich and Newyorkcity. Often billed alongside DirdyGerdi, Kon Faber and Britta Arnold. Next up: gART.n, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tummetott is a house and techno artist based in Germany, tracked on soundcheck, 
 
 DirdyGerdi, Kon Faber, Britta Arnold
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tummetott/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tummetott/)*

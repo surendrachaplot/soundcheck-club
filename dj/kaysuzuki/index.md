@@ -1,6 +1,6 @@
 # Kay Suzuki
 
-Kay Suzuki is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Room 86, London on Wed, 9 Sept 2026.
+Kay Suzuki is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Room 86, London on Wed, 9 Sept 2026.
 
 Kay Suzuki is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Athens, Berlin, Leeds and Liverpool and 5 more. Often billed alongside Nina Yamada, Tonydot and harrison guyett. Next up: Room 86, London on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Kay Suzuki is a house and jazz artist based in United Kingdom, tracked on soundc
 
 Nina Yamada, Tonydot, harrison guyett
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaysuzuki/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaysuzuki/)*

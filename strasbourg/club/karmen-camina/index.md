@@ -1,6 +1,6 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 6 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "SOUND OF KARMEN [Peach (3h set) • Vio PRG (3h30 set)]" on Fri, 4 Sept 2026.
+Karmen Camina is a music venue in Strasbourg with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "SOUND OF KARMEN [Peach (3h set) • Vio PRG (3h30 set)]" on Fri, 4 Sept 2026.
 
 Karmen Camina is a music venue in Strasbourg listed on soundcheck. 6 upcoming nights, with line-ups including Callèn, DBBD, Deadbeat and ELLLL and 2 more. Browse upcoming dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
@@ -19,4 +19,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 6 upcoming ni
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

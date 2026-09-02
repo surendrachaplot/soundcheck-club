@@ -1,6 +1,6 @@
 # Luna Lucci
 
-Luna Lucci is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
+Luna Lucci is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
 
 Luna Lucci is a techno artist tracked on soundcheck, with 5 sets logged across Amsterdam and Brussels. Often billed alongside Bermio, Joyhauser and A*S*Y*S (2). Next up: Q-Factory, Amsterdam on Wed 21 Oct.
 
@@ -21,4 +21,4 @@ Luna Lucci is a techno artist tracked on soundcheck, with 5 sets logged across A
 
 Bermio, Joyhauser, A*S*Y*S (2)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunalucci/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunalucci/)*

@@ -1,6 +1,6 @@
 # Frida
 
-Frida is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cova Santa, Ibiza on Fri, 18 Sept 2026.
+Frida is a Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Cova Santa, Ibiza on Fri, 18 Sept 2026.
 
 Frida is an electronica artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam, Ibiza and Oslo. Often billed alongside BERTON, Children of Valis and Fedya Hella. Next up: Cova Santa, Ibiza on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Frida is an electronica artist based in Netherlands, tracked on soundcheck, with
 
 BERTON, Children of Valis, Fedya Hella
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frida/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frida/)*

@@ -1,6 +1,6 @@
 # Kotaro Shimizu
 
-Kotaro Shimizu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mitsuki, Tokyo on Tue, 8 Sept 2026.
+Kotaro Shimizu is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mitsuki, Tokyo on Tue, 8 Sept 2026.
 
 Kotaro Shimizu is a techno and house artist based in Japan, tracked on soundcheck, with 36 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Yui (JP), tnseei and Kurea. Next up: Mitsuki, Tokyo on Tue 8 Sept.
 
@@ -26,4 +26,4 @@ Kotaro Shimizu is a techno and house artist based in Japan, tracked on soundchec
 
 Yui (JP), tnseei, Kurea
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kotaroshimizu/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kotaroshimizu/)*

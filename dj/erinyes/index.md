@@ -1,6 +1,6 @@
 # ERINYES
 
-ERINYES is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Tue, 15 Sept 2026.
+ERINYES is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Tue, 15 Sept 2026.
 
 ERINYES is an ebm and club artist tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside Hex Embrace, Byter and Freaky Emo. Next up: F8 1192 Folsom, Sanfrancisco on Tue 15 Sept.
 
@@ -20,4 +20,4 @@ ERINYES is an ebm and club artist tracked on soundcheck, with 4 sets logged acro
 
 Hex Embrace, Byter, Freaky Emo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erinyes/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erinyes/)*

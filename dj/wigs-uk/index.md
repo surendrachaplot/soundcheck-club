@@ -1,6 +1,6 @@
 # Wigs
 
-Wigs is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 10 Oct 2026.
+Wigs is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 10 Oct 2026.
 
 Wigs is a progressive house and trance artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Edinburgh, Hamburg, London and Manchester. Often billed alongside Body Clinic, Aiden Francis and DJ AV. Next up: People's Leisure Club, Edinburgh on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Wigs is a progressive house and trance artist based in United Kingdom, tracked o
 
 Body Clinic, Aiden Francis, DJ AV
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wigs-uk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wigs-uk/)*

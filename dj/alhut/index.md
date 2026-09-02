@@ -1,6 +1,6 @@
 # Al Hut
 
-Al Hut is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lauschangriff, Berlin on Thu, 3 Sept 2026.
+Al Hut is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lauschangriff, Berlin on Thu, 3 Sept 2026.
 
 Al Hut is an ambient and experimental artist based in Syria, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Elljay, Emme Moises and Geni Huomikker. Next up: Lauschangriff, Berlin on Thu 3 Sept.
 
@@ -22,4 +22,4 @@ Al Hut is an ambient and experimental artist based in Syria, tracked on soundche
 
 Elljay, Emme Moises, Geni Huomikker
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alhut/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alhut/)*

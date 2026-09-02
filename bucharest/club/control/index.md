@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "TWO WRONGS: Lee Scott, Black Josh, Tasha, Dana, Dumitra, Maica-ta" on Thu, 3 Sept 2026.
+control is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "TWO WRONGS: Lee Scott, Black Josh, Tasha, Dana, Dumitra, Maica-ta" on Thu, 3 Sept 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, with line-ups including AEREA, DAR DISKU, dragosh (RO) and Greg Downey and 2 more. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -20,4 +20,4 @@ control is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, w
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

@@ -1,6 +1,6 @@
 # G Belmonte
 
-G Belmonte is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Greyhound, London on Fri, 11 Sept 2026.
+G Belmonte is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Greyhound, London on Fri, 11 Sept 2026.
 
 G Belmonte is an electro and house artist based in Brazil, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Brighton and London. Often billed alongside Leonardo Cruz DJ, Simoon Pedro and De La Reef. Next up: The Greyhound, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ G Belmonte is an electro and house artist based in Brazil, tracked on soundcheck
 
 Leonardo Cruz DJ, Simoon Pedro, De La Reef
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gbelmonte/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gbelmonte/)*

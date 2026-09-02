@@ -1,6 +1,6 @@
 # Ter Steven
 
-Ter Steven is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 18 Sept 2026.
+Ter Steven is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 18 Sept 2026.
 
 Ter Steven is a house and minimal artist based in Spain, tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside Demofather, LAUCY and Tamborero. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ter Steven is a house and minimal artist based in Spain, tracked on soundcheck, 
 
 Demofather, LAUCY, Tamborero
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tersteven/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tersteven/)*

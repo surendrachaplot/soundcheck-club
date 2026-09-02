@@ -1,6 +1,6 @@
 # Bat (US)
 
-Bat (US) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at LFO.exp, Madrid on Fri, 18 Sept 2026.
+Bat (US) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at LFO.exp, Madrid on Fri, 18 Sept 2026.
 
 Bat (US) is a techno and electronica artist tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside ANGEL (3), EMIR-B and DISTORT (ES). Next up: LFO.exp, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Bat (US) is a techno and electronica artist tracked on soundcheck, with 30 sets 
 
 ANGEL (3), EMIR-B, DISTORT (ES)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bat-1/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bat-1/)*

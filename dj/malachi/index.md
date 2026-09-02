@@ -1,6 +1,6 @@
 # Malachi
 
-Malachi is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Good Room, New York City on Sat, 12 Sept 2026.
+Malachi is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Good Room, New York City on Sat, 12 Sept 2026.
 
 Malachi is a house and disco artist based in United States of America, tracked on soundcheck, with 44 sets logged across London, Newyorkcity, Prague and Sandiego and 1 more. Often billed alongside Motel Club, Malachi (2) and beewack. Next up: Good Room, Newyorkcity on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Malachi is a house and disco artist based in United States of America, tracked o
 
 Motel Club, Malachi (2), beewack
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malachi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malachi/)*

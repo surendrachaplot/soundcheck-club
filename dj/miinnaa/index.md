@@ -1,6 +1,6 @@
 # MIINNAA
 
-MIINNAA is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 27 Sept 2026.
+MIINNAA is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 27 Sept 2026.
 
 MIINNAA is a techno artist tracked on soundcheck, with 3 sets logged across Belgrade, Copenhagen and Istanbul. Often billed alongside David Löhlein, Dimi Angelis and Filip Xavi. Next up: Para Klub Beograd, Belgrade on Sun 27 Sept.
 
@@ -19,4 +19,4 @@ MIINNAA is a techno artist tracked on soundcheck, with 3 sets logged across Belg
 
 David Löhlein, Dimi Angelis, Filip Xavi
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miinnaa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miinnaa/)*

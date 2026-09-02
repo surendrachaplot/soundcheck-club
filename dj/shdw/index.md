@@ -1,6 +1,6 @@
 # SHDW
 
-SHDW is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Garage Klub, Antwerp on Sat, 5 Sept 2026.
+SHDW is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Garage Klub, Antwerp on Sat, 5 Sept 2026.
 
 SHDW is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Garage Klub, Antwerp on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ SHDW is a techno and house artist tracked on soundcheck, with 200 sets logged ac
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

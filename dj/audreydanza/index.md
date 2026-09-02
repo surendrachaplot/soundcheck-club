@@ -1,6 +1,6 @@
 # Audrey Danza
 
-Audrey Danza is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Motel Campo, Geneva on Sat, 5 Sept 2026.
+Audrey Danza is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Motel Campo, Geneva on Sat, 5 Sept 2026.
 
 Audrey Danza is a techno and trance artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: Motel Campo, Geneva on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Audrey Danza is a techno and trance artist tracked on soundcheck, with 177 sets 
 
 Kasper Marott, Anetha, DJ TOOL
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*

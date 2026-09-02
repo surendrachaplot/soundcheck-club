@@ -1,6 +1,6 @@
 # Umami Sound
 
-Umami Sound is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 25 Sept 2026.
+Umami Sound is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 25 Sept 2026.
 
 Umami Sound is a house and club artist based in France, tracked on soundcheck, with 12 sets logged across Berlin and Cologne. Often billed alongside 3ple Kix, DAESU and Hyperbole. Next up: Bulbul Berlin, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Umami Sound is a house and club artist based in France, tracked on soundcheck, w
 
 3ple Kix, DAESU, Hyperbole
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umamisound/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umamisound/)*

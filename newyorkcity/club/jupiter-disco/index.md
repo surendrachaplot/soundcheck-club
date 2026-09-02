@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 21 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "synchroNYCity I: the dark side of the moon with Secret Grapes, SUPER WAV, tonton" on Wed, 2 Sept 2026.
+Jupiter Disco is a music venue in New York City with 21 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "synchroNYCity I: the dark side of the moon with Secret Grapes, SUPER WAV, tonton" on Wed, 2 Sept 2026.
 
 Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 21 upcoming nights, with line-ups including ALI IRL, Brutal Twink, Caire and chicas over rice and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 21 upcoming 
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

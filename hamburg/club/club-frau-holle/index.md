@@ -1,6 +1,6 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "RELAX or ROLEX - Students free Entry" on Thu, 3 Sept 2026.
+Club Frau Holle is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "RELAX or ROLEX - Students free Entry" on Thu, 3 Sept 2026.
 
 Club Frau Holle is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with line-ups including Benjamin Grimm, CHICHO, Daniel Dreier and DAVIDE (2) and 2 more. Browse upcoming dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
@@ -17,4 +17,4 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 4 upcoming nig
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

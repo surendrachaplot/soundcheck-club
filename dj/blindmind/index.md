@@ -1,6 +1,6 @@
 # Blind Mind
 
-Blind Mind is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at BORIS CLUB, Barcelona on Sat, 5 Sept 2026.
+Blind Mind is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at BORIS CLUB, Barcelona on Sat, 5 Sept 2026.
 
 Blind Mind is a house artist tracked on soundcheck, with 3 sets logged across Barcelona. Often billed alongside JE·ROME, Jessy and K:ROL. Next up: BORIS CLUB, Barcelona on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Blind Mind is a house artist tracked on soundcheck, with 3 sets logged across Ba
 
 JE·ROME, Jessy, K:ROL
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blindmind/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blindmind/)*

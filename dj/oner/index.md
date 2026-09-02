@@ -1,6 +1,6 @@
 # O'ner
 
-O'ner is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Left Bank, Tbilisi on Fri, 11 Sept 2026.
+O'ner is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Left Bank, Tbilisi on Fri, 11 Sept 2026.
 
 O'ner is a house and garage artist based in Turkey, tracked on soundcheck, with 12 sets logged across Istanbul and Tbilisi. Often billed alongside Emanuele Barilli, Supu and Ben UFO. Next up: Left Bank, Tbilisi on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ O'ner is a house and garage artist based in Turkey, tracked on soundcheck, with 
 
 Emanuele Barilli, Supu, Ben UFO
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oner/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oner/)*

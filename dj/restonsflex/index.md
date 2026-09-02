@@ -1,6 +1,6 @@
 # RestonsFlex
 
-RestonsFlex is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Pamela Club, Paris on Sat, 19 Sept 2026.
+RestonsFlex is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pamela Club, Paris on Sat, 19 Sept 2026.
 
 RestonsFlex is a hip-hop and afrobeat artist tracked on soundcheck, with 27 sets logged across Copenhagen, Paris, Seoul and Stockholm and 1 more. Often billed alongside Adam Spielman, EmblaEliza and Cezaire. Next up: Pamela Club, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ RestonsFlex is a hip-hop and afrobeat artist tracked on soundcheck, with 27 sets
 
 Adam Spielman, EmblaEliza, Cezaire
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restonsflex/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restonsflex/)*

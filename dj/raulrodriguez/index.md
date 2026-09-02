@@ -1,6 +1,6 @@
 # Raul Rodriguez
 
-Raul Rodriguez is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 5 Sept 2026.
+Raul Rodriguez is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Sat, 5 Sept 2026.
 
 Raul Rodriguez is a tech house and techno artist tracked on soundcheck, with 69 sets logged across Budapest and Ibiza. Often billed alongside Andrea Oliva, Nic Fanciulli and Chelina Manuhutu. Next up: Ushuaïa Ibiza, Ibiza on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Raul Rodriguez is a tech house and techno artist tracked on soundcheck, with 69 
 
 Andrea Oliva, Nic Fanciulli, Chelina Manuhutu
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raulrodriguez/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raulrodriguez/)*

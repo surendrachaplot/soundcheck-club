@@ -1,6 +1,6 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 17 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Tilt Shift Wednesdays" on Wed, 2 Sept 2026.
+Revolver Upstairs is a music venue in Melbourne with 17 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Tilt Shift Wednesdays" on Wed, 2 Sept 2026.
 
 Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 17 upcoming nights, with line-ups including Acid Safari, Ageusic, Alex Wann and ANNIE KEZ and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
@@ -23,4 +23,4 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 17 upcomin
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

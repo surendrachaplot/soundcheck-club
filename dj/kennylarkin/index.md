@@ -1,6 +1,6 @@
 # Kenny Larkin
 
-Kenny Larkin is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
+Kenny Larkin is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
 
 Kenny Larkin is a techno and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 21 more. Often billed alongside Octave One, CESAR ALMENA and Carl Craig. Next up: fabric, London on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Kenny Larkin is a techno and house artist based in United States of America, tra
 
 Octave One, CESAR ALMENA, Carl Craig
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennylarkin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennylarkin/)*

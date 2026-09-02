@@ -1,6 +1,6 @@
 # Fraze
 
-Fraze is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Fraze is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 Fraze is an electronic artist tracked on soundcheck, with 2 sets logged across Prague and Seattle. Often billed alongside A Little Sound, Azyr and Casey Club. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -18,4 +18,4 @@ Fraze is an electronic artist tracked on soundcheck, with 2 sets logged across P
 
 A Little Sound, Azyr, Casey Club
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fraze/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fraze/)*

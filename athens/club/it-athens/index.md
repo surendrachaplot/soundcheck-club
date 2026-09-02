@@ -1,6 +1,6 @@
 # IT Athens
 
-IT Athens is a music venue in Athens with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "The Awakening - Opening Season event" on Fri, 4 Sept 2026.
+IT Athens is a music venue in Athens with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "The Awakening - Opening Season event" on Fri, 4 Sept 2026.
 
 IT Athens is a music venue in Athens listed on soundcheck. 8 upcoming nights, with line-ups including 16G., Dom K, Halina World and Jacopo Sb and 2 more. Browse upcoming dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
 
@@ -21,4 +21,4 @@ IT Athens is a music venue in Athens listed on soundcheck. 8 upcoming nights, wi
 
 Solomou 30 and Mpotasi 9 Street, Athens,10682, Athens
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*

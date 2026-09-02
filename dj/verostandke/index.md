@@ -1,6 +1,6 @@
 # Vero Standke
 
-Vero Standke is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Golden Gate, Berlin on Thu, 3 Sept 2026.
+Vero Standke is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Gate, Berlin on Thu, 3 Sept 2026.
 
 Vero Standke is a techno and tech house artist tracked on soundcheck, with 31 sets logged across Berlin. Often billed alongside FEVZEE, MEEMA and Mattone. Next up: Golden Gate, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Vero Standke is a techno and tech house artist tracked on soundcheck, with 31 se
 
 FEVZEE, MEEMA, Mattone
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verostandke/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/verostandke/)*

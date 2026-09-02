@@ -1,6 +1,6 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 24 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "NOYS" on Fri, 4 Sept 2026.
+BRET is a music venue in Amsterdam with 24 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "NOYS" on Fri, 4 Sept 2026.
 
 BRET is a music venue in Amsterdam listed on soundcheck. 24 upcoming nights, with line-ups including Anz, Bastienne, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ BRET is a music venue in Amsterdam listed on soundcheck. 24 upcoming nights, wit
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

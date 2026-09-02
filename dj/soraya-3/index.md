@@ -1,6 +1,6 @@
 # SORAYA*
 
-SORAYA* is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Steel Yard, London on Fri, 4 Sept 2026.
+SORAYA* is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Steel Yard, London on Fri, 4 Sept 2026.
 
 SORAYA* is a techno and house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Berlin, Brussels, Hamburg and Leipzig and 3 more. Often billed alongside Answer Code Request, Black Mirror Park and DAX J. Next up: The Steel Yard, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ SORAYA* is a techno and house artist based in United Kingdom, tracked on soundch
 
 Answer Code Request, Black Mirror Park, DAX J
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya-3/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya-3/)*

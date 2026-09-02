@@ -1,6 +1,6 @@
 # gi (24)
 
-gi (24) is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Sydney on Sat, 5 Sept 2026.
+gi (24) is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Sydney on Sat, 5 Sept 2026.
 
 gi (24) is a techno and idm artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Carrier, AERAE and Autogenesis. Next up: TBA, Sydney on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ gi (24) is a techno and idm artist tracked on soundcheck, with 17 sets logged ac
 
 Carrier, AERAE, Autogenesis
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gi-24/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gi-24/)*

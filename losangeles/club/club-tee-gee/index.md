@@ -1,6 +1,6 @@
 # Club Tee Gee
 
-Club Tee Gee is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Machine Club 9/3: Ethical Drvgs, Stacy Christine" on Thu, 3 Sept 2026.
+Club Tee Gee is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Machine Club 9/3: Ethical Drvgs, Stacy Christine" on Thu, 3 Sept 2026.
 
 Club Tee Gee is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including EthicalDrvgs and Stacy Christine. Browse upcoming dates, start times and who's playing. 3210 Glendale Blvd, Los Angeles, CA 90039, USA.
 
@@ -14,4 +14,4 @@ Club Tee Gee is a music venue in Losangeles listed on soundcheck. 1 upcoming nig
 
 3210 Glendale Blvd, Los Angeles, CA 90039, USA, Los Angeles
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/club-tee-gee/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/club-tee-gee/)*

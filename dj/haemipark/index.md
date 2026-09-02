@@ -1,6 +1,6 @@
 # Haemi Park
 
-Haemi Park is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Volnost, Seoul on Thu, 3 Sept 2026.
+Haemi Park is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Volnost, Seoul on Thu, 3 Sept 2026.
 
 Haemi Park is a minimal and techno artist tracked on soundcheck, with 100 sets logged across Seoul. Often billed alongside Noidman, NON IDENTITY and Pseudobaul. Next up: Volnost, Seoul on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Haemi Park is a minimal and techno artist tracked on soundcheck, with 100 sets l
 
 Noidman, NON IDENTITY, Pseudobaul
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haemipark/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haemipark/)*

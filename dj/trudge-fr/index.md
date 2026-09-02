@@ -1,6 +1,6 @@
 # Trudge
 
-Trudge is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at KALT, Strasbourg on Fri, 18 Sept 2026.
+Trudge is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at KALT, Strasbourg on Fri, 18 Sept 2026.
 
 Trudge is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Berlin, Brussels, Budapest and Dublin and 10 more. Often billed alongside CAIVA, Alex Farell and Cryptofauna. Next up: KALT, Strasbourg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Trudge is a techno and industrial artist tracked on soundcheck, with 33 sets log
 
 CAIVA, Alex Farell, Cryptofauna
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trudge-fr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trudge-fr/)*

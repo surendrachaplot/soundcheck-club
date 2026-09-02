@@ -1,6 +1,6 @@
 # Karla Amaro
 
-Karla Amaro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 20 Sept 2026.
+Karla Amaro is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 20 Sept 2026.
 
 Karla Amaro is a techno and house artist tracked on soundcheck, with 18 sets logged across Barcelona and Malaga. Often billed alongside André Butano, Jean Pierre and ATMEN. Next up: Sunseabar Beach Club, Barcelona on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Karla Amaro is a techno and house artist tracked on soundcheck, with 18 sets log
 
 André Butano, Jean Pierre, ATMEN
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karlaamaro/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karlaamaro/)*

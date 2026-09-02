@@ -1,6 +1,6 @@
 # DJ NATZZ
 
-DJ NATZZ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
+DJ NATZZ is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
 DJ NATZZ is a techno and trance artist tracked on soundcheck, with 4 sets logged across Madrid and Stuttgart. Often billed alongside Marcel Locust, Daniela Monroe and GAAAS. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ DJ NATZZ is a techno and trance artist tracked on soundcheck, with 4 sets logged
 
 Marcel Locust, Daniela Monroe, GAAAS
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnatzz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnatzz/)*

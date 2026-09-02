@@ -1,6 +1,6 @@
 # Dear Darling
 
-Dear Darling is a music venue in London with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Groovenix: Daniel Kazuo & Friends" on Fri, 4 Sept 2026.
+Dear Darling is a music venue in London with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Groovenix: Daniel Kazuo & Friends" on Fri, 4 Sept 2026.
 
 Dear Darling is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Abrahamsson, Arian Saravi, Ind Ra and Juandez and 2 more. Browse upcoming dates, start times and who's playing. 91 Jermyn St, St. James’s, London SW1Y 6JB.
 
@@ -16,4 +16,4 @@ Dear Darling is a music venue in London listed on soundcheck. 3 upcoming nights,
 
 91 Jermyn St, St. James’s, London SW1Y 6JB, London
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dear-darling/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dear-darling/)*

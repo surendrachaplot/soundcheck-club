@@ -1,6 +1,6 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Dance Support presents Devotion" on Wed, 2 Sept 2026.
+Mood Ring is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Dance Support presents Devotion" on Wed, 2 Sept 2026.
 
 Mood Ring is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including 444 (1), a.gar, AG (1) and AJACENT and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -23,4 +23,4 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nigh
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

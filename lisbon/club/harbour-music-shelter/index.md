@@ -1,6 +1,6 @@
 # Harbour Music Shelter
 
-Harbour Music Shelter is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Harbour Sundaze convida H.Baukloh e Let" on Sun, 6 Sept 2026.
+Harbour Music Shelter is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Harbour Sundaze convida H.Baukloh e Let" on Sun, 6 Sept 2026.
 
 Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Bruno Curtis, Gear, H.Baukloh and Kokeshi and 2 more. Browse upcoming dates, start times and who's playing. Cais do Gás Armazém A 1900-109 Lisboa, Portugal.
 
@@ -17,4 +17,4 @@ Harbour Music Shelter is a music venue in Lisbon listed on soundcheck. 4 upcomin
 
 Cais do Gás Armazém A 1900-109 Lisboa, Portugal, Lisbon
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/harbour-music-shelter/)*

@@ -1,6 +1,6 @@
 # Michael Upson
 
-Michael Upson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Eiger Studios, Leeds on Sat, 19 Sept 2026.
+Michael Upson is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Eiger Studios, Leeds on Sat, 19 Sept 2026.
 
 Michael Upson is a house and disco artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside DJ Subaru, Lucy Locket and Kessie. Next up: Eiger Studios, Leeds on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Michael Upson is a house and disco artist based in United Kingdom, tracked on so
 
 DJ Subaru, Lucy Locket, Kessie
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelupson/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelupson/)*

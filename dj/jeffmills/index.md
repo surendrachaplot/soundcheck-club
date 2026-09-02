@@ -1,6 +1,6 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Under the K Bridge, New York City on Sat, 5 Sept 2026.
+Jeff Mills is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Under the K Bridge, New York City on Sat, 5 Sept 2026.
 
 Jeff Mills is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Under the K Bridge, Newyorkcity on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ Jeff Mills is a techno and house artist tracked on soundcheck, with 179 sets log
 
 DVS1, Marcel Dettmann, Helena Hauff
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

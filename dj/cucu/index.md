@@ -1,6 +1,6 @@
 # Cucu
 
-Cucu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mad Radio Miami, Miami on Sun, 6 Sept 2026.
+Cucu is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mad Radio Miami, Miami on Sun, 6 Sept 2026.
 
 Cucu is a house and tech house artist tracked on soundcheck, with 3 sets logged across Barcelona and Miami. Often billed alongside ANABELEN, Cami di Marzo and DJ MANDY. Next up: Mad Radio Miami, Miami on Sun 6 Sept.
 
@@ -19,4 +19,4 @@ Cucu is a house and tech house artist tracked on soundcheck, with 3 sets logged 
 
 ANABELEN, Cami di Marzo, DJ MANDY
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cucu/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cucu/)*

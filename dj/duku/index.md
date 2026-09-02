@@ -1,6 +1,6 @@
 # DUKU
 
-DUKU is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Panke, Berlin on Sat, 5 Sept 2026.
+DUKU is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Panke, Berlin on Sat, 5 Sept 2026.
 
 DUKU is a bass and dubstep artist tracked on soundcheck, with 31 sets logged across Berlin, Brighton, Bristol and Leeds and 3 more. Often billed alongside SGT Pokes, Dub Athlete and MC Toast. Next up: Panke, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DUKU is a bass and dubstep artist tracked on soundcheck, with 31 sets logged acr
 
 SGT Pokes, Dub Athlete, MC Toast
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duku/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duku/)*

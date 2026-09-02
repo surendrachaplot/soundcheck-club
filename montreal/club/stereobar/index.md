@@ -1,6 +1,6 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Marsolo - Manuel Falardeau" on Fri, 4 Sept 2026.
+StereoBar is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Marsolo - Manuel Falardeau" on Fri, 4 Sept 2026.
 
 StereoBar is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including Brian Cuta, Claude VonStroke, Colmee and Deneb and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
@@ -23,4 +23,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 12 upcoming nights,
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

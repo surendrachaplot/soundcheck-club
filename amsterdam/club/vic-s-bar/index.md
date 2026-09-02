@@ -1,6 +1,6 @@
 # Vic's Bar
 
-Vic's Bar is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "FROW ADE 2026" on Sat, 24 Oct 2026.
+Vic's Bar is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "FROW ADE 2026" on Sat, 24 Oct 2026.
 
 Vic's Bar is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Dan Cluskey, Janika Tenn and LuxNL. Browse upcoming dates, start times and who's playing. Damrak 1-5, 1012 TM Amsterdam.
 
@@ -14,4 +14,4 @@ Vic's Bar is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, 
 
 Damrak 1-5, 1012 TM Amsterdam, Amsterdam
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/vic-s-bar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/vic-s-bar/)*

@@ -1,6 +1,6 @@
 # slowdancexo
 
-slowdancexo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Glob, Denver on Sat, 19 Sept 2026.
+slowdancexo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Glob, Denver on Sat, 19 Sept 2026.
 
 slowdancexo is a techno and trance artist tracked on soundcheck, with 7 sets logged across Austin, Denver, Newyorkcity and Sandiego. Often billed alongside Ak-4ya, Al V Dam and Amado. Next up: Glob, Denver on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ slowdancexo is a techno and trance artist tracked on soundcheck, with 7 sets log
 
 Ak-4ya, Al V Dam, Amado
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slowdancexo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slowdancexo/)*

@@ -1,6 +1,6 @@
 # Alice Mary
 
-Alice Mary is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gasteig, Munich on Sat, 12 Sept 2026.
+Alice Mary is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Gasteig, Munich on Sat, 12 Sept 2026.
 
 Alice Mary is a house and tech house artist tracked on soundcheck, with 6 sets logged across Berlin and Munich. Often billed alongside julës jay, Arne and Artur Bredo. Next up: Gasteig, Munich on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Alice Mary is a house and tech house artist tracked on soundcheck, with 6 sets l
 
 julës jay, Arne, Artur Bredo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alicemary/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alicemary/)*

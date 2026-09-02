@@ -1,6 +1,6 @@
 # Philipp Strobel
 
-Philipp Strobel is a EBM and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bergson Kunstkraftwerk, Munich on Fri, 23 Oct 2026.
+Philipp Strobel is a EBM and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bergson Kunstkraftwerk, Munich on Fri, 23 Oct 2026.
 
 Philipp Strobel is an ebm and techno artist based in Germany, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Krakow and 7 more. Often billed alongside Incendie, Caillou (DE) and Ancient Methods. Next up: Bergson Kunstkraftwerk, Munich on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Philipp Strobel is an ebm and techno artist based in Germany, tracked on soundch
 
 Incendie, Caillou (DE), Ancient Methods
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstrobel/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippstrobel/)*

@@ -1,6 +1,6 @@
 # Blame the Booker
 
-Blame the Booker is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at OIL Club, Shenzhen on Thu, 17 Sept 2026.
+Blame the Booker is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at OIL Club, Shenzhen on Thu, 17 Sept 2026.
 
 Blame the Booker is a techno and trance artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 13 more. Often billed alongside The Jakob Sister, Sabu! and RaverPik. Next up: OIL Club, Shenzhen on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Blame the Booker is a techno and trance artist tracked on soundcheck, with 119 s
 
 The Jakob Sister, Sabu!, RaverPik
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethebooker/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blamethebooker/)*

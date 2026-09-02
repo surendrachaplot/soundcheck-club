@@ -1,6 +1,6 @@
 # Manalou
 
-Manalou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at All My Friends, London on Sat, 26 Sept 2026.
+Manalou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at All My Friends, London on Sat, 26 Sept 2026.
 
 Manalou is a house and techno artist tracked on soundcheck, with 21 sets logged across London, Montreal, Newyorkcity and Toronto. Often billed alongside MNSA, Nadim Maghzal and Casa Kobrae. Next up: All My Friends, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Manalou is a house and techno artist tracked on soundcheck, with 21 sets logged 
 
 MNSA, Nadim Maghzal, Casa Kobrae
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manalou/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manalou/)*

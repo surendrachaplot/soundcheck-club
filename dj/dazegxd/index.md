@@ -1,6 +1,6 @@
 # Dazegxd
 
-Dazegxd is a Jungle and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 7 Sept 2026.
+Dazegxd is a Jungle and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 7 Sept 2026.
 
 Dazegxd is a jungle and house artist tracked on soundcheck, with 100 sets logged across Austin, Boston, Bristol and Chicago and 15 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 7 Sept.
 
@@ -27,4 +27,4 @@ Dazegxd is a jungle and house artist tracked on soundcheck, with 100 sets logged
 
 Yesterdayneverhappened, gum.mp3, Swami Sound
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*

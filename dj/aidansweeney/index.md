@@ -1,6 +1,6 @@
 # Aidan Sweeney
 
-Aidan Sweeney is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Island, Sydney on Sun, 27 Sept 2026.
+Aidan Sweeney is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Island, Sydney on Sun, 27 Sept 2026.
 
 Aidan Sweeney is a house and tech house artist tracked on soundcheck, with 3 sets logged across Glasgow and Sydney. Often billed alongside CLOVA, Disco-Dave and Hayley Zalassi. Next up: The Island, Sydney on Sun 27 Sept.
 
@@ -19,4 +19,4 @@ Aidan Sweeney is a house and tech house artist tracked on soundcheck, with 3 set
 
 CLOVA, Disco-Dave, Hayley Zalassi
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aidansweeney/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aidansweeney/)*

@@ -1,6 +1,6 @@
 # Milad Samara
 
-Milad Samara is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
+Milad Samara is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
 
 Milad Samara is a club and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Athens and Berlin. Often billed alongside Kasja, ELAYN and LOOPA (2). Next up: TBA -  VARIOUS, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Milad Samara is a club and techno artist based in Germany, tracked on soundcheck
 
 Kasja, ELAYN, LOOPA (2)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miladsamara/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miladsamara/)*

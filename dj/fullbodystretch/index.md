@@ -1,6 +1,6 @@
 # Full Body Stretch
 
-Full Body Stretch is a Bass and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mood Ring, New York City on Sat, 5 Sept 2026.
+Full Body Stretch is a Bass and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mood Ring, New York City on Sat, 5 Sept 2026.
 
 Full Body Stretch is a bass and dub techno artist tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Valentin Lamar, ALIKHAN and Maharam. Next up: Mood Ring, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Full Body Stretch is a bass and dub techno artist tracked on soundcheck, with 11
 
 Valentin Lamar, ALIKHAN, Maharam
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodystretch/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodystretch/)*

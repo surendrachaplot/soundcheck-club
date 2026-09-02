@@ -1,6 +1,6 @@
 # Mati Amoretti
 
-Mati Amoretti is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Prisma, Berlin on Tue, 8 Sept 2026.
+Mati Amoretti is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Prisma, Berlin on Tue, 8 Sept 2026.
 
 Mati Amoretti is a house and deep house artist based in Argentina, tracked on soundcheck, with 24 sets logged across Berlin and Madrid. Often billed alongside oulcan, Tom Pavicich and Nacho Carbajal. Next up: Prisma, Berlin on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ Mati Amoretti is a house and deep house artist based in Argentina, tracked on so
 
 oulcan, Tom Pavicich, Nacho Carbajal
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matiamoretti/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matiamoretti/)*

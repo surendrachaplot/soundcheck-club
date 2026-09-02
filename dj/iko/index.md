@@ -1,6 +1,6 @@
 # Iko
 
-Iko is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
+Iko is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
 
 Iko is a house and tech house artist based in Indonesia, tracked on soundcheck, with 10 sets logged across Tbilisi, Turin and Valencia. Often billed alongside Caballeri, Alex Rubino and BAR (DE). Next up: TBA, Turin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Iko is a house and tech house artist based in Indonesia, tracked on soundcheck, 
 
 Caballeri, Alex Rubino, BAR (DE)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iko/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iko/)*

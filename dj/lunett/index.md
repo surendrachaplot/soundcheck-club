@@ -1,6 +1,6 @@
 # Lunett
 
-Lunett is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bar Shaffy, Amsterdam on Wed, 21 Oct 2026.
+Lunett is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bar Shaffy, Amsterdam on Wed, 21 Oct 2026.
 
 Lunett is a house and garage artist tracked on soundcheck, with 4 sets logged across Amsterdam and Utrecht. Often billed alongside Beni Hana, Cees and Fenna Fiction. Next up: Bar Shaffy, Amsterdam on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Lunett is a house and garage artist tracked on soundcheck, with 4 sets logged ac
 
 Beni Hana, Cees, Fenna Fiction
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunett/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunett/)*

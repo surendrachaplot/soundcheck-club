@@ -1,6 +1,6 @@
 # Joris van Gelder
 
-Joris van Gelder is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 2 Oct 2026.
+Joris van Gelder is a House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 2 Oct 2026.
 
 Joris van Gelder is a house artist tracked on soundcheck, with 5 sets logged across Amsterdam. Often billed alongside Azzurro, DOA (2) and Ellia Jaya. Next up: Shelter Amsterdam, Amsterdam on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Joris van Gelder is a house artist tracked on soundcheck, with 5 sets logged acr
 
 Azzurro, DOA (2), Ellia Jaya
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvangelder/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvangelder/)*

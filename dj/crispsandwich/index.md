@@ -1,6 +1,6 @@
 # Crisp Sandwich
 
-Crisp Sandwich is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
+Crisp Sandwich is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
 
 Crisp Sandwich is a bass and techno artist tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside Axefield, Budino and Camille Maria. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
 
@@ -18,4 +18,4 @@ Crisp Sandwich is a bass and techno artist tracked on soundcheck, with 2 sets lo
 
 Axefield, Budino, Camille Maria
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crispsandwich/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crispsandwich/)*

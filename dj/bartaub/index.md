@@ -1,6 +1,6 @@
 # Bärtaub
 
-Bärtaub is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Distillery, Leipzig on Sat, 12 Sept 2026.
+Bärtaub is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Distillery, Leipzig on Sat, 12 Sept 2026.
 
 Bärtaub is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Leipzig and Paris. Often billed alongside Snad, Jakob Seidensticker and MELINA (3). Next up: Distillery, Leipzig on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bärtaub is a house and techno artist tracked on soundcheck, with 17 sets logged
 
 Snad, Jakob Seidensticker, MELINA (3)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bartaub/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bartaub/)*

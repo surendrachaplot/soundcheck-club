@@ -1,6 +1,6 @@
 # Levandream
 
-Levandream is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Prisma, Berlin on Tue, 8 Sept 2026.
+Levandream is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Prisma, Berlin on Tue, 8 Sept 2026.
 
 Levandream is a techno and house artist based in Jordan, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Agustin Mendez, BIJI ON DECKS and BOOTHBUNNY. Next up: Prisma, Berlin on Tue 8 Sept.
 
@@ -19,4 +19,4 @@ Levandream is a techno and house artist based in Jordan, tracked on soundcheck, 
 
 Agustin Mendez, BIJI ON DECKS, BOOTHBUNNY
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levandream/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levandream/)*

@@ -1,6 +1,6 @@
 # maxedvisa
 
-maxedvisa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Soleil, Toronto on Sat, 12 Sept 2026.
+maxedvisa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Soleil, Toronto on Sat, 12 Sept 2026.
 
 maxedvisa is a house and techno artist tracked on soundcheck, with 34 sets logged across Toronto. Often billed alongside Program Sam, florasystem and Wavy Oasis. Next up: Soleil, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ maxedvisa is a house and techno artist tracked on soundcheck, with 34 sets logge
 
 Program Sam, florasystem, Wavy Oasis
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxedvisa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxedvisa/)*

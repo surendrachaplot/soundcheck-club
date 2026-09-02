@@ -1,6 +1,6 @@
 # Gordon Flash
 
-Gordon Flash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 4 Sept 2026.
+Gordon Flash is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 4 Sept 2026.
 
 Gordon Flash is a techno and house artist based in Malta, tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Malta and Milan. Often billed alongside Patient (MT), Manthrax and Budg. Next up: RSO.BERLIN, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Gordon Flash is a techno and house artist based in Malta, tracked on soundcheck,
 
 Patient (MT), Manthrax, Budg
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gordonflash/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gordonflash/)*

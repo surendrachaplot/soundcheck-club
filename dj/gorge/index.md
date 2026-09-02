@@ -1,6 +1,6 @@
 # Gorge
 
-Gorge is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Mothership, Auckland on Sat, 26 Sept 2026.
+Gorge is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Mothership, Auckland on Sat, 26 Sept 2026.
 
 Gorge is a house and minimal artist tracked on soundcheck, with 10 sets logged across Auckland, Barcelona, Copenhagen and Frankfurt and 4 more. Often billed alongside Alain Hellion, heSAWyou and Antoine Baiser. Next up: The Mothership, Auckland on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Gorge is a house and minimal artist tracked on soundcheck, with 10 sets logged a
 
 Alain Hellion, heSAWyou, Antoine Baiser
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorge/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gorge/)*

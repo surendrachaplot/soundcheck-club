@@ -1,6 +1,6 @@
 # DJ JM
 
-DJ JM is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
+DJ JM is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
 
 DJ JM is a techno and bass artist tracked on soundcheck, with 54 sets logged across Athens, Berlin, Bristol and Brussels and 14 more. Often billed alongside TS Kahuna, Amiraku and A.dixen. Next up: Jasna 1, Warsaw on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ JM is a techno and bass artist tracked on soundcheck, with 54 sets logged acr
 
 TS Kahuna, Amiraku, A.dixen
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*

@@ -1,6 +1,6 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 10 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Monument Festival 2026 - Official afterparty w/ Amotik (UK) & Kris Berle (MX)" on Fri, 4 Sept 2026.
+The Villa is a music venue in Oslo with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Monument Festival 2026 - Official afterparty w/ Amotik (UK) & Kris Berle (MX)" on Fri, 4 Sept 2026.
 
 The Villa is a music venue in Oslo listed on soundcheck. 10 upcoming nights, with line-ups including Amotik, Bjørn Torske, Daichi Wada and Finnebassen and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
@@ -23,4 +23,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 10 upcoming nights, wit
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

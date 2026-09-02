@@ -1,6 +1,6 @@
 # Lu.Re
 
-Lu.Re is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at M.O.T, London on Fri, 18 Sept 2026.
+Lu.Re is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at M.O.T, London on Fri, 18 Sept 2026.
 
 Lu.Re is a garage and house artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Brighton, Brisbane and Bristol and 9 more. Often billed alongside Oneman, Jaguar and Jossy Mitsu. Next up: M.O.T, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Lu.Re is a garage and house artist based in United Kingdom, tracked on soundchec
 
 Oneman, Jaguar, Jossy Mitsu
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.re/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.re/)*

@@ -1,6 +1,6 @@
 # Marco Lys
 
-Marco Lys is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Terrrazza, Barcelona on Sat, 19 Sept 2026.
+Marco Lys is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Terrrazza, Barcelona on Sat, 19 Sept 2026.
 
 Marco Lys is a house and tech house artist based in Italy, tracked on soundcheck, with 36 sets logged across Amsterdam, Bali, Barcelona and Chicago and 15 more. Often billed alongside David Penn, FISHER and Benjamin Berg. Next up: La Terrrazza, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Marco Lys is a house and tech house artist based in Italy, tracked on soundcheck
 
 David Penn, FISHER, Benjamin Berg
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolys/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolys/)*

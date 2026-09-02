@@ -1,6 +1,6 @@
 # Torus
 
-Torus is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
+Torus is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
 
 Torus is a house and techno artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside SIGNAL (JP), Evian Christ and Ayana Pattra. Next up: TBA - Multiple Venues, Vienna on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Torus is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 SIGNAL (JP), Evian Christ, Ayana Pattra
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torus/)*

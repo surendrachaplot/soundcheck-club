@@ -1,6 +1,6 @@
 # Mitsuko
 
-Mitsuko is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 4 Sept 2026.
+Mitsuko is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 4 Sept 2026.
 
 Mitsuko is a house and deep house artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin and Tokyo. Often billed alongside Miss Kitchen, ADAM REC. and Cardi-O. Next up: Bulbul Berlin, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Mitsuko is a house and deep house artist based in Germany, tracked on soundcheck
 
 Miss Kitchen, ADAM REC., Cardi-O
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuko/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuko/)*

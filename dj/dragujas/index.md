@@ -1,6 +1,6 @@
 # Dr. Agujas
 
-Dr. Agujas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Mexico City on Tue, 15 Sept 2026.
+Dr. Agujas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Mexico City on Tue, 15 Sept 2026.
 
 Dr. Agujas is a house and techno artist tracked on soundcheck, with 10 sets logged across Mexicocity. Often billed alongside Alessandra Fierro, Ann García and Atosigado. Next up: TBA, Mexicocity on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Dr. Agujas is a house and techno artist tracked on soundcheck, with 10 sets logg
 
 Alessandra Fierro, Ann García, Atosigado
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dragujas/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dragujas/)*

@@ -1,6 +1,6 @@
 # Lewis Robertson
 
-Lewis Robertson is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 17 Oct 2026.
+Lewis Robertson is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 17 Oct 2026.
 
 Lewis Robertson is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Edinburgh, Glasgow and Newcastle. Often billed alongside Brewboy, Dance No Evil and Speki C. Next up: Ouseburn Garden, Newcastle on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Lewis Robertson is an electro and techno artist based in United Kingdom, tracked
 
 Brewboy, Dance No Evil, Speki C
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisrobertson/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisrobertson/)*

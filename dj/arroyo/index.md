@@ -1,6 +1,6 @@
 # Arroyo
 
-Arroyo is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Honey's, New York City on Fri, 4 Sept 2026.
+Arroyo is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Honey's, New York City on Fri, 4 Sept 2026.
 
 Arroyo is a deep house and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity and Washingtondc. Often billed alongside La Vega, Omar Ahmad and ÜNAM. Next up: Honey's, Newyorkcity on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Arroyo is a deep house and house artist based in United States of America, track
 
 La Vega, Omar Ahmad, ÜNAM
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arroyo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arroyo/)*

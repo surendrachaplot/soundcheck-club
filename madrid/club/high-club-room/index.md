@@ -1,6 +1,6 @@
 # High Club Room
 
-High Club Room is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Tortilla - Opening 9ª Temporada" on Sat, 19 Sept 2026.
+High Club Room is a music venue in Madrid with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Tortilla - Opening 9ª Temporada" on Sat, 19 Sept 2026.
 
 High Club Room is a music venue in Madrid listed on soundcheck. 5 upcoming nights, with line-ups including Depaart, ESSTI, frankydrama and Mario D'Fer and 2 more. Browse upcoming dates, start times and who's playing. C/ de Joaquin Costa 27, 28002. Madrid.
 
@@ -18,4 +18,4 @@ High Club Room is a music venue in Madrid listed on soundcheck. 5 upcoming night
 
 C/ de Joaquin Costa 27, 28002. Madrid, Madrid
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/high-club-room/)*

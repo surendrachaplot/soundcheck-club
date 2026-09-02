@@ -1,6 +1,6 @@
 # Jas Rial
 
-Jas Rial is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at PRST, Vienna on Fri, 4 Sept 2026.
+Jas Rial is a Minimal and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at PRST, Vienna on Fri, 4 Sept 2026.
 
 Jas Rial is a minimal and tech house artist tracked on soundcheck, with 10 sets logged across Vienna. Often billed alongside Bambalan, Blanch and Fabiano José. Next up: PRST, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jas Rial is a minimal and tech house artist tracked on soundcheck, with 10 sets 
 
 Bambalan, Blanch, Fabiano José
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasrial/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasrial/)*

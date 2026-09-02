@@ -1,6 +1,6 @@
 # DJ Izee
 
-DJ Izee is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Van de Werf, Amsterdam on Sat, 24 Oct 2026.
+DJ Izee is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Van de Werf, Amsterdam on Sat, 24 Oct 2026.
 
 DJ Izee is a house and tech house artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside DJ MAX (2), Kardano and Silven. Next up: Van de Werf, Amsterdam on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ DJ Izee is a house and tech house artist based in Netherlands, tracked on soundc
 
 DJ MAX (2), Kardano, Silven
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djizee/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djizee/)*

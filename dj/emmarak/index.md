@@ -1,6 +1,6 @@
 # Emma Rak
 
-Emma Rak is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
+Emma Rak is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 Emma Rak is a techno and trance artist tracked on soundcheck, with 6 sets logged across Berlin, Brussels, Newyorkcity and Sanfrancisco and 1 more. Often billed alongside 9-System, Cades and Concrete Husband. Next up: Underground SF, Sanfrancisco on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Emma Rak is a techno and trance artist tracked on soundcheck, with 6 sets logged
 
 9-System, Cades, Concrete Husband
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmarak/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmarak/)*

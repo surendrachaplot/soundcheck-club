@@ -1,6 +1,6 @@
 # Aether Club Budapest
 
-Aether Club Budapest is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "AETHER HARD - Johanna Bozai, KALMIKVCS, Rollator, Benke" on Fri, 4 Sept 2026.
+Aether Club Budapest is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "AETHER HARD - Johanna Bozai, KALMIKVCS, Rollator, Benke" on Fri, 4 Sept 2026.
 
 Aether Club Budapest is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including 96zen, AGA2L, Antique (HU) and Captain Knuckles and 2 more. Browse upcoming dates, start times and who's playing. Király street 13, Budapest, 1075, Hungary.
 
@@ -18,4 +18,4 @@ Aether Club Budapest is a music venue in Budapest listed on soundcheck. 5 upcomi
 
 Király street 13, Budapest, 1075, Hungary, Budapest
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/aether-club-budapest/)*

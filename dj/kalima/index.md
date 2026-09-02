@@ -1,6 +1,6 @@
 # Kalima
 
-Kalima is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+Kalima is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
 Kalima is a house and progressive house artist tracked on soundcheck, with 2 sets logged across Buenosaires and Rotterdam. Often billed alongside Another Taste, Bianca Oblivion and CHAMOS. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Kalima is a house and progressive house artist tracked on soundcheck, with 2 set
 
 Another Taste, Bianca Oblivion, CHAMOS
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalima/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalima/)*

@@ -1,6 +1,6 @@
 # Timid Boy
 
-Timid Boy is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Terraza Catedral, Mexico City on Sat, 5 Sept 2026.
+Timid Boy is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Terraza Catedral, Mexico City on Sat, 5 Sept 2026.
 
 Timid Boy is a house and minimal artist based in France, tracked on soundcheck, with 42 sets logged across Berlin, Lisbon, Mexicocity and Paris and 1 more. Often billed alongside heSAWyou, Alain Hellion and Hanzo Tono. Next up: Terraza Catedral, Mexicocity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Timid Boy is a house and minimal artist based in France, tracked on soundcheck, 
 
 heSAWyou, Alain Hellion, Hanzo Tono
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timidboy/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timidboy/)*

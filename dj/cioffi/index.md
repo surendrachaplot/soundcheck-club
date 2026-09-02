@@ -1,6 +1,6 @@
 # CIOFFI
 
-CIOFFI is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Crono Club, Sao Paulo on Sat, 12 Sept 2026.
+CIOFFI is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Crono Club, Sao Paulo on Sat, 12 Sept 2026.
 
 CIOFFI is a techno and dub techno artist tracked on soundcheck, with 6 sets logged across Saopaulo. Often billed alongside Vinicius Honorio, Ananda (BR) and André Luki. Next up: Crono Club, Saopaulo on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ CIOFFI is a techno and dub techno artist tracked on soundcheck, with 6 sets logg
 
 Vinicius Honorio, Ananda (BR), André Luki
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cioffi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cioffi/)*

@@ -1,6 +1,6 @@
 # HAO(KR)
 
-HAO(KR) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Shelter, Seoul on Fri, 4 Sept 2026.
+HAO(KR) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Shelter, Seoul on Fri, 4 Sept 2026.
 
 HAO(KR) is a house and tech house artist tracked on soundcheck, with 25 sets logged across Seoul. Often billed alongside Better, PIERRE BLANCHE and Kuro. Next up: Shelter, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ HAO(KR) is a house and tech house artist tracked on soundcheck, with 25 sets log
 
 Better, PIERRE BLANCHE, Kuro
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haokr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haokr/)*

@@ -1,6 +1,6 @@
 # oKálo
 
-oKálo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+oKálo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 oKálo is a house and electronica artist tracked on soundcheck, with 18 sets logged across Athens. Often billed alongside Stratos (2), Asphalt DJ and Reign Of Time. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ oKálo is a house and electronica artist tracked on soundcheck, with 18 sets log
 
 Stratos (2), Asphalt DJ, Reign Of Time
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okalo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okalo/)*

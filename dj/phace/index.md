@@ -1,6 +1,6 @@
 # Phace
 
-Phace is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at XTC Bushwick, New York City on Thu, 3 Sept 2026.
+Phace is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at XTC Bushwick, New York City on Thu, 3 Sept 2026.
 
 Phace is a drum & bass and bass artist tracked on soundcheck, with 33 sets logged across Auckland, Berlin, Bristol and Budapest and 16 more. Often billed alongside Misanthrop, Rockwell and Buunshin. Next up: XTC Bushwick, Newyorkcity on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Phace is a drum & bass and bass artist tracked on soundcheck, with 33 sets logge
 
 Misanthrop, Rockwell, Buunshin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phace/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phace/)*

@@ -1,6 +1,6 @@
 # CHICCA
 
-CHICCA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Brixton Jamm, London on Fri, 30 Oct 2026.
+CHICCA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Brixton Jamm, London on Fri, 30 Oct 2026.
 
 CHICCA is a house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Benny Page, DJ Millz and Deekline. Next up: Brixton Jamm, London on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ CHICCA is a house and techno artist based in United Kingdom, tracked on soundche
 
 Benny Page, DJ Millz, Deekline
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicca/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicca/)*

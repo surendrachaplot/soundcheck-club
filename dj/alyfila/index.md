@@ -1,6 +1,6 @@
 # Aly & Fila
 
-Aly & Fila is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Binks Yard, Nottingham on Sat, 19 Sept 2026.
+Aly & Fila is a Trance and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Binks Yard, Nottingham on Sat, 19 Sept 2026.
 
 Aly & Fila are a trance and progressive house duo tracked on soundcheck, with 50 sets logged across Amsterdam, Auckland, Austin and Berlin and 24 more. Often billed alongside Paul Van Dyk, Ferry Corsten and John O'Callaghan. Next up: Binks Yard, Nottingham on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Aly & Fila are a trance and progressive house duo tracked on soundcheck, with 50
 
 Paul Van Dyk, Ferry Corsten, John O'Callaghan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyfila/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyfila/)*

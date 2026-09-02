@@ -1,6 +1,6 @@
 # Sandraz
 
-Sandraz is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Nether Club, Bucharest on Fri, 18 Sept 2026.
+Sandraz is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nether Club, Bucharest on Fri, 18 Sept 2026.
 
 Sandraz is a techno and electro artist based in Romania, tracked on soundcheck, with 8 sets logged across Bucharest. Often billed alongside KATHERYNE, AMEDEUS and Stefan Hernandez. Next up: Nether Club, Bucharest on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ Sandraz is a techno and electro artist based in Romania, tracked on soundcheck, 
 
 KATHERYNE, AMEDEUS, Stefan Hernandez
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandraz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandraz/)*

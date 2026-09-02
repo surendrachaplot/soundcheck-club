@@ -1,6 +1,6 @@
 # Pontoon Budapest
 
-Pontoon Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Mehet x 4/4 @PONTOON" on Thu, 3 Sept 2026.
+Pontoon Budapest is a music venue in Budapest with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Mehet x 4/4 @PONTOON" on Thu, 3 Sept 2026.
 
 Pontoon Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming nights, with line-ups including Agettro, ANESI, Indirect Movement and Kiqo and 2 more. Browse upcoming dates, start times and who's playing. id. Antall József rakpart 1., Budapest, Hungary, 1051.
 
@@ -17,4 +17,4 @@ Pontoon Budapest is a music venue in Budapest listed on soundcheck. 4 upcoming n
 
 id. Antall József rakpart 1., Budapest, Hungary, 1051, Budapest
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pontoon-budapest/)*

@@ -1,6 +1,6 @@
 # An-i
 
-An-i is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Coco Boule, Berlin on Fri, 11 Sept 2026.
+An-i is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Coco Boule, Berlin on Fri, 11 Sept 2026.
 
 An-i is a techno and house artist tracked on soundcheck, with 45 sets logged across Belgrade, Berlin, Bucharest and Dublin and 11 more. Often billed alongside Veronica Vasicka, Layne and FFAN. Next up: Coco Boule, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ An-i is a techno and house artist tracked on soundcheck, with 45 sets logged acr
 
 Veronica Vasicka, Layne, FFAN
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/an-i/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/an-i/)*

@@ -1,6 +1,6 @@
 # Miro Von
 
-Miro Von is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Studio DB, Berlin on Sun, 13 Sept 2026.
+Miro Von is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Studio DB, Berlin on Sun, 13 Sept 2026.
 
 Miro Von is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin, Copenhagen and Leipzig. Often billed alongside Miro Von (unlive), VINVAR and Ellen Allien. Next up: TBA - Studio DB, Berlin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Miro Von is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Miro Von (unlive), VINVAR, Ellen Allien
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirovon/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirovon/)*

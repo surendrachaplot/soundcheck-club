@@ -1,6 +1,6 @@
 # Loo (3)
 
-Loo (3) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cantina Social, Athens on Fri, 4 Sept 2026.
+Loo (3) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Cantina Social, Athens on Fri, 4 Sept 2026.
 
 Loo (3) is a techno and electronica artist based in Greece, tracked on soundcheck, with 8 sets logged across Athens. Often billed alongside Bekha Mujiri, Chevy and ClubKid. Next up: Cantina Social, Athens on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Loo (3) is a techno and electronica artist based in Greece, tracked on soundchec
 
 Bekha Mujiri, Chevy, ClubKid
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loo-3/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loo-3/)*

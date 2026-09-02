@@ -1,6 +1,6 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Revolver Upstairs, Melbourne on Thu, 3 Sept 2026.
+davyboi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Revolver Upstairs, Melbourne on Thu, 3 Sept 2026.
 
 davyboi is a techno and trance artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Revolver Upstairs, Melbourne on Thu 3 Sept.
 
@@ -36,4 +36,4 @@ davyboi is a techno and trance artist tracked on soundcheck, with 163 sets logge
 
 Cleopard2000, Mika Heggemann, Alba Franch
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

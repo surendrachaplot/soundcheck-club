@@ -1,6 +1,6 @@
 # Kia (DE)
 
-Kia (DE) is a Electro and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
+Kia (DE) is a Electro and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Sydney on Sat, 12 Sept 2026.
 
 Kia (DE) is an electro and disco artist tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona, Brussels and Istanbul and 2 more. Often billed alongside Elias Mazian, Eva and Tsepo. Next up: TBA, Sydney on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kia (DE) is an electro and disco artist tracked on soundcheck, with 15 sets logg
 
 Elias Mazian, Eva, Tsepo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-de/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-de/)*

@@ -1,14 +1,15 @@
 # Asarri
 
-Asarri is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Asarri is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-Asarri is a techno and acid artist based in Serbia, tracked on soundcheck, with 34 sets logged across Belgrade, Istanbul and Munich. Often billed alongside Deeda, Essio and Mamavitae. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+Asarri is a techno and acid artist based in Serbia, tracked on soundcheck, with 35 sets logged across Belgrade, Istanbul and Munich. Often billed alongside Deeda, Essio and Mamavitae. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
+| Sat, 17 Oct 2026 | Drugstore Beograd | Belgrade |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Asarri is a techno and acid artist based in Serbia, tracked on soundcheck, with 
 
 Deeda, Essio, Mamavitae
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asarri/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/asarri/)*

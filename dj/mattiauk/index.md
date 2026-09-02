@@ -1,6 +1,6 @@
 # Mattia (UK)
 
-Mattia (UK) is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Next Door Records Two, London on Sat, 19 Sept 2026.
+Mattia (UK) is a Acid and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Next Door Records Two, London on Sat, 19 Sept 2026.
 
 Mattia (UK) is an acid and electro artist tracked on soundcheck, with 27 sets logged across Leeds, London and Manchester. Often billed alongside Flash Mitra, Maizy West and Raef.. Next up: Next Door Records Two, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Mattia (UK) is an acid and electro artist tracked on soundcheck, with 27 sets lo
 
 Flash Mitra, Maizy West, Raef.
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiauk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiauk/)*

@@ -1,6 +1,6 @@
 # Trikk
 
-Trikk is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 4 Sept 2026.
+Trikk is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 4 Sept 2026.
 
 Trikk is a house and techno artist tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Hï Ibiza, Ibiza on Fri 4 Sept.
 
@@ -32,4 +32,4 @@ Trikk is a house and techno artist tracked on soundcheck, with 157 sets logged a
 
 Âme, Jimi Jules, Dixon
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*

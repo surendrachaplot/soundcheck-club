@@ -1,6 +1,6 @@
 # Maica-ta
 
-Maica-ta is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at control, Bucharest on Thu, 3 Sept 2026.
+Maica-ta is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at control, Bucharest on Thu, 3 Sept 2026.
 
 Maica-ta is a bass and jungle artist tracked on soundcheck, with 4 sets logged across Bucharest. Often billed alongside Blackeye MC, Djinn and Gorgon Sound. Next up: control, Bucharest on Thu 3 Sept.
 
@@ -20,4 +20,4 @@ Maica-ta is a bass and jungle artist tracked on soundcheck, with 4 sets logged a
 
 Blackeye MC, Djinn, Gorgon Sound
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maica-ta/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maica-ta/)*

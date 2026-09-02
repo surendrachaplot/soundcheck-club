@@ -1,6 +1,6 @@
 # V (NYC)
 
-V (NYC) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Space KU Damm, Berlin on Sat, 5 Sept 2026.
+V (NYC) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Space KU Damm, Berlin on Sat, 5 Sept 2026.
 
 V (NYC) is a techno and tech house artist tracked on soundcheck, with 42 sets logged across Berlin, Hamburg, Prague and Tokyo. Often billed alongside Marc Eisenberg, Einfach Taffo and Groove Daniel. Next up: The Space KU Damm, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ V (NYC) is a techno and tech house artist tracked on soundcheck, with 42 sets lo
 
 Marc Eisenberg, Einfach Taffo, Groove Daniel
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vnyc/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vnyc/)*

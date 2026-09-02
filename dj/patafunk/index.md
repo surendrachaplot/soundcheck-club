@@ -1,6 +1,6 @@
 # Patafunk
 
-Patafunk is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mad Radio Miami, Miami on Wed, 2 Sept 2026.
+Patafunk is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mad Radio Miami, Miami on Wed, 2 Sept 2026.
 
 Patafunk is a house and disco artist based in United States of America, tracked on soundcheck, with 13 sets logged across Miami and Newyorkcity. Often billed alongside David Rondon, Dvize and Kike Roldan. Next up: Mad Radio Miami, Miami on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Patafunk is a house and disco artist based in United States of America, tracked 
 
 David Rondon, Dvize, Kike Roldan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patafunk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patafunk/)*

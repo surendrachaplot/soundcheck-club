@@ -1,6 +1,6 @@
 # Kris Tin
 
-Kris Tin is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ritter Butzke, Berlin on Sat, 26 Sept 2026.
+Kris Tin is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ritter Butzke, Berlin on Sat, 26 Sept 2026.
 
 Kris Tin is a techno and industrial artist tracked on soundcheck, with 53 sets logged across Berlin, Losangeles, Montreal and Toronto. Often billed alongside K657, Meen Moreen and Dopamyne. Next up: Ritter Butzke, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Kris Tin is a techno and industrial artist tracked on soundcheck, with 53 sets l
 
 K657, Meen Moreen, Dopamyne
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristin/)*

@@ -1,6 +1,6 @@
 # SONYDIAM
 
-SONYDIAM is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
+SONYDIAM is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
 
 SONYDIAM is a trance and techno artist based in Ukraine, tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside ASTA MARI, Adam Eisert and Alexander Santana. Next up: Den Anden Side, Copenhagen on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ SONYDIAM is a trance and techno artist based in Ukraine, tracked on soundcheck, 
 
 ASTA MARI, Adam Eisert, Alexander Santana
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonydiam/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonydiam/)*

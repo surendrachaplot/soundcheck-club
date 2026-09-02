@@ -1,6 +1,6 @@
 # MVHY
 
-MVHY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Crack Bellmer, Berlin on Fri, 4 Sept 2026.
+MVHY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Crack Bellmer, Berlin on Fri, 4 Sept 2026.
 
 MVHY is a house and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Newyorkcity, Stockholm and Stuttgart and 1 more. Often billed alongside La Schmock, DJ City and Natuta. Next up: Crack Bellmer, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ MVHY is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 La Schmock, DJ City, Natuta
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mvhy/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mvhy/)*

@@ -1,6 +1,6 @@
 # Meghan Lee
 
-Meghan Lee is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mad Radio Miami, Miami on Thu, 3 Sept 2026.
+Meghan Lee is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mad Radio Miami, Miami on Thu, 3 Sept 2026.
 
 Meghan Lee is an acid and house artist tracked on soundcheck, with 8 sets logged across Miami and Newyorkcity. Often billed alongside True Vine, Ultrathem and Bort. Next up: Mad Radio Miami, Miami on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Meghan Lee is an acid and house artist tracked on soundcheck, with 8 sets logged
 
 True Vine, Ultrathem, Bort
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meghanlee/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meghanlee/)*

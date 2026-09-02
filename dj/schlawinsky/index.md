@@ -1,6 +1,6 @@
 # Schlawinsky
 
-Schlawinsky is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Turtur, Hamburg on Sat, 26 Sept 2026.
+Schlawinsky is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Turtur, Hamburg on Sat, 26 Sept 2026.
 
 Schlawinsky is a techno and tech house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Hamburg. Often billed alongside Mono and Kusten, Murks and Bizzarro Universe. Next up: Turtur, Hamburg on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Schlawinsky is a techno and tech house artist based in Germany, tracked on sound
 
 Mono and Kusten, Murks, Bizzarro Universe
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schlawinsky/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schlawinsky/)*

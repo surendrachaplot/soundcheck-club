@@ -1,6 +1,6 @@
 # Fabian Fischbach
 
-Fabian Fischbach is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
+Fabian Fischbach is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
 
 Fabian Fischbach is a techno and house artist tracked on soundcheck, with 26 sets logged across Berlin. Often billed alongside tzunamic, Anne-Sophie Selig and DAV3. Next up: Humboldthain Club, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Fabian Fischbach is a techno and house artist tracked on soundcheck, with 26 set
 
 tzunamic, Anne-Sophie Selig, DAV3
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianfischbach/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianfischbach/)*

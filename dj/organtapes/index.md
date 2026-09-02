@@ -1,6 +1,6 @@
 # Organ Tapes
 
-Organ Tapes is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
+Organ Tapes is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Multiple Venues, Vienna on Fri, 4 Sept 2026.
 
 Organ Tapes is an experimental and ambient artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Madjestic Kasual, DJ Python and MUNNI. Next up: TBA - Multiple Venues, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Organ Tapes is an experimental and ambient artist tracked on soundcheck, with 41
 
 Madjestic Kasual, DJ Python, MUNNI
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/organtapes/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/organtapes/)*

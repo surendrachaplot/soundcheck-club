@@ -1,6 +1,6 @@
 # Beth Alana
 
-Beth Alana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at ÆDEN, Berlin on Wed, 2 Sept 2026.
+Beth Alana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at ÆDEN, Berlin on Wed, 2 Sept 2026.
 
 Beth Alana is a house and techno artist tracked on soundcheck, with 28 sets logged across Berlin, Manchester, Newcastle and Oslo and 3 more. Often billed alongside Šikšna, DJ Betska and Blck-Swan. Next up: ÆDEN, Berlin on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Beth Alana is a house and techno artist tracked on soundcheck, with 28 sets logg
 
 Šikšna, DJ Betska, Blck-Swan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bethalana/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bethalana/)*

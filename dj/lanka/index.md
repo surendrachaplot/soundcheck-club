@@ -1,6 +1,6 @@
 # Lanka
 
-Lanka is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Uebel & Gefährlich, Hamburg on Sat, 21 Nov 2026.
+Lanka is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Uebel & Gefährlich, Hamburg on Sat, 21 Nov 2026.
 
 Lanka is a techno and trance artist tracked on soundcheck, with 2 sets logged across Berlin and Hamburg. Often billed alongside Teenage Mutants, Budiratsch and Dimitri (1). Next up: Uebel & Gefährlich, Hamburg on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ Lanka is a techno and trance artist tracked on soundcheck, with 2 sets logged ac
 
 Teenage Mutants, Budiratsch, Dimitri (1)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lanka/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lanka/)*

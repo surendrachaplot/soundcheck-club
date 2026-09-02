@@ -1,6 +1,6 @@
 # Parallelle
 
-Parallelle is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Pershing Square, Los Angeles on Sat, 3 Oct 2026.
+Parallelle is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Pershing Square, Los Angeles on Sat, 3 Oct 2026.
 
 Parallelle is a house and deep house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside Jan Blomqvist, CamelPhat and DJ Tennis. Next up: Pershing Square, Losangeles on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Parallelle is a house and deep house artist tracked on soundcheck, with 105 sets
 
 Jan Blomqvist, CamelPhat, DJ Tennis
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*

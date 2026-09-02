@@ -1,6 +1,6 @@
 # Ossou Erratic
 
-Ossou Erratic is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The DBA, Manchester on Sat, 3 Oct 2026.
+Ossou Erratic is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The DBA, Manchester on Sat, 3 Oct 2026.
 
 Ossou Erratic is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London and Manchester. Often billed alongside Deventi, Hopeless Romantic and KOSO. Next up: The DBA, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ossou Erratic is a techno and bass artist based in United Kingdom, tracked on so
 
 Deventi, Hopeless Romantic, KOSO
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ossouerratic/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ossouerratic/)*

@@ -1,6 +1,6 @@
 # Yaggo
 
-Yaggo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Stage and Radio, Manchester on Fri, 11 Sept 2026.
+Yaggo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Stage and Radio, Manchester on Fri, 11 Sept 2026.
 
 Yaggo is a tech house and house artist tracked on soundcheck, with 8 sets logged across Amsterdam, Liverpool, London and Manchester and 1 more. Often billed alongside Chapter 47, Abel Ramos and Blasterjaxx. Next up: Stage and Radio, Manchester on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Yaggo is a tech house and house artist tracked on soundcheck, with 8 sets logged
 
 Chapter 47, Abel Ramos, Blasterjaxx
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaggo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaggo/)*

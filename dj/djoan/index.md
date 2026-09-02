@@ -1,6 +1,6 @@
 # Djoan
 
-Djoan is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Dosrombos, Barcelona on Sat, 5 Sept 2026.
+Djoan is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Dosrombos, Barcelona on Sat, 5 Sept 2026.
 
 Djoan is a house and tech house artist based in Chile, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin and Mexicocity. Often billed alongside Miguel Silva, Breezy S and Elwei. Next up: Dosrombos, Barcelona on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Djoan is a house and tech house artist based in Chile, tracked on soundcheck, wi
 
 Miguel Silva, Breezy S, Elwei
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoan/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoan/)*

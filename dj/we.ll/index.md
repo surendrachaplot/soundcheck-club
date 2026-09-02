@@ -1,6 +1,6 @@
 # WE.LL
 
-WE.LL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at MODULE, Copenhagen on Sat, 5 Sept 2026.
+WE.LL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at MODULE, Copenhagen on Sat, 5 Sept 2026.
 
 WE.LL is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Copenhagen and Newyorkcity. Often billed alongside kuini2000, Mama Snake and babsko. Next up: MODULE, Copenhagen on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ WE.LL is a techno and house artist based in United States of America, tracked on
 
 kuini2000, Mama Snake, babsko
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/we.ll/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/we.ll/)*

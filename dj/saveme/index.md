@@ -1,6 +1,6 @@
 # SAVE ME
 
-SAVE ME is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Skin Club, Madrid on Sat, 5 Sept 2026.
+SAVE ME is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Skin Club, Madrid on Sat, 5 Sept 2026.
 
 SAVE ME is an industrial and techno artist tracked on soundcheck, with 3 sets logged across Madrid. Often billed alongside Ayra Nishati, Nikolina and Ornella. Next up: Skin Club, Madrid on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ SAVE ME is an industrial and techno artist tracked on soundcheck, with 3 sets lo
 
 Ayra Nishati, Nikolina, Ornella
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saveme/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saveme/)*

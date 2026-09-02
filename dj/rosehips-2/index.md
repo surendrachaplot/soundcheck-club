@@ -1,6 +1,6 @@
 # Rose Hips (2)
 
-Rose Hips (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Piston, Toronto on Thu, 17 Sept 2026.
+Rose Hips (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Piston, Toronto on Thu, 17 Sept 2026.
 
 Rose Hips (2) is a house and techno artist based in Canada, tracked on soundcheck, with 22 sets logged across Newyorkcity and Toronto. Often billed alongside Prince Batrick, Venus in Foil and 9309. Next up: The Piston, Toronto on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Rose Hips (2) is a house and techno artist based in Canada, tracked on soundchec
 
 Prince Batrick, Venus in Foil, 9309
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosehips-2/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosehips-2/)*

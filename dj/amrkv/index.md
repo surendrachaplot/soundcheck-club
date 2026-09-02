@@ -1,6 +1,6 @@
 # Amrkv
 
-Amrkv is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
+Amrkv is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
 
 Amrkv is a techno artist based in Lithuania, tracked on soundcheck, with 2 sets logged across Toronto. Often billed alongside DJ h0mie, Jesse G and Jose Carbonell. Next up: TBA, Toronto on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Amrkv is a techno artist based in Lithuania, tracked on soundcheck, with 2 sets 
 
 DJ h0mie, Jesse G, Jose Carbonell
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amrkv/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amrkv/)*

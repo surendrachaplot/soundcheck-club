@@ -1,6 +1,6 @@
 # Alci
 
-Alci is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
+Alci is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
 
 Alci is a house and minimal artist tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Basel and Brussels and 24 more. Often billed alongside ANOTR, Flavio (CH) and Danyelino. Next up: Sophie Festival, Malaga on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Alci is a house and minimal artist tracked on soundcheck, with 108 sets logged a
 
 ANOTR, Flavio (CH), Danyelino
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*

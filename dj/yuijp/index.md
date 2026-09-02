@@ -1,6 +1,6 @@
 # Yui (JP)
 
-Yui (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Metro, Kyoto on Sat, 12 Sept 2026.
+Yui (JP) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club Metro, Kyoto on Sat, 12 Sept 2026.
 
 Yui (JP) is a techno and house artist tracked on soundcheck, with 54 sets logged across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside tnseei, Lynta and Kurea. Next up: Club Metro, Kyoto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Yui (JP) is a techno and house artist tracked on soundcheck, with 54 sets logged
 
 tnseei, Lynta, Kurea
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuijp/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuijp/)*

@@ -1,6 +1,6 @@
 # Hafa
 
-Hafa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Borisov Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Hafa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Borisov Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Hafa is a techno and house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam and Ghent. Often billed alongside Hame (1), Gizem and Lola Haro. Next up: Borisov Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Hafa is a techno and house artist based in Netherlands, tracked on soundcheck, w
 
 Hame (1), Gizem, Lola Haro
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hafa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hafa/)*

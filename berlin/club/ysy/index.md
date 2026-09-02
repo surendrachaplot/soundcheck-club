@@ -1,6 +1,6 @@
 # YSY
 
-YSY is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Under A Groove" on Thu, 10 Sept 2026.
+YSY is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Under A Groove" on Thu, 10 Sept 2026.
 
 YSY is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Michael Fam, Stefan Seay and Tempestfeather. Browse upcoming dates, start times and who's playing. Frankfurter Allee 23.
 
@@ -15,4 +15,4 @@ YSY is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with lin
 
 Frankfurter Allee 23, Berlin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ysy/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ysy/)*

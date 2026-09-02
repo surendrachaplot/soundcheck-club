@@ -1,6 +1,6 @@
 # David Gaviria
 
-David Gaviria is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at MAD Radio NYC, New York City on Wed, 2 Sept 2026.
+David Gaviria is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at MAD Radio NYC, New York City on Wed, 2 Sept 2026.
 
 David Gaviria is a house and minimal artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Pablo Flor, Juan Toca Rico and Camila Wolf. Next up: MAD Radio NYC, Newyorkcity on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ David Gaviria is a house and minimal artist based in United States of America, t
 
 Pablo Flor, Juan Toca Rico, Camila Wolf
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgaviria/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgaviria/)*

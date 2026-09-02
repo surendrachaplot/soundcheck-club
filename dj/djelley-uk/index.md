@@ -1,6 +1,6 @@
 # DJelley
 
-DJelley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Phonox, London on Thu, 10 Sept 2026.
+DJelley is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Phonox, London on Thu, 10 Sept 2026.
 
 DJelley is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Auckland, Bali and Barcelona and 16 more. Often billed alongside Reece Hodges, Memory Muscle and Vanity Project. Next up: Phonox, London on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ DJelley is a techno and house artist tracked on soundcheck, with 84 sets logged 
 
 Reece Hodges, Memory Muscle, Vanity Project
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djelley-uk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djelley-uk/)*

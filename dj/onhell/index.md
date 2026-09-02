@@ -1,6 +1,6 @@
 # ONHELL
 
-ONHELL is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ground Floor, Philadelphia on Sat, 12 Sept 2026.
+ONHELL is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ground Floor, Philadelphia on Sat, 12 Sept 2026.
 
 ONHELL is a bass and club artist tracked on soundcheck, with 25 sets logged across Austin, Chicago, Detroit and Losangeles and 10 more. Often billed alongside Bianca Oblivion, Shades and Anna Morgan. Next up: Ground Floor, Philadelphia on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ONHELL is a bass and club artist tracked on soundcheck, with 25 sets logged acro
 
 Bianca Oblivion, Shades, Anna Morgan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onhell/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onhell/)*

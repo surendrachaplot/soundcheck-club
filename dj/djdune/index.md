@@ -1,6 +1,6 @@
 # Dj Dune
 
-Dj Dune is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 4 Sept 2026.
+Dj Dune is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 4 Sept 2026.
 
 Dj Dune is a techno and house artist based in Italy, tracked on soundcheck, with 15 sets logged across Berlin, Dusseldorf, Madrid and Rome and 1 more. Often billed alongside Astral Travel, DRAMA SOURCE ARTIFACTS and Inner Lakes. Next up: THE MAGICK BAR, Rome on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Dj Dune is a techno and house artist based in Italy, tracked on soundcheck, with
 
 Astral Travel, DRAMA SOURCE ARTIFACTS, Inner Lakes
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdune/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdune/)*

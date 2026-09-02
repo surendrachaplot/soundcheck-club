@@ -1,6 +1,6 @@
 # Yuma (UK)
 
-Yuma (UK) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Greyhound, London on Fri, 11 Sept 2026.
+Yuma (UK) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Greyhound, London on Fri, 11 Sept 2026.
 
 Yuma (UK) is an electro and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brighton, London and Malaga. Often billed alongside Oren (IT), Peter Grand and Oren.. Next up: The Greyhound, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Yuma (UK) is an electro and house artist based in United Kingdom, tracked on sou
 
 Oren (IT), Peter Grand, Oren.
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yumauk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yumauk/)*

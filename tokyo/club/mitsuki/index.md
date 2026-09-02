@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "~DANCE~ Stillmoment/5harpy/teppei" on Tue, 1 Sept 2026.
+Mitsuki is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "CHIDA -ALL NIGHT LONG-" on Wed, 2 Sept 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including 5harpy, AI (10), Al Jones and An toi and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including AI (10), Al Jones, An toi and Carl H and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 1 Sept 2026 | ~DANCE~ Stillmoment/5harpy/teppei | 5harpy, Stillmoment, teppei |
 | Wed, 2 Sept 2026 | CHIDA -ALL NIGHT LONG- | CHIDA |
 | Thu, 3 Sept 2026 | most funktion | KA4U, PortaL(JP), sui_rex |
 | Fri, 4 Sept 2026 | Disko(not Disko) | Jonathan Kusuma, Monkey Timers, YAMARCHY |
@@ -18,9 +17,10 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with
 | Wed, 9 Sept 2026 | SOMEONE'S HOUSE | SAMO (JP), kengotaki, r1ku |
 | Thu, 10 Sept 2026 | SYNC |  |
 | Fri, 11 Sept 2026 | MOVE ムーブ | Al Jones, FU (JP), Lvca, MOOD HSM, OMOLOKO |
+| Fri, 18 Sept 2026 | Purple Essence feat. Shakolin | Chihoshi, Shakolin, YOYOHEI |
 
 ## Address
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

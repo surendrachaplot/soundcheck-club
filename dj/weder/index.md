@@ -1,6 +1,6 @@
 # WEDER
 
-WEDER is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Locke, Hamburg on Thu, 3 Sept 2026.
+WEDER is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Locke, Hamburg on Thu, 3 Sept 2026.
 
 WEDER is a house and progressive house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Buenosaires and Hamburg. Often billed alongside DAAS (1), Better Call Paul and David Hohme. Next up: Locke, Hamburg on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ WEDER is a house and progressive house artist based in Germany, tracked on sound
 
 DAAS (1), Better Call Paul, David Hohme
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/weder/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/weder/)*

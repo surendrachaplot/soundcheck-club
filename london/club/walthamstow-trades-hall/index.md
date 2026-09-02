@@ -1,6 +1,6 @@
 # Walthamstow Trades Hall
 
-Walthamstow Trades Hall is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Tones & Drones - Meditative Sound & Immersive Visuals" on Thu, 10 Sept 2026.
+Walthamstow Trades Hall is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Tones & Drones - Meditative Sound & Immersive Visuals" on Thu, 10 Sept 2026.
 
 Walthamstow Trades Hall is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 61-63 Tower Hamlets Rd, London E17 4RQ.
 
@@ -14,4 +14,4 @@ Walthamstow Trades Hall is a music venue in London listed on soundcheck. 1 upcom
 
 61-63 Tower Hamlets Rd, London E17 4RQ, London
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/walthamstow-trades-hall/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/walthamstow-trades-hall/)*

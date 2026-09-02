@@ -1,6 +1,6 @@
 # EMIRI TSUKUI
 
-EMIRI TSUKUI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+EMIRI TSUKUI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 EMIRI TSUKUI is a techno and trance artist tracked on soundcheck, with 14 sets logged across Tokyo. Often billed alongside Kojiro, Taichi Kawahira and TEI TEI. Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ EMIRI TSUKUI is a techno and trance artist tracked on soundcheck, with 14 sets l
 
 Kojiro, Taichi Kawahira, TEI TEI
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emiritsukui/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emiritsukui/)*

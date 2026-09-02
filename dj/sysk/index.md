@@ -1,6 +1,6 @@
 # sysk
 
-sysk is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Downtown, Los Angeles on Sat, 19 Sept 2026.
+sysk is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Downtown, Los Angeles on Sat, 19 Sept 2026.
 
 sysk is a bass and techno artist tracked on soundcheck, with 18 sets logged across Berlin, Losangeles and Portland. Often billed alongside Danny Goliger, Adam O (1) and Carré. Next up: TBA - Downtown, Losangeles on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ sysk is a bass and techno artist tracked on soundcheck, with 18 sets logged acro
 
 Danny Goliger, Adam O (1), Carré
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sysk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sysk/)*

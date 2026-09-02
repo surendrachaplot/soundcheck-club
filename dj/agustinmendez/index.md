@@ -1,6 +1,6 @@
 # Agustin Mendez
 
-Agustin Mendez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Prisma, Berlin on Tue, 8 Sept 2026.
+Agustin Mendez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Prisma, Berlin on Tue, 8 Sept 2026.
 
 Agustin Mendez is a techno and house artist based in Argentina, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside 10961, Club Suave and Cono (3). Next up: Prisma, Berlin on Tue 8 Sept.
 
@@ -19,4 +19,4 @@ Agustin Mendez is a techno and house artist based in Argentina, tracked on sound
 
 10961, Club Suave, Cono (3)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinmendez/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinmendez/)*

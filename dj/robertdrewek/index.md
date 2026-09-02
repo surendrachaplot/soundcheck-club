@@ -1,6 +1,6 @@
 # Robert Drewek
 
-Robert Drewek is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA -  RIMINI PIZZA OFFENBACH AM MAIN, Frankfurt on Sun, 6 Sept 2026.
+Robert Drewek is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA -  RIMINI PIZZA OFFENBACH AM MAIN, Frankfurt on Sun, 6 Sept 2026.
 
 Robert Drewek is a house and techno artist tracked on soundcheck, with 113 sets logged across Antwerp, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside Matt Star, Move D and Meat. Next up: TBA -  RIMINI PIZZA OFFENBACH AM MAIN, Frankfurt on Sun 6 Sept.
 
@@ -28,4 +28,4 @@ Robert Drewek is a house and techno artist tracked on soundcheck, with 113 sets 
 
 Matt Star, Move D, Meat
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdrewek/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdrewek/)*

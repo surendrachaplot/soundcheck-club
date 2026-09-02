@@ -1,6 +1,6 @@
 # *Tia*
 
-*Tia* is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at KitKatClub, Berlin on Mon, 5 Oct 2026.
+*Tia* is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at KitKatClub, Berlin on Mon, 5 Oct 2026.
 
 *Tia* is a house and techno artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Frankie Flowerz, (NOT) XCESS and Gioski. Next up: KitKatClub, Berlin on Mon 5 Oct.
 
@@ -20,4 +20,4 @@
 
 Frankie Flowerz, (NOT) XCESS, Gioski
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tia-de/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tia-de/)*

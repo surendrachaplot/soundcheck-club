@@ -1,6 +1,6 @@
 # Tamus
 
-Tamus is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
+Tamus is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
 
 Tamus is an experimental and club artist tracked on soundcheck, with 21 sets logged across London and Manchester. Often billed alongside Carrier, KD22LR and Medlock. Next up: Platt Fields Market Garden, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Tamus is an experimental and club artist tracked on soundcheck, with 21 sets log
 
 Carrier, KD22LR, Medlock
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamus/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamus/)*

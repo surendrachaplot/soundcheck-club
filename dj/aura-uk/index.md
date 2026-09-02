@@ -1,6 +1,6 @@
 # Aura
 
-Aura is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Planet Wax, London on Fri, 2 Oct 2026.
+Aura is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Fri, 2 Oct 2026.
 
 Aura is a techno and dubstep artist based in Lithuania, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Cologne and Ibiza and 12 more. Often billed alongside SAKO, Watei and Maldoror. Next up: Planet Wax, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Aura is a techno and dubstep artist based in Lithuania, tracked on soundcheck, w
 
 SAKO, Watei, Maldoror
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aura-uk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aura-uk/)*

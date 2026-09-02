@@ -1,6 +1,6 @@
 # Gareth Wild
 
-Gareth Wild is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Glove That Fits, London on Sun, 6 Sept 2026.
+Gareth Wild is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Glove That Fits, London on Sun, 6 Sept 2026.
 
 Gareth Wild is a techno and acid artist tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Glasgow and Leeds and 5 more. Often billed alongside Kessie, Alba Heidari and James Newmarch. Next up: The Glove That Fits, London on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Gareth Wild is a techno and acid artist tracked on soundcheck, with 23 sets logg
 
 Kessie, Alba Heidari, James Newmarch
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethwild/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garethwild/)*

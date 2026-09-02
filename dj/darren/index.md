@@ -1,6 +1,6 @@
 # :DARREN
 
-:DARREN is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Riithalle, Zurich on Sat, 19 Sept 2026.
+:DARREN is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Riithalle, Zurich on Sat, 19 Sept 2026.
 
 :DARREN is an afro house and house artist based in Switzerland, tracked on soundcheck, with 18 sets logged across Amsterdam, Basel, London and Zurich. Often billed alongside Ronny Grauer, Dejan and Benja (NL). Next up: Riithalle, Zurich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@
 
 Ronny Grauer, Dejan, Benja (NL)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darren/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darren/)*

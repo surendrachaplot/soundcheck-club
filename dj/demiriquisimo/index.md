@@ -1,6 +1,6 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at La Terrrazza, Barcelona on Fri, 4 Sept 2026.
+Demi Riquisimo is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at La Terrrazza, Barcelona on Fri, 4 Sept 2026.
 
 Demi Riquisimo is a house and techno artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: La Terrrazza, Barcelona on Fri 4 Sept.
 
@@ -35,4 +35,4 @@ Demi Riquisimo is a house and techno artist tracked on soundcheck, with 175 sets
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

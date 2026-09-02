@@ -1,6 +1,6 @@
 # HYBE
 
-HYBE is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
+HYBE is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
 
 HYBE is a techno and tech house artist tracked on soundcheck, with 35 sets logged across Melbourne. Often billed alongside Etwas, Matteo Freyrie and TEMPER TANTRA. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ HYBE is a techno and tech house artist tracked on soundcheck, with 35 sets logge
 
 Etwas, Matteo Freyrie, TEMPER TANTRA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybe/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybe/)*

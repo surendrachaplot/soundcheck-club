@@ -1,6 +1,6 @@
 # Valeria Litvakov
 
-Valeria Litvakov is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Eglise Saint-Remi, Brussels on Sat, 12 Sept 2026.
+Valeria Litvakov is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Eglise Saint-Remi, Brussels on Sat, 12 Sept 2026.
 
 Valeria Litvakov is an experimental and club artist based in Germany, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Brussels and Hamburg and 2 more. Often billed alongside Oli XL, 300SkullsAndCounting and Europa (1). Next up: Eglise Saint-Remi, Brussels on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Valeria Litvakov is an experimental and club artist based in Germany, tracked on
 
 Oli XL, 300SkullsAndCounting, Europa (1)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valerialitvakov/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valerialitvakov/)*

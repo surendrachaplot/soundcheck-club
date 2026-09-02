@@ -1,6 +1,6 @@
 # Tanya Andros
 
-Tanya Andros is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 26 Sept 2026.
+Tanya Andros is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 26 Sept 2026.
 
 Tanya Andros is a deep house and house artist based in Ukraine, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Kertsman, Arvono and DJ SOFÍDIA. Next up: Seaseaclub Barcelona, Barcelona on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Tanya Andros is a deep house and house artist based in Ukraine, tracked on sound
 
 Kertsman, Arvono, DJ SOFÍDIA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanyaandros/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanyaandros/)*

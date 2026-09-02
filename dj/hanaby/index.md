@@ -1,6 +1,6 @@
 # Hanaby
 
-Hanaby is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Phantom Bar Berlin, Berlin on Thu, 17 Sept 2026.
+Hanaby is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Phantom Bar Berlin, Berlin on Thu, 17 Sept 2026.
 
 Hanaby is a techno and house artist tracked on soundcheck, with 103 sets logged across Antwerp, Athens, Berlin and Cologne and 9 more. Often billed alongside malengo, DJ Jewel and JADA MORAES. Next up: Phantom Bar Berlin, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Hanaby is a techno and house artist tracked on soundcheck, with 103 sets logged 
 
 malengo, DJ Jewel, JADA MORAES
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaby/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaby/)*

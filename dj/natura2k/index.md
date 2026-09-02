@@ -1,6 +1,6 @@
 # NATURA2K
 
-NATURA2K is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tigullio, Malta on Fri, 4 Sept 2026.
+NATURA2K is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tigullio, Malta on Fri, 4 Sept 2026.
 
 NATURA2K is a techno and trance artist tracked on soundcheck, with 13 sets logged across Berlin and Malta. Often billed alongside Scythe, INVERTED (MT) and SUNTA. Next up: Tigullio, Malta on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ NATURA2K is a techno and trance artist tracked on soundcheck, with 13 sets logge
 
 Scythe, INVERTED (MT), SUNTA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natura2k/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natura2k/)*

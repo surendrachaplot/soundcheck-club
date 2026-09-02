@@ -1,6 +1,6 @@
 # Elheist
 
-Elheist is a Hip-Hop and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
+Elheist is a Hip-Hop and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
 
 Elheist is a hip-hop and dub artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Brussels, London and Madrid. Often billed alongside Jon K, James Massiah and Anina. Next up: Queen Elizabeth Olympic Park, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Elheist is a hip-hop and dub artist based in United Kingdom, tracked on soundche
 
 Jon K, James Massiah, Anina
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elheist/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elheist/)*

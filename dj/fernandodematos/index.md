@@ -1,6 +1,6 @@
 # Fernando De Matos
 
-Fernando De Matos is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA -  INDUSTRIE CAR WASH , Geneva on Fri, 25 Sept 2026.
+Fernando De Matos is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA -  INDUSTRIE CAR WASH , Geneva on Fri, 25 Sept 2026.
 
 Fernando De Matos is a techno and progressive house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 2 more. Often billed alongside Hector Moreno, Face-B and ANouch. Next up: TBA -  INDUSTRIE CAR WASH , Geneva on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Fernando De Matos is a techno and progressive house artist tracked on soundcheck
 
 Hector Moreno, Face-B, ANouch
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandodematos/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandodematos/)*

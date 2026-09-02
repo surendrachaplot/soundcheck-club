@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "RAZZCLUBS: Metrika & D Basto presentan Vampirina Club + BADSISTA" on Fri, 4 Sept 2026.
+Razzmatazz is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "RAZZCLUBS: Metrika & D Basto presentan Vampirina Club + BADSISTA" on Fri, 4 Sept 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including Ana Alves, Antiribeiro, Art of Fighters and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming night
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

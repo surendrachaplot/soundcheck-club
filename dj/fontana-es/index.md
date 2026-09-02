@@ -1,6 +1,6 @@
 # Fontana (ES)
 
-Fontana (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 11 Sept 2026.
+Fontana (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 11 Sept 2026.
 
 Fontana (ES) is a house and techno artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona. Often billed alongside Downtown Sai, Chiara B and Pep Descals. Next up: 303 Audiophile Bar, Barcelona on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Fontana (ES) is a house and techno artist based in Spain, tracked on soundcheck,
 
 Downtown Sai, Chiara B, Pep Descals
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fontana-es/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fontana-es/)*

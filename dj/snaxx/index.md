@@ -1,6 +1,6 @@
 # SNAXX
 
-SNAXX is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Scoresby Warehouse, Melbourne on Sat, 17 Oct 2026.
+SNAXX is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Scoresby Warehouse, Melbourne on Sat, 17 Oct 2026.
 
 SNAXX is a house and techno artist based in Australia, tracked on soundcheck, with 43 sets logged across Melbourne and Sydney. Often billed alongside Gumm, Andrew88 and Steve Bleas. Next up: Scoresby Warehouse, Melbourne on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ SNAXX is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 Gumm, Andrew88, Steve Bleas
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snaxx/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snaxx/)*

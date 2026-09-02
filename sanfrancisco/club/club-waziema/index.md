@@ -1,6 +1,6 @@
 # Club Waziema
 
-Club Waziema is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "bloghaus" on Fri, 4 Sept 2026.
+Club Waziema is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "bloghaus" on Fri, 4 Sept 2026.
 
 Club Waziema is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including YING. Browse upcoming dates, start times and who's playing. 543 Divisadero St, San Francisco, CA 94117.
 
@@ -16,4 +16,4 @@ Club Waziema is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming n
 
 543 Divisadero St, San Francisco, CA 94117, San Francisco/Oakland
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/club-waziema/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/club-waziema/)*

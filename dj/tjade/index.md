@@ -1,6 +1,6 @@
 # Tjade
 
-Tjade is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at block., Dublin on Fri, 4 Sept 2026.
+Tjade is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at block., Dublin on Fri, 4 Sept 2026.
 
 Tjade is a house and techno artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 16 more. Often billed alongside Lucky Done Gone, Moody Mehran and Kyle Starkey. Next up: block., Dublin on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Tjade is a house and techno artist tracked on soundcheck, with 116 sets logged a
 
 Lucky Done Gone, Moody Mehran, Kyle Starkey
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*

@@ -1,6 +1,6 @@
 # Narciss (RO)
 
-Narciss (RO) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
+Narciss (RO) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
 
 Narciss (RO) is a house and techno artist based in Romania, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Cologne and Leipzig and 8 more. Often billed alongside 36framez, Bambounou and DJ Gigola. Next up: Het Rijk van de Keizer, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Narciss (RO) is a house and techno artist based in Romania, tracked on soundchec
 
 36framez, Bambounou, DJ Gigola
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-ro/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/narciss-ro/)*

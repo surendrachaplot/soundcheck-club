@@ -1,6 +1,6 @@
 # Jonny Gemini
 
-Jonny Gemini is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Planet Wax, London on Sun, 6 Sept 2026.
+Jonny Gemini is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Sun, 6 Sept 2026.
 
 Jonny Gemini is a jungle and drum & bass artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside DJ Tay, Son of Mothra and Ayrtan. Next up: Planet Wax, London on Sun 6 Sept.
 
@@ -22,4 +22,4 @@ Jonny Gemini is a jungle and drum & bass artist tracked on soundcheck, with 6 se
 
 DJ Tay, Son of Mothra, Ayrtan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnygemini/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnygemini/)*

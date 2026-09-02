@@ -1,6 +1,6 @@
 # Baum
 
-Baum is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Elsewhere, New York City on Fri, 4 Sept 2026.
+Baum is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Elsewhere, New York City on Fri, 4 Sept 2026.
 
 Baum is a house and tech house artist based in Spain, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Brussels and Ibiza and 4 more. Often billed alongside Bastian Bux, Andres Campo and De La Swing. Next up: Elsewhere, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Baum is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 Bastian Bux, Andres Campo, De La Swing
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baum/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baum/)*

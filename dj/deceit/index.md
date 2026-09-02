@@ -1,6 +1,6 @@
 # Deceit
 
-Deceit is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 10 Sept 2026.
+Deceit is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 10 Sept 2026.
 
 Deceit is a house and electronica artist based in Spain, tracked on soundcheck, with 17 sets logged across Barcelona, Madrid and Rome. Often billed alongside Anso, Axis Mundi and Baldman. Next up: 303 Audiophile Bar, Barcelona on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Deceit is a house and electronica artist based in Spain, tracked on soundcheck, 
 
 Anso, Axis Mundi, Baldman
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deceit/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deceit/)*

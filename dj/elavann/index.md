@@ -1,6 +1,6 @@
 # Ela Vann
 
-Ela Vann is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at M.N.Roy, Mexico City on Fri, 4 Sept 2026.
+Ela Vann is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at M.N.Roy, Mexico City on Fri, 4 Sept 2026.
 
 Ela Vann is a downtempo and electronica artist based in Colombia, tracked on soundcheck, with 2 sets logged across Mexicocity. Often billed alongside Alatriste, Alejandro Veneno and Barreto. Next up: M.N.Roy, Mexicocity on Fri 4 Sept.
 
@@ -18,4 +18,4 @@ Ela Vann is a downtempo and electronica artist based in Colombia, tracked on sou
 
 Alatriste, Alejandro Veneno, Barreto
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elavann/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elavann/)*

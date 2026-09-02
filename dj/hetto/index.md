@@ -1,6 +1,6 @@
 # HETTO
 
-HETTO is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
+HETTO is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
 
 HETTO is a techno and acid artist tracked on soundcheck, with 4 sets logged across Amsterdam and Berlin. Often billed alongside Alexander Koning, Dimitri (1) and Erick E. Next up: Thuishaven, Amsterdam on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ HETTO is a techno and acid artist tracked on soundcheck, with 4 sets logged acro
 
 Alexander Koning, Dimitri (1), Erick E
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hetto/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hetto/)*

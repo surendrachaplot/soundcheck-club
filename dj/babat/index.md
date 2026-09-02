@@ -1,6 +1,6 @@
 # Baba T
 
-Baba T is a Afrobeats and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
+Baba T is a Afrobeats and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
 
 Baba T is an afrobeats and amapiano artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Leeds and London and 1 more. Often billed alongside Tolu, 2 Bad Mice and Aletha. Next up: Renate, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Baba T is an afrobeats and amapiano artist based in United Kingdom, tracked on s
 
 Tolu, 2 Bad Mice, Aletha
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babat/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babat/)*

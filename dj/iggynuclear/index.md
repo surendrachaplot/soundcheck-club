@@ -1,6 +1,6 @@
 # Iggy Nuclear
 
-Iggy Nuclear is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Honey's, New York City on Wed, 2 Sept 2026.
+Iggy Nuclear is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Honey's, New York City on Wed, 2 Sept 2026.
 
 Iggy Nuclear is a techno and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity and Philadelphia. Often billed alongside Kettle, Conduit and ESPIA. Next up: Honey's, Newyorkcity on Wed 2 Sept.
 
@@ -23,4 +23,4 @@ Iggy Nuclear is a techno and house artist based in United States of America, tra
 
 Kettle, Conduit, ESPIA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iggynuclear/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iggynuclear/)*

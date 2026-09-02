@@ -1,6 +1,6 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Dillinja is a Drum & Bass and Jungle artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 27 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -33,4 +33,4 @@ Dillinja is a drum & bass and jungle artist tracked on soundcheck, with 114 sets
 
 IC3, Bryan Gee, MC GQ
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*

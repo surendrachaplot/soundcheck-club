@@ -1,6 +1,6 @@
 # Juliet Mendoza
 
-Juliet Mendoza is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Knockdown Center, New York City on Sat, 5 Sept 2026.
+Juliet Mendoza is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Knockdown Center, New York City on Sat, 5 Sept 2026.
 
 Juliet Mendoza is a house and deep house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Chicago, Denver and Detroit and 11 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: Knockdown Center, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Juliet Mendoza is a house and deep house artist tracked on soundcheck, with 102 
 
 Heidi Lawden, DJ Sneak, Masha Mar
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*

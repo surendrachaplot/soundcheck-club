@@ -1,6 +1,6 @@
 # Nouminouw
 
-Nouminouw is a Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 10 Oct 2026.
+Nouminouw is a Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 10 Oct 2026.
 
 Nouminouw is a club artist based in France, tracked on soundcheck, with 6 sets logged across Brussels and Paris. Often billed alongside Karlfroye, Talita Otović and KimberlaID. Next up: La Station - Gare des Mines, Paris on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Nouminouw is a club artist based in France, tracked on soundcheck, with 6 sets l
 
 Karlfroye, Talita Otović, KimberlaID
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nouminouw/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nouminouw/)*

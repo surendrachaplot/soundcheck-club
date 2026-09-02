@@ -1,6 +1,6 @@
 # Flug
 
-Flug is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 10 Sept 2026.
+Flug is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Les Enfants Brillants, Barcelona on Thu, 10 Sept 2026.
 
 Flug is a techno and tech house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 15 more. Often billed alongside Linkan Ray, Coyu and Lino Fuso. Next up: Les Enfants Brillants, Barcelona on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Flug is a techno and tech house artist tracked on soundcheck, with 78 sets logge
 
 Linkan Ray, Coyu, Lino Fuso
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flug/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flug/)*

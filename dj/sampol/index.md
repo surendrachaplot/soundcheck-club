@@ -1,6 +1,6 @@
 # Sampol
 
-Sampol is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Cadavra, Madrid on Fri, 11 Sept 2026.
+Sampol is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Cadavra, Madrid on Fri, 11 Sept 2026.
 
 Sampol is an electro and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Bali, Barcelona and Berlin and 13 more. Often billed alongside Alex (ES), Hitch and MARYO. Next up: Cadavra, Madrid on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Sampol is an electro and house artist tracked on soundcheck, with 112 sets logge
 
 Alex (ES), Hitch, MARYO
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*

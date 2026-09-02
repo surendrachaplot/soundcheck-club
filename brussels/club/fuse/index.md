@@ -1,6 +1,6 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 10 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Fuse presents: NIKOLINA & Ornella" on Fri, 4 Sept 2026.
+Fuse is a music venue in Brussels with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Fuse presents: NIKOLINA & Ornella" on Fri, 4 Sept 2026.
 
 Fuse is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with line-ups including 2HOT2PLAY, ALT8, Andy C and ATARAXY and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
@@ -23,4 +23,4 @@ Fuse is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

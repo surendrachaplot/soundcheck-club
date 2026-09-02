@@ -1,6 +1,6 @@
 # Koboyo
 
-Koboyo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Alte Münze, Berlin on Sat, 5 Sept 2026.
+Koboyo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Alte Münze, Berlin on Sat, 5 Sept 2026.
 
 Koboyo is a techno and trance artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 21 more. Often billed alongside Amelie Lens, Ahl Iver and KUSS. Next up: Alte Münze, Berlin on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Koboyo is a techno and trance artist tracked on soundcheck, with 95 sets logged 
 
 Amelie Lens, Ahl Iver, KUSS
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koboyo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koboyo/)*

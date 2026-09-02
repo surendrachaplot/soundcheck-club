@@ -1,6 +1,6 @@
 # Tsanni
 
-Tsanni is a Ambient and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lauschangriff, Berlin on Thu, 3 Sept 2026.
+Tsanni is a Ambient and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lauschangriff, Berlin on Thu, 3 Sept 2026.
 
 Tsanni is an ambient and jungle artist tracked on soundcheck, with 4 sets logged across Berlin and Milan. Often billed alongside Elljay, Al Hut and Ani Innocent. Next up: Lauschangriff, Berlin on Thu 3 Sept.
 
@@ -20,4 +20,4 @@ Tsanni is an ambient and jungle artist tracked on soundcheck, with 4 sets logged
 
 Elljay, Al Hut, Ani Innocent
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsanni/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsanni/)*

@@ -1,6 +1,6 @@
 # Night Tapes
 
-Night Tapes is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at ZeyZey, Miami on Thu, 8 Oct 2026.
+Night Tapes is a Pop and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at ZeyZey, Miami on Thu, 8 Oct 2026.
 
 Night Tapes is a pop and electronica artist tracked on soundcheck, with 5 sets logged across Athens, Miami, Milan and Riga and 1 more. Often billed alongside James K (UK), Joy Orbison and KOMPROMAT. Next up: ZeyZey, Miami on Thu 8 Oct.
 
@@ -21,4 +21,4 @@ Night Tapes is a pop and electronica artist tracked on soundcheck, with 5 sets l
 
 James K (UK), Joy Orbison, KOMPROMAT
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nighttapes/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nighttapes/)*

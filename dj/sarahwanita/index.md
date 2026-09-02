@@ -1,6 +1,6 @@
 # Sarah Wanita
 
-Sarah Wanita is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Place D'espagne, Brussels on Sat, 12 Sept 2026.
+Sarah Wanita is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Place D'espagne, Brussels on Sat, 12 Sept 2026.
 
 Sarah Wanita is a trance and techno artist based in Belgium, tracked on soundcheck, with 19 sets logged across Antwerp, Brussels and Nantes. Often billed alongside Discostouf, Quibron and kedakeda. Next up: Place D'espagne, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sarah Wanita is a trance and techno artist based in Belgium, tracked on soundche
 
 Discostouf, Quibron, kedakeda
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwanita/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwanita/)*

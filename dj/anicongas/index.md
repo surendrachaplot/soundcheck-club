@@ -1,6 +1,6 @@
 # Ani con Gas
 
-Ani con Gas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Cova, Hamburg on Sat, 12 Sept 2026.
+Ani con Gas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Cova, Hamburg on Sat, 12 Sept 2026.
 
 Ani con Gas is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Hamburg. Often billed alongside Alphabae, SunnDior and Taskä. Next up: La Cova, Hamburg on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Ani con Gas is a house and techno artist based in Germany, tracked on soundcheck
 
 Alphabae, SunnDior, Taskä
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anicongas/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anicongas/)*

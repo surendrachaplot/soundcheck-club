@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 14 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "KIM SWIM / Gerardo Niva" on Thu, 3 Sept 2026.
+Mondo is a music venue in Madrid with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "KIM SWIM / Gerardo Niva" on Thu, 3 Sept 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 14 upcoming nights, with line-ups including Alarico, Alba Franch, Andres Campo and Bad Boombox and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -23,4 +23,4 @@ Mondo is a music venue in Madrid listed on soundcheck. 14 upcoming nights, with 
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

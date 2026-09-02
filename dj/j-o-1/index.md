@@ -1,6 +1,6 @@
 # J-O (1)
 
-J-O (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Q Club, Milan on Fri, 25 Sept 2026.
+J-O (1) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Q Club, Milan on Fri, 25 Sept 2026.
 
 J-O (1) is a techno artist tracked on soundcheck, with 3 sets logged across Berlin and Milan. Often billed alongside Ivan Carbone, AIN'T GEORGE and Emmef. Next up: Q Club, Milan on Fri 25 Sept.
 
@@ -19,4 +19,4 @@ J-O (1) is a techno artist tracked on soundcheck, with 3 sets logged across Berl
 
 Ivan Carbone, AIN'T GEORGE, Emmef
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j-o-1/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j-o-1/)*

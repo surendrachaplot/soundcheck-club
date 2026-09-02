@@ -1,6 +1,6 @@
 # Barnesey
 
-Barnesey is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Upper East, London on Sat, 14 Nov 2026.
+Barnesey is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Upper East, London on Sat, 14 Nov 2026.
 
 Barnesey is an electronic artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Artslaves, Jeff Sorkowitz and Mike Morrisey. Next up: Upper East, London on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Barnesey is an electronic artist tracked on soundcheck, with 4 sets logged acros
 
 Artslaves, Jeff Sorkowitz, Mike Morrisey
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barnesey/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barnesey/)*

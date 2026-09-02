@@ -1,6 +1,6 @@
 # Tapada da Ajuda
 
-Tapada da Ajuda is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Brunch Electronik Lisboa 2026 #6: Argy, Korolova, KURA, RHAFAELA AKL, ZAZU" on Sun, 13 Sept 2026.
+Tapada da Ajuda is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Brunch Electronik Lisboa 2026 #6: Argy, Korolova, KURA, RHAFAELA AKL, ZAZU" on Sun, 13 Sept 2026.
 
 Tapada da Ajuda is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Alarico, Argy, Clara Cuvé and Freddy K and 2 more. Browse upcoming dates, start times and who's playing. Tapada da Ajuda, 1349-017 Lisboa.
 
@@ -17,4 +17,4 @@ Tapada da Ajuda is a music venue in Lisbon listed on soundcheck. 4 upcoming nigh
 
 Tapada da Ajuda, 1349-017 Lisboa, Lisbon
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tapada-da-ajuda/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/tapada-da-ajuda/)*

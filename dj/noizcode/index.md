@@ -1,6 +1,6 @@
 # Noizcode
 
-Noizcode is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Middle East, Boston on Fri, 25 Sept 2026.
+Noizcode is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Middle East, Boston on Fri, 25 Sept 2026.
 
 Noizcode is a techno and minimal artist tracked on soundcheck, with 4 sets logged across Boston and Newyorkcity. Often billed alongside AVATO, Asphodel Ivory and Sunshine [at Night]. Next up: The Middle East, Boston on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Noizcode is a techno and minimal artist tracked on soundcheck, with 4 sets logge
 
 AVATO, Asphodel Ivory, Sunshine [at Night]
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noizcode/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noizcode/)*

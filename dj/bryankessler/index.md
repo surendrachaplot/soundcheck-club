@@ -1,6 +1,6 @@
 # Bryan Kessler
 
-Bryan Kessler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Airport Düsseldorf, Düsseldorf on Sat, 5 Sept 2026.
+Bryan Kessler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Airport Düsseldorf, Düsseldorf on Sat, 5 Sept 2026.
 
 Bryan Kessler is a house and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 1 more. Often billed alongside Audrey Danza, DJ City and DJ KILLING. Next up: Airport Düsseldorf, Dusseldorf on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Bryan Kessler is a house and techno artist based in Germany, tracked on soundche
 
 Audrey Danza, DJ City, DJ KILLING
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bryankessler/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bryankessler/)*

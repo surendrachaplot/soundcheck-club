@@ -1,6 +1,6 @@
 # Shogun
 
-Shogun is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ministerium Club, Lisbon on Thu, 24 Sept 2026.
+Shogun is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ministerium Club, Lisbon on Thu, 24 Sept 2026.
 
 Shogun is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 11 sets logged across Berlin, Dublin, Houston and Lisbon and 4 more. Often billed alongside DJ IDeaL, AKONA and AYANA KOSHIBA. Next up: Ministerium Club, Lisbon on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Shogun is a techno and hardcore artist based in United States of America, tracke
 
 DJ IDeaL, AKONA, AYANA KOSHIBA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shogun/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shogun/)*

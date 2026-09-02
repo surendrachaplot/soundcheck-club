@@ -1,6 +1,6 @@
 # Justin La Rose
 
-Justin La Rose is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bambi's, Toronto on Sat, 12 Sept 2026.
+Justin La Rose is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bambi's, Toronto on Sat, 12 Sept 2026.
 
 Justin La Rose is a house and acid artist based in Canada, tracked on soundcheck, with 9 sets logged across Buenosaires, Montreal and Toronto. Often billed alongside Mikey Apples, Milch (1) and Invisible City. Next up: Bambi's, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Justin La Rose is a house and acid artist based in Canada, tracked on soundcheck
 
 Mikey Apples, Milch (1), Invisible City
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinlarose/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinlarose/)*

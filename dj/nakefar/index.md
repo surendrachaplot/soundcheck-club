@@ -1,6 +1,6 @@
 # nakefar
 
-nakefar is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Heavy Sick Zero, Tokyo on Sun, 20 Sept 2026.
+nakefar is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Heavy Sick Zero, Tokyo on Sun, 20 Sept 2026.
 
 nakefar is a hardcore and breakcore artist based in Japan, tracked on soundcheck, with 22 sets logged across Newyorkcity, Osaka and Tokyo. Often billed alongside BASiRiNO, MUNÉO and unkokitty. Next up: Heavy Sick Zero, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ nakefar is a hardcore and breakcore artist based in Japan, tracked on soundcheck
 
 BASiRiNO, MUNÉO, unkokitty
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakefar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakefar/)*

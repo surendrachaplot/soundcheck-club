@@ -1,6 +1,6 @@
 # Saint September
 
-Saint September is a R&B and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Orangerie Neukölln, Berlin on Fri, 11 Sept 2026.
+Saint September is a R&B and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Orangerie Neukölln, Berlin on Fri, 11 Sept 2026.
 
 Saint September is a r&b and afro house artist based in South Africa, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Rafush, bat zoo and AKA Kelzz. Next up: Orangerie Neukölln, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Saint September is a r&b and afro house artist based in South Africa, tracked on
 
 Rafush, bat zoo, AKA Kelzz
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintseptember/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintseptember/)*

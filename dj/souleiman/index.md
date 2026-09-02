@@ -1,6 +1,6 @@
 # Souleiman
 
-Souleiman is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bodies in Space, Brussels on Sun, 18 Oct 2026.
+Souleiman is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bodies in Space, Brussels on Sun, 18 Oct 2026.
 
 Souleiman is a techno artist based in Belgium, tracked on soundcheck, with 31 sets logged across Antwerp, Brussels, Ghent and Milan. Often billed alongside Sonhan, Fais Le Beau and Marie-Julie. Next up: Bodies in Space, Brussels on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Souleiman is a techno artist based in Belgium, tracked on soundcheck, with 31 se
 
 Sonhan, Fais Le Beau, Marie-Julie
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/souleiman/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/souleiman/)*

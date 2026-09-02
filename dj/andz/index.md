@@ -1,6 +1,6 @@
 # andz
 
-andz is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Planet Wax, London on Fri, 16 Oct 2026.
+andz is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Fri, 16 Oct 2026.
 
 andz is a jungle and garage artist tracked on soundcheck, with 3 sets logged across Bangkok and London. Often billed alongside Akira (Buntai), Modula (UK) and CITIZEN. Next up: Planet Wax, London on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ andz is a jungle and garage artist tracked on soundcheck, with 3 sets logged acr
 
 Akira (Buntai), Modula (UK), CITIZEN
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andz/)*

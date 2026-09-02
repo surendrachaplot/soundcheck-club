@@ -1,6 +1,6 @@
 # Seph
 
-Seph is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Melt Underground, Buenos Aires on Sat, 19 Sept 2026.
+Seph is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Melt Underground, Buenos Aires on Sat, 19 Sept 2026.
 
 Seph is a techno and club artist tracked on soundcheck, with 6 sets logged across Buenosaires and Leeds. Often billed alongside Bruno Caro, Cia Rebeck and Ciel. Next up: Melt Underground, Buenosaires on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Seph is a techno and club artist tracked on soundcheck, with 6 sets logged acros
 
 Bruno Caro, Cia Rebeck, Ciel
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seph/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seph/)*

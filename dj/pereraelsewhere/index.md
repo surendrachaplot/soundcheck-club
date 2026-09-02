@@ -1,6 +1,6 @@
 # Perera Elsewhere
 
-Perera Elsewhere is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sameheads, Berlin on Sat, 19 Sept 2026.
+Perera Elsewhere is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sameheads, Berlin on Sat, 19 Sept 2026.
 
 Perera Elsewhere is an electronica and bass artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Brighton and Brussels and 7 more. Often billed alongside African Head Charge, Deadbeat and Marta De Pascalis. Next up: Sameheads, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Perera Elsewhere is an electronica and bass artist tracked on soundcheck, with 4
 
 African Head Charge, Deadbeat, Marta De Pascalis
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pereraelsewhere/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pereraelsewhere/)*

@@ -1,6 +1,6 @@
 # Milneys
 
-Milneys is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "SUPERNATURE at Milney's Upstairs" on Sat, 19 Sept 2026.
+Milneys is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "SUPERNATURE at Milney's Upstairs" on Sat, 19 Sept 2026.
 
 Milneys is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including ANNIE KEZ and Eric Stark. Browse upcoming dates, start times and who's playing. 451b Brunswick St, Fitzroy VIC 3065.
 
@@ -14,4 +14,4 @@ Milneys is a music venue in Melbourne listed on soundcheck. 1 upcoming night, wi
 
 451b Brunswick St, Fitzroy VIC 3065, Melbourne
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/milneys/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/milneys/)*

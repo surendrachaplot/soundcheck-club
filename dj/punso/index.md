@@ -1,6 +1,6 @@
 # Punso
 
-Punso is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at EQ San Diego, San Diego on Fri, 2 Oct 2026.
+Punso is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at EQ San Diego, San Diego on Fri, 2 Oct 2026.
 
 Punso is a house and bass artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sandiego. Often billed alongside Codak, AMZEL and Jovella. Next up: EQ San Diego, Sandiego on Fri 2 Oct.
 
@@ -20,4 +20,4 @@ Punso is a house and bass artist based in United States of America, tracked on s
 
 Codak, AMZEL, Jovella
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/punso/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/punso/)*

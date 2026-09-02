@@ -1,6 +1,6 @@
 # 0RACL3
 
-0RACL3 is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Jumbi, London on Thu, 10 Sept 2026.
+0RACL3 is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jumbi, London on Thu, 10 Sept 2026.
 
 0RACL3 is a hip-hop and r&b artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Brighton and London. Often billed alongside Skybxrn, 8SZN and DotTV. Next up: Jumbi, London on Thu 10 Sept.
 
@@ -20,4 +20,4 @@
 
 Skybxrn, 8SZN, DotTV
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0racl3/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0racl3/)*

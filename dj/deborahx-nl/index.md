@@ -1,6 +1,6 @@
 # Deborah X
 
-Deborah X is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at EKKO, Utrecht on Sat, 10 Oct 2026.
+Deborah X is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at EKKO, Utrecht on Sat, 10 Oct 2026.
 
 Deborah X is a techno and house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Copenhagen, Rotterdam and Thehague and 1 more. Often billed alongside Bella Hall, Soft Break and Afra. Next up: EKKO, Utrecht on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Deborah X is a techno and house artist tracked on soundcheck, with 15 sets logge
 
 Bella Hall, Soft Break, Afra
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahx-nl/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahx-nl/)*

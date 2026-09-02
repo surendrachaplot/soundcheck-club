@@ -1,6 +1,6 @@
 # Shane Blitz
 
-Shane Blitz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Planet Wax, London on Sat, 14 Nov 2026.
+Shane Blitz is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Sat, 14 Nov 2026.
 
 Shane Blitz is a house and garage artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Lawrence Anthony, Munchie MC and Daniel Ward. Next up: Planet Wax, London on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Shane Blitz is a house and garage artist tracked on soundcheck, with 4 sets logg
 
 Lawrence Anthony, Munchie MC, Daniel Ward
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneblitz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneblitz/)*

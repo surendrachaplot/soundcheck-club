@@ -1,6 +1,6 @@
 # Better Late
 
-Better Late is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Freedonia, Barcelona on Fri, 11 Sept 2026.
+Better Late is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Freedonia, Barcelona on Fri, 11 Sept 2026.
 
 Better Late is a house and disco artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Barcelona and London. Often billed alongside HannahLuyah, Mimsy and DJ Will Grant. Next up: Freedonia, Barcelona on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Better Late is a house and disco artist based in United Kingdom, tracked on soun
 
 HannahLuyah, Mimsy, DJ Will Grant
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betterlate/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betterlate/)*

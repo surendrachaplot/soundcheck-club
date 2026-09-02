@@ -1,14 +1,15 @@
 # Rabit
 
-Rabit is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
+Rabit is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City on Fri, 25 Sept 2026.
 
-Rabit is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Athens, Austin and Berlin and 13 more. Often billed alongside Tati au Miel, Crystallmess and Europa (1). Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
+Rabit is an experimental and electronica artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Athens, Austin and Berlin and 13 more. Often billed alongside Tati au Miel, Crystallmess and Europa (1). Next up: TBA - Multiple Historic Venues - Manhattan & Brooklyn, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | TBA - Multiple Historic Venues - Manhattan & Brooklyn | New York City |
+| Fri, 25 Sept 2026 | Milkys | Los Angeles |
 | Sat, 10 Oct 2026 | Hotel Forum | Krakow |
 
 ## Recently played
@@ -26,4 +27,4 @@ Rabit is an experimental and electronica artist based in United States of Americ
 
 Tati au Miel, Crystallmess, Europa (1)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rabit/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rabit/)*

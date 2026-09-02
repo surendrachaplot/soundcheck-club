@@ -1,6 +1,6 @@
 # Helios Manoeuvres
 
-Helios Manoeuvres is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Four Quarters, London on Fri, 11 Sept 2026.
+Helios Manoeuvres is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Four Quarters, London on Fri, 11 Sept 2026.
 
 Helios Manoeuvres is a house and tech house artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside A.L.F, biscous and DJ VALENTINE. Next up: Four Quarters, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Helios Manoeuvres is a house and tech house artist tracked on soundcheck, with 1
 
 A.L.F, biscous, DJ VALENTINE
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosmano/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosmano/)*

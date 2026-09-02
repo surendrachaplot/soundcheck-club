@@ -1,6 +1,6 @@
 # Florian TM Zeisig
 
-Florian TM Zeisig is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Botanique, Brussels on Sat, 28 Nov 2026.
+Florian TM Zeisig is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Botanique, Brussels on Sat, 28 Nov 2026.
 
 Florian TM Zeisig is an electro and experimental artist tracked on soundcheck, with 3 sets logged across Berlin, Brussels and Glasgow. Often billed alongside Alliyah Enyo, Anton Friisgaard and Aponogeton. Next up: Botanique, Brussels on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Florian TM Zeisig is an electro and experimental artist tracked on soundcheck, w
 
 Alliyah Enyo, Anton Friisgaard, Aponogeton
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floriantmzeisig/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floriantmzeisig/)*

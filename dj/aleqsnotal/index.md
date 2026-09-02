@@ -1,6 +1,6 @@
 # Aleqs Notal
 
-Aleqs Notal is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at La Java, Paris on Fri, 25 Sept 2026.
+Aleqs Notal is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at La Java, Paris on Fri, 25 Sept 2026.
 
 Aleqs Notal is a house and electro artist based in France, tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, London and Milan and 1 more. Often billed alongside Man Called Dylan, Damar Davis and Figurative Records. Next up: La Java, Paris on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Aleqs Notal is a house and electro artist based in France, tracked on soundcheck
 
 Man Called Dylan, Damar Davis, Figurative Records
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aleqsnotal/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aleqsnotal/)*

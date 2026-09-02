@@ -1,6 +1,6 @@
 # Phat Beat
 
-Phat Beat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bredouille, Berlin on Sat, 5 Sept 2026.
+Phat Beat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bredouille, Berlin on Sat, 5 Sept 2026.
 
 Phat Beat is a house and disco artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin. Often billed alongside Hit Beat, JaFrei Loufoque and Max Nytram. Next up: Bredouille, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Phat Beat is a house and disco artist based in Germany, tracked on soundcheck, w
 
 Hit Beat, JaFrei Loufoque, Max Nytram
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phatbeat-de/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phatbeat-de/)*

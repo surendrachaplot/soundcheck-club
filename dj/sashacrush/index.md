@@ -1,6 +1,6 @@
 # Sasha Crush
 
-Sasha Crush is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Bain, New York City on Mon, 7 Sept 2026.
+Sasha Crush is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Bain, New York City on Mon, 7 Sept 2026.
 
 Sasha Crush is a house and disco artist based in United States of America, tracked on soundcheck, with 22 sets logged across Berlin and Newyorkcity. Often billed alongside JKriv, Laila Amira and ራሄል (Rachel). Next up: Le Bain, Newyorkcity on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Sasha Crush is a house and disco artist based in United States of America, track
 
 JKriv, Laila Amira, ራሄል (Rachel)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sashacrush/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sashacrush/)*

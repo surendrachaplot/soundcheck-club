@@ -1,6 +1,6 @@
 # FFZG
 
-FFZG is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 10 Sept 2026.
+FFZG is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 10 Sept 2026.
 
 FFZG is an electronic artist tracked on soundcheck, with 12 sets logged across Munich. Often billed alongside MXML_VWRRT, Stutzi and Namenlos. Next up: Bahnwärter Thiel, Munich on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ FFZG is an electronic artist tracked on soundcheck, with 12 sets logged across M
 
 MXML_VWRRT, Stutzi, Namenlos
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ffzg/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ffzg/)*

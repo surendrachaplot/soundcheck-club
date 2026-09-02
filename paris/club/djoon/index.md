@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "DISCOvery Weekender 04 & 05 septembre 2026" on Fri, 4 Sept 2026.
+Djoon is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "DISCOvery Weekender 04 & 05 septembre 2026" on Fri, 4 Sept 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Carole Fe, Chris Wheatley, Donna Gibson and Geneva_ and 2 more. Browse upcoming dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -17,4 +17,4 @@ Djoon is a music venue in Paris listed on soundcheck. 4 upcoming nights, with li
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

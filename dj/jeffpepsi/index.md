@@ -1,6 +1,6 @@
 # Jeff Pepsi
 
-Jeff Pepsi is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Montrose, NY, New York City on Sat, 19 Sept 2026.
+Jeff Pepsi is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Montrose, NY, New York City on Sat, 19 Sept 2026.
 
 Jeff Pepsi is a deep house and progressive house artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Dante Scaglione. Next up: TBA - Montrose, NY, Newyorkcity on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Jeff Pepsi is a deep house and progressive house artist tracked on soundcheck, w
 
 Dante Scaglione
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffpepsi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffpepsi/)*

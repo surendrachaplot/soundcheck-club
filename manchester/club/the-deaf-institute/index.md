@@ -1,6 +1,6 @@
 # The Deaf Institute
 
-The Deaf Institute is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "CubCru and Friends present: Deaf Institute Takeover (Special Guest: Janaway)" on Wed, 30 Sept 2026.
+The Deaf Institute is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "CubCru and Friends present: Deaf Institute Takeover (Special Guest: Janaway)" on Wed, 30 Sept 2026.
 
 The Deaf Institute is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including Janaway, Sweetly and Tom Oakley. Browse upcoming dates, start times and who's playing. 135 Grosvenor St, Manchester M1 7HE.
 
@@ -15,4 +15,4 @@ The Deaf Institute is a music venue in Manchester listed on soundcheck. 2 upcomi
 
 135 Grosvenor St, Manchester M1 7HE, Manchester
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-deaf-institute/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-deaf-institute/)*

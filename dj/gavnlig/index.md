@@ -1,6 +1,6 @@
 # Gavnlig
 
-Gavnlig is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at KREUZWERK, Berlin on Fri, 4 Sept 2026.
+Gavnlig is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at KREUZWERK, Berlin on Fri, 4 Sept 2026.
 
 Gavnlig is a techno and house artist based in Denmark, tracked on soundcheck, with 81 sets logged across Berlin and Copenhagen. Often billed alongside HAKEEM (2), CAYOOTEE and Cirkeline. Next up: KREUZWERK, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Gavnlig is a techno and house artist based in Denmark, tracked on soundcheck, wi
 
 HAKEEM (2), CAYOOTEE, Cirkeline
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gavnlig/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gavnlig/)*

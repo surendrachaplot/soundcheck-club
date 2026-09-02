@@ -1,6 +1,6 @@
 # tanjuesch
 
-tanjuesch is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Legal, Munich on Fri, 18 Sept 2026.
+tanjuesch is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Legal, Munich on Fri, 18 Sept 2026.
 
 tanjuesch is a house and tech house artist based in Germany, tracked on soundcheck, with 32 sets logged across Cologne and Munich. Often billed alongside Scherfe, David Hornung and Javier Gallardo. Next up: Legal, Munich on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ tanjuesch is a house and tech house artist based in Germany, tracked on soundche
 
 Scherfe, David Hornung, Javier Gallardo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjuesch/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanjuesch/)*

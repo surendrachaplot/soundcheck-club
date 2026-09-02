@@ -1,6 +1,6 @@
 # INVT
 
-INVT is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+INVT is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 INVT is a house and techno artist tracked on soundcheck, with 126 sets logged across Barcelona, Berlin, Birmingham and Bristol and 31 more. Often billed alongside Danny Daze, Jubilee and Jonny From Space. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ INVT is a house and techno artist tracked on soundcheck, with 126 sets logged ac
 
 Danny Daze, Jubilee, Jonny From Space
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*

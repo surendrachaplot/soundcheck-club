@@ -1,6 +1,6 @@
 # Cappella
 
-Cappella is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "The Neighbors  Labour day Sunday @ Cappella Montreal " on Sun, 6 Sept 2026.
+Cappella is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "The Neighbors  Labour day Sunday @ Cappella Montreal " on Sun, 6 Sept 2026.
 
 Cappella is a music venue in Montreal listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 3 de la commune west.
 
@@ -14,4 +14,4 @@ Cappella is a music venue in Montreal listed on soundcheck. 1 upcoming night. Br
 
 3 de la commune west, Montreal
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/cappella/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/cappella/)*

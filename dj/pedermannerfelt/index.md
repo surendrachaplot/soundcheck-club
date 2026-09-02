@@ -1,6 +1,6 @@
 # Peder Mannerfelt
 
-Peder Mannerfelt is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Garage Noord, Amsterdam on Fri, 4 Sept 2026.
+Peder Mannerfelt is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Garage Noord, Amsterdam on Fri, 4 Sept 2026.
 
 Peder Mannerfelt is a techno and bass artist based in Sweden, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 19 more. Often billed alongside Flore, mad miran and Bendik Giske. Next up: Garage Noord, Amsterdam on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Peder Mannerfelt is a techno and bass artist based in Sweden, tracked on soundch
 
 Flore, mad miran, Bendik Giske
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*

@@ -1,6 +1,6 @@
 # Suko
 
-Suko is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Wigwam, Dublin on Fri, 25 Sept 2026.
+Suko is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Wigwam, Dublin on Fri, 25 Sept 2026.
 
 Suko is a techno and trance artist based in Spain, tracked on soundcheck, with 11 sets logged across Dublin and Madrid. Often billed alongside Miguel Rivas, Renderkid and ALPER SKR. Next up: Wigwam, Dublin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Suko is a techno and trance artist based in Spain, tracked on soundcheck, with 1
 
 Miguel Rivas, Renderkid, ALPER SKR
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suko/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suko/)*

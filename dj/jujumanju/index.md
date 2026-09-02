@@ -1,6 +1,6 @@
 # Juju Manju
 
-Juju Manju is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Lux Fragil, Lisbon on Sat, 12 Sept 2026.
+Juju Manju is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Lux Fragil, Lisbon on Sat, 12 Sept 2026.
 
 Juju Manju is a house and deep house artist tracked on soundcheck, with 26 sets logged across Bangkok, Lisbon and Tokyo. Often billed alongside manju, Moulin.music and Fabich. Next up: Lux Fragil, Lisbon on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Juju Manju is a house and deep house artist tracked on soundcheck, with 26 sets 
 
 manju, Moulin.music, Fabich
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jujumanju/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jujumanju/)*

@@ -1,6 +1,6 @@
 # DV8 (LV)
 
-DV8 (LV) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
+DV8 (LV) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
 
 DV8 (LV) is a techno and experimental artist based in Azerbaijan, tracked on soundcheck, with 14 sets logged across Riga. Often billed alongside UZAY, hitomori and maniken05. Next up: Korpuss, Riga on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ DV8 (LV) is a techno and experimental artist based in Azerbaijan, tracked on sou
 
 UZAY, hitomori, maniken05
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dv8-1/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dv8-1/)*

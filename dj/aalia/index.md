@@ -1,6 +1,6 @@
 # Aalia Iraki
 
-Aalia Iraki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
+Aalia Iraki is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
 
 Aalia Iraki is a house and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Amsterdam and Berlin. Often billed alongside DJ CHICHI, Triqi and saHHar. Next up: Renate, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Aalia Iraki is a house and techno artist based in Germany, tracked on soundcheck
 
 DJ CHICHI, Triqi, saHHar
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aalia/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aalia/)*

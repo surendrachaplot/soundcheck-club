@@ -1,6 +1,6 @@
 # BBBBBBB
 
-BBBBBBB is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+BBBBBBB is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 BBBBBBB is a hardcore and club artist tracked on soundcheck, with 20 sets logged across Berlin, Kyoto, Lisbon and Newyorkcity and 3 more. Often billed alongside moreru, deadfish eyes and iida Reo. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ BBBBBBB is a hardcore and club artist tracked on soundcheck, with 20 sets logged
 
 moreru, deadfish eyes, iida Reo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb/)*

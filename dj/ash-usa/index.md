@@ -1,6 +1,6 @@
 # ash.
 
-ash. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Airliner, Los Angeles on Fri, 4 Sept 2026.
+ash. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Airliner, Los Angeles on Fri, 4 Sept 2026.
 
 ash. is a house and techno artist tracked on soundcheck, with 8 sets logged across Losangeles and Newyorkcity. Often billed alongside Vix Vapor Rub, ARMANA KHAN and Akumen. Next up: The Airliner, Losangeles on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ ash. is a house and techno artist tracked on soundcheck, with 8 sets logged acro
 
 Vix Vapor Rub, ARMANA KHAN, Akumen
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ash-usa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ash-usa/)*

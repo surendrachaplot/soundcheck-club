@@ -1,6 +1,6 @@
 # Reshio
 
-Reshio is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 4 Sept 2026.
+Reshio is a Tech House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 4 Sept 2026.
 
 Reshio is a tech house and trance artist tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Krakow and Tbilisi. Often billed alongside Trotsky, Gio Shengelia and Ika (GE). Next up: Mtkvarze, Tbilisi on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Reshio is a tech house and trance artist tracked on soundcheck, with 46 sets log
 
 Trotsky, Gio Shengelia, Ika (GE)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reshio/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reshio/)*

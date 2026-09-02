@@ -1,6 +1,6 @@
 # Jan Minnerup
 
-Jan Minnerup is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 4 Sept 2026.
+Jan Minnerup is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 4 Sept 2026.
 
 Jan Minnerup is a trance and techno artist tracked on soundcheck, with 33 sets logged across Berlin and Munich. Often billed alongside ANASTASÍA, NAGINI and Vaneska. Next up: Bahnwärter Thiel, Munich on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jan Minnerup is a trance and techno artist tracked on soundcheck, with 33 sets l
 
 ANASTASÍA, NAGINI, Vaneska
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janminnerup/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janminnerup/)*

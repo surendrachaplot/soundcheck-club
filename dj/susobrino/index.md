@@ -1,6 +1,6 @@
 # Susobrino
 
-Susobrino is a Latin Bass and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Lieu Unique / Nantes, Nantes on Fri, 2 Oct 2026.
+Susobrino is a Latin Bass and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Lieu Unique / Nantes, Nantes on Fri, 2 Oct 2026.
 
 Susobrino is a latin bass and downtempo artist tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 10 more. Often billed alongside dieglitter, mika.collage and otap. Next up: Le Lieu Unique / Nantes, Nantes on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Susobrino is a latin bass and downtempo artist tracked on soundcheck, with 42 se
 
 dieglitter, mika.collage, otap
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/susobrino/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/susobrino/)*

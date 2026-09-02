@@ -1,6 +1,6 @@
 # Marsha
 
-Marsha is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Marsha is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Marsha is a progressive house and deep house artist tracked on soundcheck, with 27 sets logged across Athens. Often billed alongside Betsu, Rootie and Dest. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Marsha is a progressive house and deep house artist tracked on soundcheck, with 
 
 Betsu, Rootie, Dest
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsha/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsha/)*

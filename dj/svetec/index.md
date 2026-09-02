@@ -1,6 +1,6 @@
 # Svetec
 
-Svetec is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Svetec is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Svetec is a techno and industrial artist based in Hungary, tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 27 more. Often billed alongside O.B.I. (DE), Kitti Kay and Sonic Rain. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Svetec is a techno and industrial artist based in Hungary, tracked on soundcheck
 
 O.B.I. (DE), Kitti Kay, Sonic Rain
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*

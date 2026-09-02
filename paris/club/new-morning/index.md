@@ -1,6 +1,6 @@
 # New Morning
 
-New Morning is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "SaazBuzz Jazz Festival" on Wed, 23 Sept 2026.
+New Morning is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "SaazBuzz Jazz Festival" on Wed, 23 Sept 2026.
 
 New Morning is a music venue in Paris listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 9 rue des Petites Ecuries 75010 Paris.
 
@@ -15,4 +15,4 @@ New Morning is a music venue in Paris listed on soundcheck. 2 upcoming nights. B
 
 9 rue des Petites Ecuries 75010 Paris, Paris
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/new-morning/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/new-morning/)*

@@ -1,6 +1,6 @@
 # Nadav Vee
 
-Nadav Vee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+Nadav Vee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
 Nadav Vee is a house and deep house artist tracked on soundcheck, with 8 sets logged across Miami and Newyorkcity. Often billed alongside Guy Mantzur, Roy Rosenfeld and Tamir Regev. Next up: Knockdown Center, Newyorkcity on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Nadav Vee is a house and deep house artist tracked on soundcheck, with 8 sets lo
 
 Guy Mantzur, Roy Rosenfeld, Tamir Regev
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadavvee/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadavvee/)*

@@ -1,6 +1,6 @@
 # Trestle Inn
 
-Trestle Inn is a music venue in Philadelphia with 14 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Electric Hotpot with Guest DJ Johnny Petunia" on Thu, 3 Sept 2026.
+Trestle Inn is a music venue in Philadelphia with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Electric Hotpot with Guest DJ Johnny Petunia" on Thu, 3 Sept 2026.
 
 Trestle Inn is a music venue in Philadelphia listed on soundcheck. 14 upcoming nights, with line-ups including Particle Ray. Browse upcoming dates, start times and who's playing. 339 N. 11th St; Philadelphia; PA 19107.
 
@@ -23,4 +23,4 @@ Trestle Inn is a music venue in Philadelphia listed on soundcheck. 14 upcoming n
 
 339 N. 11th St; Philadelphia; PA 19107, Philadelphia
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*

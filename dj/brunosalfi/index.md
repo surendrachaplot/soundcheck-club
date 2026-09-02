@@ -1,6 +1,6 @@
 # Bruno Salfi
 
-Bruno Salfi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Brutal Mx, Mexico City on Fri, 11 Sept 2026.
+Bruno Salfi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Brutal Mx, Mexico City on Fri, 11 Sept 2026.
 
 Bruno Salfi is a techno and house artist based in Mexico, tracked on soundcheck, with 17 sets logged across Mexicocity. Often billed alongside Enya Botello, Magnolia Coronado and Pablo Lara. Next up: Brutal Mx, Mexicocity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Bruno Salfi is a techno and house artist based in Mexico, tracked on soundcheck,
 
 Enya Botello, Magnolia Coronado, Pablo Lara
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunosalfi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunosalfi/)*

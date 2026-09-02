@@ -1,6 +1,6 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 7 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "SYNRG presents: Laidlaw, Alec Falconer" on Sat, 5 Sept 2026.
+Ouseburn Garden is a music venue in Newcastle with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "SYNRG presents: Laidlaw, Alec Falconer" on Sat, 5 Sept 2026.
 
 Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming nights, with line-ups including Mariiin, Adam Lance, Alec Falconer and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
@@ -20,4 +20,4 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming n
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

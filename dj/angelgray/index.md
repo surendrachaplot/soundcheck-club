@@ -1,6 +1,6 @@
 # Angel Gray
 
-Angel Gray is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
+Angel Gray is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
 
 Angel Gray is a hip-hop and club artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside LISAKEEKS, Annabelle (US) and Cass Brewster. Next up: Queen Elizabeth Olympic Park, London on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Angel Gray is a hip-hop and club artist based in United Kingdom, tracked on soun
 
 LISAKEEKS, Annabelle (US), Cass Brewster
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelgray/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelgray/)*

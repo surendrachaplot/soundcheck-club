@@ -1,6 +1,6 @@
 # Italo
 
-Italo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Aunt Charlie's Lounge, San Francisco/Oakland on Thu, 3 Sept 2026.
+Italo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Aunt Charlie's Lounge, San Francisco/Oakland on Thu, 3 Sept 2026.
 
 Italo is a house and disco artist based in Italy, tracked on soundcheck, with 13 sets logged across Leipzig and Sanfrancisco. Often billed alongside Moto Tembo. Next up: Aunt Charlie's Lounge, Sanfrancisco on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Italo is a house and disco artist based in Italy, tracked on soundcheck, with 13
 
 Moto Tembo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/italo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/italo/)*

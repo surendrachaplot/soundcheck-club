@@ -1,6 +1,6 @@
 # UME (CAN)
 
-UME (CAN) is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bar Datcha, Montreal on Fri, 4 Sept 2026.
+UME (CAN) is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bar Datcha, Montreal on Fri, 4 Sept 2026.
 
 UME (CAN) is an acid and house artist tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside SOBAKA, Boomy and Casa Kobrae. Next up: Bar Datcha, Montreal on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ UME (CAN) is an acid and house artist tracked on soundcheck, with 5 sets logged 
 
 SOBAKA, Boomy, Casa Kobrae
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umecan/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umecan/)*

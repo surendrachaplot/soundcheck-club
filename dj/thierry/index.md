@@ -1,6 +1,6 @@
 # Thierry
 
-Thierry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Zuco Roosdaal, Brussels on Sat, 5 Sept 2026.
+Thierry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Zuco Roosdaal, Brussels on Sat, 5 Sept 2026.
 
 Thierry is a techno and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Brussels and London. Often billed alongside caLLy, Audio Werner and Chrissy Hope. Next up: Zuco Roosdaal, Brussels on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Thierry is a techno and house artist based in United Kingdom, tracked on soundch
 
 caLLy, Audio Werner, Chrissy Hope
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thierry/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thierry/)*

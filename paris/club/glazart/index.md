@@ -1,6 +1,6 @@
 # Glazart
 
-Glazart is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "After O'clock X La Plage Open Air: JANEIN, Daher & More" on Sat, 5 Sept 2026.
+Glazart is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "After O'clock X La Plage Open Air: JANEIN, Daher & More" on Sat, 5 Sept 2026.
 
 Glazart is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Audio Units, Dialectics, JANEIN and Keepsakes and 2 more. Browse upcoming dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
 
@@ -16,4 +16,4 @@ Glazart is a music venue in Paris listed on soundcheck. 3 upcoming nights, with 
 
 7-15 av de la Porte de la Villette; 75019; Paris; France, Paris
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*

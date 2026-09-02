@@ -1,6 +1,6 @@
 # Kaazi
 
-Kaazi is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
+Kaazi is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
 
 Kaazi is an electronic artist tracked on soundcheck, with 2 sets logged across Bali. Often billed alongside Answer Code Request, Archie Dennis and Avalon Emerson. Next up: Potato Head Beach Club, Bali on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Kaazi is an electronic artist tracked on soundcheck, with 2 sets logged across B
 
 Answer Code Request, Archie Dennis, Avalon Emerson
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaazi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaazi/)*

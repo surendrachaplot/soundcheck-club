@@ -1,6 +1,6 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Left Bank, Tbilisi on Fri, 4 Sept 2026.
+Newinfluenzer is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Left Bank, Tbilisi on Fri, 4 Sept 2026.
 
 Newinfluenzer is a techno and electro artist tracked on soundcheck, with 84 sets logged across Berlin, Hamburg, Leipzig and London and 2 more. Often billed alongside yamyam, DJ SOURCE and 11Schnull. Next up: Left Bank, Tbilisi on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Newinfluenzer is a techno and electro artist tracked on soundcheck, with 84 sets
 
 yamyam, DJ SOURCE, 11Schnull
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

@@ -1,6 +1,6 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 14 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Resonate Launch x Hybrid: Frederic. & EMMIE (ANL)" on Fri, 4 Sept 2026.
+Wigwam is a music venue in Dublin with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Resonate Launch x Hybrid: Frederic. & EMMIE (ANL)" on Fri, 4 Sept 2026.
 
 Wigwam is a music venue in Dublin listed on soundcheck. 14 upcoming nights, with line-ups including ALPER SKR, Angel D'lite, BENZA and BOVSKI and 2 more. Browse upcoming dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 14 upcoming nights, with
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

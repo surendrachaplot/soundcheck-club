@@ -1,6 +1,6 @@
 # Kenny Dahl
 
-Kenny Dahl is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Giri, Berlin on Fri, 18 Sept 2026.
+Kenny Dahl is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Giri, Berlin on Fri, 18 Sept 2026.
 
 Kenny Dahl is a techno artist tracked on soundcheck, with 3 sets logged across Amsterdam and Berlin. Often billed alongside Salvatore Foglia, Daniel Norrel and Jack Fresia. Next up: Giri, Berlin on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Kenny Dahl is a techno artist tracked on soundcheck, with 3 sets logged across A
 
 Salvatore Foglia, Daniel Norrel, Jack Fresia
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennydahl/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennydahl/)*

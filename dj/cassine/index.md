@@ -1,6 +1,6 @@
 # Cassine
 
-Cassine is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at 24 Kitchen Street, Liverpool on Sat, 5 Sept 2026.
+Cassine is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 24 Kitchen Street, Liverpool on Sat, 5 Sept 2026.
 
 Cassine is a house and disco artist tracked on soundcheck, with 19 sets logged across Brighton, Liverpool and London. Often billed alongside EN HAYCH, Feldy and Holly Warcup. Next up: 24 Kitchen Street, Liverpool on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Cassine is a house and disco artist tracked on soundcheck, with 19 sets logged a
 
 EN HAYCH, Feldy, Holly Warcup
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassine/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassine/)*

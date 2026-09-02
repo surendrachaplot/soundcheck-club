@@ -1,6 +1,6 @@
 # Max.
 
-Max. is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Starlane Pizza Bar, London on Sun, 20 Sept 2026.
+Max. is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Starlane Pizza Bar, London on Sun, 20 Sept 2026.
 
 Max. is a techno and minimal artist tracked on soundcheck, with 22 sets logged across Brussels, Ghent, London and Miami. Often billed alongside Davide Decay, LUUD and Modebaku. Next up: Starlane Pizza Bar, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Max. is a techno and minimal artist tracked on soundcheck, with 22 sets logged a
 
 Davide Decay, LUUD, Modebaku
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/max./)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/max./)*

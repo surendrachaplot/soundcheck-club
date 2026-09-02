@@ -1,6 +1,6 @@
 # nordcorreia.mp3
 
-nordcorreia.mp3 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Odonien, Cologne on Wed, 2 Sept 2026.
+nordcorreia.mp3 is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Odonien, Cologne on Wed, 2 Sept 2026.
 
 nordcorreia.mp3 is a techno and trance artist tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Budapest and Cologne and 4 more. Often billed alongside Amøn, Boltcore and ADEMES. Next up: Odonien, Cologne on Wed 2 Sept.
 
@@ -29,4 +29,4 @@ nordcorreia.mp3 is a techno and trance artist tracked on soundcheck, with 47 set
 
 Amøn, Boltcore, ADEMES
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*

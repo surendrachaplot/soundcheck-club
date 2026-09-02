@@ -1,6 +1,6 @@
 # Nastya Vogan
 
-Nastya Vogan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
+Nastya Vogan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, Amsterdam on Sat, 19 Sept 2026.
 
 Nastya Vogan is a techno and house artist based in Ukraine, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Cologne and London and 3 more. Often billed alongside Nastya Muravyova, Ireen Amnes and Jana Woodstock. Next up: TBA - Secret Location, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nastya Vogan is a techno and house artist based in Ukraine, tracked on soundchec
 
 Nastya Muravyova, Ireen Amnes, Jana Woodstock
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyavogan/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyavogan/)*

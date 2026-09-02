@@ -1,8 +1,8 @@
 # Anthea
 
-Anthea is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 4 Sept 2026.
+Anthea is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 4 Sept 2026.
 
-Anthea is a house and techno artist tracked on soundcheck, with 169 sets logged across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside tINI, Oshana and Astral Travel. Next up: Platforma Wolff, Bucharest on Fri 4 Sept.
+Anthea is a house and techno artist tracked on soundcheck, with 170 sets logged across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside tINI, Oshana and Astral Travel. Next up: Platforma Wolff, Bucharest on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Anthea is a house and techno artist tracked on soundcheck, with 169 sets logged 
 | Sat, 5 Sept 2026 | TBA - 75013 | Paris |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
+| Sat, 21 Nov 2026 | Concept Haus | Manchester |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Anthea is a house and techno artist tracked on soundcheck, with 169 sets logged 
 
 tINI, Oshana, Astral Travel
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*

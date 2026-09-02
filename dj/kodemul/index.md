@@ -1,6 +1,6 @@
 # Kodemul
 
-Kodemul is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Fucine Vulcano, Milan on Sat, 5 Sept 2026.
+Kodemul is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fucine Vulcano, Milan on Sat, 5 Sept 2026.
 
 Kodemul is a techno and house artist tracked on soundcheck, with 133 sets logged across Barcelona, Berlin, Bristol and Buenosaires and 9 more. Often billed alongside Eliel Capa, PAURRO and Villaseñor. Next up: Fucine Vulcano, Milan on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Kodemul is a techno and house artist tracked on soundcheck, with 133 sets logged
 
 Eliel Capa, PAURRO, Villaseñor
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kodemul/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kodemul/)*

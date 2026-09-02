@@ -1,6 +1,6 @@
 # The Queen Mary
 
-The Queen Mary is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Dreamstate SoCal" on Fri, 20 Nov 2026.
+The Queen Mary is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Dreamstate SoCal" on Fri, 20 Nov 2026.
 
 The Queen Mary is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Artbat, Aaron Hibell, Above & Beyond and Allen Watts and 2 more. Browse upcoming dates, start times and who's playing. 1126 Queens Hwy, Long Beach, CA 90802.
 
@@ -14,4 +14,4 @@ The Queen Mary is a music venue in Losangeles listed on soundcheck. 1 upcoming n
 
 1126 Queens Hwy, Long Beach, CA 90802, Los Angeles
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-queen-mary/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-queen-mary/)*

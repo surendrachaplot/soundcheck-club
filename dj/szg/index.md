@@ -1,6 +1,6 @@
 # SZG
 
-SZG is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Kilomètre25, Paris on Fri, 4 Sept 2026.
+SZG is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Kilomètre25, Paris on Fri, 4 Sept 2026.
 
 SZG is a techno and trance artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside Arman John, Cara Elizabeth and DJ GUESTLIST. Next up: Kilomètre25, Paris on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ SZG is a techno and trance artist based in Germany, tracked on soundcheck, with 
 
 Arman John, Cara Elizabeth, DJ GUESTLIST
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*

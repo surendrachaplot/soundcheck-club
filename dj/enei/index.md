@@ -1,6 +1,6 @@
 # Enei
 
-Enei is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Red Room, Vancouver on Sat, 3 Oct 2026.
+Enei is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Red Room, Vancouver on Sat, 3 Oct 2026.
 
 Enei is a drum & bass and jungle artist tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Boston and Brighton and 21 more. Often billed alongside Kasra, Jakes and EN:VY. Next up: The Red Room, Vancouver on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Enei is a drum & bass and jungle artist tracked on soundcheck, with 50 sets logg
 
 Kasra, Jakes, EN:VY
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enei/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enei/)*

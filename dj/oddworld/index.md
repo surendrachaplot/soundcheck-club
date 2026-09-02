@@ -1,6 +1,6 @@
 # OddwOrld
 
-OddwOrld is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location, New York City on Sat, 12 Sept 2026.
+OddwOrld is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, New York City on Sat, 12 Sept 2026.
 
 OddwOrld is a techno and garage artist tracked on soundcheck, with 15 sets logged across Newyorkcity. Often billed alongside WADDLE, ogd (1) and y2aura. Next up: TBA - Secret Location, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ OddwOrld is a techno and garage artist tracked on soundcheck, with 15 sets logge
 
 WADDLE, ogd (1), y2aura
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oddworld/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oddworld/)*

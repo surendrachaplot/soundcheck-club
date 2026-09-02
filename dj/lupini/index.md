@@ -1,6 +1,6 @@
 # Lupini
 
-Lupini is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hang Dai Chinese, Dublin on Fri, 16 Oct 2026.
+Lupini is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hang Dai Chinese, Dublin on Fri, 16 Oct 2026.
 
 Lupini is a house and electronica artist tracked on soundcheck, with 56 sets logged across Berlin, Bristol, Copenhagen and Dublin and 7 more. Often billed alongside Cowper, Annabel Fraser and Chez de Milo. Next up: Hang Dai Chinese, Dublin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Lupini is a house and electronica artist tracked on soundcheck, with 56 sets log
 
 Cowper, Annabel Fraser, Chez de Milo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupini/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lupini/)*

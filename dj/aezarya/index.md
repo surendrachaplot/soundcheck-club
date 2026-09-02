@@ -1,6 +1,6 @@
 # AEZARYA
 
-AEZARYA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Panama, Amsterdam on Fri, 4 Sept 2026.
+AEZARYA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Panama, Amsterdam on Fri, 4 Sept 2026.
 
 AEZARYA is a techno and trance artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin and Leipzig. Often billed alongside Scrappy Coco, Gigi Spears and Richie Rollin. Next up: Panama, Amsterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ AEZARYA is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 Scrappy Coco, Gigi Spears, Richie Rollin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aezarya/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aezarya/)*

@@ -1,6 +1,6 @@
 # Stefan Muchte
 
-Stefan Muchte is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ritter Butzke, Berlin on Fri, 4 Sept 2026.
+Stefan Muchte is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ritter Butzke, Berlin on Fri, 4 Sept 2026.
 
 Stefan Muchte is a house and tech house artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin, Frankfurt, Leipzig and Munich and 1 more. Often billed alongside BOHO, Bøgen and Vlad Yaki. Next up: Ritter Butzke, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Stefan Muchte is a house and tech house artist based in Germany, tracked on soun
 
 BOHO, Bøgen, Vlad Yaki
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmuchte/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmuchte/)*

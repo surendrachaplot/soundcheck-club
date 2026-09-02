@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "HAKKE: Armela + Sergio b2b Francesco" on Fri, 4 Sept 2026.
+LAUT is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "HAKKE: Armela + Sergio b2b Francesco" on Fri, 4 Sept 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including Aleja Sanchez, Armela, Deepbass and Ekkel and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, wit
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

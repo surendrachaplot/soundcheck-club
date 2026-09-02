@@ -1,6 +1,6 @@
 # Konnin
 
-Konnin is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Macarena Club, Barcelona on Fri, 18 Sept 2026.
+Konnin is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Macarena Club, Barcelona on Fri, 18 Sept 2026.
 
 Konnin is a house and minimal techno artist tracked on soundcheck, with 24 sets logged across Barcelona, Boston and Saopaulo. Often billed alongside LM, Brieela and Histoire d'un Soir. Next up: Macarena Club, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Konnin is a house and minimal techno artist tracked on soundcheck, with 24 sets 
 
 LM, Brieela, Histoire d'un Soir
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konnin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konnin/)*

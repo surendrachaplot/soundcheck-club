@@ -1,6 +1,6 @@
 # soratora
 
-soratora is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Récré, Montreal on Fri, 11 Sept 2026.
+soratora is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Récré, Montreal on Fri, 11 Sept 2026.
 
 soratora is a techno and bass artist tracked on soundcheck, with 25 sets logged across Montreal, Tokyo, Toronto and Vancouver. Often billed alongside BINKY, microtear and EtOH. Next up: La Récré, Montreal on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ soratora is a techno and bass artist tracked on soundcheck, with 25 sets logged 
 
 BINKY, microtear, EtOH
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soratora/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soratora/)*

@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Trybe Summer Closing: Afterparty" on Sat, 5 Sept 2026.
+Fundbureau is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Trybe Summer Closing: Afterparty" on Sat, 5 Sept 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including 3LEEZA, BENITO (DE), Charlie Tee and DJ Dommenjay and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -20,4 +20,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, 
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

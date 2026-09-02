@@ -1,6 +1,6 @@
 # MIA MAZ
 
-MIA MAZ is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sigma, Ibiza on Sat, 5 Sept 2026.
+MIA MAZ is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sigma, Ibiza on Sat, 5 Sept 2026.
 
 MIA MAZ is a techno and minimal techno artist tracked on soundcheck, with 4 sets logged across Barcelona and Ibiza. Often billed alongside SEMREH, Korben Nice and Ren Ascutt. Next up: Sigma, Ibiza on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ MIA MAZ is a techno and minimal techno artist tracked on soundcheck, with 4 sets
 
 SEMREH, Korben Nice, Ren Ascutt
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miamaz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miamaz/)*

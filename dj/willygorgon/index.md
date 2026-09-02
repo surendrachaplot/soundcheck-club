@@ -1,14 +1,15 @@
 # Willy Gorgon
 
-Willy Gorgon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Honey's, New York City on Sun, 6 Sept 2026.
+Willy Gorgon is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Honey's, New York City on Sun, 6 Sept 2026.
 
-Willy Gorgon is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside shanty mane, Jeny Michelle and Armii1n. Next up: Honey's, Newyorkcity on Sun 6 Sept.
+Willy Gorgon is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside shanty mane, EREZ.JPG and Jeny Michelle. Next up: Honey's, Newyorkcity on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Honey's | New York City |
+| Sat, 3 Oct 2026 | House of Yes | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Willy Gorgon is a house and techno artist based in United States of America, tra
 
 ## Shares bills with
 
-shanty mane, Jeny Michelle, Armii1n
+shanty mane, EREZ.JPG, Jeny Michelle
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*

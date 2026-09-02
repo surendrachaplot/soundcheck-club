@@ -1,6 +1,6 @@
 # Rabibti áTable
 
-Rabibti áTable is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Import Export, Munich on Sat, 19 Sept 2026.
+Rabibti áTable is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Import Export, Munich on Sat, 19 Sept 2026.
 
 Rabibti áTable is a techno and disco artist tracked on soundcheck, with 13 sets logged across Berlin, Munich and Prague. Often billed alongside saHHar, Meriem S and MUNSEF. Next up: Import Export, Munich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Rabibti áTable is a techno and disco artist tracked on soundcheck, with 13 sets
 
 saHHar, Meriem S, MUNSEF
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rabibtiatable/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rabibtiatable/)*

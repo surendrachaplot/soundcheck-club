@@ -1,20 +1,20 @@
 # Reznik
 
-Reznik is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Scorpios, Mykonos on Tue, 1 Sept 2026.
+Reznik is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
-Reznik is a house and afro house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Samm (BE), Avangart Tabldot and Bedouin. Next up: Scorpios, Mykonos on Tue 1 Sept.
+Reznik is a house and afro house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside Samm (BE), Avangart Tabldot and Bedouin. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 1 Sept 2026 | Scorpios | Mykonos |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
 | Sat, 26 Sept 2026 | Hackney Bridge | London |
 | Thu, 22 Oct 2026 | Westerkerk | Amsterdam |
 
 ## Recently played
 
+- Scorpios, Mykonos — Tue, 1 Sept 2026
 - La Terrrazza, Barcelona — Sat, 18 Jul 2026
 - Valley, Berlin — Sat, 13 Jun 2026
 - Hï Ibiza, Ibiza — Mon, 1 Jun 2026
@@ -22,10 +22,9 @@ Reznik is a house and afro house artist tracked on soundcheck, with 45 sets logg
 - Seehaus Hamburg, Hamburg — Thu, 30 Apr 2026
 - KOKO, London — Sat, 11 Apr 2026
 - Lula Club, Madrid — Fri, 6 Mar 2026
-- The Loft Amsterdam, Amsterdam — Thu, 1 Jan 2026
 
 ## Shares bills with
 
 Samm (BE), Avangart Tabldot, Bedouin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*

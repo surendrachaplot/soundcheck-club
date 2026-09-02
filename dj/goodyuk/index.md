@@ -1,6 +1,6 @@
 # Goody (UK)
 
-Goody (UK) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Goody (UK) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
 Goody (UK) is a house and minimal artist tracked on soundcheck, with 37 sets logged across Ibiza, Leeds, London and Malta. Often billed alongside Sammy Porter, George Mensah and Tilli Murphy. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Goody (UK) is a house and minimal artist tracked on soundcheck, with 37 sets log
 
 Sammy Porter, George Mensah, Tilli Murphy
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goodyuk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goodyuk/)*

@@ -1,6 +1,6 @@
 # Marky Marbles
 
-Marky Marbles is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Nice N Sleazy, Glasgow on Sat, 19 Sept 2026.
+Marky Marbles is a Garage and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Nice N Sleazy, Glasgow on Sat, 19 Sept 2026.
 
 Marky Marbles is a garage and uk funky artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Edinburgh and Glasgow. Often billed alongside Corran, Temple Sniper and Akintore. Next up: Nice N Sleazy, Glasgow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Marky Marbles is a garage and uk funky artist based in United Kingdom, tracked o
 
 Corran, Temple Sniper, Akintore
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markymarbles/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markymarbles/)*

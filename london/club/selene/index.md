@@ -1,6 +1,6 @@
 # Selene
 
-Selene is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Momento PRESENTS: LDN FASHION WEEK OPENING" on Thu, 17 Sept 2026.
+Selene is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Momento PRESENTS: LDN FASHION WEEK OPENING" on Thu, 17 Sept 2026.
 
 Selene is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including D8V! and HAZ (GB). Browse upcoming dates, start times and who's playing. 2 Winsley Street, London, W1D, England.
 
@@ -14,4 +14,4 @@ Selene is a music venue in London listed on soundcheck. 1 upcoming night, with l
 
 2 Winsley Street, London, W1D, England, London
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/selene/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/selene/)*

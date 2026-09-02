@@ -1,6 +1,6 @@
 # Efdemin
 
-Efdemin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Artheater, Cologne on Fri, 11 Sept 2026.
+Efdemin is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Artheater, Cologne on Fri, 11 Sept 2026.
 
 Efdemin is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Polygonia, Steffi and Virginia. Next up: Artheater, Cologne on Fri 11 Sept.
 
@@ -32,4 +32,4 @@ Efdemin is a techno and house artist tracked on soundcheck, with 120 sets logged
 
 Polygonia, Steffi, Virginia
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*

@@ -1,6 +1,6 @@
 # Lucas Frank
 
-Lucas Frank is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Ku Barcelona, Barcelona on Wed, 2 Sept 2026.
+Lucas Frank is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ku Barcelona, Barcelona on Wed, 2 Sept 2026.
 
 Lucas Frank is a house and tech house artist based in Argentina, tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside Babo, DC81 and Frucula. Next up: Ku Barcelona, Barcelona on Wed 2 Sept.
 
@@ -26,4 +26,4 @@ Lucas Frank is a house and tech house artist based in Argentina, tracked on soun
 
 Babo, DC81, Frucula
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasfrank/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasfrank/)*

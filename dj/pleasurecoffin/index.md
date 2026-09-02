@@ -1,6 +1,6 @@
 # Pleasure Coffin
 
-Pleasure Coffin is a Industrial and Noise artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Middle East, Boston on Sat, 19 Sept 2026.
+Pleasure Coffin is a Industrial and Noise artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Middle East, Boston on Sat, 19 Sept 2026.
 
 Pleasure Coffin is an industrial and noise artist tracked on soundcheck, with 3 sets logged across Boston and Newyorkcity. Often billed alongside Alessandro Adriani, Andi and Asphodel Ivory. Next up: The Middle East, Boston on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ Pleasure Coffin is an industrial and noise artist tracked on soundcheck, with 3 
 
 Alessandro Adriani, Andi, Asphodel Ivory
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pleasurecoffin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pleasurecoffin/)*

@@ -1,6 +1,6 @@
 # Jased
 
-Jased is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Golden Gate, Berlin on Fri, 18 Sept 2026.
+Jased is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Gate, Berlin on Fri, 18 Sept 2026.
 
 Jased is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Nils Ohrmann, Slurm McKenzie and Edgar Peng. Next up: Golden Gate, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Jased is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Nils Ohrmann, Slurm McKenzie, Edgar Peng
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jased/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jased/)*

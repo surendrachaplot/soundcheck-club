@@ -1,6 +1,6 @@
 # Julius Steinhoff
 
-Julius Steinhoff is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Julius Steinhoff is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Julius Steinhoff is a house and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside Lawrence, Jacques Bon and Move D. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Julius Steinhoff is a house and techno artist based in Germany, tracked on sound
 
 Lawrence, Jacques Bon, Move D
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliussteinhoff/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliussteinhoff/)*

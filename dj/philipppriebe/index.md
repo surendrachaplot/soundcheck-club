@@ -1,6 +1,6 @@
 # Philipp Priebe
 
-Philipp Priebe is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Paloma, Berlin on Fri, 30 Oct 2026.
+Philipp Priebe is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Paloma, Berlin on Fri, 30 Oct 2026.
 
 Philipp Priebe is an ambient and techno artist tracked on soundcheck, with 18 sets logged across Berlin, Chicago, London and Seoul. Often billed alongside eterna_l, Jetset Trash and Ben Kaczor. Next up: Paloma, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Philipp Priebe is an ambient and techno artist tracked on soundcheck, with 18 se
 
 eterna_l, Jetset Trash, Ben Kaczor
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philipppriebe/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philipppriebe/)*

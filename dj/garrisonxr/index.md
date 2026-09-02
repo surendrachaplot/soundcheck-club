@@ -1,6 +1,6 @@
 # Garrison XR
 
-Garrison XR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Eagle of Detroit, Detroit on Sat, 5 Sept 2026.
+Garrison XR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Eagle of Detroit, Detroit on Sat, 5 Sept 2026.
 
 Garrison XR is a techno and house artist based in United States of America, tracked on soundcheck, with 200 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside Ashton Swinton, LATEX GIRL and Amino. Next up: The Eagle of Detroit, Detroit on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Garrison XR is a techno and house artist based in United States of America, trac
 
 Ashton Swinton, LATEX GIRL, Amino
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garrisonxr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garrisonxr/)*

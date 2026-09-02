@@ -1,6 +1,6 @@
 # ultramantra
 
-ultramantra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at DeTour, Tokyo on Fri, 4 Sept 2026.
+ultramantra is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at DeTour, Tokyo on Fri, 4 Sept 2026.
 
 ultramantra is a techno and house artist based in Japan, tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside marimari, tech-nas and BEPPU. Next up: DeTour, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ ultramantra is a techno and house artist based in Japan, tracked on soundcheck, 
 
 marimari, tech-nas, BEPPU
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultramantra/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultramantra/)*

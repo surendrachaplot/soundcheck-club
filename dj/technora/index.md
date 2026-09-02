@@ -1,6 +1,6 @@
 # TECHNORA
 
-TECHNORA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 18 Sept 2026.
+TECHNORA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 18 Sept 2026.
 
 TECHNORA is a techno and trance artist tracked on soundcheck, with 6 sets logged across Berlin, Munich and Stuttgart. Often billed alongside Pablo Minuit, DJ Hysteria and wellnessheim69. Next up: Bahnwärter Thiel, Munich on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ TECHNORA is a techno and trance artist tracked on soundcheck, with 6 sets logged
 
 Pablo Minuit, DJ Hysteria, wellnessheim69
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technora/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technora/)*

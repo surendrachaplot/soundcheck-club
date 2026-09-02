@@ -1,6 +1,6 @@
 # Skatebård
 
-Skatebård is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 11 Sept 2026.
+Skatebård is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 11 Sept 2026.
 
 Skatebård is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 24 more. Often billed alongside G-HA, Olanskii and Anders Hajem. Next up: YuYu Cine Club, Mexicocity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Skatebård is a house and techno artist tracked on soundcheck, with 85 sets logg
 
 G-HA, Olanskii, Anders Hajem
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skatebard/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skatebard/)*

@@ -1,6 +1,6 @@
 # DJ MonkeyMan
 
-DJ MonkeyMan is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Phonobar, San Francisco/Oakland on Fri, 4 Sept 2026.
+DJ MonkeyMan is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Phonobar, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 DJ MonkeyMan is a house and disco artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sanfrancisco. Next up: Phonobar, Sanfrancisco on Fri 4 Sept.
 
@@ -14,4 +14,4 @@ DJ MonkeyMan is a house and disco artist based in United States of America, trac
 
 - Moonglow Oakland, San Francisco/Oakland — Fri, 7 Aug 2026
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmonkeyman/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmonkeyman/)*

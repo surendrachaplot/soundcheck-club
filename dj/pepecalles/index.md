@@ -1,6 +1,6 @@
 # Pepe Calles
 
-Pepe Calles is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Newspeak, Montreal on Sat, 5 Sept 2026.
+Pepe Calles is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Newspeak, Montreal on Sat, 5 Sept 2026.
 
 Pepe Calles is a techno and house artist based in Mexico, tracked on soundcheck, with 24 sets logged across Montreal and Toronto. Often billed alongside Martin Vora, Fauren and Nitin. Next up: Newspeak, Montreal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Pepe Calles is a techno and house artist based in Mexico, tracked on soundcheck,
 
 Martin Vora, Fauren, Nitin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pepecalles/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pepecalles/)*

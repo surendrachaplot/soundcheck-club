@@ -1,6 +1,6 @@
 # Noise Not War
 
-Noise Not War is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at DNA Club, Munich on Sat, 12 Sept 2026.
+Noise Not War is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at DNA Club, Munich on Sat, 12 Sept 2026.
 
 Noise Not War is a techno and trance artist based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 11 more. Often billed alongside Death of Mars, Filialleiter and SIKXTO. Next up: DNA Club, Munich on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Noise Not War is a techno and trance artist based in Germany, tracked on soundch
 
 Death of Mars, Filialleiter, SIKXTO
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*

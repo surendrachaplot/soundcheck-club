@@ -1,6 +1,6 @@
 # ENFAN
 
-ENFAN is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Le Petit Salon, Lyon on Sat, 12 Sept 2026.
+ENFAN is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Le Petit Salon, Lyon on Sat, 12 Sept 2026.
 
 ENFAN is a techno and hardcore artist tracked on soundcheck, with 33 sets logged across Antwerp, Berlin, Cologne and Lyon and 6 more. Often billed alongside KARAH, Cassie Raptor and Lolalita. Next up: Le Petit Salon, Lyon on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ ENFAN is a techno and hardcore artist tracked on soundcheck, with 33 sets logged
 
 KARAH, Cassie Raptor, Lolalita
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enfan/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enfan/)*

@@ -1,6 +1,6 @@
 # TanzMan
 
-TanzMan is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Now&Wow, Rotterdam on Sat, 7 Nov 2026.
+TanzMan is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Now&Wow, Rotterdam on Sat, 7 Nov 2026.
 
 TanzMan is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Ibiza, Rotterdam and Thehague. Often billed alongside Fraulein Z, RAKKATACK and Joris Turenhout. Next up: Now&Wow, Rotterdam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ TanzMan is a techno and tech house artist based in Netherlands, tracked on sound
 
 Fraulein Z, RAKKATACK, Joris Turenhout
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanzman/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanzman/)*

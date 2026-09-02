@@ -1,6 +1,6 @@
 # KABUTO
 
-KABUTO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Seoul on Sat, 19 Sept 2026.
+KABUTO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Seoul on Sat, 19 Sept 2026.
 
 KABUTO is a techno and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Satoshi Otsuki, levolant and Antwork. Next up: TBA, Seoul on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ KABUTO is a techno and house artist tracked on soundcheck, with 111 sets logged 
 
 Satoshi Otsuki, levolant, Antwork
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabuto/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kabuto/)*

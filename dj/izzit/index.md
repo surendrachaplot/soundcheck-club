@@ -1,6 +1,6 @@
 # IZZIT
 
-IZZIT is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Moon Club, Bristol on Fri, 4 Sept 2026.
+IZZIT is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Moon Club, Bristol on Fri, 4 Sept 2026.
 
 IZZIT is a house and tech house artist tracked on soundcheck, with 43 sets logged across Bristol, Cardiff and London. Often billed alongside Lily Huu, Phia500 and DASHY. Next up: Moon Club, Bristol on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ IZZIT is a house and tech house artist tracked on soundcheck, with 43 sets logge
 
 Lily Huu, Phia500, DASHY
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzit/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izzit/)*

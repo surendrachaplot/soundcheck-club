@@ -1,6 +1,6 @@
 # No Rush
 
-No Rush is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Crobar Club, Palermo, Buenos Aires on Fri, 11 Sept 2026.
+No Rush is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Crobar Club, Palermo, Buenos Aires on Fri, 11 Sept 2026.
 
 No Rush is a techno and electronica artist based in Colombia, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona and Buenosaires. Often billed alongside Franco Villaflor, 19:26 and Adam Sellouk. Next up: TBA - Crobar Club, Palermo, Buenosaires on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ No Rush is a techno and electronica artist based in Colombia, tracked on soundch
 
 Franco Villaflor, 19:26, Adam Sellouk
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norush-co/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norush-co/)*

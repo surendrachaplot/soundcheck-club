@@ -1,6 +1,6 @@
 # Jairo Uría
 
-Jairo Uría is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rachdingue, Barcelona on Sat, 5 Sept 2026.
+Jairo Uría is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Rachdingue, Barcelona on Sat, 5 Sept 2026.
 
 Jairo Uría is a deep house and techno artist based in Spain, tracked on soundcheck, with 44 sets logged across Barcelona and Berlin. Often billed alongside Miss Manu, Guillem Cotto and John Acquaviva. Next up: Rachdingue, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Jairo Uría is a deep house and techno artist based in Spain, tracked on soundch
 
 Miss Manu, Guillem Cotto, John Acquaviva
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jairouria/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jairouria/)*

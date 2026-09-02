@@ -1,6 +1,6 @@
 # mlosims
 
-mlosims is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 12 Sept 2026.
+mlosims is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 12 Sept 2026.
 
 mlosims is an experimental and bass artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside Ziziphus Jujuba, cityofbrokendolls and JACKSON kaki. Next up: TBA - Secret location in Nishiazabu, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ mlosims is an experimental and bass artist based in Japan, tracked on soundcheck
 
 Ziziphus Jujuba, cityofbrokendolls, JACKSON kaki
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mlosims/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mlosims/)*

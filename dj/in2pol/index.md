@@ -1,6 +1,6 @@
 # IN2POL
 
-IN2POL is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+IN2POL is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 IN2POL is a house and disco artist based in Australia, tracked on soundcheck, with 10 sets logged across Amsterdam, Hobart, Melbourne and Sydney and 1 more. Often billed alongside DJ Luv You, Love, Jess and Mikalah Watego. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ IN2POL is a house and disco artist based in Australia, tracked on soundcheck, wi
 
 DJ Luv You, Love, Jess, Mikalah Watego
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/in2pol/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/in2pol/)*

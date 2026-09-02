@@ -1,6 +1,6 @@
 # Cozmic Cat
 
-Cozmic Cat is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Wiggle Room, Toronto on Sat, 5 Sept 2026.
+Cozmic Cat is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Wiggle Room, Toronto on Sat, 5 Sept 2026.
 
 Cozmic Cat is a tech house and house artist tracked on soundcheck, with 55 sets logged across Toronto. Often billed alongside Barroness, Manzone & Strong and Miz Megs. Next up: Wiggle Room, Toronto on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Cozmic Cat is a tech house and house artist tracked on soundcheck, with 55 sets 
 
 Barroness, Manzone & Strong, Miz Megs
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cozmiccat/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cozmiccat/)*

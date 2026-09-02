@@ -1,6 +1,6 @@
 # Amizl
 
-Amizl is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 11 Sept 2026.
+Amizl is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 11 Sept 2026.
 
 Amizl is a house and garage artist tracked on soundcheck, with 11 sets logged across Edinburgh and Glasgow. Often billed alongside Nadia Summer, A-TØN and M1-DJ. Next up: The Berkeley Suite, Glasgow on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Amizl is a house and garage artist tracked on soundcheck, with 11 sets logged ac
 
 Nadia Summer, A-TØN, M1-DJ
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amizl/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amizl/)*

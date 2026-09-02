@@ -1,6 +1,6 @@
 # STILL
 
-STILL is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Narocz 13, Warsaw on Sat, 19 Sept 2026.
+STILL is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Narocz 13, Warsaw on Sat, 19 Sept 2026.
 
 STILL is an experimental and bass artist tracked on soundcheck, with 34 sets logged across Athens, Barcelona, Berlin and Lisbon and 6 more. Often billed alongside MBODJ, Bill Kouligas and Covco. Next up: Narocz 13, Warsaw on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ STILL is an experimental and bass artist tracked on soundcheck, with 34 sets log
 
 MBODJ, Bill Kouligas, Covco
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/still/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/still/)*

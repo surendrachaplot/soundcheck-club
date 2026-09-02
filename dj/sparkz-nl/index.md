@@ -1,6 +1,6 @@
 # Sparkz (NL)
 
-Sparkz (NL) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Sparkz (NL) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Sparkz (NL) is a house and techno artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Athens, Cologne and Glasgow and 4 more. Often billed alongside Bakey, Nia Archives and Rich Reason. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Sparkz (NL) is a house and techno artist based in Netherlands, tracked on soundc
 
 Bakey, Nia Archives, Rich Reason
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparkz-nl/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sparkz-nl/)*

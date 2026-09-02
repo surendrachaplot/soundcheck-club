@@ -1,6 +1,6 @@
 # Acidwork
 
-Acidwork is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Machine Hall, Sydney on Fri, 4 Sept 2026.
+Acidwork is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Machine Hall, Sydney on Fri, 4 Sept 2026.
 
 Acidwork is a house and club artist tracked on soundcheck, with 139 sets logged across Seoul, Sydney and Tokyo. Often billed alongside Jesse You, Jucid and JNS. Next up: Machine Hall, Sydney on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Acidwork is a house and club artist tracked on soundcheck, with 139 sets logged 
 
 Jesse You, Jucid, JNS
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidwork/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidwork/)*

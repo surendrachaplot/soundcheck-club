@@ -1,6 +1,6 @@
 # Jhort
 
-Jhort is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Nitsa Club, Barcelona on Fri, 4 Sept 2026.
+Jhort is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nitsa Club, Barcelona on Fri, 4 Sept 2026.
 
 Jhort is a techno and trance artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside VOID/DIVO, Verushka and ALEKSANDRE. Next up: Nitsa Club, Barcelona on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Jhort is a techno and trance artist tracked on soundcheck, with 48 sets logged a
 
 VOID/DIVO, Verushka, ALEKSANDRE
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jhort/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jhort/)*

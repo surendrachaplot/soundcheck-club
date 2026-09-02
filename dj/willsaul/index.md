@@ -1,6 +1,6 @@
 # Will Saul
 
-Will Saul is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at VENT, Tokyo on Tue, 22 Sept 2026.
+Will Saul is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at VENT, Tokyo on Tue, 22 Sept 2026.
 
 Will Saul is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Brighton, London, Mallorca and Stockholm and 1 more. Often billed alongside Cinthie, 808 State and Actress. Next up: VENT, Tokyo on Tue 22 Sept.
 
@@ -24,4 +24,4 @@ Will Saul is a house and electronica artist based in United Kingdom, tracked on 
 
 Cinthie, 808 State, Actress
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willsaul/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willsaul/)*

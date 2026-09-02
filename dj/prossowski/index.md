@@ -1,6 +1,6 @@
 # Prossowski
 
-Prossowski is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Odonien, Cologne on Fri, 4 Sept 2026.
+Prossowski is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Odonien, Cologne on Fri, 4 Sept 2026.
 
 Prossowski is a techno and psytrance artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 1 more. Often billed alongside Vagabund, A.N.I. and Adrian Mills. Next up: Odonien, Cologne on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Prossowski is a techno and psytrance artist based in Germany, tracked on soundch
 
 Vagabund, A.N.I., Adrian Mills
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prossowski/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prossowski/)*

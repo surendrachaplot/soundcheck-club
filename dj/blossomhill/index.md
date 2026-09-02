@@ -1,6 +1,6 @@
 # Blossom Hill
 
-Blossom Hill is a House and Ambient artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Greyhound, London on Sat, 5 Sept 2026.
+Blossom Hill is a House and Ambient artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Greyhound, London on Sat, 5 Sept 2026.
 
 Blossom Hill is a house and ambient artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bangkok, Berlin, Copenhagen and London and 4 more. Often billed alongside Seb Wildblood, schulze and ||||||||||||||||||||. Next up: The Greyhound, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Blossom Hill is a house and ambient artist based in United Kingdom, tracked on s
 
 Seb Wildblood, schulze, ||||||||||||||||||||
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blossomhill/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blossomhill/)*

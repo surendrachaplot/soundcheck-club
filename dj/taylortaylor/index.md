@@ -1,6 +1,6 @@
 # Taylor Taylor
 
-Taylor Taylor is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Zwart Goud Record Store, Amsterdam on Sat, 19 Sept 2026.
+Taylor Taylor is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Zwart Goud Record Store, Amsterdam on Sat, 19 Sept 2026.
 
 Taylor Taylor is a house and acid artist tracked on soundcheck, with 26 sets logged across Amsterdam and Liverpool. Often billed alongside RoomToo, Sheps and mckelv. Next up: Zwart Goud Record Store, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Taylor Taylor is a house and acid artist tracked on soundcheck, with 26 sets log
 
 RoomToo, Sheps, mckelv
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortaylor/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taylortaylor/)*

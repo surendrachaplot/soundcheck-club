@@ -1,13 +1,14 @@
 # WhoisAlice
 
-WhoisAlice is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lokschuppen Berlin, Berlin on Tue, 8 Sept 2026.
+WhoisAlice is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Wed, 2 Sept 2026.
 
-WhoisAlice is a trance and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Hamburg. Often billed alongside ACIDG, AGAINS7 and ANASTASÍA. Next up: Lokschuppen Berlin, Berlin on Tue 8 Sept.
+WhoisAlice is a trance and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Hamburg. Often billed alongside ACIDG, AGAINS7 and ANASTASÍA. Next up: Fabrique im Gängeviertel, Hamburg on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 2 Sept 2026 | Fabrique im Gängeviertel | Hamburg |
 | Tue, 8 Sept 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -19,4 +20,4 @@ WhoisAlice is a trance and techno artist based in Germany, tracked on soundcheck
 
 ACIDG, AGAINS7, ANASTASÍA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisalice/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whoisalice/)*

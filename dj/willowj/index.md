@@ -1,6 +1,6 @@
 # Willow J
 
-Willow J is a Club and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Honey Street Studio, Manchester on Fri, 4 Sept 2026.
+Willow J is a Club and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Honey Street Studio, Manchester on Fri, 4 Sept 2026.
 
 Willow J is a club and trance artist tracked on soundcheck, with 24 sets logged across Brighton, Leeds and Manchester. Often billed alongside Lucky Bunny, Princess Elf Bar and maevie. Next up: Honey Street Studio, Manchester on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Willow J is a club and trance artist tracked on soundcheck, with 24 sets logged 
 
 Lucky Bunny, Princess Elf Bar, maevie
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willowj/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willowj/)*

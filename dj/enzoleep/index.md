@@ -1,6 +1,6 @@
 # Enzo Leep
 
-Enzo Leep is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 26 Sept 2026.
+Enzo Leep is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 26 Sept 2026.
 
 Enzo Leep is a house and electronica artist based in Spain, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside ELVI (SE), Ion Pananides and Alvaro Medina. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Enzo Leep is a house and electronica artist based in Spain, tracked on soundchec
 
 ELVI (SE), Ion Pananides, Alvaro Medina
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoleep/)*

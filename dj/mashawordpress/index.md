@@ -1,6 +1,6 @@
 # Masha Wordpress
 
-Masha Wordpress is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at dubble, Amsterdam on Sat, 19 Sept 2026.
+Masha Wordpress is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at dubble, Amsterdam on Sat, 19 Sept 2026.
 
 Masha Wordpress is a techno and electro artist based in Russia, tracked on soundcheck, with 20 sets logged across Amsterdam and Brussels. Often billed alongside Lena Rigel, LAN the Wireless and Dj Serko. Next up: dubble, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Masha Wordpress is a techno and electro artist based in Russia, tracked on sound
 
 Lena Rigel, LAN the Wireless, Dj Serko
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mashawordpress/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mashawordpress/)*

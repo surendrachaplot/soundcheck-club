@@ -1,6 +1,6 @@
 # Vanessa Sa
 
-Vanessa Sa is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Exil, Vienna on Fri, 18 Sept 2026.
+Vanessa Sa is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club Exil, Vienna on Fri, 18 Sept 2026.
 
 Vanessa Sa is a techno and trance artist based in Austria, tracked on soundcheck, with 26 sets logged across Berlin, London and Vienna. Often billed alongside BRX (2), Who is ela¿ and Aleta. Next up: Club Exil, Vienna on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Vanessa Sa is a techno and trance artist based in Austria, tracked on soundcheck
 
 BRX (2), Who is ela¿, Aleta
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessasa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessasa/)*

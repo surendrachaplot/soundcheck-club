@@ -1,6 +1,6 @@
 # Kola (PL)
 
-Kola (PL) is a Electronica and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Sekta Selekta, Krakow on Fri, 4 Sept 2026.
+Kola (PL) is a Electronica and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sekta Selekta, Krakow on Fri, 4 Sept 2026.
 
 Kola (PL) is an electronica and minimal artist tracked on soundcheck, with 10 sets logged across Krakow. Often billed alongside 4\4, Kowa and Blezz. Next up: Sekta Selekta, Krakow on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Kola (PL) is an electronica and minimal artist tracked on soundcheck, with 10 se
 
 4\4, Kowa, Blezz
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolapl/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolapl/)*

@@ -1,6 +1,6 @@
 # jewelry
 
-jewelry is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Renate, Berlin on Fri, 4 Sept 2026.
+jewelry is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Renate, Berlin on Fri, 4 Sept 2026.
 
 jewelry is a house and techno artist tracked on soundcheck, with 42 sets logged across Berlin, Brussels, Leipzig and Munich and 1 more. Often billed alongside Miss Take, SAM (9) and OLIV. Next up: Renate, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ jewelry is a house and techno artist tracked on soundcheck, with 42 sets logged 
 
 Miss Take, SAM (9), OLIV
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelry/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelry/)*

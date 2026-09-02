@@ -1,6 +1,6 @@
 # Artslaves
 
-Artslaves is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Madam, Amsterdam on Fri, 16 Oct 2026.
+Artslaves is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Madam, Amsterdam on Fri, 16 Oct 2026.
 
 Artslaves is a tech house and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Basel, Belgrade and Berlin and 11 more. Often billed alongside Biagio Sibilla, Hito and Jeff Sorkowitz. Next up: Madam, Amsterdam on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Artslaves is a tech house and house artist tracked on soundcheck, with 28 sets l
 
 Biagio Sibilla, Hito, Jeff Sorkowitz
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artslaves/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artslaves/)*

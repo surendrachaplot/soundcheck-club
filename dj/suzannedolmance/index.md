@@ -1,6 +1,6 @@
 # Suzanne Dolmancé
 
-Suzanne Dolmancé is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
+Suzanne Dolmancé is a Electro and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
 
 Suzanne Dolmancé is an electro and progressive house artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Easy K, R4F4 and DJ Detective. Next up: Crack Bellmer, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Suzanne Dolmancé is an electro and progressive house artist tracked on soundche
 
 Easy K, R4F4, DJ Detective
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzannedolmance/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzannedolmance/)*

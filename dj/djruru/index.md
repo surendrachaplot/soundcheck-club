@@ -1,6 +1,6 @@
 # DJ RURU
 
-DJ RURU is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Red Room, Montreal on Tue, 29 Sept 2026.
+DJ RURU is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Red Room, Montreal on Tue, 29 Sept 2026.
 
 DJ RURU is a techno and dubstep artist tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside ALOKIN, Chloe Lallouz and DJ DK. Next up: Le Red Room, Montreal on Tue 29 Sept.
 
@@ -24,4 +24,4 @@ DJ RURU is a techno and dubstep artist tracked on soundcheck, with 8 sets logged
 
 ALOKIN, Chloe Lallouz, DJ DK
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djruru/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djruru/)*

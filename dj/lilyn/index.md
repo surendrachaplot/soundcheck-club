@@ -1,6 +1,6 @@
 # Lilyn
 
-Lilyn is a Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Soup, Manchester on Fri, 25 Sept 2026.
+Lilyn is a Bass and Footwork artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Soup, Manchester on Fri, 25 Sept 2026.
 
 Lilyn is a bass and footwork artist tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside MARCUS THE MARAUDER, Sharayda and imad:re. Next up: Soup, Manchester on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ Lilyn is a bass and footwork artist tracked on soundcheck, with 2 sets logged ac
 
 MARCUS THE MARAUDER, Sharayda, imad:re
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyn/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyn/)*

@@ -1,6 +1,6 @@
 # saparilla
 
-saparilla is a Club and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 18 Sept 2026.
+saparilla is a Club and Baile Funk artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at EXIT Glasgow, Glasgow on Fri, 18 Sept 2026.
 
 saparilla is a club and baile funk artist tracked on soundcheck, with 27 sets logged across Edinburgh, Glasgow and London. Often billed alongside Kinz Luiz, makaya and spxo. Next up: EXIT Glasgow, Glasgow on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ saparilla is a club and baile funk artist tracked on soundcheck, with 27 sets lo
 
 Kinz Luiz, makaya, spxo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saparilla/)*

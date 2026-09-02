@@ -1,6 +1,6 @@
 # Alex Moore
 
-Alex Moore is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tangerine, Manchester on Fri, 4 Sept 2026.
+Alex Moore is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tangerine, Manchester on Fri, 4 Sept 2026.
 
 Alex Moore is a house and garage artist tracked on soundcheck, with 17 sets logged across London and Manchester. Often billed alongside KURLZ, Alex Milo and BATE TIL LATE. Next up: Tangerine, Manchester on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Alex Moore is a house and garage artist tracked on soundcheck, with 17 sets logg
 
 KURLZ, Alex Milo, BATE TIL LATE
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmoore/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexmoore/)*

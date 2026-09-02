@@ -1,6 +1,6 @@
 # Crystal Touch
 
-Crystal Touch is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+Crystal Touch is a Disco and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
 Crystal Touch is a disco and house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Copenhagen, London and Paris and 1 more. Often billed alongside Bustin' Loose, Tatiana and Magnolia_. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Crystal Touch is a disco and house artist based in United Kingdom, tracked on so
 
 Bustin' Loose, Tatiana, Magnolia_
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crystaltouch/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crystaltouch/)*

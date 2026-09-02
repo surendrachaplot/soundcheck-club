@@ -1,6 +1,6 @@
 # AHAB
 
-AHAB is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Humboldthain Club, Berlin on Fri, 11 Sept 2026.
+AHAB is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Humboldthain Club, Berlin on Fri, 11 Sept 2026.
 
 AHAB is a techno and deep house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Marc Eisenberg, V (NYC) and Better Call Paul. Next up: Humboldthain Club, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ AHAB is a techno and deep house artist based in Germany, tracked on soundcheck, 
 
 Marc Eisenberg, V (NYC), Better Call Paul
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahab/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahab/)*

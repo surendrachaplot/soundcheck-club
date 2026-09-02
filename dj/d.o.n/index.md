@@ -1,6 +1,6 @@
 # D.O.N
 
-D.O.N is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 4 Sept 2026.
+D.O.N is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 4 Sept 2026.
 
 D.O.N is a house and techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Barcelona. Often billed alongside ATMEN, Cesar Martino and Lokesh. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ D.O.N is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ATMEN, Cesar Martino, Lokesh
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.n/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d.o.n/)*

@@ -1,6 +1,6 @@
 # MPeach
 
-MPeach is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Chocolate Factory, New York City on Thu, 10 Sept 2026.
+MPeach is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Chocolate Factory, New York City on Thu, 10 Sept 2026.
 
 MPeach is a techno and house artist tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, London and Madrid and 5 more. Often billed alongside zorenLo, 8888 and JOSELO. Next up: The Chocolate Factory, Newyorkcity on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ MPeach is a techno and house artist tracked on soundcheck, with 34 sets logged a
 
 zorenLo, 8888, JOSELO
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mpeach/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mpeach/)*

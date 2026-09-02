@@ -1,6 +1,6 @@
 # Agora Records
 
-Agora Records is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "Agora x ISC present: DeepChord (live) + Photay (live)" on Fri, 18 Sept 2026.
+Agora Records is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Agora x ISC present: DeepChord (live) + Photay (live)" on Fri, 18 Sept 2026.
 
 Agora Records is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including DeepChord and Photay. Browse upcoming dates, start times and who's playing. 1022 S Santa Fe Ave, Los Angeles, CA, 90021, USA.
 
@@ -14,4 +14,4 @@ Agora Records is a music venue in Losangeles listed on soundcheck. 1 upcoming ni
 
 1022 S Santa Fe Ave, Los Angeles, CA, 90021, USA, Los Angeles
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/agora-records/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/agora-records/)*

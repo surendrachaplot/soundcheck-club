@@ -1,8 +1,8 @@
 # DJ Dustin
 
-DJ Dustin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+DJ Dustin is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
-DJ Dustin is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Auckland, Bali and Bangkok and 25 more. Often billed alongside Konstantin, Yamour and Map.ache. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
+DJ Dustin is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Auckland, Bali and Bangkok and 26 more. Often billed alongside Konstantin, Yamour and Map.ache. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Dustin is a house and techno artist tracked on soundcheck, with 93 sets logge
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
 | Sat, 19 Sept 2026 | TBA - LFO | Madrid |
+| Sat, 26 Sept 2026 | TBA - Secret Location | Mallorca |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 
@@ -28,4 +29,4 @@ DJ Dustin is a house and techno artist tracked on soundcheck, with 93 sets logge
 
 Konstantin, Yamour, Map.ache
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*

@@ -1,6 +1,6 @@
 # Sota Shimada
 
-Sota Shimada is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Aoyama Tunnel, Tokyo on Wed, 2 Sept 2026.
+Sota Shimada is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Aoyama Tunnel, Tokyo on Wed, 2 Sept 2026.
 
 Sota Shimada is a house and techno artist based in Japan, tracked on soundcheck, with 93 sets logged across Seoul and Tokyo. Often billed alongside Hayato, SOTA and AMANE. Next up: Aoyama Tunnel, Tokyo on Wed 2 Sept.
 
@@ -26,4 +26,4 @@ Sota Shimada is a house and techno artist based in Japan, tracked on soundcheck,
 
 Hayato, SOTA, AMANE
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sotashimada/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sotashimada/)*

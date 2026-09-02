@@ -1,6 +1,6 @@
 # R3NATA
 
-R3NATA is a Progressive House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Hive Club, Zurich on Fri, 18 Sept 2026.
+R3NATA is a Progressive House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hive Club, Zurich on Fri, 18 Sept 2026.
 
 R3NATA is a progressive house and downtempo artist tracked on soundcheck, with 25 sets logged across Berlin, Copenhagen, Hamburg and Miami and 1 more. Often billed alongside Urem, Corios and Elias Goldmund. Next up: Hive Club, Zurich on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ R3NATA is a progressive house and downtempo artist tracked on soundcheck, with 2
 
 Urem, Corios, Elias Goldmund
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r3nata/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r3nata/)*

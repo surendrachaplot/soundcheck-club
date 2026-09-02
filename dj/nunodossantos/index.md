@@ -1,6 +1,6 @@
 # Nuno dos Santos
 
-Nuno dos Santos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Strandpaviljoen De Staat, The Hague on Sat, 26 Sept 2026.
+Nuno dos Santos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Strandpaviljoen De Staat, The Hague on Sat, 26 Sept 2026.
 
 Nuno dos Santos is a house and techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Thehague and Utrecht and 1 more. Often billed alongside Luna Ludmila, Bastienne and Benny Rodrigues. Next up: Strandpaviljoen De Staat, Thehague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nuno dos Santos is a house and techno artist tracked on soundcheck, with 44 sets
 
 Luna Ludmila, Bastienne, Benny Rodrigues
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunodossantos/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunodossantos/)*

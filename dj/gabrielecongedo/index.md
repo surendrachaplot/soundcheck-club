@@ -1,6 +1,6 @@
 # Gabriele Congedo
 
-Gabriele Congedo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Minimal Bar, Berlin on Wed, 11 Nov 2026.
+Gabriele Congedo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Minimal Bar, Berlin on Wed, 11 Nov 2026.
 
 Gabriele Congedo is a house and deep house artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam and Berlin. Often billed alongside Ector Nina, Gary Caos and ANNARA. Next up: Minimal Bar, Berlin on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Gabriele Congedo is a house and deep house artist based in Germany, tracked on s
 
 Ector Nina, Gary Caos, ANNARA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielecongedo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielecongedo/)*

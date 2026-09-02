@@ -1,6 +1,6 @@
 # GIO THELLO
 
-GIO THELLO is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Sept 2026.
+GIO THELLO is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Sept 2026.
 
 GIO THELLO is a techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Munich. Often billed alongside Jamaica Suk, Katy Bähm and Muallem. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ GIO THELLO is a techno artist based in Germany, tracked on soundcheck, with 7 se
 
 Jamaica Suk, Katy Bähm, Muallem
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giothello/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giothello/)*

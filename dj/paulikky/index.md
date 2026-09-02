@@ -1,6 +1,6 @@
 # Paul Ikky
 
-Paul Ikky is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Garage 442, Barcelona on Wed, 2 Sept 2026.
+Paul Ikky is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Garage 442, Barcelona on Wed, 2 Sept 2026.
 
 Paul Ikky is a progressive house and deep house artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona and Madrid. Often billed alongside pumbum, Jou Nielsen and Bill Hates. Next up: Garage 442, Barcelona on Wed 2 Sept.
 
@@ -23,4 +23,4 @@ Paul Ikky is a progressive house and deep house artist based in Spain, tracked o
 
 pumbum, Jou Nielsen, Bill Hates
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulikky/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulikky/)*

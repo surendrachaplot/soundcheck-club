@@ -1,6 +1,6 @@
 # Worm
 
-Worm is a music venue in Rotterdam with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Festival Downtown 2026: RDBLCK / Levels" on Sat, 12 Sept 2026.
+Worm is a music venue in Rotterdam with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Festival Downtown 2026: RDBLCK / Levels" on Sat, 12 Sept 2026.
 
 Worm is a music venue in Rotterdam listed on soundcheck. 2 upcoming nights, with line-ups including Bianca Oblivion, Little Liam, Megan Jane and Nala Brown and 2 more. Browse upcoming dates, start times and who's playing. Boomgaardsstraat 71, 3012 XA, Rotterdam.
 
@@ -15,4 +15,4 @@ Worm is a music venue in Rotterdam listed on soundcheck. 2 upcoming nights, with
 
 Boomgaardsstraat 71, 3012 XA, Rotterdam, Rotterdam
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/worm/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/worm/)*

@@ -1,6 +1,6 @@
 # Baby Jesus
 
-Baby Jesus is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Baby Jesus is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Baby Jesus is a house and afro house artist based in Brazil, tracked on soundcheck, with 6 sets logged across Amsterdam and Miami. Often billed alongside MEGUSTA, Roll-e and Ale Acosta. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Baby Jesus is a house and afro house artist based in Brazil, tracked on soundche
 
 MEGUSTA, Roll-e, Ale Acosta
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjesus/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjesus/)*

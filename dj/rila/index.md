@@ -1,6 +1,6 @@
 # Rila
 
-Rila is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Honey's, New York City on Wed, 2 Sept 2026.
+Rila is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Honey's, New York City on Wed, 2 Sept 2026.
 
 Rila is a techno and house artist based in United States of America, tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside Conduit, Iggy Nuclear and Kettle. Next up: Honey's, Newyorkcity on Wed 2 Sept.
 
@@ -19,4 +19,4 @@ Rila is a techno and house artist based in United States of America, tracked on 
 
 Conduit, Iggy Nuclear, Kettle
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rila/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rila/)*

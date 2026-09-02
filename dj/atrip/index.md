@@ -1,8 +1,8 @@
 # ATRIP
 
-ATRIP is a House and Garage artist with 7 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at [UNVRS], Ibiza on Thu, 10 Sept 2026.
+ATRIP is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at [UNVRS], Ibiza on Thu, 10 Sept 2026.
 
-ATRIP is a house and garage artist tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Barcelona and Belfast and 37 more. Often billed alongside DJ BORING, Oppidan and salute. Next up: [UNVRS], Ibiza on Thu 10 Sept.
+ATRIP is a house and garage artist tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Barcelona and Belfast and 37 more. Often billed alongside DJ BORING, Oppidan and salute. Next up: [UNVRS], Ibiza on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ ATRIP is a house and garage artist tracked on soundcheck, with 81 sets logged ac
 | Sat, 12 Sept 2026 | Academy LA | Los Angeles |
 | Sat, 19 Sept 2026 | Prysm Nightclub | Chicago |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | The Warehouse | Leeds |
 
 ## Recently played
@@ -31,4 +32,4 @@ ATRIP is a house and garage artist tracked on soundcheck, with 81 sets logged ac
 
 DJ BORING, Oppidan, salute
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atrip/)*

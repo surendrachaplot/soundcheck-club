@@ -1,6 +1,6 @@
 # Hobin Rude
 
-Hobin Rude is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Barutana, Belgrade on Fri, 4 Sept 2026.
+Hobin Rude is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Barutana, Belgrade on Fri, 4 Sept 2026.
 
 Hobin Rude is a progressive house and house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Belgrade, Budapest and Newcastle and 1 more. Often billed alongside Around Us, Callecat and Kostya Outta. Next up: Barutana, Belgrade on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Hobin Rude is a progressive house and house artist tracked on soundcheck, with 2
 
 Around Us, Callecat, Kostya Outta
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hobinrude/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hobinrude/)*

@@ -1,6 +1,6 @@
 # Hans
 
-Hans is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club.Nine, Tallinn on Sat, 5 Sept 2026.
+Hans is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club.Nine, Tallinn on Sat, 5 Sept 2026.
 
 Hans is a trance and techno artist based in Ireland, tracked on soundcheck, with 4 sets logged across Berlin, Melbourne and Tallinn. Often billed alongside &more, Abdullah Miniawy and André Pahl. Next up: Club.Nine, Tallinn on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Hans is a trance and techno artist based in Ireland, tracked on soundcheck, with
 
 &more, Abdullah Miniawy, André Pahl
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hans/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hans/)*

@@ -1,6 +1,6 @@
 # ADR (UK)
 
-ADR (UK) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at block., Dublin on Sat, 12 Sept 2026.
+ADR (UK) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at block., Dublin on Sat, 12 Sept 2026.
 
 ADR (UK) is a house and garage artist tracked on soundcheck, with 22 sets logged across Barcelona, Brighton, Dublin and Leeds and 3 more. Often billed alongside OUTTEN, jWave and AZAAD. Next up: block., Dublin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ ADR (UK) is a house and garage artist tracked on soundcheck, with 22 sets logged
 
 OUTTEN, jWave, AZAAD
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adr-uk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adr-uk/)*

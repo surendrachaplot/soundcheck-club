@@ -1,6 +1,6 @@
 # Carlos Lamar
 
-Carlos Lamar is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Macarena Club, Barcelona on Sat, 19 Sept 2026.
+Carlos Lamar is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Macarena Club, Barcelona on Sat, 19 Sept 2026.
 
 Carlos Lamar is an electronic artist based in Spain, tracked on soundcheck, with 22 sets logged across Barcelona. Often billed alongside Bruno Otranto, Diego Ro-k and Heinech. Next up: Macarena Club, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Carlos Lamar is an electronic artist based in Spain, tracked on soundcheck, with
 
 Bruno Otranto, Diego Ro-k, Heinech
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carloslamar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carloslamar/)*

@@ -1,6 +1,6 @@
 # RTGL
 
-RTGL is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Parco Industria Alfa Romeo - Portello, Milan on Sat, 5 Sept 2026.
+RTGL is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Parco Industria Alfa Romeo - Portello, Milan on Sat, 5 Sept 2026.
 
 RTGL is an electronica and tech house artist tracked on soundcheck, with 21 sets logged across Milan. Often billed alongside Aznamir, Buza and KAT3X. Next up: Parco Industria Alfa Romeo - Portello, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ RTGL is an electronica and tech house artist tracked on soundcheck, with 21 sets
 
 Aznamir, Buza, KAT3X
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rtgl/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rtgl/)*

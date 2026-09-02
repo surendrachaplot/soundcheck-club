@@ -1,6 +1,6 @@
 # Dichas
 
-Dichas is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Malasaña, Madrid on Thu, 3 Sept 2026.
+Dichas is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club Malasaña, Madrid on Thu, 3 Sept 2026.
 
 Dichas is an electronica and house artist based in Spain, tracked on soundcheck, with 24 sets logged across Madrid and Milan. Often billed alongside Pedro D. Saiz, Fuentes-Guerra and Glossy Mario. Next up: Club Malasaña, Madrid on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Dichas is an electronica and house artist based in Spain, tracked on soundcheck,
 
 Pedro D. Saiz, Fuentes-Guerra, Glossy Mario
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dichas/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dichas/)*

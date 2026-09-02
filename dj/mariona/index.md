@@ -1,6 +1,6 @@
 # Mariona
 
-Mariona is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Mariona is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Mariona is a house and techno artist based in Spain, tracked on soundcheck, with 10 sets logged across Antwerp, Barcelona and Brussels. Often billed alongside Tweeman, Dana Montana and &ME. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Mariona is a house and techno artist based in Spain, tracked on soundcheck, with
 
 Tweeman, Dana Montana, &ME
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariona/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariona/)*

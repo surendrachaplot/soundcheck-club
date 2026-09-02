@@ -1,6 +1,6 @@
 # Indigo Eyes
 
-Indigo Eyes is a House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Jazz Cafe, London on Fri, 6 Nov 2026.
+Indigo Eyes is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Jazz Cafe, London on Fri, 6 Nov 2026.
 
 Indigo Eyes is a house and club artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London and Manchester. Often billed alongside Drinks On Me, Dylan Pasqua and shor. Next up: The Jazz Cafe, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Indigo Eyes is a house and club artist based in United Kingdom, tracked on sound
 
 Drinks On Me, Dylan Pasqua, shor
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indigoeyes/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indigoeyes/)*

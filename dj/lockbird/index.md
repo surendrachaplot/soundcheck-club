@@ -1,6 +1,6 @@
 # Lockbird
 
-Lockbird is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cantina Social, Athens on Wed, 2 Sept 2026.
+Lockbird is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Cantina Social, Athens on Wed, 2 Sept 2026.
 
 Lockbird is a pop and house artist based in Greece, tracked on soundcheck, with 53 sets logged across Athens. Often billed alongside PJ MUGIWARA, George Apergis and Fiyahkidd. Next up: Cantina Social, Athens on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Lockbird is a pop and house artist based in Greece, tracked on soundcheck, with 
 
 PJ MUGIWARA, George Apergis, Fiyahkidd
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lockbird/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lockbird/)*

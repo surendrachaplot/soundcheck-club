@@ -1,6 +1,6 @@
 # P Money
 
-P Money is a Drum & Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+P Money is a Drum & Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 P Money is a drum & bass and grime artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 17 more. Often billed alongside Whiney, Flava D and Degs. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ P Money is a drum & bass and grime artist tracked on soundcheck, with 67 sets lo
 
 Whiney, Flava D, Degs
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pmoney/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pmoney/)*

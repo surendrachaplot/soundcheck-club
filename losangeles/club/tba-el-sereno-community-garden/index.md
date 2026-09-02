@@ -1,6 +1,6 @@
 # TBA - El Sereno Community Garden
 
-TBA - El Sereno Community Garden is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "MOVIDA" on Sun, 27 Sept 2026.
+TBA - El Sereno Community Garden is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "MOVIDA" on Sun, 27 Sept 2026.
 
 TBA - El Sereno Community Garden is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - El Sereno Community Garden is a music venue in Losangeles listed on soundc
 | --- | --- | --- |
 | Sun, 27 Sept 2026 | MOVIDA |  |
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-el-sereno-community-garden/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-el-sereno-community-garden/)*

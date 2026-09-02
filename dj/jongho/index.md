@@ -1,6 +1,6 @@
 # Jongho
 
-Jongho is a Minimal and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at teller, Seoul on Fri, 4 Sept 2026.
+Jongho is a Minimal and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at teller, Seoul on Fri, 4 Sept 2026.
 
 Jongho is a minimal and minimal techno artist based in South Korea, tracked on soundcheck, with 103 sets logged across Amsterdam, Bangkok, Berlin and Milan and 3 more. Often billed alongside Kibum, Mihak and Radio Revolution. Next up: teller, Seoul on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Jongho is a minimal and minimal techno artist based in South Korea, tracked on s
 
 Kibum, Mihak, Radio Revolution
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jongho/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jongho/)*

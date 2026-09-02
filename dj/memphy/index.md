@@ -1,6 +1,6 @@
 # Memphy
 
-Memphy is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Club Rawhide, New York City on Sat, 5 Sept 2026.
+Memphy is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Club Rawhide, New York City on Sat, 5 Sept 2026.
 
 Memphy is a techno and club artist tracked on soundcheck, with 89 sets logged across Auckland, Berlin, Chicago and London and 10 more. Often billed alongside Bapari, Sevyn 0000 and FASHION (US). Next up: Club Rawhide, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Memphy is a techno and club artist tracked on soundcheck, with 89 sets logged ac
 
 Bapari, Sevyn 0000, FASHION (US)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memphy/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memphy/)*

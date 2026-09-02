@@ -1,6 +1,6 @@
 # Emma X
 
-Emma X is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at 314 Scholes, New York City on Sun, 13 Sept 2026.
+Emma X is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 314 Scholes, New York City on Sun, 13 Sept 2026.
 
 Emma X is a techno and electro artist tracked on soundcheck, with 10 sets logged across Berlin, Hamburg and Newyorkcity. Often billed alongside Phil Errotari, RAMUSCHCAT and VIRGIN!A. Next up: 314 Scholes, Newyorkcity on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Emma X is a techno and electro artist tracked on soundcheck, with 10 sets logged
 
 Phil Errotari, RAMUSCHCAT, VIRGIN!A
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmax/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmax/)*

@@ -1,6 +1,6 @@
 # Luis Ripa
 
-Luis Ripa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Distrikt, Leeds on Fri, 18 Sept 2026.
+Luis Ripa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Distrikt, Leeds on Fri, 18 Sept 2026.
 
 Luis Ripa is a house and techno artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Leeds and Thehague. Often billed alongside Mees Mattern, Khun and Dan Dusty. Next up: Distrikt, Leeds on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Luis Ripa is a house and techno artist based in Netherlands, tracked on soundche
 
 Mees Mattern, Khun, Dan Dusty
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luisripa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luisripa/)*

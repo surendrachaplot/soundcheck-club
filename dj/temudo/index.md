@@ -1,6 +1,6 @@
 # Temudo
 
-Temudo is a Techno and Dub Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Chinastraat, Ghent on Fri, 4 Sept 2026.
+Temudo is a Techno and Dub Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Chinastraat, Ghent on Fri, 4 Sept 2026.
 
 Temudo is a techno and dub techno artist tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside VIL (PT), CRAVO and Nørbak. Next up: Chinastraat, Ghent on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Temudo is a techno and dub techno artist tracked on soundcheck, with 133 sets lo
 
 VIL (PT), CRAVO, Nørbak
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*

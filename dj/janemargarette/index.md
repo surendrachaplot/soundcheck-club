@@ -1,14 +1,15 @@
 # Jane Margarette
 
-Jane Margarette is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Signal, New York City on Thu, 17 Sept 2026.
+Jane Margarette is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Signal, New York City on Thu, 17 Sept 2026.
 
-Jane Margarette is a techno and experimental artist based in United States of America, tracked on soundcheck, with 18 sets logged across Losangeles and Newyorkcity. Often billed alongside Danny Goliger, Luke Mele and agraybé. Next up: Signal, Newyorkcity on Thu 17 Sept.
+Jane Margarette is a techno and experimental artist based in United States of America, tracked on soundcheck, with 19 sets logged across Losangeles and Newyorkcity. Often billed alongside Luke Mele, Amelia Holt and Danny Goliger. Next up: Signal, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Signal | New York City |
+| Fri, 30 Oct 2026 | Blipsy Bar | Los Angeles |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jane Margarette is a techno and experimental artist based in United States of Am
 
 ## Shares bills with
 
-Danny Goliger, Luke Mele, agraybé
+Luke Mele, Amelia Holt, Danny Goliger
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janemargarette/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janemargarette/)*

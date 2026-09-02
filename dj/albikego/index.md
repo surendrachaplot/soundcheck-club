@@ -1,6 +1,6 @@
 # Albi & Kego
 
-Albi & Kego is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Greyhound, London on Fri, 11 Sept 2026.
+Albi & Kego is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Greyhound, London on Fri, 11 Sept 2026.
 
 Albi & Kego are a minimal and techno duo tracked on soundcheck, with 11 sets logged across Barcelona and London. Often billed alongside Claudio Basile, Davide Decay and DotDe. Next up: The Greyhound, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Albi & Kego are a minimal and techno duo tracked on soundcheck, with 11 sets log
 
 Claudio Basile, Davide Decay, DotDe
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albikego/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albikego/)*

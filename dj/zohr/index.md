@@ -1,6 +1,6 @@
 # Zohr
 
-Zohr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Egg London, London on Sat, 19 Sept 2026.
+Zohr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Egg London, London on Sat, 19 Sept 2026.
 
 Zohr is a house and techno artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside DJ Harmee, Houdinyx and Sunrise Fiancée. Next up: Egg London, London on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Zohr is a house and techno artist tracked on soundcheck, with 7 sets logged acro
 
 DJ Harmee, Houdinyx, Sunrise Fiancée
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zohr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zohr/)*

@@ -1,6 +1,6 @@
 # Kallax
 
-Kallax is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hangaren, Copenhagen on Fri, 2 Oct 2026.
+Kallax is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hangaren, Copenhagen on Fri, 2 Oct 2026.
 
 Kallax is a techno and house artist based in Italy, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Copenhagen and Vienna. Often billed alongside Baby Kallax, Holtz (2) and Kardinal Bertram. Next up: Hangaren, Copenhagen on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Kallax is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 Baby Kallax, Holtz (2), Kardinal Bertram
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kallax/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kallax/)*

@@ -1,6 +1,6 @@
 # Jade
 
-Jade is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Vinyl Open Decks, hosted by Subcultures" on Thu, 3 Sept 2026.
+Jade is a music venue in New York City with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Vinyl Open Decks, hosted by Subcultures" on Thu, 3 Sept 2026.
 
 Jade is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, with line-ups including boy_c0ded, Caratastrophe, Cure2 and esme2k and 2 more. Browse upcoming dates, start times and who's playing. 4 Stuyvesant Ave, Brooklyn, NY 11221, USA.
 
@@ -18,4 +18,4 @@ Jade is a music venue in Newyorkcity listed on soundcheck. 5 upcoming nights, wi
 
 4 Stuyvesant Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jade/)*

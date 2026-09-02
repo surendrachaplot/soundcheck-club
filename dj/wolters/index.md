@@ -1,8 +1,8 @@
 # WOLTERS
 
-WOLTERS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at La Terrrazza, Barcelona on Thu, 3 Sept 2026.
+WOLTERS is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at La Terrrazza, Barcelona on Thu, 3 Sept 2026.
 
-WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 11 more. Often billed alongside Bella Claxton, Kyle Starkey and Ned Bennett. Next up: La Terrrazza, Barcelona on Thu 3 Sept.
+WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 11 more. Often billed alongside Bella Claxton, Kyle Starkey and Ned Bennett. Next up: La Terrrazza, Barcelona on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, 
 | Thu, 3 Sept 2026 | La Terrrazza | Barcelona |
 | Sat, 5 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Thu, 17 Sept 2026 | La Terrrazza | Barcelona |
+| Sat, 17 Oct 2026 | The Racket Space | Dublin |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played
@@ -28,4 +29,4 @@ WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Bella Claxton, Kyle Starkey, Ned Bennett
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*

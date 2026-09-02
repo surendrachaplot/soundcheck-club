@@ -1,6 +1,6 @@
 # Eugene Blake
 
-Eugene Blake is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Nué Seoul, Seoul on Fri, 4 Sept 2026.
+Eugene Blake is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Nué Seoul, Seoul on Fri, 4 Sept 2026.
 
 Eugene Blake is a tech house and minimal techno artist based in South Korea, tracked on soundcheck, with 35 sets logged across Seoul. Often billed alongside Krijka, .2ndfloor and Oviduct. Next up: Nué Seoul, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Eugene Blake is a tech house and minimal techno artist based in South Korea, tra
 
 Krijka, .2ndfloor, Oviduct
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eugeneblake/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eugeneblake/)*

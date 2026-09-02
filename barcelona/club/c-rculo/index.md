@@ -1,6 +1,6 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Inner Circle feat. Guy Rome" on Thu, 3 Sept 2026.
+Círculo is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Inner Circle feat. Guy Rome" on Thu, 3 Sept 2026.
 
 Círculo is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Gabriella Ponce, LeMichael and UAV Jammer. Browse upcoming dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
@@ -19,4 +19,4 @@ Círculo is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, 
 
 Carrer del Rec, 62, 08003, Barcelona, Spain, Barcelona
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*

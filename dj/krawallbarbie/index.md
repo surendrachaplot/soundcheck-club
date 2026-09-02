@@ -1,6 +1,6 @@
 # KRAWALLBARBIE
 
-KRAWALLBARBIE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Angewandte PSK, Vienna on Fri, 4 Sept 2026.
+KRAWALLBARBIE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Angewandte PSK, Vienna on Fri, 4 Sept 2026.
 
 KRAWALLBARBIE is a techno and trance artist based in Austria, tracked on soundcheck, with 38 sets logged across Berlin and Vienna. Often billed alongside Who is ela¿, KAROLINA and Paul Mile. Next up: Angewandte PSK, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ KRAWALLBARBIE is a techno and trance artist based in Austria, tracked on soundch
 
 Who is ela¿, KAROLINA, Paul Mile
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallbarbie/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krawallbarbie/)*

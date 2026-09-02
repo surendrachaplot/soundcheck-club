@@ -1,6 +1,6 @@
 # Ecar
 
-Ecar is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Zoo, Geneva on Sat, 5 Sept 2026.
+Ecar is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Zoo, Geneva on Sat, 5 Sept 2026.
 
 Ecar is a trance and techno artist based in Switzerland, tracked on soundcheck, with 11 sets logged across Geneva and Zurich. Often billed alongside Bowmore, ADO (DE) and AIEAIEAIE. Next up: Zoo, Geneva on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ecar is a trance and techno artist based in Switzerland, tracked on soundcheck, 
 
 Bowmore, ADO (DE), AIEAIEAIE
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ecar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ecar/)*

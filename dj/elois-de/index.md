@@ -1,6 +1,6 @@
 # Eloïß
 
-Eloïß is a Downtempo and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Klunkerkranich, Berlin on Fri, 4 Sept 2026.
+Eloïß is a Downtempo and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Klunkerkranich, Berlin on Fri, 4 Sept 2026.
 
 Eloïß is a downtempo and electronica artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin and Paris. Often billed alongside Corios, R3NATA and Tvísker. Next up: Klunkerkranich, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Eloïß is a downtempo and electronica artist based in Germany, tracked on sound
 
 Corios, R3NATA, Tvísker
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elois-de/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elois-de/)*

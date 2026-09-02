@@ -1,6 +1,6 @@
 # Roni Size
 
-Roni Size is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 3 Sept 2026.
+Roni Size is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 3 Sept 2026.
 
 Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 73 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 26 more. Often billed alongside LTJ Bukem, Grooverider and Bryan Gee. Next up: 1015 Folsom, Sanfrancisco on Thu 3 Sept.
 
@@ -29,4 +29,4 @@ Roni Size is a drum & bass and jungle artist tracked on soundcheck, with 73 sets
 
 LTJ Bukem, Grooverider, Bryan Gee
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronisize/)*

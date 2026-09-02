@@ -1,6 +1,6 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
+Caleb Jackson is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
 
 Caleb Jackson is a house and tech house artist tracked on soundcheck, with 65 sets logged across Amsterdam, Auckland, Bali and Berlin and 8 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: Chinois Ibiza, Ibiza on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ Caleb Jackson is a house and tech house artist tracked on soundcheck, with 65 se
 
 Jacqui Cunningham, Bella Backe, Elijah Something
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*

@@ -1,6 +1,6 @@
 # Charles Trees
 
-Charles Trees is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
+Charles Trees is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
 
 Charles Trees is a house and techno artist based in United States of America, tracked on soundcheck, with 182 sets logged across Detroit, Newyorkcity and Seattle. Often billed alongside Kenjiro, Shigeto and Ryan Spencer. Next up: MotorCity Wine, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Charles Trees is a house and techno artist based in United States of America, tr
 
 Kenjiro, Shigeto, Ryan Spencer
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlestrees/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlestrees/)*

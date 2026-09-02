@@ -1,6 +1,6 @@
 # GFOTY
 
-GFOTY is a Pop and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at VooDoo Club, Warsaw on Thu, 3 Sept 2026.
+GFOTY is a Pop and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at VooDoo Club, Warsaw on Thu, 3 Sept 2026.
 
 GFOTY is a pop and club artist tracked on soundcheck, with 24 sets logged across Budapest, Edinburgh, Leeds and London and 7 more. Often billed alongside Mother Cell, Petal Supply and DJ Trick. Next up: VooDoo Club, Warsaw on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ GFOTY is a pop and club artist tracked on soundcheck, with 24 sets logged across
 
 Mother Cell, Petal Supply, DJ Trick
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gfoty/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gfoty/)*

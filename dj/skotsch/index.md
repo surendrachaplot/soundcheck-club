@@ -1,6 +1,6 @@
 # Skotsch
 
-Skotsch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
+Skotsch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
 Skotsch is a house and techno artist tracked on soundcheck, with 3 sets logged across Berlin, Hamburg and Stuttgart. Often billed alongside A.T.E.K, DJ NATZZ and Daniela Monroe. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Skotsch is a house and techno artist tracked on soundcheck, with 3 sets logged a
 
 A.T.E.K, DJ NATZZ, Daniela Monroe
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skotsch/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skotsch/)*

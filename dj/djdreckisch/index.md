@@ -1,6 +1,6 @@
 # DJ DRECKISCH
 
-DJ DRECKISCH is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Z-Bau, Nürnberg on Sat, 5 Sept 2026.
+DJ DRECKISCH is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Z-Bau, Nürnberg on Sat, 5 Sept 2026.
 
 DJ DRECKISCH is a techno and trance artist tracked on soundcheck, with 79 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside Kacy, 3LEEZA and DJ Achim Feuervogel. Next up: Z-Bau, Nurnberg on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DJ DRECKISCH is a techno and trance artist tracked on soundcheck, with 79 sets l
 
 Kacy, 3LEEZA, DJ Achim Feuervogel
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*

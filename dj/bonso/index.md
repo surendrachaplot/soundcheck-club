@@ -1,6 +1,6 @@
 # Bonso
 
-Bonso is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Bonso is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Bonso is a house and techno artist tracked on soundcheck, with 75 sets logged across Athens. Often billed alongside Mr. Roussos, Useless Co. and Louie Dimá. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Bonso is a house and techno artist tracked on soundcheck, with 75 sets logged ac
 
 Mr. Roussos, Useless Co., Louie Dimá
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonso/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonso/)*

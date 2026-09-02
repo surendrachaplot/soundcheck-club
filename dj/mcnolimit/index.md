@@ -1,6 +1,6 @@
 # MC No Limit
 
-MC No Limit is a Grime and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location, London on Fri, 2 Oct 2026.
+MC No Limit is a Grime and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, London on Fri, 2 Oct 2026.
 
 MC No Limit is a grime and drum & bass artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Barcelona and London. Often billed alongside Jon-roy, MC Stormy and Breakfake. Next up: TBA - Secret Location, London on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ MC No Limit is a grime and drum & bass artist based in United Kingdom, tracked o
 
 Jon-roy, MC Stormy, Breakfake
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcnolimit/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcnolimit/)*

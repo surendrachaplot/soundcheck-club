@@ -1,6 +1,6 @@
 # TBA - Location With Ticket
 
-TBA - Location With Ticket is a music venue in Denver with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "QR x SM pres: JIALING" on Fri, 4 Sept 2026.
+TBA - Location With Ticket is a music venue in Denver with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "QR x SM pres: JIALING" on Fri, 4 Sept 2026.
 
 TBA - Location With Ticket is a music venue in Denver listed on soundcheck. 4 upcoming nights, with line-ups including Brent Tactic, DSQISE, Entrañas and J BOLIVAR and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - Location With Ticket is a music venue in Denver listed on soundcheck. 4 up
 | Fri, 11 Sept 2026 | You Up? |  |
 | Sat, 12 Sept 2026 | ERROR 4/4 |  |
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-location-with-ticket/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/tba-location-with-ticket/)*

@@ -1,6 +1,6 @@
 # Dauwd
 
-Dauwd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Astron Club, Athens on Fri, 11 Sept 2026.
+Dauwd is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Astron Club, Athens on Fri, 11 Sept 2026.
 
 Dauwd is a house and techno artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Antwerp, Athens, Berlin and Denver and 12 more. Often billed alongside Maryisonacid, African Acid is the Future and DJSOULSEEK. Next up: Astron Club, Athens on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Dauwd is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Maryisonacid, African Acid is the Future, DJSOULSEEK
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dauwd/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dauwd/)*

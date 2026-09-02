@@ -1,6 +1,6 @@
 # Nué Seoul
 
-Nué Seoul is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "NUE 3rd Anniversary DAY-1" on Thu, 3 Sept 2026.
+Nué Seoul is a music venue in Seoul with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "NUE 3rd Anniversary DAY-1" on Thu, 3 Sept 2026.
 
 Nué Seoul is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with line-ups including Baso, Cityboy from Seoul, Doomkat and Eugene Blake and 2 more. Browse upcoming dates, start times and who's playing. 2F, 3F 45 Itaewon-ro 27ga-gil, Yongsan-gu, Seoul.
 
@@ -17,4 +17,4 @@ Nué Seoul is a music venue in Seoul listed on soundcheck. 4 upcoming nights, wi
 
 2F, 3F 45 Itaewon-ro 27ga-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nu-seoul/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/nu-seoul/)*

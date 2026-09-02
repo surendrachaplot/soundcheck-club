@@ -1,6 +1,6 @@
 # BB. angel
 
-BB. angel is a Progressive House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Crack Bellmer, Berlin on Sat, 5 Sept 2026.
+BB. angel is a Progressive House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Crack Bellmer, Berlin on Sat, 5 Sept 2026.
 
 BB. angel is a progressive house and tech house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Fiona (2), OatMilk and Quolcat. Next up: Crack Bellmer, Berlin on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ BB. angel is a progressive house and tech house artist tracked on soundcheck, wi
 
 Fiona (2), OatMilk, Quolcat
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bb.angel/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bb.angel/)*

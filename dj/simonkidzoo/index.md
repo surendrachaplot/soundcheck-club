@@ -1,6 +1,6 @@
 # Simon Kidzoo
 
-Simon Kidzoo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Paradiso, Amsterdam on Sat, 10 Oct 2026.
+Simon Kidzoo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Paradiso, Amsterdam on Sat, 10 Oct 2026.
 
 Simon Kidzoo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 24 sets logged across Amsterdam, Dublin, Rotterdam and Thehague and 3 more. Often billed alongside AAT (NL), Ammé and Easttown. Next up: Paradiso, Amsterdam on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Simon Kidzoo is a house and tech house artist based in Netherlands, tracked on s
 
 AAT (NL), Ammé, Easttown
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkidzoo/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkidzoo/)*

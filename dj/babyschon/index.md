@@ -1,6 +1,6 @@
 # babyschön
 
-babyschön is a House and Acid artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+babyschön is a House and Acid artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 babyschön is a house and acid artist tracked on soundcheck, with 90 sets logged across Amsterdam, Belgrade, Berlin and Bristol and 13 more. Often billed alongside Tia Cousins, DJ Subaru and Harry James. Next up: The Cause, London on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ babyschön is a house and acid artist tracked on soundcheck, with 90 sets logged
 
 Tia Cousins, DJ Subaru, Harry James
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyschon/)*

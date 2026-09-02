@@ -1,6 +1,6 @@
 # Deep Trip
 
-Deep Trip is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Mexico City on Fri, 11 Sept 2026.
+Deep Trip is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Mexico City on Fri, 11 Sept 2026.
 
 Deep Trip is a techno artist tracked on soundcheck, with 2 sets logged across Mexicocity. Often billed alongside EDDY and TAPIIA. Next up: TBA, Mexicocity on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Deep Trip is a techno artist tracked on soundcheck, with 2 sets logged across Me
 
 EDDY, TAPIIA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deeptrip/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deeptrip/)*

@@ -1,6 +1,6 @@
 # Djomby
 
-Djomby is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at City Hall, Barcelona on Thu, 3 Sept 2026.
+Djomby is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at City Hall, Barcelona on Thu, 3 Sept 2026.
 
 Djomby is a house and techno artist based in Italy, tracked on soundcheck, with 19 sets logged across Barcelona and Berlin. Often billed alongside Efren Kairos, RAGE AMORETTY and Dominique Costa. Next up: City Hall, Barcelona on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Djomby is a house and techno artist based in Italy, tracked on soundcheck, with 
 
 Efren Kairos, RAGE AMORETTY, Dominique Costa
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djomby/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djomby/)*

@@ -1,6 +1,6 @@
 # Nnamael
 
-Nnamael is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 2 Oct 2026.
+Nnamael is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 2 Oct 2026.
 
 Nnamael is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin and London. Often billed alongside Fluid, hybral and Inverse Element. Next up: TBA - Secret Location, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Nnamael is a techno and industrial artist tracked on soundcheck, with 33 sets lo
 
 Fluid, hybral, Inverse Element
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nnamael/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nnamael/)*

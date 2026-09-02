@@ -1,6 +1,6 @@
 # Izco
 
-Izco is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Circus Osaka, Osaka on Sun, 20 Sept 2026.
+Izco is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Circus Osaka, Osaka on Sun, 20 Sept 2026.
 
 Izco is a garage and jungle artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside Capo Lee, Bakey and Tim Reaper. Next up: Circus Osaka, Osaka on Sun 20 Sept.
 
@@ -27,4 +27,4 @@ Izco is a garage and jungle artist tracked on soundcheck, with 78 sets logged ac
 
 Capo Lee, Bakey, Tim Reaper
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izco/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/izco/)*

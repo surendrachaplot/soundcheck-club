@@ -1,6 +1,6 @@
 # Daniel Bell
 
-Daniel Bell is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Daniel Bell is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Daniel Bell is a house and techno artist based in United States of America, tracked on soundcheck, with 92 sets logged across Amsterdam, Bali, Bangkok and Belgrade and 23 more. Often billed alongside Erika, BMG and Mike Servito. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Daniel Bell is a house and techno artist based in United States of America, trac
 
 Erika, BMG, Mike Servito
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*

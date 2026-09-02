@@ -1,6 +1,6 @@
 # Lilian
 
-Lilian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Lilian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
 Lilian is a house and techno artist tracked on soundcheck, with 78 sets logged across Barcelona, Berlin, Bristol and Melbourne and 3 more. Often billed alongside Boogs, Matteo Freyrie and Spacey Space. Next up: The Ivy, Sydney on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Lilian is a house and techno artist tracked on soundcheck, with 78 sets logged a
 
 Boogs, Matteo Freyrie, Spacey Space
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*

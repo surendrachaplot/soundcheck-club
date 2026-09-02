@@ -1,6 +1,6 @@
 # ZOEVITA
 
-ZOEVITA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at OST, Berlin on Sat, 19 Sept 2026.
+ZOEVITA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at OST, Berlin on Sat, 19 Sept 2026.
 
 ZOEVITA is a techno and trance artist tracked on soundcheck, with 49 sets logged across Berlin and Leipzig. Often billed alongside Louis Harshman, alemiko and Balkhausen. Next up: OST, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ ZOEVITA is a techno and trance artist tracked on soundcheck, with 49 sets logged
 
 Louis Harshman, alemiko, Balkhausen
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoevita/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoevita/)*

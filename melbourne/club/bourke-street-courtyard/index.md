@@ -1,6 +1,6 @@
 # Bourke Street Courtyard
 
-Bourke Street Courtyard is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "SOTA presents: State Of The Art 3.0 (Melbourne)" on Sat, 12 Sept 2026.
+Bourke Street Courtyard is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "SOTA presents: State Of The Art 3.0 (Melbourne)" on Sat, 12 Sept 2026.
 
 Bourke Street Courtyard is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including Aarv, Double Touch, Lee Burridge and Lost Desert and 2 more. Browse upcoming dates, start times and who's playing. 629 Bourke Street Melbourne, Victoria, Australia.
 
@@ -16,4 +16,4 @@ Bourke Street Courtyard is a music venue in Melbourne listed on soundcheck. 3 up
 
 629 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/bourke-street-courtyard/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/bourke-street-courtyard/)*

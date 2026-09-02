@@ -1,6 +1,6 @@
 # The Lost Boys
 
-The Lost Boys is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Belgrade Around City Centre, Belgrade on Wed, 7 Oct 2026.
+The Lost Boys is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Belgrade Around City Centre, Belgrade on Wed, 7 Oct 2026.
 
 The Lost Boys is an experimental and post-punk artist based in Australia, tracked on soundcheck, with 3 sets logged across Belgrade, Dusseldorf and Rome. Often billed alongside Anushka Chkheidze, Cardinals and Chris Imler. Next up: TBA - Belgrade Around City Centre, Belgrade on Wed 7 Oct.
 
@@ -19,4 +19,4 @@ The Lost Boys is an experimental and post-punk artist based in Australia, tracke
 
 Anushka Chkheidze, Cardinals, Chris Imler
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelostboys/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelostboys/)*

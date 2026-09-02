@@ -1,6 +1,6 @@
 # Suorcristona
 
-Suorcristona is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun, 13 Sept 2026.
+Suorcristona is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun, 13 Sept 2026.
 
 Suorcristona is a bass and dub artist tracked on soundcheck, with 5 sets logged across Milan and Rome. Often billed alongside DNN, F L V X X X and Ormeye. Next up: TBA - Arcobaleno Beach, Via Lungolago delle Muse - Anguillara Sabazia, Rome on Sun 13 Sept.
 
@@ -21,4 +21,4 @@ Suorcristona is a bass and dub artist tracked on soundcheck, with 5 sets logged 
 
 DNN, F L V X X X, Ormeye
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suorcristona/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suorcristona/)*

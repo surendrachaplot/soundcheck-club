@@ -1,6 +1,6 @@
 # Gaz Rowland
 
-Gaz Rowland is a Trance and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Eiger Studios, Leeds on Sat, 5 Sept 2026.
+Gaz Rowland is a Trance and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Eiger Studios, Leeds on Sat, 5 Sept 2026.
 
 Gaz Rowland is a trance and garage artist tracked on soundcheck, with 4 sets logged across Leeds and London. Often billed alongside Lainey, Adela and B-HIND. Next up: Eiger Studios, Leeds on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Gaz Rowland is a trance and garage artist tracked on soundcheck, with 4 sets log
 
 Lainey, Adela, B-HIND
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gazrowland/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gazrowland/)*

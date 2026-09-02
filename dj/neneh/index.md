@@ -1,6 +1,6 @@
 # Nene H
 
-Nene H is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 11 Sept 2026.
+Nene H is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 11 Sept 2026.
 
 Nene H is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Hyperaktivist, Mama Snake and Mary Lake. Next up: Den Anden Side, Copenhagen on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Nene H is a techno and house artist tracked on soundcheck, with 204 sets logged 
 
 Hyperaktivist, Mama Snake, Mary Lake
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*

@@ -1,6 +1,6 @@
 # Sunday Sessions LA x trommel (Vinyl Only) Open Air at 1928 E 7th Pl, Los Angeles, CA 90021
 
-Sunday Sessions LA x trommel (Vinyl Only) Open Air at 1928 E 7th Pl, Los Angeles, CA 90021 on Sun 6 Sept, Losangeles. 3 acts on the bill: nanaceba, Silky and Stepushin. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Sessions LA x trommel (Vinyl Only) Open Air at 1928 E 7th Pl, Los Angeles, CA 90021 on Sun 6 Sept, Losangeles. 4 acts on the bill: Franky A, nanaceba, Silky and Stepushin. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Sunday Sessions LA x trommel (Vinyl Only) Open Air at 1928 E 7th Pl, Los Angeles
 
 ## Line-up
 
+- Franky A
 - nanaceba
 - Silky
 - Stepushin

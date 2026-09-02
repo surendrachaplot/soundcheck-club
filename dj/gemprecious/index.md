@@ -1,6 +1,6 @@
 # Gem Precious
 
-Gem Precious is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rowans Tenpin Bowl, London on Thu, 17 Sept 2026.
+Gem Precious is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Rowans Tenpin Bowl, London on Thu, 17 Sept 2026.
 
 Gem Precious is a house and hip-hop artist tracked on soundcheck, with 27 sets logged across London. Often billed alongside That Perfect Fumble, tasha.mp4 and Alexis Knox. Next up: Rowans Tenpin Bowl, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Gem Precious is a house and hip-hop artist tracked on soundcheck, with 27 sets l
 
 That Perfect Fumble, tasha.mp4, Alexis Knox
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gemprecious/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gemprecious/)*

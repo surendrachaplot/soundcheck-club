@@ -1,6 +1,6 @@
 # mocca*
 
-mocca* is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at House Bar Muse, Osaka on Sat, 5 Sept 2026.
+mocca* is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at House Bar Muse, Osaka on Sat, 5 Sept 2026.
 
 mocca* is a house and deep house artist tracked on soundcheck, with 31 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Mercy., Nanako Yamane and DJ GEKI. Next up: House Bar Muse, Osaka on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ mocca* is a house and deep house artist tracked on soundcheck, with 31 sets logg
 
 Mercy., Nanako Yamane, DJ GEKI
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mocca/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mocca/)*

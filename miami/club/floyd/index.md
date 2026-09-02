@@ -1,6 +1,6 @@
 # Floyd
 
-Floyd is a music venue in Miami with 17 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Sidney Charles" on Fri, 4 Sept 2026.
+Floyd is a music venue in Miami with 17 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Sidney Charles" on Fri, 4 Sept 2026.
 
 Floyd is a music venue in Miami listed on soundcheck. 17 upcoming nights, with line-ups including Bakke, Ben UFO, Bort and Calussa and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
@@ -23,4 +23,4 @@ Floyd is a music venue in Miami listed on soundcheck. 17 upcoming nights, with l
 
 34 NE 11th Street Miami, FL 33132, Miami
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/floyd/)*

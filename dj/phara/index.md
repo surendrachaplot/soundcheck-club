@@ -1,14 +1,15 @@
 # Phara
 
-Phara is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 4 Sept 2026.
+Phara is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 4 Sept 2026.
 
-Phara is a techno and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Altinbas, Marie-Julie and Kr!z. Next up: TBA - Secret Location, Toronto on Fri 4 Sept.
+Phara is a techno and house artist tracked on soundcheck, with 175 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Altinbas, Marie-Julie and Kr!z. Next up: TBA - Secret Location, Toronto on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | TBA - Secret Location | Toronto |
+| Sat, 5 Sept 2026 | NWHR | Montreal |
 | Wed, 16 Sept 2026 | Moog Club | Barcelona |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
 | Fri, 2 Oct 2026 | Club Exil | Vienna |
@@ -30,4 +31,4 @@ Phara is a techno and house artist tracked on soundcheck, with 174 sets logged a
 
 Altinbas, Marie-Julie, Kr!z
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phara/)*

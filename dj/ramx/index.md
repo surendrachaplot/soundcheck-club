@@ -1,6 +1,6 @@
 # Ra (MX)
 
-Ra (MX) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Yan Gastro, Istanbul on Sat, 5 Sept 2026.
+Ra (MX) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Yan Gastro, Istanbul on Sat, 5 Sept 2026.
 
 Ra (MX) is a progressive house and techno artist tracked on soundcheck, with 5 sets logged across Berlin, Istanbul, Mexicocity and Warsaw. Often billed alongside Hot TuneiK, BRT DJ and Benji. Next up: Yan Gastro, Istanbul on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Ra (MX) is a progressive house and techno artist tracked on soundcheck, with 5 s
 
 Hot TuneiK, BRT DJ, Benji
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramx/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramx/)*

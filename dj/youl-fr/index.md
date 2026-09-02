@@ -1,6 +1,6 @@
 # Youl
 
-Youl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Macadam, Nantes on Sun, 13 Sept 2026.
+Youl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Macadam, Nantes on Sun, 13 Sept 2026.
 
 Youl is a techno and house artist tracked on soundcheck, with 33 sets logged across Geneva, Nantes, Paris and Tbilisi. Often billed alongside Combe, Soyoon and Maï-Linh. Next up: Macadam, Nantes on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Youl is a techno and house artist tracked on soundcheck, with 33 sets logged acr
 
 Combe, Soyoon, Maï-Linh
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youl-fr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youl-fr/)*

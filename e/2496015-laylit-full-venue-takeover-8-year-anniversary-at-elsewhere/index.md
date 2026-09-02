@@ -1,6 +1,6 @@
 # Laylit - Full Venue Takeover - 8 Year Anniversary at Elsewhere
 
-Laylit - Full Venue Takeover - 8 Year Anniversary at Elsewhere on Sat 12 Sept, Newyorkcity. 13 acts on the bill: Aku, ALI IRL, Arianna Danae and Fursa and 9 more. Preview the line-up and save it on soundcheck.
+Laylit - Full Venue Takeover - 8 Year Anniversary at Elsewhere on Sat 12 Sept, Newyorkcity. 14 acts on the bill: Aku, ALI IRL, Arianna Danae and Arjun Shah and 10 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Laylit - Full Venue Takeover - 8 Year Anniversary at Elsewhere on Sat 12 Sept, N
 - Aku
 - ALI IRL
 - Arianna Danae
+- Arjun Shah
 - Fursa
 - Krithi
 - L1NH

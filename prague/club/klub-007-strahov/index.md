@@ -1,6 +1,6 @@
 # Klub 007 - Strahov
 
-Klub 007 - Strahov is a music venue in Prague with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "NUUMITE + CHANDRA + REZONANCE ZEMĚ" on Sat, 12 Sept 2026.
+Klub 007 - Strahov is a music venue in Prague with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "NUUMITE + CHANDRA + REZONANCE ZEMĚ" on Sat, 12 Sept 2026.
 
 Klub 007 - Strahov is a music venue in Prague listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Chaloupeckého 1915/7, 169 00 Praha-Břevnov, Czechia.
 
@@ -14,4 +14,4 @@ Klub 007 - Strahov is a music venue in Prague listed on soundcheck. 1 upcoming n
 
 Chaloupeckého 1915/7, 169 00 Praha-Břevnov, Czechia, Prague
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/klub-007-strahov/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/klub-007-strahov/)*

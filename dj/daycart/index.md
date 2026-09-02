@@ -1,6 +1,6 @@
 # Day Cart
 
-Day Cart is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Good Room, New York City on Thu, 10 Sept 2026.
+Day Cart is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Good Room, New York City on Thu, 10 Sept 2026.
 
 Day Cart is a techno and house artist tracked on soundcheck, with 39 sets logged across Newyorkcity. Often billed alongside Wig-Wam, Devoye and IMOGEN. Next up: Good Room, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Day Cart is a techno and house artist tracked on soundcheck, with 39 sets logged
 
 Wig-Wam, Devoye, IMOGEN
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daycart/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daycart/)*

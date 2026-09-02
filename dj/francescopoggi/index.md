@@ -1,6 +1,6 @@
 # Francesco Poggi
 
-Francesco Poggi is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mercato Metropolitano, London on Fri, 18 Sept 2026.
+Francesco Poggi is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mercato Metropolitano, London on Fri, 18 Sept 2026.
 
 Francesco Poggi is a tech house and house artist tracked on soundcheck, with 141 sets logged across Dublin, Lisbon, London and Madrid and 2 more. Often billed alongside Enrico Chirchiello, Bibiminor and Duwat?. Next up: Mercato Metropolitano, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Francesco Poggi is a tech house and house artist tracked on soundcheck, with 141
 
 Enrico Chirchiello, Bibiminor, Duwat?
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopoggi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopoggi/)*

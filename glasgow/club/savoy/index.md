@@ -1,6 +1,6 @@
 # Savoy
 
-Savoy is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "The Ultimate Club Classic's Day Party" on Sat, 26 Sept 2026.
+Savoy is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "The Ultimate Club Classic's Day Party" on Sat, 26 Sept 2026.
 
 Savoy is a music venue in Glasgow listed on soundcheck. 3 upcoming nights, with line-ups including George Bowie and Ian Van Dahl. Browse upcoming dates, start times and who's playing. 140 Sauchiehall St, Glasgow G2 3DH.
 
@@ -16,4 +16,4 @@ Savoy is a music venue in Glasgow listed on soundcheck. 3 upcoming nights, with 
 
 140 Sauchiehall St, Glasgow G2 3DH, Glasgow
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/savoy/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/savoy/)*

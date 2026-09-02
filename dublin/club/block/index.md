@@ -1,8 +1,8 @@
 # block.
 
-block. is a music venue in Dublin with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Block: Kyle Starkey & Tjade" on Fri, 4 Sept 2026.
+block. is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Block: Kyle Starkey & Tjade" on Fri, 4 Sept 2026.
 
-block. is a music venue in Dublin listed on soundcheck. 8 upcoming nights, with line-ups including ADR (UK), ADR (US), Archie Hamilton and Captain Wallop and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
+block. is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including ADR (UK), ADR (US), Archie Hamilton and Captain Wallop and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
 ## What's on
 
@@ -15,10 +15,11 @@ block. is a music venue in Dublin listed on soundcheck. 8 upcoming nights, with 
 | Sat, 19 Sept 2026 | Block x Soundmate: Janeret, Bernie & Vandi | Janeret, Vandi |
 | Fri, 25 Sept 2026 | Block: Tre Reynolds | Tre Reynolds |
 | Sat, 26 Sept 2026 | Block x Influence: William Luck B2B NØNAME, Victor Krum | NoName, Victor Krum, William Luck |
+| Sat, 10 Oct 2026 | Block x Hidden Love: Ned Bennett | Ned Bennett |
 | Sat, 17 Oct 2026 | Block: Ejeca | Ejeca, Surka (1) |
 
 ## Address
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

@@ -1,6 +1,6 @@
 # Livid
 
-Livid is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at E1, London on Sat, 7 Nov 2026.
+Livid is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at E1, London on Sat, 7 Nov 2026.
 
 Livid is a hardcore and techno artist tracked on soundcheck, with 2 sets logged across Frankfurt and London. Often billed alongside 753, Adjuzt and B-Front. Next up: E1, London on Sat 7 Nov.
 
@@ -18,4 +18,4 @@ Livid is a hardcore and techno artist tracked on soundcheck, with 2 sets logged 
 
 753, Adjuzt, B-Front
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livid/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livid/)*

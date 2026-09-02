@@ -1,6 +1,6 @@
 # Kasey Taylor
 
-Kasey Taylor is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Cayo, Paris on Sat, 12 Sept 2026.
+Kasey Taylor is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Cayo, Paris on Sat, 12 Sept 2026.
 
 Kasey Taylor is a progressive house and techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Glasgow, Lisbon and Manchester and 3 more. Often billed alongside Anthony Pappa, Gai Barone and Mariano Mellino. Next up: Cayo, Paris on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Kasey Taylor is a progressive house and techno artist tracked on soundcheck, wit
 
 Anthony Pappa, Gai Barone, Mariano Mellino
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseytaylor/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseytaylor/)*

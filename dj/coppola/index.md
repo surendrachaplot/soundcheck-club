@@ -1,6 +1,6 @@
 # Coppola
 
-Coppola is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Wynwood Beach Club, Sao Paulo on Sat, 5 Sept 2026.
+Coppola is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Wynwood Beach Club, Sao Paulo on Sat, 5 Sept 2026.
 
 Coppola is a house and tech house artist based in Brazil, tracked on soundcheck, with 30 sets logged across Barcelona, Buenosaires, Madrid and Miami and 2 more. Often billed alongside Gui Boratto, Diogo Accioly and Junior C. Next up: Wynwood Beach Club, Saopaulo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Coppola is a house and tech house artist based in Brazil, tracked on soundcheck,
 
 Gui Boratto, Diogo Accioly, Junior C
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coppola/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coppola/)*

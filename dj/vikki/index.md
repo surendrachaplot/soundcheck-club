@@ -1,14 +1,13 @@
 # Vikki
 
-Vikki is a House and Deep House artist with 9 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Noxe Barcelona, Barcelona on Tue, 1 Sept 2026.
+Vikki is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Noxe Barcelona, Barcelona on Tue, 8 Sept 2026.
 
-Vikki is a house and deep house artist tracked on soundcheck, with 52 sets logged across Barcelona. Often billed alongside Sarah Andersson, Alex Silva and Yossi Gomez. Next up: Noxe Barcelona, Barcelona on Tue 1 Sept.
+Vikki is a house and deep house artist tracked on soundcheck, with 52 sets logged across Barcelona. Often billed alongside Sarah Andersson, Alex Silva and Yossi Gomez. Next up: Noxe Barcelona, Barcelona on Tue 8 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 1 Sept 2026 | Noxe Barcelona | Barcelona |
 | Tue, 8 Sept 2026 | Noxe Barcelona | Barcelona |
 | Wed, 9 Sept 2026 | Noxe Barcelona | Barcelona |
 | Tue, 15 Sept 2026 | Noxe Barcelona | Barcelona |
@@ -20,6 +19,7 @@ Vikki is a house and deep house artist tracked on soundcheck, with 52 sets logge
 
 ## Recently played
 
+- Noxe Barcelona, Barcelona — Tue, 1 Sept 2026
 - Noxe Barcelona, Barcelona — Wed, 26 Aug 2026
 - City Hall, Barcelona — Wed, 26 Aug 2026
 - Noxe Barcelona, Barcelona — Tue, 25 Aug 2026
@@ -27,10 +27,9 @@ Vikki is a house and deep house artist tracked on soundcheck, with 52 sets logge
 - Garage 442, Barcelona — Sat, 15 Aug 2026
 - Noxe Barcelona, Barcelona — Wed, 12 Aug 2026
 - Noxe Barcelona, Barcelona — Tue, 11 Aug 2026
-- Noxe Barcelona, Barcelona — Tue, 4 Aug 2026
 
 ## Shares bills with
 
 Sarah Andersson, Alex Silva, Yossi Gomez
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikki/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vikki/)*

@@ -1,6 +1,6 @@
 # Club Up
 
-Club Up is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "BELLAKEO DISTRICT" on Sat, 5 Sept 2026.
+Club Up is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "BELLAKEO DISTRICT" on Sat, 5 Sept 2026.
 
 Club Up is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Boyos Soundsystem, Danny Snowden, Ive Lovers and Jeremy Sylvester and 2 more. Browse upcoming dates, start times and who's playing. Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Club Up is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, 
 
 Korte Leidsedwarsstraat 26-1; 1017  Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-up/)*

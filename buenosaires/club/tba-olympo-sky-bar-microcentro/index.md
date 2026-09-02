@@ -1,6 +1,6 @@
 # TBA - Olympo Sky Bar, Microcentro
 
-TBA - Olympo Sky Bar, Microcentro is a music venue in Buenos Aires with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Key City, Sunset Atmosphere, Olympo Sky Bar, Microcentro Buenos Aires" on Sat, 5 Sept 2026.
+TBA - Olympo Sky Bar, Microcentro is a music venue in Buenos Aires with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Key City, Sunset Atmosphere, Olympo Sky Bar, Microcentro Buenos Aires" on Sat, 5 Sept 2026.
 
 TBA - Olympo Sky Bar, Microcentro is a music venue in Buenosaires listed on soundcheck. 4 upcoming nights, with line-ups including Vidaloca. Browse upcoming dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - Olympo Sky Bar, Microcentro is a music venue in Buenosaires listed on soun
 | Sat, 12 Sept 2026 | Vidaloca - Olympo Sky Bar, Microcentro / ALLMusicParties | Vidaloca |
 | Sat, 26 Sept 2026 | Sprint Night x Music Place & Arre Crew |  |
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-olympo-sky-bar-microcentro/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-olympo-sky-bar-microcentro/)*

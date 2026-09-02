@@ -1,13 +1,14 @@
 # mojie
 
-mojie is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Toronto on Sun, 6 Sept 2026.
+mojie is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Rhythm, Toronto on Sat, 5 Sept 2026.
 
-mojie is a house and tech house artist tracked on soundcheck, with 12 sets logged across Toronto. Often billed alongside Kenny Glasgow, RUDEE NIK and Tabbara. Next up: TBA, Toronto on Sun 6 Sept.
+mojie is a house and tech house artist tracked on soundcheck, with 13 sets logged across Toronto. Often billed alongside Tabbara, Kenny Glasgow and RUDEE NIK. Next up: Rhythm, Toronto on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Rhythm | Toronto |
 | Sun, 6 Sept 2026 | TBA | Toronto |
 
 ## Recently played
@@ -23,6 +24,6 @@ mojie is a house and tech house artist tracked on soundcheck, with 12 sets logge
 
 ## Shares bills with
 
-Kenny Glasgow, RUDEE NIK, Tabbara
+Tabbara, Kenny Glasgow, RUDEE NIK
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mojie/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mojie/)*

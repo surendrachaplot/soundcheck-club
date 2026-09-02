@@ -1,6 +1,6 @@
 # MaNu (UK)
 
-MaNu (UK) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Baggen, Copenhagen on Fri, 4 Sept 2026.
+MaNu (UK) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Baggen, Copenhagen on Fri, 4 Sept 2026.
 
 MaNu (UK) is a house and deep house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Copenhagen and Lisbon and 8 more. Often billed alongside Ricardo Roessel, _Gabo and AYURI. Next up: Baggen, Copenhagen on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ MaNu (UK) is a house and deep house artist tracked on soundcheck, with 15 sets l
 
 Ricardo Roessel, _Gabo, AYURI
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manu-uk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manu-uk/)*

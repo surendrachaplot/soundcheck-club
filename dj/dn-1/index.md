@@ -1,6 +1,6 @@
 # Daniel Norrel
 
-Daniel Norrel is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Giri, Berlin on Fri, 18 Sept 2026.
+Daniel Norrel is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Giri, Berlin on Fri, 18 Sept 2026.
 
 Daniel Norrel is a techno artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Viktor Kampf, G.oss and Ghongg. Next up: Giri, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Daniel Norrel is a techno artist tracked on soundcheck, with 9 sets logged acros
 
 Viktor Kampf, G.oss, Ghongg
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dn-1/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dn-1/)*

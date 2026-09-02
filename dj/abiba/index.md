@@ -1,6 +1,6 @@
 # ABIBA
 
-ABIBA is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Supercoff, Berlin on Thu, 10 Sept 2026.
+ABIBA is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Supercoff, Berlin on Thu, 10 Sept 2026.
 
 ABIBA is a club and house artist based in Germany, tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Hamburg and Munich and 1 more. Often billed alongside Meg10, JADA MORAES and $ombi. Next up: Supercoff, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ ABIBA is a club and house artist based in Germany, tracked on soundcheck, with 3
 
 Meg10, JADA MORAES, $ombi
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abiba/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abiba/)*

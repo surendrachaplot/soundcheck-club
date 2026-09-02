@@ -1,6 +1,6 @@
 # OatMilk
 
-OatMilk is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Crack Bellmer, Berlin on Sat, 5 Sept 2026.
+OatMilk is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Crack Bellmer, Berlin on Sat, 5 Sept 2026.
 
 OatMilk is an electro and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Newyorkcity and Sydney. Often billed alongside Andrew Wowk, BB. angel and DJ Fiona. Next up: Crack Bellmer, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ OatMilk is an electro and house artist based in Germany, tracked on soundcheck, 
 
 Andrew Wowk, BB. angel, DJ Fiona
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oatmilk/)*

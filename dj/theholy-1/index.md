@@ -1,6 +1,6 @@
 # THE HOLY (1)
 
-THE HOLY (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Newspeak, Montreal on Fri, 4 Sept 2026.
+THE HOLY (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Newspeak, Montreal on Fri, 4 Sept 2026.
 
 THE HOLY (1) is a house and techno artist based in Canada, tracked on soundcheck, with 25 sets logged across Berlin and Montreal. Often billed alongside Anna Rose, Felix Patry and Mazuu. Next up: Newspeak, Montreal on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ THE HOLY (1) is a house and techno artist based in Canada, tracked on soundcheck
 
 Anna Rose, Felix Patry, Mazuu
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theholy-1/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theholy-1/)*

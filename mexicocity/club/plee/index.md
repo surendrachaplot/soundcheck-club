@@ -1,6 +1,6 @@
 # Plee
 
-Plee is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "SEMIOCENO" on Sat, 5 Sept 2026.
+Plee is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "SEMIOCENO" on Sat, 5 Sept 2026.
 
 Plee is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Plee is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Brow
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | SEMIOCENO |  |
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/plee/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/plee/)*

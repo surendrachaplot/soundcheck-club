@@ -1,6 +1,6 @@
 # FRAGK
 
-FRAGK is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+FRAGK is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 FRAGK is an electronic artist tracked on soundcheck, with 2 sets logged across Athens. Often billed alongside Adam Des, Artee and BMSK. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -18,4 +18,4 @@ FRAGK is an electronic artist tracked on soundcheck, with 2 sets logged across A
 
 Adam Des, Artee, BMSK
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fragk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fragk/)*

@@ -1,6 +1,6 @@
 # Phree Direxion
 
-Phree Direxion is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lucky Tiger, New York City on Wed, 16 Sept 2026.
+Phree Direxion is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lucky Tiger, New York City on Wed, 16 Sept 2026.
 
 Phree Direxion is a house and ambient artist tracked on soundcheck, with 4 sets logged across Newyorkcity. Often billed alongside Tim Dauz, Vans and Alex Jade. Next up: Lucky Tiger, Newyorkcity on Wed 16 Sept.
 
@@ -20,4 +20,4 @@ Phree Direxion is a house and ambient artist tracked on soundcheck, with 4 sets 
 
 Tim Dauz, Vans, Alex Jade
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phreedirexion/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phreedirexion/)*

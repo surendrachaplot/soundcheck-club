@@ -1,6 +1,6 @@
 # Rakans
 
-Rakans is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 5 Sept 2026.
+Rakans is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 5 Sept 2026.
 
 Rakans is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside VINVAR, Deepneue and The Lady Machine. Next up: CLUB RAUM, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Rakans is a techno and house artist tracked on soundcheck, with 103 sets logged 
 
 VINVAR, Deepneue, The Lady Machine
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rakans/)*

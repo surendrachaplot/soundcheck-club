@@ -1,6 +1,6 @@
 # CALLUSH
 
-CALLUSH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at De Flesjesfabriek, Ghent on Sat, 17 Oct 2026.
+CALLUSH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at De Flesjesfabriek, Ghent on Sat, 17 Oct 2026.
 
 CALLUSH is a techno and house artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside DYEN, NOVAH and Afem Syko. Next up: De Flesjesfabriek, Ghent on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ CALLUSH is a techno and house artist tracked on soundcheck, with 114 sets logged
 
 DYEN, NOVAH, Afem Syko
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*

@@ -1,6 +1,6 @@
 # American Legion Marsh Post #442
 
-American Legion Marsh Post #442 is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Dancing on the Charles - Soul Clap Edition - OUTDOOR DANCE PARTY" on Sat, 12 Sept 2026.
+American Legion Marsh Post #442 is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Dancing on the Charles - Soul Clap Edition - OUTDOOR DANCE PARTY" on Sat, 12 Sept 2026.
 
 American Legion Marsh Post #442 is a music venue in Boston listed on soundcheck. 3 upcoming nights, with line-ups including Bob Diesel, Patchwork and Soul Clap. Browse upcoming dates, start times and who's playing. 198 Greenough Blvd; Cambridge, MA 02138; United States.
 
@@ -16,4 +16,4 @@ American Legion Marsh Post #442 is a music venue in Boston listed on soundcheck.
 
 198 Greenough Blvd; Cambridge, MA 02138; United States, Boston
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/american-legion-marsh-post-442/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/american-legion-marsh-post-442/)*

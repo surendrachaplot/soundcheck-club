@@ -1,6 +1,6 @@
 # heykazma
 
-heykazma is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at ZUBAR, Tokyo on Fri, 11 Sept 2026.
+heykazma is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at ZUBAR, Tokyo on Fri, 11 Sept 2026.
 
 heykazma is a techno and experimental artist based in Japan, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside Yuki Kawamura, --- mr --- and SiSeN. Next up: ZUBAR, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ heykazma is a techno and experimental artist based in Japan, tracked on soundche
 
 Yuki Kawamura, --- mr ---, SiSeN
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heykazma/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heykazma/)*

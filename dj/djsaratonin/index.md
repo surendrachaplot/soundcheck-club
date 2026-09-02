@@ -1,6 +1,6 @@
 # DJ Saratonin
 
-DJ Saratonin is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 4 Sept 2026.
+DJ Saratonin is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 DJ Saratonin is a techno and club artist based in United States of America, tracked on soundcheck, with 62 sets logged across Losangeles, Philadelphia and Sanfrancisco. Often billed alongside Profesito, rainsdeaf and 40split. Next up: Public Works, Sanfrancisco on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ DJ Saratonin is a techno and club artist based in United States of America, trac
 
 Profesito, rainsdeaf, 40split
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaratonin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaratonin/)*

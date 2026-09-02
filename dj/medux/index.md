@@ -1,6 +1,6 @@
 # Medux
 
-Medux is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Phoenix Landing, Boston on Wed, 2 Sept 2026.
+Medux is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Phoenix Landing, Boston on Wed, 2 Sept 2026.
 
 Medux is a house and techno artist tracked on soundcheck, with 16 sets logged across Boston. Often billed alongside Charles Mazzola, Jordan Graham and Sacha Madadian. Next up: Phoenix Landing, Boston on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Medux is a house and techno artist tracked on soundcheck, with 16 sets logged ac
 
 Charles Mazzola, Jordan Graham, Sacha Madadian
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medux/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medux/)*

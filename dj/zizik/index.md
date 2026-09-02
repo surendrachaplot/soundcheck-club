@@ -1,6 +1,6 @@
 # zizi k
 
-zizi k is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - LFO, Madrid on Fri, 4 Sept 2026.
+zizi k is a Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - LFO, Madrid on Fri, 4 Sept 2026.
 
 zizi k is an electronica artist based in Colombia, tracked on soundcheck, with 10 sets logged across Barcelona, Lisbon and Madrid. Often billed alongside Gala (ES), Admo and Balheim. Next up: TBA - LFO, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ zizi k is an electronica artist based in Colombia, tracked on soundcheck, with 1
 
 Gala (ES), Admo, Balheim
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zizik/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zizik/)*

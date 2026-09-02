@@ -1,6 +1,6 @@
 # LARISHKA (UK)
 
-LARISHKA (UK) is a Garage and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Hidden, Manchester on Mon, 21 Sept 2026.
+LARISHKA (UK) is a Garage and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hidden, Manchester on Mon, 21 Sept 2026.
 
 LARISHKA (UK) is a garage and disco artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Rich Reason, T-Man (UK) and Chunky. Next up: Hidden, Manchester on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ LARISHKA (UK) is a garage and disco artist based in United Kingdom, tracked on s
 
 Rich Reason, T-Man (UK), Chunky
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka-uk/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka-uk/)*

@@ -1,6 +1,6 @@
 # Liad Krispin
 
-Liad Krispin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Good Room, New York City on Sun, 6 Sept 2026.
+Liad Krispin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Good Room, New York City on Sun, 6 Sept 2026.
 
 Liad Krispin is a techno and house artist tracked on soundcheck, with 36 sets logged across Berlin, Brussels, Copenhagen and Hamburg and 6 more. Often billed alongside Luigi Di Venere, Budino and DSGNRPSSY. Next up: Good Room, Newyorkcity on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Liad Krispin is a techno and house artist tracked on soundcheck, with 36 sets lo
 
 Luigi Di Venere, Budino, DSGNRPSSY
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*

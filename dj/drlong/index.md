@@ -1,6 +1,6 @@
 # Dr. Long
 
-Dr. Long is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
+Dr. Long is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
 
 Dr. Long is a house and techno artist based in Georgia, tracked on soundcheck, with 27 sets logged across Berlin, Hamburg, Stuttgart and Tallinn and 2 more. Often billed alongside Boyá, skyra and Digabuna. Next up: Südpol, Hamburg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Dr. Long is a house and techno artist based in Georgia, tracked on soundcheck, w
 
 Boyá, skyra, Digabuna
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drlong/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drlong/)*

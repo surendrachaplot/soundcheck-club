@@ -1,6 +1,6 @@
 # Universe Athens
 
-Universe Athens is a music venue in Athens with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "PLISSKËN presents Autechre" on Sat, 3 Oct 2026.
+Universe Athens is a music venue in Athens with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "PLISSKËN presents Autechre" on Sat, 3 Oct 2026.
 
 Universe Athens is a music venue in Athens listed on soundcheck. 4 upcoming nights, with line-ups including Adrian Mills, Amor Satyr, Animistic Beliefs and Astral Bandit and 2 more. Browse upcoming dates, start times and who's playing. Leoforos Kifisou 87 Athens 122 41.
 
@@ -17,4 +17,4 @@ Universe Athens is a music venue in Athens listed on soundcheck. 4 upcoming nigh
 
 Leoforos Kifisou 87 Athens 122 41, Athens
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/universe-athens/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/universe-athens/)*

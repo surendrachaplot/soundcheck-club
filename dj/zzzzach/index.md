@@ -1,6 +1,6 @@
 # zzzzach
 
-zzzzach is a Club and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Le Bain, New York City on Sun, 6 Sept 2026.
+zzzzach is a Club and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Bain, New York City on Sun, 6 Sept 2026.
 
 zzzzach is a club and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside BABEITSPURR, CHRYSALIS and DJ Fat Frog. Next up: Le Bain, Newyorkcity on Sun 6 Sept.
 
@@ -23,4 +23,4 @@ zzzzach is a club and house artist based in United States of America, tracked on
 
 BABEITSPURR, CHRYSALIS, DJ Fat Frog
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*

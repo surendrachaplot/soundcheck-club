@@ -1,6 +1,6 @@
 # etc radio at TBA
 
-etc radio at TBA on Fri 9 Oct, Chicago. 1 act on the bill: m50. Ambient and Acid. Preview the line-up and save it on soundcheck.
+etc radio at TBA on Fri 9 Oct, Chicago. 2 acts on the bill: DJ Lgcc and m50. Ambient and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ etc radio at TBA on Fri 9 Oct, Chicago. 1 act on the bill: m50. Ambient and Acid
 
 ## Line-up
 
+- DJ Lgcc
 - m50
 
 *Source: [soundcheck](https://soundcheck.club/e/2513997-etc-radio-at-tba/)*

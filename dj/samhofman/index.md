@@ -1,6 +1,6 @@
 # Sam Hofman
 
-Sam Hofman is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Boomerang Beach, The Hague on Sun, 6 Sept 2026.
+Sam Hofman is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Boomerang Beach, The Hague on Sun, 6 Sept 2026.
 
 Sam Hofman is a house and trance artist tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, AUTOFLOWER and DAF. Next up: Boomerang Beach, Thehague on Sun 6 Sept.
 
@@ -24,4 +24,4 @@ Sam Hofman is a house and trance artist tracked on soundcheck, with 8 sets logge
 
 Benny Rodrigues, AUTOFLOWER, DAF
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samhofman/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samhofman/)*

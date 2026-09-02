@@ -1,6 +1,6 @@
 # Dj Fucci
 
-Dj Fucci is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Razzmatazz, Barcelona on Fri, 11 Sept 2026.
+Dj Fucci is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Razzmatazz, Barcelona on Fri, 11 Sept 2026.
 
 Dj Fucci is a techno and house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Berlin and Hongkong and 12 more. Often billed alongside sadgal, Enya Botello and Octoptic. Next up: Razzmatazz, Barcelona on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Dj Fucci is a techno and house artist tracked on soundcheck, with 109 sets logge
 
 sadgal, Enya Botello, Octoptic
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfucci/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfucci/)*

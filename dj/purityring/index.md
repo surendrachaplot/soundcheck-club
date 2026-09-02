@@ -1,6 +1,6 @@
 # Purity Ring
 
-Purity Ring is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Purity Ring is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Purity Ring is a techno and electronica artist tracked on soundcheck, with 3 sets logged across Austin, Denver and Miami. Often billed alongside 619!, 999999999 and AABEL. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -19,4 +19,4 @@ Purity Ring is a techno and electronica artist tracked on soundcheck, with 3 set
 
 619!, 999999999, AABEL
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purityring/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purityring/)*

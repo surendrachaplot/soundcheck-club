@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Love Train (DJ Set) Day Time Disco with Brutus Gold Manchester" on Sat, 5 Sept 2026.
+Joshua Brooks is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Love Train (DJ Set) Day Time Disco with Brutus Gold Manchester" on Sat, 5 Sept 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including AYDN, Badger (UK), CEEKAY and Cristoph and 2 more. Browse upcoming dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -23,4 +23,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 11 upcoming n
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

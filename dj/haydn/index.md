@@ -1,6 +1,6 @@
 # Haydn
 
-Haydn is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 26 Sept 2026.
+Haydn is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 26 Sept 2026.
 
 Haydn is a house and minimal artist tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Denver and Leeds and 9 more. Often billed alongside tIJN, Annie Errez and Lucas Hulan. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Haydn is a house and minimal artist tracked on soundcheck, with 18 sets logged a
 
 tIJN, Annie Errez, Lucas Hulan
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haydn/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haydn/)*

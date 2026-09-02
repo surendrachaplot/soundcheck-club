@@ -1,6 +1,6 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 5 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "MÖM: Manifest" on Thu, 3 Sept 2026.
+Altenburg 1964 is a music venue in Prague with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "MÖM: Manifest" on Thu, 3 Sept 2026.
 
 Altenburg 1964 is a music venue in Prague listed on soundcheck. 5 upcoming nights, with line-ups including carlo kalu, Diva, HKKPTR and Mike Stevens and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
@@ -18,4 +18,4 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 5 upcoming night
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

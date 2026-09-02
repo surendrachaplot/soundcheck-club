@@ -1,6 +1,6 @@
 # JUAN BELDARREIN
 
-JUAN BELDARREIN is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 12 Sept 2026.
+JUAN BELDARREIN is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Kadinsky Cafe, Amsterdam on Sat, 12 Sept 2026.
 
 JUAN BELDARREIN is a progressive house and techno artist tracked on soundcheck, with 7 sets logged across Amsterdam and Madrid. Often billed alongside Unai García, Vico Deep and Javi Garza. Next up: Kadinsky Cafe, Amsterdam on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ JUAN BELDARREIN is a progressive house and techno artist tracked on soundcheck, 
 
 Unai García, Vico Deep, Javi Garza
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanbeldarrein/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanbeldarrein/)*

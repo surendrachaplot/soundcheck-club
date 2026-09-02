@@ -1,6 +1,6 @@
 # Dj Warning
 
-Dj Warning is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Nowadays, New York City on Thu, 3 Sept 2026.
+Dj Warning is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Nowadays, New York City on Thu, 3 Sept 2026.
 
 Dj Warning is a techno and house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Berlin and Brussels and 12 more. Often billed alongside Trax Unit, 1morning and Miss Parker. Next up: Nowadays, Newyorkcity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Dj Warning is a techno and house artist tracked on soundcheck, with 80 sets logg
 
 Trax Unit, 1morning, Miss Parker
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarning/)*

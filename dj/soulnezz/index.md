@@ -1,6 +1,6 @@
 # Soulnezz
 
-Soulnezz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Pygmalion, Dublin on Sat, 5 Sept 2026.
+Soulnezz is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pygmalion, Dublin on Sat, 5 Sept 2026.
 
 Soulnezz is a house and deep house artist tracked on soundcheck, with 28 sets logged across Dublin. Often billed alongside Nicole Spagnol, Cam Roberts and Colin Perkins. Next up: Pygmalion, Dublin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Soulnezz is a house and deep house artist tracked on soundcheck, with 28 sets lo
 
 Nicole Spagnol, Cam Roberts, Colin Perkins
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulnezz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulnezz/)*

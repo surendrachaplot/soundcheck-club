@@ -1,6 +1,6 @@
 # Wasserfeld
 
-Wasserfeld is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
+Wasserfeld is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Korpuss, Riga on Fri, 4 Sept 2026.
 
 Wasserfeld is an industrial and techno artist tracked on soundcheck, with 4 sets logged across Riga and Tallinn. Often billed alongside DV8 (LV), Existal and ANASI. Next up: Korpuss, Riga on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ Wasserfeld is an industrial and techno artist tracked on soundcheck, with 4 sets
 
 DV8 (LV), Existal, ANASI
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wasserfeld/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wasserfeld/)*

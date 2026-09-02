@@ -1,6 +1,6 @@
 # Lavallée
 
-Lavallée is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "LaVallée – 11th Anniversary Special" on Fri, 4 Sept 2026.
+Lavallée is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "LaVallée – 11th Anniversary Special" on Fri, 4 Sept 2026.
 
 Lavallée is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including Caillou (DE) and Oonagh Haines. Browse upcoming dates, start times and who's playing. 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean.
 
@@ -15,4 +15,4 @@ Lavallée is a music venue in Brussels listed on soundcheck. 2 upcoming nights, 
 
 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean, Brussels
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*

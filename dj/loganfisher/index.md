@@ -1,6 +1,6 @@
 # Logan Fisher
 
-Logan Fisher is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at WaterBear Venue, Brighton on Sat, 12 Sept 2026.
+Logan Fisher is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at WaterBear Venue, Brighton on Sat, 12 Sept 2026.
 
 Logan Fisher is a house and acid artist tracked on soundcheck, with 26 sets logged across Athens, Birmingham, Brighton and Bucharest and 6 more. Often billed alongside Rosie Ama, Fall Forward and Leo Zero. Next up: WaterBear Venue, Brighton on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Logan Fisher is a house and acid artist tracked on soundcheck, with 26 sets logg
 
 Rosie Ama, Fall Forward, Leo Zero
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*

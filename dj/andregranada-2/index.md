@@ -1,6 +1,6 @@
 # André Granada (2)
 
-André Granada (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lux Fragil, Lisbon on Thu, 3 Sept 2026.
+André Granada (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lux Fragil, Lisbon on Thu, 3 Sept 2026.
 
 André Granada (2) is an electronic artist based in Portugal, tracked on soundcheck, with 3 sets logged across Lisbon. Often billed alongside Andy Garvey, HNRQ (2) and Inês Duarte. Next up: Lux Fragil, Lisbon on Thu 3 Sept.
 
@@ -19,4 +19,4 @@ André Granada (2) is an electronic artist based in Portugal, tracked on soundch
 
 Andy Garvey, HNRQ (2), Inês Duarte
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andregranada-2/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andregranada-2/)*

@@ -1,6 +1,6 @@
 # Dr. ADO
 
-Dr. ADO is a Afro House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Symphonie, Mexico City on Fri, 4 Sept 2026.
+Dr. ADO is a Afro House and Amapiano artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Symphonie, Mexico City on Fri, 4 Sept 2026.
 
 Dr. ADO is an afro house and amapiano artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across London, Lyon and Mexicocity. Often billed alongside IYE YIN DAE, SAMIA and GOLDEN PINEAPPLE. Next up: Symphonie, Mexicocity on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Dr. ADO is an afro house and amapiano artist based in United Kingdom, tracked on
 
 IYE YIN DAE, SAMIA, GOLDEN PINEAPPLE
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.ado/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.ado/)*

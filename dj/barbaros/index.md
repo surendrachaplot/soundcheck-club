@@ -1,6 +1,6 @@
 # Barbaros
 
-Barbaros is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 4 Sept 2026.
+Barbaros is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 4 Sept 2026.
 
 Barbaros is a house and deep house artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin and Hamburg. Often billed alongside David Lenk, Shimmy Robin and Laetizia. Next up: Golden Pudel Club, Hamburg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Barbaros is a house and deep house artist based in Germany, tracked on soundchec
 
 David Lenk, Shimmy Robin, Laetizia
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaros/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaros/)*

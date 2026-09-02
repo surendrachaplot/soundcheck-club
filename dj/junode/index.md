@@ -1,6 +1,6 @@
 # JUNO (DE)
 
-JUNO (DE) is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
+JUNO (DE) is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 99 Scott Ave, New York City on Fri, 9 Oct 2026.
 
 JUNO (DE) is an afro house and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside AJNA, Nitefreak and Van Zand. Next up: 99 Scott Ave, Newyorkcity on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ JUNO (DE) is an afro house and house artist based in Germany, tracked on soundch
 
 AJNA, Nitefreak, Van Zand
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junode/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junode/)*

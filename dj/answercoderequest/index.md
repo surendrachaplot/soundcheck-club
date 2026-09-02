@@ -1,6 +1,6 @@
 # Answer Code Request
 
-Answer Code Request is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at C12, Brussels on Sat, 5 Sept 2026.
+Answer Code Request is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at C12, Brussels on Sat, 5 Sept 2026.
 
 Answer Code Request is a techno and house artist tracked on soundcheck, with 119 sets logged across Amsterdam, Athens, Bali and Bangkok and 39 more. Often billed alongside Amotik, Oracy and Barker. Next up: C12, Brussels on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Answer Code Request is a techno and house artist tracked on soundcheck, with 119
 
 Amotik, Oracy, Barker
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/answercoderequest/)*

@@ -1,6 +1,6 @@
 # Darimel
 
-Darimel is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Locke, Hamburg on Thu, 22 Oct 2026.
+Darimel is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Locke, Hamburg on Thu, 22 Oct 2026.
 
 Darimel is a garage and grime artist tracked on soundcheck, with 3 sets logged across Hamburg. Often billed alongside Max Reflex, Mechanick and Nikkel. Next up: Locke, Hamburg on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ Darimel is a garage and grime artist tracked on soundcheck, with 3 sets logged a
 
 Max Reflex, Mechanick, Nikkel
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darimel/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darimel/)*

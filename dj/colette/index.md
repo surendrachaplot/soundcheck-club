@@ -1,6 +1,6 @@
 # Colette
 
-Colette is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Music Room, Melbourne on Wed, 2 Sept 2026.
+Colette is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Music Room, Melbourne on Wed, 2 Sept 2026.
 
 Colette is a house and techno artist based in Australia, tracked on soundcheck, with 108 sets logged across Chicago, Losangeles, Marseille and Melbourne and 3 more. Often billed alongside Lewis Cancut, 3rd Orbit and DJ JNETT. Next up: Music Room, Melbourne on Wed 2 Sept.
 
@@ -27,4 +27,4 @@ Colette is a house and techno artist based in Australia, tracked on soundcheck, 
 
 Lewis Cancut, 3rd Orbit, DJ JNETT
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colette/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colette/)*

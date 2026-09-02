@@ -1,6 +1,6 @@
 # MGUN
 
-MGUN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
+MGUN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
 
 MGUN is a techno and house artist based in United States of America, tracked on soundcheck, with 88 sets logged across Detroit, Newyorkcity, Sanfrancisco and Washingtondc. Often billed alongside Ryan Spencer, Isaac Prieto and Max Watts. Next up: MotorCity Wine, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ MGUN is a techno and house artist based in United States of America, tracked on 
 
 Ryan Spencer, Isaac Prieto, Max Watts
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mgun/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mgun/)*

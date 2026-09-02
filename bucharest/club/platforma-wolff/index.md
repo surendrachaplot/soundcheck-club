@@ -1,6 +1,6 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "PW x Intuit FM • Andria Obor, Von Bülove" on Thu, 3 Sept 2026.
+Platforma Wolff is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "PW x Intuit FM • Andria Obor, Von Bülove" on Thu, 3 Sept 2026.
 
 Platforma Wolff is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, with line-ups including Alex Troubetzkoy, Andrei Ciubuc, Anthea and Automatic Writing and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
@@ -20,4 +20,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 7 upcoming n
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

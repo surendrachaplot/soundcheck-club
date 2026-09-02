@@ -1,6 +1,6 @@
 # Densel
 
-Densel is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mastak, Warsaw on Fri, 18 Sept 2026.
+Densel is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mastak, Warsaw on Fri, 18 Sept 2026.
 
 Densel is an experimental and techno artist tracked on soundcheck, with 3 sets logged across Belgrade, Tbilisi and Warsaw. Often billed alongside Amdience, Doctor Notchy and J.Stealth. Next up: Mastak, Warsaw on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Densel is an experimental and techno artist tracked on soundcheck, with 3 sets l
 
 Amdience, Doctor Notchy, J.Stealth
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/densel/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/densel/)*

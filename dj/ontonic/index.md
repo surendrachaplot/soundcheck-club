@@ -1,6 +1,6 @@
 # Ontonic
 
-Ontonic is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Pacha, Munich on Fri, 18 Sept 2026.
+Ontonic is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pacha, Munich on Fri, 18 Sept 2026.
 
 Ontonic is an electro and techno artist tracked on soundcheck, with 5 sets logged across Amsterdam, Munich and Nurnberg. Often billed alongside AVAION, Ben Dust and Dennis Reif. Next up: Pacha, Munich on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Ontonic is an electro and techno artist tracked on soundcheck, with 5 sets logge
 
 AVAION, Ben Dust, Dennis Reif
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ontonic/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ontonic/)*

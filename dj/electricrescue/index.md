@@ -1,6 +1,6 @@
 # Electric Rescue
 
-Electric Rescue is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Obe, Lyon on Fri, 4 Sept 2026.
+Electric Rescue is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Obe, Lyon on Fri, 4 Sept 2026.
 
 Electric Rescue is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Copenhagen and Geneva and 8 more. Often billed alongside Alys LF, KUSS and Kmyle. Next up: Obe, Lyon on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Electric Rescue is a techno and house artist tracked on soundcheck, with 59 sets
 
 Alys LF, KUSS, Kmyle
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electricrescue/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electricrescue/)*

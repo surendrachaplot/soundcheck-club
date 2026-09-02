@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Higher Ground: A musical experience" on Thu, 3 Sept 2026.
+H0L0 is a music venue in New York City with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Higher Ground: A musical experience" on Thu, 3 Sept 2026.
 
 H0L0 is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, with line-ups including Amelia Holt, Anane, Armii1n and Auphoria and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -23,4 +23,4 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 13 upcoming nights, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

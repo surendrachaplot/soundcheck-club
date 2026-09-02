@@ -1,6 +1,6 @@
 # Young Divorcée
 
-Young Divorcée is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mom's Limousine Service, Berlin on Fri, 11 Sept 2026.
+Young Divorcée is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mom's Limousine Service, Berlin on Fri, 11 Sept 2026.
 
 Young Divorcée is a bass and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside NiKi K, Diva DJ and Blu:sh. Next up: Mom's Limousine Service, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Young Divorcée is a bass and house artist based in Germany, tracked on soundche
 
 NiKi K, Diva DJ, Blu:sh
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngdivorcee/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngdivorcee/)*

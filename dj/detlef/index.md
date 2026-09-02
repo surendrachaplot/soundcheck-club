@@ -1,6 +1,6 @@
 # Detlef
 
-Detlef is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Plateia Olypiakis Aeroporias Elliniko , Athens on Sun, 6 Sept 2026.
+Detlef is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Plateia Olypiakis Aeroporias Elliniko , Athens on Sun, 6 Sept 2026.
 
 Detlef is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Athens, Austin, Barcelona and Brighton and 22 more. Often billed alongside Joey Daniel, Late Replies and Latmun. Next up: TBA - Plateia Olypiakis Aeroporias Elliniko , Athens on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ Detlef is a tech house and house artist based in United Kingdom, tracked on soun
 
 Joey Daniel, Late Replies, Latmun
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detlef/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detlef/)*

@@ -1,6 +1,6 @@
 # Tripstoph
 
-Tripstoph is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 11 Sept 2026.
+Tripstoph is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 11 Sept 2026.
 
 Tripstoph is a techno and downtempo artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Björn Gögge, KURATOR and AndShe. Next up: Jonny Knüppel, Berlin on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Tripstoph is a techno and downtempo artist tracked on soundcheck, with 4 sets lo
 
 Björn Gögge, KURATOR, AndShe
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripstoph/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripstoph/)*

@@ -1,6 +1,6 @@
 # Albano Bastonero
 
-Albano Bastonero is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Marina Botafoch, Ibiza on Sat, 26 Sept 2026.
+Albano Bastonero is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Marina Botafoch, Ibiza on Sat, 26 Sept 2026.
 
 Albano Bastonero is a techno and house artist based in Argentina, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Copenhagen and Ibiza and 2 more. Often billed alongside Tim Andresen, John Cosani and Nick Varon. Next up: Marina Botafoch, Ibiza on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Albano Bastonero is a techno and house artist based in Argentina, tracked on sou
 
 Tim Andresen, John Cosani, Nick Varon
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albanobastonero/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albanobastonero/)*

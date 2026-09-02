@@ -1,6 +1,6 @@
 # Vava (1)
 
-Vava (1) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Pontoon Budapest, Budapest on Thu, 3 Sept 2026.
+Vava (1) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pontoon Budapest, Budapest on Thu, 3 Sept 2026.
 
 Vava (1) is a techno and experimental artist based in Hungary, tracked on soundcheck, with 8 sets logged across Budapest. Often billed alongside Disandat, Kiuz and Pizza Amore. Next up: Pontoon Budapest, Budapest on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Vava (1) is a techno and experimental artist based in Hungary, tracked on soundc
 
 Disandat, Kiuz, Pizza Amore
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vava-1/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vava-1/)*

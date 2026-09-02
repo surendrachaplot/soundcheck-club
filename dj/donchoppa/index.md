@@ -1,6 +1,6 @@
 # DonChoppa
 
-DonChoppa is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
+DonChoppa is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
 
 DonChoppa is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Anuuk, Kø:lab and SEKTOR69. Next up: Schrotty, Cologne on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ DonChoppa is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Anuuk, Kø:lab, SEKTOR69
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donchoppa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donchoppa/)*

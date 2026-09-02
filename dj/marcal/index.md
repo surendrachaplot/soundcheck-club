@@ -1,6 +1,6 @@
 # Marcal
 
-Marcal is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 18 Sept 2026.
+Marcal is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 18 Sept 2026.
 
 Marcal is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Ignez, Zisko and Amotik. Next up: TBA - Secret Location, Toronto on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Marcal is a techno and house artist tracked on soundcheck, with 95 sets logged a
 
 Ignez, Zisko, Amotik
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcal/)*

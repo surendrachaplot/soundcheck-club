@@ -1,6 +1,6 @@
 # Auld Rab
 
-Auld Rab is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Ernest, Newcastle on Sat, 5 Sept 2026.
+Auld Rab is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ernest, Newcastle on Sat, 5 Sept 2026.
 
 Auld Rab is a house and techno artist tracked on soundcheck, with 5 sets logged across London, Newcastle and Nottingham. Often billed alongside Rory Audiobahn, Basic Function and David Morales. Next up: Ernest, Newcastle on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Auld Rab is a house and techno artist tracked on soundcheck, with 5 sets logged 
 
 Rory Audiobahn, Basic Function, David Morales
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auldrab/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/auldrab/)*

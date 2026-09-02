@@ -1,6 +1,6 @@
 # Nikita
 
-Nikita is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Nikita is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Nikita is a house and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Berlin and Brussels and 13 more. Often billed alongside Ray Zuniga, SVS (1) and Vivian Wang. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Nikita is a house and techno artist based in United States of America, tracked o
 
 Ray Zuniga, SVS (1), Vivian Wang
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikita/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikita/)*

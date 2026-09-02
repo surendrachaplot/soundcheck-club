@@ -1,6 +1,6 @@
 # LAUZ
 
-LAUZ is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at DRUMSHEDS, London on Fri, 23 Oct 2026.
+LAUZ is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at DRUMSHEDS, London on Fri, 23 Oct 2026.
 
 LAUZ is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Edinburgh, Glasgow, Ibiza and London and 2 more. Often billed alongside ASLO, JM-X and 999999999. Next up: DRUMSHEDS, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ LAUZ is a techno and acid artist based in United Kingdom, tracked on soundcheck,
 
 ASLO, JM-X, 999999999
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauz/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauz/)*

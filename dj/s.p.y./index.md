@@ -1,6 +1,6 @@
 # S.P.Y.
 
-S.P.Y. is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Racket Space, Dublin on Fri, 4 Sept 2026.
+S.P.Y. is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Racket Space, Dublin on Fri, 4 Sept 2026.
 
 S.P.Y. is a drum & bass and jungle artist based in Brazil, tracked on soundcheck, with 15 sets logged across Bristol, Cardiff, Denver and Dublin and 6 more. Often billed alongside LowQui, Anaïs and Break. Next up: The Racket Space, Dublin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ S.P.Y. is a drum & bass and jungle artist based in Brazil, tracked on soundcheck
 
 LowQui, Anaïs, Break
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y./)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y./)*

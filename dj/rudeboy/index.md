@@ -1,6 +1,6 @@
 # Rudeboy
 
-Rudeboy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Miami on Sat, 5 Sept 2026.
+Rudeboy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Miami on Sat, 5 Sept 2026.
 
 Rudeboy is a techno and house artist based in Poland, tracked on soundcheck, with 13 sets logged across Berlin, Krakow, Miami and Prague and 1 more. Often billed alongside Berrakka, Marie Qrie and SATURNSARii. Next up: TBA, Miami on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Rudeboy is a techno and house artist based in Poland, tracked on soundcheck, wit
 
 Berrakka, Marie Qrie, SATURNSARii
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeboy/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeboy/)*

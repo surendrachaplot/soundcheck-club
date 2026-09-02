@@ -1,6 +1,6 @@
 # Jesse Maas
 
-Jesse Maas is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Whitehouse, The Hague on Sat, 5 Sept 2026.
+Jesse Maas is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Whitehouse, The Hague on Sat, 5 Sept 2026.
 
 Jesse Maas is a house and tech house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Auckland, Barcelona and Dublin and 11 more. Often billed alongside Benny Rodrigues, Boss Priester and Dennis Quin. Next up: Whitehouse, Thehague on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Jesse Maas is a house and tech house artist tracked on soundcheck, with 75 sets 
 
 Benny Rodrigues, Boss Priester, Dennis Quin
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessemaas/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessemaas/)*

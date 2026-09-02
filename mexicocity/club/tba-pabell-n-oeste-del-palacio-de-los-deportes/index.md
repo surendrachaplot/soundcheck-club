@@ -1,6 +1,6 @@
 # TBA - Pabellón Oeste del Palacio de los Deportes
 
-TBA - Pabellón Oeste del Palacio de los Deportes is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "UNREAL NA TOUR: MEXICO CITY" on Sat, 19 Sept 2026.
+TBA - Pabellón Oeste del Palacio de los Deportes is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "UNREAL NA TOUR: MEXICO CITY" on Sat, 19 Sept 2026.
 
 TBA - Pabellón Oeste del Palacio de los Deportes is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Johannes Schuster, KUKO, Nico Moreno and Winson and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Pabellón Oeste del Palacio de los Deportes is a music venue in Mexicocity
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | UNREAL NA TOUR: MEXICO CITY | Johannes Schuster, KUKO, Nico Moreno, Winson, Winson Ngoh |
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-pabell-n-oeste-del-palacio-de-los-deportes/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/tba-pabell-n-oeste-del-palacio-de-los-deportes/)*

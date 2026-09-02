@@ -1,6 +1,6 @@
 # MIMI404
 
-MIMI404 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Großer Bunkerberg Volkspark Fhain, Berlin on Sat, 5 Sept 2026.
+MIMI404 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Großer Bunkerberg Volkspark Fhain, Berlin on Sat, 5 Sept 2026.
 
 MIMI404 is a techno and trance artist tracked on soundcheck, with 65 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside e.leptic, E.T. and bbymeister. Next up: Großer Bunkerberg Volkspark Fhain, Berlin on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ MIMI404 is a techno and trance artist tracked on soundcheck, with 65 sets logged
 
 e.leptic, E.T., bbymeister
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi404/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi404/)*

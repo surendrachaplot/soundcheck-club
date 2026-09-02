@@ -1,6 +1,6 @@
 # Ashley Holmes
 
-Ashley Holmes is a Dub and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The System, Sheffield on Thu, 26 Nov 2026.
+Ashley Holmes is a Dub and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The System, Sheffield on Thu, 26 Nov 2026.
 
 Ashley Holmes is a dub and club artist tracked on soundcheck, with 16 sets logged across Liverpool, London and Sheffield. Often billed alongside MYNA, Charla Green and Gracie T. Next up: The System, Sheffield on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Ashley Holmes is a dub and club artist tracked on soundcheck, with 16 sets logge
 
 MYNA, Charla Green, Gracie T
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyholmes/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyholmes/)*

@@ -1,6 +1,6 @@
 # TheKoosy
 
-TheKoosy is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Lagerwal, Amsterdam on Sat, 3 Oct 2026.
+TheKoosy is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Lagerwal, Amsterdam on Sat, 3 Oct 2026.
 
 TheKoosy is a techno and acid artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam and Utrecht. Often billed alongside DA SEYKO, Joris Turenhout and Belocca. Next up: Lagerwal, Amsterdam on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ TheKoosy is a techno and acid artist based in Netherlands, tracked on soundcheck
 
 DA SEYKO, Joris Turenhout, Belocca
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thekoosy/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thekoosy/)*

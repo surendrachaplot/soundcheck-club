@@ -1,6 +1,6 @@
 # Orbi
 
-Orbi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
+Orbi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
 
 Orbi is a techno and trance artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Cologne, Ghent and Munich and 1 more. Often billed alongside EGE363, REEZN and Neoma. Next up: Lokschuppen Berlin, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Orbi is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 EGE363, REEZN, Neoma
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orbi/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orbi/)*

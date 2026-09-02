@@ -1,6 +1,6 @@
 # Kiala Ogawa
 
-Kiala Ogawa is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at La Gaîté Lyrique, Paris on Sat, 5 Sept 2026.
+Kiala Ogawa is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Gaîté Lyrique, Paris on Sat, 5 Sept 2026.
 
 Kiala Ogawa is an electronic artist tracked on soundcheck, with 4 sets logged across Paris. Often billed alongside Canblaster, Errol and Flabaire. Next up: La Gaîté Lyrique, Paris on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Kiala Ogawa is an electronic artist tracked on soundcheck, with 4 sets logged ac
 
 Canblaster, Errol, Flabaire
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kialaogawa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kialaogawa/)*

@@ -1,6 +1,6 @@
 # Papillon
 
-Papillon is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Sydney on Fri, 4 Sept 2026.
+Papillon is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Sydney on Fri, 4 Sept 2026.
 
 Papillon is a psytrance and techno artist tracked on soundcheck, with 3 sets logged across Sydney and Tokyo. Often billed alongside B.A.R.K, Céleste and DJ ZiL. Next up: TBA, Sydney on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ Papillon is a psytrance and techno artist tracked on soundcheck, with 3 sets log
 
 B.A.R.K, Céleste, DJ ZiL
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papillon/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papillon/)*

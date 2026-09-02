@@ -1,6 +1,6 @@
 # Kris Berle
 
-Kris Berle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Villa, Oslo on Fri, 4 Sept 2026.
+Kris Berle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Villa, Oslo on Fri, 4 Sept 2026.
 
 Kris Berle is a house and techno artist tracked on soundcheck, with 17 sets logged across Berlin, Detroit, Frankfurt and London and 2 more. Often billed alongside Mira, Jonas Schilling and Robin Dey. Next up: The Villa, Oslo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Kris Berle is a house and techno artist tracked on soundcheck, with 17 sets logg
 
 Mira, Jonas Schilling, Robin Dey
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krisberle/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krisberle/)*

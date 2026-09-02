@@ -1,6 +1,6 @@
 # JSR
 
-JSR is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
+JSR is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tresor / Globus, Berlin on Sat, 17 Oct 2026.
 
 JSR is a minimal techno and house artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Eric Cloutier, Lindsey Herbert and Alexander Skancke. Next up: Tresor / Globus, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ JSR is a minimal techno and house artist tracked on soundcheck, with 9 sets logg
 
 Eric Cloutier, Lindsey Herbert, Alexander Skancke
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsr/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsr/)*

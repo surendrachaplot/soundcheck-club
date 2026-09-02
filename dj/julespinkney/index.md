@@ -1,6 +1,6 @@
 # Jules Pinkney
 
-Jules Pinkney is a Club and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Jules Pinkney is a Club and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Jules Pinkney is a club and tech house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Billy Daniel Bunter, Huck Finn and Shady Lady. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jules Pinkney is a club and tech house artist tracked on soundcheck, with 9 sets
 
 Billy Daniel Bunter, Huck Finn, Shady Lady
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julespinkney/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julespinkney/)*

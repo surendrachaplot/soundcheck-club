@@ -1,6 +1,6 @@
 # pumbum
 
-pumbum is a Progressive House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Garage 442, Barcelona on Wed, 2 Sept 2026.
+pumbum is a Progressive House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Garage 442, Barcelona on Wed, 2 Sept 2026.
 
 pumbum is a progressive house and afro house artist based in Russia, tracked on soundcheck, with 14 sets logged across Barcelona and Madrid. Often billed alongside Dan Maurique, Paul Ikky and DJ SOFÍDIA. Next up: Garage 442, Barcelona on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ pumbum is a progressive house and afro house artist based in Russia, tracked on 
 
 Dan Maurique, Paul Ikky, DJ SOFÍDIA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pumbum/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pumbum/)*

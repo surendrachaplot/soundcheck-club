@@ -1,6 +1,6 @@
 # Robot Koch
 
-Robot Koch is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
+Robot Koch is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
 
 Robot Koch is an experimental and ambient artist based in Germany, tracked on soundcheck, with 10 sets logged across Amsterdam, Basel, Berlin and Losangeles and 2 more. Often billed alongside Jeena, Meredi and AFAR. Next up: Holdenweid, Basel on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Robot Koch is an experimental and ambient artist based in Germany, tracked on so
 
 Jeena, Meredi, AFAR
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robotkoch/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robotkoch/)*

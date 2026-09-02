@@ -1,6 +1,6 @@
 # Dj DEX
 
-Dj DEX is a Dubstep and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rhiz, Vienna on Sat, 5 Sept 2026.
+Dj DEX is a Dubstep and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Rhiz, Vienna on Sat, 5 Sept 2026.
 
 Dj DEX is a dubstep and house artist tracked on soundcheck, with 3 sets logged across Losangeles and Vienna. Often billed alongside CHERCHES, Iden Mind and Juliet Mendoza. Next up: Rhiz, Vienna on Sat 5 Sept.
 
@@ -19,4 +19,4 @@ Dj DEX is a dubstep and house artist tracked on soundcheck, with 3 sets logged a
 
 CHERCHES, Iden Mind, Juliet Mendoza
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdex/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdex/)*

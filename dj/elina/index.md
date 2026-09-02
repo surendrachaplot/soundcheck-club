@@ -1,6 +1,6 @@
 # Elina
 
-Elina is a Breakcore and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at TBA, Sydney on Fri, 4 Sept 2026.
+Elina is a Breakcore and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Sydney on Fri, 4 Sept 2026.
 
 Elina is a breakcore and bass artist tracked on soundcheck, with 13 sets logged across Barcelona, Ibiza, Malta and Sydney and 1 more. Often billed alongside Midsizedsedance, Dr Banana and Enzo Siragusa. Next up: TBA, Sydney on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Elina is a breakcore and bass artist tracked on soundcheck, with 13 sets logged 
 
 Midsizedsedance, Dr Banana, Enzo Siragusa
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elina/)*

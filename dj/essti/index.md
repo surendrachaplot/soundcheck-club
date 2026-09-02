@@ -1,6 +1,6 @@
 # ESSTI
 
-ESSTI is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at High Club Room, Madrid on Sat, 19 Sept 2026.
+ESSTI is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at High Club Room, Madrid on Sat, 19 Sept 2026.
 
 ESSTI is an electronica and house artist tracked on soundcheck, with 7 sets logged across Madrid. Often billed alongside Brody (2), frankydrama and ANGEL (3). Next up: High Club Room, Madrid on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ ESSTI is an electronica and house artist tracked on soundcheck, with 7 sets logg
 
 Brody (2), frankydrama, ANGEL (3)
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/essti/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/essti/)*

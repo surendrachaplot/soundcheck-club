@@ -1,6 +1,6 @@
 # Gabriel & Dresden
 
-Gabriel & Dresden is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Refuge, New York City on Sat, 5 Sept 2026.
+Gabriel & Dresden is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Refuge, New York City on Sat, 5 Sept 2026.
 
 Gabriel & Dresden are a trance and progressive house duo tracked on soundcheck, with 48 sets logged across Austin, Bristol, Chicago and Denver and 13 more. Often billed alongside Luccio, Amy Wiles and Mat Zo. Next up: Refuge, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Gabriel & Dresden are a trance and progressive house duo tracked on soundcheck, 
 
 Luccio, Amy Wiles, Mat Zo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielndresden/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielndresden/)*

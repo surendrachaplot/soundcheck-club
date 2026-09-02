@@ -1,6 +1,6 @@
 # Sakrum
 
-Sakrum is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Betel Klub, Krakow on Sat, 5 Sept 2026.
+Sakrum is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Betel Klub, Krakow on Sat, 5 Sept 2026.
 
 Sakrum is an electro and electronica artist tracked on soundcheck, with 47 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Chugajstra, vagt and Aim Ana. Next up: Betel Klub, Krakow on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sakrum is an electro and electronica artist tracked on soundcheck, with 47 sets 
 
 Chugajstra, vagt, Aim Ana
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakrum/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakrum/)*

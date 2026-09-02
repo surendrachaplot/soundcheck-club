@@ -1,6 +1,6 @@
 # Grande Halle de la Villette
 
-Grande Halle de la Villette is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Gil Scott-Heron by Brian Jackson & Yasiin Bey / Cymande" on Wed, 2 Sept 2026.
+Grande Halle de la Villette is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Gil Scott-Heron by Brian Jackson & Yasiin Bey / Cymande" on Wed, 2 Sept 2026.
 
 Grande Halle de la Villette is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Kokoroko. Browse upcoming dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
 
@@ -17,4 +17,4 @@ Grande Halle de la Villette is a music venue in Paris listed on soundcheck. 4 up
 
 211 avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/grande-halle-de-la-villette/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/grande-halle-de-la-villette/)*

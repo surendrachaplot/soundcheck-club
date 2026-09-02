@@ -1,6 +1,6 @@
 # Bogeyman
 
-Bogeyman is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Bar15, Stockholm on Sat, 10 Oct 2026.
+Bogeyman is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bar15, Stockholm on Sat, 10 Oct 2026.
 
 Bogeyman is a house and disco artist based in Sweden, tracked on soundcheck, with 2 sets logged across Stockholm. Often billed alongside Davide Dev, Kapote and Silja Ellis. Next up: Bar15, Stockholm on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Bogeyman is a house and disco artist based in Sweden, tracked on soundcheck, wit
 
 Davide Dev, Kapote, Silja Ellis
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bogeyman/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bogeyman/)*

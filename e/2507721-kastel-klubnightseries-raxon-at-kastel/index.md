@@ -1,6 +1,6 @@
 # Kastel #KLUBNIGHTSERIES: Raxon at Kastel
 
-Kastel #KLUBNIGHTSERIES: Raxon on Sat 5 Sept, Istanbul. 1 act on the bill: Raxon. House. Preview the line-up and save it on soundcheck.
+Kastel #KLUBNIGHTSERIES: Raxon on Sat 5 Sept, Istanbul. 3 acts on the bill: OZBEK, Raxon and Ymir. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Kastel #KLUBNIGHTSERIES: Raxon on Sat 5 Sept, Istanbul. 1 act on the bill: Raxon
 
 ## Line-up
 
+- OZBEK
 - Raxon
+- Ymir
 
 *Source: [soundcheck](https://soundcheck.club/e/2507721-kastel-klubnightseries-raxon-at-kastel/)*

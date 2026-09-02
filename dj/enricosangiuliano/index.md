@@ -1,6 +1,6 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Enrico Sangiuliano is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Enrico Sangiuliano is a techno and house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Joseph Capriati. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Enrico Sangiuliano is a techno and house artist tracked on soundcheck, with 102 
 
 Charlotte de Witte, Anfisa Letyago, Joseph Capriati
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*

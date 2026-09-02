@@ -1,6 +1,6 @@
 # Take1More
 
-Take1More is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
+Take1More is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
 Take1More is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Bucharest, London and Munich and 1 more. Often billed alongside Erica (IT), Jonas Lesitoc and DA NA. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Take1More is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Erica (IT), Jonas Lesitoc, DA NA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/take1more/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/take1more/)*

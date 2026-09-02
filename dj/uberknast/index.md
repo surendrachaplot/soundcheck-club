@@ -1,6 +1,6 @@
 # UBER KNAST
 
-UBER KNAST is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Culture Box, Copenhagen on Sat, 10 Oct 2026.
+UBER KNAST is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Culture Box, Copenhagen on Sat, 10 Oct 2026.
 
 UBER KNAST is a techno and trance artist based in Denmark, tracked on soundcheck, with 17 sets logged across Copenhagen. Often billed alongside CF682, Dr. Dextro and Kardinal Bertram. Next up: Culture Box, Copenhagen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ UBER KNAST is a techno and trance artist based in Denmark, tracked on soundcheck
 
 CF682, Dr. Dextro, Kardinal Bertram
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uberknast/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uberknast/)*

@@ -1,6 +1,6 @@
 # Quicktastic
 
-Quicktastic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cara Cara Club, Chicago on Thu, 3 Sept 2026.
+Quicktastic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Cara Cara Club, Chicago on Thu, 3 Sept 2026.
 
 Quicktastic is a house and deep house artist tracked on soundcheck, with 170 sets logged across Chicago and Losangeles. Often billed alongside Jillian x, CTRLZORA and Emmaculate. Next up: Cara Cara Club, Chicago on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Quicktastic is a house and deep house artist tracked on soundcheck, with 170 set
 
 Jillian x, CTRLZORA, Emmaculate
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quicktastic/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quicktastic/)*

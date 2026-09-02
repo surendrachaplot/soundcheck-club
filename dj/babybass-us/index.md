@@ -1,6 +1,6 @@
 # Baby Bass
 
-Baby Bass is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Studio 60, Miami on Fri, 4 Sept 2026.
+Baby Bass is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Studio 60, Miami on Fri, 4 Sept 2026.
 
 Baby Bass is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Miami and Washingtondc. Often billed alongside Alan Epps, CVT MVNSION and Chriz Javey. Next up: Studio 60, Miami on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Baby Bass is a house and tech house artist based in United States of America, tr
 
 Alan Epps, CVT MVNSION, Chriz Javey
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babybass-us/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babybass-us/)*

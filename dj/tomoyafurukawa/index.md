@@ -1,6 +1,6 @@
 # Tomoya Furukawa
 
-Tomoya Furukawa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at BAR Inc, Osaka on Sun, 13 Sept 2026.
+Tomoya Furukawa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at BAR Inc, Osaka on Sun, 13 Sept 2026.
 
 Tomoya Furukawa is a techno and house artist based in Japan, tracked on soundcheck, with 18 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, Kohei and MiTSUYAS. Next up: BAR Inc, Osaka on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Tomoya Furukawa is a techno and house artist based in Japan, tracked on soundche
 
 AOKI takamasa, Kohei, MiTSUYAS
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoyafurukawa/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomoyafurukawa/)*

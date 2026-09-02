@@ -1,6 +1,6 @@
 # Gvantsky
 
-Gvantsky is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 4 Sept 2026.
+Gvantsky is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 4 Sept 2026.
 
 Gvantsky is a house and techno artist tracked on soundcheck, with 20 sets logged across Dublin, Newyorkcity, Philadelphia and Tbilisi. Often billed alongside Keen, Mr. Murray and Francisco Collazo. Next up: Mtkvarze, Tbilisi on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Gvantsky is a house and techno artist tracked on soundcheck, with 20 sets logged
 
 Keen, Mr. Murray, Francisco Collazo
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gvantsky/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gvantsky/)*

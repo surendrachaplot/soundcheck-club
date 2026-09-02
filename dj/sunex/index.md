@@ -1,6 +1,6 @@
 # SunēX
 
-SunēX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Nice N Sleazy, Glasgow on Sat, 10 Oct 2026.
+SunēX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Nice N Sleazy, Glasgow on Sat, 10 Oct 2026.
 
 SunēX is a techno and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Glasgow. Often billed alongside ITEM9, Frank Grime and TiLA. Next up: Nice N Sleazy, Glasgow on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ SunēX is a techno and house artist based in United Kingdom, tracked on soundche
 
 ITEM9, Frank Grime, TiLA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunex/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunex/)*

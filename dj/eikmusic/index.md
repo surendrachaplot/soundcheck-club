@@ -1,6 +1,6 @@
 # EIK music
 
-EIK music is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 19 Sept 2026.
+EIK music is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 19 Sept 2026.
 
 EIK music is a techno and house artist tracked on soundcheck, with 31 sets logged across Berlin, Cologne and Frankfurt. Often billed alongside justUS, Katzengold and vom Feisten. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ EIK music is a techno and house artist tracked on soundcheck, with 31 sets logge
 
 justUS, Katzengold, vom Feisten
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eikmusic/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eikmusic/)*

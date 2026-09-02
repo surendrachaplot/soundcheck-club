@@ -1,6 +1,6 @@
 # Phil Kamp
 
-Phil Kamp is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Pimpernel, Munich on Wed, 23 Sept 2026.
+Phil Kamp is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pimpernel, Munich on Wed, 23 Sept 2026.
 
 Phil Kamp is a house and electro artist based in Germany, tracked on soundcheck, with 33 sets logged across Munich. Often billed alongside Roberto Sotgia, DJ Hell and Sonson. Next up: Pimpernel, Munich on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Phil Kamp is a house and electro artist based in Germany, tracked on soundcheck,
 
 Roberto Sotgia, DJ Hell, Sonson
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philkamp/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philkamp/)*

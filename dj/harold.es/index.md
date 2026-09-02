@@ -1,6 +1,6 @@
 # harold. (ES)
 
-harold. (ES) is a Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Rastro Live Studio, Madrid on Fri, 25 Sept 2026.
+harold. (ES) is a Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Rastro Live Studio, Madrid on Fri, 25 Sept 2026.
 
 harold. (ES) is an electro artist based in Spain, tracked on soundcheck, with 5 sets logged across Berlin and Madrid. Often billed alongside AERAE, Andrae Durden and Arthur Baron. Next up: Rastro Live Studio, Madrid on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ harold. (ES) is an electro artist based in Spain, tracked on soundcheck, with 5 
 
 AERAE, Andrae Durden, Arthur Baron
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harold.es/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harold.es/)*

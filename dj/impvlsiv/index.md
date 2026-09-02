@@ -1,6 +1,6 @@
 # IMPVLSIV
 
-IMPVLSIV is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+IMPVLSIV is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 IMPVLSIV is a techno and electro artist tracked on soundcheck, with 128 sets logged across Athens and Berlin. Often billed alongside DΛS, 118119 and BMSK. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ IMPVLSIV is a techno and electro artist tracked on soundcheck, with 128 sets log
 
 DΛS, 118119, BMSK
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/impvlsiv/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/impvlsiv/)*

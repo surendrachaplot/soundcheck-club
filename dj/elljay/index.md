@@ -1,6 +1,6 @@
 # Elljay
 
-Elljay is a Jungle and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Lauschangriff, Berlin on Thu, 3 Sept 2026.
+Elljay is a Jungle and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lauschangriff, Berlin on Thu, 3 Sept 2026.
 
 Elljay is a jungle and ambient artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Tsanni, DJ Chromz and Eklekt1k. Next up: Lauschangriff, Berlin on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ Elljay is a jungle and ambient artist tracked on soundcheck, with 5 sets logged 
 
 Tsanni, DJ Chromz, Eklekt1k
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elljay/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elljay/)*

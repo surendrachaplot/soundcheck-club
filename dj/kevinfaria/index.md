@@ -1,6 +1,6 @@
 # Kevin Faria
 
-Kevin Faria is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Vertigo, Toronto on Fri, 4 Sept 2026.
+Kevin Faria is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Vertigo, Toronto on Fri, 4 Sept 2026.
 
 Kevin Faria is a tech house and house artist tracked on soundcheck, with 10 sets logged across Toronto. Often billed alongside Addy, Farouki and Manzone & Strong. Next up: Vertigo, Toronto on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Kevin Faria is a tech house and house artist tracked on soundcheck, with 10 sets
 
 Addy, Farouki, Manzone & Strong
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinfaria/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinfaria/)*

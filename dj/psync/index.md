@@ -1,6 +1,6 @@
 # Psync
 
-Psync is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Cabaret Voltaire, Edinburgh on Thu, 10 Sept 2026.
+Psync is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Cabaret Voltaire, Edinburgh on Thu, 10 Sept 2026.
 
 Psync is a techno and tech house artist tracked on soundcheck, with 4 sets logged across Edinburgh and Glasgow. Often billed alongside Avyakt, Daniel Hive and McGowski. Next up: Cabaret Voltaire, Edinburgh on Thu 10 Sept.
 
@@ -20,4 +20,4 @@ Psync is a techno and tech house artist tracked on soundcheck, with 4 sets logge
 
 Avyakt, Daniel Hive, McGowski
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/psync/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/psync/)*

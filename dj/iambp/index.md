@@ -1,6 +1,6 @@
 # IAMBP
 
-IAMBP is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Le 6b, Paris on Sat, 19 Sept 2026.
+IAMBP is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Le 6b, Paris on Sat, 19 Sept 2026.
 
 IAMBP is an electro and house artist tracked on soundcheck, with 85 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 14 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: Le 6b, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ IAMBP is an electro and house artist tracked on soundcheck, with 85 sets logged 
 
 HearThug, Occibel, Alyhas
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*

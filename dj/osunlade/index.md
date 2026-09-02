@@ -1,6 +1,6 @@
 # Osunlade
 
-Osunlade is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Djoon, Paris on Sun, 6 Sept 2026.
+Osunlade is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Djoon, Paris on Sun, 6 Sept 2026.
 
 Osunlade is a house and deep house artist tracked on soundcheck, with 74 sets logged across Berlin, Detroit, Galway and Geneva and 19 more. Often billed alongside Kyri R2, Natasha Diggs and Kapela. Next up: Djoon, Paris on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Osunlade is a house and deep house artist tracked on soundcheck, with 74 sets lo
 
 Kyri R2, Natasha Diggs, Kapela
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osunlade/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osunlade/)*

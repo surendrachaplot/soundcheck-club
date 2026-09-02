@@ -1,8 +1,8 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Gate Milano, Milan on Fri, 11 Sept 2026.
+Vendex is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gate Milano, Milan on Fri, 11 Sept 2026.
 
-Vendex is a techno and industrial artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 60 more. Often billed alongside CARV, DYEN and Alignment. Next up: Gate Milano, Milan on Fri 11 Sept.
+Vendex is a techno and industrial artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 60 more. Often billed alongside CARV, DYEN and Alignment. Next up: Gate Milano, Milan on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Vendex is a techno and industrial artist tracked on soundcheck, with 188 sets lo
 | Sat, 12 Sept 2026 | The Limelight | Belfast |
 | Fri, 2 Oct 2026 | Edelfettwerk | Hamburg |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
+| Sat, 14 Nov 2026 | Spook Club | Valencia |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Vendex is a techno and industrial artist tracked on soundcheck, with 188 sets lo
 
 CARV, DYEN, Alignment
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*

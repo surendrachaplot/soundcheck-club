@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Twitch live with zamvoil" on Tue, 1 Sept 2026.
+BASEMENT is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Quelza / Takaaki Itoh / ketia / Tommy Hart / Sevyn" on Fri, 4 Sept 2026.
 
-BASEMENT is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including LYDO, AIDA (CA), Alinka and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including LYDO, AIDA (CA), Alinka and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 1 Sept 2026 | Twitch live with zamvoil |  |
 | Fri, 4 Sept 2026 | Quelza / Takaaki Itoh / ketia / Tommy Hart / Sevyn | Quelza, Sevyn, Takaaki Itoh, Tommy Hart, ketia |
 | Sat, 5 Sept 2026 | Stef Mendesidis live / Sera J / LYDO / The Carry Nation / AIDA / SENERGI | AIDA (CA), LYDO, SENERGI, Sera J, Stef Mendesidis, The Carry Nation |
 | Fri, 11 Sept 2026 | Ogazón / Sol Ortega / Lauren Flax / BASHKKA / PARAMIDA / Fundido | BASHKKA, Fundido, Lauren Flax, Ogazón, PARAMIDA, Sol Ortega |
@@ -22,4 +21,4 @@ BASEMENT is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

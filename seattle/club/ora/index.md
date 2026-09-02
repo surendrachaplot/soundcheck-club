@@ -1,6 +1,6 @@
 # Ora
 
-Ora is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Sequence Six" on Fri, 4 Sept 2026.
+Ora is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Sequence Six" on Fri, 4 Sept 2026.
 
 Ora is a music venue in Seattle listed on soundcheck. 4 upcoming nights, with line-ups including BT, Richard Durand and Sequence Six. Browse upcoming dates, start times and who's playing. 2330 1st Avenue, Seattle, WA 98121, USA.
 
@@ -17,4 +17,4 @@ Ora is a music venue in Seattle listed on soundcheck. 4 upcoming nights, with li
 
 2330 1st Avenue, Seattle, WA 98121, USA, Seattle
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/ora/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/ora/)*

@@ -1,6 +1,6 @@
 # 1client
 
-1client is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
+1client is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
 
 1client is a techno and house artist based in France, tracked on soundcheck, with 18 sets logged across Lyon and Strasbourg. Often billed alongside Makar, Pacôme Orzi and wilt. Next up: Manufacture des Tabacs - Strasbourg, Strasbourg on Thu 3 Sept.
 
@@ -25,4 +25,4 @@
 
 Makar, Pacôme Orzi, wilt
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1client/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1client/)*

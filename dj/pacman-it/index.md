@@ -1,6 +1,6 @@
 # PacMan (IT)
 
-PacMan (IT) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at HWK Garden / Terrace, London on Sun, 20 Sept 2026.
+PacMan (IT) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at HWK Garden / Terrace, London on Sun, 20 Sept 2026.
 
 PacMan (IT) is a techno artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside Acid Steve, MARIEEEA and TECHSIA. Next up: HWK Garden / Terrace, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ PacMan (IT) is a techno artist tracked on soundcheck, with 11 sets logged across
 
 Acid Steve, MARIEEEA, TECHSIA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacman-it/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacman-it/)*

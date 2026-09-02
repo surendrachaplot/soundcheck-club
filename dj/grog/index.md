@@ -1,6 +1,6 @@
 # Grog
 
-Grog is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Club Makossa, London on Thu, 3 Sept 2026.
+Grog is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club Makossa, London on Thu, 3 Sept 2026.
 
 Grog is a house and drum & bass artist tracked on soundcheck, with 5 sets logged across Berlin and London. Often billed alongside ADHDj (UK), Alec Falconer and Anthea. Next up: Club Makossa, London on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ Grog is a house and drum & bass artist tracked on soundcheck, with 5 sets logged
 
 ADHDj (UK), Alec Falconer, Anthea
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grog/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grog/)*

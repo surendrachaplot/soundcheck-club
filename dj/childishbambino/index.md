@@ -1,6 +1,6 @@
 # CHILDISH BAMBINO
 
-CHILDISH BAMBINO is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Malzfabrik, Berlin on Sat, 5 Sept 2026.
+CHILDISH BAMBINO is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Malzfabrik, Berlin on Sat, 5 Sept 2026.
 
 CHILDISH BAMBINO is a dubstep and bass artist based in Turkey, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Comf, DJ Shannon and Flemish.Fetish. Next up: Malzfabrik, Berlin on Sat 5 Sept.
 
@@ -18,4 +18,4 @@ CHILDISH BAMBINO is a dubstep and bass artist based in Turkey, tracked on soundc
 
 Comf, DJ Shannon, Flemish.Fetish
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/childishbambino/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/childishbambino/)*

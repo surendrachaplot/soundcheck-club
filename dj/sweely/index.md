@@ -1,6 +1,6 @@
 # Sweely
 
-Sweely is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at La Terrrazza, Barcelona on Sat, 5 Sept 2026.
+Sweely is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at La Terrrazza, Barcelona on Sat, 5 Sept 2026.
 
 Sweely is a house and techno artist tracked on soundcheck, with 172 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 45 more. Often billed alongside Enzo Siragusa, The Ghost and Traumer. Next up: La Terrrazza, Barcelona on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Sweely is a house and techno artist tracked on soundcheck, with 172 sets logged 
 
 Enzo Siragusa, The Ghost, Traumer
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*

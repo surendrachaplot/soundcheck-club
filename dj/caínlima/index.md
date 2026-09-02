@@ -1,6 +1,6 @@
 # Caín Lima
 
-Caín Lima is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Market Hotel, New York City on Fri, 4 Sept 2026.
+Caín Lima is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Market Hotel, New York City on Fri, 4 Sept 2026.
 
 Caín Lima is a club and techno artist based in Peru, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside DJ DEADNAME, thembow and ANNA PURA. Next up: Market Hotel, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Caín Lima is a club and techno artist based in Peru, tracked on soundcheck, wit
 
 DJ DEADNAME, thembow, ANNA PURA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caínlima/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caínlima/)*

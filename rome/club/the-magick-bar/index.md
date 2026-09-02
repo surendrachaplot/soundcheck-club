@@ -1,14 +1,13 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 8 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Jungle at Magick bar with Franzoh" on Tue, 1 Sept 2026.
+THE MAGICK BAR is a music venue in Rome with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Rebel Rebel with Zero, Dj Taxxi, Federica Sco, Bonax" on Wed, 2 Sept 2026.
 
-THE MAGICK BAR is a music venue in Rome listed on soundcheck. 8 upcoming nights, with line-ups including Allegra De Angelis, Brasi, D-Leria and Dj Dune and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
+THE MAGICK BAR is a music venue in Rome listed on soundcheck. 7 upcoming nights, with line-ups including Allegra De Angelis, Brasi, D-Leria and Dj Dune and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 1 Sept 2026 | Jungle at Magick bar with Franzoh | Franzoh, Matteo Canori, Nadir____ |
 | Wed, 2 Sept 2026 | Rebel Rebel with Zero, Dj Taxxi, Federica Sco, Bonax | Zero |
 | Thu, 3 Sept 2026 | Singularity | D-Leria, Kongas, Ritope |
 | Fri, 4 Sept 2026 | Anarchy In The Club with Brasi, Sohrab, Luc, Dj Dune, Simona Beat, Gabor | Brasi, Dj Dune, Luc (1), Simona Beat, Sohrab |
@@ -21,4 +20,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 8 upcoming nights,
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

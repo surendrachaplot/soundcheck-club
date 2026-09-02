@@ -1,6 +1,6 @@
 # Noah Tauber
 
-Noah Tauber is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
+Noah Tauber is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
 
 Noah Tauber is a techno and dub techno artist tracked on soundcheck, with 27 sets logged across Berlin, Glasgow, Hamburg and Lisbon and 3 more. Often billed alongside nohexcode, Ylia (UK) and CITYTRONIX. Next up: Algha's Plantroom, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Noah Tauber is a techno and dub techno artist tracked on soundcheck, with 27 set
 
 nohexcode, Ylia (UK), CITYTRONIX
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noahtauber/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noahtauber/)*

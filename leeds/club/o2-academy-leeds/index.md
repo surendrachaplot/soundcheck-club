@@ -1,6 +1,6 @@
 # O2 Academy Leeds
 
-O2 Academy Leeds is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "4am Kru (Live), Becking, Fez the Kid b2b Bruk & Silva Snipa" on Fri, 9 Oct 2026.
+O2 Academy Leeds is a music venue in Leeds with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "4am Kru (Live), Becking, Fez the Kid b2b Bruk & Silva Snipa" on Fri, 9 Oct 2026.
 
 O2 Academy Leeds is a music venue in Leeds listed on soundcheck. 1 upcoming night, with line-ups including 4am Kru, Becking, Fez the Kid and Silva Snipa. Browse upcoming dates, start times and who's playing. 55 Cookridge Street; Leeds; LS2 3AW; United Kingdom.
 
@@ -14,4 +14,4 @@ O2 Academy Leeds is a music venue in Leeds listed on soundcheck. 1 upcoming nigh
 
 55 Cookridge Street; Leeds; LS2 3AW; United Kingdom, Leeds
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/o2-academy-leeds/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/o2-academy-leeds/)*

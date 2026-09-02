@@ -1,6 +1,6 @@
 # Rumore Nightclub Capri
 
-Rumore Nightclub Capri is a music venue in Naples with 4 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Rumore Season 26 Party N°42 W/ Jonny Rock & Gabriele Russo" on Sat, 5 Sept 2026.
+Rumore Nightclub Capri is a music venue in Naples with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Rumore Season 26 Party N°42 W/ Jonny Rock & Gabriele Russo" on Sat, 5 Sept 2026.
 
 Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 4 upcoming nights, with line-ups including Céline, Gabriele Russo, Jonny Rock and Pascal Moscheni and 1 more. Browse upcoming dates, start times and who's playing. Via Roma 71, 80073, Capri, Italy.
 
@@ -17,4 +17,4 @@ Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 4 upcomi
 
 Via Roma 71, 80073, Capri, Italy, Naples
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rumore-nightclub-capri/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rumore-nightclub-capri/)*

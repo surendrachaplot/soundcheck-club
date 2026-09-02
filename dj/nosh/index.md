@@ -1,6 +1,6 @@
 # Nosh
 
-Nosh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Bar Datcha, Montreal on Fri, 4 Sept 2026.
+Nosh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bar Datcha, Montreal on Fri, 4 Sept 2026.
 
 Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 19 sets logged across Montreal, Tbilisi, Tokyo and Toronto. Often billed alongside dawny, Fate (2) and Kiju. Next up: Bar Datcha, Montreal on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 1
 
 dawny, Fate (2), Kiju
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*

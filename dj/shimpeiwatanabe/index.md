@@ -1,6 +1,6 @@
 # Shimpei Watanabe
 
-Shimpei Watanabe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 16 Oct 2026.
+Shimpei Watanabe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 16 Oct 2026.
 
 Shimpei Watanabe is a house and techno artist tracked on soundcheck, with 97 sets logged across Tokyo. Often billed alongside Yuta Yamada, judgeman and ISPA. Next up: MIDNIGHT EAST, Tokyo on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Shimpei Watanabe is a house and techno artist tracked on soundcheck, with 97 set
 
 Yuta Yamada, judgeman, ISPA
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimpeiwatanabe/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimpeiwatanabe/)*

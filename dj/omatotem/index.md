@@ -1,6 +1,6 @@
 # oma totem
 
-oma totem is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Nouveau Parc des Berges, Lyon on Sat, 12 Sept 2026.
+oma totem is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nouveau Parc des Berges, Lyon on Sat, 12 Sept 2026.
 
 oma totem is a techno and electronica artist tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 14 more. Often billed alongside mad miran, Lena Willikens and Phran. Next up: Nouveau Parc des Berges, Lyon on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ oma totem is a techno and electronica artist tracked on soundcheck, with 62 sets
 
 mad miran, Lena Willikens, Phran
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omatotem/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omatotem/)*

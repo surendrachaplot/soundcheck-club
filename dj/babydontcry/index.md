@@ -1,6 +1,6 @@
 # BABY DON’T CRY
 
-BABY DON’T CRY is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Atdge Seoul, Seoul on Sat, 12 Sept 2026.
+BABY DON’T CRY is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Atdge Seoul, Seoul on Sat, 12 Sept 2026.
 
 BABY DON’T CRY is a techno and minimal techno artist tracked on soundcheck, with 11 sets logged across Seoul. Often billed alongside Boyoon, Hyerang and Kyper. Next up: Atdge Seoul, Seoul on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ BABY DON’T CRY is a techno and minimal techno artist tracked on soundcheck, wi
 
 Boyoon, Hyerang, Kyper
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babydontcry/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babydontcry/)*

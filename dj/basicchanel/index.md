@@ -1,6 +1,6 @@
 # basic chanel
 
-basic chanel is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at Sauna Social Club, London on Sat, 5 Sept 2026.
+basic chanel is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sauna Social Club, London on Sat, 5 Sept 2026.
 
 basic chanel is a techno and dub techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Brussels and London and 1 more. Often billed alongside Allecto, Cam Joon and Ehua. Next up: Sauna Social Club, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ basic chanel is a techno and dub techno artist tracked on soundcheck, with 39 se
 
 Allecto, Cam Joon, Ehua
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*

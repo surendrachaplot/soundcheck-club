@@ -1,6 +1,6 @@
 # Randoma
 
-Randoma is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 1 Sept 2026, next at Planet Wax, London on Sat, 21 Nov 2026.
+Randoma is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Sat, 21 Nov 2026.
 
 Randoma is a drum & bass and jungle artist tracked on soundcheck, with 21 sets logged across Brighton, Bristol and London. Often billed alongside JAY-MO, Bluck and SAVANNAH. Next up: Planet Wax, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Randoma is a drum & bass and jungle artist tracked on soundcheck, with 21 sets l
 
 JAY-MO, Bluck, SAVANNAH
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randoma/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randoma/)*

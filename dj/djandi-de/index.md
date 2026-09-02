@@ -1,6 +1,6 @@
 # Dj Andi
 
-Dj Andi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 1 Sept 2026, next at ÆDEN, Berlin on Sat, 5 Sept 2026.
+Dj Andi is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at ÆDEN, Berlin on Sat, 5 Sept 2026.
 
 Dj Andi is a house and techno artist tracked on soundcheck, with 18 sets logged across Berlin, Bucharest, Cologne and Saopaulo. Often billed alongside Ravejezuz, Techmo and Thielking. Next up: ÆDEN, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Dj Andi is a house and techno artist tracked on soundcheck, with 18 sets logged 
 
 Ravejezuz, Techmo, Thielking
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi-de/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi-de/)*

@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 1 upcoming night listed on soundcheck as of Tue, 1 Sept 2026; the next is "PUMP • Gay - Queer - Open-minded" on Sat, 5 Sept 2026.
+Lehmann Club is a music venue in Stuttgart with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "PUMP • Gay - Queer - Open-minded" on Sat, 5 Sept 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 1 upcoming night, with line-ups including Ben Hille, Femcat, SYMON and Tom Peters. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -14,4 +14,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 1 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

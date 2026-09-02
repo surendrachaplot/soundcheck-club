@@ -1,6 +1,6 @@
 # The Lucky Cat
 
-The Lucky Cat is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Tue, 1 Sept 2026; the next is "Phil Smart 4 hours, Ben Nott & Punch Vibration at Lucky Cat" on Fri, 4 Sept 2026.
+The Lucky Cat is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Phil Smart 4 hours, Ben Nott & Punch Vibration at Lucky Cat" on Fri, 4 Sept 2026.
 
 The Lucky Cat is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Just Seba. Browse upcoming dates, start times and who's playing. Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales.
 
@@ -16,4 +16,4 @@ The Lucky Cat is a music venue in Sydney listed on soundcheck. 3 upcoming nights
 
 Level 1, 77 Oxford St, Darlinghurst, Darlinghurst, NSW, Australia, New South Wales, Sydney
 
-*Updated Tue, 1 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-lucky-cat/)*
