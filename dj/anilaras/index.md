@@ -1,8 +1,8 @@
 # Anil Aras
 
-Anil Aras is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Anil Aras is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
-Anil Aras is a house and tech house artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Dennis Quin, M-High and Prunk. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
+Anil Aras is a house and tech house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 13 more. Often billed alongside Dennis Quin, M-High and Prunk. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Anil Aras is a house and tech house artist tracked on soundcheck, with 80 sets l
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
+| Sat, 31 Oct 2026 | The Nest | Nottingham |
 
 ## Recently played
 

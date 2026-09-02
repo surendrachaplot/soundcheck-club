@@ -9,7 +9,7 @@ Adam Des is a techno artist tracked on soundcheck, with 20 sets logged across At
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | B side Athens | Athens |
-| Sun, 6 Sept 2026 | TBA | Athens |
+| Sun, 6 Sept 2026 | TBA - UPON REGISTRATION | Athens |
 | Fri, 11 Sept 2026 | AUX Club | Athens |
 
 ## Recently played

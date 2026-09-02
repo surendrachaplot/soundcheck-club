@@ -13,7 +13,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 29 upcoming ni
 | Fri, 4 Sept 2026 | Hot Mess: Queer Dance Party | Simonotron |
 | Sat, 5 Sept 2026 | Hand-made with Love: Aldonna | Aldonna, Hand-made |
 | Sun, 6 Sept 2026 | Postal: Clean Up Birthday Party | Clean Up Crew (2) |
-| Tue, 8 Sept 2026 | RARE Club // Georj + Mixfits | Georj, Mixfits (2) |
+| Tue, 8 Sept 2026 | RARE Club // Georj + Mixfits | Georj, Georj (2), Mixfits (2) |
 | Thu, 10 Sept 2026 | Refracta & Pals | Refracta |
 | Fri, 11 Sept 2026 | Palidrone: Neffa-T | Dansa, Neffa-T |
 | Sat, 12 Sept 2026 | Volens Chorus: 7th Birthday | Buckfast Barbie, Casement, Cowboy erp, Lara Sinclair, Quarterpoundernocheese, SKIMUDA, Sea Urchin |

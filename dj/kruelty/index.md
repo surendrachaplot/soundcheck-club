@@ -1,8 +1,8 @@
 # KRUELTY
 
-KRUELTY is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Brooklyn Storehouse, New York City on Sun, 6 Sept 2026.
+KRUELTY is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Brooklyn Storehouse, New York City on Sun, 6 Sept 2026.
 
-KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside KLOFAMA, KARAH and SLVL. Next up: Brooklyn Storehouse, Newyorkcity on Sun 6 Sept.
+KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside KLOFAMA, KARAH and SLVL. Next up: Brooklyn Storehouse, Newyorkcity on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ KRUELTY is a techno and hardcore artist based in Netherlands, tracked on soundch
 | Sat, 10 Oct 2026 | The Telegraph Building | Belfast |
 | Fri, 23 Oct 2026 | Nxt Museum | Amsterdam |
 | Sat, 24 Oct 2026 | Fabrik | Madrid |
+| Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
 
 ## Recently played
 

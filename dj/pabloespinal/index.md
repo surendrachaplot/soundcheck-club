@@ -1,8 +1,8 @@
 # Pablo Espinal
 
-Pablo Espinal is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at DNA. CLUB, Berlin on Sat, 26 Sept 2026.
+Pablo Espinal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at DNA. CLUB, Berlin on Sat, 26 Sept 2026.
 
-Pablo Espinal is an electronic artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside LUPENKO, Tiem and Blck-Swan. Next up: DNA. CLUB, Berlin on Sat 26 Sept.
+Pablo Espinal is a house and techno artist tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside LUPENKO, Tiem and Blck-Swan. Next up: DNA. CLUB, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 

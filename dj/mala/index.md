@@ -1,8 +1,8 @@
 # Mala
 
-Mala is a Dubstep and Bass artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Slaktkyrkan, Stockholm on Fri, 4 Sept 2026.
+Mala is a Dubstep and Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Slaktkyrkan, Stockholm on Fri, 4 Sept 2026.
 
-Mala is a dubstep and bass artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 38 more. Often billed alongside Mia Koden, SGT Pokes and CCL. Next up: Slaktkyrkan, Stockholm on Fri 4 Sept.
+Mala is a dubstep and bass artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Mia Koden, SGT Pokes and CCL. Next up: Slaktkyrkan, Stockholm on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Mala is a dubstep and bass artist tracked on soundcheck, with 105 sets logged ac
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Fri, 2 Oct 2026 | The Compound by Dirt Dog | Los Angeles |
 | Fri, 30 Oct 2026 | Ampere | Munich |
+| Sat, 7 Nov 2026 | Open Ground | Wuppertal |
 
 ## Recently played
 

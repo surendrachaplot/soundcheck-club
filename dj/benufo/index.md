@@ -13,7 +13,7 @@ Ben UFO is a techno and house artist tracked on soundcheck, with 232 sets logged
 | Sat, 5 Sept 2026 | Under the K Bridge | New York City |
 | Sat, 5 Sept 2026 | TBA | Miami |
 | Sun, 6 Sept 2026 | Floyd | Miami |
-| Fri, 11 Sept 2026 | Mooi Space | Toronto |
+| Fri, 11 Sept 2026 | TBA | Toronto |
 | Sat, 19 Sept 2026 | Holocene | Portland |
 | Fri, 25 Sept 2026 | Art Club | Houston |
 | Fri, 25 Sept 2026 | Art Club | Houston |

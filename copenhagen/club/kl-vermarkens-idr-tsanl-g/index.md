@@ -1,6 +1,6 @@
 # Kløvermarkens Idrætsanlæg
 
-Kløvermarkens Idrætsanlæg is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "BACK TO MOTION" on Sat, 12 Sept 2026.
+Kløvermarkens Idrætsanlæg is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "BACK 2 MOTION" on Sat, 12 Sept 2026.
 
 Kløvermarkens Idrætsanlæg is a music venue in Copenhagen listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Kløvermarksvej 50, 2300 København S.
 
@@ -8,7 +8,7 @@ Kløvermarkens Idrætsanlæg is a music venue in Copenhagen listed on soundcheck
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | BACK TO MOTION |  |
+| Sat, 12 Sept 2026 | BACK 2 MOTION |  |
 
 ## Address
 

@@ -9,7 +9,7 @@ VSSLS is a techno and hardcore artist tracked on soundcheck, with 52 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | B side Athens | Athens |
-| Sun, 6 Sept 2026 | TBA | Athens |
+| Sun, 6 Sept 2026 | TBA - UPON REGISTRATION | Athens |
 
 ## Recently played
 

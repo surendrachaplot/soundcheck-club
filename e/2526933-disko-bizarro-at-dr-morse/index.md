@@ -1,6 +1,6 @@
 # Disko Bizarro at Dr Morse
 
-Disko Bizarro at Dr Morse on Sat 5 Sept, Melbourne. Disco and Balearic. Preview the line-up and save it on soundcheck.
+Disko Bizarro at Dr Morse on Sat 5 Sept, Melbourne. Balearic and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

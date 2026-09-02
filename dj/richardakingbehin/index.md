@@ -1,8 +1,8 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Richard Akingbehin is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
-Richard Akingbehin is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Tikiman, Fadi Mohem and livwutang. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
+Richard Akingbehin is a house and techno artist tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Tikiman, Fadi Mohem and livwutang. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Richard Akingbehin is a house and techno artist tracked on soundcheck, with 131 
 | Fri, 11 Sept 2026 | UMI | Brussels |
 | Sun, 20 Sept 2026 | TBA | Montreal |
 | Fri, 25 Sept 2026 | OHM | Berlin |
+| Sat, 26 Sept 2026 | Open Ground | Wuppertal |
 | Fri, 16 Oct 2026 | Gaffe | London |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |

@@ -1,14 +1,15 @@
 # Joe Cotch
 
-Joe Cotch is a Experimental and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
+Joe Cotch is a Guaracha and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
 
-Joe Cotch is an experimental and dancehall artist tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Geneva and London. Often billed alongside Authentically Plastic, Bclip and DJ Lycox. Next up: Bermondsey Triangle, London on Sat 26 Sept.
+Joe Cotch is a guaracha and experimental artist tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Geneva and London. Often billed alongside Authentically Plastic, Bclip and DJ Lycox. Next up: Bermondsey Triangle, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Bermondsey Triangle | London |
+| Thu, 1 Oct 2026 | Ormside Projects | London |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at FOLD, London on Fri, 4 Sept 2026.
+Rene Wise is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at FOLD, London on Fri, 4 Sept 2026.
 
-Rene Wise is a techno and house artist tracked on soundcheck, with 245 sets logged across Amsterdam, Athens, Austin and Barcelona and 70 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: FOLD, London on Fri 4 Sept.
+Rene Wise is a techno and house artist tracked on soundcheck, with 246 sets logged across Amsterdam, Athens, Austin and Barcelona and 71 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: FOLD, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | FOLD | London |
+| Sat, 12 Sept 2026 | Open Ground | Wuppertal |
 | Fri, 18 Sept 2026 | essaim | Paris |
 | Sat, 19 Sept 2026 | SMUT Athens | Athens |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
@@ -19,7 +20,6 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 245 sets logg
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
-| Fri, 30 Oct 2026 | Flash | Washington DC |
 
 ## Recently played
 

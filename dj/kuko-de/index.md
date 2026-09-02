@@ -1,8 +1,8 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 20 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Echostage, Washington DC on Fri, 4 Sept 2026.
+KUKO is a Techno and Trance artist with 21 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Echostage, Washington DC on Fri, 4 Sept 2026.
 
-KUKO is a techno and trance artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Echostage, Washingtondc on Fri 4 Sept.
+KUKO is a techno and trance artist tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Echostage, Washingtondc on Fri 4 Sept.
 
 ## Upcoming shows
 

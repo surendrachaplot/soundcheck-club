@@ -13,7 +13,7 @@ Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming nigh
 | Sat, 5 Sept 2026 | Cynosure Night with Matt and Mark Thibideau (live), Andrew Grenville and Mike Shannon | Andrew Greville, Matt Thibideau, Mike Shannon |
 | Thu, 10 Sept 2026 | Art Metropole Afterparty with Juliana Huxtable and 999ADJ | 999ADJ, Juliana Huxtable |
 | Fri, 18 Sept 2026 | Vladimir Ivkovic b2b Yu Su - OPEN to CLOSE | Vladimir Ivkovic, Yu Su |
-| Fri, 25 Sept 2026 | Two Shell and Special Guests presented by Standard Time x Not Dead Yet | Two Shell |
+| Fri, 25 Sept 2026 | Two Shell and Nautiluss presented by Standard Time x Not Dead Yet | Nautiluss, Two Shell |
 | Sat, 26 Sept 2026 | SHANGO featuring John Morales and Kiki LeFreak  | John Morales, Kiki LeFreak |
 | Thu, 1 Oct 2026 | MYRNE (3 Hour Set) at Standard Time | MYRNE |
 | Sun, 4 Oct 2026 | Ciel invites: CCL | CCL, Ciel |

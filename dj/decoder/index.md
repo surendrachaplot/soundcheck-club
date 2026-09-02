@@ -1,8 +1,8 @@
 # Decoder
 
-Decoder is a Techno and Minimal Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Process PDX, Portland on Thu, 10 Sept 2026.
+Decoder is a Techno and Minimal Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Process PDX, Portland on Thu, 10 Sept 2026.
 
-Decoder is a techno and minimal techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Austin and Barcelona and 31 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: Process PDX, Portland on Thu 10 Sept.
+Decoder is a techno and minimal techno artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: Process PDX, Portland on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Decoder is a techno and minimal techno artist tracked on soundcheck, with 88 set
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Process PDX | Portland |
 | Sat, 12 Sept 2026 | TBA - 4211 Todd Ln Suite A | Austin |
+| Fri, 25 Sept 2026 | The Villa | Oslo |
 | Fri, 9 Oct 2026 | The Island | Bristol |
 | Sat, 10 Oct 2026 | FOLD | London |
 | Fri, 30 Oct 2026 | RSO.BERLIN | Berlin |

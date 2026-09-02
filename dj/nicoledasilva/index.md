@@ -1,14 +1,15 @@
 # Nicole da Silva
 
-Nicole da Silva is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Amok Club, Mallorca on Mon, 7 Sept 2026.
+Nicole da Silva is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Amok Club, Mallorca on Mon, 7 Sept 2026.
 
-Nicole da Silva is a house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Cologne, Dusseldorf and Ibiza and 3 more. Often billed alongside Mcfly, BRIGITTE BELLING and Caiiro. Next up: Amok Club, Mallorca on Mon 7 Sept.
+Nicole da Silva is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Cologne, Dusseldorf and Ibiza and 4 more. Often billed alongside Mcfly, BRIGITTE BELLING and Caiiro. Next up: Amok Club, Mallorca on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 7 Sept 2026 | Amok Club | Mallorca |
+| Sat, 12 Sept 2026 | Dockland | Munster |
 
 ## Recently played
 

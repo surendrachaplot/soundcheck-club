@@ -1,14 +1,13 @@
 # Peder Mannerfelt
 
-Peder Mannerfelt is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Spice H2O, Stockholm on Wed, 2 Sept 2026.
+Peder Mannerfelt is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Garage Noord, Amsterdam on Fri, 4 Sept 2026.
 
-Peder Mannerfelt is a techno and bass artist based in Sweden, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 19 more. Often billed alongside Flore, mad miran and Bendik Giske. Next up: Spice H2O, Stockholm on Wed 2 Sept.
+Peder Mannerfelt is a techno and bass artist based in Sweden, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 19 more. Often billed alongside Flore, mad miran and Bendik Giske. Next up: Garage Noord, Amsterdam on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Spice H2O | Stockholm |
 | Fri, 4 Sept 2026 | Garage Noord | Amsterdam |
 | Thu, 24 Sept 2026 | Kildevæld Kulturcenter | Copenhagen |
 | Sat, 3 Oct 2026 | M.O.T | London |

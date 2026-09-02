@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 29 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "elrow" on Wed, 2 Sept 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 28 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Martin Garrix" on Thu, 3 Sept 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 29 upcoming nights, with line-ups including Afrojack, Andrea Oliva, Antares and Bassjackers and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 28 upcoming nights, with line-ups including Afrojack, Andrea Oliva, Antares and Bassjackers and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | elrow |  |
 | Thu, 3 Sept 2026 | Martin Garrix | Benny Benassi, Martin Garrix |
 | Fri, 4 Sept 2026 | Calvin Harris & MK | Calvin Harris, Marc Kinchen |
 | Sat, 5 Sept 2026 | ANTS | Chelina Manuhutu, Dennis Quin, Franky Rizardo, Raul Rodriguez, Riordan |
@@ -18,6 +17,7 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 29 upcoming night
 | Thu, 10 Sept 2026 | Martin Garrix | Justin Mylo, Martin Garrix, R3hab |
 | Fri, 11 Sept 2026 | Calvin Harris & MK | Calvin Harris, Marc Kinchen, OFFAIAH |
 | Sat, 12 Sept 2026 | ANTS | Andrea Oliva, Chelina Manuhutu, Joëlla Jackson, SYREETA |
+| Sun, 13 Sept 2026 | Swedish House Mafia - CLOSING PARTY | Swedish House Mafia |
 
 ## Address
 

@@ -1,16 +1,18 @@
 # Ignez
 
-Ignez is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
+Ignez is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
 
-Ignez is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Athens, Barcelona and Basel and 54 more. Often billed alongside Yanamaste, Inox Traxx and Beste Hira. Next up: KHIDI, Tbilisi on Fri 11 Sept.
+Ignez is a techno and house artist tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Yanamaste, Inox Traxx and Beste Hira. Next up: Junkyard Dortmund, Dortmund-essen on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Junkyard Dortmund | Dortmund-essen |
 | Fri, 11 Sept 2026 | KHIDI | Tbilisi |
 | Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | BASIS | Utrecht |
+| Sat, 19 Sept 2026 | Amp | Munster |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
 | Thu, 24 Sept 2026 | Signal | New York City |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
@@ -18,8 +20,6 @@ Ignez is a techno and house artist tracked on soundcheck, with 186 sets logged a
 | Sat, 3 Oct 2026 | Onyx (E1) | London |
 | Sat, 10 Oct 2026 | Flux | Istanbul |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
-| Thu, 22 Oct 2026 | Levenslang Amsterdam | Amsterdam |
-| Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

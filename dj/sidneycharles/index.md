@@ -1,8 +1,8 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Sidney Charles is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Sidney Charles is a house and tech house artist tracked on soundcheck, with 216 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and L.P. Rhythm. Next up: Union Park, Chicago on Fri 4 Sept.
+Sidney Charles is a house and tech house artist tracked on soundcheck, with 217 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and L.P. Rhythm. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 216 
 | Sun, 20 Sept 2026 | TBA - Estadio Nacional, Ezeiza | Buenos Aires |
 | Fri, 25 Sept 2026 | BRET | Amsterdam |
 | Sat, 26 Sept 2026 | Steelyard Kelham | Sheffield |
+| Sat, 26 Sept 2026 | Binks Yard | Nottingham |
 | Sun, 27 Sept 2026 | 528 Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
-| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 

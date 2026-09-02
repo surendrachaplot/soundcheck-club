@@ -1,8 +1,8 @@
 # Kiki LeFreak
 
-Kiki LeFreak is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Cherry Beach, Toronto on Mon, 7 Sept 2026.
+Kiki LeFreak is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Cherry Beach, Toronto on Mon, 7 Sept 2026.
 
-Kiki LeFreak is a house and disco artist tracked on soundcheck, with 120 sets logged across Chicago, Detroit, Mexicocity and Toronto. Often billed alongside Vjollca, Iced Misto and Jodie D. Next up: Cherry Beach, Toronto on Mon 7 Sept.
+Kiki LeFreak is a house and disco artist tracked on soundcheck, with 121 sets logged across Chicago, Detroit, Mexicocity and Toronto. Often billed alongside Vjollca, Iced Misto and Jodie D. Next up: Cherry Beach, Toronto on Mon 7 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kiki LeFreak is a house and disco artist tracked on soundcheck, with 120 sets lo
 | --- | --- | --- |
 | Mon, 7 Sept 2026 | Cherry Beach | Toronto |
 | Mon, 7 Sept 2026 | TBA - The Junction Neighbourhood  | Toronto |
+| Sat, 12 Sept 2026 | TBA - Bisou (350 Berkeley) | Toronto |
 | Fri, 18 Sept 2026 | Lee's Palace | Toronto |
 | Sat, 19 Sept 2026 | Bambi's | Toronto |
 | Sat, 26 Sept 2026 | Standard Time | Toronto |

@@ -13,7 +13,7 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 26 upcoming ni
 | Fri, 4 Sept 2026 | SMART//CASUAL - gau7t, Orla Halligan, Et Al | Et Al (1), Orla Halligan, gau7t |
 | Sat, 5 Sept 2026 | Burst |  |
 | Sat, 5 Sept 2026 | Patchwork x Foundry - Electro Special | Anna Barrie, Craigen, Decno, Gourlay |
-| Sun, 6 Sept 2026 | KEEP ON with OOFT! & David Barbarossa | David Barbarossa, OOFT |
+| Sun, 6 Sept 2026 | KEEP ON with OOFT! all night long | David Barbarossa, OOFT |
 | Thu, 10 Sept 2026 | Pedestrianism 15: Freshers and Festivals |  |
 | Fri, 11 Sept 2026 | Accelerate Freshers: Danse Atmos // Jenn Gunn | Danse Atmos, Jenn Gunn (2) |
 | Sat, 12 Sept 2026 | A NIGHT OF ITALO DISCO | Anna Gram, Just Rory |

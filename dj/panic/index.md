@@ -1,13 +1,14 @@
 # Panic
 
-Panic is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
+Panic is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
-Panic is a techno and tech house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Cologne, Frankfurt and London and 3 more. Often billed alongside Andrea Guadalupi, Marc Acardipane and Partyraiser. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
+Panic is a techno and tech house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Cologne, Dortmund-essen and Frankfurt and 4 more. Often billed alongside Marc Acardipane, Partyraiser and Act of Rage. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Westfalenhallen | Dortmund-essen |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 
 ## Recently played
@@ -23,6 +24,6 @@ Panic is a techno and tech house artist tracked on soundcheck, with 23 sets logg
 
 ## Shares bills with
 
-Andrea Guadalupi, Marc Acardipane, Partyraiser
+Marc Acardipane, Partyraiser, Act of Rage
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panic/)*

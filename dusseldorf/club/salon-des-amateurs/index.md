@@ -8,7 +8,7 @@ Salon des Amateurs is a music venue in Dusseldorf listed on soundcheck. 4 upcomi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | tik tak traks |  |
+| Sat, 19 Sept 2026 | tik tak traks | Martin Heimann, Modo Alto |
 | Fri, 25 Sept 2026 | Lars Eidinger & Voltmar | Lars Eidinger, Voltmar |
 | Sat, 10 Oct 2026 | Sameheads x Salon des Amateurs | Courtney Bailey, Lucas Croon, Tornado Wallace |
 | Fri, 30 Oct 2026 | Gondel | Die Wilde Jagd, Maria Wildeis, Voltmar |

@@ -9,7 +9,7 @@ nachoscoppa is a tech house and house artist tracked on soundcheck, with 18 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Lula Club | Madrid |
-| Fri, 25 Sept 2026 | TBA - Secret Location, CABA | Buenos Aires |
+| Fri, 25 Sept 2026 | TBA - Palacio de la Reconquista, Microcentro | Buenos Aires |
 
 ## Recently played
 

@@ -9,7 +9,7 @@ Slam is a techno and dub techno artist tracked on soundcheck, with 135 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Sub Club | Glasgow |
-| Sat, 26 Sept 2026 | TBA | Glasgow |
+| Sat, 26 Sept 2026 | The Clydeside Halls | Glasgow |
 | Sat, 31 Oct 2026 | The Golden Lion | Manchester |
 | Sat, 28 Nov 2026 | Hare & Hounds | Birmingham |
 

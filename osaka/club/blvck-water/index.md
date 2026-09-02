@@ -1,8 +1,8 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "RHYTHM SHIFT Vol.16 - presso (Vienna) 2 Hour Set" on Wed, 2 Sept 2026.
+Blvck Water is a music venue in Osaka with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "RHYTHM SHIFT Vol.16 - presso (Vienna) 2 Hour Set" on Wed, 2 Sept 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 12 upcoming nights, with line-ups including 死者蘇生CH, amor (JP), DØLLHAUS and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 13 upcoming nights, with line-ups including 死者蘇生CH, amor (JP), DØLLHAUS and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 

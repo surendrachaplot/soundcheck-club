@@ -9,7 +9,7 @@ Colours Hoxton is a music venue in London listed on soundcheck. 4 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Re:um (Electronic Set) (London, UK) |  |
-| Fri, 25 Sept 2026 | DARK DISCO BERLIN x DARK ROOM | Arrosa, Berlin Bunny, Dj Malefica, Elander Ziggy, Eyesdice, Glotzer, Ricardo Castro |
+| Fri, 25 Sept 2026 | DARK DISCO BERLIN x DARK ROOM | Arrosa, Berlin Bunny, Dj Malefica, Elander Ziggy, Eyesdice, Glotzer, Louisahhh, Ricardo Castro |
 | Sat, 26 Sept 2026 | HOMOSTASH 12TH ANNIVERSARY RAVE | CatMint, Tafkanik, teleopath |
 | Sat, 31 Oct 2026 | DARK ROOM x NAGNAGNAG HALLOWEEN | Dina Summer, Dj Malefica, Elander Ziggy, Kalipo, Local Suicide, Ricardo Castro |
 

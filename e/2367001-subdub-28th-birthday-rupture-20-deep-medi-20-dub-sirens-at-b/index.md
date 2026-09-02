@@ -1,6 +1,6 @@
 # SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS at Beaver Works
 
-SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS at Beaver Works on Sat 3 Oct, Leeds. 18 acts on the bill: Blackeye MC, Chad Dubz, Commodo and Decibella and 14 more. Drum & Bass and Dub. Preview the line-up and save it on soundcheck.
+SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS at Beaver Works on Sat 3 Oct, Leeds. 19 acts on the bill: Blackeye MC, Chad Dubz, Commodo and Decibella and 15 more. Drum & Bass and Dub. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -24,6 +24,7 @@ SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS at Beaver Works 
 - Lotus Phaze
 - Mantra
 - MYNA
+- Nio-B
 - Pinch
 - SGT Pokes
 - Silkie

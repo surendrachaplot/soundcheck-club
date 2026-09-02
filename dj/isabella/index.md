@@ -1,8 +1,8 @@
 # ISAbella
 
-ISAbella is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Palais, London on Sat, 5 Sept 2026.
+ISAbella is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Palais, London on Sat, 5 Sept 2026.
 
-ISAbella is a house and techno artist tracked on soundcheck, with 250 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 43 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Palais, London on Sat 5 Sept.
+ISAbella is a house and techno artist tracked on soundcheck, with 251 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 43 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Palais, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ ISAbella is a house and techno artist tracked on soundcheck, with 250 sets logge
 | Sat, 12 Sept 2026 | KREUZWERK | Berlin |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
+| Sat, 31 Oct 2026 | The Cause | London |
 
 ## Recently played
 

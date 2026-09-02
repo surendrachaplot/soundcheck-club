@@ -11,7 +11,7 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 12 upcoming nights,
 | Thu, 3 Sept 2026 | Donnerdogge | Farry, Vero Standke |
 | Fri, 4 Sept 2026 | Nightshade Family | Josefina Tapia, Koljah, Nils Ohrmann, Tigerskin |
 | Sat, 5 Sept 2026 | Klubnacht | Edgar Peng, Elli Altenberger, Gwen Wayne, Juli N. More |
-| Thu, 10 Sept 2026 | Hidden Variables | Ale Castro, Rafael (IS) |
+| Thu, 10 Sept 2026 | Hidden Variables | Ale Castro, Frankov, Rafael (IS) |
 | Fri, 11 Sept 2026 | Klubnacht | Lasha Guruli, Marko Nastic, Pentti Igor, TINDRA |
 | Sat, 12 Sept 2026 | Klubnacht | Edine, Jos, Utip, beccs |
 | Thu, 17 Sept 2026 | Donnerdogge | SY (DE), Stan Yaroslavsky, Vans Hellwirth |

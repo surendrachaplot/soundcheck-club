@@ -1,8 +1,8 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Frost Children (afterparty)" on Wed, 2 Sept 2026.
+Strange Brew is a music venue in Bristol with 15 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Frost Children (afterparty)" on Wed, 2 Sept 2026.
 
-Strange Brew is a music venue in Bristol listed on soundcheck. 14 upcoming nights, with line-ups including Addsound, Alicia Carrera, Andy Blake and Anina and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
+Strange Brew is a music venue in Bristol listed on soundcheck. 15 upcoming nights, with line-ups including Addsound, Alicia Carrera, Andy Blake and Anina and 2 more. Browse upcoming dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
 ## What's on
 

@@ -2,7 +2,7 @@
 
 Xamount is a Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club Up, Amsterdam on Sat, 24 Oct 2026.
 
-Xamount is a garage artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin and London. Often billed alongside Michael Pieterse, Flow State and TMSN. Next up: Club Up, Amsterdam on Sat 24 Oct.
+Xamount is a garage artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin and London. Often billed alongside Michael Pieterse, Flow State and Ive Lovers. Next up: Club Up, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Xamount is a garage artist tracked on soundcheck, with 21 sets logged across Ams
 
 ## Shares bills with
 
-Michael Pieterse, Flow State, TMSN
+Michael Pieterse, Flow State, Ive Lovers
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xamount/)*

@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "15Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid" on Fri, 4 Sept 2026.
+M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "15 Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid" on Fri, 4 Sept 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Anime, Deadly Guns, DJ Jordan and Holy Priest and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -8,7 +8,7 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | 15Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid | Anime, Techno Frühstück, Tekk, Tekk DJ'z, Unicorn on Ketamine |
+| Fri, 4 Sept 2026 | 15 Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid | Anime, Techno Frühstück, Technokool, Tekk, Tekk DJ'z, Unicorn on Ketamine |
 | Sat, 5 Sept 2026 | INTOXICATION Summer Special | Johan (PT) |
 | Fri, 11 Sept 2026 | Bleib deinen Linientreu vs. Mega 90er Rave | DJ Jordan, Shorty |
 | Sat, 12 Sept 2026 | INCEPTION with Phantom - 2 FLOORS - GOA & TECHNO | Momentune, Phantom, SAOX, Tronic |

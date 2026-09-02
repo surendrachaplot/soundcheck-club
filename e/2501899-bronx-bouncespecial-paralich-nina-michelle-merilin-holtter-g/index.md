@@ -1,6 +1,6 @@
-# BRONX Bouncespecial: Paralich >> Nina Michelle >> MERILIN >> Holtter >> GT7 >> Nous Klear at Eventhuset
+# BRONX Bouncespecial: Paralich >> Nina Michelle >> MERILIN >> Holtter >> GT7 >> Nous Klear >> at Eventhuset
 
-BRONX Bouncespecial: Paralich >> Nina Michelle >> MERILIN >> Holtter >> GT7 >> Nous Klear at Eventhuset on Sat 5 Sept, Stockholm. 5 acts on the bill: GT7, MERILIN, Nina Michelle and Nous Klear and 1 more. Techno. Preview the line-up and save it on soundcheck.
+BRONX Bouncespecial: Paralich >> Nina Michelle >> MERILIN >> Holtter >> GT7 >> Nous Klear >> at Eventhuset on Sat 5 Sept, Stockholm. 5 acts on the bill: GT7, MERILIN, Nina Michelle and Nous Klear and 1 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

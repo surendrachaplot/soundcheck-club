@@ -14,10 +14,10 @@ Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming nights, 
 | Fri, 11 Sept 2026 | Jazz & Soul: Pete Barnacle (Live) & DJs |  |
 | Sat, 12 Sept 2026 | Truth & Lies: Wild and Heavy International Rhythms |  |
 | Fri, 18 Sept 2026 | Electroclash Y2K: Meebs, Annie, Meg Mog |  |
-| Sat, 19 Sept 2026 | Jack DiY [DiY Soundsystem] + Lolly | Jack DiY |
-| Sat, 19 Sept 2026 | [Film Screening] Free Party: A Folk History [DiY Soundsystem] |  |
+| Sat, 19 Sept 2026 | SDR IS THREE [TWO FLOOR - HOUSE PARTY] |  |
 | Thu, 24 Sept 2026 | Psyked Notts: Havin' A Good Time [GARAGE, GRIME, BASS] | Milzy, TABZ |
-| Sat, 26 Sept 2026 | SDR IS THREE [TWO FLOOR - HOUSE PARTY] |  |
+| Sat, 26 Sept 2026 | Jack DiY [DiY Soundsystem] + Lolly | Jack DiY |
+| Sat, 26 Sept 2026 | Free Party: A Folk History [Film Screening 6-8pm] |  |
 
 ## Address
 

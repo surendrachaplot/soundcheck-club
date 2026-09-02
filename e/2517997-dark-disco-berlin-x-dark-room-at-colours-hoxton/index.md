@@ -1,6 +1,6 @@
 # DARK DISCO BERLIN x DARK ROOM at Colours Hoxton
 
-DARK DISCO BERLIN x DARK ROOM at Colours Hoxton on Fri 25 Sept, London. 7 acts on the bill: Arrosa, Berlin Bunny, Dj Malefica and Elander Ziggy and 3 more. Techno and EBM. Preview the line-up and save it on soundcheck.
+DARK DISCO BERLIN x DARK ROOM at Colours Hoxton on Fri 25 Sept, London. 8 acts on the bill: Arrosa, Berlin Bunny, Dj Malefica and Elander Ziggy and 4 more. Techno and EBM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ DARK DISCO BERLIN x DARK ROOM at Colours Hoxton on Fri 25 Sept, London. 7 acts o
 - Elander Ziggy
 - Eyesdice
 - Glotzer
+- Louisahhh
 - Ricardo Castro
 
 *Source: [soundcheck](https://soundcheck.club/e/2517997-dark-disco-berlin-x-dark-room-at-colours-hoxton/)*

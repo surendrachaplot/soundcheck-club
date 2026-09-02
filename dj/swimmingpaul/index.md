@@ -1,8 +1,8 @@
 # Swimming Paul
 
-Swimming Paul is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Swimming Paul is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Swimming Paul is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside OGUZ, Alex Wann and Beltran. Next up: Union Park, Chicago on Fri 4 Sept.
+Swimming Paul is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside OGUZ, Alex Wann and Beltran. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Swimming Paul is a house and techno artist tracked on soundcheck, with 62 sets l
 | Sat, 3 Oct 2026 | Loo Loo | Mexico City |
 | Sat, 3 Oct 2026 | Loo Loo | Mexico City |
 | Fri, 9 Oct 2026 | KOKO | London |
+| Sat, 10 Oct 2026 | Roxy | Prague |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Sat, 7 Nov 2026 | Zoom Club | Frankfurt |
 | Fri, 13 Nov 2026 | Schrotty | Cologne |

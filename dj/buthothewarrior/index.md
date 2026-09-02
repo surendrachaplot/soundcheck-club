@@ -1,8 +1,8 @@
 # ButhoTheWarrior
 
-ButhoTheWarrior is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+ButhoTheWarrior is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
-ButhoTheWarrior is a house and disco artist tracked on soundcheck, with 63 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside Optimistic Soul, ELANDA and Harri & Domenic. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
+ButhoTheWarrior is a house and disco artist tracked on soundcheck, with 64 sets logged across Dundee, Edinburgh, Glasgow and London. Often billed alongside Optimistic Soul, ELANDA and Harri & Domenic. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ButhoTheWarrior is a house and disco artist tracked on soundcheck, with 63 sets 
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Jupiter Artland | Edinburgh |
 | Sun, 27 Sept 2026 | La Cheetah Club | Glasgow |
+| Sat, 17 Oct 2026 | Sub Club | Glasgow |
 
 ## Recently played
 

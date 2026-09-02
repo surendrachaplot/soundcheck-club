@@ -1,8 +1,8 @@
 # Soup
 
-Soup is a music venue in Manchester with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Tom (All Night Flight) B2B DJ Lyster (Youth)" on Fri, 4 Sept 2026.
+Soup is a music venue in Manchester with 15 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Tom (All Night Flight) B2B DJ Lyster (Youth)" on Fri, 4 Sept 2026.
 
-Soup is a music venue in Manchester listed on soundcheck. 13 upcoming nights, with line-ups including Abby Harris, ASIAN BRAT, Bugs Groove and Coel Haines and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
+Soup is a music venue in Manchester listed on soundcheck. 15 upcoming nights, with line-ups including Abby Harris, ASIAN BRAT, Bugs Groove and Coel Haines and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Soup is a music venue in Manchester listed on soundcheck. 13 upcoming nights, wi
 | Sat, 19 Sept 2026 | Ost presents Simo Cell (TemeT), Analog-1 (Furthur Electronix / meandyou / MCMLXV) & Bugs Groove | Bugs Groove, JS Zeiter, Simo Cell |
 | Thu, 24 Sept 2026 | Cause & Effect | ASIAN BRAT, Oneman |
 | Fri, 25 Sept 2026 | DUBSTATE: mixtress, imad:re, Lilyn | Lilyn, imad:re, mixtress |
+| Sat, 26 Sept 2026 | AWGOT at Soup | Groooves, Isabelle Koci, Quidders |
 | Thu, 1 Oct 2026 | BANJAX // Soup | Coel Haines |
 | Fri, 2 Oct 2026 | Dance Policy W/ ZAKIA SEWELL & NOSSA | Zakia |
-| Fri, 2 Oct 2026 | Grey Lantern presents: Youthmovies / Zac Clowe |  |
 
 ## Address
 

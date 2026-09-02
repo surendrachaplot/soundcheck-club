@@ -1,8 +1,8 @@
 # JAZ IMSKY
 
-JAZ IMSKY is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+JAZ IMSKY is a Dubstep and Bass artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 25 sets logged across Brighton, Bristol, London and Malta and 1 more. Often billed alongside SKALAH (UK), Plastician and Sir Spyro. Next up: UNO MALTA, Malta on Thu 3 Sept.
+JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 26 sets logged across Brighton, Bristol, London and Malta and 2 more. Often billed alongside SKALAH (UK), Plastician and Sir Spyro. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ JAZ IMSKY is a dubstep and bass artist tracked on soundcheck, with 25 sets logge
 | Fri, 25 Sept 2026 | Palais | London |
 | Sat, 17 Oct 2026 | The Loco Klub | Bristol |
 | Sat, 17 Oct 2026 | DRUMSHEDS | London |
+| Fri, 30 Oct 2026 | Hidden | Manchester |
 
 ## Recently played
 

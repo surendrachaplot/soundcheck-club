@@ -1,14 +1,15 @@
 # Linnemann
 
-Linnemann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at renae, Manchester on Fri, 25 Sept 2026.
+Linnemann is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at renae, Manchester on Fri, 25 Sept 2026.
 
-Linnemann is a techno and house artist tracked on soundcheck, with 18 sets logged across Glasgow, Manchester and Sheffield. Often billed alongside 96 Back, DJ Deep Heat and Esmé. Next up: renae, Manchester on Fri 25 Sept.
+Linnemann is a techno and house artist tracked on soundcheck, with 19 sets logged across Glasgow, Manchester and Sheffield. Often billed alongside 96 Back, DJ Deep Heat and Esmé. Next up: renae, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | renae | Manchester |
+| Fri, 30 Oct 2026 | Sidney & Matilda | Sheffield |
 
 ## Recently played
 

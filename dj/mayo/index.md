@@ -1,13 +1,14 @@
 # MAY/O
 
-MAY/O is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
+MAY/O is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Leipzig on Sat, 26 Sept 2026.
 
-MAY/O is a house and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Cologne and Leipzig. Often billed alongside Traxx Jr, Buteo and Carlotta Jacobi. Next up: Distillery, Leipzig on Fri 16 Oct.
+MAY/O is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Cologne and Leipzig. Often billed alongside Traxx Jr, Dardara and Buteo. Next up: TBA, Leipzig on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | TBA | Leipzig |
 | Fri, 16 Oct 2026 | Distillery | Leipzig |
 
 ## Recently played
@@ -23,6 +24,6 @@ MAY/O is a house and techno artist based in Germany, tracked on soundcheck, with
 
 ## Shares bills with
 
-Traxx Jr, Buteo, Carlotta Jacobi
+Traxx Jr, Dardara, Buteo
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayo/)*

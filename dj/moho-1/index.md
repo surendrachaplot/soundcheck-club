@@ -1,8 +1,8 @@
 # MOHO (1)
 
-MOHO (1) is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Pistil, Seoul on Fri, 4 Sept 2026.
+MOHO (1) is a Club and Pop artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Pistil, Seoul on Fri, 4 Sept 2026.
 
-MOHO (1) is a club and bass artist based in South Korea, tracked on soundcheck, with 2 sets logged across Seoul. Often billed alongside DAEGARI, Dinamarca and JIHEE KIM. Next up: Pistil, Seoul on Fri 4 Sept.
+MOHO (1) is a club and pop artist based in South Korea, tracked on soundcheck, with 3 sets logged across Seoul. Often billed alongside O.od, rue (3) and DAEGARI. Next up: Pistil, Seoul on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,9 +10,10 @@ MOHO (1) is a club and bass artist based in South Korea, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Pistil | Seoul |
 | Fri, 18 Sept 2026 | Cakeshop | Seoul |
+| Sat, 19 Sept 2026 | Lovehaus | Seoul |
 
 ## Shares bills with
 
-DAEGARI, Dinamarca, JIHEE KIM
+O.od, rue (3), DAEGARI
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moho-1/)*

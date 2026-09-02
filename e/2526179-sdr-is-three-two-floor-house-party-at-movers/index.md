@@ -1,10 +1,10 @@
 # SDR IS THREE [TWO FLOOR - HOUSE PARTY] at Movers
 
-SDR IS THREE [TWO FLOOR - HOUSE PARTY] at Movers on Sat 26 Sept, Nottingham. House. Preview the line-up and save it on soundcheck.
+SDR IS THREE [TWO FLOOR - HOUSE PARTY] at Movers on Sat 19 Sept, Nottingham. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 26 Sept 2026 |
+| Date | Sat, 19 Sept 2026 |
 | Venue | Movers |
 | City | Nottingham |
 

@@ -1,8 +1,8 @@
 # Pearson Sound
 
-Pearson Sound is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - 525 SE Pine st, Portland on Fri, 16 Oct 2026.
+Pearson Sound is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - 525 SE Pine st, Portland on Fri, 16 Oct 2026.
 
-Pearson Sound is a techno and bass artist tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside Ben UFO, Pangaea and Peach. Next up: TBA - 525 SE Pine st, Portland on Fri 16 Oct.
+Pearson Sound is a techno and bass artist tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside Ben UFO, Pangaea and Peach. Next up: TBA - 525 SE Pine st, Portland on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pearson Sound is a techno and bass artist tracked on soundcheck, with 93 sets lo
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | TBA - 525 SE Pine st | Portland |
 | Sat, 24 Oct 2026 | Nowadays | New York City |
+| Sat, 31 Oct 2026 | Strange Brew | Bristol |
 
 ## Recently played
 

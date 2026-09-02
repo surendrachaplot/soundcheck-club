@@ -1,8 +1,8 @@
 # Harry Shotta
 
-Harry Shotta is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Harry Shotta is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
-Harry Shotta is a drum & bass and jungle artist tracked on soundcheck, with 52 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 5 more. Often billed alongside IC3, Logan D and Eksman. Next up: Eutopia Whs, London on Sat 5 Sept.
+Harry Shotta is a drum & bass and jungle artist tracked on soundcheck, with 53 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 6 more. Often billed alongside IC3, Logan D and Eksman. Next up: Eutopia Whs, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Harry Shotta is a drum & bass and jungle artist tracked on soundcheck, with 52 s
 | Sat, 26 Sept 2026 | Fire | London |
 | Sat, 14 Nov 2026 | Albert Hall | Manchester |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
+| Fri, 20 Nov 2026 | The Dome | Liverpool |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 27 Nov 2026 | FORGE | Sheffield |
 

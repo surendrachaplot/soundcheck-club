@@ -1,8 +1,8 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "BILL REAVER presents: Lady Passion" on Fri, 11 Sept 2026.
+Sidney & Matilda is a music venue in Sheffield with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "BILL REAVER presents: Lady Passion" on Fri, 11 Sept 2026.
 
-Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 12 upcoming nights, with line-ups including 808 State, Aries, Bailey Ibbs and Charla Green and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
+Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 13 upcoming nights, with line-ups including 808 State, Aries, Bailey Ibbs and Charla Green and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 12 upcoming
 | Fri, 16 Oct 2026 | S&M X Unity Underground presents: Slipmatt | Dead Man's Chest, King Chuga, Slipmatt |
 | Fri, 23 Oct 2026 | S&M x Wub Club presents: Dillinja | Charla Green, Dillinja |
 | Sat, 24 Oct 2026 | S&M presents: 808 State (DJ Set) | 808 State |
-| Sat, 31 Oct 2026 | WICKED BEHAVIOUR  |  |
-| Fri, 13 Nov 2026 | Steel City D&B Winter Warmer with Danny Byrd + Aries | Aries, Danny Byrd |
+| Fri, 30 Oct 2026 | BLEND 4: IT'S SLIME TIME | Linnemann |
+| Sat, 31 Oct 2026 | WICKED BEHAVIOUR: MATTIK, Ziggy Ostas, DEADBEAT UK & MANY MORE  | F3rg13, IMO UK, Mattik (UK), Ziggy Ostas |
 
 ## Address
 

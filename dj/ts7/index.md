@@ -1,14 +1,15 @@
 # TS7
 
-TS7 is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Clock Factory, Bristol on Fri, 2 Oct 2026.
+TS7 is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Clock Factory, Bristol on Fri, 2 Oct 2026.
 
-TS7 is a bass and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Auckland, Birmingham, Bristol and Glasgow and 5 more. Often billed alongside Burgaboy, Chad Harrison and DJ Pantha. Next up: The Clock Factory, Bristol on Fri 2 Oct.
+TS7 is a bass and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Auckland, Birmingham, Bristol and Glasgow and 6 more. Often billed alongside Burgaboy, Chad Harrison and DJ Q. Next up: The Clock Factory, Bristol on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Clock Factory | Bristol |
+| Sat, 17 Oct 2026 | The Nest | Nottingham |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ TS7 is a bass and house artist based in United Kingdom, tracked on soundcheck, w
 
 ## Shares bills with
 
-Burgaboy, Chad Harrison, DJ Pantha
+Burgaboy, Chad Harrison, DJ Q
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ts7/)*

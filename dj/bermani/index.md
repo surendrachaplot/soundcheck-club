@@ -1,14 +1,15 @@
 # Bermani
 
-Bermani is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 3 Sept 2026.
+Bermani is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 3 Sept 2026.
 
-Bermani is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin and Buenosaires. Often billed alongside Ludmila Di Pasquale, Camila Isabel and Djs Pareja. Next up: TBA - Tokyo Club, Costanera, Buenosaires on Thu 3 Sept.
+Bermani is a techno and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin and Buenosaires. Often billed alongside Ludmila Di Pasquale, Camila Isabel and Djs Pareja. Next up: TBA - Tokyo Club, Costanera, Buenosaires on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | TBA - Tokyo Club, Costanera | Buenos Aires |
+| Fri, 6 Nov 2026 | Deseo BS AS | Buenos Aires |
 
 ## Recently played
 

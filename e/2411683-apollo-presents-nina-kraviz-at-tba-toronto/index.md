@@ -1,6 +1,6 @@
 # Apollo presents Nina Kraviz at TBA - Toronto
 
-Apollo presents Nina Kraviz at TBA - Toronto on Sat 7 Nov, Toronto. 1 act on the bill: Nina Kraviz. Techno. Preview the line-up and save it on soundcheck.
+Apollo presents Nina Kraviz at TBA - Toronto on Sat 7 Nov, Toronto. 2 acts on the bill: MERS and Nina Kraviz. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Apollo presents Nina Kraviz at TBA - Toronto on Sat 7 Nov, Toronto. 1 act on the
 
 ## Line-up
 
+- MERS
 - Nina Kraviz
 
 *Source: [soundcheck](https://soundcheck.club/e/2411683-apollo-presents-nina-kraviz-at-tba-toronto/)*

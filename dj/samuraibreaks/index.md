@@ -1,8 +1,8 @@
 # Samurai Breaks
 
-Samurai Breaks is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fuchs2, Prague on Sat, 10 Oct 2026.
+Samurai Breaks is a Jungle and Drum & Bass artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fuchs2, Prague on Sat, 10 Oct 2026.
 
-Samurai Breaks is a jungle and drum & bass artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 25 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: Fuchs2, Prague on Sat 10 Oct.
+Samurai Breaks is a jungle and drum & bass artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 25 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: Fuchs2, Prague on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Samurai Breaks is a jungle and drum & bass artist tracked on soundcheck, with 10
 | Sat, 10 Oct 2026 | Fuchs2 | Prague |
 | Fri, 16 Oct 2026 | Beaver Works | Leeds |
 | Fri, 23 Oct 2026 | fabric | London |
+| Fri, 30 Oct 2026 | Hidden | Manchester |
 | Sat, 31 Oct 2026 | Meraki | Liverpool |
 | Sat, 31 Oct 2026 | Meraki | Liverpool |
 

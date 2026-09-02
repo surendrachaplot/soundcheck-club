@@ -1,13 +1,14 @@
 # MARS (4)
 
-MARS (4) is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bike Jesus, Prague on Sat, 10 Oct 2026.
+MARS (4) is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bar v Krymský, Prague on Thu, 8 Oct 2026.
 
-MARS (4) is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 7 sets logged across Denver, London and Prague. Often billed alongside AVHD, Brittz and Kino Paladino. Next up: Bike Jesus, Prague on Sat 10 Oct.
+MARS (4) is a techno and breakbeat artist based in United States of America, tracked on soundcheck, with 8 sets logged across Denver, London and Prague. Often billed alongside AVHD, Brittz and Kino Paladino. Next up: Bar v Krymský, Prague on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | Bar v Krymský | Prague |
 | Sat, 10 Oct 2026 | Bike Jesus | Prague |
 
 ## Recently played

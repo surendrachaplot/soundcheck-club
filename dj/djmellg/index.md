@@ -1,8 +1,8 @@
 # DJ MELL G
 
-DJ MELL G is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Badaboum, Paris on Sat, 26 Sept 2026.
+DJ MELL G is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Badaboum, Paris on Sat, 26 Sept 2026.
 
-DJ MELL G is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside DJ Stingray 313, Newinfluenzer and Cyan85. Next up: Badaboum, Paris on Sat 26 Sept.
+DJ MELL G is a techno and electro artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside DJ Stingray 313, Newinfluenzer and Cyan85. Next up: Badaboum, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ MELL G is a techno and house artist tracked on soundcheck, with 184 sets logg
 | Sat, 3 Oct 2026 | TBA | Milan |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
+| Wed, 28 Oct 2026 | Zeiss Planetarium Bochum | Bochum |
 
 ## Recently played
 

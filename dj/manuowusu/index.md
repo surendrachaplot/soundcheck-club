@@ -1,13 +1,14 @@
 # MANU OWUSU
 
-MANU OWUSU is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lilli Escher, Hamburg on Thu, 24 Sept 2026.
+MANU OWUSU is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 19 Sept 2026.
 
-MANU OWUSU is a house and minimal artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Hamburg. Often billed alongside Anton Jonathan, Jean Mauj and Carl Bergé. Next up: Lilli Escher, Hamburg on Thu 24 Sept.
+MANU OWUSU is a house and minimal artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Hamburg. Often billed alongside Anton Jonathan, Jean Mauj and Carl Bergé. Next up: Golden Pudel Club, Hamburg on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Golden Pudel Club | Hamburg |
 | Thu, 24 Sept 2026 | Lilli Escher | Hamburg |
 
 ## Recently played

@@ -9,7 +9,7 @@ Cuartero is a tech house and house artist tracked on soundcheck, with 99 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Fabrik | Madrid |
-| Fri, 25 Sept 2026 | TBA - Secret Location, CABA | Buenos Aires |
+| Fri, 25 Sept 2026 | TBA - Palacio de la Reconquista, Microcentro | Buenos Aires |
 
 ## Recently played
 

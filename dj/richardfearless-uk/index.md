@@ -1,13 +1,14 @@
 # Richard Fearless
 
-Richard Fearless is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 16 Oct 2026.
+Richard Fearless is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Cu, London on Sun, 11 Oct 2026.
 
-Richard Fearless is a techno and experimental artist tracked on soundcheck, with 44 sets logged across Amsterdam, Belfast, Belgrade and Bristol and 8 more. Often billed alongside Daniel Avery, Tom Dubwise and DJ MELL G. Next up: The Berkeley Suite, Glasgow on Fri 16 Oct.
+Richard Fearless is a techno and experimental artist tracked on soundcheck, with 45 sets logged across Amsterdam, Belfast, Belgrade and Bristol and 8 more. Often billed alongside Daniel Avery, Tom Dubwise and DJ MELL G. Next up: Cu, London on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 11 Oct 2026 | Cu | London |
 | Fri, 16 Oct 2026 | The Berkeley Suite | Glasgow |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sun, 25 Oct 2026 | TBA | Amsterdam |

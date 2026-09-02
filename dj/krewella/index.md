@@ -1,8 +1,8 @@
 # Krewella
 
-Krewella is a Electro and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Q Nightclub, Seattle on Fri, 25 Sept 2026.
+Krewella is a Electro and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Q Nightclub, Seattle on Fri, 25 Sept 2026.
 
-Krewella is an electro and bass artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston, Cologne, London and Seattle and 1 more. Often billed alongside Alex Martin, Amy Wiles and DJ AstroNat. Next up: Q Nightclub, Seattle on Fri 25 Sept.
+Krewella is an electro and bass artist based in United States of America, tracked on soundcheck, with 7 sets logged across Boston, Cologne, London and Oberhausen and 2 more. Often billed alongside Alex Martin, Amy Wiles and DJ AstroNat. Next up: Q Nightclub, Seattle on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Krewella is an electro and bass artist based in United States of America, tracke
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Q Nightclub | Seattle |
 | Fri, 9 Oct 2026 | DRUMSHEDS | London |
+| Sat, 10 Oct 2026 | Turbinenhalle | Oberhausen |
 
 ## Recently played
 

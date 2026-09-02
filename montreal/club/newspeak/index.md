@@ -17,7 +17,7 @@ Newspeak is a music venue in Montreal listed on soundcheck. 16 upcoming nights, 
 | Fri, 2 Oct 2026 | Cult Member - Montréal | Cult Member |
 | Sat, 3 Oct 2026 | Dusky - Montréal | Dusky |
 | Fri, 9 Oct 2026 | Romance Planet - Montréal |  |
-| Fri, 9 Oct 2026 | MASHBIT- Montréal |  |
+| Fri, 9 Oct 2026 | MashBit- Montréal |  |
 
 ## Address
 

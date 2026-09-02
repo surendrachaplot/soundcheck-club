@@ -1,6 +1,6 @@
 # RARE Club // Georj + Mixfits at Sneaky Pete's
 
-RARE Club // Georj + Mixfits at Sneaky Pete's on Tue 8 Sept, Edinburgh. 2 acts on the bill: Georj and Mixfits (2). House and Garage. Preview the line-up and save it on soundcheck.
+RARE Club // Georj + Mixfits at Sneaky Pete's on Tue 8 Sept, Edinburgh. 3 acts on the bill: Georj, Georj (2) and Mixfits (2). House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ RARE Club // Georj + Mixfits at Sneaky Pete's on Tue 8 Sept, Edinburgh. 2 acts o
 ## Line-up
 
 - Georj
+- Georj (2)
 - Mixfits (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2522814-rare-club-georj-mixfits-at-sneaky-pete-s/)*

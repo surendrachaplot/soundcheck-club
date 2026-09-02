@@ -1,14 +1,15 @@
 # Shaan (2)
 
-Shaan (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 13 Sept 2026.
+Shaan (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 13 Sept 2026.
 
-Shaan (2) is a techno and house artist based in Denmark, tracked on soundcheck, with 5 sets logged across Copenhagen. Often billed alongside Entree, Anna Logic and Cockwhore & Macho. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 13 Sept.
+Shaan (2) is a techno and house artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Entree, Johannes Astrup and Anna Logic. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Pylonen - Frizonen Langebro | Copenhagen |
+| Fri, 25 Sept 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Shaan (2) is a techno and house artist based in Denmark, tracked on soundcheck, 
 
 ## Shares bills with
 
-Entree, Anna Logic, Cockwhore & Macho
+Entree, Johannes Astrup, Anna Logic
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaan-2/)*

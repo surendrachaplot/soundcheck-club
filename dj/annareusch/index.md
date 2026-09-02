@@ -1,8 +1,8 @@
 # Anna Reusch
 
-Anna Reusch is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Anna Reusch is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
-Anna Reusch is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 22 more. Often billed alongside Thomas Schumacher, A.D.H.S. and Bjørnson. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
+Anna Reusch is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 23 more. Often billed alongside Thomas Schumacher, A.D.H.S. and Bjørnson. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Anna Reusch is a techno and house artist tracked on soundcheck, with 84 sets log
 | Sat, 5 Sept 2026 | Strijkviertel | Utrecht |
 | Fri, 18 Sept 2026 | H1 Club and Lounge | Hamburg |
 | Sat, 19 Sept 2026 | Schrotty | Cologne |
+| Sat, 19 Sept 2026 | Fusion Club | Munster |
 | Fri, 23 Oct 2026 | Fridas Pier | Stuttgart |
 | Sat, 24 Oct 2026 | Lieberscholli | Munich |
 

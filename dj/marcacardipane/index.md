@@ -1,13 +1,14 @@
 # Marc Acardipane
 
-Marc Acardipane is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 3 Oct 2026.
+Marc Acardipane is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
-Marc Acardipane is a hardcore and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 9 more. Often billed alongside Act of Rage, Buzz Fuzz and Panic. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 3 Oct.
+Marc Acardipane is a hardcore and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 10 more. Often billed alongside Act of Rage, Panic and Paul Elstak. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Westfalenhallen | Dortmund-essen |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 
 ## Recently played
@@ -23,6 +24,6 @@ Marc Acardipane is a hardcore and techno artist based in Germany, tracked on sou
 
 ## Shares bills with
 
-Act of Rage, Buzz Fuzz, Panic
+Act of Rage, Panic, Paul Elstak
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcacardipane/)*

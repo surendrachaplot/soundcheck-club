@@ -1,14 +1,14 @@
 # ffina
 
-ffina is a Progressive House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, CABA, Buenos Aires on Fri, 25 Sept 2026.
+ffina is a Progressive House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Palacio de la Reconquista, Microcentro, Buenos Aires on Fri, 25 Sept 2026.
 
-ffina is a progressive house and afro house artist tracked on soundcheck, with 7 sets logged across Buenosaires and Milan. Often billed alongside Alejo Gonzalez, Cuartero and Emi Galvan. Next up: TBA - Secret Location, CABA, Buenosaires on Fri 25 Sept.
+ffina is a progressive house and afro house artist tracked on soundcheck, with 7 sets logged across Buenosaires and Milan. Often billed alongside Alejo Gonzalez, Cuartero and Emi Galvan. Next up: TBA - Palacio de la Reconquista, Microcentro, Buenosaires on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 25 Sept 2026 | TBA - Secret Location, CABA | Buenos Aires |
+| Fri, 25 Sept 2026 | TBA - Palacio de la Reconquista, Microcentro | Buenos Aires |
 
 ## Recently played
 

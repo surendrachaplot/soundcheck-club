@@ -1,8 +1,8 @@
 # Alarico
 
-Alarico is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Odonien, Cologne on Fri, 4 Sept 2026.
+Alarico is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Odonien, Cologne on Fri, 4 Sept 2026.
 
-Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Odonien, Cologne on Fri 4 Sept.
+Alarico is a techno and house artist tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Odonien, Cologne on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Odonien | Cologne |
 | Sat, 5 Sept 2026 | Gate Milano | Milan |
+| Sat, 5 Sept 2026 | Junkyard Dortmund | Dortmund-essen |
 | Sun, 6 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | BASIS | Utrecht |
 | Tue, 15 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -18,8 +19,7 @@ Alarico is a techno and house artist tracked on soundcheck, with 262 sets logged
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Sat, 19 Sept 2026 | Fiducial Asteria | Lyon |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
-| Sat, 26 Sept 2026 | Tapada da Ajuda | Lisbon |
-| Sat, 10 Oct 2026 | KALT | Strasbourg |
+| Fri, 25 Sept 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
 

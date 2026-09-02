@@ -1,14 +1,14 @@
 # Teris Vibes
 
-Teris Vibes is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Athens on Sun, 6 Sept 2026.
+Teris Vibes is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - UPON REGISTRATION, Athens on Sun, 6 Sept 2026.
 
-Teris Vibes is a techno artist tracked on soundcheck, with 9 sets logged across Athens. Often billed alongside EMPERØR, NAAMAA and Serotonin (2). Next up: TBA, Athens on Sun 6 Sept.
+Teris Vibes is a techno artist tracked on soundcheck, with 9 sets logged across Athens. Often billed alongside EMPERØR, NAAMAA and Serotonin (2). Next up: TBA - UPON REGISTRATION, Athens on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | TBA | Athens |
+| Sun, 6 Sept 2026 | TBA - UPON REGISTRATION | Athens |
 
 ## Recently played
 

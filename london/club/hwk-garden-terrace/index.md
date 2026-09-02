@@ -9,7 +9,7 @@ HWK Garden / Terrace is a music venue in London listed on soundcheck. 2 upcoming
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Something Good @ HWK | Shawn Cartier, Something Good (UK) |
-| Sun, 20 Sept 2026 | WARP O CLOCK - End of Summer Party | ACIDROB, FERB, PacMan (IT), Shaneo, Skav |
+| Sun, 20 Sept 2026 | WARP O CLOCK - End of Summer Party | ACIDROB, FERB, PacMan (IT), Shaneo, ShaneØ, Skav |
 
 ## Address
 

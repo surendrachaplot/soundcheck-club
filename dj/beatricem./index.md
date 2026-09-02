@@ -1,8 +1,8 @@
 # Beatrice M.
 
-Beatrice M. is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Outernet Live, London on Fri, 4 Sept 2026.
+Beatrice M. is a Dubstep and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Outernet Live, London on Fri, 4 Sept 2026.
 
-Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Brighton and Bristol and 25 more. Often billed alongside Tim Reaper, EMA (1) and Mia Koden. Next up: Outernet Live, London on Fri 4 Sept.
+Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 120 sets logged across Amsterdam, Berlin, Brighton and Bristol and 26 more. Often billed alongside Tim Reaper, EMA (1) and Mia Koden. Next up: Outernet Live, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 119 sets lo
 | Fri, 4 Sept 2026 | Outernet Live | London |
 | Sat, 5 Sept 2026 | The White Hotel | Manchester |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Sat, 10 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 23 Oct 2026 | OHM | Berlin |
 
 ## Recently played

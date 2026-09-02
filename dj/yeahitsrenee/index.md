@@ -1,14 +1,15 @@
 # yeahitsrenee
 
-yeahitsrenee is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 24 Kitchen Street, Liverpool on Sat, 5 Sept 2026.
+yeahitsrenee is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 24 Kitchen Street, Liverpool on Sat, 5 Sept 2026.
 
-yeahitsrenee is a house and bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Liverpool and London. Often billed alongside Beat Detective, Benno and FULLENGLISH. Next up: 24 Kitchen Street, Liverpool on Sat 5 Sept.
+yeahitsrenee is a house and bass artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Liverpool and London. Often billed alongside Beat Detective, Benno and FULLENGLISH. Next up: 24 Kitchen Street, Liverpool on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | 24 Kitchen Street | Liverpool |
+| Fri, 25 Sept 2026 | 24 Kitchen Street | Liverpool |
 
 ## Recently played
 

@@ -1,0 +1,28 @@
+# FLEXTASY
+
+FLEXTASY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Fusion Club, Munster on Sat, 26 Sept 2026.
+
+FLEXTASY is a techno and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Munich and Munster. Often billed alongside KEN (DE), DJ PayPaul and Chaos Techno.Berlin. Next up: Fusion Club, Munster on Sat 26 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 26 Sept 2026 | Fusion Club | Munster |
+
+## Recently played
+
+- KitKatClub, Berlin — Fri, 28 Aug 2026
+- KitKatClub, Berlin — Fri, 24 Apr 2026
+- OST, Berlin — Sat, 4 Apr 2026
+- KitKatClub, Berlin — Fri, 27 Feb 2026
+- KitKatClub, Berlin — Fri, 26 Dec 2025
+- KitKatClub, Berlin — Fri, 31 Oct 2025
+- KitKatClub, Berlin — Fri, 29 Aug 2025
+- KitKatClub, Berlin — Fri, 27 Jun 2025
+
+## Shares bills with
+
+KEN (DE), DJ PayPaul, Chaos Techno.Berlin
+
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flextasy/)*

@@ -1,14 +1,15 @@
 # Monty
 
-Monty is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Outernet Live, London on Fri, 4 Sept 2026.
+Monty is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Outernet Live, London on Fri, 4 Sept 2026.
 
-Monty is a drum & bass and bass artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside Visages, Wiebe Roose and SP:MC. Next up: Outernet Live, London on Fri 4 Sept.
+Monty is a drum & bass and bass artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside Visages, Wiebe Roose and SP:MC. Next up: Outernet Live, London on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Outernet Live | London |
+| Fri, 9 Oct 2026 | Insomnia | Berlin |
 | Sat, 31 Oct 2026 | The Black Box | Denver |
 
 ## Recently played

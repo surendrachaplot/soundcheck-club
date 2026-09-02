@@ -1,14 +1,15 @@
 # Gordo
 
-Gordo is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Pacha New York, New York City on Fri, 4 Sept 2026.
+Gordo is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Pacha New York, New York City on Fri, 4 Sept 2026.
 
-Gordo is a house and tech house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Marco Carola, Wade and Andrea Oliva. Next up: Pacha New York, Newyorkcity on Fri 4 Sept.
+Gordo is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Marco Carola, Wade and Andrea Oliva. Next up: Pacha New York, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Pacha New York | New York City |
+| Sat, 5 Sept 2026 | Big Night Live | Boston |
 | Sun, 6 Sept 2026 | TBA - The Port Lands | Toronto |
 | Sun, 6 Sept 2026 | TBA - The Port Lands | Toronto |
 | Tue, 8 Sept 2026 | Pacha Ibiza | Ibiza |
