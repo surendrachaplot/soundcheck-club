@@ -1,8 +1,8 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Palais, London on Fri, 4 Sept 2026.
+Elli Acula is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Palais, London on Fri, 4 Sept 2026.
 
-Elli Acula is a techno and house artist tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Palais, London on Fri 4 Sept.
+Elli Acula is a techno and house artist tracked on soundcheck, with 212 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside FJAAK, 999999999 and Anna Z.. Next up: Palais, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Elli Acula is a techno and house artist tracked on soundcheck, with 211 sets log
 | Fri, 18 Sept 2026 | Jaeger | Oslo |
 | Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Gate Milano | Milan |
+| Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

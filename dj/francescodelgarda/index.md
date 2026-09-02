@@ -1,8 +1,8 @@
 # Francesco Del Garda
 
-Francesco Del Garda is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hotel Butterfly, Rome on Thu, 3 Sept 2026.
+Francesco Del Garda is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hotel Butterfly, Rome on Thu, 3 Sept 2026.
 
-Francesco Del Garda is a house and techno artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: Hotel Butterfly, Rome on Thu 3 Sept.
+Francesco Del Garda is a house and techno artist tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: Hotel Butterfly, Rome on Thu 3 Sept.
 
 ## Upcoming shows
 

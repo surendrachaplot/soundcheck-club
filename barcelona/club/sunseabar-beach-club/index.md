@@ -16,7 +16,7 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 15 upco
 | Sat, 12 Sept 2026 | FREE OPEN AIR BEACH PARTY - Les Enfants x Roots | Alex (ES), INDRA TRAFERRI, MostWanted |
 | Sun, 13 Sept 2026 | AUDIODISE BEACH CLOSING pres. Hamatsuki & skyra (Bassiani) exclusive 4h Live & DJ set  | Hamatsuki, Martini Raw, Swann, skyra |
 | Thu, 17 Sept 2026 | [FREE OPEN AIR BEACH PARTY] Mund Radio: BARNA92 | Bejenec, caskobi |
-| Sat, 19 Sept 2026 | BEACH PARTY CLOSING SUMMER: Les Enfants x ■ Checkpoint x Troopers |  |
+| Sat, 19 Sept 2026 | FREE BEACH PARTY CLOSING SUMMER: Les Enfants x ■ Checkpoint x Troopers  |  |
 | Sun, 20 Sept 2026 | FREE OPEN AIR BEACH PARTY: Lost invites Posay | André Butano, Jean Pierre, Karla Amaro |
 
 ## Address

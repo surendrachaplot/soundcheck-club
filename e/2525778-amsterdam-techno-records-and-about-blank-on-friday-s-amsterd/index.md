@@ -1,6 +1,6 @@
 # Amsterdam Techno Records and ://about blank on Friday's [Amsterdam and Berlin] at ://about blank
 
-Amsterdam Techno Records and ://about blank on Friday's [Amsterdam and Berlin] on Fri 2 Oct, Berlin. 6 acts on the bill: BRT.C, cee_ohh, Jasmin Giovanazzi and Karolanne and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Amsterdam Techno Records and ://about blank on Friday's [Amsterdam and Berlin] on Fri 2 Oct, Berlin. 7 acts on the bill: BRT.C, cee_ohh, gãl (SI) and Jasmin Giovanazzi and 3 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Amsterdam Techno Records and ://about blank on Friday's [Amsterdam and Berlin] o
 
 - BRT.C
 - cee_ohh
+- gãl (SI)
 - Jasmin Giovanazzi
 - Karolanne
 - Solvados

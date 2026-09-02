@@ -9,13 +9,13 @@ Hotel Negresco Princess is a music venue in Barcelona listed on soundcheck. 13 u
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | BACK TO THE HITS ROOFTOP PARTY | Helen Me Lia |
-| Sat, 5 Sept 2026 | [CANCELLED] DISCO HOUSE ROOFTOP PARTY | Helen Me Lia |
+| Sat, 5 Sept 2026 | [CANCELLED]  | Helen Me Lia |
 | Sun, 6 Sept 2026 | AFROHOUSE SUNSET ROOFTOP SESSION | Helen Me Lia |
 | Wed, 9 Sept 2026 | BACK TO THE HITS ROOFTOP PARTY | Helen Me Lia |
 | Sat, 12 Sept 2026 | DISCO HOUSE ROOFTOP PARTY | Helen Me Lia |
 | Sun, 13 Sept 2026 | AFROHOUSE SUNSET ROOFTOP SESSION | Helen Me Lia |
 | Wed, 16 Sept 2026 | BACK TO THE HITS ROOFTOP PARTY | Helen Me Lia |
-| Sat, 19 Sept 2026 | DISCO HOUSE ROOFTOP PARTY | Helen Me Lia |
+| Sat, 19 Sept 2026 | CANCELLLED FOR PRIVATE EVENT | Helen Me Lia |
 | Sun, 20 Sept 2026 | AFROHOUSE SUNSET ROOFTOP SESSION | Helen Me Lia |
 | Wed, 23 Sept 2026 | BACK TO THE HITS ROOFTOP PARTY | Helen Me Lia |
 

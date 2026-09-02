@@ -4322,7 +4322,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788375332626">
+<meta name="sc-build" content="1788378042816">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -5042,6 +5042,20 @@
       });
     })();
 
+    /**
+     * COLLAPSED ON A PHONE, EXPANDED ON A DESKTOP.
+     *
+     * All three call sites used to pass `true` — "open expanded (web + mobile)"
+     * — so on a phone the first tap of a play button threw a half-screen sheet
+     * over the list you were reading. The scrubber, ±15, prev/next and the
+     * artist actions are a DESKTOP amount of furniture; on mobile they are what
+     * the chevron is for. The slim bar is the right resting state on a phone,
+     * and it is the one the native app lives in permanently.
+     */
+    function dockOpensExpanded(){
+      return !(window.matchMedia && matchMedia('(max-width:640px)').matches);
+    }
+
     function openDockUI(btn,name,src,expand){
       dockName.textContent=name; dockSrc.textContent=src;
       msMeta(name, src);
@@ -5141,7 +5155,7 @@
       art.innerHTML=genPoster(btn.dataset.name||'Now playing')+(btn.dataset.poster?'<img class="real" src="'+imgUrl(btn.dataset.poster,800)+'" alt="'+attrEsc((btn.dataset.name||'Now playing')+' artwork')+'" onerror="this.style.display=\'none\'">':'')+'<span class="tint"></span>';
       dockMedia.appendChild(art);
       dockMedia.appendChild(f);
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.sub||btn.dataset.venue||'SoundCloud', true); // open expanded (web + mobile); chevron collapses
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.sub||btn.dataset.venue||'SoundCloud', dockOpensExpanded());
       curTracklist=[]; curVideoId=null; dock.classList.remove('has-tl');   // SoundCloud has no YT tracklist
       // The iframe already autoplays (auto_play=true); the Widget API just adds
       // the scrubber + play/pause sync, so we bind it lazily once api.js loads.
@@ -5192,7 +5206,7 @@
       dockMedia.innerHTML='';
       dockMedia.appendChild(f);
       dock.classList.add('mc-on');
-      openDockUI(btn, btn.dataset.name||'Now playing', btn.dataset.sub||'Mixcloud', true);
+      openDockUI(btn, btn.dataset.name||'Now playing', btn.dataset.sub||'Mixcloud', dockOpensExpanded());
       curTracklist=[]; curVideoId=null; dock.classList.remove('has-tl');
       // WITHOUT THEIR API, THEIR WIDGET IS THE INTERFACE.
       // The iframe plays perfectly well on its own — it has a play button and a
@@ -5253,7 +5267,7 @@
       // What the report button reports. Set BEFORE openDockUI so the button is
       // already armed by the time the dock slides in.
       setDockReport(videoId, (btn&&btn.dataset&&btn.dataset.slug)||'', 'youtube');
-      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', true); // open expanded (web + mobile); chevron collapses
+      openDockUI(btn,btn.dataset.name||'Now playing',btn.dataset.venue||'', dockOpensExpanded());
       loadTracklist(videoId);   // parse the video's description tracklist (if any) → dock "Tracklist" button
       if(reuse){
         try{ ytPlayer.loadVideoById({ videoId:videoId, startSeconds:start }); }catch(_){}

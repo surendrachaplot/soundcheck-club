@@ -1,8 +1,8 @@
 # GM1 (IT)
 
-GM1 (IT) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at OST, Berlin on Fri, 4 Sept 2026.
+GM1 (IT) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at OST, Berlin on Fri, 4 Sept 2026.
 
-GM1 (IT) is a techno and trance artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside Hanne B, Amo (IT) and 4NOUK. Next up: OST, Berlin on Fri 4 Sept.
+GM1 (IT) is a techno and trance artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin. Often billed alongside Hanne B, Amo (IT) and 4NOUK. Next up: OST, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ GM1 (IT) is a techno and trance artist based in Germany, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | OST | Berlin |
 | Fri, 11 Sept 2026 | Void Club | Berlin |
+| Sat, 12 Sept 2026 | TBA - New Secret Location - 5 min Walk from S Buckower Chaussee  | Berlin |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 
 ## Recently played

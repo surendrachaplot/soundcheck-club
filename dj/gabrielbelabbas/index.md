@@ -2,7 +2,7 @@
 
 Gabriel Belabbas is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at renae, Manchester on Fri, 11 Sept 2026.
 
-Gabriel Belabbas is a house and electro artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Poggio, Massaï and Automatic Writing. Next up: renae, Manchester on Fri 11 Sept.
+Gabriel Belabbas is a house and electro artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Poggio, Massaï and Charlotte (FR). Next up: renae, Manchester on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Gabriel Belabbas is a house and electro artist tracked on soundcheck, with 64 se
 
 ## Shares bills with
 
-Poggio, Massaï, Automatic Writing
+Poggio, Massaï, Charlotte (FR)
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielbelabbas/)*

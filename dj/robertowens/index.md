@@ -1,8 +1,8 @@
 # Robert Owens
 
-Robert Owens is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 5 Sept 2026.
+Robert Owens is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 5 Sept 2026.
 
-Robert Owens is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Frankie Flowerz, Mad Shivers and Philippe Autuori. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 5 Sept.
+Robert Owens is a house and techno artist tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Frankie Flowerz, Mad Shivers and Philippe Autuori. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Robert Owens is a house and techno artist tracked on soundcheck, with 94 sets lo
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
+| Sat, 24 Oct 2026 | 50 HERTZ | Amsterdam |
 
 ## Recently played
 

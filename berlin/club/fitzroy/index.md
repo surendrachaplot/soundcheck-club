@@ -9,7 +9,7 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TANGA 3RD ANNIVERSARY | ALP (DE), CLEO, DJ Petite, Mama Yha Yha, lealucifer |
-| Sat, 12 Sept 2026 | Insolar (Daytime Clubbing) | DRAMA SOURCE ARTIFACTS, Daura, Galo (2), Remove Me, Sookie (3) |
+| Sat, 12 Sept 2026 | Insolar (Day Into Night) | DRAMA SOURCE ARTIFACTS, Daura, Galo (2), Remove Me, Sookie (3) |
 | Sun, 13 Sept 2026 | Simbiosis at Fitzroy [daytime party] | Dorian Fecht, Gustavo Ibañez, Juan Diego Drouet, Nico Noir, Sean Gonzalez, kairavi |
 | Fri, 18 Sept 2026 | CONNECT with Viikatory & Amy Dabbs | 3Hertz, Amy Dabbs, SNC Crew, Viikatory |
 | Sun, 20 Sept 2026 | Familiar Feelings · Daytime Party | David Pearl, Gal Kadan, Mille (DE) |

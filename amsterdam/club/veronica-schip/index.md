@@ -11,7 +11,7 @@ Veronica Schip is a music venue in Amsterdam listed on soundcheck. 6 upcoming ni
 | Sat, 5 Sept 2026 | Diep! Gang 5 September, Veronica Schip Amsterdam - Progressive House - We can't sink any deeper | Libere, Nova Caza |
 | Sat, 26 Sept 2026 | CLANG | Rauschhaus |
 | Wed, 21 Oct 2026 | OUTKZT ADE 2026 | ArioVistus, Belocca, DA SEYKO, Kay Wagner, Molothav, Ozzy Riot, Teenage Mutants, TheKoosy |
-| Thu, 22 Oct 2026 | ADE Selador x Sudbeat Showcase | Danny Howells, Dave Seaman, Graziano Raffa, Kevin Di Serna, Stereo Underground, Steve Parry, Tom Pavicich |
+| Thu, 22 Oct 2026 | ADE: Selador × Sudbeat World Exclusive | Danny Howells, Dave Seaman, Graziano Raffa, Kevin Di Serna, Stereo Underground, Steve Parry, Tom Pavicich |
 | Fri, 23 Oct 2026 | RKP presents ADE Showcase | Baliology, DJ Ruby, Emi Galvan, NOIYSE PROJECT, Ruben Karapetyan, Yvo J |
 | Sun, 25 Oct 2026 | ORIGINS x Deep Echoes pres. ALL HANDS ON DECK | Jaap Ligthart, KARINSMATIC, L:NQ, Pedro Mercado, RELO4D |
 

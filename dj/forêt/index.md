@@ -9,7 +9,7 @@ Forêt is a house and techno artist tracked on soundcheck, with 5 sets logged ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Cabaret Sauvage | Paris |
-| Sun, 13 Sept 2026 | Zeralda | Paris |
+| Sun, 13 Sept 2026 | Le Zeralda | Paris |
 
 ## Recently played
 

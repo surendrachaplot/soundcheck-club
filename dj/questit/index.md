@@ -1,8 +1,8 @@
 # Quest (IT)
 
-Quest (IT) is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Quest (IT) is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Quest (IT) is a house and techno artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Christian AB, Francesco Del Garda and Adiel. Next up: Union Park, Chicago on Fri 4 Sept.
+Quest (IT) is a house and techno artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Christian AB, Francesco Del Garda and Adiel. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Quest (IT) is a house and techno artist tracked on soundcheck, with 169 sets log
 | Sun, 27 Sept 2026 | Ex Base Nato | Naples |
 | Fri, 9 Oct 2026 | Parc d’Atraccions del Tibidabo | Barcelona |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
+| Fri, 6 Nov 2026 | Fvtvr | Paris |
 
 ## Recently played
 

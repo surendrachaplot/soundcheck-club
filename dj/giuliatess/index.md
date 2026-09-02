@@ -1,8 +1,8 @@
 # Giulia Tess
 
-Giulia Tess is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Electric Studios, Sheffield on Fri, 4 Sept 2026.
+Giulia Tess is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Electric Studios, Sheffield on Fri, 4 Sept 2026.
 
-Giulia Tess is a house and techno artist based in Italy, tracked on soundcheck, with 50 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Ell Murphy, Lawrence Hart and mixtress. Next up: Electric Studios, Sheffield on Fri 4 Sept.
+Giulia Tess is a house and techno artist based in Italy, tracked on soundcheck, with 51 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Ell Murphy, Lawrence Hart and mixtress. Next up: Electric Studios, Sheffield on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Giulia Tess is a house and techno artist based in Italy, tracked on soundcheck, 
 | Fri, 4 Sept 2026 | Electric Studios | Sheffield |
 | Sat, 5 Sept 2026 | The Greyhound | London |
 | Fri, 25 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 24 Oct 2026 | Ijver | Amsterdam |
 
 ## Recently played
 

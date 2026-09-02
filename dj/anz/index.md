@@ -1,8 +1,8 @@
 # Anz
 
-Anz is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Anz is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Anz is a house and techno artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Call Super, Special Request and Sedef Adasï. Next up: The Cause, London on Sat 12 Sept.
+Anz is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Call Super, Special Request and Sedef Adasï. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Anz is a house and techno artist tracked on soundcheck, with 105 sets logged acr
 | Thu, 22 Oct 2026 | Doka | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
+| Sat, 24 Oct 2026 | Ijver | Amsterdam |
 
 ## Recently played
 

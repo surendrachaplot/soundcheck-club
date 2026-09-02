@@ -1,6 +1,6 @@
 # Soft Power Festival at Haus der Visionäre
 
-Soft Power Festival at Haus der Visionäre on Fri 11 Sept, Berlin. 42 acts on the bill: Alexia (2), Amir Alexander, Anahita Sadighi and Bruno Schmidt and 38 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Soft Power Festival at Haus der Visionäre on Fri 11 Sept, Berlin. 44 acts on the bill: Alejandro Mosso, Alexia (2), Amir Alexander and Anahita Sadighi and 40 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Soft Power Festival at Haus der Visionäre on Fri 11 Sept, Berlin. 42 acts on th
 
 ## Line-up
 
+- Alejandro Mosso
 - Alexia (2)
 - Amir Alexander
 - Anahita Sadighi
@@ -41,6 +42,7 @@ Soft Power Festival at Haus der Visionäre on Fri 11 Sept, Berlin. 42 acts on th
 - Morgan
 - Mountain People
 - Muallem
+- Perera Elsewhere
 - RAHA
 - Salar Ansari
 - Soela

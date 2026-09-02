@@ -1,13 +1,14 @@
 # Domi (FR)
 
-Domi (FR) is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Domi (FR) is a Electro and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Le TLM Paris, 105 Rue Curial, 75019 Paris, France, Paris on Sat, 19 Sept 2026.
 
-Domi (FR) is an electro and house artist tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 8 more. Often billed alongside Jolly (FR), Lastvuska and Forest. Next up: Buda BXL, Brussels on Sat 10 Oct.
+Domi (FR) is an electro and house artist tracked on soundcheck, with 68 sets logged across Barcelona, Berlin, Brussels and Frankfurt and 8 more. Often billed alongside Jolly (FR), Lastvuska and Forest. Next up: TBA - Le TLM Paris, 105 Rue Curial, 75019 Paris, France, Paris on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | TBA - Le TLM Paris, 105 Rue Curial, 75019 Paris, France | Paris |
 | Sat, 10 Oct 2026 | Buda BXL | Brussels |
 | Sat, 17 Oct 2026 | TBA | Marseille |
 | Fri, 13 Nov 2026 | Le Trabendo | Paris |

@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | Floating Over - ÆDEN/ŒL Garten | Nayoo |
-| Wed, 2 Sept 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE | Beth Alana, Dahveed, OSKAR. |
+| Wed, 2 Sept 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦ TICKETS AT THE DOOR | Beth Alana, Dahveed, OSKAR. |
 | Thu, 3 Sept 2026 | Soundhall | Blosvenn, DMZ (DE), Genghis C_nt, K1000o, PW DISTORTION, Philena, Pylerinstinct1, Redondoo, Yiye, wisje |
 | Fri, 4 Sept 2026 | Cuddles: VIRGO SEASON | Aaron Blau, Chico Blanco, Katy De Jesus, MCMLXXXV, Sterling Juan Diaz, Vani Vachi, Verushka, puppy |
 | Sat, 5 Sept 2026 | SAME FLOOR | Dj Andi, Randali, Vero |

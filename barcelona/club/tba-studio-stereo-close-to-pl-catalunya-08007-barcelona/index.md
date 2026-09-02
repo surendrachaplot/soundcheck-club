@@ -12,7 +12,7 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Fri, 4 Sept 2026 | Studio Stereo pres. Chez Doc showcase (until 4am) | A. CASANOVA, FLEX.cat, Francis99, Funky Shirts MZN, J.Benitez (2), VARAN, VIKk |
 | Sat, 5 Sept 2026 | Studio Stereo pres. Jabba Records showcase (until 4am) | A. CASANOVA, FLEX.cat, Funky Shirts MZN, J.Benitez (2) |
 | Thu, 10 Sept 2026 | Studio Stereo pres. Algoritmo showcase (until 3:30am) | Almuedo, Angel Mellado, srxmas |
-| Fri, 11 Sept 2026 | Studio Stereo x Subwax x Fraise Records (until 3:30am) | Baldo, Wilba |
+| Fri, 11 Sept 2026 | Studio Stereo x Subwax x Fraise (until 3:30am) | Baldo, Wilba |
 | Sat, 12 Sept 2026 | Studio Stereo x DJ Service x Bubble pres. Len Lewis, Jake Hodgkinson (until 3:30am) | DJ Service, Jake Hodgkinson |
 | Thu, 17 Sept 2026 | Studio Stereo pres. Haus Of Beat showcase (until 2:30am) | Eli Kapowski |
 | Fri, 18 Sept 2026 | Studio Stereo x Andami pres. Secret Guest (until 3:30am) | John Heaven, Ter Steven |

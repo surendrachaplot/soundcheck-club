@@ -1,13 +1,14 @@
 # H-Foundation
 
-H-Foundation is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+H-Foundation is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
 
-H-Foundation is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Chicago, Denver, London and Losangeles and 2 more. Often billed alongside Halo Varga, Hipp-e and Maher Daniel. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Losangeles on Sat 14 Nov.
+H-Foundation is a house and tech house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Amsterdam, Chicago, Denver and London and 3 more. Often billed alongside Halo Varga, Hipp-e and Maher Daniel. Next up: TILLATEC, Amsterdam on Mon 26 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played

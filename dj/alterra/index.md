@@ -1,14 +1,14 @@
 # Alterra
 
-Alterra is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Berlin on Fri, 4 Sept 2026.
+Alterra is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bredouille, Berlin on Fri, 4 Sept 2026.
 
-Alterra is a house and minimal techno artist tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Blachord, Jean J. and Papa Hase. Next up: TBA, Berlin on Fri 4 Sept.
+Alterra is a house and minimal techno artist tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Blachord, Jean J. and Papa Hase. Next up: Bredouille, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TBA | Berlin |
+| Fri, 4 Sept 2026 | Bredouille | Berlin |
 | Sat, 12 Sept 2026 | Zemin Art Gallery | Berlin |
 
 ## Recently played

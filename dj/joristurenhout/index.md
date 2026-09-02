@@ -1,14 +1,15 @@
 # Joris Turenhout
 
-Joris Turenhout is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at O der Klub, Vienna on Fri, 2 Oct 2026.
+Joris Turenhout is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at O der Klub, Vienna on Fri, 2 Oct 2026.
 
-Joris Turenhout is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Athens and Berlin and 16 more. Often billed alongside Albin Brezlan, Azzurro and David Maters. Next up: O der Klub, Vienna on Fri 2 Oct.
+Joris Turenhout is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Athens and Berlin and 16 more. Often billed alongside Albin Brezlan, Azzurro and David Maters. Next up: O der Klub, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | O der Klub | Vienna |
+| Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
 | Sun, 25 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played

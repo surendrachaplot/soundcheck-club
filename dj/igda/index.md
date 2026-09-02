@@ -1,14 +1,15 @@
 # IGDA
 
-IGDA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
+IGDA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
 
-IGDA is a techno and trance artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 16 more. Often billed alongside NOTMYTYPE (2), A.N.I. and Kø:lab. Next up: DSTRKT Club Berlin, Berlin on Fri 4 Sept.
+IGDA is a techno and trance artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 16 more. Often billed alongside NOTMYTYPE (2), A.N.I. and Kø:lab. Next up: DSTRKT Club Berlin, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | DSTRKT Club Berlin | Berlin |
+| Sat, 12 Sept 2026 | TBA - New Secret Location - 5 min Walk from S Buckower Chaussee  | Berlin |
 | Sat, 19 Sept 2026 | OST | Berlin |
 | Sat, 19 Sept 2026 | Kilomètre25 | Paris |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |

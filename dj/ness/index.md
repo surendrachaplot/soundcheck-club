@@ -1,14 +1,15 @@
 # Ness
 
-Ness is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+Ness is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
 
-Ness is a techno and trance artist based in Italy, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 24 more. Often billed alongside Andrea Cossu, YUTA and HVL. Next up: Heave Festival, Madrid on Fri 25 Sept.
+Ness is a techno and trance artist based in Italy, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 24 more. Often billed alongside Andrea Cossu, YUTA and Frank Heise. Next up: Heave Festival, Madrid on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Heave Festival | Madrid |
+| Sat, 3 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 9 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
@@ -24,6 +25,6 @@ Ness is a techno and trance artist based in Italy, tracked on soundcheck, with 4
 
 ## Shares bills with
 
-Andrea Cossu, YUTA, HVL
+Andrea Cossu, YUTA, Frank Heise
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ness/)*

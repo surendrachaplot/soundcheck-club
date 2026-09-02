@@ -1,8 +1,8 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Les Enfants Brillants, Barcelona on Sat, 5 Sept 2026.
+Marlie is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Les Enfants Brillants, Barcelona on Sat, 5 Sept 2026.
 
-Marlie is a house and tech house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Auckland, Bali and Barcelona and 24 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Les Enfants Brillants, Barcelona on Sat 5 Sept.
+Marlie is a house and tech house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Auckland, Bali and Barcelona and 25 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: Les Enfants Brillants, Barcelona on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Marlie is a house and tech house artist tracked on soundcheck, with 128 sets log
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
-| Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
+| Fri, 6 Nov 2026 | Fvtvr | Paris |
 
 ## Recently played
 

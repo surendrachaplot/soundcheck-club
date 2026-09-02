@@ -1,14 +1,15 @@
 # nicole lukiys
 
-nicole lukiys is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at AMT, Berlin on Sat, 12 Sept 2026.
+nicole lukiys is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at AMT, Berlin on Sat, 12 Sept 2026.
 
-nicole lukiys is a techno and trance artist tracked on soundcheck, with 23 sets logged across Berlin, Lisbon, London and Madrid and 2 more. Often billed alongside Madson Carpenter, Cruxado and DJ Paradox. Next up: AMT, Berlin on Sat 12 Sept.
+nicole lukiys is a techno and trance artist tracked on soundcheck, with 24 sets logged across Berlin, Lisbon, London and Madrid and 2 more. Often billed alongside David Samó, Dr . Mario and Madson Carpenter. Next up: AMT, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | AMT | Berlin |
+| Sat, 12 Sept 2026 | TBA - New Secret Location - 5 min Walk from S Buckower Chaussee  | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ nicole lukiys is a techno and trance artist tracked on soundcheck, with 23 sets 
 
 ## Shares bills with
 
-Madson Carpenter, Cruxado, DJ Paradox
+David Samó, Dr . Mario, Madson Carpenter
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolelukiys/)*

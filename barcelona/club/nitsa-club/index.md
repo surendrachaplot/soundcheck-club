@@ -1,8 +1,8 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 11 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Club Romantico x DESTRUCCIÓN: DJ Ramon Sucesso · Florentino · Manuka Honey · Safety Trance/ Kia" on Fri, 4 Sept 2026.
+Nitsa Club is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Club Romantico x DESTRUCCIÓN: DJ Ramon Sucesso · Florentino · Manuka Honey · Safety Trance/ Kia" on Fri, 4 Sept 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming nights, with line-ups including acidheaven, Alan Braxe, Altinbas and Anah and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including acidheaven, Alan Braxe, Altinbas and Anah and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 | Sat, 19 Sept 2026 | Braxe + Falcon · LB aka LABAT / Club Expansivo: Animistic Beliefs · KEBRA · Simona Live | Alan Braxe, Animistic Beliefs, Arnau Obiols, DJ F16 Falcon, Julio César, KEBRA, LB aka LABAT, T0M1, Tiyumii |
 | Fri, 25 Sept 2026 | Villano Antillano · PETERBLUE · Solsi / Stef Mendesidis Live · Altinbas · Laia | Altinbas, Laia, PETERBLUE, Stef Mendesidis |
 | Sat, 26 Sept 2026 | Modeselektor DJ Set / DJ AYA · Supergloss · acidheaven | DJ AYA, Dzeko, Modeselektor, Supergloss, acidheaven |
-| Fri, 16 Oct 2026 | Silva Bumpa | Silva Bumpa |
+| Fri, 2 Oct 2026 | Pegassi | Pegassi |
 
 ## Address
 

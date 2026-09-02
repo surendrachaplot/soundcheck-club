@@ -1,14 +1,14 @@
 # Abribass
 
-Abribass is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Berlin on Fri, 4 Sept 2026.
+Abribass is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bredouille, Berlin on Fri, 4 Sept 2026.
 
-Abribass is a house and tech house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Blachord, Papa Hase and Anaté. Next up: TBA, Berlin on Fri 4 Sept.
+Abribass is a house and tech house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Blachord, Papa Hase and Anaté. Next up: Bredouille, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TBA | Berlin |
+| Fri, 4 Sept 2026 | Bredouille | Berlin |
 | Wed, 23 Sept 2026 | Spielbank Berlin am Potsdamer Platz | Berlin |
 | Wed, 7 Oct 2026 | Spielbank Berlin am Potsdamer Platz | Berlin |
 

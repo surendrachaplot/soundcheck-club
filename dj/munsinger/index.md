@@ -1,0 +1,28 @@
+# Munsinger
+
+Munsinger is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at DOCK B, Paris on Sat, 5 Sept 2026.
+
+Munsinger is a techno and ebm artist based in France, tracked on soundcheck, with 39 sets logged across Berlin, Brussels, Lisbon and London and 4 more. Often billed alongside 24sex-b, Oxblood and Ixpé. Next up: DOCK B, Paris on Sat 5 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Sept 2026 | DOCK B | Paris |
+
+## Recently played
+
+- Home Club, Sao Paulo — Fri, 14 Aug 2026
+- The Cause, London — Sat, 2 May 2026
+- Kømplex Lisbon, Lisbon — Sat, 14 Mar 2026
+- Distillery N17, London — Fri, 6 Mar 2026
+- DOCK B, Paris — Sat, 24 Jan 2026
+- DOCK B, Paris — Sat, 8 Nov 2025
+- La Palmeraie Paris, Paris — Sat, 25 Oct 2025
+- TBA - SECRET WAREHOUSE, Lyon — Sat, 4 Oct 2025
+
+## Shares bills with
+
+24sex-b, Oxblood, Ixpé
+
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munsinger/)*

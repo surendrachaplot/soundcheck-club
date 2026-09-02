@@ -1,8 +1,8 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "KHAOS X KHIDI 10 ans: Regal, NEUX, 00rt & Panzer" on Fri, 4 Sept 2026.
+Mia Mao is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "KHAOS X KHIDI 10 ans: Regal, NEUX, 00rt & Panzer" on Fri, 4 Sept 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including 00rt, Adame DJ, Alba Franch and Amine S and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including 00rt, Adame DJ, Alba Franch and Alex Nantaya and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 

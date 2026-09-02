@@ -1,13 +1,14 @@
 # Bredouille
 
-Bredouille is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "BAR NIGHT - House Infected by embraceOurweird" on Sat, 5 Sept 2026.
+Bredouille is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Be - Play - Dance - Love" on Fri, 4 Sept 2026.
 
-Bredouille is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including JaFrei Loufoque, Phat Beat and RedtomCat. Browse upcoming dates, start times and who's playing. S-Bahnbogen 199, Georgenstraße, 10117 Berlin, Germany.
+Bredouille is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including Abribass, Alterra, Blachord and JaFrei Loufoque and 2 more. Browse upcoming dates, start times and who's playing. S-Bahnbogen 199, Georgenstraße, 10117 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Be - Play - Dance - Love | Abribass, Alterra, Blachord, Papa Hase, Wallat Wallat |
 | Sat, 5 Sept 2026 | BAR NIGHT - House Infected by embraceOurweird | JaFrei Loufoque, Phat Beat, RedtomCat |
 
 ## Address

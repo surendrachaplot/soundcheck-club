@@ -1,14 +1,15 @@
 # Liana
 
-Liana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 3oz Dive Club, San Diego on Sat, 12 Sept 2026.
+Liana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 3oz Dive Club, San Diego on Sat, 12 Sept 2026.
 
-Liana is a house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Pacome, Fer (ES) and A.M. Project. Next up: 3oz Dive Club, Sandiego on Sat 12 Sept.
+Liana is a house and techno artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Pacome, Fer (ES) and A.M. Project. Next up: 3oz Dive Club, Sandiego on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | 3oz Dive Club | San Diego |
+| Sat, 19 Sept 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played
 

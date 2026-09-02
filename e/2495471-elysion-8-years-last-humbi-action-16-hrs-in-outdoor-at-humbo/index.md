@@ -1,6 +1,6 @@
 # Elysion 8 Years // Last Humbi Action? // 16 hrs // In- & Outdoor at Humboldthain Club
 
-Elysion 8 Years // Last Humbi Action? // 16 hrs // In- & Outdoor at Humboldthain Club on Fri 23 Oct, Berlin. 5 acts on the bill: Dexy's Midnight, krawallwitz, Simon Eickenboom and Smoothie Operator and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Elysion 8 Years // Last Humbi Action? // 16 hrs // In- & Outdoor at Humboldthain Club on Fri 23 Oct, Berlin. 6 acts on the bill: Dexy's Midnight, krawallwitz, OTG(1) and Simon Eickenboom and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Elysion 8 Years // Last Humbi Action? // 16 hrs // In- & Outdoor at Humboldthain
 
 - Dexy's Midnight
 - krawallwitz
+- OTG(1)
 - Simon Eickenboom
 - Smoothie Operator
 - YOVA

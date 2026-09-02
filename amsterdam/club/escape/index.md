@@ -1,6 +1,6 @@
 # Escape
 
-Escape is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Theory X Showcase - Royal Room , Escape - ADE" on Wed, 21 Oct 2026.
+Escape is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Theory X ADE Showcase w/ Timo Maas, Sezer Uysal & Many More " on Wed, 21 Oct 2026.
 
 Escape is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including ALADAG, Baime, Emanate and FAITH and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 11; 1017 Binnestad; Amsterdam; Netherlands.
 
@@ -8,7 +8,7 @@ Escape is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Theory X Showcase - Royal Room , Escape - ADE | ALADAG, Baime, Emanate, FAITH, James Harcourt, LAMPETEE, OZBEK, Sezer Uysal, Timo Maas, UTKU, VIIA |
+| Wed, 21 Oct 2026 | Theory X ADE Showcase w/ Timo Maas, Sezer Uysal & Many More  | ALADAG, Baime, Emanate, FAITH, James Harcourt, LAMPETEE, OZBEK, Sezer Uysal, Timo Maas, UTKU, VIIA |
 | Fri, 23 Oct 2026 | LEVI ADE at Free Your Mind Club | Levi (AU) |
 | Sat, 24 Oct 2026 | Paco Osuna x Now Here ADE |  |
 | Sun, 25 Oct 2026 | HALŌ ADE 2026 |  |

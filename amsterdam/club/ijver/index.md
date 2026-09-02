@@ -1,8 +1,8 @@
 # Ijver
 
-Ijver is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "De Binnenstad x TNT Records" on Thu, 22 Oct 2026.
+Ijver is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "De Binnenstad x TNT Records" on Thu, 22 Oct 2026.
 
-Ijver is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including ANNASNEL, Baron Von Trax, Brent Honey and Diffrent and 2 more. Browse upcoming dates, start times and who's playing. Scheepsbouwkade 72, 1033 WM Amsterdam.
+Ijver is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including ANNASNEL, Anz, Baron Von Trax and Brent Honey and 2 more. Browse upcoming dates, start times and who's playing. Scheepsbouwkade 72, 1033 WM Amsterdam.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Ijver is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, wit
 | Fri, 23 Oct 2026 | Kompakt ADE | Extrawelt, Michael Mayer, Robag Wruhme |
 | Fri, 23 Oct 2026 | De Binnenstad x Sam Hofman Invites | ANNASNEL, Baron Von Trax, Brent Honey, Julian Wijn, Justin Jay, Sam Hofman |
 | Sat, 24 Oct 2026 | De Binnenstad x Southern Fried Records |  |
+| Sat, 24 Oct 2026 | Ewan McVicar presents Club Knuckles ADE | Anz, Ewan McVicar, Giulia Tess, Jasper James, Young Marco |
 | Sun, 25 Oct 2026 | Lost Miracle ADE | Roy Rosenfeld, Sebastien Leger |
 
 ## Address

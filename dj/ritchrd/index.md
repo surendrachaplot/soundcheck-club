@@ -10,7 +10,7 @@ RITCHRD is a club and techno artist tracked on soundcheck, with 112 sets logged 
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 11 Sept 2026 | Rotterdam Centre | Rotterdam |
-| Sun, 13 Sept 2026 | Zeralda | Paris |
+| Sun, 13 Sept 2026 | Le Zeralda | Paris |
 | Fri, 2 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Fri, 23 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 

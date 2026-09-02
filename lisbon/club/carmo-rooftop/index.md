@@ -1,8 +1,8 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Slow Burn Fridays with Kee_ko & Zoy" on Fri, 4 Sept 2026.
+Carmo Rooftop is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Slow Burn Fridays with Kee_ko & Zoy" on Fri, 4 Sept 2026.
 
-Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Alive, boscar, Carlos Regadas and Eric Furtado and 2 more. Browse upcoming dates, start times and who's playing. Terraços do Carmo Lisboa.
+Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including Alive, boscar, Carlos Regadas and DJ Senc and 2 more. Browse upcoming dates, start times and who's playing. Terraços do Carmo Lisboa.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 4 upcoming nights
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Slow Burn Fridays with Kee_ko & Zoy | Kee_ko, Pedro Zoy |
 | Fri, 11 Sept 2026 | Dusk Sessions: Minimalista invites Re Clubbing & Boots & Cats | Kee_ko, MURI, PAZ WAZ HERE, XipNoize, boscar |
+| Thu, 17 Sept 2026 | SWOOP with DJ Senc & Kee_ko | DJ Senc, Kee_ko |
 | Sun, 20 Sept 2026 | Alive ‣ Carlos Regadas ‣ Rui Alves / SUNDAY 1 NOV × CARMO ROOFTOP • FREE | Alive, Carlos Regadas, Eric Furtado, Rui Alves, SLIM J |
 | Sun, 4 Oct 2026 | MIKOLAÏ ‣ Rui Alves ‣ Kee_ko - SUNDAY 4 OUT • CARMO ROOFTOP • FREE ENTRY | Kee_ko, Rui Alves |
 

@@ -1,8 +1,8 @@
 # Alfred Czital
 
-Alfred Czital is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gare Porto, Porto on Sat, 12 Sept 2026.
+Alfred Czital is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gare Porto, Porto on Sat, 12 Sept 2026.
 
-Alfred Czital is a techno and trance artist tracked on soundcheck, with 115 sets logged across Bangkok, Berlin, Bristol and Copenhagen and 22 more. Often billed alongside Yan (CZ), Raleigh and Zeynep. Next up: Gare Porto, Porto on Sat 12 Sept.
+Alfred Czital is a techno and trance artist tracked on soundcheck, with 116 sets logged across Bangkok, Berlin, Bristol and Copenhagen and 22 more. Often billed alongside Yan (CZ), Raleigh and Zeynep. Next up: Gare Porto, Porto on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alfred Czital is a techno and trance artist tracked on soundcheck, with 115 sets
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Gare Porto | Porto |
 | Fri, 18 Sept 2026 | Fuchs2 | Prague |
+| Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

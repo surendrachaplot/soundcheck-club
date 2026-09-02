@@ -1,8 +1,8 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "PULS x shockwerk x coconut concepts pres. LAST SUMMER NIGHT" on Fri, 4 Sept 2026.
+RSO.BERLIN is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "PULS x shockwerk x coconut concepts pres. LAST SUMMER NIGHT" on Fri, 4 Sept 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AEREA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AEREA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
@@ -16,8 +16,8 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 14 upcoming nights, 
 | Sat, 19 Sept 2026 | 11 Years Selected | CAIVA, Carmen Electro, EMILIJA, Ellen Trenn, FANK, FLACCO, Frederic., Iman Janes, Luxi Villar, Part Time Killer, Trancemaster Krause, Vermeer, fumi (DE), ÜBERKIKZ |
 | Fri, 25 Sept 2026 | SESH | 2HOT2PLAY, Bruno Brero, GEN97, NYRA (DE), Paraçek, SATYS FYRE, Shake Daddy, XIMA, davyboi |
 | Sat, 26 Sept 2026 | XTRUDE w/ Matrixxman, Anabel Arroyo, Francois X, AgainstMe live, Jensen Interceptor | AgainstMe, Alírio, Anabel Arroyo, Beibeilon, DJ 86, EMAN (FR), François X, Hontas, Jensen Interceptor, Jin Synth, Matrixxman, Árni |
-| Fri, 23 Oct 2026 | Open2Close: Juliana Huxtable all night long | Juliana Huxtable |
-| Sat, 24 Oct 2026 | HEISSS I 30 hours | Amphia, Cryptofauna, Disguised, Ignez, Kaiser (K S R), Kim She, Toobris |
+| Fri, 2 Oct 2026 | X-IZE w/ Dr. Rubinstein, Omon Breaker, Schwefelgelb live and Supergloss | Dr. Rubinstein, Omon Breaker, Schwefelgelb, Supergloss |
+| Sat, 3 Oct 2026 | XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y | ANNĒ, AYIM, Exos, FILTH.y, Frank Heise, Félicie, JKS, MXV (1), Maōh, Mefteh, Ness, Philipp Drube, Rebecca Delle Piane, SHDW, Sioc |
 
 ## Address
 

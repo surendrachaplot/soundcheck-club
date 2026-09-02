@@ -1,6 +1,6 @@
-# Keyi Magazine fundraiser with Louisahhh live, Gem Wallow , Berlin Bunny b2b Facets at Phantom Bar Berlin
+# Keyi Magazine fundraiser with Louisahhh live, Gem Wallow , Berlin Bunny b2b Facets, Shanda at Phantom Bar Berlin
 
-Keyi Magazine fundraiser with Louisahhh live, Gem Wallow , Berlin Bunny b2b Facets at Phantom Bar Berlin on Sat 26 Sept, Berlin. 9 acts on the bill: Berlin Bunny, Eyesdice, Fabrizio Mammarella and Facets and 5 more. Techno and Italo Disco. Preview the line-up and save it on soundcheck.
+Keyi Magazine fundraiser with Louisahhh live, Gem Wallow , Berlin Bunny b2b Facets, Shanda at Phantom Bar Berlin on Sat 26 Sept, Berlin. 9 acts on the bill: Berlin Bunny, Eyesdice, Fabrizio Mammarella and Facets and 5 more. Techno and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
