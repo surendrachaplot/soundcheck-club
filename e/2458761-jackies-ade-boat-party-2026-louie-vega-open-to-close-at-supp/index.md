@@ -1,6 +1,6 @@
 # Jackies ADE Boat Party 2026 - Louie Vega - Open to Close at Supperclub Cruise
 
-Jackies ADE Boat Party 2026 - Louie Vega - Open to Close at Supperclub Cruise on Thu 22 Oct, Amsterdam. 2 acts on the bill: Louie Vega and Piem. House. Preview the line-up and save it on soundcheck.
+Jackies ADE Boat Party 2026 - Louie Vega - Open to Close at Supperclub Cruise on Thu 22 Oct, Amsterdam. 4 acts on the bill: GIVIO, Grace Kim, Louie Vega and Piem. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Jackies ADE Boat Party 2026 - Louie Vega - Open to Close at Supperclub Cruise on
 
 ## Line-up
 
+- GIVIO
+- Grace Kim
 - Louie Vega
 - Piem
 

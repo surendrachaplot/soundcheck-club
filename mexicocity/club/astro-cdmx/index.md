@@ -1,6 +1,6 @@
 # Astro Cdmx
 
-Astro Cdmx is a music venue in Mexico City with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Algo Bien x Lit Culture: Hecho en México" on Tue, 15 Sept 2026.
+Astro Cdmx is a music venue in Mexico City with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Algo Bien x LIT Culture: Hecho en México" on Tue, 15 Sept 2026.
 
 Astro Cdmx is a music venue in Mexicocity listed on soundcheck. 2 upcoming nights, with line-ups including Babybruise, EL NICK DGO and Nusar3000. Browse upcoming dates, start times and who's playing. Calle Dr. Carmona y Valle 147.
 
@@ -8,7 +8,7 @@ Astro Cdmx is a music venue in Mexicocity listed on soundcheck. 2 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 15 Sept 2026 | Algo Bien x Lit Culture: Hecho en México |  |
+| Tue, 15 Sept 2026 | Algo Bien x LIT Culture: Hecho en México |  |
 | Fri, 2 Oct 2026 | NUSAR3000 | Babybruise, EL NICK DGO, Nusar3000 |
 
 ## Address

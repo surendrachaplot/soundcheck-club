@@ -1,14 +1,15 @@
 # Capes
 
-Capes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Better Tomorrow, Los Angeles on Thu, 24 Sept 2026.
+Capes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Better Tomorrow, Los Angeles on Thu, 24 Sept 2026.
 
-Capes is a house and techno artist based in United States of America, tracked on soundcheck, with 68 sets logged across Chicago, Losangeles, Mexicocity and Newyorkcity and 1 more. Often billed alongside Adult Hits, Hazy and fun2bjane. Next up: Better Tomorrow, Losangeles on Thu 24 Sept.
+Capes is a house and techno artist based in United States of America, tracked on soundcheck, with 69 sets logged across Chicago, Losangeles, Mexicocity and Newyorkcity and 1 more. Often billed alongside Adult Hits, Hazy and fun2bjane. Next up: Better Tomorrow, Losangeles on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Better Tomorrow | Los Angeles |
+| Sat, 10 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 

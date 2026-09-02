@@ -11,7 +11,7 @@ YuYu Cine Club is a music venue in Mexicocity listed on soundcheck. 8 upcoming n
 | Fri, 4 Sept 2026 | Yu Yu Cine Club: HYANNI, Adam BFD, DJ Mir | Adam BFD, HEN YANNI |
 | Sat, 5 Sept 2026 | Yu Yu Cine Club: Goldie | Goldie |
 | Fri, 11 Sept 2026 | Yu Yu Cine Club: Skatebård | Skatebård |
-| Sat, 12 Sept 2026 | Yu Yu Cine Club: XAME takeover | Botelo, Sabina Palma |
+| Sat, 12 Sept 2026 | Yu Yu Cine Club: XAME takeover | Botelo, Haz Lof, Sabina Palma |
 | Fri, 18 Sept 2026 | Yu Yu Cine Club: Bonbon takeover with Virginia | Virginia, daveh00d |
 | Sat, 19 Sept 2026 | Yu Yu Cine Club: PWR takeover with Jen Cardini | Jen Cardini, Mystery Affair |
 | Fri, 25 Sept 2026 | Yu Yu Cine Club: Softi, Remille, Seagit Arc | Remille, Seagit Arc, Softi |

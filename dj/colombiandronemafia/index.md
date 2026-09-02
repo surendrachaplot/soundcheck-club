@@ -1,13 +1,14 @@
 # Colombian Drone Mafia
 
-Colombian Drone Mafia is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Colombian Drone Mafia is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sauna Social Club, London on Fri, 11 Sept 2026.
 
-Colombian Drone Mafia is a techno and electronica artist tracked on soundcheck, with 18 sets logged across Berlin, London and Philadelphia. Often billed alongside Nyksan, Ehua and Nick León. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Colombian Drone Mafia is a techno and electronica artist tracked on soundcheck, with 19 sets logged across Berlin, London and Philadelphia. Often billed alongside Nyksan, Ehua and Nick León. Next up: Sauna Social Club, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Sauna Social Club | London |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 
 ## Recently played

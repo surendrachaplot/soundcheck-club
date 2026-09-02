@@ -17,7 +17,7 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 15 upcoming n
 | Fri, 2 Oct 2026 | House of Grooves: Eli Escobar All Night + Sissies of Mercy | Eli Escobar, Sissies of Mercy |
 | Sat, 3 Oct 2026 | RAW CUTS x House of Yes: DJ Minx | DJ Minx |
 | Sat, 3 Oct 2026 | RAW CUTS X House of Yes: DJ Minx | Bella Mutino, Bridge (NY), DJ Minx, EREZ.JPG, JMT (2), Mac Briggs, Willy Gorgon |
-| Sat, 10 Oct 2026 | LIBRA RISING: Aluna and More | Aluna |
+| Sat, 10 Oct 2026 | LIBRA RISING: Aluna, Darling Cool, Niara Sterling | Aluna, Darling Cool, Niara Sterling |
 
 ## Address
 

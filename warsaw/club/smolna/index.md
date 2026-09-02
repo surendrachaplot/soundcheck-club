@@ -15,7 +15,7 @@ Smolna is a music venue in Warsaw listed on soundcheck. 8 upcoming nights, with 
 | Fri, 18 Sept 2026 | Smolna SEASON OPENING DAY 1: Panteros666, Franca | Franca, Panteros666, Robsessive, RĀMZĪ, vitcat (3) |
 | Sat, 19 Sept 2026 | Smolna SEASON OPENING DAY 2: Immerse pres MOIA, Sven Dohse | Cwtv, MOIA, Sven Dohse |
 | Fri, 25 Sept 2026 | Smolna: EARGASM GOD Invites | EARGASM GOD |
-| Sat, 26 Sept 2026 | Smolna: Sam Paganini | Drumaddition, Mady, Robi Lora, Sam Paganini, Santi |
+| Sat, 26 Sept 2026 | Smolna: Sam Paganini | Drumaddition, Mady, Pascale Voltaire, Robi Lora, Sam Paganini, Santi |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # future.666
 
-future.666 is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, Boston on Fri, 4 Sept 2026.
+future.666 is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, Boston on Fri, 4 Sept 2026.
 
-future.666 is a techno and trance artist tracked on soundcheck, with 224 sets logged across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: TBA - Secret Location, Boston on Fri 4 Sept.
+future.666 is a techno and trance artist tracked on soundcheck, with 225 sets logged across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: TBA - Secret Location, Boston on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ future.666 is a techno and trance artist tracked on soundcheck, with 224 sets lo
 | Fri, 4 Sept 2026 | TBA - Secret Location | Boston |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | Domicile | Miami |
+| Mon, 7 Sept 2026 | Refuge | New York City |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | Schrotty | Cologne |
 | Sat, 12 Sept 2026 | TILLATEC | Amsterdam |
@@ -19,7 +20,6 @@ future.666 is a techno and trance artist tracked on soundcheck, with 224 sets lo
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Spook Club | Valencia |
 | Fri, 30 Oct 2026 | E1 | London |
-| Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

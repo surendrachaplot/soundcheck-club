@@ -9,7 +9,7 @@ California Plaza is a music venue in Losangeles listed on soundcheck. 2 upcoming
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Planet X | Ben Sterling, Dean Turnley, Rafael |
-| Sat, 10 Oct 2026 | Marques Wyatt B2B Doc Martin - Imagine Luv presents: A Celebration of House Music | Big Cee, David Harness, Doc Martin, Marques Wyatt, SEEPS |
+| Sat, 10 Oct 2026 | [CANCELLED] Marques Wyatt B2B Doc Martin - Imagine Luv presents: A Celebration of House Music | Big Cee, David Harness, Doc Martin, Marques Wyatt, SEEPS |
 
 ## Address
 

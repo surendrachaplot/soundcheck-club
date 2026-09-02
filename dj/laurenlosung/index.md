@@ -1,13 +1,14 @@
 # Lauren Lo Sung
 
-Lauren Lo Sung is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+Lauren Lo Sung is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Index, Dublin on Fri, 11 Sept 2026.
 
-Lauren Lo Sung is a house and tech house artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 24 more. Often billed alongside Fabe, Luuk van Dijk and Prunk. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
+Lauren Lo Sung is a house and tech house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 25 more. Often billed alongside Fabe, Luuk van Dijk and Prunk. Next up: Index, Dublin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Index | Dublin |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Sat, 12 Sept 2026 | XOYO | London |
 | Sun, 13 Sept 2026 | Thuishaven | Amsterdam |

@@ -12,7 +12,7 @@ TOXIMAMI is a techno and trance artist tracked on soundcheck, with 62 sets logge
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Sat, 26 Sept 2026 | Südbrücke Open Air | Cologne |
 | Sat, 17 Oct 2026 | De Flesjesfabriek | Ghent |
-| Sat, 24 Oct 2026 | Universe Athens | Athens |
+| Sat, 7 Nov 2026 | Oddity Club | Athens |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 

@@ -1,14 +1,15 @@
 # Penglord
 
-Penglord is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
+Penglord is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
 
-Penglord is a techno and house artist based in Germany, tracked on soundcheck, with 64 sets logged across Basel, Berlin, Cologne and Frankfurt and 7 more. Often billed alongside P.Vanillaboy, EliaHaze and Hello Sasy. Next up: Renate, Berlin on Fri 18 Sept.
+Penglord is a techno and house artist based in Germany, tracked on soundcheck, with 65 sets logged across Basel, Berlin, Cologne and Frankfurt and 7 more. Often billed alongside P.Vanillaboy, EliaHaze and Hello Sasy. Next up: Renate, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Renate | Berlin |
+| Sat, 28 Nov 2026 | Schrotty | Cologne |
 
 ## Recently played
 

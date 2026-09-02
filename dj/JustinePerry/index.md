@@ -9,7 +9,7 @@ Justine Perry is a techno and house artist tracked on soundcheck, with 158 sets 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | RSO.BERLIN | Berlin |
-| Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 

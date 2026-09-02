@@ -1,8 +1,8 @@
 # TBA - Secret Warehouse
 
-TBA - Secret Warehouse is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "RAW • Perc, Schacke, Obscure Shape B2B Alex Nantaya, Blame The Mono, MZA" on Sat, 5 Sept 2026.
+TBA - Secret Warehouse is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "RAW • Perc, Schacke, Obscure Shape B2B Alex Nantaya, Blame The Mono, MZA" on Sat, 5 Sept 2026.
 
-TBA - Secret Warehouse is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Alex Nantaya, B!B!, Beau Didier and Blame The Mono and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Warehouse is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including -CZAR, Alex Nantaya, B!B! and Beau Didier and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -12,6 +12,7 @@ TBA - Secret Warehouse is a music venue in Paris listed on soundcheck. 6 upcomin
 | Sat, 12 Sept 2026 | 3 YEARS OF GRÜV • Chlär, RUIZ OSC1, KUSS (live), Beau Didier, KALTBLUME b2b Siana | Beau Didier, Chlär, KALTBLUME, KUSS, RUIZ OSC1 |
 | Sat, 12 Sept 2026 | SECRET WAREHOUSE RAVE | B!B!, DAVIDE (2), Flex on Trax, Leenberger, MARRED, Szunflower, Tinto (UK), Tristan K (1), Tschatsching, mabo |
 | Sat, 3 Oct 2026 | RAW XXS #15 • Secret warehouse |  |
+| Fri, 30 Oct 2026 | UNHOLY Halloween | -CZAR, C:3, Memphy |
 | Sat, 31 Oct 2026 | RAW HALLOWEEN 2026 |  |
 | Sat, 14 Nov 2026 | GRÜV x  |  |
 

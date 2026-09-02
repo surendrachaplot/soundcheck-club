@@ -1,6 +1,6 @@
 # Golden Record NYC x pregame present Malika, Liquid Earth at Green Room NYC
 
-Golden Record NYC x pregame present Malika, Liquid Earth at Green Room NYC on Fri 18 Sept, Newyorkcity. 5 acts on the bill: Armii1n, Daizy, Liquid Earth and Malika and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Golden Record NYC x pregame present Malika, Liquid Earth at Green Room NYC on Fri 18 Sept, Newyorkcity. 7 acts on the bill: Armii1n, Daizy, DLR and LIMBIC and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ Golden Record NYC x pregame present Malika, Liquid Earth at Green Room NYC on Fr
 
 - Armii1n
 - Daizy
+- DLR
+- LIMBIC
 - Liquid Earth
 - Malika
 - Max Web

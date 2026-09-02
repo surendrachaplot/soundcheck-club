@@ -1,6 +1,6 @@
 # Benny Yasoto & Co at Doggy Klœb
 
-Benny Yasoto & Co at Doggy Klœb on Sat 19 Sept, Malaga. Preview the line-up and save it on soundcheck.
+Benny Yasoto & Co at Doggy Klœb on Sat 19 Sept, Malaga. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

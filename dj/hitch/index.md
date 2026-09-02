@@ -1,8 +1,8 @@
 # Hitch
 
-Hitch is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 18 Sept 2026.
+Hitch is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Fri, 18 Sept 2026.
 
-Hitch is a techno and house artist based in Spain, tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 5 more. Often billed alongside Alex (ES), Sampol and Javier Carballo. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 18 Sept.
+Hitch is a techno and house artist based in Spain, tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 5 more. Often billed alongside Alex (ES), Sampol and Javier Carballo. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Hitch is a techno and house artist based in Spain, tracked on soundcheck, with 1
 | Sat, 19 Sept 2026 | Spook Club | Valencia |
 | Sat, 26 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sun, 27 Sept 2026 | ZUBAR | Tokyo |
+| Sun, 27 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Fri, 13 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 
 ## Recently played

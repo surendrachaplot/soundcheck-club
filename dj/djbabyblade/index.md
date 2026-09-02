@@ -1,13 +1,14 @@
 # DJ Babyblade
 
-DJ Babyblade is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sun, 25 Oct 2026.
+DJ Babyblade is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Grüner Jäger, Hamburg on Fri, 11 Sept 2026.
 
-DJ Babyblade is a techno and house artist tracked on soundcheck, with 114 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside EliaHaze, DJ SOURCE and Anton Jonathan. Next up: Café Schöne Aussichten (CSA), Hamburg on Sun 25 Oct.
+DJ Babyblade is a techno and house artist tracked on soundcheck, with 115 sets logged across Berlin, Frankfurt, Hamburg and Munich and 1 more. Often billed alongside EliaHaze, DJ SOURCE and Anton Jonathan. Next up: Grüner Jäger, Hamburg on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Grüner Jäger | Hamburg |
 | Sun, 25 Oct 2026 | Café Schöne Aussichten (CSA) | Hamburg |
 
 ## Recently played

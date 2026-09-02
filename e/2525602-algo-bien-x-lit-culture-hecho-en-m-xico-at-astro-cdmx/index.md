@@ -1,6 +1,6 @@
-# Algo Bien x Lit Culture: Hecho en México at Astro Cdmx
+# Algo Bien x LIT Culture: Hecho en México at Astro Cdmx
 
-Algo Bien x Lit Culture: Hecho en México at Astro Cdmx on Tue 15 Sept, Mexicocity. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
+Algo Bien x LIT Culture: Hecho en México at Astro Cdmx on Tue 15 Sept, Mexicocity. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

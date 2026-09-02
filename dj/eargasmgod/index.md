@@ -9,7 +9,7 @@ EARGASM GOD is a techno and trance artist tracked on soundcheck, with 162 sets l
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Phonox | London |
-| Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Fri, 25 Sept 2026 | Smolna | Warsaw |
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |

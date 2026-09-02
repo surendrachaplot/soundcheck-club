@@ -2,7 +2,7 @@
 
 Gretchen is a music venue in Berlin with 47 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "G SESSIONS - 360 ° (Live) Show feat. MOSES YOOFEE TRIO, ISHA & SEDRIC PERRY" on Thu, 10 Sept 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 47 upcoming nights, with line-ups including Acid Arab, Alley Cat, Allynx and Bel Cobain and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 47 upcoming nights, with line-ups including Acid Arab, Alley Cat, alllone and Allynx and 2 more. Browse upcoming dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 

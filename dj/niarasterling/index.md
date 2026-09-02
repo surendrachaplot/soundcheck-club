@@ -1,14 +1,15 @@
 # Niara Sterling
 
-Niara Sterling is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 12 Sept 2026.
+Niara Sterling is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 12 Sept 2026.
 
-Niara Sterling is a house and afro house artist tracked on soundcheck, with 43 sets logged across Newyorkcity and Washingtondc. Often billed alongside Meedy, pizzi and Cosmo (NY). Next up: Dead Letter No. 9, Newyorkcity on Sat 12 Sept.
+Niara Sterling is a house and afro house artist tracked on soundcheck, with 44 sets logged across Newyorkcity and Washingtondc. Often billed alongside Meedy, pizzi and Cosmo (NY). Next up: Dead Letter No. 9, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Dead Letter No. 9 | New York City |
+| Sat, 10 Oct 2026 | House of Yes | New York City |
 
 ## Recently played
 

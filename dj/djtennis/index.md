@@ -1,8 +1,8 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+DJ Tennis is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-DJ Tennis is a house and techno artist tracked on soundcheck, with 299 sets logged across Amsterdam, Antwerp, Austin and Bali and 55 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+DJ Tennis is a house and techno artist tracked on soundcheck, with 300 sets logged across Amsterdam, Antwerp, Austin and Bali and 55 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ DJ Tennis is a house and techno artist tracked on soundcheck, with 299 sets logg
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
+| Sat, 31 Oct 2026 | Warehouse on Watts | Philadelphia |
 | Fri, 6 Nov 2026 | Frankhan Selectist | Istanbul |
 | Fri, 13 Nov 2026 | Coda | Toronto |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |

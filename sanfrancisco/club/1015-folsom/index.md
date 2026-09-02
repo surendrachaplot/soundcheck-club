@@ -8,7 +8,7 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | Roni Size | Roni Size |
+| Thu, 3 Sept 2026 | Roni Size | Roni Size, mf mama, nonsuit |
 | Fri, 4 Sept 2026 | Jason Ross | BLUKE, Moheato |
 | Thu, 10 Sept 2026 | THROTTLE: D. Dan | Black Plastica, Cruz de Cal, D.Dan, Tatiana Vaughan (2), soundswhile |
 | Fri, 11 Sept 2026 | Pendulum | Andromedik, Pendulum |

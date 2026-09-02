@@ -1,14 +1,15 @@
 # Rama (2)
 
-Rama (2) is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Private Location, Berlin on Sat, 5 Sept 2026.
+Rama (2) is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Private Location, Berlin on Sat, 5 Sept 2026.
 
-Rama (2) is an experimental and bass artist tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside ZULI, Assyouti and Bungalovv. Next up: TBA - Private Location, Berlin on Sat 5 Sept.
+Rama (2) is an experimental and bass artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside ZULI, Assyouti and Bungalovv. Next up: TBA - Private Location, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA - Private Location | Berlin |
+| Fri, 25 Sept 2026 | Panke | Berlin |
 
 ## Recently played
 

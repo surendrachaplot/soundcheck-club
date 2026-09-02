@@ -9,7 +9,7 @@ Colin Benders is a techno and house artist based in Netherlands, tracked on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Barraca | Valencia |
-| Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Sat, 26 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | Flash | Washington DC |
 | Sun, 11 Oct 2026 | TBA - Secret Location | Toronto |

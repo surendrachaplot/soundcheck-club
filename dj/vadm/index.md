@@ -1,14 +1,17 @@
 # VADM
 
-VADM is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Atlas Superclub, Bali on Wed, 2 Sept 2026.
+VADM is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Atlas Superclub, Bali on Wed, 2 Sept 2026.
 
-VADM is a techno and progressive house artist based in Russia, tracked on soundcheck, with 66 sets logged across Bali. Often billed alongside James Taylor (AU), Edger and Fran Tinez. Next up: Atlas Superclub, Bali on Wed 2 Sept.
+VADM is a techno and progressive house artist based in Russia, tracked on soundcheck, with 69 sets logged across Bali. Often billed alongside James Taylor (AU), Edger and Fran Tinez. Next up: Atlas Superclub, Bali on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | Atlas Superclub | Bali |
+| Thu, 3 Sept 2026 | TBA - after dark | Bali |
+| Fri, 4 Sept 2026 | Red Ruby | Bali |
+| Sat, 5 Sept 2026 | TBA - Izzi Lounge Bali | Bali |
 
 ## Recently played
 

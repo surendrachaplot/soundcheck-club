@@ -1,0 +1,18 @@
+# Insomnia London: Launch at Phonox at Phonox
+
+Insomnia London: Launch at Phonox on Thu 10 Sept, London. 4 acts on the bill: DJ Love UK, DJelley, LUX (uk) and TINO (2). Techno and Bass. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 10 Sept 2026 |
+| Venue | Phonox |
+| City | London |
+
+## Line-up
+
+- DJ Love UK
+- DJelley
+- LUX (uk)
+- TINO (2)
+
+*Source: [soundcheck](https://soundcheck.club/e/2499131-insomnia-london-launch-at-phonox-at-phonox/)*

@@ -1,6 +1,6 @@
 # Knockout presenta: Mietze Conte en CDMX at Lago Algo
 
-Knockout presenta: Mietze Conte en CDMX at Lago Algo on Fri 11 Sept, Mexicocity. 2 acts on the bill: Lyo XS and Mietze Conte. Electronica. Preview the line-up and save it on soundcheck.
+Knockout presenta: Mietze Conte en CDMX at Lago Algo on Fri 11 Sept, Mexicocity. 3 acts on the bill: Dj Luigi, Lyo XS and Mietze Conte. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Knockout presenta: Mietze Conte en CDMX at Lago Algo on Fri 11 Sept, Mexicocity.
 
 ## Line-up
 
+- Dj Luigi
 - Lyo XS
 - Mietze Conte
 

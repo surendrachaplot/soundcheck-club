@@ -1,14 +1,15 @@
 # Pluge
 
-Pluge is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Groove Bar, Prague on Fri, 4 Sept 2026.
+Pluge is a Dub Techno and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Groove Bar, Prague on Fri, 4 Sept 2026.
 
-Pluge is a dub techno and techno artist based in Czech Republic, tracked on soundcheck, with 26 sets logged across Prague. Often billed alongside Thomas Tesla, nnastie and Lillou. Next up: Groove Bar, Prague on Fri 4 Sept.
+Pluge is a dub techno and techno artist based in Czech Republic, tracked on soundcheck, with 27 sets logged across Prague. Often billed alongside Thomas Tesla, nnastie and Lillou. Next up: Groove Bar, Prague on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Groove Bar | Prague |
+| Sat, 19 Sept 2026 | Twist Bar | Prague |
 
 ## Recently played
 

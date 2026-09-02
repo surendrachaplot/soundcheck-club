@@ -1,8 +1,8 @@
 # Lovie
 
-Lovie is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Little Island, New York City on Fri, 4 Sept 2026.
+Lovie is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Little Island, New York City on Fri, 4 Sept 2026.
 
-Lovie is a house and deep house artist based in United States of America, tracked on soundcheck, with 125 sets logged across Athens, Berlin, Brighton and Detroit and 11 more. Often billed alongside Honey Bun, JADALAREIGN and Kfeelz. Next up: Little Island, Newyorkcity on Fri 4 Sept.
+Lovie is a house and deep house artist based in United States of America, tracked on soundcheck, with 126 sets logged across Athens, Berlin, Brighton and Detroit and 11 more. Often billed alongside Honey Bun, JADALAREIGN and Kfeelz. Next up: Little Island, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lovie is a house and deep house artist based in United States of America, tracke
 | Fri, 4 Sept 2026 | Little Island | New York City |
 | Sun, 6 Sept 2026 | public records | New York City |
 | Fri, 18 Sept 2026 | Knockdown Center | New York City |
+| Fri, 16 Oct 2026 | Nowadays | New York City |
 
 ## Recently played
 

@@ -17,7 +17,7 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 26 upcoming nights,
 | Sun, 6 Sept 2026 | David Morales | David Morales |
 | Sun, 6 Sept 2026 | Refuge Sunday: Soul in the Horn with Natasha Diggs | Natasha Diggs |
 | Sun, 6 Sept 2026 | Sunday Selectors: David Morales | David Morales |
-| Mon, 7 Sept 2026 | Refuge ÄGAPĒ Festival Afterparty |  |
+| Mon, 7 Sept 2026 | Refuge ÄGAPĒ Festival Afterparty | David Löhlein, Julia Govor, Raw Planet, Skar, future.666 |
 
 ## Address
 

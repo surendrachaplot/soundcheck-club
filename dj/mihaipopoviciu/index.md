@@ -1,15 +1,17 @@
 # Mihai Popoviciu
 
-Mihai Popoviciu is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Marina Botafoch, Ibiza on Sun, 13 Sept 2026.
+Mihai Popoviciu is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Marina Botafoch, Ibiza on Sun, 13 Sept 2026.
 
-Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 30 more. Often billed alongside Lola Palmer, Andrey Pushkarev and Janeret. Next up: Marina Botafoch, Ibiza on Sun 13 Sept.
+Mihai Popoviciu is a house and deep house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 30 more. Often billed alongside Lola Palmer, Andrey Pushkarev and Janeret. Next up: Marina Botafoch, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Marina Botafoch | Ibiza |
+| Fri, 18 Sept 2026 | Minimüzikhol | Istanbul |
 | Sat, 19 Sept 2026 | Czech Boat | Prague |
+| Fri, 2 Oct 2026 | B2 Rīga | Riga |
 | Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 
 ## Recently played

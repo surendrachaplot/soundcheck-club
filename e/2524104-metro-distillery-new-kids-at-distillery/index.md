@@ -1,6 +1,6 @@
 # METRO × distillery NEW KIDS at Distillery
 
-METRO × distillery NEW KIDS at Distillery on Sat 26 Sept, Leipzig. 15 acts on the bill: Carluschka, clemi, degen and DJ G1NA R. and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
+METRO × distillery NEW KIDS at Distillery on Sat 26 Sept, Leipzig. 16 acts on the bill: Carluschka, clemi, degen and DJ G1NA R. and 12 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ METRO × distillery NEW KIDS at Distillery on Sat 26 Sept, Leipzig. 15 acts on t
 - InterStella
 - jewelry
 - marengo (2)
+- MATHILDA (2)
 - matilda (2)
 - MIDNXGHT
 - mp.ulle

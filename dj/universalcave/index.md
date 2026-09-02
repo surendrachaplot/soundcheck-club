@@ -1,13 +1,14 @@
 # Universal Cave
 
-Universal Cave is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Universal Cave is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Dolphin, Philadelphia on Thu, 17 Sept 2026.
 
-Universal Cave is a house and disco artist based in United States of America, tracked on soundcheck, with 37 sets logged across Newyorkcity, Philadelphia, Sanfrancisco and Washingtondc. Often billed alongside Shawn Ryan, Zillas on Acid and JEWELSSEA. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+Universal Cave is a house and disco artist based in United States of America, tracked on soundcheck, with 38 sets logged across Newyorkcity, Philadelphia, Sanfrancisco and Washingtondc. Often billed alongside Shawn Ryan, Zillas on Acid and JEWELSSEA. Next up: The Dolphin, Philadelphia on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | The Dolphin | Philadelphia |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 24 Oct 2026 | Good Room | New York City |
 

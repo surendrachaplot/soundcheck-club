@@ -1,8 +1,8 @@
 # Aisling
 
-Aisling is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Yard, Manchester on Sat, 19 Sept 2026.
+Aisling is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Yard, Manchester on Sat, 19 Sept 2026.
 
-Aisling is a house and techno artist tracked on soundcheck, with 17 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside Binx, Danny Vito and MARINI. Next up: The Yard, Manchester on Sat 19 Sept.
+Aisling is a house and techno artist tracked on soundcheck, with 18 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside Binx, Danny Vito and MARINI. Next up: The Yard, Manchester on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Aisling is a house and techno artist tracked on soundcheck, with 17 sets logged 
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | The Yard | Manchester |
 | Sat, 26 Sept 2026 | Fabwick | London |
+| Sat, 17 Oct 2026 | The Glove That Fits | London |
 
 ## Recently played
 

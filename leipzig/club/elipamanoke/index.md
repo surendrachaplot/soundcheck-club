@@ -13,7 +13,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 12 upcoming nights
 | Sat, 5 Sept 2026 | made2fade [secret lineup] |  |
 | Wed, 9 Sept 2026 | between x LEEF |  |
 | Thu, 10 Sept 2026 | sarah4K - Ultra HD Tour | sarah4K |
-| Fri, 11 Sept 2026 | eli invites Tresor.West | Anuli, Dychromatic, LIP 71, LUZI (2), Rostøm, makahaun |
+| Fri, 11 Sept 2026 | eli invites Tresor.West | Anuli, Dychromatic, LIP 71, LUZI (2), Lip71, Rostøm, makahaun |
 | Sat, 12 Sept 2026 | SUGARBASS | DJ KAMMERFLIMMERN, Germalog, Richie Rollin, Scrappy Coco, VIVI909 |
 | Wed, 16 Sept 2026 | between x FORM Kollektiv | Dizzy Oz, SLANY |
 | Fri, 18 Sept 2026 | Sachsentrance | :MUMM, GI.O, Maryline K, RaverPik, Sabu!, The Jakob Sister |

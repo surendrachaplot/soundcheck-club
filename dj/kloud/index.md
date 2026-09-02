@@ -12,7 +12,7 @@ KLOUD is a techno and trance artist tracked on soundcheck, with 82 sets logged a
 | Sun, 6 Sept 2026 | Outset | Chicago |
 | Fri, 11 Sept 2026 | Newspeak | Montreal |
 | Sat, 12 Sept 2026 | Rebel | Toronto |
-| Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Sat, 26 Sept 2026 | Club Exil | Vienna |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Fri, 9 Oct 2026 | OST | Berlin |

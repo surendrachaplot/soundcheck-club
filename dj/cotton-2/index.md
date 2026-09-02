@@ -1,8 +1,8 @@
 # cotton
 
-cotton is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
+cotton is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
 
-cotton is a techno and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Athens, Berlin, Chicago and Istanbul and 3 more. Often billed alongside Juliana Huxtable, Kilopatrah Jones and Massimiliano Pagliara. Next up: TBA, Sanfrancisco on Fri 18 Sept.
+cotton is a techno and electro artist based in United States of America, tracked on soundcheck, with 45 sets logged across Athens, Berlin, Chicago and Istanbul and 3 more. Often billed alongside Juliana Huxtable, Kilopatrah Jones and Massimiliano Pagliara. Next up: TBA, Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ cotton is a techno and house artist based in United States of America, tracked o
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TBA | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
+| Fri, 30 Oct 2026 | Nowadays | New York City |
 
 ## Recently played
 

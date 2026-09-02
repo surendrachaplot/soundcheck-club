@@ -1,14 +1,15 @@
 # Victor Rodriguez
 
-Victor Rodriguez is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Akbar, Los Angeles on Sun, 6 Sept 2026.
+Victor Rodriguez is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Akbar, Los Angeles on Sun, 6 Sept 2026.
 
-Victor Rodriguez is a house and disco artist tracked on soundcheck, with 59 sets logged across Berlin, Bristol, London and Losangeles and 8 more. Often billed alongside Perfect Lovers, Bears In Space and Chris Bowen. Next up: Akbar, Losangeles on Sun 6 Sept.
+Victor Rodriguez is a house and disco artist tracked on soundcheck, with 60 sets logged across Berlin, Bristol, London and Losangeles and 8 more. Often billed alongside Perfect Lovers, Bears In Space and Chris Bowen. Next up: Akbar, Losangeles on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Akbar | Los Angeles |
+| Sun, 13 Sept 2026 | District 7 | Los Angeles |
 | Sat, 26 Sept 2026 | BASEMENT | New York City |
 
 ## Recently played

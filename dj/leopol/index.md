@@ -9,7 +9,7 @@ Leo Pol is a house and techno artist tracked on soundcheck, with 79 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Rex Club | Paris |
-| Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Good Grief x Protein present: Pavel Milyakov, 7038634357, Rohana, MARBLE RYE, Peregrine at TBA - Secret Location
 
-Good Grief x Protein present: Pavel Milyakov, 7038634357, Rohana, MARBLE RYE, Peregrine at TBA - Secret Location on Thu 17 Sept, Newyorkcity. 3 acts on the bill: 7038634357, MARBLE RYE and Peregrine (US). Ambient and Drone. Preview the line-up and save it on soundcheck.
+Good Grief x Protein present: Pavel Milyakov, 7038634357, Rohana, MARBLE RYE, Peregrine at TBA - Secret Location on Thu 17 Sept, Newyorkcity. 4 acts on the bill: 7038634357, Buttechno, MARBLE RYE and Peregrine (US). Ambient and Drone. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Good Grief x Protein present: Pavel Milyakov, 7038634357, Rohana, MARBLE RYE, Pe
 ## Line-up
 
 - 7038634357
+- Buttechno
 - MARBLE RYE
 - Peregrine (US)
 

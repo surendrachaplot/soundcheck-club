@@ -1,8 +1,8 @@
 # Moopie
 
-Moopie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Love Inn, Bristol on Fri, 4 Sept 2026.
+Moopie is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Love Inn, Bristol on Fri, 4 Sept 2026.
 
-Moopie is a house and techno artist tracked on soundcheck, with 198 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Kia (AU), Hannah D and Emelyne. Next up: The Love Inn, Bristol on Fri 4 Sept.
+Moopie is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Kia (AU), Hannah D and Emelyne. Next up: The Love Inn, Bristol on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Moopie is a house and techno artist tracked on soundcheck, with 198 sets logged 
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 12 Sept 2026 | M.O.T | London |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Sat, 10 Oct 2026 | Nowadays | New York City |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |

@@ -1,8 +1,8 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Deep Listening: The Sound of Warp Records" on Wed, 2 Sept 2026.
+Silence Please is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Deep Listening: The Sound of Warp Records" on Wed, 2 Sept 2026.
 
-Silence Please is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including Alex Lustig, antron, HD (US) and Kiana and 2 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
+Silence Please is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Alex Lustig, antron, Haruomi Hosono and HD (US) and 2 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
 ## What's on
 
@@ -15,8 +15,9 @@ Silence Please is a music venue in Newyorkcity listed on soundcheck. 9 upcoming 
 | Fri, 4 Sept 2026 | Draped In Dub with antron | antron |
 | Fri, 4 Sept 2026 | Reflections with Niyah West | Niyah West |
 | Sat, 5 Sept 2026 | Silence Please presents: Wölfie (The space in between) | Xwnia Wölf |
+| Tue, 8 Sept 2026 | Haruomi Hosono: Yours Sincerely | Haruomi Hosono |
 | Thu, 10 Sept 2026 | Ambient Set by Alex Lustig | Alex Lustig |
-| Tue, 22 Sept 2026 | Free Spirits: Kiana Mickles presents Mary Lou Williams | Kiana |
+| Sun, 20 Sept 2026 | S!M with Sermiratruth |  |
 
 ## Address
 

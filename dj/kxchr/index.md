@@ -9,7 +9,7 @@ KX CHR is a techno and industrial artist based in France, tracked on soundcheck,
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | E1 | London |
-| Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 | Fri, 23 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 7 Nov 2026 | E1 | London |

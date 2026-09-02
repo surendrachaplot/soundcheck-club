@@ -1,14 +1,15 @@
 # Simon Vuarambon
 
-Simon Vuarambon is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA), Los Angeles on Sat, 5 Sept 2026.
+Simon Vuarambon is a Progressive House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA), Los Angeles on Sat, 5 Sept 2026.
 
-Simon Vuarambon is a progressive house and deep house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Guy Mantzur, John Digweed and Henry Saiz. Next up: TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA), Losangeles on Sat 5 Sept.
+Simon Vuarambon is a progressive house and deep house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Guy Mantzur, John Digweed and Henry Saiz. Next up: TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA), Losangeles on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA) | Los Angeles |
+| Mon, 7 Sept 2026 | The Monkey Loft | Seattle |
 | Fri, 18 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sat, 26 Sept 2026 | TBA - Native Beach Club, Cardales | Buenos Aires |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |

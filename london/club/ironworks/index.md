@@ -10,6 +10,6 @@ Ironworks is a music venue in London listed on soundcheck. 3 upcoming nights, wi
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Jamie Jones presents: Voyager | Adam Ten, Ali Love, FLORENTIA, Goosey, Jamie Jones, Manda Moor, Seth Troxler |
 | Sat, 24 Oct 2026 | CamelPhat | CamelPhat |
-| Sat, 31 Oct 2026 | appetite |  |
+| Sat, 31 Oct 2026 | Appetite Halloween |  |
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ironworks/)*

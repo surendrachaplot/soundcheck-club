@@ -8,7 +8,7 @@ Sky Club is a music venue in Leipzig listed on soundcheck. 3 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 19 Sept 2026 | TECHNOSOPHIE | OGUZ |
+| Sat, 19 Sept 2026 | TECHNOSOPHIE | OGUZ, STEYA |
 | Fri, 30 Oct 2026 | HALLOWEEN 2026 | Abzocka, B-TUR (2), In Furcht, Jaszaloth, Meyhartt, TRITØNUS, tomb (2) |
 | Sat, 28 Nov 2026 | Fuchsbau zum satten Bass | AMBAM, Ave (DE), DETEST, Vero, calypso |
 

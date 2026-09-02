@@ -1,13 +1,14 @@
 # Arjun Shah
 
-Arjun Shah is a Disco and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Elsewhere, New York City on Sat, 12 Sept 2026.
+Arjun Shah is a Disco and Afrobeat artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Honey's, New York City on Fri, 11 Sept 2026.
 
-Arjun Shah is a disco and afrobeat artist based in United States of America, tracked on soundcheck, with 34 sets logged across Detroit and Newyorkcity. Often billed alongside ራሄል (Rachel), vikmatic and funkin donut. Next up: Elsewhere, Newyorkcity on Sat 12 Sept.
+Arjun Shah is a disco and afrobeat artist based in United States of America, tracked on soundcheck, with 35 sets logged across Detroit and Newyorkcity. Often billed alongside ራሄል (Rachel), vikmatic and funkin donut. Next up: Honey's, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Honey's | New York City |
 | Sat, 12 Sept 2026 | Elsewhere | New York City |
 | Sun, 4 Oct 2026 | Elsewhere | New York City |
 

@@ -1,14 +1,14 @@
 # Astral Bandit
 
-Astral Bandit is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Universe Athens, Athens on Sat, 24 Oct 2026.
+Astral Bandit is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Oddity Club, Athens on Sat, 7 Nov 2026.
 
-Astral Bandit is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Athens, Berlin, Copenhagen and London and 1 more. Often billed alongside Mvcoko, Nora Asteroid and Troy Violens. Next up: Universe Athens, Athens on Sat 24 Oct.
+Astral Bandit is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Athens, Berlin, Copenhagen and London and 1 more. Often billed alongside Mvcoko, Nora Asteroid and Troy Violens. Next up: Oddity Club, Athens on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Universe Athens | Athens |
+| Sat, 7 Nov 2026 | Oddity Club | Athens |
 
 ## Recently played
 

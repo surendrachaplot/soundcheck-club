@@ -11,7 +11,7 @@ Unit 58 is a music venue in London listed on soundcheck. 6 upcoming nights, with
 | Fri, 4 Sept 2026 | House of Opus Volume 2 | Daniella Font, Korey |
 | Fri, 11 Sept 2026 | Egø Deåth // Hard Techno & Industrial // Unit 58 | Diana Bravo, Labåzuy, SHUGAH, cassandrah |
 | Fri, 25 Sept 2026 | SERO.TONIN VOLUME III: AFROELECTRONIC SOUNDS MEET THE QUEER UNDERGROUND | Fiyahdred, Girl Unit, Ryan Lovell, sweetestcape |
-| Fri, 9 Oct 2026 | Arise festival: London edition | BJ Holy, Exploited Body, Hovsep, Hovsep (AM), Moa Pillar, Mori Mori, Mujuice, Salena, Ushko, acidhousewife3000, bod [包家巷], costi (1), dbeater |
+| Fri, 9 Oct 2026 | Arise festival: London edition + Bobby Beethoven | BJ Holy, Exploited Body, Hovsep, Hovsep (AM), Moa Pillar, Mori Mori, Mujuice, Salena, Total Freedom, Ushko, acidhousewife3000, bod [包家巷], costi (1), dbeater |
 | Fri, 23 Oct 2026 | Cosmic Blast – Monster Attack | Miss Lightbeam |
 | Sat, 31 Oct 2026 | Disco Exotic HALLOWEEN FIESTA - Warehouse Special (Disco, House + World Boogie) with Grace Sands | Al Gray, Grace Sands, Pempsey, Sue From HR, T Sounds, boogielou |
 

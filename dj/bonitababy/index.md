@@ -1,14 +1,14 @@
 # Bonita Baby
 
-Bonita Baby is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Public Works, San Francisco/Oakland on Sat, 5 Sept 2026.
+Bonita Baby is a House and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Public Works, San Francisco/Oakland on Sun, 27 Sept 2026.
 
-Bonita Baby is a house and latin bass artist tracked on soundcheck, with 6 sets logged across Sanfrancisco. Often billed alongside sfcowboy, Discnogirl and Skiis. Next up: Public Works, Sanfrancisco on Sat 5 Sept.
+Bonita Baby is a house and latin bass artist tracked on soundcheck, with 6 sets logged across Sanfrancisco. Often billed alongside erika (SF), sfcowboy and Discnogirl. Next up: Public Works, Sanfrancisco on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Public Works | San Francisco/Oakland |
+| Sun, 27 Sept 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 
@@ -20,6 +20,6 @@ Bonita Baby is a house and latin bass artist tracked on soundcheck, with 6 sets 
 
 ## Shares bills with
 
-sfcowboy, Discnogirl, Skiis
+erika (SF), sfcowboy, Discnogirl
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonitababy/)*

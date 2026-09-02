@@ -2,7 +2,7 @@
 
 Arsenal Mikebe is a Amapiano and Dub artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at La Fabriek, Brussels on Fri, 25 Sept 2026.
 
-Arsenal Mikebe is an amapiano and dub artist based in Uganda, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 3 more. Often billed alongside Mad Professor, DjRUM and Roza Terenzi. Next up: La Fabriek, Brussels on Fri 25 Sept.
+Arsenal Mikebe is an amapiano and dub artist based in Uganda, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 3 more. Often billed alongside Mad Professor, DjRUM and Eris Drew. Next up: La Fabriek, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Arsenal Mikebe is an amapiano and dub artist based in Uganda, tracked on soundch
 
 ## Shares bills with
 
-Mad Professor, DjRUM, Roza Terenzi
+Mad Professor, DjRUM, Eris Drew
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arsenalmikebe/)*

@@ -1,6 +1,6 @@
 # Functions 30 × 10 Years of LSD at E1
 
-Functions 30 × 10 Years of LSD at E1 on Sat 7 Nov, London. 10 acts on the bill: Coke Cortés, Dres Codex, Function and KARAH and 6 more. Techno. Preview the line-up and save it on soundcheck.
+Functions 30 × 10 Years of LSD at E1 on Sat 7 Nov, London. 11 acts on the bill: Coke Cortés, Dres Codex, Function and KARAH and 7 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ Functions 30 × 10 Years of LSD at E1 on Sat 7 Nov, London. 10 acts on the bill:
 - La Vera Notte
 - Lau.tastic
 - Livid
+- Livid (UK)
 - LSD
 
 *Source: [soundcheck](https://soundcheck.club/e/2423757-functions-30-10-years-of-lsd-at-e1/)*

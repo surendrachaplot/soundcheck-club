@@ -1,8 +1,8 @@
 # STEYA
 
-STEYA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
+STEYA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
 
-STEYA is a techno and trance artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 22 more. Often billed alongside Marcel Fengler, OGUZ and Caniche. Next up: OXI, Berlin on Sat 12 Sept.
+STEYA is a techno and trance artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 22 more. Often billed alongside Marcel Fengler, OGUZ and Caniche. Next up: OXI, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ STEYA is a techno and trance artist tracked on soundcheck, with 83 sets logged a
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | OXI | Berlin |
 | Fri, 18 Sept 2026 | Else | Berlin |
+| Sat, 19 Sept 2026 | Sky Club | Leipzig |
 
 ## Recently played
 

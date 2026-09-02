@@ -1,14 +1,15 @@
 # QRTR
 
-QRTR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+QRTR is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-QRTR is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Austin, Chicago, Losangeles and Miami and 6 more. Often billed alongside JEWELSSEA, DJ Papaya and Jubilee. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
+QRTR is a techno and house artist based in United States of America, tracked on soundcheck, with 41 sets logged across Austin, Chicago, Losangeles and Miami and 6 more. Often billed alongside JEWELSSEA, Zillas on Acid and DJ Papaya. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Sun, 20 Sept 2026 | Warehouse on Watts | Philadelphia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ QRTR is a techno and house artist based in United States of America, tracked on 
 
 ## Shares bills with
 
-JEWELSSEA, DJ Papaya, Jubilee
+JEWELSSEA, Zillas on Acid, DJ Papaya
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qrtr/)*

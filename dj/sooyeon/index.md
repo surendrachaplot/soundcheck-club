@@ -1,8 +1,8 @@
 # sooyeon
 
-sooyeon is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at radial, London on Sun, 6 Sept 2026.
+sooyeon is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at radial, London on Sun, 6 Sept 2026.
 
-sooyeon is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Bangkok, London and Seoul. Often billed alongside Kiimi, Klose One and L-Vis 1990. Next up: radial, London on Sun 6 Sept.
+sooyeon is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Bangkok, London and Seoul. Often billed alongside Kiimi, Klose One and L-Vis 1990. Next up: radial, London on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ sooyeon is a techno and bass artist based in United Kingdom, tracked on soundche
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | radial | London |
 | Fri, 18 Sept 2026 | M.O.T | London |
+| Thu, 24 Sept 2026 | Phonox | London |
 
 ## Recently played
 

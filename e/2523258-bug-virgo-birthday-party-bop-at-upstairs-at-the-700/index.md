@@ -1,6 +1,6 @@
 # bug [virgo birthday party] bop at Upstairs at the 700
 
-bug [virgo birthday party] bop at Upstairs at the 700 on Sat 12 Sept, Philadelphia. 1 act on the bill: hopifer. Preview the line-up and save it on soundcheck.
+bug [virgo birthday party] bop at Upstairs at the 700 on Sat 12 Sept, Philadelphia. 1 act on the bill: hopifer. Pop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

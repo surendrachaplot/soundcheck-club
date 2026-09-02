@@ -10,7 +10,7 @@ Night Tales Loft is a music venue in London listed on soundcheck. 24 upcoming ni
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | NT's Loft: Todd Edwards Weekender - All Night Long | Todd Edwards |
 | Sat, 5 Sept 2026 | NT's Loft: Todd Edwards Weekender & Friends | Todd Edwards |
-| Fri, 11 Sept 2026 | NT's Loft: Somewhere Soul (All Night Long) |  |
+| Fri, 11 Sept 2026 | SOULFUEL: House, Disco, Funk & Soul |  |
 | Fri, 11 Sept 2026 | SOULFUEL: House, Disco, Funk & Soul |  |
 | Sat, 12 Sept 2026 | NT's Loft 11th Birthday: Free Rooftop Party | Daisybelle, Elijah, G33 (UK), Heels & Souls, Izzi, JD. REID, Jeremy Sylvester, Lady Passion, Maleek, Millian, Nadia Ksaiba, ODJ (1), Samtheman, Selassie TBC, System Olympia |
 | Fri, 18 Sept 2026 | NT's Loft: Jazzie B (All Night Long) | Jazzie B Obe, Soul II Soul |

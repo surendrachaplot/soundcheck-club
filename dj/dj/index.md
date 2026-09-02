@@ -1,8 +1,8 @@
-# Numero 6
+# Soju Gang
 
-Numero 6 is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Angel Music Bar, Melbourne on Thu, 3 Sept 2026.
+Soju Gang is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Angel Music Bar, Melbourne on Thu, 3 Sept 2026.
 
-Numero 6 is a house and techno artist tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: Angel Music Bar, Melbourne on Thu 3 Sept.
+Soju Gang is a house and techno artist tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Brisbane and Bristol and 23 more. Often billed alongside Haus of Ralph, AANO and DJ PGZ. Next up: Angel Music Bar, Melbourne on Thu 3 Sept.
 
 ## Upcoming shows
 

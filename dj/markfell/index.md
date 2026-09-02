@@ -2,7 +2,7 @@
 
 Mark Fell is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Mark Fell is an experimental and techno artist tracked on soundcheck, with 15 sets logged across Basel, Berlin, Kyoto and London and 8 more. Often billed alongside Rian Treanor, Kelman Duran and YPY. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Mark Fell is an experimental and techno artist tracked on soundcheck, with 15 sets logged across Basel, Berlin, Kyoto and London and 8 more. Often billed alongside Rian Treanor, YPY and Kelman Duran. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Mark Fell is an experimental and techno artist tracked on soundcheck, with 15 se
 
 ## Shares bills with
 
-Rian Treanor, Kelman Duran, YPY
+Rian Treanor, YPY, Kelman Duran
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markfell/)*

@@ -10,7 +10,7 @@ WILDERÍCH is a techno and trance artist tracked on soundcheck, with 87 sets log
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | Industry City | New York City |
-| Sun, 6 Sept 2026 | TBA | San Francisco/Oakland |
+| Sun, 6 Sept 2026 | The Foundry | San Francisco/Oakland |
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |

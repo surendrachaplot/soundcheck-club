@@ -1,8 +1,8 @@
 # Mia Koden
 
-Mia Koden is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The White Hotel, Manchester on Sat, 5 Sept 2026.
+Mia Koden is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The White Hotel, Manchester on Sat, 5 Sept 2026.
 
-Mia Koden is a bass and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: The White Hotel, Manchester on Sat 5 Sept.
+Mia Koden is a bass and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: The White Hotel, Manchester on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mia Koden is a bass and techno artist tracked on soundcheck, with 151 sets logge
 | Sat, 12 Sept 2026 | The Cause | London |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
 | Sat, 3 Oct 2026 | Los Globos | Los Angeles |
+| Sat, 10 Oct 2026 | Nowadays | New York City |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Julia Govor
 
-Julia Govor is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lincoln Factory, Detroit on Sat, 19 Sept 2026.
+Julia Govor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Refuge, New York City on Mon, 7 Sept 2026.
 
-Julia Govor is a techno and house artist based in United States of America, tracked on soundcheck, with 117 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Kamran Sadeghi, Adrian Hex and Cloudy Ku. Next up: Lincoln Factory, Detroit on Sat 19 Sept.
+Julia Govor is a techno and house artist based in United States of America, tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Kamran Sadeghi, Adrian Hex and Cloudy Ku. Next up: Refuge, Newyorkcity on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 7 Sept 2026 | Refuge | New York City |
 | Sat, 19 Sept 2026 | Lincoln Factory | Detroit |
 
 ## Recently played

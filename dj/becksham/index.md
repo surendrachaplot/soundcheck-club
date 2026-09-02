@@ -1,13 +1,14 @@
 # BECKSHAM
 
-BECKSHAM is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Zur Insel, Frankfurt on Sat, 12 Sept 2026.
+BECKSHAM is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Klunkerkranich, Berlin on Fri, 11 Sept 2026.
 
-BECKSHAM is a house and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin and Frankfurt. Often billed alongside Max Wide, Don Andres and JANSN. Next up: Zur Insel, Frankfurt on Sat 12 Sept.
+BECKSHAM is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin and Frankfurt. Often billed alongside Max Wide, Don Andres and JANSN. Next up: Klunkerkranich, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Klunkerkranich | Berlin |
 | Sat, 12 Sept 2026 | Zur Insel | Frankfurt |
 | Sun, 20 Sept 2026 | TBA | Frankfurt |
 

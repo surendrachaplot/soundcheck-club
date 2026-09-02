@@ -1,6 +1,6 @@
 # DEEP FRIED w/ Bored Lord, Linda Lo, ash. & Hristo at The Airliner
 
-DEEP FRIED w/ Bored Lord, Linda Lo, ash. & Hristo at The Airliner on Fri 4 Sept, Losangeles. 3 acts on the bill: ash., Bored Lord and Linda Lo. Hardcore and Electronica. Preview the line-up and save it on soundcheck.
+DEEP FRIED w/ Bored Lord, Linda Lo, ash. & Hristo at The Airliner on Fri 4 Sept, Losangeles. 3 acts on the bill: ash., Bored Lord and Linda Lo. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

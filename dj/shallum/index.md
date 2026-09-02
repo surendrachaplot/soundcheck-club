@@ -2,7 +2,7 @@
 
 Shallum is a Minimal Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
 
-Shallum is a minimal techno and electro artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Azire, Medu and Nicola Mannini. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
+Shallum is a minimal techno and electro artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside mayflowduo, Azire and Dimanté. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Shallum is a minimal techno and electro artist tracked on soundcheck, with 4 set
 
 ## Shares bills with
 
-Azire, Medu, Nicola Mannini
+mayflowduo, Azire, Dimanté
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shallum/)*

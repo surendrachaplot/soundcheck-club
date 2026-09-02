@@ -1,8 +1,8 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Trädgården, Stockholm on Fri, 11 Sept 2026.
+Eris Drew is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Trädgården, Stockholm on Fri, 11 Sept 2026.
 
-Eris Drew is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: Trädgården, Stockholm on Fri 11 Sept.
+Eris Drew is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: Trädgården, Stockholm on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Eris Drew is a house and techno artist tracked on soundcheck, with 183 sets logg
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
+| Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 7 Nov 2026 | WAS. | Utrecht |
 
 ## Recently played

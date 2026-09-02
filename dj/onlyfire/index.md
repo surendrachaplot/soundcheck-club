@@ -10,8 +10,8 @@ Only Fire is a techno and club artist tracked on soundcheck, with 82 sets logged
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
 | Fri, 25 Sept 2026 | TBA | New York City |
-| Sat, 24 Oct 2026 | Universe Athens | Athens |
 | Sat, 31 Oct 2026 | 888 Garage | San Francisco/Oakland |
+| Sat, 7 Nov 2026 | Oddity Club | Athens |
 
 ## Recently played
 

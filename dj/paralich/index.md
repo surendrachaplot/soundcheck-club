@@ -10,11 +10,11 @@ Paralich is a techno and trance artist tracked on soundcheck, with 160 sets logg
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Eventhuset | Stockholm |
 | Sat, 19 Sept 2026 | Turbina | Budapest |
-| Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Thu, 22 Oct 2026 | Club Magno | Madrid |
-| Sat, 24 Oct 2026 | Universe Athens | Athens |
+| Sat, 7 Nov 2026 | Oddity Club | Athens |
 | Sat, 14 Nov 2026 | Arzenal | Budapest |
 
 ## Recently played

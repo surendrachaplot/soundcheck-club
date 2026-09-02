@@ -1,13 +1,14 @@
 # Jaye Ward
 
-Jaye Ward is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, London on Sun, 6 Sept 2026.
+Jaye Ward is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ballroom at Palais, London on Sat, 5 Sept 2026.
 
-Jaye Ward is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 7 more. Often billed alongside Michelle Manetti, RAW SILK and Ysanne. Next up: TBA, London on Sun 6 Sept.
+Jaye Ward is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 7 more. Often billed alongside Michelle Manetti, RAW SILK and Ysanne. Next up: Ballroom at Palais, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Ballroom at Palais | London |
 | Sun, 6 Sept 2026 | TBA | London |
 
 ## Recently played

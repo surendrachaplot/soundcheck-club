@@ -9,7 +9,7 @@ LATEX GIRL is a techno and electro artist based in United States of America, tra
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Marble Bar | Detroit |
-| Sat, 31 Oct 2026 | The Eagle of Detroit | Detroit |
+| Sat, 31 Oct 2026 | Olympus Theater | Detroit |
 
 ## Recently played
 

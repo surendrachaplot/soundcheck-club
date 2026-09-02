@@ -1,8 +1,8 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Glove That Fits, London on Fri, 4 Sept 2026.
+Danny Daze is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Glove That Fits, London on Fri, 4 Sept 2026.
 
-Danny Daze is a house and techno artist tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Jonny From Space, Will Renuart and Nick León. Next up: The Glove That Fits, London on Fri 4 Sept.
+Danny Daze is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Jonny From Space, Will Renuart and Nick León. Next up: The Glove That Fits, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 158 sets log
 | Fri, 25 Sept 2026 | La Terrrazza | Barcelona |
 | Sat, 3 Oct 2026 | Los Globos | Los Angeles |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Fri, 23 Oct 2026 | Nowadays | New York City |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played

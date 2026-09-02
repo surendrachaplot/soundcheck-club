@@ -1,13 +1,15 @@
 # Josh Wink
 
-Josh Wink is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Josh Wink is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
 
-Josh Wink is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Rob Paine, Heidi Lawden and Cassy. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Losangeles on Sat 14 Nov.
+Josh Wink is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Rob Paine, Heidi Lawden and Cassy. Next up: Bastet, Philadelphia on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Bastet | Philadelphia |
+| Sat, 31 Oct 2026 | Warehouse on Watts | Philadelphia |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played

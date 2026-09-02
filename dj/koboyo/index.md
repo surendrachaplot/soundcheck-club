@@ -9,7 +9,7 @@ Koboyo is a techno and trance artist tracked on soundcheck, with 95 sets logged 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Alte Münze | Berlin |
-| Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Fri, 2 Oct 2026 | Edelfettwerk | Hamburg |
 
 ## Recently played

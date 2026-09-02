@@ -1,13 +1,15 @@
 # Tavish
 
-Tavish is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Yamashiro Hollywood, Los Angeles on Sat, 31 Oct 2026.
+Tavish is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 10 Oct 2026.
 
-Tavish is a house and acid artist tracked on soundcheck, with 23 sets logged across Losangeles, Mexicocity and Newyorkcity. Often billed alongside Dave Aju, Stacy Christine and Dj Kerry. Next up: Yamashiro Hollywood, Losangeles on Sat 31 Oct.
+Tavish is a house and disco artist tracked on soundcheck, with 25 sets logged across Losangeles, Mexicocity, Newyorkcity and Sandiego. Often billed alongside Dave Aju, SONNS and Stacy Christine. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
+| Sun, 11 Oct 2026 | Kiku Room | San Diego |
 | Sat, 31 Oct 2026 | Yamashiro Hollywood | Los Angeles |
 
 ## Recently played
@@ -23,6 +25,6 @@ Tavish is a house and acid artist tracked on soundcheck, with 23 sets logged acr
 
 ## Shares bills with
 
-Dave Aju, Stacy Christine, Dj Kerry
+Dave Aju, SONNS, Stacy Christine
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tavish/)*

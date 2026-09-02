@@ -9,7 +9,7 @@ Lisa Korver is a techno and house artist tracked on soundcheck, with 67 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
-| Fri, 25 Sept 2026 | Friche Belle de Mai | Marseille |
+| Fri, 25 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Fri, 9 Oct 2026 | Garage Klub | Antwerp |
 | Sat, 17 Oct 2026 | TivoliVredenburg | Utrecht |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |

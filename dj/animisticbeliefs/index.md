@@ -11,7 +11,7 @@ Animistic Beliefs is a techno and experimental artist based in Netherlands, trac
 | Sat, 19 Sept 2026 | Nitsa Club | Barcelona |
 | Sat, 19 Sept 2026 | Nitsa Club | Barcelona |
 | Thu, 24 Sept 2026 | TBA - Rotterdam Various Locations | Rotterdam |
-| Sat, 24 Oct 2026 | Universe Athens | Athens |
+| Sat, 7 Nov 2026 | Oddity Club | Athens |
 
 ## Recently played
 

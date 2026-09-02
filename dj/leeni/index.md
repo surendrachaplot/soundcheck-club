@@ -1,13 +1,14 @@
 # LEENI
 
-LEENI is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at gART.n, Berlin on Sat, 19 Sept 2026.
+LEENI is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Klunkerkranich, Berlin on Fri, 11 Sept 2026.
 
-LEENI is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside Danilo Kupfernagel, Mollono.Bass and Falke. Next up: gART.n, Berlin on Sat 19 Sept.
+LEENI is a techno and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside Danilo Kupfernagel, Mollono.Bass and Falke. Next up: Klunkerkranich, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Klunkerkranich | Berlin |
 | Sat, 19 Sept 2026 | gART.n | Berlin |
 | Sat, 19 Sept 2026 | Czech Boat | Prague |
 | Sat, 17 Oct 2026 | Beate Uwe | Berlin |

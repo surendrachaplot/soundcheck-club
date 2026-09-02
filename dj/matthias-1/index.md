@@ -1,8 +1,8 @@
 # Matthias (1)
 
-Matthias (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Matthias (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
-Matthias (1) is a house and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 32 more. Often billed alongside So-Fi, Ancut and Brasi. Next up: Bunker, Turin on Sat 12 Sept.
+Matthias (1) is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 32 more. Often billed alongside So-Fi, Ancut and Brasi. Next up: Bunker, Turin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Matthias (1) is a house and techno artist tracked on soundcheck, with 103 sets l
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Fri, 18 Sept 2026 | Club de Pescadores Buenos Aires | Buenos Aires |
+| Fri, 30 Oct 2026 | Signal | New York City |
 
 ## Recently played
 

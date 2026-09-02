@@ -1,6 +1,6 @@
 # CLUB BOOTS VOL II at The Glove That Fits
 
-CLUB BOOTS VOL II at The Glove That Fits on Fri 11 Sept, London. 2 acts on the bill: Katie Baxter and Meg Ward. Techno and House. Preview the line-up and save it on soundcheck.
+CLUB BOOTS VOL II at The Glove That Fits on Fri 11 Sept, London. 3 acts on the bill: DJ-CK, Katie Baxter and Meg Ward. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CLUB BOOTS VOL II at The Glove That Fits on Fri 11 Sept, London. 2 acts on the b
 
 ## Line-up
 
+- DJ-CK
 - Katie Baxter
 - Meg Ward
 

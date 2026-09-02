@@ -13,7 +13,7 @@ Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming n
 | Sat, 12 Sept 2026 | Low Ends |  |
 | Thu, 17 Sept 2026 | NAQ | DAIYAH, Hanaby, Obeka, RayRay |
 | Sat, 19 Sept 2026 | 2CWARREA |  |
-| Sat, 26 Sept 2026 | Keyi Magazine fundraiser with Louisahhh live, Gem Wallow , Berlin Bunny b2b Facets  | Berlin Bunny, Eyesdice, Fabrizio Mammarella, Facets, Gem Wallow, Henry Brooks, Louisahhh |
+| Sat, 26 Sept 2026 | Keyi Magazine fundraiser with Louisahhh live, Gem Wallow , Berlin Bunny b2b Facets  | Berlin Bunny, Eyesdice, Fabrizio Mammarella, Facets, Gem Wallow, Henry Brooks, Louisahhh, Mr. Funghi, Shanda |
 
 ## Address
 

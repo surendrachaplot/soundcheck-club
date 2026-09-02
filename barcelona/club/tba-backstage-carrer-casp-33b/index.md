@@ -10,7 +10,7 @@ TBA - Backstage - Carrer Casp, 33B is a music venue in Barcelona listed on sound
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Backstage Pres. Rele & Alexxx | Alexxx, Rele |
 | Fri, 4 Sept 2026 | Backstage pres. yyshuu (Accepted - Japan) | yyshuu |
-| Sat, 5 Sept 2026 | Backstage pres. Xaav |  |
+| Sat, 5 Sept 2026 | Backstage pres. Xaav (Orbital) |  |
 | Thu, 10 Sept 2026 | Backstage pres. pekkuliar | pekkuliar |
 | Fri, 11 Sept 2026 | Backstage Welcomes Micronica Records Showcase ( DIN , IOAN, DEEP DISTRICT ) | D I N, DEEP DISTRICT, iOAN (LV) |
 

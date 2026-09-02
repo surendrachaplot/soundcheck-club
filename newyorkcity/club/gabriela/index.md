@@ -11,7 +11,7 @@ Gabriela is a music venue in Newyorkcity listed on soundcheck. 15 upcoming night
 | Thu, 3 Sept 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 | Fri, 4 Sept 2026 | Franz Scala // ALL NIGHT LONG | Franz Scala |
 | Sat, 5 Sept 2026 | G I N A // ALL NIGHT LONG | G I N A |
-| Sun, 6 Sept 2026 | Kim Anh // ALL NIGHT LONG | Kim Anh |
+| Sun, 6 Sept 2026 | Kim Anh + Jeremy Pelser  | Kim Anh, W. Jeremy |
 | Thu, 10 Sept 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 | Fri, 11 Sept 2026 | Andi // ALL NIGHT LONG | Andi |
 | Sat, 12 Sept 2026 | Planet B // ALL NIGHT LONG | Planet B |

@@ -16,7 +16,7 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 12 upcoming night
 | Sat, 19 Sept 2026 | Kings Turntable: Gillian Wedderburn [19.09.2026] |  |
 | Sun, 20 Sept 2026 | Vinyl Open Decks with NOYB Vol. 6 [20.09.2026] |  |
 | Sat, 26 Sept 2026 | Kings Turntable: Nunonunonuno & NOYB [26.09.2026] | NOYB, Nunonunonuno |
-| Sun, 27 Sept 2026 | Kings Turntable: Mick The Groove & Cal [27.09.2026] |  |
+| Sun, 27 Sept 2026 | Kings Turntable: Mick The Groove, Cal & Rollo Markee [27.09.2026] |  |
 | Sat, 3 Oct 2026 | Kings Turntable |  |
 
 ## Address

@@ -9,7 +9,7 @@ Camilla Rae is a house and techno artist tracked on soundcheck, with 81 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Renate | Berlin |
-| Sun, 13 Sept 2026 | Containerhafen | Berlin |
+| Sat, 19 Sept 2026 | Renate | Berlin |
 
 ## Recently played
 

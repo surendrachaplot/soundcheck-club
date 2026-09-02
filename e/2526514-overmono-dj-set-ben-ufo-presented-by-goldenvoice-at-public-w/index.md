@@ -1,10 +1,10 @@
 # Overmono (DJ Set) + Ben UFO presented by Goldenvoice at Public Works
 
-Overmono (DJ Set) + Ben UFO presented by Goldenvoice at Public Works on Sat 5 Sept, Sanfrancisco. 5 acts on the bill: Ben UFO, Bonita Baby, Kaytree and Overmono and 1 more. Preview the line-up and save it on soundcheck.
+Overmono (DJ Set) + Ben UFO presented by Goldenvoice at Public Works on Sun 27 Sept, Sanfrancisco. 6 acts on the bill: Ben UFO, Bonita Baby, erika (SF) and Kaytree and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 5 Sept 2026 |
+| Date | Sun, 27 Sept 2026 |
 | Venue | Public Works |
 | City | San Francisco/Oakland |
 
@@ -12,6 +12,7 @@ Overmono (DJ Set) + Ben UFO presented by Goldenvoice at Public Works on Sat 5 Se
 
 - Ben UFO
 - Bonita Baby
+- erika (SF)
 - Kaytree
 - Overmono
 - sfcowboy

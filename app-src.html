@@ -3337,8 +3337,13 @@
     .fp-row .fp-y{ color:var(--muted); white-space:nowrap; font:500 var(--fs-xs)/var(--lh-xs) var(--font-mono); letter-spacing:.04em; text-transform:uppercase; }
 
     /* ARTIST */
-    .fp-artist .fp-hero{ display:grid; grid-template-columns:300px minmax(0,1fr); border:1px solid var(--border); border-radius:var(--radius-lg); overflow:hidden; background:var(--surface); }
-    @media(max-width:720px){ .fp-artist .fp-hero{ grid-template-columns:minmax(0,1fr); } }
+    /* ONE HERO for every entity page. The event hero was an identical rule under
+       a second name (.fp-ev-hero) — same grid, same 300px column, same
+       breakpoint — so the two were a copy waiting to drift apart. On the app
+       they DID drift: three heights, three fades, three baselines. Merged here
+       so the same thing cannot happen on this surface. */
+    .fp-artist .fp-hero, .fp-hero, .fp-event .fp-ev-hero{ display:grid; grid-template-columns:300px minmax(0,1fr); border:1px solid var(--border); border-radius:var(--radius-lg); overflow:hidden; background:var(--surface); }
+    @media(max-width:720px){ .fp-artist .fp-hero, .fp-hero, .fp-event .fp-ev-hero{ grid-template-columns:minmax(0,1fr); } }
     /* fill the whole hero box (cover) rather than a fixed square that leaves a gap below */
     .fp-photo{ position:relative; border-right:1px solid var(--border); height:100%; min-height:300px; overflow:hidden; background:var(--surface-3); }
     @media(max-width:720px){ .fp-photo{ border-right:0; border-bottom:1px solid var(--border); height:auto; min-height:0; aspect-ratio:16/9; } }
@@ -3430,8 +3435,8 @@
 
     
     /* EVENT (dark) */
-    .fp-event .fp-ev-hero{ display:grid; grid-template-columns:300px minmax(0,1fr); border:1px solid var(--border); border-radius:var(--radius-lg); overflow:hidden; background:var(--surface); }
-    @media(max-width:720px){ .fp-event .fp-ev-hero{ grid-template-columns:minmax(0,1fr); } }
+    /* .fp-ev-hero's geometry now comes from the shared rule above — only the
+       poster column, which is genuinely event-specific, stays here. */
     .fp-ev-pcol{ border-right:1px solid var(--border); position:relative; background:var(--surface-3); }
     @media(max-width:720px){ .fp-ev-pcol{ border-right:0; border-bottom:1px solid var(--border); } }
     /* web: poster fills the whole hero box (covers, edge-to-edge) rather than a fixed square */
@@ -3828,6 +3833,20 @@
     .scn-row-name{ font:700 var(--fs-md)/1.2 var(--head); color:var(--fg); }
     .scn-row-sub{ font:500 var(--fs-xs)/1.3 var(--body); color:var(--faint); }
     .scn-row-cc{ flex:none; font:700 var(--fs-xs)/1 var(--body); color:var(--accent); }
+    /* THE ATLAS. Two of the city's own posters per tile, name over a closed
+       scrim. Same design as the app's Scenes tab — one idea, both surfaces. */
+    .scn-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:14px; margin-top:10px; }
+    .scn-tile{ position:relative; display:block; width:100%; height:150px; padding:0; border:none;
+      border-radius:var(--radius-card); overflow:hidden; cursor:pointer; background:var(--surface); text-align:left; }
+    .scn-tile-art{ position:absolute; inset:0; display:flex; }
+    .scn-tile-s{ flex:1; background-size:cover; background-position:center; filter:saturate(1.15) brightness(.92); }
+    /* Flyers are loud by trade, so the ramp closes hard over the lower half
+       rather than tinting the whole tile — the NAME has to win. */
+    .scn-tile::after{ content:''; position:absolute; inset:0; pointer-events:none;
+      background:linear-gradient(180deg, rgba(22,16,42,.30) 0%, rgba(22,16,42,.62) 42%, rgba(22,16,42,.94) 78%, rgba(22,16,42,.99) 100%); }
+    .scn-tile-tx{ position:absolute; left:14px; right:14px; bottom:12px; z-index:1; display:flex; flex-direction:column; gap:1px; }
+    .scn-tile-name{ font:800 var(--fs-xl)/1.1 var(--head); color:var(--fg); letter-spacing:-.02em; }
+    .scn-tile-sub{ font:500 var(--fs-xs)/1.3 var(--body); color:var(--lilac, var(--muted)); }
     .ptr{ position:fixed; left:0; right:0; top:0; z-index:60; display:flex; justify-content:center;
           pointer-events:none; transform:translateY(calc(var(--ptrY, 0px) - 44px));
           opacity:var(--ptrO, 0); transition:opacity var(--dur-1) linear; }
@@ -4303,7 +4322,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788358091312">
+<meta name="sc-build" content="1788375332626">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4362,7 +4381,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">6 events</span></a></li><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">105 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">134 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">6 events</span></a></li><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">25 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">109 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">137 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5448,6 +5467,30 @@
       list=(list||[]).filter(function(a){ return a && a.slug; });
       if(!list.length){ showToast('Nothing to play yet.'); return; }
       var all=(arguments[0]||[]), s0=startIdx||0;
+      // SOUNDCLOUD FIRST, when the caller asks for it.
+      //
+      // The native app passes {prefer:'sc'} for one reason: YouTube's developer
+      // policy III.I.9 forbids background playback, SoundCloud's terms say
+      // nothing about it — so a SoundCloud set is the only one the phone is
+      // allowed to keep playing with the screen off. Picking the source at the
+      // moment of the tap is what makes that possible; swapping it later, mid
+      // playback, is not something a listener should ever see.
+      //
+      // It is a preference, not a rule: an artist with no SoundCloud still gets
+      // their YouTube set through the normal path below.
+      if(opts && opts.prefer==='sc' && all.length===1 && all[s0] && all[s0].slug){
+        var pref=all[s0];
+        try{
+          var pr=await fetch(API_BASE+'/api/soundcloud/sets?slug='+encodeURIComponent(pref.slug)+'&v='+YT_SETS_V);
+          var ps=((await pr.json())||{}).sets||[];
+          if(ps.length && ps[0].url){ playScUrl(ps[0].url, ps[0].title, ps[0].artwork, 'SoundCloud', pref); return; }
+        }catch(_){}
+        try{
+          var mr=await fetch(API_BASE+'/api/mixesdb/sets?slug='+encodeURIComponent(pref.slug)+'&name='+encodeURIComponent(pref.name||pref.slug)+'&v='+YT_SETS_V);
+          var ms=(((await mr.json())||{}).sets||[]).filter(function(x){ return x && x.host==='soundcloud' && x.url; });
+          if(ms.length){ playScUrl(ms[0].url, ms[0].page_title, null, 'SoundCloud', pref); return; }
+        }catch(_){}
+      }
       var need=list.filter(function(a){ return !a.videoId; }).map(function(a){ return a.slug; });
       if(need.length){
         try{
@@ -10057,15 +10100,25 @@
         function paintRest(){
           var box=document.getElementById('sc-rest'); if(!box) return;
           var list=_scFilter?rest.filter(function(c){ return contOf(c)===_scFilter; }):rest;
-          box.innerHTML=list.map(function(c){
-            return '<button class="scn-row" type="button" data-city="'+esc(c.slug)+'">'+
-              '<span class="scn-row-img" style="'+(c.image?'background-image:url('+imgUrl(c.image,120)+')':'background:'+sceneTone(c.slug))+'"></span>'+
-              '<span class="scn-row-tx"><span class="scn-row-name">'+esc(c.name)+'</span>'+
-              '<span class="scn-row-sub">'+(c.count?Number(c.count).toLocaleString('en-GB')+' nights':'')+
-                (c.topGenre?' &middot; '+esc(titleCaseWord(c.topGenre)):'')+'</span></span>'+
-              '<span class="scn-row-cc">'+esc(c.country||'')+'</span></button>';
-          }).join('');
-          box.querySelectorAll('.scn-row[data-city]').forEach(function(b){
+          // A CITY IS A PLACE, NOT A ROW.
+          // This was a 34px thumbnail, a name, a count and a country code —
+          // eleven times over, which is a settings list and says nothing about
+          // any of these scenes. The tile is two of the city's own upcoming
+          // flyers with the name set over a closed scrim: what a Tuesday in
+          // Berlin looks like, which "243 nights" cannot say. Matches the app.
+          box.innerHTML='<div class="scn-grid">'+list.map(function(c){
+            var art=(c.posters&&c.posters.length?c.posters:(c.image?[c.image]:[])).slice(0,2);
+            return '<button class="scn-tile" type="button" data-city="'+esc(c.slug)+'">'+
+              '<span class="scn-tile-art">'+
+                (art.length
+                  ? art.map(function(u){ return '<span class="scn-tile-s" style="background-image:url('+imgUrl(u,300)+')"></span>'; }).join('')
+                  : '<span class="scn-tile-s" style="background:'+sceneTone(c.slug)+'"></span>')+
+              '</span>'+
+              '<span class="scn-tile-tx"><span class="scn-tile-name">'+esc(c.name)+'</span>'+
+              '<span class="scn-tile-sub">'+(c.count?Number(c.count).toLocaleString('en-GB')+' nights':'')+
+                (c.topGenre?' &middot; '+esc(titleCaseWord(c.topGenre)):'')+'</span></span></button>';
+          }).join('')+'</div>';
+          box.querySelectorAll('.scn-tile[data-city]').forEach(function(b){
             b.addEventListener('click',function(){ openCityScene(b.dataset.city); });
           });
         }

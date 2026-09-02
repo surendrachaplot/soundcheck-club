@@ -1,6 +1,6 @@
 # WHP26 presents: Eat Your Own Ears at Depot Mayfield
 
-WHP26 presents: Eat Your Own Ears at Depot Mayfield on Sat 21 Nov, Manchester. 30 acts on the bill: 4am Kru, Aletha, Anish Kumar and ATRIP and 26 more. House and Electronica. Preview the line-up and save it on soundcheck.
+WHP26 presents: Eat Your Own Ears at Depot Mayfield on Sat 21 Nov, Manchester. 31 acts on the bill: 4am Kru, Aletha, Anish Kumar and ATRIP and 27 more. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -31,6 +31,7 @@ WHP26 presents: Eat Your Own Ears at Depot Mayfield on Sat 21 Nov, Manchester. 3
 - Kaitlyn Aurelia Smith
 - Larimae
 - Mount Kimbie
+- MPH (1)
 - Oppidan
 - p-rallel
 - Peggy Gou

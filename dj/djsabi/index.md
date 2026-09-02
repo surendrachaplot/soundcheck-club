@@ -1,13 +1,14 @@
 # DJ SABI
 
-DJ SABI is a Reggaeton and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+DJ SABI is a Reggaeton and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Boombox, Miami on Sat, 12 Sept 2026.
 
-DJ SABI is a reggaeton and neo perreo artist based in United States of America, tracked on soundcheck, with 38 sets logged across Boston, Miami, Newyorkcity and Portland and 3 more. Often billed alongside SPELL, Trippie Hippie (US) and Racci. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+DJ SABI is a reggaeton and neo perreo artist based in United States of America, tracked on soundcheck, with 39 sets logged across Boston, Miami, Newyorkcity and Portland and 3 more. Often billed alongside SPELL, Trippie Hippie (US) and p1no. Next up: The Boombox, Miami on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | The Boombox | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -23,6 +24,6 @@ DJ SABI is a reggaeton and neo perreo artist based in United States of America, 
 
 ## Shares bills with
 
-SPELL, Trippie Hippie (US), Racci
+SPELL, Trippie Hippie (US), p1no
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsabi/)*

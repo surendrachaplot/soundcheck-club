@@ -1,14 +1,15 @@
 # Kazimier Garden
 
-Kazimier Garden is a music venue in Liverpool with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Jacinta (ANL)" on Fri, 11 Sept 2026.
+Kazimier Garden is a music venue in Liverpool with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Jacinta & Nerram (ANL)" on Fri, 11 Sept 2026.
 
-Kazimier Garden is a music venue in Liverpool listed on soundcheck. 1 upcoming night, with line-ups including Jacinta. Browse upcoming dates, start times and who's playing. 32B Seel Street, Liverpool, United Kingdom.
+Kazimier Garden is a music venue in Liverpool listed on soundcheck. 2 upcoming nights, with line-ups including Jacinta and Nerram. Browse upcoming dates, start times and who's playing. 32B Seel Street, Liverpool, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Jacinta (ANL) | Jacinta |
+| Fri, 11 Sept 2026 | Jacinta & Nerram (ANL) | Jacinta, Nerram |
+| Fri, 9 Oct 2026 | Jacinta (ANL) | Jacinta |
 
 ## Address
 

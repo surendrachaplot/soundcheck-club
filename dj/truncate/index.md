@@ -10,7 +10,7 @@ Truncate is a techno and house artist tracked on soundcheck, with 148 sets logge
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - The Way UP | Houston |
 | Fri, 11 Sept 2026 | TBA - Ice House Radio | Houston |
-| Sat, 12 Sept 2026 | TBA - 6910 Shirley Avenue  | Austin |
+| Sat, 12 Sept 2026 | TBA - XuXa - 6910 Shirley Avenue | Austin |
 | Sat, 19 Sept 2026 | Lincoln Factory | Detroit |
 | Sat, 26 Sept 2026 | Grand Park | Los Angeles |
 | Fri, 2 Oct 2026 | Club Exil | Vienna |

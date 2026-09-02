@@ -13,7 +13,7 @@ DBBD is a techno and trance artist tracked on soundcheck, with 88 sets logged ac
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
-| Sat, 24 Oct 2026 | Universe Athens | Athens |
+| Sat, 7 Nov 2026 | Oddity Club | Athens |
 
 ## Recently played
 

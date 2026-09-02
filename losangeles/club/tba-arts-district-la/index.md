@@ -9,6 +9,6 @@ TBA - Arts District LA is a music venue in Losangeles listed on soundcheck. 2 up
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | MELT: DPR (BR), Nicky Macha (UK), Jiggy Boyz  | DPR (1), Nicky Macha |
-| Sat, 31 Oct 2026 | MELT x YOON: Satoshi Tomiie, James Zabiela, Ricardo Roessel, Tom Pickles, Eda, Ika & Usherenko | EDA (2), Ika (GE), James Zabiela, Ricardo Roessel, Satoshi Tomiie, Tommy Pickles, Usherenko |
+| Sat, 31 Oct 2026 | MELT x YOON: Satoshi Tomiie (Live), James Zabiela, Ricardo Roessel, Tom Pickles, Eda, Ika & Ush | EDA (2), Ika (GE), James Zabiela, Ricardo Roessel, Satoshi Tomiie, Tommy Pickles, Usherenko |
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-arts-district-la/)*

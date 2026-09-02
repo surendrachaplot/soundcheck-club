@@ -1,8 +1,8 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 17 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90" on Fri, 4 Sept 2026.
+BASIS is a music venue in Utrecht with 18 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90" on Fri, 4 Sept 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 17 upcoming nights, with line-ups including 36framez, Alarico, Aphøtic and BIIA and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming nights, with line-ups including 36framez, Alarico, Aphøtic and BIIA and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 
@@ -16,8 +16,8 @@ BASIS is a music venue in Utrecht listed on soundcheck. 17 upcoming nights, with
 | Sat, 19 Sept 2026 | BASIS/ Chuckie b2b Koperblond [4h set]/ Nala/ Yucky | DJ Chuckie, Koperblond, Nala, Yucky |
 | Fri, 25 Sept 2026 | BASIS/ Stan Christ all night long | Stan Christ |
 | Sat, 26 Sept 2026 | BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers | Brent Honey, NewTone, fka.m4a |
+| Fri, 2 Oct 2026 | BASIS/ DEF/ Genetica/ LESSSS/ SANTØS | Genetica, LESSSS, SANTØS |
 | Sat, 3 Oct 2026 | BASIS/ BIIA All Night Long | BIIA |
-| Fri, 9 Oct 2026 | BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem | Bohm, DJ Assault, DJ Godfather |
 
 ## Address
 

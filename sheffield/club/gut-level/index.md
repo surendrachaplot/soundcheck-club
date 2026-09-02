@@ -9,7 +9,7 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 7 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TAKIN'LIBERTIES TL0015 with HVL | Chris Jackson, FM Arlo, HVL, Jacksa, sleepsang |
-| Thu, 17 Sept 2026 | Shaun Bloodworth: Photographs & Films & Things | Soph (5), The Black Dog |
+| Thu, 17 Sept 2026 | Shaun Bloodworth: Photographs & Films & Things | MYNA, Soph (5), The Black Dog |
 | Fri, 18 Sept 2026 | Calabash! invites INTERNET CULTURE |  |
 | Sat, 19 Sept 2026 | Dreamland: Peach (All Night Long) | Peach |
 | Wed, 23 Sept 2026 | Crimewave/ KiosK/ Vera Sacra |  |

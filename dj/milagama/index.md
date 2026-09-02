@@ -1,13 +1,14 @@
 # Mila Gama
 
-Mila Gama is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Mila Gama is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Domicile, Miami on Sat, 5 Sept 2026.
 
-Mila Gama is a techno and club artist based in Peru, tracked on soundcheck, with 17 sets logged across Miami and Newyorkcity. Often billed alongside Robyn Sin Love, Ultrathem and Lady Narcisse. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Mila Gama is a techno and club artist based in Peru, tracked on soundcheck, with 18 sets logged across Miami and Newyorkcity. Often billed alongside Robyn Sin Love, Ultrathem and Lady Narcisse. Next up: Domicile, Miami on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Domicile | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played

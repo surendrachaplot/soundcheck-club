@@ -9,7 +9,7 @@ Amor Satyr is a techno and bass artist based in France, tracked on soundcheck, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | ÆDEN | Berlin |
-| Sat, 24 Oct 2026 | Universe Athens | Athens |
+| Sat, 7 Nov 2026 | Oddity Club | Athens |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # DJ Paypal
 
-DJ Paypal is a Footwork and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
+DJ Paypal is a Footwork and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Elsewhere, New York City on Fri, 11 Sept 2026.
 
-DJ Paypal is a footwork and bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 22 more. Often billed alongside Kloxii Li, Missy and TEDDMAN. Next up: Elsewhere, Newyorkcity on Fri 11 Sept.
+DJ Paypal is a footwork and bass artist tracked on soundcheck, with 56 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 22 more. Often billed alongside Kloxii Li, Missy and TEDDMAN. Next up: Elsewhere, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Elsewhere | New York City |
+| Sat, 12 Sept 2026 | Warehouse on Watts | Philadelphia |
 | Sat, 19 Sept 2026 | The Black Box | Denver |
 
 ## Recently played

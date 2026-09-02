@@ -1,10 +1,10 @@
 # ADUNANZA ~ at TBA
 
-ADUNANZA ~ at TBA on Fri 11 Sept, Naples. House and Tech House. Preview the line-up and save it on soundcheck.
+ADUNANZA ~ at TBA on Sat 3 Oct, Naples. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 11 Sept 2026 |
+| Date | Sat, 3 Oct 2026 |
 | Venue | TBA |
 | City | Naples |
 

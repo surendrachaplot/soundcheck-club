@@ -1,8 +1,8 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 16 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Start Here" on Thu, 3 Sept 2026.
+The Greyhound is a music venue in London with 17 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Start Here" on Thu, 3 Sept 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including Albi & Kego, Alex Wilcox, Blossom Hill and Dylan Forbes and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Albi & Kego, Alex Wilcox, Blossom Hill and Bobby Mac and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
@@ -17,7 +17,7 @@ The Greyhound is a music venue in London listed on soundcheck. 16 upcoming night
 | Wed, 23 Sept 2026 | Brief Encounters presents: RenzNiro, roop, Tommy Ryoma, Ratiba Ayadi + Jah$tar | RenzNiro, roop |
 | Fri, 25 Sept 2026 | Hotel Danesfield | Dylan Forbes, iasc |
 | Sat, 26 Sept 2026 | Gazebo (Day Party) | Gazebo DJs |
-| Sat, 10 Oct 2026 | Otik - The Greyhound | Otik |
+| Fri, 9 Oct 2026 | SLVA: The Greyhound | Bobby Mac, lorcan_ |
 
 ## Address
 

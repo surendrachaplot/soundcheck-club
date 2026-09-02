@@ -1,14 +1,15 @@
 # Invaria
 
-Invaria is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 4 Sept 2026.
+Invaria is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 4 Sept 2026.
 
-Invaria is a house and techno artist tracked on soundcheck, with 53 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside SevenDays, ANDATA and Sitze. Next up: Uebel & Gefährlich, Hamburg on Fri 4 Sept.
+Invaria is a techno and house artist tracked on soundcheck, with 54 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 4 more. Often billed alongside SevenDays, ANDATA and Sitze. Next up: Uebel & Gefährlich, Hamburg on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Uebel & Gefährlich | Hamburg |
+| Sat, 19 Sept 2026 | Fundbureau | Hamburg |
 
 ## Recently played
 

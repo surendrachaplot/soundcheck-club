@@ -1,8 +1,8 @@
 # Renate
 
-Renate is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Renate Klubnacht + Open Air (Free Entry) x RBL" on Thu, 3 Sept 2026.
+Renate is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Renate Klubnacht + Open Air (Free Entry) x RBL" on Thu, 3 Sept 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Aalia Iraki, ābnamā, Adam Cooke and AGILY and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including 80HDJ, Aalia Iraki, ābnamā and Adam Cooke and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Renate is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with
 | Thu, 10 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Solace Space | Asa Tate, Cashper, Cathal, Der Opium Queen, Fhionn, Slowfoam |
 | Fri, 11 Sept 2026 | 19 Years Renate - 7 Floors - 66 Hour Party with Angel D'lite, Stenny, Mary Lake, Daniel Avery | AGILY, Adam Cooke, Alison Swing, Amy Dabbs, Ana Selina, Angel D'lite, Bell Towers, Big Leg, Black Mirror Park, Camilla Rae, Carly Zeng, Cheriii, Crille & Tamalt, DJ CHICHI, DJ Life, DJ Pete, Dana Ruh, Daniel Avery, David Fogarty, Dornika, Eternal Soup, Faited, Frinda di Lanco, Gwen Wayne, Handmade, Hendrik Stein, Immy, JM Moser, Johanna Elias, John Loveless, Lara Fein, Luca Elsi, Lush Lab, MASCHA, Madalba, Mara Menace, Mark Gill, Mary Lake, Nadia Wise, Nikita T, Obelix, Organza, Overthink 71, Psyked, Punani, Rafush, Robin Flux, Sansibar, Stenny, Sumi (3), Tam Tam, Tangela, Triqi, Tzena, UrbnMowgli, VEB Elektrokunst, Vio PRG, degen, elliephunk, lisa tba, sin serif, ābnamā |
 | Fri, 18 Sept 2026 | SENSUS w/ DJ Fuckoff, P.Vanillaboy, PAU and many more | Brauer, Carl Hang, DJ Buona Sara, DJ Fuckoff, DJ Fucks Himself, FORTUNATA, Josi Miller (2), Katta Lana, Lenny Fuck, P.Vanillaboy, PAU (6), Penglord, Perra Inmunda |
+| Sat, 19 Sept 2026 | Silly Little Sunday Club | 80HDJ, Camilla Rae, Reinartz, Robot Girlfriend, Vitling |
 | Sat, 19 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sunday Club |  |
-| Sat, 26 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) |  |
 
 ## Address
 

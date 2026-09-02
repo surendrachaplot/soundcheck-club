@@ -1,13 +1,14 @@
 # Pat Fee
 
-Pat Fee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Logan Square Chicago, Chicago on Sat, 31 Oct 2026.
+Pat Fee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - 2233 S Wentworth Ave, Chicago on Sun, 13 Sept 2026.
 
-Pat Fee is a house and techno artist based in United States of America, tracked on soundcheck, with 67 sets logged across Chicago. Often billed alongside samantha rad, Amy Unland and Gabriel Palomo. Next up: TBA - Logan Square Chicago, Chicago on Sat 31 Oct.
+Pat Fee is a house and techno artist based in United States of America, tracked on soundcheck, with 68 sets logged across Chicago. Often billed alongside samantha rad, Amy Unland and Gabriel Palomo. Next up: TBA - 2233 S Wentworth Ave, Chicago on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | TBA - 2233 S Wentworth Ave | Chicago |
 | Sat, 31 Oct 2026 | TBA - Logan Square Chicago | Chicago |
 
 ## Recently played

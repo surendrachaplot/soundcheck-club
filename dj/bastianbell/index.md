@@ -1,13 +1,14 @@
 # Bastian Bell
 
-Bastian Bell is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mexa, Mexico City on Sat, 5 Sept 2026.
+Bastian Bell is a Hip-Hop and R&B artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Tonal, Mexico City on Wed, 2 Sept 2026.
 
-Bastian Bell is a hip-hop and r&b artist based in Mexico, tracked on soundcheck, with 57 sets logged across Mexicocity and Sanfrancisco. Often billed alongside Dj Dizam, Tchakomi and Black Daria. Next up: Mexa, Mexicocity on Sat 5 Sept.
+Bastian Bell is a hip-hop and r&b artist based in Mexico, tracked on soundcheck, with 58 sets logged across Mexicocity and Sanfrancisco. Often billed alongside Dj Dizam, Tchakomi and Black Daria. Next up: Tonal, Mexicocity on Wed 2 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 2 Sept 2026 | Tonal | Mexico City |
 | Sat, 5 Sept 2026 | Mexa | Mexico City |
 
 ## Recently played

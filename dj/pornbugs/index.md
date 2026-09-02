@@ -1,13 +1,14 @@
 # Pornbugs
 
-Pornbugs is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Marina Botafoch, Ibiza on Sun, 13 Sept 2026.
+Pornbugs is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Klunkerkranich, Berlin on Fri, 11 Sept 2026.
 
-Pornbugs is a house and deep house artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Rangø, ANĪC and JHNS. Next up: Marina Botafoch, Ibiza on Sun 13 Sept.
+Pornbugs is a house and deep house artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Rangø, ANĪC and JHNS. Next up: Klunkerkranich, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Klunkerkranich | Berlin |
 | Sun, 13 Sept 2026 | Marina Botafoch | Ibiza |
 | Sat, 19 Sept 2026 | Czech Boat | Prague |
 | Mon, 28 Sept 2026 | KitKatClub | Berlin |

@@ -16,7 +16,7 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 22 upcoming n
 | Tue, 15 Sept 2026 | REDEMPTION // Freshers Takeover at Bongo Club |  |
 | Wed, 16 Sept 2026 | EPiKA - ECFS launch party | Hellæktra, Iona.Violet, Nikki Guild, iluna, ona:v |
 | Thu, 17 Sept 2026 | Origins x TOTEM: Oldboy | Fug (1), Lui Mackay, Oldboy, Oldboy (UK), Rònan White, yung kidd |
-| Fri, 18 Sept 2026 | Tektite: Special Guests TBA |  |
+| Fri, 18 Sept 2026 | Tektite Launch Night |  |
 | Sat, 19 Sept 2026 | Messenger Sound System - Bongo Return Dance |  |
 
 ## Address

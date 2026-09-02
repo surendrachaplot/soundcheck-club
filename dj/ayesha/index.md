@@ -1,8 +1,8 @@
 # Ayesha
 
-Ayesha is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Green Room NYC, New York City on Fri, 4 Sept 2026.
+Ayesha is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Green Room NYC, New York City on Fri, 4 Sept 2026.
 
-Ayesha is a techno and bass artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Ma Sha, Batu and Doctor Jeep. Next up: Green Room NYC, Newyorkcity on Fri 4 Sept.
+Ayesha is a techno and bass artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Ma Sha, Batu and Doctor Jeep. Next up: Green Room NYC, Newyorkcity on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ayesha is a techno and bass artist tracked on soundcheck, with 82 sets logged ac
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Green Room NYC | New York City |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
+| Sat, 24 Oct 2026 | Nowadays | New York City |
 
 ## Recently played
 

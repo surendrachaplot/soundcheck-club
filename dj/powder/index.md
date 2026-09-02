@@ -1,8 +1,8 @@
 # Powder
 
-Powder is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Downtown, Los Angeles on Fri, 4 Sept 2026.
+Powder is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Downtown, Los Angeles on Fri, 4 Sept 2026.
 
-Powder is a house and techno artist tracked on soundcheck, with 61 sets logged across Amsterdam, Bangkok, Berlin and Boston and 21 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: TBA - Downtown, Losangeles on Fri 4 Sept.
+Powder is a house and techno artist tracked on soundcheck, with 62 sets logged across Amsterdam, Bangkok, Berlin and Boston and 22 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: TBA - Downtown, Losangeles on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Powder is a house and techno artist tracked on soundcheck, with 61 sets logged a
 | Sat, 5 Sept 2026 | Process PDX | Portland |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 18 Sept 2026 | Nowadays | New York City |
+| Sun, 20 Sept 2026 | Warehouse on Watts | Philadelphia |
 
 ## Recently played
 

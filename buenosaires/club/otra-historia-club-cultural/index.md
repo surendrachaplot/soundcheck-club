@@ -1,13 +1,14 @@
 # Otra Historia Club Cultural
 
-Otra Historia Club Cultural is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "FUTURITMO presenta: Franz Scala (Italia)" on Sat, 12 Sept 2026.
+Otra Historia Club Cultural is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Knossos Rave: REBEKAOS - SNADIN - osado - AMY LOUGE" on Fri, 11 Sept 2026.
 
-Otra Historia Club Cultural is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Franz Scala. Browse upcoming dates, start times and who's playing. Estomba 851, C1427COS Buenos Aires.
+Otra Historia Club Cultural is a music venue in Buenosaires listed on soundcheck. 2 upcoming nights, with line-ups including Franz Scala and osado. Browse upcoming dates, start times and who's playing. Estomba 851, C1427COS Buenos Aires.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Knossos Rave: REBEKAOS - SNADIN - osado - AMY LOUGE | osado |
 | Sat, 12 Sept 2026 | FUTURITMO presenta: Franz Scala (Italia) | Franz Scala |
 
 ## Address

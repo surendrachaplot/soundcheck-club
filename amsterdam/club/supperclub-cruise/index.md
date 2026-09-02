@@ -2,13 +2,13 @@
 
 Supperclub Cruise is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Jackies ADE Boat Party 2026 - Louie Vega - Open to Close" on Thu, 22 Oct 2026.
 
-Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Cris-H, Einmusik, Louie Vega and Malouna and 2 more. Browse upcoming dates, start times and who's playing. De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands.
+Supperclub Cruise is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Cris-H, Einmusik, GIVIO and Grace Kim and 2 more. Browse upcoming dates, start times and who's playing. De Ruyterkade, Pier 14; Binnenstad Amsterdam; Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Jackies ADE Boat Party 2026 - Louie Vega - Open to Close | Louie Vega, Piem |
+| Thu, 22 Oct 2026 | Jackies ADE Boat Party 2026 - Louie Vega - Open to Close | GIVIO, Grace Kim, Louie Vega, Piem |
 | Fri, 23 Oct 2026 | Ritter Butzke & Casa ADE Cruise | Cris-H, Einmusik, Malouna, Markus Klee, Prismode, Solvane, Super Flu |
 
 ## Address

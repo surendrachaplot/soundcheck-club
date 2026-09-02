@@ -1,13 +1,14 @@
 # OOZE
 
-OOZE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Elektricity, Detroit on Fri, 11 Sept 2026.
+OOZE is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Level Two Bar & Rooftop, Detroit on Sun, 6 Sept 2026.
 
-OOZE is a house and techno artist based in United States of America, tracked on soundcheck, with 34 sets logged across Berlin, Detroit, London and Lyon and 2 more. Often billed alongside Drop Catch, ojoo and Cortex of Light. Next up: Elektricity, Detroit on Fri 11 Sept.
+OOZE is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Detroit, London and Lyon and 2 more. Often billed alongside Drop Catch, ojoo and Cortex of Light. Next up: Level Two Bar & Rooftop, Detroit on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | Level Two Bar & Rooftop | Detroit |
 | Fri, 11 Sept 2026 | Elektricity | Detroit |
 | Fri, 30 Oct 2026 | Lincoln Factory | Detroit |
 | Fri, 20 Nov 2026 | Elektricity | Detroit |

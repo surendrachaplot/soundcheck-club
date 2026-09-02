@@ -1,8 +1,8 @@
 # Simmo.
 
-Simmo. is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Amber's, Manchester on Fri, 25 Sept 2026.
+Simmo. is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Amber's, Manchester on Fri, 25 Sept 2026.
 
-Simmo. is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Manchester. Often billed alongside Amelia Leigh, Sweetly and CHY (1). Next up: Amber's, Manchester on Fri 25 Sept.
+Simmo. is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside Amelia Leigh, Sweetly and DAIZ. Next up: Amber's, Manchester on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Simmo. is a jungle and bass artist based in United Kingdom, tracked on soundchec
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Amber's | Manchester |
 | Sat, 17 Oct 2026 | Gorilla | Manchester |
+| Thu, 22 Oct 2026 | Gorilla | Manchester |
 
 ## Recently played
 
@@ -19,6 +20,6 @@ Simmo. is a jungle and bass artist based in United Kingdom, tracked on soundchec
 
 ## Shares bills with
 
-Amelia Leigh, Sweetly, CHY (1)
+Amelia Leigh, Sweetly, DAIZ
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simmo./)*

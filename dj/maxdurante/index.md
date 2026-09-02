@@ -1,13 +1,14 @@
 # MAX DURANTE
 
-MAX DURANTE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at OT301, Amsterdam on Fri, 6 Nov 2026.
+MAX DURANTE is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Mexico City on Sat, 5 Sept 2026.
 
-MAX DURANTE is a techno and industrial artist tracked on soundcheck, with 39 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 11 more. Often billed alongside Yu Kawabata, Dave Clarke and Stephanie Sykes. Next up: OT301, Amsterdam on Fri 6 Nov.
+MAX DURANTE is a techno and industrial artist tracked on soundcheck, with 40 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 11 more. Often billed alongside Yu Kawabata, Dave Clarke and Stephanie Sykes. Next up: TBA, Mexicocity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | TBA | Mexico City |
 | Fri, 6 Nov 2026 | OT301 | Amsterdam |
 
 ## Recently played

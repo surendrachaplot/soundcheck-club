@@ -1,14 +1,14 @@
 # Robot Girlfriend
 
-Robot Girlfriend is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Containerhafen, Berlin on Sun, 13 Sept 2026.
+Robot Girlfriend is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Renate, Berlin on Sat, 19 Sept 2026.
 
-Robot Girlfriend is a house and bass artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Vitling, 80HDJ and Heath Swedger. Next up: Containerhafen, Berlin on Sun 13 Sept.
+Robot Girlfriend is a house and bass artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Vitling, 80HDJ and Heath Swedger. Next up: Renate, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | Containerhafen | Berlin |
+| Sat, 19 Sept 2026 | Renate | Berlin |
 
 ## Recently played
 

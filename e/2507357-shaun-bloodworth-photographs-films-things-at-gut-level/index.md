@@ -1,6 +1,6 @@
 # Shaun Bloodworth: Photographs & Films & Things at Gut Level
 
-Shaun Bloodworth: Photographs & Films & Things at Gut Level on Thu 17 Sept, Sheffield. 2 acts on the bill: Soph (5) and The Black Dog. Techno and Dubstep. Preview the line-up and save it on soundcheck.
+Shaun Bloodworth: Photographs & Films & Things at Gut Level on Thu 17 Sept, Sheffield. 3 acts on the bill: MYNA, Soph (5) and The Black Dog. Techno and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Shaun Bloodworth: Photographs & Films & Things at Gut Level on Thu 17 Sept, Shef
 
 ## Line-up
 
+- MYNA
 - Soph (5)
 - The Black Dog
 

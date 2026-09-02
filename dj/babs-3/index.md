@@ -1,13 +1,14 @@
 # Babs (3)
 
-Babs (3) is a EBM and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The System, Sheffield on Fri, 11 Sept 2026.
+Babs (3) is a House and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at renae, Manchester on Fri, 4 Sept 2026.
 
-Babs (3) is an ebm and balearic artist tracked on soundcheck, with 8 sets logged across Manchester and Sheffield. Often billed alongside Holba, Camilla Reghenzi and Galgish. Next up: The System, Sheffield on Fri 11 Sept.
+Babs (3) is a house and ebm artist tracked on soundcheck, with 9 sets logged across Manchester and Sheffield. Often billed alongside Holba, A Little Bit Orange and CARALUS. Next up: renae, Manchester on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | renae | Manchester |
 | Fri, 11 Sept 2026 | The System | Sheffield |
 
 ## Recently played
@@ -22,6 +23,6 @@ Babs (3) is an ebm and balearic artist tracked on soundcheck, with 8 sets logged
 
 ## Shares bills with
 
-Holba, Camilla Reghenzi, Galgish
+Holba, A Little Bit Orange, CARALUS
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babs-3/)*

@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Life Of: dj zozi, Baroque Hoe, Zeigler, Brutal Twink" on Wed, 2 Sept 2026.
+Bossa Nova Civic Club is a music venue in New York City with 36 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Life Of: dj zozi, Baroque Hoe, Zeigler, Brutal Twink" on Wed, 2 Sept 2026.
 
-Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including Ah Dek, Aleska, Ali Berger and Alonzo and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 36 upcoming nights, with line-ups including Ah Dek, Aleska, Ali Berger and Alonzo and 2 more. Browse upcoming dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Bossa Nova Civic Club is a music venue in Newyorkcity listed on soundcheck. 33 u
 | Fri, 4 Sept 2026 | HOCHI HOUR |  |
 | Sat, 5 Sept 2026 | SKIN2SKIN: 2 YEAR ANNIVERSARY | ARCHANGEL (US), Amarji King, Christinathesaintt, Daniro |
 | Sun, 6 Sept 2026 | Happy Hour: Ben Zo b2b STEEN | Ben Zo, STEEN |
+| Sun, 6 Sept 2026 | Bumpa with Ayanna Heaven, Shakakhan, SAVSSOUNDS, cry$cross | Ayanna Heaven, SAVSSOUNDS, cry$cross |
 | Mon, 7 Sept 2026 | FROM THE PARKWAY TO MYRTLE BROADWAY | Dazegxd, Grabba Ranks, LIL2HOOD, NoahG, SUPR SPRT, Syd (US) |
-| Tue, 8 Sept 2026 | MASCHINENHALLE: NIGHT SHIFT - ft Famine, Moment of Terror, XSB-R | Moment of Terror, XSB-R |
 
 ## Address
 
