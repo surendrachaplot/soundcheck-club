@@ -1,14 +1,15 @@
 # Makoto
 
-Makoto is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Thuishaven, Amsterdam on Sat, 12 Sept 2026.
+Makoto is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Thuishaven, Amsterdam on Sat, 12 Sept 2026.
 
-Makoto is a drum & bass and jungle artist tracked on soundcheck, with 82 sets logged across Amsterdam, Auckland, Austin and Belgrade and 27 more. Often billed alongside London Elektricity, DJ Marky and Fred V. Next up: Thuishaven, Amsterdam on Sat 12 Sept.
+Makoto is a drum & bass and jungle artist tracked on soundcheck, with 83 sets logged across Amsterdam, Auckland, Austin and Belgrade and 27 more. Often billed alongside London Elektricity, DJ Marky and Fred V. Next up: Thuishaven, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Thuishaven | Amsterdam |
+| Wed, 21 Oct 2026 | ZUBAR | Tokyo |
 
 ## Recently played
 

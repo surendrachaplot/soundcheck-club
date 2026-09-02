@@ -1,14 +1,15 @@
 # Agoria
 
-Agoria is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Audio Club, Geneva on Sat, 5 Sept 2026.
+Agoria is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Audio Club, Geneva on Sat, 5 Sept 2026.
 
-Agoria is a house and techno artist tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Barcelona and Geneva and 15 more. Often billed alongside Mooglie, Amour Propre and Armin van Buuren. Next up: Audio Club, Geneva on Sat 5 Sept.
+Agoria is a techno and house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Barcelona and Geneva and 15 more. Often billed alongside Mooglie, Amour Propre and Armin van Buuren. Next up: Audio Club, Geneva on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Audio Club | Geneva |
+| Sat, 19 Sept 2026 | Volt Club Milano | Milan |
 | Thu, 1 Oct 2026 | Cité du Cinéma | Paris |
 
 ## Recently played

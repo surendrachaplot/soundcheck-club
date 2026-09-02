@@ -1,8 +1,8 @@
 # John Morales
 
-John Morales is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Standard Time, Toronto on Sat, 26 Sept 2026.
+John Morales is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Standard Time, Toronto on Sat, 26 Sept 2026.
 
-John Morales is a house and disco artist tracked on soundcheck, with 45 sets logged across Barcelona, Cardiff, Chicago and Edinburgh and 12 more. Often billed alongside Melvo Baptiste, The Shapeshifters and Young Pulse. Next up: Standard Time, Toronto on Sat 26 Sept.
+John Morales is a house and disco artist tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Cardiff and Chicago and 13 more. Often billed alongside Melvo Baptiste, The Shapeshifters and Young Pulse. Next up: Standard Time, Toronto on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ John Morales is a house and disco artist tracked on soundcheck, with 45 sets log
 | Sat, 26 Sept 2026 | Standard Time | Toronto |
 | Sun, 11 Oct 2026 | The Midway | San Francisco/Oakland |
 | Sun, 11 Oct 2026 | The Midway | San Francisco/Oakland |
+| Fri, 6 Nov 2026 | Lark | Berlin |
 
 ## Recently played
 

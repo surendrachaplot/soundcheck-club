@@ -9,7 +9,7 @@ Taglo is a progressive house and techno artist based in Australia, tracked on so
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Chasers Nightclub | Melbourne |
-| Fri, 16 Oct 2026 | TBA | Melbourne |
+| Fri, 16 Oct 2026 | Brown Alley | Melbourne |
 
 ## Recently played
 

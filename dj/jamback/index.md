@@ -1,8 +1,8 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Concourse Project, Austin on Thu, 3 Sept 2026.
+Jamback is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Concourse Project, Austin on Thu, 3 Sept 2026.
 
-Jamback is a house and tech house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: The Concourse Project, Austin on Thu 3 Sept.
+Jamback is a house and tech house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: The Concourse Project, Austin on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Jamback is a house and tech house artist tracked on soundcheck, with 180 sets lo
 | Fri, 4 Sept 2026 | Club Vinyl | Denver |
 | Sun, 6 Sept 2026 | Spybar | Chicago |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
+| Sun, 13 Sept 2026 | NDSM Docklands | Amsterdam |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 11 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 16 Oct 2026 | NX Newcastle | Newcastle |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
-| Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played
 

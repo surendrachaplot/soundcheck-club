@@ -15,7 +15,7 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 11 upcoming nights, 
 | Fri, 11 Sept 2026 | HARD TECHNO 'CRACKS' with DØLLHAUS, LIZA, Kaoll, KIYO, Mai, PINKY, | DØLLHAUS, Kaoll, LIZA (6) |
 | Tue, 15 Sept 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water | ZAGUN, dyn (JP) |
 | Fri, 18 Sept 2026 | HARD TECHNO 'CRACKS' with neqr, FENGX2, inudog system | FENGX2, inudog system |
-| Tue, 22 Sept 2026 | 'sutura'×DELTA TECHNO ADDICT at Night Club Blvck Water SPECIAL COLLABORATION | Liza, ZAGUN |
+| Tue, 22 Sept 2026 | 'sutura'×DELTA TECHNO ADDICT at Night Club Blvck Water SPECIAL COLLABORATION | LIZA (6), Liza, ZAGUN, amor (JP) |
 | Fri, 25 Sept 2026 | HARD TECHNO 'CRACKS' with FUJI TRILL, FENGX2, Frank Rayo, ZAGUN | FENGX2, FUJI TRILL, Frank Rayo, ZAGUN |
 | Sun, 27 Sept 2026 | FRONT LINE in OSAKA |  |
 

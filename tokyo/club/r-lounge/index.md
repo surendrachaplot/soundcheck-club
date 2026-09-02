@@ -1,8 +1,8 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Orca" on Wed, 2 Sept 2026.
+R Lounge is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Orca" on Wed, 2 Sept 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including akii, Andrew (TREKKIE TRAX), BEPPU and Carpainter and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including akii, Andrew (TREKKIE TRAX), BEPPU and Carpainter and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 

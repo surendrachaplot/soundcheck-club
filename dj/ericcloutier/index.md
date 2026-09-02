@@ -1,14 +1,15 @@
 # Eric Cloutier
 
-Eric Cloutier is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
+Eric Cloutier is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Tresor / Globus, Berlin on Sat, 26 Sept 2026.
 
-Eric Cloutier is a techno and house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside Amulador, Andy Garvey and Bloody Mary. Next up: Tresor / Globus, Berlin on Sat 26 Sept.
+Eric Cloutier is a techno and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 18 more. Often billed alongside Amulador, Andy Garvey and Bloody Mary. Next up: Tresor / Globus, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Tresor / Globus | Berlin |
+| Sun, 1 Nov 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Turako
 
-Turako is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Turako is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
-Turako is a techno and progressive house artist based in Egypt, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin and Nurnberg. Often billed alongside Black Box, Joshlane and LINBER LYNX. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
+Turako is a techno and progressive house artist based in Egypt, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin and Nurnberg. Often billed alongside Joshlane, Black Box and Darin Epsilon. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Onder Hans | Amsterdam |
+| Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Turako is a techno and progressive house artist based in Egypt, tracked on sound
 
 ## Shares bills with
 
-Black Box, Joshlane, LINBER LYNX
+Joshlane, Black Box, Darin Epsilon
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/turako/)*

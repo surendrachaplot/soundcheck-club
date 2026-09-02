@@ -1,13 +1,15 @@
 # 88block
 
-88block is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "賽音 -Sci-On-" on Sun, 6 Sept 2026.
+88block is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Upper Cuts #118" on Wed, 2 Sept 2026.
 
-88block is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including Diceman, DJ B2B, Iori and Sakuma and 1 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
+88block is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including Anela, Diceman, DJ B2B and Iori and 2 more. Browse upcoming dates, start times and who's playing. B1F, 2-14-7, Takadanobaba,Shinjuku-ku,Tokyo 169-0075.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Wed, 2 Sept 2026 | Upper Cuts #118 |  |
+| Fri, 4 Sept 2026 | GALA | Anela |
 | Sun, 6 Sept 2026 | 賽音 -Sci-On- | Diceman |
 | Fri, 11 Sept 2026 | ODRS |  |
 | Sat, 12 Sept 2026 | KAKIMAWASHI | DJ B2B |

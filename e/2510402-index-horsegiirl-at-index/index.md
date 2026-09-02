@@ -1,6 +1,6 @@
 # Index: horsegiirL at Index
 
-Index: horsegiirL on Sat 5 Sept, Dublin. 1 act on the bill: horsegiirL. Electronica. Preview the line-up and save it on soundcheck.
+Index: horsegiirL on Sat 5 Sept, Dublin. 3 acts on the bill: darkmavis, Derv and horsegiirL. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Index: horsegiirL on Sat 5 Sept, Dublin. 1 act on the bill: horsegiirL. Electron
 
 ## Line-up
 
+- darkmavis
+- Derv
 - horsegiirL
 
 *Source: [soundcheck](https://soundcheck.club/e/2510402-index-horsegiirl-at-index/)*

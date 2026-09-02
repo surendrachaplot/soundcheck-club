@@ -1,6 +1,6 @@
 # Field Notes presents... A House Party 2 at Het Dorp
 
-Field Notes presents... A House Party 2 at Het Dorp on Fri 4 Sept, Amsterdam. 5 acts on the bill: Alexis Le-Tan, Alicia Carrera, Field Notes DJs and Legowelt and 1 more. Acid and Disco. Preview the line-up and save it on soundcheck.
+Field Notes presents... A House Party 2 at Het Dorp on Fri 4 Sept, Amsterdam. 5 acts on the bill: Alexis Le-Tan, Alicia Carrera, Field Notes DJs and Legowelt and 1 more. Disco and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

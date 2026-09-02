@@ -2,7 +2,7 @@
 
 Antonella mags schneller is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Flamingo, Berlin on Sat, 12 Sept 2026.
 
-Antonella mags schneller is a techno and trance artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside JUWLZ, ASTRANA and Ace9. Next up: Golden Flamingo, Berlin on Sat 12 Sept.
+Antonella mags schneller is a techno and trance artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside JUWLZ, ASTRANA and Abimixx. Next up: Golden Flamingo, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Antonella mags schneller is a techno and trance artist tracked on soundcheck, wi
 
 ## Shares bills with
 
-JUWLZ, ASTRANA, Ace9
+JUWLZ, ASTRANA, Abimixx
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antonellamagsschneller/)*

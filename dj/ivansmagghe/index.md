@@ -1,15 +1,15 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nitsa Club, Barcelona on Sat, 5 Sept 2026.
+Ivan Smagghe is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Ivan Smagghe is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Nitsa Club, Barcelona on Sat 5 Sept.
+Ivan Smagghe is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Nitsa Club | Barcelona |
 | Sat, 12 Sept 2026 | The Cause | London |
+| Fri, 18 Sept 2026 | Nitsa Club | Barcelona |
 | Fri, 25 Sept 2026 | Jasna 1 | Warsaw |
 | Sat, 26 Sept 2026 | Jaeger | Oslo |
 | Fri, 2 Oct 2026 | Kapsule | Liverpool |

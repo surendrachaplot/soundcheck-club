@@ -1,8 +1,8 @@
 # HAAi
 
-HAAi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Electric Studios, Sheffield on Fri, 4 Sept 2026.
+HAAi is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Electric Studios, Sheffield on Fri, 4 Sept 2026.
 
-HAAi is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: Electric Studios, Sheffield on Fri 4 Sept.
+HAAi is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Antwerp, Athens and Bali and 54 more. Often billed alongside DJ Tennis, Saoirse and Gabrielle Kwarteng. Next up: Electric Studios, Sheffield on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ HAAi is a techno and house artist tracked on soundcheck, with 203 sets logged ac
 | Sat, 17 Oct 2026 | The Ground at Club Space | Miami |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sun, 25 Oct 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
+| Sat, 31 Oct 2026 | EartH | London |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

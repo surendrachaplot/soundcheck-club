@@ -1,6 +1,6 @@
 # Teletech: Manchester Mandidextrous at Hidden
 
-Teletech: Manchester Mandidextrous at Hidden on Fri 18 Sept, Manchester. 7 acts on the bill: Dj Schnake, Ephy Pinkman, Gullyteen and Laze and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Teletech: Manchester Mandidextrous at Hidden on Fri 18 Sept, Manchester. 8 acts on the bill: CBABY, Dj Schnake, Ephy Pinkman and Gullyteen and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Teletech: Manchester Mandidextrous at Hidden on Fri 18 Sept, Manchester. 7 acts 
 
 ## Line-up
 
+- CBABY
 - Dj Schnake
 - Ephy Pinkman
 - Gullyteen

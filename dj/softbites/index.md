@@ -1,14 +1,15 @@
 # Soft Bites
 
-Soft Bites is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
+Soft Bites is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
 
-Soft Bites is a progressive house and house artist based in Denmark, tracked on soundcheck, with 25 sets logged across Copenhagen and Hamburg. Often billed alongside Johannes Astrup, Ama Lien and Anders Horse. Next up: Südpol, Hamburg on Fri 4 Sept.
+Soft Bites is a progressive house and house artist based in Denmark, tracked on soundcheck, with 26 sets logged across Copenhagen and Hamburg. Often billed alongside Johannes Astrup, Ama Lien and Anders Horse. Next up: Südpol, Hamburg on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Südpol | Hamburg |
+| Sat, 5 Sept 2026 | Südpol | Hamburg |
 
 ## Recently played
 

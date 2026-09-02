@@ -17,7 +17,7 @@ OST is a music venue in Berlin listed on soundcheck. 29 upcoming nights, with li
 | Fri, 18 Sept 2026 | SCHRANZ is BACK with Felix Kröcher | Felix Kröcher |
 | Sat, 19 Sept 2026 | Devoted pres Inferno w. JAZZY, Kø:lab, Limoncello, INFERNO Showcase & more | Athina, DJ HOTMAIL, IGDA, JAZZY (2), Kø:lab, Limoncello, SEKTOR69, Treibende Kraft, ZOEVITA |
 | Thu, 24 Sept 2026 | Savory - Techno Every Thursday | MAURER, WAN.1, sima (DE) |
-| Fri, 25 Sept 2026 | 808 Studios x OST pres. OGUZ | OGUZ |
+| Fri, 25 Sept 2026 | [CANCELLED] 808 Studios x OST pres. OGUZ | OGUZ |
 
 ## Address
 

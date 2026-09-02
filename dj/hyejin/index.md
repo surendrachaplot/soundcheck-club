@@ -1,14 +1,15 @@
 # Hyejin
 
-Hyejin is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Kote, Seoul on Sat, 5 Sept 2026.
+Hyejin is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Kote, Seoul on Sat, 5 Sept 2026.
 
-Hyejin is a bass and house artist based in South Korea, tracked on soundcheck, with 90 sets logged across Seoul and Tokyo. Often billed alongside Shins, untitled (2) and DJ Co.kr. Next up: Kote, Seoul on Sat 5 Sept.
+Hyejin is a house and bass artist based in South Korea, tracked on soundcheck, with 91 sets logged across Seoul and Tokyo. Often billed alongside Shins, untitled (2) and DJ Co.kr. Next up: Kote, Seoul on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Kote | Seoul |
+| Fri, 11 Sept 2026 | Blank Site | Seoul |
 | Sat, 12 Sept 2026 | Blank Site | Seoul |
 
 ## Recently played

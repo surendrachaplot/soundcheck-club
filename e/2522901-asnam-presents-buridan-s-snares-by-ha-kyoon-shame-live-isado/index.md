@@ -1,6 +1,6 @@
-# Asnam presents: BURIDAN's Snares by Ha Kyoon, shame (live), Isadora Chadeaux, Rama, Jana at Panke
+# Asnam presents: BURIDAN's SNARES by Ha Kyoon, shame (live), Isadora Chadeaux, Rama, Jana at Panke
 
-Asnam presents: BURIDAN's Snares by Ha Kyoon, shame (live), Isadora Chadeaux, Rama, Jana at Panke on Fri 25 Sept, Berlin. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Asnam presents: BURIDAN's SNARES by Ha Kyoon, shame (live), Isadora Chadeaux, Rama, Jana at Panke on Fri 25 Sept, Berlin. Bass and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Stella Fiore
 
-Stella Fiore is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Crack Bellmer, Berlin on Fri, 11 Sept 2026.
+Stella Fiore is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Crack Bellmer, Berlin on Fri, 11 Sept 2026.
 
-Stella Fiore is a house and techno artist based in Germany, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Boston and Bucharest and 16 more. Often billed alongside Ivan Iacobucci, Friendzone and Naima (2). Next up: Crack Bellmer, Berlin on Fri 11 Sept.
+Stella Fiore is a house and techno artist based in Germany, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Boston and Bucharest and 16 more. Often billed alongside Ivan Iacobucci, Friendzone and Naima (2). Next up: Crack Bellmer, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Crack Bellmer | Berlin |
+| Sat, 17 Oct 2026 | Kater | Berlin |
 
 ## Recently played
 

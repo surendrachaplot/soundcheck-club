@@ -1,13 +1,14 @@
 # Enzo V8
 
-Enzo V8 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 2 Oct 2026.
+Enzo V8 is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Lilli Escher, Hamburg on Fri, 4 Sept 2026.
 
-Enzo V8 is a house and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Shimmy Robin, Anton Jonathan and Jean Mauj. Next up: Golden Pudel Club, Hamburg on Fri 2 Oct.
+Enzo V8 is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Shimmy Robin, Anton Jonathan and Jean Mauj. Next up: Lilli Escher, Hamburg on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Lilli Escher | Hamburg |
 | Fri, 2 Oct 2026 | Golden Pudel Club | Hamburg |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 19 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Stellar Fountain: Erich Von Kollar / MSW Collective / GÆO / GALATIUS / KEVIN FLOOR" on Fri, 4 Sept 2026.
+Culture Box is a music venue in Copenhagen with 20 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Stellar Fountain: Erich Von Kollar / MSW Collective / GÆO / GALATIUS / KEVIN FLOOR" on Fri, 4 Sept 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 19 upcoming nights, with line-ups including ADAPT (DK), Aerocell, Aio and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 20 upcoming nights, with line-ups including ADAPT (DK), Aerocell, Aio and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 

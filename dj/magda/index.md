@@ -1,8 +1,8 @@
 # Magda
 
-Magda is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
+Magda is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
 
-Magda is a techno and house artist tracked on soundcheck, with 162 sets logged across Amsterdam, Austin, Barcelona and Berlin and 48 more. Often billed alongside Mike Servito, Morgan and Mari.te. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
+Magda is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Austin, Barcelona and Berlin and 48 more. Often billed alongside Mike Servito, Morgan and Mari.te. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Magda is a techno and house artist tracked on soundcheck, with 162 sets logged a
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 26 Sept 2026 | Green Room NYC | New York City |
 | Fri, 2 Oct 2026 | Laak | The Hague |
+| Sat, 17 Oct 2026 | Kater | Berlin |
 | Fri, 23 Oct 2026 | Phono Lake | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |

@@ -8,7 +8,7 @@ Collingwood Children's Farm is a music venue in Melbourne listed on soundcheck. 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Echo Beach VI | Adriana (1), Babycino, DITA (ID), Darcy Justice, Dreems, Echo Beach, Emelyne, Jono Ma, Lauren Hansom, Midland, Moopie, SELENA, Umut |
+| Sat, 31 Oct 2026 | Echo Beach VI | Adriana (1), Babycino, DITA (ID), Darcy Justice, Dreems, EIJI, Echo Beach, Emelyne, Jono Ma, Lauren Hansom, Midland, Moopie, SELENA, Umut |
 | Sat, 28 Nov 2026 | 10 Years of Lucid with Animalia & WAT Artists | BASHKKA, Jennifer Loveless, Kia (AU), Kiernan Laveaux, Marley Swain, Pariah, Ploy, Séarlait, deep creep |
 
 ## Address

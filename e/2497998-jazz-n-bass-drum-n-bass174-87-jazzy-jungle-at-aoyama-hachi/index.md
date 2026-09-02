@@ -1,6 +1,6 @@
 # Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle at Aoyama Hachi
 
-Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle at Aoyama Hachi on Fri 23 Oct, Tokyo. 2 acts on the bill: Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle at Aoyama Hachi on Fri 23 Oct, Tokyo. 3 acts on the bill: EIJI, Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle at Aoyama Hachi on Fri 23 Oct, Tok
 
 ## Line-up
 
+- EIJI
 - Kenta Tominaga
 - vinylDJ Eiji Takehana
 

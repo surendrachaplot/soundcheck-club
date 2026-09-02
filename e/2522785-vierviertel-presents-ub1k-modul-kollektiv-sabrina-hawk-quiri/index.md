@@ -1,6 +1,6 @@
 # VIERVIERTEL presents: ¥UB1K, Modul Kollektiv, Sabrina Hawk, QUIRIN and many more at Lieberscholli
 
-VIERVIERTEL presents: ¥UB1K, Modul Kollektiv, Sabrina Hawk, QUIRIN and many more at Lieberscholli on Sat 19 Sept, Munich. 6 acts on the bill: melting the people, Modul Kollektiv, Nothing But Love and Quirin (DE) and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+VIERVIERTEL presents: ¥UB1K, Modul Kollektiv, Sabrina Hawk, QUIRIN and many more at Lieberscholli on Sat 19 Sept, Munich. 7 acts on the bill: aemy, melting the people, Modul Kollektiv and Nothing But Love and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ VIERVIERTEL presents: ¥UB1K, Modul Kollektiv, Sabrina Hawk, QUIRIN and many mor
 
 ## Line-up
 
+- aemy
 - melting the people
 - Modul Kollektiv
 - Nothing But Love

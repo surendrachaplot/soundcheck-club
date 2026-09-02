@@ -1,8 +1,8 @@
 # Simoncello
 
-Simoncello is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Acud Macht NEU, Berlin on Sun, 6 Sept 2026.
+Simoncello is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Acud Macht NEU, Berlin on Sun, 6 Sept 2026.
 
-Simoncello is a house and techno artist tracked on soundcheck, with 15 sets logged across Berlin, Lisbon, Paris and Warsaw. Often billed alongside Hybu, Bakey and MaelCobb. Next up: Acud Macht NEU, Berlin on Sun 6 Sept.
+Simoncello is a house and electro artist tracked on soundcheck, with 15 sets logged across Berlin, Lisbon, Paris and Warsaw. Often billed alongside Hybu, Bakey and MaelCobb. Next up: Acud Macht NEU, Berlin on Sun 6 Sept.
 
 ## Upcoming shows
 

@@ -1,14 +1,19 @@
 # Yosef (ES)
 
-Yosef (ES) is a Garage and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Skatecafe, Amsterdam on Sat, 5 Sept 2026.
+Yosef (ES) is a Garage and Electronica artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Club Magno, Madrid on Thu, 3 Sept 2026.
 
-Yosef (ES) is a garage and neo perreo artist based in Spain, tracked on soundcheck, with 119 sets logged across Amsterdam, Barcelona, Copenhagen and Madrid and 2 more. Often billed alongside Diego Armando, Maxvll and Keiranai. Next up: Skatecafe, Amsterdam on Sat 5 Sept.
+Yosef (ES) is a garage and electronica artist based in Spain, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Copenhagen and Madrid and 2 more. Often billed alongside Diego Armando, Maxvll and Keiranai. Next up: Club Magno, Madrid on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Club Magno | Madrid |
 | Sat, 5 Sept 2026 | Skatecafe | Amsterdam |
+| Thu, 24 Sept 2026 | Club Magno | Madrid |
+| Thu, 1 Oct 2026 | Club Magno | Madrid |
+| Thu, 12 Nov 2026 | Club Magno | Madrid |
+| Thu, 26 Nov 2026 | Club Magno | Madrid |
 
 ## Recently played
 

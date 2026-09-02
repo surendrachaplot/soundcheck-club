@@ -1,6 +1,6 @@
 # OUTKZT ADE 2026 at Veronica Schip
 
-OUTKZT ADE 2026 at Veronica Schip on Wed 21 Oct, Amsterdam. 7 acts on the bill: ArioVistus, Belocca, DA SEYKO and Kay Wagner and 3 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+OUTKZT ADE 2026 at Veronica Schip on Wed 21 Oct, Amsterdam. 8 acts on the bill: ArioVistus, Belocca, DA SEYKO and Kay Wagner and 4 more. Techno and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ OUTKZT ADE 2026 at Veronica Schip on Wed 21 Oct, Amsterdam. 7 acts on the bill: 
 - Belocca
 - DA SEYKO
 - Kay Wagner
+- Molothav
 - Ozzy Riot
 - Teenage Mutants
 - TheKoosy

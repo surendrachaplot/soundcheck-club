@@ -1,6 +1,6 @@
 # JAZZ'N'BASS - Double Time Feel=Drum'n'Bass at Live Haus
 
-JAZZ'N'BASS - Double Time Feel=Drum'n'Bass at Live Haus on Mon 21 Sept, Tokyo. 2 acts on the bill: Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+JAZZ'N'BASS - Double Time Feel=Drum'n'Bass at Live Haus on Mon 21 Sept, Tokyo. 3 acts on the bill: EIJI, Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ JAZZ'N'BASS - Double Time Feel=Drum'n'Bass at Live Haus on Mon 21 Sept, Tokyo. 2
 
 ## Line-up
 
+- EIJI
 - Kenta Tominaga
 - vinylDJ Eiji Takehana
 

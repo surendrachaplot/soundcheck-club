@@ -10,7 +10,7 @@ Under Club is a music venue in Buenosaires listed on soundcheck. 6 upcoming nigh
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Under Club X ROOM | Bondarük, SMT (2) |
 | Sat, 5 Sept 2026 | KØLPØS INVITA | KØLPØS, Lezther |
-| Sun, 27 Sept 2026 | ANNĒ - Ben Klock - BONDARŨK - JXXXO - Pampa - Setaoc Mass - + Under Club ( GASCÓN 1040 ) | ANNĒ, Ben Klock, Bondarük, JXXXO, Pampa, Setaoc Mass |
+| Sun, 27 Sept 2026 | ANNĒ - Ben Klock - BONDARŨK - JXXXO - Pampa - Setaoc Mass - ( GASCÓN 1040 ) 75 % SOLD OUT | ANNĒ, Ben Klock, Bondarük, JXXXO, Pampa, Setaoc Mass |
 | Fri, 30 Oct 2026 | COLLAB 3000 - JULIETA LAKE - KØLPØS | JULIETA LAKE, KØLPØS |
 | Sat, 21 Nov 2026 | Ana Hagen - DEE JASON - Floorplan | Ana Hagen, Floorplan |
 | Sun, 22 Nov 2026 | CHIRI - Kenny Larkin - Robert Hood - + Under Club ( GASCÓN 1040 ) | Kenny Larkin, Robert Hood |

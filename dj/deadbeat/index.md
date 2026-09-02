@@ -1,8 +1,8 @@
 # Deadbeat
 
-Deadbeat is a Dub Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Karmen Camina, Strasbourg on Fri, 18 Sept 2026.
+Deadbeat is a Dub Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Karmen Camina, Strasbourg on Fri, 18 Sept 2026.
 
-Deadbeat is a dub techno and house artist based in Canada, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Copenhagen and Kyoto and 16 more. Often billed alongside Perera Elsewhere, Rouge Mécanique and African Head Charge. Next up: Karmen Camina, Strasbourg on Fri 18 Sept.
+Deadbeat is a dub techno and house artist based in Canada, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Copenhagen and Kyoto and 16 more. Often billed alongside Perera Elsewhere, Rouge Mécanique and African Head Charge. Next up: Karmen Camina, Strasbourg on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Deadbeat is a dub techno and house artist based in Canada, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Karmen Camina | Strasbourg |
 | Sat, 19 Sept 2026 | Badaboum | Paris |
+| Sat, 26 Sept 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played
 

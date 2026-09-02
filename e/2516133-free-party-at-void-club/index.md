@@ -1,6 +1,6 @@
 # Free Party at Void Club
 
-Free Party at Void Club on Sat 26 Sept, Berlin. 3 acts on the bill: Ektoside, Nerv and Upzet. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Free Party at Void Club on Sat 26 Sept, Berlin. 4 acts on the bill: Antiquis Anima, Ektoside, Nerv and Upzet. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Free Party at Void Club on Sat 26 Sept, Berlin. 3 acts on the bill: Ektoside, Ne
 
 ## Line-up
 
+- Antiquis Anima
 - Ektoside
 - Nerv
 - Upzet

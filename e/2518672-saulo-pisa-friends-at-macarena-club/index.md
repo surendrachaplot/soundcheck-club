@@ -1,6 +1,6 @@
 # Saulo Pisa & Friends at Macarena Club
 
-Saulo Pisa & Friends at Macarena Club on Wed 16 Sept, Barcelona. 1 act on the bill: Saulo Pisa. Preview the line-up and save it on soundcheck.
+Saulo Pisa & Friends at Macarena Club on Wed 16 Sept, Barcelona. 2 acts on the bill: Belu Rodriguez and Saulo Pisa. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Saulo Pisa & Friends at Macarena Club on Wed 16 Sept, Barcelona. 1 act on the bi
 
 ## Line-up
 
+- Belu Rodriguez
 - Saulo Pisa
 
 *Source: [soundcheck](https://soundcheck.club/e/2518672-saulo-pisa-friends-at-macarena-club/)*

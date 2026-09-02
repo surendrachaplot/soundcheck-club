@@ -1,6 +1,6 @@
 # BAILE ANTICOLONIAL | Sudar + Plasma at El Pumarejo Barcelona
 
-BAILE ANTICOLONIAL | Sudar + Plasma at El Pumarejo Barcelona on Sat 10 Oct, Barcelona. Baile Funk and Latin Bass. Preview the line-up and save it on soundcheck.
+BAILE ANTICOLONIAL | Sudar + Plasma at El Pumarejo Barcelona on Sat 10 Oct, Barcelona. Bass and Baile Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

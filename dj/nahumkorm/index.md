@@ -1,8 +1,8 @@
 # Nahum Korm
 
-Nahum Korm is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hotel El Bruc, Barcelona on Sat, 19 Sept 2026.
+Nahum Korm is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hotel El Bruc, Barcelona on Sat, 19 Sept 2026.
 
-Nahum Korm is a techno and trance artist tracked on soundcheck, with 37 sets logged across Barcelona, Madrid and Valencia. Often billed alongside CRONEKIA, ZÉ ALMONACID and Nita Key. Next up: Hotel El Bruc, Barcelona on Sat 19 Sept.
+Nahum Korm is a techno and trance artist tracked on soundcheck, with 38 sets logged across Barcelona, Madrid and Valencia. Often billed alongside CRONEKIA, ZÉ ALMONACID and Nita Key. Next up: Hotel El Bruc, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nahum Korm is a techno and trance artist tracked on soundcheck, with 37 sets log
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Hotel El Bruc | Barcelona |
 | Sat, 3 Oct 2026 | Spook Club | Valencia |
+| Sat, 3 Oct 2026 | Fabrik | Madrid |
 
 ## Recently played
 

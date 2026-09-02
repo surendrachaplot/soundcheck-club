@@ -1,6 +1,6 @@
 # Vinyl Voyagers at Hangar48 Club
 
-Vinyl Voyagers at Hangar48 Club on Sat 5 Sept, Madrid. 2 acts on the bill: Denso and Valleyk. Tech House. Preview the line-up and save it on soundcheck.
+Vinyl Voyagers at Hangar48 Club on Sat 5 Sept, Madrid. 2 acts on the bill: Denso and Valleyk. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

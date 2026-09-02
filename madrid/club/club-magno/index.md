@@ -1,14 +1,23 @@
 # Club Magno
 
-Club Magno is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "PLAYGIRL VOL. 20 - OPENING SEASON AT BABYLON CLUB" on Sat, 19 Sept 2026.
+Club Magno is a music venue in Madrid with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Antidoto Club: Rico Rosa + Virtual Diva" on Thu, 3 Sept 2026.
 
-Club Magno is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Juguete, Nina GGG and TOM CHIESA. Browse upcoming dates, start times and who's playing. c. de cedaceros 7, Madrid.
+Club Magno is a music venue in Madrid listed on soundcheck. 12 upcoming nights, with line-ups including Atrâm, COUCOU CHLOE, Danga and Diego Armando and 2 more. Browse upcoming dates, start times and who's playing. c. de cedaceros 7, Madrid.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Antidoto Club: Rico Rosa + Virtual Diva | Diego Armando, Yosef (ES) |
+| Thu, 10 Sept 2026 | Antidoto Club: HAIVAI B | HAIVAI B |
+| Thu, 17 Sept 2026 | Antidoto Club: Poppa Jax | Poppa Jax |
 | Sat, 19 Sept 2026 | PLAYGIRL VOL. 20 - OPENING SEASON AT BABYLON CLUB | Juguete, Nina GGG, TOM CHIESA |
+| Thu, 24 Sept 2026 | Antidoto Club: COUCOU CHLOE + TOCCORORO | COUCOU CHLOE, LA INDIA, TOCCORORO, Yosef (ES) |
+| Thu, 1 Oct 2026 | Antidoto Club x Rinse FM: Ryota + Danga + Nori (Live) | Danga, Nori, Ryota (JP), Yosef (ES) |
+| Thu, 15 Oct 2026 | Antidoto Club: Vigro Deep | Diego Armando, Maxvll |
+| Thu, 22 Oct 2026 | Antidoto Club: Paralich + Klandestina | Atrâm, Klandestina, Paralich, Quka |
+| Thu, 5 Nov 2026 | Antidoto: Tba + Joao Lagrima de Ouro | João Lágrima De Ouro |
+| Thu, 12 Nov 2026 | Antidoto Club: Hamdi + What So Not | Hamdi (UK), What So Not, Yosef (ES) |
 
 ## Address
 

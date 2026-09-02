@@ -1,8 +1,8 @@
 # Loxy
 
-Loxy is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Cause, London on Sat, 5 Sept 2026.
+Loxy is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Cause, London on Sat, 5 Sept 2026.
 
-Loxy is a drum & bass and jungle artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 17 more. Often billed alongside Doc Scott, Blackeye MC and DJ Ink. Next up: The Cause, London on Sat 5 Sept.
+Loxy is a drum & bass and jungle artist tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Berlin and Birmingham and 17 more. Often billed alongside Doc Scott, Blackeye MC and DJ Ink. Next up: The Cause, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Loxy is a drum & bass and jungle artist tracked on soundcheck, with 60 sets logg
 | Sat, 5 Sept 2026 | The Cause | London |
 | Fri, 2 Oct 2026 | Moon Club | Bristol |
 | Fri, 23 Oct 2026 | Onyx (E1) | London |
+| Sat, 21 Nov 2026 | Volks | Brighton |
 
 ## Recently played
 

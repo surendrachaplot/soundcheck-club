@@ -1,14 +1,14 @@
 # Kamilo Sanclemente
 
-Kamilo Sanclemente is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Melbourne on Fri, 16 Oct 2026.
+Kamilo Sanclemente is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Brown Alley, Melbourne on Fri, 16 Oct 2026.
 
-Kamilo Sanclemente is a progressive house and deep house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 13 more. Often billed alongside Antrim, Emi Galvan and Gaston Gari. Next up: TBA, Melbourne on Fri 16 Oct.
+Kamilo Sanclemente is a progressive house and deep house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 13 more. Often billed alongside Antrim, Emi Galvan and Gaston Gari. Next up: Brown Alley, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | TBA | Melbourne |
+| Fri, 16 Oct 2026 | Brown Alley | Melbourne |
 | Sat, 17 Oct 2026 | Room 22 | Sydney |
 | Thu, 22 Oct 2026 | Kaap Amsterdam | Amsterdam |
 

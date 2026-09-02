@@ -1,6 +1,6 @@
 # SWEAT at KREUZWERK
 
-SWEAT at KREUZWERK on Fri 4 Sept, Berlin. 5 acts on the bill: Dgeral, Gavnlig, James Lotion and Sanaz and 1 more. House. Preview the line-up and save it on soundcheck.
+SWEAT at KREUZWERK on Fri 4 Sept, Berlin. 6 acts on the bill: Dgeral, Gavnlig, ilbroccolovolante and James Lotion and 2 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ SWEAT at KREUZWERK on Fri 4 Sept, Berlin. 5 acts on the bill: Dgeral, Gavnlig, J
 
 - Dgeral
 - Gavnlig
+- ilbroccolovolante
 - James Lotion
 - Sanaz
 - SXCL

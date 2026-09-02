@@ -1,8 +1,8 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "://sektgarten x in the garden [free entry & open air]" on Wed, 2 Sept 2026.
+://about blank is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "://sektgarten x in the garden [free entry & open air]" on Wed, 2 Sept 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and ADB (FR) and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including 4NOUK, 5euroGoldi, YOVA and ADB (FR) and 2 more. Browse upcoming dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 

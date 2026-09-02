@@ -1,0 +1,28 @@
+# Eli Iwasa
+
+Eli Iwasa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Edifício Martinelli, Sao Paulo on Sun, 6 Sept 2026.
+
+Eli Iwasa is a house and techno artist tracked on soundcheck, with 57 sets logged across Bali, Barcelona, Dublin and Ibiza and 6 more. Often billed alongside From House to Disco, L_cio and DJ DUE. Next up: Edifício Martinelli, Saopaulo on Sun 6 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 6 Sept 2026 | Edifício Martinelli | Sao Paulo |
+
+## Recently played
+
+- Espaço Usine, Sao Paulo — Sat, 22 Aug 2026
+- TBA - Rua Coronel Euclides Machado, 1066 - Limão, São Paulo - SP, 02713-000, Brasil, Sao Paulo — Sat, 1 Aug 2026
+- Plaza Hotel Sydney, Sydney — Sat, 4 Jul 2026
+- Sonora Garden, Sao Paulo — Fri, 17 Apr 2026
+- Praça das Artes, Sao Paulo — Sat, 14 Feb 2026
+- Águia de Ouro, Sao Paulo — Sat, 7 Feb 2026
+- Edifício Martinelli, Sao Paulo — Fri, 30 Jan 2026
+- D-EDGE, Sao Paulo — Fri, 12 Dec 2025
+
+## Shares bills with
+
+From House to Disco, L_cio, DJ DUE
+
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliiwasa/)*

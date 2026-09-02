@@ -1,8 +1,8 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Damian Lazarus is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Damian Lazarus is a house and tech house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Black Coffee, Paul Reynolds and Cameron Jack. Next up: Union Park, Chicago on Fri 4 Sept.
+Damian Lazarus is a house and techno artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Black Coffee, Paul Reynolds and Cameron Jack. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Damian Lazarus is a house and tech house artist tracked on soundcheck, with 207 
 | Sat, 3 Oct 2026 | Hangaren | Copenhagen |
 | Fri, 23 Oct 2026 | Madam | Amsterdam |
 | Sat, 21 Nov 2026 | Savaya Bali | Bali |
+| Wed, 25 Nov 2026 | Zumana Bali | Bali |
 
 ## Recently played
 

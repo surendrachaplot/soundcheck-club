@@ -1,14 +1,15 @@
 # Ryu (2)
 
-Ryu (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at BAR Inc, Osaka on Fri, 4 Sept 2026.
+Ryu (2) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at BAR Inc, Osaka on Fri, 4 Sept 2026.
 
-Ryu (2) is a house and disco artist based in Japan, tracked on soundcheck, with 42 sets logged across Bangkok, Kyoto, Osaka and Seoul and 1 more. Often billed alongside V_R_A_P, Chris MS and Nari (2). Next up: BAR Inc, Osaka on Fri 4 Sept.
+Ryu (2) is a house and disco artist based in Japan, tracked on soundcheck, with 43 sets logged across Bangkok, Kyoto, Milan and Osaka and 2 more. Often billed alongside V_R_A_P, Chris MS and Nari (2). Next up: BAR Inc, Osaka on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | BAR Inc | Osaka |
+| Sun, 20 Sept 2026 | Cascina nascosta | Milan |
 
 ## Recently played
 

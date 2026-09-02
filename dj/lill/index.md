@@ -1,13 +1,14 @@
 # Lill
 
-Lill is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Lill is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
 
-Lill is a house and minimal artist based in Estonia, tracked on soundcheck, with 10 sets logged across Manchester and Tallinn. Often billed alongside ALCATRAZ, ARMANA KHAN and Aiden Francis. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
+Lill is a minimal and house artist based in Estonia, tracked on soundcheck, with 11 sets logged across Ibiza, Manchester and Tallinn. Often billed alongside ALCATRAZ, ARMANA KHAN and Aiden Francis. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

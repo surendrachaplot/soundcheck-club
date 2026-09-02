@@ -10,7 +10,7 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 27 upcoming nights, 
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | 好事星期四 House Thursday |  |
 | Fri, 4 Sept 2026 | PAiN 2st Ann. Pres. 蛇精病发作中 Kinara & Soup snakeS | Butterfly (2), Manson, Replica.mp3, Soup snakeS |
-| Fri, 4 Sept 2026 | SYNTONY |  |
+| Fri, 4 Sept 2026 | SYNTONY Vol.3 |  |
 | Sat, 5 Sept 2026 | 捣蛋会所: Anita B Queen | Anita B Queen, Fatalis, Warmchainss, zzm (2) |
 | Sun, 6 Sept 2026 | Water music | Kagami Smile, Ngly |
 | Fri, 11 Sept 2026 | Dabeull in Shenzhen | Jascer, o0 (1) |

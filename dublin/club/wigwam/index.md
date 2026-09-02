@@ -13,7 +13,7 @@ Wigwam is a music venue in Dublin listed on soundcheck. 14 upcoming nights, with
 | Fri, 11 Sept 2026 | Wigwam presents: Demuja | Demuja |
 | Fri, 11 Sept 2026 | BOVSKI STORY* | ALPER SKR, BOVSKI, WINSLAO |
 | Sat, 12 Sept 2026 | DX Afterparty: Beave |  |
-| Fri, 25 Sept 2026 | RED LINE: Eskha - Techno, Hard Bounce & Hard Trance in Dublin | ALPER SKR, Eskha, SAMUX, Suko, Trypdø, WINSLAO |
+| Fri, 25 Sept 2026 | RED LINE: Eskha - Techno, Hard Bounce & Hard Trance in Dublin | ALPER SKR, BRANDI, Eskha, F.HOLLOW, SAMUX, Suko, Trypdø, WINSLAO |
 | Sat, 26 Sept 2026 | INSTINCT ROOFTOP PARTY 306 |  |
 | Sat, 26 Sept 2026 | Wigwam presents: Sam Girling | Sam Girling |
 | Fri, 2 Oct 2026 | Resonate x LOST: Main Phase & High Fidelity (ANL) | High Fidelity, Main Phase |

@@ -9,7 +9,7 @@ LA-YAM Rooftop is a music venue in London listed on soundcheck. 3 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Groovers on the Rooftop | Pedrum, Tobias Lineker |
-| Sat, 5 Sept 2026 | Ronnie Spiteri Pop up on the roof | Johnny Fiore, Ronnie Spiteri |
+| Sat, 5 Sept 2026 | Ronnie Spiteri (Knee Deep / Hot Creations) Pop up on the roof | Johnny Fiore, Ronnie Spiteri |
 | Sat, 12 Sept 2026 | Blanche on the Roof with VIZARE Live (Viken Arman + Cesar Marveille) - Season Closing | Cesar Merveille, Sonus, VIZARE Live, Viken Arman |
 
 ## Address

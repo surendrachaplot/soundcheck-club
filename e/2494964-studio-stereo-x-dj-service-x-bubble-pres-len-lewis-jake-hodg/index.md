@@ -1,6 +1,6 @@
-# Studio Stereo x DJ Service x Bubble pres. Len Lewis, Jake Hodgkinson at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
+# Studio Stereo x DJ Service x Bubble pres. Len Lewis, Jake Hodgkinson (until 3:30am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x DJ Service x Bubble pres. Len Lewis, Jake Hodgkinson at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 12 Sept, Barcelona. 2 acts on the bill: DJ Service and Jake Hodgkinson. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x DJ Service x Bubble pres. Len Lewis, Jake Hodgkinson (until 3:30am) at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 12 Sept, Barcelona. 2 acts on the bill: DJ Service and Jake Hodgkinson. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

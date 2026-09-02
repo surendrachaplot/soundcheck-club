@@ -1,8 +1,8 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Club Haram x Soak presents Ma Sha, Venus In Foil and Maral" on Thu, 3 Sept 2026.
+Standard Time is a music venue in Toronto with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Club Haram x Soak presents Ma Sha, Venus In Foil and Maral" on Thu, 3 Sept 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming nights, with line-ups including 999ADJ, Andrew Greville, Andre Zimmer and Corinne and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming nights, with line-ups including 999ADJ, Andrew Greville, Andre Zimmer and CCL and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming nigh
 | Fri, 25 Sept 2026 | Two Shell and Special Guests presented by Standard Time x Not Dead Yet | Two Shell |
 | Sat, 26 Sept 2026 | SHANGO featuring John Morales and Kiki LeFreak  | John Morales, Kiki LeFreak |
 | Thu, 1 Oct 2026 | MYRNE (3 Hour Set) at Standard Time | MYRNE |
+| Sun, 4 Oct 2026 | Ciel invites: CCL | CCL, Ciel |
 | Sun, 11 Oct 2026 | Dusky (Extended Set) at Standard Time | Dusky |
-| Sat, 17 Oct 2026 | Shed presented by Cure x Standard Time | Oray, Shed |
 
 ## Address
 

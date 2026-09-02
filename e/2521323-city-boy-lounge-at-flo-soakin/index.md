@@ -1,6 +1,6 @@
 # City Boy Lounge at flo Soakin
 
-City Boy Lounge at flo Soakin on Tue 22 Sept, Osaka. 2 acts on the bill: CityBoyLounge and Ko Yang (JP). House and Club. Preview the line-up and save it on soundcheck.
+City Boy Lounge at flo Soakin on Tue 22 Sept, Osaka. 3 acts on the bill: CityBoyLounge, Ko Yang (JP) and SEIJI (2). House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ City Boy Lounge at flo Soakin on Tue 22 Sept, Osaka. 2 acts on the bill: CityBoy
 
 - CityBoyLounge
 - Ko Yang (JP)
+- SEIJI (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2521323-city-boy-lounge-at-flo-soakin/)*

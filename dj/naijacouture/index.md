@@ -1,14 +1,15 @@
 # Naija Couture
 
-Naija Couture is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Flea Theater, New York City on Thu, 17 Sept 2026.
+Naija Couture is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Flea Theater, New York City on Thu, 17 Sept 2026.
 
-Naija Couture is a club and techno artist tracked on soundcheck, with 31 sets logged across Newyorkcity, Philadelphia, Sanfrancisco and Toronto. Often billed alongside ONEELEVEN, ARCHANGEL (US) and DOLLNXTDOOR. Next up: The Flea Theater, Newyorkcity on Thu 17 Sept.
+Naija Couture is a club and techno artist tracked on soundcheck, with 32 sets logged across Newyorkcity, Philadelphia, Sanfrancisco and Toronto. Often billed alongside ONEELEVEN, ARCHANGEL (US) and DOLLNXTDOOR. Next up: The Flea Theater, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | The Flea Theater | New York City |
+| Sat, 17 Oct 2026 | The Jama | Toronto |
 
 ## Recently played
 

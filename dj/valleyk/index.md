@@ -1,8 +1,8 @@
 # Valleyk
 
-Valleyk is a Tech House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hangar48 Club, Madrid on Sat, 5 Sept 2026.
+Valleyk is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hangar48 Club, Madrid on Sat, 5 Sept 2026.
 
-Valleyk is a tech house and downtempo artist based in Spain, tracked on soundcheck, with 14 sets logged across Madrid. Often billed alongside Denso, Kamboya and MSKS. Next up: Hangar48 Club, Madrid on Sat 5 Sept.
+Valleyk is an electronica and techno artist based in Spain, tracked on soundcheck, with 14 sets logged across Madrid. Often billed alongside Denso, Kamboya and MSKS. Next up: Hangar48 Club, Madrid on Sat 5 Sept.
 
 ## Upcoming shows
 

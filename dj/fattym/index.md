@@ -1,14 +1,15 @@
 # Fatty M
 
-Fatty M is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+Fatty M is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
-Fatty M is a techno and house artist based in Czech Republic, tracked on soundcheck, with 60 sets logged across Prague. Often billed alongside S.Tian, Teresi and Raketa95. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
+Fatty M is a techno and house artist based in Czech Republic, tracked on soundcheck, with 61 sets logged across Prague. Often billed alongside S.Tian, Teresi and Raketa95. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
+| Fri, 25 Sept 2026 | Altenburg 1964 | Prague |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Block x Soundmate: Janeret, Bernie & Vandi at block.
 
-Block x Soundmate: Janeret, Bernie & Vandi at block. on Sat 19 Sept, Dublin. 2 acts on the bill: Janeret and Vandi. Electronica. Preview the line-up and save it on soundcheck.
+Block x Soundmate: Janeret, Bernie & Vandi at block. on Sat 19 Sept, Dublin. 4 acts on the bill: bernie soundmate, Janeret, Vandi and Vandi (ES). Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Block x Soundmate: Janeret, Bernie & Vandi at block. on Sat 19 Sept, Dublin. 2 a
 
 ## Line-up
 
+- bernie soundmate
 - Janeret
 - Vandi
+- Vandi (ES)
 
 *Source: [soundcheck](https://soundcheck.club/e/2510389-block-x-soundmate-janeret-bernie-vandi-at-block/)*

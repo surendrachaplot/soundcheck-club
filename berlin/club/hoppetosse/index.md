@@ -1,13 +1,14 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "23 Jahre Betriebsfeier" on Fri, 11 Sept 2026.
+Hoppetosse is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Roof X Hoppetosse" on Fri, 4 Sept 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Alexander Skancke, And.re, Bailey Brown and BODYSHIFT and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Mariiin, Alexander Skancke, And.re and Andress and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Roof X Hoppetosse | Andress, Chez de Milo, Karine, Marcolino, Mariiin, Trancesetters of Westphalia |
 | Fri, 11 Sept 2026 | 23 Jahre Betriebsfeier | BODYSHIFT, Carina Posse, Casimir von Oettingen, Coco, Elli Altenberger, Empro, Flo Pirke, Ida Daugaard, Jakob Seidensticker, Lucas Hulan, MELINA (3), Marco Resmann, Mona Moore, Roni Amitai, Scoopsi, Spencer Parker, Surreal (DE), The Reason Y, Tweaken |
 | Sun, 13 Sept 2026 | Round the Corner x Afterground x Zapped | And.re, Papa K, Per Hammar, Renzo (3) |
 | Sat, 19 Sept 2026 | SZENETREFFEN Shameless + PBC Afterparty | Bailey Brown, Fear Of Color, LUISELLE, PyjamaMama, Selin (DE), Siegfried Plemo, Westside Bass, kutscher |

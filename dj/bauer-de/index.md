@@ -1,14 +1,15 @@
 # BAUER (DE)
 
-BAUER (DE) is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Baalsaal, Hamburg on Fri, 11 Sept 2026.
+BAUER (DE) is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Baalsaal, Hamburg on Fri, 11 Sept 2026.
 
-BAUER (DE) is a techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Hamburg. Often billed alongside DJ Hellfire, Strathy and Aliha. Next up: Baalsaal, Hamburg on Fri 11 Sept.
+BAUER (DE) is a techno and dub techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Hamburg. Often billed alongside DJ Hellfire, Strathy and Aliha. Next up: Baalsaal, Hamburg on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Baalsaal | Hamburg |
+| Fri, 18 Sept 2026 | Baalsaal | Hamburg |
 
 ## Recently played
 

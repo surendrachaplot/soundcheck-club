@@ -1,14 +1,15 @@
 # Samuele Pagliai
 
-Samuele Pagliai is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club der Visionaere, Berlin on Wed, 16 Sept 2026.
+Samuele Pagliai is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Club der Visionaere, Berlin on Wed, 16 Sept 2026.
 
-Samuele Pagliai is a house and disco artist tracked on soundcheck, with 8 sets logged across Belgrade, Berlin, Ibiza and London and 3 more. Often billed alongside Achieh, Amelie Lens and Anetha. Next up: Club der Visionaere, Berlin on Wed 16 Sept.
+Samuele Pagliai is a house and disco artist tracked on soundcheck, with 9 sets logged across Belgrade, Berlin, Ibiza and London and 3 more. Often billed alongside Lvca, Achieh and Amelie Lens. Next up: Club der Visionaere, Berlin on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Club der Visionaere | Berlin |
+| Sun, 20 Sept 2026 | Cascina nascosta | Milan |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Samuele Pagliai is a house and disco artist tracked on soundcheck, with 8 sets l
 
 ## Shares bills with
 
-Achieh, Amelie Lens, Anetha
+Lvca, Achieh, Amelie Lens
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/SamuelePagliai/)*

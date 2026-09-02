@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 28 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Midnight Bass // Wrap Party - the final final party" on Wed, 2 Sept 2026.
+Sneaky Pete's is a music venue in Edinburgh with 29 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Midnight Bass // Wrap Party - the final final party" on Wed, 2 Sept 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 28 upcoming nights, with line-ups including Aldonna, Alexis Taylor, Auramatic and BORLEY and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 29 upcoming nights, with line-ups including Aldonna, Alexis Taylor, Auramatic and BORLEY and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 

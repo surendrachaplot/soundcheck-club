@@ -1,6 +1,6 @@
 # SNAG x Paradise Rave // 24 HOURS at TBA
 
-SNAG x Paradise Rave // 24 HOURS at TBA on Sat 31 Oct, Hamburg. 13 acts on the bill: AKIIM, co:co, Cryptofauna and Elisa Bee and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
+SNAG x Paradise Rave // 24 HOURS at TBA on Sat 31 Oct, Hamburg. 15 acts on the bill: AKIIM, co:co, Cryptofauna and Elisa Bee and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,8 +17,10 @@ SNAG x Paradise Rave // 24 HOURS at TBA on Sat 31 Oct, Hamburg. 13 acts on the b
 - Gisura
 - ISHAPE
 - JØSHUA
+- Lenard Klein
 - lenox
 - Linh (2)
+- Lorenzo Mancino
 - Olivia Mendez
 - SPORTMANN
 - Vincent Neumann

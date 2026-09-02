@@ -2,7 +2,7 @@
 
 Hidden is a music venue in Manchester with 22 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "LACE: Rhyw // KD22LR // Zuri" on Sat, 5 Sept 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, Charlie Shell and Christian AB and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 22 upcoming nights, with line-ups including Andre Zimmer, Camille Doe, CBABY and Charlie Shell and 2 more. Browse upcoming dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
@@ -13,7 +13,7 @@ Hidden is a music venue in Manchester listed on soundcheck. 22 upcoming nights, 
 | Sat, 12 Sept 2026 | Somatics  | GFA, INLIMEN, Nestor (IE), Toobris |
 | Sat, 12 Sept 2026 | Majefa Underground Trance V2 | Solarstone |
 | Thu, 17 Sept 2026 | Start of Term Warehouse Rave: Joe Hunt, LLEAHDAVIES, Higgo, SHUFFA | DJANGO (NL), Higgo, LLEAHDAVIES, Reimond, SHADEV, SHUFFA |
-| Fri, 18 Sept 2026 | Teletech: Manchester Mandidextrous | Dj Schnake, Ephy Pinkman, Gullyteen, Laze, Mandidextrous, Mollie Rush, Princess Elf Bar |
+| Fri, 18 Sept 2026 | Teletech: Manchester Mandidextrous | CBABY, Dj Schnake, Ephy Pinkman, Gullyteen, Laze, Mandidextrous, Mollie Rush, Princess Elf Bar |
 | Sat, 19 Sept 2026 | Scrambled Network presents: Pure Science (live) | Pure Science |
 | Sat, 19 Sept 2026 | MELODÏQ Klubnacht Series / Hardt Antoine + Support  | Hardt Antoine |
 | Sat, 19 Sept 2026 | Luke Alessi / MADVILLA / Miruna Ghica | Luke Alessi, MADVILLA, Miruna Ghica |

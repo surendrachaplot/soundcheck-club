@@ -1,8 +1,8 @@
 # Dash (CZ)
 
-Dash (CZ) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
+Dash (CZ) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
 
-Dash (CZ) is a techno and house artist tracked on soundcheck, with 118 sets logged across Berlin, Copenhagen, Krakow and Liverpool and 4 more. Often billed alongside Yan (CZ), Shurigen and Alfred Czital. Next up: Ankali & Planeta Za, Prague on Sat 12 Sept.
+Dash (CZ) is a techno and house artist tracked on soundcheck, with 119 sets logged across Berlin, Copenhagen, Krakow and Liverpool and 4 more. Often billed alongside Yan (CZ), Shurigen and Alfred Czital. Next up: Ankali & Planeta Za, Prague on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dash (CZ) is a techno and house artist tracked on soundcheck, with 118 sets logg
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Ankali & Planeta Za | Prague |
 | Fri, 18 Sept 2026 | Fuchs2 | Prague |
+| Fri, 2 Oct 2026 | Bike Jesus | Prague |
 
 ## Recently played
 

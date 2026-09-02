@@ -1,14 +1,14 @@
 # Schithegod
 
-Schithegod is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - 6910 Shirley Avenue , Austin on Fri, 4 Sept 2026.
+Schithegod is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - XuXa - 6910 Shirley Avenue, Austin on Fri, 4 Sept 2026.
 
-Schithegod is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Austin. Often billed alongside Wyldflower, Brett Johnson and Zara Mustafa. Next up: TBA - 6910 Shirley Avenue , Austin on Fri 4 Sept.
+Schithegod is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Austin. Often billed alongside Wyldflower, Brett Johnson and Zara Mustafa. Next up: TBA - XuXa - 6910 Shirley Avenue, Austin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TBA - 6910 Shirley Avenue  | Austin |
+| Fri, 4 Sept 2026 | TBA - XuXa - 6910 Shirley Avenue | Austin |
 
 ## Recently played
 

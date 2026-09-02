@@ -1,6 +1,6 @@
 # Saturday Night with Sofiia Zoloto (Berlin), Jess and Richie Beige at B-SIDE
 
-Saturday Night with Sofiia Zoloto (Berlin), Jess and Richie Beige at B-SIDE on Sat 5 Sept, Warsaw. 2 acts on the bill: Richie Beige and Sofiia Zoloto. House and Minimal. Preview the line-up and save it on soundcheck.
+Saturday Night with Sofiia Zoloto (Berlin), Jess and Richie Beige at B-SIDE on Sat 5 Sept, Warsaw. 3 acts on the bill: JESS.mp5, Richie Beige and Sofiia Zoloto. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Saturday Night with Sofiia Zoloto (Berlin), Jess and Richie Beige at B-SIDE on S
 
 ## Line-up
 
+- JESS.mp5
 - Richie Beige
 - Sofiia Zoloto
 

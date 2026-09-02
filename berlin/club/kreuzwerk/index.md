@@ -8,7 +8,7 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | SWEAT | Dgeral, Gavnlig, James Lotion, SXCL, Sanaz |
+| Fri, 4 Sept 2026 | SWEAT | Dgeral, Gavnlig, James Lotion, SXCL, Sanaz, ilbroccolovolante |
 | Sat, 5 Sept 2026 | MÁS X PRIMAL INSTINCT | Amphia, Chlär, Connor Wall, Debbie, JKS, KONZ, MarcelDune, THC, TONI BA, VINVAR |
 | Sat, 12 Sept 2026 | Power Dance Club 24hours | Aaron Blau, CEM, Carly Zeng, Chris Cruse, Cromby, Dirty Daddy Don, ISAbella, Justin Cudmore, Kiddy Smile, Luigi Di Venere, Maria Politi, Nene H, Stathis (GR), Tom Peters |
 | Fri, 18 Sept 2026 | ABOV - FLINTA* | Franziska Lindholz, Hyperaktivist, Volvox |

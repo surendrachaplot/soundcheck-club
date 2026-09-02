@@ -1,14 +1,15 @@
 # KAMIKAZEM
 
-KAMIKAZEM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at MODULE, Copenhagen on Fri, 4 Sept 2026.
+KAMIKAZEM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at MODULE, Copenhagen on Fri, 4 Sept 2026.
 
-KAMIKAZEM is a techno and house artist based in Denmark, tracked on soundcheck, with 7 sets logged across Copenhagen. Often billed alongside Thiim, Cakebutcher and Mëtro. Next up: MODULE, Copenhagen on Fri 4 Sept.
+KAMIKAZEM is a techno and trance artist based in Denmark, tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside Thiim, Bestrawa and Cakebutcher. Next up: MODULE, Copenhagen on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | MODULE | Copenhagen |
+| Fri, 30 Oct 2026 | Culture Box | Copenhagen |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ KAMIKAZEM is a techno and house artist based in Denmark, tracked on soundcheck, 
 
 ## Shares bills with
 
-Thiim, Cakebutcher, Mëtro
+Thiim, Bestrawa, Cakebutcher
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikazem/)*

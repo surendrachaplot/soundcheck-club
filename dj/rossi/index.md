@@ -1,8 +1,8 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
+Rossi is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
 
-Rossi is a house and tech house artist tracked on soundcheck, with 229 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: [UNVRS], Ibiza on Wed 9 Sept.
+Rossi is a house and tech house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: [UNVRS], Ibiza on Wed 9 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rossi is a house and tech house artist tracked on soundcheck, with 229 sets logg
 | --- | --- | --- |
 | Wed, 9 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 11 Sept 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
+| Sun, 13 Sept 2026 | NDSM Docklands | Amsterdam |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | TBA - Ives Rd, London E16 4Sh | London |
 | Sat, 26 Sept 2026 | Waterfront Park in San Diego | San Diego |

@@ -1,6 +1,6 @@
 # KETTAMA presents Steel City Dance Discs at Depot Mayfield
 
-KETTAMA presents Steel City Dance Discs at Depot Mayfield on Fri 6 Nov, Manchester. 25 acts on the bill: Bella Claxton, Clouds, Daria Kolosova and DART and 21 more. Techno and House. Preview the line-up and save it on soundcheck.
+KETTAMA presents Steel City Dance Discs at Depot Mayfield on Fri 6 Nov, Manchester. 26 acts on the bill: Bella Claxton, Clouds, Daria Kolosova and DART and 22 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ KETTAMA presents Steel City Dance Discs at Depot Mayfield on Fri 6 Nov, Manchest
 - Daria Kolosova
 - DART
 - Didi Han
+- DJ Carpenter
 - DJ Gigola
 - DJ Heartstring
 - Evian Christ

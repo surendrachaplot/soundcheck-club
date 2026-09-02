@@ -1,8 +1,8 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mdlr, Singapore on Fri, 4 Sept 2026.
+DJ EZ is a Garage and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mdlr, Singapore on Fri, 4 Sept 2026.
 
-DJ EZ is a garage and house artist based in United Kingdom, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 29 more. Often billed alongside Danny Howard, Sonny Fodera and DJ Heartstring. Next up: Mdlr, Singapore on Fri 4 Sept.
+DJ EZ is a garage and house artist based in United Kingdom, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 29 more. Often billed alongside Danny Howard, Sonny Fodera and DJ Heartstring. Next up: Mdlr, Singapore on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ EZ is a garage and house artist based in United Kingdom, tracked on soundchec
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Mdlr | Singapore |
 | Sat, 26 Sept 2026 | Hï Ibiza | Ibiza |
+| Fri, 2 Oct 2026 | NX Newcastle | Newcastle |
 | Fri, 2 Oct 2026 | NX Newcastle | Newcastle |
 | Sat, 3 Oct 2026 | Mint XL | Leeds |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |

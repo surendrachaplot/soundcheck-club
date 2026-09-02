@@ -9,7 +9,7 @@ INFINITY is a techno and deep house artist based in Sri Lanka, tracked on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Chasers Nightclub | Melbourne |
-| Fri, 16 Oct 2026 | TBA | Melbourne |
+| Fri, 16 Oct 2026 | Brown Alley | Melbourne |
 
 ## Shares bills with
 

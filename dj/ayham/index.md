@@ -1,14 +1,15 @@
 # Ayham
 
-Ayham is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Prisma, Berlin on Thu, 10 Sept 2026.
+Ayham is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Prisma, Berlin on Thu, 10 Sept 2026.
 
-Ayham is a techno and trance artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin. Often billed alongside Blck-Swan, H7 (3) and LNZ.. Next up: Prisma, Berlin on Thu 10 Sept.
+Ayham is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin. Often billed alongside Blck-Swan, H7 (3) and LNZ.. Next up: Prisma, Berlin on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Prisma | Berlin |
+| Sun, 27 Sept 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 

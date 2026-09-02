@@ -1,14 +1,15 @@
 # Chris Bekker
 
-Chris Bekker is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nachtflug & Starz, Cologne on Sun, 6 Sept 2026.
+Chris Bekker is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nachtflug & Starz, Cologne on Sun, 6 Sept 2026.
 
-Chris Bekker is a techno and trance artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Budapest and Cologne and 4 more. Often billed alongside KEN (DE), Tobias Sommer and DJ PayPaul. Next up: Nachtflug & Starz, Cologne on Sun 6 Sept.
+Chris Bekker is a techno and trance artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Budapest and Cologne and 4 more. Often billed alongside KEN (DE), Tobias Sommer and PADERKID. Next up: Nachtflug & Starz, Cologne on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Nachtflug & Starz | Cologne |
+| Fri, 25 Sept 2026 | KitKatClub | Berlin |
 | Sat, 14 Nov 2026 | NY.Club | Munich |
 
 ## Recently played
@@ -24,6 +25,6 @@ Chris Bekker is a techno and trance artist based in Germany, tracked on soundche
 
 ## Shares bills with
 
-KEN (DE), Tobias Sommer, DJ PayPaul
+KEN (DE), Tobias Sommer, PADERKID
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisbekker/)*

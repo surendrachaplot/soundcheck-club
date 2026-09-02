@@ -1,6 +1,6 @@
 # Soundmate meets RRR at La Terrrazza
 
-Soundmate meets RRR at La Terrrazza on Sat 26 Sept, Barcelona. 3 acts on the bill: Effy (DE), RONI and Vandi. House. Preview the line-up and save it on soundcheck.
+Soundmate meets RRR at La Terrrazza on Sat 26 Sept, Barcelona. 4 acts on the bill: Effy, Effy (DE), RONI and Vandi. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Soundmate meets RRR at La Terrrazza on Sat 26 Sept, Barcelona. 3 acts on the bil
 
 ## Line-up
 
+- Effy
 - Effy (DE)
 - RONI
 - Vandi

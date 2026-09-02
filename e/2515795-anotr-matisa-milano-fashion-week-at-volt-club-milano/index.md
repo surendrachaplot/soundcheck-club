@@ -1,6 +1,6 @@
-# ANOTR + Matisa - Milano Fashion Week at Volt Club Milano
+# ANOTR + Matisa - MILANO FASHION WEEK at Volt Club Milano
 
-ANOTR + Matisa - Milano Fashion Week at Volt Club Milano on Fri 25 Sept, Milan. 2 acts on the bill: ANOTR and Matisa. Techno and House. Preview the line-up and save it on soundcheck.
+ANOTR + Matisa - MILANO FASHION WEEK at Volt Club Milano on Fri 25 Sept, Milan. 2 acts on the bill: ANOTR and Matisa. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

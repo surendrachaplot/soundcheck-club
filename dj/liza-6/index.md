@@ -1,8 +1,8 @@
 # LIZA (6)
 
-LIZA (6) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Blvck Water, Osaka on Fri, 4 Sept 2026.
+LIZA (6) is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Blvck Water, Osaka on Fri, 4 Sept 2026.
 
-LIZA (6) is a techno and trance artist based in Japan, tracked on soundcheck, with 24 sets logged across Osaka. Often billed alongside FENGX2, 死者蘇生CH and ZAGUN. Next up: Blvck Water, Osaka on Fri 4 Sept.
+LIZA (6) is a techno and trance artist based in Japan, tracked on soundcheck, with 25 sets logged across Osaka. Often billed alongside FENGX2, ZAGUN and 死者蘇生CH. Next up: Blvck Water, Osaka on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LIZA (6) is a techno and trance artist based in Japan, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Blvck Water | Osaka |
 | Fri, 11 Sept 2026 | Blvck Water | Osaka |
+| Tue, 22 Sept 2026 | Blvck Water | Osaka |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ LIZA (6) is a techno and trance artist based in Japan, tracked on soundcheck, wi
 
 ## Shares bills with
 
-FENGX2, 死者蘇生CH, ZAGUN
+FENGX2, ZAGUN, 死者蘇生CH
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liza-6/)*

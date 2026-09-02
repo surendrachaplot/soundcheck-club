@@ -1,14 +1,15 @@
 # Depaart
 
-Depaart is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at High Club Room, Madrid on Sat, 26 Sept 2026.
+Depaart is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at High Club Room, Madrid on Sat, 26 Sept 2026.
 
-Depaart is a house and acid artist tracked on soundcheck, with 36 sets logged across Madrid. Often billed alongside Simon Garcia, Amor Satyr and Daniel Dawan. Next up: High Club Room, Madrid on Sat 26 Sept.
+Depaart is a house and acid artist tracked on soundcheck, with 37 sets logged across Madrid. Often billed alongside Simon Garcia, Amor Satyr and Daniel Dawan. Next up: High Club Room, Madrid on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | High Club Room | Madrid |
+| Sat, 31 Oct 2026 | High Club Room | Madrid |
 
 ## Recently played
 

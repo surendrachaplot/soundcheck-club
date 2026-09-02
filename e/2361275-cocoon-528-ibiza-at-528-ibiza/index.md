@@ -1,6 +1,6 @@
 # Cocoon 528 Ibiza at 528 Ibiza
 
-Cocoon 528 Ibiza on Wed 23 Sept, Ibiza. 8 acts on the bill: Cassy, DJ Hell, Franziska Berns and Julya Karma and 4 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Cocoon 528 Ibiza on Wed 23 Sept, Ibiza. 10 acts on the bill: Cassy, Cesar Vinzent, DJ Hell and Franziska Berns and 6 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Cocoon 528 Ibiza on Wed 23 Sept, Ibiza. 8 acts on the bill: Cassy, DJ Hell, Fran
 ## Line-up
 
 - Cassy
+- Cesar Vinzent
 - DJ Hell
 - Franziska Berns
 - Julya Karma
@@ -18,5 +19,6 @@ Cocoon 528 Ibiza on Wed 23 Sept, Ibiza. 8 acts on the bill: Cassy, DJ Hell, Fran
 - Richie Hawtin
 - Sublee
 - Sven Vath
+- Victoria Arena
 
 *Source: [soundcheck](https://soundcheck.club/e/2361275-cocoon-528-ibiza-at-528-ibiza/)*

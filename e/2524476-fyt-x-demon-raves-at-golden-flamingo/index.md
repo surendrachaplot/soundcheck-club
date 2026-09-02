@@ -1,6 +1,6 @@
 # FYT X Demon Raves at Golden Flamingo
 
-FYT X Demon Raves at Golden Flamingo on Sat 12 Sept, Berlin. 5 acts on the bill: Antonella mags schneller, DJ KAIDO, Elias Nuit (2) and JUWLZ and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+FYT X Demon Raves at Golden Flamingo on Sat 12 Sept, Berlin. 6 acts on the bill: Abimixx, Antonella mags schneller, DJ KAIDO and Elias Nuit (2) and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FYT X Demon Raves at Golden Flamingo on Sat 12 Sept, Berlin. 5 acts on the bill:
 
 ## Line-up
 
+- Abimixx
 - Antonella mags schneller
 - DJ KAIDO
 - Elias Nuit (2)

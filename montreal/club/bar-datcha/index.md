@@ -17,7 +17,7 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 11 upcoming nights
 | Thu, 17 Sept 2026 | Askim, Felix Patry, CasaKobrae | AṢKIM, Casa Kobrae, Felix Patry |
 | Fri, 18 Sept 2026 | Juno [Paragon & Bossa Nova, NYC], s.talbot, HVN | HVN (1), Juno (NY), s.talbot |
 | Sat, 19 Sept 2026 | DATCHA NONSTOP x Midnite Club: ÈBONY, Groceries, Minzi Roberta | Groceries, Jordan Gardner |
-| Fri, 25 Sept 2026 | Afrodite: Koppi, UNKWN, Fanella, The Masketeers, Jelly Monte |  |
+| Fri, 25 Sept 2026 | Afrodite X Abantu |  |
 
 ## Address
 

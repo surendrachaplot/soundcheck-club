@@ -1,13 +1,14 @@
 # Bevan
 
-Bevan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Bevan is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TRAUM, Antwerp on Fri, 16 Oct 2026.
 
-Bevan is a house and deep house artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, London, Milan and Paris and 2 more. Often billed alongside DJ Pointless, Jeremy Underground and Charmaine. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+Bevan is a house and deep house artist based in Netherlands, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, London and Milan and 3 more. Often billed alongside DJ Pointless, Jeremy Underground and Charmaine. Next up: TRAUM, Antwerp on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | TRAUM | Antwerp |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 
 ## Recently played

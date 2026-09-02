@@ -1,14 +1,15 @@
 # Breezywav
 
-Breezywav is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sunseabar Beach Club, Barcelona on Wed, 23 Sept 2026.
+Breezywav is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sunseabar Beach Club, Barcelona on Wed, 23 Sept 2026.
 
-Breezywav is an electro and house artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona and London. Often billed alongside Farres, Jean Bressan and Civic Grief. Next up: Sunseabar Beach Club, Barcelona on Wed 23 Sept.
+Breezywav is a house and electro artist based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona and London. Often billed alongside Farres, Jean Bressan and Civic Grief. Next up: Sunseabar Beach Club, Barcelona on Wed 23 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Sunseabar Beach Club | Barcelona |
+| Wed, 23 Sept 2026 | TBA - secret location | Barcelona |
 
 ## Recently played
 

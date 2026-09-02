@@ -1,8 +1,8 @@
 # Stephan Jolk
 
-Stephan Jolk is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Bali, Costa Salguero, Buenos Aires on Sat, 5 Sept 2026.
+Stephan Jolk is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Bali, Costa Salguero, Buenos Aires on Sat, 5 Sept 2026.
 
-Stephan Jolk is a techno and house artist based in Italy, tracked on soundcheck, with 93 sets logged across Athens, Austin, Bali and Bangkok and 25 more. Often billed alongside Acid Arab, Goom Gum and Hannes Bieger. Next up: TBA - Bali, Costa Salguero, Buenosaires on Sat 5 Sept.
+Stephan Jolk is a techno and house artist based in Italy, tracked on soundcheck, with 94 sets logged across Athens, Austin, Bali and Bangkok and 25 more. Often billed alongside Acid Arab, Goom Gum and Hannes Bieger. Next up: TBA - Bali, Costa Salguero, Buenosaires on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Stephan Jolk is a techno and house artist based in Italy, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA - Bali, Costa Salguero | Buenos Aires |
 | Sat, 3 Oct 2026 | Savaya Bali | Bali |
+| Wed, 7 Oct 2026 | Zumana Bali | Bali |
 
 ## Recently played
 

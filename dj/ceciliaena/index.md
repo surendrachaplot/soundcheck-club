@@ -1,14 +1,15 @@
 # Cecilia Ena
 
-Cecilia Ena is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hoxton Cabin, London on Sat, 26 Sept 2026.
+Cecilia Ena is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hoxton Cabin, London on Sat, 26 Sept 2026.
 
-Cecilia Ena is a progressive house and techno artist based in Italy, tracked on soundcheck, with 31 sets logged across London. Often billed alongside Jesus RedSoul, hisnameisevgeni and Alan Mathew. Next up: Hoxton Cabin, London on Sat 26 Sept.
+Cecilia Ena is a progressive house and electronica artist based in Italy, tracked on soundcheck, with 32 sets logged across London. Often billed alongside Jesus RedSoul, hisnameisevgeni and Alan Mathew. Next up: Hoxton Cabin, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Hoxton Cabin | London |
+| Fri, 30 Oct 2026 | Two Tribes CAMPFIRE | London |
 
 ## Recently played
 

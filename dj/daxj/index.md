@@ -11,8 +11,8 @@ DAX J is a techno and house artist tracked on soundcheck, with 255 sets logged a
 | Fri, 4 Sept 2026 | TBA - Secret Location | Toronto |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 5 Sept 2026 | Radius | Chicago |
-| Sat, 5 Sept 2026 | Nitsa Club | Barcelona |
 | Sun, 6 Sept 2026 | TBA - Los Angeles | Los Angeles |
+| Fri, 18 Sept 2026 | Nitsa Club | Barcelona |
 | Sat, 19 Sept 2026 | Circolo Amelia | Milan |
 | Sat, 26 Sept 2026 | Spook Club | Valencia |
 | Sun, 27 Sept 2026 | Hï Ibiza | Ibiza |

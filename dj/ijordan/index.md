@@ -1,8 +1,8 @@
 # I. JORDAN
 
-I. JORDAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at FOLD, London on Fri, 4 Sept 2026.
+I. JORDAN is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at FOLD, London on Fri, 4 Sept 2026.
 
-I. JORDAN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: FOLD, London on Fri 4 Sept.
+I. JORDAN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: FOLD, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ I. JORDAN is a techno and house artist based in United Kingdom, tracked on sound
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | FOLD | London |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
+| Sat, 10 Oct 2026 | Trix | Antwerp |
 
 ## Recently played
 

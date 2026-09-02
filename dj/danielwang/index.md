@@ -1,8 +1,8 @@
 # Daniel Wang
 
-Daniel Wang is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at fi, Cologne on Sat, 5 Sept 2026.
+Daniel Wang is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at fi, Cologne on Sat, 5 Sept 2026.
 
-Daniel Wang is a disco and house artist tracked on soundcheck, with 91 sets logged across Athens, Barcelona, Belfast and Belgrade and 12 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: fi, Cologne on Sat 5 Sept.
+Daniel Wang is a disco and house artist tracked on soundcheck, with 92 sets logged across Athens, Barcelona, Belfast and Belgrade and 12 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: fi, Cologne on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Daniel Wang is a disco and house artist tracked on soundcheck, with 91 sets logg
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | fi | Cologne |
 | Fri, 11 Sept 2026 | KitKatClub | Berlin |
+| Fri, 9 Oct 2026 | 42 Marches | Paris |
 
 ## Recently played
 

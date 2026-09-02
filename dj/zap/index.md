@@ -9,7 +9,7 @@ Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 1
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | TBA - East Williamsburg | New York City |
-| Sat, 5 Sept 2026 | Nitsa Club | Barcelona |
+| Fri, 18 Sept 2026 | Nitsa Club | Barcelona |
 | Sat, 19 Sept 2026 | Le 211 | Paris |
 | Sat, 26 Sept 2026 | FOLD | London |
 | Sat, 10 Oct 2026 | Buda BXL | Brussels |

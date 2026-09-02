@@ -1,8 +1,8 @@
 # Esmé
 
-Esmé is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The White Hotel, Manchester on Wed, 23 Sept 2026.
+Esmé is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The White Hotel, Manchester on Wed, 23 Sept 2026.
 
-Esmé is a techno and house artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Glasgow, Leeds, Liverpool and London and 2 more. Often billed alongside April (UK), Jase Jeffery and Luke Daniels. Next up: The White Hotel, Manchester on Wed 23 Sept.
+Esmé is a techno and house artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Glasgow, Leeds, Liverpool and London and 2 more. Often billed alongside April (UK), Jase Jeffery and Luke Daniels. Next up: The White Hotel, Manchester on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Esmé is a techno and house artist based in United Kingdom, tracked on soundchec
 | Wed, 23 Sept 2026 | The White Hotel | Manchester |
 | Fri, 25 Sept 2026 | renae | Manchester |
 | Sun, 27 Sept 2026 | The DBA | Manchester |
+| Sat, 17 Oct 2026 | Honey Street Studio | Manchester |
 
 ## Recently played
 

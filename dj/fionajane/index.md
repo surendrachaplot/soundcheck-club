@@ -1,14 +1,14 @@
 # Fiona Jane
 
-Fiona Jane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Say No More, Philadelphia on Sat, 5 Sept 2026.
+Fiona Jane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Say No More Madrid, Philadelphia on Sat, 5 Sept 2026.
 
-Fiona Jane is a house and techno artist tracked on soundcheck, with 4 sets logged across Copenhagen, Lisbon, London and Philadelphia. Often billed alongside DEIAN, DESIREE (RSA) and Ewan Pearson. Next up: Say No More, Philadelphia on Sat 5 Sept.
+Fiona Jane is a house and techno artist tracked on soundcheck, with 4 sets logged across Copenhagen, Lisbon, London and Philadelphia. Often billed alongside DEIAN, DESIREE (RSA) and Ewan Pearson. Next up: Say No More Madrid, Philadelphia on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Say No More | Philadelphia |
+| Sat, 5 Sept 2026 | Say No More Madrid | Philadelphia |
 
 ## Recently played
 

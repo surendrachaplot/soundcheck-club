@@ -13,11 +13,11 @@ Distillery is a music venue in Leipzig listed on soundcheck. 14 upcoming nights,
 | Fri, 11 Sept 2026 | Bass Garden | Mary Jane (US), Relict, Transient |
 | Sat, 12 Sept 2026 | CLUB GRDN × SEELEN | Bärtaub, JANEIN, Jana Falcon, Luise, Medha, Stephanie Sykes, Stigmatique, Submod, Thomas Stieler |
 | Fri, 18 Sept 2026 | Kollektiv Krumm & Schief × PANAM |  |
-| Sat, 19 Sept 2026 | VACANZA × Butschi all night long | Butschi |
+| Sat, 19 Sept 2026 | VACANZA × Butschi all night long | Butschi, Krash Cora |
 | Fri, 25 Sept 2026 | S.D.H.Q. presents: Sonic Dimensions #1 | Kalitos, OutWithJane |
-| Sat, 26 Sept 2026 | METRO × distillery NEW KIDS |  |
+| Sat, 26 Sept 2026 | METRO × distillery NEW KIDS | Carluschka, DJ G1NA R., DJ SOFTICE, Dreimal T, InterStella, MIDNXGHT, TINOU, clemi, degen, fatmuska, jewelry, marengo (2), matilda (2), mp.ulle, vinyldependents |
 | Sat, 3 Oct 2026 | FOCUS + KARETE BU invites | V:SONNTAG, karete bu |
-| Sat, 10 Oct 2026 | KEINKOLLEKTIV X NORMAN NODGE [ all night long ] | Norman Nodge |
+| Sat, 10 Oct 2026 | KEINKOLLEKTIV X NORMAN NODGE all night long | Nadine Talakovics, Norman Nodge |
 
 ## Address
 

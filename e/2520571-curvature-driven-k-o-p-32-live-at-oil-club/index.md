@@ -1,6 +1,6 @@
 # 曲率驱动 Curvature-driven: K.O.P. 32 (Live) at OIL Club
 
-曲率驱动 Curvature-driven: K.O.P. 32 (Live) at OIL Club on Sat 19 Sept, Shenzhen. 1 act on the bill: TiaNT. Preview the line-up and save it on soundcheck.
+曲率驱动 Curvature-driven: K.O.P. 32 (Live) at OIL Club on Sat 19 Sept, Shenzhen. 2 acts on the bill: Fengshui and TiaNT. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Fengshui
 - TiaNT
 
 *Source: [soundcheck](https://soundcheck.club/e/2520571-curvature-driven-k-o-p-32-live-at-oil-club/)*

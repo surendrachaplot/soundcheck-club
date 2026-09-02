@@ -1,8 +1,8 @@
 # UniKhatu
 
-UniKhatu is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sensorium, Berlin on Wed, 9 Sept 2026.
+UniKhatu is a Techno and Tech House artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sensorium, Berlin on Wed, 9 Sept 2026.
 
-UniKhatu is a techno and tech house artist tracked on soundcheck, with 55 sets logged across Berlin and Ghent. Often billed alongside pink-panther, James Cherry and Ayham. Next up: Sensorium, Berlin on Wed 9 Sept.
+UniKhatu is a techno and tech house artist tracked on soundcheck, with 57 sets logged across Berlin and Ghent. Often billed alongside pink-panther, James Cherry and Ayham. Next up: Sensorium, Berlin on Wed 9 Sept.
 
 ## Upcoming shows
 
@@ -11,7 +11,9 @@ UniKhatu is a techno and tech house artist tracked on soundcheck, with 55 sets l
 | Wed, 9 Sept 2026 | Sensorium | Berlin |
 | Fri, 18 Sept 2026 | Marmorbar | Berlin |
 | Sat, 19 Sept 2026 | Sensorium | Berlin |
+| Sun, 27 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 2 Oct 2026 | Crack Bellmer | Berlin |
+| Sat, 10 Oct 2026 | OXI | Berlin |
 | Sat, 31 Oct 2026 | Sensorium | Berlin |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Kater
 
-Kater is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Kater x Zapped & Anxiety Therapy" on Fri, 4 Sept 2026.
+Kater is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Kater x Zapped & Anxiety Therapy" on Fri, 4 Sept 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Javier Anxiety, A.D.H.S., Adri Tüde and Aera and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Javier Anxiety, A.D.H.S., Adri Tüde and Aera and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Kater is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with 
 | Sat, 26 Sept 2026 | Katernacht + 30 Years of Mira with Harry Romero, Lulah Francs, Rotciv + more | Anjawah, Beatina, Harry Romero, LENI (DE), Los Cabra, Lulah Francs, Melanie Havens, Mira, Moderna, Peter Schumann, Rotciv, SAM AROHA, eira haul |
 | Fri, 2 Oct 2026 | TOGETHER FOREVER: Weekender + FREE Saturday Open Air with SENSUS & Fäncy | Anna Almani, Augusto Taito, Carl Bergé, DJ Buona Sara, DJ Fucks Himself, DJ SPORTSCHUH, EUROBABES, Esther Silex, Euphrat, I$A, Jakob Mäder, Jesse G, Kurilo, Lenny Fuck, M.ono, Pascale Project, Punani, Rosa Kante, Subradeon, Talia Dorr, nd_baumecker |
 | Fri, 9 Oct 2026 | FOREVER 25 curated by Enorm in Form | Adri Tüde, Agustin Giri, Alicia Hahn, Annett Gapstream, CHIEF TORKEL, Caleesi, Cleos, Dave Dinger, Fabian Krooss, Foolik, Kon Faber, Luca Saporito (Audiofly), Mabu, Marius Lehnert, Miss Evoice, Mona Moore, Ole Olsen, Red Pig Flower, Revengedeko, Sarah Kreis, Simon Simono, Stan Starry, Sven Dohse, The Bille, justUS, miAs |
-| Fri, 30 Oct 2026 | FOREVER 25 curated by Mila Stern & Esther Silex | Esther Silex, Mila Stern |
+| Fri, 16 Oct 2026 | Kater x 23XI | Ana Molina, Black Mirror Park, Chris Ku, KENZA, Lydia Eisenblätter, Meat, Spencer Parker |
 
 ## Address
 

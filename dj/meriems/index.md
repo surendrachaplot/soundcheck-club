@@ -1,13 +1,14 @@
 # Meriem S
 
-Meriem S is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at OXI, Berlin on Sat, 3 Oct 2026.
+Meriem S is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Cascina nascosta, Milan on Sun, 20 Sept 2026.
 
-Meriem S is a house and disco artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Brussels and Munich and 1 more. Often billed alongside saHHar, hi.fí and Adam Cooke. Next up: OXI, Berlin on Sat 3 Oct.
+Meriem S is a house and disco artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Brussels and Milan and 2 more. Often billed alongside saHHar, hi.fí and Adam Cooke. Next up: Cascina nascosta, Milan on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 20 Sept 2026 | Cascina nascosta | Milan |
 | Sat, 3 Oct 2026 | OXI | Berlin |
 
 ## Recently played

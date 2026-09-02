@@ -1,13 +1,14 @@
 # Evil Woman
 
-Evil Woman is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Model, Nottingham on Sat, 5 Sept 2026.
+Evil Woman is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Movers, Nottingham on Thu, 3 Sept 2026.
 
-Evil Woman is a techno and trance artist tracked on soundcheck, with 24 sets logged across Leeds, Nottingham and Sheffield. Often billed alongside soapy, Keeks and Mush Love (UK). Next up: The Model, Nottingham on Sat 5 Sept.
+Evil Woman is a techno and trance artist tracked on soundcheck, with 25 sets logged across Leeds, Nottingham and Sheffield. Often billed alongside soapy, Keeks and Mush Love (UK). Next up: Movers, Nottingham on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Movers | Nottingham |
 | Sat, 5 Sept 2026 | The Model | Nottingham |
 
 ## Recently played

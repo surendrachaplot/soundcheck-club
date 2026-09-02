@@ -9,6 +9,6 @@ Hexagon Brussels is a music venue in Brussels listed on soundcheck. 2 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Launch Hexagon | Erykah, O'SIMMIE, dirtydms |
-| Sat, 5 Sept 2026 | Gloom Club | O'SIMMIE, cyvira, gaiko, re:ni |
+| Fri, 25 Sept 2026 | Gloom Club | O'SIMMIE, cyvira, gaiko, re:ni |
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/hexagon-brussels/)*

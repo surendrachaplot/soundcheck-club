@@ -1,6 +1,6 @@
 # GARUPA @Dr. Banana ALL NIGHT LONG at Dr Banana Club
 
-GARUPA @Dr. Banana ALL NIGHT LONG at Dr Banana Club on Fri 11 Sept, Saopaulo. 1 act on the bill: GARUPA. Acid and Deep House. Preview the line-up and save it on soundcheck.
+GARUPA @Dr. Banana ALL NIGHT LONG at Dr Banana Club on Fri 11 Sept, Saopaulo. 1 act on the bill: GARUPA. Deep House and Acid. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

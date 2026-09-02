@@ -2,7 +2,7 @@
 
 Kay Wagner is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
 
-Kay Wagner is a techno and acid artist tracked on soundcheck, with 9 sets logged across Amsterdam, Hamburg, Montreal and Toronto. Often billed alongside ArioVistus, Teenage Mutants and Anthony Cole. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
+Kay Wagner is a techno and acid artist tracked on soundcheck, with 9 sets logged across Amsterdam, Hamburg, Montreal and Toronto. Often billed alongside ArioVistus, Molothav and Teenage Mutants. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Kay Wagner is a techno and acid artist tracked on soundcheck, with 9 sets logged
 
 ## Shares bills with
 
-ArioVistus, Teenage Mutants, Anthony Cole
+ArioVistus, Molothav, Teenage Mutants
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaywagner/)*

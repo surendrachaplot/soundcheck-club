@@ -1,14 +1,14 @@
 # gaiko
 
-gaiko is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hexagon Brussels, Brussels on Sat, 5 Sept 2026.
+gaiko is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hexagon Brussels, Brussels on Fri, 25 Sept 2026.
 
-gaiko is a club and bass artist based in Belgium, tracked on soundcheck, with 30 sets logged across Antwerp, Brussels, Ghent and Rotterdam. Often billed alongside cyvira, O'SIMMIE and ojoo. Next up: Hexagon Brussels, Brussels on Sat 5 Sept.
+gaiko is a club and bass artist based in Belgium, tracked on soundcheck, with 30 sets logged across Antwerp, Brussels, Ghent and Rotterdam. Often billed alongside cyvira, O'SIMMIE and ojoo. Next up: Hexagon Brussels, Brussels on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Hexagon Brussels | Brussels |
+| Fri, 25 Sept 2026 | Hexagon Brussels | Brussels |
 
 ## Recently played
 

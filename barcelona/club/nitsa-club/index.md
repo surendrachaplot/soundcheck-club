@@ -10,9 +10,9 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming night
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Club Romantico x DESTRUCCIÓN: DJ Ramon Sucesso · Florentino · Manuka Honey · Safety Trance/ Kia | DJ Ramon Sucesso, Florentino, Jhort, Kia (AU), Manuka Honey, Memory Palace, Safety Trance |
 | Sat, 5 Sept 2026 | KAS:ST · SOLE LLORENTE / Somoslas: DJ Rosario · Ferdiyei · KASI · Toni Bass | DJ Rosario, Ferdiyei, KAS:ST, SOLE LLORENTE, Toni Bass |
-| Sat, 5 Sept 2026 | DAX J · Wallis Live · Dj Fra · NiZ / Ivan Smagghe · Z@p · Anah | Anah, DAX J, Dj Fra, Ivan Smagghe, NIZ (SP), Wallis, Z@p |
 | Fri, 11 Sept 2026 | Sam Paganini · Bak / JakoJako · Barker Live · T.Modet | Bak (IT), Barker, JakoJako, Sam Paganini, T.Modet |
 | Sat, 12 Sept 2026 | Patrick Mason · SANTANA · THANILA / Sunday Sunday: nd_baumecker · Dam Vera · Sunday Sunday DJs  | Patrick Mason, SANTANA, THANILA, nd_baumecker |
+| Fri, 18 Sept 2026 | DAX J · Wallis Live · Dj Fra · NiZ / Ivan Smagghe · Z@p · Anah | Anah, DAX J, Dj Fra, Ivan Smagghe, NIZ (SP), Wallis, Z@p |
 | Sat, 19 Sept 2026 | Club Expansivo @NITSA | Animistic Beliefs, Julio César, KEBRA, T0M1, Tiyumii |
 | Sat, 19 Sept 2026 | Braxe + Falcon · LB aka LABAT / Club Expansivo: Animistic Beliefs · KEBRA · Simona Live | Alan Braxe, Animistic Beliefs, Arnau Obiols, DJ F16 Falcon, Julio César, KEBRA, LB aka LABAT, T0M1, Tiyumii |
 | Fri, 25 Sept 2026 | Villano Antillano · PETERBLUE · Solsi / Stef Mendesidis Live · Altinbas · Laia | Altinbas, Laia, PETERBLUE, Stef Mendesidis |

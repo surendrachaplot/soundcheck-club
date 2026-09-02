@@ -2,7 +2,7 @@
 
 Diamond CS is a Italo Disco and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Café Helmers, Amsterdam on Sat, 12 Sept 2026.
 
-Diamond CS is an italo disco and latin bass artist based in Brazil, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Not Yet (2) and Pedro da Mata. Next up: Café Helmers, Amsterdam on Sat 12 Sept.
+Diamond CS is an italo disco and latin bass artist based in Brazil, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Not Yet (2), Pedro da Mata and Xique-Xica da Silva. Next up: Café Helmers, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Diamond CS is an italo disco and latin bass artist based in Brazil, tracked on s
 
 ## Shares bills with
 
-Not Yet (2), Pedro da Mata
+Not Yet (2), Pedro da Mata, Xique-Xica da Silva
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diamondcs/)*

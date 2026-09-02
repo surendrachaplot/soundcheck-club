@@ -1,8 +1,8 @@
 # Leafar Legov
 
-Leafar Legov is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Seattle on Sat, 12 Sept 2026.
+Leafar Legov is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Seattle on Sat, 12 Sept 2026.
 
-Leafar Legov is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: TBA, Seattle on Sat 12 Sept.
+Leafar Legov is a house and techno artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: TBA, Seattle on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Leafar Legov is a house and techno artist tracked on soundcheck, with 98 sets lo
 | Sat, 12 Sept 2026 | TBA | Seattle |
 | Sun, 13 Sept 2026 | TBA - VANCOUVER | Vancouver |
 | Wed, 16 Sept 2026 | The Foundry | San Francisco/Oakland |
+| Sat, 26 Sept 2026 | Haus der Visionäre | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
+DITA (ID) is a House and Balearic artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
 
-DITA (ID) is a house and disco artist tracked on soundcheck, with 107 sets logged across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside PNNY, Archie Dennis and Avalon Emerson. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
+DITA (ID) is a house and balearic artist tracked on soundcheck, with 108 sets logged across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside PNNY, Archie Dennis and Avalon Emerson. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DITA (ID) is a house and disco artist tracked on soundcheck, with 107 sets logge
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747 | Melbourne |
 | Fri, 11 Sept 2026 | Klymax Discotheque | Bali |
+| Fri, 11 Sept 2026 | Solace | Melbourne |
 | Sat, 19 Sept 2026 | La Brisa | Bali |
 | Sat, 26 Sept 2026 | Potato Head Beach Club | Bali |
 | Sun, 18 Oct 2026 | National Art School | Sydney |

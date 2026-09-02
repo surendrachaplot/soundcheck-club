@@ -1,8 +1,8 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Underbass & Aperotech presents: ARPL, Fleurbleus, Saphyr" on Wed, 2 Sept 2026.
+Rex Club is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Underbass & Aperotech presents: ARPL, Fleurbleus, Saphyr" on Wed, 2 Sept 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including Mariiin, Antal, ARPL and Canelle Doublekick and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including Mariiin, Antal, ARPL and Canelle Doublekick and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 

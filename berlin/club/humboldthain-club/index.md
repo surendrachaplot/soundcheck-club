@@ -1,8 +1,8 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "I LOVE MODUS 3 years anniversary w/ DJ Tallboy, Kling & Klang, DJ Räucherlaks" on Fri, 4 Sept 2026.
+Humboldthain Club is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "I LOVE MODUS 3 years anniversary w/ DJ Tallboy, Kling & Klang, DJ Räucherlaks" on Fri, 4 Sept 2026.
 
-Humboldthain Club is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including YOVA, __iwana__, AHAB and Anna Almani and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
+Humboldthain Club is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including YOVA, __iwana__, AHAB and Anna Almani and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
 ## What's on
 

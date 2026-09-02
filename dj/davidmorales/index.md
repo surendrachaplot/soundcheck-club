@@ -19,7 +19,7 @@ David Morales is a house and disco artist tracked on soundcheck, with 193 sets l
 | Wed, 30 Sept 2026 | Pikes Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
-| Sun, 4 Oct 2026 | Noma Island | Malta |
+| Sun, 4 Oct 2026 | Little Armier Beach | Malta |
 
 ## Recently played
 

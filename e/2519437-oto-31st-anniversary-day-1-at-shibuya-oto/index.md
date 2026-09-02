@@ -1,6 +1,6 @@
 # OTO 31st Anniversary DAY.1 at Shibuya OTO
 
-OTO 31st Anniversary DAY.1 at Shibuya OTO on Sat 19 Sept, Tokyo. 3 acts on the bill: Hironobu Jyounai, Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Club. Preview the line-up and save it on soundcheck.
+OTO 31st Anniversary DAY.1 at Shibuya OTO on Sat 19 Sept, Tokyo. 4 acts on the bill: EIJI, Hironobu Jyounai, Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ OTO 31st Anniversary DAY.1 at Shibuya OTO on Sat 19 Sept, Tokyo. 3 acts on the b
 
 ## Line-up
 
+- EIJI
 - Hironobu Jyounai
 - Kenta Tominaga
 - vinylDJ Eiji Takehana

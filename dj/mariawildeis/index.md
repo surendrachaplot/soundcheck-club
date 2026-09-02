@@ -1,13 +1,14 @@
 # Maria Wildeis
 
-Maria Wildeis is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Salon des Amateurs, Düsseldorf on Fri, 30 Oct 2026.
+Maria Wildeis is a Ambient and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Club der Visionaere, Berlin on Fri, 18 Sept 2026.
 
-Maria Wildeis is an electronic artist tracked on soundcheck, with 3 sets logged across Cologne and Dusseldorf. Often billed alongside Voltmar, Die Wilde Jagd and EPHIE. Next up: Salon des Amateurs, Dusseldorf on Fri 30 Oct.
+Maria Wildeis is an ambient and house artist tracked on soundcheck, with 4 sets logged across Berlin, Cologne and Dusseldorf. Often billed alongside Voltmar, DJ ZBB and Die Wilde Jagd. Next up: Club der Visionaere, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Club der Visionaere | Berlin |
 | Fri, 30 Oct 2026 | Salon des Amateurs | Düsseldorf |
 
 ## Recently played
@@ -17,6 +18,6 @@ Maria Wildeis is an electronic artist tracked on soundcheck, with 3 sets logged 
 
 ## Shares bills with
 
-Voltmar, Die Wilde Jagd, EPHIE
+Voltmar, DJ ZBB, Die Wilde Jagd
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariawildeis/)*

@@ -1,6 +1,6 @@
 # PEOPLE Festival at Funkhaus Berlin
 
-PEOPLE Festival at Funkhaus Berlin on Sat 10 Oct, Berlin. 12 acts on the bill: Bendik Giske, Dustin Zahn, GORDI (1) and Helado Negro and 8 more. Preview the line-up and save it on soundcheck.
+PEOPLE Festival at Funkhaus Berlin on Sat 10 Oct, Berlin. 17 acts on the bill: Bendik Giske, Dustin Zahn, Efterklang and Egopusher and 13 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,9 @@ PEOPLE Festival at Funkhaus Berlin on Sat 10 Oct, Berlin. 12 acts on the bill: B
 
 - Bendik Giske
 - Dustin Zahn
+- Efterklang
+- Egopusher
+- Erlend Øye
 - GORDI (1)
 - Helado Negro
 - Jeremy Black
@@ -19,8 +22,10 @@ PEOPLE Festival at Funkhaus Berlin on Sat 10 Oct, Berlin. 12 acts on the bill: B
 - Liam Mour
 - Lucinda Chua
 - MA (39)
+- Mouse On Mars
 - Peder Mannerfelt
 - Peter Broderick
+- Sinkane
 - Tomas Crow
 
 *Source: [soundcheck](https://soundcheck.club/e/2525942-people-festival-at-funkhaus-berlin/)*

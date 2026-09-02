@@ -15,7 +15,7 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 15 upco
 | Sat, 19 Sept 2026 | TSOA: Fritz Kalkbrenner & Einmusik (Open Air) | Agatha Pher, Einmusik, Envel, Fritz Kalkbrenner |
 | Sun, 20 Sept 2026 | SWING pres. Nic Fanciulli | BizZa, DIROS, Nic Fanciulli, Rendher |
 | Sat, 26 Sept 2026 | MUTE pres Joris Voorn + Fedele + Bob Tosh | Bob Tosh, Fedele, Joris Voorn |
-| Sat, 26 Sept 2026 | Sunset Experience 1 Year Anniversary | DJ SOFÍDIA, Tanya Andros |
+| Sat, 26 Sept 2026 | Sunset Experience 1 Year Anniversary | DJ SOFÍDIA, Tanya Andros, Tom Banner |
 | Sat, 3 Oct 2026 | TSOA: X Years w. Patrice Bäumel, Stavroz Live & Marino Canal (Open Air) | Agatha Pher, Marino Canal, Patrice Bäumel, Stavroz |
 | Sat, 10 Oct 2026 | Diggin' pres. Lamache and Voodoos & Taboos. (MUAMUA) | Lamache, Nancy (3), Vallde, Vilalta, Voodoos and Taboos, arnald |
 

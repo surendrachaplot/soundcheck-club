@@ -1,8 +1,8 @@
 # Sunseabar Beach Club
 
-Sunseabar Beach Club is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "FREE OPEN AIR BEACH PARTY - Time To Panic" on Fri, 4 Sept 2026.
+Sunseabar Beach Club is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "FREE OPEN AIR BEACH PARTY - Time To Panic" on Fri, 4 Sept 2026.
 
-Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including acidheaven, AFFKT, Alex (ES) and Amadori and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
+Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including acidheaven, AFFKT, Alex (ES) and Amadori and 2 more. Browse upcoming dates, start times and who's playing. Calle La Pau, Platja del Forum, Barcelona, Spain.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Sunseabar Beach Club is a music venue in Barcelona listed on soundcheck. 12 upco
 | Fri, 11 Sept 2026 | 24Seven Records Invites: Mari.te (FREE OPEN-AIR BEACH PARTY) | Brieela, Diesco, Mari.te, Stefano Andriezzi, Vince Void |
 | Sat, 12 Sept 2026 | FREE OPEN AIR BEACH PARTY - Les Enfants x Roots | Alex (ES), INDRA TRAFERRI, MostWanted |
 | Sun, 13 Sept 2026 | AUDIODISE BEACH CLOSING pres. Hamatsuki & skyra (Bassiani) exclusive 4h Live & DJ set  | Hamatsuki, Martini Raw, Swann, skyra |
+| Thu, 17 Sept 2026 | [FREE OPEN AIR BEACH PARTY] Mund Radio: BARNA92 | Bejenec, caskobi |
 | Sat, 19 Sept 2026 | BEACH PARTY CLOSING SUMMER: Les Enfants x ■ Checkpoint x Troopers |  |
 | Sun, 20 Sept 2026 | FREE OPEN AIR BEACH PARTY: Lost invites Posay | André Butano, Jean Pierre, Karla Amaro |
-| Wed, 23 Sept 2026 | (FREE BEACH PARTY) SIDEWAYS w// Borja S | Borja S, Breezywav, Farres, Jean Bressan |
 
 ## Address
 

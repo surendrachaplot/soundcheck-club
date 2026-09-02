@@ -1,13 +1,14 @@
 # ilbroccolovolante
 
-ilbroccolovolante is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Pleasure Patterns, Berlin on Sat, 5 Sept 2026.
+ilbroccolovolante is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at KREUZWERK, Berlin on Fri, 4 Sept 2026.
 
-ilbroccolovolante is a progressive house and techno artist based in Italy, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: Pleasure Patterns, Berlin on Sat 5 Sept.
+ilbroccolovolante is a progressive house and house artist based in Italy, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: KREUZWERK, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | KREUZWERK | Berlin |
 | Sat, 5 Sept 2026 | Pleasure Patterns | Berlin |
 | Sat, 19 Sept 2026 | OXI | Berlin |
 | Fri, 9 Oct 2026 | OXI | Berlin |

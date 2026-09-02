@@ -1,14 +1,15 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Aline Umber is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
-Aline Umber is a house and minimal artist tracked on soundcheck, with 101 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+Aline Umber is a house and minimal artist tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
+| Sun, 13 Sept 2026 | NDSM Docklands | Amsterdam |
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 

@@ -1,8 +1,8 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "SUBMASSIVE VOL. 15" on Thu, 3 Sept 2026.
+Golden Pudel Club is a music venue in Hamburg with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "SUBMASSIVE VOL. 15" on Thu, 3 Sept 2026.
 
-Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including Acid At The Mall, Anton Jonathan, Barbaros and beccs and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
+Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 10 upcoming nights, with line-ups including Acid At The Mall, Anton Jonathan, Barbaros and beccs and 2 more. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 9 upcoming n
 | Thu, 10 Sept 2026 | nach.hall | Anton Jonathan, Jos, beccs |
 | Sat, 12 Sept 2026 | 15 Years Of zweikommasieben | LYZZA, Phuong Dan |
 | Sun, 13 Sept 2026 | Kinetik Sessions |  |
+| Thu, 24 Sept 2026 | ELM STREET 42 | KVLR, Tana (2), UNZHA, fbi (1), yamagucci42 |
 | Sat, 26 Sept 2026 | fuego with Sedaction, Ibizer, LAIDA, Laundry Service | Ibizer, Laundry Service, Sedaction |
 | Fri, 2 Oct 2026 | RAWDOGS with Yass & Mali | Enzo V8, Yass & Mali |
 

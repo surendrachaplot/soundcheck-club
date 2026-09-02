@@ -1,8 +1,8 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Palms Trax is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Palms Trax is a house and techno artist tracked on soundcheck, with 195 sets logged across Amsterdam, Athens, Bali and Bangkok and 52 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Palms Trax is a house and techno artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Palms Trax is a house and techno artist tracked on soundcheck, with 195 sets log
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
+| Fri, 16 Oct 2026 | TRAUM | Antwerp |
 | Fri, 23 Oct 2026 | Doka | Amsterdam |
 | Sat, 28 Nov 2026 | fabric | London |
 

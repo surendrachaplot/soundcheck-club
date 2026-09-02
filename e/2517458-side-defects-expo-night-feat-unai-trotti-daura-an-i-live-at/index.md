@@ -1,6 +1,6 @@
-# Side Defects [exPO night] feat. Unai Trotti, Daura, An-i live at Coco Boule
+# Side Defects [eXpo night] feat. Unai Trotti, Daura, An-i live at Coco Boule
 
-Side Defects [exPO night] feat. Unai Trotti, Daura, An-i live at Coco Boule on Fri 11 Sept, Berlin. 7 acts on the bill: An-i, Daura, KaltwasserTV and MFX (1) and 3 more. Techno and IDM. Preview the line-up and save it on soundcheck.
+Side Defects [eXpo night] feat. Unai Trotti, Daura, An-i live at Coco Boule on Fri 11 Sept, Berlin. 7 acts on the bill: An-i, Daura, KaltwasserTV and MFX (1) and 3 more. Techno and IDM. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

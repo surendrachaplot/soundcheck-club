@@ -1,14 +1,15 @@
 # Sarica
 
-Sarica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 17 Sept 2026.
+Sarica is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 17 Sept 2026.
 
-Sarica is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Belgrade, Berlin and Hongkong and 9 more. Often billed alongside RIØ (DE), Sub.Vision and Rosan. Next up: Bahnwärter Thiel, Munich on Thu 17 Sept.
+Sarica is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Belgrade, Berlin and Hongkong and 9 more. Often billed alongside RIØ (DE), Sub.Vision and Rosan. Next up: Bahnwärter Thiel, Munich on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | Bahnwärter Thiel | Munich |
+| Sat, 26 Sept 2026 | Grelle Forelle | Vienna |
 
 ## Recently played
 

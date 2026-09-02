@@ -1,6 +1,6 @@
 # Jazz'n'Bass - D'n'B with a Jazz attitude at Shibuya OTO
 
-Jazz'n'Bass - D'n'B with a Jazz attitude at Shibuya OTO on Sat 10 Oct, Tokyo. 2 acts on the bill: Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jazz'n'Bass - D'n'B with a Jazz attitude at Shibuya OTO on Sat 10 Oct, Tokyo. 3 acts on the bill: EIJI, Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Jazz'n'Bass - D'n'B with a Jazz attitude at Shibuya OTO on Sat 10 Oct, Tokyo. 2 
 
 ## Line-up
 
+- EIJI
 - Kenta Tominaga
 - vinylDJ Eiji Takehana
 

@@ -1,8 +1,8 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 20 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "JAZZ SENTINEL" on Wed, 2 Sept 2026.
+ZUBAR is a music venue in Tokyo with 21 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "JAZZ SENTINEL" on Wed, 2 Sept 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 20 upcoming nights, with line-ups including Abura, Emerson, Futa and heykazma and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, with line-ups including Abura, Emerson, Futa and heykazma and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # nixmoon
 
-nixmoon is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Berlin on Sat, 12 Sept 2026.
+nixmoon is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Berlin on Sat, 12 Sept 2026.
 
-nixmoon is a techno and tech house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Bee Lincoln, Amperia and BOYCA. Next up: TBA, Berlin on Sat 12 Sept.
+nixmoon is a techno and tech house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Bee Lincoln, Amperia and BOYCA. Next up: TBA, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ nixmoon is a techno and tech house artist based in Germany, tracked on soundchec
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA | Berlin |
 | Wed, 30 Sept 2026 | Sensorium | Berlin |
+| Fri, 16 Oct 2026 | ://about blank | Berlin |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Mimi (4)
 
-Mimi (4) is a Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Mimi (4) is a Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
 
-Mimi (4) is an electronica artist tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside Konstantin, Leafar Legov and Map.ache. Next up: Klaproos, Amsterdam on Sun 25 Oct.
+Mimi (4) is an electronica artist tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 3 more. Often billed alongside Konstantin, Leafar Legov and Map.ache. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Haus der Visionäre | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played

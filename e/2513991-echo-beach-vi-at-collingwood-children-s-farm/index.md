@@ -1,6 +1,6 @@
 # Echo Beach VI at Collingwood Children's Farm
 
-Echo Beach VI at Collingwood Children's Farm on Sat 31 Oct, Melbourne. 13 acts on the bill: Adriana (1), Babycino, Darcy Justice and DITA (ID) and 9 more. House and Disco. Preview the line-up and save it on soundcheck.
+Echo Beach VI at Collingwood Children's Farm on Sat 31 Oct, Melbourne. 14 acts on the bill: Adriana (1), Babycino, Darcy Justice and DITA (ID) and 10 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Echo Beach VI at Collingwood Children's Farm on Sat 31 Oct, Melbourne. 13 acts o
 - DITA (ID)
 - Dreems
 - Echo Beach
+- EIJI
 - Emelyne
 - Jono Ma
 - Lauren Hansom

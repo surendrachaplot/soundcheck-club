@@ -1,8 +1,8 @@
 # ishka machina
 
-ishka machina is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
+ishka machina is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
 
-ishka machina is a techno and trance artist based in India, tracked on soundcheck, with 68 sets logged across Berlin, Munich, Prague and Vienna. Often billed alongside Takē, AVHD and jardabpm. Next up: Ankali & Planeta Za, Prague on Sat 12 Sept.
+ishka machina is a techno and trance artist based in India, tracked on soundcheck, with 69 sets logged across Berlin, Munich, Prague and Vienna. Often billed alongside Takē, AVHD and jardabpm. Next up: Ankali & Planeta Za, Prague on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ishka machina is a techno and trance artist based in India, tracked on soundchec
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Ankali & Planeta Za | Prague |
 | Fri, 18 Sept 2026 | Bar v Krymský | Prague |
+| Fri, 25 Sept 2026 | Altenburg 1964 | Prague |
 | Sat, 24 Oct 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

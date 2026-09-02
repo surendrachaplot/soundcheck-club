@@ -9,7 +9,7 @@ O'SIMMIE is a club and baile funk artist based in Belgium, tracked on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Hexagon Brussels | Brussels |
-| Sat, 5 Sept 2026 | Hexagon Brussels | Brussels |
+| Fri, 25 Sept 2026 | Hexagon Brussels | Brussels |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Bokaric
 
-Bokaric is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
+Bokaric is a Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
 
-Bokaric is a techno artist based in Serbia, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Masarini, Mechanic Slave and DEN!SE. Next up: ://about blank, Berlin on Sat 5 Sept.
+Bokaric is a techno artist based in Serbia, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Masarini, DEN!SE and Jasmin Giovanazzi. Next up: ://about blank, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bokaric is a techno artist based in Serbia, tracked on soundcheck, with 18 sets 
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | ://about blank | Berlin |
 | Fri, 25 Sept 2026 | OXI | Berlin |
+| Fri, 16 Oct 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Bokaric is a techno artist based in Serbia, tracked on soundcheck, with 18 sets 
 
 ## Shares bills with
 
-Masarini, Mechanic Slave, DEN!SE
+Masarini, DEN!SE, Jasmin Giovanazzi
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bokaric/)*

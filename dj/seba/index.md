@@ -1,8 +1,8 @@
 # Seba
 
-Seba is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at SASS Music Club, Vienna on Sun, 6 Sept 2026.
+Seba is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at SASS Music Club, Vienna on Sun, 6 Sept 2026.
 
-Seba is a drum & bass and jungle artist based in Sweden, tracked on soundcheck, with 33 sets logged across Amsterdam, Austin, Berlin and Boston and 11 more. Often billed alongside rzt, Amit and BCee. Next up: SASS Music Club, Vienna on Sun 6 Sept.
+Seba is a drum & bass and jungle artist based in Sweden, tracked on soundcheck, with 34 sets logged across Amsterdam, Austin, Berlin and Boston and 12 more. Often billed alongside rzt, Amit and BCee. Next up: SASS Music Club, Vienna on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Seba is a drum & bass and jungle artist based in Sweden, tracked on soundcheck, 
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | SASS Music Club | Vienna |
 | Sat, 12 Sept 2026 | Thuishaven | Amsterdam |
+| Sat, 21 Nov 2026 | Volks | Brighton |
 
 ## Recently played
 

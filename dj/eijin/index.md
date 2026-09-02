@@ -1,14 +1,15 @@
 # eijin
 
-eijin is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Saloon, Tokyo on Sat, 5 Sept 2026.
+eijin is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Saloon, Tokyo on Sat, 5 Sept 2026.
 
-eijin is a techno and hip-hop artist based in Japan, tracked on soundcheck, with 51 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, ast midori and Whatman. Next up: Saloon, Tokyo on Sat 5 Sept.
+eijin is a techno and hip-hop artist based in Japan, tracked on soundcheck, with 52 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, ast midori and Whatman. Next up: Saloon, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Saloon | Tokyo |
+| Tue, 8 Sept 2026 | Spread | Tokyo |
 
 ## Recently played
 

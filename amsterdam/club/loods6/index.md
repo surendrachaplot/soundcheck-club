@@ -1,0 +1,13 @@
+# Loods6
+
+Loods6 is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Currents - Configuration #1" on Thu, 22 Oct 2026.
+
+Loods6 is a music venue in Amsterdam listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Thu, 22 Oct 2026 | Currents - Configuration #1 |  |
+
+*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/loods6/)*

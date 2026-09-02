@@ -1,6 +1,6 @@
 # renae: Touch Of Funk b2b Beechy at renae
 
-renae: Touch Of Funk b2b Beechy on Thu 3 Sept, Manchester. 1 act on the bill: Beechy. Preview the line-up and save it on soundcheck.
+renae: Touch Of Funk b2b Beechy on Thu 3 Sept, Manchester. 2 acts on the bill: Beechy and Touch Of Funk. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ renae: Touch Of Funk b2b Beechy on Thu 3 Sept, Manchester. 1 act on the bill: Be
 ## Line-up
 
 - Beechy
+- Touch Of Funk
 
 *Source: [soundcheck](https://soundcheck.club/e/2526038-renae-touch-of-funk-b2b-beechy-at-renae/)*

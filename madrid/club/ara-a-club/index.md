@@ -9,7 +9,7 @@ Araña Club is a music venue in Madrid listed on soundcheck. 2 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | NEOTIKA ESPECIAL ARAÑA - 4 DE SEPT | AMBRA, Babylon Whore, JAWS, Werner |
-| Fri, 18 Sept 2026 | ORGANIC COMMUNITY: OPENING SEASON | DISTORT (ES), NETN, Theia Daja |
+| Fri, 18 Sept 2026 | ORGANIC COMMUNITY: OPENING SEASON (Tickets Fourvenues) | DISTORT (ES), NETN, Theia Daja |
 
 ## Address
 

@@ -9,7 +9,7 @@ Azul Rooftop Barceloneta is a music venue in Barcelona listed on soundcheck. 2 u
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Azul Sessions Rooftop 360° views over Barcelona | D.O.N, Kev Williams, Reezar |
-| Sat, 5 Sept 2026 | OTHERSIDE BY MOONKIZA PRESENTS: ROOFTOP PARTY at Azul Rooftop | Cherman (2), EVES DJ, Leandro Montivero, MøønkiZa |
+| Sat, 5 Sept 2026 | OTHERSIDE BY MOONKIZA PRESENTS: ROOFTOP PARTY (Free Access) at Azul Rooftop | Cherman (2), EVES DJ, Leandro Montivero, MøønkiZa, WINI |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Lisboa, Lisbon on Sat, 5 Sept 2026.
+Mita Gami is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Lisboa, Lisbon on Sat, 5 Sept 2026.
 
-Mita Gami is a house and techno artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: TBA - Lisboa, Lisbon on Sat 5 Sept.
+Mita Gami is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: TBA - Lisboa, Lisbon on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mita Gami is a house and techno artist tracked on soundcheck, with 137 sets logg
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA - Lisboa | Lisbon |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
+| Fri, 11 Sept 2026 | Volt Club Milano | Milan |
 | Sun, 20 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 2 Oct 2026 | Pacha Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |

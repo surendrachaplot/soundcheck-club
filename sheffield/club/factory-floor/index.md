@@ -9,7 +9,7 @@ Factory Floor is a music venue in Sheffield listed on soundcheck. 4 upcoming nig
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Side5tep wt sleepsang - mdj - holon - RField | Holon._, mdj (0815), sleepsang |
-| Thu, 17 Sept 2026 | Elevate x Algorave |  |
+| Thu, 17 Sept 2026 | Elevate x Algorave | sleepsang |
 | Wed, 23 Sept 2026 | Sounds for Sudan X Don't Fret the Sweat |  |
 | Thu, 1 Oct 2026 | Thieves in the Night present: Wax Thief | Wax Thief |
 

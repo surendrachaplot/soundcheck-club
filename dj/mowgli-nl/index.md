@@ -1,13 +1,14 @@
 # Mowgli (NL)
 
-Mowgli (NL) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 2 Oct 2026.
+Mowgli (NL) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at San Francisco, Amsterdam on Fri, 4 Sept 2026.
 
-Mowgli (NL) is a house and disco artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Berlin and Madrid and 5 more. Often billed alongside Eileen (NL), Katie (NL) and Yopo (NL). Next up: SISSI'S Amsterdam, Amsterdam on Fri 2 Oct.
+Mowgli (NL) is a house and disco artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Berlin and Madrid and 5 more. Often billed alongside Eileen (NL), Katie (NL) and Yopo (NL). Next up: San Francisco, Amsterdam on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | San Francisco | Amsterdam |
 | Fri, 2 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 
 ## Recently played

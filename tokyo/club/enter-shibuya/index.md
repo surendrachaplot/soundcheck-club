@@ -1,8 +1,8 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "karuomo vol.15" on Wed, 2 Sept 2026.
+Enter Shibuya is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "karuomo vol.15" on Wed, 2 Sept 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including Albino Sound, ANDY DEDE, cirra and CITY1 and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including Albino Sound, ANDY DEDE, cirra and CITY1 and 2 more. Browse upcoming dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming nights
 | Tue, 8 Sept 2026 | morph. vol.6 | Rickshinmi, imus, uuu7 |
 | Tue, 8 Sept 2026 | morph.Vol.6 | Rickshinmi, imus, uuu7 |
 | Wed, 9 Sept 2026 | FINGERS | Albino Sound, Pine, Romy Mats |
-| Sat, 12 Sept 2026 | The Dreamers EP38 | ANDY DEDE, Louis Shannon, Ren Yokoi |
+| Fri, 11 Sept 2026 | Cue | Shoma fr,dambosound, ecec |
 
 ## Address
 

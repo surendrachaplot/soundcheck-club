@@ -1,6 +1,6 @@
 # VACANZA × Butschi all night long at Distillery
 
-VACANZA × Butschi all night long at Distillery on Sat 19 Sept, Leipzig. 1 act on the bill: Butschi. Techno and House. Preview the line-up and save it on soundcheck.
+VACANZA × Butschi all night long at Distillery on Sat 19 Sept, Leipzig. 2 acts on the bill: Butschi and Krash Cora. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ VACANZA × Butschi all night long at Distillery on Sat 19 Sept, Leipzig. 1 act o
 ## Line-up
 
 - Butschi
+- Krash Cora
 
 *Source: [soundcheck](https://soundcheck.club/e/2524088-vacanza-butschi-all-night-long-at-distillery/)*

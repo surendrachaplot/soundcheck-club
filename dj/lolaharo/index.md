@@ -9,9 +9,9 @@ Lola Haro is a house and techno artist tracked on soundcheck, with 159 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Hotel Butterfly | Rome |
-| Sat, 5 Sept 2026 | Prince Charles | Berlin |
 | Sat, 19 Sept 2026 | TBA | Toronto |
 | Sun, 20 Sept 2026 | TBA | Montreal |
+| Sat, 26 Sept 2026 | Prince Charles | Berlin |
 | Fri, 2 Oct 2026 | FOLD | London |
 | Sat, 3 Oct 2026 | Cobalt Studios | Newcastle |
 | Sat, 17 Oct 2026 | Concept Haus | Manchester |

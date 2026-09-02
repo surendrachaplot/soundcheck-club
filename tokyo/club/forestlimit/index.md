@@ -1,8 +1,8 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 24 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "【Marshall M/A/S/S/A/C/R/E】" on Wed, 2 Sept 2026.
+Forestlimit is a music venue in Tokyo with 25 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "【Marshall M/A/S/S/A/C/R/E】" on Wed, 2 Sept 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming nights, with line-ups including Aki Dolanikov, AME (JP), ANiIIIIiiiKii and Cwondo and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 25 upcoming nights, with line-ups including Aki Dolanikov, AME (JP), ANiIIIIiiiKii and ast midori and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 

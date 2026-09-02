@@ -1,8 +1,8 @@
 # EartH
 
-EartH is a music venue in London with 11 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "JLZ, Vhoor, Mu540, RaMeMes (Weird Baile) - EartH Hackney" on Sat, 5 Sept 2026.
+EartH is a music venue in London with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "JLZ, Vhoor, Mu540, RaMeMes (Weird Baile) - EartH Hackney" on Sat, 5 Sept 2026.
 
-EartH is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Croatian Amor, Decibella, Digitalism and DJ Ron and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
+EartH is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Croatian Amor, Decibella, Digitalism and DJ Ron and 2 more. Browse upcoming dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
 ## What's on
 
@@ -16,8 +16,8 @@ EartH is a music venue in London listed on soundcheck. 11 upcoming nights, with 
 | Sat, 17 Oct 2026 | Takuya Nakamura (Live) | Takuya Nakamura |
 | Sat, 24 Oct 2026 | Parable: Gui Boratto [LIVE] - Early Evening Concert | Gui Boratto |
 | Fri, 30 Oct 2026 | Tessellate x Origins: The Trip, Spray & Scarlett O'Malley | Scarlett O'Malley, Spray, The Trip |
+| Sat, 31 Oct 2026 | HAAi - Open to Close | HAAi |
 | Sat, 14 Nov 2026 | Pola & Bryson Live (World Debut) | Pola & Bryson |
-| Wed, 18 Nov 2026 | EartH presents Gigi Masin | Gigi Masin |
 
 ## Address
 

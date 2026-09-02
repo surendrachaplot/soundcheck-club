@@ -1,8 +1,8 @@
 # Gabrielle (DE)
 
-Gabrielle (DE) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at OXI, Berlin on Fri, 25 Sept 2026.
+Gabrielle (DE) is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at OXI, Berlin on Fri, 25 Sept 2026.
 
-Gabrielle (DE) is a techno and tech house artist tracked on soundcheck, with 55 sets logged across Berlin and Prague. Often billed alongside ATR DJ-TEAM, JOTAno and GLASSBASS. Next up: OXI, Berlin on Fri 25 Sept.
+Gabrielle (DE) is a techno and tech house artist tracked on soundcheck, with 56 sets logged across Berlin and Prague. Often billed alongside ATR DJ-TEAM, JOTAno and GLASSBASS. Next up: OXI, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gabrielle (DE) is a techno and tech house artist tracked on soundcheck, with 55 
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | OXI | Berlin |
 | Wed, 30 Sept 2026 | Sensorium | Berlin |
+| Sat, 10 Oct 2026 | Void Club | Berlin |
 
 ## Recently played
 

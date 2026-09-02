@@ -1,14 +1,15 @@
 # Patrick Serhal
 
-Patrick Serhal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
+Patrick Serhal is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
 
-Patrick Serhal is a techno and house artist based in Lebanon, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Tear of Joy, ZIYING and AOB. Next up: Vittoria Wharf Studio, London on Sat 5 Sept.
+Patrick Serhal is a house and progressive house artist based in Lebanon, tracked on soundcheck, with 12 sets logged across Amsterdam and London. Often billed alongside Ander Race, Auggië and K.eem. Next up: Vittoria Wharf Studio, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Vittoria Wharf Studio | London |
+| Thu, 22 Oct 2026 | Cut Throat | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Patrick Serhal is a techno and house artist based in Lebanon, tracked on soundch
 
 ## Shares bills with
 
-Tear of Joy, ZIYING, AOB
+Ander Race, Auggië, K.eem
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickserhal/)*

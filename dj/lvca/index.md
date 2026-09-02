@@ -1,8 +1,8 @@
 # Lvca
 
-Lvca is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at BAR Inc, Osaka on Wed, 9 Sept 2026.
+Lvca is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at BAR Inc, Osaka on Wed, 9 Sept 2026.
 
-Lvca is a house and electronica artist tracked on soundcheck, with 52 sets logged across Barcelona, London, Mexicocity and Milan and 5 more. Often billed alongside Lovin Duo, Erika Gueli and You Nico. Next up: BAR Inc, Osaka on Wed 9 Sept.
+Lvca is a house and electronica artist tracked on soundcheck, with 53 sets logged across Barcelona, London, Mexicocity and Milan and 5 more. Often billed alongside Lovin Duo, Erika Gueli and Sunrush. Next up: BAR Inc, Osaka on Wed 9 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lvca is a house and electronica artist tracked on soundcheck, with 52 sets logge
 | --- | --- | --- |
 | Wed, 9 Sept 2026 | BAR Inc | Osaka |
 | Fri, 11 Sept 2026 | Mitsuki | Tokyo |
+| Sun, 20 Sept 2026 | Cascina nascosta | Milan |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Lvca is a house and electronica artist tracked on soundcheck, with 52 sets logge
 
 ## Shares bills with
 
-Lovin Duo, Erika Gueli, You Nico
+Lovin Duo, Erika Gueli, Sunrush
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lvca/)*
