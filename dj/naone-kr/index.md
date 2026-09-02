@@ -1,8 +1,8 @@
 # Naone
 
-Naone is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gaffe, London on Sun, 6 Sept 2026.
+Naone is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gaffe, London on Sun, 6 Sept 2026.
 
-Naone is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside Iggy P, mad miran and Doudou MD. Next up: Gaffe, London on Sun 6 Sept.
+Naone is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside Iggy P, mad miran and Doudou MD. Next up: Gaffe, London on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Naone is a techno and house artist tracked on soundcheck, with 178 sets logged a
 | Wed, 16 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 18 Sept 2026 | Signal | New York City |
+| Sat, 26 Sept 2026 | La Cité Fertile | Paris |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Sat, 14 Nov 2026 | public records | New York City |
 | Fri, 20 Nov 2026 | Azimut Club | Turin |

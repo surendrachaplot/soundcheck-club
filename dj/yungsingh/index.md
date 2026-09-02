@@ -1,8 +1,8 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at World Headquarters, Newcastle on Fri, 25 Sept 2026.
+Yung Singh is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at World Headquarters, Newcastle on Fri, 25 Sept 2026.
 
-Yung Singh is a garage and house artist tracked on soundcheck, with 173 sets logged across Amsterdam, Antwerp, Auckland and Austin and 55 more. Often billed alongside Bakey, salute and Overmono. Next up: World Headquarters, Newcastle on Fri 25 Sept.
+Yung Singh is a garage and house artist tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Auckland and Austin and 55 more. Often billed alongside Bakey, Overmono and salute. Next up: World Headquarters, Newcastle on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Yung Singh is a garage and house artist tracked on soundcheck, with 173 sets log
 | Fri, 30 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 31 Oct 2026 | Gaswrx Birmingham | London |
 | Fri, 13 Nov 2026 | Quarters | Brighton |
+| Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Sat, 28 Nov 2026 | Stinsen | Stockholm |
 
 ## Recently played
@@ -31,6 +32,6 @@ Yung Singh is a garage and house artist tracked on soundcheck, with 173 sets log
 
 ## Shares bills with
 
-Bakey, salute, Overmono
+Bakey, Overmono, salute
 
 *Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

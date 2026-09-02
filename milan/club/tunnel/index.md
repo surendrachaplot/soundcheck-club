@@ -10,7 +10,7 @@ Tunnel is a music venue in Milan listed on soundcheck. 3 upcoming nights, with l
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | UNDERPASS THE OPENING - Archie Hamilton | Archie Hamilton, Proudly People, WHITE OFF |
 | Fri, 18 Sept 2026 | UNDERPASS - Gaskin | CLELIA, Gaskin, RECAP, ZOIG |
-| Thu, 24 Sept 2026 | DELIRIO - Samm | Samm |
+| Thu, 24 Sept 2026 | DELIRIO - Samm - MFW | Samm, Still.i |
 
 ## Address
 

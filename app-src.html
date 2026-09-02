@@ -3174,6 +3174,9 @@
     .pfh-bio.editable{ cursor:text; }
     .pfh-bio.editable:hover{ color:var(--fg); }
     .pfh-bio.empty{ color:var(--faint); }
+    .pfh-bio .ed{ display:inline-flex; margin-left:7px; vertical-align:-2px; color:var(--faint); transition:color var(--dur-1); }
+    .pfh-bio .ed svg{ width:13px; height:13px; }
+    .pfh-bio.editable:hover .ed{ color:var(--accent); }
     .pfh-bio-in{ margin:8px 0 0; width:100%; max-width:46ch; display:block;
       font:500 var(--fs-base)/1.45 var(--body); color:var(--fg);
       background:none; border:0; border-bottom:1px solid var(--accent); border-radius:0;
@@ -3312,6 +3315,12 @@
        the thumbnail instead does nothing: 100% of a box that is already narrow. */
     .fp-sk{ display:flex; flex-direction:column; width:100%; text-align:left; background:none; border:0; padding:0; cursor:pointer; color:var(--fg); min-width:0; }
     .fp-sk-th{ position:relative; width:100%; aspect-ratio:16/9; border-radius:var(--radius-md); background-size:cover; background-position:center; background-color:var(--surface-3); overflow:hidden; }
+    /* Same generated poster as the dock and the event cards, sized for this tile.
+       .poster .gen is scoped to .poster, so the set tile needs its own line. */
+    .fp-sk-th .gen{ position:absolute; inset:0; display:flex; align-items:flex-end; padding:9px;
+      background:linear-gradient(var(--ang,150deg), var(--g1,var(--accent)), var(--g2,#1b1b20)); }
+    .fp-sk-th .gen .gt{ font:800 var(--fs-xs)/1.15 var(--head); color:rgba(255,255,255,.92);
+      display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
     .fp-sk-dur{ position:absolute; left:6px; bottom:6px; font:700 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); background:rgba(22,16,42,.82); color:var(--fg); border-radius:var(--radius-2xs); padding:2px 6px; }
     .fp-sk-pl{ position:absolute; right:6px; bottom:6px; width:34px; height:34px; border-radius:50%; background:var(--accent-grad); color:var(--accent-ink); display:flex; align-items:center; justify-content:center; font-size:var(--fs-sm); border:1.5px solid #16102a; }
     .fp-sk-ti{ font:700 var(--fs-base)/var(--lh-base) var(--head); letter-spacing:-0.01em; line-height:1.2; margin-top:9px; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
@@ -4294,7 +4303,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788347182023">
+<meta name="sc-build" content="1788358091312">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4353,7 +4362,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">6 events</span></a></li><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">104 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">130 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">6 events</span></a></li><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">105 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">134 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5407,6 +5416,30 @@
         var r2=await fetch(API_BASE+'/api/nts/sets?slug='+encodeURIComponent(entry.slug)+'&name='+encodeURIComponent(entry.name||entry.slug)+'&v='+YT_SETS_V);
         var nt=((await r2.json())||{}).sets||[];
         if(nt.length && nt[0].audio) return playScUrl(nt[0].audio, nt[0].title, nt[0].image, 'NTS Radio', entry);
+      }catch(_){}
+      // MixesDB — the fourth source the Sets tab reads, and the third this
+      // button never asked. Rows carry a host; only the SoundCloud-hosted ones
+      // are playable in the dock.
+      try{
+        var r3=await fetch(API_BASE+'/api/mixesdb/sets?slug='+encodeURIComponent(entry.slug)+'&name='+encodeURIComponent(entry.name||entry.slug)+'&v='+YT_SETS_V);
+        var md=(((await r3.json())||{}).sets||[]).filter(function(s){ return s && s.host==='soundcloud' && s.url; });
+        if(md.length) return playScUrl(md[0].url, md[0].page_title, null, 'SoundCloud', entry);
+      }catch(_){}
+      // LAST, AND THE ONE THAT WAS MISSING. /api/youtube/cached — the only thing
+      // an event page asks — reads the DB and never resolves. So an artist nobody
+      // has opened yet comes back empty here while their OWN page, which calls
+      // the resolver, lists sets fine. That is the whole of the "no set ready for
+      // this artist" bug: the line-up button and the artist page were asking two
+      // different questions. Kept last because a resolve costs 100 YouTube quota
+      // units; SoundCloud, NTS and MixesDB are free, and once this runs the
+      // answer is cached for everyone after.
+      try{
+        var r4=await fetch(API_BASE+'/api/youtube/sets?slug='+encodeURIComponent(entry.slug)+'&name='+encodeURIComponent(entry.name||entry.slug)+'&v='+YT_SETS_V);
+        var yt=(((await r4.json())||{}).sets||[]);
+        if(yt.length && yt[0].videoId){
+          playYtList([{ slug:entry.slug, name:entry.name||entry.slug, videoId:yt[0].videoId }], 0);
+          return true;
+        }
       }catch(_){}
       return false;
     }
@@ -8424,9 +8457,12 @@
             // ONE LINE, IN THEIR OWN WORDS. Two states and nothing else: the line
             // when it is written, and — on your own profile only — the prompt to
             // write it. Somebody else's empty bio is not a hole to advertise.
+            // The pencil is the one the Log buttons already use — same icon for
+            // "you can change this" everywhere. Only on your own profile: on
+            // anyone else's it would be a control you cannot press.
             (p.bio
-              ? '<p class="pfh-bio'+(isMe?' editable':'')+'"'+(isMe?' id="pfh-bio" role="button" tabindex="0"':'')+'>'+esc(p.bio)+'</p>'
-              : (isMe ? '<p class="pfh-bio editable empty" id="pfh-bio" role="button" tabindex="0">Describe your music taste</p>' : ''))+
+              ? '<p class="pfh-bio'+(isMe?' editable':'')+'"'+(isMe?' id="pfh-bio" role="button" tabindex="0" aria-label="Edit your bio"':'')+'>'+esc(p.bio)+(isMe?'<span class="ed">'+logSvg+'</span>':'')+'</p>'
+              : (isMe ? '<p class="pfh-bio editable empty" id="pfh-bio" role="button" tabindex="0" aria-label="Describe your music taste">Describe your music taste<span class="ed">'+logSvg+'</span></p>' : ''))+
           '</div>'+
           '<div class="pfh-acts">'+acts+'</div></div>'+
         // each ribbon cell jumps to its tab (and inner segment) below
@@ -8566,7 +8602,11 @@
       if(bioEl && p.isMe){
         var editing=false;
         function paintBio(v){
+          // Text as a text node, icon as markup — never innerHTML for the bio
+          // itself, which is the one string on this page the user types.
           bioEl.textContent = v || 'Describe your music taste';
+          var ic=document.createElement('span'); ic.className='ed'; ic.innerHTML=logSvg;
+          bioEl.appendChild(ic);
           bioEl.classList.toggle('empty', !v);
         }
         function editBio(){
@@ -9709,9 +9749,14 @@
               var k=MC_KIND[s.host]; if(!k) return;      // a host we cannot play
               items.push({
                 kind:k, title:s.page_title||'Set', src:MC_SRC[s.host], badge:MC_BADGE[s.host],
+                // The thumbnail for a YouTube-hosted mix is a string we can build
+                // from its id — no request, no stored column. The rest fall back
+                // to the generated poster below rather than an empty tile.
                 thumb:'', dur:s.duration_sec, url:s.host==='youtube'?null:s.url,
                 videoId:s.host==='youtube'?(/[?&]v=([\w-]+)/.exec(s.url)||/youtu\.be\/([\w-]+)/.exec(s.url)||[])[1]:null,
                 page:s.page, tracks:s.n_tracks, partial:s.tracks_partial });
+              var last=items[items.length-1];
+              if(last.videoId) last.thumb='https://i.ytimg.com/vi/'+encodeURIComponent(last.videoId)+'/mqdefault.jpg';
             });
             // YouTube first — it is the primary source and usually the fullest.
             ((yj.sets)||[]).forEach(function(s){ items.push({
@@ -9771,7 +9816,11 @@
               // "Mixmag \u00b7 YT" — the set's name, then where it came from.
               var sub=esc(it.src)+' \u00b7 '+it.badge;
               return '<div class="fp-skw"><button class="fp-sk" type="button" data-i="'+i+'">'+
+                // A set with no artwork gets the generated poster, the same one
+                // the dock and every event card use. An empty grey box reads as
+                // a page that failed to load; a coloured one reads as a set.
                 '<span class="fp-sk-th"'+(it.thumb?' style="background-image:url(\''+esc(it.thumb)+'\')"':'')+'>'+
+                (it.thumb?'':genPoster(it.title||'Set'))+
                 (d?'<span class="fp-sk-dur">'+esc(d)+'</span>':'')+'<span class="fp-sk-pl">'+PLAY_SVG+'</span></span>'+
                 '<span class="fp-sk-ti">'+esc(it.title)+'</span><span class="fp-sk-ch">'+sub+'</span></button>'+
                 (it.kind==='yt'?'<div class="fp-sk-acts"><button class="fp-sk-act" type="button" data-shq="'+i+'">+ Queue</button><button class="fp-sk-act" type="button" data-shl="'+i+'">Listened</button></div>':'')+

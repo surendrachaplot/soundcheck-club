@@ -1,8 +1,8 @@
 # Overmono
 
-Overmono is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Public Works, San Francisco/Oakland on Sat, 5 Sept 2026.
+Overmono is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Public Works, San Francisco/Oakland on Sat, 5 Sept 2026.
 
-Overmono is a techno and house artist tracked on soundcheck, with 100 sets logged across Aberdeen, Amsterdam, Athens and Austin and 44 more. Often billed alongside DJ Heartstring, Interplanetary Criminal and Joy Orbison. Next up: Public Works, Sanfrancisco on Sat 5 Sept.
+Overmono is a techno and house artist tracked on soundcheck, with 101 sets logged across Aberdeen, Amsterdam, Athens and Austin and 44 more. Often billed alongside DJ Heartstring, Interplanetary Criminal and Joy Orbison. Next up: Public Works, Sanfrancisco on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Overmono is a techno and house artist tracked on soundcheck, with 100 sets logge
 | Sat, 10 Oct 2026 | History | Toronto |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Thu, 12 Nov 2026 | Uber Eats Music Hall | Berlin |
+| Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Sat, 28 Nov 2026 | Stinsen | Stockholm |
 
 ## Recently played

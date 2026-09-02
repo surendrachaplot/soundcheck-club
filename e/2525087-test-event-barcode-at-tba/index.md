@@ -1,10 +1,10 @@
 # Test Event - Barcode at TBA
 
-Test Event - Barcode at TBA on Wed 2 Sept, Berlin. Preview the line-up and save it on soundcheck.
+Test Event - Barcode at TBA on Thu 3 Sept, Berlin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 2 Sept 2026 |
+| Date | Thu, 3 Sept 2026 |
 | Venue | TBA |
 | City | Berlin |
 

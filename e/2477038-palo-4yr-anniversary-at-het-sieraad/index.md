@@ -1,6 +1,6 @@
 # Ópalo - 4YR Anniversary at Het Sieraad
 
-Ópalo - 4YR Anniversary at Het Sieraad on Sat 5 Sept, Amsterdam. 2 acts on the bill: LevyM and Romy Janssen. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Ópalo - 4YR Anniversary at Het Sieraad on Sat 5 Sept, Amsterdam. 2 acts on the bill: LevyM and Romy Janssen. House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
