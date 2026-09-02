@@ -3167,6 +3167,18 @@
     .pfh-av{ width:72px; height:72px; border-radius:50%; background-size:cover; background-position:center; flex:0 0 auto; }
     .pfh-id{ flex:1; min-width:0; }
     .pfh-name{ font-family:var(--head); font-weight:800; font-size:var(--fs-2xl); letter-spacing:-.02em; margin:0 0 3px; }
+    /* The bio: one line under the @handle, and the same line when you are
+       editing it. The input inherits the paragraph's type so the text does not
+       jump size or position the moment it becomes editable. */
+    .pfh-bio{ margin:8px 0 0; max-width:46ch; font:500 var(--fs-base)/1.45 var(--body); color:var(--muted); }
+    .pfh-bio.editable{ cursor:text; }
+    .pfh-bio.editable:hover{ color:var(--fg); }
+    .pfh-bio.empty{ color:var(--faint); }
+    .pfh-bio-in{ margin:8px 0 0; width:100%; max-width:46ch; display:block;
+      font:500 var(--fs-base)/1.45 var(--body); color:var(--fg);
+      background:none; border:0; border-bottom:1px solid var(--accent); border-radius:0;
+      padding:0 0 3px; outline:none; }
+    .pfh-bio-in::placeholder{ color:var(--faint); }
     .pfh-sub{ color:var(--muted); font-size:var(--fs-sm); }
     .pfh-acts{ display:flex; gap:9px; flex:0 0 auto; }
     .pfh-ribbon{ display:grid; grid-template-columns:repeat(5,1fr); margin-top:18px; border:1px solid var(--border); border-radius:var(--radius-md); overflow:hidden; background:var(--surface); }
@@ -4282,7 +4294,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788283532159">
+<meta name="sc-build" content="1788347182023">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4341,7 +4353,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">104 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">130 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">23 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">6 events</span></a></li><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">104 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">130 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -8408,7 +8420,14 @@
         : '';
       var hero='<div class="pfh pfh-poster">'+wall+'<div class="pfh-in">'+
         '<div class="pfh-top"><span class="pfh-av" style="background-image:'+avatarBg(p.handle,p.avatar)+'"></span>'+
-          '<div class="pfh-id"><h1 class="pfh-name">'+esc(p.displayName||('u/'+p.handle))+'</h1><div class="pfh-sub">'+sub+'</div></div>'+
+          '<div class="pfh-id"><h1 class="pfh-name">'+esc(p.displayName||('u/'+p.handle))+'</h1><div class="pfh-sub">'+sub+'</div>'+
+            // ONE LINE, IN THEIR OWN WORDS. Two states and nothing else: the line
+            // when it is written, and — on your own profile only — the prompt to
+            // write it. Somebody else's empty bio is not a hole to advertise.
+            (p.bio
+              ? '<p class="pfh-bio'+(isMe?' editable':'')+'"'+(isMe?' id="pfh-bio" role="button" tabindex="0"':'')+'>'+esc(p.bio)+'</p>'
+              : (isMe ? '<p class="pfh-bio editable empty" id="pfh-bio" role="button" tabindex="0">Describe your music taste</p>' : ''))+
+          '</div>'+
           '<div class="pfh-acts">'+acts+'</div></div>'+
         // each ribbon cell jumps to its tab (and inner segment) below
         '<div class="pfh-ribbon">'+
@@ -8540,9 +8559,50 @@
         else if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText(url).then(function(){ showToast('Playlist link copied'); }).catch(function(){ showToast(url); }); }
         else showToast(url);
       });
+      // EDIT WHERE IT SITS. A modal to change one sentence is a whole screen of
+      // ceremony for a text field — you tap the line, it becomes the line you are
+      // typing, and it is still in the same place on the page when you are done.
+      var bioEl=document.getElementById('pfh-bio');
+      if(bioEl && p.isMe){
+        var editing=false;
+        function paintBio(v){
+          bioEl.textContent = v || 'Describe your music taste';
+          bioEl.classList.toggle('empty', !v);
+        }
+        function editBio(){
+          if(editing) return; editing=true;
+          var before=p.bio||'';
+          var inp=document.createElement('input');
+          inp.type='text'; inp.className='pfh-bio-in'; inp.maxLength=80;
+          inp.placeholder='Describe your music taste'; inp.value=before;
+          bioEl.replaceWith(inp); inp.focus(); inp.setSelectionRange(before.length, before.length);
+          var closed=false;
+          function finish(save){
+            if(closed) return; closed=true; editing=false;
+            var v = save ? inp.value.replace(/\s+/g,' ').trim().slice(0,80) : before;
+            inp.replaceWith(bioEl);
+            paintBio(v);
+            if(!save || v===before) return;
+            p.bio=v;
+            // Optimistic: the line is already showing what they typed. A failure
+            // puts the old one back rather than leaving a lie on the page.
+            authedFetch('/api/prefs',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ bio:v }) })
+              .then(function(r){ if(!r.ok) throw 0; })
+              .catch(function(){ p.bio=before; paintBio(before); showToast('Couldn\u2019t save that'); });
+          }
+          inp.addEventListener('keydown',function(e){
+            if(e.key==='Enter'){ e.preventDefault(); finish(true); }
+            else if(e.key==='Escape'){ e.preventDefault(); finish(false); }
+          });
+          inp.addEventListener('blur',function(){ finish(true); });
+        }
+        bioEl.addEventListener('click',editBio);
+        bioEl.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); editBio(); } });
+      }
       var ed=document.getElementById('pb-edit'); if(ed) ed.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
         { label:'Turn on night alerts', run:function(){ enablePush(); } },
         { label:'Change handle', run:function(){ openHandleModal(true); } },
+        { label:'Describe your music taste', run:function(){ if(bioEl) bioEl.click(); } },
         { label:'Change home city', run:function(){ openCityModal(true); } },
         { label:'Hide my profile from search engines', run:function(){
             authedFetch('/api/prefs',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ hideFromSearch:true }) })

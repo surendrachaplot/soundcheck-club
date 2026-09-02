@@ -1,14 +1,13 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 29 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "PeeWee" on Tue, 1 Sept 2026.
+E11EVEN MIAMI is a music venue in Miami with 28 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "LDW ft Roxy Ferrari" on Wed, 2 Sept 2026.
 
-E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 29 upcoming nights, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
+E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 28 upcoming nights, with line-ups including Afrojack. Browse upcoming dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Tue, 1 Sept 2026 | PeeWee |  |
 | Wed, 2 Sept 2026 | LDW ft Roxy Ferrari |  |
 | Thu, 3 Sept 2026 | LDW ft K Gianni |  |
 | Fri, 4 Sept 2026 | LDW ft Rick Ross |  |
@@ -18,6 +17,7 @@ E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 29 upcoming nights
 | Tue, 8 Sept 2026 | Renn Mateos |  |
 | Thu, 10 Sept 2026 | CX |  |
 | Fri, 11 Sept 2026 | Shift |  |
+| Sat, 12 Sept 2026 | Borgeous |  |
 
 ## Address
 

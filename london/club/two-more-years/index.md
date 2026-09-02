@@ -2,14 +2,14 @@
 
 Two More Years is a music venue in London with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Bliss Out and Friends" on Sat, 5 Sept 2026.
 
-Two More Years is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
+Two More Years is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Hannah Wills, Jahmed, Oh See and SILLYRO. Browse upcoming dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Bliss Out and Friends |  |
-| Sat, 12 Sept 2026 | Flat Earth Disco - Summer Nights (House & Disco by The Canal) |  |
+| Sat, 12 Sept 2026 | Flat Earth Disco - House & Disco by the Canal - Free Entry | Hannah Wills, Jahmed, Oh See, SILLYRO |
 
 ## Address
 

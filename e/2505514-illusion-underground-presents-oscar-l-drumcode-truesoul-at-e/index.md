@@ -1,6 +1,6 @@
 # Illusion_Underground presents Oscar L [Drumcode / Truesoul] at Egg London
 
-Illusion_Underground presents Oscar L [Drumcode / Truesoul] at Egg London on Fri 4 Sept, London. 4 acts on the bill: ANMLxPRTY, DREIAN, Oscar L and Shane Fernandes. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Illusion_Underground presents Oscar L [Drumcode / Truesoul] at Egg London on Fri 4 Sept, London. 4 acts on the bill: ANMLxPRTY, DREIAN, Oscar L and Shane Fernandes. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

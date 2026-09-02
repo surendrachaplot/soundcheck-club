@@ -11,7 +11,7 @@ Colour Factory is a music venue in London listed on soundcheck. 25 upcoming nigh
 | Fri, 4 Sept 2026 | Brown Excellence - 5th Birthday  | Brown Excellence |
 | Sat, 5 Sept 2026 | Jazz on Wick 2026 Afters | Baalti, Ikonika, Serenda, Sticky Dub, THEMPRESS |
 | Fri, 11 Sept 2026 | Ruggz & Friends w/ Nancy June, Pent1 & Coza | El-B, Nancy June, Ruggz |
-| Fri, 11 Sept 2026 | 2-Step Verification - FREE RAVE - SP:MC (Garage Set) / Mike 'Ruffcut' Lloyd  | Bubski, Lily London, Ruggz, SP:MC |
+| Fri, 11 Sept 2026 | 2-Step Verification - SP:MC (Garage Set) / Mike 'Ruffcut' Lloyd  | Bubski, Lily London, Ruggz, SP:MC |
 | Sat, 12 Sept 2026 | HOWL RAVE | AANO, Danny Roach, Daskaran, Desiree', Fucknormal, Kasra V, Riva, Slinky Kinky |
 | Sat, 19 Sept 2026 | Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft | Andrea Giudice, Larry Cadge, Mono Dust_, Rick Sanders |
 | Sat, 19 Sept 2026 | Manga St Hillare presents IN THE DANCE | Amber Rose, Capo Lee, Freeza Chin, Kruz Leone, Logan_olm, Manga Saint Hilare, N3 (UA), Sahib |

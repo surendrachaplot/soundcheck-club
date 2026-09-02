@@ -9,7 +9,7 @@ Hall is a music venue in Tallinn listed on soundcheck. 4 upcoming nights, with l
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | KONTRAST: Mija (Never B Alone / Hot Meal Records) | Mija, QSLAP, Unknown Horizon |
-| Sat, 5 Sept 2026 | Scorched Earth: Skee Mask | Skee Mask, Tanel Mütt, animaTek (2), no-a |
+| Sat, 5 Sept 2026 | Scorched Earth: Skee Mask | Skee Mask, Tanel Mütt, Type1, animaTek (2), no-a |
 | Fri, 11 Sept 2026 | HELLINN - CROSS BORDER EDITION | ANNDRA, Discolisko, In Furcht, Jori Samarin, Lee Wander, MEDINA, NØSARA, QSLAP, RSKS, Sensory Deprivation, Techno Hate Project |
 | Sat, 17 Oct 2026 | NEXT LEVEL 17.10 // Hall - MESILA // TECHNO, DNB | Lauri Villau, RENGO |
 

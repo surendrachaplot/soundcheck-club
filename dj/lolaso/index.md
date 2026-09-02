@@ -1,13 +1,14 @@
 # Lola So
 
-Lola So is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Village Underground, London on Fri, 9 Oct 2026.
+Lola So is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 77, London on Sat, 5 Sept 2026.
 
-Lola So is a house and techno artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Edinburgh and London. Often billed alongside IZZY (UK), Armând and ISHA. Next up: Village Underground, London on Fri 9 Oct.
+Lola So is a house and techno artist tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Edinburgh and London. Often billed alongside IZZY (UK), Armând and ISHA. Next up: 77, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | 77 | London |
 | Fri, 9 Oct 2026 | Village Underground | London |
 
 ## Recently played

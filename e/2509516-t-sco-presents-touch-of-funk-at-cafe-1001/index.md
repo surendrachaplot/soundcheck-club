@@ -1,6 +1,6 @@
 # T!SCO presents: Touch Of Funk at Cafe 1001
 
-T!SCO presents: Touch Of Funk at Cafe 1001 on Mon 14 Sept, London. 1 act on the bill: T!SCO. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+T!SCO presents: Touch Of Funk at Cafe 1001 on Mon 14 Sept, London. 2 acts on the bill: T!SCO and Touch Of Funk. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ T!SCO presents: Touch Of Funk at Cafe 1001 on Mon 14 Sept, London. 1 act on the 
 ## Line-up
 
 - T!SCO
+- Touch Of Funk
 
 *Source: [soundcheck](https://soundcheck.club/e/2509516-t-sco-presents-touch-of-funk-at-cafe-1001/)*

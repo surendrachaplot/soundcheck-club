@@ -1,6 +1,6 @@
 # KOKO Electronic: Sébastien Léger & Roy Rosenfeld at KOKO
 
-KOKO Electronic: Sébastien Léger & Roy Rosenfeld on Sat 5 Sept, London. 2 acts on the bill: Roy Rosenfeld and Sebastien Leger. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Sébastien Léger & Roy Rosenfeld on Sat 5 Sept, London. 5 acts on the bill: Asch Pintura, Baron, Dorian Craft and Roy Rosenfeld and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ KOKO Electronic: Sébastien Léger & Roy Rosenfeld on Sat 5 Sept, London. 2 acts
 
 ## Line-up
 
+- Asch Pintura
+- Baron
+- Dorian Craft
 - Roy Rosenfeld
 - Sebastien Leger
 

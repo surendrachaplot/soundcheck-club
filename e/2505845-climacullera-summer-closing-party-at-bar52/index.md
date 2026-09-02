@@ -1,6 +1,6 @@
 # CLIMACULLERA SUMMER CLOSING PARTY at Bar52
 
-CLIMACULLERA SUMMER CLOSING PARTY at Bar52 on Sat 5 Sept, London. House and Garage. Preview the line-up and save it on soundcheck.
+CLIMACULLERA SUMMER CLOSING PARTY at Bar52 on Sat 5 Sept, London. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

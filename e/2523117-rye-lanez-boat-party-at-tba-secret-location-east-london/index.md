@@ -1,6 +1,6 @@
 # RYE LANEZ BOAT PARTY at TBA - Secret Location East London
 
-RYE LANEZ BOAT PARTY at TBA - Secret Location East London on Fri 25 Sept, London. Electro and Ghetto Tech. Preview the line-up and save it on soundcheck.
+RYE LANEZ BOAT PARTY at TBA - Secret Location East London on Fri 25 Sept, London. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

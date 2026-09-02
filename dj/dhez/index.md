@@ -1,8 +1,8 @@
 # Dhez
 
-Dhez is a Techno and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Club, Vauxhall, London on Thu, 3 Sept 2026.
+Dhez is a Techno and Tech House artist with 10 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Club, Vauxhall, London on Thu, 3 Sept 2026.
 
-Dhez is a techno and tech house artist tracked on soundcheck, with 75 sets logged across London. Often billed alongside Thomas Galbardi, Duwat? and Simone Sim. Next up: Union Club, Vauxhall, London on Thu 3 Sept.
+Dhez is a techno and tech house artist tracked on soundcheck, with 76 sets logged across London. Often billed alongside Thomas Galbardi, Duwat? and Simone Sim. Next up: Union Club, Vauxhall, London on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dhez is a techno and tech house artist tracked on soundcheck, with 75 sets logge
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Union Club, Vauxhall | London |
 | Thu, 10 Sept 2026 | Union Club, Vauxhall | London |
+| Sun, 13 Sept 2026 | Union Club, Vauxhall | London |
 | Thu, 17 Sept 2026 | Union Club, Vauxhall | London |
 | Thu, 24 Sept 2026 | Union Club, Vauxhall | London |
 | Thu, 1 Oct 2026 | Union Club, Vauxhall | London |

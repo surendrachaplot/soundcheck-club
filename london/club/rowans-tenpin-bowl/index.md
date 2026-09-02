@@ -9,7 +9,7 @@ Rowans Tenpin Bowl is a music venue in London listed on soundcheck. 2 upcoming n
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Fridays at Rowans - UPSTAIRS TO THE UNDERGROUND |  |
-| Thu, 17 Sept 2026 | FISH56 OCTAGON - ROWANS × MADRI EXCEPTIONAL × NOISE PRESENTS | Fish56Octagon, Gem Precious, Positive_Con, Sharpson, tasha.mp4 |
+| Thu, 17 Sept 2026 | Fish56 Free indoor London Pop Up  | Fish56Octagon, Gem Precious, Positive_Con, Sharpson, tasha.mp4 |
 
 ## Address
 

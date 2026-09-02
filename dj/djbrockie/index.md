@@ -1,14 +1,15 @@
 # DJ Brockie
 
-DJ Brockie is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hidden, Manchester on Sat, 26 Sept 2026.
+DJ Brockie is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hidden, Manchester on Sat, 26 Sept 2026.
 
-DJ Brockie is a drum & bass and jungle artist tracked on soundcheck, with 65 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside MC Det, The Ragga Twins and Nicky Blackmarket. Next up: Hidden, Manchester on Sat 26 Sept.
+DJ Brockie is a jungle and drum & bass artist tracked on soundcheck, with 66 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 4 more. Often billed alongside MC Det, The Ragga Twins and Nicky Blackmarket. Next up: Hidden, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Hidden | Manchester |
+| Sat, 26 Sept 2026 | LDN East | London |
 | Sat, 3 Oct 2026 | NOWHERE | Manchester |
 
 ## Recently played

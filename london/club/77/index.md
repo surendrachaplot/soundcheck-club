@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | FullHouse: Saint Lukez | FLORA THA EXPLORA, Guy Williams, Saint Lukez |
-| Sat, 5 Sept 2026 | 77: Darius Syrossian | Darius Syrossian |
+| Sat, 5 Sept 2026 | 77: Darius Syrossian | Darius Syrossian, Lola So |
 | Fri, 11 Sept 2026 | FullHouse Closing Party: Viot | Viot |
 | Sat, 12 Sept 2026 | 77: Zakes Bantwini | Zakes Bantwini |
 | Thu, 17 Sept 2026 | No Permission x MAX&Co. — London Fashion Week Edition | REMIXIA, Wolfram |

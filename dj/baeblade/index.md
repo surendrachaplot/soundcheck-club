@@ -1,14 +1,15 @@
 # Bae Blade
 
-Bae Blade is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Place Jean Rey, Brussels on Sat, 12 Sept 2026.
+Bae Blade is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Place Jean Rey, Brussels on Sat, 12 Sept 2026.
 
-Bae Blade is a techno and trance artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Janis Zielinski, Cleopard2000 and Juicy Romance. Next up: Place Jean Rey, Brussels on Sat 12 Sept.
+Bae Blade is a techno and trance artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Janis Zielinski, Cleopard2000 and Juicy Romance. Next up: Place Jean Rey, Brussels on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Place Jean Rey | Brussels |
+| Fri, 18 Sept 2026 | fabric | London |
 | Sat, 24 Oct 2026 | ÆDEN | Berlin |
 | Sat, 7 Nov 2026 | KALT | Strasbourg |
 
