@@ -1,8 +1,8 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Lens (2) is a Drum & Bass and Dubstep artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Lens (2) is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Bristol, Cologne and London and 7 more. Often billed alongside Mozey, Culture Shock and Dimension. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Lens (2) is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Barcelona, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Mozey, Culture Shock and Dimension. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,11 @@ Lens (2) is a drum & bass and techno artist based in United Kingdom, tracked on 
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sun, 11 Oct 2026 | Holocene | Portland |
+| Sat, 17 Oct 2026 | Lost Horizon | Bristol |
+| Fri, 23 Oct 2026 | NUMBER 90 LONDON | London |
+| Fri, 13 Nov 2026 | XOYO Birmingham | Birmingham |
+| Sat, 14 Nov 2026 | Hidden | Manchester |
+| Sat, 28 Nov 2026 | Patterns | Brighton |
 
 ## Recently played
 

@@ -13,7 +13,7 @@ Odonien is a music venue in Cologne listed on soundcheck. 18 upcoming nights, wi
 | Sat, 5 Sept 2026 | Der Dritte Raum - LIVE (TREIBSTOFF KLUB & WIR SCHWESTERN) Odonien | ANNA, Der Dritte Raum, EPHIE, Elisen, Eszter, ISABELL (1), Leolo Lozone, Pfeiffer |
 | Sat, 5 Sept 2026 | Der Dritte Raum - LIVE (TREIBSTOFF KLUB & WIR SCHWESTERN) Odonien | ANNA, Der Dritte Raum, EPHIE, Elisen, Eszter, ISABELL (1), Leolo Lozone, Pfeiffer |
 | Wed, 9 Sept 2026 | #MITTWOCHENENDE in Odonien |  |
-| Fri, 11 Sept 2026 | Kollektiv Turmstrasse in Odonien | Bergen |
+| Fri, 11 Sept 2026 | Frankey & Sandrino in Odonien | Bergen, Frankey & Sandrino |
 | Sat, 12 Sept 2026 | Summer Closing with FJAAK | FJAAK |
 | Wed, 16 Sept 2026 | #MITTWOCHENENDE in Odonien |  |
 | Sat, 19 Sept 2026 | Bosburcht Festival x Odonien Records | ELIF, Fab Massimo, Mimi Love, Mor Elian, Partok |

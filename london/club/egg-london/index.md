@@ -12,7 +12,7 @@ Egg London is a music venue in London listed on soundcheck. 43 upcoming nights, 
 | Fri, 4 Sept 2026 | Artist Spotlight: Pres: JayZ30 After Party |  |
 | Fri, 4 Sept 2026 | Egg LDN Pres: SUBVRS - Tech House, Deep Tech & Deep House |  |
 | Fri, 4 Sept 2026 | JAY Z CONCERT AFTER PARTY - LONDON 2026 |  |
-| Sat, 5 Sept 2026 | Los De Casa end of summer rooftop day party | Josh Torlot, KEMADA |
+| Sat, 5 Sept 2026 | Los De Casa end of summer rooftop day party | Josh Torlot, KEMADA, KUTCH |
 | Sat, 5 Sept 2026 | Beehive Ldn presents: Nyash Tribal, Afro, ama & Deep House | Beezo, DRIA, Mark Radford, Ricky Sahota, Shenin Amara, Supa D |
 | Sat, 5 Sept 2026 | Jonanthan |  |
 | Sun, 6 Sept 2026 | L'Italia S'È Festa - Summer Escape Rooftop Edition Vol. 5 | Clefheart |

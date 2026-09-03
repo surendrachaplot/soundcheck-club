@@ -1,8 +1,8 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Fridays at 77: Ayebatonye, Shuko" on Fri, 4 Sept 2026.
+Club 77 is a music venue in Sydney with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Fridays at 77: Ayebatonye, Shuko" on Fri, 4 Sept 2026.
 
-Club 77 is a music venue in Sydney listed on soundcheck. 13 upcoming nights, with line-ups including Ayebatonye, Ciara, Deepchild and Disruptive Pattern Material and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
+Club 77 is a music venue in Sydney listed on soundcheck. 14 upcoming nights, with line-ups including Ayebatonye, Ciara, Deepchild and Disruptive Pattern Material and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
 ## What's on
 

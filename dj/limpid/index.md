@@ -2,7 +2,7 @@
 
 Limpid is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
 
-Limpid is a techno and tech house artist tracked on soundcheck, with 6 sets logged across Hamburg. Often billed alongside Cornyjava, EXPLICIT and F!NN. Next up: Fabrique im Gängeviertel, Hamburg on Fri 2 Oct.
+Limpid is a techno and tech house artist tracked on soundcheck, with 6 sets logged across Hamburg. Often billed alongside Cornyjava, F!NN and EXPLICIT. Next up: Fabrique im Gängeviertel, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Limpid is a techno and tech house artist tracked on soundcheck, with 6 sets logg
 
 ## Shares bills with
 
-Cornyjava, EXPLICIT, F!NN
+Cornyjava, F!NN, EXPLICIT
 
 *Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/limpid/)*

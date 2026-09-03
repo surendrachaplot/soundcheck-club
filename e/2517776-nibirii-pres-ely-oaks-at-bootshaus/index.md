@@ -1,6 +1,6 @@
 # NIBIRII pres. Ely Oaks at Bootshaus
 
-NIBIRII pres. Ely Oaks at Bootshaus on Fri 2 Oct, Cologne. 11 acts on the bill: 2HOT2PLAY, 333CXT, ADEMES and Bouncy Bitch and 7 more. Techno. Preview the line-up and save it on soundcheck.
+NIBIRII pres. Ely Oaks at Bootshaus on Fri 2 Oct, Cologne. 12 acts on the bill: 2HOT2PLAY, 333CXT, ADEMES and Bouncy Bitch and 8 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ NIBIRII pres. Ely Oaks at Bootshaus on Fri 2 Oct, Cologne. 11 acts on the bill: 
 - Bouncy Bitch
 - DJ Discostoff
 - Ely Oaks
+- LEO.PARDYY
 - Limoncello
 - NØEL (JP)
 - nordcorreia.mp3

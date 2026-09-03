@@ -10,7 +10,7 @@ Hope House is a music venue in Leeds listed on soundcheck. 8 upcoming nights, wi
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | EGLO RECORDS | Sticky Dub |
 | Sat, 19 Sept 2026 | DADDIES DANCE | BOSSdaddy, Rachel Jazz |
-| Thu, 24 Sept 2026 | DROP PIN - Leeds | Iyesha, NSFW |
+| Thu, 24 Sept 2026 | DROP PIN x Rat Party - Leeds | Iyesha, NSFW |
 | Sat, 26 Sept 2026 | Outlaws Yacht Club 14th Birthday | Ana K Miller, Moses Joses, Pigeon Steve |
 | Sun, 27 Sept 2026 | SUNDAY SESSION - Hope House GALLERY SUNDAY 27th SEPTEMBER | BOSSdaddy, DJ Gilla |
 | Fri, 23 Oct 2026 | Opus w/ Carl H | Carl H, Chin |

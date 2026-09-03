@@ -1,15 +1,14 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Klubkneipe x Tuesday Ritual - Tattoo Flash Day" on Tue, 1 Sept 2026.
+Prisma is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Klubkneipe x Tuesday Ritual - Tattoo Flash Day" on Tue, 1 Sept 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Agustin Mendez, Alex Iso, Ayham and Carl Conrad and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Agustin Mendez, Alex Iso, Ayham and Carl Conrad and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Tue, 1 Sept 2026 | Klubkneipe x Tuesday Ritual - Tattoo Flash Day | MOFS, Noxumi |
-| Thu, 3 Sept 2026 | Sssmile Afterhour | Juan Del Chambo, sad.danic |
 | Sun, 6 Sept 2026 | Klubkneipe x Sunset Grooves | NAIR (IN) |
 | Tue, 8 Sept 2026 | Klubkneipe x Tuesday Ritual - Stand Up Comedy Night | Agustin Mendez, Levandream, Mati Amoretti |
 | Thu, 10 Sept 2026 | Sssmile Afterhour | Ayham, Carl Conrad, Kalimanda |
@@ -18,6 +17,7 @@ Prisma is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with
 | Tue, 15 Sept 2026 | Klubkneipe x Tuesday Ritual - Consent is Sexy | Emilion Dollar Baby, Fo Ewa, Gabricoti, KÜRÜF |
 | Thu, 17 Sept 2026 | Sssmile Afterhour | Domovnika, JUICYMOKA |
 | Sun, 20 Sept 2026 | Klubkneipe x Dance Salon |  |
+| Tue, 22 Sept 2026 | Klubkneipe x Tuesday Ritual - Move Like No One Is Watching – Workshop | k.meower, peak2soon |
 
 ## Address
 

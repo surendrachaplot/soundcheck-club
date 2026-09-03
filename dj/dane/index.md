@@ -1,8 +1,8 @@
 # Dane
 
-Dane is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Vancouver on Sat, 26 Sept 2026.
+Dane is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Vancouver on Sat, 26 Sept 2026.
 
-Dane is a house and disco artist tracked on soundcheck, with 63 sets logged across Chicago, Losangeles, Montreal and Portland and 3 more. Often billed alongside DJ D.Dee, Max Ulis and Kozue. Next up: TBA, Vancouver on Sat 26 Sept.
+Dane is a house and disco artist tracked on soundcheck, with 64 sets logged across Chicago, Losangeles, Montreal and Portland and 3 more. Often billed alongside DJ D.Dee, Max Ulis and Kozue. Next up: TBA, Vancouver on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dane is a house and disco artist tracked on soundcheck, with 63 sets logged acro
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA | Vancouver |
 | Sat, 3 Oct 2026 | TBA - Shipyards Waterfront | Vancouver |
+| Sat, 17 Oct 2026 | TBA | Vancouver |
 
 ## Recently played
 

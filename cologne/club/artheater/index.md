@@ -8,9 +8,9 @@ Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | akt x hyperlove | Aaro (3), DJ ASS TITS, KLARYOKO, Maara, ZAHNATZIN |
+| Sat, 5 Sept 2026 | akt x hyperlove | Aaro (3), DJ ASS TITS, KLARYOKO, Maara, ZAHNATZIN, juno.j |
 | Fri, 11 Sept 2026 | rau.ton x Toolboxxx PRESENTS | Cinthie, Efdemin, HWRD, Lea Occhi, Sandilé, Shrff, Virginia, pik (1) |
-| Sat, 12 Sept 2026 | N8SCHICHT | Aw508, BOLZ, NAKAMA |
+| Sat, 12 Sept 2026 | N8SCHICHT | Aw508, BOLZ, Miss Rapid, NAKAMA |
 | Fri, 18 Sept 2026 | BergWacht with Konfusia uvm | Konfusia, Liho |
 | Sat, 19 Sept 2026 | Kluengel Klubnacht | Cara Elizabeth, HUELLE, Prossowski, RCGT, Sneaky Pete |
 | Sat, 19 Sept 2026 | 303 presents Cynthia Spiering, Danilo Filipe, In Furcht, TINKERHELL u. v. m. | Cynthia Spiering, Danilo Filipe, In Furcht, TINKERHELL |

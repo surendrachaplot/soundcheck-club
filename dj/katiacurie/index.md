@@ -1,8 +1,8 @@
 # Katia Curie
 
-Katia Curie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Virage, Paris on Fri, 11 Sept 2026.
+Katia Curie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Virage, Paris on Fri, 11 Sept 2026.
 
-Katia Curie is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: Virage, Paris on Fri 11 Sept.
+Katia Curie is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Nizar Sarakbi, KATIA and Felix Rupprecht. Next up: Virage, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Katia Curie is a house and techno artist tracked on soundcheck, with 114 sets lo
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 | Sat, 17 Oct 2026 | Tresor / Globus | Berlin |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
+| Sat, 24 Oct 2026 | Macadam | Nantes |
 
 ## Recently played
 

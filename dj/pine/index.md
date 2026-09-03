@@ -1,14 +1,15 @@
 # Pine
 
-Pine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Enter Shibuya, Tokyo on Wed, 9 Sept 2026.
+Pine is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Enter Shibuya, Tokyo on Wed, 9 Sept 2026.
 
-Pine is a house and techno artist tracked on soundcheck, with 101 sets logged across Hongkong, Kyoto, Osaka and Seoul and 1 more. Often billed alongside Romy Mats, Albino Sound and AMANE. Next up: Enter Shibuya, Tokyo on Wed 9 Sept.
+Pine is a house and techno artist tracked on soundcheck, with 102 sets logged across Hongkong, Kyoto, Osaka and Seoul and 1 more. Often billed alongside Romy Mats, Albino Sound and AMANE. Next up: Enter Shibuya, Tokyo on Wed 9 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 9 Sept 2026 | Enter Shibuya | Tokyo |
+| Fri, 2 Oct 2026 | Saloon | Tokyo |
 | Sat, 31 Oct 2026 | Saloon | Tokyo |
 
 ## Recently played

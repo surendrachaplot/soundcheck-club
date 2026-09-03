@@ -1,13 +1,14 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
+Danilo Plessow is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at NAR, Utrecht on Fri, 4 Sept 2026.
 
-Danilo Plessow is a house and disco artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: fabric, London on Sat 5 Sept.
+Danilo Plessow is a house and disco artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: NAR, Utrecht on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | NAR | Utrecht |
 | Sat, 5 Sept 2026 | fabric | London |
 | Sat, 19 Sept 2026 | Hangaren | Copenhagen |
 | Sat, 19 Sept 2026 | Hangaren | Copenhagen |

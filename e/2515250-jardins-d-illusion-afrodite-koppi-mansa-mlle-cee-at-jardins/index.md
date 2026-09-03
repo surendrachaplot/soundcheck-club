@@ -1,6 +1,6 @@
 # JARDINS D'ILLUSION | AFRODITE 🎧🎵 KOPPI, MANSA, MLLE CEE at Jardins Gamelin
 
-JARDINS D'ILLUSION | AFRODITE 🎧🎵 KOPPI, MANSA, MLLE CEE at Jardins Gamelin on Thu 3 Sept, Montreal. 2 acts on the bill: Mansa and MLLE CEE. Preview the line-up and save it on soundcheck.
+JARDINS D'ILLUSION | AFRODITE 🎧🎵 KOPPI, MANSA, MLLE CEE at Jardins Gamelin on Thu 3 Sept, Montreal. 3 acts on the bill: Koppi, Mansa and MLLE CEE. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ JARDINS D'ILLUSION | AFRODITE 🎧🎵 KOPPI, MANSA, MLLE CEE at Jardins Gamelin
 
 ## Line-up
 
+- Koppi
 - Mansa
 - MLLE CEE
 

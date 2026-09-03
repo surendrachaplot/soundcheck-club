@@ -1,6 +1,6 @@
 # ✰ Strawberry Gothcake: KAVARI, SHADOW WIZARD MONEY GANG & MORE ✰ at ESC
 
-✰ Strawberry Gothcake: KAVARI, SHADOW WIZARD MONEY GANG & MORE ✰ at ESC on Sat 19 Sept, Montreal. 5 acts on the bill: Dani Rev, KAVARI, Mowie (2) and Outback and 1 more. Hardcore and Club. Preview the line-up and save it on soundcheck.
+✰ Strawberry Gothcake: KAVARI, SHADOW WIZARD MONEY GANG & MORE ✰ at ESC on Sat 19 Sept, Montreal. 6 acts on the bill: Dani Rev, KAVARI, kneesplint and Mowie (2) and 2 more. Hardcore and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - Dani Rev
 - KAVARI
+- kneesplint
 - Mowie (2)
 - Outback
 - the bald girl

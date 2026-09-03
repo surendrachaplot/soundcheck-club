@@ -1,8 +1,8 @@
 # Volks
 
-Volks is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "30 Years of CIA & Volks" on Sat, 5 Sept 2026.
+Volks is a music venue in Brighton with 12 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "30 Years of CIA & Volks" on Sat, 5 Sept 2026.
 
-Volks is a music venue in Brighton listed on soundcheck. 11 upcoming nights, with line-ups including A.M.C., Acid Carbon, Bluntz and Business As Usual and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
+Volks is a music venue in Brighton listed on soundcheck. 12 upcoming nights, with line-ups including A.M.C., Acid Carbon, Bluntz and Business As Usual and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Volks is a music venue in Brighton listed on soundcheck. 11 upcoming nights, wit
 | Sat, 3 Oct 2026 | Overview: Brighton | Business As Usual, Ill Truth, Rider Shafique, Skylark, TCB |
 | Fri, 9 Oct 2026 | Channel One Sound System UK Tour: Brighton | Channel One Sound |
 | Sat, 10 Oct 2026 | A.M.C presents: Grassroots Energy (Brighton) | A.M.C. |
-| Sat, 21 Nov 2026 | Delirium X: The Final Show | HLZ (2), Loxy, Seba, Sloe, Vergano |
+| Fri, 23 Oct 2026 | 160 Brighton presents: Tim Reaper b2b Fracture (3-hour set) | Fracture, Tim Reaper |
 
 ## Address
 

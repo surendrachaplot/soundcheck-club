@@ -1,8 +1,8 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Ivan Smagghe is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
-Ivan Smagghe is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: The Cause, London on Sat 12 Sept.
+Ivan Smagghe is a house and techno artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: The Cause, London on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Ivan Smagghe is a house and techno artist tracked on soundcheck, with 184 sets l
 | Sat, 17 Oct 2026 | fabric | London |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Sat, 7 Nov 2026 | 宀 Club | Hong Kong |
+| Fri, 13 Nov 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played
 

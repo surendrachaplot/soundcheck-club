@@ -1,8 +1,8 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SAGE, Berlin on Sat, 5 Sept 2026.
+Anfisa Letyago is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SAGE, Berlin on Sat, 5 Sept 2026.
 
-Anfisa Letyago is a techno and house artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Eli Brown, Enrico Sangiuliano and Héctor Oaks. Next up: SAGE, Berlin on Sat 5 Sept.
+Anfisa Letyago is a techno and house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Enrico Sangiuliano, Eli Brown and Héctor Oaks. Next up: SAGE, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Anfisa Letyago is a techno and house artist tracked on soundcheck, with 159 sets
 | Thu, 15 Oct 2026 | Noto Philadelphia | Philadelphia |
 | Fri, 16 Oct 2026 | BERHTA | Washington DC |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
+| Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 
 ## Recently played
 
@@ -29,6 +30,6 @@ Anfisa Letyago is a techno and house artist tracked on soundcheck, with 159 sets
 
 ## Shares bills with
 
-Eli Brown, Enrico Sangiuliano, Héctor Oaks
+Enrico Sangiuliano, Eli Brown, Héctor Oaks
 
 *Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

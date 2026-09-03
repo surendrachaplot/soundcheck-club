@@ -1,6 +1,6 @@
 # Purple Essence feat. Shakolin at Mitsuki
 
-Purple Essence feat. Shakolin at Mitsuki on Fri 18 Sept, Tokyo. 3 acts on the bill: Chihoshi, Shakolin and YOYOHEI. House and Minimal. Preview the line-up and save it on soundcheck.
+Purple Essence feat. Shakolin at Mitsuki on Fri 18 Sept, Tokyo. 5 acts on the bill: Chihoshi, kRs (2), RYOKEI and Shakolin and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Purple Essence feat. Shakolin at Mitsuki on Fri 18 Sept, Tokyo. 3 acts on the bi
 ## Line-up
 
 - Chihoshi
+- kRs (2)
+- RYOKEI
 - Shakolin
 - YOYOHEI
 

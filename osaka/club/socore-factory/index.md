@@ -1,8 +1,8 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "swell" on Fri, 4 Sept 2026.
+Socore Factory is a music venue in Osaka with 33 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "swell" on Fri, 4 Sept 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 19 upcoming nights, with line-ups including ANCHIN, Ane, Bass and Century and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 33 upcoming nights, with line-ups including Akira, ALUCA, ANCHIN and Ane and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 19 upcoming night
 | Wed, 16 Sept 2026 | SWD Japan Proudly presents Brujeria – Estamos Chingados Japan 2026 |  |
 | Thu, 17 Sept 2026 | Electric Assault Records & S.A MUSIC 15周年記念祝賀会 | Century, Evil |
 | Mon, 21 Sept 2026 | ケイケイキューエイ | Kohei |
+| Mon, 21 Sept 2026 | ケイケイキューエイ | Kohei |
 | Tue, 22 Sept 2026 | Drum & Bass Records presents 'Rockers Time' | Terra |
-| Wed, 23 Sept 2026 | ザンゲ レコ発 | GYOKU, Limited Toss |
 
 ## Address
 

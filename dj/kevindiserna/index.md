@@ -1,8 +1,8 @@
 # Kevin Di Serna
 
-Kevin Di Serna is a Progressive House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bikini Club, Barcelona on Sat, 26 Sept 2026.
+Kevin Di Serna is a Progressive House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bikini Club, Barcelona on Sat, 26 Sept 2026.
 
-Kevin Di Serna is a progressive house and house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Buenosaires and Copenhagen and 6 more. Often billed alongside Hernan Cattaneo, Agustin Ficarra and Dave Seaman. Next up: Bikini Club, Barcelona on Sat 26 Sept.
+Kevin Di Serna is a progressive house and house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Buenosaires and Copenhagen and 6 more. Often billed alongside Hernan Cattaneo, Agustin Ficarra and Dave Seaman. Next up: Bikini Club, Barcelona on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kevin Di Serna is a progressive house and house artist tracked on soundcheck, wi
 | Sat, 17 Oct 2026 | Culture Box | Copenhagen |
 | Thu, 22 Oct 2026 | Veronica Schip | Amsterdam |
 | Fri, 23 Oct 2026 | TBA - AMK Club, Almagro | Buenos Aires |
+| Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 
 ## Recently played
 

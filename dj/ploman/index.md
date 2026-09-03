@@ -1,14 +1,15 @@
 # PLO Man
 
-PLO Man is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Green Room NYC, New York City on Sat, 12 Sept 2026.
+PLO Man is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Green Room NYC, New York City on Sat, 12 Sept 2026.
 
-PLO Man is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: Green Room NYC, Newyorkcity on Sat 12 Sept.
+PLO Man is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside DJ Spence, Hashman Deejay and Vlada. Next up: Green Room NYC, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Green Room NYC | New York City |
+| Sat, 10 Oct 2026 | VENT | Tokyo |
 | Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Sat, 31 Oct 2026 | SMUT Athens | Athens |
 

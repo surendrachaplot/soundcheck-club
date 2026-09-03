@@ -1,8 +1,8 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Carroponte, Milan on Sat, 19 Sept 2026.
+Nic Fanciulli is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Carroponte, Milan on Sat, 19 Sept 2026.
 
-Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Carroponte, Milan on Sat 19 Sept.
+Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: Carroponte, Milan on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Nic Fanciulli is a house and tech house artist tracked on soundcheck, with 196 s
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Ushuaïa Ibiza | Ibiza |
+| Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 
 ## Recently played
 

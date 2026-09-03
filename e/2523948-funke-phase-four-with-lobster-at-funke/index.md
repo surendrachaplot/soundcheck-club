@@ -1,6 +1,6 @@
 # Funke_Phase Four with Lobster at Funke
 
-Funke_Phase Four with Lobster on Fri 11 Sept, Ghent. 1 act on the bill: Lobster (NL). Preview the line-up and save it on soundcheck.
+Funke_Phase Four with Lobster on Fri 11 Sept, Ghent. 2 acts on the bill: Lobster (NL) and Ponygirl. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Funke_Phase Four with Lobster on Fri 11 Sept, Ghent. 1 act on the bill: Lobster 
 ## Line-up
 
 - Lobster (NL)
+- Ponygirl
 
 *Source: [soundcheck](https://soundcheck.club/e/2523948-funke-phase-four-with-lobster-at-funke/)*

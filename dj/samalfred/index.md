@@ -1,8 +1,8 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Sam Alfred is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Sam Alfred is a house and techno artist tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 45 more. Often billed alongside X CLUB., KETTAMA and SAIDAH. Next up: Union Park, Chicago on Fri 4 Sept.
+Sam Alfred is a house and techno artist tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 46 more. Often billed alongside X CLUB., KETTAMA and SAIDAH. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 

@@ -1,6 +1,6 @@
 # KOCKIRI at Kockiri
 
-KOCKIRI at Kockiri on Thu 3 Sept, Seoul. 3 acts on the bill: HAKIM (UK), Wang Tough and XingXing. Preview the line-up and save it on soundcheck.
+KOCKIRI at Kockiri on Thu 3 Sept, Seoul. 3 acts on the bill: HAKIM (UK), Wang Tough and Xing Xing. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ KOCKIRI at Kockiri on Thu 3 Sept, Seoul. 3 acts on the bill: HAKIM (UK), Wang To
 
 - HAKIM (UK)
 - Wang Tough
-- XingXing
+- Xing Xing
 
 *Source: [soundcheck](https://soundcheck.club/e/2528030-kockiri-at-kockiri/)*

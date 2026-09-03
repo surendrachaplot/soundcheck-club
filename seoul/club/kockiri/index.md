@@ -8,7 +8,7 @@ Kockiri is a music venue in Seoul listed on soundcheck. 4 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | KOCKIRI | HAKIM (UK), Wang Tough, XingXing |
+| Thu, 3 Sept 2026 | KOCKIRI | HAKIM (UK), Wang Tough, Xing Xing |
 | Fri, 4 Sept 2026 | KOCKIRI | Banu, Youknowsong |
 | Sat, 5 Sept 2026 | KOCKIRI | Jaezae |
 | Sun, 6 Sept 2026 | KOCKIRI | Cozyhoon, FFAN |

@@ -1,6 +1,6 @@
 # Los De Casa end of summer rooftop day party at Egg London
 
-Los De Casa end of summer rooftop day party at Egg London on Sat 5 Sept, London. 2 acts on the bill: Josh Torlot and KEMADA. House and Deep House. Preview the line-up and save it on soundcheck.
+Los De Casa end of summer rooftop day party at Egg London on Sat 5 Sept, London. 3 acts on the bill: Josh Torlot, KEMADA and KUTCH. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Los De Casa end of summer rooftop day party at Egg London on Sat 5 Sept, London.
 
 - Josh Torlot
 - KEMADA
+- KUTCH
 
 *Source: [soundcheck](https://soundcheck.club/e/2502783-los-de-casa-end-of-summer-rooftop-day-party-at-egg-london/)*

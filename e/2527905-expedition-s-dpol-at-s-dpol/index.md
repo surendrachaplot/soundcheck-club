@@ -20,7 +20,7 @@ Expedition Südpol on Fri 18 Sept, Hamburg. 21 acts on the bill: 50PHIE, Aii PS,
 - Finona Rider
 - Hyperaktivist
 - Jacob Knob
-- Kristina May
+- Kristina May (4)
 - KYT
 - Lucas Darío
 - Marie Mackerschreck

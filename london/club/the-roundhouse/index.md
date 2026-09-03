@@ -15,7 +15,7 @@ The Roundhouse is a music venue in London listed on soundcheck. 9 upcoming night
 | Fri, 30 Oct 2026 | MESTIZA presents Sacro Halloween | MËSTIZA |
 | Sat, 31 Oct 2026 | Labyrinth presents: Caiiro x Da Capo x Enoo Napa Halloween B3B | Caiiro, Da Capo, Enoo Napa |
 | Fri, 13 Nov 2026 | Labyrinth presents: Marsh extended set | ALLKNIGHT, Leo Wood, Marsh |
-| Sat, 21 Nov 2026 | Calibre |  |
+| Sat, 21 Nov 2026 | Calibre | Calibre |
 | Sat, 28 Nov 2026 | NOTION at The Roundhouse |  |
 
 ## Address

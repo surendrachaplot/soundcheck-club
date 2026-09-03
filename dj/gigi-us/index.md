@@ -1,13 +1,14 @@
 # Gi Gi
 
-Gi Gi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Edge Seoul, Seoul on Sat, 5 Sept 2026.
+Gi Gi is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at HVEN, Tokyo on Fri, 4 Sept 2026.
 
-Gi Gi is a techno and house artist based in United States of America, tracked on soundcheck, with 68 sets logged across Auckland, Austin, Berlin and Brussels and 20 more. Often billed alongside PLO Man, Charles Moon and Conna Haraway. Next up: The Edge Seoul, Seoul on Sat 5 Sept.
+Gi Gi is a techno and house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Auckland, Austin, Berlin and Brussels and 20 more. Often billed alongside PLO Man, Charles Moon and Conna Haraway. Next up: HVEN, Tokyo on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | HVEN | Tokyo |
 | Sat, 5 Sept 2026 | The Edge Seoul | Seoul |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 

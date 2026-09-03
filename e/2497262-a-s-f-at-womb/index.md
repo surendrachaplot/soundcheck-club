@@ -1,6 +1,6 @@
 # A.S.F at WOMB
 
-A.S.F at WOMB on Fri 25 Sept, Tokyo. 3 acts on the bill: KINO (UY), P-YAN and RYOKEI. Techno and House. Preview the line-up and save it on soundcheck.
+A.S.F at WOMB on Fri 25 Sept, Tokyo. 5 acts on the bill: ildec, Karuta, KINO (UY) and P-YAN and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ A.S.F at WOMB on Fri 25 Sept, Tokyo. 3 acts on the bill: KINO (UY), P-YAN and RY
 
 ## Line-up
 
+- ildec
+- Karuta
 - KINO (UY)
 - P-YAN
 - RYOKEI

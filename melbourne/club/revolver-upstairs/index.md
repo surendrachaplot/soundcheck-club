@@ -1,8 +1,8 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Brent Honey x davyboi x Trancemaster Krause — All Night Long (360° Set Up)" on Thu, 3 Sept 2026.
+Revolver Upstairs is a music venue in Melbourne with 21 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Brent Honey x davyboi x Trancemaster Krause — All Night Long (360° Set Up)" on Thu, 3 Sept 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 16 upcoming nights, with line-ups including Acid Safari, Ageusic, Alex Wann and ANNIE KEZ and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 21 upcoming nights, with line-ups including Acid Safari, Ageusic, Alex Wann and ANNIE KEZ and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
@@ -14,10 +14,10 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 16 upcomin
 | Sat, 5 Sept 2026 | Sunshine & Disco Faith Choir — Rise & Shine | Crozier, Jesse Boyd, Sunshine |
 | Sat, 5 Sept 2026 | VINYLS: Hardcore Special — The Late Show | Ageusic, Hijack, Lewis Cancut, Mendoza (AUS) |
 | Sun, 6 Sept 2026 | Joss Dean (UK) - Winter Series pres. by Thick As Thieves | Ben Silver, Boogs, Cooper James, Joss Dean, KELLY TEE, Mixed Methods, Spacey Space |
+| Wed, 9 Sept 2026 | Tilt Shift Wednesdays |  |
 | Fri, 11 Sept 2026 | REVOLVER BANDROOM: Union Heights presents Viliani & Kibbz — Double Album Launch |  |
 | Fri, 11 Sept 2026 | Rolê x Revolver Fridays | Bby Cass, Livia, Mike Callander, Paz |
 | Sat, 12 Sept 2026 | REVOLVER BANDROOM: Life Pilot Victorian Disturbance Tour + Deadweight80, Miseryguts & Atriox |  |
-| Sun, 13 Sept 2026 | Mark Knight (UK) [4 Hour Set] - Winter Series pres. by Thick As Thieves | ANNIE KEZ, Ben Silver, Boogs, KELLY TEE, Mark Knight, Spacey Space |
 
 ## Address
 

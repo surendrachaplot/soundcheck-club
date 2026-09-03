@@ -1,6 +1,6 @@
 # Dérapage invite Boris + Feroui b2b Hunkut @ Petit Cab at Petit CAB
 
-Dérapage invite Boris + Feroui b2b Hunkut @ Petit Cab at Petit CAB on Fri 18 Sept, Marseille. 2 acts on the bill: Feroui and Hunkut. Techno and Bass. Preview the line-up and save it on soundcheck.
+Dérapage invite Boris + Feroui b2b Hunkut @ Petit Cab at Petit CAB on Fri 18 Sept, Marseille. 3 acts on the bill: Boris, Feroui and Hunkut. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Dérapage invite Boris + Feroui b2b Hunkut @ Petit Cab at Petit CAB on Fri 18 Se
 
 ## Line-up
 
+- Boris
 - Feroui
 - Hunkut
 

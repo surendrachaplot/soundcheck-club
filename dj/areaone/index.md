@@ -1,8 +1,8 @@
 # AREA ØNE
 
-AREA ØNE is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kilomètre25, Paris on Sat, 3 Oct 2026.
+AREA ØNE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kilomètre25, Paris on Sat, 3 Oct 2026.
 
-AREA ØNE is a techno and trance artist tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Athens and Belgrade and 19 more. Often billed alongside Niotech, HANÀ and THISO. Next up: Kilomètre25, Paris on Sat 3 Oct.
+AREA ØNE is a techno and trance artist tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Athens and Belgrade and 19 more. Often billed alongside Niotech, HANÀ and THISO. Next up: Kilomètre25, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ AREA ØNE is a techno and trance artist tracked on soundcheck, with 53 sets logg
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 3 Oct 2026 | Kilomètre25 | Paris |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
+| Fri, 16 Oct 2026 | BASIS | Utrecht |
 
 ## Recently played
 

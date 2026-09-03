@@ -1,14 +1,15 @@
 # Kaito
 
-Kaito is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club Metro, Kyoto on Mon, 21 Sept 2026.
+Kaito is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club Metro, Kyoto on Mon, 21 Sept 2026.
 
-Kaito is a techno and house artist based in Japan, tracked on soundcheck, with 49 sets logged across Detroit, Hongkong, Kyoto and Melbourne and 4 more. Often billed alongside DALJAE, CHIKA and DICE. Next up: Club Metro, Kyoto on Mon 21 Sept.
+Kaito is a techno and house artist based in Japan, tracked on soundcheck, with 50 sets logged across Detroit, Hongkong, Kyoto and Melbourne and 4 more. Often billed alongside DALJAE, CHIKA and DICE. Next up: Club Metro, Kyoto on Mon 21 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Club Metro | Kyoto |
+| Fri, 30 Oct 2026 | Socore Factory | Osaka |
 
 ## Recently played
 

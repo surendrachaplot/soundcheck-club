@@ -8,7 +8,7 @@ Schrotty is a music venue in Cologne listed on soundcheck. 12 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | BZZBZZ TECHNO 3 YEAR ANNIVERSARY | Anuuk, Bounce MC, DJ SODBRENNEN, DonChoppa, Eurodance2000, Fronsi, HENNESY, HOTBOI2300, ICX (DE), Jacky Ickx, NIKKI030, SCHMALLE, SEKTOR69, SPEEDO (2), Sasuma, The Lerrys |
+| Fri, 4 Sept 2026 | BZZBZZ TECHNO 3 YEAR ANNIVERSARY | Anuuk, Bounce MC, DJ SODBRENNEN, DonChoppa, Eurodance2000, Fronsi, HENNESY, HOTBOI2300, ICX (DE), Jacky Ickx, Miss Rapid, NIKKI030, SCHMALLE, SEKTOR69, SPEEDO (2), Sasuma, The Lerrys |
 | Sat, 5 Sept 2026 | Wyldhearts Geburtstag | BabaBass3000, Eva Charley, Ferrand, Kamäleon, Nettta, Rundfunk, The Second I, crystal crimez (2) |
 | Fri, 11 Sept 2026 | BCCO with Yanamaste, future.666  | CRITICAL ERROR 404, Yanamaste, ZAHNATZIN, future.666 |
 | Sat, 19 Sept 2026 | Feiern wie früher, nur früher by Anna Reusch & Thomas Schumacher | A.D.H.S., Anna Reusch, Thomas Schumacher |

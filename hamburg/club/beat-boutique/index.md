@@ -1,8 +1,8 @@
 # Beat Boutique
 
-Beat Boutique is a music venue in Hamburg with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "MHH CLUB NIGHT" on Sat, 5 Sept 2026.
+Beat Boutique is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "MHH CLUB NIGHT" on Sat, 5 Sept 2026.
 
-Beat Boutique is a music venue in Hamburg listed on soundcheck. 7 upcoming nights, with line-ups including babey, Boy Oh Boy, DER ALINEA and lexpon and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 12, 20095 Hamburg, Germany.
+Beat Boutique is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including babey, Boy Oh Boy, DER ALINEA and lexpon and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 12, 20095 Hamburg, Germany.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Beat Boutique is a music venue in Hamburg listed on soundcheck. 7 upcoming night
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | MHH CLUB NIGHT | OSK (3), Vektra, rodmor |
 | Fri, 11 Sept 2026 | 20 ⮕ 02 | DER ALINEA |
+| Fri, 18 Sept 2026 | Vibe Tribe |  |
 | Sat, 19 Sept 2026 | La Bas House Night | Boy Oh Boy, Luka Tera |
 | Fri, 25 Sept 2026 | Maschine brennt |  |
 | Sat, 26 Sept 2026 | EarlyBeats - Part 10 - Techno ab 20 Uhr | NoraDrenalin, STOECKER_, babey |

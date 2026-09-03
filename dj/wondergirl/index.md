@@ -1,8 +1,8 @@
 # WÖNDER GIRL
 
-WÖNDER GIRL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Super Studio Kitakagaya, Osaka on Sat, 19 Sept 2026.
+WÖNDER GIRL is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Super Studio Kitakagaya, Osaka on Sat, 19 Sept 2026.
 
-WÖNDER GIRL is a techno and house artist based in Japan, tracked on soundcheck, with 14 sets logged across Kyoto and Osaka. Often billed alongside Chiaki Uehira, Lhinen and CAPTAIN HOOK Jr.. Next up: Super Studio Kitakagaya, Osaka on Sat 19 Sept.
+WÖNDER GIRL is a techno and electro artist based in Japan, tracked on soundcheck, with 15 sets logged across Kyoto and Osaka. Often billed alongside Chiaki Uehira, Lhinen and CAPTAIN HOOK Jr.. Next up: Super Studio Kitakagaya, Osaka on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ WÖNDER GIRL is a techno and house artist based in Japan, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Super Studio Kitakagaya | Osaka |
 | Thu, 24 Sept 2026 | Socore Factory | Osaka |
+| Fri, 25 Sept 2026 | Triangle | Osaka |
 
 ## Recently played
 

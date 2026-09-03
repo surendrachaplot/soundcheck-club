@@ -1,8 +1,8 @@
 # Sugar D.
 
-Sugar D. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Leipzig on Sat, 5 Sept 2026.
+Sugar D. is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Leipzig on Sat, 5 Sept 2026.
 
-Sugar D. is a house and techno artist tracked on soundcheck, with 6 sets logged across Leipzig. Often billed alongside DJ Divinity, Dr. Motte and Kleinschmager Audio. Next up: TBA, Leipzig on Sat 5 Sept.
+Sugar D. is a house and techno artist tracked on soundcheck, with 7 sets logged across Leipzig. Often billed alongside DJ Divinity, Dr. Motte and Kleinschmager Audio. Next up: TBA, Leipzig on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sugar D. is a house and techno artist tracked on soundcheck, with 6 sets logged 
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA | Leipzig |
 | Sat, 19 Sept 2026 | TBA | Leipzig |
+| Sat, 24 Oct 2026 | TBA - Tiffany Frohburg | Leipzig |
 
 ## Recently played
 

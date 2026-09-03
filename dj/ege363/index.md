@@ -1,13 +1,14 @@
 # EGE363
 
-EGE363 is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lokschuppen Berlin, Berlin on Sun, 27 Sept 2026.
+EGE363 is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lokschuppen Berlin, Berlin on Sun, 13 Sept 2026.
 
-EGE363 is a trance and techno artist based in Turkey, tracked on soundcheck, with 51 sets logged across Berlin, Cologne, Ghent and Madrid and 1 more. Often billed alongside Orbi, Neoma and REEZN. Next up: Lokschuppen Berlin, Berlin on Sun 27 Sept.
+EGE363 is a trance and techno artist based in Turkey, tracked on soundcheck, with 52 sets logged across Berlin, Cologne, Ghent and Madrid and 1 more. Often billed alongside Orbi, Neoma and REEZN. Next up: Lokschuppen Berlin, Berlin on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sun, 27 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 3 Oct 2026 | Lokschuppen Berlin | Berlin |
 

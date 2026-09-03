@@ -4375,7 +4375,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788438504830">
+<meta name="sc-build" content="1788445142720">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -6085,7 +6085,7 @@
       var cm=cityMeta();
       showPage('<div class="rad-hd"><span class="kick">'+esc(cm.name.toUpperCase())+'</span>'+
         '<h2 class="rad-h1">Radio</h2>'+
-        '<p class="rad-sub">Stations built from what&rsquo;s actually on this weekend. They rebuild every Thursday.</p></div>'+
+        '<p class="rad-sub">Stations built from what&rsquo;s actually on this weekend.</p></div>'+
         '<div id="rad-body"><div class="empty" style="padding:16px"><span class="spinner"></span> Building the stations&hellip;</div></div>');
       var idx=null;
       try{ idx=await radioWeekendIndex(); }catch(_){}
@@ -6940,7 +6940,7 @@
         : '<label class="ee-l">Bio</label><textarea id="ee-bio" maxlength="800" placeholder="Your story…">'+esc(data.bio||'')+'</textarea>'+
           '<label class="ee-l">Booking email</label><input type="email" id="ee-booking_email" value="'+attrEsc(data.bookingEmail||'')+'" placeholder="bookings@…"><label class="ee-check"><input type="checkbox" id="ee-booking_hidden"> Hide my booking email publicly</label>';
       ov.innerHTML='<div class="auth-box ee-box"><button class="auth-close" type="button" aria-label="Close">&times;</button>'+
-        '<div class="eyebrow">Edit</div><h3>'+esc(name)+'</h3><p class="ee-note">Your edits show on your page. Our aggregated gig data stays as it is.</p>'+
+        '<div class="eyebrow">Edit</div><h3>'+esc(name)+'</h3><p class="ee-note">Your edits show on your page.</p>'+
         common+extra+'<button class="go" id="ee-save" type="button">Save</button><div class="err" id="ee-err"></div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); }
@@ -7937,11 +7937,12 @@
       if(j.lineup)  rows+='<div class="vd-row"><span class="vd-k">Line-ups</span><span>'+esc(j.lineup)+'</span></div>';
       if(j.door)    rows+='<div class="vd-row"><span class="vd-k">Door</span><span>'+esc(j.door)+'</span></div>';
       if(!rows) return '';
-      // Name the sample. A DNA panel that will not say what it is based on is
-      // asking to be trusted rather than checked.
-      var note='From '+j.n+' night'+(j.n===1?'':'s')+' they&rsquo;ve put on'+(j.months?' over '+j.months+' months':'')+'.';
-      if(!j.cadence) note+=' No cadence yet &mdash; that needs a longer run.';
-      return '<div class="sec-h" style="margin-top:26px">Promoter DNA</div><div class="vd-box">'+rows+'<div class="vd-note">'+note+'</div></div>';
+      // NO NOTE. It used to explain the sample and, when cadence was withheld,
+      // apologise for it: "From 4 nights they've put on. No cadence yet — that
+      // needs a longer run." That is our reasoning about our own thresholds,
+      // which is nobody else's problem. The rows are facts; a row we cannot
+      // stand behind simply is not there.
+      return '<div class="sec-h" style="margin-top:26px">Promoter DNA</div><div class="vd-box">'+rows+'</div>';
     }
     /**
      * The night you already logged, on the event page.
@@ -7997,8 +7998,9 @@
         if(j.reviews.goBack!=null) rows+='<div class="vd-row"><span class="vd-k">Return</span><span>'+j.reviews.goBack+'% <span style="color:var(--muted)">would go back</span></span></div>';
       }
       if((j.similar||[]).length) rows+='<div class="vd-row"><span class="vd-k">Similar</span><span class="vd-sim">'+j.similar.map(function(s){ return '<a class="vd-vlink nav" href="'+esc(venueHref(s.venue))+'" data-venue="'+esc(s.venue)+'">'+esc(s.venue)+'</a>'; }).join('')+'</span></div>';
-      var dnaNote=j.reviews?'Sound, crowd &amp; vibe from people who&rsquo;ve been; genres &amp; nights from what plays here.':'Derived from what plays here — sound &amp; crowd come from people who&rsquo;ve been.';
-      return '<div class="sec-h" style="margin-top:26px">Venue DNA</div><div class="vd-box">'+rows+'<div class="vd-note">'+dnaNote+'</div></div>';
+      // No note. It explained which of these rows came from listings and which
+      // from people who had been — our provenance, not the reader's problem.
+      return '<div class="sec-h" style="margin-top:26px">Venue DNA</div><div class="vd-box">'+rows+'</div>';
     }
     // List skeletons for the full-body fetch pages (Coming up / Feed) — reserve
     // approximate height so the body doesn't jump from a one-line "Loading…".
@@ -11404,13 +11406,15 @@
             // above it — same control on web, mobile web and native. The hidden
             // input keeps the id every caller already reads.
             '<div class="lg-search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg><input type="text" id="lg-q" placeholder="Search by club, artist, or date…" autocomplete="off" autocapitalize="off">'+cityChipHTML('lg-city', currentCity)+'</div>'+
-            '<div class="lg-shint" id="lg-shint">Type in the name of the artist, or the venue, or both. Pick the one that matches to log it.</div>'+
+            // The box says "Search by club, artist, or date…" one line above. A
+            // paragraph restating it was instructions for a control that needs none.
+            '<div class="lg-shint" id="lg-shint"></div>'+
             '<div class="lg-events" id="lg-events"></div>'+
           '</div>'+
           '<div id="lg-extra" style="display:none">'+
             '<div class="pf-box" style="margin-top:16px">'+
             '<div class="lg-field" id="lg-lineup-field"><label>Who did you see? <small class="lg-opt">tap the acts you caught</small></label><div id="lg-lineup"></div></div>'+
-            '<div class="lg-field" id="lg-vrev-field" style="display:none"><label>How was <span id="lg-vrev-nm">the venue</span>? <small class="lg-opt">optional — sharpens its Venue DNA</small></label><div id="lg-vrev"></div></div>'+
+            '<div class="lg-field" id="lg-vrev-field" style="display:none"><label>How was <span id="lg-vrev-nm">the venue</span>? <small class="lg-opt">optional</small></label><div id="lg-vrev"></div></div>'+
             '<div class="lg-field"><label>Note (optional)</label><textarea id="lg-note" placeholder="How was it?"></textarea></div>'+
             '<button id="lg-save" type="button" class="pf-btn primary block">Save to diary</button>'+
             '<div class="err" id="lg-err" style="color:var(--accent);font-size:var(--fs-sm);min-height:1em;margin-top:8px"></div>'+
@@ -12345,7 +12349,7 @@
     function admShellHTML(){
       return '<div class="adm-h"><span class="kick">Back office</span></div>'+
         '<h2 class="page-title">Edit the catalogue</h2>'+
-        '<div class="sub">Edits are stored as an override on top of the crawled data &mdash; the nightly re-crawl can&rsquo;t undo them. Clear a field to fall back to what we crawled.</div>'+
+        '<div class="sub">Your edits stick. Clear a field to go back to the listed details.</div>'+
         '<div class="adm-tabs" id="adm-tabs">'+ADM_KINDS.map(function(k){
           return '<button class="adm-tab'+(admState.kind===k[0]?' on':'')+'" type="button" data-kind="'+k[0]+'">'+esc(k[1])+'</button>';
         }).join('')+'</div>'+

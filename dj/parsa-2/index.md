@@ -1,0 +1,27 @@
+# PARSA (2)
+
+PARSA (2) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DeTour, Tokyo on Fri, 11 Sept 2026.
+
+PARSA (2) is a techno and industrial artist based in Japan, tracked on soundcheck, with 8 sets logged across Amsterdam and Tokyo. Often billed alongside SONATA, EMILIO (3) and FINYA. Next up: DeTour, Tokyo on Fri 11 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 11 Sept 2026 | DeTour | Tokyo |
+
+## Recently played
+
+- Sound Studio Dom, Tokyo — Tue, 11 Aug 2026
+- clubasia, Tokyo — Fri, 26 Jun 2026
+- Garage Noord, Amsterdam — Sat, 20 Jun 2026
+- Studio Freedom, Tokyo — Fri, 5 Jun 2026
+- clubasia, Tokyo — Fri, 29 May 2026
+- Secret Venue in Minatoku-Nishiazabu, Tokyo — Sat, 23 May 2026
+- Secret Venue, Tokyo — Sat, 21 Feb 2026
+
+## Shares bills with
+
+SONATA, EMILIO (3), FINYA
+
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parsa-2/)*

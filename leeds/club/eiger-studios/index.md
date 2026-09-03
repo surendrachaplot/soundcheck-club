@@ -1,6 +1,6 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "ARC LIVE" on Sat, 5 Sept 2026.
+Eiger Studios is a music venue in Leeds with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "[CANCELLED] ARC LIVE" on Sat, 5 Sept 2026.
 
 Eiger Studios is a music venue in Leeds listed on soundcheck. 10 upcoming nights, with line-ups including B-HIND, Bobby., camukg and DJ Bax and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
@@ -8,7 +8,7 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 10 upcoming nights
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | ARC LIVE | B-HIND, Gaz Rowland, camukg |
+| Sat, 5 Sept 2026 | [CANCELLED] ARC LIVE | B-HIND, Gaz Rowland, camukg |
 | Sat, 12 Sept 2026 | Fortissimo presents: DJ Bax | DJ Bax |
 | Fri, 18 Sept 2026 | T40: RUFFRUFF | Rubb3rducki |
 | Sat, 19 Sept 2026 | ROGUE PUPPET X SQWEEZ! presents: Gloria Rose  | FAUST (1), Gloria Rose, Michael Upson, Nina Pixina |

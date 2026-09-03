@@ -1,8 +1,8 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "push" on Fri, 4 Sept 2026.
+Grelle Forelle is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "push" on Fri, 4 Sept 2026.
 
-Grelle Forelle is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including Alba Franch, Aleta, Amøn and ASCHENBRENNER and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
+Grelle Forelle is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including Alba Franch, Aleta, Amøn and Andy Catana and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 8 upcoming night
 | Sat, 19 Sept 2026 | Contrast presents: Calyx, Kasra, QZB & More | Calyx, Kasra, SMG (UK), Sequent |
 | Fri, 25 Sept 2026 | Trancemaster Krause all night long | Trancemaster Krause |
 | Sat, 26 Sept 2026 | YN x BCCO | FENIM0RE, FX-31, KAROLINA, Sarica, future.666 |
+| Fri, 23 Oct 2026 | Sven Väth / TURBO | Andy Catana, MARØ (2), Maurizio Schmitz, Sven Vath |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # akt x hyperlove at Artheater
 
-akt x hyperlove at Artheater on Sat 5 Sept, Cologne. 5 acts on the bill: Aaro (3), DJ ASS TITS, KLARYOKO and Maara and 1 more. Techno. Preview the line-up and save it on soundcheck.
+akt x hyperlove at Artheater on Sat 5 Sept, Cologne. 6 acts on the bill: Aaro (3), DJ ASS TITS, juno.j and KLARYOKO and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ akt x hyperlove at Artheater on Sat 5 Sept, Cologne. 5 acts on the bill: Aaro (3
 
 - Aaro (3)
 - DJ ASS TITS
+- juno.j
 - KLARYOKO
 - Maara
 - ZAHNATZIN

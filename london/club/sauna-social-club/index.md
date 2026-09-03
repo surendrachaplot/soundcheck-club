@@ -12,7 +12,7 @@ Sauna Social Club is a music venue in London listed on soundcheck. 5 upcoming ni
 | Sat, 5 Sept 2026 | Ambient Sauna • Untitled 909 with basic chanel & RISHI | basic chanel |
 | Fri, 11 Sept 2026 | Ambient Sauna • seed with Colombian Drone Mafia & ray | Colombian Drone Mafia |
 | Sat, 12 Sept 2026 | Ambient Sauna • Dan Thorman | Dan Thorman |
-| Sun, 13 Sept 2026 | Ambient Sauna • dan nicholls: Calm Concert Series with Lauren Kinsela & TBA | dan nicholls |
+| Sun, 13 Sept 2026 | Ambient Sauna • dan nicholls: Calm Concerts Series with Lauren Kinsella & TBA | dan nicholls |
 
 ## Address
 

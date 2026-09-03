@@ -13,7 +13,7 @@ MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 6 upcoming nights,
 | Fri, 11 Sept 2026 | The Library with Dan Shake | Dan Shake, Dazzle Drums, The Library |
 | Sun, 20 Sept 2026 | Midnight Film Festival with Live Sound MICHAEL JACKSON MOONWALKER |  |
 | Fri, 16 Oct 2026 | COCAG-003 12' VINYL RELEASE PARTY | DNG (1), Genki Tanaka, Shimpei Watanabe, TORAO, YASUHARU MOTOMIYA |
-| Sat, 17 Oct 2026 | QUERICO ANNIVERSARY |  |
+| Sat, 17 Oct 2026 | QUERICO ANNIVERSARY | Kuniyuki, Lil' Louis |
 
 ## Address
 

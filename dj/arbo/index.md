@@ -1,14 +1,15 @@
 # Arbo
 
-Arbo is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at KALT, Strasbourg on Sat, 5 Sept 2026.
+Arbo is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KALT, Strasbourg on Sat, 5 Sept 2026.
 
-Arbo is a techno and ambient artist based in France, tracked on soundcheck, with 9 sets logged across Strasbourg. Often billed alongside ANNUN, FTFL and STU (FR). Next up: KALT, Strasbourg on Sat 5 Sept.
+Arbo is a techno and club artist based in France, tracked on soundcheck, with 10 sets logged across Strasbourg. Often billed alongside ANNUN, FTFL and STU (FR). Next up: KALT, Strasbourg on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | KALT | Strasbourg |
+| Fri, 2 Oct 2026 | LE Rafiot Club | Strasbourg |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # N8SCHICHT at Artheater
 
-N8SCHICHT at Artheater on Sat 12 Sept, Cologne. 3 acts on the bill: Aw508, BOLZ and NAKAMA. Trance and Techno. Preview the line-up and save it on soundcheck.
+N8SCHICHT at Artheater on Sat 12 Sept, Cologne. 4 acts on the bill: Aw508, BOLZ, Miss Rapid and NAKAMA. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ N8SCHICHT at Artheater on Sat 12 Sept, Cologne. 3 acts on the bill: Aw508, BOLZ 
 
 - Aw508
 - BOLZ
+- Miss Rapid
 - NAKAMA
 
 *Source: [soundcheck](https://soundcheck.club/e/2523737-n8schicht-at-artheater/)*

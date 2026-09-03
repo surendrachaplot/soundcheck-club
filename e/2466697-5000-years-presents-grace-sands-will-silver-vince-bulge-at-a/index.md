@@ -1,6 +1,6 @@
 # 5000 Years presents: Grace Sands, Will Silver, Vince Bulge at Aaja Basement
 
-5000 Years presents: Grace Sands, Will Silver, Vince Bulge at Aaja Basement on Fri 4 Sept, London. 2 acts on the bill: Grace Sands and Will Silver. Techno and House. Preview the line-up and save it on soundcheck.
+5000 Years presents: Grace Sands, Will Silver, Vince Bulge at Aaja Basement on Fri 4 Sept, London. 3 acts on the bill: Grace Sands, Vince Bulge and Will Silver. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Grace Sands
+- Vince Bulge
 - Will Silver
 
 *Source: [soundcheck](https://soundcheck.club/e/2466697-5000-years-presents-grace-sands-will-silver-vince-bulge-at-a/)*

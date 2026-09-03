@@ -1,8 +1,8 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 15 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "5 JAHRE Fridas Pier - DAY 01" on Fri, 4 Sept 2026.
+Fridas Pier is a music venue in Stuttgart with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "5 JAHRE Fridas Pier - DAY 01" on Fri, 4 Sept 2026.
 
-Fridas Pier is a music venue in Stuttgart listed on soundcheck. 15 upcoming nights, with line-ups including A.D.H.S., Alex Kassian, Analog Crystal and Andreas Henneberg and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
+Fridas Pier is a music venue in Stuttgart listed on soundcheck. 16 upcoming nights, with line-ups including A.D.H.S., Alex Kassian, Analog Crystal and Andreas Henneberg and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 15 upcoming nigh
 | Fri, 25 Sept 2026 | FCKNG SERIOUS DAY & NIGHT RAVE | Ann Clue, Deniz Bul, Fab Massimo, Ginger, Jakob (BE), Julian Wassermann, Moritz Hofbauer, shot by stanley |
 | Sat, 26 Sept 2026 | KATER SHOWCASE | Claudius, DIEGÖ, Femcat, Mimi Love, Miss Evoice, Pauli Pocket, Sven Dohse |
 | Fri, 9 Oct 2026 | LAKEWAVE pres. Teenage Mutants | Bjørnson, Nika (2), Sayuri (1), Teenage Mutants |
-| Sat, 17 Oct 2026 | Ritter Butzke X Herz&Seele | Prismode, Solee, Solvane, Super Flu, Wanda Wild |
+| Fri, 16 Oct 2026 | WYLDHEARTS | BabaBass3000, DjRundfunk, Nachtwasser, SUITSIDE |
 
 ## Address
 

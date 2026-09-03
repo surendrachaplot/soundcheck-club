@@ -1,6 +1,6 @@
 # Juiced 2nd Birthday at Cobalt Studios
 
-Juiced 2nd Birthday at Cobalt Studios on Fri 20 Nov, Newcastle. Preview the line-up and save it on soundcheck.
+Juiced 2nd Birthday at Cobalt Studios on Fri 20 Nov, Newcastle. Tech House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

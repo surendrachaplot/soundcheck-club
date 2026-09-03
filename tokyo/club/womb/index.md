@@ -16,7 +16,7 @@ WOMB is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with li
 | Sat, 12 Sept 2026 | EVERY | Akie, CHIDA, KZA, Karuta, RYOKEI, YAMARCHY, YELLOWUHURU |
 | Mon, 21 Sept 2026 | TELEPATH (TECHNO) | 7e, A Strange Wedding, Herbalistek, Hue Ray, OCCA, Shinsuke Goto, Toner(JP) |
 | Tue, 22 Sept 2026 | YAGI BPM EXHIBITION 2026 | CYBERHACKSYSTEM, HIMAWARI, JUN INAGAWA, YUVIE, Yohji Igarashi, ecec, kengotaki, pinponpanpon |
-| Fri, 25 Sept 2026 | A.S.F | KINO (UY), P-YAN, RYOKEI |
+| Fri, 25 Sept 2026 | A.S.F | KINO (UY), Karuta, P-YAN, RYOKEI, ildec |
 | Sat, 26 Sept 2026 | INTENTION | Dani Savant, Drunken Kong, MISA, Mayuri, Shogo Ito, U:ICHI, WAKA XINXI, WATARU, Yamato |
 
 ## Address

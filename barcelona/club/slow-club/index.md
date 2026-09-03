@@ -9,7 +9,7 @@ Slow Club is a music venue in Barcelona listed on soundcheck. 17 upcoming nights
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Deep, Tech, House by Navider | Navider |
-| Fri, 4 Sept 2026 | Tribalesque: Navider invites Alen Hertz | Alen Hertz, Navider |
+| Fri, 4 Sept 2026 | Tribalesque: Navider | Alen Hertz, Navider |
 | Sat, 5 Sept 2026 | The Retrospective: Luis Bonias + Frankie G | Frankie G, Luis Bonias |
 | Thu, 10 Sept 2026 | Deep, Tech, House by Navider | Navider |
 | Fri, 11 Sept 2026 | Introspection: Navider B2B Frankie G | Frankie G, Navider |

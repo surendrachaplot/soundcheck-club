@@ -1,6 +1,6 @@
 # MoBlack, Rim SDL, Mezz at Bazart
 
-MoBlack, Rim SDL, Mezz at Bazart on Fri 11 Sept, Montreal. 1 act on the bill: MoBlack. Preview the line-up and save it on soundcheck.
+MoBlack, Rim SDL, Mezz at Bazart on Fri 11 Sept, Montreal. 2 acts on the bill: MoBlack and Rim SDL. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ MoBlack, Rim SDL, Mezz at Bazart on Fri 11 Sept, Montreal. 1 act on the bill: Mo
 ## Line-up
 
 - MoBlack
+- Rim SDL
 
 *Source: [soundcheck](https://soundcheck.club/e/2517850-moblack-rim-sdl-mezz-at-bazart/)*

@@ -1,14 +1,15 @@
 # Ana Hagen
 
-Ana Hagen is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 25 Sept 2026.
+Ana Hagen is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 25 Sept 2026.
 
-Ana Hagen is a house and techno artist based in Argentina, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Buenosaires and Lisbon. Often billed alongside Bermani, Manu Oubiña and Ian Puchetti. Next up: Crobar - Buenos Aires, Buenosaires on Fri 25 Sept.
+Ana Hagen is a house and techno artist based in Argentina, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Buenosaires and Lisbon. Often billed alongside Manu Oubiña, Bermani and Ian Puchetti. Next up: Crobar - Buenos Aires, Buenosaires on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Crobar - Buenos Aires | Buenos Aires |
+| Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 21 Nov 2026 | Under Club | Buenos Aires |
 
 ## Recently played
@@ -24,6 +25,6 @@ Ana Hagen is a house and techno artist based in Argentina, tracked on soundcheck
 
 ## Shares bills with
 
-Bermani, Manu Oubiña, Ian Puchetti
+Manu Oubiña, Bermani, Ian Puchetti
 
 *Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anahagen/)*

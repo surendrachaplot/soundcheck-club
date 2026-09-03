@@ -2,7 +2,7 @@
 
 Wang Tough is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kockiri, Seoul on Thu, 3 Sept 2026.
 
-Wang Tough is a techno and house artist tracked on soundcheck, with 11 sets logged across Seoul. Often billed alongside XingXing, Dongyoung and E3. Next up: Kockiri, Seoul on Thu 3 Sept.
+Wang Tough is a techno and house artist tracked on soundcheck, with 11 sets logged across Seoul. Often billed alongside Xing Xing, Dongyoung and E3. Next up: Kockiri, Seoul on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Wang Tough is a techno and house artist tracked on soundcheck, with 11 sets logg
 
 ## Shares bills with
 
-XingXing, Dongyoung, E3
+Xing Xing, Dongyoung, E3
 
 *Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wangtough/)*

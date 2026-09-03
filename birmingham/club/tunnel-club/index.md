@@ -9,7 +9,7 @@ Tunnel Club is a music venue in Birmingham listed on soundcheck. 3 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | MODUL8 x A*S*Y*S - 100% Techno. 0% Compromise | A*S*Y*S (2), ASLO, The Dark Arch (T.D.A) |
-| Fri, 2 Oct 2026 | Regis invites @ Birmingham Techno: Tresor 35 with DJ Pete + more | DJ Pete, Gremlinz, Holsten, Regis, Sleeparchive |
+| Fri, 2 Oct 2026 | Regis invites @ Birmingham Techno: Tresor 35 with DJ Pete, Sleeparchive + more | DJ Pete, Gremlinz, Holsten, Regis, Sleeparchive |
 | Fri, 30 Oct 2026 | HOUSE OF GOD HALLOWEEN 2026 |  |
 
 ## Address

@@ -1,6 +1,6 @@
 # Salon D'Illusion - Afrodite at Salon Daomé
 
-Salon D'Illusion - Afrodite at Salon Daomé on Thu 3 Sept, Montreal. 1 act on the bill: Ekitwanda. Preview the line-up and save it on soundcheck.
+Salon D'Illusion - Afrodite at Salon Daomé on Thu 3 Sept, Montreal. 3 acts on the bill: Ekitwanda, Koppi and Rim SDL. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Salon D'Illusion - Afrodite at Salon Daomé on Thu 3 Sept, Montreal. 1 act on th
 ## Line-up
 
 - Ekitwanda
+- Koppi
+- Rim SDL
 
 *Source: [soundcheck](https://soundcheck.club/e/2502164-salon-d-illusion-afrodite-at-salon-daom/)*

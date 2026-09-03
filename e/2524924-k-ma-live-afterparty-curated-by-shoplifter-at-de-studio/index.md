@@ -1,6 +1,6 @@
 # KŌMA (live) + afterparty curated by Shoplifter at De Studio
 
-KŌMA (live) + afterparty curated by Shoplifter at De Studio on Fri 11 Sept, Antwerp. 4 acts on the bill: Casper (FIN), dirtydms, KŌMA (3) and Shoplifter. Bass and Electronica. Preview the line-up and save it on soundcheck.
+KŌMA (live) + afterparty curated by Shoplifter at De Studio on Fri 11 Sept, Antwerp. 5 acts on the bill: Casper, Casper (FIN), dirtydms and KŌMA (3) and 1 more. Bass and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KŌMA (live) + afterparty curated by Shoplifter at De Studio on Fri 11 Sept, Ant
 
 ## Line-up
 
+- Casper
 - Casper (FIN)
 - dirtydms
 - KŌMA (3)

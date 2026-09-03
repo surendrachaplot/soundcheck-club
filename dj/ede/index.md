@@ -1,14 +1,15 @@
 # Ede
 
-Ede is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Scorpios, Mykonos on Thu, 3 Sept 2026.
+Ede is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Scorpios, Mykonos on Thu, 3 Sept 2026.
 
-Ede is a techno and house artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Scorpios, Mykonos on Thu 3 Sept.
+Ede is a techno and house artist based in Germany, tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Scorpios, Mykonos on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Scorpios | Mykonos |
+| Sat, 19 Sept 2026 | Botanico Tbilisi | Tbilisi |
 | Sat, 26 Sept 2026 | TBA - Málaga Forum | Malaga |
 
 ## Recently played

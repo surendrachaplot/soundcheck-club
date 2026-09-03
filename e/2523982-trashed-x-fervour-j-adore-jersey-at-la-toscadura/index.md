@@ -1,6 +1,6 @@
 # TRASHED X FERVOUR: J'adore Jersey at La Toscadura
 
-TRASHED X FERVOUR: J'adore Jersey at La Toscadura on Fri 4 Sept, Montreal. 6 acts on the bill: Ard1n, fangsie, OGQT and OJC (1) and 2 more. Club. Preview the line-up and save it on soundcheck.
+TRASHED X FERVOUR: J'adore Jersey at La Toscadura on Fri 4 Sept, Montreal. 7 acts on the bill: Ard1n, fangsie, kneesplint and OGQT and 3 more. Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ TRASHED X FERVOUR: J'adore Jersey at La Toscadura on Fri 4 Sept, Montreal. 6 act
 
 - Ard1n
 - fangsie
+- kneesplint
 - OGQT
 - OJC (1)
 - refanged

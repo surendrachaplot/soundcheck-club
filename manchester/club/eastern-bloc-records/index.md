@@ -1,8 +1,8 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 18 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Haunted Dancehall presents" on Thu, 3 Sept 2026.
+Eastern Bloc Records is a music venue in Manchester with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Haunted Dancehall presents" on Thu, 3 Sept 2026.
 
-Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 18 upcoming nights, with line-ups including Adrian Skiba, Andy Green, Balrog and Connor (UK) and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
+Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 19 upcoming nights, with line-ups including Adrian Skiba, Andy Green, Artilect and Balrog and 2 more. Browse upcoming dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
 ## What's on
 

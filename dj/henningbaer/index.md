@@ -1,13 +1,14 @@
 # Henning Baer
 
-Henning Baer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret Location, Toronto on Sun, 11 Oct 2026.
+Henning Baer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at VENT, Tokyo on Sat, 10 Oct 2026.
 
-Henning Baer is a techno and house artist based in Germany, tracked on soundcheck, with 75 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside P.E.A.R.L., JKS and Laure Croft. Next up: TBA - Secret Location, Toronto on Sun 11 Oct.
+Henning Baer is a techno and house artist based in Germany, tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside P.E.A.R.L., JKS and Laure Croft. Next up: VENT, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | VENT | Tokyo |
 | Sun, 11 Oct 2026 | TBA - Secret Location | Toronto |
 
 ## Recently played

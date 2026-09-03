@@ -1,14 +1,15 @@
 # Andrew Cairns
 
-Andrew Cairns is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Centre Point, Dublin on Fri, 4 Sept 2026.
+Andrew Cairns is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Centre Point, Dublin on Fri, 4 Sept 2026.
 
-Andrew Cairns is a techno and hardcore artist tracked on soundcheck, with 30 sets logged across Belfast, Budapest, Cologne and Dublin and 6 more. Often billed alongside Jason Cluff, Jezza & Jod and blk.. Next up: Centre Point, Dublin on Fri 4 Sept.
+Andrew Cairns is a techno and hardcore artist tracked on soundcheck, with 31 sets logged across Belfast, Budapest, Cologne and Dublin and 6 more. Often billed alongside Jason Cluff, Jezza & Jod and blk.. Next up: Centre Point, Dublin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Centre Point | Dublin |
+| Sat, 26 Sept 2026 | The Telegraph Building | Belfast |
 | Sun, 1 Nov 2026 | Content | Liverpool |
 | Sat, 28 Nov 2026 | Akvárium Klub | Budapest |
 

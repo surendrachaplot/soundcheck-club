@@ -1,6 +1,6 @@
 # Koenji Cave presents - Tempest - Vol.23 at Koenji Cave
 
-Koenji Cave presents - Tempest - Vol.23 on Sat 26 Sept, Tokyo. Preview the line-up and save it on soundcheck.
+Koenji Cave presents - Tempest - Vol.23 on Sat 26 Sept, Tokyo. Acid and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

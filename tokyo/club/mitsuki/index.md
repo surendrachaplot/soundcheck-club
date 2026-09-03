@@ -16,7 +16,7 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with
 | Wed, 9 Sept 2026 | SOMEONE'S HOUSE | SAMO (JP), kengotaki, r1ku |
 | Thu, 10 Sept 2026 | SYNC |  |
 | Fri, 11 Sept 2026 | MOVE ムーブ | Al Jones, FU (JP), Lvca, MOOD HSM, OMOLOKO |
-| Fri, 18 Sept 2026 | Purple Essence feat. Shakolin | Chihoshi, Shakolin, YOYOHEI |
+| Fri, 18 Sept 2026 | Purple Essence feat. Shakolin | Chihoshi, RYOKEI, Shakolin, YOYOHEI, kRs (2) |
 | Sat, 19 Sept 2026 | QUERICO x CREATURES OF THE NIGHT: Zombies in Miami, DSKE & Manaha | An toi, DSKE, Manaha, Zombies In Miami |
 
 ## Address

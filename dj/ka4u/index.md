@@ -1,8 +1,8 @@
 # KA4U
 
-KA4U is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mitsuki, Tokyo on Thu, 3 Sept 2026.
+KA4U is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mitsuki, Tokyo on Thu, 3 Sept 2026.
 
-KA4U is a techno and house artist tracked on soundcheck, with 74 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Limited Toss, Ascalypso and GYOKU. Next up: Mitsuki, Tokyo on Thu 3 Sept.
+KA4U is a techno and house artist tracked on soundcheck, with 75 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Limited Toss, Ascalypso and GYOKU. Next up: Mitsuki, Tokyo on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KA4U is a techno and house artist tracked on soundcheck, with 74 sets logged acr
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Mitsuki | Tokyo |
 | Sat, 12 Sept 2026 | Club Daphnia | Osaka |
+| Sat, 14 Nov 2026 | Kyoto University Yoshida Dormitory | Kyoto |
 
 ## Recently played
 

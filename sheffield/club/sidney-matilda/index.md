@@ -17,7 +17,7 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 13 upcoming
 | Fri, 23 Oct 2026 | S&M x Wub Club presents: Dillinja | Charla Green, Dillinja |
 | Sat, 24 Oct 2026 | S&M presents: 808 State (DJ Set) | 808 State |
 | Fri, 30 Oct 2026 | BLEND 4: IT'S SLIME TIME | Linnemann |
-| Sat, 31 Oct 2026 | WICKED BEHAVIOUR: MATTIK, Ziggy Ostas, DEADBEAT UK & MANY MORE  | F3rg13, IMO UK, Mattik (UK), Ziggy Ostas |
+| Sat, 31 Oct 2026 | WICKED BEHAVIOUR: MATTIK, Ziggy Ostas, DEADBEAT UK & MANY MORE  | F3rg13, IMO UK, JOESELECTA, Mattik (UK), Ziggy Ostas |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # Aiconga
 
-Aiconga is a Dub and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Urbanguild, Kyoto on Sun, 20 Sept 2026.
+Aiconga is a Latin Bass and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Urbanguild, Kyoto on Sun, 20 Sept 2026.
 
-Aiconga is a dub and club artist based in Japan, tracked on soundcheck, with 31 sets logged across Kyoto. Often billed alongside skn(sakana), MAX PELA and Ryoma Sasaki. Next up: Urbanguild, Kyoto on Sun 20 Sept.
+Aiconga is a latin bass and dub artist based in Japan, tracked on soundcheck, with 32 sets logged across Kyoto. Often billed alongside skn(sakana), MAX PELA and Ryoma Sasaki. Next up: Urbanguild, Kyoto on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Urbanguild | Kyoto |
+| Sat, 14 Nov 2026 | Kyoto University Yoshida Dormitory | Kyoto |
 
 ## Recently played
 

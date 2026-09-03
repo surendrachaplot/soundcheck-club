@@ -9,7 +9,7 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 15 upcoming nigh
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | SALON D'ILLUSION x AFRODITE 🎧♫ / KOPPI, RIM SDL, EKITWANDA | Ekitwanda |
-| Thu, 3 Sept 2026 | Salon D'Illusion - Afrodite | Ekitwanda |
+| Thu, 3 Sept 2026 | Salon D'Illusion - Afrodite | Ekitwanda, Koppi, Rim SDL |
 | Fri, 4 Sept 2026 | YVNNI, Backspin | YVNNI |
 | Sat, 5 Sept 2026 | Prichindel, Artphorm, Dylan Cherry | Artphorm, Dylan Cherry, Prichindel |
 | Sun, 6 Sept 2026 | DAHOMEY — T-DANCE | Don Barbarino, UZI (Soulmeka) |

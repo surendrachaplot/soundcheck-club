@@ -1,8 +1,8 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SOS Colombia Fundraiser: Violeta, SHAME, Cosmo, DJ Punani" on Thu, 3 Sept 2026.
+Bar Datcha is a music venue in Montreal with 12 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SOS Colombia Fundraiser: Violeta, SHAME, Cosmo, DJ Punani" on Thu, 3 Sept 2026.
 
-Bar Datcha is a music venue in Montreal listed on soundcheck. 11 upcoming nights, with line-ups including AṢKIM, Casa Kobrae, Colmee and CUERPOS and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
+Bar Datcha is a music venue in Montreal listed on soundcheck. 12 upcoming nights, with line-ups including AṢKIM, Casa Kobrae, Colmee and CUERPOS and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 11 upcoming nights
 | Thu, 17 Sept 2026 | Askim, Felix Patry, CasaKobrae | AṢKIM, Casa Kobrae, Felix Patry |
 | Fri, 18 Sept 2026 | Juno [Paragon & Bossa Nova, NYC], s.talbot, HVN | HVN (1), Juno (NY), s.talbot |
 | Sat, 19 Sept 2026 | DATCHA NONSTOP x Midnite Club: ÈBONY, Groceries, Minzi Roberta | Groceries, Jordan Gardner, Èbony |
-| Fri, 25 Sept 2026 | Afrodite X Abantu |  |
+| Thu, 24 Sept 2026 | Frikiton presents Sonidos Prohibidos: Lu B, Nana Zen, DJ Pana |  |
 
 ## Address
 

@@ -8,7 +8,7 @@ Modeci is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with l
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TESTING 002 | Ahnce, Uni (3), XingXing, Young Sun |
+| Fri, 4 Sept 2026 | TESTING 002 | Ahnce, Uni (3), Xing Xing, Young Sun |
 | Sat, 5 Sept 2026 | Aton (IT / Berlin) | .2ndfloor, Aton, Kyuchan, Yoel, chani |
 
 ## Address
