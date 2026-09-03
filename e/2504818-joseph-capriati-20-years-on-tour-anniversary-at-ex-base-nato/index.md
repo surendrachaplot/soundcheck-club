@@ -1,6 +1,6 @@
 # Joseph Capriati 20 Years on Tour Anniversary at Ex Base Nato
 
-Joseph Capriati 20 Years on Tour Anniversary at Ex Base Nato on Sun 27 Sept, Naples. 5 acts on the bill: Chris Stussy, Honey Dijon, Joseph Capriati and Josh Baker and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Joseph Capriati 20 Years on Tour Anniversary at Ex Base Nato on Sun 27 Sept, Naples. 5 acts on the bill: Chris Stassy, Honey Dijon, Joseph Capriati and Josh Baker and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Joseph Capriati 20 Years on Tour Anniversary at Ex Base Nato on Sun 27 Sept, Nap
 
 ## Line-up
 
-- Chris Stussy
+- Chris Stassy
 - Honey Dijon
 - Joseph Capriati
 - Josh Baker

@@ -1,13 +1,14 @@
 # Sunday Lee
 
-Sunday Lee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at teller, Seoul on Sat, 26 Sept 2026.
+Sunday Lee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Evening, Seoul on Fri, 4 Sept 2026.
 
-Sunday Lee is a house and techno artist based in South Korea, tracked on soundcheck, with 146 sets logged across Seoul. Often billed alongside Kugel, Cosmo (KR) and DJ Funny. Next up: teller, Seoul on Sat 26 Sept.
+Sunday Lee is a house and techno artist based in South Korea, tracked on soundcheck, with 147 sets logged across Seoul. Often billed alongside Kugel, Cosmo (KR) and DJ Funny. Next up: Evening, Seoul on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Evening | Seoul |
 | Sat, 26 Sept 2026 | teller | Seoul |
 
 ## Recently played

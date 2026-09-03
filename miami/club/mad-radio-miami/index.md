@@ -1,15 +1,13 @@
 # Mad Radio Miami
 
-Mad Radio Miami is a music venue in Miami with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Reydel" on Wed, 2 Sept 2026.
+Mad Radio Miami is a music venue in Miami with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Wax'n Dance" on Thu, 3 Sept 2026.
 
-Mad Radio Miami is a music venue in Miami listed on soundcheck. 8 upcoming nights, with line-ups including ANABELEN, Cami di Marzo, Cucu and Dicky Trisco and 2 more. Browse upcoming dates, start times and who's playing. 7700 Biscayne Blvd, Miami, FL 33138.
+Mad Radio Miami is a music venue in Miami listed on soundcheck. 6 upcoming nights, with line-ups including ANABELEN, Cami di Marzo, Cucu and Dicky Trisco and 2 more. Browse upcoming dates, start times and who's playing. 7700 Biscayne Blvd, Miami, FL 33138.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Reydel |  |
-| Wed, 2 Sept 2026 | REYDEL / XONYA / XXEN / Patafunk | Patafunk |
 | Thu, 3 Sept 2026 | Wax'n Dance |  |
 | Thu, 3 Sept 2026 | WAX'N DANCE: ASTARA / EMMA / Meghan Lee | Meghan Lee |
 | Fri, 4 Sept 2026 | THE LOVE TEMPO ANNIVERSARY: Dicky Trisco / BRAD STRICKLAND / Padraic Carey | Dicky Trisco, Padraic Carey |

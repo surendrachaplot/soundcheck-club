@@ -1,6 +1,6 @@
 # GASHOUDER: Chris Stassy presents USS at GASHOUDER
 
-GASHOUDER: Chris Stassy presents USS on Sat 28 Nov, Amsterdam. 1 act on the bill: Chris Stussy. House. Preview the line-up and save it on soundcheck.
+GASHOUDER: Chris Stassy presents USS on Sat 28 Nov, Amsterdam. 1 act on the bill: Chris Stassy. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ GASHOUDER: Chris Stassy presents USS on Sat 28 Nov, Amsterdam. 1 act on the bill
 
 ## Line-up
 
-- Chris Stussy
+- Chris Stassy
 
 *Source: [soundcheck](https://soundcheck.club/e/2525055-gashouder-chris-stassy-presents-uss-at-gashouder/)*

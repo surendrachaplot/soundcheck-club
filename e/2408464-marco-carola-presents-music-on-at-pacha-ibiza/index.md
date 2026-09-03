@@ -1,6 +1,6 @@
 # Marco Carola PRESENTS MUSIC ON at Pacha Ibiza
 
-Marco Carola PRESENTS MUSIC ON at Pacha Ibiza on Fri 11 Sept, Ibiza. 7 acts on the bill: Arapu, Chris Stussy, Danyelino and Mahony and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Marco Carola PRESENTS MUSIC ON at Pacha Ibiza on Fri 11 Sept, Ibiza. 7 acts on the bill: Arapu, Chris Stassy, Danyelino and Mahony and 3 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Marco Carola PRESENTS MUSIC ON at Pacha Ibiza on Fri 11 Sept, Ibiza. 7 acts on t
 ## Line-up
 
 - Arapu
-- Chris Stussy
+- Chris Stassy
 - Danyelino
 - Mahony
 - Marco Carola

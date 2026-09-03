@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 78 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "minimal dub mit zerka" on Wed, 2 Sept 2026.
+Minimal Bar is a music venue in Berlin with 77 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "electronic.thursday mit Pablo Cornejo (Chile)" on Thu, 3 Sept 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 78 upcoming nights, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 77 upcoming nights, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | minimal dub mit zerka |  |
 | Thu, 3 Sept 2026 | electronic.thursday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 | Fri, 4 Sept 2026 | BEATHEIM night with Bruno Otranto & Friends |  |
 | Sat, 5 Sept 2026 | U10247 × Enough! Music (feat. Eveline Fink, Danilo Schneider, maniac&me) | Danilo Schneider, Eveline Fink, maniac&me |
@@ -18,6 +17,7 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 78 upcoming nights,
 | Wed, 9 Sept 2026 | mittendrin mit Fineberg | Fineberg |
 | Thu, 10 Sept 2026 | electronic.thursday mit halfaneagle |  |
 | Fri, 11 Sept 2026 | friends.zone mit Fritz Funke & Freunde | Fritz Funke |
+| Sat, 12 Sept 2026 | DAZA & freunde | DAZA |
 
 ## Address
 

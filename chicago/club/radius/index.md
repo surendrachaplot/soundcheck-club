@@ -8,7 +8,7 @@ Radius is a music venue in Chicago listed on soundcheck. 32 upcoming nights, wit
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | ARC After Dark: Chris Stassy, Silva Bumpa, IDEMI | Chris Stussy, IDEMI, Silva Bumpa |
+| Fri, 4 Sept 2026 | ARC After Dark: Chris Stassy, Silva Bumpa, IDEMI | Chris Stassy, IDEMI, Silva Bumpa |
 | Fri, 4 Sept 2026 | ARC After Dark: Chase & Status at Cermak Hall | Chase & Status |
 | Sat, 5 Sept 2026 | ARC After Dark: Mau P, Paco Osuna, Obskür | Mau P, Paco Osuna |
 | Sat, 5 Sept 2026 | ARC After Dark: 999999999, DAX J, I Hate Models at Cermak Hall | 999999999, DAX J, I Hate Models |

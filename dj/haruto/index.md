@@ -1,14 +1,13 @@
 # HARUTO
 
-HARUTO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Red Bar, Tokyo on Wed, 2 Sept 2026.
+HARUTO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at VENT, Tokyo on Sat, 5 Sept 2026.
 
-HARUTO is a house and techno artist based in Japan, tracked on soundcheck, with 103 sets logged across Osaka and Tokyo. Often billed alongside YASUHARU MOTOMIYA, KUBOTA and Louis Shannon. Next up: Red Bar, Tokyo on Wed 2 Sept.
+HARUTO is a house and techno artist based in Japan, tracked on soundcheck, with 103 sets logged across Osaka and Tokyo. Often billed alongside YASUHARU MOTOMIYA, KUBOTA and Louis Shannon. Next up: VENT, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Red Bar | Tokyo |
 | Sat, 5 Sept 2026 | VENT | Tokyo |
 
 ## Recently played

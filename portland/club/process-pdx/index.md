@@ -1,8 +1,8 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Different Animal presents - Nikki Nair, Basico, Bryson Mills, Earthtoboy, Slurgeon" on Thu, 3 Sept 2026.
+Process PDX is a music venue in Portland with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Different Animal presents - Nikki Nair, Basico, Bryson Mills, Earthtoboy, Slurgeon" on Thu, 3 Sept 2026.
 
-Process PDX is a music venue in Portland listed on soundcheck. 9 upcoming nights, with line-ups including Amtrac, Andy Martin, BMG and Decoder and 2 more. Browse upcoming dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
+Process PDX is a music venue in Portland listed on soundcheck. 10 upcoming nights, with line-ups including Amtrac, Andy Martin, BMG and Decoder and 2 more. Browse upcoming dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Process PDX is a music venue in Portland listed on soundcheck. 9 upcoming nights
 | Fri, 4 Sept 2026 | Process Residency Night - Neutron Dance - Derek Plaslaiko invites: BMG | BMG, Derek Plaslaiko |
 | Sat, 5 Sept 2026 | Process Club Night - Powder, Nico Tobón | Nico Tobón, Powder |
 | Thu, 10 Sept 2026 | Process Club Night - Decoder All Night Long | Decoder |
+| Fri, 11 Sept 2026 | luckY lottO with othrwrld and Special Guest DJ | Special Guest DJ |
 | Sat, 12 Sept 2026 | Process Residency Night - SPRKLBB invites: Nita Aviance | Nita Aviance, SPRKLBB |
 | Fri, 18 Sept 2026 | Contact x Be Yourself: Osmosis Pre Party | Andy Martin, Gardenparty, Moussa مُوسَى, Yushh |
 | Sat, 19 Sept 2026 | One Half NelSon presents: Hickey Machine |  |

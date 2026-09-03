@@ -1,8 +1,8 @@
 # Rimarkable
 
-Rimarkable is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TV Lounge, Detroit on Sat, 12 Sept 2026.
+Rimarkable is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TV Lounge, Detroit on Sat, 12 Sept 2026.
 
-Rimarkable is a house and techno artist based in United States of America, tracked on soundcheck, with 121 sets logged across Berlin, Boston, Chicago and Denver and 11 more. Often billed alongside LADYMONIX, Stacey Hotwaxx Hale and Carl Craig. Next up: TV Lounge, Detroit on Sat 12 Sept.
+Rimarkable is a house and techno artist based in United States of America, tracked on soundcheck, with 122 sets logged across Berlin, Boston, Chicago and Denver and 11 more. Often billed alongside LADYMONIX, Stacey Hotwaxx Hale and Carl Craig. Next up: TV Lounge, Detroit on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rimarkable is a house and techno artist based in United States of America, track
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TV Lounge | Detroit |
 | Sat, 26 Sept 2026 | Northern Lights Lounge | Detroit |
+| Sat, 10 Oct 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
 

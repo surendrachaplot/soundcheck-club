@@ -1,8 +1,8 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Supergloss is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
-Supergloss is a techno and trance artist tracked on soundcheck, with 207 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Industry City, Newyorkcity on Sat 5 Sept.
+Supergloss is a techno and trance artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 207 sets lo
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sun, 6 Sept 2026 | Factory Town | Miami |
+| Sat, 12 Sept 2026 | Avalon Hollywood | Los Angeles |
 | Sun, 13 Sept 2026 | 888 Garage | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | FOLD | London |
 | Sat, 26 Sept 2026 | Nitsa Club | Barcelona |
@@ -18,7 +19,6 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 207 sets lo
 | Sat, 17 Oct 2026 | Knockdown Center | New York City |
 | Thu, 22 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
-| Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 
 ## Recently played

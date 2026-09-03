@@ -1,8 +1,8 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "WR Records Release Party: TAKiN ft Santouri (live)" on Sat, 5 Sept 2026.
+Wiggle Room is a music venue in Toronto with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "WR Records Release Party: TAKiN ft Santouri (live)" on Sat, 5 Sept 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 9 upcoming nights, with line-ups including Addy, Barroness, BOZA and Carlos Manaça and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 11 upcoming nights, with line-ups including Addy, Barroness, BOZA and Carlos Manaça and 2 more. Browse upcoming dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 9 upcoming nights,
 | Fri, 11 Sept 2026 | Spacedisco Records: Hatiras + Seamus Haji (UK) | Hatiras, Seamus Haji |
 | Sat, 12 Sept 2026 | Home of Bouncy Beats: GMONEY - Junior Lopez | Juan Gmoney Jaramillo, Junior Lopez |
 | Sat, 12 Sept 2026 | Sunday SerVice: Kenny Glasgow [ house set] - 4AM LAST CALL | Kenny Glasgow, Manzone & Strong |
+| Sat, 19 Sept 2026 | Miz Megs - FLIPSIDE - Tyler Hill - Randomdoug | MC Flipside, Miz Megs, Randomdoug, Tyler Hill |
 | Sat, 26 Sept 2026 | Wiggle Room Records Release Party: CARLOS MENACA [Spain] | Addy, Carlos Manaça, Juan Gmoney Jaramillo, TAKiN |
 | Sat, 26 Sept 2026 | Wiggle Room's 31-Hour Anniversary Festival | Addy, BOZA, Barroness, Carlos Manaça, David Herrero, Hatiras, Joee Cons, Juan Gmoney Jaramillo, MC Flipside, Manzone & Strong, Miz Megs, Nour (CAN), Randomdoug, TAKiN, Tyler Hill |
 | Sun, 27 Sept 2026 | Sunday SerVice: Joee Cons Birthday Tribute | BOZA, Joee Cons, MC Flipside, Manzone & Strong, Miz Megs |

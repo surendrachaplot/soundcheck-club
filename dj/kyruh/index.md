@@ -1,8 +1,8 @@
 # KYRUH
 
-KYRUH is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+KYRUH is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
-KYRUH is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: Industry City, Newyorkcity on Sat 5 Sept.
+KYRUH is a techno and house artist tracked on soundcheck, with 151 sets logged across Amsterdam, Austin, Barcelona and Berlin and 14 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ KYRUH is a techno and house artist tracked on soundcheck, with 150 sets logged a
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Thu, 24 Sept 2026 | Good Room | New York City |
 | Fri, 9 Oct 2026 | Honey's | New York City |
+| Fri, 23 Oct 2026 | Signal | New York City |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 
 ## Recently played

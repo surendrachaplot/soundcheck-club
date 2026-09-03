@@ -1,6 +1,6 @@
 # DATCHA NONSTOP x Midnite Club: ÈBONY, Groceries, Minzi Roberta at Bar Datcha
 
-DATCHA NONSTOP x Midnite Club: ÈBONY, Groceries, Minzi Roberta at Bar Datcha on Sat 19 Sept, Montreal. 2 acts on the bill: Groceries and Jordan Gardner. Preview the line-up and save it on soundcheck.
+DATCHA NONSTOP x Midnite Club: ÈBONY, Groceries, Minzi Roberta at Bar Datcha on Sat 19 Sept, Montreal. 3 acts on the bill: Èbony, Groceries and Jordan Gardner. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DATCHA NONSTOP x Midnite Club: ÈBONY, Groceries, Minzi Roberta at Bar Datcha on
 
 ## Line-up
 
+- Èbony
 - Groceries
 - Jordan Gardner
 

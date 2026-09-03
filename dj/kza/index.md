@@ -1,14 +1,13 @@
 # KZA
 
-KZA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bonobo, Tokyo on Wed, 2 Sept 2026.
+KZA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at WOMB, Tokyo on Sat, 12 Sept 2026.
 
-KZA is a house and techno artist tracked on soundcheck, with 183 sets logged across Bali, Losangeles, Osaka and Portland and 4 more. Often billed alongside DJ Emma, Toshiyuki Goto and Kenji Takimi. Next up: Bonobo, Tokyo on Wed 2 Sept.
+KZA is a house and techno artist tracked on soundcheck, with 183 sets logged across Bali, Losangeles, Osaka and Portland and 4 more. Often billed alongside DJ Emma, Toshiyuki Goto and Kenji Takimi. Next up: WOMB, Tokyo on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Bonobo | Tokyo |
 | Sat, 12 Sept 2026 | WOMB | Tokyo |
 | Sat, 26 Sept 2026 | DJ Bar Bridge | Tokyo |
 | Sat, 10 Oct 2026 | DJ Bar Bridge | Tokyo |

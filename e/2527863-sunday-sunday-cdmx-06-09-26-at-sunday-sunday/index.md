@@ -1,6 +1,6 @@
 # Sunday Sunday CDMX: 06.09.26 at Sunday Sunday
 
-Sunday Sunday CDMX: 06.09.26 on Sun 6 Sept, Mexicocity. 3 acts on the bill: David Braun, Fina and Vanilla Storm. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Sunday Sunday CDMX: 06.09.26 on Sun 6 Sept, Mexicocity. 5 acts on the bill: allangrank, Damian Braun, David Braun and Fina and 1 more. House and Italo Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Sunday Sunday CDMX: 06.09.26 on Sun 6 Sept, Mexicocity. 3 acts on the bill: Davi
 
 ## Line-up
 
+- allangrank
+- Damian Braun
 - David Braun
 - Fina
 - Vanilla Storm

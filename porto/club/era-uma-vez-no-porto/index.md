@@ -1,14 +1,13 @@
 # Era uma vez no Porto
 
-Era uma vez no Porto is a music venue in Porto with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "R4W - Pedro Tabuada · All Night Vinyl Set" on Wed, 2 Sept 2026.
+Era uma vez no Porto is a music venue in Porto with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "BONUS_BASS B2B PSYBASS em noite de estreia" on Sun, 6 Sept 2026.
 
-Era uma vez no Porto is a music venue in Porto listed on soundcheck. 8 upcoming nights, with line-ups including Alive, Nuno di Rosso, Pedro Tabuada and Rui Azevedo and 1 more. Browse upcoming dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
+Era uma vez no Porto is a music venue in Porto listed on soundcheck. 7 upcoming nights, with line-ups including Alive, Nuno di Rosso, Rui Azevedo and Rui Trintaeum. Browse upcoming dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | R4W - Pedro Tabuada · All Night Vinyl Set | Pedro Tabuada |
 | Sun, 6 Sept 2026 | BONUS_BASS B2B PSYBASS em noite de estreia |  |
 | Wed, 9 Sept 2026 | R4W - Si Invites Lourenço |  |
 | Sun, 13 Sept 2026 | INDUSTRIAL FIRE |  |

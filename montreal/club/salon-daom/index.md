@@ -1,8 +1,8 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SALON D'ILLUSION x AFRODITE 🎧♫ | KOPPI, RIM SDL, EKITWANDA" on Thu, 3 Sept 2026.
+Salon Daomé is a music venue in Montreal with 15 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SALON D'ILLUSION x AFRODITE 🎧♫ | KOPPI, RIM SDL, EKITWANDA" on Thu, 3 Sept 2026.
 
-Salon Daomé is a music venue in Montreal listed on soundcheck. 11 upcoming nights, with line-ups including Artphorm, Bryan Wolf Ear, Clochette and Don Barbarino and 2 more. Browse upcoming dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
+Salon Daomé is a music venue in Montreal listed on soundcheck. 15 upcoming nights, with line-ups including Artphorm, Bryan Wolf Ear, Clochette and Don Barbarino and 2 more. Browse upcoming dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Sarah Wreath
 
-Sarah Wreath is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Sarah Wreath is a Techno and Ambient artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
 
-Sarah Wreath is a techno and ambient artist based in Germany, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Brussels and London and 8 more. Often billed alongside Function, Eli Verveine and Gwenan. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
+Sarah Wreath is a techno and ambient artist based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Brussels and London and 8 more. Often billed alongside Function, Eli Verveine and Gwenan. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sarah Wreath is a techno and ambient artist based in Germany, tracked on soundch
 | Fri, 18 Sept 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Fri, 25 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 26 Sept 2026 | TBA - Los Angeles | Los Angeles |
+| Sat, 3 Oct 2026 | Signal | New York City |
 
 ## Recently played
 

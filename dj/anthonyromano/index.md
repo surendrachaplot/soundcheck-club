@@ -1,14 +1,15 @@
 # Anthony Romano
 
-Anthony Romano is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at SILO, New York City on Thu, 3 Sept 2026.
+Anthony Romano is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SILO, New York City on Thu, 3 Sept 2026.
 
-Anthony Romano is a house and tech house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Newyorkcity. Often billed alongside LEFTI, James Patterson and Rich Furniss. Next up: SILO, Newyorkcity on Thu 3 Sept.
+Anthony Romano is a house and tech house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Newyorkcity. Often billed alongside LEFTI, James Patterson and Rich Furniss. Next up: SILO, Newyorkcity on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | SILO | New York City |
+| Fri, 2 Oct 2026 | Wollman Rink | New York City |
 
 ## Recently played
 

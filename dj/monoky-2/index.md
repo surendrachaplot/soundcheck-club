@@ -1,8 +1,8 @@
 # Monoky (2)
 
-Monoky (2) is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Edge Miami, Miami on Sat, 5 Sept 2026.
+Monoky (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Edge Miami, Miami on Sat, 5 Sept 2026.
 
-Monoky (2) is a house and electronica artist based in United States of America, tracked on soundcheck, with 5 sets logged across Miami. Often billed alongside Berrakka, Cami di Marzo and ChaseWest. Next up: Edge Miami, Miami on Sat 5 Sept.
+Monoky (2) is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Miami. Often billed alongside Berrakka, Cami di Marzo and ChaseWest. Next up: Edge Miami, Miami on Sat 5 Sept.
 
 ## Upcoming shows
 

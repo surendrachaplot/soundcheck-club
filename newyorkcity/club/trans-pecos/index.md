@@ -9,7 +9,7 @@ Trans-Pecos is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nig
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | LATITUD3 | ALL EXITS, Deejay Energy, Seikel, Steinbock, Tomás Urquieta, gon2 |
-| Wed, 9 Sept 2026 | aidn., okayracer, Zaybeezy, Kobana |  |
+| Wed, 9 Sept 2026 | Zaybeezy, BroA$tar, JP Minerali, okayracer, Kobana, Elias Price |  |
 | Sat, 12 Sept 2026 | DJ SWISHA / DJ Technics / Syd / Marsh Crane | DJ SWISHA, DJ Technics, Syd (US) |
 | Thu, 17 Sept 2026 | DOWNBEAT DETECTION: Gavsborg, Max Watts, Kino Disk | Gavsborg, Max Watts, Spiral Eddie |
 

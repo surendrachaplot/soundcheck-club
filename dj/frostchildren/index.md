@@ -1,14 +1,13 @@
 # Frost Children
 
-Frost Children is a Pop and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Strange Brew, Bristol on Wed, 2 Sept 2026.
+Frost Children is a Pop and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Yamamori Tengu, Dublin on Sun, 6 Sept 2026.
 
-Frost Children is a pop and electronica artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside 10cust, Ali RQ and DJ Trick. Next up: Strange Brew, Bristol on Wed 2 Sept.
+Frost Children is a pop and electronica artist tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside 10cust, Ali RQ and DJ Trick. Next up: Yamamori Tengu, Dublin on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Strange Brew | Bristol |
 | Sun, 6 Sept 2026 | Yamamori Tengu | Dublin |
 | Sat, 14 Nov 2026 | BERHTA | Washington DC |
 

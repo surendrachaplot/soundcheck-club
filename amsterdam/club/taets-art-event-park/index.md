@@ -8,7 +8,7 @@ Taets Art & Event Park is a music venue in Amsterdam listed on soundcheck. 2 upc
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | No Art ADE Festival 2026 | ANOTR, Alci, Aline Umber, Brunello, Chris Stussy, HALFPINT, Hannecart, Hunee, Job Jobse, Mateo Dufour, Moxie, Rooléh, Saoirse |
+| Sat, 24 Oct 2026 | No Art ADE Festival 2026 | ANOTR, Alci, Aline Umber, Brunello, Chris Stassy, HALFPINT, Hannecart, Hunee, Job Jobse, Mateo Dufour, Moxie, Rooléh, Saoirse |
 | Sun, 25 Oct 2026 | GOLFOS [ADE] | Dennis Cruz, PAWSA |
 
 ## Address

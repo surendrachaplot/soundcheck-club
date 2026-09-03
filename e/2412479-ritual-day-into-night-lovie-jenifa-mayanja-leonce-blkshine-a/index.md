@@ -1,6 +1,6 @@
 # Ritual Day-Into-Night: Lovie, Jenifa Mayanja / Leonce, BLKshine at public records
 
-Ritual Day-Into-Night: Lovie, Jenifa Mayanja / Leonce, BLKshine at public records on Sun 6 Sept, Newyorkcity. 4 acts on the bill: BLKshine, Jenifa Mayanja, Leonce and Lovie. House. Preview the line-up and save it on soundcheck.
+Ritual Day-Into-Night: Lovie, Jenifa Mayanja / Leonce, BLKshine at public records on Sun 6 Sept, Newyorkcity. 4 acts on the bill: BLKshine, Jenifa Mayanja, Leonce and Lovie. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

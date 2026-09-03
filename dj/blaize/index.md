@@ -1,8 +1,8 @@
 # BLAIZE
 
-BLAIZE is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mood Ring, New York City on Thu, 3 Sept 2026.
+BLAIZE is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mood Ring, New York City on Thu, 3 Sept 2026.
 
-BLAIZE is a techno and club artist tracked on soundcheck, with 57 sets logged across Amsterdam, Budapest, London and Newyorkcity and 4 more. Often billed alongside ARCHANGEL (US), Amarji King and SEXINCHURCH. Next up: Mood Ring, Newyorkcity on Thu 3 Sept.
+BLAIZE is a techno and club artist tracked on soundcheck, with 58 sets logged across Amsterdam, Budapest, London and Newyorkcity and 4 more. Often billed alongside ARCHANGEL (US), SEXINCHURCH and Amarji King. Next up: Mood Ring, Newyorkcity on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ BLAIZE is a techno and club artist tracked on soundcheck, with 57 sets logged ac
 | Thu, 3 Sept 2026 | Mood Ring | New York City |
 | Fri, 4 Sept 2026 | Green Room NYC | New York City |
 | Fri, 4 Sept 2026 | Market Hotel | New York City |
+| Tue, 8 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 19 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 30 Oct 2026 | Paragon | New York City |
 
@@ -27,6 +28,6 @@ BLAIZE is a techno and club artist tracked on soundcheck, with 57 sets logged ac
 
 ## Shares bills with
 
-ARCHANGEL (US), Amarji King, SEXINCHURCH
+ARCHANGEL (US), SEXINCHURCH, Amarji King
 
 *Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blaize/)*

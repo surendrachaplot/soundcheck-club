@@ -1,8 +1,8 @@
 # Barroness
 
-Barroness is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Wiggle Room, Toronto on Sun, 6 Sept 2026.
+Barroness is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Wiggle Room, Toronto on Sun, 6 Sept 2026.
 
-Barroness is a tech house and house artist tracked on soundcheck, with 139 sets logged across Toronto. Often billed alongside TAKiN, Tyler Hill and Manzone & Strong. Next up: Wiggle Room, Toronto on Sun 6 Sept.
+Barroness is a tech house and house artist tracked on soundcheck, with 140 sets logged across Toronto. Often billed alongside TAKiN, Tyler Hill and Manzone & Strong. Next up: Wiggle Room, Toronto on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Barroness is a tech house and house artist tracked on soundcheck, with 139 sets 
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Wiggle Room | Toronto |
 | Sat, 26 Sept 2026 | Wiggle Room | Toronto |
+| Sat, 31 Oct 2026 | Wiggle Room | Toronto |
 
 ## Recently played
 

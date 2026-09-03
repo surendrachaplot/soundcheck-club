@@ -1,14 +1,15 @@
 # diedforthis
 
-diedforthis is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jupiter Disco, New York City on Sat, 5 Sept 2026.
+diedforthis is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jupiter Disco, New York City on Sat, 5 Sept 2026.
 
-diedforthis is a house and funk / soul artist tracked on soundcheck, with 32 sets logged across Detroit and Newyorkcity. Often billed alongside Dj Ellie, Extra Meesh and ATTHEMOMENT. Next up: Jupiter Disco, Newyorkcity on Sat 5 Sept.
+diedforthis is a house and funk / soul artist tracked on soundcheck, with 33 sets logged across Detroit and Newyorkcity. Often billed alongside Dj Ellie, Extra Meesh and ATTHEMOMENT. Next up: Jupiter Disco, Newyorkcity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Jupiter Disco | New York City |
+| Fri, 18 Sept 2026 | TBA - Win Son Bakery East Village | New York City |
 
 ## Recently played
 

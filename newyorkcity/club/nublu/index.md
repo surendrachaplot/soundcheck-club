@@ -1,13 +1,14 @@
 # Nublu
 
-Nublu is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Jorp 1 Release Party" on Fri, 25 Sept 2026.
+Nublu is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "scratch" on Fri, 18 Sept 2026.
 
-Nublu is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 62 Avenue C, New York, NY 10009, USA.
+Nublu is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Cataract and salameh. Browse upcoming dates, start times and who's playing. 62 Avenue C, New York, NY 10009, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | scratch | Cataract, salameh |
 | Fri, 25 Sept 2026 | Jorp 1 Release Party |  |
 
 ## Address

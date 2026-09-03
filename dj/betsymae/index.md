@@ -1,13 +1,14 @@
 # Betsy Mae
 
-Betsy Mae is a Jungle and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lakota, Bristol on Fri, 18 Sept 2026.
+Betsy Mae is a Jungle and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lakota, Bristol on Wed, 16 Sept 2026.
 
-Betsy Mae is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Barcelona, Brighton, Bristol and Leeds and 2 more. Often billed alongside Sexy Lady Massive, Missy P and ASIAN BRAT. Next up: Lakota, Bristol on Fri 18 Sept.
+Betsy Mae is a jungle and garage artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Barcelona, Brighton, Bristol and Leeds and 2 more. Often billed alongside Sexy Lady Massive, Missy P and ASIAN BRAT. Next up: Lakota, Bristol on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 16 Sept 2026 | Lakota | Bristol |
 | Fri, 18 Sept 2026 | Lakota | Bristol |
 | Fri, 25 Sept 2026 | The Jazz Cafe | London |
 

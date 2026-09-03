@@ -1,14 +1,13 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 44 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "KEI YANAI, OG Militant B & SKNHDZ" on Wed, 2 Sept 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 43 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "DJ OSSHY presents ELEGANCE" on Thu, 3 Sept 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 44 upcoming nights, with line-ups including 7e, BANANA-CHAN, CALPISS and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 43 upcoming nights, with line-ups including 7e, BANANA-CHAN, CALPISS and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | KEI YANAI, OG Militant B & SKNHDZ | OG Militant B, SKNHDZ |
 | Thu, 3 Sept 2026 | DJ OSSHY presents ELEGANCE |  |
 | Fri, 4 Sept 2026 | LOTTA LOVE | CALPISS, DJ SHIKISAI |
 | Sat, 5 Sept 2026 | YUME, dj yumi-cco & RUKE | RUKE, dj yumi-cco |
@@ -18,6 +17,7 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 44 upcomi
 | Fri, 11 Sept 2026 | HIROSHI KAWANABE & YO.AN | YO.AN |
 | Sat, 12 Sept 2026 | You Forgot & SHOWHEY | YouForgot |
 | Mon, 14 Sept 2026 | ZUKIE & DJ SLY |  |
+| Tue, 15 Sept 2026 | Toshiyuki Goto & Eitetsu Takamiya | Eitetsu Takamiya, Toshiyuki Goto |
 
 ## Address
 

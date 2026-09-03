@@ -1,13 +1,14 @@
 # KNTRLVRLST
 
-KNTRLVRLST is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Roof 175, Frankfurt on Sat, 19 Sept 2026.
+KNTRLVRLST is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Story Toronto, Toronto on Fri, 18 Sept 2026.
 
-KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 65 sets logged across Antwerp, Barcelona, Belfast and Berlin and 23 more. Often billed alongside A.N.I., Vagabund and O.B.I. (DE). Next up: Roof 175, Frankfurt on Sat 19 Sept.
+KNTRLVRLST is a techno and trance artist tracked on soundcheck, with 66 sets logged across Antwerp, Barcelona, Belfast and Berlin and 23 more. Often billed alongside A.N.I., Vagabund and O.B.I. (DE). Next up: Story Toronto, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Story Toronto | Toronto |
 | Sat, 19 Sept 2026 | Roof 175 | Frankfurt |
 | Sat, 3 Oct 2026 | Zinkbad Eventhalle | Zurich |
 | Fri, 16 Oct 2026 | Gate Milano | Milan |

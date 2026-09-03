@@ -1,13 +1,14 @@
 # Drumcell
 
-Drumcell is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Sept 2026.
+Drumcell is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Los Angeles, Los Angeles on Sun, 6 Sept 2026.
 
-Drumcell is a techno and house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Bali, Basel and Berlin and 14 more. Often billed alongside Truncate, Max Gardner and Speedy J. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Sept.
+Drumcell is a techno and house artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Basel and Berlin and 14 more. Often billed alongside Truncate, Max Gardner and Speedy J. Next up: TBA - Los Angeles, Losangeles on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 12 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played

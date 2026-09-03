@@ -1,6 +1,6 @@
 # Tobiahs - Montréal at Société des arts technologiques
 
-Tobiahs - Montréal at Société des arts technologiques on Sat 7 Nov, Montreal. 1 act on the bill: Tobiah. House. Preview the line-up and save it on soundcheck.
+Tobiahs - Montréal at Société des arts technologiques on Sat 7 Nov, Montreal. 1 act on the bill: Tobiah. House and Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

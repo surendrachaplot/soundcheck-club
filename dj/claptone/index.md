@@ -1,8 +1,8 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - THE STRAY, HARROGATE, Leeds on Sat, 5 Sept 2026.
+Claptone is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - THE STRAY, HARROGATE, Leeds on Sat, 5 Sept 2026.
 
-Claptone is a house and tech house artist tracked on soundcheck, with 230 sets logged across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: TBA - THE STRAY, HARROGATE, Leeds on Sat 5 Sept.
+Claptone is a house and tech house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: TBA - THE STRAY, HARROGATE, Leeds on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Claptone is a house and tech house artist tracked on soundcheck, with 230 sets l
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA - THE STRAY, HARROGATE | Leeds |
 | Sat, 5 Sept 2026 | Chinois Ibiza | Ibiza |
+| Fri, 11 Sept 2026 | Food Hall Browary | Warsaw |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 | Sat, 12 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Chinois Ibiza | Ibiza |

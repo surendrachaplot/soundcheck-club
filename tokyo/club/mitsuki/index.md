@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "CHIDA -ALL NIGHT LONG-" on Wed, 2 Sept 2026.
+Mitsuki is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "most funktion" on Thu, 3 Sept 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including AI (10), Al Jones, An toi and Carl H and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including AI (10), Al Jones, An toi and Carl H and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | CHIDA -ALL NIGHT LONG- | CHIDA |
 | Thu, 3 Sept 2026 | most funktion | KA4U, PortaL(JP), sui_rex |
 | Fri, 4 Sept 2026 | Disko(not Disko) | Jonathan Kusuma, Monkey Timers, YAMARCHY |
 | Sat, 5 Sept 2026 | xyz | Franky Sticks, SOTA |
@@ -18,6 +17,7 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with
 | Thu, 10 Sept 2026 | SYNC |  |
 | Fri, 11 Sept 2026 | MOVE ムーブ | Al Jones, FU (JP), Lvca, MOOD HSM, OMOLOKO |
 | Fri, 18 Sept 2026 | Purple Essence feat. Shakolin | Chihoshi, Shakolin, YOYOHEI |
+| Sat, 19 Sept 2026 | QUERICO x CREATURES OF THE NIGHT: Zombies in Miami, DSKE & Manaha | An toi, DSKE, Manaha, Zombies In Miami |
 
 ## Address
 

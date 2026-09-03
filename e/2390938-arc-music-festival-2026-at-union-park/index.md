@@ -33,7 +33,7 @@ ARC Music Festival 2026 at Union Park on Fri 4 Sept, Chicago. 114 acts on the bi
 - Chaos In The CBD
 - Chase & Status
 - Chris Avantgarde
-- Chris Stussy
+- Chris Stassy
 - Cloonee
 - Club Angel
 - Cole Knight

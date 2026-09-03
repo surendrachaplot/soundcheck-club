@@ -1,8 +1,8 @@
 # Ariel Zetina
 
-Ariel Zetina is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 4 Sept 2026.
+Ariel Zetina is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 4 Sept 2026.
 
-Ariel Zetina is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Athens, Berlin and Bristol and 22 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: The Berkeley Suite, Glasgow on Fri 4 Sept.
+Ariel Zetina is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Berlin and Bristol and 22 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: The Berkeley Suite, Glasgow on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ariel Zetina is a techno and house artist tracked on soundcheck, with 189 sets l
 | Fri, 4 Sept 2026 | The Berkeley Suite | Glasgow |
 | Sat, 5 Sept 2026 | TBA | Miami |
 | Sat, 12 Sept 2026 | Chicago Eagle | Chicago |
+| Fri, 13 Nov 2026 | Sleeping Village | Chicago |
 
 ## Recently played
 

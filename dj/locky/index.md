@@ -1,14 +1,13 @@
 # Locky
 
-Locky is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at [UNVRS], Ibiza on Wed, 2 Sept 2026.
+Locky is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 4 Sept 2026.
 
-Locky is a house and tech house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Liam Palmer and Elliot Schooling. Next up: [UNVRS], Ibiza on Wed 2 Sept.
+Locky is a house and tech house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 26 more. Often billed alongside Mad.Again (2), Liam Palmer and Elliot Schooling. Next up: 528 Ibiza, Ibiza on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 4 Sept 2026 | 528 Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Floyd | Miami |
 | Sat, 12 Sept 2026 | Descent | Boston |
@@ -20,6 +19,7 @@ Locky is a house and tech house artist tracked on soundcheck, with 141 sets logg
 | Wed, 30 Sept 2026 | Nine Lives | Malta |
 | Sat, 3 Oct 2026 | DRUMSHEDS | London |
 | Sat, 10 Oct 2026 | Toffler | Rotterdam |
+| Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 
 ## Recently played
 

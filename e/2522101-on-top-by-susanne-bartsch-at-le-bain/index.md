@@ -1,6 +1,6 @@
 # ON TOP by Susanne Bartsch at Le Bain
 
-ON TOP by Susanne Bartsch at Le Bain on Thu 3 Sept, Newyorkcity. 2 acts on the bill: boyyyish and That Matt. Preview the line-up and save it on soundcheck.
+ON TOP by Susanne Bartsch at Le Bain on Thu 3 Sept, Newyorkcity. 3 acts on the bill: Amber Valentine, boyyyish and That Matt. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ON TOP by Susanne Bartsch at Le Bain on Thu 3 Sept, Newyorkcity. 2 acts on the b
 
 ## Line-up
 
+- Amber Valentine
 - boyyyish
 - That Matt
 

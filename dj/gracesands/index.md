@@ -1,8 +1,8 @@
 # Grace Sands
 
-Grace Sands is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Aaja Basement, London on Fri, 4 Sept 2026.
+Grace Sands is a House and Deep House artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Aaja Basement, London on Fri, 4 Sept 2026.
 
-Grace Sands is a house and disco artist tracked on soundcheck, with 139 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Aaja Basement, London on Fri 4 Sept.
+Grace Sands is a house and deep house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Aaja Basement, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Grace Sands is a house and disco artist tracked on soundcheck, with 139 sets log
 | Fri, 11 Sept 2026 | Hoxton Cabin | London |
 | Sat, 26 Sept 2026 | Bermondsey Triangle | London |
 | Fri, 2 Oct 2026 | Yellow Arch Studios | Sheffield |
+| Sun, 11 Oct 2026 | smartbar | Chicago |
 | Sat, 31 Oct 2026 | Unit 58 | London |
 
 ## Recently played

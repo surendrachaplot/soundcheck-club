@@ -1,14 +1,15 @@
 # Scuffed
 
-Scuffed is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+Scuffed is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
-Scuffed is a drum & bass and jungle artist tracked on soundcheck, with 42 sets logged across Amsterdam, Brighton, Bristol and Edinburgh and 8 more. Often billed alongside Aries, Deanie Rankin and Benny Page. Next up: Sawmills, Bristol on Sat 12 Sept.
+Scuffed is a drum & bass and jungle artist tracked on soundcheck, with 43 sets logged across Amsterdam, Brighton, Bristol and Edinburgh and 8 more. Often billed alongside Aries, Deanie Rankin and Benny Page. Next up: Sawmills, Bristol on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
+| Wed, 16 Sept 2026 | Lakota | Bristol |
 
 ## Recently played
 

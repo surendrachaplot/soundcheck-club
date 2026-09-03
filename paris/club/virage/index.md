@@ -1,14 +1,13 @@
 # Virage
 
-Virage is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Bozo Records: Michelle (live), P.O, Marco del Bosque" on Wed, 2 Sept 2026.
+Virage is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SUPERB NIGHT: M¥SS KETA (live), Cannelle (live), MATHILDE FERNANDEZ" on Thu, 3 Sept 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including 4000 Hz, Aleksandir, Alex Quillard and Bande de Filles and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including 4000 Hz, Aleksandir, Alex Quillard and Bande de Filles and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Bozo Records: Michelle (live), P.O, Marco del Bosque | Marco del Bosque, Michelle, P.O (1) |
 | Thu, 3 Sept 2026 | SUPERB NIGHT: M¥SS KETA (live), Cannelle (live), MATHILDE FERNANDEZ | Cannelle |
 | Fri, 4 Sept 2026 | Union Trance Mission: Metaraph, Dana Montana & more | 4000 Hz, DJ Reiz, Dana Montana, Metaraph, Vickies |
 | Sat, 5 Sept 2026 | MARATHON! Club : Mount Kimbie, Aleksandir, Mely, Cabaret Contemporain | Aleksandir, Mely, Mount Kimbie |

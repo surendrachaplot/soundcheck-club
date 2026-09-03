@@ -2,7 +2,7 @@
 
 Monarch is a music venue in San Francisco/Oakland with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "CALAVERA" on Fri, 4 Sept 2026.
 
-Monarch is a music venue in Sanfrancisco listed on soundcheck. 10 upcoming nights, with line-ups including Acid Boner, Afakasi Papi, Camillionaire and Duserock and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in Sanfrancisco listed on soundcheck. 10 upcoming nights, with line-ups including Acid Boner, Afakasi Papi, Anthony Mansfield and Camillionaire and 2 more. Browse upcoming dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
@@ -13,7 +13,7 @@ Monarch is a music venue in Sanfrancisco listed on soundcheck. 10 upcoming night
 | Fri, 11 Sept 2026 | Hear + There x Locator: Mungo Sound Machine | Acid Boner, Jackson Walker, Mungo Sound Machine, PNG (US), natebytheway, playground tactics, vin. |
 | Sat, 12 Sept 2026 | Speak The Language: A Ballroom Focused Dance Party | Afakasi Papi |
 | Thu, 17 Sept 2026 | Bump | Camillionaire, Huffy (2) |
-| Fri, 18 Sept 2026 | Felix Dickinson (UK) | Felix Dickinson |
+| Fri, 18 Sept 2026 | Felix Dickinson (UK), Anthony Mansfield, Fusion, Seamus Haji (UK), Geo Stasi, and Mr. Matias | Anthony Mansfield, Felix Dickinson, Fusion, Seamus Haji |
 | Sat, 19 Sept 2026 | Revolutions: Staxx of Wax feat. Phleck | Duserock, Phleck |
 | Fri, 9 Oct 2026 | Linska | Linska |
 | Fri, 16 Oct 2026 | THEMATIC ENTERTAINMENT x PROPER TINGS PRESENT: DR. USHŪU & TWO SWORDS |  |

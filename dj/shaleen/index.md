@@ -1,8 +1,8 @@
 # Shaleen
 
-Shaleen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
+Shaleen is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
 
-Shaleen is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 18 more. Often billed alongside Ellen Allien, JANEIN and DJ Europarking. Next up: Tresor / Globus, Berlin on Fri 4 Sept.
+Shaleen is a techno and house artist tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 18 more. Often billed alongside Ellen Allien, JANEIN and DJ Europarking. Next up: Tresor / Globus, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Shaleen is a techno and house artist tracked on soundcheck, with 122 sets logged
 | Fri, 4 Sept 2026 | Tresor / Globus | Berlin |
 | Fri, 18 Sept 2026 | RADION | Amsterdam |
 | Fri, 18 Sept 2026 | RADION | Amsterdam |
+| Fri, 9 Oct 2026 | Signal | New York City |
 | Sat, 24 Oct 2026 | BRET | Amsterdam |
 
 ## Recently played

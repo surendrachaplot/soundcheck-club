@@ -1,13 +1,14 @@
 # Hermeth
 
-Hermeth is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
+Hermeth is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mood Ring, New York City on Thu, 17 Sept 2026.
 
-Hermeth is a techno and electro artist tracked on soundcheck, with 43 sets logged across Amsterdam, Basel, Bucharest and Frankfurt and 14 more. Often billed alongside Mother Menace, Powder Ranger and A/PM. Next up: TBA, Toronto on Sat 19 Sept.
+Hermeth is a techno and electro artist tracked on soundcheck, with 44 sets logged across Amsterdam, Basel, Bucharest and Frankfurt and 14 more. Often billed alongside Mother Menace, Powder Ranger and A/PM. Next up: Mood Ring, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | Mood Ring | New York City |
 | Sat, 19 Sept 2026 | TBA | Toronto |
 
 ## Recently played

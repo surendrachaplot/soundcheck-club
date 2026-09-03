@@ -17,7 +17,7 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming nights, 
 | Fri, 25 Sept 2026 | UNREAL WEEKENDER NIGHT I | Afem Syko, BIIANCO, Johannes Schuster, Mad Dog, Nikolina, Pixie Dust |
 | Fri, 2 Oct 2026 | NIBIRII pres. Ely Oaks | 2HOT2PLAY, 333CXT, ADEMES, Bouncy Bitch, DJ Discostoff, Ely Oaks, Limoncello, NØEL (JP), Pamela Rave, Paranormila, nordcorreia.mp3 |
 | Fri, 9 Oct 2026 | CHROME COLOGNE | OGUZ |
-| Fri, 16 Oct 2026 | Chris Stassy pres. by Bootshaus | Chris Stussy |
+| Fri, 16 Oct 2026 | Chris Stassy pres. by Bootshaus | Chris Stassy |
 
 ## Address
 

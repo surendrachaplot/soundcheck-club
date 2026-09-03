@@ -1,14 +1,13 @@
 # Dairy Free
 
-Dairy Free is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Lido, Vancouver on Wed, 2 Sept 2026.
+Dairy Free is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Vancouver on Sat, 7 Nov 2026.
 
-Dairy Free is a house and techno artist tracked on soundcheck, with 47 sets logged across Vancouver. Often billed alongside dj direct depøsit, ZDBT and dj_2button. Next up: The Lido, Vancouver on Wed 2 Sept.
+Dairy Free is a house and techno artist tracked on soundcheck, with 47 sets logged across Vancouver. Often billed alongside dj direct depøsit, ZDBT and dj_2button. Next up: TBA, Vancouver on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | The Lido | Vancouver |
 | Sat, 7 Nov 2026 | TBA | Vancouver |
 
 ## Recently played

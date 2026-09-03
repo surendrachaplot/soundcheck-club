@@ -9,7 +9,7 @@ The Delancey is a music venue in Newyorkcity listed on soundcheck. 2 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Reggaeton Mansion (21+) |  |
-| Thu, 24 Sept 2026 | Demonic Frequencies presents |  |
+| Thu, 24 Sept 2026 | Demonic Frequencies presents (21+) Techno Set |  |
 
 ## Address
 

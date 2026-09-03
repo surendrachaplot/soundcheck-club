@@ -1,8 +1,8 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Mischluft is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Mischluft is a techno and trance artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Union Park, Chicago on Fri 4 Sept.
+Mischluft is a techno and trance artist tracked on soundcheck, with 188 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mischluft is a techno and trance artist tracked on soundcheck, with 187 sets log
 | Sat, 5 Sept 2026 | Industry City | New York City |
 | Sun, 6 Sept 2026 | Factory Town | Miami |
 | Fri, 11 Sept 2026 | Echostage | Washington DC |
+| Sat, 12 Sept 2026 | Avalon Hollywood | Los Angeles |
 | Thu, 22 Oct 2026 | Lofi | Amsterdam |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 31 Oct 2026 | Kompass Klub | Ghent |

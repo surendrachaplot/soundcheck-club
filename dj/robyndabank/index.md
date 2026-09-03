@@ -1,13 +1,14 @@
 # Robyn DaBank
 
-Robyn DaBank is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Paragon, New York City on Fri, 18 Sept 2026.
+Robyn DaBank is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
 
-Robyn DaBank is a techno and club artist based in United States of America, tracked on soundcheck, with 34 sets logged across Berlin, Newyorkcity and Washingtondc. Often billed alongside Gagbert, Malcolm XL and Xana 101. Next up: Paragon, Newyorkcity on Fri 18 Sept.
+Robyn DaBank is a techno and club artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Newyorkcity and Washingtondc. Often billed alongside Gagbert, Malcolm XL and Xana 101. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 8 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 8 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 18 Sept 2026 | Paragon | New York City |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 

@@ -1,14 +1,13 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 37 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Jamie Jones Paradise" on Wed, 2 Sept 2026.
+[UNVRS] is a music venue in Ibiza with 36 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "FISHER" on Thu, 3 Sept 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 37 upcoming nights, with line-ups including Adriatique, Agents Of Time, Alan Fitzpatrick and Amelie Lens and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 36 upcoming nights, with line-ups including Adriatique, Agents Of Time, Alan Fitzpatrick and Amelie Lens and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Jamie Jones Paradise | Elliot Schooling, Enzo is Burning, Hot Since 82, Jamie Jones, Javi Bora, Liam Palmer, Locky, Mad.Again (2), Traumer, Vibe Killers |
 | Thu, 3 Sept 2026 | FISHER | FISHER, Gorgon City, Jackie Hollander, Jason Bye |
 | Fri, 4 Sept 2026 | David Guetta presents Galactic Circus | David Guetta, Matt Sassari, Morten |
 | Sat, 5 Sept 2026 | elrow Ibiza | Bastian Bux, Chinonegro, MENESIX, Marco Faraone, Olive F, Patrick Topping, Us Two |
@@ -18,6 +17,7 @@
 | Wed, 9 Sept 2026 | Jamie Jones Paradise | FLORENTIA, Jamie Jones, Jordan Peak, Murphy's Law, Nicole Moudaber, Rich NXT, Rossi, Sosa, wAFF |
 | Thu, 10 Sept 2026 | FISHER - CLOSING PARTY | ATRIP, FISHER, KI/KI |
 | Fri, 11 Sept 2026 | David Guetta presents Galactic Circus | David Guetta, Marlon Hoffstadt |
+| Sat, 12 Sept 2026 | elrow Ibiza | ATT, Ilario Alicante, Joris Voorn, Tini Gessler |
 
 ## Address
 

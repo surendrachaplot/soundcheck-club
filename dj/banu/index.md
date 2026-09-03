@@ -1,13 +1,14 @@
 # Banu
 
-Banu is a Experimental and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OHM, Berlin on Thu, 24 Sept 2026.
+Banu is a Experimental and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kockiri, Seoul on Fri, 4 Sept 2026.
 
-Banu is an experimental and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Istanbul, Lisbon and Madrid and 1 more. Often billed alongside Alexy, Saint Caboclo and THIRTEEN DOZE. Next up: OHM, Berlin on Thu 24 Sept.
+Banu is an experimental and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, Istanbul, Lisbon and Madrid and 2 more. Often billed alongside Alexy, Saint Caboclo and THIRTEEN DOZE. Next up: Kockiri, Seoul on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Kockiri | Seoul |
 | Thu, 24 Sept 2026 | OHM | Berlin |
 
 ## Recently played

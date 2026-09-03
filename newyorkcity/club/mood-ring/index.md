@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "panatekk" on Thu, 3 Sept 2026.
+Mood Ring is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "panatekk" on Thu, 3 Sept 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including 444 (1), a.gar, AG (1) and AJACENT and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including 444 (1), a.gar, AG (1) and AJACENT and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 

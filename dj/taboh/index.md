@@ -1,13 +1,14 @@
 # Taboh
 
-Taboh is a Experimental and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Signal, New York City on Thu, 3 Sept 2026.
+Taboh is a Experimental and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Elsewhere, New York City on Thu, 3 Sept 2026.
 
-Taboh is an experimental and deep house artist tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside Tj McAu, KANZE and Celebrity Bitcrush. Next up: Signal, Newyorkcity on Thu 3 Sept.
+Taboh is an experimental and deep house artist tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside Tj McAu, KANZE and Celebrity Bitcrush. Next up: Elsewhere, Newyorkcity on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Elsewhere | New York City |
 | Thu, 3 Sept 2026 | Signal | New York City |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Megatronic
 
-Megatronic is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Cova Santa, Ibiza on Wed, 2 Sept 2026.
+Megatronic is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Fox and Firkin, London on Sat, 12 Sept 2026.
 
-Megatronic is a house and disco artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside JKriv, Disgonuts and Aaron Dae. Next up: Cova Santa, Ibiza on Wed 2 Sept.
+Megatronic is a house and disco artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside JKriv, Disgonuts and Aaron Dae. Next up: The Fox and Firkin, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 12 Sept 2026 | The Fox and Firkin | London |
 | Thu, 24 Sept 2026 | Lux Fragil | Lisbon |
 | Thu, 22 Oct 2026 | Transit | Amsterdam |

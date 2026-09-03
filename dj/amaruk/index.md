@@ -1,13 +1,14 @@
 # AMAR (UK)
 
-AMAR (UK) is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Firepit Art Gallery and Studios CIC, London on Fri, 25 Sept 2026.
+AMAR (UK) is a Deep House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bird House Taproom, London on Fri, 11 Sept 2026.
 
-AMAR (UK) is a deep house and minimal artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside Yazmin (UK), MUSICKLUNATIC and MAL33T. Next up: Firepit Art Gallery and Studios CIC, London on Fri 25 Sept.
+AMAR (UK) is a deep house and minimal artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London. Often billed alongside Yazmin (UK), MUSICKLUNATIC and MAL33T. Next up: Bird House Taproom, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Bird House Taproom | London |
 | Fri, 25 Sept 2026 | Firepit Art Gallery and Studios CIC | London |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # Slaycey
 
-Slaycey is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Royale, Boston on Fri, 16 Oct 2026.
+Slaycey is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
-Slaycey is a house and tech house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Boston, London, Newyorkcity and Washingtondc. Often billed alongside Electro Cherry, Sarindipity and Aleska. Next up: Royale, Boston on Fri 16 Oct.
+Slaycey is a house and tech house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Boston, London, Newyorkcity and Washingtondc. Often billed alongside Electro Cherry, Sarindipity and Aleska. Next up: Wollman Rink, Newyorkcity on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Wollman Rink | New York City |
 | Fri, 16 Oct 2026 | Royale | Boston |
 
 ## Recently played

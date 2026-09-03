@@ -1,6 +1,6 @@
 # TRANSMISSION x PARA PRESENTS: Skee Mask at TRANSMISSION DC
 
-TRANSMISSION x PARA PRESENTS: Skee Mask at TRANSMISSION DC on Fri 18 Sept, Washingtondc. 4 acts on the bill: Dave from Stoke, kabir., Madalin and Skee Mask. Bass. Preview the line-up and save it on soundcheck.
+TRANSMISSION x PARA PRESENTS: Skee Mask at TRANSMISSION DC on Fri 18 Sept, Washingtondc. 5 acts on the bill: Babypufff, Dave from Stoke, kabir. and Madalin and 1 more. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TRANSMISSION x PARA PRESENTS: Skee Mask at TRANSMISSION DC on Fri 18 Sept, Washi
 
 ## Line-up
 
+- Babypufff
 - Dave from Stoke
 - kabir.
 - Madalin

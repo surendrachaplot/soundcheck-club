@@ -1,6 +1,6 @@
 # Joseph Capriati presents Metamorfosi Closing Party at Amnesia Ibiza
 
-Joseph Capriati presents Metamorfosi Closing Party at Amnesia Ibiza on Tue 29 Sept, Ibiza. 9 acts on the bill: Chris Stussy, DJ Skizzo, Elisa Bee and Freddy K and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Joseph Capriati presents Metamorfosi Closing Party at Amnesia Ibiza on Tue 29 Sept, Ibiza. 9 acts on the bill: Chris Stassy, DJ Skizzo, Elisa Bee and Freddy K and 5 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Joseph Capriati presents Metamorfosi Closing Party at Amnesia Ibiza on Tue 29 Se
 
 ## Line-up
 
-- Chris Stussy
+- Chris Stassy
 - DJ Skizzo
 - Elisa Bee
 - Freddy K

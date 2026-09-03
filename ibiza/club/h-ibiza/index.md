@@ -1,14 +1,13 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 35 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "MEDUZA & James Hype present OUR HOUSE" on Wed, 2 Sept 2026.
+Hï Ibiza is a music venue in Ibiza with 34 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Hugel presents Make The Girls Dance" on Thu, 3 Sept 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 35 upcoming nights, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AJNA and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 34 upcoming nights, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AJNA and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | MEDUZA & James Hype present OUR HOUSE | James Hype (UK), Jonas Blue, Meduza, Paisley Jensen, Sem Jacobs |
 | Thu, 3 Sept 2026 | Hugel presents Make The Girls Dance | Hugel, Kill Them With Colour, Miss Monique |
 | Fri, 4 Sept 2026 | CamelPhat presents Summer of Love | CamelPhat, Ella Knight, Ewan McVicar, Trikk, Young Marco, meera, Âme |
 | Sat, 5 Sept 2026 | Black Coffee | Black Coffee, Cameron Jack, Maz (BR), Skepta |
@@ -18,6 +17,7 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 35 upcoming nights, wi
 | Wed, 9 Sept 2026 | MEDUZA & James Hype present OUR HOUSE | James Hype (UK), Jonas Blue, Kasia (OFC), Magdalena, Mark Di Meo, Marten Lou, Meduza |
 | Thu, 10 Sept 2026 | Hugel presents Make The Girls Dance | HI-LO, Hugel, Miss Monique, Rivo |
 | Fri, 11 Sept 2026 | CamelPhat presents Summer of Love | CamelPhat, Ewan McVicar, Maslow Unknown, Roman Flügel |
+| Sat, 12 Sept 2026 | Black Coffee | Arielle Free, Black Coffee, Kasango, Mahmut Orhan, SG Lewis, Skepta |
 
 ## Address
 

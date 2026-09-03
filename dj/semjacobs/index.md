@@ -1,14 +1,13 @@
 # Sem Jacobs
 
-Sem Jacobs is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 2 Sept 2026.
+Sem Jacobs is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Yellow House, Amsterdam on Sat, 5 Sept 2026.
 
-Sem Jacobs is a house and tech house artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Austin and Brisbane and 16 more. Often billed alongside Franky Rizardo, Ranger Trucco and Dennis Ferrer. Next up: Hï Ibiza, Ibiza on Wed 2 Sept.
+Sem Jacobs is a house and tech house artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Austin and Brisbane and 16 more. Often billed alongside Franky Rizardo, Ranger Trucco and Dennis Ferrer. Next up: Yellow House, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | Yellow House | Amsterdam |
 | Sun, 13 Sept 2026 | Cova Santa | Ibiza |
 

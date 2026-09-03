@@ -1,13 +1,14 @@
 # Amber Valentine
 
-Amber Valentine is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 5 Sept 2026.
+Amber Valentine is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Le Bain, New York City on Thu, 3 Sept 2026.
 
-Amber Valentine is a house and disco artist based in United States of America, tracked on soundcheck, with 73 sets logged across Newyorkcity. Often billed alongside boyyyish, Griffin Maxwell Brooks and JD Samson. Next up: Dead Letter No. 9, Newyorkcity on Sat 5 Sept.
+Amber Valentine is a house and disco artist based in United States of America, tracked on soundcheck, with 74 sets logged across Newyorkcity. Often billed alongside boyyyish, Griffin Maxwell Brooks and JD Samson. Next up: Le Bain, Newyorkcity on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Le Bain | New York City |
 | Sat, 5 Sept 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Katie Ox
 
-Katie Ox is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Katie Ox is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Katie Ox is a house and deep house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Miami. Often billed alongside Beki Powell, Generous B and ALEJO (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Katie Ox is a house and deep house artist based in United States of America, tracked on soundcheck, with 19 sets logged across Miami. Often billed alongside Beki Powell, Generous B and ALEJO (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Sat, 28 Nov 2026 | Floyd | Miami |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # KILL 9 1
 
-KILL 9 1 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 5 Sept 2026.
+KILL 9 1 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 5 Sept 2026.
 
-KILL 9 1 is a techno and house artist based in Canada, tracked on soundcheck, with 42 sets logged across Toronto. Often billed alongside R4TS, Mand0 and Maul (2). Next up: 821 Runnymede Rd, Toronto on Sat 5 Sept.
+KILL 9 1 is a techno and house artist based in Canada, tracked on soundcheck, with 43 sets logged across Toronto. Often billed alongside R4TS, Mand0 and Maul (2). Next up: 821 Runnymede Rd, Toronto on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | 821 Runnymede Rd | Toronto |
+| Fri, 18 Sept 2026 | Story Toronto | Toronto |
 | Sat, 3 Oct 2026 | 821 Runnymede Rd | Toronto |
 | Fri, 30 Oct 2026 | The Comfort Zone | Toronto |
 | Sat, 31 Oct 2026 | Story Toronto | Toronto |

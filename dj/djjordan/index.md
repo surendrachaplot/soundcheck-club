@@ -1,14 +1,13 @@
 # DJ Jordan
 
-DJ Jordan is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KitKatClub, Berlin on Wed, 2 Sept 2026.
+DJ Jordan is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KitKatClub, Berlin on Wed, 9 Sept 2026.
 
-DJ Jordan is a techno and trance artist tracked on soundcheck, with 257 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 7 more. Often billed alongside Grace Thompson, A.N.I. and LeoSkiDj. Next up: KitKatClub, Berlin on Wed 2 Sept.
+DJ Jordan is a techno and trance artist tracked on soundcheck, with 257 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 7 more. Often billed alongside Grace Thompson, A.N.I. and LeoSkiDj. Next up: KitKatClub, Berlin on Wed 9 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | KitKatClub | Berlin |
 | Wed, 9 Sept 2026 | KitKatClub | Berlin |
 | Fri, 11 Sept 2026 | M-BIA | Berlin |
 | Wed, 16 Sept 2026 | KitKatClub | Berlin |

@@ -12,7 +12,7 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 20 upcoming 
 | Fri, 4 Sept 2026 | Big Beat Freaks: Hiatt dB, Freak Out | Freak Out!, Hiatt dB |
 | Sat, 5 Sept 2026 | nightclubmedics: diedforthis + Extra Meesh | Extra Meesh, diedforthis |
 | Sun, 6 Sept 2026 | Ear, Nose, & Throat: hazzi, Tagof, swello, Civil | Civil |
-| Wed, 9 Sept 2026 | CMD+JAZMINE, Nyah Cami, Saintclair | CMD+JAZMINE, Nyah Cami, Saint Clair, senoritajuicy |
+| Wed, 9 Sept 2026 | CMD+JAZMINE, Nyah Cami, Saintclair | CMD+JAZMINE, Nyah Cami, Saint Clair, Saintclair, senoritajuicy |
 | Thu, 10 Sept 2026 | Late Night Snack: DJ Etiquette, DJ Stiif, Jamie | DJ Etiquette, DJ Stiif |
 | Fri, 11 Sept 2026 | Limitless: Tromac + IDKRYAN | IDKRYAN, Tromac |
 | Sun, 13 Sept 2026 | Summerhaus Sunday Church Edition: DJ cega, Niyx, EMZ!, DJ Yammi, silkshirt | EMZ!, Niyx, silkshirt |

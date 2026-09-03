@@ -9,7 +9,7 @@ Sappho is a house and disco artist tracked on soundcheck, with 36 sets logged ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Cape Lookout | Portland |
-| Fri, 18 Sept 2026 | TBA | Portland |
+| Sat, 19 Sept 2026 | TBA | Portland |
 
 ## Recently played
 

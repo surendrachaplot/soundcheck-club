@@ -1,14 +1,13 @@
 # Trancestrudel
 
-Trancestrudel is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lokschuppen Berlin, Berlin on Wed, 2 Sept 2026.
+Trancestrudel is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at R25 Kulturschlachthof, Düsseldorf on Fri, 11 Sept 2026.
 
-Trancestrudel is a trance and techno artist based in Germany, tracked on soundcheck, with 76 sets logged across Berlin, Cologne, Dusseldorf and Leipzig. Often billed alongside Filialleiter, DTEXX and SIKXTO. Next up: Lokschuppen Berlin, Berlin on Wed 2 Sept.
+Trancestrudel is a trance and techno artist based in Germany, tracked on soundcheck, with 76 sets logged across Berlin, Cologne, Dusseldorf and Leipzig. Often billed alongside Filialleiter, DTEXX and SIKXTO. Next up: R25 Kulturschlachthof, Dusseldorf on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 11 Sept 2026 | R25 Kulturschlachthof | Düsseldorf |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Sat, 28 Nov 2026 | Lokschuppen Berlin | Berlin |

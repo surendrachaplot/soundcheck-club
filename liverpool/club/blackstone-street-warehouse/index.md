@@ -15,7 +15,7 @@ Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 
 | Sat, 24 Oct 2026 | ENRG 10th Birthday - IPC, MALUGI, Notion, Girls Don't Sync + more | DAISY, ESC (5), Girls Don't Sync, Interplanetary Criminal, MALUGI, Notion |
 | Sat, 7 Nov 2026 | Cloonee Presents Hellbent Liverpool | Cloonee |
 | Sat, 14 Nov 2026 | Glitterbox Liverpool |  |
-| Sun, 22 Nov 2026 | Circus presents Chris Stassy Sun 22nd Nov Liverpool | Chris Stussy, Jhobei, Marlie, Traumer |
+| Sun, 22 Nov 2026 | Circus presents Chris Stassy Sun 22nd Nov Liverpool | Chris Stassy, Jhobei, Marlie, Traumer |
 | Sat, 12 Dec 2026 | Tiësto - Blackstone St Warehouse - Liverpool | Tiesto |
 
 ## Address

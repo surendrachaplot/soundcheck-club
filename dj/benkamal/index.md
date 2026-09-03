@@ -1,13 +1,14 @@
 # Ben Kamal
 
-Ben Kamal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lasociaciøn, Madrid on Fri, 25 Sept 2026.
+Ben Kamal is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
-Ben Kamal is a house and techno artist based in Belgium, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Lola Haro, Dana Kuehr and Walrus. Next up: Lasociaciøn, Madrid on Fri 25 Sept.
+Ben Kamal is a house and techno artist based in Belgium, tracked on soundcheck, with 50 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Lola Haro, Dana Kuehr and Walrus. Next up: Südpol, Hamburg on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Südpol | Hamburg |
 | Fri, 25 Sept 2026 | Lasociaciøn | Madrid |
 
 ## Recently played

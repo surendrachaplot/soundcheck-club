@@ -1,14 +1,13 @@
 # Noxe Barcelona
 
-Noxe Barcelona is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona)" on Wed, 2 Sept 2026.
+Noxe Barcelona is a music venue in Barcelona with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona)" on Thu, 3 Sept 2026.
 
-Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including Alex Silva, Drunk At Vogue, GIVIO and Guto Fernandez and 2 more. Browse upcoming dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
+Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 14 upcoming nights, with line-ups including Alex Silva, Drunk At Vogue, GIVIO and Guto Fernandez and 2 more. Browse upcoming dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) | Alex Silva, GIVIO |
 | Thu, 3 Sept 2026 | FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) | Nesi |
 | Mon, 7 Sept 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 | Tue, 8 Sept 2026 | FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) | Vikki |
@@ -18,6 +17,7 @@ Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 15 upcoming n
 | Tue, 15 Sept 2026 | FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) | Max Kion, Vikki |
 | Wed, 16 Sept 2026 | FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) | Alex Silva, GIVIO |
 | Thu, 17 Sept 2026 | FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) | Nesi, Sarah Andersson |
+| Tue, 22 Sept 2026 | FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) | Drunk At Vogue, Vikki |
 
 ## Address
 

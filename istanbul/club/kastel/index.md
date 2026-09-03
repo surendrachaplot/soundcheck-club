@@ -1,14 +1,13 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kastel #ROOFTOPSERIES: Volkan Gunduz + MANTHEM + ARIAN + MURAT BATI" on Wed, 2 Sept 2026.
+Kastel is a music venue in Istanbul with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kastel #ROOFTOPSERIES: OZGUR BAY + EREN + BEHLIL + DJ CELL + KAAN.OKTM" on Fri, 4 Sept 2026.
 
-Kastel is a music venue in Istanbul listed on soundcheck. 9 upcoming nights, with line-ups including Benny Benassi, Marino Canal, Oliver Huntemann and OZBEK and 2 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
+Kastel is a music venue in Istanbul listed on soundcheck. 8 upcoming nights, with line-ups including Benny Benassi, Marino Canal, Oliver Huntemann and OZBEK and 2 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Kastel #ROOFTOPSERIES: Volkan Gunduz + MANTHEM + ARIAN + MURAT BATI | Volkan Gunduz |
 | Fri, 4 Sept 2026 | Kastel #ROOFTOPSERIES: OZGUR BAY + EREN + BEHLIL + DJ CELL + KAAN.OKTM |  |
 | Sat, 5 Sept 2026 | Kastel #KLUBNIGHTSERIES: Raxon | OZBEK, Raxon, Ymir |
 | Fri, 18 Sept 2026 | Kastel #KLUBNIGHTSERIES: Marino Canal | Marino Canal |

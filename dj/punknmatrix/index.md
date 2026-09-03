@@ -1,14 +1,13 @@
 # PUNK N MATRIX
 
-PUNK N MATRIX is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at WOMB, Tokyo on Wed, 2 Sept 2026.
+PUNK N MATRIX is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 4 Sept 2026.
 
-PUNK N MATRIX is a house and tech house artist based in Japan, tracked on soundcheck, with 80 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Yamariki, ANZU and CARTOON. Next up: WOMB, Tokyo on Wed 2 Sept.
+PUNK N MATRIX is a house and tech house artist based in Japan, tracked on soundcheck, with 80 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Yamariki, ANZU and CARTOON. Next up: ZEROTOKYO, Tokyo on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | WOMB | Tokyo |
 | Fri, 4 Sept 2026 | ZEROTOKYO | Tokyo |
 | Sun, 20 Sept 2026 | Royal Lounge | Tokyo |
 | Sat, 26 Sept 2026 | TBA - XXI | Tokyo |

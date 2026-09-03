@@ -1,8 +1,8 @@
 # Nanoos
 
-Nanoos is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Whistler, Chicago on Fri, 4 Sept 2026.
+Nanoos is a Club and Ghetto Tech artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Whistler, Chicago on Fri, 4 Sept 2026.
 
-Nanoos is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 83 sets logged across Berlin, Chicago, Detroit and Edinburgh and 17 more. Often billed alongside Dj Nico, Nadim Maghzal and Cquestt. Next up: Whistler, Chicago on Fri 4 Sept.
+Nanoos is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 84 sets logged across Berlin, Chicago, Detroit and Edinburgh and 17 more. Often billed alongside Dj Nico, Nadim Maghzal and Cquestt. Next up: Whistler, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nanoos is a club and ghetto tech artist based in United States of America, track
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Whistler | Chicago |
 | Mon, 7 Sept 2026 | Montrose Beach | Chicago |
+| Fri, 18 Sept 2026 | Webster Hall | New York City |
 | Sat, 26 Sept 2026 | TBA - Wicker Park | Chicago |
 
 ## Recently played

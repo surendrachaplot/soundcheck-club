@@ -1,8 +1,8 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 30 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "GROOVE BURO \w Dick Jockey" on Thu, 3 Sept 2026.
+Paloma is a music venue in Berlin with 31 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "GROOVE BURO \w Dick Jockey" on Thu, 3 Sept 2026.
 
-Paloma is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with line-ups including AAguilAA, Aidan, Aimé You and Alison Swing and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
+Paloma is a music venue in Berlin listed on soundcheck. 31 upcoming nights, with line-ups including AAguilAA, adodo, Aidan and Aimé You and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
 ## What's on
 

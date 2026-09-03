@@ -17,7 +17,7 @@ Fünk is a music venue in Mexicocity listed on soundcheck. 13 upcoming nights, w
 | Thu, 17 Sept 2026 | Rat Back Crew x Fünk | SAUANI |
 | Fri, 18 Sept 2026 | Gabbs + Masmoudi + Vane Vepe | Gabbs, Sami Masmoudi, Vane Vepe |
 | Sat, 19 Sept 2026 | Rated R: Rebolledo + Cabizbajo + Baby Mango | Baby Mango, Cabizbajo, Rebolledo |
-| Thu, 24 Sept 2026 | SVB DRÆMZ x Fünk | Blu:sh, Deejay Energy, Maseriche |
+| Thu, 24 Sept 2026 | SVB DRÆMZ x Fünk | Blu:sh, Deejay Energy, Enya Botello, Maseriche |
 
 ## Address
 

@@ -1,14 +1,15 @@
 # MAIYA
 
-MAIYA is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mood Ring, New York City on Thu, 10 Sept 2026.
+MAIYA is a Club and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mood Ring, New York City on Thu, 10 Sept 2026.
 
-MAIYA is a club and hip-hop artist tracked on soundcheck, with 9 sets logged across Losangeles, Newyorkcity and Washingtondc. Often billed alongside 444 (1), Nishévitha and Shab.d. Next up: Mood Ring, Newyorkcity on Thu 10 Sept.
+MAIYA is a club and hip-hop artist tracked on soundcheck, with 10 sets logged across Losangeles, Newyorkcity and Washingtondc. Often billed alongside 444 (1), Nishévitha and Shab.d. Next up: Mood Ring, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Mood Ring | New York City |
+| Fri, 18 Sept 2026 | Webster Hall | New York City |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "PINK RODEO: BEYONCÉ NIGHT" on Fri, 4 Sept 2026.
+Big Pink is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "PINK RODEO: BEYONCÉ NIGHT" on Fri, 4 Sept 2026.
 
-Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including Botez and Dean Turnley. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
+Big Pink is a music venue in Detroit listed on soundcheck. 9 upcoming nights, with line-ups including Botez and Dean Turnley. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming nights, wi
 | Sun, 6 Sept 2026 | HIPHOP NIGHT: DJ MOBEATZ & DJ KID MCFLY (CLUB BANGERS ALL NIGHT) |  |
 | Mon, 7 Sept 2026 | DETROIT'S VERY OWN: DJ MARATHON B2B DJ CARTER (LABOR DAY) |  |
 | Fri, 11 Sept 2026 | SLEAZE PLZ: AN INDIE SLEAZE PARTY (INTERNETBOY, CAM STACEY B2B NAUGHTA) |  |
+| Sat, 12 Sept 2026 | HIPHOP NIGHT: DJ JINZO & DJ SELFIE (CLUB BANGERS ALL NIGHT) |  |
 | Sat, 19 Sept 2026 | CARTOONS & STEREO VOL. 2: A SKATEBOARDING + MUSIC FESTIVAL |  |
 | Fri, 9 Oct 2026 | BANGIN HOUSE: Dean Turnley & SLIMEY B2B Botez (HOUSE MUSIC ALL NIGHT) | Botez, Dean Turnley |
 

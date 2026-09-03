@@ -1,14 +1,13 @@
 # Rachel Raw
 
-Rachel Raw is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KitKatClub, Berlin on Wed, 2 Sept 2026.
+Rachel Raw is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Herzbergstr 51-54 Berlin Lichtenberg , Berlin on Fri, 4 Sept 2026.
 
-Rachel Raw is a techno and tech house artist tracked on soundcheck, with 55 sets logged across Berlin, Cologne, Copenhagen and Dusseldorf and 5 more. Often billed alongside Avocado, DJ Jordan and Dave Dinger. Next up: KitKatClub, Berlin on Wed 2 Sept.
+Rachel Raw is a techno and tech house artist tracked on soundcheck, with 55 sets logged across Berlin, Cologne, Copenhagen and Dusseldorf and 5 more. Often billed alongside Avocado, DJ Jordan and Dave Dinger. Next up: TBA - Herzbergstr 51-54 Berlin Lichtenberg , Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | KitKatClub | Berlin |
 | Fri, 4 Sept 2026 | TBA - Herzbergstr 51-54 Berlin Lichtenberg  | Berlin |
 | Sat, 7 Nov 2026 | Ritter Butzke | Berlin |
 

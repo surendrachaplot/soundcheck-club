@@ -1,14 +1,13 @@
 # Cova Santa
 
-Cova Santa is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Visionari" on Wed, 2 Sept 2026.
+Cova Santa is a music venue in Ibiza with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "WooMooN" on Fri, 4 Sept 2026.
 
-Cova Santa is a music venue in Ibiza listed on soundcheck. 17 upcoming nights, with line-ups including Kepler, Abdon, Aca [RO] and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
+Cova Santa is a music venue in Ibiza listed on soundcheck. 16 upcoming nights, with line-ups including Kepler, Abdon, Aca [RO] and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. Ctra. San Jose, km 7, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Visionari | ETNA, Glauco Di Mambro, Megatronic, Satori, Vice Luna |
 | Fri, 4 Sept 2026 | WooMooN | Kiriku, Kolsch, Viken Arman |
 | Sat, 5 Sept 2026 | Cova Santa Presents Kerri Chandler | Kerri Chandler |
 | Sun, 6 Sept 2026 | Pantheøn | GOME |
@@ -18,6 +17,7 @@ Cova Santa is a music venue in Ibiza listed on soundcheck. 17 upcoming nights, w
 | Sat, 12 Sept 2026 | Cova Santa presents Mosimann | Mosimann, Ofenbach |
 | Sun, 13 Sept 2026 | Pantheøn | Mr. Belt & Wezol, Sem Jacobs |
 | Tue, 15 Sept 2026 | PIV IBIZA TUESDAYS - September 15 | Dam Swindle, Isaac Carter, LI-YU, Makèz, Midas Field |
+| Fri, 18 Sept 2026 | WooMooN | Frida, Landikhan, Rampue |
 
 ## Address
 
