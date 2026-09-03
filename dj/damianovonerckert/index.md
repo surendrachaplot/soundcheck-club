@@ -1,6 +1,6 @@
 # Damiano von Erckert
 
-Damiano von Erckert is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at OXI, Berlin on Sat, 7 Nov 2026.
+Damiano von Erckert is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OXI, Berlin on Sat, 7 Nov 2026.
 
 Damiano von Erckert is a house and techno artist based in Germany, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 12 more. Often billed alongside Sven Vath, Maurizio Schmitz and Dieser Philip. Next up: OXI, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Damiano von Erckert is a house and techno artist based in Germany, tracked on so
 
 Sven Vath, Maurizio Schmitz, Dieser Philip
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianovonerckert/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianovonerckert/)*

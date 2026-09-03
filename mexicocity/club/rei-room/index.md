@@ -1,6 +1,6 @@
 # Rei Room
 
-Rei Room is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Bravío" on Fri, 4 Sept 2026.
+Rei Room is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Bravío" on Fri, 4 Sept 2026.
 
 Rei Room is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Yourte Bugarach. Browse upcoming dates, start times and who's playing. Monterrey 189, 2Â° Floor Roma Norte, CDMX 06700.
 
@@ -14,4 +14,4 @@ Rei Room is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, 
 
 Monterrey 189, 2Â° Floor Roma Norte, CDMX 06700, Mexico City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/rei-room/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/rei-room/)*

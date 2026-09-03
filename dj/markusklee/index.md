@@ -1,6 +1,6 @@
 # Markus Klee
 
-Markus Klee is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at MTW, Frankfurt on Sat, 5 Sept 2026.
+Markus Klee is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at MTW, Frankfurt on Sat, 5 Sept 2026.
 
 Markus Klee is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Berlin, Copenhagen and Frankfurt and 8 more. Often billed alongside Prismode, Solvane and Malouna. Next up: MTW, Frankfurt on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Markus Klee is a techno and house artist tracked on soundcheck, with 82 sets log
 
 Prismode, Solvane, Malouna
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markusklee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markusklee/)*

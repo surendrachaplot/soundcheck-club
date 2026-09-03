@@ -1,6 +1,6 @@
 # Ciaran McAuley
 
-Ciaran McAuley is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Binks Yard, Nottingham on Sat, 19 Sept 2026.
+Ciaran McAuley is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Binks Yard, Nottingham on Sat, 19 Sept 2026.
 
 Ciaran McAuley is a trance and progressive house artist based in Ireland, tracked on soundcheck, with 23 sets logged across Bangkok, Bristol, Glasgow and Ibiza and 12 more. Often billed alongside Paul Van Dyk, Billy Gillies and Aly & Fila. Next up: Binks Yard, Nottingham on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Ciaran McAuley is a trance and progressive house artist based in Ireland, tracke
 
 Paul Van Dyk, Billy Gillies, Aly & Fila
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciaranmcauley/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciaranmcauley/)*

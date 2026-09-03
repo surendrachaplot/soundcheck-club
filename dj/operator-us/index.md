@@ -1,6 +1,6 @@
 # operator
 
-operator is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Smoke & Mirrors, Chicago on Fri, 25 Sept 2026.
+operator is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Smoke & Mirrors, Chicago on Fri, 25 Sept 2026.
 
 operator is a techno and acid artist tracked on soundcheck, with 11 sets logged across Chicago. Often billed alongside Josh Tong, Eulalia and Shanti. Next up: Smoke & Mirrors, Chicago on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ operator is a techno and acid artist tracked on soundcheck, with 11 sets logged 
 
 Josh Tong, Eulalia, Shanti
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/operator-us/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/operator-us/)*

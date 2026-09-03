@@ -1,6 +1,6 @@
 # Lilaiza
 
-Lilaiza is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Newspeak, Montreal on Sat, 5 Sept 2026.
+Lilaiza is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Newspeak, Montreal on Sat, 5 Sept 2026.
 
 Lilaiza is a techno and experimental artist tracked on soundcheck, with 12 sets logged across Montreal. Often billed alongside s.talbot, Michele Azur and AṢKIM. Next up: Newspeak, Montreal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Lilaiza is a techno and experimental artist tracked on soundcheck, with 12 sets 
 
 s.talbot, Michele Azur, AṢKIM
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilaiza/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilaiza/)*

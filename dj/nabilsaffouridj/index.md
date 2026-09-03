@@ -1,6 +1,6 @@
 # Nabil Saffouri DJ
 
-Nabil Saffouri DJ is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Generator Barcelona, Barcelona on Fri, 18 Sept 2026.
+Nabil Saffouri DJ is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Generator Barcelona, Barcelona on Fri, 18 Sept 2026.
 
 Nabil Saffouri DJ is a house and italo disco artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona and Madrid. Often billed alongside Jo Kazan, Alphanova and Alvaro Runo. Next up: Generator Barcelona, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Nabil Saffouri DJ is a house and italo disco artist based in Spain, tracked on s
 
 Jo Kazan, Alphanova, Alvaro Runo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nabilsaffouridj/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nabilsaffouridj/)*

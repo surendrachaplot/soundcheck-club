@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Jolene Bar? with Mumsfilibaba & Prom Night" on Thu, 3 Sept 2026.
+Jolene is a music venue in Copenhagen with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Jolene Bar? with Mumsfilibaba & Prom Night" on Thu, 3 Sept 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, with line-ups including Crisco, Kasper Bjorke, Mumsfilibaba and Prom Night and 2 more. Browse upcoming dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -17,4 +17,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming nights, w
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

@@ -1,6 +1,6 @@
 # Kuvau
 
-Kuvau is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Letnisko Żoliborz, Warsaw on Sat, 5 Sept 2026.
+Kuvau is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Letnisko Żoliborz, Warsaw on Sat, 5 Sept 2026.
 
 Kuvau is a house and tech house artist based in Poland, tracked on soundcheck, with 45 sets logged across Warsaw. Often billed alongside Angelo Mike, Konca and Mike Konstanty. Next up: Letnisko Żoliborz, Warsaw on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Kuvau is a house and tech house artist based in Poland, tracked on soundcheck, w
 
 Angelo Mike, Konca, Mike Konstanty
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuvau/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuvau/)*

@@ -1,6 +1,6 @@
 # Drozza
 
-Drozza is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 25 Sept 2026.
+Drozza is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 25 Sept 2026.
 
 Drozza is a house and minimal artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside QWAK, Stellarator and katamine. Next up: Nico's Bar at Hackney Bridge, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Drozza is a house and minimal artist tracked on soundcheck, with 12 sets logged 
 
 QWAK, Stellarator, katamine
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drozza/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drozza/)*

@@ -1,6 +1,6 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "CODED Thursdays with flirty800 & DJ USA" on Thu, 3 Sept 2026.
+Club Rawhide is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "CODED Thursdays with flirty800 & DJ USA" on Thu, 3 Sept 2026.
 
 Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including MORENXXX, ALEXIS DE LA ROSA, Analog Soul and Boomer Banks and 2 more. Browse upcoming dates, start times and who's playing. 250 W 26TH ST.
 
@@ -21,4 +21,4 @@ Club Rawhide is a music venue in Newyorkcity listed on soundcheck. 8 upcoming ni
 
 250 W 26TH ST, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

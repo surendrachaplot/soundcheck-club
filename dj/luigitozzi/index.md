@@ -1,6 +1,6 @@
 # Luigi Tozzi
 
-Luigi Tozzi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Trädgården, Stockholm on Fri, 4 Sept 2026.
+Luigi Tozzi is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Trädgården, Stockholm on Fri, 4 Sept 2026.
 
 Luigi Tozzi is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside Laura BCR, Claudio PRC and Feral. Next up: Trädgården, Stockholm on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Luigi Tozzi is a techno and house artist tracked on soundcheck, with 98 sets log
 
 Laura BCR, Claudio PRC, Feral
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*

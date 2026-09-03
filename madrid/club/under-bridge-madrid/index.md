@@ -1,6 +1,6 @@
 # Under Bridge Madrid
 
-Under Bridge Madrid is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Ludo - Luto x Under Bridge" on Sat, 5 Sept 2026.
+Under Bridge Madrid is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Ludo - Luto x Under Bridge" on Sat, 5 Sept 2026.
 
 Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including ESTRELLA OR and Ivan del Burgo. Browse upcoming dates, start times and who's playing. Calle de Caños Viejos, 3.
 
@@ -16,4 +16,4 @@ Under Bridge Madrid is a music venue in Madrid listed on soundcheck. 3 upcoming 
 
 Calle de Caños Viejos, 3, Madrid
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/under-bridge-madrid/)*

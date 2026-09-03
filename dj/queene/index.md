@@ -1,6 +1,6 @@
 # Queen E
 
-Queen E is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Spice H2O, Stockholm on Thu, 3 Sept 2026.
+Queen E is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Spice H2O, Stockholm on Thu, 3 Sept 2026.
 
 Queen E is a house and techno artist tracked on soundcheck, with 34 sets logged across Berlin, Copenhagen, Ibiza and Stockholm. Often billed alongside Sean Fender, Dgeral and Pooja B. Next up: Spice H2O, Stockholm on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Queen E is a house and techno artist tracked on soundcheck, with 34 sets logged 
 
 Sean Fender, Dgeral, Pooja B
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queene/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queene/)*

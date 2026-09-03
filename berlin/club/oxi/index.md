@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Small Great House 'September Edition' (Open Air + Indoor) 19 Hours" on Sat, 5 Sept 2026.
+OXI is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Small Great House 'September Edition' (Open Air + Indoor) 19 Hours" on Sat, 5 Sept 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Acidalia, Alex Levin, Ana Molina and Annina and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with li
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

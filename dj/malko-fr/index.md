@@ -1,6 +1,6 @@
 # MALKÖ
 
-MALKÖ is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Discobar, Paris on Fri, 11 Sept 2026.
+MALKÖ is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Le Discobar, Paris on Fri, 11 Sept 2026.
 
 MALKÖ is a house and balearic artist based in France, tracked on soundcheck, with 17 sets logged across Newyorkcity, Paris, Seoul and Tokyo. Often billed alongside Vidal Benjamin, HOLDTight and JPYE. Next up: Le Discobar, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ MALKÖ is a house and balearic artist based in France, tracked on soundcheck, wi
 
 Vidal Benjamin, HOLDTight, JPYE
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malko-fr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malko-fr/)*

@@ -1,6 +1,6 @@
 # Circolo Amelia
 
-Circolo Amelia is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Closer Season Start Amelia /// DAX J - Philippa Pacho - Regent live - Rorschack - DJ TOOL" on Sat, 19 Sept 2026.
+Circolo Amelia is a music venue in Milan with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Closer Season Start Amelia /// DAX J - Philippa Pacho - Regent live - Rorschack - DJ TOOL" on Sat, 19 Sept 2026.
 
 Circolo Amelia is a music venue in Milan listed on soundcheck. 3 upcoming nights, with line-ups including Atom™, DAX J, DJ TOOL and DVS1 and 2 more. Browse upcoming dates, start times and who's playing. via privata venezia giulia, 19 - Milan - Italy.
 
@@ -16,4 +16,4 @@ Circolo Amelia is a music venue in Milan listed on soundcheck. 3 upcoming nights
 
 via privata venezia giulia, 19 - Milan - Italy, Milan
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*

@@ -1,6 +1,6 @@
 # Reenie (UK)
 
-Reenie (UK) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club Cheek, London on Fri, 18 Sept 2026.
+Reenie (UK) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club Cheek, London on Fri, 18 Sept 2026.
 
 Reenie (UK) is a house and trance artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Brighton and Brisbane and 5 more. Often billed alongside ASHTREY, Rojdar and BAiiN TWINS. Next up: Club Cheek, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Reenie (UK) is a house and trance artist tracked on soundcheck, with 34 sets log
 
 ASHTREY, Rojdar, BAiiN TWINS
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reenieuk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reenieuk/)*

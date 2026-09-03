@@ -1,6 +1,6 @@
 # Varist
 
-Varist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Varist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
 Varist is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Jojo Lorenzo, Tinzo and sznl. Next up: Brooklyn Roots Collective, Newyorkcity on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Varist is a house and techno artist based in United States of America, tracked o
 
 Jojo Lorenzo, Tinzo, sznl
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varist/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varist/)*

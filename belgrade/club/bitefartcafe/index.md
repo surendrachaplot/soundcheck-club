@@ -1,6 +1,6 @@
 # Bitefartcafe
 
-Bitefartcafe is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Nik West" on Thu, 24 Sept 2026.
+Bitefartcafe is a music venue in Belgrade with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Nik West" on Thu, 24 Sept 2026.
 
 Bitefartcafe is a music venue in Belgrade listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Mitropolita Petra 8.
 
@@ -15,4 +15,4 @@ Bitefartcafe is a music venue in Belgrade listed on soundcheck. 2 upcoming night
 
 Mitropolita Petra 8, Belgrade
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/bitefartcafe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/bitefartcafe/)*

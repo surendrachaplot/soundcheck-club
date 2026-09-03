@@ -1,6 +1,6 @@
 # BLESSTONIO
 
-BLESSTONIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
+BLESSTONIO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
 
 BLESSTONIO is a house and techno artist based in United States of America, tracked on soundcheck, with 56 sets logged across Chicago, Detroit, Mexicocity and Newyorkcity. Often billed alongside CTRLZORA, Kenjiro and Charles Trees. Next up: MotorCity Wine, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ BLESSTONIO is a house and techno artist based in United States of America, track
 
 CTRLZORA, Kenjiro, Charles Trees
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blesstonio/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blesstonio/)*

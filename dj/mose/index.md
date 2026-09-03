@@ -1,6 +1,6 @@
 # Mose
 
-Mose is a Electronica and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gospël New York, New York City on Sat, 12 Sept 2026.
+Mose is a Electronica and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Gospël New York, New York City on Sat, 12 Sept 2026.
 
 Mose is an electronica and downtempo artist tracked on soundcheck, with 5 sets logged across Ibiza, Mexicocity, Miami and Newyorkcity. Next up: Gospël New York, Newyorkcity on Sat 12 Sept.
 
@@ -17,4 +17,4 @@ Mose is an electronica and downtempo artist tracked on soundcheck, with 5 sets l
 - S de Supremo, Mexico City — Thu, 23 Apr 2026
 - S de Supremo, Mexico City — Thu, 24 Apr 2025
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mose/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mose/)*

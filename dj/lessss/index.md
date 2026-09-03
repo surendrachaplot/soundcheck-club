@@ -1,6 +1,6 @@
 # LESSSS
 
-LESSSS is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Room 2 Glasgow, Glasgow on Fri, 11 Sept 2026.
+LESSSS is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Room 2 Glasgow, Glasgow on Fri, 11 Sept 2026.
 
 LESSSS is a techno and hardcore artist tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 49 more. Often billed alongside Azyr, Basswell and Charlie Sparks. Next up: Room 2 Glasgow, Glasgow on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ LESSSS is a techno and hardcore artist tracked on soundcheck, with 158 sets logg
 
 Azyr, Basswell, Charlie Sparks
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*

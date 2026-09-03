@@ -1,6 +1,6 @@
 # Deg
 
-Deg is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bodies in Space, Brussels on Sat, 26 Sept 2026.
+Deg is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bodies in Space, Brussels on Sat, 26 Sept 2026.
 
 Deg is a techno and breakbeat artist tracked on soundcheck, with 7 sets logged across Brussels. Often billed alongside Pierre, A Guy Called Gerald and Basic Feelings (2). Next up: Bodies in Space, Brussels on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Deg is a techno and breakbeat artist tracked on soundcheck, with 7 sets logged a
 
 Pierre, A Guy Called Gerald, Basic Feelings (2)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deg/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deg/)*

@@ -1,6 +1,6 @@
 # Parc du Heyritz
 
-Parc du Heyritz is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Park'n'Sound #3 — Parc du Heyritz — Open Air Gratuit" on Sat, 19 Sept 2026.
+Parc du Heyritz is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Park'n'Sound #3 — Parc du Heyritz — Open Air Gratuit" on Sat, 19 Sept 2026.
 
 Parc du Heyritz is a music venue in Strasbourg listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Parc du Heyritz is a music venue in Strasbourg listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Park'n'Sound #3 — Parc du Heyritz — Open Air Gratuit |  |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/parc-du-heyritz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/parc-du-heyritz/)*

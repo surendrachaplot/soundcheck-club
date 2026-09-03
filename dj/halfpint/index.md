@@ -1,6 +1,6 @@
 # HALFPINT
 
-HALFPINT is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
+HALFPINT is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
 
 HALFPINT is a house and techno artist tracked on soundcheck, with 44 sets logged across Amsterdam, Brighton, Dublin and Hamburg and 2 more. Often billed alongside Sossa, Jamback and Seth Troxler. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
 
@@ -27,4 +27,4 @@ HALFPINT is a house and techno artist tracked on soundcheck, with 44 sets logged
 
 Sossa, Jamback, Seth Troxler
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpint/)*

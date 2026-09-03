@@ -1,6 +1,6 @@
 # Danuka
 
-Danuka is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at renae, Manchester on Fri, 4 Sept 2026.
+Danuka is a Disco and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at renae, Manchester on Fri, 4 Sept 2026.
 
 Danuka is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Manchester. Often billed alongside Yadava, Baloo and Bolts. Next up: renae, Manchester on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Danuka is a disco and funk / soul artist based in United Kingdom, tracked on sou
 
 Yadava, Baloo, Bolts
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danuka/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danuka/)*

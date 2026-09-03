@@ -1,6 +1,6 @@
 # Devil's Daughter
 
-Devil's Daughter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Four Quarters, London on Fri, 11 Sept 2026.
+Devil's Daughter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Four Quarters, London on Fri, 11 Sept 2026.
 
 Devil's Daughter is a techno and house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Gridlock, Alba Heidari and Cirkle. Next up: Four Quarters, London on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Devil's Daughter is a techno and house artist tracked on soundcheck, with 6 sets
 
 Gridlock, Alba Heidari, Cirkle
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devilsdaughter/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devilsdaughter/)*

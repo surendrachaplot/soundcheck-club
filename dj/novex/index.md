@@ -1,6 +1,6 @@
 # NØVEX
 
-NØVEX is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Berlin, Berlin on Sat, 3 Oct 2026.
+NØVEX is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Berlin, Berlin on Sat, 3 Oct 2026.
 
 NØVEX is a trance and techno artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside ACIDG, BOOTHBUNNY and BVNNII. Next up: TBA - Berlin, Berlin on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ NØVEX is a trance and techno artist tracked on soundcheck, with 4 sets logged a
 
 ACIDG, BOOTHBUNNY, BVNNII
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novex/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novex/)*

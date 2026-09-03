@@ -1,6 +1,6 @@
 # Satirized
 
-Satirized is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Fabrik, Madrid on Sat, 24 Oct 2026.
+Satirized is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fabrik, Madrid on Sat, 24 Oct 2026.
 
 Satirized is a hardcore and gabber artist tracked on soundcheck, with 8 sets logged across Amsterdam, Frankfurt, Glasgow and Madrid. Often billed alongside Noxiouz, The Dark Horror and Pinotello. Next up: Fabrik, Madrid on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Satirized is a hardcore and gabber artist tracked on soundcheck, with 8 sets log
 
 Noxiouz, The Dark Horror, Pinotello
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satirized/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satirized/)*

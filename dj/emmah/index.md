@@ -1,6 +1,6 @@
 # Emma H
 
-Emma H is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 6 Sept 2026.
+Emma H is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 6 Sept 2026.
 
 Emma H is a techno and electro artist based in Serbia, tracked on soundcheck, with 10 sets logged across Belgrade. Often billed alongside Lollipop Janosz, ShibiDorra and Balša. Next up: Para Klub Beograd, Belgrade on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Emma H is a techno and electro artist based in Serbia, tracked on soundcheck, wi
 
 Lollipop Janosz, ShibiDorra, Balša
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmah/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmah/)*

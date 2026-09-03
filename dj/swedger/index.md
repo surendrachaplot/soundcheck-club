@@ -1,6 +1,6 @@
 # Swedger
 
-Swedger is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Stereo, Glasgow on Thu, 3 Sept 2026.
+Swedger is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Stereo, Glasgow on Thu, 3 Sept 2026.
 
 Swedger is a garage and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Glasgow. Often billed alongside Angel Cake, 4KitSake and Jøhannes (UK). Next up: Stereo, Glasgow on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Swedger is a garage and house artist based in United Kingdom, tracked on soundch
 
 Angel Cake, 4KitSake, Jøhannes (UK)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swedger/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swedger/)*

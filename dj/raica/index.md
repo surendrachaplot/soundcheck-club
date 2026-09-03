@@ -1,6 +1,6 @@
 # Raica
 
-Raica is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
+Raica is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - San Francisco, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Raica is an experimental and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Detroit, Sanfrancisco and Seattle. Often billed alongside BMG, Carlos Souffront and Derek Plaslaiko. Next up: TBA - San Francisco, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Raica is an experimental and techno artist based in United States of America, tr
 
 BMG, Carlos Souffront, Derek Plaslaiko
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raica/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raica/)*

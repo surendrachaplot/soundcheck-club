@@ -1,6 +1,6 @@
 # Maximillion
 
-Maximillion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at XOYO, London on Wed, 2 Sept 2026.
+Maximillion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at XOYO, London on Wed, 2 Sept 2026.
 
 Maximillion is a techno and house artist tracked on soundcheck, with 5 sets logged across Berlin, Hamburg, London and Sanfrancisco. Often billed alongside Didier Dlb, AJ Christou and ATTA (GER). Next up: XOYO, London on Wed 2 Sept.
 
@@ -12,6 +12,7 @@ Maximillion is a techno and house artist tracked on soundcheck, with 5 sets logg
 
 ## Recently played
 
+- XOYO, London — Wed, 2 Sept 2026
 - Monarch, San Francisco/Oakland — Thu, 4 Jun 2026
 - Golden Gate, Berlin — Fri, 10 Apr 2026
 - Edelfettwerk, Hamburg — Sat, 19 Apr 2025
@@ -21,4 +22,4 @@ Maximillion is a techno and house artist tracked on soundcheck, with 5 sets logg
 
 Didier Dlb, AJ Christou, ATTA (GER)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximillion/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximillion/)*

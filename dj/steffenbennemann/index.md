@@ -1,6 +1,6 @@
 # Steffen Bennemann
 
-Steffen Bennemann is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
+Steffen Bennemann is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
 
 Steffen Bennemann is an electro and house artist tracked on soundcheck, with 12 sets logged across Hamburg, Leipzig, Prague and Tbilisi. Often billed alongside Momo, 50PHIE and BEQA. Next up: Südpol, Hamburg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Steffen Bennemann is an electro and house artist tracked on soundcheck, with 12 
 
 Momo, 50PHIE, BEQA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steffenbennemann/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steffenbennemann/)*

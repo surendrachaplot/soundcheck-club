@@ -1,14 +1,13 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Dance Support presents Devotion" on Wed, 2 Sept 2026.
+Mood Ring is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "panatekk" on Thu, 3 Sept 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including 444 (1), a.gar, AG (1) and AJACENT and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including 444 (1), a.gar, AG (1) and AJACENT and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Dance Support presents Devotion | DJ Passion Fruit, girl_irl, shirlz |
 | Thu, 3 Sept 2026 | panatekk | BLAIZE, LaFHomme |
 | Fri, 4 Sept 2026 | BARRIO BOUNCE, A Budots & SEA Club Night | Castillonaire, WILHELMINA, rogue.wav, sebs (2) |
 | Fri, 4 Sept 2026 | Love Language with DJ Fifi & suciopath | suciopath |
@@ -18,9 +17,10 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nigh
 | Wed, 9 Sept 2026 | Tasheff presents GOSSIP | Hope 808, Tasheff |
 | Thu, 10 Sept 2026 | Krithi, 444, Sana, Maiya, Urkanmani | 444 (1), Krithi, MAIYA, Sana (NYC), ur kanmani |
 | Fri, 11 Sept 2026 | ONEONEONE PRESENTS: PARTY017 | DJ Brandy Melville, Dr. Fruit, Heartbreaker |
+| Fri, 11 Sept 2026 | Natural Disaster vol. II | Caratastrophe |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

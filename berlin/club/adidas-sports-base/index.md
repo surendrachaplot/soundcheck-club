@@ -1,6 +1,6 @@
 # Adidas Sports Base
 
-Adidas Sports Base is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "adidas Germany Got Game: Skills Session with BBV" on Fri, 4 Sept 2026.
+Adidas Sports Base is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "adidas Germany Got Game: Skills Session with BBV" on Fri, 4 Sept 2026.
 
 Adidas Sports Base is a music venue in Berlin listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. Schleusenufer 4, 10997 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Adidas Sports Base is a music venue in Berlin listed on soundcheck. 3 upcoming n
 
 Schleusenufer 4, 10997 Berlin, Germany, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/adidas-sports-base/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/adidas-sports-base/)*

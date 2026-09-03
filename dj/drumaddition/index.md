@@ -1,6 +1,6 @@
 # Drumaddition
 
-Drumaddition is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Smolna, Warsaw on Sat, 26 Sept 2026.
+Drumaddition is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Smolna, Warsaw on Sat, 26 Sept 2026.
 
 Drumaddition is a techno and house artist tracked on soundcheck, with 24 sets logged across Warsaw. Often billed alongside KEVS, Kasia DVD and Meskalino. Next up: Smolna, Warsaw on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Drumaddition is a techno and house artist tracked on soundcheck, with 24 sets lo
 
 KEVS, Kasia DVD, Meskalino
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drumaddition/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drumaddition/)*

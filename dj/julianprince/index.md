@@ -1,6 +1,6 @@
 # Julian Prince
 
-Julian Prince is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at YoYo - Palais de Tokyo, Paris on Sat, 19 Sept 2026.
+Julian Prince is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at YoYo - Palais de Tokyo, Paris on Sat, 19 Sept 2026.
 
 Julian Prince is a house and afro house artist tracked on soundcheck, with 13 sets logged across Amsterdam, Ibiza, Miami and Newyorkcity and 1 more. Often billed alongside Kadosh, Oxia and Sander Kleinenberg. Next up: YoYo - Palais de Tokyo, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Julian Prince is a house and afro house artist tracked on soundcheck, with 13 se
 
 Kadosh, Oxia, Sander Kleinenberg
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianprince/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianprince/)*

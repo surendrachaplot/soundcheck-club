@@ -1,6 +1,6 @@
 # Zombies In Miami
 
-Zombies In Miami is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Central 1926, Sao Paulo on Sat, 5 Sept 2026.
+Zombies In Miami is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Central 1926, Sao Paulo on Sat, 5 Sept 2026.
 
 Zombies In Miami is a house and techno artist tracked on soundcheck, with 144 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside DJ Nobu, Fadi Mohem and Marie Montexier. Next up: Central 1926, Saopaulo on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Zombies In Miami is a house and techno artist tracked on soundcheck, with 144 se
 
 DJ Nobu, Fadi Mohem, Marie Montexier
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*

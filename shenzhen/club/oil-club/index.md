@@ -1,6 +1,6 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 27 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "好事星期四 House Thursday" on Thu, 3 Sept 2026.
+OIL Club is a music venue in Shenzhen with 27 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "好事星期四 House Thursday" on Thu, 3 Sept 2026.
 
 OIL Club is a music venue in Shenzhen listed on soundcheck. 27 upcoming nights, with line-ups including ADEAD, ADRIANNA, Alex Banks and Alion and 2 more. Browse upcoming dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
@@ -23,4 +23,4 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 27 upcoming nights, 
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

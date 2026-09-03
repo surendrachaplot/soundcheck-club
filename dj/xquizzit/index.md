@@ -1,6 +1,6 @@
 # xQuizzit
 
-xQuizzit is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hail Mary, Toronto on Sat, 19 Sept 2026.
+xQuizzit is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hail Mary, Toronto on Sat, 19 Sept 2026.
 
 xQuizzit is a house and electronica artist based in Canada, tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside DJ Ringworm, Vladdy and EZRyder. Next up: Hail Mary, Toronto on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ xQuizzit is a house and electronica artist based in Canada, tracked on soundchec
 
 DJ Ringworm, Vladdy, EZRyder
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xquizzit/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xquizzit/)*

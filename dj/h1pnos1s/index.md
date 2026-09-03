@@ -1,6 +1,6 @@
 # H1pnos1s
 
-H1pnos1s is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hotel El Bruc, Barcelona on Sat, 19 Sept 2026.
+H1pnos1s is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hotel El Bruc, Barcelona on Sat, 19 Sept 2026.
 
 H1pnos1s is a techno and trance artist based in Spain, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Cologne and Madrid and 1 more. Often billed alongside QUINCE (2), NARCX and PÜCH. Next up: Hotel El Bruc, Barcelona on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ H1pnos1s is a techno and trance artist based in Spain, tracked on soundcheck, wi
 
 QUINCE (2), NARCX, PÜCH
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/h1pnos1s/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/h1pnos1s/)*

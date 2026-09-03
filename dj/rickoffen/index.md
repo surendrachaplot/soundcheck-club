@@ -1,6 +1,6 @@
 # Rick Offen
 
-Rick Offen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Pimpernel, Munich on Fri, 4 Sept 2026.
+Rick Offen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Pimpernel, Munich on Fri, 4 Sept 2026.
 
 Rick Offen is a house and deep house artist based in Portugal, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Copenhagen and Frankfurt and 9 more. Often billed alongside Ander Race, Awk (2) and Reezar. Next up: Pimpernel, Munich on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Rick Offen is a house and deep house artist based in Portugal, tracked on soundc
 
 Ander Race, Awk (2), Reezar
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickoffen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickoffen/)*

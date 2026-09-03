@@ -1,6 +1,6 @@
 # Roberta.Mikeila
 
-Roberta.Mikeila is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 11 Sept 2026.
+Roberta.Mikeila is a Tech House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 11 Sept 2026.
 
 Roberta.Mikeila is a tech house and acid artist based in Argentina, tracked on soundcheck, with 49 sets logged across Barcelona and Madrid. Often billed alongside MENTA, Beghelli and Miguel Silva. Next up: Almar Beach Club, Barcelona on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Roberta.Mikeila is a tech house and acid artist based in Argentina, tracked on s
 
 MENTA, Beghelli, Miguel Silva
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roberta.mikeila/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roberta.mikeila/)*

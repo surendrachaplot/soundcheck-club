@@ -1,6 +1,6 @@
 # Mac Briggs
 
-Mac Briggs is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
+Mac Briggs is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
 
 Mac Briggs is a house and deep house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Armii1n, Bella Mutino and EREZ.JPG. Next up: House of Yes, Newyorkcity on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Mac Briggs is a house and deep house artist based in United States of America, t
 
 Armii1n, Bella Mutino, EREZ.JPG
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macbriggs/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macbriggs/)*

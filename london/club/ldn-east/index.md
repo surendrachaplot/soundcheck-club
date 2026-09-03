@@ -1,6 +1,6 @@
 # LDN East
 
-LDN East is a music venue in London with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "A day with Crazy P (DJ Set)" on Sat, 5 Sept 2026.
+LDN East is a music venue in London with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "A day with Crazy P (DJ Set)" on Sat, 5 Sept 2026.
 
 LDN East is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Crazy P, Darkstepper, DJ Brockie and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
@@ -18,4 +18,4 @@ LDN East is a music venue in London listed on soundcheck. 5 upcoming nights, wit
 
 30 Bidder Street, London, England, E16 4SH, United Kingdom, London
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ldn-east/)*

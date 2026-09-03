@@ -1,6 +1,6 @@
 # Ruby Savage
 
-Ruby Savage is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Carpet Shop, London on Sat, 12 Sept 2026.
+Ruby Savage is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Carpet Shop, London on Sat, 12 Sept 2026.
 
 Ruby Savage is a house and disco artist tracked on soundcheck, with 98 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 20 more. Often billed alongside Shy One, Dee Diggs and Mendel. Next up: The Carpet Shop, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Ruby Savage is a house and disco artist tracked on soundcheck, with 98 sets logg
 
 Shy One, Dee Diggs, Mendel
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubysavage/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubysavage/)*

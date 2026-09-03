@@ -1,6 +1,6 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 11 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Devlin - Birmingham" on Thu, 10 Sept 2026.
+Hare & Hounds is a music venue in Birmingham with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Devlin - Birmingham" on Thu, 10 Sept 2026.
 
 Hare & Hounds is a music venue in Birmingham listed on soundcheck. 11 upcoming nights, with line-ups including BLUMITSU, Greg Wilson, Horse Meat Disco and Joe Goddard and 2 more. Browse upcoming dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
@@ -23,4 +23,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 11 upcoming n
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

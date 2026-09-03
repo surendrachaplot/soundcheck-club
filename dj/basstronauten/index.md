@@ -1,6 +1,6 @@
 # Basstronauten
 
-Basstronauten is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at ORWO Haus, Berlin on Sat, 21 Nov 2026.
+Basstronauten is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ORWO Haus, Berlin on Sat, 21 Nov 2026.
 
 Basstronauten is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin. Often billed alongside Daniel Boon, LORD of Psychedelics (2) and DAZA. Next up: ORWO Haus, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Basstronauten is a techno and house artist based in Germany, tracked on soundche
 
 Daniel Boon, LORD of Psychedelics (2), DAZA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basstronauten/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basstronauten/)*

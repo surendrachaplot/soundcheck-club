@@ -1,6 +1,6 @@
 # Techno Frühstück
 
-Techno Frühstück is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at M-BIA, Berlin on Fri, 4 Sept 2026.
+Techno Frühstück is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at M-BIA, Berlin on Fri, 4 Sept 2026.
 
 Techno Frühstück is a techno and hardcore artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Tekk, A² and Bass. Next up: M-BIA, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Techno Frühstück is a techno and hardcore artist based in Germany, tracked on 
 
 Tekk, A², Bass
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technofruhstuck/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technofruhstuck/)*

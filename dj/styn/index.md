@@ -1,6 +1,6 @@
 # Styn
 
-Styn is a House and Afrobeats artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Skatecafe, Amsterdam on Fri, 4 Sept 2026.
+Styn is a House and Afrobeats artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Skatecafe, Amsterdam on Fri, 4 Sept 2026.
 
 Styn is a house and afrobeats artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, London, Manchester and Rotterdam and 1 more. Often billed alongside T.NO, Kurashi Soundsystem and Cheyanne Hudson. Next up: Skatecafe, Amsterdam on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Styn is a house and afrobeats artist based in Netherlands, tracked on soundcheck
 
 T.NO, Kurashi Soundsystem, Cheyanne Hudson
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/styn/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/styn/)*

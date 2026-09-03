@@ -1,6 +1,6 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
+Vieze Asbak is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Los Angeles on Sun, 27 Sept 2026.
 
 Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 39 more. Often billed alongside KLOFAMA, Restricted and KARAH. Next up: TBA, Losangeles on Sun 27 Sept.
 
@@ -36,4 +36,4 @@ Vieze Asbak is a techno and hardcore artist tracked on soundcheck, with 100 sets
 
 KLOFAMA, Restricted, KARAH
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*

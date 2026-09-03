@@ -1,6 +1,6 @@
 # April (UK)
 
-April (UK) is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Haunted Dancehall, Manchester on Fri, 4 Sept 2026.
+April (UK) is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Haunted Dancehall, Manchester on Fri, 4 Sept 2026.
 
 April (UK) is a techno and electro artist tracked on soundcheck, with 65 sets logged across Glasgow, Leeds, Liverpool and Manchester and 1 more. Often billed alongside Esmé, Alex Milo and Practical. Next up: TBA - Haunted Dancehall, Manchester on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ April (UK) is a techno and electro artist tracked on soundcheck, with 65 sets lo
 
 Esmé, Alex Milo, Practical
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apriluk/)*

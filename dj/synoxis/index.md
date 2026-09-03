@@ -1,6 +1,6 @@
 # Synoxis
 
-Synoxis is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Charlatan, Ghent on Sat, 26 Sept 2026.
+Synoxis is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Charlatan, Ghent on Sat, 26 Sept 2026.
 
 Synoxis is a drum & bass and bass artist tracked on soundcheck, with 18 sets logged across Amsterdam, Antwerp, Brussels and Cologne and 2 more. Often billed alongside 1991, Ampe and Asian Sal. Next up: Charlatan, Ghent on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Synoxis is a drum & bass and bass artist tracked on soundcheck, with 18 sets log
 
 1991, Ampe, Asian Sal
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/synoxis/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/synoxis/)*

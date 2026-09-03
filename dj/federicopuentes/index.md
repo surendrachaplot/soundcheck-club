@@ -1,6 +1,6 @@
 # Federico Puentes
 
-Federico Puentes is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Watsons EQ, Sydney on Sat, 31 Oct 2026.
+Federico Puentes is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Watsons EQ, Sydney on Sat, 31 Oct 2026.
 
 Federico Puentes is a deep house and progressive house artist tracked on soundcheck, with 5 sets logged across Sydney. Often billed alongside FacuHu, Mander and Zankee Gulati. Next up: Watsons EQ, Sydney on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Federico Puentes is a deep house and progressive house artist tracked on soundch
 
 FacuHu, Mander, Zankee Gulati
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/federicopuentes/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/federicopuentes/)*

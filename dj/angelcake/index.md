@@ -1,6 +1,6 @@
 # Angel Cake
 
-Angel Cake is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Stereo, Glasgow on Thu, 3 Sept 2026.
+Angel Cake is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Stereo, Glasgow on Thu, 3 Sept 2026.
 
 Angel Cake is a garage and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Glasgow. Often billed alongside Swedger, 4KitSake and Jøhannes (UK). Next up: Stereo, Glasgow on Thu 3 Sept.
 
@@ -23,4 +23,4 @@ Angel Cake is a garage and house artist based in United Kingdom, tracked on soun
 
 Swedger, 4KitSake, Jøhannes (UK)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelcake/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelcake/)*

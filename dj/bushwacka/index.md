@@ -1,6 +1,6 @@
 # Bushwacka!
 
-Bushwacka! is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 8 Sept 2026.
+Bushwacka! is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 8 Sept 2026.
 
 Bushwacka! is a house and disco artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Berlin, Bucharest, Ibiza and Leeds and 9 more. Often billed alongside Defex, Camilo Miranda and Lanty Jackson. Next up: 528 Ibiza, Ibiza on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ Bushwacka! is a house and disco artist based in United Kingdom, tracked on sound
 
 Defex, Camilo Miranda, Lanty Jackson
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bushwacka/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bushwacka/)*

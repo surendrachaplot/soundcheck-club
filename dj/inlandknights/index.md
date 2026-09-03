@@ -1,6 +1,6 @@
 # Inland Knights
 
-Inland Knights is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 19 Sept 2026.
+Inland Knights is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 19 Sept 2026.
 
 Inland Knights is a house and deep house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 11 more. Often billed alongside Buckley, Elliot Schooling and Fleur Shore. Next up: Ouseburn Garden, Newcastle on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Inland Knights is a house and deep house artist tracked on soundcheck, with 32 s
 
 Buckley, Elliot Schooling, Fleur Shore
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inlandknights/)*

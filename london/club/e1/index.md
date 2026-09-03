@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 36 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Hostile Takeover - KARAH & KX CHR London Debut // Hard Techno" on Fri, 4 Sept 2026.
+E1 is a music venue in London with 36 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Hostile Takeover - KARAH & KX CHR London Debut // Hard Techno" on Fri, 4 Sept 2026.
 
 E1 is a music venue in London listed on soundcheck. 36 upcoming nights, with line-ups including 2HOT2PLAY, 8KAYS, Paolo Ferrara and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 36 upcoming nights, with lin
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

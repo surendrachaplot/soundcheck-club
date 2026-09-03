@@ -1,6 +1,6 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 9 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Bonanza Festival Showcase: Adi X Benny — All Night Long (Age 20+)" on Fri, 25 Sept 2026.
+Cobalt Studios is a music venue in Newcastle with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Bonanza Festival Showcase: Adi X Benny — All Night Long (Age 20+)" on Fri, 25 Sept 2026.
 
 Cobalt Studios is a music venue in Newcastle listed on soundcheck. 9 upcoming nights, with line-ups including Adi (CO), Benny (El Rio Hostel), Bobby. and Garbo (2) and 2 more. Browse upcoming dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
@@ -22,4 +22,4 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 9 upcoming ni
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

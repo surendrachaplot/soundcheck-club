@@ -1,6 +1,6 @@
 # Karim Bitar
 
-Karim Bitar is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ormside Projects, London on Sat, 19 Sept 2026.
+Karim Bitar is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ormside Projects, London on Sat, 19 Sept 2026.
 
 Karim Bitar is a house and electro artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Kenzel, Amaliah and Eds D1. Next up: Ormside Projects, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Karim Bitar is a house and electro artist tracked on soundcheck, with 13 sets lo
 
 Kenzel, Amaliah, Eds D1
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karimbitar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karimbitar/)*

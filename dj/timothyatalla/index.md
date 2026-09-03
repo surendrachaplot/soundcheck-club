@@ -1,6 +1,6 @@
 # TIMOTHY ATALLA
 
-TIMOTHY ATALLA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Weekend, Berlin on Fri, 4 Sept 2026.
+TIMOTHY ATALLA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Weekend, Berlin on Fri, 4 Sept 2026.
 
 TIMOTHY ATALLA is a techno and house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Seccoboi, Lucio G and FRÆD. Next up: Weekend, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ TIMOTHY ATALLA is a techno and house artist based in Germany, tracked on soundch
 
 Seccoboi, Lucio G, FRÆD
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timothyatalla/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timothyatalla/)*

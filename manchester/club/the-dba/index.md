@@ -1,6 +1,6 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "NIGHT SWETS X TRAUMAVILLE PRESENTS: THE 3RD EDITION" on Fri, 4 Sept 2026.
+The DBA is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "NIGHT SWETS X TRAUMAVILLE PRESENTS: THE 3RD EDITION" on Fri, 4 Sept 2026.
 
 The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including 4STR0, Aerbreak, atalaya and b.lo and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
@@ -23,4 +23,4 @@ The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming nights,
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

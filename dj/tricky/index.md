@@ -1,6 +1,6 @@
 # Tricky
 
-Tricky is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Bellwether, Los Angeles on Thu, 24 Sept 2026.
+Tricky is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Bellwether, Los Angeles on Thu, 24 Sept 2026.
 
 Tricky is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Bristol, Bucharest, Budapest and Copenhagen and 6 more. Often billed alongside Jenny C (1), Bassvictim and Beltran. Next up: The Bellwether, Losangeles on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Tricky is a hip-hop and house artist based in United Kingdom, tracked on soundch
 
 Jenny C (1), Bassvictim, Beltran
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*

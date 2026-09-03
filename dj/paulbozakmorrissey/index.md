@@ -1,6 +1,6 @@
 # Paul Bozak Morrissey
 
-Paul Bozak Morrissey is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Love Inn, Bristol on Sat, 5 Sept 2026.
+Paul Bozak Morrissey is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Love Inn, Bristol on Sat, 5 Sept 2026.
 
 Paul Bozak Morrissey is a house and disco artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Bristol. Often billed alongside Rahaan. Next up: The Love Inn, Bristol on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Paul Bozak Morrissey is a house and disco artist based in United Kingdom, tracke
 
 Rahaan
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulbozakmorrissey/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulbozakmorrissey/)*

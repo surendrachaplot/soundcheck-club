@@ -1,6 +1,6 @@
 # I5HI
 
-I5HI is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at John Doe, Amsterdam on Wed, 2 Sept 2026.
+I5HI is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at John Doe, Amsterdam on Wed, 2 Sept 2026.
 
 I5HI is a techno artist tracked on soundcheck, with 5 sets logged across Amsterdam and Berlin. Often billed alongside BVNNII, JØYCE and ATR DJ-TEAM. Next up: John Doe, Amsterdam on Wed 2 Sept.
 
@@ -12,6 +12,7 @@ I5HI is a techno artist tracked on soundcheck, with 5 sets logged across Amsterd
 
 ## Recently played
 
+- John Doe, Amsterdam — Wed, 2 Sept 2026
 - John Doe, Amsterdam — Wed, 4 Mar 2026
 - M-BIA, Berlin — Fri, 13 Feb 2026
 - John Doe, Amsterdam — Wed, 28 Jan 2026
@@ -21,4 +22,4 @@ I5HI is a techno artist tracked on soundcheck, with 5 sets logged across Amsterd
 
 BVNNII, JØYCE, ATR DJ-TEAM
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i5hi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i5hi/)*

@@ -1,6 +1,6 @@
 # Sat
 
-Sat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Bernard Shaw, Dublin on Sat, 19 Sept 2026.
+Sat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Bernard Shaw, Dublin on Sat, 19 Sept 2026.
 
 Sat is a house and disco artist tracked on soundcheck, with 43 sets logged across Dublin, Kualalumpur, Lisbon and Losangeles and 4 more. Often billed alongside Andrea Zucca, Møreti and Chep. Next up: The Bernard Shaw, Dublin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sat is a house and disco artist tracked on soundcheck, with 43 sets logged acros
 
 Andrea Zucca, Møreti, Chep
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sat/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sat/)*

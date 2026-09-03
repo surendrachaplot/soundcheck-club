@@ -1,6 +1,6 @@
 # Utip
 
-Utip is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Perro Loco, Berlin on Fri, 4 Sept 2026.
+Utip is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Perro Loco, Berlin on Fri, 4 Sept 2026.
 
 Utip is a house and minimal artist tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Ibiza and London and 2 more. Often billed alongside Hypnoize, Isaac Elejalde and Danilo Schneider. Next up: Perro Loco, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Utip is a house and minimal artist tracked on soundcheck, with 32 sets logged ac
 
 Hypnoize, Isaac Elejalde, Danilo Schneider
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/utip/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/utip/)*

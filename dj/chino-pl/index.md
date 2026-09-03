@@ -1,6 +1,6 @@
 # Chino
 
-Chino is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sekta Selekta, Krakow on Fri, 11 Sept 2026.
+Chino is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sekta Selekta, Krakow on Fri, 11 Sept 2026.
 
 Chino is an electro and techno artist based in Poland, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Buenosaires and Krakow and 4 more. Often billed alongside Olivia, Kondrat and Kinzo Chrome. Next up: Sekta Selekta, Krakow on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Chino is an electro and techno artist based in Poland, tracked on soundcheck, wi
 
 Olivia, Kondrat, Kinzo Chrome
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chino-pl/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chino-pl/)*

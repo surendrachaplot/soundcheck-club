@@ -1,6 +1,6 @@
 # BMG
 
-BMG is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Process PDX, Portland on Fri, 4 Sept 2026.
+BMG is a Techno and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Process PDX, Portland on Fri, 4 Sept 2026.
 
 BMG is a techno and electro artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Bristol and Chicago and 14 more. Often billed alongside Erika, Mike Servito and Derek Plaslaiko. Next up: Process PDX, Portland on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ BMG is a techno and electro artist based in United States of America, tracked on
 
 Erika, Mike Servito, Derek Plaslaiko
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*

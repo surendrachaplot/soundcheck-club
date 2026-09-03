@@ -1,6 +1,6 @@
 # Salomelody
 
-Salomelody is a Neo Perreo and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sala El Sol, Madrid on Thu, 3 Sept 2026.
+Salomelody is a Neo Perreo and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sala El Sol, Madrid on Thu, 3 Sept 2026.
 
 Salomelody is a neo perreo and latin bass artist tracked on soundcheck, with 20 sets logged across Barcelona, Boston, Madrid and Mexicocity and 4 more. Often billed alongside Linapary, AMANTRA and BZZHOUND. Next up: Sala El Sol, Madrid on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Salomelody is a neo perreo and latin bass artist tracked on soundcheck, with 20 
 
 Linapary, AMANTRA, BZZHOUND
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salomelody/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salomelody/)*

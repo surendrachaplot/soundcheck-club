@@ -1,6 +1,6 @@
 # AyChibs
 
-AyChibs is a R&B and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Electrowerkz, London on Fri, 18 Sept 2026.
+AyChibs is a R&B and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Electrowerkz, London on Fri, 18 Sept 2026.
 
 AyChibs is a r&b and house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Hamburg, London and Sydney. Often billed alongside ELLADHC, Donnie Sunshine and Mayowa. Next up: Electrowerkz, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ AyChibs is a r&b and house artist based in United Kingdom, tracked on soundcheck
 
 ELLADHC, Donnie Sunshine, Mayowa
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aychibs/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aychibs/)*

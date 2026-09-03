@@ -1,6 +1,6 @@
 # I Like Wires
 
-I Like Wires is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at fabric, London on Sun, 13 Sept 2026.
+I Like Wires is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at fabric, London on Sun, 13 Sept 2026.
 
 I Like Wires is an electronic artist tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona and London. Often billed alongside Kanedo, ASHOJU and Alfie. Next up: fabric, London on Sun 13 Sept.
 
@@ -21,4 +21,4 @@ I Like Wires is an electronic artist tracked on soundcheck, with 5 sets logged a
 
 Kanedo, ASHOJU, Alfie
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilikewires/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilikewires/)*

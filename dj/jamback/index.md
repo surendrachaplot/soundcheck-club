@@ -1,6 +1,6 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Concourse Project, Austin on Thu, 3 Sept 2026.
+Jamback is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Concourse Project, Austin on Thu, 3 Sept 2026.
 
 Jamback is a house and tech house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, Marsolo and ALISHA. Next up: The Concourse Project, Austin on Thu 3 Sept.
 
@@ -36,4 +36,4 @@ Jamback is a house and tech house artist tracked on soundcheck, with 181 sets lo
 
 East End Dubs, Marsolo, ALISHA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

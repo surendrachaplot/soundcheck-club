@@ -1,6 +1,6 @@
 # Ukiyo (Music)
 
-Ukiyo (Music) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Highlight Room, New York City on Sun, 6 Sept 2026.
+Ukiyo (Music) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Highlight Room, New York City on Sun, 6 Sept 2026.
 
 Ukiyo (Music) is a house and deep house artist tracked on soundcheck, with 13 sets logged across Berlin, Mexicocity, Newyorkcity and Riga. Often billed alongside Irena Stanisic, JAWAR (3) and NAP (MX). Next up: The Highlight Room, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Ukiyo (Music) is a house and deep house artist tracked on soundcheck, with 13 se
 
 Irena Stanisic, JAWAR (3), NAP (MX)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ukiyomusic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ukiyomusic/)*

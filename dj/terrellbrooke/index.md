@@ -1,6 +1,6 @@
 # Terrell Brooke
 
-Terrell Brooke is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Dada Echo Park, Los Angeles on Sun, 6 Sept 2026.
+Terrell Brooke is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Dada Echo Park, Los Angeles on Sun, 6 Sept 2026.
 
 Terrell Brooke is a house and club artist based in United States of America, tracked on soundcheck, with 52 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside BODII, NEPTUNEWAVEY and baby.com. Next up: Dada Echo Park, Losangeles on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Terrell Brooke is a house and club artist based in United States of America, tra
 
 BODII, NEPTUNEWAVEY, baby.com
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrellbrooke/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrellbrooke/)*

@@ -1,6 +1,6 @@
 # Leofix
 
-Leofix is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at EL SÓTANO, Madrid on Sun, 6 Sept 2026.
+Leofix is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at EL SÓTANO, Madrid on Sun, 6 Sept 2026.
 
 Leofix is a techno and trance artist based in Spain, tracked on soundcheck, with 30 sets logged across Madrid and Malaga. Often billed alongside Pulpix, Arok Shiva and JvggedDoggie. Next up: EL SÓTANO, Madrid on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Leofix is a techno and trance artist based in Spain, tracked on soundcheck, with
 
 Pulpix, Arok Shiva, JvggedDoggie
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leofix/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leofix/)*

@@ -1,6 +1,6 @@
 # Maevevelli
 
-Maevevelli is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Shoreditch, London on Fri, 18 Sept 2026.
+Maevevelli is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Shoreditch, London on Fri, 18 Sept 2026.
 
 Maevevelli is an afro house and afro tech artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside HONEEAY, VvadaA and KYBY. Next up: TBA - Shoreditch, London on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Maevevelli is an afro house and afro tech artist tracked on soundcheck, with 6 s
 
 HONEEAY, VvadaA, KYBY
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maevevelli/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maevevelli/)*

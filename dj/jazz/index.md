@@ -1,6 +1,6 @@
 # Softi
 
-Softi is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Loft, Vienna on Fri, 4 Sept 2026.
+Softi is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Loft, Vienna on Fri, 4 Sept 2026.
 
 Softi is a techno and bass artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Alicia (UK), Dj wiggles and Sybil. Next up: The Loft, Vienna on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Softi is a techno and bass artist tracked on soundcheck, with 83 sets logged acr
 
 Alicia (UK), Dj wiggles, Sybil
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*

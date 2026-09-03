@@ -1,6 +1,6 @@
 # Hart Bar
 
-Hart Bar is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Ethos Special" on Sat, 5 Sept 2026.
+Hart Bar is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Ethos Special" on Sat, 5 Sept 2026.
 
 Hart Bar is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Actual Angel, boy_c0ded, Brutal Twink and DBL_BBL and 2 more. Browse upcoming dates, start times and who's playing. 538 Hart Street, Brooklyn, NY 11221 USA.
 
@@ -17,4 +17,4 @@ Hart Bar is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights
 
 538 Hart Street, Brooklyn, NY 11221 USA, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hart-bar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/hart-bar/)*

@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "3 OF CUPS — AFTERPARTY" on Thu, 3 Sept 2026.
+Bike Jesus is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "3 OF CUPS — AFTERPARTY" on Thu, 3 Sept 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including 2NDRA, Amygdala, Arton (CZ) and Atlaskin and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -22,4 +22,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 9 upcoming nights, w
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

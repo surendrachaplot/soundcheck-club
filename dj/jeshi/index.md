@@ -1,6 +1,6 @@
 # Jeshi
 
-Jeshi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Cause, London on Sun, 20 Sept 2026.
+Jeshi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Cause, London on Sun, 20 Sept 2026.
 
 Jeshi is a house and techno artist tracked on soundcheck, with 19 sets logged across Amsterdam, Bristol, Hamburg and Leeds and 5 more. Often billed alongside Jasper Tygner, Anish Kumar and Eliza Rose. Next up: The Cause, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Jeshi is a house and techno artist tracked on soundcheck, with 19 sets logged ac
 
 Jasper Tygner, Anish Kumar, Eliza Rose
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeshi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeshi/)*

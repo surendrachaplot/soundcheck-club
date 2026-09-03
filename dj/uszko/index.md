@@ -1,6 +1,6 @@
 # uszko
 
-uszko is a Acid and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mastak, Warsaw on Sat, 5 Sept 2026.
+uszko is a Acid and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mastak, Warsaw on Sat, 5 Sept 2026.
 
 uszko is an acid and downtempo artist tracked on soundcheck, with 9 sets logged across Warsaw. Often billed alongside PLAL, Dyktando and Kovvalsky. Next up: Mastak, Warsaw on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ uszko is an acid and downtempo artist tracked on soundcheck, with 9 sets logged 
 
 PLAL, Dyktando, Kovvalsky
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uszko/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uszko/)*

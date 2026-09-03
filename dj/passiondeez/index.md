@@ -1,6 +1,6 @@
 # Passion DEEZ
 
-Passion DEEZ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at nachbar, Amsterdam on Thu, 24 Sept 2026.
+Passion DEEZ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at nachbar, Amsterdam on Thu, 24 Sept 2026.
 
 Passion DEEZ is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Deez, Cinnaman and Dengdeng. Next up: nachbar, Amsterdam on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Passion DEEZ is a house and techno artist tracked on soundcheck, with 93 sets lo
 
 Deez, Cinnaman, Dengdeng
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/passiondeez/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/passiondeez/)*

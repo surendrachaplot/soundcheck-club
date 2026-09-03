@@ -1,6 +1,6 @@
 # Bllack Rose
 
-Bllack Rose is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Crono Club, Sao Paulo on Sat, 12 Sept 2026.
+Bllack Rose is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Crono Club, Sao Paulo on Sat, 12 Sept 2026.
 
 Bllack Rose is a techno and dub techno artist tracked on soundcheck, with 11 sets logged across Saopaulo. Often billed alongside BETRIZA, Acid Asian and Anders (BR). Next up: Crono Club, Saopaulo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bllack Rose is a techno and dub techno artist tracked on soundcheck, with 11 set
 
 BETRIZA, Acid Asian, Anders (BR)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bllackrose/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bllackrose/)*

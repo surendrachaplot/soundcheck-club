@@ -1,6 +1,6 @@
 # BABL
 
-BABL is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Empire Sandy Sailship, Harbour Tours, Toronto on Fri, 4 Sept 2026.
+BABL is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Empire Sandy Sailship, Harbour Tours, Toronto on Fri, 4 Sept 2026.
 
 BABL is a house and deep house artist tracked on soundcheck, with 25 sets logged across Toronto. Often billed alongside High Tide, Rami Nassif and Underwaterhasa. Next up: Empire Sandy Sailship, Harbour Tours, Toronto on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ BABL is a house and deep house artist tracked on soundcheck, with 25 sets logged
 
 High Tide, Rami Nassif, Underwaterhasa
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babl/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babl/)*

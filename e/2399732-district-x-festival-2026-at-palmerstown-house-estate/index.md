@@ -1,6 +1,6 @@
 # District X Festival 2026 at Palmerstown House Estate
 
-District X Festival 2026 at Palmerstown House Estate on Fri 11 Sept, Dublin. 21 acts on the bill: Azyr, blk., Chloé Caillet and Chris Stassy and 17 more. Electronica. Preview the line-up and save it on soundcheck.
+District X Festival 2026 at Palmerstown House Estate on Fri 11 Sept, Dublin. 21 acts on the bill: Azyr, blk., Chloé Caillet and Chris Stussy and 17 more. Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ District X Festival 2026 at Palmerstown House Estate on Fri 11 Sept, Dublin. 21 
 - Azyr
 - blk.
 - Chloé Caillet
-- Chris Stassy
+- Chris Stussy
 - DJ Heartstring
 - EMA (1)
 - Ewan McVicar

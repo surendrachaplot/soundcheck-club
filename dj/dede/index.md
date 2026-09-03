@@ -1,6 +1,6 @@
 # Dede
 
-Dede is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at SILO, New York City on Thu, 10 Sept 2026.
+Dede is a House and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at SILO, New York City on Thu, 10 Sept 2026.
 
 Dede is a house and dancehall artist tracked on soundcheck, with 28 sets logged across Berlin, Lisbon and Newyorkcity. Often billed alongside Adam Purnell, Bernardo Vaz and Daria D. Next up: SILO, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Dede is a house and dancehall artist tracked on soundcheck, with 28 sets logged 
 
 Adam Purnell, Bernardo Vaz, Daria D
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dede/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dede/)*

@@ -1,6 +1,6 @@
 # Luis Bonias
 
-Luis Bonias is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Slow Club, Barcelona on Sat, 5 Sept 2026.
+Luis Bonias is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Slow Club, Barcelona on Sat, 5 Sept 2026.
 
 Luis Bonias is a house and disco artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona and Valencia. Often billed alongside Frankie G, Iñigo Díaz and Fes Bondat. Next up: Slow Club, Barcelona on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Luis Bonias is a house and disco artist based in Spain, tracked on soundcheck, w
 
 Frankie G, Iñigo Díaz, Fes Bondat
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luisbonias/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luisbonias/)*

@@ -1,6 +1,6 @@
 # Alex Kennon
 
-Alex Kennon is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Scorpios, Mykonos on Thu, 3 Sept 2026.
+Alex Kennon is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Scorpios, Mykonos on Thu, 3 Sept 2026.
 
 Alex Kennon is a tech house and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Belgrade and Ibiza and 12 more. Often billed alongside Gonçalo, Kolsch and Nic Fanciulli. Next up: Scorpios, Mykonos on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Alex Kennon is a tech house and house artist tracked on soundcheck, with 36 sets
 
 Gonçalo, Kolsch, Nic Fanciulli
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkennon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkennon/)*

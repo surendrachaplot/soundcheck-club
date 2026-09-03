@@ -1,6 +1,6 @@
 # Aw508
 
-Aw508 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Artheater, Cologne on Sat, 12 Sept 2026.
+Aw508 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Artheater, Cologne on Sat, 12 Sept 2026.
 
 Aw508 is a techno and trance artist tracked on soundcheck, with 16 sets logged across Cologne and Madrid. Often billed alongside Lukas Neumann, BOLZ and NAKAMA. Next up: Artheater, Cologne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Aw508 is a techno and trance artist tracked on soundcheck, with 16 sets logged a
 
 Lukas Neumann, BOLZ, NAKAMA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aw508/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aw508/)*

@@ -1,6 +1,6 @@
 # Laila Sakini
 
-Laila Sakini is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Lux Fragil, Lisbon on Fri, 18 Sept 2026.
+Laila Sakini is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lux Fragil, Lisbon on Fri, 18 Sept 2026.
 
 Laila Sakini is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, Bristol, Copenhagen and Lisbon and 4 more. Often billed alongside Kenichi Iwasa, ojoo and A Guy Called Gerald. Next up: Lux Fragil, Lisbon on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Laila Sakini is an experimental and electronica artist based in United Kingdom, 
 
 Kenichi Iwasa, ojoo, A Guy Called Gerald
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lailasakini/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lailasakini/)*

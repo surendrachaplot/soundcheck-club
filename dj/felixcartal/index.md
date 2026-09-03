@@ -1,6 +1,6 @@
 # Felix Cartal
 
-Felix Cartal is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Open Aera, Toronto on Sat, 12 Sept 2026.
+Felix Cartal is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Open Aera, Toronto on Sat, 12 Sept 2026.
 
 Felix Cartal is a house and tech house artist tracked on soundcheck, with 11 sets logged across Chicago, Losangeles, Miami and Newyorkcity and 4 more. Often billed alongside N2N (US), Alistair and Jeny Michelle. Next up: Open Aera, Toronto on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Felix Cartal is a house and tech house artist tracked on soundcheck, with 11 set
 
 N2N (US), Alistair, Jeny Michelle
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixcartal/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixcartal/)*

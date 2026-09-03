@@ -1,6 +1,6 @@
 # DJ SUN (CH/DE)
 
-DJ SUN (CH/DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at OST, Berlin on Sat, 5 Sept 2026.
+DJ SUN (CH/DE) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at OST, Berlin on Sat, 5 Sept 2026.
 
 DJ SUN (CH/DE) is a techno and house artist based in Switzerland, tracked on soundcheck, with 21 sets logged across Berlin, Geneva, Paris and Strasbourg and 1 more. Often billed alongside Chlär, Rødig and Alarico. Next up: OST, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DJ SUN (CH/DE) is a techno and house artist based in Switzerland, tracked on sou
 
 Chlär, Rødig, Alarico
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsun-be-ch/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsun-be-ch/)*

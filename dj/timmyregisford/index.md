@@ -1,6 +1,6 @@
 # Timmy Regisford
 
-Timmy Regisford is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Civic Underground, Sydney on Fri, 4 Sept 2026.
+Timmy Regisford is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Civic Underground, Sydney on Fri, 4 Sept 2026.
 
 Timmy Regisford is a house and deep house artist tracked on soundcheck, with 60 sets logged across Athens, Auckland, Chicago and Detroit and 9 more. Often billed alongside Mark Francis, merlin bobb and Akylla. Next up: Civic Underground, Sydney on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Timmy Regisford is a house and deep house artist tracked on soundcheck, with 60 
 
 Mark Francis, merlin bobb, Akylla
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyregisford/)*

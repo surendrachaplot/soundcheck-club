@@ -1,6 +1,6 @@
 # COEO
 
-COEO is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+COEO is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
 COEO is a house and disco artist tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Kapote, Max NRG Supply and Athlete Whippet. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ COEO is a house and disco artist tracked on soundcheck, with 109 sets logged acr
 
 Kapote, Max NRG Supply, Athlete Whippet
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coeo/)*

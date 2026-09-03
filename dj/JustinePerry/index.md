@@ -1,6 +1,6 @@
 # Justine Perry
 
-Justine Perry is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
+Justine Perry is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
 
 Justine Perry is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Paula Koski, Kangding Ray and Altinbas. Next up: RSO.BERLIN, Berlin on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Justine Perry is a techno and house artist tracked on soundcheck, with 158 sets 
 
 Paula Koski, Kangding Ray, Altinbas
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*

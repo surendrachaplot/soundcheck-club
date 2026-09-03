@@ -1,6 +1,6 @@
 # Cynthia Matisse
 
-Cynthia Matisse is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Marmorbar, Berlin on Fri, 4 Sept 2026.
+Cynthia Matisse is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Marmorbar, Berlin on Fri, 4 Sept 2026.
 
 Cynthia Matisse is a techno and house artist tracked on soundcheck, with 15 sets logged across Berlin, Hamburg, Leipzig and Stuttgart. Often billed alongside Submod, Lydmate and MAY/O. Next up: Marmorbar, Berlin on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Cynthia Matisse is a techno and house artist tracked on soundcheck, with 15 sets
 
 Submod, Lydmate, MAY/O
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*

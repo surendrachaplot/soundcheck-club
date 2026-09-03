@@ -1,6 +1,6 @@
 # Sibel
 
-Sibel is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
+Sibel is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
 
 Sibel is a techno and house artist tracked on soundcheck, with 67 sets logged across Berlin, Lyon, Munich and Stuttgart and 1 more. Often billed alongside Marco Bastone, Raphael Dincsoy and Alexander Maier. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Sibel is a techno and house artist tracked on soundcheck, with 67 sets logged ac
 
 Marco Bastone, Raphael Dincsoy, Alexander Maier
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibel/)*

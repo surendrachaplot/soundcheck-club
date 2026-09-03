@@ -1,6 +1,6 @@
 # Songco
 
-Songco is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Airliner, Los Angeles on Thu, 24 Sept 2026.
+Songco is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Airliner, Los Angeles on Thu, 24 Sept 2026.
 
 Songco is an experimental and club artist tracked on soundcheck, with 5 sets logged across Losangeles. Often billed alongside Baby Uniq, Nikes and Anna Morgan. Next up: The Airliner, Losangeles on Thu 24 Sept.
 
@@ -21,4 +21,4 @@ Songco is an experimental and club artist tracked on soundcheck, with 5 sets log
 
 Baby Uniq, Nikes, Anna Morgan
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/songco/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/songco/)*

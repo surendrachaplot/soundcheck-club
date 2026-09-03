@@ -1,6 +1,6 @@
 # Juulz
 
-Juulz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Temple Bar Essen , Dortmund-essen on Fri, 18 Sept 2026.
+Juulz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Temple Bar Essen , Dortmund-essen on Fri, 18 Sept 2026.
 
 Juulz is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, Dortmund-essen and Utrecht. Often billed alongside Alhena_, celodic and Acierate. Next up: TBA - Temple Bar Essen , Dortmund-essen on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Juulz is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Alhena_, celodic, Acierate
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juulz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juulz/)*

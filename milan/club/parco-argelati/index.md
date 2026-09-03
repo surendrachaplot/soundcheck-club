@@ -1,6 +1,6 @@
 # Parco Argelati
 
-Parco Argelati is a music venue in Milan with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "LE ORRENDE: GARDENING ISSUE 01" on Sun, 13 Sept 2026.
+Parco Argelati is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "LE ORRENDE: GARDENING ISSUE 01" on Sun, 13 Sept 2026.
 
 Parco Argelati is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Diamantha, Hyperaktivist, M.Vertigo and Münich. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Parco Argelati is a music venue in Milan listed on soundcheck. 1 upcoming night,
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | LE ORRENDE: GARDENING ISSUE 01 | Diamantha, Hyperaktivist, M.Vertigo, Münich |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/parco-argelati/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/parco-argelati/)*

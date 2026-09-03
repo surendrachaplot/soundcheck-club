@@ -1,6 +1,6 @@
 # Kevin Karrera
 
-Kevin Karrera is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jupiter Disco, New York City on Sat, 10 Oct 2026.
+Kevin Karrera is a Baile Funk and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jupiter Disco, New York City on Sat, 10 Oct 2026.
 
 Kevin Karrera is a baile funk and club artist tracked on soundcheck, with 4 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Cosmic, JUST RAJ and MARÏSUN. Next up: Jupiter Disco, Newyorkcity on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Kevin Karrera is a baile funk and club artist tracked on soundcheck, with 4 sets
 
 Cosmic, JUST RAJ, MARÏSUN
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkarrera/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkarrera/)*

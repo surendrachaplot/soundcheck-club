@@ -1,6 +1,6 @@
 # Argy
 
-Argy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Tapada da Ajuda, Lisbon on Sun, 13 Sept 2026.
+Argy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tapada da Ajuda, Lisbon on Sun, 13 Sept 2026.
 
 Argy is a techno and house artist tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: Tapada da Ajuda, Lisbon on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Argy is a techno and house artist tracked on soundcheck, with 115 sets logged ac
 
 Tale Of Us, Artbat, Chris Avantgarde
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*

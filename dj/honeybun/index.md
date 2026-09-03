@@ -1,6 +1,6 @@
 # Honey Bun
 
-Honey Bun is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Little Island, New York City on Fri, 4 Sept 2026.
+Honey Bun is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Little Island, New York City on Fri, 4 Sept 2026.
 
 Honey Bun is a house and techno artist based in United States of America, tracked on soundcheck, with 146 sets logged across Amsterdam, Boston, Brussels and London and 5 more. Often billed alongside Lovie, Stonie Blue and Ayanna Heaven. Next up: Little Island, Newyorkcity on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Honey Bun is a house and techno artist based in United States of America, tracke
 
 Lovie, Stonie Blue, Ayanna Heaven
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeybun/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeybun/)*

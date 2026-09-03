@@ -1,6 +1,6 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Ogazón is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 Ogazón is a techno and house artist tracked on soundcheck, with 273 sets logged across Amsterdam, Antwerp, Athens and Bali and 63 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -36,4 +36,4 @@ Ogazón is a techno and house artist tracked on soundcheck, with 273 sets logged
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

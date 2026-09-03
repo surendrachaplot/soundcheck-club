@@ -1,6 +1,6 @@
 # ADVAN
 
-ADVAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Crack Bellmer, Berlin on Thu, 1 Oct 2026.
+ADVAN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Crack Bellmer, Berlin on Thu, 1 Oct 2026.
 
 ADVAN is a house and techno artist tracked on soundcheck, with 5 sets logged across Berlin and Stuttgart. Often billed alongside Joe Back, ALKARLINE and DJ CHICHI. Next up: Crack Bellmer, Berlin on Thu 1 Oct.
 
@@ -21,4 +21,4 @@ ADVAN is a house and techno artist tracked on soundcheck, with 5 sets logged acr
 
 Joe Back, ALKARLINE, DJ CHICHI
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/advan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/advan/)*

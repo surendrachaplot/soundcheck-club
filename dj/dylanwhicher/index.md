@@ -1,6 +1,6 @@
 # Dylan Whicher
 
-Dylan Whicher is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Loft, Manchester on Sat, 12 Sept 2026.
+Dylan Whicher is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Loft, Manchester on Sat, 12 Sept 2026.
 
 Dylan Whicher is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Leeds, Manchester and Nottingham. Often billed alongside Markos (2), Sunny D and Mase (2). Next up: The Loft, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Dylan Whicher is a house and tech house artist based in United Kingdom, tracked 
 
 Markos (2), Sunny D, Mase (2)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanwhicher/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanwhicher/)*

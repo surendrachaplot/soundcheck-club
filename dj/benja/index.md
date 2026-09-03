@@ -1,6 +1,6 @@
 # Benja
 
-Benja is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 11 Sept 2026.
+Benja is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 11 Sept 2026.
 
 Benja is a tech house and house artist based in Switzerland, tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Basel and Hamburg and 6 more. Often billed alongside Franc Fala, Cincity and Mahmut Orhan. Next up: Shelter Amsterdam, Amsterdam on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Benja is a tech house and house artist based in Switzerland, tracked on soundche
 
 Franc Fala, Cincity, Mahmut Orhan
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*

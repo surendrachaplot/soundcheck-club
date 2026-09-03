@@ -1,6 +1,6 @@
 # Chris Duckenfield
 
-Chris Duckenfield is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Sheffield on Sat, 26 Sept 2026.
+Chris Duckenfield is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Sheffield on Sat, 26 Sept 2026.
 
 Chris Duckenfield is a house and disco artist tracked on soundcheck, with 14 sets logged across London, Manchester and Sheffield. Often billed alongside thatmanmonkz, 96 Back and DJ Deep Heat. Next up: TBA, Sheffield on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Chris Duckenfield is a house and disco artist tracked on soundcheck, with 14 set
 
 thatmanmonkz, 96 Back, DJ Deep Heat
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisduckenfield/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisduckenfield/)*

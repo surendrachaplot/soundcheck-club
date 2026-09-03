@@ -1,6 +1,6 @@
 # Cavilla
 
-Cavilla is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Doggy Klœb, Malaga on Fri, 18 Sept 2026.
+Cavilla is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Doggy Klœb, Malaga on Fri, 18 Sept 2026.
 
 Cavilla is a house and electro artist tracked on soundcheck, with 26 sets logged across Berlin, Leeds, London and Madrid and 4 more. Often billed alongside Catania, Roya Brehl and Keefy G. Next up: Doggy Klœb, Malaga on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Cavilla is a house and electro artist tracked on soundcheck, with 26 sets logged
 
 Catania, Roya Brehl, Keefy G
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cavilla/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cavilla/)*

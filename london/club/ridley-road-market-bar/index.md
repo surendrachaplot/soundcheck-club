@@ -1,6 +1,6 @@
 # Ridley Road Market Bar
 
-Ridley Road Market Bar is a music venue in London with 21 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Dearly Departed" on Wed, 2 Sept 2026.
+Ridley Road Market Bar is a music venue in London with 21 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Dearly Departed" on Wed, 2 Sept 2026.
 
 Ridley Road Market Bar is a music venue in London listed on soundcheck. 21 upcoming nights. Browse upcoming dates, start times and who's playing. 49 Ridley Road; London E8 2NP; United Kingdom.
 
@@ -23,4 +23,4 @@ Ridley Road Market Bar is a music venue in London listed on soundcheck. 21 upcom
 
 49 Ridley Road; London E8 2NP; United Kingdom, London
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ridley-road-market-bar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ridley-road-market-bar/)*

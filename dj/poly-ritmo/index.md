@@ -1,6 +1,6 @@
 # Poly-Ritmo
 
-Poly-Ritmo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Grow, London on Fri, 11 Sept 2026.
+Poly-Ritmo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Grow, London on Fri, 11 Sept 2026.
 
 Poly-Ritmo is a house and disco artist tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Copenhagen and Dublin and 11 more. Often billed alongside Palo Santo Discos, Charlie Dark and Coco Maria. Next up: Grow, London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Poly-Ritmo is a house and disco artist tracked on soundcheck, with 69 sets logge
 
 Palo Santo Discos, Charlie Dark, Coco Maria
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poly-ritmo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poly-ritmo/)*

@@ -1,6 +1,6 @@
 # Adam Romo
 
-Adam Romo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mercato Metropolitano, London on Sat, 19 Sept 2026.
+Adam Romo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mercato Metropolitano, London on Sat, 19 Sept 2026.
 
 Adam Romo is a house and deep house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Marcos Loveday, RORO and JaeS. Next up: Mercato Metropolitano, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Adam Romo is a house and deep house artist tracked on soundcheck, with 28 sets l
 
 Marcos Loveday, RORO, JaeS
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamromo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamromo/)*

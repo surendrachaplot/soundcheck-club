@@ -1,6 +1,6 @@
 # Bogart House
 
-Bogart House is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "NYFW 26 The Last Human Fashion Show + After Party" on Sat, 12 Sept 2026.
+Bogart House is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "NYFW 26 The Last Human Fashion Show + After Party" on Sat, 12 Sept 2026.
 
 Bogart House is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Cow Tools, Megan Rosengarten, Meilgaarden and Nita Aviance and 1 more. Browse upcoming dates, start times and who's playing. 230 Bogart St, Brooklyn, 11206.
 
@@ -15,4 +15,4 @@ Bogart House is a music venue in Newyorkcity listed on soundcheck. 2 upcoming ni
 
 230 Bogart St, Brooklyn, 11206, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*

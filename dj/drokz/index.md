@@ -1,6 +1,6 @@
 # Drokz
 
-Drokz is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 12 Sept 2026.
+Drokz is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 12 Sept 2026.
 
 Drokz is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Frankfurt, Glasgow and Madrid and 1 more. Often billed alongside Ophidian, Tripped and Angerfist. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Drokz is a hardcore and gabber artist based in Netherlands, tracked on soundchec
 
 Ophidian, Tripped, Angerfist
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drokz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drokz/)*

@@ -1,6 +1,6 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 3 Sept 2026.
+Enzo Siragusa is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 3 Sept 2026.
 
 Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Laidlaw, Traumer and Josh Baker. Next up: Amnesia Ibiza, Ibiza on Thu 3 Sept.
 
@@ -33,4 +33,4 @@ Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 194 s
 
 Laidlaw, Traumer, Josh Baker
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

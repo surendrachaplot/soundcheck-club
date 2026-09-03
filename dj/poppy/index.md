@@ -1,6 +1,6 @@
 # Poppy
 
-Poppy is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at UMI, Brussels on Sat, 3 Oct 2026.
+Poppy is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at UMI, Brussels on Sat, 3 Oct 2026.
 
 Poppy is a house and electro artist based in Georgia, tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Leipzig and Lisbon and 2 more. Often billed alongside Ante Perry, Artemios Trigo and Arya (4). Next up: UMI, Brussels on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Poppy is a house and electro artist based in Georgia, tracked on soundcheck, wit
 
 Ante Perry, Artemios Trigo, Arya (4)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poppy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poppy/)*

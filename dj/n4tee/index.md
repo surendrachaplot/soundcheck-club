@@ -1,6 +1,6 @@
 # n4tee
 
-n4tee is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
+n4tee is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
 
 n4tee is a garage and house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 15 more. Often billed alongside Auramatic, ESC (5) and Skeptic. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ n4tee is a garage and house artist based in United Kingdom, tracked on soundchec
 
 Auramatic, ESC (5), Skeptic
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*

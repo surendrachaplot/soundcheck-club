@@ -1,6 +1,6 @@
 # Mersel
 
-Mersel is a Techno and Drone artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Cité Fertile, Paris on Sat, 12 Sept 2026.
+Mersel is a Techno and Drone artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at La Cité Fertile, Paris on Sat, 12 Sept 2026.
 
 Mersel is a techno and drone artist tracked on soundcheck, with 7 sets logged across Lyon and Paris. Often billed alongside Anechoic, Diapasøn and A.mo. Next up: La Cité Fertile, Paris on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Mersel is a techno and drone artist tracked on soundcheck, with 7 sets logged ac
 
 Anechoic, Diapasøn, A.mo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mersel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mersel/)*

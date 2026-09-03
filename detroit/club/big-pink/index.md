@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "PINK RODEO: BEYONCÉ NIGHT" on Fri, 4 Sept 2026.
+Big Pink is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "PINK RODEO: BEYONCÉ NIGHT" on Fri, 4 Sept 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including Botez and Dean Turnley. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -21,4 +21,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 8 upcoming nights, wi
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

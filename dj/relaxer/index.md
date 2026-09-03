@@ -1,6 +1,6 @@
 # Relaxer
 
-Relaxer is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Relaxer is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Relaxer is a techno and experimental artist tracked on soundcheck, with 62 sets logged across Chicago, Krakow, Losangeles and Montreal and 6 more. Often billed alongside aka-Sol, Baby Leo and Kilbourne. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Relaxer is a techno and experimental artist tracked on soundcheck, with 62 sets 
 
 aka-Sol, Baby Leo, Kilbourne
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/relaxer/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/relaxer/)*

@@ -1,6 +1,6 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "HEARTWRENCH" on Thu, 3 Sept 2026.
+Podlasie Club is a music venue in Chicago with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "HEARTWRENCH" on Thu, 3 Sept 2026.
 
 Podlasie Club is a music venue in Chicago listed on soundcheck. 7 upcoming nights, with line-ups including Amber Gris, Anthony Nicholson, CTRLZORA and D. Strange and 2 more. Browse upcoming dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
@@ -20,4 +20,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 7 upcoming night
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

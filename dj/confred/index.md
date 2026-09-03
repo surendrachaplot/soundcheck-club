@@ -1,6 +1,6 @@
 # Confred
 
-Confred is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
+Confred is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
 
 Confred is a techno artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Pajüh, Marius Holm and Rabauke. Next up: Ritter Butzke, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Confred is a techno artist tracked on soundcheck, with 20 sets logged across Ber
 
 Pajüh, Marius Holm, Rabauke
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/confred/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/confred/)*

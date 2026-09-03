@@ -1,6 +1,6 @@
 # The Get Down
 
-The Get Down is a music venue in Portland with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Balkan Bump" on Sat, 5 Sept 2026.
+The Get Down is a music venue in Portland with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Balkan Bump" on Sat, 5 Sept 2026.
 
 The Get Down is a music venue in Portland listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 615 SE Alder St Suite B, Portland, OR 97214, United States.
 
@@ -17,4 +17,4 @@ The Get Down is a music venue in Portland listed on soundcheck. 4 upcoming night
 
 615 SE Alder St Suite B, Portland, OR 97214, United States, Portland
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*

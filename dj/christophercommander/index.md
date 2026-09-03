@@ -1,6 +1,6 @@
 # Christopher Commander
 
-Christopher Commander is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Maya Marylebone, London on Sat, 5 Sept 2026.
+Christopher Commander is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Maya Marylebone, London on Sat, 5 Sept 2026.
 
 Christopher Commander is a house and deep house artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside Amours., HORN-E and Matteomie. Next up: Maya Marylebone, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Christopher Commander is a house and deep house artist tracked on soundcheck, wi
 
 Amours., HORN-E, Matteomie
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christophercommander/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christophercommander/)*

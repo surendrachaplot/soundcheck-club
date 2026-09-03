@@ -1,6 +1,6 @@
 # LemAr
 
-LemAr is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at MAD Radio NYC, New York City on Thu, 3 Sept 2026.
+LemAr is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at MAD Radio NYC, New York City on Thu, 3 Sept 2026.
 
 LemAr is a house and electro artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside 1010, Cosmo (NY) and Dred (US). Next up: MAD Radio NYC, Newyorkcity on Thu 3 Sept.
 
@@ -22,4 +22,4 @@ LemAr is a house and electro artist tracked on soundcheck, with 6 sets logged ac
 
 1010, Cosmo (NY), Dred (US)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lemar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lemar/)*

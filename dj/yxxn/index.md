@@ -1,6 +1,6 @@
 # YXXN
 
-YXXN is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Blank Site, Seoul on Sat, 5 Sept 2026.
+YXXN is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Blank Site, Seoul on Sat, 5 Sept 2026.
 
 YXXN is a techno and electro artist tracked on soundcheck, with 26 sets logged across Seoul. Often billed alongside M2XL, Beat Tekniks and Ligrye. Next up: Blank Site, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ YXXN is a techno and electro artist tracked on soundcheck, with 26 sets logged a
 
 M2XL, Beat Tekniks, Ligrye
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yxxn/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yxxn/)*

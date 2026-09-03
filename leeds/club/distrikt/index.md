@@ -1,6 +1,6 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Collective Records: Midweek Session" on Thu, 3 Sept 2026.
+Distrikt is a music venue in Leeds with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Collective Records: Midweek Session" on Thu, 3 Sept 2026.
 
 Distrikt is a music venue in Leeds listed on soundcheck. 14 upcoming nights, with line-ups including ad*n, Alex Osifo, Arty and B-HIND and 2 more. Browse upcoming dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
@@ -23,4 +23,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 14 upcoming nights, wit
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

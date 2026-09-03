@@ -1,6 +1,6 @@
 # fetva
 
-fetva is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Eglise Saint-Remi, Brussels on Sat, 12 Sept 2026.
+fetva is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Eglise Saint-Remi, Brussels on Sat, 12 Sept 2026.
 
 fetva is an electro and experimental artist based in France, tracked on soundcheck, with 39 sets logged across Athens, Berlin, Brussels and London and 3 more. Often billed alongside Golce, DJ Music and Bamao Yendé. Next up: Eglise Saint-Remi, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ fetva is an electro and experimental artist based in France, tracked on soundche
 
 Golce, DJ Music, Bamao Yendé
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fetva/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fetva/)*

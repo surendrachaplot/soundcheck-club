@@ -1,6 +1,6 @@
 # VEB Elektrokunst
 
-VEB Elektrokunst is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+VEB Elektrokunst is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 VEB Elektrokunst is a house and techno artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Diskokatze, Sabrina Mue and ninsn. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ VEB Elektrokunst is a house and techno artist tracked on soundcheck, with 11 set
 
 Diskokatze, Sabrina Mue, ninsn
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vebelektrokunst/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vebelektrokunst/)*

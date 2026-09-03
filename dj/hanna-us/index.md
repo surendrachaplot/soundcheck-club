@@ -1,6 +1,6 @@
 # Hanna
 
-Hanna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Core, Madrid on Fri, 4 Sept 2026.
+Hanna is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Core, Madrid on Fri, 4 Sept 2026.
 
 Hanna is a house and techno artist tracked on soundcheck, with 5 sets logged across Bali, Chicago, Hamburg and Madrid and 1 more. Often billed alongside Derrick Carter, HIMAWARI and Kohei. Next up: Core, Madrid on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Hanna is a house and techno artist tracked on soundcheck, with 5 sets logged acr
 
 Derrick Carter, HIMAWARI, Kohei
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanna-us/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanna-us/)*

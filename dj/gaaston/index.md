@@ -1,6 +1,6 @@
 # Gaaston
 
-Gaaston is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Import Export, Munich on Sat, 19 Sept 2026.
+Gaaston is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Import Export, Munich on Sat, 19 Sept 2026.
 
 Gaaston is a techno and tech house artist based in Tunisia, tracked on soundcheck, with 20 sets logged across Munich and Vienna. Often billed alongside MIHEMI, Bless The Speakers and Erhyc. Next up: Import Export, Munich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Gaaston is a techno and tech house artist based in Tunisia, tracked on soundchec
 
 MIHEMI, Bless The Speakers, Erhyc
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaaston/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaaston/)*

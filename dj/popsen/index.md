@@ -1,6 +1,6 @@
 # Popsen
 
-Popsen is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Void Club, Berlin on Fri, 11 Sept 2026.
+Popsen is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Void Club, Berlin on Fri, 11 Sept 2026.
 
 Popsen is a techno and industrial artist based in Germany, tracked on soundcheck, with 66 sets logged across Amsterdam and Berlin. Often billed alongside DaSoMaZo, Kopflos and L X S. Next up: Void Club, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Popsen is a techno and industrial artist based in Germany, tracked on soundcheck
 
 DaSoMaZo, Kopflos, L X S
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/popsen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/popsen/)*

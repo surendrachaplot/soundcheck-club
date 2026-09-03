@@ -1,6 +1,6 @@
 # Maxvll
 
-Maxvll is a Hip-Hop and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Skatecafe, Amsterdam on Sat, 5 Sept 2026.
+Maxvll is a Hip-Hop and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Skatecafe, Amsterdam on Sat, 5 Sept 2026.
 
 Maxvll is a hip-hop and baile funk artist tracked on soundcheck, with 129 sets logged across Amsterdam, Barcelona, Geneva and Lisbon and 4 more. Often billed alongside Diego Armando, Yosef (ES) and Yosef. Next up: Skatecafe, Amsterdam on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Maxvll is a hip-hop and baile funk artist tracked on soundcheck, with 129 sets l
 
 Diego Armando, Yosef (ES), Yosef
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvll/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvll/)*

@@ -1,6 +1,6 @@
 # Ziggy Ostas
 
-Ziggy Ostas is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 31 Oct 2026.
+Ziggy Ostas is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sidney & Matilda, Sheffield on Sat, 31 Oct 2026.
 
 Ziggy Ostas is a garage and drum & bass artist tracked on soundcheck, with 9 sets logged across Bristol, London, Manchester and Sheffield. Often billed alongside Ginster, Bushbaby and DJ Moo (UK). Next up: Sidney & Matilda, Sheffield on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ziggy Ostas is a garage and drum & bass artist tracked on soundcheck, with 9 set
 
 Ginster, Bushbaby, DJ Moo (UK)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggyostas/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggyostas/)*

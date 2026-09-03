@@ -1,6 +1,6 @@
 # Jay Carder
 
-Jay Carder is a Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Jay Carder is a Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Jay Carder is a bass and garage artist tracked on soundcheck, with 109 sets logged across Aberdeen, Athens, Barcelona and Berlin and 21 more. Often billed alongside Neffa-T, Breaka and Lukas Wigflex. Next up: The Cause, London on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Jay Carder is a bass and garage artist tracked on soundcheck, with 109 sets logg
 
 Neffa-T, Breaka, Lukas Wigflex
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycarder/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaycarder/)*

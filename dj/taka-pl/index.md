@@ -1,6 +1,6 @@
 # T A K A
 
-T A K A is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at ZUBAR, Tokyo on Wed, 21 Oct 2026.
+T A K A is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ZUBAR, Tokyo on Wed, 21 Oct 2026.
 
 T A K A is a house and techno artist tracked on soundcheck, with 9 sets logged across Newyorkcity and Tokyo. Often billed alongside A Space for Sound, Daisuke Pak and Do Shock Booze. Next up: ZUBAR, Tokyo on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ T A K A is a house and techno artist tracked on soundcheck, with 9 sets logged a
 
 A Space for Sound, Daisuke Pak, Do Shock Booze
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taka-pl/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taka-pl/)*

@@ -1,6 +1,6 @@
 # Laksa
 
-Laksa is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
+Laksa is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
 
 Laksa is a bass and techno artist tracked on soundcheck, with 52 sets logged across Bali, Bangkok, Barcelona and Belgrade and 23 more. Often billed alongside re:ni, MJK and Romy Mats. Next up: Honey Street Studio, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Laksa is a bass and techno artist tracked on soundcheck, with 52 sets logged acr
 
 re:ni, MJK, Romy Mats
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laksa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laksa/)*

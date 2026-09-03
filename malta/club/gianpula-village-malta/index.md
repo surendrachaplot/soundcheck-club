@@ -1,6 +1,6 @@
 # Gianpula Village Malta
 
-Gianpula Village Malta is a music venue in Malta with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Neolitika x VELTAX" on Sat, 5 Sept 2026.
+Gianpula Village Malta is a music venue in Malta with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Neolitika x VELTAX" on Sat, 5 Sept 2026.
 
 Gianpula Village Malta is a music venue in Malta listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Gianpula Village Malta is a music venue in Malta listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Neolitika x VELTAX |  |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-village-malta/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-village-malta/)*

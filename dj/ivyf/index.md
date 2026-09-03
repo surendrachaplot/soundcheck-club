@@ -1,6 +1,6 @@
 # Ivy F
 
-Ivy F is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Club Cheek, London on Fri, 18 Sept 2026.
+Ivy F is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club Cheek, London on Fri, 18 Sept 2026.
 
 Ivy F is a house and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam and London. Often billed alongside teleopath, ASHTREY and Aiden Francis. Next up: Club Cheek, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ivy F is a house and techno artist tracked on soundcheck, with 9 sets logged acr
 
 teleopath, ASHTREY, Aiden Francis
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*

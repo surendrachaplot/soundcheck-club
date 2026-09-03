@@ -1,6 +1,6 @@
 # Segoz
 
-Segoz is a Minimal and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mia Mao, Paris on Thu, 10 Sept 2026.
+Segoz is a Minimal and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mia Mao, Paris on Thu, 10 Sept 2026.
 
 Segoz is a minimal and electro artist based in France, tracked on soundcheck, with 3 sets logged across Paris. Often billed alongside Amine S, Chtak. and DJ Suze. Next up: Mia Mao, Paris on Thu 10 Sept.
 
@@ -19,4 +19,4 @@ Segoz is a minimal and electro artist based in France, tracked on soundcheck, wi
 
 Amine S, Chtak., DJ Suze
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/segoz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/segoz/)*

@@ -1,6 +1,6 @@
 # KATIA
 
-KATIA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lasociaciøn, Madrid on Fri, 2 Oct 2026.
+KATIA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lasociaciøn, Madrid on Fri, 2 Oct 2026.
 
 KATIA is a techno and house artist based in Spain, tracked on soundcheck, with 90 sets logged across Athens, Berlin, Brussels and Ghent and 12 more. Often billed alongside Katia Curie, Katia Val and Nizar Sarakbi. Next up: Lasociaciøn, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ KATIA is a techno and house artist based in Spain, tracked on soundcheck, with 9
 
 Katia Curie, Katia Val, Nizar Sarakbi
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katia/)*

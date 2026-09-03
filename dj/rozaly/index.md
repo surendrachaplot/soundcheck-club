@@ -1,6 +1,6 @@
 # Rozaly
 
-Rozaly is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
+Rozaly is a Techno and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
 
 Rozaly is a techno and afro tech artist tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Geneva and Glasgow and 5 more. Often billed alongside Chinnamasta, Tash LC and Toff Youth. Next up: Garage Noord, Amsterdam on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Rozaly is a techno and afro tech artist tracked on soundcheck, with 63 sets logg
 
 Chinnamasta, Tash LC, Toff Youth
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaly/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaly/)*

@@ -1,6 +1,6 @@
 # Carla Roca
 
-Carla Roca is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Smolna, Warsaw on Sat, 12 Sept 2026.
+Carla Roca is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Smolna, Warsaw on Sat, 12 Sept 2026.
 
 Carla Roca is a techno and house artist based in Poland, tracked on soundcheck, with 21 sets logged across Frankfurt, Krakow, London and Warsaw. Often billed alongside Aetha, Wencel and Angelo Mike. Next up: Smolna, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Carla Roca is a techno and house artist based in Poland, tracked on soundcheck, 
 
 Aetha, Wencel, Angelo Mike
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaroca/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaroca/)*

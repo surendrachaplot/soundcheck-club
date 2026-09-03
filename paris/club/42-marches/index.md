@@ -1,6 +1,6 @@
 # 42 Marches
 
-42 Marches is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Flash Cocotte 3000" on Fri, 11 Sept 2026.
+42 Marches is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Flash Cocotte 3000" on Fri, 11 Sept 2026.
 
 42 Marches is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including AGUSTIN BARBEI, Alyhas, Daniel Wang and Les Yeux Orange and 2 more. Browse upcoming dates, start times and who's playing. Esplanade Johnny Hallyday, 75012 Paris.
 
@@ -16,4 +16,4 @@
 
 Esplanade Johnny Hallyday, 75012 Paris, Paris
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/42-marches/)*

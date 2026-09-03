@@ -1,6 +1,6 @@
 # Alex Rubino
 
-Alex Rubino is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
+Alex Rubino is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
 
 Alex Rubino is a techno and electronica artist based in Italy, tracked on soundcheck, with 5 sets logged across Milan and Turin. Often billed alongside BLACK CROW, DJ PIRO and Hi-Cloud. Next up: TBA, Turin on Sun 13 Sept.
 
@@ -21,4 +21,4 @@ Alex Rubino is a techno and electronica artist based in Italy, tracked on soundc
 
 BLACK CROW, DJ PIRO, Hi-Cloud
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrubino/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrubino/)*

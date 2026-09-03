@@ -1,6 +1,6 @@
 # cityofbrokendolls
 
-cityofbrokendolls is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 12 Sept 2026.
+cityofbrokendolls is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 12 Sept 2026.
 
 cityofbrokendolls is an experimental and club artist based in Japan, tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside aeoxve, mlosims and HAIZAI AUDIO. Next up: TBA - Secret location in Nishiazabu, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ cityofbrokendolls is an experimental and club artist based in Japan, tracked on 
 
 aeoxve, mlosims, HAIZAI AUDIO
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cityofbrokendolls/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cityofbrokendolls/)*

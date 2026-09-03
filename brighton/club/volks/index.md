@@ -1,6 +1,6 @@
 # Volks
 
-Volks is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "30 Years of CIA & Volks" on Sat, 5 Sept 2026.
+Volks is a music venue in Brighton with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "30 Years of CIA & Volks" on Sat, 5 Sept 2026.
 
 Volks is a music venue in Brighton listed on soundcheck. 11 upcoming nights, with line-ups including A.M.C., Acid Carbon, Bluntz and Business As Usual and 2 more. Browse upcoming dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
@@ -23,4 +23,4 @@ Volks is a music venue in Brighton listed on soundcheck. 11 upcoming nights, wit
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

@@ -1,6 +1,6 @@
 # Fake Tattoos
 
-Fake Tattoos is a Afro House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 9 Sept 2026.
+Fake Tattoos is a Afro House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 9 Sept 2026.
 
 Fake Tattoos is an afro house and electronica artist tracked on soundcheck, with 8 sets logged across Bangkok, Berlin, Ibiza and Krakow and 2 more. Often billed alongside Neil Richter, whoja vu and BEEAST. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 9 Sept.
 
@@ -24,4 +24,4 @@ Fake Tattoos is an afro house and electronica artist tracked on soundcheck, with
 
 Neil Richter, whoja vu, BEEAST
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faketattoos/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faketattoos/)*

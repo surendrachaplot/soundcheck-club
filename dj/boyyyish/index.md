@@ -1,6 +1,6 @@
 # boyyyish
 
-boyyyish is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Le Bain, New York City on Thu, 3 Sept 2026.
+boyyyish is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Le Bain, New York City on Thu, 3 Sept 2026.
 
 boyyyish is a house and techno artist based in United States of America, tracked on soundcheck, with 85 sets logged across Berlin, London, Mexicocity and Newyorkcity. Often billed alongside Amber Valentine, Tom Peters and Aquaria. Next up: Le Bain, Newyorkcity on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ boyyyish is a house and techno artist based in United States of America, tracked
 
 Amber Valentine, Tom Peters, Aquaria
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyyyish/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyyyish/)*

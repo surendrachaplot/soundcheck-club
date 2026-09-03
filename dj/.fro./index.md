@@ -1,6 +1,6 @@
 # .Fro.
 
-.Fro. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Romantso, Athens on Sat, 12 Sept 2026.
+.Fro. is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Romantso, Athens on Sat, 12 Sept 2026.
 
 .Fro. is a techno and electro artist tracked on soundcheck, with 90 sets logged across Athens. Often billed alongside ClubKid, Rlct and Extase Urbaine. Next up: Romantso, Athens on Sat 12 Sept.
 
@@ -25,4 +25,4 @@
 
 ClubKid, Rlct, Extase Urbaine
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/.fro./)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/.fro./)*

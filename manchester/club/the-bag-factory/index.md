@@ -1,6 +1,6 @@
 # The Bag Factory
 
-The Bag Factory is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Club Curated: Open Decks and social" on Thu, 3 Sept 2026.
+The Bag Factory is a music venue in Manchester with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Club Curated: Open Decks and social" on Thu, 3 Sept 2026.
 
 The Bag Factory is a music venue in Manchester listed on soundcheck. 7 upcoming nights, with line-ups including Betty, Chimpo, FKA Hardcore and Killamanjaro and 2 more. Browse upcoming dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
 
@@ -20,4 +20,4 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 7 upcoming 
 
 Dickinson St, Manchester M3 7LW, Manchester
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*

@@ -1,6 +1,6 @@
 # DJ S (UK)
 
-DJ S (UK) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Savage Labs, Miami on Sun, 6 Sept 2026.
+DJ S (UK) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Savage Labs, Miami on Sun, 6 Sept 2026.
 
 DJ S (UK) is a house and tech house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Athens, Bangkok and Belfast and 28 more. Often billed alongside Shenin Amara, Jerome Six and JAYDAA. Next up: Savage Labs, Miami on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ DJ S (UK) is a house and tech house artist tracked on soundcheck, with 167 sets 
 
 Shenin Amara, Jerome Six, JAYDAA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djs-uk/)*

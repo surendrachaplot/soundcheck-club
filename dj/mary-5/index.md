@@ -1,6 +1,6 @@
 # Mary (5)
 
-Mary (5) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
+Mary (5) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
 
 Mary (5) is a house and electro artist based in Canada, tracked on soundcheck, with 23 sets logged across Toronto. Often billed alongside Chafic, Cosmic JD and Milidi. Next up: TBA, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Mary (5) is a house and electro artist based in Canada, tracked on soundcheck, w
 
 Chafic, Cosmic JD, Milidi
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-5/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mary-5/)*

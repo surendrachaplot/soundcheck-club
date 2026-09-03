@@ -1,6 +1,6 @@
 # Het Dorp
 
-Het Dorp is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Field Notes presents... A House Party 2" on Fri, 4 Sept 2026.
+Het Dorp is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Field Notes presents... A House Party 2" on Fri, 4 Sept 2026.
 
 Het Dorp is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Paula Tape, Alexis Le-Tan, Alicia Carrera and Arista and 2 more. Browse upcoming dates, start times and who's playing. Noordwal 1, 1021 PX Amsterdam, Netherlands.
 
@@ -18,4 +18,4 @@ Het Dorp is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, 
 
 Noordwal 1, 1021 PX Amsterdam, Netherlands, Amsterdam
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-dorp/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-dorp/)*

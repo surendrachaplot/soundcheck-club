@@ -1,8 +1,8 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Locklead is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Locklead is a house and tech house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stassy and East End Dubs. Next up: Union Park, Chicago on Fri 4 Sept.
+Locklead is a house and tech house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stussy and East End Dubs. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Locklead is a house and tech house artist tracked on soundcheck, with 189 sets l
 
 ## Shares bills with
 
-Marsolo, Chris Stassy, East End Dubs
+Marsolo, Chris Stussy, East End Dubs
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

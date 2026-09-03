@@ -1,6 +1,6 @@
 # Kiana
 
-Kiana is a Techno and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Silence Please, New York City on Tue, 22 Sept 2026.
+Kiana is a Techno and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Silence Please, New York City on Tue, 22 Sept 2026.
 
 Kiana is a techno and jazz artist tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside BUNZ, ALEXIS DE LA ROSA and Byrell The Great. Next up: Silence Please, Newyorkcity on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Kiana is a techno and jazz artist tracked on soundcheck, with 10 sets logged acr
 
 BUNZ, ALEXIS DE LA ROSA, Byrell The Great
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nd1k0/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nd1k0/)*

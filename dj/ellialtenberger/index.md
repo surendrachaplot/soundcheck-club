@@ -1,6 +1,6 @@
 # Elli Altenberger
 
-Elli Altenberger is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Gate, Berlin on Sat, 5 Sept 2026.
+Elli Altenberger is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Golden Gate, Berlin on Sat, 5 Sept 2026.
 
 Elli Altenberger is a techno and house artist tracked on soundcheck, with 47 sets logged across Berlin, Hamburg, Leipzig and Melbourne and 3 more. Often billed alongside Leon Licht, Edgar Peng and Tobi Dei (DE). Next up: Golden Gate, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Elli Altenberger is a techno and house artist tracked on soundcheck, with 47 set
 
 Leon Licht, Edgar Peng, Tobi Dei (DE)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellialtenberger/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellialtenberger/)*

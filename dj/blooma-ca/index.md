@@ -1,6 +1,6 @@
 # Blooma
 
-Blooma is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Paradise Grapevine Winery, Toronto on Fri, 11 Sept 2026.
+Blooma is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paradise Grapevine Winery, Toronto on Fri, 11 Sept 2026.
 
 Blooma is a house and deep house artist tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside TESFAY, Hep (CA) and 0xydr0p. Next up: Paradise Grapevine Winery, Toronto on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Blooma is a house and deep house artist tracked on soundcheck, with 5 sets logge
 
 TESFAY, Hep (CA), 0xydr0p
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blooma-ca/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blooma-ca/)*

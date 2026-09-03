@@ -1,6 +1,6 @@
 # The Botanist
 
-The Botanist is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at BERHTA, Washington DC on Fri, 18 Sept 2026.
+The Botanist is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at BERHTA, Washington DC on Fri, 18 Sept 2026.
 
 The Botanist is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles, Newyorkcity, Sandiego and Sanfrancisco and 2 more. Often billed alongside Adam Ten, Askfor T and Kohbain. Next up: BERHTA, Washingtondc on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ The Botanist is a house and tech house artist based in United States of America,
 
 Adam Ten, Askfor T, Kohbain
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebotanist/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebotanist/)*

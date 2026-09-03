@@ -1,6 +1,6 @@
 # AGELESS
 
-AGELESS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gallery, London on Fri, 18 Sept 2026.
+AGELESS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Gallery, London on Fri, 18 Sept 2026.
 
 AGELESS is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 19 more. Often billed alongside Sossa, Seth Troxler and Arapu. Next up: Gallery, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ AGELESS is a house and techno artist tracked on soundcheck, with 113 sets logged
 
 Sossa, Seth Troxler, Arapu
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ageless/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ageless/)*

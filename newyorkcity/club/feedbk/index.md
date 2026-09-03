@@ -1,6 +1,6 @@
 # feedbk
 
-feedbk is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "feedbk - soft opening weekend with Andrew James Gustav & Burchan" on Sat, 5 Sept 2026.
+feedbk is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "feedbk - soft opening weekend with Andrew James Gustav & Burchan" on Sat, 5 Sept 2026.
 
 feedbk is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Andrew James Gustav, Burchan Acar, Manny (us) and Rasho. Browse upcoming dates, start times and who's playing. 153 Morgan Avenue.
 
@@ -15,4 +15,4 @@ feedbk is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, 
 
 153 Morgan Avenue, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*

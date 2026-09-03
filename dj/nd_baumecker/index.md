@@ -1,6 +1,6 @@
 # nd_baumecker
 
-nd_baumecker is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nitsa Club, Barcelona on Sat, 12 Sept 2026.
+nd_baumecker is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nitsa Club, Barcelona on Sat, 12 Sept 2026.
 
 nd_baumecker is a house and techno artist tracked on soundcheck, with 116 sets logged across Athens, Bali, Bangkok and Barcelona and 30 more. Often billed alongside Jorkes, Steffi and Efdemin. Next up: Nitsa Club, Barcelona on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ nd_baumecker is a house and techno artist tracked on soundcheck, with 116 sets l
 
 Jorkes, Steffi, Efdemin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*

@@ -1,6 +1,6 @@
 # Cristian Marras
 
-Cristian Marras is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fuchs2, Prague on Sat, 3 Oct 2026.
+Cristian Marras is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fuchs2, Prague on Sat, 3 Oct 2026.
 
 Cristian Marras is a techno and house artist based in Germany, tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Brussels and Budapest and 11 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: Fuchs2, Prague on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Cristian Marras is a techno and house artist based in Germany, tracked on soundc
 
 Mar/us, Metaraph, OCD
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*

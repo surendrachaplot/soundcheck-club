@@ -1,6 +1,6 @@
 # Palais Mascotte
 
-Palais Mascotte is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Kiki x Palais Mascotte: Day into Night" on Sat, 12 Sept 2026.
+Palais Mascotte is a music venue in Zurich with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kiki x Palais Mascotte: Day into Night" on Sat, 12 Sept 2026.
 
 Palais Mascotte is a music venue in Zurich listed on soundcheck. 3 upcoming nights, with line-ups including Kirollus, Lea Lisa and Sam Ruffillo. Browse upcoming dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
@@ -16,4 +16,4 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 3 upcoming nigh
 
 Theaterstrasse 10, 8001 Zürich, Zurich
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*

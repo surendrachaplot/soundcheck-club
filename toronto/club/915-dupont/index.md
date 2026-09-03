@@ -1,6 +1,6 @@
 # 915 Dupont
 
-915 Dupont is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "的士高 CANTO BOOGIE with John Kong & 7788" on Fri, 4 Sept 2026.
+915 Dupont is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "的士高 CANTO BOOGIE with John Kong & 7788" on Fri, 4 Sept 2026.
 
 915 Dupont is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Gil Masuda, John Kong, Kiinjo and Sakiko Nagai. Browse upcoming dates, start times and who's playing. 915 Dupont Street, Toronto, ON M6H 1Z1, Canada.
 
@@ -18,4 +18,4 @@
 
 915 Dupont Street, Toronto, ON M6H 1Z1, Canada, Toronto
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/915-dupont/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/915-dupont/)*

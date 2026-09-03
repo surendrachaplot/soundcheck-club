@@ -1,6 +1,6 @@
 # DJ Soulscape
 
-DJ Soulscape is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 4 Sept 2026.
+DJ Soulscape is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at J.J. Mahoney's Bar, Seoul on Fri, 4 Sept 2026.
 
 DJ Soulscape is a hip-hop and club artist based in South Korea, tracked on soundcheck, with 110 sets logged across Seoul and Tokyo. Often billed alongside ANDOW, JADA MORAES and DJ Jeyon. Next up: J.J. Mahoney's Bar, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Soulscape is a hip-hop and club artist based in South Korea, tracked on sound
 
 ANDOW, JADA MORAES, DJ Jeyon
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulscape/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulscape/)*

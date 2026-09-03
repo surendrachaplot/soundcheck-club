@@ -1,6 +1,6 @@
 # Shjva
 
-Shjva is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Miradouro de Baixo, Lisbon on Sat, 5 Sept 2026.
+Shjva is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Miradouro de Baixo, Lisbon on Sat, 5 Sept 2026.
 
 Shjva is a techno and trance artist tracked on soundcheck, with 80 sets logged across Athens, Berlin, Brussels and Cologne and 15 more. Often billed alongside Samogulov, Plastik (1) and Volodymyr Gnatenko. Next up: Miradouro de Baixo, Lisbon on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Shjva is a techno and trance artist tracked on soundcheck, with 80 sets logged a
 
 Samogulov, Plastik (1), Volodymyr Gnatenko
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shjva/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shjva/)*

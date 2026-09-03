@@ -1,6 +1,6 @@
 # Qoqnut
 
-Qoqnut is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The DBA, Manchester on Sat, 5 Sept 2026.
+Qoqnut is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The DBA, Manchester on Sat, 5 Sept 2026.
 
 Qoqnut is a techno and latin bass artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Manchester. Often billed alongside atalaya, Jess Rose and Deventi. Next up: The DBA, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Qoqnut is a techno and latin bass artist based in United Kingdom, tracked on sou
 
 atalaya, Jess Rose, Deventi
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qoqnut/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qoqnut/)*

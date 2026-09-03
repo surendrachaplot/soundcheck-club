@@ -1,6 +1,6 @@
 # Eden
 
-Eden is a music venue in Ibiza with 20 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "GARAGE NATION WEEK 4" on Wed, 2 Sept 2026.
+Eden is a music venue in Ibiza with 20 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "GARAGE NATION WEEK 4" on Wed, 2 Sept 2026.
 
 Eden is a music venue in Ibiza listed on soundcheck. 20 upcoming nights, with line-ups including Alberto Costa, Angelo Ferreri, Fantasm and Fritz Kalkbrenner and 2 more. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
@@ -23,4 +23,4 @@ Eden is a music venue in Ibiza listed on soundcheck. 20 upcoming nights, with li
 
 Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain, Ibiza
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/eden/)*

@@ -1,6 +1,6 @@
 # Kilo
 
-Kilo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 5 Sept 2026.
+Kilo is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Kilo is a house and club artist tracked on soundcheck, with 23 sets logged across Detroit and Sanfrancisco. Often billed alongside LBXX, INFRNZE and JLittle. Next up: The Midway, Sanfrancisco on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Kilo is a house and club artist tracked on soundcheck, with 23 sets logged acros
 
 LBXX, INFRNZE, JLittle
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kilo-usa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kilo-usa/)*

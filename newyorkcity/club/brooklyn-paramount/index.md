@@ -1,6 +1,6 @@
 # Brooklyn Paramount
 
-Brooklyn Paramount is a music venue in New York City with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Tinlicker" on Sat, 26 Sept 2026.
+Brooklyn Paramount is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Tinlicker" on Sat, 26 Sept 2026.
 
 Brooklyn Paramount is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Helsloot and Tinlicker. Browse upcoming dates, start times and who's playing. 385 Flatbush Ave. Extension Brooklyn, NY 11201.
 
@@ -14,4 +14,4 @@ Brooklyn Paramount is a music venue in Newyorkcity listed on soundcheck. 1 upcom
 
 385 Flatbush Ave. Extension Brooklyn, NY 11201, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-paramount/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-paramount/)*

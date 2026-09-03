@@ -1,6 +1,6 @@
 # MRD (NO)
 
-MRD (NO) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Phonox, London on Sat, 12 Sept 2026.
+MRD (NO) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Phonox, London on Sat, 12 Sept 2026.
 
 MRD (NO) is a techno and trance artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: Phonox, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ MRD (NO) is a techno and trance artist tracked on soundcheck, with 119 sets logg
 
 MrD, MCR-T, DJ Gigola
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*

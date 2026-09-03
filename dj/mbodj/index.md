@@ -1,6 +1,6 @@
 # MBODJ
 
-MBODJ is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sala Upload Barcelona, Barcelona on Fri, 4 Sept 2026.
+MBODJ is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sala Upload Barcelona, Barcelona on Fri, 4 Sept 2026.
 
 MBODJ is an experimental and techno artist based in Spain, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Baba Sy, Opoku and TNTC. Next up: Sala Upload Barcelona, Barcelona on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ MBODJ is an experimental and techno artist based in Spain, tracked on soundcheck
 
 Baba Sy, Opoku, TNTC
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mbodj/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mbodj/)*

@@ -1,6 +1,6 @@
 # Jacques Greene
 
-Jacques Greene is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Jacques Greene is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Jacques Greene is a house and techno artist tracked on soundcheck, with 104 sets logged across Amsterdam, Athens, Austin and Berlin and 32 more. Often billed alongside Nosaj Thing, Jubilee and Coffintexts. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Jacques Greene is a house and techno artist tracked on soundcheck, with 104 sets
 
 Nosaj Thing, Jubilee, Coffintexts
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*

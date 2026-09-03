@@ -1,6 +1,6 @@
 # Michel D.
 
-Michel D. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Badaboum, Paris on Sat, 12 Sept 2026.
+Michel D. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Badaboum, Paris on Sat, 12 Sept 2026.
 
 Michel D. is a house and techno artist tracked on soundcheck, with 19 sets logged across Paris. Often billed alongside Yuko Kakizawa, Cogan and Tatie Dee. Next up: Badaboum, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Michel D. is a house and techno artist tracked on soundcheck, with 19 sets logge
 
 Yuko Kakizawa, Cogan, Tatie Dee
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micheld/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micheld/)*

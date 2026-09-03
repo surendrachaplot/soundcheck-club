@@ -1,6 +1,6 @@
 # TBA - BuDapeSt Master - Kinky and fetish boat
 
-TBA - BuDapeSt Master - Kinky and fetish boat is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Kinkster: eXtreme" on Sat, 19 Sept 2026.
+TBA - BuDapeSt Master - Kinky and fetish boat is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kinkster: eXtreme" on Sat, 19 Sept 2026.
 
 TBA - BuDapeSt Master - Kinky and fetish boat is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Envo. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - BuDapeSt Master - Kinky and fetish boat is a music venue in Budapest liste
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Kinkster: eXtreme | Envo |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-budapest-master-kinky-and-fetish-boat/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-budapest-master-kinky-and-fetish-boat/)*

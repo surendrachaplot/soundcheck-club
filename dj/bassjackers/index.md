@@ -1,6 +1,6 @@
 # Bassjackers
 
-Bassjackers is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 9 Sept 2026.
+Bassjackers is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 9 Sept 2026.
 
 Bassjackers is a house and electro artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Cologne and Denver and 11 more. Often billed alongside Dimitri Vegas & Like Mike, Laidback Luke and Steve Aoki. Next up: Ushuaïa Ibiza, Ibiza on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ Bassjackers is a house and electro artist tracked on soundcheck, with 27 sets lo
 
 Dimitri Vegas & Like Mike, Laidback Luke, Steve Aoki
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*

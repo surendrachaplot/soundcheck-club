@@ -1,6 +1,6 @@
 # SNTS
 
-SNTS is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at E1, London on Fri, 11 Sept 2026.
+SNTS is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at E1, London on Fri, 11 Sept 2026.
 
 SNTS is a techno and industrial artist tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Charlie Sparks, 999999999 and DYEN. Next up: E1, London on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ SNTS is a techno and industrial artist tracked on soundcheck, with 170 sets logg
 
 Charlie Sparks, 999999999, DYEN
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*

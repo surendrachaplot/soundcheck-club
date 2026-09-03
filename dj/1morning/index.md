@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Warehouse Location , Boston on Fri, 4 Sept 2026.
+1morning is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Warehouse Location , Boston on Fri, 4 Sept 2026.
 
 1morning is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: TBA - Warehouse Location , Boston on Fri 4 Sept.
 
@@ -29,4 +29,4 @@
 
 Akua, DJ Stingray 313, Regal86
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

@@ -1,6 +1,6 @@
 # Loves_kills
 
-Loves_kills is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Renate, Berlin on Sun, 6 Sept 2026.
+Loves_kills is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Renate, Berlin on Sun, 6 Sept 2026.
 
 Loves_kills is a house and disco artist based in Ukraine, tracked on soundcheck, with 52 sets logged across Berlin and Strasbourg. Often billed alongside Rina Katen, justcallmesergio and Slow PSTL. Next up: Renate, Berlin on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ Loves_kills is a house and disco artist based in Ukraine, tracked on soundcheck,
 
 Rina Katen, justcallmesergio, Slow PSTL
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loves_kills/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loves_kills/)*

@@ -1,6 +1,6 @@
 # RXVEGRL
 
-RXVEGRL is a Trance and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Stereo, Glasgow on Thu, 3 Sept 2026.
+RXVEGRL is a Trance and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Stereo, Glasgow on Thu, 3 Sept 2026.
 
 RXVEGRL is a trance and electronica artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Glasgow. Often billed alongside 4KitSake, Angel Cake and Kinz Luiz. Next up: Stereo, Glasgow on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ RXVEGRL is a trance and electronica artist based in United Kingdom, tracked on s
 
 4KitSake, Angel Cake, Kinz Luiz
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rxvegrl/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rxvegrl/)*

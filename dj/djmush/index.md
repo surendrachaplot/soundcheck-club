@@ -1,6 +1,6 @@
 # dj mush
 
-dj mush is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Glove That Fits, London on Sat, 5 Sept 2026.
+dj mush is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Glove That Fits, London on Sat, 5 Sept 2026.
 
 dj mush is a techno and house artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside FASTON, MAR1_WAV and Ardishko. Next up: The Glove That Fits, London on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ dj mush is a techno and house artist tracked on soundcheck, with 4 sets logged a
 
 FASTON, MAR1_WAV, Ardishko
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmush/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmush/)*

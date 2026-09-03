@@ -1,6 +1,6 @@
 # Tori Levett
 
-Tori Levett is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Zumana Bali, Bali on Sat, 19 Sept 2026.
+Tori Levett is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Zumana Bali, Bali on Sat, 19 Sept 2026.
 
 Tori Levett is a techno and afro house artist tracked on soundcheck, with 17 sets logged across Bali, Hongkong and Sydney. Often billed alongside HIJCKD, Maison Ware and 19:26. Next up: Zumana Bali, Bali on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tori Levett is a techno and afro house artist tracked on soundcheck, with 17 set
 
 HIJCKD, Maison Ware, 19:26
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torilevett/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torilevett/)*

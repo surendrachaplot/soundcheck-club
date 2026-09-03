@@ -1,6 +1,6 @@
 # Roberto Capuano
 
-Roberto Capuano is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 22 Sept 2026.
+Roberto Capuano is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 22 Sept 2026.
 
 Roberto Capuano is a techno and tech house artist based in Italy, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Cologne and Ibiza and 5 more. Often billed alongside Luigi Madonna, Joseph Capriati and Markantonio. Next up: Amnesia Ibiza, Ibiza on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Roberto Capuano is a techno and tech house artist based in Italy, tracked on sou
 
 Luigi Madonna, Joseph Capriati, Markantonio
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertocapuano/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertocapuano/)*

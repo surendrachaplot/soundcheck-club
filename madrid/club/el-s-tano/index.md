@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 19 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "BORS COLECTIVE OPEN DECKS: Monar, R333, Sockrates & Icyrxber, Tony Surk, Yulius " on Thu, 3 Sept 2026.
+EL SÓTANO is a music venue in Madrid with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "BORS COLECTIVE OPEN DECKS: Monar, R333, Sockrates & Icyrxber, Tony Surk, Yulius " on Thu, 3 Sept 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 19 upcoming nights, with line-ups including Alvaro Cabana, Alviker, Arok Shiva and Brisa Then and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 19 upcoming nights, 
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

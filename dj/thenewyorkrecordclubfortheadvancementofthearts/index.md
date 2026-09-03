@@ -1,14 +1,13 @@
 # The New York Record Club for The Advancement of The Arts
 
-The New York Record Club for The Advancement of The Arts is a electronic artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nowadays, New York City on Wed, 2 Sept 2026.
+The New York Record Club for The Advancement of The Arts is a electronic artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nowadays, New York City on Wed, 9 Sept 2026.
 
-The New York Record Club for The Advancement of The Arts is an electronic artist based in United States of America, tracked on soundcheck, with 48 sets logged across Newyorkcity. Often billed alongside JP Solis. Next up: Nowadays, Newyorkcity on Wed 2 Sept.
+The New York Record Club for The Advancement of The Arts is an electronic artist based in United States of America, tracked on soundcheck, with 48 sets logged across Newyorkcity. Often billed alongside JP Solis. Next up: Nowadays, Newyorkcity on Wed 9 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Nowadays | New York City |
 | Wed, 9 Sept 2026 | Nowadays | New York City |
 | Tue, 15 Sept 2026 | Nowadays | New York City |
 | Wed, 23 Sept 2026 | Nowadays | New York City |
@@ -16,6 +15,7 @@ The New York Record Club for The Advancement of The Arts is an electronic artist
 
 ## Recently played
 
+- Nowadays, New York City — Wed, 2 Sept 2026
 - Nowadays, New York City — Wed, 26 Aug 2026
 - Nowadays, New York City — Wed, 19 Aug 2026
 - Nowadays, New York City — Wed, 12 Aug 2026
@@ -23,10 +23,9 @@ The New York Record Club for The Advancement of The Arts is an electronic artist
 - Nowadays, New York City — Wed, 25 Mar 2026
 - Nowadays, New York City — Wed, 11 Mar 2026
 - Nowadays, New York City — Wed, 4 Mar 2026
-- Nowadays, New York City — Wed, 25 Feb 2026
 
 ## Shares bills with
 
 JP Solis
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thenewyorkrecordclubfortheadvancementofthearts/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thenewyorkrecordclubfortheadvancementofthearts/)*

@@ -1,6 +1,6 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Venjent: USA + Canada Tour 2026" on Wed, 9 Sept 2026.
+Warehouse on Watts is a music venue in Philadelphia with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Venjent: USA + Canada Tour 2026" on Wed, 9 Sept 2026.
 
 Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 14 upcoming nights, with line-ups including Andrea Burns, Caiya, DJ Paypal and DJ Sundae and 2 more. Browse upcoming dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
@@ -23,4 +23,4 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 14 upc
 
 923-29 N. Watts St. Philadelphia, PA 19123, Philadelphia
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*

@@ -1,6 +1,6 @@
 # TV EYE
 
-TV EYE is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "F#!KIN' IN THE BUSHES [BRITPOP, MADCHESTER & POST PUNK]" on Sat, 12 Sept 2026.
+TV EYE is a music venue in New York City with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "F#!KIN' IN THE BUSHES [BRITPOP, MADCHESTER & POST PUNK]" on Sat, 12 Sept 2026.
 
 TV EYE is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, with line-ups including Ivy Oh. Browse upcoming dates, start times and who's playing. 1647 Weirfield St, Ridgewood, NY 11385.
 
@@ -19,4 +19,4 @@ TV EYE is a music venue in Newyorkcity listed on soundcheck. 6 upcoming nights, 
 
 1647 Weirfield St, Ridgewood, NY 11385, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tv-eye/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tv-eye/)*

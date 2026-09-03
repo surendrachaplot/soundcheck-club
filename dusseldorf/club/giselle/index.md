@@ -1,6 +1,6 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "POLSCHI all night long" on Fri, 4 Sept 2026.
+Giselle is a music venue in Düsseldorf with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "POLSCHI all night long" on Fri, 4 Sept 2026.
 
 Giselle is a music venue in Dusseldorf listed on soundcheck. 10 upcoming nights, with line-ups including Chet Rubbs, Chris Gerber, David Elimelech and Delfonic and 2 more. Browse upcoming dates, start times and who's playing. 147 Oststrasse 40210.
 
@@ -23,4 +23,4 @@ Giselle is a music venue in Dusseldorf listed on soundcheck. 10 upcoming nights,
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

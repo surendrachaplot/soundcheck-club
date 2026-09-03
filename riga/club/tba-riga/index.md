@@ -1,6 +1,6 @@
 # TBA - Riga
 
-TBA - Riga is a music venue in Riga with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "SUBKULTŪRA #12" on Fri, 6 Nov 2026.
+TBA - Riga is a music venue in Riga with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "SUBKULTŪRA #12" on Fri, 6 Nov 2026.
 
 TBA - Riga is a music venue in Riga listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Riga is a music venue in Riga listed on soundcheck. 1 upcoming night. Brow
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | SUBKULTŪRA #12 |  |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/tba-riga/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/tba-riga/)*

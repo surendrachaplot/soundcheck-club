@@ -1,6 +1,6 @@
 # Enzo is Burning
 
-Enzo is Burning is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at [UNVRS], Ibiza on Wed, 2 Sept 2026.
+Enzo is Burning is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at [UNVRS], Ibiza on Wed, 2 Sept 2026.
 
 Enzo is Burning is a tech house and house artist tracked on soundcheck, with 74 sets logged across Aberdeen, Amsterdam, Belfast and Boston and 19 more. Often billed alongside GW Harrison, ALISHA and Darius Syrossian. Next up: [UNVRS], Ibiza on Wed 2 Sept.
 
@@ -14,6 +14,7 @@ Enzo is Burning is a tech house and house artist tracked on soundcheck, with 74 
 
 ## Recently played
 
+- [UNVRS], Ibiza — Wed, 2 Sept 2026
 - [UNVRS], Ibiza — Thu, 20 Aug 2026
 - H0l0 Yard, New York City — Sat, 1 Aug 2026
 - Jolene Downtown Miami, Miami — Fri, 31 Jul 2026
@@ -21,10 +22,9 @@ Enzo is Burning is a tech house and house artist tracked on soundcheck, with 74 
 - 528 Ibiza, Ibiza — Fri, 29 May 2026
 - Gianpula Village, Malta — Wed, 29 Apr 2026
 - Bsmnt, Boston — Sat, 4 Apr 2026
-- MODE Downtown Miami, Miami — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 GW Harrison, ALISHA, Darius Syrossian
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoisburning/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoisburning/)*

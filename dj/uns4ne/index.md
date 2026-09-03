@@ -1,6 +1,6 @@
 # UNS4NE
 
-UNS4NE is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 4821 Grand River, Detroit on Sat, 5 Sept 2026.
+UNS4NE is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 4821 Grand River, Detroit on Sat, 5 Sept 2026.
 
 UNS4NE is a techno and club artist tracked on soundcheck, with 31 sets logged across Detroit. Often billed alongside Wax Assassin, we1sman and LATEX GIRL. Next up: 4821 Grand River, Detroit on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ UNS4NE is a techno and club artist tracked on soundcheck, with 31 sets logged ac
 
 Wax Assassin, we1sman, LATEX GIRL
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uns4ne/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uns4ne/)*

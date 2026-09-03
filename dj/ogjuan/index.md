@@ -1,6 +1,6 @@
 # OG Juan
 
-OG Juan is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - LFO, Madrid on Sat, 19 Sept 2026.
+OG Juan is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - LFO, Madrid on Sat, 19 Sept 2026.
 
 OG Juan is a house and acid artist tracked on soundcheck, with 23 sets logged across Berlin, Lisbon, Madrid and Melbourne and 2 more. Often billed alongside DJ Gostoso, Gostoso and Telephones. Next up: TBA - LFO, Madrid on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ OG Juan is a house and acid artist tracked on soundcheck, with 23 sets logged ac
 
 DJ Gostoso, Gostoso, Telephones
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogjuan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogjuan/)*

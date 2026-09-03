@@ -1,6 +1,6 @@
 # Afra
 
-Afra is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+Afra is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 Afra is a techno and house artist tracked on soundcheck, with 116 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Serge, Mary Lake and TWIENA. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -30,4 +30,4 @@ Afra is a techno and house artist tracked on soundcheck, with 116 sets logged ac
 
 Serge, Mary Lake, TWIENA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afra/)*

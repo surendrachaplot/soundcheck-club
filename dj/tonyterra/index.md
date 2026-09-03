@@ -1,6 +1,6 @@
 # Tony Terra
 
-Tony Terra is a Drum & Bass and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Cross Club, Prague on Sat, 26 Sept 2026.
+Tony Terra is a Drum & Bass and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Cross Club, Prague on Sat, 26 Sept 2026.
 
 Tony Terra is a drum & bass and broken beat artist based in Czech Republic, tracked on soundcheck, with 3 sets logged across Prague. Often billed alongside AMAR DURGA, Akira and Databass. Next up: Cross Club, Prague on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Tony Terra is a drum & bass and broken beat artist based in Czech Republic, trac
 
 AMAR DURGA, Akira, Databass
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyterra/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyterra/)*

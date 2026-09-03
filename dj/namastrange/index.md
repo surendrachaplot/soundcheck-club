@@ -1,6 +1,6 @@
 # namastrange
 
-namastrange is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 12 Sept 2026.
+namastrange is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 12 Sept 2026.
 
 namastrange is a techno and house artist tracked on soundcheck, with 8 sets logged across Austin and Sanfrancisco. Often billed alongside BAD JUUJU, Clearcast and Skiis. Next up: TBA - 4211 Todd Ln Suite A, Austin on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ namastrange is a techno and house artist tracked on soundcheck, with 8 sets logg
 
 BAD JUUJU, Clearcast, Skiis
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/namastrange/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/namastrange/)*

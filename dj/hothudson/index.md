@@ -1,6 +1,6 @@
 # Hot Hudson
 
-Hot Hudson is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Japan Monterrey, Mexico City on Fri, 18 Sept 2026.
+Hot Hudson is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Japan Monterrey, Mexico City on Fri, 18 Sept 2026.
 
 Hot Hudson is a techno and reggaeton artist based in Mexico, tracked on soundcheck, with 41 sets logged across Mexicocity. Often billed alongside Enya Botello, IRONBOARD and Deenia. Next up: Japan Monterrey, Mexicocity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Hot Hudson is a techno and reggaeton artist based in Mexico, tracked on soundche
 
 Enya Botello, IRONBOARD, Deenia
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hothudson/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hothudson/)*

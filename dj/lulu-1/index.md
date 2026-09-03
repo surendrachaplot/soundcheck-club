@@ -1,6 +1,6 @@
 # LULU (1)
 
-LULU (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fuchs2, Prague on Fri, 18 Sept 2026.
+LULU (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fuchs2, Prague on Fri, 18 Sept 2026.
 
 LULU (1) is a techno and trance artist based in Japan, tracked on soundcheck, with 16 sets logged across Amsterdam, Barcelona, Bristol and Paris and 3 more. Often billed alongside Dash (CZ), 999999999 and ARTISAN. Next up: Fuchs2, Prague on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ LULU (1) is a techno and trance artist based in Japan, tracked on soundcheck, wi
 
 Dash (CZ), 999999999, ARTISAN
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-1/)*

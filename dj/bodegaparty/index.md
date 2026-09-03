@@ -1,6 +1,6 @@
 # Bodegaparty
 
-Bodegaparty is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at House of Yes, New York City on Fri, 11 Sept 2026.
+Bodegaparty is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at House of Yes, New York City on Fri, 11 Sept 2026.
 
 Bodegaparty is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 86 sets logged across Losangeles, Montreal, Newyorkcity and Toronto. Often billed alongside purp, jo_sway and Tromac. Next up: House of Yes, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Bodegaparty is a club and ghetto tech artist based in United States of America, 
 
 purp, jo_sway, Tromac
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegaparty/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegaparty/)*

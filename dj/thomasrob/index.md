@@ -1,6 +1,6 @@
 # Thomas Rob
 
-Thomas Rob is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nether Club, Bucharest on Fri, 11 Sept 2026.
+Thomas Rob is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nether Club, Bucharest on Fri, 11 Sept 2026.
 
 Thomas Rob is a techno and acid artist tracked on soundcheck, with 33 sets logged across Bucharest and Leeds. Often billed alongside Radox, FAUST (1) and Ada Kaleh. Next up: Nether Club, Bucharest on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Thomas Rob is a techno and acid artist tracked on soundcheck, with 33 sets logge
 
 Radox, FAUST (1), Ada Kaleh
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasrob/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasrob/)*

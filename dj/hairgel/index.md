@@ -1,6 +1,6 @@
 # Hair Gel
 
-Hair Gel is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Rhythm, Toronto on Sat, 10 Oct 2026.
+Hair Gel is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Rhythm, Toronto on Sat, 10 Oct 2026.
 
 Hair Gel is a house and minimal artist based in Canada, tracked on soundcheck, with 8 sets logged across Toronto. Often billed alongside Fauren, Thomas James (2) and Greg Burke. Next up: Rhythm, Toronto on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Hair Gel is a house and minimal artist based in Canada, tracked on soundcheck, w
 
 Fauren, Thomas James (2), Greg Burke
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hairgel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hairgel/)*

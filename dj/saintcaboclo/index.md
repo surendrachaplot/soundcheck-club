@@ -1,6 +1,6 @@
 # Saint Caboclo
 
-Saint Caboclo is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Moon Club, Lisbon on Sat, 3 Oct 2026.
+Saint Caboclo is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Moon Club, Lisbon on Sat, 3 Oct 2026.
 
 Saint Caboclo is a techno and baile funk artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Sinnotsin, BANU (2) and Diego Armando. Next up: Moon Club, Lisbon on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Saint Caboclo is a techno and baile funk artist tracked on soundcheck, with 60 s
 
 Sinnotsin, BANU (2), Diego Armando
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintcaboclo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintcaboclo/)*

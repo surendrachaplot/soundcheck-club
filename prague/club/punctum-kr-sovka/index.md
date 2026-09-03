@@ -1,6 +1,6 @@
 # Punctum - Krásovka
 
-Punctum - Krásovka is a music venue in Prague with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Flora OST Release Party" on Fri, 25 Sept 2026.
+Punctum - Krásovka is a music venue in Prague with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Flora OST Release Party" on Fri, 25 Sept 2026.
 
 Punctum - Krásovka is a music venue in Prague listed on soundcheck. 1 upcoming night, with line-ups including FridaY (DE). Browse upcoming dates, start times and who's playing. Krásova 27, Prague.
 
@@ -14,4 +14,4 @@ Punctum - Krásovka is a music venue in Prague listed on soundcheck. 1 upcoming 
 
 Krásova 27, Prague, Prague
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/punctum-kr-sovka/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/punctum-kr-sovka/)*

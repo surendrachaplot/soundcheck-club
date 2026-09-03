@@ -1,6 +1,6 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 50 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "HIROSHI KAWANABE & KZMT" on Wed, 2 Sept 2026.
+DJ Bar Bridge is a music venue in Tokyo with 50 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "HIROSHI KAWANABE & KZMT" on Wed, 2 Sept 2026.
 
 DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 50 upcoming nights, with line-ups including DJ246, DJ Emma, DJ Nori and FELINE (JP) and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
@@ -23,4 +23,4 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 50 upcoming nights
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

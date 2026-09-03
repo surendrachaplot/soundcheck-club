@@ -1,6 +1,6 @@
 # bart ender
 
-bart ender is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at MONKEY LOVE, Warsaw on Sat, 5 Sept 2026.
+bart ender is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at MONKEY LOVE, Warsaw on Sat, 5 Sept 2026.
 
 bart ender is a house and techno artist based in Poland, tracked on soundcheck, with 46 sets logged across Krakow and Warsaw. Often billed alongside Schmeltzer, bielak and Taan. Next up: MONKEY LOVE, Warsaw on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ bart ender is a house and techno artist based in Poland, tracked on soundcheck, 
 
 Schmeltzer, bielak, Taan
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bartender/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bartender/)*

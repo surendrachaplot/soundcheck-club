@@ -1,6 +1,6 @@
 # Roll Dann
 
-Roll Dann is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Zoo, Geneva on Fri, 11 Sept 2026.
+Roll Dann is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Zoo, Geneva on Fri, 11 Sept 2026.
 
 Roll Dann is a techno and acid artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Laia, Shadow Hrym (ES) and Philippa Pacho. Next up: Zoo, Geneva on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Roll Dann is a techno and acid artist tracked on soundcheck, with 76 sets logged
 
 Laia, Shadow Hrym (ES), Philippa Pacho
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldann/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldann/)*

@@ -1,6 +1,6 @@
 # antron
 
-antron is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Silence Please, New York City on Fri, 4 Sept 2026.
+antron is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Silence Please, New York City on Fri, 4 Sept 2026.
 
 antron is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across London, Newyorkcity and Paris. Often billed alongside Alex Viper, Anito Soul and Cherry Orchard. Next up: Silence Please, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ antron is a techno and dub techno artist based in United States of America, trac
 
 Alex Viper, Anito Soul, Cherry Orchard
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antron/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antron/)*

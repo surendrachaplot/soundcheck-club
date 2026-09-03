@@ -1,6 +1,6 @@
 # John Kong
 
-John Kong is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 915 Dupont, Toronto on Fri, 4 Sept 2026.
+John Kong is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 915 Dupont, Toronto on Fri, 4 Sept 2026.
 
 John Kong is a disco and house artist based in Canada, tracked on soundcheck, with 22 sets logged across Montreal and Toronto. Often billed alongside Alister Johnson, The Patchouli Brothers and Automaticamore. Next up: 915 Dupont, Toronto on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ John Kong is a disco and house artist based in Canada, tracked on soundcheck, wi
 
 Alister Johnson, The Patchouli Brothers, Automaticamore
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkong/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkong/)*

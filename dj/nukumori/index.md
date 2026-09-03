@@ -1,6 +1,6 @@
 # Nukumori
 
-Nukumori is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Air Conditioned Lounge, San Diego on Wed, 9 Sept 2026.
+Nukumori is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Air Conditioned Lounge, San Diego on Wed, 9 Sept 2026.
 
 Nukumori is a bass and garage artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sandiego. Often billed alongside techki, AFFIRM and Bojak. Next up: The Air Conditioned Lounge, Sandiego on Wed 9 Sept.
 
@@ -20,4 +20,4 @@ Nukumori is a bass and garage artist based in United States of America, tracked 
 
 techki, AFFIRM, Bojak
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nukumori/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nukumori/)*

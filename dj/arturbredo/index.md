@@ -1,6 +1,6 @@
 # Artur Bredo
 
-Artur Bredo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gasteig, Munich on Sat, 12 Sept 2026.
+Artur Bredo is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Gasteig, Munich on Sat, 12 Sept 2026.
 
 Artur Bredo is a house and tech house artist based in Ukraine, tracked on soundcheck, with 5 sets logged across Amsterdam, Cologne and Munich. Often billed alongside Alice DiMar, YEPIK and ZARE. Next up: Gasteig, Munich on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Artur Bredo is a house and tech house artist based in Ukraine, tracked on soundc
 
 Alice DiMar, YEPIK, ZARE
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arturbredo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arturbredo/)*

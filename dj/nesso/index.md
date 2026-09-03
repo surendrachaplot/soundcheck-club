@@ -1,6 +1,6 @@
 # Nesso
 
-Nesso is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
+Nesso is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
 
 Nesso is a club and experimental artist tracked on soundcheck, with 13 sets logged across Berlin, Leipzig, London and Prague and 1 more. Often billed alongside Nocturnerror, Ciro Vitiello and Francesco Corvi. Next up: M.O.T, London on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ Nesso is a club and experimental artist tracked on soundcheck, with 13 sets logg
 
 Nocturnerror, Ciro Vitiello, Francesco Corvi
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nesso/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nesso/)*

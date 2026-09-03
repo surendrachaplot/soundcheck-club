@@ -1,6 +1,6 @@
 # Reanna Peris
 
-Reanna Peris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Crack Bellmer, Berlin on Sat, 19 Sept 2026.
+Reanna Peris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Crack Bellmer, Berlin on Sat, 19 Sept 2026.
 
 Reanna Peris is a techno and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Berfu, Dr.Waumiau and Dshanna. Next up: Crack Bellmer, Berlin on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Reanna Peris is a techno and house artist based in Germany, tracked on soundchec
 
 Berfu, Dr.Waumiau, Dshanna
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reannaperis/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reannaperis/)*

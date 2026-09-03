@@ -1,6 +1,6 @@
 # Innexen
 
-Innexen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Dune Park, Buenos Aires on Sat, 19 Sept 2026.
+Innexen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Dune Park, Buenos Aires on Sat, 19 Sept 2026.
 
 Innexen is a techno and house artist tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Buenosaires and Madrid and 1 more. Often billed alongside Iris Leidenschaft, Kevin Matto and ALKARLINE. Next up: Dune Park, Buenosaires on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Innexen is a techno and house artist tracked on soundcheck, with 7 sets logged a
 
 Iris Leidenschaft, Kevin Matto, ALKARLINE
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innexen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innexen/)*

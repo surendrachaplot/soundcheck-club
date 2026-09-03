@@ -1,6 +1,6 @@
 # kichererbsenstampf
 
-kichererbsenstampf is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at elipamanoke, Leipzig on Fri, 4 Sept 2026.
+kichererbsenstampf is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at elipamanoke, Leipzig on Fri, 4 Sept 2026.
 
 kichererbsenstampf is a trance and techno artist tracked on soundcheck, with 39 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 2 more. Often billed alongside VLUNA, DJ Schnürschuh and ANKA (2). Next up: elipamanoke, Leipzig on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ kichererbsenstampf is a trance and techno artist tracked on soundcheck, with 39 
 
 VLUNA, DJ Schnürschuh, ANKA (2)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kichererbsenstampf/)*

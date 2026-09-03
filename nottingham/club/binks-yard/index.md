@@ -1,6 +1,6 @@
 # Binks Yard
 
-Binks Yard is a music venue in Nottingham with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Paul Van Dyk Open Air - Trancecoda X Groovebox X Shine at Binks" on Sat, 19 Sept 2026.
+Binks Yard is a music venue in Nottingham with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Paul Van Dyk Open Air - Trancecoda X Groovebox X Shine at Binks" on Sat, 19 Sept 2026.
 
 Binks Yard is a music venue in Nottingham listed on soundcheck. 2 upcoming nights, with line-ups including Aly & Fila, Ciaran McAuley, Cosmic Gate and John '00' Fleming and 2 more. Browse upcoming dates, start times and who's playing. The Island Quarter, 1 The Great Northern Cl, Nottingham NG2 3JL.
 
@@ -15,4 +15,4 @@ Binks Yard is a music venue in Nottingham listed on soundcheck. 2 upcoming night
 
 The Island Quarter, 1 The Great Northern Cl, Nottingham NG2 3JL, Nottingham
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/binks-yard/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/binks-yard/)*

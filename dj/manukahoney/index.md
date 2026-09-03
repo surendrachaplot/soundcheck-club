@@ -1,6 +1,6 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Reggaeton artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nitsa Club, Barcelona on Fri, 4 Sept 2026.
+Manuka Honey is a Club and Reggaeton artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nitsa Club, Barcelona on Fri, 4 Sept 2026.
 
 Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 145 sets logged across Amsterdam, Auckland, Barcelona and Basel and 39 more. Often billed alongside Baby Cocada, Florentino and Safety Trance. Next up: Nitsa Club, Barcelona on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Manuka Honey is a club and reggaeton artist tracked on soundcheck, with 145 sets
 
 Baby Cocada, Florentino, Safety Trance
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*

@@ -1,6 +1,6 @@
 # long w
 
-long w is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Smolna, Warsaw on Fri, 4 Sept 2026.
+long w is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Smolna, Warsaw on Fri, 4 Sept 2026.
 
 long w is a bass and techno artist based in Poland, tracked on soundcheck, with 25 sets logged across Warsaw. Often billed alongside SHHME, Some Guest and NOV1K. Next up: Smolna, Warsaw on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ long w is a bass and techno artist based in Poland, tracked on soundcheck, with 
 
 SHHME, Some Guest, NOV1K
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/longw/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/longw/)*

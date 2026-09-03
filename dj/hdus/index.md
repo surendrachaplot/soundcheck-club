@@ -1,6 +1,6 @@
 # HD (US)
 
-HD (US) is a Latin Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Silence Please, New York City on Thu, 3 Sept 2026.
+HD (US) is a Latin Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Silence Please, New York City on Thu, 3 Sept 2026.
 
 HD (US) is a latin bass and drum & bass artist based in United States of America, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Cisne, DREAMINSLOW and HONEY B. Next up: Silence Please, Newyorkcity on Thu 3 Sept.
 
@@ -22,4 +22,4 @@ HD (US) is a latin bass and drum & bass artist based in United States of America
 
 Cisne, DREAMINSLOW, HONEY B
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hdus/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hdus/)*

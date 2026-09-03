@@ -1,6 +1,6 @@
 # Daniel (UK)
 
-Daniel (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Daniel (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Daniel (UK) is a house and techno artist tracked on soundcheck, with 9 sets logged across Berlin, Bristol, London and Mexicocity. Often billed alongside Lewis Woodham, Tenzin and Alex Arnout. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Daniel (UK) is a house and techno artist tracked on soundcheck, with 9 sets logg
 
 Lewis Woodham, Tenzin, Alex Arnout
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danieluk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danieluk/)*

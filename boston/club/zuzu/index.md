@@ -1,6 +1,6 @@
 # Zuzu
 
-Zuzu is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "The 11 Year OOZEversary Feat. Big N Dope, god.damn.chan & Flying Palace" on Wed, 2 Sept 2026.
+Zuzu is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "The 11 Year OOZEversary Feat. Big N Dope, god.damn.chan & Flying Palace" on Wed, 2 Sept 2026.
 
 Zuzu is a music venue in Boston listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 510 Massachusetts Ave, Cambridge MA 02136.
 
@@ -15,4 +15,4 @@ Zuzu is a music venue in Boston listed on soundcheck. 2 upcoming nights. Browse 
 
 510 Massachusetts Ave, Cambridge MA 02136, Boston
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/zuzu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/zuzu/)*

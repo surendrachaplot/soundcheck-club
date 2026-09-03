@@ -1,6 +1,6 @@
 # Arnault
 
-Arnault is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
+Arnault is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
 
 Arnault is a house and techno artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside VENERE, Bibiminor and CLEIDO. Next up: Vittoria Wharf Studio, London on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Arnault is a house and techno artist tracked on soundcheck, with 5 sets logged a
 
 VENERE, Bibiminor, CLEIDO
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arnault/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arnault/)*

@@ -1,6 +1,6 @@
 # Tech Noir
 
-Tech Noir is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 7 Nov 2026.
+Tech Noir is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 7 Nov 2026.
 
 Tech Noir is a techno and electronica artist based in Portugal, tracked on soundcheck, with 19 sets logged across Berlin, Frankfurt and Porto. Often billed alongside Audio Vacanze, Electric Visionary and TAKTSTÖRER. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Tech Noir is a techno and electronica artist based in Portugal, tracked on sound
 
 Audio Vacanze, Electric Visionary, TAKTSTÖRER
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technoir/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technoir/)*

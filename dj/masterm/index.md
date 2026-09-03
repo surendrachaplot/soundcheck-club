@@ -1,6 +1,6 @@
 # Master M
 
-Master M is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ocean Drive Hotel, Ibiza on Fri, 4 Sept 2026.
+Master M is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ocean Drive Hotel, Ibiza on Fri, 4 Sept 2026.
 
 Master M is a house and tech house artist tracked on soundcheck, with 13 sets logged across Geneva and Ibiza. Often billed alongside Hector Moreno, SamC and Outhmax. Next up: Ocean Drive Hotel, Ibiza on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Master M is a house and tech house artist tracked on soundcheck, with 13 sets lo
 
 Hector Moreno, SamC, Outhmax
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masterm/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masterm/)*

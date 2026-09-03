@@ -1,6 +1,6 @@
 # Cleveland
 
-Cleveland is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at KPH Volume, Copenhagen on Sat, 5 Sept 2026.
+Cleveland is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KPH Volume, Copenhagen on Sat, 5 Sept 2026.
 
 Cleveland is a techno and house artist based in Luxembourg, tracked on soundcheck, with 20 sets logged across Antwerp, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Fais Le Beau, Dana Kuehr and AliA. Next up: KPH Volume, Copenhagen on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Cleveland is a techno and house artist based in Luxembourg, tracked on soundchec
 
 Fais Le Beau, Dana Kuehr, AliA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cleveland/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cleveland/)*

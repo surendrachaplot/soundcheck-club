@@ -1,6 +1,6 @@
 # Electric Studios
 
-Electric Studios is a music venue in Sheffield with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Mall Grab" on Fri, 4 Sept 2026.
+Electric Studios is a music venue in Sheffield with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Mall Grab" on Fri, 4 Sept 2026.
 
 Electric Studios is a music venue in Sheffield listed on soundcheck. 5 upcoming nights, with line-ups including Channel One Sound, Chicane, Dusky and Giulia Tess and 2 more. Browse upcoming dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
 
@@ -18,4 +18,4 @@ Electric Studios is a music venue in Sheffield listed on soundcheck. 5 upcoming 
 
 6 Leadmill Road, Sheffield, S1 4SE, Sheffield
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*

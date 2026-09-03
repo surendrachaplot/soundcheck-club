@@ -1,6 +1,6 @@
 # Steve Marto
 
-Steve Marto is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Steve Marto is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Steve Marto is a house and minimal artist based in Canada, tracked on soundcheck, with 25 sets logged across Toronto. Often billed alongside Milidi, Negin and Pasha. Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Steve Marto is a house and minimal artist based in Canada, tracked on soundcheck
 
 Milidi, Negin, Pasha
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevemarto/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevemarto/)*

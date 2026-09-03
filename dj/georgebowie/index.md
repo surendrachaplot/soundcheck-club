@@ -1,6 +1,6 @@
 # George Bowie
 
-George Bowie is a Trance and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Classic Grand, Glasgow on Sat, 19 Sept 2026.
+George Bowie is a Trance and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Classic Grand, Glasgow on Sat, 19 Sept 2026.
 
 George Bowie is a trance and disco artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Dundee and Glasgow. Often billed alongside Joe Deacon, Macca (2) and Michael Paterson. Next up: The Classic Grand, Glasgow on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ George Bowie is a trance and disco artist based in United Kingdom, tracked on so
 
 Joe Deacon, Macca (2), Michael Paterson
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebowie/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebowie/)*

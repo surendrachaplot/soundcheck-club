@@ -1,6 +1,6 @@
 # Pastiche
 
-Pastiche is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "TBA - Listening Session" on Mon, 21 Sept 2026.
+Pastiche is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "TBA - Listening Session" on Mon, 21 Sept 2026.
 
 Pastiche is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Neutran. Browse upcoming dates, start times and who's playing. Weserstr 46, 12045, Berlin.
 
@@ -14,4 +14,4 @@ Pastiche is a music venue in Berlin listed on soundcheck. 1 upcoming night, with
 
 Weserstr 46, 12045, Berlin, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pastiche/)*

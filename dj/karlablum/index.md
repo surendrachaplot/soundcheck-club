@@ -1,6 +1,6 @@
 # Karla Blum
 
-Karla Blum is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at MÄX, Zurich on Fri, 9 Oct 2026.
+Karla Blum is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at MÄX, Zurich on Fri, 9 Oct 2026.
 
 Karla Blum is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 11 more. Often billed alongside Felix Kröcher, A.D.H.S. and ANDATA. Next up: MÄX, Zurich on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Karla Blum is a techno and house artist based in Germany, tracked on soundcheck,
 
 Felix Kröcher, A.D.H.S., ANDATA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karlablum/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karlablum/)*

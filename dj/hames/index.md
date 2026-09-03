@@ -1,6 +1,6 @@
 # Hames
 
-Hames is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Grub Records, Sheffield on Fri, 11 Sept 2026.
+Hames is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Grub Records, Sheffield on Fri, 11 Sept 2026.
 
 Hames is a house and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, London, Manchester and Nottingham and 1 more. Often billed alongside Joi La Frique, Wow & Flutter and Talking Motion. Next up: Grub Records, Sheffield on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Hames is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Joi La Frique, Wow & Flutter, Talking Motion
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hames/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hames/)*

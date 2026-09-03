@@ -1,6 +1,6 @@
 # keikee
 
-keikee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Giselle, Düsseldorf on Sat, 12 Sept 2026.
+keikee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Giselle, Düsseldorf on Sat, 12 Sept 2026.
 
 keikee is a house and techno artist based in South Korea, tracked on soundcheck, with 45 sets logged across Berlin, Cologne, Dusseldorf and Mexicocity and 1 more. Often billed alongside Philipp Fein, Peter Invasion and Franz Scala. Next up: Giselle, Dusseldorf on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ keikee is a house and techno artist based in South Korea, tracked on soundcheck,
 
 Philipp Fein, Peter Invasion, Franz Scala
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keikee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keikee/)*

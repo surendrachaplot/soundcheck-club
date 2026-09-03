@@ -1,6 +1,6 @@
 # OCZKI
 
-OCZKI is a music venue in Warsaw with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "HANNAH LAING" on Fri, 4 Sept 2026.
+OCZKI is a music venue in Warsaw with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "HANNAH LAING" on Fri, 4 Sept 2026.
 
 OCZKI is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with line-ups including BOBAIO, Bronka, Debit and Devon Rexi and 2 more. Browse upcoming dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
 
@@ -20,4 +20,4 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 7 upcoming nights, with l
 
 Wojciecha Oczki 1A, 02-007 Warszawa, Warsaw
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*

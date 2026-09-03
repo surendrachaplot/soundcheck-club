@@ -1,6 +1,6 @@
 # Irfane
 
-Irfane is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Audio Club, Geneva on Sat, 5 Sept 2026.
+Irfane is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Audio Club, Geneva on Sat, 5 Sept 2026.
 
 Irfane is a house and disco artist tracked on soundcheck, with 17 sets logged across Athens, Geneva, Ibiza and London and 4 more. Often billed alongside Breakbot, Busy P and Myd. Next up: Audio Club, Geneva on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Irfane is a house and disco artist tracked on soundcheck, with 17 sets logged ac
 
 Breakbot, Busy P, Myd
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irfane/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irfane/)*

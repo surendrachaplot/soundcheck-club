@@ -1,6 +1,6 @@
 # Twist Fire
 
-Twist Fire is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Sept 2026.
+Twist Fire is a Ambient and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 2 Sept 2026.
 
 Twist Fire is an ambient and dub artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Triqi, Maryisonacid and NaN.. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 2 Sept.
 
@@ -12,6 +12,7 @@ Twist Fire is an ambient and dub artist tracked on soundcheck, with 12 sets logg
 
 ## Recently played
 
+- TBA - Secret Location (near Frankfurter Allee), Berlin — Wed, 2 Sept 2026
 - KREUZWERK, Berlin — Mon, 25 May 2026
 - Pastiche, Berlin — Sat, 4 Apr 2026
 - arkaoda Berlin, Berlin — Fri, 3 Apr 2026
@@ -19,10 +20,9 @@ Twist Fire is an ambient and dub artist tracked on soundcheck, with 12 sets logg
 - arkaoda Berlin, Berlin — Fri, 17 Oct 2025
 - Renate, Berlin — Fri, 12 Sept 2025
 - Refuge Worldwide / Oona Bar, Berlin — Sat, 30 Aug 2025
-- YSY, Berlin — Sat, 21 Jun 2025
 
 ## Shares bills with
 
 Triqi, Maryisonacid, NaN.
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twistfire/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twistfire/)*

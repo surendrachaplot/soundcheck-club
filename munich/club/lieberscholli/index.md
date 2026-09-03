@@ -1,6 +1,6 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Endless Summer (Open Air + Club) with ragazzi & elotrance" on Sat, 5 Sept 2026.
+Lieberscholli is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Endless Summer (Open Air + Club) with ragazzi & elotrance" on Sat, 5 Sept 2026.
 
 Lieberscholli is a music venue in Munich listed on soundcheck. 7 upcoming nights, with line-ups including aemy, Alex Volta, ANASTASÍA and Anna Lazer and 2 more. Browse upcoming dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
@@ -20,4 +20,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 7 upcoming nights
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

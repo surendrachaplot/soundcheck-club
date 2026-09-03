@@ -1,6 +1,6 @@
 # Insom
 
-Insom is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Melkweg, Amsterdam on Mon, 21 Sept 2026.
+Insom is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Melkweg, Amsterdam on Mon, 21 Sept 2026.
 
 Insom is a drum & bass and jungle artist based in Greece, tracked on soundcheck, with 79 sets logged across Amsterdam and Athens. Often billed alongside Gibbo, Type Zero and Unified Method. Next up: Melkweg, Amsterdam on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Insom is a drum & bass and jungle artist based in Greece, tracked on soundcheck,
 
 Gibbo, Type Zero, Unified Method
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/insom/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/insom/)*

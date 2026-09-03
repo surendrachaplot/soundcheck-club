@@ -1,6 +1,6 @@
 # Susano
 
-Susano is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
+Susano is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
 Susano is a techno and trance artist based in Belgium, tracked on soundcheck, with 22 sets logged across Brussels and Stuttgart. Often billed alongside YKAi, Ce$ar and Chris Youké. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Susano is a techno and trance artist based in Belgium, tracked on soundcheck, wi
 
 YKAi, Ce$ar, Chris Youké
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/susano/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/susano/)*

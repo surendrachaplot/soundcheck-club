@@ -1,6 +1,6 @@
 # KAMA
 
-KAMA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Kilomètre25, Paris on Thu, 3 Sept 2026.
+KAMA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kilomètre25, Paris on Thu, 3 Sept 2026.
 
 KAMA is a techno and trance artist based in Italy, tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt, Paris and Warsaw. Often billed alongside Der Andere, Polytoxic and CiKi. Next up: Kilomètre25, Paris on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ KAMA is a techno and trance artist based in Italy, tracked on soundcheck, with 1
 
 Der Andere, Polytoxic, CiKi
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kama-it/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kama-it/)*

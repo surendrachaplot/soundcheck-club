@@ -1,6 +1,6 @@
 # Alytta
 
-Alytta is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Japan Monterrey, Mexico City on Fri, 18 Sept 2026.
+Alytta is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Japan Monterrey, Mexico City on Fri, 18 Sept 2026.
 
 Alytta is a techno and electronica artist based in Mexico, tracked on soundcheck, with 7 sets logged across Mexicocity. Often billed alongside DJ B2B, Dj Render and AAAA. Next up: Japan Monterrey, Mexicocity on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Alytta is a techno and electronica artist based in Mexico, tracked on soundcheck
 
 DJ B2B, Dj Render, AAAA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alytta/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alytta/)*

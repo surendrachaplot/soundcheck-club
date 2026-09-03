@@ -1,6 +1,6 @@
 # Worldpeace DMT
 
-Worldpeace DMT is a Experimental and New Wave artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hotel Forum, Krakow on Fri, 9 Oct 2026.
+Worldpeace DMT is a Experimental and New Wave artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hotel Forum, Krakow on Fri, 9 Oct 2026.
 
 Worldpeace DMT is an experimental and new wave artist tracked on soundcheck, with 13 sets logged across Brussels, Glasgow, Krakow and Leeds and 4 more. Often billed alongside Oatmilkandcodeine, Patch+ and 300SkullsAndCounting. Next up: Hotel Forum, Krakow on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Worldpeace DMT is an experimental and new wave artist tracked on soundcheck, wit
 
 Oatmilkandcodeine, Patch+, 300SkullsAndCounting
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worldpeacedmt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worldpeacedmt/)*

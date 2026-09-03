@@ -1,6 +1,6 @@
 # Tau Car
 
-Tau Car is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
+Tau Car is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
 
 Tau Car is a house and electro artist tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 27 more. Often billed alongside International Mac, Edward and Konstantin. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Tau Car is a house and electro artist tracked on soundcheck, with 114 sets logge
 
 International Mac, Edward, Konstantin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*

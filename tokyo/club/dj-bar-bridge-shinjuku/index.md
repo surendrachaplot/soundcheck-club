@@ -1,6 +1,6 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 44 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "KEI YANAI, OG Militant B & SKNHDZ" on Wed, 2 Sept 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 44 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "KEI YANAI, OG Militant B & SKNHDZ" on Wed, 2 Sept 2026.
 
 DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 44 upcoming nights, with line-ups including 7e, BANANA-CHAN, CALPISS and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
@@ -23,4 +23,4 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 44 upcomi
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

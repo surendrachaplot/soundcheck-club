@@ -1,6 +1,6 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Strut SF and F8 present Dollarhide's Bday Jam" on Wed, 2 Sept 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 17 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Strut SF and F8 present Dollarhide's Bday Jam" on Wed, 2 Sept 2026.
 
 F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 17 upcoming nights, with line-ups including Akumen, Amino, ANDYLAND and Andy Oro and 2 more. Browse upcoming dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ F8 1192 Folsom is a music venue in Sanfrancisco listed on soundcheck. 17 upcomin
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

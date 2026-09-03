@@ -1,6 +1,6 @@
 # OS:MAN
 
-OS:MAN is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Brixton Jamm, London on Sat, 12 Sept 2026.
+OS:MAN is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Brixton Jamm, London on Sat, 12 Sept 2026.
 
 OS:MAN is a jungle and drum & bass artist tracked on soundcheck, with 71 sets logged across Brighton, Hamburg, Leeds and London and 1 more. Often billed alongside INSECT CRUSHA, FENDI-K and Tim Reaper. Next up: Brixton Jamm, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ OS:MAN is a jungle and drum & bass artist tracked on soundcheck, with 71 sets lo
 
 INSECT CRUSHA, FENDI-K, Tim Reaper
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osman-uk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/osman-uk/)*

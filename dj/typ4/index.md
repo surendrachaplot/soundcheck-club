@@ -1,6 +1,6 @@
 # TYP4
 
-TYP4 is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Detroit Shipping Company, Detroit on Sat, 19 Sept 2026.
+TYP4 is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Detroit Shipping Company, Detroit on Sat, 19 Sept 2026.
 
 TYP4 is a house and drum & bass artist tracked on soundcheck, with 8 sets logged across Detroit. Often billed alongside Seanni B, Obi-Wan Shinobi and Kuuma. Next up: Detroit Shipping Company, Detroit on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ TYP4 is a house and drum & bass artist tracked on soundcheck, with 8 sets logged
 
 Seanni B, Obi-Wan Shinobi, Kuuma
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/typ4/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/typ4/)*

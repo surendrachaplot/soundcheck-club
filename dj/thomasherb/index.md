@@ -1,6 +1,6 @@
 # Thomas Herb
 
-Thomas Herb is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Landesmuseum, Zurich on Mon, 31 Aug 2026.
+Thomas Herb is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Landesmuseum, Zurich on Mon, 31 Aug 2026.
 
 Thomas Herb is a house and electro artist based in Germany, tracked on soundcheck, with 97 sets logged across Munich and Zurich. Often billed alongside Sonson, Kalabrese and Michael Reinboth. Next up: Landesmuseum, Zurich on Mon 31 Aug.
 
@@ -28,4 +28,4 @@ Thomas Herb is a house and electro artist based in Germany, tracked on soundchec
 
 Sonson, Kalabrese, Michael Reinboth
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasherb/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasherb/)*

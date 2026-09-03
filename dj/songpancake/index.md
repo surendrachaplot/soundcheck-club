@@ -1,6 +1,6 @@
 # SONGPANCAKE
 
-SONGPANCAKE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Shelter, Seoul on Sat, 5 Sept 2026.
+SONGPANCAKE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Shelter, Seoul on Sat, 5 Sept 2026.
 
 SONGPANCAKE is a techno and electro artist based in South Korea, tracked on soundcheck, with 57 sets logged across Seoul and Sydney. Often billed alongside Honn, X2C (1) and AVALON. Next up: Shelter, Seoul on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ SONGPANCAKE is a techno and electro artist based in South Korea, tracked on soun
 
 Honn, X2C (1), AVALON
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/songpancake/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/songpancake/)*

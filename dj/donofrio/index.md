@@ -1,6 +1,6 @@
 # donofrio
 
-donofrio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club Rawhide, New York City on Fri, 11 Sept 2026.
+donofrio is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club Rawhide, New York City on Fri, 11 Sept 2026.
 
 donofrio is a house and techno artist tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside Mike Servito, Makadsi and Nita Aviance. Next up: Club Rawhide, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ donofrio is a house and techno artist tracked on soundcheck, with 22 sets logged
 
 Mike Servito, Makadsi, Nita Aviance
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donofrio/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donofrio/)*

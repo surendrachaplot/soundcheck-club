@@ -1,6 +1,6 @@
 # Taopi
 
-Taopi is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at White Space Lab, Tokyo on Fri, 11 Sept 2026.
+Taopi is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at White Space Lab, Tokyo on Fri, 11 Sept 2026.
 
 Taopi is a minimal and house artist based in Japan, tracked on soundcheck, with 60 sets logged across Tokyo. Often billed alongside Bi-Polar, Rimo and Air.. Next up: White Space Lab, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Taopi is a minimal and house artist based in Japan, tracked on soundcheck, with 
 
 Bi-Polar, Rimo, Air.
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taopi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taopi/)*

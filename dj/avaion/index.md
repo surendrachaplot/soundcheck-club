@@ -1,6 +1,6 @@
 # AVAION
 
-AVAION is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+AVAION is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 AVAION is a techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Basel, Berlin, Brussels and Cologne and 4 more. Often billed alongside Cloudy, Ben Dust and Dennis Reif. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ AVAION is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Cloudy, Ben Dust, Dennis Reif
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avaion/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avaion/)*

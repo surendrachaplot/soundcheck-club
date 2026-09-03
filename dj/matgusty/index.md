@@ -1,6 +1,6 @@
 # Mat Gusty
 
-Mat Gusty is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
+Mat Gusty is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
 
 Mat Gusty is a house and tech house artist tracked on soundcheck, with 11 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside AAT (NL), M-High and Boris Coelman. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mat Gusty is a house and tech house artist tracked on soundcheck, with 11 sets l
 
 AAT (NL), M-High, Boris Coelman
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matgusty/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matgusty/)*

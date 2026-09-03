@@ -1,6 +1,6 @@
 # WVCHWY
 
-WVCHWY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 12 Sept 2026.
+WVCHWY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 12 Sept 2026.
 
 WVCHWY is a techno and house artist based in Australia, tracked on soundcheck, with 18 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Bertie, Hannah D and Mikalah Watego. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ WVCHWY is a techno and house artist based in Australia, tracked on soundcheck, w
 
 Bertie, Hannah D, Mikalah Watego
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wvchwy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wvchwy/)*

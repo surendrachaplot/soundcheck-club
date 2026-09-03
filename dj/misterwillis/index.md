@@ -1,6 +1,6 @@
 # Mister Willis
 
-Mister Willis is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at FOLD, London on Sat, 10 Oct 2026.
+Mister Willis is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at FOLD, London on Sat, 10 Oct 2026.
 
 Mister Willis is a techno and house artist tracked on soundcheck, with 45 sets logged across Berlin, London, Manchester and Munich and 5 more. Often billed alongside Sparkling Water Dreams, Calcium Channel and Blasha & Allatt. Next up: FOLD, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Mister Willis is a techno and house artist tracked on soundcheck, with 45 sets l
 
 Sparkling Water Dreams, Calcium Channel, Blasha & Allatt
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwillis/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwillis/)*

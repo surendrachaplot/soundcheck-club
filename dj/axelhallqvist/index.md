@@ -1,6 +1,6 @@
 # Axel Hallqvist
 
-Axel Hallqvist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at House of Q, Stockholm on Sat, 12 Sept 2026.
+Axel Hallqvist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at House of Q, Stockholm on Sat, 12 Sept 2026.
 
 Axel Hallqvist is a house and techno artist tracked on soundcheck, with 10 sets logged across Stockholm. Often billed alongside Rickard Ehn, Anthony Linell and Harald Björk. Next up: House of Q, Stockholm on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Axel Hallqvist is a house and techno artist tracked on soundcheck, with 10 sets 
 
 Rickard Ehn, Anthony Linell, Harald Björk
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axelhallqvist/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axelhallqvist/)*

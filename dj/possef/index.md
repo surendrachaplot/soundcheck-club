@@ -1,6 +1,6 @@
 # POSSEF
 
-POSSEF is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 20 Sept 2026.
+POSSEF is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 20 Sept 2026.
 
 POSSEF is a house and experimental artist tracked on soundcheck, with 37 sets logged across Barcelona. Often billed alongside Mat Spiaggi, Vennegur and mves. Next up: Almar Beach Club, Barcelona on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ POSSEF is a house and experimental artist tracked on soundcheck, with 37 sets lo
 
 Mat Spiaggi, Vennegur, mves
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/possef/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/possef/)*

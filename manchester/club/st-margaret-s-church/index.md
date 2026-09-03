@@ -1,6 +1,6 @@
 # St. Margaret's Church
 
-St. Margaret's Church is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "The Point is Matter presents; Bobby Ingham, Lili Holland-Fricke, Siren & Deaf Loop (DJ)" on Sun, 4 Oct 2026.
+St. Margaret's Church is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "The Point is Matter presents; Bobby Ingham, Lili Holland-Fricke, Siren & Deaf Loop (DJ)" on Sun, 4 Oct 2026.
 
 St. Margaret's Church is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rufford Rd, Whalley Range, Manchester M16 8AE.
 
@@ -14,4 +14,4 @@ St. Margaret's Church is a music venue in Manchester listed on soundcheck. 1 upc
 
 Rufford Rd, Whalley Range, Manchester M16 8AE, Manchester
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/st-margaret-s-church/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/st-margaret-s-church/)*

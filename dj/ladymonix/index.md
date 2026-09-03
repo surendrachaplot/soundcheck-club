@@ -1,6 +1,6 @@
 # LADYMONIX
 
-LADYMONIX is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at MotorCity Wine, Detroit on Sun, 6 Sept 2026.
+LADYMONIX is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at MotorCity Wine, Detroit on Sun, 6 Sept 2026.
 
 LADYMONIX is a house and techno artist tracked on soundcheck, with 153 sets logged across Berlin, Boston, Chicago and Detroit and 17 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: MotorCity Wine, Detroit on Sun 6 Sept.
 
@@ -29,4 +29,4 @@ LADYMONIX is a house and techno artist tracked on soundcheck, with 153 sets logg
 
 Rimarkable, Waajeed, Stacey Hotwaxx Hale
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*

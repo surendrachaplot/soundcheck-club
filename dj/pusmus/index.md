@@ -1,6 +1,6 @@
 # PUSMUS
 
-PUSMUS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Atlantic Club, Barcelona on Sat, 5 Sept 2026.
+PUSMUS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Atlantic Club, Barcelona on Sat, 5 Sept 2026.
 
 PUSMUS is a techno and trance artist based in Croatia, tracked on soundcheck, with 6 sets logged across Barcelona, Budapest and Krakow. Often billed alongside ALGAYEV, CCSC and Cendales. Next up: Atlantic Club, Barcelona on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ PUSMUS is a techno and trance artist based in Croatia, tracked on soundcheck, wi
 
 ALGAYEV, CCSC, Cendales
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pusmus/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pusmus/)*

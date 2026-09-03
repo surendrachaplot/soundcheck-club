@@ -1,6 +1,6 @@
 # Amarou
 
-Amarou is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Hasard Ludique, Paris on Sat, 12 Sept 2026.
+Amarou is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Le Hasard Ludique, Paris on Sat, 12 Sept 2026.
 
 Amarou is a techno and house artist based in France, tracked on soundcheck, with 14 sets logged across Paris. Often billed alongside -ddd-, Aurèle and Anima Ex Sana. Next up: Le Hasard Ludique, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Amarou is a techno and house artist based in France, tracked on soundcheck, with
 
 -ddd-, Aurèle, Anima Ex Sana
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amarou/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amarou/)*

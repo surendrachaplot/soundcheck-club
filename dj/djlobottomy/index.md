@@ -1,6 +1,6 @@
 # @djlobottomy
 
-@djlobottomy is a Latin Bass and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Beauty Bar, San Francisco/Oakland on Sat, 19 Sept 2026.
+@djlobottomy is a Latin Bass and Guaracha artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Beauty Bar, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 @djlobottomy is a latin bass and guaracha artist based in United States of America, tracked on soundcheck, with 25 sets logged across Sanfrancisco. Often billed alongside xtcemi, Martyr Princess and Maznoize. Next up: Beauty Bar, Sanfrancisco on Sat 19 Sept.
 
@@ -26,4 +26,4 @@
 
 xtcemi, Martyr Princess, Maznoize
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlobottomy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlobottomy/)*

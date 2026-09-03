@@ -1,6 +1,6 @@
 # KLOE
 
-KLOE is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
+KLOE is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
 
 KLOE is a techno and minimal techno artist based in Spain, tracked on soundcheck, with 33 sets logged across Berlin, Ibiza and Madrid. Often billed alongside FORTUNATA, KITAE and Lexmax. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ KLOE is a techno and minimal techno artist based in Spain, tracked on soundcheck
 
 FORTUNATA, KITAE, Lexmax
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloe/)*

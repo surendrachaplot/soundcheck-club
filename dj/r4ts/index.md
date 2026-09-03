@@ -1,6 +1,6 @@
 # R4TS
 
-R4TS is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 3 Oct 2026.
+R4TS is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 3 Oct 2026.
 
 R4TS is a techno and hardcore artist based in Canada, tracked on soundcheck, with 25 sets logged across Toronto. Often billed alongside KILL 9 1, MVCHE and Maul (2). Next up: 821 Runnymede Rd, Toronto on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ R4TS is a techno and hardcore artist based in Canada, tracked on soundcheck, wit
 
 KILL 9 1, MVCHE, Maul (2)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r4ts/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r4ts/)*

@@ -1,6 +1,6 @@
 # Nordstern
 
-Nordstern is a music venue in Basel with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Maddix" on Fri, 4 Sept 2026.
+Nordstern is a music venue in Basel with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Maddix" on Fri, 4 Sept 2026.
 
 Nordstern is a music venue in Basel listed on soundcheck. 10 upcoming nights, with line-ups including Agape Kid, Alay, Anfisa Letyago and Chiara Fucci and 2 more. Browse upcoming dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
 
@@ -23,4 +23,4 @@ Nordstern is a music venue in Basel listed on soundcheck. 10 upcoming nights, wi
 
 Westquaistrasse 19; 4057 Basel; Switzerland, Basel
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*

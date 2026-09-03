@@ -1,6 +1,6 @@
 # Newa
 
-Newa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at FOLD, London on Sat, 5 Sept 2026.
+Newa is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at FOLD, London on Sat, 5 Sept 2026.
 
 Newa is a techno and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Berlin and Brussels and 20 more. Often billed alongside Kancheli, Ndrx and Kvanchi. Next up: FOLD, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Newa is a techno and house artist tracked on soundcheck, with 130 sets logged ac
 
 Kancheli, Ndrx, Kvanchi
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*

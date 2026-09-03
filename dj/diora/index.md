@@ -1,6 +1,6 @@
 # DIORA
 
-DIORA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 16 Toneladas, Valencia on Fri, 25 Sept 2026.
+DIORA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 16 Toneladas, Valencia on Fri, 25 Sept 2026.
 
 DIORA is a techno and house artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 7 more. Often billed alongside Slimfit, BARROSKINI and angelboy. Next up: 16 Toneladas, Valencia on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DIORA is a techno and house artist tracked on soundcheck, with 63 sets logged ac
 
 Slimfit, BARROSKINI, angelboy
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diora/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diora/)*

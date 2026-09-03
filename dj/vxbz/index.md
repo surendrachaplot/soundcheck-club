@@ -1,6 +1,6 @@
 # VXBZ
 
-VXBZ is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Basel on Sat, 5 Sept 2026.
+VXBZ is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Basel on Sat, 5 Sept 2026.
 
 VXBZ is a trance and techno artist tracked on soundcheck, with 5 sets logged across Basel. Often billed alongside IULIATSKI, Galopp and L.zwo. Next up: TBA, Basel on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ VXBZ is a trance and techno artist tracked on soundcheck, with 5 sets logged acr
 
 IULIATSKI, Galopp, L.zwo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vxbz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vxbz/)*

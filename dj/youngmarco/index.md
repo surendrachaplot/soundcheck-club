@@ -1,6 +1,6 @@
 # Young Marco
 
-Young Marco is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 4 Sept 2026.
+Young Marco is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 4 Sept 2026.
 
 Young Marco is a house and techno artist tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 64 more. Often billed alongside Job Jobse, DJ Gigola and Narciss. Next up: Hï Ibiza, Ibiza on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Young Marco is a house and techno artist tracked on soundcheck, with 213 sets lo
 
 Job Jobse, DJ Gigola, Narciss
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmarco/)*

@@ -1,6 +1,6 @@
 # qanossonap
 
-qanossonap is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Patision65, Athens on Fri, 4 Sept 2026.
+qanossonap is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Patision65, Athens on Fri, 4 Sept 2026.
 
 qanossonap is a bass and experimental artist tracked on soundcheck, with 8 sets logged across Athens. Often billed alongside Vlennes, 555ivas and Baggymilziade. Next up: Patision65, Athens on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ qanossonap is a bass and experimental artist tracked on soundcheck, with 8 sets 
 
 Vlennes, 555ivas, Baggymilziade
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qanossonap/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qanossonap/)*

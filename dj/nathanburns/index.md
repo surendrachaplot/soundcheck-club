@@ -1,6 +1,6 @@
 # Nathan Burns
 
-Nathan Burns is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Salon Daomé, Montreal on Sun, 6 Sept 2026.
+Nathan Burns is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Salon Daomé, Montreal on Sun, 6 Sept 2026.
 
 Nathan Burns is a minimal and house artist tracked on soundcheck, with 27 sets logged across Boston, Montreal and Nashville. Often billed alongside Queenie Jr, Guillaume Michaud and Clochette. Next up: Salon Daomé, Montreal on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Nathan Burns is a minimal and house artist tracked on soundcheck, with 27 sets l
 
 Queenie Jr, Guillaume Michaud, Clochette
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanburns/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanburns/)*

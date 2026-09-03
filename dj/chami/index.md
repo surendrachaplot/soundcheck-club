@@ -1,6 +1,6 @@
 # Chami
 
-Chami is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at OHM, Berlin on Sat, 5 Sept 2026.
+Chami is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at OHM, Berlin on Sat, 5 Sept 2026.
 
 Chami is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Basel and 26 more. Often billed alongside Olivia Mendez, OPH and Amotik. Next up: OHM, Berlin on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Chami is a techno and house artist tracked on soundcheck, with 108 sets logged a
 
 Olivia Mendez, OPH, Amotik
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*

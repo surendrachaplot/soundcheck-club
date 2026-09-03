@@ -1,6 +1,6 @@
 # Jack DiY
 
-Jack DiY is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Movers, Nottingham on Sat, 26 Sept 2026.
+Jack DiY is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Movers, Nottingham on Sat, 26 Sept 2026.
 
 Jack DiY is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Ibiza, London and Nottingham. Often billed alongside Grace Sands, Bart Ricardo and Girls of the Internet. Next up: Movers, Nottingham on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Jack DiY is a deep house and house artist based in United Kingdom, tracked on so
 
 Grace Sands, Bart Ricardo, Girls of the Internet
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackdiy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackdiy/)*

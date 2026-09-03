@@ -1,6 +1,6 @@
 # RAAUL
 
-RAAUL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at MAD Radio NYC, New York City on Sun, 6 Sept 2026.
+RAAUL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at MAD Radio NYC, New York City on Sun, 6 Sept 2026.
 
 RAAUL is a house and techno artist based in United States of America, tracked on soundcheck, with 37 sets logged across Miami and Newyorkcity. Often billed alongside Miguel Gallardo, Raw Phonics and Armii1n. Next up: MAD Radio NYC, Newyorkcity on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ RAAUL is a house and techno artist based in United States of America, tracked on
 
 Miguel Gallardo, Raw Phonics, Armii1n
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raaul/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raaul/)*

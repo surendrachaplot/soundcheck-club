@@ -1,6 +1,6 @@
 # Marcustic
 
-Marcustic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Atelie Gallery, Oslo on Thu, 3 Sept 2026.
+Marcustic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Atelie Gallery, Oslo on Thu, 3 Sept 2026.
 
 Marcustic is a house and techno artist based in Norway, tracked on soundcheck, with 9 sets logged across Bangkok and Oslo. Often billed alongside Tom Aquilina, Brent Burns and DJ Praw. Next up: Atelie Gallery, Oslo on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Marcustic is a house and techno artist based in Norway, tracked on soundcheck, w
 
 Tom Aquilina, Brent Burns, DJ Praw
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcustic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcustic/)*

@@ -1,6 +1,6 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 4 Sept 2026.
+Blasha & Allatt is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 4 Sept 2026.
 
 Blasha & Allatt are a techno and house duo tracked on soundcheck, with 279 sets logged across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Studio Club Malaga, Malaga on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Blasha & Allatt are a techno and house duo tracked on soundcheck, with 279 sets 
 
 aalice, Steffi, Freddy K
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

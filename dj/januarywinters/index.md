@@ -1,6 +1,6 @@
 # January Winters
 
-January Winters is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pygmalion, Dublin on Fri, 4 Sept 2026.
+January Winters is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Pygmalion, Dublin on Fri, 4 Sept 2026.
 
 January Winters is a house and acid artist tracked on soundcheck, with 41 sets logged across Dublin. Often billed alongside Colin Perkins, Cam Roberts and DJ Deece. Next up: Pygmalion, Dublin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ January Winters is a house and acid artist tracked on soundcheck, with 41 sets l
 
 Colin Perkins, Cam Roberts, DJ Deece
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/januarywinters/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/januarywinters/)*

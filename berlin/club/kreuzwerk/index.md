@@ -1,6 +1,6 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "SWEAT" on Fri, 4 Sept 2026.
+KREUZWERK is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SWEAT" on Fri, 4 Sept 2026.
 
 KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 131bpm, Aaron Blau, ADAM MUNNINGS and Alírio and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
@@ -23,4 +23,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 11 upcoming nights, w
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

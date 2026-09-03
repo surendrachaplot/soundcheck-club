@@ -1,6 +1,6 @@
 # In The Hanging Garden
 
-In The Hanging Garden is a music venue in Hobart with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Danny Rankin (UK / KURUPT FM)" on Sat, 12 Sept 2026.
+In The Hanging Garden is a music venue in Hobart with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Danny Rankin (UK / KURUPT FM)" on Sat, 12 Sept 2026.
 
 In The Hanging Garden is a music venue in Hobart listed on soundcheck. 2 upcoming nights, with line-ups including Danny Rankin and James Massiah. Browse upcoming dates, start times and who's playing. 112 Murray Street, Hobart Tasmania, Australia, 7000.
 
@@ -15,4 +15,4 @@ In The Hanging Garden is a music venue in Hobart listed on soundcheck. 2 upcomin
 
 112 Murray Street, Hobart Tasmania, Australia, 7000, Hobart
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/in-the-hanging-garden/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/in-the-hanging-garden/)*

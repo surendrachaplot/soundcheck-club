@@ -1,6 +1,6 @@
 # KPODKPOD
 
-KPODKPOD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Dual, Bangkok on Sat, 5 Sept 2026.
+KPODKPOD is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Dual, Bangkok on Sat, 5 Sept 2026.
 
 KPODKPOD is a house and techno artist based in Thailand, tracked on soundcheck, with 29 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside KWH (DE), DJ Krit Morton and Elaheh. Next up: Dual, Bangkok on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ KPODKPOD is a house and techno artist based in Thailand, tracked on soundcheck, 
 
 KWH (DE), DJ Krit Morton, Elaheh
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kpodkpod/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kpodkpod/)*

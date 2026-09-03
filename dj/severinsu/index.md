@@ -1,6 +1,6 @@
 # Severin Su
 
-Severin Su is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
+Severin Su is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
 
 Severin Su is a house and baile funk artist tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona, Prague and Vienna. Often billed alongside Julian Koerndl, Jonas Thoma and 4-TE. Next up: Cut Throat, Amsterdam on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Severin Su is a house and baile funk artist tracked on soundcheck, with 7 sets l
 
 Julian Koerndl, Jonas Thoma, 4-TE
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/severinsu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/severinsu/)*

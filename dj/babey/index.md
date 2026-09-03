@@ -1,6 +1,6 @@
 # babey
 
-babey is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Beat Boutique, Hamburg on Sat, 26 Sept 2026.
+babey is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Beat Boutique, Hamburg on Sat, 26 Sept 2026.
 
 babey is a tech house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Hamburg. Often billed alongside STOECKER_ and NoraDrenalin. Next up: Beat Boutique, Hamburg on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ babey is a tech house and techno artist based in Germany, tracked on soundcheck,
 
 STOECKER_, NoraDrenalin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babey/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babey/)*

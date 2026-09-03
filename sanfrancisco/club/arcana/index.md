@@ -1,6 +1,6 @@
 # Arcana
 
-Arcana is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "GIVE UNTIL GONE" on Sat, 5 Sept 2026.
+Arcana is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "GIVE UNTIL GONE" on Sat, 5 Sept 2026.
 
 Arcana is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including Albion Street Music, cstr, Lossless Wax and Monoclick and 2 more. Browse upcoming dates, start times and who's playing. 2512 Mission St, San Francisco.
 
@@ -20,4 +20,4 @@ Arcana is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights,
 
 2512 Mission St, San Francisco, San Francisco/Oakland
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*

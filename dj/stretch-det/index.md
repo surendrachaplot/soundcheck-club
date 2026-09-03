@@ -1,6 +1,6 @@
 # Stretch (DET)
 
-Stretch (DET) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Stretch (DET) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Stretch (DET) is a house and minimal artist based in United States of America, tracked on soundcheck, with 37 sets logged across Berlin, Boston, Chicago and Detroit and 6 more. Often billed alongside Shaun Reeves, Cesar Merveille and Andrea Ghita. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Stretch (DET) is a house and minimal artist based in United States of America, t
 
 Shaun Reeves, Cesar Merveille, Andrea Ghita
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stretch-det/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stretch-det/)*

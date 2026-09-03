@@ -1,6 +1,6 @@
 # BABEITSPURR
 
-BABEITSPURR is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Bain, New York City on Sun, 6 Sept 2026.
+BABEITSPURR is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Le Bain, New York City on Sun, 6 Sept 2026.
 
 BABEITSPURR is a club and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Newyorkcity. Often billed alongside BEYBLADE SHAWTY, Petal and FLWRSHRK. Next up: Le Bain, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ BABEITSPURR is a club and techno artist based in United States of America, track
 
 BEYBLADE SHAWTY, Petal, FLWRSHRK
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babeitspurr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babeitspurr/)*

@@ -1,6 +1,6 @@
 # Terence Tabeau
 
-Terence Tabeau is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+Terence Tabeau is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
 
 Terence Tabeau is a house and disco artist tracked on soundcheck, with 56 sets logged across Austin, Miami, Osaka and Tokyo. Often billed alongside Will Renuart, Artime and Danny Daze. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Terence Tabeau is a house and disco artist tracked on soundcheck, with 56 sets l
 
 Will Renuart, Artime, Danny Daze
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*

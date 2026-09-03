@@ -1,6 +1,6 @@
 # Daniel Santiago
 
-Daniel Santiago is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Toldi Klub, Budapest on Sat, 3 Oct 2026.
+Daniel Santiago is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Toldi Klub, Budapest on Sat, 3 Oct 2026.
 
 Daniel Santiago is a house and deep house artist based in Hungary, tracked on soundcheck, with 30 sets logged across Budapest. Often billed alongside Daniel Moritz, Mirmur and Maron. Next up: Toldi Klub, Budapest on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Daniel Santiago is a house and deep house artist based in Hungary, tracked on so
 
 Daniel Moritz, Mirmur, Maron
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielsantiago/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielsantiago/)*

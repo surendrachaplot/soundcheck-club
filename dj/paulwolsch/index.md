@@ -1,6 +1,6 @@
 # Paul Wolsch
 
-Paul Wolsch is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 4 Sept 2026.
+Paul Wolsch is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 4 Sept 2026.
 
 Paul Wolsch is a house and techno artist based in Costa Rica, tracked on soundcheck, with 31 sets logged across Athens, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Al Jones, BOYCA and Mae Happyair. Next up: Den Anden Side, Copenhagen on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Paul Wolsch is a house and techno artist based in Costa Rica, tracked on soundch
 
 Al Jones, BOYCA, Mae Happyair
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolsch/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolsch/)*

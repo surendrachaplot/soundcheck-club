@@ -1,6 +1,6 @@
 # Clark
 
-Clark is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Loft, Vienna on Fri, 4 Sept 2026.
+Clark is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Loft, Vienna on Fri, 4 Sept 2026.
 
 Clark is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside THNK PNK, ALFREDT and Job Jobse. Next up: The Loft, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Clark is a techno and electronica artist based in United Kingdom, tracked on sou
 
 THNK PNK, ALFREDT, Job Jobse
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clark/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clark/)*

@@ -1,6 +1,6 @@
 # Emmaculate
 
-Emmaculate is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Cara Cara Club, Chicago on Thu, 3 Sept 2026.
+Emmaculate is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cara Cara Club, Chicago on Thu, 3 Sept 2026.
 
 Emmaculate is a house and deep house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Amsterdam, Chicago, Detroit and Edinburgh and 5 more. Often billed alongside Terry Hunter, Adorio and Quicktastic. Next up: Cara Cara Club, Chicago on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Emmaculate is a house and deep house artist based in United States of America, t
 
 Terry Hunter, Adorio, Quicktastic
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaculate/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaculate/)*

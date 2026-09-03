@@ -1,6 +1,6 @@
 # The Smoot Standard
 
-The Smoot Standard is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "House Of Yee: Saturday Sessions" on Sat, 19 Sept 2026.
+The Smoot Standard is a music venue in Boston with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "House Of Yee: Saturday Sessions" on Sat, 19 Sept 2026.
 
 The Smoot Standard is a music venue in Boston listed on soundcheck. 3 upcoming nights, with line-ups including DJ Yee and Rob Philmar. Browse upcoming dates, start times and who's playing. 313 Massachusetts Ave, Cambridge, MA 02139, USA.
 
@@ -16,4 +16,4 @@ The Smoot Standard is a music venue in Boston listed on soundcheck. 3 upcoming n
 
 313 Massachusetts Ave, Cambridge, MA 02139, USA, Boston
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-smoot-standard/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-smoot-standard/)*

@@ -1,6 +1,6 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
+Ben Klock is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
 
 Ben Klock is a techno and house artist tracked on soundcheck, with 248 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 55 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Junkyard Dortmund, Dortmund-essen on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ Ben Klock is a techno and house artist tracked on soundcheck, with 248 sets logg
 
 Marcel Dettmann, Fadi Mohem, Rødhåd
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

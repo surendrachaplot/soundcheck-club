@@ -1,6 +1,6 @@
 # pokka
 
-pokka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
+pokka is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
 
 pokka is a house and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Basel, Berlin, Hamburg and Leipzig. Often billed alongside Thomas Stieler, Uferkind and ANKA (2). Next up: Holdenweid, Basel on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ pokka is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Thomas Stieler, Uferkind, ANKA (2)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pokka/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pokka/)*

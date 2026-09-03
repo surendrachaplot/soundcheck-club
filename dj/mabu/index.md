@@ -1,6 +1,6 @@
 # Mabu
 
-Mabu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
+Mabu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
 
 Mabu is a house and techno artist based in Poland, tracked on soundcheck, with 70 sets logged across Berlin and Warsaw. Often billed alongside HANICZ, KEVS and KoZa. Next up: Kater, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mabu is a house and techno artist based in Poland, tracked on soundcheck, with 7
 
 HANICZ, KEVS, KoZa
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mabu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mabu/)*

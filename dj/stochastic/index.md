@@ -1,6 +1,6 @@
 # Stochastic
 
-Stochastic is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Stochastic is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Stochastic is a house and progressive house artist based in Greece, tracked on soundcheck, with 15 sets logged across Athens and Nashville. Often billed alongside Falsa Magra (2), Adam Des and Bakerman. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Stochastic is a house and progressive house artist based in Greece, tracked on s
 
 Falsa Magra (2), Adam Des, Bakerman
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stochastic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stochastic/)*

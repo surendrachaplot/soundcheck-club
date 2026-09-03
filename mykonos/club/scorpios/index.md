@@ -1,6 +1,6 @@
 # Scorpios
 
-Scorpios is a music venue in Mykonos with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Jean Claude Ades B2B Alex Kennon, Ede" on Thu, 3 Sept 2026.
+Scorpios is a music venue in Mykonos with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Jean Claude Ades B2B Alex Kennon, Ede" on Thu, 3 Sept 2026.
 
 Scorpios is a music venue in Mykonos listed on soundcheck. 8 upcoming nights, with line-ups including Alex Kennon, Âme, Damian Lazarus and Dixon and 2 more. Browse upcoming dates, start times and who's playing. Paraga, Mikonos 846 00, Greece.
 
@@ -21,4 +21,4 @@ Scorpios is a music venue in Mykonos listed on soundcheck. 8 upcoming nights, wi
 
 Paraga, Mikonos 846 00, Greece, Mykonos
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/scorpios/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/mykonos/club/scorpios/)*

@@ -1,6 +1,6 @@
 # FØSS
 
-FØSS is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Garage Klub, Antwerp on Fri, 18 Sept 2026.
+FØSS is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Garage Klub, Antwerp on Fri, 18 Sept 2026.
 
 FØSS is a techno and hardcore artist tracked on soundcheck, with 39 sets logged across Antwerp, Berlin, Brussels and Cologne and 8 more. Often billed alongside Fenrick, B2 (1) and DURDENHAUER. Next up: Garage Klub, Antwerp on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ FØSS is a techno and hardcore artist tracked on soundcheck, with 39 sets logged
 
 Fenrick, B2 (1), DURDENHAUER
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foss-ca/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foss-ca/)*

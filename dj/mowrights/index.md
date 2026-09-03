@@ -1,6 +1,6 @@
 # Mo Wrights
 
-Mo Wrights is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Doka, Amsterdam on Sun, 27 Sept 2026.
+Mo Wrights is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Doka, Amsterdam on Sun, 27 Sept 2026.
 
 Mo Wrights is a house and disco artist tracked on soundcheck, with 33 sets logged across Amsterdam and London. Often billed alongside Lucas Benjamin, Razzmic and Pelanoir. Next up: Doka, Amsterdam on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Mo Wrights is a house and disco artist tracked on soundcheck, with 33 sets logge
 
 Lucas Benjamin, Razzmic, Pelanoir
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mowrights/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mowrights/)*

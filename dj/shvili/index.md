@@ -1,6 +1,6 @@
 # Shvili
 
-Shvili is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Under the K Bridge, New York City on Sat, 5 Sept 2026.
+Shvili is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Under the K Bridge, New York City on Sat, 5 Sept 2026.
 
 Shvili is a house and techno artist tracked on soundcheck, with 124 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside Max Sprauer, CAMILLA and Maksim. Next up: Under the K Bridge, Newyorkcity on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Shvili is a house and techno artist tracked on soundcheck, with 124 sets logged 
 
 Max Sprauer, CAMILLA, Maksim
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*

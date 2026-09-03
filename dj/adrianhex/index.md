@@ -1,6 +1,6 @@
 # Adrian Hex
 
-Adrian Hex is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Good Room, New York City on Thu, 24 Sept 2026.
+Adrian Hex is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Good Room, New York City on Thu, 24 Sept 2026.
 
 Adrian Hex is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Berlin, Detroit, Newyorkcity and Washingtondc. Often billed alongside Secret Raver, STE-VÍ and jay york. Next up: Good Room, Newyorkcity on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Adrian Hex is a techno and minimal techno artist based in United States of Ameri
 
 Secret Raver, STE-VÍ, jay york
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianhex/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianhex/)*

@@ -1,6 +1,6 @@
 # Ender
 
-Ender is a Hardcore and Industrial artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fabrik, Madrid on Sat, 19 Sept 2026.
+Ender is a Hardcore and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fabrik, Madrid on Sat, 19 Sept 2026.
 
 Ender is a hardcore and industrial artist tracked on soundcheck, with 13 sets logged across Frankfurt, Madrid and Tokyo. Often billed alongside Yeyo, Angerfist and Dimitri K. Next up: Fabrik, Madrid on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Ender is a hardcore and industrial artist tracked on soundcheck, with 13 sets lo
 
 Yeyo, Angerfist, Dimitri K
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ender/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ender/)*

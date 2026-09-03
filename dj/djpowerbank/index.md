@@ -1,6 +1,6 @@
 # DJ Powerbank
 
-DJ Powerbank is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mindener Straße Unter dem Ostwestfalendamm, Bielefeld on Sat, 19 Sept 2026.
+DJ Powerbank is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mindener Straße Unter dem Ostwestfalendamm, Bielefeld on Sat, 19 Sept 2026.
 
 DJ Powerbank is an electronic artist tracked on soundcheck, with 9 sets logged across Berlin, Bielefeld, Cologne and Hamburg and 1 more. Often billed alongside Plattenlieferant, AEZARYA and AbuGlitsch. Next up: Mindener Straße Unter dem Ostwestfalendamm, Bielefeld on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Powerbank is an electronic artist tracked on soundcheck, with 9 sets logged a
 
 Plattenlieferant, AEZARYA, AbuGlitsch
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpowerbank/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpowerbank/)*

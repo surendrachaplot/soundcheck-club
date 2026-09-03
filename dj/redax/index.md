@@ -1,6 +1,6 @@
 # Redax
 
-Redax is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Northern Lights Lounge, Detroit on Fri, 11 Sept 2026.
+Redax is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Northern Lights Lounge, Detroit on Fri, 11 Sept 2026.
 
 Redax is a techno and house artist based in Lebanon, tracked on soundcheck, with 42 sets logged across Detroit. Often billed alongside Pariz, Kassak and DJ Candor. Next up: Northern Lights Lounge, Detroit on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Redax is a techno and house artist based in Lebanon, tracked on soundcheck, with
 
 Pariz, Kassak, DJ Candor
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redax/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redax/)*

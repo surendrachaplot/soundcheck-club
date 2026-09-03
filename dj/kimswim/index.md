@@ -1,6 +1,6 @@
 # KIM SWIM
 
-KIM SWIM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mondo, Madrid on Thu, 3 Sept 2026.
+KIM SWIM is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mondo, Madrid on Thu, 3 Sept 2026.
 
 KIM SWIM is a techno and trance artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Basel and Berlin and 19 more. Often billed alongside Mika Heggemann, Trancemaster Krause and Alba Franch. Next up: Mondo, Madrid on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ KIM SWIM is a techno and trance artist tracked on soundcheck, with 105 sets logg
 
 Mika Heggemann, Trancemaster Krause, Alba Franch
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimswim/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimswim/)*

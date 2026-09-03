@@ -1,6 +1,6 @@
 # Fuunkt
 
-Fuunkt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
+Fuunkt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
 
 Fuunkt is a techno and house artist tracked on soundcheck, with 59 sets logged across Berlin and Krakow. Often billed alongside nuarrrrr, ATIKIN and albeiro. Next up: TBA, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Fuunkt is a techno and house artist tracked on soundcheck, with 59 sets logged a
 
 nuarrrrr, ATIKIN, albeiro
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fuunkt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fuunkt/)*

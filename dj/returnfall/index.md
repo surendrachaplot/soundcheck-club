@@ -1,6 +1,6 @@
 # Return Fall
 
-Return Fall is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Fundbureau, Hamburg on Fri, 18 Sept 2026.
+Return Fall is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fundbureau, Hamburg on Fri, 18 Sept 2026.
 
 Return Fall is a techno and trance artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Hamburg and Munich and 2 more. Often billed alongside Alexej, JASHTECH and NELØ. Next up: Fundbureau, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Return Fall is a techno and trance artist based in Germany, tracked on soundchec
 
 Alexej, JASHTECH, NELØ
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/returnfall/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/returnfall/)*

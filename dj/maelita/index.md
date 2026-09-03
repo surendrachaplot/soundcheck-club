@@ -1,6 +1,6 @@
 # Maelita
 
-Maelita is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Unité.22, Marseille on Fri, 18 Sept 2026.
+Maelita is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Unité.22, Marseille on Fri, 18 Sept 2026.
 
 Maelita is a techno and breakbeat artist based in France, tracked on soundcheck, with 45 sets logged across Berlin, Brussels, Glasgow and Lyon and 4 more. Often billed alongside Subsism, Lumbago and Hyas. Next up: Unité.22, Marseille on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Maelita is a techno and breakbeat artist based in France, tracked on soundcheck,
 
 Subsism, Lumbago, Hyas
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maelita/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maelita/)*

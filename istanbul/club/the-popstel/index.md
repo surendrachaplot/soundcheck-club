@@ -1,6 +1,6 @@
 # The Popstel
 
-The Popstel is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Popstel presents Stay Local: u.r.trax" on Fri, 4 Sept 2026.
+The Popstel is a music venue in Istanbul with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Popstel presents Stay Local: u.r.trax" on Fri, 4 Sept 2026.
 
 The Popstel is a music venue in Istanbul listed on soundcheck. 1 upcoming night, with line-ups including BasicDisarm and u.r.trax. Browse upcoming dates, start times and who's playing. Firuzağa, Hayriye Cd. NO:2, 34425 Beyoğlu, İstanbul.
 
@@ -14,4 +14,4 @@ The Popstel is a music venue in Istanbul listed on soundcheck. 1 upcoming night,
 
 Firuzağa, Hayriye Cd. NO:2, 34425 Beyoğlu, İstanbul, Istanbul
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/the-popstel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/the-popstel/)*

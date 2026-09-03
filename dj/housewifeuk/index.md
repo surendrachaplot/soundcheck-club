@@ -1,6 +1,6 @@
 # Housewife (UK)
 
-Housewife (UK) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Phonox, London on Thu, 17 Sept 2026.
+Housewife (UK) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Phonox, London on Thu, 17 Sept 2026.
 
 Housewife (UK) is a tech house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Duwat?, Francesco Poggi and Pedro (IT). Next up: Phonox, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Housewife (UK) is a tech house and techno artist based in United Kingdom, tracke
 
 Duwat?, Francesco Poggi, Pedro (IT)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/housewifeuk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/housewifeuk/)*

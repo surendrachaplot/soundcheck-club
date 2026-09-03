@@ -1,6 +1,6 @@
 # N.AOKI
 
-N.AOKI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 11 Sept 2026.
+N.AOKI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 11 Sept 2026.
 
 N.AOKI is a techno and house artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside YOSHI KANOU, AiMii and Luke Hobbs. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ N.AOKI is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 YOSHI KANOU, AiMii, Luke Hobbs
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n.aoki/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n.aoki/)*

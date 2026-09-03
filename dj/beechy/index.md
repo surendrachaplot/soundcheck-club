@@ -1,6 +1,6 @@
 # Beechy
 
-Beechy is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at renae, Manchester on Thu, 3 Sept 2026.
+Beechy is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at renae, Manchester on Thu, 3 Sept 2026.
 
 Beechy is a disco and house artist tracked on soundcheck, with 5 sets logged across Liverpool and Manchester. Often billed alongside AC Groove, BRUIN (UK) and DJ Moo (UK). Next up: renae, Manchester on Thu 3 Sept.
 
@@ -21,4 +21,4 @@ Beechy is a disco and house artist tracked on soundcheck, with 5 sets logged acr
 
 AC Groove, BRUIN (UK), DJ Moo (UK)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*

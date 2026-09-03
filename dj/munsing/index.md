@@ -1,6 +1,6 @@
 # Mun Sing
 
-Mun Sing is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
+Mun Sing is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The White Hotel, Manchester on Fri, 25 Sept 2026.
 
 Mun Sing is an experimental and club artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Bristol and Brussels and 19 more. Often billed alongside Slikback, ASJ and Alex Zhang Hungtai. Next up: The White Hotel, Manchester on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Mun Sing is an experimental and club artist tracked on soundcheck, with 42 sets 
 
 Slikback, ASJ, Alex Zhang Hungtai
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munsing/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munsing/)*

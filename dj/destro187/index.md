@@ -1,6 +1,6 @@
 # Destro187
 
-Destro187 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 618 DC, Washington DC on Sat, 5 Sept 2026.
+Destro187 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 618 DC, Washington DC on Sat, 5 Sept 2026.
 
 Destro187 is a techno and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Detroit, Newyorkcity and Washingtondc. Often billed alongside SPEEDŸ, Alexander Technique and Giovani. Next up: 618 DC, Washingtondc on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Destro187 is a techno and house artist based in United States of America, tracke
 
 SPEEDŸ, Alexander Technique, Giovani
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/destro187/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/destro187/)*

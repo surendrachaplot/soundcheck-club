@@ -1,6 +1,6 @@
 # Nooka Jones
 
-Nooka Jones is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bar Part Time, San Francisco/Oakland on Fri, 4 Sept 2026.
+Nooka Jones is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar Part Time, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 Nooka Jones is a house and ambient artist tracked on soundcheck, with 5 sets logged across Sanfrancisco. Often billed alongside David Siska, Dr. Rek and Joe Rice. Next up: Bar Part Time, Sanfrancisco on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Nooka Jones is a house and ambient artist tracked on soundcheck, with 5 sets log
 
 David Siska, Dr. Rek, Joe Rice
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nookajones/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nookajones/)*

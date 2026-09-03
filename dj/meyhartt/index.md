@@ -1,6 +1,6 @@
 # Meyhartt
 
-Meyhartt is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
+Meyhartt is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
 Meyhartt is a techno and trance artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Leipzig, Prague and Stuttgart. Often billed alongside Jaszaloth, VLUNA and CAVVØ. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Meyhartt is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Jaszaloth, VLUNA, CAVVØ
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meyhartt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meyhartt/)*

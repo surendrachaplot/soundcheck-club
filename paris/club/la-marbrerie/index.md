@@ -1,6 +1,6 @@
 # La Marbrerie
 
-La Marbrerie is a music venue in Paris with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Weightless Remixes - Luxie + Bdstf, Hyas, Stresshead, Swooh" on Sat, 26 Sept 2026.
+La Marbrerie is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Weightless Remixes - Luxie + Bdstf, Hyas, Stresshead, Swooh" on Sat, 26 Sept 2026.
 
 La Marbrerie is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including bdstf, Hyas and Swooh. Browse upcoming dates, start times and who's playing. 21 Rue Alexis Lepere, 93100 Montreuil.
 
@@ -14,4 +14,4 @@ La Marbrerie is a music venue in Paris listed on soundcheck. 1 upcoming night, w
 
 21 Rue Alexis Lepere, 93100 Montreuil, Paris
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-marbrerie/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-marbrerie/)*

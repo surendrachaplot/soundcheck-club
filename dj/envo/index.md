@@ -1,6 +1,6 @@
 # Envo
 
-Envo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - BuDapeSt Master - Kinky and fetish boat, Budapest on Sat, 19 Sept 2026.
+Envo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - BuDapeSt Master - Kinky and fetish boat, Budapest on Sat, 19 Sept 2026.
 
 Envo is a techno and trance artist based in Hungary, tracked on soundcheck, with 10 sets logged across Budapest. Often billed alongside Gingershot and Arash Ete. Next up: TBA - BuDapeSt Master - Kinky and fetish boat, Budapest on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Envo is a techno and trance artist based in Hungary, tracked on soundcheck, with
 
 Gingershot, Arash Ete
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/envo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/envo/)*

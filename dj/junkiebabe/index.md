@@ -1,6 +1,6 @@
 # junkie babe
 
-junkie babe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Azumaya, Tokyo on Tue, 8 Sept 2026.
+junkie babe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Azumaya, Tokyo on Tue, 8 Sept 2026.
 
 junkie babe is a techno and house artist based in Japan, tracked on soundcheck, with 95 sets logged across Tokyo. Often billed alongside Hackmarkt, Da Yama and SIGNAL (JP). Next up: Azumaya, Tokyo on Tue 8 Sept.
 
@@ -26,4 +26,4 @@ junkie babe is a techno and house artist based in Japan, tracked on soundcheck, 
 
 Hackmarkt, Da Yama, SIGNAL (JP)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiebabe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiebabe/)*

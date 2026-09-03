@@ -1,6 +1,6 @@
 # Lisa Korver
 
-Lisa Korver is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+Lisa Korver is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 Lisa Korver is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Ibiza and London and 5 more. Often billed alongside LAMMER, OLIVIA LENSEN and Kyle Starkey. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -32,4 +32,4 @@ Lisa Korver is a techno and house artist tracked on soundcheck, with 67 sets log
 
 LAMMER, OLIVIA LENSEN, Kyle Starkey
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakorver/)*

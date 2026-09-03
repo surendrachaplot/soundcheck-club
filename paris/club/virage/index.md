@@ -1,6 +1,6 @@
 # Virage
 
-Virage is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Bozo Records: Michelle (live), P.O, Marco del Bosque" on Wed, 2 Sept 2026.
+Virage is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Bozo Records: Michelle (live), P.O, Marco del Bosque" on Wed, 2 Sept 2026.
 
 Virage is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including 4000 Hz, Aleksandir, Alex Quillard and Bande de Filles and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
@@ -23,4 +23,4 @@ Virage is a music venue in Paris listed on soundcheck. 10 upcoming nights, with 
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

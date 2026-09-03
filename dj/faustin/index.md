@@ -1,6 +1,6 @@
 # Faustin
 
-Faustin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at nachbar, Amsterdam on Sat, 26 Sept 2026.
+Faustin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at nachbar, Amsterdam on Sat, 26 Sept 2026.
 
 Faustin is a techno and house artist based in Italy, tracked on soundcheck, with 8 sets logged across Amsterdam, Newyorkcity and Rotterdam. Often billed alongside Fafi Abdel Nour, Mary Lake and RÆZA. Next up: nachbar, Amsterdam on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Faustin is a techno and house artist based in Italy, tracked on soundcheck, with
 
 Fafi Abdel Nour, Mary Lake, RÆZA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faustin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faustin/)*

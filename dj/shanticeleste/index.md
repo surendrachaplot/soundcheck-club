@@ -1,6 +1,6 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Uto-Staffel, Zurich on Sat, 5 Sept 2026.
+Shanti Celeste is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Uto-Staffel, Zurich on Sat, 5 Sept 2026.
 
 Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Uto-Staffel, Zurich on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets
 
 Peach, Saoirse, Ogazón
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

@@ -1,6 +1,6 @@
 # Joshlane
 
-Joshlane is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - BOAT TAKE OF FROM KABATAS, Istanbul on Fri, 11 Sept 2026.
+Joshlane is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - BOAT TAKE OF FROM KABATAS, Istanbul on Fri, 11 Sept 2026.
 
 Joshlane is a techno and progressive house artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam, Brussels and Istanbul. Often billed alongside Maarten Spoor, Revere and Stoac. Next up: TBA - BOAT TAKE OF FROM KABATAS, Istanbul on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Joshlane is a techno and progressive house artist based in Netherlands, tracked 
 
 Maarten Spoor, Revere, Stoac
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshlane/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshlane/)*

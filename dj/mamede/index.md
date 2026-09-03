@@ -1,6 +1,6 @@
 # Mamede
 
-Mamede is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Crack Bellmer, Berlin on Fri, 9 Oct 2026.
+Mamede is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Crack Bellmer, Berlin on Fri, 9 Oct 2026.
 
 Mamede is a house and disco artist tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside materia hache, riss and Feasting. Next up: Crack Bellmer, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Mamede is a house and disco artist tracked on soundcheck, with 18 sets logged ac
 
 materia hache, riss, Feasting
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamede/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamede/)*

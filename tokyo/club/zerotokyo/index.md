@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 21 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "PRESSURE - HIPHOP / HOUSE / TRANCE -" on Thu, 3 Sept 2026.
+ZEROTOKYO is a music venue in Tokyo with 21 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "PRESSURE - HIPHOP / HOUSE / TRANCE -" on Thu, 3 Sept 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, with line-ups including 6EJOU, Aiobahn, Axwell and AYANA KOSHIBA and 2 more. Browse upcoming dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming nights, wi
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

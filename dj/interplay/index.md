@@ -1,6 +1,6 @@
 # Interplay
 
-Interplay is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Wirtshaus Heimliche Liebe, Dortmund-essen on Sat, 26 Sept 2026.
+Interplay is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Wirtshaus Heimliche Liebe, Dortmund-essen on Sat, 26 Sept 2026.
 
 Interplay is a house and progressive house artist tracked on soundcheck, with 5 sets logged across Berlin, Cologne and Dortmund-essen. Often billed alongside Cosanne, Dominik Eulberg and Jonathan Kaspar. Next up: Wirtshaus Heimliche Liebe, Dortmund-essen on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Interplay is a house and progressive house artist tracked on soundcheck, with 5 
 
 Cosanne, Dominik Eulberg, Jonathan Kaspar
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interplay/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interplay/)*

@@ -1,6 +1,6 @@
 # Mai Mai Mai
 
-Mai Mai Mai is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Mai Mai Mai is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Mai Mai Mai is an experimental and electronica artist based in Italy, tracked on soundcheck, with 18 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 5 more. Often billed alongside Lust For Youth, Mermaid Chunky and Moin. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Mai Mai Mai is an experimental and electronica artist based in Italy, tracked on
 
 Lust For Youth, Mermaid Chunky, Moin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maimaimai/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maimaimai/)*

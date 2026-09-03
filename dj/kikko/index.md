@@ -1,6 +1,6 @@
 # Kikko
 
-Kikko is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
+Kikko is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
 
 Kikko is a house and club artist tracked on soundcheck, with 99 sets logged across Amsterdam, Berlin, London and Rome. Often billed alongside Max Beat, Flavio Rago and Luis Radio. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Kikko is a house and club artist tracked on soundcheck, with 99 sets logged acro
 
 Max Beat, Flavio Rago, Luis Radio
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikko/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikko/)*

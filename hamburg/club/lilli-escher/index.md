@@ -1,6 +1,6 @@
 # Lilli Escher
 
-Lilli Escher is a music venue in Hamburg with 18 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Wosnick B2B Koen" on Wed, 2 Sept 2026.
+Lilli Escher is a music venue in Hamburg with 18 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Wosnick B2B Koen" on Wed, 2 Sept 2026.
 
 Lilli Escher is a music venue in Hamburg listed on soundcheck. 18 upcoming nights, with line-ups including Enzo V8, Fovian, Ilja Franz and Ludwig Mausberg and 2 more. Browse upcoming dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ Lilli Escher is a music venue in Hamburg listed on soundcheck. 18 upcoming night
 
 Max-Brauer-Allee 279, 22769 Hamburg, Germany, Hamburg
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*

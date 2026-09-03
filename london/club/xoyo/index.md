@@ -1,6 +1,6 @@
 # XOYO
 
-XOYO is a music venue in London with 21 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "PARADOX" on Wed, 2 Sept 2026.
+XOYO is a music venue in London with 21 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "PARADOX" on Wed, 2 Sept 2026.
 
 XOYO is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Alex P, AR (UK), Badger (UK) and Beezo and 2 more. Browse upcoming dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
@@ -23,4 +23,4 @@ XOYO is a music venue in London listed on soundcheck. 21 upcoming nights, with l
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

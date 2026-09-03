@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Ryan Elliott b2b Pancratio, Naomi" on Sat, 5 Sept 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Ryan Elliott b2b Pancratio, Naomi" on Sat, 5 Sept 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including 36framez, A For Alpha, Ajuma and Alex Wann and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 20 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

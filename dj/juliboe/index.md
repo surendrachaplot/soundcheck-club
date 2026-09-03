@@ -1,6 +1,6 @@
 # juliboe
 
-juliboe is a House and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Almar Beach Club, Barcelona on Sat, 5 Sept 2026.
+juliboe is a House and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Almar Beach Club, Barcelona on Sat, 5 Sept 2026.
 
 juliboe is a house and ebm artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona and Vienna. Often billed alongside Mganz, DC81 and Santi Gonzalez. Next up: Almar Beach Club, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ juliboe is a house and ebm artist based in Spain, tracked on soundcheck, with 20
 
 Mganz, DC81, Santi Gonzalez
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliboe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliboe/)*

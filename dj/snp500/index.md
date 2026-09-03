@@ -1,6 +1,6 @@
 # SnP 500
 
-SnP 500 is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Système, Montreal on Fri, 18 Sept 2026.
+SnP 500 is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Système, Montreal on Fri, 18 Sept 2026.
 
 SnP 500 is a minimal techno and house artist tracked on soundcheck, with 6 sets logged across Glasgow, Losangeles, Montreal and Newyorkcity and 1 more. Often billed alongside Excalibur, ADAB and Ali Berger. Next up: Système, Montreal on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ SnP 500 is a minimal techno and house artist tracked on soundcheck, with 6 sets 
 
 Excalibur, ADAB, Ali Berger
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snp500/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snp500/)*

@@ -1,8 +1,8 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 18 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Disco Soulstice" on Fri, 4 Sept 2026.
+Headrow House is a music venue in Leeds with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Disco Soulstice" on Fri, 4 Sept 2026.
 
-Headrow House is a music venue in Leeds listed on soundcheck. 18 upcoming nights, with line-ups including Artist Lebo, Cam Harrop, GUTA and Kinso and 2 more. Browse upcoming dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
+Headrow House is a music venue in Leeds listed on soundcheck. 19 upcoming nights, with line-ups including Artist Lebo, Cam Harrop, GUTA and Kinso and 2 more. Browse upcoming dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 18 upcoming nights
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

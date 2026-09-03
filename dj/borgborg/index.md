@@ -1,6 +1,6 @@
 # BORGBORG
 
-BORGBORG is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at ://about blank, Berlin on Fri, 25 Sept 2026.
+BORGBORG is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ://about blank, Berlin on Fri, 25 Sept 2026.
 
 BORGBORG is a techno and industrial artist tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 1 more. Often billed alongside MX Probe, Hidonash and KLAUS.FROEBEL. Next up: ://about blank, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ BORGBORG is a techno and industrial artist tracked on soundcheck, with 20 sets l
 
 MX Probe, Hidonash, KLAUS.FROEBEL
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borgborg/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borgborg/)*

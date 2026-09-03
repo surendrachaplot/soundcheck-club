@@ -1,6 +1,6 @@
 # Mr. Belt & Wezol
 
-Mr. Belt & Wezol is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at BCM, Mallorca on Thu, 10 Sept 2026.
+Mr. Belt & Wezol is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at BCM, Mallorca on Thu, 10 Sept 2026.
 
 Mr. Belt & Wezol are a house and tech house duo tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Bucharest and Ibiza and 14 more. Often billed alongside Karim Soliman, RUZE and Ammé. Next up: BCM, Mallorca on Thu 10 Sept.
 
@@ -30,4 +30,4 @@ Mr. Belt & Wezol are a house and tech house duo tracked on soundcheck, with 49 s
 
 Karim Soliman, RUZE, Ammé
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*

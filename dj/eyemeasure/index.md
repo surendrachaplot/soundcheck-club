@@ -1,6 +1,6 @@
 # Eye Measure
 
-Eye Measure is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
+Eye Measure is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Howard Assembly Room, Leeds on Fri, 11 Sept 2026.
 
 Eye Measure is an experimental and techno artist tracked on soundcheck, with 12 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Yaxu, Damu and Rian Treanor. Next up: Howard Assembly Room, Leeds on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Eye Measure is an experimental and techno artist tracked on soundcheck, with 12 
 
 Yaxu, Damu, Rian Treanor
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eyemeasure/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eyemeasure/)*

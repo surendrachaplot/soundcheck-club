@@ -1,6 +1,6 @@
 # Kater
 
-Kater is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Kater x Zapped & Anxiety Therapy" on Fri, 4 Sept 2026.
+Kater is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kater x Zapped & Anxiety Therapy" on Fri, 4 Sept 2026.
 
 Kater is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Javier Anxiety, A.D.H.S., Adri Tüde and Aera and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

@@ -1,6 +1,6 @@
 # Jerpa
 
-Jerpa is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gazebo, Stockholm on Sat, 26 Sept 2026.
+Jerpa is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Gazebo, Stockholm on Sat, 26 Sept 2026.
 
 Jerpa is a progressive house and electronica artist based in Slovenia, tracked on soundcheck, with 2 sets logged across Amsterdam and Stockholm. Often billed alongside Adnan Jakubovic, Ahiram and Arrakis (GER). Next up: Gazebo, Stockholm on Sat 26 Sept.
 
@@ -15,4 +15,4 @@ Jerpa is a progressive house and electronica artist based in Slovenia, tracked o
 
 Adnan Jakubovic, Ahiram, Arrakis (GER)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jerpa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jerpa/)*

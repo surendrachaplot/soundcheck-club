@@ -1,6 +1,6 @@
 # Terence Fixmer
 
-Terence Fixmer is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Lux Fragil, Lisbon on Sat, 19 Sept 2026.
+Terence Fixmer is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lux Fragil, Lisbon on Sat, 19 Sept 2026.
 
 Terence Fixmer is a techno and ebm artist based in France, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside DJ Hell, Olivia and Phase Fatale. Next up: Lux Fragil, Lisbon on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Terence Fixmer is a techno and ebm artist based in France, tracked on soundcheck
 
 DJ Hell, Olivia, Phase Fatale
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terencefixmer/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terencefixmer/)*

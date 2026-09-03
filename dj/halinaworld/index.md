@@ -1,6 +1,6 @@
 # Halina World
 
-Halina World is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at IT Athens, Athens on Fri, 4 Sept 2026.
+Halina World is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at IT Athens, Athens on Fri, 4 Sept 2026.
 
 Halina World is a techno and house artist tracked on soundcheck, with 58 sets logged across Athens, Berlin, Budapest and Warsaw. Often billed alongside KEVS, Koryt and Mabu. Next up: IT Athens, Athens on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Halina World is a techno and house artist tracked on soundcheck, with 58 sets lo
 
 KEVS, Koryt, Mabu
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halinaworld/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/halinaworld/)*

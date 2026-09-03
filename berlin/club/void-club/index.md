@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Out Of Mind with CosmiKat, Krakau, Sasaxx, CRS (DNK), K3lt, Upzet, Will Tempo" on Fri, 4 Sept 2026.
+Void Club is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Out Of Mind with CosmiKat, Krakau, Sasaxx, CRS (DNK), K3lt, Upzet, Will Tempo" on Fri, 4 Sept 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Agem, Alex Xandra, Alienata and alllone and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

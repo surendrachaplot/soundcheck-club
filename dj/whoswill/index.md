@@ -1,6 +1,6 @@
 # whoswill
 
-whoswill is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
+whoswill is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Beaver Works, Leeds on Fri, 25 Sept 2026.
 
 whoswill is a garage and bass artist tracked on soundcheck, with 13 sets logged across Leeds. Often billed alongside camukg, DJ LUMBRIDGE and Fiaa. Next up: Beaver Works, Leeds on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ whoswill is a garage and bass artist tracked on soundcheck, with 13 sets logged 
 
 camukg, DJ LUMBRIDGE, Fiaa
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whoswill/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whoswill/)*

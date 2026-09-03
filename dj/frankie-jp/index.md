@@ -1,6 +1,6 @@
 # Frankie $
 
-Frankie $ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Saloon, Tokyo on Thu, 10 Sept 2026.
+Frankie $ is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Saloon, Tokyo on Thu, 10 Sept 2026.
 
 Frankie $ is a house and techno artist based in Japan, tracked on soundcheck, with 124 sets logged across Kyoto, Osaka, Prague and Tbilisi and 1 more. Often billed alongside Al Jones, Hayato Iwaki and YANNY (1). Next up: Saloon, Tokyo on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Frankie $ is a house and techno artist based in Japan, tracked on soundcheck, wi
 
 Al Jones, Hayato Iwaki, YANNY (1)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-jp/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-jp/)*

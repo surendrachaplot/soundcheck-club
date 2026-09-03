@@ -1,6 +1,6 @@
 # Nii Tei
 
-Nii Tei is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+Nii Tei is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
 
 Nii Tei is a house and deep house artist based in United States of America, tracked on soundcheck, with 93 sets logged across Losangeles, Miami, Newyorkcity and Washingtondc. Often billed alongside Dude Skywalker, Bakke and DIFFER. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Nii Tei is a house and deep house artist based in United States of America, trac
 
 Dude Skywalker, Bakke, DIFFER
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niitei/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niitei/)*

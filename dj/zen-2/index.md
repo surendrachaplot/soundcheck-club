@@ -1,6 +1,6 @@
 # Zen (2)
 
-Zen (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at DeTour, Tokyo on Sun, 6 Sept 2026.
+Zen (2) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DeTour, Tokyo on Sun, 6 Sept 2026.
 
 Zen (2) is a techno and tech house artist tracked on soundcheck, with 10 sets logged across Berlin, Bristol, Milan and Osaka and 2 more. Often billed alongside BEPPU, YU-S-KE and AllA. Next up: DeTour, Tokyo on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Zen (2) is a techno and tech house artist tracked on soundcheck, with 10 sets lo
 
 BEPPU, YU-S-KE, AllA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zen-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zen-2/)*

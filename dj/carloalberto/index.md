@@ -1,6 +1,6 @@
 # Carloalberto
 
-Carloalberto is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at DURO, Milan on Fri, 25 Sept 2026.
+Carloalberto is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DURO, Milan on Fri, 25 Sept 2026.
 
 Carloalberto is a house and tech house artist based in Italy, tracked on soundcheck, with 45 sets logged across Amsterdam, Bangkok, Berlin and Milan and 2 more. Often billed alongside KARBONI, Phill Prince and Coni (2). Next up: DURO, Milan on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Carloalberto is a house and tech house artist based in Italy, tracked on soundch
 
 KARBONI, Phill Prince, Coni (2)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carloalberto/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carloalberto/)*

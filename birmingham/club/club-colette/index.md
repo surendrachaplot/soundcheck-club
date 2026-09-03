@@ -1,6 +1,6 @@
 # Club Colette
 
-Club Colette is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Rodman Rising" on Sat, 12 Sept 2026.
+Club Colette is a music venue in Birmingham with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Rodman Rising" on Sat, 12 Sept 2026.
 
 Club Colette is a music venue in Birmingham listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Club Colette is a music venue in Birmingham listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Rodman Rising |  |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/club-colette/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/club-colette/)*

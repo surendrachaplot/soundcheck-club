@@ -1,6 +1,6 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Azadi Soundsystem pres. Kahn & Neek" on Fri, 4 Sept 2026.
+Village Underground Barcelona is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Azadi Soundsystem pres. Kahn & Neek" on Fri, 4 Sept 2026.
 
 Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including A.Fruit, Albal, Alex Picone and Anah and 2 more. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
@@ -20,4 +20,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

@@ -1,6 +1,6 @@
 # Gueparda
 
-Gueparda is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Republik Club, Madrid on Fri, 4 Sept 2026.
+Gueparda is a Techno and New Wave artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Republik Club, Madrid on Fri, 4 Sept 2026.
 
 Gueparda is a techno and new wave artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside Vulker, Diego A-K and Paulina Casi Rubio. Next up: Republik Club, Madrid on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Gueparda is a techno and new wave artist based in Spain, tracked on soundcheck, 
 
 Vulker, Diego A-K, Paulina Casi Rubio
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gueparda/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gueparda/)*

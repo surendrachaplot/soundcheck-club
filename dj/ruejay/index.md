@@ -1,6 +1,6 @@
 # Rue Jay
 
-Rue Jay is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Gaswrx Birmingham, London on Sat, 12 Sept 2026.
+Rue Jay is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Gaswrx Birmingham, London on Sat, 12 Sept 2026.
 
 Rue Jay is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam, Birmingham, Ibiza and London. Often billed alongside Altern-8, Armand Van Helden and Bazland. Next up: Gaswrx Birmingham, London on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Rue Jay is a house and tech house artist based in United Kingdom, tracked on sou
 
 Altern-8, Armand Van Helden, Bazland
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruejay/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruejay/)*

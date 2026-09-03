@@ -1,6 +1,6 @@
 # DJ SARIA
 
-DJ SARIA is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The DBA, Manchester on Sat, 17 Oct 2026.
+DJ SARIA is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The DBA, Manchester on Sat, 17 Oct 2026.
 
 DJ SARIA is a hardcore and breakcore artist tracked on soundcheck, with 10 sets logged across Bristol, Leeds, Liverpool and Manchester and 1 more. Often billed alongside D-Luc-D, Aerbreak and JAKAZiD. Next up: The DBA, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ SARIA is a hardcore and breakcore artist tracked on soundcheck, with 10 sets 
 
 D-Luc-D, Aerbreak, JAKAZiD
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaria/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaria/)*

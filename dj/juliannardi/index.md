@@ -1,6 +1,6 @@
 # Julian Nardi
 
-Julian Nardi is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - THE LAB, Barcelona on Sat, 5 Sept 2026.
+Julian Nardi is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - THE LAB, Barcelona on Sat, 5 Sept 2026.
 
 Julian Nardi is an electronica and tech house artist tracked on soundcheck, with 24 sets logged across Barcelona. Often billed alongside Francis Dhuit, VIKTOR DURDEN and H-R-Z. Next up: TBA - THE LAB, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Julian Nardi is an electronica and tech house artist tracked on soundcheck, with
 
 Francis Dhuit, VIKTOR DURDEN, H-R-Z
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliannardi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliannardi/)*

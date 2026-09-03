@@ -1,6 +1,6 @@
 # Rob Aquino
 
-Rob Aquino is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at District 7, Los Angeles on Sun, 13 Sept 2026.
+Rob Aquino is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at District 7, Los Angeles on Sun, 13 Sept 2026.
 
 Rob Aquino is a techno and club artist based in United States of America, tracked on soundcheck, with 20 sets logged across Losangeles and Newyorkcity. Often billed alongside Shane Thomas, Banoffee and Mez Monty. Next up: District 7, Losangeles on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Rob Aquino is a techno and club artist based in United States of America, tracke
 
 Shane Thomas, Banoffee, Mez Monty
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robaquino/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robaquino/)*

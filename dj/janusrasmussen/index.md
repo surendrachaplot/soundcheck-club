@@ -1,6 +1,6 @@
 # Janus Rasmussen
 
-Janus Rasmussen is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Greyhound, London on Thu, 26 Nov 2026.
+Janus Rasmussen is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Greyhound, London on Thu, 26 Nov 2026.
 
 Janus Rasmussen is an electronica and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Athens, Berlin and Brussels and 7 more. Often billed alongside Kiasmos, Garbage Delight and Natascha Polké. Next up: The Greyhound, London on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Janus Rasmussen is an electronica and techno artist tracked on soundcheck, with 
 
 Kiasmos, Garbage Delight, Natascha Polké
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrasmussen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrasmussen/)*

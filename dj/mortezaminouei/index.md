@@ -1,6 +1,6 @@
 # Morteza Minouei
 
-Morteza Minouei is a Minimal and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Yan Gastro, Istanbul on Fri, 4 Sept 2026.
+Morteza Minouei is a Minimal and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Yan Gastro, Istanbul on Fri, 4 Sept 2026.
 
 Morteza Minouei is a minimal and techno artist tracked on soundcheck, with 14 sets logged across Istanbul and Tbilisi. Often billed alongside Baban, Sharona Lico and Childplay. Next up: Yan Gastro, Istanbul on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Morteza Minouei is a minimal and techno artist tracked on soundcheck, with 14 se
 
 Baban, Sharona Lico, Childplay
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mortezaminouei/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mortezaminouei/)*

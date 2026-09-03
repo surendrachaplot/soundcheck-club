@@ -1,6 +1,6 @@
 # KunstTechnologe
 
-KunstTechnologe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sensorium, Berlin on Wed, 30 Sept 2026.
+KunstTechnologe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sensorium, Berlin on Wed, 30 Sept 2026.
 
 KunstTechnologe is a techno and trance artist tracked on soundcheck, with 19 sets logged across Berlin and Leipzig. Often billed alongside FRÄNK, Laviena and NACHTIGALL. Next up: Sensorium, Berlin on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ KunstTechnologe is a techno and trance artist tracked on soundcheck, with 19 set
 
 FRÄNK, Laviena, NACHTIGALL
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kunsttechnologe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kunsttechnologe/)*

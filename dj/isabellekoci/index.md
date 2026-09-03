@@ -1,6 +1,6 @@
 # Isabelle Koci
 
-Isabelle Koci is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ouseburn Garden, Newcastle on Fri, 11 Sept 2026.
+Isabelle Koci is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ouseburn Garden, Newcastle on Fri, 11 Sept 2026.
 
 Isabelle Koci is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Julian Anthony and Bobby O'Donnell. Next up: Ouseburn Garden, Newcastle on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Isabelle Koci is a house and tech house artist based in United Kingdom, tracked 
 
 Reeshy, Julian Anthony, Bobby O'Donnell
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellekoci/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellekoci/)*

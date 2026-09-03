@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "André Granada & Dana Scully" on Thu, 3 Sept 2026.
+Lux Fragil is a music venue in Lisbon with 12 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "André Granada & Dana Scully" on Thu, 3 Sept 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 12 upcoming nights, with line-ups including Adam Purnell, A Guy Called Gerald, André Granada (2) and Andros and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -23,4 +23,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 12 upcoming nights, 
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

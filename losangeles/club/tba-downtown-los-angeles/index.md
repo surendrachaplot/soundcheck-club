@@ -1,6 +1,6 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Lights Down Low Feat. Interplanetary Criminal" on Fri, 4 Sept 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Lights Down Low Feat. Interplanetary Criminal" on Fri, 4 Sept 2026.
 
 TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 13 upcoming nights, with line-ups including Avalon Emerson, Axel Boman, Body Wave DJs and Capes and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Downtown Los Angeles is a music venue in Losangeles listed on soundcheck. 
 | Sat, 31 Oct 2026 | Lights Down Low: Rave to the Grave | Avalon Emerson, Corey Sizemore, Effy, Ellen Allien, JOHNNY_HEALTH, Richie Panic, SEXTILE |
 | Sat, 31 Oct 2026 | Giegling in LA (The Halloween Special) |  |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-los-angeles/)*

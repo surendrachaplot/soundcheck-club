@@ -1,6 +1,6 @@
 # TBA - Men's Room Bar Long Beach
 
-TBA - Men's Room Bar Long Beach is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "STEAM Long Beach" on Sat, 12 Sept 2026.
+TBA - Men's Room Bar Long Beach is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "STEAM Long Beach" on Sat, 12 Sept 2026.
 
 TBA - Men's Room Bar Long Beach is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Men's Room Bar Long Beach is a music venue in Losangeles listed on soundch
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | STEAM Long Beach |  |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-men-s-room-bar-long-beach/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-men-s-room-bar-long-beach/)*

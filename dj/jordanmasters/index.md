@@ -1,6 +1,6 @@
 # Jordan Masters
 
-Jordan Masters is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
+Jordan Masters is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
 
 Jordan Masters is a house and tech house artist tracked on soundcheck, with 23 sets logged across Birmingham, Bristol, Leeds and Liverpool and 1 more. Often billed alongside Wax Material, ADMNTi and Julian Anthony. Next up: Starlane Pizza Bar, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Jordan Masters is a house and tech house artist tracked on soundcheck, with 23 s
 
 Wax Material, ADMNTi, Julian Anthony
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanmasters/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordanmasters/)*

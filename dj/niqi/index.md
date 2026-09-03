@@ -1,6 +1,6 @@
 # Niqi
 
-Niqi is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Boston on Fri, 2 Oct 2026.
+Niqi is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Boston on Fri, 2 Oct 2026.
 
 Niqi is a techno and minimal techno artist tracked on soundcheck, with 42 sets logged across Boston, Miami and Newyorkcity. Often billed alongside Xoce, Sebas FX and Ketzaal. Next up: TBA, Boston on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Niqi is a techno and minimal techno artist tracked on soundcheck, with 42 sets l
 
 Xoce, Sebas FX, Ketzaal
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niqi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niqi/)*

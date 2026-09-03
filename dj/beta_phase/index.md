@@ -1,6 +1,6 @@
 # beta_phase
 
-beta_phase is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - warehouse, Berlin on Fri, 9 Oct 2026.
+beta_phase is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - warehouse, Berlin on Fri, 9 Oct 2026.
 
 beta_phase is a techno artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Blachord, DJ Marviosi and LilaLuci. Next up: TBA - warehouse, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ beta_phase is a techno artist tracked on soundcheck, with 9 sets logged across B
 
 Blachord, DJ Marviosi, LilaLuci
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beta_phase/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beta_phase/)*

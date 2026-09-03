@@ -1,6 +1,6 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "The Loft: Garrett David, Daisy Moon & KT" on Fri, 4 Sept 2026.
+The Loft is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "The Loft: Garrett David, Daisy Moon & KT" on Fri, 4 Sept 2026.
 
 The Loft is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including Fastlove, KT, Alexander Skancke and Alexia Glensy and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
@@ -23,4 +23,4 @@ The Loft is a music venue in Manchester listed on soundcheck. 20 upcoming nights
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

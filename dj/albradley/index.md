@@ -1,6 +1,6 @@
 # Al Bradley
 
-Al Bradley is a Deep House and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Lubber Fiend, Newcastle on Sat, 10 Oct 2026.
+Al Bradley is a Deep House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Lubber Fiend, Newcastle on Sat, 10 Oct 2026.
 
 Al Bradley is a deep house and acid artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Brighton, Bristol, Leeds and Manchester and 1 more. Often billed alongside Roya Brehl, Bod Min and Iain Mac. Next up: The Lubber Fiend, Newcastle on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Al Bradley is a deep house and acid artist based in United Kingdom, tracked on s
 
 Roya Brehl, Bod Min, Iain Mac
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albradley/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albradley/)*

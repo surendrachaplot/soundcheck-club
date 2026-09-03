@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "KATZENGOLD am DONNERSTAG mit J.M.A., JONDAL & DJ UMLEITUNG" on Thu, 3 Sept 2026.
+Romantica is a music venue in Stuttgart with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "KATZENGOLD am DONNERSTAG mit J.M.A., JONDAL & DJ UMLEITUNG" on Thu, 3 Sept 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights, with line-ups including Enes Çakır, Enzio Etchaberri, Femcat and Jochen Junker and 2 more. Browse upcoming dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -21,4 +21,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming nights,
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

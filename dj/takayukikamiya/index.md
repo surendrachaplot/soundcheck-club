@@ -1,6 +1,6 @@
 # Takayuki Kamiya
 
-Takayuki Kamiya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mogra, Tokyo on Sun, 20 Sept 2026.
+Takayuki Kamiya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mogra, Tokyo on Sun, 20 Sept 2026.
 
 Takayuki Kamiya is a techno and house artist based in Japan, tracked on soundcheck, with 49 sets logged across Osaka and Tokyo. Often billed alongside Wat, Spinnage and Takami. Next up: Mogra, Tokyo on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Takayuki Kamiya is a techno and house artist based in Japan, tracked on soundche
 
 Wat, Spinnage, Takami
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takayukikamiya/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takayukikamiya/)*

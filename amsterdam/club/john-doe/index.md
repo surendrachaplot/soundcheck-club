@@ -1,6 +1,6 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 55 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "RAVELAND: Hard Techno & Hard Bounce w/ Axiver [IT], I5HI & BVNNII" on Wed, 2 Sept 2026.
+John Doe is a music venue in Amsterdam with 55 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "RAVELAND: Hard Techno & Hard Bounce w/ Axiver [IT], I5HI & BVNNII" on Wed, 2 Sept 2026.
 
 John Doe is a music venue in Amsterdam listed on soundcheck. 55 upcoming nights, with line-ups including A.L.A.E, Alex Medina, ARTE-MAS and ARTISTIKK and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
@@ -9,7 +9,7 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 55 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | RAVELAND: Hard Techno & Hard Bounce w/ Axiver [IT], I5HI & BVNNII | Axiver, BVNNII, I5HI |
-| Thu, 3 Sept 2026 | Amsterdam Techno Sessions | Marco Ramos |
+| Thu, 3 Sept 2026 | Amsterdam Techno Sessions - OPEN TILL CLOSED with Marco Ramos (ANAØH-ILLEGAL ALIEN RECORDS) | Marco Ramos |
 | Fri, 4 Sept 2026 | John Doe CLUB presents: Mosher | Mosher |
 | Fri, 4 Sept 2026 | Under One Groove | Alex Sharp, Mosher, Sophia Sigma |
 | Sat, 5 Sept 2026 | Stuck in a Loop with Leo Cardi (CHI), Triart (TUR) | Bastiaan, Leo Cardi, Triart |
@@ -23,4 +23,4 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 55 upcoming nights,
 
 Rembrandtplein 31, 1017 CT Amsterdam, Netherlands, Amsterdam
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*

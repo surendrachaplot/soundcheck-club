@@ -1,6 +1,6 @@
 # Macky Gee
 
-Macky Gee is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hangar 34, Liverpool on Sat, 3 Oct 2026.
+Macky Gee is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hangar 34, Liverpool on Sat, 3 Oct 2026.
 
 Macky Gee is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Auckland, Birmingham and Brisbane and 11 more. Often billed alongside Basstripper, Logan D and b-line. Next up: Hangar 34, Liverpool on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Macky Gee is a drum & bass and bass artist based in United Kingdom, tracked on s
 
 Basstripper, Logan D, b-line
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mackygee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mackygee/)*

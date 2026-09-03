@@ -1,6 +1,6 @@
 # Feonix (2)
 
-Feonix (2) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Sultan Room, New York City on Sun, 6 Sept 2026.
+Feonix (2) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Sultan Room, New York City on Sun, 6 Sept 2026.
 
 Feonix (2) is a club and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside TYJAH, DREAMINSLOW and Franzini. Next up: The Sultan Room, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Feonix (2) is a club and techno artist based in United States of America, tracke
 
 TYJAH, DREAMINSLOW, Franzini
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feonix-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feonix-2/)*

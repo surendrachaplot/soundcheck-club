@@ -1,6 +1,6 @@
 # Miki
 
-Miki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hoppetosse, Berlin on Fri, 25 Sept 2026.
+Miki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hoppetosse, Berlin on Fri, 25 Sept 2026.
 
 Miki is a house and techno artist tracked on soundcheck, with 37 sets logged across Amsterdam, Bali, Barcelona and Berlin and 12 more. Often billed alongside Alex Picone, Desyn and Gwenan. Next up: Hoppetosse, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Miki is a house and techno artist tracked on soundcheck, with 37 sets logged acr
 
 Alex Picone, Desyn, Gwenan
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miki/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miki/)*

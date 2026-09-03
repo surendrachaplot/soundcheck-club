@@ -1,6 +1,6 @@
 # komunal
 
-komunal is a music venue in Birmingham with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Spudz + friends with SmithAB, Owen Parsons, Owxn b2b Nath, Taci b2b SYS + GULLY b2b Max Jepson" on Sat, 5 Sept 2026.
+komunal is a music venue in Birmingham with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Spudz + friends with SmithAB, Owen Parsons, Owxn b2b Nath, Taci b2b SYS + GULLY b2b Max Jepson" on Sat, 5 Sept 2026.
 
 komunal is a music venue in Birmingham listed on soundcheck. 3 upcoming nights, with line-ups including nath (UK). Browse upcoming dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
@@ -16,4 +16,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 3 upcoming nights, 
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

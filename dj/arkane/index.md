@@ -1,6 +1,6 @@
 # Arkane
 
-Arkane is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Amber's, Manchester on Fri, 18 Sept 2026.
+Arkane is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Amber's, Manchester on Fri, 18 Sept 2026.
 
 Arkane is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Cardiff, Glasgow, Leeds and Liverpool and 4 more. Often billed alongside INLIMEN, Mold Boutique and Danny Roach. Next up: Amber's, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Arkane is a techno and electro artist based in United Kingdom, tracked on soundc
 
 INLIMEN, Mold Boutique, Danny Roach
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arkane/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arkane/)*

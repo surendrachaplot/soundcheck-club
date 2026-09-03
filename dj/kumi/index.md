@@ -1,6 +1,6 @@
 # Kumi
 
-Kumi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 12 Sept 2026.
+Kumi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 12 Sept 2026.
 
 Kumi is a techno and house artist based in Australia, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, Brisbane and Detroit and 5 more. Often billed alongside JÄMO, Caleb Jay and J-OK. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Kumi is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 JÄMO, Caleb Jay, J-OK
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kumi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kumi/)*

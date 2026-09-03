@@ -1,6 +1,6 @@
 # Tendency
 
-Tendency is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Galeria Zé Dos Bois, Lisbon on Fri, 25 Sept 2026.
+Tendency is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Galeria Zé Dos Bois, Lisbon on Fri, 25 Sept 2026.
 
 Tendency is a techno and experimental artist tracked on soundcheck, with 23 sets logged across Berlin, Lisbon and Porto. Often billed alongside Ana Pacheco, Dj Saliva and Hiroma Keo. Next up: Galeria Zé Dos Bois, Lisbon on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Tendency is a techno and experimental artist tracked on soundcheck, with 23 sets
 
 Ana Pacheco, Dj Saliva, Hiroma Keo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tendency-pt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tendency-pt/)*

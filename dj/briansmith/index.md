@@ -1,6 +1,6 @@
 # Brian Smith
 
-Brian Smith is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
+Brian Smith is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ministry Of Sound, London on Sat, 12 Sept 2026.
 
 Brian Smith is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Ibiza, London and Malta. Often billed alongside Jerome Six, JAYDAA and Steven Cee. Next up: Ministry Of Sound, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Brian Smith is a tech house and house artist based in United Kingdom, tracked on
 
 Jerome Six, JAYDAA, Steven Cee
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/briansmith/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/briansmith/)*

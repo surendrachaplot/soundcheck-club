@@ -1,6 +1,6 @@
 # Entree
 
-Entree is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 13 Sept 2026.
+Entree is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 13 Sept 2026.
 
 Entree is a house and techno artist tracked on soundcheck, with 50 sets logged across Copenhagen and Stockholm. Often billed alongside Cockwhore & Macho, DJ Nah Care and Britney Speed. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Entree is a house and techno artist tracked on soundcheck, with 50 sets logged a
 
 Cockwhore & Macho, DJ Nah Care, Britney Speed
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/entree/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/entree/)*

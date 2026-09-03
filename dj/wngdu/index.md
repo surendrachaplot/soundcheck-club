@@ -1,6 +1,6 @@
 # wngdu
 
-wngdu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Banshee House, Denver on Sat, 5 Sept 2026.
+wngdu is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Banshee House, Denver on Sat, 5 Sept 2026.
 
 wngdu is a house and techno artist tracked on soundcheck, with 28 sets logged across Boston, Denver, Miami and Newyorkcity and 1 more. Often billed alongside Mitch Smith, Nico Tobón and DJ Fitness. Next up: The Banshee House, Denver on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ wngdu is a house and techno artist tracked on soundcheck, with 28 sets logged ac
 
 Mitch Smith, Nico Tobón, DJ Fitness
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wngdu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wngdu/)*

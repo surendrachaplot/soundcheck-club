@@ -1,6 +1,6 @@
 # Kollage Kollectiv
 
-Kollage Kollectiv is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "La Remise x Spinning Waves Daytime" on Sat, 12 Sept 2026.
+Kollage Kollectiv is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "La Remise x Spinning Waves Daytime" on Sat, 12 Sept 2026.
 
 Kollage Kollectiv is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including hendrik (3) and Solaar. Browse upcoming dates, start times and who's playing. Lilli-Henoch-Straße 21, 10405 Berlin.
 
@@ -14,4 +14,4 @@ Kollage Kollectiv is a music venue in Berlin listed on soundcheck. 1 upcoming ni
 
 Lilli-Henoch-Straße 21, 10405 Berlin, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kollage-kollectiv/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kollage-kollectiv/)*

@@ -1,6 +1,6 @@
 # Justin Anastasi
 
-Justin Anastasi is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 8MM, Berlin on Fri, 11 Sept 2026.
+Justin Anastasi is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 8MM, Berlin on Fri, 11 Sept 2026.
 
 Justin Anastasi is an electronic artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Faux Sermons, An-i and Layne. Next up: 8MM, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Justin Anastasi is an electronic artist tracked on soundcheck, with 13 sets logg
 
 Faux Sermons, An-i, Layne
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinanastasi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinanastasi/)*

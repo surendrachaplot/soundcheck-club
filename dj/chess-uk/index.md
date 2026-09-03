@@ -1,6 +1,6 @@
 # Chess
 
-Chess is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Toffler, Rotterdam on Sat, 24 Oct 2026.
+Chess is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Toffler, Rotterdam on Sat, 24 Oct 2026.
 
 Chess is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London and Rotterdam. Often billed alongside Emilia G, Shamaya and Joey Fontaine. Next up: Toffler, Rotterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Chess is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Emilia G, Shamaya, Joey Fontaine
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chess-uk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chess-uk/)*

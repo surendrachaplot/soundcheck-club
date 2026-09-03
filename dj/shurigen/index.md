@@ -1,6 +1,6 @@
 # Shurigen
 
-Shurigen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Twist Bar, Prague on Thu, 17 Sept 2026.
+Shurigen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Twist Bar, Prague on Thu, 17 Sept 2026.
 
 Shurigen is a techno and trance artist tracked on soundcheck, with 59 sets logged across Barcelona, Berlin and Prague. Often billed alongside Demonika, Dash (CZ) and Pink Concrete. Next up: Twist Bar, Prague on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Shurigen is a techno and trance artist tracked on soundcheck, with 59 sets logge
 
 Demonika, Dash (CZ), Pink Concrete
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shurigen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shurigen/)*

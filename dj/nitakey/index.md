@@ -1,6 +1,6 @@
 # Nita Key
 
-Nita Key is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hotel El Bruc, Barcelona on Sat, 19 Sept 2026.
+Nita Key is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hotel El Bruc, Barcelona on Sat, 19 Sept 2026.
 
 Nita Key is a techno and trance artist based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona. Often billed alongside CRONEKIA, Nahum Korm and INEXXSTABLE. Next up: Hotel El Bruc, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nita Key is a techno and trance artist based in Spain, tracked on soundcheck, wi
 
 CRONEKIA, Nahum Korm, INEXXSTABLE
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitakey/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nitakey/)*

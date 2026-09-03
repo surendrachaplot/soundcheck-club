@@ -1,6 +1,6 @@
 # Overthink 71
 
-Overthink 71 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Overthink 71 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Overthink 71 is a house and techno artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Funken, Paoler and Al_Massimo. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Overthink 71 is a house and techno artist tracked on soundcheck, with 9 sets log
 
 Funken, Paoler, Al_Massimo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/overthink71/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/overthink71/)*

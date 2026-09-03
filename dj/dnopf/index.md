@@ -1,6 +1,6 @@
 # DNOPF
 
-DNOPF is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Henz Club, Seoul on Sat, 5 Sept 2026.
+DNOPF is a Hip-Hop and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Henz Club, Seoul on Sat, 5 Sept 2026.
 
 DNOPF is a hip-hop and electronica artist tracked on soundcheck, with 23 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside CHANXER, Conan and DOBERMAN. Next up: The Henz Club, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DNOPF is a hip-hop and electronica artist tracked on soundcheck, with 23 sets lo
 
 CHANXER, Conan, DOBERMAN
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dnopf/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dnopf/)*

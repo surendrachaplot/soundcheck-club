@@ -1,6 +1,6 @@
 # Jellyf!sh
 
-Jellyf!sh is a House and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at WOMB, Tokyo on Fri, 11 Sept 2026.
+Jellyf!sh is a House and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at WOMB, Tokyo on Fri, 11 Sept 2026.
 
 Jellyf!sh is a house and hip-hop artist tracked on soundcheck, with 52 sets logged across Tokyo. Often billed alongside FUJI TRILL, misa nakamura and kyuuu. Next up: WOMB, Tokyo on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Jellyf!sh is a house and hip-hop artist tracked on soundcheck, with 52 sets logg
 
 FUJI TRILL, misa nakamura, kyuuu
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyf!sh/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyf!sh/)*

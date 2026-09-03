@@ -1,6 +1,6 @@
 # Pei
 
-Pei is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at HVEN, Tokyo on Mon, 9 Nov 2026.
+Pei is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at HVEN, Tokyo on Mon, 9 Nov 2026.
 
 Pei is a techno and house artist based in China, tracked on soundcheck, with 11 sets logged across Bangkok, Berlin, Osaka and Shenzhen and 1 more. Often billed alongside YOSHI KANOU, AiMii and DJason. Next up: HVEN, Tokyo on Mon 9 Nov.
 
@@ -25,4 +25,4 @@ Pei is a techno and house artist based in China, tracked on soundcheck, with 11 
 
 YOSHI KANOU, AiMii, DJason
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pei/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pei/)*

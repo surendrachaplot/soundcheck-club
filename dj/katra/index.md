@@ -1,6 +1,6 @@
 # Katra
 
-Katra is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Astron Club, Athens on Fri, 18 Sept 2026.
+Katra is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Astron Club, Athens on Fri, 18 Sept 2026.
 
 Katra is a techno and downtempo artist based in Greece, tracked on soundcheck, with 51 sets logged across Athens, Prague and Tbilisi. Often billed alongside a.metz, ANFS and Cirkle. Next up: Astron Club, Athens on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Katra is a techno and downtempo artist based in Greece, tracked on soundcheck, w
 
 a.metz, ANFS, Cirkle
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katra/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katra/)*

@@ -1,6 +1,6 @@
 # MAMA KILLA
 
-MAMA KILLA is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Soup, Manchester on Sat, 5 Sept 2026.
+MAMA KILLA is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Soup, Manchester on Sat, 5 Sept 2026.
 
 MAMA KILLA is a house and afro house artist tracked on soundcheck, with 4 sets logged across Manchester. Often billed alongside SNO (UK), Joey T and Levi Love. Next up: Soup, Manchester on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ MAMA KILLA is a house and afro house artist tracked on soundcheck, with 4 sets l
 
 SNO (UK), Joey T, Levi Love
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamakilla/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamakilla/)*

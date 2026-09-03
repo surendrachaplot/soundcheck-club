@@ -1,6 +1,6 @@
 # Cole Thompson
 
-Cole Thompson is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Los Angeles on Sat, 12 Sept 2026.
+Cole Thompson is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Los Angeles on Sat, 12 Sept 2026.
 
 Cole Thompson is a disco and house artist tracked on soundcheck, with 4 sets logged across Losangeles. Often billed alongside Chris Pavlov and VHS King. Next up: TBA, Losangeles on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Cole Thompson is a disco and house artist tracked on soundcheck, with 4 sets log
 
 Chris Pavlov, VHS King
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colethompson/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colethompson/)*

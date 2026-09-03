@@ -1,6 +1,6 @@
 # Watsons EQ
 
-Watsons EQ is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "BACK TO BOOGIE WONDERLAND presents 'A VERY MERRY BIRTHDAY'" on Sun, 6 Sept 2026.
+Watsons EQ is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "BACK TO BOOGIE WONDERLAND presents 'A VERY MERRY BIRTHDAY'" on Sun, 6 Sept 2026.
 
 Watsons EQ is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Danny Byrd, Dimuth K, D-Nox and Federico Puentes and 2 more. Browse upcoming dates, start times and who's playing. The Entertainment Quarter, 1 Bent Street, Moore Park, NSW 2021, AUS.
 
@@ -17,4 +17,4 @@ Watsons EQ is a music venue in Sydney listed on soundcheck. 4 upcoming nights, w
 
 The Entertainment Quarter, 1 Bent Street, Moore Park, NSW 2021, AUS, Sydney
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/watsons-eq/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/watsons-eq/)*

@@ -1,6 +1,6 @@
 # DJ Fucks Himself
 
-DJ Fucks Himself is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
+DJ Fucks Himself is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
 
 DJ Fucks Himself is a techno and ghetto tech artist based in Germany, tracked on soundcheck, with 75 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside HiHat, Young Lychee and Lenny Fuck. Next up: Renate, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ DJ Fucks Himself is a techno and ghetto tech artist based in Germany, tracked on
 
 HiHat, Young Lychee, Lenny Fuck
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckshimself/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckshimself/)*

@@ -1,6 +1,6 @@
 # J. Conley
 
-J. Conley is a Ambient and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Experiment 625, Liverpool on Fri, 18 Sept 2026.
+J. Conley is a Ambient and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Experiment 625, Liverpool on Fri, 18 Sept 2026.
 
 J. Conley is an ambient and electronica artist tracked on soundcheck, with 12 sets logged across Liverpool. Often billed alongside Binyamin, Cult Rosa and Dj Streaks. Next up: Experiment 625, Liverpool on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ J. Conley is an ambient and electronica artist tracked on soundcheck, with 12 se
 
 Binyamin, Cult Rosa, Dj Streaks
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.conley/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.conley/)*

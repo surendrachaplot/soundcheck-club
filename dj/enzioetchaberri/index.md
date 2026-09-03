@@ -1,6 +1,6 @@
 # Enzio Etchaberri
 
-Enzio Etchaberri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Romantica, Stuttgart on Sat, 12 Sept 2026.
+Enzio Etchaberri is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Romantica, Stuttgart on Sat, 12 Sept 2026.
 
 Enzio Etchaberri is a house and techno artist tracked on soundcheck, with 54 sets logged across Bangkok, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Eva Crystaltips, Luca Olivotto and Nephews. Next up: Romantica, Stuttgart on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Enzio Etchaberri is a house and techno artist tracked on soundcheck, with 54 set
 
 Eva Crystaltips, Luca Olivotto, Nephews
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzioetchaberri/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzioetchaberri/)*

@@ -1,6 +1,6 @@
 # Mario Picosso
 
-Mario Picosso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+Mario Picosso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
 Mario Picosso is a techno and house artist based in Spain, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Buenosaires and Madrid and 2 more. Often billed alongside Maria Cue, Anika Kunst and Cintia Martís. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mario Picosso is a techno and house artist based in Spain, tracked on soundcheck
 
 Maria Cue, Anika Kunst, Cintia Martís
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopicosso/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopicosso/)*

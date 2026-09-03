@@ -1,6 +1,6 @@
 # AWSM
 
-AWSM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Birgit, Berlin on Fri, 4 Sept 2026.
+AWSM is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Birgit, Berlin on Fri, 4 Sept 2026.
 
 AWSM is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin. Often billed alongside Thomas Haak, Alex Gallus and BUTTCHIN. Next up: Birgit, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ AWSM is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 Thomas Haak, Alex Gallus, BUTTCHIN
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awsm/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awsm/)*

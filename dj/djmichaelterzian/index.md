@@ -1,6 +1,6 @@
 # DJ Michael Terzian
 
-DJ Michael Terzian is a Hip-Hop and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Système, Montreal on Sat, 19 Sept 2026.
+DJ Michael Terzian is a Hip-Hop and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Système, Montreal on Sat, 19 Sept 2026.
 
 DJ Michael Terzian is a hip-hop and deep house artist tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside Don Barbarino, Kris Guilty and DJ Hidi. Next up: Système, Montreal on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Michael Terzian is a hip-hop and deep house artist tracked on soundcheck, wit
 
 Don Barbarino, Kris Guilty, DJ Hidi
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmichaelterzian/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmichaelterzian/)*

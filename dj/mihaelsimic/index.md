@@ -1,6 +1,6 @@
 # Mihael Simic
 
-Mihael Simic is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Supermarket, Zurich on Sat, 5 Sept 2026.
+Mihael Simic is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Supermarket, Zurich on Sat, 5 Sept 2026.
 
 Mihael Simic is a minimal and electro artist tracked on soundcheck, with 22 sets logged across Belgrade, Istanbul and Zurich. Often billed alongside Pedram, Benosah and Flavio (CH). Next up: Supermarket, Zurich on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mihael Simic is a minimal and electro artist tracked on soundcheck, with 22 sets
 
 Pedram, Benosah, Flavio (CH)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaelsimic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaelsimic/)*

@@ -1,6 +1,6 @@
 # Jan Penarrubia
 
-Jan Penarrubia is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Gate, Berlin on Sat, 19 Sept 2026.
+Jan Penarrubia is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Golden Gate, Berlin on Sat, 19 Sept 2026.
 
 Jan Penarrubia is an electronic artist tracked on soundcheck, with 4 sets logged across Berlin and Zurich. Often billed alongside Alessio da Silva, Aline (CH) and Antja. Next up: Golden Gate, Berlin on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Jan Penarrubia is an electronic artist tracked on soundcheck, with 4 sets logged
 
 Alessio da Silva, Aline (CH), Antja
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janpenarrubia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janpenarrubia/)*

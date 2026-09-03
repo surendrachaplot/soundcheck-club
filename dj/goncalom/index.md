@@ -1,6 +1,6 @@
 # Goncalo M
 
-Goncalo M is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bollwerk Cologne, Cologne on Fri, 18 Sept 2026.
+Goncalo M is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bollwerk Cologne, Cologne on Fri, 18 Sept 2026.
 
 Goncalo M is a techno and electronica artist based in Portugal, tracked on soundcheck, with 4 sets logged across Cologne, Krakow, Madrid and Porto. Often billed alongside Bigot3x (2), Frank Kvitta and KRSDJ. Next up: Bollwerk Cologne, Cologne on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Goncalo M is a techno and electronica artist based in Portugal, tracked on sound
 
 Bigot3x (2), Frank Kvitta, KRSDJ
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goncalom/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goncalom/)*

@@ -1,6 +1,6 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 28 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Studio Stereo pres. Sons Al Parc showcase (until 3am)" on Thu, 3 Sept 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 28 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Studio Stereo pres. Sons Al Parc showcase (until 3am)" on Thu, 3 Sept 2026.
 
 TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 28 upcoming nights, with line-ups including A. CASANOVA, Almuedo, Angel Mellado and ARTIIC and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Sat, 19 Sept 2026 | Studio Stereo x Cyberfunk pres. Manu Oubiña, Lukas (until 3:30am) | Edu C, LUKAS (4), Manu Oubiña |
 | Wed, 23 Sept 2026 | Studio Stereo La Mercè TBA (until 3:30am) |  |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

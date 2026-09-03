@@ -1,6 +1,6 @@
 # Lodge
 
-Lodge is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at M.O.T, London on Sat, 5 Sept 2026.
+Lodge is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at M.O.T, London on Sat, 5 Sept 2026.
 
 Lodge is a drum & bass and jungle artist tracked on soundcheck, with 19 sets logged across Bristol, London and Manchester. Often billed alongside DJ Oscillate, Silva Snipa and Dyl (4). Next up: M.O.T, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Lodge is a drum & bass and jungle artist tracked on soundcheck, with 19 sets log
 
 DJ Oscillate, Silva Snipa, Dyl (4)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lodge/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lodge/)*

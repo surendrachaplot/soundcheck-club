@@ -1,6 +1,6 @@
 # VLB (1)
 
-VLB (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ministerium Club, Lisbon on Thu, 24 Sept 2026.
+VLB (1) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ministerium Club, Lisbon on Thu, 24 Sept 2026.
 
 VLB (1) is a techno and industrial artist based in Portugal, tracked on soundcheck, with 29 sets logged across Lisbon and Paris. Often billed alongside BigT, Frik and Trik. Next up: Ministerium Club, Lisbon on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ VLB (1) is a techno and industrial artist based in Portugal, tracked on soundche
 
 BigT, Frik, Trik
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vlb-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vlb-1/)*

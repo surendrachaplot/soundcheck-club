@@ -1,6 +1,6 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Deck'd Out #12 Shameless presents KEXP Showcase + more" on Thu, 3 Sept 2026.
+The Monkey Loft is a music venue in Seattle with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Deck'd Out #12 Shameless presents KEXP Showcase + more" on Thu, 3 Sept 2026.
 
 The Monkey Loft is a music venue in Seattle listed on soundcheck. 5 upcoming nights, with line-ups including Chance Sands, Colt, David Ardila and Erozion and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
@@ -18,4 +18,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 5 upcoming nig
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

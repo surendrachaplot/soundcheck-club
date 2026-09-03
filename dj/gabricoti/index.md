@@ -1,6 +1,6 @@
 # Gabricoti
 
-Gabricoti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Prisma, Berlin on Tue, 15 Sept 2026.
+Gabricoti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Prisma, Berlin on Tue, 15 Sept 2026.
 
 Gabricoti is a house and techno artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Fo Ewa, Laeia and Nincha. Next up: Prisma, Berlin on Tue 15 Sept.
 
@@ -24,4 +24,4 @@ Gabricoti is a house and techno artist tracked on soundcheck, with 8 sets logged
 
 Fo Ewa, Laeia, Nincha
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabricoti/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabricoti/)*

@@ -1,6 +1,6 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 66 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "SIGNALS - 5€ Tickets - with Trancestrudel ALL NIGHT LONG" on Wed, 2 Sept 2026.
+Lokschuppen Berlin is a music venue in Berlin with 66 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SIGNALS - 5€ Tickets - with Trancestrudel ALL NIGHT LONG" on Wed, 2 Sept 2026.
 
 Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 66 upcoming nights, with line-ups including 1luu, 3LEEZA, 4NOUK and 5euroGoldi and 2 more. Browse upcoming dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 66 upcoming 
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

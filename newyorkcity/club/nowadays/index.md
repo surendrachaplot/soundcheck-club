@@ -1,14 +1,13 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 48 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Intro to Ableton Lab: Drum Programming, Sequencing, and Arrangement" on Wed, 2 Sept 2026.
+Nowadays is a music venue in New York City with 47 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Maritek: 4 Year Anniversary with ALTA, Coyado, DJ Sadboy, Dj Warning, J. Córdova" on Thu, 3 Sept 2026.
 
-Nowadays is a music venue in Newyorkcity listed on soundcheck. 48 upcoming nights, with line-ups including 1tbsp, 5ive, LYDO and MORENXXX and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in Newyorkcity listed on soundcheck. 47 upcoming nights, with line-ups including 1tbsp, 5ive, LYDO and MORENXXX and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 2 Sept 2026 | Intro to Ableton Lab: Drum Programming, Sequencing, and Arrangement | JP Solis, The New York Record Club for The Advancement of The Arts |
 | Thu, 3 Sept 2026 | Maritek: 4 Year Anniversary with ALTA, Coyado, DJ Sadboy, Dj Warning, J. Córdova | Coyado, Dj Warning, J. Córdova |
 | Thu, 3 Sept 2026 | Vladimir Ivkovic All Night |  |
 | Fri, 4 Sept 2026 | Residency Night: livwutang invites SCRATCHCLART & The Large | Scratcha DVA, The Large, livwutang |
@@ -18,9 +17,10 @@ Nowadays is a music venue in Newyorkcity listed on soundcheck. 48 upcoming night
 | Sun, 6 Sept 2026 | Sunday Night: DJ Possum & Myles Mac All Night | DJ Possum, Myles Mac |
 | Wed, 9 Sept 2026 | Intro to Ableton Lab: Intro to Sampling and Remixing | JP Solis, The New York Record Club for The Advancement of The Arts |
 | Fri, 11 Sept 2026 | Jyoty All Night | Jyoty |
+| Sat, 12 Sept 2026 | Nonstop: Analog Soul, Chee Shimizu, John Talabot, Kim Anh, O.BEE | Analog Soul, Chee Shimizu, John Talabot, Kim Anh, O.BEE |
 
 ## Address
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

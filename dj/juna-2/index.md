@@ -1,6 +1,6 @@
 # juna (2)
 
-juna (2) is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Buenos Aires on Fri, 4 Sept 2026.
+juna (2) is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Buenos Aires on Fri, 4 Sept 2026.
 
 juna (2) is a house and balearic artist based in Argentina, tracked on soundcheck, with 3 sets logged across Buenosaires. Often billed alongside Dobao, Jex Opolis and Loïc. Next up: TBA, Buenosaires on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ juna (2) is a house and balearic artist based in Argentina, tracked on soundchec
 
 Dobao, Jex Opolis, Loïc
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juna-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juna-2/)*

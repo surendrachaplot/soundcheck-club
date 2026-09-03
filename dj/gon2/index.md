@@ -1,6 +1,6 @@
 # gon2
 
-gon2 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Trans-Pecos, New York City on Fri, 4 Sept 2026.
+gon2 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Trans-Pecos, New York City on Fri, 4 Sept 2026.
 
 gon2 is a techno and electro artist tracked on soundcheck, with 8 sets logged across Miami, Newyorkcity and Tbilisi. Often billed alongside Steinbock, CRYFXB and Seikel. Next up: Trans-Pecos, Newyorkcity on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ gon2 is a techno and electro artist tracked on soundcheck, with 8 sets logged ac
 
 Steinbock, CRYFXB, Seikel
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gon2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gon2/)*

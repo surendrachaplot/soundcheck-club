@@ -1,6 +1,6 @@
 # Bluesquare
 
-Bluesquare is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Hi-Fi Weekends with GOEDI *Free Entry*" on Sat, 12 Sept 2026.
+Bluesquare is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Hi-Fi Weekends with GOEDI *Free Entry*" on Sat, 12 Sept 2026.
 
 Bluesquare is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including Fred Simon. Browse upcoming dates, start times and who's playing. Via Tortona 33, 20144.
 
@@ -15,4 +15,4 @@ Bluesquare is a music venue in Milan listed on soundcheck. 2 upcoming nights, wi
 
 Via Tortona 33, 20144, Milan
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bluesquare/)*

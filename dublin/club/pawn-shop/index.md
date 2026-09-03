@@ -1,6 +1,6 @@
 # Pawn Shop
 
-Pawn Shop is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Real Talks Art: Royce & Solemn" on Wed, 2 Sept 2026.
+Pawn Shop is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Real Talks Art: Royce & Solemn" on Wed, 2 Sept 2026.
 
 Pawn Shop is a music venue in Dublin listed on soundcheck. 3 upcoming nights, with line-ups including Blewit (2), Dicko, Medalla and Michal C and 2 more. Browse upcoming dates, start times and who's playing. 15 Dame St, Dublin 2, D02 KD74.
 
@@ -16,4 +16,4 @@ Pawn Shop is a music venue in Dublin listed on soundcheck. 3 upcoming nights, wi
 
 15 Dame St, Dublin 2, D02 KD74, Dublin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*

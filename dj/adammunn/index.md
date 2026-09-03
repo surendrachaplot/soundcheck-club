@@ -1,6 +1,6 @@
 # Adam Munn
 
-Adam Munn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Ulster Sports Club, Belfast on Fri, 4 Sept 2026.
+Adam Munn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Ulster Sports Club, Belfast on Fri, 4 Sept 2026.
 
 Adam Munn is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Belfast. Often billed alongside Blark, Nez and Cricky Lyttle. Next up: The Ulster Sports Club, Belfast on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Adam Munn is a techno and trance artist based in United Kingdom, tracked on soun
 
 Blark, Nez, Cricky Lyttle
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunn/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adammunn/)*

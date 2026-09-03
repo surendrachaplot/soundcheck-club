@@ -1,6 +1,6 @@
 # Gaspar Antuña
 
-Gaspar Antuña is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at berlinClub, Madrid on Sat, 5 Sept 2026.
+Gaspar Antuña is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at berlinClub, Madrid on Sat, 5 Sept 2026.
 
 Gaspar Antuña is a house and disco artist based in Spain, tracked on soundcheck, with 83 sets logged across Barcelona and Madrid. Often billed alongside Le Nomad, El cuerpo del Disco and Hunee. Next up: berlinClub, Madrid on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Gaspar Antuña is a house and disco artist based in Spain, tracked on soundcheck
 
 Le Nomad, El cuerpo del Disco, Hunee
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gasparantuna/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gasparantuna/)*

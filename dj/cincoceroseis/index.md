@@ -1,6 +1,6 @@
 # CINCOCEROSEIS
 
-CINCOCEROSEIS is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at berlinClub, Madrid on Fri, 4 Sept 2026.
+CINCOCEROSEIS is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at berlinClub, Madrid on Fri, 4 Sept 2026.
 
 CINCOCEROSEIS is an electronica and house artist based in Argentina, tracked on soundcheck, with 10 sets logged across Madrid. Often billed alongside Jorge Padilla, Leandro Bordoni and BIHABI. Next up: berlinClub, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ CINCOCEROSEIS is an electronica and house artist based in Argentina, tracked on 
 
 Jorge Padilla, Leandro Bordoni, BIHABI
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cincoceroseis/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cincoceroseis/)*

@@ -1,6 +1,6 @@
 # Philipp Otterbach
 
-Philipp Otterbach is a Ambient and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
+Philipp Otterbach is a Ambient and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
 
 Philipp Otterbach is an ambient and trance artist based in Germany, tracked on soundcheck, with 37 sets logged across Amsterdam, Belgrade, Berlin and Bristol and 11 more. Often billed alongside p/kstr, Benedikt Frey and DJ Absolutely Shit. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Philipp Otterbach is an ambient and trance artist based in Germany, tracked on s
 
 p/kstr, Benedikt Frey, DJ Absolutely Shit
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippotterbach/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippotterbach/)*

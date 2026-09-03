@@ -1,6 +1,6 @@
 # Emil Zenko
 
-Emil Zenko is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jasna 1, Warsaw on Fri, 9 Oct 2026.
+Emil Zenko is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jasna 1, Warsaw on Fri, 9 Oct 2026.
 
 Emil Zenko is a trance and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Krakow and Warsaw. Often billed alongside Plastik (1), dosaaf and Jasakar. Next up: Jasna 1, Warsaw on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Emil Zenko is a trance and techno artist based in Germany, tracked on soundcheck
 
 Plastik (1), dosaaf, Jasakar
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilzenko/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilzenko/)*

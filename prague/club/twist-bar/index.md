@@ -1,6 +1,6 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "DJ Roiboss b2b WHY/AMI" on Thu, 3 Sept 2026.
+Twist Bar is a music venue in Prague with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "DJ Roiboss b2b WHY/AMI" on Thu, 3 Sept 2026.
 
 Twist Bar is a music venue in Prague listed on soundcheck. 13 upcoming nights, with line-ups including annna (2), Atlaskin, Cosmodan and DJ Lumiere and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 13 upcoming nights, w
 | Fri, 18 Sept 2026 | Cosmodan, Madeleine | Cosmodan, Madeleine |
 | Sat, 19 Sept 2026 | Axaminer Records - Spigl, Pluge | Pluge |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

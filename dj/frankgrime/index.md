@@ -1,6 +1,6 @@
 # Frank Grime
 
-Frank Grime is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 19 Sept 2026.
+Frank Grime is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 19 Sept 2026.
 
 Frank Grime is a techno and house artist tracked on soundcheck, with 23 sets logged across Edinburgh, Glasgow and Leeds. Often billed alongside Columba, Craigen and ITEM9. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Frank Grime is a techno and house artist tracked on soundcheck, with 23 sets log
 
 Columba, Craigen, ITEM9
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankgrime/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankgrime/)*

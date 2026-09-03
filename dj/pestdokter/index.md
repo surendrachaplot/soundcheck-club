@@ -1,6 +1,6 @@
 # Pestdokter
 
-Pestdokter is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hard Club, Porto on Sat, 19 Sept 2026.
+Pestdokter is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hard Club, Porto on Sat, 19 Sept 2026.
 
 Pestdokter is a techno and industrial artist tracked on soundcheck, with 32 sets logged across Barcelona, Lisbon, Madrid and Malta and 2 more. Often billed alongside Frik, Cristopher Arcuri and Ornella. Next up: Hard Club, Porto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Pestdokter is a techno and industrial artist tracked on soundcheck, with 32 sets
 
 Frik, Cristopher Arcuri, Ornella
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pestdokter/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pestdokter/)*

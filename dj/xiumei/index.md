@@ -1,6 +1,6 @@
 # Xiumei
 
-Xiumei is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Vancouver Art Gallery, Vancouver on Sun, 6 Sept 2026.
+Xiumei is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Vancouver Art Gallery, Vancouver on Sun, 6 Sept 2026.
 
 Xiumei is a techno and experimental artist tracked on soundcheck, with 20 sets logged across Montreal and Vancouver. Often billed alongside Bronsön, EtOH and Beiti. Next up: Vancouver Art Gallery, Vancouver on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Xiumei is a techno and experimental artist tracked on soundcheck, with 20 sets l
 
 Bronsön, EtOH, Beiti
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xiumei/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xiumei/)*

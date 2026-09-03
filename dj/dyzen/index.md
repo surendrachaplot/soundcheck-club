@@ -1,6 +1,6 @@
 # Dyzen
 
-Dyzen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Dyzen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
 Dyzen is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Athens and Basel and 19 more. Often billed alongside Mind Against, sideral and Recondite. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dyzen is a techno and house artist tracked on soundcheck, with 51 sets logged ac
 
 Mind Against, sideral, Recondite
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dyzen/)*

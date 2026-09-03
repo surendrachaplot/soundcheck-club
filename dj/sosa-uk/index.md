@@ -1,6 +1,6 @@
 # SOSA (UK)
 
-SOSA (UK) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Liverpool on Sat, 12 Sept 2026.
+SOSA (UK) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Liverpool on Sat, 12 Sept 2026.
 
 SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: TBA, Liverpool on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on s
 
 East End Dubs, Max Dean, Fleur Shore
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*

@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Function 500 with Jaag & BROKE LEG" on Thu, 3 Sept 2026.
+Public Works is a music venue in San Francisco/Oakland with 18 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Function 500 with Jaag & BROKE LEG" on Thu, 3 Sept 2026.
 
 Public Works is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming nights, with line-ups including AGROPOL, ALMAS, Âme and Ben UFO and 2 more. Browse upcoming dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Public Works is a music venue in Sanfrancisco listed on soundcheck. 18 upcoming 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

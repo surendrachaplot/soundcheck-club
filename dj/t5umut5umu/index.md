@@ -1,6 +1,6 @@
 # T5UMUT5UMU
 
-T5UMUT5UMU is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 12 Sept 2026.
+T5UMUT5UMU is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret location in Nishiazabu, Tokyo on Sat, 12 Sept 2026.
 
 T5UMUT5UMU is a bass and techno artist tracked on soundcheck, with 10 sets logged across Seoul, Singapore and Tokyo. Often billed alongside Mars89, 7e and AI.U. Next up: TBA - Secret location in Nishiazabu, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ T5UMUT5UMU is a bass and techno artist tracked on soundcheck, with 10 sets logge
 
 Mars89, 7e, AI.U
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t5umut5umu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t5umut5umu/)*

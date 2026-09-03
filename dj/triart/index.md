@@ -1,6 +1,6 @@
 # Triart
 
-Triart is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at John Doe, Amsterdam on Sat, 5 Sept 2026.
+Triart is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at John Doe, Amsterdam on Sat, 5 Sept 2026.
 
 Triart is a techno and house artist based in Turkey, tracked on soundcheck, with 28 sets logged across Amsterdam, Athens, Berlin and Budapest and 7 more. Often billed alongside Hard Reset, BUSSI and OIBAF. Next up: John Doe, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Triart is a techno and house artist based in Turkey, tracked on soundcheck, with
 
 Hard Reset, BUSSI, OIBAF
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/triart/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/triart/)*

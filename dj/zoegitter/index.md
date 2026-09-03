@@ -1,6 +1,6 @@
 # Zoe Gitter
 
-Zoe Gitter is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Gold Coast, Chicago on Fri, 2 Oct 2026.
+Zoe Gitter is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Gold Coast, Chicago on Fri, 2 Oct 2026.
 
 Zoe Gitter is a club and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Chicago, Ibiza, London and Losangeles and 5 more. Often billed alongside Alex Chapman, Ben Sterling and Mita Gami. Next up: TBA - Gold Coast, Chicago on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Zoe Gitter is a club and house artist based in United States of America, tracked
 
 Alex Chapman, Ben Sterling, Mita Gami
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoegitter/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoegitter/)*

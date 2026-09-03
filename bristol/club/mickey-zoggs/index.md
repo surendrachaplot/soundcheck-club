@@ -1,6 +1,6 @@
 # Mickey Zoggs
 
-Mickey Zoggs is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Noods Radio: Elena Colombi, Rhys Lightning & Monksy" on Fri, 4 Sept 2026.
+Mickey Zoggs is a music venue in Bristol with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Noods Radio: Elena Colombi, Rhys Lightning & Monksy" on Fri, 4 Sept 2026.
 
 Mickey Zoggs is a music venue in Bristol listed on soundcheck. 1 upcoming night, with line-ups including Elena Colombi. Browse upcoming dates, start times and who's playing. 8-9 Surrey St, St Paul''s, Bristol BS2 8PS.
 
@@ -14,4 +14,4 @@ Mickey Zoggs is a music venue in Bristol listed on soundcheck. 1 upcoming night,
 
 8-9 Surrey St, St Paul''s, Bristol BS2 8PS, Bristol
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/mickey-zoggs/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/mickey-zoggs/)*

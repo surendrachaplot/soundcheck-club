@@ -1,6 +1,6 @@
 # Coco
 
-Coco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
+Coco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hoppetosse, Berlin on Fri, 11 Sept 2026.
 
 Coco is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Bali and Bangkok and 6 more. Often billed alongside Empro, Bee Lincoln and Flo Pirke. Next up: Hoppetosse, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Coco is a techno and house artist tracked on soundcheck, with 49 sets logged acr
 
 Empro, Bee Lincoln, Flo Pirke
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coco/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coco/)*

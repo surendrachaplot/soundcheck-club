@@ -1,6 +1,6 @@
 # Shadow Hrym (ES)
 
-Shadow Hrym (ES) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Bassement, Madrid on Thu, 17 Sept 2026.
+Shadow Hrym (ES) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Bassement, Madrid on Thu, 17 Sept 2026.
 
 Shadow Hrym (ES) is a techno and acid artist based in Spain, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside Roll Dann, Laia and Olivia Mendez. Next up: The Bassement, Madrid on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Shadow Hrym (ES) is a techno and acid artist based in Spain, tracked on soundche
 
 Roll Dann, Laia, Olivia Mendez
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowhrym-es/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowhrym-es/)*

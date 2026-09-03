@@ -1,6 +1,6 @@
 # Oath
 
-Oath is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "OATH WEDNESDAY" on Wed, 2 Sept 2026.
+Oath is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "OATH WEDNESDAY" on Wed, 2 Sept 2026.
 
 Oath is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including 7e, akii, Amps and A Taut Line and 2 more. Browse upcoming dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -22,4 +22,4 @@ Oath is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with lin
 
 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oath/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oath/)*

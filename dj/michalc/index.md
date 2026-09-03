@@ -1,6 +1,6 @@
 # Michal C
 
-Michal C is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pawn Shop, Dublin on Sat, 19 Sept 2026.
+Michal C is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Pawn Shop, Dublin on Sat, 19 Sept 2026.
 
 Michal C is a house and tech house artist tracked on soundcheck, with 4 sets logged across Dublin. Often billed alongside Medalla, Dicko and Cailín. Next up: Pawn Shop, Dublin on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Michal C is a house and tech house artist tracked on soundcheck, with 4 sets log
 
 Medalla, Dicko, Cailín
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michalc/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michalc/)*

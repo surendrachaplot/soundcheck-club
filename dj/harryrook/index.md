@@ -1,6 +1,6 @@
 # Harry Rook
 
-Harry Rook is a Jazz and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hyde Park Book Club, Leeds on Fri, 9 Oct 2026.
+Harry Rook is a Jazz and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hyde Park Book Club, Leeds on Fri, 9 Oct 2026.
 
 Harry Rook is a jazz and club artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Leeds and Nottingham. Often billed alongside Prawn Posture, Ga-briel and Joe Hell. Next up: Hyde Park Book Club, Leeds on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Harry Rook is a jazz and club artist based in United Kingdom, tracked on soundch
 
 Prawn Posture, Ga-briel, Joe Hell
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harryrook/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harryrook/)*

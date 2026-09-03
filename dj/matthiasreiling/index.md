@@ -1,6 +1,6 @@
 # Matthias Reiling
 
-Matthias Reiling is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Matthias Reiling is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Matthias Reiling is a house and minimal artist based in Germany, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin and Vienna. Often billed alongside Marie Lung, Cosmo (KR) and Edward. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Matthias Reiling is a house and minimal artist based in Germany, tracked on soun
 
 Marie Lung, Cosmo (KR), Edward
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasreiling/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasreiling/)*

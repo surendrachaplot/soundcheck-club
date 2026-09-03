@@ -1,6 +1,6 @@
 # Awa (uwu)
 
-Awa (uwu) is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Japan Monterrey, Mexico City on Fri, 18 Sept 2026.
+Awa (uwu) is a Latin Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Japan Monterrey, Mexico City on Fri, 18 Sept 2026.
 
 Awa (uwu) is a latin bass and club artist based in Mexico, tracked on soundcheck, with 42 sets logged across Bangkok, Ibiza, Mexicocity and Newyorkcity. Often billed alongside ADAKEO, Lyo XS and Babybruise. Next up: Japan Monterrey, Mexicocity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Awa (uwu) is a latin bass and club artist based in Mexico, tracked on soundcheck
 
 ADAKEO, Lyo XS, Babybruise
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awauwu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awauwu/)*

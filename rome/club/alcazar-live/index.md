@@ -1,6 +1,6 @@
 # Alcazar Live
 
-Alcazar Live is a music venue in Rome with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "LUMI live & lights show" on Tue, 1 Dec 2026.
+Alcazar Live is a music venue in Rome with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "LUMI live & lights show" on Tue, 1 Dec 2026.
 
 Alcazar Live is a music venue in Rome listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Via Cardinale Merry Del Val , 14, 00153 Roma.
 
@@ -14,4 +14,4 @@ Alcazar Live is a music venue in Rome listed on soundcheck. 1 upcoming night. Br
 
 Via Cardinale Merry Del Val , 14, 00153 Roma, Rome
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/alcazar-live/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/alcazar-live/)*

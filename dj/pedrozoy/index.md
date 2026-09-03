@@ -1,6 +1,6 @@
 # Pedro Zoy
 
-Pedro Zoy is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Carmo Rooftop, Lisbon on Fri, 4 Sept 2026.
+Pedro Zoy is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Carmo Rooftop, Lisbon on Fri, 4 Sept 2026.
 
 Pedro Zoy is a house and minimal artist tracked on soundcheck, with 12 sets logged across Lisbon. Often billed alongside Kee_ko, Kee.ko and Anthea. Next up: Carmo Rooftop, Lisbon on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Pedro Zoy is a house and minimal artist tracked on soundcheck, with 12 sets logg
 
 Kee_ko, Kee.ko, Anthea
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrozoy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrozoy/)*

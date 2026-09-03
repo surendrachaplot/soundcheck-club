@@ -1,6 +1,6 @@
 # 0xydr0p
 
-0xydr0p is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Lee's Palace, Toronto on Fri, 18 Sept 2026.
+0xydr0p is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lee's Palace, Toronto on Fri, 18 Sept 2026.
 
 0xydr0p is a techno and house artist tracked on soundcheck, with 8 sets logged across Toronto and Vancouver. Often billed alongside Jer (CA), EtOH and alecks. Next up: Lee's Palace, Toronto on Fri 18 Sept.
 
@@ -24,4 +24,4 @@
 
 Jer (CA), EtOH, alecks
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0xydr0p/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0xydr0p/)*

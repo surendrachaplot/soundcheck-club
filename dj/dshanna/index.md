@@ -1,6 +1,6 @@
 # Dshanna
 
-Dshanna is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Crack Bellmer, Berlin on Sat, 19 Sept 2026.
+Dshanna is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Crack Bellmer, Berlin on Sat, 19 Sept 2026.
 
 Dshanna is a techno and electro artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Chicago. Often billed alongside Julez (live), Dr. Spree and Eira. Next up: Crack Bellmer, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Dshanna is a techno and electro artist based in Germany, tracked on soundcheck, 
 
 Julez (live), Dr. Spree, Eira
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dshanna/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dshanna/)*

@@ -1,6 +1,6 @@
 # Liminal MX
 
-Liminal MX is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at M.N.Roy, Mexico City on Sat, 5 Sept 2026.
+Liminal MX is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at M.N.Roy, Mexico City on Sat, 5 Sept 2026.
 
 Liminal MX is an electronica and techno artist based in Mexico, tracked on soundcheck, with 5 sets logged across Malaga and Mexicocity. Often billed alongside ELIF, Mehill and Miguel Payda. Next up: M.N.Roy, Mexicocity on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Liminal MX is an electronica and techno artist based in Mexico, tracked on sound
 
 ELIF, Mehill, Miguel Payda
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liminalmx/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liminalmx/)*

@@ -1,6 +1,6 @@
 # PAIK
 
-PAIK is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Nué Seoul, Seoul on Sun, 6 Sept 2026.
+PAIK is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Nué Seoul, Seoul on Sun, 6 Sept 2026.
 
 PAIK is a house and minimal artist based in South Korea, tracked on soundcheck, with 27 sets logged across Seoul. Often billed alongside Yun Line, Zoonpark and J.bin (2). Next up: Nué Seoul, Seoul on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ PAIK is a house and minimal artist based in South Korea, tracked on soundcheck, 
 
 Yun Line, Zoonpark, J.bin (2)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paik/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paik/)*

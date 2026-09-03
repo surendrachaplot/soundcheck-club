@@ -1,6 +1,6 @@
 # Niceto Bar
 
-Niceto Bar is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Aurora DNCFLR: Weekend offliners" on Fri, 4 Sept 2026.
+Niceto Bar is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Aurora DNCFLR: Weekend offliners" on Fri, 4 Sept 2026.
 
 Niceto Bar is a music venue in Buenosaires listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Av. Cnel. Niceto Vega 5507.
 
@@ -14,4 +14,4 @@ Niceto Bar is a music venue in Buenosaires listed on soundcheck. 1 upcoming nigh
 
 Av. Cnel. Niceto Vega 5507, Buenos Aires
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/niceto-bar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/niceto-bar/)*

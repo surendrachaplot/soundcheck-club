@@ -1,6 +1,6 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Meltdown" on Wed, 2 Sept 2026.
+Club der Visionaere is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Meltdown" on Wed, 2 Sept 2026.
 
 Club der Visionaere is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Samuele Pagliai, Anderson (US), Andi Teichmann and Andrea Cossu and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 14 upcoming
 
 Am Flutgraben 1, 12435 Berlin, Germany, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*

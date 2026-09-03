@@ -1,6 +1,6 @@
 # DJ Vadim
 
-DJ Vadim is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Vajdahunyad Castle, Budapest on Sat, 19 Sept 2026.
+DJ Vadim is a Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Vajdahunyad Castle, Budapest on Sat, 19 Sept 2026.
 
 DJ Vadim is a bass and hip-hop artist based in Russia, tracked on soundcheck, with 11 sets logged across Auckland, Bangkok, Berlin and Budapest and 5 more. Often billed alongside Big Red, Chris Munky and Congo Natty. Next up: Vajdahunyad Castle, Budapest on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ DJ Vadim is a bass and hip-hop artist based in Russia, tracked on soundcheck, wi
 
 Big Red, Chris Munky, Congo Natty
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvadim/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvadim/)*

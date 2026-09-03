@@ -1,6 +1,6 @@
 # Luna Ludmila
 
-Luna Ludmila is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Luna Ludmila is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Luna Ludmila is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Nuno dos Santos, Bart Skils and Carlos Valdes. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Luna Ludmila is a house and techno artist tracked on soundcheck, with 98 sets lo
 
 Nuno dos Santos, Bart Skils, Carlos Valdes
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaludmila/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaludmila/)*

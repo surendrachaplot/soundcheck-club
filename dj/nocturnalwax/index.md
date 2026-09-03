@@ -1,6 +1,6 @@
 # Nocturnal Wax
 
-Nocturnal Wax is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at DC9, Washington DC on Fri, 11 Sept 2026.
+Nocturnal Wax is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DC9, Washington DC on Fri, 11 Sept 2026.
 
 Nocturnal Wax is a techno and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Washingtondc. Often billed alongside side II side, OK Carty and Artemis.105. Next up: DC9, Washingtondc on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Nocturnal Wax is a techno and house artist based in United States of America, tr
 
 side II side, OK Carty, Artemis.105
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnalwax/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnalwax/)*

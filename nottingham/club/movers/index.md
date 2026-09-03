@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 16 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "mixclub minimal: James Tristan [electroground], Evil Woman [trancesexuals], Vitamin T & Gloss" on Thu, 3 Sept 2026.
+Movers is a music venue in Nottingham with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "mixclub minimal: James Tristan [electroground], Evil Woman [trancesexuals], Vitamin T & Gloss" on Thu, 3 Sept 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming nights, with line-ups including Evil Woman, G33 (UK), Jack DiY and James Tristan and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 16 upcoming nights, 
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

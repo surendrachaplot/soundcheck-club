@@ -1,6 +1,6 @@
 # Tony Njoku
 
-Tony Njoku is a Dub and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Tony Njoku is a Dub and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Tony Njoku is a dub and electronica artist tracked on soundcheck, with 5 sets logged across Berlin, Edinburgh, Utrecht and Vienna. Often billed alongside Aunty Rayzor, KAVARI and ABOPF. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -21,4 +21,4 @@ Tony Njoku is a dub and electronica artist tracked on soundcheck, with 5 sets lo
 
 Aunty Rayzor, KAVARI, ABOPF
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonynjoku/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonynjoku/)*

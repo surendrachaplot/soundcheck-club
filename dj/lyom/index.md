@@ -1,6 +1,6 @@
 # LYOM
 
-LYOM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 11 Sept 2026.
+LYOM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 11 Sept 2026.
 
 LYOM is a techno and house artist based in Japan, tracked on soundcheck, with 8 sets logged across Tokyo. Often billed alongside EMILIO (3), STRATAH and Calavera. Next up: ZEROTOKYO, Tokyo on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ LYOM is a techno and house artist based in Japan, tracked on soundcheck, with 8 
 
 EMILIO (3), STRATAH, Calavera
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*

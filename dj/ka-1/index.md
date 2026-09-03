@@ -1,6 +1,6 @@
 # KĀ (1)
 
-KĀ (1) is a Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Atemporal, Berlin on Sun, 6 Sept 2026.
+KĀ (1) is a Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Atemporal, Berlin on Sun, 6 Sept 2026.
 
 KĀ (1) is an ambient artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Ground Tactics, Agonis and Ario. Next up: Atemporal, Berlin on Sun 6 Sept.
 
@@ -20,4 +20,4 @@ KĀ (1) is an ambient artist tracked on soundcheck, with 4 sets logged across B
 
 Ground Tactics, Agonis, Ario
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ka-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ka-1/)*

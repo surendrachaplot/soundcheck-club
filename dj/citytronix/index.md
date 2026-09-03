@@ -1,6 +1,6 @@
 # CITYTRONIX
 
-CITYTRONIX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Glove That Fits, London on Thu, 3 Sept 2026.
+CITYTRONIX is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Glove That Fits, London on Thu, 3 Sept 2026.
 
 CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Brighton, London, Manchester and Munich. Often billed alongside nohexcode, Modlar and KAVARI. Next up: The Glove That Fits, London on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on sou
 
 nohexcode, Modlar, KAVARI
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*

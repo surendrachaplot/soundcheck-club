@@ -1,6 +1,6 @@
 # Protokseed
 
-Protokseed is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at C12, Brussels on Fri, 25 Sept 2026.
+Protokseed is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at C12, Brussels on Fri, 25 Sept 2026.
 
 Protokseed is a techno and acid artist based in France, tracked on soundcheck, with 39 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 12 more. Often billed alongside Sköne, FLKN and DXPE (ES). Next up: C12, Brussels on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Protokseed is a techno and acid artist based in France, tracked on soundcheck, w
 
 Sköne, FLKN, DXPE (ES)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/protokseed/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/protokseed/)*

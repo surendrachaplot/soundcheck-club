@@ -1,6 +1,6 @@
 # Alisa Murphy
 
-Alisa Murphy is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 2ten, Athens on Sat, 26 Sept 2026.
+Alisa Murphy is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 2ten, Athens on Sat, 26 Sept 2026.
 
 Alisa Murphy is a techno and acid artist tracked on soundcheck, with 47 sets logged across Athens, London and Tbilisi. Often billed alongside Imperium, Pelany and NAAMAA. Next up: 2ten, Athens on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Alisa Murphy is a techno and acid artist tracked on soundcheck, with 47 sets log
 
 Imperium, Pelany, NAAMAA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alisamurphy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alisamurphy/)*

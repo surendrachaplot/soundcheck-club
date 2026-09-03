@@ -1,6 +1,6 @@
 # DJ Business (2)
 
-DJ Business (2) is a House and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
+DJ Business (2) is a House and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
 
 DJ Business (2) is a house and ghetto tech artist based in Germany, tracked on soundcheck, with 51 sets logged across Basel, Berlin, Cologne and Leipzig and 5 more. Often billed alongside Wall Ra, Carl Hang and die_ley. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ DJ Business (2) is a house and ghetto tech artist based in Germany, tracked on s
 
 Wall Ra, Carl Hang, die_ley
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*

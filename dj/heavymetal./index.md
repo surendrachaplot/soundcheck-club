@@ -1,6 +1,6 @@
 # heavymetal.
 
-heavymetal. is a Techno and Dembow artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bsmt 254, Toronto on Thu, 17 Sept 2026.
+heavymetal. is a Techno and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bsmt 254, Toronto on Thu, 17 Sept 2026.
 
 heavymetal. is a techno and dembow artist tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside 'PAVV', 2HZY and Allterverse. Next up: Bsmt 254, Toronto on Thu 17 Sept.
 
@@ -20,4 +20,4 @@ heavymetal. is a techno and dembow artist tracked on soundcheck, with 4 sets log
 
 'PAVV', 2HZY, Allterverse
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heavymetal./)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heavymetal./)*

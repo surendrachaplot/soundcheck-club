@@ -1,6 +1,6 @@
 # Birgit
 
-Birgit is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Birgits WEEKENDER" on Fri, 4 Sept 2026.
+Birgit is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Birgits WEEKENDER" on Fri, 4 Sept 2026.
 
 Birgit is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including ANIÈ, AWSM, FYNN and gem.ini and 1 more. Browse upcoming dates, start times and who's playing. Schleusenufer 3, 10997 Berlin.
 
@@ -16,4 +16,4 @@ Birgit is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with 
 
 Schleusenufer 3, 10997 Berlin, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/birgit/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/birgit/)*

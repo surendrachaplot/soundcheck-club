@@ -1,6 +1,6 @@
 # Javas
 
-Javas is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bar v Krymský, Prague on Fri, 23 Oct 2026.
+Javas is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar v Krymský, Prague on Fri, 23 Oct 2026.
 
 Javas is a deep house and house artist tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside Cubik, Da Moon and Roman Rai. Next up: Bar v Krymský, Prague on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Javas is a deep house and house artist tracked on soundcheck, with 5 sets logged
 
 Cubik, Da Moon, Roman Rai
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/javas/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/javas/)*

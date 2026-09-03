@@ -1,6 +1,6 @@
 # 2HOT2PLAY
 
-2HOT2PLAY is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fuse, Brussels on Fri, 11 Sept 2026.
+2HOT2PLAY is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fuse, Brussels on Fri, 11 Sept 2026.
 
 2HOT2PLAY is a techno and trance artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Mika Heggemann, Cara Elizabeth and L.zwo. Next up: Fuse, Brussels on Fri 11 Sept.
 
@@ -30,4 +30,4 @@
 
 Mika Heggemann, Cara Elizabeth, L.zwo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2hot2play/)*

@@ -1,6 +1,6 @@
 # Delirium
 
-Delirium is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Melkweg, Amsterdam on Sat, 5 Sept 2026.
+Delirium is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Melkweg, Amsterdam on Sat, 5 Sept 2026.
 
 Delirium is a drum & bass and techno artist based in Spain, tracked on soundcheck, with 13 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 2 more. Often billed alongside Hermit (ES), ARNAW and Akira. Next up: Melkweg, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Delirium is a drum & bass and techno artist based in Spain, tracked on soundchec
 
 Hermit (ES), ARNAW, Akira
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delirium/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delirium/)*

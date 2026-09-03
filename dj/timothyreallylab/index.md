@@ -1,6 +1,6 @@
 # Timothy Really Lab.
 
-Timothy Really Lab. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at WOMB, Tokyo on Fri, 13 Nov 2026.
+Timothy Really Lab. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at WOMB, Tokyo on Fri, 13 Nov 2026.
 
 Timothy Really Lab. is a house and techno artist tracked on soundcheck, with 12 sets logged across Seoul and Tokyo. Often billed alongside Nick The Record, YAMARCHY and KABUTO. Next up: WOMB, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Timothy Really Lab. is a house and techno artist tracked on soundcheck, with 12 
 
 Nick The Record, YAMARCHY, KABUTO
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timothyreallylab/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timothyreallylab/)*

@@ -1,6 +1,6 @@
 # Octave
 
-Octave is a music venue in Kyoto with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "maripopi" on Sun, 6 Sept 2026.
+Octave is a music venue in Kyoto with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "maripopi" on Sun, 6 Sept 2026.
 
 Octave is a music venue in Kyoto listed on soundcheck. 1 upcoming night, with line-ups including Ascalypso and Neibiss. Browse upcoming dates, start times and who's playing. 236-2 Yamazakicho, Nakagyo-ku , Kyoto-shi, Kyoto, 604-8032 Japan.
 
@@ -14,4 +14,4 @@ Octave is a music venue in Kyoto listed on soundcheck. 1 upcoming night, with li
 
 236-2 Yamazakicho, Nakagyo-ku , Kyoto-shi, Kyoto, 604-8032 Japan, Kyoto
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/octave/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/octave/)*

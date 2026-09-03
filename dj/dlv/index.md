@@ -1,6 +1,6 @@
 # DLV
 
-DLV is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - WAREHOUSE TBA , New York City on Sat, 31 Oct 2026.
+DLV is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - WAREHOUSE TBA , New York City on Sat, 31 Oct 2026.
 
 DLV is a techno and acid artist based in Austria, tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside KTK (DE), Sept and CLTX. Next up: TBA - WAREHOUSE TBA , Newyorkcity on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DLV is a techno and acid artist based in Austria, tracked on soundcheck, with 11
 
 KTK (DE), Sept, CLTX
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*

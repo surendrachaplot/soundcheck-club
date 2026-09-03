@@ -1,6 +1,6 @@
 # Deefa
 
-Deefa is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Deefa is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 Deefa is a drum & bass and jungle artist tracked on soundcheck, with 32 sets logged across Birmingham, Brighton, Bristol and Glasgow and 2 more. Often billed alongside MYNX, Kleu and Beano. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Deefa is a drum & bass and jungle artist tracked on soundcheck, with 32 sets log
 
 MYNX, Kleu, Beano
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deefa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deefa/)*

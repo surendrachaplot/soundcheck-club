@@ -1,6 +1,6 @@
 # Balearic London
 
-Balearic London is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at EartH Kitchen, London on Fri, 20 Nov 2026.
+Balearic London is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at EartH Kitchen, London on Fri, 20 Nov 2026.
 
 Balearic London is a house and balearic artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Ariane V, Ben Gomori and Gaucho (UK). Next up: EartH Kitchen, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Balearic London is a house and balearic artist tracked on soundcheck, with 13 se
 
 Ariane V, Ben Gomori, Gaucho (UK)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baleariclondon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baleariclondon/)*

@@ -1,6 +1,6 @@
 # Gourlay
 
-Gourlay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+Gourlay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 Gourlay is a house and techno artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Edinburgh, Glasgow, Manchester and Milan. Often billed alongside DJ Bz, Doogi and Eubo. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Gourlay is a house and techno artist based in United Kingdom, tracked on soundch
 
 DJ Bz, Doogi, Eubo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liamgourlay-uk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liamgourlay-uk/)*

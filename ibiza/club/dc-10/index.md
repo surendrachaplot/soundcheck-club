@@ -1,6 +1,6 @@
 # DC-10
 
-DC-10 is a music venue in Ibiza with 11 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Solid Grooves - Week 14" on Thu, 3 Sept 2026.
+DC-10 is a music venue in Ibiza with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Solid Grooves - Week 14" on Thu, 3 Sept 2026.
 
 DC-10 is a music venue in Ibiza listed on soundcheck. 11 upcoming nights, with line-ups including Antal, Bedouin, Chloé Caillet and Kamma and 2 more. Browse upcoming dates, start times and who's playing. PM-802, Sant Josep de sa Talaia, Ibiza Spain.
 
@@ -23,4 +23,4 @@ DC-10 is a music venue in Ibiza listed on soundcheck. 11 upcoming nights, with l
 
 PM-802, Sant Josep de sa Talaia, Ibiza Spain, Ibiza
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/dc-10/)*

@@ -1,6 +1,6 @@
 # wAFF
 
-wAFF is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
+wAFF is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
 
 wAFF is a tech house and house artist tracked on soundcheck, with 130 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 32 more. Often billed alongside Jamie Jones, Max Dean and Darius Syrossian. Next up: [UNVRS], Ibiza on Wed 9 Sept.
 
@@ -30,4 +30,4 @@ wAFF is a tech house and house artist tracked on soundcheck, with 130 sets logge
 
 Jamie Jones, Max Dean, Darius Syrossian
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waff/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waff/)*

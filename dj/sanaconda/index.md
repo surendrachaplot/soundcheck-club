@@ -1,6 +1,6 @@
 # Sanaconda
 
-Sanaconda is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Kote, Seoul on Sat, 5 Sept 2026.
+Sanaconda is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kote, Seoul on Sat, 5 Sept 2026.
 
 Sanaconda is an electronic artist tracked on soundcheck, with 7 sets logged across Seoul. Often billed alongside Spindlewood, Gyusco and Haney Lee. Next up: Kote, Seoul on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Sanaconda is an electronic artist tracked on soundcheck, with 7 sets logged acro
 
 Spindlewood, Gyusco, Haney Lee
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaconda/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaconda/)*

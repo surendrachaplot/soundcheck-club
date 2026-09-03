@@ -1,6 +1,6 @@
 # Gerssein
 
-Gerssein is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Culture Box, Copenhagen on Sat, 19 Sept 2026.
+Gerssein is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Culture Box, Copenhagen on Sat, 19 Sept 2026.
 
 Gerssein is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 21 sets logged across Copenhagen. Often billed alongside Tim Andresen, Nicolas Petersen and Shansen. Next up: Culture Box, Copenhagen on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Gerssein is a progressive house and techno artist based in Argentina, tracked on
 
 Tim Andresen, Nicolas Petersen, Shansen
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerssein/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerssein/)*

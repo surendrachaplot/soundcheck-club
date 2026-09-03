@@ -1,6 +1,6 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 35 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "MEDUZA & James Hype present OUR HOUSE" on Wed, 2 Sept 2026.
+Hï Ibiza is a music venue in Ibiza with 35 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "MEDUZA & James Hype present OUR HOUSE" on Wed, 2 Sept 2026.
 
 Hï Ibiza is a music venue in Ibiza listed on soundcheck. 35 upcoming nights, with line-ups including Adam Beyer, Adam Ten, A For Alpha and AJNA and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
@@ -23,4 +23,4 @@ Hï Ibiza is a music venue in Ibiza listed on soundcheck. 35 upcoming nights, wi
 
 Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain, Ibiza
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/h-ibiza/)*

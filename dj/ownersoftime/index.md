@@ -1,6 +1,6 @@
 # Owners Of Time
 
-Owners Of Time is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Olympo Sky Bar, Lex Tower, Microcentro, Buenos Aires on Sat, 19 Sept 2026.
+Owners Of Time is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Olympo Sky Bar, Lex Tower, Microcentro, Buenos Aires on Sat, 19 Sept 2026.
 
 Owners Of Time is a techno and electronica artist based in Argentina, tracked on soundcheck, with 5 sets logged across Buenosaires. Often billed alongside KREAM. Next up: TBA - Olympo Sky Bar, Lex Tower, Microcentro, Buenosaires on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Owners Of Time is a techno and electronica artist based in Argentina, tracked on
 
 KREAM
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ownersoftime/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ownersoftime/)*

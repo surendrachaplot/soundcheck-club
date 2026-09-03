@@ -1,6 +1,6 @@
 # tamypro
 
-tamypro is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, Berlin on Sun, 11 Oct 2026.
+tamypro is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Berlin on Sun, 11 Oct 2026.
 
 tamypro is a techno and trance artist tracked on soundcheck, with 19 sets logged across Berlin, Leipzig and Losangeles. Often billed alongside ADO (DE), Captain WAP and Miran N. Next up: TBA, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ tamypro is a techno and trance artist tracked on soundcheck, with 19 sets logged
 
 ADO (DE), Captain WAP, Miran N
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamypro/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamypro/)*

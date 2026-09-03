@@ -1,6 +1,6 @@
 # Emex
 
-Emex is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 2ten, Athens on Sat, 26 Sept 2026.
+Emex is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at 2ten, Athens on Sat, 26 Sept 2026.
 
 Emex is a techno and ebm artist based in Greece, tracked on soundcheck, with 62 sets logged across Athens, Berlin and London. Often billed alongside George Apergis, Talantösis and BMSK. Next up: 2ten, Athens on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Emex is a techno and ebm artist based in Greece, tracked on soundcheck, with 62 
 
 George Apergis, Talantösis, BMSK
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emex/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emex/)*

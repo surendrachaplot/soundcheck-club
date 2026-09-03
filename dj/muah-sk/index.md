@@ -1,6 +1,6 @@
 # Muah
 
-Muah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Volnost, Seoul on Thu, 3 Sept 2026.
+Muah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Volnost, Seoul on Thu, 3 Sept 2026.
 
 Muah is a techno and house artist based in South Korea, tracked on soundcheck, with 15 sets logged across Seoul. Often billed alongside Deekay, Hogun and Hwiah. Next up: Volnost, Seoul on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Muah is a techno and house artist based in South Korea, tracked on soundcheck, w
 
 Deekay, Hogun, Hwiah
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muah-sk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muah-sk/)*

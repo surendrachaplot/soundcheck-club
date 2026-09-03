@@ -1,6 +1,6 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Blue Star presents: girlSTEP" on Fri, 4 Sept 2026.
+Honey Street Studio is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Blue Star presents: girlSTEP" on Fri, 4 Sept 2026.
 
 Honey Street Studio is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including Abby Harris, Abena, Alex Milo and Allius and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
@@ -23,4 +23,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 11 upco
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

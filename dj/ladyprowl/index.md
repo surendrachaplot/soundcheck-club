@@ -1,6 +1,6 @@
 # Lady Prowl
 
-Lady Prowl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
+Lady Prowl is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bastet, Philadelphia on Sat, 26 Sept 2026.
 
 Lady Prowl is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across London, Newyorkcity and Philadelphia. Often billed alongside Gravers Lane, Particle Ray and John Raffaele. Next up: Bastet, Philadelphia on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lady Prowl is a techno and house artist based in United States of America, track
 
 Gravers Lane, Particle Ray, John Raffaele
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyprowl/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyprowl/)*

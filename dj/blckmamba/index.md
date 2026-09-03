@@ -1,6 +1,6 @@
 # Blck Mamba
 
-Blck Mamba is a Amapiano and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Blck Mamba is a Amapiano and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Blck Mamba is an amapiano and house artist based in Belgium, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Bona Léa, Chinnamasta and DJ Polo. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Blck Mamba is an amapiano and house artist based in Belgium, tracked on soundche
 
 Bona Léa, Chinnamasta, DJ Polo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blckmamba/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blckmamba/)*

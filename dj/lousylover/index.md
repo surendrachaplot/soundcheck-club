@@ -1,6 +1,6 @@
 # Lousy Lover
 
-Lousy Lover is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Lousy Lover is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Lousy Lover is a house and tech house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Istanbul, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside slugg, MEGUSTA and Ale Acosta. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lousy Lover is a house and tech house artist based in United States of America, 
 
 slugg, MEGUSTA, Ale Acosta
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lousylover/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lousylover/)*

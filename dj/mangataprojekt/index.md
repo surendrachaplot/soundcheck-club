@@ -1,6 +1,6 @@
 # MÅNGATA
 
-MÅNGATA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Grande Bounty, Athens on Sun, 13 Sept 2026.
+MÅNGATA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Grande Bounty, Athens on Sun, 13 Sept 2026.
 
 MÅNGATA is a house and techno artist based in Greece, tracked on soundcheck, with 10 sets logged across Athens and London. Often billed alongside Filippos, Angie (CY) and BRB. Next up: Grande Bounty, Athens on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ MÅNGATA is a house and techno artist based in Greece, tracked on soundcheck, wi
 
 Filippos, Angie (CY), BRB
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mangataprojekt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mangataprojekt/)*

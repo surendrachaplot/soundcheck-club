@@ -1,6 +1,6 @@
 # Yon Kim
 
-Yon Kim is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
+Yon Kim is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
 
 Yon Kim is a house and techno artist tracked on soundcheck, with 25 sets logged across Manchester, Seoul, Tbilisi and Tokyo. Often billed alongside Noidman, Xanexx and Haemi Park. Next up: Platt Fields Market Garden, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Yon Kim is a house and techno artist tracked on soundcheck, with 25 sets logged 
 
 Noidman, Xanexx, Haemi Park
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yonkim/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yonkim/)*

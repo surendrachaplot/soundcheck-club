@@ -1,6 +1,6 @@
 # IMEN.
 
-IMEN. is a Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Brisa, Bali on Sat, 19 Sept 2026.
+IMEN. is a Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at La Brisa, Bali on Sat, 19 Sept 2026.
 
 IMEN. is a club artist tracked on soundcheck, with 7 sets logged across Bali and Osaka. Often billed alongside DITA (ID), Kikiorix and Baba Stiltz. Next up: La Brisa, Bali on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ IMEN. is a club artist tracked on soundcheck, with 7 sets logged across Bali and
 
 DITA (ID), Kikiorix, Baba Stiltz
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lmen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lmen/)*

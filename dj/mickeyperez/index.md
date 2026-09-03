@@ -1,6 +1,6 @@
 # Mickey Perez
 
-Mickey Perez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Danger Danger, New York City on Fri, 4 Sept 2026.
+Mickey Perez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Danger Danger, New York City on Fri, 4 Sept 2026.
 
 Mickey Perez is a house and disco artist based in United States of America, tracked on soundcheck, with 102 sets logged across Detroit, Mexicocity, Miami and Montreal and 3 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Danger Danger, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Mickey Perez is a house and disco artist based in United States of America, trac
 
 Toribio, Deon Jamar, Guthrie
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*

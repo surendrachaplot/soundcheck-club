@@ -1,6 +1,6 @@
 # Jamason
 
-Jamason is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Garagen, Cologne on Wed, 9 Sept 2026.
+Jamason is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Garagen, Cologne on Wed, 9 Sept 2026.
 
 Jamason is a techno and psytrance artist tracked on soundcheck, with 4 sets logged across Cologne and Hamburg. Often billed alongside Elmar Strathe, Felix Fischer and Marc DePulse. Next up: Garagen, Cologne on Wed 9 Sept.
 
@@ -20,4 +20,4 @@ Jamason is a techno and psytrance artist tracked on soundcheck, with 4 sets logg
 
 Elmar Strathe, Felix Fischer, Marc DePulse
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamason/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamason/)*

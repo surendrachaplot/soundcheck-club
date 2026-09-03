@@ -1,6 +1,6 @@
 # Switch Nollie
 
-Switch Nollie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at A38, Budapest on Thu, 3 Sept 2026.
+Switch Nollie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at A38, Budapest on Thu, 3 Sept 2026.
 
 Switch Nollie is a house and techno artist tracked on soundcheck, with 80 sets logged across Amsterdam and Budapest. Often billed alongside Pizza Amore, Adis Is OK and SLYM. Next up: A38, Budapest on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Switch Nollie is a house and techno artist tracked on soundcheck, with 80 sets l
 
 Pizza Amore, Adis Is OK, SLYM
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/switchnollie/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/switchnollie/)*

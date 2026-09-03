@@ -1,6 +1,6 @@
 # Yonti
 
-Yonti is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mitsuki, Tokyo on Wed, 7 Oct 2026.
+Yonti is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mitsuki, Tokyo on Wed, 7 Oct 2026.
 
 Yonti is a techno and house artist based in Germany, tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Roi Perez, Blasha & Allatt and Rachel Noon. Next up: Mitsuki, Tokyo on Wed 7 Oct.
 
@@ -27,4 +27,4 @@ Yonti is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Roi Perez, Blasha & Allatt, Rachel Noon
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*

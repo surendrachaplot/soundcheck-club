@@ -1,6 +1,6 @@
 # Val Vashar
 
-Val Vashar is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Rote Flora, Hamburg on Sat, 17 Oct 2026.
+Val Vashar is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Rote Flora, Hamburg on Sat, 17 Oct 2026.
 
 Val Vashar is a techno and psytrance artist tracked on soundcheck, with 11 sets logged across Amsterdam, Basel, Berlin and Bristol and 4 more. Often billed alongside Josephine Wedekind, szoliver and 6EJOU. Next up: Rote Flora, Hamburg on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Val Vashar is a techno and psytrance artist tracked on soundcheck, with 11 sets 
 
 Josephine Wedekind, szoliver, 6EJOU
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valvashar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valvashar/)*

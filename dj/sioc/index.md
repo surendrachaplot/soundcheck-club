@@ -1,6 +1,6 @@
 # Sioc
 
-Sioc is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Pleasure Patterns, Berlin on Sat, 5 Sept 2026.
+Sioc is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Pleasure Patterns, Berlin on Sat, 5 Sept 2026.
 
 Sioc is a techno and trance artist tracked on soundcheck, with 28 sets logged across Basel, Berlin, Budapest and Copenhagen and 4 more. Often billed alongside Ana Malo, VEL (MA) and szoliver. Next up: Pleasure Patterns, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Sioc is a techno and trance artist tracked on soundcheck, with 28 sets logged ac
 
 Ana Malo, VEL (MA), szoliver
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sioc/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sioc/)*

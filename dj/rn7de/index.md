@@ -1,6 +1,6 @@
 # RN7 (DE)
 
-RN7 (DE) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Palais, Munich on Sat, 19 Sept 2026.
+RN7 (DE) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Palais, Munich on Sat, 19 Sept 2026.
 
 RN7 (DE) is a techno and tech house artist tracked on soundcheck, with 20 sets logged across Hamburg and Munich. Often billed alongside NAGINI, 9LALEY and DJ Ty-Rex. Next up: Palais, Munich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ RN7 (DE) is a techno and tech house artist tracked on soundcheck, with 20 sets l
 
 NAGINI, 9LALEY, DJ Ty-Rex
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rn7de/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rn7de/)*

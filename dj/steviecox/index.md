@@ -1,6 +1,6 @@
 # Stevie Cox
 
-Stevie Cox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sub Club, Glasgow on Sat, 5 Sept 2026.
+Stevie Cox is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sub Club, Glasgow on Sat, 5 Sept 2026.
 
 Stevie Cox is a techno and house artist tracked on soundcheck, with 85 sets logged across Aberdeen, Berlin, Bristol and Dundee and 6 more. Often billed alongside Telford, Harri & Domenic and Domenic Cappello. Next up: Sub Club, Glasgow on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Stevie Cox is a techno and house artist tracked on soundcheck, with 85 sets logg
 
 Telford, Harri & Domenic, Domenic Cappello
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steviecox/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steviecox/)*

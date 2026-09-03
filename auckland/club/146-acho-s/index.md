@@ -1,6 +1,6 @@
 # 146 Acho's
 
-146 Acho's is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Achos 146 | First Thursday" on Thu, 3 Sept 2026.
+146 Acho's is a music venue in Auckland with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Achos 146 | First Thursday" on Thu, 3 Sept 2026.
 
 146 Acho's is a music venue in Auckland listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Achos 146 / First Thursday |  |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/146-acho-s/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/146-acho-s/)*

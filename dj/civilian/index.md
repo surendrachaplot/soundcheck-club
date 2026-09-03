@@ -1,6 +1,6 @@
 # CIVILIAN
 
-CIVILIAN is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Meraki, Liverpool on Sat, 24 Oct 2026.
+CIVILIAN is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Meraki, Liverpool on Sat, 24 Oct 2026.
 
 CIVILIAN is a techno and garage artist tracked on soundcheck, with 5 sets logged across Berlin and Liverpool. Often billed alongside millwac, Bisofer and CHVZ. Next up: Meraki, Liverpool on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ CIVILIAN is a techno and garage artist tracked on soundcheck, with 5 sets logged
 
 millwac, Bisofer, CHVZ
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/civilian/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/civilian/)*

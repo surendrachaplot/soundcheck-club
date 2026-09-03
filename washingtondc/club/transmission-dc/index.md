@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 18 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Substrate Pres. Grace Dahl" on Thu, 3 Sept 2026.
+TRANSMISSION DC is a music venue in Washington DC with 18 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Substrate Pres. Grace Dahl" on Thu, 3 Sept 2026.
 
 TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 18 upcoming nights, with line-ups including 1tbsp, Artemis.105, Bastet (US) and Binh and 2 more. Browse upcoming dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washingtondc listed on soundcheck. 18 upcomi
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

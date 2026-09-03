@@ -1,6 +1,6 @@
 # Jack Popper
 
-Jack Popper is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Toff in Town, Melbourne on Sat, 26 Sept 2026.
+Jack Popper is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Toff in Town, Melbourne on Sat, 26 Sept 2026.
 
 Jack Popper is a house and disco artist based in Australia, tracked on soundcheck, with 35 sets logged across Brisbane and Melbourne. Often billed alongside Colette, Gay Roberto and Joe Miller. Next up: The Toff in Town, Melbourne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jack Popper is a house and disco artist based in Australia, tracked on soundchec
 
 Colette, Gay Roberto, Joe Miller
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackpopper/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackpopper/)*

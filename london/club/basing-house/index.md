@@ -1,6 +1,6 @@
 # Basing House
 
-Basing House is a music venue in London with 24 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "MAJS HOUSE PARTY  - DEEP/ TECH HOUSE - AFRO/TRIBAL/SOULFUL HOUSE - PLUS PRIVATE AFTERPARTY" on Fri, 4 Sept 2026.
+Basing House is a music venue in London with 24 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "MAJS HOUSE PARTY  - DEEP/ TECH HOUSE - AFRO/TRIBAL/SOULFUL HOUSE - PLUS PRIVATE AFTERPARTY" on Fri, 4 Sept 2026.
 
 Basing House is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including AALEX, Adela, Alythia Kwan and Andy Moor and 2 more. Browse upcoming dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
 
@@ -23,4 +23,4 @@ Basing House is a music venue in London listed on soundcheck. 24 upcoming nights
 
 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom, London
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*

@@ -1,6 +1,6 @@
 # Samtheman
 
-Samtheman is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
+Samtheman is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
 Samtheman is a house and garage artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brighton, Bristol, Leeds and London. Often billed alongside Izco, Capo Lee and Liam Bailey. Next up: Night Tales Loft, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Samtheman is a house and garage artist based in United Kingdom, tracked on sound
 
 Izco, Capo Lee, Liam Bailey
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samtheman/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samtheman/)*

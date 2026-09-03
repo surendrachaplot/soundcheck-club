@@ -1,6 +1,6 @@
 # Enayet
 
-Enayet is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mood Ring, New York City on Sat, 5 Sept 2026.
+Enayet is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mood Ring, New York City on Sat, 5 Sept 2026.
 
 Enayet is a bass and club artist based in Bangladesh, tracked on soundcheck, with 20 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside K Wata, rrao and Simisea. Next up: Mood Ring, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Enayet is a bass and club artist based in Bangladesh, tracked on soundcheck, wit
 
 K Wata, rrao, Simisea
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enayet/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enayet/)*

@@ -1,6 +1,6 @@
 # sad.danic
 
-sad.danic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Prisma, Berlin on Thu, 3 Sept 2026.
+sad.danic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Prisma, Berlin on Thu, 3 Sept 2026.
 
 sad.danic is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Ayham, Blck-Swan and H7 (3). Next up: Prisma, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ sad.danic is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Ayham, Blck-Swan, H7 (3)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sad.danic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sad.danic/)*

@@ -1,6 +1,6 @@
 # Yaeji
 
-Yaeji is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
+Yaeji is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
 
 Yaeji is a house and techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Bambii, Disclosure and HiTech. Next up: FS., Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Yaeji is a house and techno artist based in United States of America, tracked on
 
 Bambii, Disclosure, HiTech
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaeji/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yaeji/)*

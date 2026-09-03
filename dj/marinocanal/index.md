@@ -1,6 +1,6 @@
 # Marino Canal
 
-Marino Canal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Kastel, Istanbul on Fri, 18 Sept 2026.
+Marino Canal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kastel, Istanbul on Fri, 18 Sept 2026.
 
 Marino Canal is a techno and house artist based in Spain, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Basel and Budapest and 23 more. Often billed alongside Adriatique, Tale Of Us and Recondite. Next up: Kastel, Istanbul on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Marino Canal is a techno and house artist based in Spain, tracked on soundcheck,
 
 Adriatique, Tale Of Us, Recondite
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marinocanal/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marinocanal/)*

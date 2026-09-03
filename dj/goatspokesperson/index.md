@@ -1,6 +1,6 @@
 # Goat Spokesperson
 
-Goat Spokesperson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Metropol, Berlin on Thu, 10 Sept 2026.
+Goat Spokesperson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Metropol, Berlin on Thu, 10 Sept 2026.
 
 Goat Spokesperson is a techno and house artist tracked on soundcheck, with 10 sets logged across Athens, Berlin, Melbourne and Sydney. Often billed alongside Arson Fire, Estée Louder and Gay Roberto. Next up: Metropol, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Goat Spokesperson is a techno and house artist tracked on soundcheck, with 10 se
 
 Arson Fire, Estée Louder, Gay Roberto
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goatspokesperson/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goatspokesperson/)*

@@ -1,6 +1,6 @@
 # SCHLAAKIII
 
-SCHLAAKIII is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Absturz, Leipzig on Fri, 18 Sept 2026.
+SCHLAAKIII is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Absturz, Leipzig on Fri, 18 Sept 2026.
 
 SCHLAAKIII is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Leipzig. Often billed alongside CAVVØ, Raphus and VLUNA. Next up: Absturz, Leipzig on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ SCHLAAKIII is a techno and trance artist based in Germany, tracked on soundcheck
 
 CAVVØ, Raphus, VLUNA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schlaakiii/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schlaakiii/)*

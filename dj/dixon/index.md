@@ -1,6 +1,6 @@
 # Dixon
 
-Dixon is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Woodstock'69, Amsterdam on Sun, 6 Sept 2026.
+Dixon is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Woodstock'69, Amsterdam on Sun, 6 Sept 2026.
 
 Dixon is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Woodstock'69, Amsterdam on Sun 6 Sept.
 
@@ -28,4 +28,4 @@ Dixon is a house and techno artist tracked on soundcheck, with 187 sets logged a
 
 Jimi Jules, Âme, Trikk
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dixon/)*

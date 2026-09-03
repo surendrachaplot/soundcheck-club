@@ -1,6 +1,6 @@
 # McNeills
 
-McNeills is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Baked Beats" on Sat, 5 Sept 2026.
+McNeills is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Baked Beats" on Sat, 5 Sept 2026.
 
 McNeills is a music venue in Glasgow listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 106 Torrisdale Street, Glasgow, G42 8ED.
 
@@ -17,4 +17,4 @@ McNeills is a music venue in Glasgow listed on soundcheck. 4 upcoming nights. Br
 
 106 Torrisdale Street, Glasgow, G42 8ED, Glasgow
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*

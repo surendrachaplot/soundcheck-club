@@ -1,6 +1,6 @@
 # Anna-My
 
-Anna-My is a Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Make an account on our website slutstation.se, Stockholm on Sat, 12 Sept 2026.
+Anna-My is a Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Make an account on our website slutstation.se, Stockholm on Sat, 12 Sept 2026.
 
 Anna-My is a tech house artist tracked on soundcheck, with 10 sets logged across Stockholm. Often billed alongside Andree Bohlin, Dgeral and Harami. Next up: TBA - Make an account on our website slutstation.se, Stockholm on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Anna-My is a tech house artist tracked on soundcheck, with 10 sets logged across
 
 Andree Bohlin, Dgeral, Harami
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anna-my/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anna-my/)*

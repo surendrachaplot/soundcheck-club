@@ -1,6 +1,6 @@
 # Korsakoff
 
-Korsakoff is a Hardcore and Gabber artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Korsakoff is a Hardcore and Gabber artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Korsakoff is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Dortmund-essen and Frankfurt and 9 more. Often billed alongside Angerfist, Mad Dog and The Dark Horror. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Korsakoff is a hardcore and gabber artist based in Netherlands, tracked on sound
 
 Angerfist, Mad Dog, The Dark Horror
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korsakoff/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korsakoff/)*

@@ -2167,10 +2167,35 @@
     .lg-ev .le-t { grid-column:2; font-size:var(--fs-base); color:var(--fg); }
     .lg-ev .le-l { grid-column:2; font-size:var(--fs-sm); color:var(--muted); }
     /* search-first log flow */
-    .lg-search { display:flex; align-items:center; gap:11px; background:var(--surface-2); border:1px solid rgba(255,154,61,0.28); border-radius:var(--radius); padding:12px 14px; }
+    /* padding-right is tighter than left because a PILL now sits at that end —
+       14px there put the chip 11.6px outside the box. */
+    .lg-search { display:flex; align-items:center; gap:11px; background:var(--surface-2); border:1px solid rgba(255,154,61,0.28); border-radius:var(--radius); padding:7px 7px 7px 14px; min-height:48px; }
     .lg-search:focus-within { border-color:var(--accent); }
     .lg-search svg { width:19px; height:19px; color:var(--accent); flex:0 0 auto; }
-    .lg-search input { flex:1; border:0; background:transparent; color:var(--fg); font:600 var(--fs-md)/var(--lh-md) var(--body); outline:none; padding:0; }
+    /* min-width:0 or a flex:1 input refuses to shrink below its content and
+       shoves the chip out of the box entirely. */
+    .lg-search input { flex:1; min-width:0; border:0; background:transparent; color:var(--fg); font:600 var(--fs-md)/var(--lh-md) var(--body); outline:none; padding:0; }
+    /* The city chip. VIOLET because violet is selected-state everywhere; the
+       sunset gradient is the one primary action per view and would fight Save.
+       Sits at the RIGHT end so it never lands where the thumb starts typing. */
+    .lg-citychip { display:flex; align-items:center; gap:4px; flex:0 0 auto; border:0; cursor:pointer;
+      height:34px; padding:0 9px 0 12px; border-radius:var(--radius-btn);
+      background:var(--sel-weak); color:var(--fg); font:700 var(--fs-sm)/1 var(--body); }
+    .lg-citychip svg { width:14px; height:14px; color:var(--muted); }
+    .lg-citychip[aria-expanded="true"] { background:var(--sel); }
+    .lg-citychip[aria-expanded="true"] svg { color:var(--fg); transform:rotate(180deg); }
+    /* City mode: the box itself IS the picker, so it wears the selected ring. */
+    .lg-search.citymode { border-color:var(--sel); }
+    .lg-citysec { font:700 var(--fs-xs)/var(--lh-xs) var(--body); letter-spacing:.12em; text-transform:uppercase;
+      color:var(--faint); margin:14px 0 6px; }
+    .lg-citysec:first-child { margin-top:8px; }
+    .lg-cityrow { display:flex; align-items:center; justify-content:space-between; gap:10px; width:100%;
+      border:0; background:transparent; cursor:pointer; text-align:left;
+      min-height:44px; padding:0 12px; border-radius:var(--radius-btn);
+      color:var(--fg); font:400 var(--fs-md)/var(--lh-md) var(--body); }
+    .lg-cityrow:hover { background:var(--surface-2); }
+    .lg-cityrow.on { background:var(--sel-weak); font-weight:700; }
+    .lg-cityrow svg { width:16px; height:16px; color:var(--sel); flex:0 0 auto; }
     .lg-shint { font-size:var(--fs-sm); color:var(--faint); margin:9px 2px 14px; } .lg-shint b { color:var(--muted); font-weight:700; }
     .lg-erow { display:flex; align-items:center; gap:13px; text-align:left; width:100%; background:var(--surface-2); border:1px solid var(--border); border-radius:var(--radius); padding:10px; cursor:pointer; -webkit-tap-highlight-color:transparent; transition:border-color var(--dur-1), background var(--dur-1); }
     .lg-erow:hover { border-color:var(--accent); }
@@ -2444,7 +2469,13 @@
     .foot-links { display:flex; flex-wrap:wrap; gap:10px 18px; }
     .foot-links a { color:var(--muted); text-decoration:none; font:600 var(--fs-sm)/var(--lh-sm) var(--body); cursor:pointer; -webkit-tap-highlight-color:transparent; }
     .foot-links a:hover { color:var(--accent); }
-    .foot-msg { margin-top:18px; color:var(--muted); font:500 var(--fs-sm)/var(--lh-sm) var(--body); letter-spacing:0.01em; }
+    /* The eyebrow treatment — mono, 700, uppercase, 0.22em — same recipe as
+       .ob-eyebrow and .rad-hd .kick. Muted, not accent: it is a sign-off, not a
+       label on something. The flag is an emoji and ignores text-transform, which
+       is why the string is already capitalised in the markup. */
+    .foot-msg { margin-top:18px; color:var(--muted);
+      font:700 var(--fs-xs)/var(--lh-xs) var(--font-mono);
+      letter-spacing:0.22em; text-transform:uppercase; }
     .se-form { display:flex; flex-direction:column; gap:8px; margin-top:16px; }
     .se-form input, .se-form select, .se-form textarea { padding:11px 14px; border:1px solid var(--border); border-radius:var(--radius-sm); font:inherit; font-size:var(--fs-md); background:var(--bg); color:var(--fg); }
     .se-form input:focus, .se-form select:focus, .se-form textarea:focus { outline:2px solid var(--accent); outline-offset:1px; border-color:var(--accent); }
@@ -4322,7 +4353,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788389344769">
+<meta name="sc-build" content="1788395491885">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4381,7 +4412,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">25 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">109 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">137 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">25 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">109 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">137 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li><li><a href="/london/2026-09-10/">Thu 10 Sept <span class="c">18 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -4408,7 +4439,7 @@
           <a href="#" id="foot-submit">Suggest an event</a>
         </nav>
       </div>
-      <div class="foot-msg">Made in London with Love 2026</div>
+      <div class="foot-msg">FREE PALESTINE 🇵🇸 · MADE SLOWLY IN LONDON WITH LOVE 2026</div>
     </footer>
   </main>
 
@@ -11184,6 +11215,27 @@
       var sel=null; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===selSlug){ sel=CITY_LIST[i]; break; } }
       return '<div class="sg-wrap"><input type="text" id="'+id+'-in" placeholder="Search cities…" autocomplete="off" autocapitalize="off" value="'+(sel?esc(sel.name):'')+'"><input type="hidden" id="'+id+'" value="'+(sel?esc(sel.slug):'')+'"><div class="sg-drop" id="'+id+'-drop"></div></div>';
     }
+    /**
+     * The city chip that lives INSIDE a search box.
+     *
+     * Replaces the labelled City field + floating dropdown on log-a-gig. The
+     * dropdown was a panel with its own search input hanging off a box that
+     * already had one — two surfaces, two inputs, and it read as an accident.
+     * There is no panel now: the chip flips the box it sits in into city mode
+     * and the city list stands where the results stand.
+     *
+     * The hidden input keeps the `id`, so every existing reader
+     * (`getElementById('lg-city').value`) is untouched.
+     */
+    function cityChipHTML(id, selSlug){
+      var sel=null; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===selSlug){ sel=CITY_LIST[i]; break; } }
+      return '<input type="hidden" id="'+id+'" value="'+(sel?esc(sel.slug):'')+'">'+
+        '<button type="button" class="lg-citychip" id="'+id+'-chip" aria-expanded="false">'+
+          '<span id="'+id+'-chiptx">'+(sel?esc(sel.name):'Pick a city')+'</span>'+
+          '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>'+
+        '</button>';
+    }
+
     function wireCityPicker(id, onChange){
       var input=document.getElementById(id+'-in'), hidden=document.getElementById(id), drop=document.getElementById(id+'-drop');
       if(!input||!hidden||!drop) return;
@@ -11217,8 +11269,10 @@
         '<div class="sub">Find the night you went to &mdash; pick it and the venue &amp; lineup fill themselves in.</div>'+
         '<div style="max-width:600px">'+
           '<div class="pf-box">'+
-            '<div class="lg-field" style="margin-bottom:12px"><label>City</label>'+cityPickerHTML('lg-city', currentCity)+'</div>'+
-            '<div class="lg-search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg><input type="text" id="lg-q" placeholder="Search by club, artist, or date…" autocomplete="off" autocapitalize="off"></div>'+
+            // The city is a CHIP inside the search box, not a labelled field
+            // above it — same control on web, mobile web and native. The hidden
+            // input keeps the id every caller already reads.
+            '<div class="lg-search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg><input type="text" id="lg-q" placeholder="Search by club, artist, or date…" autocomplete="off" autocapitalize="off">'+cityChipHTML('lg-city', currentCity)+'</div>'+
             '<div class="lg-shint" id="lg-shint">Type in the name of the artist, or the venue, or both. Pick the one that matches to log it.</div>'+
             '<div class="lg-events" id="lg-events"></div>'+
           '</div>'+
@@ -11339,6 +11393,59 @@
     // Search-first: one box, free-text across venue + lineup (server ranks the
     // best match to the top), scoped to the chosen city. Debounced; the newest
     // query wins so a slow response can't overwrite a fresher one.
+    /**
+     * City mode. Not a dropdown — the chip turns the box you are already
+     * looking at into the picker: the placeholder becomes "Which city?", the
+     * existing input filters cities, and the list renders into #lg-events where
+     * the night results go. One surface, one input, and the same interaction
+     * the native app has.
+     */
+    var lgCityMode=false, _lgQStash='';
+    function renderLgCities(){
+      var box=document.getElementById('lg-q'), ev=document.getElementById('lg-events');
+      if(!ev) return;
+      var cur=document.getElementById('lg-city').value;
+      var term=(box?box.value:'').trim().toLowerCase();
+      var byName=function(a,b){ return a.name.localeCompare(b.name); };
+      var busiest=[], rest;
+      if(term){
+        rest=CITY_LIST.filter(function(c){ return c.name.toLowerCase().indexOf(term)>=0; }).sort(byName);
+      } else {
+        // `events` is UPCOMING nights in the next 7 days. It orders the list and
+        // is never PRINTED: this screen logs nights already been to, so the
+        // number would be true and answer a question nobody asked.
+        var haveCounts=CITY_LIST.some(function(c){ return typeof c.events==='number'; });
+        busiest=haveCounts?CITY_LIST.filter(function(c){ return (c.events||0)>0; })
+          .sort(function(a,b){ return (b.events||0)-(a.events||0); }).slice(0,6):[];
+        var seen={}; busiest.forEach(function(c){ seen[c.slug]=1; });
+        rest=CITY_LIST.filter(function(c){ return !seen[c.slug]; }).sort(byName);
+      }
+      if(!busiest.length && !rest.length){ ev.innerHTML='<div class="empty" style="padding:6px 0">No city matches that.</div>'; return; }
+      var row=function(c){ return '<button type="button" class="lg-cityrow'+(c.slug===cur?' on':'')+'" data-city="'+esc(c.slug)+'">'+
+        '<span>'+esc(c.name)+'</span>'+(c.slug===cur?'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>':'')+'</button>'; };
+      ev.innerHTML=(busiest.length?'<div class="lg-citysec">Busiest this week</div>'+busiest.map(row).join(''):'')+
+        '<div class="lg-citysec">'+(busiest.length?'All cities':'Cities')+'</div>'+rest.map(row).join('');
+    }
+    function setLgCityMode(on){
+      lgCityMode=!!on;
+      var box=document.getElementById('lg-q'), chip=document.getElementById('lg-city-chip');
+      var wrap=box?box.closest('.lg-search'):null, hint=document.getElementById('lg-shint');
+      if(!box||!chip) return;
+      chip.setAttribute('aria-expanded', lgCityMode?'true':'false');
+      if(wrap) wrap.classList.toggle('citymode', lgCityMode);
+      if(hint) hint.style.display=lgCityMode?'none':'';
+      if(lgCityMode){
+        _lgQStash=box.value; box.value=''; box.placeholder='Which city?';
+        renderLgCities();
+      } else {
+        // The night query survives a trip to the picker — losing what they typed
+        // to change a city would be its own bug.
+        box.value=_lgQStash; box.placeholder='Search by club, artist, or date…';
+        if(box.value.trim().length>=2) lgSearchNow(); else document.getElementById('lg-events').innerHTML='';
+      }
+      box.focus();
+    }
+
     var _lgQSeq=0;
     function lgSearchNow(){
       var box=document.getElementById('lg-q'); if(!box) return;
@@ -11353,14 +11460,16 @@
         .catch(function(){ if(seq!==_lgQSeq) return; lgEventList=[]; renderLgEvents(); });
     }
     var _lgQTimer=null;
-    function lgSearchDebounced(){ if(_lgQTimer) clearTimeout(_lgQTimer); _lgQTimer=setTimeout(lgSearchNow, 240); }
+    function lgSearchDebounced(){
+      if(lgCityMode){ renderLgCities(); return; }   // filtering cities is local — no request
+      if(_lgQTimer) clearTimeout(_lgQTimer); _lgQTimer=setTimeout(lgSearchNow, 240);
+    }
     // Coming from a "+ Log" button on a past event: skip the pickers, pull the
     // event's lineup and pre-select it so it's a note-and-save away. Marks the
     // line-up seen on save like any other log.
     async function preselectLogEvent(id){
       // Hide the search — the night is already known; just show it + lineup chips.
       ['lg-q','lg-shint'].forEach(function(i){ var el=document.getElementById(i); if(el){ (i==='lg-q'?el.closest('.lg-search'):el).style.display='none'; } });
-      var cf=document.getElementById('lg-city'); if(cf){ var ff=cf.closest('.lg-field'); if(ff) ff.style.display='none'; }
       var ev0=document.getElementById('lg-events'); if(ev0) ev0.innerHTML='<div class="empty" style="padding:6px 0">Loading…</div>';
       try{
         var r=await authedFetch('/api/event?id='+encodeURIComponent(id)); var ev=await r.json();
@@ -11910,7 +12019,10 @@
       // Coming from a venue's "I've been" — pre-select the venue: scope to its city,
       // seed the search with its name so its past nights list straight away.
       if(prefill&&prefill.venue&&prefill.venue.name){
-        if(prefill.venue.city) setCityPicker('lg-city', prefill.venue.city);
+        if(prefill.venue.city){
+          document.getElementById('lg-city').value=prefill.venue.city;
+          var ct=document.getElementById('lg-city-chiptx'); if(ct) ct.textContent=cityLabel(prefill.venue.city);
+        }
         var qv=document.getElementById('lg-q'); if(qv){ qv.value=prefill.venue.name; lgSearchNow(); }
       }
     }
@@ -11942,13 +12054,18 @@
         if(t){ var i=lgVRev.tags.map(function(x){ return String(x).toLowerCase(); }).indexOf(t.dataset.tag.toLowerCase());
           if(i>=0) lgVRev.tags.splice(i,1); else lgVRev.tags.push(t.dataset.tag); renderLgVenueRev(); }
       });
-      // City change — re-run the search in the new city if there's a query.
-      wireCityPicker('lg-city', function(){
-        var sc=document.getElementById('lg-shint-city'); if(sc) sc.textContent=cityLabel(document.getElementById('lg-city').value);
-        if(qBox.value.trim().length>=2) lgSearchNow();
-      });
+      // The chip flips the box into city mode; a row picks and flips it back.
+      document.getElementById('lg-city-chip').addEventListener('click', function(){ setLgCityMode(!lgCityMode); });
       // Pick one of the matched nights — or add the event if it's missing.
       document.getElementById('lg-events').addEventListener('click',function(e){
+        var cr=e.target.closest('.lg-cityrow');
+        if(cr){
+          document.getElementById('lg-city').value=cr.dataset.city;
+          document.getElementById('lg-city-chiptx').textContent=cityLabel(cr.dataset.city);
+          var sc2=document.getElementById('lg-shint-city'); if(sc2) sc2.textContent=cityLabel(cr.dataset.city);
+          setLgCityMode(false);
+          return;
+        }
         if(e.target.closest('#lg-addev')){ openImport({ city:document.getElementById('lg-city').value, artist:qBox.value.trim()||null }); return; }
         var b=e.target.closest('[data-evi]'); if(b){ selectLgEvent(lgEventList[+b.dataset.evi]); document.getElementById('lg-extra').scrollIntoView({behavior:'smooth',block:'nearest'}); }
       });

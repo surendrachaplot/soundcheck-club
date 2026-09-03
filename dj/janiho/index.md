@@ -1,6 +1,6 @@
 # Jani HO
 
-Jani HO is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at My Aeon, Melbourne on Fri, 4 Sept 2026.
+Jani HO is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at My Aeon, Melbourne on Fri, 4 Sept 2026.
 
 Jani HO is a techno and electro artist based in Australia, tracked on soundcheck, with 13 sets logged across Detroit, Dublin and Melbourne. Often billed alongside Matt Radovich, Disruptive Pattern Material and Mr. Rachele. Next up: My Aeon, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jani HO is a techno and electro artist based in Australia, tracked on soundcheck
 
 Matt Radovich, Disruptive Pattern Material, Mr. Rachele
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janiho/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janiho/)*

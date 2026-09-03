@@ -1,6 +1,6 @@
 # Xica Soul
 
-Xica Soul is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 10 Sept 2026.
+Xica Soul is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at General Lee's Cocktail House, Los Angeles on Thu, 10 Sept 2026.
 
 Xica Soul is a house and disco artist based in United States of America, tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Masha Mar, Marco Weibel and Tottie. Next up: General Lee's Cocktail House, Losangeles on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Xica Soul is a house and disco artist based in United States of America, tracked
 
 Masha Mar, Marco Weibel, Tottie
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xicasoul/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xicasoul/)*

@@ -1,6 +1,6 @@
 # Voltaire
 
-Voltaire is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at FLUCC, Vienna on Sat, 26 Sept 2026.
+Voltaire is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at FLUCC, Vienna on Sat, 26 Sept 2026.
 
 Voltaire is a techno and house artist based in France, tracked on soundcheck, with 21 sets logged across Geneva, Lyon, Marseille and Paris and 1 more. Often billed alongside Alys LF, Eastel and Toscan Haas. Next up: FLUCC, Vienna on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Voltaire is a techno and house artist based in France, tracked on soundcheck, wi
 
 Alys LF, Eastel, Toscan Haas
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voltaire-fr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voltaire-fr/)*

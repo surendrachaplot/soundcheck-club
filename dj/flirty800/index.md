@@ -1,6 +1,6 @@
 # flirty800
 
-flirty800 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Club Rawhide, New York City on Thu, 3 Sept 2026.
+flirty800 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club Rawhide, New York City on Thu, 3 Sept 2026.
 
 flirty800 is a techno and house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Barcelona, Chicago, London and Losangeles and 4 more. Often billed alongside DJ USA, DJ Thank You and Word of Command. Next up: Club Rawhide, Newyorkcity on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ flirty800 is a techno and house artist based in United States of America, tracke
 
 DJ USA, DJ Thank You, Word of Command
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flirty800/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flirty800/)*

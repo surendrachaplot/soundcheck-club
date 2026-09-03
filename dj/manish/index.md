@@ -1,6 +1,6 @@
 # Manish
 
-Manish is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The BBE Store, London on Sat, 26 Sept 2026.
+Manish is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The BBE Store, London on Sat, 26 Sept 2026.
 
 Manish is a disco and house artist tracked on soundcheck, with 30 sets logged across London. Often billed alongside Zaki, Jasmine Alice and Toni C. Next up: The BBE Store, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Manish is a disco and house artist tracked on soundcheck, with 30 sets logged ac
 
 Zaki, Jasmine Alice, Toni C
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manish/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manish/)*

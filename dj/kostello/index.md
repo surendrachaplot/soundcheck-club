@@ -1,6 +1,6 @@
 # Kostello
 
-Kostello is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Salon Daomé, Montreal on Thu, 10 Sept 2026.
+Kostello is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Salon Daomé, Montreal on Thu, 10 Sept 2026.
 
 Kostello is a deep house and tech house artist tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside Okin, Audio Sin and Boomy. Next up: Salon Daomé, Montreal on Thu 10 Sept.
 
@@ -24,4 +24,4 @@ Kostello is a deep house and tech house artist tracked on soundcheck, with 8 set
 
 Okin, Audio Sin, Boomy
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kostello/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kostello/)*

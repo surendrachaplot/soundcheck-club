@@ -1,6 +1,6 @@
 # JAWS
 
-JAWS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Araña Club, Madrid on Fri, 4 Sept 2026.
+JAWS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Araña Club, Madrid on Fri, 4 Sept 2026.
 
 JAWS is a techno and industrial artist based in Colombia, tracked on soundcheck, with 34 sets logged across London, Madrid, Manchester and Valencia. Often billed alongside Nigabba, BELCEBÚ and MVPDJ. Next up: Araña Club, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ JAWS is a techno and industrial artist based in Colombia, tracked on soundcheck,
 
 Nigabba, BELCEBÚ, MVPDJ
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaws/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaws/)*

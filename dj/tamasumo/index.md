@@ -1,6 +1,6 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at UMI, Brussels on Fri, 11 Sept 2026.
+Tama Sumo is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UMI, Brussels on Fri, 11 Sept 2026.
 
 Tama Sumo is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Bali and 49 more. Often billed alongside Lakuti, Roi Perez and Virginia. Next up: UMI, Brussels on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Tama Sumo is a house and techno artist tracked on soundcheck, with 191 sets logg
 
 Lakuti, Roi Perez, Virginia
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*

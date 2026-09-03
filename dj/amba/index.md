@@ -1,6 +1,6 @@
 # Amba
 
-Amba is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Moondog Hifi, New York City on Mon, 7 Sept 2026.
+Amba is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Moondog Hifi, New York City on Mon, 7 Sept 2026.
 
 Amba is a house and deep house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Liverpool, London, Newyorkcity and Sheffield. Often billed alongside Armii1n, Jeny Michelle and Camila Wolf. Next up: Moondog Hifi, Newyorkcity on Mon 7 Sept.
 
@@ -27,4 +27,4 @@ Amba is a house and deep house artist based in United States of America, tracked
 
 Armii1n, Jeny Michelle, Camila Wolf
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amba/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amba/)*

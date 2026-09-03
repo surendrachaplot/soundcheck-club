@@ -1,6 +1,6 @@
 # redkoffee
 
-redkoffee is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - 109 Rue Oberkampf, 75011 Paris, France, Paris on Fri, 11 Sept 2026.
+redkoffee is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - 109 Rue Oberkampf, 75011 Paris, France, Paris on Fri, 11 Sept 2026.
 
 redkoffee is an electro and house artist tracked on soundcheck, with 24 sets logged across Marseille and Paris. Often billed alongside Alexi Shell, Cezaire and Contrecoeur. Next up: TBA - 109 Rue Oberkampf, 75011 Paris, France, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ redkoffee is an electro and house artist tracked on soundcheck, with 24 sets log
 
 Alexi Shell, Cezaire, Contrecoeur
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redkoffee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/redkoffee/)*

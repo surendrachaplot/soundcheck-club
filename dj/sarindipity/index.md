@@ -1,6 +1,6 @@
 # Sarindipity
 
-Sarindipity is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Superior Ingredients, New York City on Sun, 6 Sept 2026.
+Sarindipity is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Superior Ingredients, New York City on Sun, 6 Sept 2026.
 
 Sarindipity is a house and tech house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity. Often billed alongside Choo Choo, Dendi's Dad and Slaycey. Next up: Superior Ingredients, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Sarindipity is a house and tech house artist based in United States of America, 
 
 Choo Choo, Dendi's Dad, Slaycey
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarindipity/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarindipity/)*

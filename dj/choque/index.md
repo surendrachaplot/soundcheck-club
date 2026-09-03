@@ -1,6 +1,6 @@
 # CHOQUE
 
-CHOQUE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club Rawhide, New York City on Sat, 5 Sept 2026.
+CHOQUE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club Rawhide, New York City on Sat, 5 Sept 2026.
 
 CHOQUE is a techno and house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Mexicocity and Newyorkcity. Often billed alongside Ian Crane, Katie Rex and Mike Servito. Next up: Club Rawhide, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ CHOQUE is a techno and house artist based in United States of America, tracked o
 
 Ian Crane, Katie Rex, Mike Servito
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/choque/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/choque/)*

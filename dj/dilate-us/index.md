@@ -1,6 +1,6 @@
 # Dilate(US)
 
-Dilate(US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Domicile, Miami on Sat, 5 Sept 2026.
+Dilate(US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Domicile, Miami on Sat, 5 Sept 2026.
 
 Dilate(US) is a techno and house artist tracked on soundcheck, with 4 sets logged across Losangeles, Miami and Sandiego. Often billed alongside Ryker Angeles, Tattoopudge and Brandon Scarbrough. Next up: Domicile, Miami on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Dilate(US) is a techno and house artist tracked on soundcheck, with 4 sets logge
 
 Ryker Angeles, Tattoopudge, Brandon Scarbrough
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dilate-us/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dilate-us/)*

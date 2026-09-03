@@ -1,6 +1,6 @@
 # Secret Location
 
-Secret Location is a music venue in London with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "INTRUSIVE" on Thu, 10 Sept 2026.
+Secret Location is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "INTRUSIVE" on Thu, 10 Sept 2026.
 
 Secret Location is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including HOLDKEDVESET, Kakura, kasra4k7 and Max Sprauer and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced.
 
@@ -19,4 +19,4 @@ Secret Location is a music venue in London listed on soundcheck. 6 upcoming nigh
 
 To Be Announced, London
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

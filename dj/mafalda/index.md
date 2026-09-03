@@ -1,6 +1,6 @@
 # Mafalda
 
-Mafalda is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Paloma, Barcelona on Sat, 12 Sept 2026.
+Mafalda is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at La Paloma, Barcelona on Sat, 12 Sept 2026.
 
 Mafalda is a disco and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Seiji Ono, Theo Terev and Red Greg. Next up: La Paloma, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mafalda is a disco and house artist tracked on soundcheck, with 85 sets logged a
 
 Seiji Ono, Theo Terev, Red Greg
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mafalda/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mafalda/)*

@@ -1,6 +1,6 @@
 # Reid Lecture Theatre, Glasgow School of Art
 
-Reid Lecture Theatre, Glasgow School of Art is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Dinos Chapman In Conversation" on Sat, 26 Sept 2026.
+Reid Lecture Theatre, Glasgow School of Art is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Dinos Chapman In Conversation" on Sat, 26 Sept 2026.
 
 Reid Lecture Theatre, Glasgow School of Art is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Reid Lecture Theatre, Glasgow School of Art is a music venue in Glasgow listed o
 | Sat, 26 Sept 2026 | Dinos Chapman In Conversation |  |
 | Fri, 2 Oct 2026 | Rachel Maclean In Conversation |  |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/reid-lecture-theatre-glasgow-school-of-art/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/reid-lecture-theatre-glasgow-school-of-art/)*

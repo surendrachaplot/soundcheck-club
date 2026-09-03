@@ -1,6 +1,6 @@
 # Murphy
 
-Murphy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lilli Escher, Hamburg on Fri, 11 Sept 2026.
+Murphy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lilli Escher, Hamburg on Fri, 11 Sept 2026.
 
 Murphy is a house and techno artist tracked on soundcheck, with 66 sets logged across Berlin, Glasgow, Hamburg and Leipzig and 6 more. Often billed alongside Ferrie, Jay Celino and Najeh. Next up: Lilli Escher, Hamburg on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Murphy is a house and techno artist tracked on soundcheck, with 66 sets logged a
 
 Ferrie, Jay Celino, Najeh
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/murphy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/murphy/)*

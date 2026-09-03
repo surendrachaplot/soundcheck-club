@@ -1,6 +1,6 @@
 # Ramos (2)
 
-Ramos (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 6 Sept 2026.
+Ramos (2) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 6 Sept 2026.
 
 Ramos (2) is a house and techno artist tracked on soundcheck, with 71 sets logged across Washingtondc. Often billed alongside enz.O, KayLaSoul and Mazko A. Next up: Eighteenth Street Lounge (ESL), Washingtondc on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Ramos (2) is a house and techno artist tracked on soundcheck, with 71 sets logge
 
 enz.O, KayLaSoul, Mazko A
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramos-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramos-2/)*

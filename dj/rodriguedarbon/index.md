@@ -1,6 +1,6 @@
 # Rodrigue Darbon
 
-Rodrigue Darbon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at berlinClub, Madrid on Fri, 11 Sept 2026.
+Rodrigue Darbon is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at berlinClub, Madrid on Fri, 11 Sept 2026.
 
 Rodrigue Darbon is a house and tech house artist tracked on soundcheck, with 11 sets logged across Madrid. Often billed alongside Le Nomad, Foie Gras and Antoine Sy. Next up: berlinClub, Madrid on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Rodrigue Darbon is a house and tech house artist tracked on soundcheck, with 11 
 
 Le Nomad, Foie Gras, Antoine Sy
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguedarbon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguedarbon/)*

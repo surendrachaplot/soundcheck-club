@@ -1,6 +1,6 @@
 # Chance Sands
 
-Chance Sands is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Monkey Loft, Seattle on Mon, 7 Sept 2026.
+Chance Sands is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Monkey Loft, Seattle on Mon, 7 Sept 2026.
 
 Chance Sands is a house and deep house artist based in United States of America, tracked on soundcheck, with 5 sets logged across Seattle. Often billed alongside Jono (2), Misha Mir and Colt. Next up: The Monkey Loft, Seattle on Mon 7 Sept.
 
@@ -21,4 +21,4 @@ Chance Sands is a house and deep house artist based in United States of America,
 
 Jono (2), Misha Mir, Colt
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chancesands/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chancesands/)*

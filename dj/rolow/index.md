@@ -1,6 +1,6 @@
 # Ro Low
 
-Ro Low is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Level Two Bar & Rooftop, Detroit on Sun, 6 Sept 2026.
+Ro Low is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Level Two Bar & Rooftop, Detroit on Sun, 6 Sept 2026.
 
 Ro Low is a house and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Detroit. Often billed alongside Key Mitch, JMT (2) and Brent Shay. Next up: Level Two Bar & Rooftop, Detroit on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Ro Low is a house and techno artist based in United States of America, tracked o
 
 Key Mitch, JMT (2), Brent Shay
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolow/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rolow/)*

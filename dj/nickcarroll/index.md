@@ -1,6 +1,6 @@
 # Nick Carroll
 
-Nick Carroll is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 4 Sept 2026.
+Nick Carroll is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 4 Sept 2026.
 
 Nick Carroll is a house and techno artist tracked on soundcheck, with 26 sets logged across Portland and Seattle. Often billed alongside DJ SH1-TR, KJ3 (US) and Lord Phatrick. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Nick Carroll is a house and techno artist tracked on soundcheck, with 26 sets lo
 
 DJ SH1-TR, KJ3 (US), Lord Phatrick
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcarroll/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcarroll/)*

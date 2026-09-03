@@ -1,6 +1,6 @@
 # Stacy Christine
 
-Stacy Christine is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Club Tee Gee, Los Angeles on Thu, 3 Sept 2026.
+Stacy Christine is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club Tee Gee, Los Angeles on Thu, 3 Sept 2026.
 
 Stacy Christine is a house and disco artist tracked on soundcheck, with 121 sets logged across Barcelona, Detroit, London and Losangeles and 4 more. Often billed alongside Bears In Space, Perfect Lovers and Heidi Lawden. Next up: Club Tee Gee, Losangeles on Thu 3 Sept.
 
@@ -29,4 +29,4 @@ Stacy Christine is a house and disco artist tracked on soundcheck, with 121 sets
 
 Bears In Space, Perfect Lovers, Heidi Lawden
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*

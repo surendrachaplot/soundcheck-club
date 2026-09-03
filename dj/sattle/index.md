@@ -1,6 +1,6 @@
 # Sattle
 
-Sattle is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
+Sattle is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
 
 Sattle is a bass and club artist based in Indonesia, tracked on soundcheck, with 12 sets logged across Bali. Often billed alongside Bagvs, Rizkycore and Archie Dennis. Next up: Potato Head Beach Club, Bali on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sattle is a bass and club artist based in Indonesia, tracked on soundcheck, with
 
 Bagvs, Rizkycore, Archie Dennis
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sattle/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sattle/)*

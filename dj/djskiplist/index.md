@@ -1,6 +1,6 @@
 # DJ SKIPLIST
 
-DJ SKIPLIST is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
+DJ SKIPLIST is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
 
 DJ SKIPLIST is a techno and trance artist tracked on soundcheck, with 4 sets logged across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside Paraçek, Carotin and ELOISA. Next up: Lokschuppen Berlin, Berlin on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ DJ SKIPLIST is a techno and trance artist tracked on soundcheck, with 4 sets log
 
 Paraçek, Carotin, ELOISA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djskiplist/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djskiplist/)*

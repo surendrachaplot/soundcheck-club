@@ -1,6 +1,6 @@
 # Ku Barcelona
 
-Ku Barcelona is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Free Tickets AVALON x Secret Location: State Of Mind, Lucas Frank, Agustin Acosta" on Wed, 2 Sept 2026.
+Ku Barcelona is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Free Tickets AVALON x Secret Location: State Of Mind, Lucas Frank, Agustin Acosta" on Wed, 2 Sept 2026.
 
 Ku Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Bora Uzer, CJ Jeff, Deep Dish and Dunmore Brothers and 2 more. Browse upcoming dates, start times and who's playing. Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain.
 
@@ -18,4 +18,4 @@ Ku Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming nigh
 
 Passeig Marítim de la Barceloneta 38, 08003, Barcelona, Spain, Barcelona
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/ku-barcelona/)*

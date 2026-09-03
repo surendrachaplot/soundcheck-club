@@ -1,6 +1,6 @@
 # Act of Rage
 
-Act of Rage is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Downtown, Toronto on Fri, 18 Sept 2026.
+Act of Rage is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Downtown, Toronto on Fri, 18 Sept 2026.
 
 Act of Rage is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Brussels, Cologne, Dortmund-essen and Frankfurt and 7 more. Often billed alongside Partyraiser, Angerfist and Marc Acardipane. Next up: TBA - Downtown, Toronto on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Act of Rage is a hardcore and techno artist based in United Kingdom, tracked on 
 
 Partyraiser, Angerfist, Marc Acardipane
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/actofrage/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/actofrage/)*

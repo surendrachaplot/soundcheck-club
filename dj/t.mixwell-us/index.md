@@ -1,6 +1,6 @@
 # T. Mixwell
 
-T. Mixwell is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bourbon On Division, Chicago on Fri, 18 Sept 2026.
+T. Mixwell is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bourbon On Division, Chicago on Fri, 18 Sept 2026.
 
 T. Mixwell is a house and deep house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Chicago. Often billed alongside DJ Heather, Derrick Carter and samantha rad. Next up: Bourbon On Division, Chicago on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ T. Mixwell is a house and deep house artist based in United States of America, t
 
 DJ Heather, Derrick Carter, samantha rad
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t.mixwell-us/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t.mixwell-us/)*

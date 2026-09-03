@@ -1,6 +1,6 @@
 # renae
 
-renae is a music venue in Manchester with 15 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "renae: Larry Jones" on Wed, 2 Sept 2026.
+renae is a music venue in Manchester with 15 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "renae: Larry Jones" on Wed, 2 Sept 2026.
 
 renae is a music venue in Manchester listed on soundcheck. 15 upcoming nights, with line-ups including A Little Bit Orange, Anop, April (UK) and ASHTYLR and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
@@ -23,4 +23,4 @@ renae is a music venue in Manchester listed on soundcheck. 15 upcoming nights, w
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

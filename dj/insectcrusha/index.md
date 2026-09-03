@@ -1,6 +1,6 @@
 # INSECT CRUSHA
 
-INSECT CRUSHA is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at M.O.T, London on Fri, 9 Oct 2026.
+INSECT CRUSHA is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at M.O.T, London on Fri, 9 Oct 2026.
 
 INSECT CRUSHA is a jungle and garage artist tracked on soundcheck, with 24 sets logged across London and Manchester. Often billed alongside OS:MAN, CITIZEN and Akira (Buntai). Next up: M.O.T, London on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ INSECT CRUSHA is a jungle and garage artist tracked on soundcheck, with 24 sets 
 
 OS:MAN, CITIZEN, Akira (Buntai)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/insectcrusha/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/insectcrusha/)*

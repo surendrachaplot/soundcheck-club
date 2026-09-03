@@ -1,6 +1,6 @@
 # DK PAU
 
-DK PAU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, Vancouver on Sat, 12 Sept 2026.
+DK PAU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret Location, Vancouver on Sat, 12 Sept 2026.
 
 DK PAU is a techno and house artist tracked on soundcheck, with 79 sets logged across Montreal, Osaka, Sanfrancisco and Vancouver. Often billed alongside POPU, Behrad Tehrani and C-Star. Next up: TBA - Secret Location, Vancouver on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DK PAU is a techno and house artist tracked on soundcheck, with 79 sets logged a
 
 POPU, Behrad Tehrani, C-Star
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dkpau/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dkpau/)*

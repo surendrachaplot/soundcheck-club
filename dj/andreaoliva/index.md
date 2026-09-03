@@ -1,6 +1,6 @@
 # Andrea Oliva
 
-Andrea Oliva is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Klein Phönix, Istanbul on Sat, 5 Sept 2026.
+Andrea Oliva is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Klein Phönix, Istanbul on Sat, 5 Sept 2026.
 
 Andrea Oliva is a tech house and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: Klein Phönix, Istanbul on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Andrea Oliva is a tech house and house artist tracked on soundcheck, with 201 se
 
 Raul Rodriguez, Nic Fanciulli, ARODES
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*

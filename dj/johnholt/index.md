@@ -1,6 +1,6 @@
 # John Holt
 
-John Holt is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+John Holt is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 John Holt is a techno and industrial artist based in Andorra, tracked on soundcheck, with 7 sets logged across Barcelona and Madrid. Often billed alongside KARØL (2), Lady Dammage and PETDuo. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ John Holt is a techno and industrial artist based in Andorra, tracked on soundch
 
 KARØL (2), Lady Dammage, PETDuo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnholt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnholt/)*

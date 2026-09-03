@@ -1,6 +1,6 @@
 # The Rose
 
-The Rose is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Lovers & Friends: The Pajama Party - 18+ Labor Day R&B Afrobeats Reggae" on Sun, 6 Sept 2026.
+The Rose is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Lovers & Friends: The Pajama Party - 18+ Labor Day R&B Afrobeats Reggae" on Sun, 6 Sept 2026.
 
 The Rose is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including Gino Santos, Oui Lv, Petite Nhi and shirlz. Browse upcoming dates, start times and who's playing. 160 W 25th St, New York, NY 10001.
 
@@ -21,4 +21,4 @@ The Rose is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights
 
 160 W 25th St, New York, NY 10001, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-rose/)*

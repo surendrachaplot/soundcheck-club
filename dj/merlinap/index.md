@@ -1,6 +1,6 @@
 # Merlina P
 
-Merlina P is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 24 Sept 2026.
+Merlina P is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 24 Sept 2026.
 
 Merlina P is a deep house and house artist tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside Cucumelo, ANTON (ES) and Alex Sosa. Next up: 303 Audiophile Bar, Barcelona on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Merlina P is a deep house and house artist tracked on soundcheck, with 11 sets l
 
 Cucumelo, ANTON (ES), Alex Sosa
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merlinap/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merlinap/)*

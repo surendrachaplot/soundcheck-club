@@ -1,6 +1,6 @@
 # The American
 
-The American is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Vinyl Ritchie at The American" on Fri, 4 Sept 2026.
+The American is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Vinyl Ritchie at The American" on Fri, 4 Sept 2026.
 
 The American is a music venue in Vancouver listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 926 Main St, Vancouver, BC V6A 2W1.
 
@@ -16,4 +16,4 @@ The American is a music venue in Vancouver listed on soundcheck. 3 upcoming nigh
 
 926 Main St, Vancouver, BC V6A 2W1, Vancouver
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-american/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-american/)*

@@ -1,6 +1,6 @@
 # Ensarr
 
-Ensarr is a Breakbeat and Garage artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 4 Sept 2026.
+Ensarr is a Breakbeat and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 4 Sept 2026.
 
 Ensarr is a breakbeat and garage artist tracked on soundcheck, with 13 sets logged across Brussels and Lisbon. Often billed alongside Matho, CHUBBZ and Chris Youké. Next up: Village Underground Lisboa, Lisbon on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ensarr is a breakbeat and garage artist tracked on soundcheck, with 13 sets logg
 
 Matho, CHUBBZ, Chris Youké
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ensarr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ensarr/)*

@@ -1,6 +1,6 @@
 # ophélie
 
-ophélie is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ormside Projects, London on Fri, 11 Sept 2026.
+ophélie is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ormside Projects, London on Fri, 11 Sept 2026.
 
 ophélie is a techno and bass artist based in France, tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 15 more. Often billed alongside Marylou, Azu Tiwaline and CCL. Next up: Ormside Projects, London on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ ophélie is a techno and bass artist based in France, tracked on soundcheck, wit
 
 Marylou, Azu Tiwaline, CCL
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ophelie/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ophelie/)*

@@ -1,6 +1,6 @@
 # Le Zeralda
 
-Le Zeralda is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Jardin Public, Linceul Cuir, Demon V" on Fri, 4 Sept 2026.
+Le Zeralda is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Jardin Public, Linceul Cuir, Demon V" on Fri, 4 Sept 2026.
 
 Le Zeralda is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including Digé m0m0, Forêt, Hajj and RITCHRD and 2 more. Browse upcoming dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
 
@@ -19,4 +19,4 @@ Le Zeralda is a music venue in Paris listed on soundcheck. 6 upcoming nights, wi
 
 125 avenue Gallieni, Bagnolet, Paris
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*

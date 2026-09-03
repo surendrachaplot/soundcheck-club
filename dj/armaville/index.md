@@ -1,6 +1,6 @@
 # Armaville
 
-Armaville is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Flakturm Humboldthain, Berlin on Fri, 11 Sept 2026.
+Armaville is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Flakturm Humboldthain, Berlin on Fri, 11 Sept 2026.
 
 Armaville is a trance and techno artist based in Colombia, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Dr.Waumiau, F O R E S I G H T and FAballert. Next up: TBA - Flakturm Humboldthain, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Armaville is a trance and techno artist based in Colombia, tracked on soundcheck
 
 Dr.Waumiau, F O R E S I G H T, FAballert
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armaville/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armaville/)*

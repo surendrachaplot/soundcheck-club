@@ -1,6 +1,6 @@
 # CLAESSENS
 
-CLAESSENS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Boomerang Beach, The Hague on Sun, 6 Sept 2026.
+CLAESSENS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Boomerang Beach, The Hague on Sun, 6 Sept 2026.
 
 CLAESSENS is a techno and trance artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Frankfurt and Rotterdam and 3 more. Often billed alongside Jakob Lesch, Miss Unleashed and RUL3. Next up: Boomerang Beach, Thehague on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ CLAESSENS is a techno and trance artist based in Netherlands, tracked on soundch
 
 Jakob Lesch, Miss Unleashed, RUL3
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claessens/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claessens/)*

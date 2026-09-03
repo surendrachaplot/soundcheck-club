@@ -1,6 +1,6 @@
 # Angel Negrin
 
-Angel Negrin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Old Burnt Barns, Glasgow on Sat, 19 Sept 2026.
+Angel Negrin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Old Burnt Barns, Glasgow on Sat, 19 Sept 2026.
 
 Angel Negrin is a techno and house artist based in Venezuela, tracked on soundcheck, with 19 sets logged across Aberdeen, Edinburgh and Glasgow. Often billed alongside LOVELL, Co-Accused and Kairogen. Next up: The Old Burnt Barns, Glasgow on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Angel Negrin is a techno and house artist based in Venezuela, tracked on soundch
 
 LOVELL, Co-Accused, Kairogen
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*

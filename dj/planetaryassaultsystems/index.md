@@ -1,6 +1,6 @@
 # Planetary Assault Systems
 
-Planetary Assault Systems is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at LAB theCLUB, Madrid on Fri, 2 Oct 2026.
+Planetary Assault Systems is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at LAB theCLUB, Madrid on Fri, 2 Oct 2026.
 
 Planetary Assault Systems is a techno and electronica artist tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside DJ Red, Fadi Mohem and DVS1. Next up: LAB theCLUB, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Planetary Assault Systems is a techno and electronica artist tracked on soundche
 
 DJ Red, Fadi Mohem, DVS1
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/planetaryassaultsystems/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/planetaryassaultsystems/)*

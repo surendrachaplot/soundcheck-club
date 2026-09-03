@@ -1,6 +1,6 @@
 # Fastlove
 
-Fastlove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Algha's Plantroom, London on Sat, 19 Sept 2026.
+Fastlove is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Algha's Plantroom, London on Sat, 19 Sept 2026.
 
 Fastlove is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Leeds, Liverpool and London and 4 more. Often billed alongside Aiden Francis, Merve and Rhod Parry. Next up: Algha's Plantroom, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Fastlove is a house and techno artist tracked on soundcheck, with 78 sets logged
 
 Aiden Francis, Merve, Rhod Parry
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Fastlove/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Fastlove/)*

@@ -1,6 +1,6 @@
 # Kaesar
 
-Kaesar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Plano B, Porto on Sat, 5 Sept 2026.
+Kaesar is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Plano B, Porto on Sat, 5 Sept 2026.
 
 Kaesar is a techno and house artist based in Portugal, tracked on soundcheck, with 97 sets logged across Lisbon, Malaga, Porto and Tbilisi. Often billed alongside Bernardo Vaz, Gear and Kokeshi. Next up: Plano B, Porto on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Kaesar is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 Bernardo Vaz, Gear, Kokeshi
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaesar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaesar/)*

@@ -1,6 +1,6 @@
 # Twitchin Skratch
 
-Twitchin Skratch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Uptown Lounge, Chicago on Sat, 5 Sept 2026.
+Twitchin Skratch is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Uptown Lounge, Chicago on Sat, 5 Sept 2026.
 
 Twitchin Skratch is a house and techno artist tracked on soundcheck, with 8 sets logged across Chicago. Often billed alongside Pat Fee, Blu9 and Derek Specs. Next up: Uptown Lounge, Chicago on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Twitchin Skratch is a house and techno artist tracked on soundcheck, with 8 sets
 
 Pat Fee, Blu9, Derek Specs
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twitchinskratch/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twitchinskratch/)*

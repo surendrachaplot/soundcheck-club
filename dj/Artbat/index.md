@@ -1,6 +1,6 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Forbindelsehallen, Stockholm on Fri, 4 Sept 2026.
+Artbat is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Forbindelsehallen, Stockholm on Fri, 4 Sept 2026.
 
 Artbat is a techno and progressive house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Forbindelsehallen, Stockholm on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Artbat is a techno and progressive house artist tracked on soundcheck, with 121 
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

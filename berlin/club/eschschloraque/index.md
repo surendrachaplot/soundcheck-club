@@ -1,6 +1,6 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "MissVergnügen presents TELEMAT - live" on Wed, 2 Sept 2026.
+Eschschloraque is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "MissVergnügen presents TELEMAT - live" on Wed, 2 Sept 2026.
 
 Eschschloraque is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including MissVergnügen and Sheila Chipperfield. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
@@ -21,4 +21,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 8 upcoming night
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

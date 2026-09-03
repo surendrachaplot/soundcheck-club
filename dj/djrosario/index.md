@@ -1,6 +1,6 @@
 # DJ Rosario
 
-DJ Rosario is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Nitsa Club, Barcelona on Sat, 5 Sept 2026.
+DJ Rosario is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Nitsa Club, Barcelona on Sat, 5 Sept 2026.
 
 DJ Rosario is a house and baile funk artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona, Lisbon and Mexicocity. Often billed alongside Ferdiyei, HEDDA and Jhort. Next up: Nitsa Club, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DJ Rosario is a house and baile funk artist based in Spain, tracked on soundchec
 
 Ferdiyei, HEDDA, Jhort
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrosario/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrosario/)*

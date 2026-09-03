@@ -1,6 +1,6 @@
 # The Liquid Room
 
-The Liquid Room is a music venue in Edinburgh with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "FLY Festival Edinbugh - Sat Afterhours - The Liquid Room" on Sat, 12 Sept 2026.
+The Liquid Room is a music venue in Edinburgh with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "FLY Festival Edinbugh - Sat Afterhours - The Liquid Room" on Sat, 12 Sept 2026.
 
 The Liquid Room is a music venue in Edinburgh listed on soundcheck. 5 upcoming nights, with line-ups including Bellaire, David Rust, Kyle Starkey and LUKAS & FRANK and 2 more. Browse upcoming dates, start times and who's playing. 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom.
 
@@ -18,4 +18,4 @@ The Liquid Room is a music venue in Edinburgh listed on soundcheck. 5 upcoming n
 
 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom, Edinburgh
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*

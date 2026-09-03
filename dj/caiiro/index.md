@@ -1,6 +1,6 @@
 # Caiiro
 
-Caiiro is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Brooklyn Roots Collective, New York City on Sat, 26 Sept 2026.
+Caiiro is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Brooklyn Roots Collective, New York City on Sat, 26 Sept 2026.
 
 Caiiro is an afro house and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Bali and Bangkok and 21 more. Often billed alongside Enoo Napa, Da Capo and Van Zand. Next up: Brooklyn Roots Collective, Newyorkcity on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Caiiro is an afro house and house artist tracked on soundcheck, with 71 sets log
 
 Enoo Napa, Da Capo, Van Zand
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*

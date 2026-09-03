@@ -1,6 +1,6 @@
 # BARTi
 
-BARTi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 11 Sept 2026.
+BARTi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 11 Sept 2026.
 
 BARTi is a techno and house artist tracked on soundcheck, with 21 sets logged across Berlin, Hamburg, Munich and Zurich. Often billed alongside Schwirri, Phauna and Söriös / Q.rios. Next up: Jonny Knüppel, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ BARTi is a techno and house artist tracked on soundcheck, with 21 sets logged ac
 
 Schwirri, Phauna, Söriös / Q.rios
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barti/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barti/)*

@@ -1,6 +1,6 @@
 # Rainy Miller
 
-Rainy Miller is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Eglise Saint-Remi, Brussels on Sat, 12 Sept 2026.
+Rainy Miller is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Eglise Saint-Remi, Brussels on Sat, 12 Sept 2026.
 
 Rainy Miller is an experimental and electronica artist tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Brussels and Cologne and 14 more. Often billed alongside 2K88, Bianca Scout and aya. Next up: Eglise Saint-Remi, Brussels on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Rainy Miller is an experimental and electronica artist tracked on soundcheck, wi
 
 2K88, Bianca Scout, aya
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rainymiller/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rainymiller/)*

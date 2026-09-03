@@ -1,6 +1,6 @@
 # Nialler9
 
-Nialler9 is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Grand Social, Dublin on Sat, 26 Sept 2026.
+Nialler9 is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Grand Social, Dublin on Sat, 26 Sept 2026.
 
 Nialler9 is a disco and house artist tracked on soundcheck, with 31 sets logged across Dublin. Often billed alongside Badbadnotgood, Booka Shade and Cassius. Next up: The Grand Social, Dublin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nialler9 is a disco and house artist tracked on soundcheck, with 31 sets logged 
 
 Badbadnotgood, Booka Shade, Cassius
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nialler9/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nialler9/)*

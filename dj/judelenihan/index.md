@@ -1,6 +1,6 @@
 # Jude Lenihan
 
-Jude Lenihan is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Jude Lenihan is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
 Jude Lenihan is a house and tech house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Ibiza and London and 1 more. Often billed alongside Benji King, Phill de Janeiro and j:me. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Jude Lenihan is a house and tech house artist tracked on soundcheck, with 49 set
 
 Benji King, Phill de Janeiro, j:me
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/judelenihan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/judelenihan/)*

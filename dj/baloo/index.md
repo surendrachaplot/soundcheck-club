@@ -1,6 +1,6 @@
 # Baloo
 
-Baloo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at renae, Manchester on Fri, 4 Sept 2026.
+Baloo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at renae, Manchester on Fri, 4 Sept 2026.
 
 Baloo is a disco and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Frankfurt, Ibiza and London and 2 more. Often billed alongside Danuka, Bolts and Yadava. Next up: renae, Manchester on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Baloo is a disco and house artist based in United Kingdom, tracked on soundcheck
 
 Danuka, Bolts, Yadava
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baloo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baloo/)*

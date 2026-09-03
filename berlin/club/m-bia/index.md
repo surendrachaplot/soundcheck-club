@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "15 Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid" on Fri, 4 Sept 2026.
+M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "15 Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid" on Fri, 4 Sept 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Anime, Deadly Guns, DJ Jordan and Holy Priest and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

@@ -1,6 +1,6 @@
 # Miss Gypsy
 
-Miss Gypsy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Refuge, New York City on Fri, 4 Sept 2026.
+Miss Gypsy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Refuge, New York City on Fri, 4 Sept 2026.
 
 Miss Gypsy is a house and techno artist tracked on soundcheck, with 42 sets logged across Detroit and Newyorkcity. Often billed alongside Mario Polanco, Disgonuts and JKriv. Next up: Refuge, Newyorkcity on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Miss Gypsy is a house and techno artist tracked on soundcheck, with 42 sets logg
 
 Mario Polanco, Disgonuts, JKriv
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missgypsy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missgypsy/)*

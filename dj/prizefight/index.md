@@ -1,6 +1,6 @@
 # Prizefight
 
-Prizefight is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Chinese Laundry, Sydney on Fri, 4 Sept 2026.
+Prizefight is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Chinese Laundry, Sydney on Fri, 4 Sept 2026.
 
 Prizefight is a techno and garage artist tracked on soundcheck, with 71 sets logged across Auckland, Brisbane, Hobart and Melbourne and 1 more. Often billed alongside TRUSTEE, IsGwan and KSMBA. Next up: Chinese Laundry, Sydney on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Prizefight is a techno and garage artist tracked on soundcheck, with 71 sets log
 
 TRUSTEE, IsGwan, KSMBA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prizefight/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prizefight/)*

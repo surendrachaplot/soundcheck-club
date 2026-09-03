@@ -1,6 +1,6 @@
 # THe LYONZ
 
-THe LYONZ is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Système, Montreal on Sun, 6 Sept 2026.
+THe LYONZ is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Système, Montreal on Sun, 6 Sept 2026.
 
 THe LYONZ is a r&b and hip-hop artist tracked on soundcheck, with 22 sets logged across Mexicocity and Montreal. Often billed alongside Guthrie, Alina (MTL) and Kris Guilty. Next up: Système, Montreal on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ THe LYONZ is a r&b and hip-hop artist tracked on soundcheck, with 22 sets logged
 
 Guthrie, Alina (MTL), Kris Guilty
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelyonz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelyonz/)*

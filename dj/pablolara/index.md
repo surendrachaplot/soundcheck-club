@@ -1,6 +1,6 @@
 # Pablo Lara
 
-Pablo Lara is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Abrazarnos, Mexico City on Thu, 3 Sept 2026.
+Pablo Lara is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Abrazarnos, Mexico City on Thu, 3 Sept 2026.
 
 Pablo Lara is a techno and house artist tracked on soundcheck, with 65 sets logged across Mexicocity. Often billed alongside Eliel Capa, Enya Botello and Portugal. Next up: Abrazarnos, Mexicocity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Pablo Lara is a techno and house artist tracked on soundcheck, with 65 sets logg
 
 Eliel Capa, Enya Botello, Portugal
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablolara/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablolara/)*

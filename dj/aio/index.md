@@ -1,6 +1,6 @@
 # Aio
 
-Aio is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fundbureau, Hamburg on Sat, 19 Sept 2026.
+Aio is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fundbureau, Hamburg on Sat, 19 Sept 2026.
 
 Aio is a techno and house artist tracked on soundcheck, with 69 sets logged across Auckland, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Aender, Maurice Mino and Sin:port. Next up: Fundbureau, Hamburg on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Aio is a techno and house artist tracked on soundcheck, with 69 sets logged acro
 
 Aender, Maurice Mino, Sin:port
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aio/)*

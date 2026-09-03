@@ -1,6 +1,6 @@
 # Zlata
 
-Zlata is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 22 Sept 2026.
+Zlata is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 22 Sept 2026.
 
 Zlata is a techno and house artist tracked on soundcheck, with 6 sets logged across Ibiza, Montreal, Newyorkcity and Sanfrancisco. Often billed alongside Adrian Hex, Crazy P and Eli Brown. Next up: 528 Ibiza, Ibiza on Tue 22 Sept.
 
@@ -22,4 +22,4 @@ Zlata is a techno and house artist tracked on soundcheck, with 6 sets logged acr
 
 Adrian Hex, Crazy P, Eli Brown
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zlata/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zlata/)*

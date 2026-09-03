@@ -1,6 +1,6 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at FOLD, London on Fri, 4 Sept 2026.
+Byron Yeates is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at FOLD, London on Fri, 4 Sept 2026.
 
 Byron Yeates is a house and techno artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside THC, DHC and Angel D'lite. Next up: FOLD, London on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 187 sets l
 
 THC, DHC, Angel D'lite
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

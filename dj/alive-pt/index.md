@@ -1,6 +1,6 @@
 # Alive
 
-Alive is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Era uma vez no Porto, Porto on Wed, 16 Sept 2026.
+Alive is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Era uma vez no Porto, Porto on Wed, 16 Sept 2026.
 
 Alive is a house and techno artist based in Portugal, tracked on soundcheck, with 8 sets logged across Athens, Lisbon, Losangeles and Manchester and 1 more. Often billed alongside Andy C, Pedro Tabuada and 10cust. Next up: Era uma vez no Porto, Porto on Wed 16 Sept.
 
@@ -24,4 +24,4 @@ Alive is a house and techno artist based in Portugal, tracked on soundcheck, wit
 
 Andy C, Pedro Tabuada, 10cust
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*

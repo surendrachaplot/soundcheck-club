@@ -1,6 +1,6 @@
 # OB
 
-OB is a Drum & Bass and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bread & Butter Arch, London on Fri, 11 Sept 2026.
+OB is a Drum & Bass and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bread & Butter Arch, London on Fri, 11 Sept 2026.
 
 OB is a drum & bass and deep house artist tracked on soundcheck, with 4 sets logged across London and Paris. Often billed alongside Counter Culture, ETHICS and Jolliffe. Next up: Bread & Butter Arch, London on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ OB is a drum & bass and deep house artist tracked on soundcheck, with 4 sets log
 
 Counter Culture, ETHICS, Jolliffe
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ob-uk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ob-uk/)*

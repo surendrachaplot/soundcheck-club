@@ -1,6 +1,6 @@
 # Ross Harper
 
-Ross Harper is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hare & Hounds, Brighton on Sat, 31 Oct 2026.
+Ross Harper is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hare & Hounds, Brighton on Sat, 31 Oct 2026.
 
 Ross Harper is a techno and deep house artist tracked on soundcheck, with 46 sets logged across Amsterdam, Brighton, Bristol and London and 1 more. Often billed alongside Nathan Godolphin, Gosia and Døra. Next up: Hare & Hounds, Brighton on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ross Harper is a techno and deep house artist tracked on soundcheck, with 46 set
 
 Nathan Godolphin, Gosia, Døra
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossharper/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossharper/)*

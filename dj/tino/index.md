@@ -1,6 +1,6 @@
 # Tino
 
-Tino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 12 Sept 2026.
+Tino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 12 Sept 2026.
 
 Tino is a house and techno artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Cardiff, Copenhagen, Dublin and Edinburgh and 9 more. Often billed alongside LILI, ADR (UK) and AZAAD. Next up: Den Anden Side, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Tino is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 LILI, ADR (UK), AZAAD
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*

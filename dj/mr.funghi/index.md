@@ -1,6 +1,6 @@
 # Mr. Funghi
 
-Mr. Funghi is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 26 Sept 2026.
+Mr. Funghi is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 26 Sept 2026.
 
 Mr. Funghi is an italo disco and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Lisbon and Paris and 1 more. Often billed alongside Lorenza Laserstein, Desolate Discotheque and Xpresso Martina. Next up: Phantom Bar Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mr. Funghi is an italo disco and techno artist based in Germany, tracked on soun
 
 Lorenza Laserstein, Desolate Discotheque, Xpresso Martina
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.funghi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.funghi/)*

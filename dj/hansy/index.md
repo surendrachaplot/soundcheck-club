@@ -1,6 +1,6 @@
 # Hansy
 
-Hansy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Nué Seoul, Seoul on Fri, 4 Sept 2026.
+Hansy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Nué Seoul, Seoul on Fri, 4 Sept 2026.
 
 Hansy is a techno and house artist based in South Korea, tracked on soundcheck, with 32 sets logged across Seoul. Often billed alongside S.Telecom, A.Attack and Joon Kwak. Next up: Nué Seoul, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Hansy is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 S.Telecom, A.Attack, Joon Kwak
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hansy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hansy/)*

@@ -1,6 +1,6 @@
 # Bklava
 
-Bklava is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at M.O.T, London on Fri, 18 Sept 2026.
+Bklava is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at M.O.T, London on Fri, 18 Sept 2026.
 
 Bklava is a house and drum & bass artist tracked on soundcheck, with 28 sets logged across Belfast, Brighton, Bristol and Glasgow and 8 more. Often billed alongside Meg Ward, Denis Sulta and Dr Dubplate. Next up: M.O.T, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Bklava is a house and drum & bass artist tracked on soundcheck, with 28 sets log
 
 Meg Ward, Denis Sulta, Dr Dubplate
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bklava/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bklava/)*

@@ -1,6 +1,6 @@
 # DJ Yugo
 
-DJ Yugo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Rote Sonne, Munich on Sat, 26 Sept 2026.
+DJ Yugo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Rote Sonne, Munich on Sat, 26 Sept 2026.
 
 DJ Yugo is a trance and techno artist based in Germany, tracked on soundcheck, with 36 sets logged across Leipzig, Munich, Stuttgart and Vienna. Often billed alongside ENERGY TAPE, MASSAGIO and Alicea. Next up: Rote Sonne, Munich on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Yugo is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 ENERGY TAPE, MASSAGIO, Alicea
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyugo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyugo/)*

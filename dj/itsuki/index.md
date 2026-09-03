@@ -1,6 +1,6 @@
 # ITSUKI
 
-ITSUKI is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Solfa, Tokyo on Fri, 11 Sept 2026.
+ITSUKI is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Solfa, Tokyo on Fri, 11 Sept 2026.
 
 ITSUKI is a drum & bass and bass artist based in Japan, tracked on soundcheck, with 59 sets logged across Tokyo. Often billed alongside MOOTOE, OPTIMIST and SAKO. Next up: Solfa, Tokyo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ ITSUKI is a drum & bass and bass artist based in Japan, tracked on soundcheck, w
 
 MOOTOE, OPTIMIST, SAKO
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itsuki/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/itsuki/)*

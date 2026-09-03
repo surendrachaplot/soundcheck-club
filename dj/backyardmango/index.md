@@ -1,6 +1,6 @@
 # backyardmango
 
-backyardmango is a Latin Bass and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at White Owl Social Club, Portland on Sun, 20 Sept 2026.
+backyardmango is a Latin Bass and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at White Owl Social Club, Portland on Sun, 20 Sept 2026.
 
 backyardmango is a latin bass and funk / soul artist tracked on soundcheck, with 16 sets logged across London, Mexicocity, Portland and Seattle. Often billed alongside Coco Maria, La Mala Noche and AHNDO. Next up: White Owl Social Club, Portland on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ backyardmango is a latin bass and funk / soul artist tracked on soundcheck, with
 
 Coco Maria, La Mala Noche, AHNDO
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/backyardmango/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/backyardmango/)*

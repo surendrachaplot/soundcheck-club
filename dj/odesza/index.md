@@ -1,6 +1,6 @@
 # ODESZA
 
-ODESZA is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Factory Town, Miami on Sat, 14 Nov 2026.
+ODESZA is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Factory Town, Miami on Sat, 14 Nov 2026.
 
 ODESZA is a deep house and house artist tracked on soundcheck, with 9 sets logged across Austin, Losangeles, Miami and Sandiego and 2 more. Often billed alongside Bob Moses, Ben Böhmer and SG Lewis. Next up: Factory Town, Miami on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ODESZA is a deep house and house artist tracked on soundcheck, with 9 sets logge
 
 Bob Moses, Ben Böhmer, SG Lewis
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odesza/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odesza/)*

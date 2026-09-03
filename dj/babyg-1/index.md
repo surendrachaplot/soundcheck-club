@@ -1,6 +1,6 @@
 # Baby G
 
-Baby G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Collingwood Basement, Melbourne on Fri, 4 Sept 2026.
+Baby G is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Collingwood Basement, Melbourne on Fri, 4 Sept 2026.
 
 Baby G is a house and techno artist based in Australia, tracked on soundcheck, with 47 sets logged across Hobart, London, Melbourne and Newyorkcity and 1 more. Often billed alongside Bertie, Tina Disco and Afrodisiac. Next up: Collingwood Basement, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Baby G is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Bertie, Tina Disco, Afrodisiac
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyg-1/)*

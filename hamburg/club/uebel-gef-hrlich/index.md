@@ -1,6 +1,6 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Bunker Season Opening with dasstudach & ANDATA" on Fri, 4 Sept 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Bunker Season Opening with dasstudach & ANDATA" on Fri, 4 Sept 2026.
 
 Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcoming nights, with line-ups including Aiden (DE), Alignment, ANDATA and BNZN and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcomin
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

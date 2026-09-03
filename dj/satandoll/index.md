@@ -1,6 +1,6 @@
 # satandoll
 
-satandoll is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jupiter Disco, New York City on Wed, 23 Sept 2026.
+satandoll is a Footwork and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jupiter Disco, New York City on Wed, 23 Sept 2026.
 
 satandoll is a footwork and club artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside DJ Fat Frog, dj 5spice and LEEJAY. Next up: Jupiter Disco, Newyorkcity on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ satandoll is a footwork and club artist based in United States of America, track
 
 DJ Fat Frog, dj 5spice, LEEJAY
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satandoll/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satandoll/)*

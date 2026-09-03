@@ -1,6 +1,6 @@
 # Gianni Noel
 
-Gianni Noel is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Void Club, Berlin on Sat, 31 Oct 2026.
+Gianni Noel is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Void Club, Berlin on Sat, 31 Oct 2026.
 
 Gianni Noel is a techno and drum & bass artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Upzet, unknown.dnb and Emma Ro.zn. Next up: Void Club, Berlin on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Gianni Noel is a techno and drum & bass artist tracked on soundcheck, with 8 set
 
 Upzet, unknown.dnb, Emma Ro.zn
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gianninoel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gianninoel/)*

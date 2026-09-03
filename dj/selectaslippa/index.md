@@ -1,6 +1,6 @@
 # Selecta Slippa
 
-Selecta Slippa is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Cabaret Voltaire, Edinburgh on Mon, 14 Sept 2026.
+Selecta Slippa is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cabaret Voltaire, Edinburgh on Mon, 14 Sept 2026.
 
 Selecta Slippa is a drum & bass and jungle artist tracked on soundcheck, with 13 sets logged across Edinburgh. Often billed alongside Bengalist, Coben and FIFI (2). Next up: Cabaret Voltaire, Edinburgh on Mon 14 Sept.
 
@@ -25,4 +25,4 @@ Selecta Slippa is a drum & bass and jungle artist tracked on soundcheck, with 13
 
 Bengalist, Coben, FIFI (2)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selectaslippa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selectaslippa/)*

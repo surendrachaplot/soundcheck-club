@@ -1,6 +1,6 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Kingdom Nightclub, Austin on Fri, 11 Sept 2026.
+bradeazy is a Tech House and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kingdom Nightclub, Austin on Fri, 11 Sept 2026.
 
 bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Austin, Barcelona, Boston and Brisbane and 16 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Kingdom Nightclub, Austin on Fri 11 Sept.
 
@@ -34,4 +34,4 @@ bradeazy is a tech house and house artist based in United States of America, tra
 
 Agents Of Time, Eelke Kleijn, Innellea
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*

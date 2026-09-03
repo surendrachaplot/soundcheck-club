@@ -1,6 +1,6 @@
 # Giulio Domi
 
-Giulio Domi is a Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Volt Club Milano, Milan on Thu, 17 Sept 2026.
+Giulio Domi is a Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Volt Club Milano, Milan on Thu, 17 Sept 2026.
 
 Giulio Domi is a tech house artist tracked on soundcheck, with 11 sets logged across Milan. Often billed alongside Simon Ricci, AIN'T GEORGE and ALDAVE. Next up: Volt Club Milano, Milan on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Giulio Domi is a tech house artist tracked on soundcheck, with 11 sets logged ac
 
 Simon Ricci, AIN'T GEORGE, ALDAVE
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliodomi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliodomi/)*

@@ -1,6 +1,6 @@
 # Zitto
 
-Zitto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at FOLD, London on Sat, 5 Sept 2026.
+Zitto is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at FOLD, London on Sat, 5 Sept 2026.
 
 Zitto is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 9 more. Often billed alongside Kancheli, Kvanchi and Ndrx. Next up: FOLD, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Zitto is a techno and house artist tracked on soundcheck, with 72 sets logged ac
 
 Kancheli, Kvanchi, Ndrx
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zitto/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zitto/)*

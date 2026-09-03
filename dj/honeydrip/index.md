@@ -1,6 +1,6 @@
 # Honeydrip
 
-Honeydrip is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Système, Montreal on Sat, 12 Sept 2026.
+Honeydrip is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Système, Montreal on Sat, 12 Sept 2026.
 
 Honeydrip is a bass and techno artist based in Canada, tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Bristol and Brussels and 14 more. Often billed alongside Deadbeat, Mossy Mugler and Nick León. Next up: Système, Montreal on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Honeydrip is a bass and techno artist based in Canada, tracked on soundcheck, wi
 
 Deadbeat, Mossy Mugler, Nick León
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*

@@ -1,6 +1,6 @@
 # Scano
 
-Scano is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hangaren, Copenhagen on Sat, 5 Sept 2026.
+Scano is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hangaren, Copenhagen on Sat, 5 Sept 2026.
 
 Scano is a techno and trance artist tracked on soundcheck, with 16 sets logged across Berlin and Copenhagen. Often billed alongside Lucy Headburn, Matriark and CF682. Next up: Hangaren, Copenhagen on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Scano is a techno and trance artist tracked on soundcheck, with 16 sets logged a
 
 Lucy Headburn, Matriark, CF682
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scano/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scano/)*

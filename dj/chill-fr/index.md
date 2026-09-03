@@ -1,6 +1,6 @@
 # Chill (FR)
 
-Chill (FR) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fvtvr, Paris on Fri, 11 Sept 2026.
+Chill (FR) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fvtvr, Paris on Fri, 11 Sept 2026.
 
 Chill (FR) is a techno and electro artist tracked on soundcheck, with 48 sets logged across Berlin, London, Paris and Rome and 2 more. Often billed alongside Diliman, Dimë and STU (FR). Next up: Fvtvr, Paris on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Chill (FR) is a techno and electro artist tracked on soundcheck, with 48 sets lo
 
 Diliman, Dimë, STU (FR)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chill-fr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chill-fr/)*

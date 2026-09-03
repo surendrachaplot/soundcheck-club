@@ -1,6 +1,6 @@
 # Subliime
 
-Subliime is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Zwart Goud Record Store, Amsterdam on Sat, 19 Sept 2026.
+Subliime is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Zwart Goud Record Store, Amsterdam on Sat, 19 Sept 2026.
 
 Subliime is a house and deep house artist tracked on soundcheck, with 9 sets logged across Amsterdam and Hamburg. Often billed alongside Bizzarro Universe, MAMA LOVE and Taylor Taylor. Next up: Zwart Goud Record Store, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Subliime is a house and deep house artist tracked on soundcheck, with 9 sets log
 
 Bizzarro Universe, MAMA LOVE, Taylor Taylor
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subliime/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subliime/)*

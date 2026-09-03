@@ -1,6 +1,6 @@
 # MOON
 
-MOON is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Folies Pigalle, Paris on Sat, 12 Sept 2026.
+MOON is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Folies Pigalle, Paris on Sat, 12 Sept 2026.
 
 MOON is a house and techno artist based in France, tracked on soundcheck, with 24 sets logged across Cologne and Paris. Often billed alongside Edouard!, Julie Saint Germain and Arthur Nozen. Next up: Folies Pigalle, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ MOON is a house and techno artist based in France, tracked on soundcheck, with 2
 
 Edouard!, Julie Saint Germain, Arthur Nozen
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moon/)*

@@ -1,6 +1,6 @@
 # I-SO
 
-I-SO is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Flinders, Sydney on Fri, 11 Sept 2026.
+I-SO is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Flinders, Sydney on Fri, 11 Sept 2026.
 
 I-SO is a techno and industrial artist tracked on soundcheck, with 73 sets logged across Auckland, Melbourne, Milan and Osaka and 2 more. Often billed alongside LeStrange, Madsync and ART IS HARD. Next up: The Flinders, Sydney on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ I-SO is a techno and industrial artist tracked on soundcheck, with 73 sets logge
 
 LeStrange, Madsync, ART IS HARD
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-so/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/i-so/)*

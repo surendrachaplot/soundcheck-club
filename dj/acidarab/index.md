@@ -1,6 +1,6 @@
 # Acid Arab
 
-Acid Arab is a Electro and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Akvárium Klub, Budapest on Sat, 3 Oct 2026.
+Acid Arab is a Electro and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Akvárium Klub, Budapest on Sat, 3 Oct 2026.
 
 Acid Arab is an electro and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: Akvárium Klub, Budapest on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Acid Arab is an electro and techno artist tracked on soundcheck, with 92 sets lo
 
 NTO, Goom Gum, Hannes Bieger
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*

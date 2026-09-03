@@ -1,6 +1,6 @@
 # chldrns
 
-chldrns is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Oven Club, Valencia on Thu, 3 Sept 2026.
+chldrns is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Oven Club, Valencia on Thu, 3 Sept 2026.
 
 chldrns is a house and minimal artist tracked on soundcheck, with 23 sets logged across London, Mexicocity, Prague and Valencia. Often billed alongside Gallō, Bastard Love and Kodemul. Next up: Oven Club, Valencia on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ chldrns is a house and minimal artist tracked on soundcheck, with 23 sets logged
 
 Gallō, Bastard Love, Kodemul
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chldrns/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chldrns/)*

@@ -1,6 +1,6 @@
 # Mumsfilibaba
 
-Mumsfilibaba is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jolene, Copenhagen on Thu, 3 Sept 2026.
+Mumsfilibaba is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jolene, Copenhagen on Thu, 3 Sept 2026.
 
 Mumsfilibaba is a house and tech house artist tracked on soundcheck, with 72 sets logged across Bangkok, Copenhagen, Hongkong and Madrid and 5 more. Often billed alongside Brent Burns, Jayja and DOTT. Next up: Jolene, Copenhagen on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Mumsfilibaba is a house and tech house artist tracked on soundcheck, with 72 set
 
 Brent Burns, Jayja, DOTT
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mumsfilibaba/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mumsfilibaba/)*

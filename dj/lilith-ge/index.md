@@ -1,6 +1,6 @@
 # Lilith.
 
-Lilith. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
+Lilith. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
 
 Lilith. is a techno and house artist tracked on soundcheck, with 52 sets logged across Berlin, Hamburg and Tbilisi. Often billed alongside Objector Trax, Generali Minerali and OTHR. Next up: KitKatClub, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Lilith. is a techno and house artist tracked on soundcheck, with 52 sets logged 
 
 Objector Trax, Generali Minerali, OTHR
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilith-ge/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilith-ge/)*

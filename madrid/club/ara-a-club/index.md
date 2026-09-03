@@ -1,6 +1,6 @@
 # Araña Club
 
-Araña Club is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "NEOTIKA ESPECIAL ARAÑA - 4 DE SEPT" on Fri, 4 Sept 2026.
+Araña Club is a music venue in Madrid with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "NEOTIKA ESPECIAL ARAÑA - 4 DE SEPT" on Fri, 4 Sept 2026.
 
 Araña Club is a music venue in Madrid listed on soundcheck. 2 upcoming nights, with line-ups including AMBRA, Babylon Whore, DISTORT (ES) and JAWS and 2 more. Browse upcoming dates, start times and who's playing. Madrid, Centro 28013, Calle Flor Baja 6, , Madrid.
 
@@ -15,4 +15,4 @@ Araña Club is a music venue in Madrid listed on soundcheck. 2 upcoming nights, 
 
 Madrid, Centro 28013, Calle Flor Baja 6, , Madrid, Madrid
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ara-a-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/ara-a-club/)*

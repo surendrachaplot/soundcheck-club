@@ -1,6 +1,6 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "DJ Grip b2b Nomart" on Wed, 2 Sept 2026.
+Oven Club is a music venue in Valencia with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "DJ Grip b2b Nomart" on Wed, 2 Sept 2026.
 
 Oven Club is a music venue in Valencia listed on soundcheck. 5 upcoming nights, with line-ups including Alvaro Medina, chldrns, DJ Senc and Francesco Farfa and 2 more. Browse upcoming dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
@@ -18,4 +18,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 5 upcoming nights, 
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

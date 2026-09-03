@@ -1,6 +1,6 @@
 # Brina Knauss
 
-Brina Knauss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Luz De Gas, Barcelona on Sat, 5 Sept 2026.
+Brina Knauss is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Luz De Gas, Barcelona on Sat, 5 Sept 2026.
 
 Brina Knauss is a techno and house artist based in Slovenia, tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Fideles, Mathame and Henri Bergmann. Next up: Luz De Gas, Barcelona on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Brina Knauss is a techno and house artist based in Slovenia, tracked on soundche
 
 Fideles, Mathame, Henri Bergmann
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*

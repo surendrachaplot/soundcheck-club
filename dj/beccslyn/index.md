@@ -1,6 +1,6 @@
 # beccslyn
 
-beccslyn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Wilhelm-Külz Park, Leipzig on Sat, 5 Sept 2026.
+beccslyn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Wilhelm-Külz Park, Leipzig on Sat, 5 Sept 2026.
 
 beccslyn is a techno and trance artist tracked on soundcheck, with 12 sets logged across Berlin and Leipzig. Often billed alongside Bélavie, DJ Spaßgetränk and MIMI404. Next up: Wilhelm-Külz Park, Leipzig on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ beccslyn is a techno and trance artist tracked on soundcheck, with 12 sets logge
 
 Bélavie, DJ Spaßgetränk, MIMI404
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beccslyn/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beccslyn/)*

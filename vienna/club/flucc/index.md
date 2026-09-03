@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "RUHE:STÖRUNG w/WITHECKER" on Fri, 4 Sept 2026.
+FLUCC is a music venue in Vienna with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "RUHE:STÖRUNG w/WITHECKER" on Fri, 4 Sept 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with line-ups including A.Pringle and Voltaire. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -18,4 +18,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 5 upcoming nights, with l
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

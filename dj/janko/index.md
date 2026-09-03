@@ -1,6 +1,6 @@
 # Janko
 
-Janko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Karmakoma, Belgrade on Fri, 4 Sept 2026.
+Janko is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Karmakoma, Belgrade on Fri, 4 Sept 2026.
 
 Janko is a house and techno artist tracked on soundcheck, with 34 sets logged across Bangkok, Belgrade, Lisbon and Prague. Often billed alongside Knower, Runy and Baldo. Next up: Karmakoma, Belgrade on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Janko is a house and techno artist tracked on soundcheck, with 34 sets logged ac
 
 Knower, Runy, Baldo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janko/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janko/)*

@@ -1,6 +1,6 @@
 # DJ LIL-E
 
-DJ LIL-E is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Club Makossa, London on Fri, 4 Sept 2026.
+DJ LIL-E is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club Makossa, London on Fri, 4 Sept 2026.
 
 DJ LIL-E is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across London. Often billed alongside Eseccaro, 10:35 and CARO (3). Next up: Club Makossa, London on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ DJ LIL-E is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Eseccaro, 10:35, CARO (3)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlil-e/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djlil-e/)*

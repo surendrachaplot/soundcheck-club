@@ -1,6 +1,6 @@
 # Teykirisi
 
-Teykirisi is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Cyberlove Garden, Montreal on Fri, 4 Sept 2026.
+Teykirisi is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Cyberlove Garden, Montreal on Fri, 4 Sept 2026.
 
 Teykirisi is a techno and club artist based in Honduras, tracked on soundcheck, with 33 sets logged across Mexicocity, Montreal and Toronto. Often billed alongside RICO RICA, LaFHomme and Monsieurmadam. Next up: TBA - Cyberlove Garden, Montreal on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Teykirisi is a techno and club artist based in Honduras, tracked on soundcheck, 
 
 RICO RICA, LaFHomme, Monsieurmadam
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teykirisi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teykirisi/)*

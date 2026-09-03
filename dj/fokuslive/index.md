@@ -1,6 +1,6 @@
 # FOKUS (Live)
 
-FOKUS (Live) is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Fri, 16 Oct 2026.
+FOKUS (Live) is a Drum & Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Planet Wax, London on Fri, 16 Oct 2026.
 
 FOKUS (Live) is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Budapest, London and Rotterdam. Often billed alongside Bildgewalt, BSLS and Khyodo. Next up: Planet Wax, London on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ FOKUS (Live) is a drum & bass and techno artist based in Germany, tracked on sou
 
 Bildgewalt, BSLS, Khyodo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fokuslive/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fokuslive/)*

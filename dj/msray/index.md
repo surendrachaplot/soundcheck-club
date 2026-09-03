@@ -1,6 +1,6 @@
 # Ms Ray
 
-Ms Ray is a Pop and Electronica artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Headrow House, Leeds on Fri, 11 Sept 2026.
+Ms Ray is a Pop and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Headrow House, Leeds on Fri, 11 Sept 2026.
 
 Ms Ray is a pop and electronica artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Berlin, Bristol, Leeds and London. Often billed alongside 96 Back, A Good Year and Alex Wilcox. Next up: Headrow House, Leeds on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Ms Ray is a pop and electronica artist based in United Kingdom, tracked on sound
 
 96 Back, A Good Year, Alex Wilcox
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msray/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msray/)*

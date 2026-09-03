@@ -1,6 +1,6 @@
 # Warlord®
 
-Warlord® is a Club and R&B artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Giri, Berlin on Thu, 3 Sept 2026.
+Warlord® is a Club and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Giri, Berlin on Thu, 3 Sept 2026.
 
 Warlord® is a club and r&b artist tracked on soundcheck, with 18 sets logged across Berlin, Prague and Tbilisi. Often billed alongside bod [包家巷], 1000bodies and Anthracene. Next up: Giri, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Warlord® is a club and r&b artist tracked on soundcheck, with 18 sets logged ac
 
 bod [包家巷], 1000bodies, Anthracene
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warlord®/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warlord®/)*

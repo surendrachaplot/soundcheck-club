@@ -1,6 +1,6 @@
 # TBA - Lignée, Microcentro
 
-TBA - Lignée, Microcentro is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Cadelago - Yamyla Zon, Lignée Microcentro - ALLMusicParties" on Sat, 5 Sept 2026.
+TBA - Lignée, Microcentro is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Cadelago - Yamyla Zon, Lignée Microcentro - ALLMusicParties" on Sat, 5 Sept 2026.
 
 TBA - Lignée, Microcentro is a music venue in Buenosaires listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Lignée, Microcentro is a music venue in Buenosaires listed on soundcheck.
 | Sat, 5 Sept 2026 | Cadelago - Yamyla Zon, Lignée Microcentro - ALLMusicParties |  |
 | Sat, 12 Sept 2026 | Inndrive x Yamyla Zon, Lignée, Microcentro Buenos Aires |  |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-lign-e-microcentro/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-lign-e-microcentro/)*

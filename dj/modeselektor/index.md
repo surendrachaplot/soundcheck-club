@@ -1,6 +1,6 @@
 # Modeselektor
 
-Modeselektor is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nitsa Club, Barcelona on Sat, 26 Sept 2026.
+Modeselektor is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nitsa Club, Barcelona on Sat, 26 Sept 2026.
 
 Modeselektor is a techno and bass artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 28 more. Often billed alongside Helena Hauff, Richie Hawtin and Anetha. Next up: Nitsa Club, Barcelona on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Modeselektor is a techno and bass artist tracked on soundcheck, with 61 sets log
 
 Helena Hauff, Richie Hawtin, Anetha
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*

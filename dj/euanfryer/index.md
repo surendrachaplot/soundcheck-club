@@ -1,6 +1,6 @@
 # Euan Fryer
 
-Euan Fryer is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tyneside Cinema, Newcastle on Fri, 18 Sept 2026.
+Euan Fryer is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tyneside Cinema, Newcastle on Fri, 18 Sept 2026.
 
 Euan Fryer is a disco and funk / soul artist tracked on soundcheck, with 26 sets logged across Edinburgh, Glasgow, Ibiza and London and 1 more. Often billed alongside Lel Palfrey, Athens of the North and Adam Pits. Next up: Tyneside Cinema, Newcastle on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Euan Fryer is a disco and funk / soul artist tracked on soundcheck, with 26 sets
 
 Lel Palfrey, Athens of the North, Adam Pits
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/euanfryer/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/euanfryer/)*

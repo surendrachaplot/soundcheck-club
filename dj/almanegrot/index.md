@@ -1,6 +1,6 @@
 # Alma Negrot
 
-Alma Negrot is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Skin Club, Madrid on Fri, 4 Sept 2026.
+Alma Negrot is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Skin Club, Madrid on Fri, 4 Sept 2026.
 
 Alma Negrot is a house and techno artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Brussels and Istanbul and 4 more. Often billed alongside Gezender, Kontronatura and materia hache. Next up: Skin Club, Madrid on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Alma Negrot is a house and techno artist tracked on soundcheck, with 42 sets log
 
 Gezender, Kontronatura, materia hache
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/almanegrot/)*

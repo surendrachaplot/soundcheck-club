@@ -1,6 +1,6 @@
 # DATSKO
 
-DATSKO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at La Java, Paris on Fri, 4 Sept 2026.
+DATSKO is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at La Java, Paris on Fri, 4 Sept 2026.
 
 DATSKO is a techno and trance artist tracked on soundcheck, with 75 sets logged across Aberdeen, Amsterdam, Antwerp and Belfast and 24 more. Often billed alongside Black Traffic, blk. and Jezza & Jod. Next up: La Java, Paris on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ DATSKO is a techno and trance artist tracked on soundcheck, with 75 sets logged 
 
 Black Traffic, blk., Jezza & Jod
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*

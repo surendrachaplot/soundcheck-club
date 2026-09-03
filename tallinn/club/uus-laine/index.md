@@ -1,6 +1,6 @@
 # Uus Laine
 
-Uus Laine is a music venue in Tallinn with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Laine Label Night: Alma Negra (CH)" on Fri, 4 Sept 2026.
+Uus Laine is a music venue in Tallinn with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Laine Label Night: Alma Negra (CH)" on Fri, 4 Sept 2026.
 
 Uus Laine is a music venue in Tallinn listed on soundcheck. 4 upcoming nights, with line-ups including Alma Negra, mi-el, shbxsz and Yung Singh. Browse upcoming dates, start times and who's playing. Vana-Kalamaja 1 Tallinn, Estonia.
 
@@ -17,4 +17,4 @@ Uus Laine is a music venue in Tallinn listed on soundcheck. 4 upcoming nights, w
 
 Vana-Kalamaja 1 Tallinn, Estonia, Tallinn
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/uus-laine/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/uus-laine/)*

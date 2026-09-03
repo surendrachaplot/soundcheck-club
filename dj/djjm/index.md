@@ -1,6 +1,6 @@
 # DJ JM
 
-DJ JM is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Phonox, London on Thu, 24 Sept 2026.
+DJ JM is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Phonox, London on Thu, 24 Sept 2026.
 
 DJ JM is a techno and bass artist tracked on soundcheck, with 55 sets logged across Athens, Berlin, Bristol and Brussels and 15 more. Often billed alongside TS Kahuna, Amiraku and A.dixen. Next up: Phonox, London on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ DJ JM is a techno and bass artist tracked on soundcheck, with 55 sets logged acr
 
 TS Kahuna, Amiraku, A.dixen
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjm/)*

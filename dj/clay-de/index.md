@@ -1,6 +1,6 @@
 # clay (DE)
 
-clay (DE) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Phantom Bar Berlin, Berlin on Fri, 11 Sept 2026.
+clay (DE) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Phantom Bar Berlin, Berlin on Fri, 11 Sept 2026.
 
 clay (DE) is a house and tech house artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside DJ EL, 2 Girls 1 Club and Audio Werner. Next up: Phantom Bar Berlin, Berlin on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ clay (DE) is a house and tech house artist tracked on soundcheck, with 6 sets lo
 
 DJ EL, 2 Girls 1 Club, Audio Werner
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clay-de/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clay-de/)*

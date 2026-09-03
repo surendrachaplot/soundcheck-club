@@ -1,6 +1,6 @@
 # Daskaran
 
-Daskaran is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Colour Factory, London on Sat, 12 Sept 2026.
+Daskaran is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Colour Factory, London on Sat, 12 Sept 2026.
 
 Daskaran is a techno and club artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, Lisbon and London. Often billed alongside LO-LOW, Varanasi and BLEID. Next up: Colour Factory, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Daskaran is a techno and club artist based in United Kingdom, tracked on soundch
 
 LO-LOW, Varanasi, BLEID
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daskaran/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daskaran/)*

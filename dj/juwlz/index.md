@@ -1,6 +1,6 @@
 # JUWLZ
 
-JUWLZ is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+JUWLZ is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 JUWLZ is a techno and trance artist based in Germany, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Brussels and Ghent and 1 more. Often billed alongside Lisatrix, Ravejezuz and Thielking. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ JUWLZ is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Lisatrix, Ravejezuz, Thielking
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*

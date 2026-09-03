@@ -1,6 +1,6 @@
 # lady lavender
 
-lady lavender is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Doubles, Washington DC on Sat, 19 Sept 2026.
+lady lavender is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Doubles, Washington DC on Sat, 19 Sept 2026.
 
 lady lavender is a house and techno artist based in United States of America, tracked on soundcheck, with 59 sets logged across Austin, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Jacq Jill, Kenny M and Mrs. Qbert. Next up: Doubles, Washingtondc on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ lady lavender is a house and techno artist based in United States of America, tr
 
 Jacq Jill, Kenny M, Mrs. Qbert
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*

@@ -1,6 +1,6 @@
 # Naboklage
 
-Naboklage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jaeger, Oslo on Fri, 4 Sept 2026.
+Naboklage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jaeger, Oslo on Fri, 4 Sept 2026.
 
 Naboklage is a techno and house artist based in Norway, tracked on soundcheck, with 33 sets logged across Budapest, Copenhagen and Oslo. Often billed alongside Skodde, G-HA and Komet99. Next up: Jaeger, Oslo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Naboklage is a techno and house artist based in Norway, tracked on soundcheck, w
 
 Skodde, G-HA, Komet99
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naboklage/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naboklage/)*

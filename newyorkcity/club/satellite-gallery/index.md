@@ -1,6 +1,6 @@
 # Satellite Gallery
 
-Satellite Gallery is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "space between gallery: light / color play opening" on Mon, 7 Sept 2026.
+Satellite Gallery is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "space between gallery: light / color play opening" on Mon, 7 Sept 2026.
 
 Satellite Gallery is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Bamba, enz.O, Hugo (US) and MAXIMILIANO (US) and 1 more. Browse upcoming dates, start times and who's playing. 279 Broome Street.
 
@@ -17,4 +17,4 @@ Satellite Gallery is a music venue in Newyorkcity listed on soundcheck. 4 upcomi
 
 279 Broome Street, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/satellite-gallery/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/satellite-gallery/)*

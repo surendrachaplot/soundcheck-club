@@ -1,6 +1,6 @@
 # Silentjay
 
-Silentjay is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Evelyn Hotel, Melbourne on Fri, 18 Sept 2026.
+Silentjay is a Hip-Hop and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Evelyn Hotel, Melbourne on Fri, 18 Sept 2026.
 
 Silentjay is a hip-hop and funk / soul artist based in Australia, tracked on soundcheck, with 13 sets logged across Melbourne, Sydney and Tokyo. Often billed alongside Lori (1), Setwun and Stupid Kozo. Next up: The Evelyn Hotel, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Silentjay is a hip-hop and funk / soul artist based in Australia, tracked on sou
 
 Lori (1), Setwun, Stupid Kozo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silentjay/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silentjay/)*

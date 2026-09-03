@@ -1,6 +1,6 @@
 # Nasjonalbiblioteket
 
-Nasjonalbiblioteket is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Ultima 2026 / Kjell Samkopf / Smalltown Supersound presents" on Sat, 12 Sept 2026.
+Nasjonalbiblioteket is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Ultima 2026 / Kjell Samkopf / Smalltown Supersound presents" on Sat, 12 Sept 2026.
 
 Nasjonalbiblioteket is a music venue in Oslo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Nasjonalbiblioteket is a music venue in Oslo listed on soundcheck. 1 upcoming ni
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Ultima 2026 / Kjell Samkopf / Smalltown Supersound presents |  |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/nasjonalbiblioteket/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/nasjonalbiblioteket/)*

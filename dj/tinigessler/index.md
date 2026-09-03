@@ -1,6 +1,6 @@
 # Tini Gessler
 
-Tini Gessler is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Lisboa, Lisbon on Sat, 5 Sept 2026.
+Tini Gessler is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Lisboa, Lisbon on Sat, 5 Sept 2026.
 
 Tini Gessler is a tech house and house artist tracked on soundcheck, with 129 sets logged across Bali, Barcelona, Berlin and Boston and 26 more. Often billed alongside Ilario Alicante, Andrea Oliva and Adam Beyer. Next up: TBA - Lisboa, Lisbon on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Tini Gessler is a tech house and house artist tracked on soundcheck, with 129 se
 
 Ilario Alicante, Andrea Oliva, Adam Beyer
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*

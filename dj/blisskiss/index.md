@@ -1,6 +1,6 @@
 # Bliss Kiss
 
-Bliss Kiss is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Prozak 2.0, Krakow on Sat, 26 Sept 2026.
+Bliss Kiss is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Prozak 2.0, Krakow on Sat, 26 Sept 2026.
 
 Bliss Kiss is a house and disco artist based in Poland, tracked on soundcheck, with 5 sets logged across Krakow and Warsaw. Often billed alongside Aftersunday, IKARVS and KEVS. Next up: Prozak 2.0, Krakow on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Bliss Kiss is a house and disco artist based in Poland, tracked on soundcheck, w
 
 Aftersunday, IKARVS, KEVS
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blisskiss/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blisskiss/)*

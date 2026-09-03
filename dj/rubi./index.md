@@ -1,6 +1,6 @@
 # RuBi.
 
-RuBi. is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Großer Bunkerberg Volkspark Fhain, Berlin on Sat, 5 Sept 2026.
+RuBi. is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Großer Bunkerberg Volkspark Fhain, Berlin on Sat, 5 Sept 2026.
 
 RuBi. is a techno and hardcore artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Leipzig and Madrid. Often billed alongside FKNSIL, Schalltrichter and ALAN JOE. Next up: Großer Bunkerberg Volkspark Fhain, Berlin on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ RuBi. is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 FKNSIL, Schalltrichter, ALAN JOE
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*

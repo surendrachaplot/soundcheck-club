@@ -1,6 +1,6 @@
 # Wanda Wild
 
-Wanda Wild is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 12 Sept 2026.
+Wanda Wild is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 12 Sept 2026.
 
 Wanda Wild is a techno and tech house artist based in Germany, tracked on soundcheck, with 70 sets logged across Berlin, Hamburg, Leipzig and Munich and 2 more. Often billed alongside Moritz Butschek, Rad.Lez and Etzo. Next up: Bahnwärter Thiel, Munich on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Wanda Wild is a techno and tech house artist based in Germany, tracked on soundc
 
 Moritz Butschek, Rad.Lez, Etzo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wandawild/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wandawild/)*

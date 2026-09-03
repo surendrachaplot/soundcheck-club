@@ -1,6 +1,6 @@
 # David Agrella
 
-David Agrella is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - East London Location TBA, London on Sat, 5 Sept 2026.
+David Agrella is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - East London Location TBA, London on Sat, 5 Sept 2026.
 
 David Agrella is a deep house and techno artist tracked on soundcheck, with 23 sets logged across Bristol, Lisbon and London. Often billed alongside Cristian Sirica, Najs and Beiger. Next up: TBA - East London Location TBA, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ David Agrella is a deep house and techno artist tracked on soundcheck, with 23 s
 
 Cristian Sirica, Najs, Beiger
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidagrella/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidagrella/)*

@@ -1,6 +1,6 @@
 # Harold mp1
 
-Harold mp1 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at UMI, Brussels on Sat, 12 Sept 2026.
+Harold mp1 is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at UMI, Brussels on Sat, 12 Sept 2026.
 
 Harold mp1 is an electro and house artist tracked on soundcheck, with 19 sets logged across Brussels and Ghent. Often billed alongside Ava Eva, Bapow and Bon Public. Next up: UMI, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Harold mp1 is an electro and house artist tracked on soundcheck, with 19 sets lo
 
 Ava Eva, Bapow, Bon Public
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haroldmp1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haroldmp1/)*

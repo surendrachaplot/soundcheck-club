@@ -1,6 +1,6 @@
 # Paul Najera
 
-Paul Najera is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, San Diego on Sat, 12 Sept 2026.
+Paul Najera is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, San Diego on Sat, 12 Sept 2026.
 
 Paul Najera is a house and disco artist based in United States of America, tracked on soundcheck, with 66 sets logged across Amsterdam and Sandiego. Often billed alongside Boys Don't Disco, Cris Herrera and Mimi Raza. Next up: TBA, Sandiego on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Paul Najera is a house and disco artist based in United States of America, track
 
 Boys Don't Disco, Cris Herrera, Mimi Raza
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulnajera/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulnajera/)*

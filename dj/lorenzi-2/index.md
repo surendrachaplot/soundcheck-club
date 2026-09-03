@@ -1,6 +1,6 @@
 # Lorenzi (2)
 
-Lorenzi (2) is a Trance and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Salle des Fêtes Jean Jaurès, Paris on Sat, 5 Sept 2026.
+Lorenzi (2) is a Trance and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Salle des Fêtes Jean Jaurès, Paris on Sat, 5 Sept 2026.
 
 Lorenzi (2) is a trance and electro artist tracked on soundcheck, with 6 sets logged across Kyoto, London, Paris and Seoul. Often billed alongside DDD (2), Yume and DuoduoIsShine. Next up: Salle des Fêtes Jean Jaurès, Paris on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Lorenzi (2) is a trance and electro artist tracked on soundcheck, with 6 sets lo
 
 DDD (2), Yume, DuoduoIsShine
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzi-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzi-2/)*

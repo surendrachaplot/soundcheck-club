@@ -1,6 +1,6 @@
 # Muqata'a
 
-Muqata'a is a Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at 축제festival, Seoul on Thu, 3 Sept 2026.
+Muqata'a is a Bass and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at 축제festival, Seoul on Thu, 3 Sept 2026.
 
 Muqata'a is a bass and hip-hop artist based in Palestine, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, Seoul and Warsaw. Often billed alongside Sami (2), A7ba L Jelly and Formella. Next up: 축제festival, Seoul on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Muqata'a is a bass and hip-hop artist based in Palestine, tracked on soundcheck,
 
 Sami (2), A7ba L Jelly, Formella
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muqataa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muqataa/)*

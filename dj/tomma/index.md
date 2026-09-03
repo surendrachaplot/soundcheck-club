@@ -1,6 +1,6 @@
 # Tomma
 
-Tomma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Left Bank, Tbilisi on Sat, 5 Sept 2026.
+Tomma is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Left Bank, Tbilisi on Sat, 5 Sept 2026.
 
 Tomma is a house and techno artist tracked on soundcheck, with 67 sets logged across Berlin and Tbilisi. Often billed alongside Gio Shengelia, Bekuchi and BEQA. Next up: Left Bank, Tbilisi on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tomma is a house and techno artist tracked on soundcheck, with 67 sets logged ac
 
 Gio Shengelia, Bekuchi, BEQA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomma/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomma/)*

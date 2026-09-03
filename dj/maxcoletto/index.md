@@ -1,13 +1,14 @@
 # Max Coletto
 
-Max Coletto is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 1928 E 7th Pl, Los Angeles, CA 90021, Los Angeles on Sun, 6 Sept 2026.
+Max Coletto is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Los Angeles on Sat, 5 Sept 2026.
 
-Max Coletto is a house and minimal artist tracked on soundcheck, with 23 sets logged across Losangeles, Newyorkcity, Seattle and Washingtondc. Often billed alongside Enzo Muro, Hazy and Ray Kash. Next up: 1928 E 7th Pl, Los Angeles, CA 90021, Losangeles on Sun 6 Sept.
+Max Coletto is a house and minimal artist tracked on soundcheck, with 24 sets logged across Losangeles, Newyorkcity, Seattle and Washingtondc. Often billed alongside Enzo Muro, Hazy and Ray Kash. Next up: TBA, Losangeles on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | TBA | Los Angeles |
 | Sun, 6 Sept 2026 | 1928 E 7th Pl, Los Angeles, CA 90021 | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Max Coletto is a house and minimal artist tracked on soundcheck, with 23 sets lo
 
 Enzo Muro, Hazy, Ray Kash
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcoletto/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcoletto/)*

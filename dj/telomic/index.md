@@ -1,6 +1,6 @@
 # Telomic
 
-Telomic is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Planet Wax, London on Thu, 17 Sept 2026.
+Telomic is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Planet Wax, London on Thu, 17 Sept 2026.
 
 Telomic is a drum & bass and garage artist tracked on soundcheck, with 14 sets logged across Amsterdam, Budapest, Cologne and London and 4 more. Often billed alongside Maduk, Lexurus and MOTA. Next up: Planet Wax, London on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Telomic is a drum & bass and garage artist tracked on soundcheck, with 14 sets l
 
 Maduk, Lexurus, MOTA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/telomic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/telomic/)*

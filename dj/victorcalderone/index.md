@@ -1,6 +1,6 @@
 # Victor Calderone
 
-Victor Calderone is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sable Miami, Miami on Fri, 4 Sept 2026.
+Victor Calderone is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sable Miami, Miami on Fri, 4 Sept 2026.
 
 Victor Calderone is a techno and house artist tracked on soundcheck, with 66 sets logged across Austin, Denver, Ibiza and Lisbon and 10 more. Often billed alongside Danyelino, Avision and Ms. Mada. Next up: Sable Miami, Miami on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Victor Calderone is a techno and house artist tracked on soundcheck, with 66 set
 
 Danyelino, Avision, Ms. Mada
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victorcalderone/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victorcalderone/)*

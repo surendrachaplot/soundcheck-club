@@ -1,6 +1,6 @@
 # Ambit
 
-Ambit is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 18 Sept 2026.
+Ambit is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 18 Sept 2026.
 
 Ambit is a drum & bass and jungle artist tracked on soundcheck, with 16 sets logged across Dublin and Galway. Often billed alongside Rub A Dub HiFi, Queen Beatz and SHO. Next up: Yamamori Tengu, Dublin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ambit is a drum & bass and jungle artist tracked on soundcheck, with 16 sets log
 
 Rub A Dub HiFi, Queen Beatz, SHO
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambit/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambit/)*

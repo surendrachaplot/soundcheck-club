@@ -1,6 +1,6 @@
 # more eaze
 
-more eaze is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+more eaze is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 more eaze is an experimental and ambient artist tracked on soundcheck, with 17 sets logged across Berlin, Glasgow, London and Newyorkcity and 4 more. Often billed alongside aya, Andriana-Yaroslava Saienko and Carmen Villain. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ more eaze is an experimental and ambient artist tracked on soundcheck, with 17 s
 
 aya, Andriana-Yaroslava Saienko, Carmen Villain
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moreeaze/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moreeaze/)*

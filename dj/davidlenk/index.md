@@ -1,6 +1,6 @@
 # David Lenk
 
-David Lenk is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 4 Sept 2026.
+David Lenk is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Golden Pudel Club, Hamburg on Fri, 4 Sept 2026.
 
 David Lenk is a house and electro artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin and Hamburg. Often billed alongside Barbaros, Jakob Seidensticker and Benny (El Rio Hostel). Next up: Golden Pudel Club, Hamburg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ David Lenk is a house and electro artist based in Germany, tracked on soundcheck
 
 Barbaros, Jakob Seidensticker, Benny (El Rio Hostel)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlenk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlenk/)*

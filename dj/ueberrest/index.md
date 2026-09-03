@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Ueberrest is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 Ueberrest is a techno and trance artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -35,4 +35,4 @@ Ueberrest is a techno and trance artist tracked on soundcheck, with 89 sets logg
 
 Kobosil, Somewhen, KUKO
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

@@ -1,6 +1,6 @@
 # lola:de
 
-lola:de is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, London on Sat, 5 Sept 2026.
+lola:de is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret Location, London on Sat, 5 Sept 2026.
 
 lola:de is a techno and house artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside Joseph Tunde, Goh Well and Jamie de Rooy. Next up: TBA - Secret Location, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ lola:de is a techno and house artist tracked on soundcheck, with 12 sets logged 
 
 Joseph Tunde, Goh Well, Jamie de Rooy
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolade/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolade/)*

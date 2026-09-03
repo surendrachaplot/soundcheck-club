@@ -1,6 +1,6 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "MUSIC BAR -FREE ENTRANCE-" on Wed, 2 Sept 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "MUSIC BAR -FREE ENTRANCE-" on Wed, 2 Sept 2026.
 
 BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 16 upcoming nights, with line-ups including BEPPU, DJ ISE, Gara and Niko Silencio and 1 more. Browse upcoming dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
@@ -23,4 +23,4 @@ BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 16 upcoming nights
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F, Tokyo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/brand-shibuya/)*

@@ -1,6 +1,6 @@
 # Rebekah Abdeen
 
-Rebekah Abdeen is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Oxygenic, Newcastle on Sat, 5 Sept 2026.
+Rebekah Abdeen is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Oxygenic, Newcastle on Sat, 5 Sept 2026.
 
 Rebekah Abdeen is a bass and techno artist tracked on soundcheck, with 56 sets logged across Basel, Berlin, Brighton and Detroit and 9 more. Often billed alongside Denham Audio, Trudy Knight and Triple Point. Next up: Oxygenic, Newcastle on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Rebekah Abdeen is a bass and techno artist tracked on soundcheck, with 56 sets l
 
 Denham Audio, Trudy Knight, Triple Point
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*

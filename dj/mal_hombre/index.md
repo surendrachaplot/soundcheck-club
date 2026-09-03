@@ -1,6 +1,6 @@
 # MAL_HOMBRE
 
-MAL_HOMBRE is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lasociaciøn, Madrid on Sat, 12 Sept 2026.
+MAL_HOMBRE is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lasociaciøn, Madrid on Sat, 12 Sept 2026.
 
 MAL_HOMBRE is a techno and club artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow, Madrid and Paris. Often billed alongside ADRI.G, Greick Jhøzsu and Oscar Blue. Next up: Lasociaciøn, Madrid on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ MAL_HOMBRE is a techno and club artist based in United Kingdom, tracked on sound
 
 ADRI.G, Greick Jhøzsu, Oscar Blue
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mal_hombre/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mal_hombre/)*

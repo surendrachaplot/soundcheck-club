@@ -1,6 +1,6 @@
 # Inger Illel
 
-Inger Illel is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Bike Jesus, Prague on Fri, 4 Sept 2026.
+Inger Illel is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bike Jesus, Prague on Fri, 4 Sept 2026.
 
 Inger Illel is a techno and trance artist tracked on soundcheck, with 59 sets logged across Krakow, Prague, Tbilisi and Warsaw. Often billed alongside Atch22, INTT and Pink Concrete. Next up: Bike Jesus, Prague on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Inger Illel is a techno and trance artist tracked on soundcheck, with 59 sets lo
 
 Atch22, INTT, Pink Concrete
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ingerillel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ingerillel/)*

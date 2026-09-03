@@ -1,6 +1,6 @@
 # Inglawt
 
-Inglawt is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at DOCK B, Paris on Sat, 5 Sept 2026.
+Inglawt is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DOCK B, Paris on Sat, 5 Sept 2026.
 
 Inglawt is a techno and idm artist based in Spain, tracked on soundcheck, with 4 sets logged across Madrid and Paris. Often billed alongside Airod, Ana Alves and Cristobal Pesce. Next up: DOCK B, Paris on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Inglawt is a techno and idm artist based in Spain, tracked on soundcheck, with 4
 
 Airod, Ana Alves, Cristobal Pesce
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inglawt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inglawt/)*

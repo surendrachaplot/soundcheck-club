@@ -1,6 +1,6 @@
 # Shek
 
-Shek is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Honey's, New York City on Sun, 6 Sept 2026.
+Shek is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Honey's, New York City on Sun, 6 Sept 2026.
 
 Shek is a house and tech house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Amsterdam and Newyorkcity. Often billed alongside Leg Room, shanty mane and Beni Hana. Next up: Honey's, Newyorkcity on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ Shek is a house and tech house artist based in United States of America, tracked
 
 Leg Room, shanty mane, Beni Hana
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shek/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shek/)*

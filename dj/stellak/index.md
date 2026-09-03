@@ -1,6 +1,6 @@
 # Stella K
 
-Stella K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Brasserie Gallia, Paris on Fri, 4 Sept 2026.
+Stella K is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Brasserie Gallia, Paris on Fri, 4 Sept 2026.
 
 Stella K is a techno and house artist based in France, tracked on soundcheck, with 30 sets logged across Berlin, Brussels, Geneva and Ghent and 3 more. Often billed alongside NMSS, Vera Moro and Golce. Next up: Brasserie Gallia, Paris on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Stella K is a techno and house artist based in France, tracked on soundcheck, wi
 
 NMSS, Vera Moro, Golce
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellak/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellak/)*

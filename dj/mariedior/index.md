@@ -1,6 +1,6 @@
 # Marie Dior
 
-Marie Dior is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Galeria Zé Dos Bois, Lisbon on Sat, 19 Sept 2026.
+Marie Dior is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Galeria Zé Dos Bois, Lisbon on Sat, 19 Sept 2026.
 
 Marie Dior is an electronic artist tracked on soundcheck, with 4 sets logged across Berlin and Lisbon. Often billed alongside A lake by the mõõn, 7777 の天使 and Aires. Next up: Galeria Zé Dos Bois, Lisbon on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Marie Dior is an electronic artist tracked on soundcheck, with 4 sets logged acr
 
 A lake by the mõõn, 7777 の天使, Aires
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedior/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedior/)*

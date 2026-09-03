@@ -1,6 +1,6 @@
 # Patrick Specke
 
-Patrick Specke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 10 Oct 2026.
+Patrick Specke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 10 Oct 2026.
 
 Patrick Specke is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Dusseldorf and Lisbon. Often billed alongside Elless & Benn, MARY-B and Marcel Woyt. Next up: Collect LX Factory, Lisbon on Sat 10 Oct.
 
@@ -20,4 +20,4 @@ Patrick Specke is a house and techno artist based in Germany, tracked on soundch
 
 Elless & Benn, MARY-B, Marcel Woyt
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickspecke/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickspecke/)*

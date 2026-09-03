@@ -1,6 +1,6 @@
 # Dj Koutarou.A
 
-Dj Koutarou.A is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Oath, Tokyo on Fri, 4 Sept 2026.
+Dj Koutarou.A is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Oath, Tokyo on Fri, 4 Sept 2026.
 
 Dj Koutarou.A is a house and techno artist tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside DJ Emma, Dr.Tommy and Reggie. Next up: Oath, Tokyo on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ Dj Koutarou.A is a house and techno artist tracked on soundcheck, with 4 sets lo
 
 DJ Emma, Dr.Tommy, Reggie
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoutarou.a/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoutarou.a/)*

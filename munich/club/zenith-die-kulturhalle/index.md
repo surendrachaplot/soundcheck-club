@@ -1,6 +1,6 @@
 # Zenith - Die Kulturhalle
 
-Zenith - Die Kulturhalle is a music venue in Munich with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "44 Front Row Takeover Munich" on Sat, 12 Sept 2026.
+Zenith - Die Kulturhalle is a music venue in Munich with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "44 Front Row Takeover Munich" on Sat, 12 Sept 2026.
 
 Zenith - Die Kulturhalle is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including Félicie, Kobosil, NIKOLINA_ and Obscure Shape and 2 more. Browse upcoming dates, start times and who's playing. Lilienthalallee 80939 Munich, Germany.
 
@@ -14,4 +14,4 @@ Zenith - Die Kulturhalle is a music venue in Munich listed on soundcheck. 1 upco
 
 Lilienthalallee 80939 Munich, Germany, Munich
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/zenith-die-kulturhalle/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/zenith-die-kulturhalle/)*

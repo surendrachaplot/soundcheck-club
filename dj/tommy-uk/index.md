@@ -1,6 +1,6 @@
 # Tommy- (UK)
 
-Tommy- (UK) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
+Tommy- (UK) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
 
 Tommy- (UK) is a house and techno artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside Lesenburg, Darush and Dylan Pasqua. Next up: Starlane Pizza Bar, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Tommy- (UK) is a house and techno artist tracked on soundcheck, with 11 sets log
 
 Lesenburg, Darush, Dylan Pasqua
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-uk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-uk/)*

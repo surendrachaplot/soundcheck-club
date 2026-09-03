@@ -1,6 +1,6 @@
 # JXLN
 
-JXLN is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Noct Club, Paris on Sat, 19 Sept 2026.
+JXLN is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Noct Club, Paris on Sat, 19 Sept 2026.
 
 JXLN is an industrial and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Cologne, Paris and Sydney. Often billed alongside Bellville, Cosmic Dance and CÖLN. Next up: Noct Club, Paris on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ JXLN is an industrial and techno artist based in Germany, tracked on soundcheck,
 
 Bellville, Cosmic Dance, CÖLN
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jxln/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jxln/)*

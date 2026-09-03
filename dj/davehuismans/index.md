@@ -1,6 +1,6 @@
 # Dave Huismans
 
-Dave Huismans is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Paradiso, Amsterdam on Fri, 18 Sept 2026.
+Dave Huismans is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paradiso, Amsterdam on Fri, 18 Sept 2026.
 
 Dave Huismans is a techno and house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 8 more. Often billed alongside Nazar, Azu Tiwaline and Barker. Next up: Paradiso, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Dave Huismans is a techno and house artist based in Netherlands, tracked on soun
 
 Nazar, Azu Tiwaline, Barker
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davehuismans/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davehuismans/)*

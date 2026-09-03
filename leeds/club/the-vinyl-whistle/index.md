@@ -1,6 +1,6 @@
 # The Vinyl Whistle
 
-The Vinyl Whistle is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Selectors Choice" on Sat, 19 Sept 2026.
+The Vinyl Whistle is a music venue in Leeds with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Selectors Choice" on Sat, 19 Sept 2026.
 
 The Vinyl Whistle is a music venue in Leeds listed on soundcheck. 2 upcoming nights, with line-ups including Balrog, Player and Skunkrock. Browse upcoming dates, start times and who's playing. 12 Otley Road, Headingley, Leeds LS6 2AD.
 
@@ -15,4 +15,4 @@ The Vinyl Whistle is a music venue in Leeds listed on soundcheck. 2 upcoming nig
 
 12 Otley Road, Headingley, Leeds LS6 2AD, Leeds
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-vinyl-whistle/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-vinyl-whistle/)*

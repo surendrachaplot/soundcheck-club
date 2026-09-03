@@ -1,6 +1,6 @@
 # Knaughty
 
-Knaughty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Meteor Studio, Tbilisi on Thu, 3 Sept 2026.
+Knaughty is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Meteor Studio, Tbilisi on Thu, 3 Sept 2026.
 
 Knaughty is a techno and house artist tracked on soundcheck, with 79 sets logged across Berlin, Prague, Seoul and Tbilisi. Often billed alongside Boyd Schidt, Dual Pistols and Frequency Shifter. Next up: Meteor Studio, Tbilisi on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Knaughty is a techno and house artist tracked on soundcheck, with 79 sets logged
 
 Boyd Schidt, Dual Pistols, Frequency Shifter
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knaughty/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knaughty/)*

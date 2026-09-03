@@ -1,6 +1,6 @@
 # Fading Franz
 
-Fading Franz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 11 Sept 2026.
+Fading Franz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 11 Sept 2026.
 
 Fading Franz is a techno and house artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Luke Shirwin, b̶e̶n̶e̶ and Einfach Taffo. Next up: TBA - Secret Location, Berlin on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Fading Franz is a techno and house artist tracked on soundcheck, with 8 sets log
 
 Luke Shirwin, b̶e̶n̶e̶, Einfach Taffo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fadingfranz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fadingfranz/)*

@@ -1,6 +1,6 @@
 # Jana
 
-Jana is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Panke, Berlin on Fri, 25 Sept 2026.
+Jana is a Experimental and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Panke, Berlin on Fri, 25 Sept 2026.
 
 Jana is an experimental and bass artist based in Egypt, tracked on soundcheck, with 7 sets logged across Amsterdam and Berlin. Often billed alongside C.FRIM, CANDIE (2) and Cheyanne Hudson. Next up: Panke, Berlin on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Jana is an experimental and bass artist based in Egypt, tracked on soundcheck, w
 
 C.FRIM, CANDIE (2), Cheyanne Hudson
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jana/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jana/)*

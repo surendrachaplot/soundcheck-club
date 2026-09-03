@@ -1,6 +1,6 @@
 # HAIZAI AUDIO
 
-HAIZAI AUDIO is a Experimental and Breakcore artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Forestlimit, Tokyo on Sat, 5 Sept 2026.
+HAIZAI AUDIO is a Experimental and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Forestlimit, Tokyo on Sat, 5 Sept 2026.
 
 HAIZAI AUDIO is an experimental and breakcore artist tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside JACKSON kaki, ippaida storage and moreru. Next up: Forestlimit, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ HAIZAI AUDIO is an experimental and breakcore artist tracked on soundcheck, with
 
 JACKSON kaki, ippaida storage, moreru
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haizaiaudio/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haizaiaudio/)*

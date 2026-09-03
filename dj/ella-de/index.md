@@ -1,6 +1,6 @@
 # EllA
 
-EllA is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Turtur, Hamburg on Sat, 26 Sept 2026.
+EllA is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Turtur, Hamburg on Sat, 26 Sept 2026.
 
 EllA is a tech house and techno artist tracked on soundcheck, with 41 sets logged across Berlin, Buenosaires, Hamburg and Saopaulo. Often billed alongside Hans Hammer, Surreal (DE) and A.B.U.. Next up: Turtur, Hamburg on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ EllA is a tech house and techno artist tracked on soundcheck, with 41 sets logge
 
 Hans Hammer, Surreal (DE), A.B.U.
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ella-de/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ella-de/)*

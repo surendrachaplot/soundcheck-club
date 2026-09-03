@@ -1,6 +1,6 @@
 # Sunni D
 
-Sunni D is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Toranoko Shokudo, Tokyo on Fri, 18 Sept 2026.
+Sunni D is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Toranoko Shokudo, Tokyo on Fri, 18 Sept 2026.
 
 Sunni D is a disco and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Copenhagen and Glasgow and 10 more. Often billed alongside JOSH FB, STEWPOT and Daisybelle. Next up: Toranoko Shokudo, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Sunni D is a disco and house artist tracked on soundcheck, with 57 sets logged a
 
 JOSH FB, STEWPOT, Daisybelle
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnid/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnid/)*

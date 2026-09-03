@@ -1,6 +1,6 @@
 # Autumns
 
-Autumns is a Industrial and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Autumns is a Industrial and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Autumns is an industrial and techno artist based in Ireland, tracked on soundcheck, with 32 sets logged across Berlin, Bristol, Cork and Dublin and 10 more. Often billed alongside Kahn, Batu and CCL. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Autumns is an industrial and techno artist based in Ireland, tracked on soundche
 
 Kahn, Batu, CCL
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*

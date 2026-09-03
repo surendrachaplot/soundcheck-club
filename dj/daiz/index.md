@@ -1,6 +1,6 @@
 # DAIZ
 
-DAIZ is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Gorilla, Manchester on Thu, 22 Oct 2026.
+DAIZ is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Gorilla, Manchester on Thu, 22 Oct 2026.
 
 DAIZ is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Miggs, Metrodome and Jack Banner. Next up: Gorilla, Manchester on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ DAIZ is a garage and jungle artist based in United Kingdom, tracked on soundchec
 
 Miggs, Metrodome, Jack Banner
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daiz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daiz/)*

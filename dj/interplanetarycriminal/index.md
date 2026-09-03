@@ -1,6 +1,6 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 14 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Sept 2026.
+Interplanetary Criminal is a Garage and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Fri, 4 Sept 2026.
 
 Interplanetary Criminal is a garage and house artist tracked on soundcheck, with 256 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 69 more. Often billed alongside Main Phase, MALUGI and DJ Heartstring. Next up: TBA - Downtown Los Angeles, Losangeles on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Interplanetary Criminal is a garage and house artist tracked on soundcheck, with
 
 Main Phase, MALUGI, DJ Heartstring
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

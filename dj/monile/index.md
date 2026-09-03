@@ -1,6 +1,6 @@
 # Monile
 
-Monile is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Flash, Washington DC on Sat, 5 Sept 2026.
+Monile is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Flash, Washington DC on Sat, 5 Sept 2026.
 
 Monile is a house and techno artist based in Morocco, tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Jonny Rock, Lamache and Miroloja. Next up: Flash, Washingtondc on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Monile is a house and techno artist based in Morocco, tracked on soundcheck, wit
 
 Jonny Rock, Lamache, Miroloja
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*

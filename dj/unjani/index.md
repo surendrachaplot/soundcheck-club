@@ -1,6 +1,6 @@
 # unjani
 
-unjani is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 11 Sept 2026.
+unjani is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 11 Sept 2026.
 
 unjani is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Hamburg. Often billed alongside Alibi (5), TRYPTAJ and dannycookin. Next up: Uebel & Gefährlich, Hamburg on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ unjani is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Alibi (5), TRYPTAJ, dannycookin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unjani/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unjani/)*

@@ -1,6 +1,6 @@
 # PERILOUS P
 
-PERILOUS P is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Union Club, Vauxhall, London on Fri, 25 Sept 2026.
+PERILOUS P is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Union Club, Vauxhall, London on Fri, 25 Sept 2026.
 
 PERILOUS P is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Jay Francisco, Chopper (Scotland) and Brad P. Next up: Union Club, Vauxhall, London on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ PERILOUS P is a tech house and house artist based in United Kingdom, tracked on 
 
 Jay Francisco, Chopper (Scotland), Brad P
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perilousp/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perilousp/)*

@@ -1,6 +1,6 @@
 # Place Jean Rey
 
-Place Jean Rey is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "La fabriek X BIOME - Open Air" on Sat, 12 Sept 2026.
+Place Jean Rey is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "La fabriek X BIOME - Open Air" on Sat, 12 Sept 2026.
 
 Place Jean Rey is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Bae Blade, Chris Youké, Disjoli and DJ IP and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Place Jean Rey is a music venue in Brussels listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | La fabriek X BIOME - Open Air | Bae Blade, Chris Youké, DJ IP, Disjoli, Hysope, MZA (FR), VEL (MA) |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/place-jean-rey/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/place-jean-rey/)*

@@ -1,6 +1,6 @@
 # Sofiia Zoloto
 
-Sofiia Zoloto is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at B-SIDE, Warsaw on Sat, 5 Sept 2026.
+Sofiia Zoloto is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at B-SIDE, Warsaw on Sat, 5 Sept 2026.
 
 Sofiia Zoloto is a house and techno artist tracked on soundcheck, with 44 sets logged across Berlin, Dusseldorf, Munich and Nurnberg and 3 more. Often billed alongside 9LALEY, Miran N and Muallem. Next up: B-SIDE, Warsaw on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Sofiia Zoloto is a house and techno artist tracked on soundcheck, with 44 sets l
 
 9LALEY, Miran N, Muallem
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiiazoloto/)*

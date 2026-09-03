@@ -1,6 +1,6 @@
 # DJ Octopus
 
-DJ Octopus is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at DURO, Milan on Fri, 11 Sept 2026.
+DJ Octopus is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DURO, Milan on Fri, 11 Sept 2026.
 
 DJ Octopus is a house and techno artist based in Italy, tracked on soundcheck, with 6 sets logged across Milan and Warsaw. Often billed alongside Bulma Brief, DRUMS AND CHANTS and Abstract (IT). Next up: DURO, Milan on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ DJ Octopus is a house and techno artist based in Italy, tracked on soundcheck, w
 
 Bulma Brief, DRUMS AND CHANTS, Abstract (IT)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoctopus/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoctopus/)*

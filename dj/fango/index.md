@@ -1,6 +1,6 @@
 # Fango
 
-Fango is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Good Room, New York City on Sat, 5 Sept 2026.
+Fango is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Good Room, New York City on Sat, 5 Sept 2026.
 
 Fango is a house and techno artist tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Budapest and Buenosaires and 9 more. Often billed alongside AMSL, ANNĒ and Alec Sander. Next up: Good Room, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Fango is a house and techno artist tracked on soundcheck, with 23 sets logged ac
 
 AMSL, ANNĒ, Alec Sander
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fango/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fango/)*

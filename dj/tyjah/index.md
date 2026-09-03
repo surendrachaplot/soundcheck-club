@@ -1,6 +1,6 @@
 # TYJAH
 
-TYJAH is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Bain, New York City on Thu, 10 Sept 2026.
+TYJAH is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Le Bain, New York City on Thu, 10 Sept 2026.
 
 TYJAH is a club and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin and Newyorkcity. Often billed alongside Feonix (2), OZA and ANCIRA. Next up: Le Bain, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ TYJAH is a club and techno artist based in United States of America, tracked on 
 
 Feonix (2), OZA, ANCIRA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tyjah/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tyjah/)*

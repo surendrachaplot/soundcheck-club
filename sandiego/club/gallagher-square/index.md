@@ -1,8 +1,8 @@
 # Gallagher Square
 
-Gallagher Square is a music venue in San Diego with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "LED presents Chase & Status" on Sun, 6 Sept 2026.
+Gallagher Square is a music venue in San Diego with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "LED presents Chase & Status" on Sun, 6 Sept 2026.
 
-Gallagher Square is a music venue in Sandiego listed on soundcheck. 6 upcoming nights, with line-ups including Ben Sterling, Chase & Status, Chris Stassy and Emanuel Satie and 2 more. Browse upcoming dates, start times and who's playing. 840 K St, San Diego, CA 92101, United States.
+Gallagher Square is a music venue in Sandiego listed on soundcheck. 6 upcoming nights, with line-ups including Ben Sterling, Chase & Status, Chris Stussy and Emanuel Satie and 2 more. Browse upcoming dates, start times and who's playing. 840 K St, San Diego, CA 92101, United States.
 
 ## What's on
 
@@ -11,7 +11,7 @@ Gallagher Square is a music venue in Sandiego listed on soundcheck. 6 upcoming n
 | Sun, 6 Sept 2026 | LED presents Chase & Status | Chase & Status |
 | Thu, 24 Sept 2026 | LED presents Mochakk with Ben Sterling + Jackie Hollander | Ben Sterling, Jackie Hollander, Mochakk |
 | Sat, 17 Oct 2026 | LED presents Sammy Virji | Sammy Virji |
-| Sat, 31 Oct 2026 | LED presents Chris Stassy | Chris Stassy |
+| Sat, 31 Oct 2026 | LED presents Chris Stassy | Chris Stussy |
 | Fri, 13 Nov 2026 | LED presents Crankdat |  |
 | Sat, 28 Nov 2026 | LED presents Nu Moda San Diego with Max Styler, Hot Since 82 & SCENARIOS | Emanuel Satie, Hot Since 82, MAGA, Max Styler, Sean Doron |
 
@@ -19,4 +19,4 @@ Gallagher Square is a music venue in Sandiego listed on soundcheck. 6 upcoming n
 
 840 K St, San Diego, CA 92101, United States, San Diego
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/gallagher-square/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/gallagher-square/)*

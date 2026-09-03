@@ -1,6 +1,6 @@
 # Greg Eversoul
 
-Greg Eversoul is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Hedge Coffee, San Francisco/Oakland on Sat, 12 Sept 2026.
+Greg Eversoul is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hedge Coffee, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Greg Eversoul is a house and deep house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Denver, Losangeles, Mexicocity and Miami and 2 more. Often billed alongside DJ M3, HIDRA and Combover. Next up: Hedge Coffee, Sanfrancisco on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Greg Eversoul is a house and deep house artist based in United States of America
 
 DJ M3, HIDRA, Combover
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gregeversoul/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gregeversoul/)*

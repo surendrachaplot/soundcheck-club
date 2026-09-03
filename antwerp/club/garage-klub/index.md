@@ -1,6 +1,6 @@
 # Garage Klub
 
-Garage Klub is a music venue in Antwerp with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "EXHALE x Garage Klub AFTERSHOW" on Sat, 5 Sept 2026.
+Garage Klub is a music venue in Antwerp with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "EXHALE x Garage Klub AFTERSHOW" on Sat, 5 Sept 2026.
 
 Garage Klub is a music venue in Antwerp listed on soundcheck. 5 upcoming nights, with line-ups including 2ManyDJs, Alignment, BLONDEX and Cassius and 2 more. Browse upcoming dates, start times and who's playing. Noorderlaan 72, 2030 Antwerpen, Belgium.
 
@@ -18,4 +18,4 @@ Garage Klub is a music venue in Antwerp listed on soundcheck. 5 upcoming nights,
 
 Noorderlaan 72, 2030 Antwerpen, Belgium, Antwerp
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/garage-klub/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/garage-klub/)*

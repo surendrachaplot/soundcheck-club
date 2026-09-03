@@ -1,6 +1,6 @@
 # Meraki
 
-Meraki is a music venue in Liverpool with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "core wars 5: Skitzaph0nic, DJ Osu! Girldick + more" on Sat, 12 Sept 2026.
+Meraki is a music venue in Liverpool with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "core wars 5: Skitzaph0nic, DJ Osu! Girldick + more" on Sat, 12 Sept 2026.
 
 Meraki is a music venue in Liverpool listed on soundcheck. 10 upcoming nights, with line-ups including CIVILIAN, Dav, EDJM and Ellie Jennings and 2 more. Browse upcoming dates, start times and who's playing. 3 Dickson St, Liverpool, L3 7EB, United Kingdom.
 
@@ -23,4 +23,4 @@ Meraki is a music venue in Liverpool listed on soundcheck. 10 upcoming nights, w
 
 3 Dickson St, Liverpool, L3 7EB, United Kingdom, Liverpool
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/meraki/)*

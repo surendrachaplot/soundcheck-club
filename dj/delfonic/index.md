@@ -1,6 +1,6 @@
 # Delfonic
 
-Delfonic is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Giselle, Düsseldorf on Sat, 5 Sept 2026.
+Delfonic is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Giselle, Düsseldorf on Sat, 5 Sept 2026.
 
 Delfonic is a disco and house artist tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 8 more. Often billed alongside Kapote, Daniel Best and Andrea Dama. Next up: Giselle, Dusseldorf on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Delfonic is a disco and house artist tracked on soundcheck, with 61 sets logged 
 
 Kapote, Daniel Best, Andrea Dama
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delfonic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delfonic/)*

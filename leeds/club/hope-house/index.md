@@ -1,6 +1,6 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 8 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "EGLO RECORDS" on Fri, 4 Sept 2026.
+Hope House is a music venue in Leeds with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "EGLO RECORDS" on Fri, 4 Sept 2026.
 
 Hope House is a music venue in Leeds listed on soundcheck. 8 upcoming nights, with line-ups including Ana K Miller, BOSSdaddy, Carl H and Chin and 2 more. Browse upcoming dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
@@ -21,4 +21,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 8 upcoming nights, wi
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

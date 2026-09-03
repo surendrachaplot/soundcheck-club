@@ -1,6 +1,6 @@
 # Daisy Ray
 
-Daisy Ray is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Botanique, Brussels on Sat, 28 Nov 2026.
+Daisy Ray is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Botanique, Brussels on Sat, 28 Nov 2026.
 
 Daisy Ray is an experimental and electronica artist based in Belgium, tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Athens and Berlin and 9 more. Often billed alongside careza, Amnesia Scanner and Animistic Beliefs. Next up: Botanique, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Daisy Ray is an experimental and electronica artist based in Belgium, tracked on
 
 careza, Amnesia Scanner, Animistic Beliefs
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyray/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daisyray/)*

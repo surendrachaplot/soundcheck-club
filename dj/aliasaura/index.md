@@ -1,6 +1,6 @@
 # Alias Aura
 
-Alias Aura is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at elipamanoke, Leipzig on Wed, 23 Sept 2026.
+Alias Aura is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at elipamanoke, Leipzig on Wed, 23 Sept 2026.
 
 Alias Aura is a techno and progressive house artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin and Leipzig. Often billed alongside Blank Vision, AVA Irandoost and Alex Stein. Next up: elipamanoke, Leipzig on Wed 23 Sept.
 
@@ -20,4 +20,4 @@ Alias Aura is a techno and progressive house artist based in Germany, tracked on
 
 Blank Vision, AVA Irandoost, Alex Stein
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasaura/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aliasaura/)*

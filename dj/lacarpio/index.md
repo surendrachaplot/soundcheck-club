@@ -1,6 +1,6 @@
 # La Carpio
 
-La Carpio is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at ciao ciao Bar, Berlin on Sat, 12 Sept 2026.
+La Carpio is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ciao ciao Bar, Berlin on Sat, 12 Sept 2026.
 
 La Carpio is an electro and ebm artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin and Hamburg. Often billed alongside Khloe, Levente and BOBBIE*. Next up: ciao ciao Bar, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ La Carpio is an electro and ebm artist based in Germany, tracked on soundcheck, 
 
 Khloe, Levente, BOBBIE*
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lacarpio/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lacarpio/)*

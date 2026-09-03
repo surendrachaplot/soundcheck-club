@@ -1,6 +1,6 @@
 # Neophyte
 
-Neophyte is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
+Neophyte is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
 
 Neophyte is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Berlin, Cologne, Dortmund-essen and Frankfurt and 4 more. Often billed alongside Act of Rage, Angerfist and Anime. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Neophyte is a hardcore and gabber artist based in Netherlands, tracked on soundc
 
 Act of Rage, Angerfist, Anime
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neophyte/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neophyte/)*

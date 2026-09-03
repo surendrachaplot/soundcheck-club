@@ -1,6 +1,6 @@
 # Chris Stussy at District X
 
-Chris Stussy at District X on Fri 11 Sept, Prague. 1 act on the bill: Chris Stassy. Preview the line-up and save it on soundcheck.
+Chris Stussy at District X on Fri 11 Sept, Prague. 1 act on the bill: Chris Stussy. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Chris Stussy at District X on Fri 11 Sept, Prague. 1 act on the bill: Chris Stas
 
 ## Line-up
 
-- Chris Stassy
+- Chris Stussy
 
 *Source: [soundcheck](https://soundcheck.club/e/2517915-chris-stussy-at-district-x/)*

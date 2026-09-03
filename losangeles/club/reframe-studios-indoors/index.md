@@ -1,6 +1,6 @@
 # Reframe Studios Indoors
 
-Reframe Studios Indoors is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Francis Mercier presents Solèy" on Sat, 19 Sept 2026.
+Reframe Studios Indoors is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Francis Mercier presents Solèy" on Sat, 19 Sept 2026.
 
 Reframe Studios Indoors is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Francis Mercier and Shimza. Browse upcoming dates, start times and who's playing. 4561 W Colorado Blvd. Los Angeles, CA 90039.
 
@@ -14,4 +14,4 @@ Reframe Studios Indoors is a music venue in Losangeles listed on soundcheck. 1 u
 
 4561 W Colorado Blvd. Los Angeles, CA 90039, Los Angeles
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/reframe-studios-indoors/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/reframe-studios-indoors/)*

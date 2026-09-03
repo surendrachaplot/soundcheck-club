@@ -1,6 +1,6 @@
 # Bar Part Time
 
-Bar Part Time is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Nooka Jones + Big Happy" on Fri, 4 Sept 2026.
+Bar Part Time is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Nooka Jones + Big Happy" on Fri, 4 Sept 2026.
 
 Bar Part Time is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including Big Happy, Nooka Jones and Vertigo. Browse upcoming dates, start times and who's playing. 496 14th Street.
 
@@ -15,4 +15,4 @@ Bar Part Time is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming 
 
 496 14th Street, San Francisco/Oakland
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bar-part-time/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/bar-part-time/)*

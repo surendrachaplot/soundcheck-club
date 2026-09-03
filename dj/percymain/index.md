@@ -1,6 +1,6 @@
 # Percy Main
 
-Percy Main is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sneaky Pete's, Edinburgh on Sat, 26 Sept 2026.
+Percy Main is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sneaky Pete's, Edinburgh on Sat, 26 Sept 2026.
 
 Percy Main is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Edinburgh and Glasgow. Often billed alongside Tuesday Gonzalez, Soul Jam and David Barbarossa. Next up: Sneaky Pete's, Edinburgh on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Percy Main is a disco and funk / soul artist based in United Kingdom, tracked on
 
 Tuesday Gonzalez, Soul Jam, David Barbarossa
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/percymain/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/percymain/)*

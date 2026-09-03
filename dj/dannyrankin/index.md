@@ -1,6 +1,6 @@
 # Danny Rankin
 
-Danny Rankin is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Chinese Laundry, Sydney on Sat, 5 Sept 2026.
+Danny Rankin is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Chinese Laundry, Sydney on Sat, 5 Sept 2026.
 
 Danny Rankin is a garage and jungle artist tracked on soundcheck, with 35 sets logged across Bristol, Glasgow, Hobart and Leeds and 5 more. Often billed alongside Arthi, Girls Don't Sync and Klose One. Next up: Chinese Laundry, Sydney on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Danny Rankin is a garage and jungle artist tracked on soundcheck, with 35 sets l
 
 Arthi, Girls Don't Sync, Klose One
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrankin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrankin/)*

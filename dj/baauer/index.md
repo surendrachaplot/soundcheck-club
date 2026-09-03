@@ -1,6 +1,6 @@
 # Baauer
 
-Baauer is a House and Bass artist with 8 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at SILO, New York City on Sat, 19 Sept 2026.
+Baauer is a House and Bass artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SILO, New York City on Sat, 19 Sept 2026.
 
 Baauer is a house and bass artist based in United States of America, tracked on soundcheck, with 21 sets logged across Boston, Chicago, Denver and Houston and 8 more. Often billed alongside Hudson Mohawke, A-Trak and ALISHA. Next up: SILO, Newyorkcity on Sat 19 Sept.
 
@@ -32,4 +32,4 @@ Baauer is a house and bass artist based in United States of America, tracked on 
 
 Hudson Mohawke, A-Trak, ALISHA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*

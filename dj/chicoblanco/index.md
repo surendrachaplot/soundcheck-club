@@ -1,6 +1,6 @@
 # Chico Blanco
 
-Chico Blanco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at ÆDEN, Berlin on Fri, 4 Sept 2026.
+Chico Blanco is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at ÆDEN, Berlin on Fri, 4 Sept 2026.
 
 Chico Blanco is a techno and house artist based in Spain, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Losangeles and 4 more. Often billed alongside 8Kitoo, acidheaven and Perra Inmunda. Next up: ÆDEN, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Chico Blanco is a techno and house artist based in Spain, tracked on soundcheck,
 
 8Kitoo, acidheaven, Perra Inmunda
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicoblanco/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicoblanco/)*

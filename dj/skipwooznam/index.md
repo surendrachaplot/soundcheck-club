@@ -1,6 +1,6 @@
 # Skip Wooznam
 
-Skip Wooznam is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Glove That Fits, London on Fri, 4 Sept 2026.
+Skip Wooznam is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Glove That Fits, London on Fri, 4 Sept 2026.
 
 Skip Wooznam is a house and techno artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside Luther Vine, Rolo (2) and A.Wild. Next up: The Glove That Fits, London on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Skip Wooznam is a house and techno artist tracked on soundcheck, with 8 sets log
 
 Luther Vine, Rolo (2), A.Wild
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skipwooznam/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skipwooznam/)*

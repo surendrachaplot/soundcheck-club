@@ -1,6 +1,6 @@
 # Oscar Blue
 
-Oscar Blue is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lasociaciøn, Madrid on Sat, 12 Sept 2026.
+Oscar Blue is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lasociaciøn, Madrid on Sat, 12 Sept 2026.
 
 Oscar Blue is a techno and club artist based in Spain, tracked on soundcheck, with 17 sets logged across Madrid. Often billed alongside Crissis, Ricardo Morales and ADRI.G. Next up: Lasociaciøn, Madrid on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Oscar Blue is a techno and club artist based in Spain, tracked on soundcheck, wi
 
 Crissis, Ricardo Morales, ADRI.G
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarblue/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarblue/)*

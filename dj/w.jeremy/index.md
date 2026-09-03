@@ -1,6 +1,6 @@
 # W. Jeremy
 
-W. Jeremy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Gabriela, New York City on Sun, 6 Sept 2026.
+W. Jeremy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Gabriela, New York City on Sun, 6 Sept 2026.
 
 W. Jeremy is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity. Often billed alongside Amber Valentine, Charlene and Jeffrey Sfire. Next up: Gabriela, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ W. Jeremy is a house and techno artist based in United States of America, tracke
 
 Amber Valentine, Charlene, Jeffrey Sfire
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/w.jeremy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/w.jeremy/)*

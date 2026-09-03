@@ -1,6 +1,6 @@
 # Westerkerk
 
-Westerkerk is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Monkey Project [ADE]" on Wed, 21 Oct 2026.
+Westerkerk is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Monkey Project [ADE]" on Wed, 21 Oct 2026.
 
 Westerkerk is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Adam Ten, Benja (NL), BLOND:ISH and Maz (BR) and 1 more. Browse upcoming dates, start times and who's playing. Prinsengracht 279, 1016 GW, Amsterdam.
 
@@ -16,4 +16,4 @@ Westerkerk is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights
 
 Prinsengracht 279, 1016 GW, Amsterdam, Amsterdam
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westerkerk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westerkerk/)*

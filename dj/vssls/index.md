@@ -1,6 +1,6 @@
 # VSSLS
 
-VSSLS is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+VSSLS is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 VSSLS is a techno and hardcore artist tracked on soundcheck, with 52 sets logged across Athens. Often billed alongside SALIN, Até. and Adam Des. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ VSSLS is a techno and hardcore artist tracked on soundcheck, with 52 sets logged
 
 SALIN, Até., Adam Des
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vssls/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vssls/)*

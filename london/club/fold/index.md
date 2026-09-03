@@ -1,6 +1,6 @@
 # FOLD
 
-FOLD is a music venue in London with 26 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Origins: Rene Wise (All Night Long)" on Fri, 4 Sept 2026.
+FOLD is a music venue in London with 26 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Origins: Rene Wise (All Night Long)" on Fri, 4 Sept 2026.
 
 FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including aalice, Alba Heidari, Alicia (UK) and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with l
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

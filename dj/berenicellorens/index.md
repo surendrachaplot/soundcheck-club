@@ -1,6 +1,6 @@
 # Berenice Llorens
 
-Berenice Llorens is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tresor.West, Dortmund-essen on Thu, 17 Sept 2026.
+Berenice Llorens is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor.West, Dortmund-essen on Thu, 17 Sept 2026.
 
 Berenice Llorens is an experimental and idm artist tracked on soundcheck, with 8 sets logged across Berlin and Dortmund-essen. Often billed alongside Emme Moises, Anastave and Arlenys. Next up: Tresor.West, Dortmund-essen on Thu 17 Sept.
 
@@ -24,4 +24,4 @@ Berenice Llorens is an experimental and idm artist tracked on soundcheck, with 8
 
 Emme Moises, Anastave, Arlenys
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berenicellorens/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berenicellorens/)*

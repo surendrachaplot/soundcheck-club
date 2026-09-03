@@ -1,6 +1,6 @@
 # Tania Atyabi
 
-Tania Atyabi is a Electro and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Glove That Fits, London on Sat, 31 Oct 2026.
+Tania Atyabi is a Electro and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Glove That Fits, London on Sat, 31 Oct 2026.
 
 Tania Atyabi is an electro and disco artist tracked on soundcheck, with 23 sets logged across London and Manchester. Often billed alongside Medallion Man, YouYou (2) and ARA-U. Next up: The Glove That Fits, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tania Atyabi is an electro and disco artist tracked on soundcheck, with 23 sets 
 
 Medallion Man, YouYou (2), ARA-U
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taniaatyabi/)*

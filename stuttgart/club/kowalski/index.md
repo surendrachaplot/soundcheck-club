@@ -1,6 +1,6 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "HOUSE OF LOVE" on Fri, 4 Sept 2026.
+Kowalski is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "HOUSE OF LOVE" on Fri, 4 Sept 2026.
 
 Kowalski is a music venue in Stuttgart listed on soundcheck. 4 upcoming nights, with line-ups including Jochen Pash. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
@@ -17,4 +17,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 4 upcoming nights, 
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

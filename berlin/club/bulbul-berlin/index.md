@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "SÜMA - COMMON GROUND 001: Fenster b2b Jambel, Stark, DJ F2P" on Thu, 3 Sept 2026.
+Bulbul Berlin is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SÜMA - COMMON GROUND 001: Fenster b2b Jambel, Stark, DJ F2P" on Thu, 3 Sept 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Aggy, Almost Famous, Betas and Better Call Paul and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 16 upcoming night
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

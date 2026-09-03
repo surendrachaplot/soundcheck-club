@@ -1,6 +1,6 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "CHIDA -ALL NIGHT LONG-" on Wed, 2 Sept 2026.
+Mitsuki is a music venue in Tokyo with 17 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "CHIDA -ALL NIGHT LONG-" on Wed, 2 Sept 2026.
 
 Mitsuki is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with line-ups including AI (10), Al Jones, An toi and Carl H and 2 more. Browse upcoming dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
@@ -23,4 +23,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 17 upcoming nights, with
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

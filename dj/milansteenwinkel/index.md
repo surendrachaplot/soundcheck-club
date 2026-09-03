@@ -1,6 +1,6 @@
 # Milan Steenwinkel
 
-Milan Steenwinkel is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
+Milan Steenwinkel is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
 
 Milan Steenwinkel is a progressive house and techno artist tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Corren Cavini, Cyantist and Maarten Spoor. Next up: Het Veronica Schip, Amsterdam on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Milan Steenwinkel is a progressive house and techno artist tracked on soundcheck
 
 Corren Cavini, Cyantist, Maarten Spoor
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milansteenwinkel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milansteenwinkel/)*

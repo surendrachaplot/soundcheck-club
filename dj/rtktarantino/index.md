@@ -1,6 +1,6 @@
 # RTK Tarantino
 
-RTK Tarantino is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at block., Dublin on Sat, 5 Sept 2026.
+RTK Tarantino is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at block., Dublin on Sat, 5 Sept 2026.
 
 RTK Tarantino is a house and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 9 more. Often billed alongside Captain Wallop, Rossi and Jamback. Next up: block., Dublin on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ RTK Tarantino is a house and tech house artist tracked on soundcheck, with 28 se
 
 Captain Wallop, Rossi, Jamback
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*

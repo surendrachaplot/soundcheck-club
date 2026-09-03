@@ -1,6 +1,6 @@
 # The Old Queens Head
 
-The Old Queens Head is a music venue in London with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "DJ Q: All Night Long Takeover" on Fri, 4 Sept 2026.
+The Old Queens Head is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "DJ Q: All Night Long Takeover" on Fri, 4 Sept 2026.
 
 The Old Queens Head is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including DJ Q. Browse upcoming dates, start times and who's playing. 44 Essex Road; Islington; London N1 8LN; United Kingdom.
 
@@ -14,4 +14,4 @@ The Old Queens Head is a music venue in London listed on soundcheck. 1 upcoming 
 
 44 Essex Road; Islington; London N1 8LN; United Kingdom, London
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-queens-head/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-old-queens-head/)*

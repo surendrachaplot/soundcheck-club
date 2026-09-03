@@ -1,6 +1,6 @@
 # Stump Valley
 
-Stump Valley is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at LIVE EVIL, Munich on Fri, 4 Sept 2026.
+Stump Valley is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at LIVE EVIL, Munich on Fri, 4 Sept 2026.
 
 Stump Valley is a house and disco artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: LIVE EVIL, Munich on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Stump Valley is a house and disco artist tracked on soundcheck, with 71 sets log
 
 Kapote, Sam Ruffillo, Max NRG Supply
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*

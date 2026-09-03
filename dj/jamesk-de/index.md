@@ -1,6 +1,6 @@
 # james K
 
-james K is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+james K is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 james K is an ambient and experimental artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside Nick León, Yu Mi and Amelia Holt. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ james K is an ambient and experimental artist tracked on soundcheck, with 80 set
 
 Nick León, Yu Mi, Amelia Holt
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesk-de/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesk-de/)*

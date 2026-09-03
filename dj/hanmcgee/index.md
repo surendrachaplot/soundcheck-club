@@ -1,6 +1,6 @@
 # Han McGee
 
-Han McGee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Art School, Glasgow on Fri, 4 Sept 2026.
+Han McGee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Art School, Glasgow on Fri, 4 Sept 2026.
 
 Han McGee is a house and techno artist tracked on soundcheck, with 15 sets logged across Edinburgh and Glasgow. Often billed alongside Jack Brown (2), Babyccino and Bash Man. Next up: The Art School, Glasgow on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Han McGee is a house and techno artist tracked on soundcheck, with 15 sets logge
 
 Jack Brown (2), Babyccino, Bash Man
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanmcgee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanmcgee/)*

@@ -1,6 +1,6 @@
 # ROÜGE
 
-ROÜGE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
+ROÜGE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
 
 ROÜGE is a techno and trance artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside Bours?, EARGASM GOD and I Hate Models. Next up: TBA - Grand Parc Miribel Jonage, Lyon on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ ROÜGE is a techno and trance artist tracked on soundcheck, with 102 sets logged
 
 Bours?, EARGASM GOD, I Hate Models
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*

@@ -1,6 +1,6 @@
 # Bonza
 
-Bonza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
+Bonza is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
 
 Bonza is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Bucharest and Rome. Often billed alongside Orli, Fabrizio Sala and FRANKIEE. Next up: THE MAGICK BAR, Rome on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Bonza is a house and techno artist tracked on soundcheck, with 30 sets logged ac
 
 Orli, Fabrizio Sala, FRANKIEE
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonza/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonza/)*

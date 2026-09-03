@@ -1,6 +1,6 @@
 # James Harbrecht
 
-James Harbrecht is a Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Starlane Pizza Bar, London on Sun, 27 Sept 2026.
+James Harbrecht is a Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Starlane Pizza Bar, London on Sun, 27 Sept 2026.
 
 James Harbrecht is a techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, London and Mexicocity and 2 more. Often billed alongside H Grade, Ylia (UK) and GIZZI. Next up: Starlane Pizza Bar, London on Sun 27 Sept.
 
@@ -27,4 +27,4 @@ James Harbrecht is a techno artist based in United Kingdom, tracked on soundchec
 
 H Grade, Ylia (UK), GIZZI
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesharbrecht/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesharbrecht/)*

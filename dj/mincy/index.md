@@ -1,6 +1,6 @@
 # Mincy
 
-Mincy is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Mincy is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
 Mincy is a garage and techno artist tracked on soundcheck, with 59 sets logged across Barcelona, Brisbane, Bristol and Hobart and 7 more. Often billed alongside Killjoy, Caitlin Medcalf and Dr Dubplate. Next up: The Ivy, Sydney on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mincy is a garage and techno artist tracked on soundcheck, with 59 sets logged a
 
 Killjoy, Caitlin Medcalf, Dr Dubplate
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mincy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mincy/)*

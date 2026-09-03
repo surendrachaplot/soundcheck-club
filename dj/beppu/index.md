@@ -1,6 +1,6 @@
 # BEPPU
 
-BEPPU is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at DeTour, Tokyo on Fri, 4 Sept 2026.
+BEPPU is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at DeTour, Tokyo on Fri, 4 Sept 2026.
 
 BEPPU is a techno and trance artist based in Japan, tracked on soundcheck, with 133 sets logged across Tokyo. Often billed alongside Takami, Nanlaze and YOSHIMASA. Next up: DeTour, Tokyo on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ BEPPU is a techno and trance artist based in Japan, tracked on soundcheck, with 
 
 Takami, Nanlaze, YOSHIMASA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beppu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beppu/)*

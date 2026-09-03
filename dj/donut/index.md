@@ -1,6 +1,6 @@
 # Donut
 
-Donut is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Jumbi, London on Sat, 5 Sept 2026.
+Donut is a Broken Beat and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jumbi, London on Sat, 5 Sept 2026.
 
 Donut is a broken beat and house artist tracked on soundcheck, with 44 sets logged across Bristol and London. Often billed alongside Rohan Rakhit, Cam Joon and LORA S. Next up: Jumbi, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Donut is a broken beat and house artist tracked on soundcheck, with 44 sets logg
 
 Rohan Rakhit, Cam Joon, LORA S
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donut/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donut/)*

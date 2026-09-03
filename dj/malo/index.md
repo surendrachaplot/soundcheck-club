@@ -1,6 +1,6 @@
 # MaLo
 
-MaLo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Hotel Butterfly, Rome on Sun, 27 Sept 2026.
+MaLo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hotel Butterfly, Rome on Sun, 27 Sept 2026.
 
 MaLo is a house and electronica artist tracked on soundcheck, with 6 sets logged across Milan, Oslo, Paris and Rome and 1 more. Often billed alongside Schatzï, Oceanwax and Aline Brooklyn. Next up: Hotel Butterfly, Rome on Sun 27 Sept.
 
@@ -22,4 +22,4 @@ MaLo is a house and electronica artist tracked on soundcheck, with 6 sets logged
 
 Schatzï, Oceanwax, Aline Brooklyn
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malo/)*

@@ -1,6 +1,6 @@
 # Keyvan
 
-Keyvan is a electronic artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Minimal Bar, Berlin on Mon, 7 Sept 2026.
+Keyvan is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Minimal Bar, Berlin on Mon, 7 Sept 2026.
 
 Keyvan is an electronic artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Next up: Minimal Bar, Berlin on Mon 7 Sept.
 
@@ -15,4 +15,4 @@ Keyvan is an electronic artist based in Germany, tracked on soundcheck, with 3 s
 
 - Minimal Bar, Berlin — Tue, 4 Aug 2026
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyvan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyvan/)*

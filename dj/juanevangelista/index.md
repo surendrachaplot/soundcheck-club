@@ -1,6 +1,6 @@
 # Juan Evangelista
 
-Juan Evangelista is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Kilomètre25, Paris on Thu, 3 Sept 2026.
+Juan Evangelista is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kilomètre25, Paris on Thu, 3 Sept 2026.
 
 Juan Evangelista is a techno and house artist based in Argentina, tracked on soundcheck, with 51 sets logged across Barcelona, Berlin, Boston and Buenosaires and 11 more. Often billed alongside Alejandro Franco, Alexander Kowalski and Fab Massimo. Next up: Kilomètre25, Paris on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Juan Evangelista is a techno and house artist based in Argentina, tracked on sou
 
 Alejandro Franco, Alexander Kowalski, Fab Massimo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanevangelista/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanevangelista/)*

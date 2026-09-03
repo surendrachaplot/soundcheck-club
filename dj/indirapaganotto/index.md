@@ -1,6 +1,6 @@
 # Indira Paganotto
 
-Indira Paganotto is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Index, Dublin on Fri, 4 Sept 2026.
+Indira Paganotto is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Index, Dublin on Fri, 4 Sept 2026.
 
 Indira Paganotto is a techno and house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Joseph Capriati, Patrick Mason and Nico Moreno. Next up: Index, Dublin on Fri 4 Sept.
 
@@ -35,4 +35,4 @@ Indira Paganotto is a techno and house artist tracked on soundcheck, with 195 se
 
 Joseph Capriati, Patrick Mason, Nico Moreno
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indirapaganotto/)*

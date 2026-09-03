@@ -1,6 +1,6 @@
 # Mutant Pete
 
-Mutant Pete is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+Mutant Pete is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
 
 Mutant Pete is a house and disco artist tracked on soundcheck, with 29 sets logged across Houston and Miami. Often billed alongside Bort, Terence Tabeau and Artime. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Mutant Pete is a house and disco artist tracked on soundcheck, with 29 sets logg
 
 Bort, Terence Tabeau, Artime
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutantpete/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutantpete/)*

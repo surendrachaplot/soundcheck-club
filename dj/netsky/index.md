@@ -1,6 +1,6 @@
 # Netsky
 
-Netsky is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+Netsky is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
 
 Netsky is a drum & bass and bass artist tracked on soundcheck, with 46 sets logged across Amsterdam, Auckland, Austin and Brisbane and 25 more. Often billed alongside A Little Sound, Fred V and Hedex. Next up: Maassilo, Rotterdam on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Netsky is a drum & bass and bass artist tracked on soundcheck, with 46 sets logg
 
 A Little Sound, Fred V, Hedex
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/netsky/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/netsky/)*

@@ -1,6 +1,6 @@
 # cuprum
 
-cuprum is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Atdge Seoul, Seoul on Sat, 12 Sept 2026.
+cuprum is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Atdge Seoul, Seoul on Sat, 12 Sept 2026.
 
 cuprum is a house and techno artist based in South Korea, tracked on soundcheck, with 11 sets logged across Seoul. Often billed alongside Aiden Lee, 01 (1) and Mingsturn. Next up: Atdge Seoul, Seoul on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ cuprum is a house and techno artist based in South Korea, tracked on soundcheck,
 
 Aiden Lee, 01 (1), Mingsturn
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuprum/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuprum/)*

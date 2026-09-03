@@ -1,6 +1,6 @@
 # Duwat?
 
-Duwat? is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Union Club, Vauxhall, London on Thu, 3 Sept 2026.
+Duwat? is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Club, Vauxhall, London on Thu, 3 Sept 2026.
 
 Duwat? is a tech house and house artist tracked on soundcheck, with 226 sets logged across Brighton and London. Often billed alongside Simone Sim, Diana Loredana and Jefferson Souza. Next up: Union Club, Vauxhall, London on Thu 3 Sept.
 
@@ -33,4 +33,4 @@ Duwat? is a tech house and house artist tracked on soundcheck, with 226 sets log
 
 Simone Sim, Diana Loredana, Jefferson Souza
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duwat/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duwat/)*

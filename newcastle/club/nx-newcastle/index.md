@@ -1,6 +1,6 @@
 # NX Newcastle
 
-NX Newcastle is a music venue in Newcastle with 13 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Annie Mac: Before Midnight" on Fri, 18 Sept 2026.
+NX Newcastle is a music venue in Newcastle with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Annie Mac: Before Midnight" on Fri, 18 Sept 2026.
 
 NX Newcastle is a music venue in Newcastle listed on soundcheck. 13 upcoming nights, with line-ups including Annie Mac, Arthi, Bella Claxton and Boss Priester and 2 more. Browse upcoming dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
 
@@ -23,4 +23,4 @@ NX Newcastle is a music venue in Newcastle listed on soundcheck. 13 upcoming nig
 
 Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom, Newcastle
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*

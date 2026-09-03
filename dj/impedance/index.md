@@ -1,6 +1,6 @@
 # Impedance
 
-Impedance is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 13 Sept 2026.
+Impedance is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 13 Sept 2026.
 
 Impedance is a techno and electronica artist based in Serbia, tracked on soundcheck, with 31 sets logged across Athens and Belgrade. Often billed alongside Lollipop Janosz, .Paragon and Filip Xavi. Next up: Para Klub Beograd, Belgrade on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Impedance is a techno and electronica artist based in Serbia, tracked on soundch
 
 Lollipop Janosz, .Paragon, Filip Xavi
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/impedance/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/impedance/)*

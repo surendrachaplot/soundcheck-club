@@ -1,6 +1,6 @@
 # Nolan
 
-Nolan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at WaterBear Venue, Brighton on Sat, 19 Sept 2026.
+Nolan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at WaterBear Venue, Brighton on Sat, 19 Sept 2026.
 
 Nolan is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Brighton and Detroit. Often billed alongside Markus Saarländer, 808 State and Angelo Ferreri. Next up: WaterBear Venue, Brighton on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Nolan is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Markus Saarländer, 808 State, Angelo Ferreri
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nolan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nolan/)*

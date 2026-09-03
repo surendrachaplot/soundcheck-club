@@ -1,6 +1,6 @@
 # Emanuel Satie
 
-Emanuel Satie is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Knockdown Center, New York City on Sun, 20 Sept 2026.
+Emanuel Satie is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Knockdown Center, New York City on Sun, 20 Sept 2026.
 
 Emanuel Satie is a house and techno artist tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside MAGA, Sean Doron and Sven Vath. Next up: Knockdown Center, Newyorkcity on Sun 20 Sept.
 
@@ -28,4 +28,4 @@ Emanuel Satie is a house and techno artist tracked on soundcheck, with 94 sets l
 
 MAGA, Sean Doron, Sven Vath
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emanuelsatie/)*

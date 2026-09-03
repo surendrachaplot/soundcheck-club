@@ -1,6 +1,6 @@
 # Rafa Santos
 
-Rafa Santos is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at La Terrrazza, Barcelona on Sat, 19 Sept 2026.
+Rafa Santos is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at La Terrrazza, Barcelona on Sat, 19 Sept 2026.
 
 Rafa Santos is a house and deep house artist based in Spain, tracked on soundcheck, with 30 sets logged across Barcelona and Madrid. Often billed alongside Sama Yax, Deenamic and Alvaro Cabana. Next up: La Terrrazza, Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Rafa Santos is a house and deep house artist based in Spain, tracked on soundche
 
 Sama Yax, Deenamic, Alvaro Cabana
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafasantos/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafasantos/)*

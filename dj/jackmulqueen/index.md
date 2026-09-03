@@ -1,6 +1,6 @@
 # Jack Mulqueen
 
-Jack Mulqueen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
+Jack Mulqueen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
 
 Jack Mulqueen is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Newyorkcity. Often billed alongside Choukroun, Rana Iravani and Armii1n. Next up: Signal, Newyorkcity on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jack Mulqueen is a house and techno artist based in United States of America, tr
 
 Choukroun, Rana Iravani, Armii1n
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmulqueen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackmulqueen/)*

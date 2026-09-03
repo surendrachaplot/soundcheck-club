@@ -1,6 +1,6 @@
 # Zerya
 
-Zerya is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tausend, Berlin on Thu, 3 Sept 2026.
+Zerya is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tausend, Berlin on Thu, 3 Sept 2026.
 
 Zerya is a house and disco artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Berlin, Ghent, London and Mexicocity and 1 more. Often billed alongside Irena Stanisic, Barreto and Bonnz!. Next up: Tausend, Berlin on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Zerya is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 Irena Stanisic, Barreto, Bonnz!
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zerya/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zerya/)*

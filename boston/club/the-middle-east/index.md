@@ -1,6 +1,6 @@
 # The Middle East
 
-The Middle East is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "KiKi at the Corner: KIDDLE EAST" on Fri, 4 Sept 2026.
+The Middle East is a music venue in Boston with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "KiKi at the Corner: KIDDLE EAST" on Fri, 4 Sept 2026.
 
 The Middle East is a music venue in Boston listed on soundcheck. 4 upcoming nights, with line-ups including Asphodel Ivory, brazen, DJ DONUTS - Boston, Ma and HypeLies and 2 more. Browse upcoming dates, start times and who's playing. 472-480 Massachusetts Avenue; Cambridge, MA 02139; United States.
 
@@ -17,4 +17,4 @@ The Middle East is a music venue in Boston listed on soundcheck. 4 upcoming nigh
 
 472-480 Massachusetts Avenue; Cambridge, MA 02139; United States, Boston
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-middle-east/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-middle-east/)*

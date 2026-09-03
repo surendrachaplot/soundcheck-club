@@ -1,6 +1,6 @@
 # Oklou
 
-Oklou is a Experimental and Pop artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
+Oklou is a Experimental and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Various Venues, London on Thu, 24 Sept 2026.
 
 Oklou is an experimental and pop artist based in France, tracked on soundcheck, with 32 sets logged across Amsterdam, Bristol, Brussels and Chicago and 15 more. Often billed alongside Erika de Casier, Nick León and james K. Next up: Various Venues, London on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Oklou is an experimental and pop artist based in France, tracked on soundcheck, 
 
 Erika de Casier, Nick León, james K
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oklou/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oklou/)*

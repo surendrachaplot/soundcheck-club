@@ -1,6 +1,6 @@
 # Eduard (PR)
 
-Eduard (PR) is a Afro House and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Lux Fragil, Lisbon on Fri, 18 Sept 2026.
+Eduard (PR) is a Afro House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lux Fragil, Lisbon on Fri, 18 Sept 2026.
 
 Eduard (PR) is an afro house and electronica artist tracked on soundcheck, with 8 sets logged across Lisbon. Often billed alongside Vladislove, A Guy Called Gerald and Claptone. Next up: Lux Fragil, Lisbon on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ Eduard (PR) is an afro house and electronica artist tracked on soundcheck, with 
 
 Vladislove, A Guy Called Gerald, Claptone
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eduard-pr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eduard-pr/)*

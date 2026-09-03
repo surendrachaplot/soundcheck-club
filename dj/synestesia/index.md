@@ -1,6 +1,6 @@
 # Synestesia
 
-Synestesia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Honey's, New York City on Fri, 9 Oct 2026.
+Synestesia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Honey's, New York City on Fri, 9 Oct 2026.
 
 Synestesia is a techno and house artist tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Maha Kuma, R-DNA and Sam Valle. Next up: Honey's, Newyorkcity on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Synestesia is a techno and house artist tracked on soundcheck, with 13 sets logg
 
 Maha Kuma, R-DNA, Sam Valle
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/synestesia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/synestesia/)*

@@ -1,6 +1,6 @@
 # Owelle
 
-Owelle is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Douze, Geneva on Wed, 9 Sept 2026.
+Owelle is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Le Douze, Geneva on Wed, 9 Sept 2026.
 
 Owelle is a techno and electro artist tracked on soundcheck, with 29 sets logged across Barcelona, Basel, Geneva and Leipzig and 2 more. Often billed alongside e-garbage, Elena Colombi and Efe Ce Ele. Next up: Le Douze, Geneva on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Owelle is a techno and electro artist tracked on soundcheck, with 29 sets logged
 
 e-garbage, Elena Colombi, Efe Ce Ele
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/owelle/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/owelle/)*

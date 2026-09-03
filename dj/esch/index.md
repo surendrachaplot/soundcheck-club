@@ -1,6 +1,6 @@
 # Esch
 
-Esch is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Artheater, Cologne on Fri, 25 Sept 2026.
+Esch is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Artheater, Cologne on Fri, 25 Sept 2026.
 
 Esch is a trance and techno artist tracked on soundcheck, with 7 sets logged across Amsterdam, Cologne, Rotterdam and Sanfrancisco and 1 more. Often billed alongside BAUGRUPPE90, CARV and Camillionaire. Next up: Artheater, Cologne on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Esch is a trance and techno artist tracked on soundcheck, with 7 sets logged acr
 
 BAUGRUPPE90, CARV, Camillionaire
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esch/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esch/)*

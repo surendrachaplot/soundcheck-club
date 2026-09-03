@@ -1,6 +1,6 @@
 # Clarence
 
-Clarence is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Minimal Bar, Berlin on Mon, 21 Sept 2026.
+Clarence is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Minimal Bar, Berlin on Mon, 21 Sept 2026.
 
 Clarence is a techno and experimental artist based in France, tracked on soundcheck, with 16 sets logged across Berlin and Lyon. Often billed alongside Sklaer, De Santi and Maelita. Next up: Minimal Bar, Berlin on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Clarence is a techno and experimental artist based in France, tracked on soundch
 
 Sklaer, De Santi, Maelita
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarence-fr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarence-fr/)*

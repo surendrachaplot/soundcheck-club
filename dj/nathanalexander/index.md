@@ -1,6 +1,6 @@
 # Nathan Alexander
 
-Nathan Alexander is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tresor / Globus, Berlin on Wed, 2 Sept 2026.
+Nathan Alexander is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Wed, 2 Sept 2026.
 
 Nathan Alexander is a techno and electro artist tracked on soundcheck, with 8 sets logged across Belgrade, Berlin, Bristol and Leeds and 1 more. Often billed alongside Carmen Electro, Dawsons Kriek and Howie Booth. Next up: Tresor / Globus, Berlin on Wed 2 Sept.
 
@@ -12,6 +12,7 @@ Nathan Alexander is a techno and electro artist tracked on soundcheck, with 8 se
 
 ## Recently played
 
+- Tresor / Globus, Berlin — Wed, 2 Sept 2026
 - Drugstore Beograd, Belgrade — Fri, 22 May 2026
 - The Island, Bristol — Fri, 15 May 2026
 - Notting Hill Arts Club, London — Fri, 10 Oct 2025
@@ -24,4 +25,4 @@ Nathan Alexander is a techno and electro artist tracked on soundcheck, with 8 se
 
 Carmen Electro, Dawsons Kriek, Howie Booth
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanalexander/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanalexander/)*

@@ -1,6 +1,6 @@
 # Tangela
 
-Tangela is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at La Prairie du Canal, Paris on Sat, 5 Sept 2026.
+Tangela is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at La Prairie du Canal, Paris on Sat, 5 Sept 2026.
 
 Tangela is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Kia (AU), amuwa and Andy Garvey. Next up: La Prairie du Canal, Paris on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Tangela is a techno and house artist tracked on soundcheck, with 117 sets logged
 
 Kia (AU), amuwa, Andy Garvey
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tangela/)*

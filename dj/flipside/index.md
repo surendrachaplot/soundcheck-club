@@ -1,6 +1,6 @@
 # Flipside
 
-Flipside is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Z-Bau, Nürnberg on Sat, 5 Sept 2026.
+Flipside is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Z-Bau, Nürnberg on Sat, 5 Sept 2026.
 
 Flipside is a house and club artist tracked on soundcheck, with 10 sets logged across Edinburgh, Glasgow, London and Nurnberg and 1 more. Often billed alongside Manzone & Strong, Addy and Andy Roberts. Next up: Z-Bau, Nurnberg on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Flipside is a house and club artist tracked on soundcheck, with 10 sets logged a
 
 Manzone & Strong, Addy, Andy Roberts
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flipside/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flipside/)*

@@ -1,6 +1,6 @@
 # Angel (GR)
 
-Angel (GR) is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Elsewhere, New York City on Sat, 19 Sept 2026.
+Angel (GR) is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Elsewhere, New York City on Sat, 19 Sept 2026.
 
 Angel (GR) is a hardcore and house artist based in Greece, tracked on soundcheck, with 13 sets logged across Barcelona, Cologne, Copenhagen and Munich and 4 more. Often billed alongside Christopher Lawrence, Kristina Sky and Lenny Dee. Next up: Elsewhere, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Angel (GR) is a hardcore and house artist based in Greece, tracked on soundcheck
 
 Christopher Lawrence, Kristina Sky, Lenny Dee
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angel-gr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angel-gr/)*

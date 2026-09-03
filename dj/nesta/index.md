@@ -1,6 +1,6 @@
 # Nesta
 
-Nesta is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Fvtvr, Paris on Fri, 6 Nov 2026.
+Nesta is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fvtvr, Paris on Fri, 6 Nov 2026.
 
 Nesta is a house and minimal artist tracked on soundcheck, with 31 sets logged across Amsterdam, Athens, Barcelona and Berlin and 7 more. Often billed alongside Andrea Fiorito, Hugo Martinez and Mathew Jonson. Next up: Fvtvr, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Nesta is a house and minimal artist tracked on soundcheck, with 31 sets logged a
 
 Andrea Fiorito, Hugo Martinez, Mathew Jonson
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*

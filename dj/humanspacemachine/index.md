@@ -1,6 +1,6 @@
 # Human Space Machine
 
-Human Space Machine is a Techno and Ambient artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 9 Oct 2026.
+Human Space Machine is a Techno and Ambient artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 9 Oct 2026.
 
 Human Space Machine is a techno and ambient artist tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Eversines, Kaap and Nathan Kofi. Next up: RSO.BERLIN, Berlin on Fri 9 Oct.
 
@@ -29,4 +29,4 @@ Human Space Machine is a techno and ambient artist tracked on soundcheck, with 5
 
 Eversines, Kaap, Nathan Kofi
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humanspacemachine/)*

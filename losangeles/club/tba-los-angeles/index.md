@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 14 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Intercell LA: Annika Wolfe, DAX J, Grace Dahl, Max Gardner b2b Lorely Mur, & Stef Mendesidis" on Sun, 6 Sept 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Intercell LA: Annika Wolfe, DAX J, Grace Dahl, Max Gardner b2b Lorely Mur, & Stef Mendesidis" on Sun, 6 Sept 2026.
 
 TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 14 upcoming nights, with line-ups including Anastasia Giovani, Annika Wolfe, Bart Skils and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Losangeles listed on soundcheck. 14 upcomi
 | Sat, 10 Oct 2026 | WORK presents: DVS1 [4 Hour Set], Mary Yuzovskaya, & Pleasures | DVS1, Mary Yuzovskaya, PLEASURES (US) |
 | Fri, 16 Oct 2026 | Emanate - Twisted Tour (Open To Close) | Emanate |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

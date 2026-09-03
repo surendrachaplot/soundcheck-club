@@ -1,6 +1,6 @@
 # Nola
 
-Nola is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TV Lounge, Detroit on Sat, 12 Sept 2026.
+Nola is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TV Lounge, Detroit on Sat, 12 Sept 2026.
 
 Nola is a house and deep house artist tracked on soundcheck, with 4 sets logged across Chicago, Detroit and Paris. Often billed alongside Dennis Quin, Gino (DET) and Kellie Allen. Next up: TV Lounge, Detroit on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Nola is a house and deep house artist tracked on soundcheck, with 4 sets logged 
 
 Dennis Quin, Gino (DET), Kellie Allen
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nola/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nola/)*

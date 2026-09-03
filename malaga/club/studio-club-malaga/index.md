@@ -1,6 +1,6 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Studio Club Invites: Yanamaste" on Fri, 4 Sept 2026.
+Studio Club Malaga is a music venue in Malaga with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Studio Club Invites: Yanamaste" on Fri, 4 Sept 2026.
 
 Studio Club Malaga is a music venue in Malaga listed on soundcheck. 10 upcoming nights, with line-ups including 6EJOU, Alba Franch, Alinka and Âme and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
@@ -23,4 +23,4 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 10 upcoming 
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

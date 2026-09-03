@@ -1,6 +1,6 @@
 # MONOCOLOR
 
-MONOCOLOR is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+MONOCOLOR is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 MONOCOLOR is an experimental and idm artist tracked on soundcheck, with 5 sets logged across Bangkok, Prague and Vienna. Often billed alongside MARAws, Seba Kayan and AfroNinja. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ MONOCOLOR is an experimental and idm artist tracked on soundcheck, with 5 sets l
 
 MARAws, Seba Kayan, AfroNinja
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monocolor/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monocolor/)*

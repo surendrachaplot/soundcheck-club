@@ -1,6 +1,6 @@
 # The Poetry Club
 
-The Poetry Club is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Out Of Office - SWG3 Poetry Club" on Fri, 4 Sept 2026.
+The Poetry Club is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Out Of Office - SWG3 Poetry Club" on Fri, 4 Sept 2026.
 
 The Poetry Club is a music venue in Glasgow listed on soundcheck. 6 upcoming nights, with line-ups including HEATNAVI, Maskka, Mellin and Vixen Sound. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -19,4 +19,4 @@ The Poetry Club is a music venue in Glasgow listed on soundcheck. 6 upcoming nig
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-poetry-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-poetry-club/)*

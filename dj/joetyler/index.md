@@ -1,6 +1,6 @@
 # Joe Tyler
 
-Joe Tyler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Four Quarters, London on Fri, 11 Sept 2026.
+Joe Tyler is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Four Quarters, London on Fri, 11 Sept 2026.
 
 Joe Tyler is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Mary X, macchiato and Aletha. Next up: Four Quarters, London on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Joe Tyler is a house and techno artist based in United Kingdom, tracked on sound
 
 Mary X, macchiato, Aletha
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joetyler/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joetyler/)*

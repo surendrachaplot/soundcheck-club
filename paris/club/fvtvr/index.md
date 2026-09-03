@@ -1,6 +1,6 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Fvtvr INVITES: Jimi Jules, RAG" on Fri, 4 Sept 2026.
+Fvtvr is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Fvtvr INVITES: Jimi Jules, RAG" on Fri, 4 Sept 2026.
 
 Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Aline Brooklyn, ABI (FR), abs8lute and Adrien Calvet and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
@@ -23,4 +23,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with l
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

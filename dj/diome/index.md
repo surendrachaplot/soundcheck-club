@@ -1,6 +1,6 @@
 # Diome
 
-Diome is a House and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bar v Krymský, Prague on Sat, 10 Oct 2026.
+Diome is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar v Krymský, Prague on Sat, 10 Oct 2026.
 
 Diome is a house and club artist tracked on soundcheck, with 31 sets logged across Prague. Often billed alongside Cubik, Da Moon and Brigitte Noir. Next up: Bar v Krymský, Prague on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Diome is a house and club artist tracked on soundcheck, with 31 sets logged acro
 
 Cubik, Da Moon, Brigitte Noir
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diome/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diome/)*

@@ -1,6 +1,6 @@
 # Duggal Greenhouse
 
-Duggal Greenhouse is a music venue in New York City with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Time Warp NYC 2026" on Fri, 20 Nov 2026.
+Duggal Greenhouse is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Time Warp NYC 2026" on Fri, 20 Nov 2026.
 
 Duggal Greenhouse is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Adiel, Âme, Anetha and Annie Lew and 2 more. Browse upcoming dates, start times and who's playing. 26 Navy St Brooklyn, NY 11201.
 
@@ -14,4 +14,4 @@ Duggal Greenhouse is a music venue in Newyorkcity listed on soundcheck. 1 upcomi
 
 26 Navy St Brooklyn, NY 11201, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/duggal-greenhouse/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/duggal-greenhouse/)*

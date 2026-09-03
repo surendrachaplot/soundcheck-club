@@ -1,6 +1,6 @@
 # DJ USA
 
-DJ USA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Club Rawhide, New York City on Thu, 3 Sept 2026.
+DJ USA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club Rawhide, New York City on Thu, 3 Sept 2026.
 
 DJ USA is a techno and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside flirty800, DJ Clone and DJ Dawson. Next up: Club Rawhide, Newyorkcity on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ DJ USA is a techno and house artist based in United States of America, tracked o
 
 flirty800, DJ Clone, DJ Dawson
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djusa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djusa/)*

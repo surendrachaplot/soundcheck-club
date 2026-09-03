@@ -1,6 +1,6 @@
 # LOVEISYUNNECO
 
-LOVEISYUNNECO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Blank Site, Seoul on Fri, 11 Sept 2026.
+LOVEISYUNNECO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Blank Site, Seoul on Fri, 11 Sept 2026.
 
 LOVEISYUNNECO is a house and techno artist tracked on soundcheck, with 7 sets logged across Bangkok and Seoul. Often billed alongside Slowmouth, Conan and DJ Wow. Next up: Blank Site, Seoul on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ LOVEISYUNNECO is a house and techno artist tracked on soundcheck, with 7 sets lo
 
 Slowmouth, Conan, DJ Wow
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loveisyunneco/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loveisyunneco/)*

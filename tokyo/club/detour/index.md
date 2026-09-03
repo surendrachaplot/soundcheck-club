@@ -1,6 +1,6 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "DT THURSDAY" on Thu, 3 Sept 2026.
+DeTour is a music venue in Tokyo with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "DT THURSDAY" on Thu, 3 Sept 2026.
 
 DeTour is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with line-ups including AOI BLOOM, BEPPU, CHANG and cosmolady and 2 more. Browse upcoming dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
@@ -18,4 +18,4 @@ DeTour is a music venue in Tokyo listed on soundcheck. 5 upcoming nights, with l
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

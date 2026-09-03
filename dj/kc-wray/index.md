@@ -1,6 +1,6 @@
 # KC Wray
 
-KC Wray is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tausend, Berlin on Sat, 5 Sept 2026.
+KC Wray is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tausend, Berlin on Sat, 5 Sept 2026.
 
 KC Wray is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Chicago and Copenhagen and 4 more. Often billed alongside CTRLZORA, Sound On Tape and BLESSTONIO. Next up: Tausend, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ KC Wray is a house and techno artist based in United States of America, tracked 
 
 CTRLZORA, Sound On Tape, BLESSTONIO
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kc-wray/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kc-wray/)*

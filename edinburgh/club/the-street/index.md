@@ -1,6 +1,6 @@
 # The Street
 
-The Street is a music venue in Edinburgh with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "The Roze Garden" on Thu, 3 Sept 2026.
+The Street is a music venue in Edinburgh with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "The Roze Garden" on Thu, 3 Sept 2026.
 
 The Street is a music venue in Edinburgh listed on soundcheck. 5 upcoming nights, with line-ups including Reuben Lowe, The Reflex, Trendy Wendy and Yogi Haughton. Browse upcoming dates, start times and who's playing. 2 Picardy Place, Edinburgh, EH1 3JT.
 
@@ -18,4 +18,4 @@ The Street is a music venue in Edinburgh listed on soundcheck. 5 upcoming nights
 
 2 Picardy Place, Edinburgh, EH1 3JT, Edinburgh
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-street/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-street/)*

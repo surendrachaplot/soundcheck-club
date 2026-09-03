@@ -1,6 +1,6 @@
 # Ren Ascutt
 
-Ren Ascutt is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sigma, Ibiza on Sat, 5 Sept 2026.
+Ren Ascutt is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sigma, Ibiza on Sat, 5 Sept 2026.
 
 Ren Ascutt is a techno and minimal techno artist based in Chile, tracked on soundcheck, with 11 sets logged across Barcelona and Ibiza. Often billed alongside SEMREH, ZÉ ALMONACID and Nahum Korm. Next up: Sigma, Ibiza on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ren Ascutt is a techno and minimal techno artist based in Chile, tracked on soun
 
 SEMREH, ZÉ ALMONACID, Nahum Korm
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renascutt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renascutt/)*

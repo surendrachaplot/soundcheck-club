@@ -1,6 +1,6 @@
 # Kyoto Jazz Massive
 
-Kyoto Jazz Massive is a Jazz and Club artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Room, Tokyo on Sat, 5 Sept 2026.
+Kyoto Jazz Massive is a Jazz and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Room, Tokyo on Sat, 5 Sept 2026.
 
 Kyoto Jazz Massive is a jazz and club artist based in Japan, tracked on soundcheck, with 54 sets logged across Berlin, Kyoto, London and Osaka and 1 more. Often billed alongside Yoshihiro Okino, Masaki Tamura and Shuya Okino. Next up: The Room, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Kyoto Jazz Massive is a jazz and club artist based in Japan, tracked on soundche
 
 Yoshihiro Okino, Masaki Tamura, Shuya Okino
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyotojazzmassive/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kyotojazzmassive/)*

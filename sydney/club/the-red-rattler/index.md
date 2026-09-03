@@ -1,6 +1,6 @@
 # The Red Rattler
 
-The Red Rattler is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "LOCK & KEY IV: Bike Thief // ChooKi // Arsonist" on Thu, 3 Sept 2026.
+The Red Rattler is a music venue in Sydney with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "LOCK & KEY IV: Bike Thief // ChooKi // Arsonist" on Thu, 3 Sept 2026.
 
 The Red Rattler is a music venue in Sydney listed on soundcheck. 4 upcoming nights, with line-ups including Arsonist, Attu, Baschoe and Cristal No.5 and 2 more. Browse upcoming dates, start times and who's playing. 6 Faversham St, Marrickville NSW 2204, Australia.
 
@@ -17,4 +17,4 @@ The Red Rattler is a music venue in Sydney listed on soundcheck. 4 upcoming nigh
 
 6 Faversham St, Marrickville NSW 2204, Australia, Sydney
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*

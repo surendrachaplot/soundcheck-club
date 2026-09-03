@@ -1,6 +1,6 @@
 # La Machine Du Moulin Rouge
 
-La Machine Du Moulin Rouge is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Fervo Fluxo: GP da ZL + Twerkistan" on Sat, 5 Sept 2026.
+La Machine Du Moulin Rouge is a music venue in Paris with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Fervo Fluxo: GP da ZL + Twerkistan" on Sat, 5 Sept 2026.
 
 La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 5 upcoming nights, with line-ups including BETÏSES, Carla Schmitt, FLKN and LUNATIXX and 2 more. Browse upcoming dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
 
@@ -18,4 +18,4 @@ La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 5 upc
 
 90 boulevard de Clichy; 75018; Paris; France, Paris
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*

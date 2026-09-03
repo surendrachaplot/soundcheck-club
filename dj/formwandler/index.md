@@ -1,6 +1,6 @@
 # Formwandler
 
-Formwandler is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Funke, Ghent on Fri, 25 Sept 2026.
+Formwandler is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Funke, Ghent on Fri, 25 Sept 2026.
 
 Formwandler is a techno artist tracked on soundcheck, with 6 sets logged across Ghent. Often billed alongside Tim Strafinsky, Corvus Ex and Marie-Julie. Next up: Funke, Ghent on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Formwandler is a techno artist tracked on soundcheck, with 6 sets logged across 
 
 Tim Strafinsky, Corvus Ex, Marie-Julie
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formwandler/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formwandler/)*

@@ -1,6 +1,6 @@
 # 1TA (1)
 
-1TA (1) is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Live Haus, Tokyo on Tue, 22 Sept 2026.
+1TA (1) is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Live Haus, Tokyo on Tue, 22 Sept 2026.
 
 1TA (1) is a dub and bass artist based in Japan, tracked on soundcheck, with 25 sets logged across Osaka and Tokyo. Often billed alongside Element (3), Mars89 and ykah. Next up: Live Haus, Tokyo on Tue 22 Sept.
 
@@ -26,4 +26,4 @@
 
 Element (3), Mars89, ykah
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1ta-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1ta-1/)*

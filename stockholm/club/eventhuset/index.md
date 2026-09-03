@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "BRONX Bouncespecial: Paralich >> Nina Michelle >> MERILIN >> Holtter >> GT7 >> Nous Klear >> " on Sat, 5 Sept 2026.
+Eventhuset is a music venue in Stockholm with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "BRONX Bouncespecial: Paralich >> Nina Michelle >> MERILIN >> Holtter >> GT7 >> Nous Klear >> " on Sat, 5 Sept 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights, with line-ups including DJ Godfather, DJ KILLING, GT7 and DJ Hell and 2 more. Browse upcoming dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -18,4 +18,4 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 5 upcoming nights
 
 Vretensborgsvägen 5, 12630 Hägersten, Stockholm
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/eventhuset/)*

@@ -1,6 +1,6 @@
 # m-onz
 
-m-onz is a Jungle and Progressive House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
+m-onz is a Jungle and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
 
 m-onz is a jungle and progressive house artist tracked on soundcheck, with 13 sets logged across London and Tokyo. Often billed alongside SYNTƏL8, South London Bedroom Orchestra and Tyger Blue. Next up: M.O.T, London on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ m-onz is a jungle and progressive house artist tracked on soundcheck, with 13 se
 
 SYNTƏL8, South London Bedroom Orchestra, Tyger Blue
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m-onz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m-onz/)*

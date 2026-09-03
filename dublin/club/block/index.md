@@ -1,6 +1,6 @@
 # block.
 
-block. is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Block: Kyle Starkey & Tjade" on Fri, 4 Sept 2026.
+block. is a music venue in Dublin with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Block: Kyle Starkey & Tjade" on Fri, 4 Sept 2026.
 
 block. is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with line-ups including ADR (UK), ADR (US), Archie Hamilton and bernie soundmate and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
@@ -23,4 +23,4 @@ block. is a music venue in Dublin listed on soundcheck. 10 upcoming nights, with
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

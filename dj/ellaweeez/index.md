@@ -1,6 +1,6 @@
 # Ellaweeez
 
-Ellaweeez is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ormside Projects, London on Fri, 25 Sept 2026.
+Ellaweeez is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ormside Projects, London on Fri, 25 Sept 2026.
 
 Ellaweeez is a house and garage artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp and London. Often billed alongside Kojay, Ariane V and DJ Bone. Next up: Ormside Projects, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Ellaweeez is a house and garage artist based in United Kingdom, tracked on sound
 
 Kojay, Ariane V, DJ Bone
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaweeez/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaweeez/)*

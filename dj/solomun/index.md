@@ -1,6 +1,6 @@
 # Solomun
 
-Solomun is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Jardins de Joan Brossa, Barcelona on Sat, 5 Sept 2026.
+Solomun is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jardins de Joan Brossa, Barcelona on Sat, 5 Sept 2026.
 
 Solomun is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Chloé Caillet, DJ Tennis and Johannes Brecht. Next up: Jardins de Joan Brossa, Barcelona on Sat 5 Sept.
 
@@ -34,4 +34,4 @@ Solomun is a techno and house artist tracked on soundcheck, with 185 sets logged
 
 Chloé Caillet, DJ Tennis, Johannes Brecht
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*

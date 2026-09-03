@@ -1,6 +1,6 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at block., Dublin on Fri, 4 Sept 2026.
+Kyle Starkey is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at block., Dublin on Fri, 4 Sept 2026.
 
 Kyle Starkey is a techno and house artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside DART, Benwal and Faster Horses. Next up: block., Dublin on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Kyle Starkey is a techno and house artist tracked on soundcheck, with 167 sets l
 
 DART, Benwal, Faster Horses
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

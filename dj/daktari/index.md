@@ -1,6 +1,6 @@
 # daktari
 
-daktari is a Psytrance and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Het Sieraad, Amsterdam on Sat, 5 Sept 2026.
+daktari is a Psytrance and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Het Sieraad, Amsterdam on Sat, 5 Sept 2026.
 
 daktari is a psytrance and tech house artist tracked on soundcheck, with 5 sets logged across Amsterdam and Melbourne. Often billed alongside Indi Raeva. Next up: Het Sieraad, Amsterdam on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ daktari is a psytrance and tech house artist tracked on soundcheck, with 5 sets 
 
 Indi Raeva
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daktari/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daktari/)*

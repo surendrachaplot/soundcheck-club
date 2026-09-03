@@ -1,6 +1,6 @@
 # Miles X
 
-Miles X is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Noto Philadelphia, Philadelphia on Thu, 17 Sept 2026.
+Miles X is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Noto Philadelphia, Philadelphia on Thu, 17 Sept 2026.
 
 Miles X is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Brussels, London and Philadelphia and 1 more. Often billed alongside ARTEMIX, De León and JFK (USA). Next up: Noto Philadelphia, Philadelphia on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Miles X is a techno and house artist based in United States of America, tracked 
 
 ARTEMIX, De León, JFK (USA)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milesx/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milesx/)*

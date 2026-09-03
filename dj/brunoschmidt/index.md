@@ -1,6 +1,6 @@
 # Bruno Schmidt
 
-Bruno Schmidt is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
+Bruno Schmidt is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
 
 Bruno Schmidt is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Andrew James Gustav, Morgan and Magda. Next up: THE MAGICK BAR, Rome on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Bruno Schmidt is a house and techno artist tracked on soundcheck, with 146 sets 
 
 Andrew James Gustav, Morgan, Magda
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*

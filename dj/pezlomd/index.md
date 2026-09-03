@@ -1,6 +1,6 @@
 # Pezlo MD
 
-Pezlo MD is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+Pezlo MD is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
 
 Pezlo MD is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Miami. Often billed alongside AABEL, Cami di Marzo and Layla Benitez. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Pezlo MD is a house and techno artist based in United States of America, tracked
 
 AABEL, Cami di Marzo, Layla Benitez
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pezlomd/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pezlomd/)*

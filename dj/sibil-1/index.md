@@ -1,6 +1,6 @@
 # Sibil (1)
 
-Sibil (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
+Sibil (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 4 Sept 2026.
 
 Sibil (1) is a house and techno artist based in France, tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Boston and 30 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Sibil (1) is a house and techno artist based in France, tracked on soundcheck, w
 
 Mayell, Tau Car, O.BEE
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*

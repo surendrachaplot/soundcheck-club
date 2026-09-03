@@ -1,6 +1,6 @@
 # Butter
 
-Butter is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Sindustry Sundays: Labor Day Weekend • Jeff Straw" on Sun, 6 Sept 2026.
+Butter is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Sindustry Sundays: Labor Day Weekend • Jeff Straw" on Sun, 6 Sept 2026.
 
 Butter is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Jeff Straw. Browse upcoming dates, start times and who's playing. 354 11th St, San Francisco, CA, United States.
 
@@ -14,4 +14,4 @@ Butter is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, 
 
 354 11th St, San Francisco, CA, United States, San Francisco/Oakland
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/butter/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/butter/)*

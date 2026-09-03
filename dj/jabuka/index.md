@@ -1,6 +1,6 @@
 # Jabuka
 
-Jabuka is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+Jabuka is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 Jabuka is a tech house and techno artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Laigonen Kanonen, BERLIN and Better Call Paul. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Jabuka is a tech house and techno artist tracked on soundcheck, with 5 sets logg
 
 Laigonen Kanonen, BERLIN, Better Call Paul
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jabuka/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jabuka/)*

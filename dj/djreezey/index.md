@@ -1,6 +1,6 @@
 # DJ Reezey
 
-DJ Reezey is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bastet, Philadelphia on Fri, 25 Sept 2026.
+DJ Reezey is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bastet, Philadelphia on Fri, 25 Sept 2026.
 
 DJ Reezey is a club and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity and Philadelphia. Often billed alongside Traps N Trees, DJ Sega and DJ AyyMello. Next up: Bastet, Philadelphia on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Reezey is a club and techno artist based in United States of America, tracked
 
 Traps N Trees, DJ Sega, DJ AyyMello
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djreezey/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djreezey/)*

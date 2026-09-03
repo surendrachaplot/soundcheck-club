@@ -1,6 +1,6 @@
 # Dublon
 
-Dublon is a House and Jazz artist with 10 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Roundhouse, London on Sat, 12 Sept 2026.
+Dublon is a House and Jazz artist with 10 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Roundhouse, London on Sat, 12 Sept 2026.
 
 Dublon is a house and jazz artist based in Denmark, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 14 more. Often billed alongside Agathe Mougin, Amy Jor and Argia. Next up: The Roundhouse, London on Sat 12 Sept.
 
@@ -34,4 +34,4 @@ Dublon is a house and jazz artist based in Denmark, tracked on soundcheck, with 
 
 Agathe Mougin, Amy Jor, Argia
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*

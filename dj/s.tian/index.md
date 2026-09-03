@@ -1,6 +1,6 @@
 # S.Tian
 
-S.Tian is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+S.Tian is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 S.Tian is a techno and house artist tracked on soundcheck, with 59 sets logged across Prague. Often billed alongside Misha Jaru, Fatty M and Feenicks. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ S.Tian is a techno and house artist tracked on soundcheck, with 59 sets logged a
 
 Misha Jaru, Fatty M, Feenicks
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.tian/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.tian/)*

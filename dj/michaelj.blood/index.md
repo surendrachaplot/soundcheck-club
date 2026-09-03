@@ -1,6 +1,6 @@
 # Michael J. Blood
 
-Michael J. Blood is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at FOLD, London on Sat, 17 Oct 2026.
+Michael J. Blood is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at FOLD, London on Sat, 17 Oct 2026.
 
 Michael J. Blood is a house and experimental artist tracked on soundcheck, with 28 sets logged across Berlin, Bristol, Glasgow and Lisbon and 3 more. Often billed alongside Avsluta, Kai Campos and Luther Vine. Next up: FOLD, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Michael J. Blood is a house and experimental artist tracked on soundcheck, with 
 
 Avsluta, Kai Campos, Luther Vine
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelj.blood/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelj.blood/)*

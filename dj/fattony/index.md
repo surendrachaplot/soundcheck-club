@@ -1,6 +1,6 @@
 # Fattony
 
-Fattony is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 4 Sept 2026.
+Fattony is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 4 Sept 2026.
 
 Fattony is a house and tech house artist based in Germany, tracked on soundcheck, with 33 sets logged across Brighton, Glasgow, Ibiza and London and 5 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and Natasha Diggs. Next up: Amnesia Ibiza, Ibiza on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Fattony is a house and tech house artist based in Germany, tracked on soundcheck
 
 Horse Meat Disco, Melvo Baptiste, Natasha Diggs
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattony/)*

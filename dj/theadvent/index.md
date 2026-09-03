@@ -1,6 +1,6 @@
 # The Advent
 
-The Advent is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at RADION, Amsterdam on Sat, 5 Sept 2026.
+The Advent is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at RADION, Amsterdam on Sat, 5 Sept 2026.
 
 The Advent is a techno and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 35 more. Often billed alongside Nastia, Philippa Pacho and Stef Mendesidis. Next up: RADION, Amsterdam on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ The Advent is a techno and house artist tracked on soundcheck, with 92 sets logg
 
 Nastia, Philippa Pacho, Stef Mendesidis
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*

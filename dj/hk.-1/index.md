@@ -1,6 +1,6 @@
 # HK. (1)
 
-HK. (1) is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 17 Oct 2026.
+HK. (1) is a Trance and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 17 Oct 2026.
 
 HK. (1) is a trance and psytrance artist tracked on soundcheck, with 16 sets logged across Osaka and Tokyo. Often billed alongside WATARU, PONTA and PUSTER. Next up: ZEROTOKYO, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ HK. (1) is a trance and psytrance artist tracked on soundcheck, with 16 sets log
 
 WATARU, PONTA, PUSTER
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hk.-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hk.-1/)*

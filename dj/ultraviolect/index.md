@@ -1,6 +1,6 @@
 # Ultraviolect
 
-Ultraviolect is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Ultraviolect is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
 Ultraviolect is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside SALCHIKILLER, Amorelie and DTEXX. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Ultraviolect is a techno and trance artist based in Germany, tracked on soundche
 
 SALCHIKILLER, Amorelie, DTEXX
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultraviolect/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultraviolect/)*

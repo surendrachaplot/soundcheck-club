@@ -1,6 +1,6 @@
 # KC Grad
 
-KC Grad is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "XOTBOX" on Fri, 18 Sept 2026.
+KC Grad is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "XOTBOX" on Fri, 18 Sept 2026.
 
 KC Grad is a music venue in Belgrade listed on soundcheck. 3 upcoming nights, with line-ups including Paluma Sound and Shaolin Cowboy. Browse upcoming dates, start times and who's playing. Belgrade, 11000, Serbia.
 
@@ -16,4 +16,4 @@ KC Grad is a music venue in Belgrade listed on soundcheck. 3 upcoming nights, wi
 
 Belgrade, 11000, Serbia, Belgrade
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kc-grad/)*

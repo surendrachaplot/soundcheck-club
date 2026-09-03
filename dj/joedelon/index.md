@@ -1,6 +1,6 @@
 # Joe Delon
 
-Joe Delon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
+Joe Delon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
 
 Joe Delon is a house and techno artist based in United Kingdom, tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Berlin and Boston and 30 more. Often billed alongside Gwenan, Dana Kuehr and Nick Kagame. Next up: Tresor / Globus, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Joe Delon is a house and techno artist based in United Kingdom, tracked on sound
 
 Gwenan, Dana Kuehr, Nick Kagame
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joedelon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joedelon/)*

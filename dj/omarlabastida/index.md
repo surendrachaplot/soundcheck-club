@@ -1,6 +1,6 @@
 # Omar Labastida
 
-Omar Labastida is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bar Oriente, Mexico City on Thu, 3 Sept 2026.
+Omar Labastida is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar Oriente, Mexico City on Thu, 3 Sept 2026.
 
 Omar Labastida is a techno and house artist tracked on soundcheck, with 8 sets logged across Bangkok, Ibiza, London and Mexicocity and 1 more. Often billed alongside Andy Bennet, Carabetta and Carlo Lio. Next up: Bar Oriente, Mexicocity on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Omar Labastida is a techno and house artist tracked on soundcheck, with 8 sets l
 
 Andy Bennet, Carabetta, Carlo Lio
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omarlabastida/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omarlabastida/)*

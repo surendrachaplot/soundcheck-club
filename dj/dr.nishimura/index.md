@@ -1,6 +1,6 @@
 # Dr. Nishimura
 
-Dr. Nishimura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Dopo?Space, Milan on Sat, 5 Sept 2026.
+Dr. Nishimura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Dopo?Space, Milan on Sat, 5 Sept 2026.
 
 Dr. Nishimura is a techno and house artist based in Japan, tracked on soundcheck, with 35 sets logged across Hongkong, Kyoto, Milan and Osaka and 1 more. Often billed alongside Compuma, Akie and Chanaz. Next up: Dopo?Space, Milan on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Dr. Nishimura is a techno and house artist based in Japan, tracked on soundcheck
 
 Compuma, Akie, Chanaz
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.nishimura/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.nishimura/)*

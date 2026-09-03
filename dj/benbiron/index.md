@@ -1,6 +1,6 @@
 # Ben Biron
 
-Ben Biron is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at 2ten, Athens on Sat, 12 Sept 2026.
+Ben Biron is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 2ten, Athens on Sat, 12 Sept 2026.
 
 Ben Biron is a disco and balearic artist tracked on soundcheck, with 15 sets logged across Athens. Often billed alongside Thodoris Triantafillou, Yodik and Another Jim. Next up: 2ten, Athens on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ben Biron is a disco and balearic artist tracked on soundcheck, with 15 sets log
 
 Thodoris Triantafillou, Yodik, Another Jim
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benbiron/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benbiron/)*

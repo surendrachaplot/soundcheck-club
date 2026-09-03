@@ -1,6 +1,6 @@
 # TBA - MATRIARCH LA
 
-TBA - MATRIARCH LA is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Among Friends presents: Nandu" on Fri, 18 Sept 2026.
+TBA - MATRIARCH LA is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Among Friends presents: Nandu" on Fri, 18 Sept 2026.
 
 TBA - MATRIARCH LA is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including HBB (US) and Nandu. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - MATRIARCH LA is a music venue in Losangeles listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Among Friends presents: Nandu | HBB (US), Nandu |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-matriarch-la/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-matriarch-la/)*

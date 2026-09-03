@@ -1,6 +1,6 @@
 # Kill The Noise
 
-Kill The Noise is a House and Dubstep artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Ministry Of Sound, London on Fri, 16 Oct 2026.
+Kill The Noise is a House and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ministry Of Sound, London on Fri, 16 Oct 2026.
 
 Kill The Noise is a house and dubstep artist tracked on soundcheck, with 5 sets logged across London, Losangeles and Seattle. Often billed alongside Benny Benassi, Black Tiger Sex Machine and 999999999. Next up: Ministry Of Sound, London on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Kill The Noise is a house and dubstep artist tracked on soundcheck, with 5 sets 
 
 Benny Benassi, Black Tiger Sex Machine, 999999999
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killthenoise/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killthenoise/)*

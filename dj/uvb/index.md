@@ -1,6 +1,6 @@
 # UVB
 
-UVB is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+UVB is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
 UVB is a techno and house artist based in France, tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Austin and Barcelona and 22 more. Often billed alongside Bas Mooy, Virginia and Ancient Methods. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ UVB is a techno and house artist based in France, tracked on soundcheck, with 58
 
 Bas Mooy, Virginia, Ancient Methods
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uvb/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uvb/)*

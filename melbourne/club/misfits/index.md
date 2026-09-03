@@ -1,6 +1,6 @@
 # Misfits
 
-Misfits is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "UNDERBRSOUND x MISFITS" on Fri, 4 Sept 2026.
+Misfits is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "UNDERBRSOUND x MISFITS" on Fri, 4 Sept 2026.
 
 Misfits is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including bbsanii. Browse upcoming dates, start times and who's playing. 30 Chambers St, Footscray VIC 3011, Australia.
 
@@ -16,4 +16,4 @@ Misfits is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, w
 
 30 Chambers St, Footscray VIC 3011, Australia, Melbourne
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/misfits/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/misfits/)*

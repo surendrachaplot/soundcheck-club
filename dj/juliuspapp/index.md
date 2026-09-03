@@ -1,6 +1,6 @@
 # Julius Papp
 
-Julius Papp is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
+Julius Papp is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
 
 Julius Papp is a disco and house artist tracked on soundcheck, with 21 sets logged across Sanfrancisco. Often billed alongside Franky Boissy, Miguel Migs and Duserock. Next up: The Midway, Sanfrancisco on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Julius Papp is a disco and house artist tracked on soundcheck, with 21 sets logg
 
 Franky Boissy, Miguel Migs, Duserock
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliuspapp/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliuspapp/)*

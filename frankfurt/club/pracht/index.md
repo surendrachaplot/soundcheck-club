@@ -1,6 +1,6 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "feierabend. with Jago" on Thu, 3 Sept 2026.
+Pracht is a music venue in Frankfurt with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "feierabend. with Jago" on Thu, 3 Sept 2026.
 
 Pracht is a music venue in Frankfurt listed on soundcheck. 4 upcoming nights, with line-ups including BIANCA BLANCO, Dario Milkovic, Diass and INAN BATMAN and 2 more. Browse upcoming dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
@@ -17,4 +17,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 4 upcoming nights, wi
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

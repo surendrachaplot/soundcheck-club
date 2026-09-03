@@ -1,6 +1,6 @@
 # Luís Afonso
 
-Luís Afonso is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Plano B, Porto on Thu, 17 Sept 2026.
+Luís Afonso is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Plano B, Porto on Thu, 17 Sept 2026.
 
 Luís Afonso is a house and techno artist based in Portugal, tracked on soundcheck, with 10 sets logged across Porto. Often billed alongside Alfonsvs, Adriana Ruas and Nuno Carneiro. Next up: Plano B, Porto on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Luís Afonso is a house and techno artist based in Portugal, tracked on soundche
 
 Alfonsvs, Adriana Ruas, Nuno Carneiro
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luísafonso/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luísafonso/)*

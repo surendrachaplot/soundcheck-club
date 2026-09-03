@@ -1,6 +1,6 @@
 # Printhouse
 
-Printhouse is a music venue in Munich with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Printhouse OPEN AIR" on Sat, 5 Sept 2026.
+Printhouse is a music venue in Munich with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Printhouse OPEN AIR" on Sat, 5 Sept 2026.
 
 Printhouse is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including DASCO, Euphrat and Nathalie Seres. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Printhouse is a music venue in Munich listed on soundcheck. 1 upcoming night, wi
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Printhouse OPEN AIR | DASCO, Euphrat, Nathalie Seres |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/printhouse/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/printhouse/)*

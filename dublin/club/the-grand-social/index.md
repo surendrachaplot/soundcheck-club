@@ -1,6 +1,6 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Simbiotico present Overdrive" on Fri, 4 Sept 2026.
+The Grand Social is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Simbiotico present Overdrive" on Fri, 4 Sept 2026.
 
 The Grand Social is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including Nialler9 and WINSLAO. Browse upcoming dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
@@ -20,4 +20,4 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 7 upcoming nig
 
 35 Lower Liffey Street, Dublin, Ireland, Dublin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*

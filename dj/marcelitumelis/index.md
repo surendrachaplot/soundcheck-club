@@ -1,6 +1,6 @@
 # marcelitumelis
 
-marcelitumelis is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 18 Sept 2026.
+marcelitumelis is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 18 Sept 2026.
 
 marcelitumelis is a techno and trance artist tracked on soundcheck, with 26 sets logged across Hamburg, Krakow and Warsaw. Often billed alongside xcessive, VRAXX and Józef Keuner. Next up: STK 47 WAREHOUSE, Krakow on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ marcelitumelis is a techno and trance artist tracked on soundcheck, with 26 sets
 
 xcessive, VRAXX, Józef Keuner
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelitumelis/)*

@@ -1,6 +1,6 @@
 # ShinyLight
 
-ShinyLight is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Shelter, Seoul on Fri, 4 Sept 2026.
+ShinyLight is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Shelter, Seoul on Fri, 4 Sept 2026.
 
 ShinyLight is a house and tech house artist tracked on soundcheck, with 14 sets logged across Seoul and Tokyo. Often billed alongside Better, HAO(KR) and Liza (KR). Next up: Shelter, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ ShinyLight is a house and tech house artist tracked on soundcheck, with 14 sets 
 
 Better, HAO(KR), Liza (KR)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shinylight/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shinylight/)*

@@ -1,6 +1,6 @@
 # Shlomsen
 
-Shlomsen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Birgit, Berlin on Fri, 4 Sept 2026.
+Shlomsen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Birgit, Berlin on Fri, 4 Sept 2026.
 
 Shlomsen is a techno and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Sommersonnenwende, Coco and DJ Lion. Next up: Birgit, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Shlomsen is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Sommersonnenwende, Coco, DJ Lion
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shlomsen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shlomsen/)*

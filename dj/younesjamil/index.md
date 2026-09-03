@@ -1,6 +1,6 @@
 # Younes Jamil
 
-Younes Jamil is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tresor / Globus, Berlin on Wed, 7 Oct 2026.
+Younes Jamil is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Wed, 7 Oct 2026.
 
 Younes Jamil is a techno and trance artist tracked on soundcheck, with 28 sets logged across Berlin, Hamburg and Vienna. Often billed alongside Carl Raban, Frischling and Multifun. Next up: Tresor / Globus, Berlin on Wed 7 Oct.
 
@@ -25,4 +25,4 @@ Younes Jamil is a techno and trance artist tracked on soundcheck, with 28 sets l
 
 Carl Raban, Frischling, Multifun
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/younesjamil/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/younesjamil/)*

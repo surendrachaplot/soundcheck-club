@@ -1,6 +1,6 @@
 # Gutwrench
 
-Gutwrench is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Val’s Lesbian Bar, Philadelphia on Fri, 4 Sept 2026.
+Gutwrench is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Val’s Lesbian Bar, Philadelphia on Fri, 4 Sept 2026.
 
 Gutwrench is a techno and house artist tracked on soundcheck, with 10 sets logged across Philadelphia. Often billed alongside Dentadura, Nail Salon (2) and ONEELEVEN. Next up: Val’s Lesbian Bar, Philadelphia on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Gutwrench is a techno and house artist tracked on soundcheck, with 10 sets logge
 
 Dentadura, Nail Salon (2), ONEELEVEN
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gutwrench/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gutwrench/)*

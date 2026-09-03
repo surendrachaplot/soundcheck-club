@@ -1,6 +1,6 @@
 # Isa Roos
 
-Isa Roos is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Isa Roos is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Isa Roos is an afro house and house artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Antwerp, Athens and Brussels and 3 more. Often billed alongside AJNA, Deer Jade and Kasango. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Isa Roos is an afro house and house artist based in Netherlands, tracked on soun
 
 AJNA, Deer Jade, Kasango
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaroos/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaroos/)*

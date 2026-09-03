@@ -1,6 +1,6 @@
 # Laura Sí
 
-Laura Sí is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 11 Sept 2026.
+Laura Sí is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 11 Sept 2026.
 
 Laura Sí is a techno and house artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Dorsch, Pilar Jordan and Ella Stracciatella. Next up: Jonny Knüppel, Berlin on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Laura Sí is a techno and house artist tracked on soundcheck, with 7 sets logged
 
 Dorsch, Pilar Jordan, Ella Stracciatella
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurasí/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurasí/)*

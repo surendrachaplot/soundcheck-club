@@ -1,6 +1,6 @@
 # bemira
 
-bemira is a Techno and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Illegaal, Brussels on Fri, 25 Sept 2026.
+bemira is a Techno and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Illegaal, Brussels on Fri, 25 Sept 2026.
 
 bemira is a techno and jazz artist based in Belgium, tracked on soundcheck, with 24 sets logged across Brussels. Often billed alongside ATARAXY, Holiness and Oxtazz. Next up: Illegaal, Brussels on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ bemira is a techno and jazz artist based in Belgium, tracked on soundcheck, with
 
 ATARAXY, Holiness, Oxtazz
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bemira/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bemira/)*

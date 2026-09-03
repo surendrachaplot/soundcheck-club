@@ -1,6 +1,6 @@
 # nili8
 
-nili8 is a Drum & Bass and IDM artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Knust, Hamburg on Sat, 12 Sept 2026.
+nili8 is a Drum & Bass and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Knust, Hamburg on Sat, 12 Sept 2026.
 
 nili8 is a drum & bass and idm artist tracked on soundcheck, with 4 sets logged across Hamburg. Often billed alongside pruefunke, Alphabae and Anne-Lu. Next up: Knust, Hamburg on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ nili8 is a drum & bass and idm artist tracked on soundcheck, with 4 sets logged 
 
 pruefunke, Alphabae, Anne-Lu
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nili8/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nili8/)*

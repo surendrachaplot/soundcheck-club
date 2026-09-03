@@ -1,6 +1,6 @@
 # Simonetti
 
-Simonetti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
+Simonetti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri, 11 Sept 2026.
 
 Simonetti is a house and techno artist tracked on soundcheck, with 54 sets logged across Losangeles, Madrid, Melbourne and Miami and 4 more. Often billed alongside Jesse DM, Mike Simonetti and Jo Christy. Next up: TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Simonetti is a house and techno artist tracked on soundcheck, with 54 sets logge
 
 Jesse DM, Mike Simonetti, Jo Christy
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonetti/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonetti/)*

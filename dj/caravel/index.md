@@ -1,6 +1,6 @@
 # CARAVEL
 
-CARAVEL is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Le Sucre, Lyon on Sun, 6 Sept 2026.
+CARAVEL is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Le Sucre, Lyon on Sun, 6 Sept 2026.
 
 CARAVEL is a techno and industrial artist tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Tham, Cassie Raptor and KØZLØV. Next up: Le Sucre, Lyon on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ CARAVEL is a techno and industrial artist tracked on soundcheck, with 119 sets l
 
 Tham, Cassie Raptor, KØZLØV
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caravel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caravel/)*

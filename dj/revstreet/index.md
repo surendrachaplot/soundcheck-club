@@ -1,6 +1,6 @@
 # Revstreet
 
-Revstreet is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Palais, London on Sun, 20 Sept 2026.
+Revstreet is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Palais, London on Sun, 20 Sept 2026.
 
 Revstreet is a garage and house artist tracked on soundcheck, with 42 sets logged across Brighton, Leeds and London. Often billed alongside Paddy Cotter, Oldfield and Delano (UK). Next up: Palais, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Revstreet is a garage and house artist tracked on soundcheck, with 42 sets logge
 
 Paddy Cotter, Oldfield, Delano (UK)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/revstreet/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/revstreet/)*

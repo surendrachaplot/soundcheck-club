@@ -1,6 +1,6 @@
 # Kalopsia
 
-Kalopsia is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 19 Sept 2026.
+Kalopsia is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 19 Sept 2026.
 
 Kalopsia is a techno and breakbeat artist tracked on soundcheck, with 27 sets logged across Brussels, Edinburgh and Glasgow. Often billed alongside manu_facturer, 3SBAT and Lockedback. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Kalopsia is a techno and breakbeat artist tracked on soundcheck, with 27 sets lo
 
 manu_facturer, 3SBAT, Lockedback
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalopsia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalopsia/)*

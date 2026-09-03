@@ -1,6 +1,6 @@
 # Lumbago
 
-Lumbago is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Nouveau Parc des Berges, Lyon on Sat, 12 Sept 2026.
+Lumbago is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Nouveau Parc des Berges, Lyon on Sat, 12 Sept 2026.
 
 Lumbago is a techno and house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Boston and Brussels and 4 more. Often billed alongside Maelita, Master c-fu and oror. Next up: Nouveau Parc des Berges, Lyon on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lumbago is a techno and house artist tracked on soundcheck, with 52 sets logged 
 
 Maelita, Master c-fu, oror
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumbago/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lumbago/)*

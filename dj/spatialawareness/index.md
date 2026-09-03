@@ -1,6 +1,6 @@
 # Spatial Awareness
 
-Spatial Awareness is a Balearic and Acid artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Spatial Awareness is a Balearic and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Spatial Awareness is a balearic and acid artist tracked on soundcheck, with 11 sets logged across Brighton, Glasgow, London and Philadelphia. Often billed alongside 1morning, Alex Zhang Hungtai and Arthur (DE). Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Spatial Awareness is a balearic and acid artist tracked on soundcheck, with 11 s
 
 1morning, Alex Zhang Hungtai, Arthur (DE)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spatialawareness/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spatialawareness/)*

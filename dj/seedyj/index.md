@@ -1,6 +1,6 @@
 # Seedy J
 
-Seedy J is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Signal, New York City on Sat, 19 Sept 2026.
+Seedy J is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Signal, New York City on Sat, 19 Sept 2026.
 
 Seedy J is a balearic and house artist tracked on soundcheck, with 54 sets logged across Mexicocity, Newyorkcity, Philadelphia and Sanfrancisco and 1 more. Often billed alongside Fernelly, Brian Vino and Extra Meesh. Next up: Signal, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Seedy J is a balearic and house artist tracked on soundcheck, with 54 sets logge
 
 Fernelly, Brian Vino, Extra Meesh
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seedyj/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seedyj/)*

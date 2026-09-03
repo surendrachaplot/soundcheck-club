@@ -1,6 +1,6 @@
 # ex.sses
 
-ex.sses is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at radial, London on Sat, 19 Sept 2026.
+ex.sses is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at radial, London on Sat, 19 Sept 2026.
 
 ex.sses is a bass and experimental artist tracked on soundcheck, with 47 sets logged across Amsterdam, Bristol, Brussels and London and 4 more. Often billed alongside Anjali (2), Grady Steele and Alo3. Next up: radial, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ ex.sses is a bass and experimental artist tracked on soundcheck, with 47 sets lo
 
 Anjali (2), Grady Steele, Alo3
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ex.sses/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ex.sses/)*

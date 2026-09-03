@@ -1,6 +1,6 @@
 # Kiko (2)
 
-Kiko (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Mia Mao, Paris on Fri, 18 Sept 2026.
+Kiko (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mia Mao, Paris on Fri, 18 Sept 2026.
 
 Kiko (2) is a techno and trance artist based in Portugal, tracked on soundcheck, with 6 sets logged across Frankfurt, Lisbon, Miami and Paris. Often billed alongside ANN-LUX, Formale Bassgestaltung and Kacy. Next up: Mia Mao, Paris on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Kiko (2) is a techno and trance artist based in Portugal, tracked on soundcheck,
 
 ANN-LUX, Formale Bassgestaltung, Kacy
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko-2-pt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko-2-pt/)*

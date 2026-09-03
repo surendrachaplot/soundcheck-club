@@ -1,6 +1,6 @@
 # Jad (DE)
 
-Jad (DE) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Marmorbar, Berlin on Fri, 4 Sept 2026.
+Jad (DE) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Marmorbar, Berlin on Fri, 4 Sept 2026.
 
 Jad (DE) is a house and deep house artist tracked on soundcheck, with 5 sets logged across Berlin, Dublin and Miami. Often billed alongside AGA BORYN, Anaya and Cynthia Matisse. Next up: Marmorbar, Berlin on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Jad (DE) is a house and deep house artist tracked on soundcheck, with 5 sets log
 
 AGA BORYN, Anaya, Cynthia Matisse
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jad-de/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jad-de/)*

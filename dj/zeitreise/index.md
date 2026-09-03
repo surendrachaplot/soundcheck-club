@@ -1,6 +1,6 @@
 # Zeitreise
 
-Zeitreise is a electronic artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 27 Nov 2026.
+Zeitreise is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 27 Nov 2026.
 
 Zeitreise is an electronic artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 2 more. Often billed alongside Skumring_, Carmilla Sioux and Desert Drone. Next up: STK 47 WAREHOUSE, Krakow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Zeitreise is an electronic artist tracked on soundcheck, with 13 sets logged acr
 
 Skumring_, Carmilla Sioux, Desert Drone
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeitreise/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeitreise/)*

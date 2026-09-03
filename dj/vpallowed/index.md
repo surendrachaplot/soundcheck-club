@@ -1,6 +1,6 @@
 # vp allowed
 
-vp allowed is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at MODULE, Copenhagen on Sat, 12 Sept 2026.
+vp allowed is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at MODULE, Copenhagen on Sat, 12 Sept 2026.
 
 vp allowed is a techno and trance artist based in Italy, tracked on soundcheck, with 53 sets logged across Berlin, Budapest, Copenhagen and Geneva and 4 more. Often billed alongside Agata (PL), Elios and LUCKY4U. Next up: MODULE, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ vp allowed is a techno and trance artist based in Italy, tracked on soundcheck, 
 
 Agata (PL), Elios, LUCKY4U
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vpallowed/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vpallowed/)*

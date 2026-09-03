@@ -1,6 +1,6 @@
 # Simon Slieker
 
-Simon Slieker is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Collingwood Basement, Melbourne on Sat, 12 Sept 2026.
+Simon Slieker is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Collingwood Basement, Melbourne on Sat, 12 Sept 2026.
 
 Simon Slieker is a techno and house artist based in Australia, tracked on soundcheck, with 17 sets logged across Melbourne. Often billed alongside Ranjit Nijjer, Andrew Till and cuznmatt. Next up: Collingwood Basement, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Simon Slieker is a techno and house artist based in Australia, tracked on soundc
 
 Ranjit Nijjer, Andrew Till, cuznmatt
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonslieker/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonslieker/)*

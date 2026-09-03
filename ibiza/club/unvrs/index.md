@@ -1,6 +1,6 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 37 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Jamie Jones Paradise" on Wed, 2 Sept 2026.
+[UNVRS] is a music venue in Ibiza with 37 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Jamie Jones Paradise" on Wed, 2 Sept 2026.
 
 [UNVRS] is a music venue in Ibiza listed on soundcheck. 37 upcoming nights, with line-ups including Adriatique, Agents Of Time, Alan Fitzpatrick and Amelie Lens and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
@@ -23,4 +23,4 @@
 
 Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands, Ibiza
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/unvrs/)*

@@ -1,6 +1,6 @@
 # UNZHA
 
-UNZHA is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 4 Sept 2026.
+UNZHA is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 4 Sept 2026.
 
 UNZHA is a house and breakbeat artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin, Frankfurt, Hamburg and Prague. Often billed alongside DJ SOURCE, Tana (2) and yamagucci42. Next up: Jonny Knüppel, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ UNZHA is a house and breakbeat artist based in Germany, tracked on soundcheck, w
 
 DJ SOURCE, Tana (2), yamagucci42
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unzha/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unzha/)*

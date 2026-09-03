@@ -1,6 +1,6 @@
 # Ben hauke
 
-Ben hauke is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Grow, London on Fri, 4 Sept 2026.
+Ben hauke is a Broken Beat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Grow, London on Fri, 4 Sept 2026.
 
 Ben hauke is a broken beat and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 3 more. Often billed alongside Saige Sounds, Komanche and Ella Knight. Next up: Grow, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ben hauke is a broken beat and house artist tracked on soundcheck, with 27 sets 
 
 Saige Sounds, Komanche, Ella Knight
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benhauke/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benhauke/)*

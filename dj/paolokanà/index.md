@@ -1,6 +1,6 @@
 # Paolo Kanà
 
-Paolo Kanà is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Itaca, Ibiza on Sat, 12 Sept 2026.
+Paolo Kanà is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Itaca, Ibiza on Sat, 12 Sept 2026.
 
 Paolo Kanà is a house and disco artist tracked on soundcheck, with 5 sets logged across Ibiza. Often billed alongside David Carro, Axel Crew and Ricky Montana. Next up: Itaca, Ibiza on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Paolo Kanà is a house and disco artist tracked on soundcheck, with 5 sets logge
 
 David Carro, Axel Crew, Ricky Montana
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paolokanà/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paolokanà/)*

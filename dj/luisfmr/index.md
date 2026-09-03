@@ -1,6 +1,6 @@
 # Luis FMR
 
-Luis FMR is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Ministerium Club, Lisbon on Fri, 4 Sept 2026.
+Luis FMR is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ministerium Club, Lisbon on Fri, 4 Sept 2026.
 
 Luis FMR is a techno and dub techno artist based in Portugal, tracked on soundcheck, with 19 sets logged across Berlin, Lisbon and Porto. Often billed alongside Hypnotic Black Magic, Enkō and Lateral Movement. Next up: Ministerium Club, Lisbon on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Luis FMR is a techno and dub techno artist based in Portugal, tracked on soundch
 
 Hypnotic Black Magic, Enkō, Lateral Movement
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luisfmr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luisfmr/)*

@@ -1,6 +1,6 @@
 # I Am Me
 
-I Am Me is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Uptown Lounge, Chicago on Sat, 5 Sept 2026.
+I Am Me is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Uptown Lounge, Chicago on Sat, 5 Sept 2026.
 
 I Am Me is a house and deep house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Barcelona and Chicago. Often billed alongside Pat Fee, Alex Kislov and Branko (DJ). Next up: Uptown Lounge, Chicago on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ I Am Me is a house and deep house artist based in United States of America, trac
 
 Pat Fee, Alex Kislov, Branko (DJ)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iamme/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iamme/)*

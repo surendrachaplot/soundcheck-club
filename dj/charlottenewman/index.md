@@ -1,6 +1,6 @@
 # Charlotte Newman
 
-Charlotte Newman is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Kilomètre25, Paris on Thu, 3 Sept 2026.
+Charlotte Newman is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kilomètre25, Paris on Thu, 3 Sept 2026.
 
 Charlotte Newman is a techno artist tracked on soundcheck, with 8 sets logged across Ibiza, Lisbon and Paris. Often billed alongside DJ Angel (1), Marcelo Demarco and Alignment. Next up: Kilomètre25, Paris on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Charlotte Newman is a techno artist tracked on soundcheck, with 8 sets logged ac
 
 DJ Angel (1), Marcelo Demarco, Alignment
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottenewman/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottenewman/)*

@@ -1,6 +1,6 @@
 # Mr Cozzo
 
-Mr Cozzo is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Nouveau Casino, Paris on Fri, 4 Sept 2026.
+Mr Cozzo is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nouveau Casino, Paris on Fri, 4 Sept 2026.
 
 Mr Cozzo is a techno and electro artist based in France, tracked on soundcheck, with 30 sets logged across Berlin, Paris and Rome. Often billed alongside Ben Manson, High Low and Hugo Prime. Next up: Nouveau Casino, Paris on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Mr Cozzo is a techno and electro artist based in France, tracked on soundcheck, 
 
 Ben Manson, High Low, Hugo Prime
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrcozzo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrcozzo/)*

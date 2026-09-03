@@ -1,6 +1,6 @@
 # charis
 
-charis is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Tresor / Globus, Berlin on Wed, 23 Sept 2026.
+charis is a Drum & Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Wed, 23 Sept 2026.
 
 charis is a drum & bass and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Leipzig and London. Often billed alongside Sparkly Pony, 000vda and ANTHRAZIT. Next up: Tresor / Globus, Berlin on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ charis is a drum & bass and house artist based in Germany, tracked on soundcheck
 
 Sparkly Pony, 000vda, ANTHRAZIT
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charis/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charis/)*

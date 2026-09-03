@@ -1,6 +1,6 @@
 # Freak Out!
 
-Freak Out! is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jupiter Disco, New York City on Fri, 4 Sept 2026.
+Freak Out! is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jupiter Disco, New York City on Fri, 4 Sept 2026.
 
 Freak Out! is an acid and disco artist based in United States of America, tracked on soundcheck, with 5 sets logged across Berlin, Newyorkcity and Portland. Often billed alongside Wormbox, Barbara Boeing and Break Mode. Next up: Jupiter Disco, Newyorkcity on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Freak Out! is an acid and disco artist based in United States of America, tracke
 
 Wormbox, Barbara Boeing, Break Mode
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freakout-usa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freakout-usa/)*

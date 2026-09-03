@@ -1,6 +1,6 @@
 # Razrbark
 
-Razrbark is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Mansions, New York City on Thu, 3 Sept 2026.
+Razrbark is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mansions, New York City on Thu, 3 Sept 2026.
 
 Razrbark is a techno and house artist tracked on soundcheck, with 22 sets logged across Losangeles, Newyorkcity and Seattle. Often billed alongside Larry Termite, Alien D and Day Cart. Next up: Mansions, Newyorkcity on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Razrbark is a techno and house artist tracked on soundcheck, with 22 sets logged
 
 Larry Termite, Alien D, Day Cart
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/razrbark/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/razrbark/)*

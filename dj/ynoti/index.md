@@ -1,6 +1,6 @@
 # yNOTi
 
-yNOTi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Jupiter Disco, New York City on Sun, 27 Sept 2026.
+yNOTi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jupiter Disco, New York City on Sun, 27 Sept 2026.
 
 yNOTi is a techno and tech house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Losangeles, Newyorkcity, Sanfrancisco and Toronto. Often billed alongside Bad Boombox, Johannes Schuster and Mischluft. Next up: Jupiter Disco, Newyorkcity on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ yNOTi is a techno and tech house artist based in United States of America, track
 
 Bad Boombox, Johannes Schuster, Mischluft
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ynoti/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ynoti/)*

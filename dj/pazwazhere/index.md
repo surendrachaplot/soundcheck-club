@@ -1,6 +1,6 @@
 # PAZ WAZ HERE
 
-PAZ WAZ HERE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Carmo Rooftop, Lisbon on Fri, 11 Sept 2026.
+PAZ WAZ HERE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Carmo Rooftop, Lisbon on Fri, 11 Sept 2026.
 
 PAZ WAZ HERE is a house and techno artist based in Portugal, tracked on soundcheck, with 60 sets logged across Barcelona and Lisbon. Often billed alongside Rele, Alexxx and XipNoize. Next up: Carmo Rooftop, Lisbon on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ PAZ WAZ HERE is a house and techno artist based in Portugal, tracked on soundche
 
 Rele, Alexxx, XipNoize
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pazwazhere/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pazwazhere/)*

@@ -1,6 +1,6 @@
 # Moon Ki
 
-Moon Ki is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Blank Site, Seoul on Sat, 12 Sept 2026.
+Moon Ki is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Blank Site, Seoul on Sat, 12 Sept 2026.
 
 Moon Ki is a techno and breakbeat artist tracked on soundcheck, with 25 sets logged across Seoul. Often billed alongside Yetsuby, Arexibo and Faacia. Next up: Blank Site, Seoul on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Moon Ki is a techno and breakbeat artist tracked on soundcheck, with 25 sets log
 
 Yetsuby, Arexibo, Faacia
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moonki/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moonki/)*

@@ -1,6 +1,6 @@
 # Fabrique im Gängeviertel
 
-Fabrique im Gängeviertel is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "OPEN DECKS at Gängeviertel" on Wed, 2 Sept 2026.
+Fabrique im Gängeviertel is a music venue in Hamburg with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "OPEN DECKS at Gängeviertel" on Wed, 2 Sept 2026.
 
 Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 6 upcoming nights, with line-ups including Coco (2), Cornyjava, EXPLICIT and Fab Massimo and 2 more. Browse upcoming dates, start times and who's playing. Valentinskamp 34A, 20355 Hamburg, Germany.
 
@@ -19,4 +19,4 @@ Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 6 up
 
 Valentinskamp 34A, 20355 Hamburg, Germany, Hamburg
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*

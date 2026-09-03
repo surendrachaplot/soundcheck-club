@@ -1,6 +1,6 @@
 # Parvex
 
-Parvex is a Broken Beat and UK Funky artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Last Arch, London on Fri, 11 Sept 2026.
+Parvex is a Broken Beat and UK Funky artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Last Arch, London on Fri, 11 Sept 2026.
 
 Parvex is a broken beat and uk funky artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside Samtheman, LILA (1) and Last Nubian. Next up: Last Arch, London on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Parvex is a broken beat and uk funky artist tracked on soundcheck, with 5 sets l
 
 Samtheman, LILA (1), Last Nubian
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parvex/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parvex/)*

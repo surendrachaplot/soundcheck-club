@@ -1,6 +1,6 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 29 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Original Silk" on Wed, 2 Sept 2026.
+Macarena Club is a music venue in Barcelona with 29 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Original Silk" on Wed, 2 Sept 2026.
 
 Macarena Club is a music venue in Barcelona listed on soundcheck. 29 upcoming nights, with line-ups including Jo-Sie, Belu Rodriguez, Brizas and C.MØ and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 29 upcoming ni
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

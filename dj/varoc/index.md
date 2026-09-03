@@ -1,6 +1,6 @@
 # Varoc
 
-Varoc is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Sala El Sol, Madrid on Sat, 5 Sept 2026.
+Varoc is a Electronica and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sala El Sol, Madrid on Sat, 5 Sept 2026.
 
 Varoc is an electronica and tech house artist based in Spain, tracked on soundcheck, with 7 sets logged across Ibiza, Madrid and Milan. Often billed alongside Michael Sanchez, Felix Da Funk and Richi Risco. Next up: Sala El Sol, Madrid on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Varoc is an electronica and tech house artist based in Spain, tracked on soundch
 
 Michael Sanchez, Felix Da Funk, Richi Risco
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varoc/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varoc/)*

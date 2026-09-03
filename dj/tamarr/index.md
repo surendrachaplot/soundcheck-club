@@ -1,6 +1,6 @@
 # TAMARR
 
-TAMARR is a Post-Punk and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 25 Sept 2026.
+TAMARR is a Post-Punk and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 25 Sept 2026.
 
 TAMARR is a post-punk and hip-hop artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Ina Vietha, CHUKWU and DJSOULSEEK. Next up: Alte Feuerwache THF, Berlin on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ TAMARR is a post-punk and hip-hop artist tracked on soundcheck, with 8 sets logg
 
 Ina Vietha, CHUKWU, DJSOULSEEK
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamarr/)*

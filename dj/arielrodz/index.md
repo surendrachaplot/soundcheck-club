@@ -1,6 +1,6 @@
 # Ariel Rodz
 
-Ariel Rodz is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Dune Park, Buenos Aires on Sat, 12 Sept 2026.
+Ariel Rodz is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Dune Park, Buenos Aires on Sat, 12 Sept 2026.
 
 Ariel Rodz is a tech house and minimal artist based in Argentina, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 1 more. Often billed alongside Paco Osuna, The Martinez Brothers and AJ Christou. Next up: Dune Park, Buenosaires on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Ariel Rodz is a tech house and minimal artist based in Argentina, tracked on sou
 
 Paco Osuna, The Martinez Brothers, AJ Christou
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arielrodz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arielrodz/)*

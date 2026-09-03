@@ -1,6 +1,6 @@
 # The Bernard Shaw
 
-The Bernard Shaw is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Paint Records Open Air Day Party" on Sat, 5 Sept 2026.
+The Bernard Shaw is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Paint Records Open Air Day Party" on Sat, 5 Sept 2026.
 
 The Bernard Shaw is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including Accomplice, Aram, Catz 'N Dogz and Egyptian Lover and 2 more. Browse upcoming dates, start times and who's playing. Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44.
 
@@ -20,4 +20,4 @@ The Bernard Shaw is a music venue in Dublin listed on soundcheck. 7 upcoming nig
 
 Cross Guns Bridge, Glasnevin, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-bernard-shaw/)*

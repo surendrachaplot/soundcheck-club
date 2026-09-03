@@ -1,6 +1,6 @@
 # Regent
 
-Regent is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
+Regent is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
 
 Regent is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Bali, Berlin and Dortmund-essen and 14 more. Often billed alongside SHDW, Chontane and Hemka. Next up: Junkyard Dortmund, Dortmund-essen on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Regent is a techno and house artist tracked on soundcheck, with 40 sets logged a
 
 SHDW, Chontane, Hemka
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*

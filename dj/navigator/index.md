@@ -1,6 +1,6 @@
 # Navigator
 
-Navigator is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+Navigator is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
 Navigator is a jungle and drum & bass artist tracked on soundcheck, with 55 sets logged across Amsterdam, Birmingham, Bristol and London and 1 more. Often billed alongside Nicky Blackmarket, Deekline and IC3. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Navigator is a jungle and drum & bass artist tracked on soundcheck, with 55 sets
 
 Nicky Blackmarket, Deekline, IC3
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/navigator/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/navigator/)*

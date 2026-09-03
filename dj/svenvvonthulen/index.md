@@ -1,6 +1,6 @@
 # Sven von Thülen
 
-Sven von Thülen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Tresor / Globus, Berlin on Sat, 19 Sept 2026.
+Sven von Thülen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Sat, 19 Sept 2026.
 
 Sven von Thülen is a house and deep house artist tracked on soundcheck, with 30 sets logged across Berlin, Hamburg and Newyorkcity. Often billed alongside Bassdee, André Galluzzi and Beatrice (DE). Next up: Tresor / Globus, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Sven von Thülen is a house and deep house artist tracked on soundcheck, with 30
 
 Bassdee, André Galluzzi, Beatrice (DE)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvvonthulen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvvonthulen/)*

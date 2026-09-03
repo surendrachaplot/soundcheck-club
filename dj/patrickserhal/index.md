@@ -1,6 +1,6 @@
 # Patrick Serhal
 
-Patrick Serhal is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
+Patrick Serhal is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
 
 Patrick Serhal is a house and progressive house artist based in Lebanon, tracked on soundcheck, with 12 sets logged across Amsterdam and London. Often billed alongside Ander Race, Auggië and K.eem. Next up: Vittoria Wharf Studio, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Patrick Serhal is a house and progressive house artist based in Lebanon, tracked
 
 Ander Race, Auggië, K.eem
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickserhal/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickserhal/)*

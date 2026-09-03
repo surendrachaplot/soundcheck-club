@@ -1,6 +1,6 @@
 # L'abri
 
-L'abri is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Other Speaking Cave" on Thu, 3 Sept 2026.
+L'abri is a music venue in Geneva with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Other Speaking Cave" on Thu, 3 Sept 2026.
 
 L'abri is a music venue in Geneva listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 1 place de la Madeleine Genève.
 
@@ -15,4 +15,4 @@ L'abri is a music venue in Geneva listed on soundcheck. 2 upcoming nights. Brows
 
 1 place de la Madeleine Genève, Geneva
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/l-abri/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/l-abri/)*

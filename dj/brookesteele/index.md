@@ -1,6 +1,6 @@
 # Brooke Steele
 
-Brooke Steele is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bootleg Bar NYC, New York City on Fri, 4 Sept 2026.
+Brooke Steele is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bootleg Bar NYC, New York City on Fri, 4 Sept 2026.
 
 Brooke Steele is a techno and electro artist based in United States of America, tracked on soundcheck, with 11 sets logged across Detroit and Newyorkcity. Often billed alongside Primordian, Radicchio and hypemelo. Next up: Bootleg Bar NYC, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Brooke Steele is a techno and electro artist based in United States of America, 
 
 Primordian, Radicchio, hypemelo
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brookesteele/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brookesteele/)*

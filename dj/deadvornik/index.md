@@ -1,6 +1,6 @@
 # Dea (6)
 
-Dea (6) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 12 Sept 2026.
+Dea (6) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 12 Sept 2026.
 
 Dea (6) is a techno and house artist based in Croatia, tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 15 more. Often billed alongside ERIS, Enrica Falqui and Ben Kamal. Next up: La Rotonde Stalingrad, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Dea (6) is a techno and house artist based in Croatia, tracked on soundcheck, wi
 
 ERIS, Enrica Falqui, Ben Kamal
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deadvornik/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deadvornik/)*

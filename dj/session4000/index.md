@@ -1,6 +1,6 @@
 # session 4000
 
-session 4000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Piccadilly Central, Manchester on Fri, 2 Oct 2026.
+session 4000 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Piccadilly Central, Manchester on Fri, 2 Oct 2026.
 
 session 4000 is a techno and house artist tracked on soundcheck, with 39 sets logged across Berlin, Brussels, Ghent and Hamburg and 9 more. Often billed alongside DRAMA SOURCE ARTIFACTS, A. Brehme and Astral Travel. Next up: Piccadilly Central, Manchester on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ session 4000 is a techno and house artist tracked on soundcheck, with 39 sets lo
 
 DRAMA SOURCE ARTIFACTS, A. Brehme, Astral Travel
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/session4000/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/session4000/)*

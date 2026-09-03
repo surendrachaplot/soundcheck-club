@@ -1,6 +1,6 @@
 # Fav B
 
-Fav B is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Yard, Manchester on Sat, 19 Sept 2026.
+Fav B is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Yard, Manchester on Sat, 19 Sept 2026.
 
 Fav B is a drum & bass and electro artist tracked on soundcheck, with 12 sets logged across Malaga and Manchester. Often billed alongside Binx, Sinda and Rob NG. Next up: The Yard, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Fav B is a drum & bass and electro artist tracked on soundcheck, with 12 sets lo
 
 Binx, Sinda, Rob NG
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/favb/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/favb/)*

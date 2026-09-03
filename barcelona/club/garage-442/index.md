@@ -1,6 +1,6 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "(FREE) Wednesnight with pumbum b2b Paul Ikky, Keyblow" on Wed, 2 Sept 2026.
+Garage 442 is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "(FREE) Wednesnight with pumbum b2b Paul Ikky, Keyblow" on Wed, 2 Sept 2026.
 
 Garage 442 is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Chrissential, Greg T, Leon James and Majo Alarcon and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
@@ -19,4 +19,4 @@ Garage 442 is a music venue in Barcelona listed on soundcheck. 6 upcoming nights
 
 Avinguda Diagonal, 442, 08037 Barcelona, Barcelona
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/garage-442/)*

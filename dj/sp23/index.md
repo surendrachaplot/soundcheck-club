@@ -1,6 +1,6 @@
 # SP23
 
-SP23 is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Reinstate, London on Wed, 16 Sept 2026.
+SP23 is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Reinstate, London on Wed, 16 Sept 2026.
 
 SP23 is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London and Paris. Often billed alongside 69DB, Ixindamix and Madtronik. Next up: Reinstate, London on Wed 16 Sept.
 
@@ -20,4 +20,4 @@ SP23 is a techno and acid artist based in United Kingdom, tracked on soundcheck,
 
 69DB, Ixindamix, Madtronik
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sp23/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sp23/)*

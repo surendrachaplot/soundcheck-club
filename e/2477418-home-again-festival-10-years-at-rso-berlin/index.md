@@ -14,7 +14,7 @@ Home Again Festival - 10 Years at RSO.BERLIN on Sat 12 Sept, Berlin. 34 acts on 
 - Blame Anthony
 - Butterhands
 - Cassy
-- Chris Stassy
+- Chris Stussy
 - Dan Ghenacia
 - Disguised
 - Dj Norma

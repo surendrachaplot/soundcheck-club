@@ -1,6 +1,6 @@
 # Break (2)
 
-Break (2) is a Drum & Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Break (2) is a Drum & Bass and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Break (2) is a drum & bass and garage artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol, London, Malta and Manchester. Often billed alongside Duskee, Halogenix and SP:MC. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -20,4 +20,4 @@ Break (2) is a drum & bass and garage artist based in United Kingdom, tracked on
 
 Duskee, Halogenix, SP:MC
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/break-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/break-2/)*

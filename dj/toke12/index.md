@@ -1,6 +1,6 @@
 # Toke12
 
-Toke12 is a Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Humboldthain Club, Berlin on Fri, 11 Sept 2026.
+Toke12 is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Humboldthain Club, Berlin on Fri, 11 Sept 2026.
 
 Toke12 is a techno artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside DJ Bude, Skinny Legend and fbi (1). Next up: Humboldthain Club, Berlin on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Toke12 is a techno artist tracked on soundcheck, with 4 sets logged across Berli
 
 DJ Bude, Skinny Legend, fbi (1)
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toke12/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toke12/)*

@@ -1,6 +1,6 @@
 # Kop-Z
 
-Kop-Z is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
+Kop-Z is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
 
 Kop-Z is an experimental and techno artist tracked on soundcheck, with 55 sets logged across Berlin, Bristol, Liverpool and Manchester and 1 more. Often billed alongside Flames Disperse, Cersy and Obeka. Next up: Platt Fields Market Garden, Manchester on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Kop-Z is an experimental and techno artist tracked on soundcheck, with 55 sets l
 
 Flames Disperse, Cersy, Obeka
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kop-z/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kop-z/)*

@@ -1,6 +1,6 @@
 # TBA - La Fabrica, Cordoba
 
-TBA - La Fabrica, Cordoba is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Brigado Crew - Sunset La Fábrica, Córdoba - ALLMusicParties" on Sun, 11 Oct 2026.
+TBA - La Fabrica, Cordoba is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Brigado Crew - Sunset La Fábrica, Córdoba - ALLMusicParties" on Sun, 11 Oct 2026.
 
 TBA - La Fabrica, Cordoba is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Brigado Crew. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - La Fabrica, Cordoba is a music venue in Buenosaires listed on soundcheck. 
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Brigado Crew - Sunset La Fábrica, Córdoba - ALLMusicParties | Brigado Crew |
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-fabrica-cordoba/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-la-fabrica-cordoba/)*

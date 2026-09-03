@@ -1,6 +1,6 @@
 # Canal 54
 
-Canal 54 is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Electron BAR TO BAR" on Fri, 2 Oct 2026.
+Canal 54 is a music venue in Geneva with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Electron BAR TO BAR" on Fri, 2 Oct 2026.
 
 Canal 54 is a music venue in Geneva listed on soundcheck. 1 upcoming night, with line-ups including Braises de Velours, Cora M., Garance and Mirlaqi. Browse upcoming dates, start times and who's playing. Boulevard St-George 54, 1205 Genève.
 
@@ -14,4 +14,4 @@ Canal 54 is a music venue in Geneva listed on soundcheck. 1 upcoming night, with
 
 Boulevard St-George 54, 1205 Genève, Geneva
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/canal-54/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/canal-54/)*

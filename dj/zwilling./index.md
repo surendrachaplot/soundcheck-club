@@ -1,6 +1,6 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 4 Sept 2026.
+zwilling. is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 4 Sept 2026.
 
 zwilling. is a techno and trance artist tracked on soundcheck, with 95 sets logged across Antwerp, Barcelona, Basel and Berlin and 30 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Airport Würzburg, Nurnberg on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ zwilling. is a techno and trance artist tracked on soundcheck, with 95 sets logg
 
 Serafina, WILDERÍCH, Adrian Mills
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*

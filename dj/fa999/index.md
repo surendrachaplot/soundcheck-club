@@ -1,6 +1,6 @@
 # FA999
 
-FA999 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Culture Box, Copenhagen on Fri, 30 Oct 2026.
+FA999 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Culture Box, Copenhagen on Fri, 30 Oct 2026.
 
 FA999 is a techno and trance artist based in Denmark, tracked on soundcheck, with 4 sets logged across Copenhagen. Often billed alongside Bestrawa, KAMIKAZEM and Thiim. Next up: Culture Box, Copenhagen on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ FA999 is a techno and trance artist based in Denmark, tracked on soundcheck, wit
 
 Bestrawa, KAMIKAZEM, Thiim
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fa999/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fa999/)*

@@ -1,6 +1,6 @@
 # Cardi L
 
-Cardi L is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Horn, Bangkok on Fri, 30 Oct 2026.
+Cardi L is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Horn, Bangkok on Fri, 30 Oct 2026.
 
 Cardi L is a techno and electronica artist tracked on soundcheck, with 4 sets logged across Bangkok. Often billed alongside Rui Tang, TMI. and UN!X. Next up: Horn, Bangkok on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Cardi L is a techno and electronica artist tracked on soundcheck, with 4 sets lo
 
 Rui Tang, TMI., UN!X
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cardil/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cardil/)*

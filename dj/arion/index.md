@@ -1,6 +1,6 @@
 # AriOn
 
-AriOn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Culture Box, Copenhagen on Fri, 11 Sept 2026.
+AriOn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Culture Box, Copenhagen on Fri, 11 Sept 2026.
 
 AriOn is a house and techno artist based in Denmark, tracked on soundcheck, with 14 sets logged across Copenhagen. Often billed alongside ROPO, Fynutzu and Daniel Naad. Next up: Culture Box, Copenhagen on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ AriOn is a house and techno artist based in Denmark, tracked on soundcheck, with
 
 ROPO, Fynutzu, Daniel Naad
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arion/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arion/)*

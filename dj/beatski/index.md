@@ -1,6 +1,6 @@
 # Beatski
 
-Beatski is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Wax Music Lounge, Melbourne on Sat, 17 Oct 2026.
+Beatski is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Wax Music Lounge, Melbourne on Sat, 17 Oct 2026.
 
 Beatski is a jungle and drum & bass artist tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside 3rd Orbit, C1 and Emelyne. Next up: Wax Music Lounge, Melbourne on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Beatski is a jungle and drum & bass artist tracked on soundcheck, with 7 sets lo
 
 3rd Orbit, C1, Emelyne
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatski/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatski/)*

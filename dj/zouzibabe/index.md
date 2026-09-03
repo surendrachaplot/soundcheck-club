@@ -1,6 +1,6 @@
 # Zouzibabe
 
-Zouzibabe is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Place D'espagne, Brussels on Sat, 12 Sept 2026.
+Zouzibabe is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Place D'espagne, Brussels on Sat, 12 Sept 2026.
 
 Zouzibabe is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 3 more. Often billed alongside Fais Le Beau, Sara Dziri and Melissa Juice. Next up: Place D'espagne, Brussels on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Zouzibabe is a house and techno artist tracked on soundcheck, with 81 sets logge
 
 Fais Le Beau, Sara Dziri, Melissa Juice
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zouzibabe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zouzibabe/)*

@@ -1,6 +1,6 @@
 # Julion De'Angelo
 
-Julion De'Angelo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Podlasie Club, Chicago on Sat, 12 Sept 2026.
+Julion De'Angelo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Podlasie Club, Chicago on Sat, 12 Sept 2026.
 
 Julion De'Angelo is a house and techno artist based in United States of America, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside Meftah, Whodat and CTRLZORA. Next up: Podlasie Club, Chicago on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Julion De'Angelo is a house and techno artist based in United States of America,
 
 Meftah, Whodat, CTRLZORA
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliondeangelo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliondeangelo/)*

@@ -1,6 +1,6 @@
 # Gara
 
-Gara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at BRAND SHIBUYA, Tokyo on Sun, 13 Sept 2026.
+Gara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at BRAND SHIBUYA, Tokyo on Sun, 13 Sept 2026.
 
 Gara is a house and techno artist based in Japan, tracked on soundcheck, with 47 sets logged across Tokyo. Often billed alongside Manami T.B, Saku NewMoon and DJ ISE. Next up: BRAND SHIBUYA, Tokyo on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Gara is a house and techno artist based in Japan, tracked on soundcheck, with 47
 
 Manami T.B, Saku NewMoon, DJ ISE
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gara/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gara/)*

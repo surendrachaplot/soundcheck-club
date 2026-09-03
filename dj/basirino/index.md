@@ -1,6 +1,6 @@
 # BASiRiNO
 
-BASiRiNO is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Heavy Sick Zero, Tokyo on Sun, 20 Sept 2026.
+BASiRiNO is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Heavy Sick Zero, Tokyo on Sun, 20 Sept 2026.
 
 BASiRiNO is a techno and bass artist based in Japan, tracked on soundcheck, with 33 sets logged across Tokyo. Often billed alongside MUNÉO, nakefar and MELEETIME. Next up: Heavy Sick Zero, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ BASiRiNO is a techno and bass artist based in Japan, tracked on soundcheck, with
 
 MUNÉO, nakefar, MELEETIME
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basirino/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basirino/)*

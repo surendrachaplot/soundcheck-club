@@ -1,6 +1,6 @@
 # MixB
 
-MixB is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Sensorium, Berlin on Fri, 11 Sept 2026.
+MixB is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sensorium, Berlin on Fri, 11 Sept 2026.
 
 MixB is a drum & bass and techno artist tracked on soundcheck, with 10 sets logged across Berlin and Munich. Often billed alongside Saint Popsy, Upzet and Anton Quasi. Next up: Sensorium, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ MixB is a drum & bass and techno artist tracked on soundcheck, with 10 sets logg
 
 Saint Popsy, Upzet, Anton Quasi
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixb/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixb/)*

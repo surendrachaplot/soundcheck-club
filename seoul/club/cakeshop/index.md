@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 10 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "The nights by dayoung Release party" on Thu, 3 Sept 2026.
+Cakeshop is a music venue in Seoul with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "The nights by dayoung Release party" on Thu, 3 Sept 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 10 upcoming nights, with line-ups including 7ip7o3, ABOPF, AEIDA and Arexibo and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -23,4 +23,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 10 upcoming nights, wit
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

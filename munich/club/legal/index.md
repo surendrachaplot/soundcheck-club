@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Rhode & Brown present: MULTITUDES - Album Release w./ Benjamin Fröhlich, Leyla, Jeyrototo & mor" on Fri, 4 Sept 2026.
+Legal is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Rhode & Brown present: MULTITUDES - Album Release w./ Benjamin Fröhlich, Leyla, Jeyrototo & mor" on Fri, 4 Sept 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including Almedina (2), Apua, Aria (2) and Audio Werner and 2 more. Browse upcoming dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -19,4 +19,4 @@ Legal is a music venue in Munich listed on soundcheck. 6 upcoming nights, with l
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

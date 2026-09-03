@@ -1,6 +1,6 @@
 # Wayne Holland
 
-Wayne Holland is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
+Wayne Holland is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
 
 Wayne Holland is a house and techno artist tracked on soundcheck, with 6 sets logged across London, Manchester and Newyorkcity. Often billed alongside Jack Mulqueen, 98dots and Alvaro Medina. Next up: Signal, Newyorkcity on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Wayne Holland is a house and techno artist tracked on soundcheck, with 6 sets lo
 
 Jack Mulqueen, 98dots, Alvaro Medina
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wayneholland/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wayneholland/)*

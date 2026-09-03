@@ -1,6 +1,6 @@
 # DRIA
 
-DRIA is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Egg London, London on Sat, 5 Sept 2026.
+DRIA is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Egg London, London on Sat, 5 Sept 2026.
 
 DRIA is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across London. Often billed alongside Beezo, Shenin Amara and Lance Morgan. Next up: Egg London, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DRIA is a tech house and house artist based in United Kingdom, tracked on soundc
 
 Beezo, Shenin Amara, Lance Morgan
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dria/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dria/)*

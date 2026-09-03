@@ -1,6 +1,6 @@
 # hÿdra
 
-hÿdra is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Village au Pied-du-Courant, Montreal on Thu, 3 Sept 2026.
+hÿdra is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Village au Pied-du-Courant, Montreal on Thu, 3 Sept 2026.
 
 hÿdra is a techno and ghetto tech artist tracked on soundcheck, with 22 sets logged across Montreal and Tallinn. Often billed alongside nastygloss, Katamina and Casa Kobrae. Next up: Village au Pied-du-Courant, Montreal on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ hÿdra is a techno and ghetto tech artist tracked on soundcheck, with 22 sets lo
 
 nastygloss, Katamina, Casa Kobrae
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hÿdra/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hÿdra/)*

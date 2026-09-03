@@ -1,6 +1,6 @@
 # Kulturraum Zwingli Kirche e.V.
 
-Kulturraum Zwingli Kirche e.V. is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "roams notations" on Sat, 19 Sept 2026.
+Kulturraum Zwingli Kirche e.V. is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "roams notations" on Sat, 19 Sept 2026.
 
 Kulturraum Zwingli Kirche e.V. is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rotherstraße 3, 10245 Berlin.
 
@@ -14,4 +14,4 @@ Kulturraum Zwingli Kirche e.V. is a music venue in Berlin listed on soundcheck. 
 
 Rotherstraße 3, 10245 Berlin, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kulturraum-zwingli-kirche-e-v/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kulturraum-zwingli-kirche-e-v/)*

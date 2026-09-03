@@ -1,6 +1,6 @@
 # Butschi
 
-Butschi is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Distillery, Leipzig on Sat, 19 Sept 2026.
+Butschi is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Distillery, Leipzig on Sat, 19 Sept 2026.
 
 Butschi is a trance and techno artist tracked on soundcheck, with 78 sets logged across Basel, Berlin, Budapest and Cologne and 11 more. Often billed alongside Upper90, Carluschka and DJ Sonnenbrand. Next up: Distillery, Leipzig on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Butschi is a trance and techno artist tracked on soundcheck, with 78 sets logged
 
 Upper90, Carluschka, DJ Sonnenbrand
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butschi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/butschi/)*

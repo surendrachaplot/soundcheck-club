@@ -1,6 +1,6 @@
 # 77
 
-77 is a music venue in London with 12 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "FullHouse: Saint Lukez" on Fri, 4 Sept 2026.
+77 is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "FullHouse: Saint Lukez" on Fri, 4 Sept 2026.
 
 77 is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AfroKillerz, AliTR, BADBOX and Cinar and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
@@ -23,4 +23,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

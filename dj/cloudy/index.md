@@ -1,6 +1,6 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Echostage, Washington DC on Fri, 4 Sept 2026.
+Cloudy is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Echostage, Washington DC on Fri, 4 Sept 2026.
 
 Cloudy is a techno and trance artist tracked on soundcheck, with 216 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 55 more. Often billed alongside Adrian Mills, KUKO and Johannes Schuster. Next up: Echostage, Washingtondc on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Cloudy is a techno and trance artist tracked on soundcheck, with 216 sets logged
 
 Adrian Mills, KUKO, Johannes Schuster
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*

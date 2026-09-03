@@ -1,6 +1,6 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 9 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "William Djoko + BEAMOUR" on Thu, 10 Sept 2026.
+Volt Club Milano is a music venue in Milan with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "William Djoko + BEAMOUR" on Thu, 10 Sept 2026.
 
 Volt Club Milano is a music venue in Milan listed on soundcheck. 9 upcoming nights, with line-ups including Agoria, Alessio Cristiano, Âme and ANOTR and 2 more. Browse upcoming dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
@@ -22,4 +22,4 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 9 upcoming nigh
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

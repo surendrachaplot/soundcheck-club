@@ -1,6 +1,6 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Salix" on Fri, 4 Sept 2026.
+vurt. is a music venue in Seoul with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Salix" on Fri, 4 Sept 2026.
 
 vurt. is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with line-ups including Anthony Linell, Djilogue, Efdemin and GOBI and 2 more. Browse upcoming dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
@@ -19,4 +19,4 @@ vurt. is a music venue in Seoul listed on soundcheck. 6 upcoming nights, with li
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

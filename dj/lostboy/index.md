@@ -1,6 +1,6 @@
 # LostBoy
 
-LostBoy is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Level Two Bar & Rooftop, Detroit on Sun, 6 Sept 2026.
+LostBoy is a House and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Level Two Bar & Rooftop, Detroit on Sun, 6 Sept 2026.
 
 LostBoy is a house and ghetto tech artist based in United States of America, tracked on soundcheck, with 33 sets logged across Detroit, Melbourne and Stockholm. Often billed alongside JMT (2), Disc Jockey George and Sheefy McFly. Next up: Level Two Bar & Rooftop, Detroit on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ LostBoy is a house and ghetto tech artist based in United States of America, tra
 
 JMT (2), Disc Jockey George, Sheefy McFly
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboy/)*

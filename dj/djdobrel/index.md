@@ -1,6 +1,6 @@
 # DJ Dobrel
 
-DJ Dobrel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Curveball, Dublin on Fri, 11 Sept 2026.
+DJ Dobrel is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Curveball, Dublin on Fri, 11 Sept 2026.
 
 DJ Dobrel is a techno and house artist based in Ireland, tracked on soundcheck, with 40 sets logged across Amsterdam, Cork, Dublin and Liverpool and 1 more. Often billed alongside 2M (2), darren best and K.IKOEI. Next up: Curveball, Dublin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DJ Dobrel is a techno and house artist based in Ireland, tracked on soundcheck, 
 
 2M (2), darren best, K.IKOEI
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdobrel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdobrel/)*

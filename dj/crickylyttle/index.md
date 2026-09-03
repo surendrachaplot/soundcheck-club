@@ -1,6 +1,6 @@
 # Cricky Lyttle
 
-Cricky Lyttle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at The Ulster Sports Club, Belfast on Fri, 4 Sept 2026.
+Cricky Lyttle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Ulster Sports Club, Belfast on Fri, 4 Sept 2026.
 
 Cricky Lyttle is a techno and house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Belfast, Dublin and London. Often billed alongside Blark, Ryan Dallas and Nez. Next up: The Ulster Sports Club, Belfast on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Cricky Lyttle is a techno and house artist based in United Kingdom, tracked on s
 
 Blark, Ryan Dallas, Nez
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crickylyttle/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crickylyttle/)*

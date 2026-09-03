@@ -1,6 +1,6 @@
 # Wu Zhuoling
 
-Wu Zhuoling is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at OIL Club, Shenzhen on Thu, 24 Sept 2026.
+Wu Zhuoling is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OIL Club, Shenzhen on Thu, 24 Sept 2026.
 
 Wu Zhuoling is a techno and electronica artist based in China, tracked on soundcheck, with 17 sets logged across Berlin, Dusseldorf, Hamburg and Milan and 5 more. Often billed alongside Severja, Aion and Jeena. Next up: OIL Club, Shenzhen on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Wu Zhuoling is a techno and electronica artist based in China, tracked on soundc
 
 Severja, Aion, Jeena
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wuzhuoling/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wuzhuoling/)*

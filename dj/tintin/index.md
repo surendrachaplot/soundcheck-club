@@ -1,6 +1,6 @@
 # Tin Tin
 
-Tin Tin is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Club04, Zurich on Sat, 19 Sept 2026.
+Tin Tin is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club04, Zurich on Sat, 19 Sept 2026.
 
 Tin Tin is a house and trance artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Ralph Lawson, Alex Wolfenden and Cinthie. Next up: Club04, Zurich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tin Tin is a house and trance artist based in United Kingdom, tracked on soundch
 
 Ralph Lawson, Alex Wolfenden, Cinthie
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tintin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tintin/)*

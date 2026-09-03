@@ -1,6 +1,6 @@
 # Cantina Social
 
-Cantina Social is a music venue in Athens with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Lockbird" on Wed, 2 Sept 2026.
+Cantina Social is a music venue in Athens with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Lockbird" on Wed, 2 Sept 2026.
 
 Cantina Social is a music venue in Athens listed on soundcheck. 6 upcoming nights, with line-ups including Karanikas, Lockbird, Loo (3) and Nikolas Gale and 2 more. Browse upcoming dates, start times and who's playing. Leokoriou 6-8, Athens 10554, Greece.
 
@@ -19,4 +19,4 @@ Cantina Social is a music venue in Athens listed on soundcheck. 6 upcoming night
 
 Leokoriou 6-8, Athens 10554, Greece, Athens
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/cantina-social/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/cantina-social/)*

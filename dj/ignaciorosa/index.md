@@ -1,6 +1,6 @@
 # Ignacio Rosa
 
-Ignacio Rosa is a EBM and Tech House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bar Oriente, Mexico City on Sat, 5 Sept 2026.
+Ignacio Rosa is a EBM and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar Oriente, Mexico City on Sat, 5 Sept 2026.
 
 Ignacio Rosa is an ebm and tech house artist tracked on soundcheck, with 8 sets logged across Berlin and Mexicocity. Often billed alongside Ludmila Houben, Radondo and Audio Vacanze. Next up: Bar Oriente, Mexicocity on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Ignacio Rosa is an ebm and tech house artist tracked on soundcheck, with 8 sets 
 
 Ludmila Houben, Radondo, Audio Vacanze
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignaciorosa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignaciorosa/)*

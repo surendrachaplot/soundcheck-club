@@ -1,6 +1,6 @@
 # Megan Jane
 
-Megan Jane is a Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
+Megan Jane is a Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Rotterdam Centre, Rotterdam on Fri, 11 Sept 2026.
 
 Megan Jane is a bass and breakbeat artist tracked on soundcheck, with 11 sets logged across Amsterdam, London, Rotterdam and Utrecht. Often billed alongside BLUMITSU, Bianca Oblivion and Kurashi Soundsystem. Next up: Rotterdam Centre, Rotterdam on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Megan Jane is a bass and breakbeat artist tracked on soundcheck, with 11 sets lo
 
 BLUMITSU, Bianca Oblivion, Kurashi Soundsystem
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meganjane/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meganjane/)*

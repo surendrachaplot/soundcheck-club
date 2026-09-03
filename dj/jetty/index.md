@@ -1,6 +1,6 @@
 # Jetty
 
-Jetty is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Bossa Nova Civic Club, New York City on Thu, 17 Sept 2026.
+Jetty is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bossa Nova Civic Club, New York City on Thu, 17 Sept 2026.
 
 Jetty is a club and techno artist tracked on soundcheck, with 31 sets logged across Austin, Berlin, Glasgow and Houston and 4 more. Often billed alongside DJ Pitch, Madjestic Kasual and Swaya. Next up: Bossa Nova Civic Club, Newyorkcity on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Jetty is a club and techno artist tracked on soundcheck, with 31 sets logged acr
 
 DJ Pitch, Madjestic Kasual, Swaya
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jetty/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jetty/)*

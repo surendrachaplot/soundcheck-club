@@ -1,6 +1,6 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "FiLTER SWAG PARTY #2" on Fri, 4 Sept 2026.
+Acud Macht NEU is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "FiLTER SWAG PARTY #2" on Fri, 4 Sept 2026.
 
 Acud Macht NEU is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including DJ GHEPARD, DJ Hristos, griefeater and LEYA and 2 more. Browse upcoming dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 6 upcoming night
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

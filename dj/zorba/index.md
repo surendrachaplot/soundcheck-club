@@ -1,6 +1,6 @@
 # Zorba
 
-Zorba is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at vurt., Seoul on Fri, 4 Sept 2026.
+Zorba is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at vurt., Seoul on Fri, 4 Sept 2026.
 
 Zorba is a techno and house artist based in South Korea, tracked on soundcheck, with 86 sets logged across Seoul and Tokyo. Often billed alongside Jama (2), chukimaandal and Inger. Next up: vurt., Seoul on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Zorba is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 Jama (2), chukimaandal, Inger
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zorba/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zorba/)*

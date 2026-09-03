@@ -1,6 +1,6 @@
 # Watermark
 
-Watermark is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Labor Day Weekend Beach Festival - Reggaeton & Latin Party" on Thu, 3 Sept 2026.
+Watermark is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Labor Day Weekend Beach Festival - Reggaeton & Latin Party" on Thu, 3 Sept 2026.
 
 Watermark is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights. Browse upcoming dates, start times and who's playing. 78 South St., New York, NY 10002, USA.
 
@@ -23,4 +23,4 @@ Watermark is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nigh
 
 78 South St., New York, NY 10002, USA, New York City
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/watermark/)*

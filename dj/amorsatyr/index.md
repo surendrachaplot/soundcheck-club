@@ -1,6 +1,6 @@
 # Amor Satyr
 
-Amor Satyr is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
+Amor Satyr is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
 
 Amor Satyr is a techno and bass artist based in France, tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Siu Mata (2), BNZ (2) and Bitter Babe. Next up: ÆDEN, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Amor Satyr is a techno and bass artist based in France, tracked on soundcheck, w
 
 Siu Mata (2), BNZ (2), Bitter Babe
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amorsatyr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amorsatyr/)*

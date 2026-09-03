@@ -1,6 +1,6 @@
 # Club Six
 
-Club Six is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "KNICK" on Fri, 11 Sept 2026.
+Club Six is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "KNICK" on Fri, 11 Sept 2026.
 
 Club Six is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including Ali Stack, bastiengoat, Black Rave Culture and Buck Wilson and 2 more. Browse upcoming dates, start times and who's playing. 60 6th St, San Francisco, CA 94103, United States.
 
@@ -16,4 +16,4 @@ Club Six is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming night
 
 60 6th St, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/club-six/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/club-six/)*

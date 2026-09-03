@@ -1,6 +1,6 @@
 # Rey (1)
 
-Rey (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Panic Room, Paris on Sat, 12 Sept 2026.
+Rey (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Panic Room, Paris on Sat, 12 Sept 2026.
 
 Rey (1) is a techno and house artist tracked on soundcheck, with 5 sets logged across Amsterdam, Paris and Tokyo. Often billed alongside hidemi, MOTOKA and RReona. Next up: Panic Room, Paris on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Rey (1) is a techno and house artist tracked on soundcheck, with 5 sets logged a
 
 hidemi, MOTOKA, RReona
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rey-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rey-1/)*

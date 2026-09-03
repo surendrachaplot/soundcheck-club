@@ -1,6 +1,6 @@
 # Kim She
 
-Kim She is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Rote Sonne, Munich on Fri, 4 Sept 2026.
+Kim She is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Rote Sonne, Munich on Fri, 4 Sept 2026.
 
 Kim She is a techno and house artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 13 more. Often billed alongside Disguised, AYLIN IDAH and Acierate. Next up: Rote Sonne, Munich on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Kim She is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Disguised, AYLIN IDAH, Acierate
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimshe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimshe/)*

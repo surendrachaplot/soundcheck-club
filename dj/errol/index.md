@@ -1,6 +1,6 @@
 # Errol
 
-Errol is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Errol is a House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Errol is a house and jazz artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 20 more. Often billed alongside Alex Rita, DTM Funk and Shy One. Next up: The Cause, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Errol is a house and jazz artist based in United Kingdom, tracked on soundcheck,
 
 Alex Rita, DTM Funk, Shy One
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/errol/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/errol/)*

@@ -1,6 +1,6 @@
 # Ivory
 
-Ivory is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Wed, 2 Sept 2026, next at Do Not Sit On The Furniture, Miami on Fri, 4 Sept 2026.
+Ivory is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Do Not Sit On The Furniture, Miami on Fri, 4 Sept 2026.
 
 Ivory is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 32 more. Often billed alongside Nandu, Aera and Jimi Jules. Next up: Do Not Sit On The Furniture, Miami on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Ivory is a techno and house artist tracked on soundcheck, with 129 sets logged a
 
 Nandu, Aera, Jimi Jules
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*

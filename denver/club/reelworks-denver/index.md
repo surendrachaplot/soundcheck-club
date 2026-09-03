@@ -1,6 +1,6 @@
 # Reelworks Denver
 
-Reelworks Denver is a music venue in Denver with 5 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Sasha, Francesca Lombardo - WD10YR" on Fri, 11 Sept 2026.
+Reelworks Denver is a music venue in Denver with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Sasha, Francesca Lombardo - WD10YR" on Fri, 11 Sept 2026.
 
 Reelworks Denver is a music venue in Denver listed on soundcheck. 5 upcoming nights, with line-ups including Amelie Lens, Deep Dish, DJ Habibeats and Doc Martin and 2 more. Browse upcoming dates, start times and who's playing. 1399 35th St. Denver CO. 80205.
 
@@ -18,4 +18,4 @@ Reelworks Denver is a music venue in Denver listed on soundcheck. 5 upcoming nig
 
 1399 35th St. Denver CO. 80205, Denver
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/reelworks-denver/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/reelworks-denver/)*

@@ -1,6 +1,6 @@
 # Jurango
 
-Jurango is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
+Jurango is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
 
 Jurango is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside ALYA L, Surgeon and k means. Next up: Honey Street Studio, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Jurango is a bass and techno artist based in United Kingdom, tracked on soundche
 
 ALYA L, Surgeon, k means
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jurango/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jurango/)*

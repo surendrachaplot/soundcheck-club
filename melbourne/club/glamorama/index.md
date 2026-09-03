@@ -1,6 +1,6 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Interval - Dan Newman [UK] + Ryan Maloney" on Fri, 4 Sept 2026.
+Glamorama is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Interval - Dan Newman [UK] + Ryan Maloney" on Fri, 4 Sept 2026.
 
 Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including BETHANY (1), CAGED, Dan Newman and Deaf Toucan and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
@@ -22,4 +22,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming nights,
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

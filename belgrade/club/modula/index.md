@@ -1,6 +1,6 @@
 # Modula
 
-Modula is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Wed, 2 Sept 2026; the next is "Outlaw Bass Rave" on Sat, 12 Sept 2026.
+Modula is a music venue in Belgrade with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Outlaw Bass Rave" on Sat, 12 Sept 2026.
 
 Modula is a music venue in Belgrade listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Cetinjska 15, 11000 Belgrade, Serbia.
 
@@ -14,4 +14,4 @@ Modula is a music venue in Belgrade listed on soundcheck. 1 upcoming night. Brow
 
 Cetinjska 15, 11000 Belgrade, Serbia, Belgrade
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/modula/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/modula/)*

@@ -1,6 +1,6 @@
 # Ryan Farr
 
-Ryan Farr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA, New York City on Sun, 13 Sept 2026.
+Ryan Farr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, New York City on Sun, 13 Sept 2026.
 
 Ryan Farr is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Newyorkcity. Often billed alongside ALEXIS DE LA ROSA, Coach Chris and LOFTUS. Next up: TBA, Newyorkcity on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Ryan Farr is a house and techno artist based in United States of America, tracke
 
 ALEXIS DE LA ROSA, Coach Chris, LOFTUS
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanfarr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanfarr/)*

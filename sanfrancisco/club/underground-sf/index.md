@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "FILM FUND RAVE" on Fri, 4 Sept 2026.
+Underground SF is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "FILM FUND RAVE" on Fri, 4 Sept 2026.
 
 Underground SF is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including 9-System, Alexandernaut, Beverly Chills and Digital KitKat and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -20,4 +20,4 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

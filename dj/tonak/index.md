@@ -1,6 +1,6 @@
 # TONAK
 
-TONAK is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Pamela Club, Paris on Sat, 19 Sept 2026.
+TONAK is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Pamela Club, Paris on Sat, 19 Sept 2026.
 
 TONAK is a house and jazz artist based in France, tracked on soundcheck, with 17 sets logged across Marseille, Montreal and Paris. Often billed alongside Figurative Records, Wolff and Leo Luscher. Next up: Pamela Club, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ TONAK is a house and jazz artist based in France, tracked on soundcheck, with 17
 
 Figurative Records, Wolff, Leo Luscher
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonak/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonak/)*

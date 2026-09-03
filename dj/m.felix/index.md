@@ -1,6 +1,6 @@
 # M. FELIX
 
-M. FELIX is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at TBA - Le TLM Paris, 105 Rue Curial, 75019 Paris, France, Paris on Sat, 19 Sept 2026.
+M. FELIX is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Le TLM Paris, 105 Rue Curial, 75019 Paris, France, Paris on Sat, 19 Sept 2026.
 
 M. FELIX is a house and minimal artist based in France, tracked on soundcheck, with 16 sets logged across Berlin, Marseille, Nantes and Paris. Often billed alongside El Hey, One Tough Cookie and Armless Kid. Next up: TBA - Le TLM Paris, 105 Rue Curial, 75019 Paris, France, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ M. FELIX is a house and minimal artist based in France, tracked on soundcheck, w
 
 El Hey, One Tough Cookie, Armless Kid
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m.felix/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m.felix/)*

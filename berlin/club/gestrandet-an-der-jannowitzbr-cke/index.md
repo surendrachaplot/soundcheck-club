@@ -1,6 +1,6 @@
 # Gestrandet An Der Jannowitzbrücke
 
-Gestrandet An Der Jannowitzbrücke is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "OPEN AIR DIREKT AM WASSER - FREE" on Sat, 5 Sept 2026.
+Gestrandet An Der Jannowitzbrücke is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "OPEN AIR DIREKT AM WASSER - FREE" on Sat, 5 Sept 2026.
 
 Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Aimé You, Beron, Cardi-O and crydebleich and 2 more. Browse upcoming dates, start times and who's playing. Rolandufer, 10179 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Gestrandet An Der Jannowitzbrücke is a music venue in Berlin listed on soundche
 
 Rolandufer, 10179 Berlin, Germany, Berlin
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gestrandet-an-der-jannowitzbr-cke/)*

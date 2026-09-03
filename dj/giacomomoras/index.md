@@ -1,6 +1,6 @@
 # Giacomo Moras
 
-Giacomo Moras is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at STEREO, London on Sun, 11 Oct 2026.
+Giacomo Moras is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at STEREO, London on Sun, 11 Oct 2026.
 
 Giacomo Moras is a tech house and house artist tracked on soundcheck, with 16 sets logged across London. Often billed alongside Claudio Basile, Davide Decay and Severino. Next up: STEREO, London on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Giacomo Moras is a tech house and house artist tracked on soundcheck, with 16 se
 
 Claudio Basile, Davide Decay, Severino
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomomoras/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomomoras/)*

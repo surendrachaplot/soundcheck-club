@@ -1,6 +1,6 @@
 # LUCID.
 
-LUCID. is a Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+LUCID. is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 LUCID. is a techno artist tracked on soundcheck, with 18 sets logged across Athens. Often billed alongside Linkshand, Mr.M and VSSLS. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ LUCID. is a techno artist tracked on soundcheck, with 18 sets logged across Athe
 
 Linkshand, Mr.M, VSSLS
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucid./)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucid./)*

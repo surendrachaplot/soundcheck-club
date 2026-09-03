@@ -1,6 +1,6 @@
 # Etiennette
 
-Etiennette is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Beate Uwe, Berlin on Sat, 5 Sept 2026.
+Etiennette is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Beate Uwe, Berlin on Sat, 5 Sept 2026.
 
 Etiennette is a house and minimal artist based in Germany, tracked on soundcheck, with 46 sets logged across Berlin and Hamburg. Often billed alongside babxi, Don Andres and Seemless. Next up: Beate Uwe, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Etiennette is a house and minimal artist based in Germany, tracked on soundcheck
 
 babxi, Don Andres, Seemless
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennette/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennette/)*

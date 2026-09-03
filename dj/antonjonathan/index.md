@@ -1,6 +1,6 @@
 # Anton Jonathan
 
-Anton Jonathan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Wed, 2 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 10 Sept 2026.
+Anton Jonathan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 10 Sept 2026.
 
 Anton Jonathan is a house and techno artist based in Germany, tracked on soundcheck, with 120 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 1 more. Often billed alongside EliaHaze, DJ Babyblade and DJ SOURCE. Next up: Golden Pudel Club, Hamburg on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Anton Jonathan is a house and techno artist based in Germany, tracked on soundch
 
 EliaHaze, DJ Babyblade, DJ SOURCE
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antonjonathan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antonjonathan/)*

@@ -1,6 +1,6 @@
 # Say No More Madrid
 
-Say No More Madrid is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Wed, 2 Sept 2026; the next is "Club Night X Say No More" on Thu, 3 Sept 2026.
+Say No More Madrid is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Club Night X Say No More" on Thu, 3 Sept 2026.
 
 Say No More Madrid is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including Fiona Jane, freedomB, Mica Wagner and Toni Aparisi. Browse upcoming dates, start times and who's playing. Gran Vía, 11, Centro, 28013 Madrid.
 
@@ -16,4 +16,4 @@ Say No More Madrid is a music venue in Madrid listed on soundcheck. 3 upcoming n
 
 Gran Vía, 11, Centro, 28013 Madrid, Madrid
 
-*Updated Wed, 2 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/say-no-more-madrid/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/say-no-more-madrid/)*
