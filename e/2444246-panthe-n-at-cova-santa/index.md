@@ -1,6 +1,6 @@
 # Pantheøn at Cova Santa
 
-Pantheøn at Cova Santa on Sun 6 Sept, Ibiza. 1 act on the bill: GOME. Preview the line-up and save it on soundcheck.
+Pantheøn at Cova Santa on Sun 6 Sept, Ibiza. 2 acts on the bill: Butch and GOME. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Pantheøn at Cova Santa on Sun 6 Sept, Ibiza. 1 act on the bill: GOME. Preview t
 
 ## Line-up
 
+- Butch
 - GOME
 
 *Source: [soundcheck](https://soundcheck.club/e/2444246-panthe-n-at-cova-santa/)*

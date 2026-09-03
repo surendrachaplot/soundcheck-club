@@ -1,8 +1,8 @@
 # Dr. Sud
 
-Dr. Sud is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Crack Bellmer, Berlin on Thu, 10 Sept 2026.
+Dr. Sud is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Crack Bellmer, Berlin on Thu, 10 Sept 2026.
 
-Dr. Sud is a house and disco artist based in Italy, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Caldii, dOctOr doms and Luminick. Next up: Crack Bellmer, Berlin on Thu 10 Sept.
+Dr. Sud is a house and deep house artist based in Italy, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Caldii, dOctOr doms and Luminick. Next up: Crack Bellmer, Berlin on Thu 10 Sept.
 
 ## Upcoming shows
 

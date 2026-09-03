@@ -1,6 +1,6 @@
-# INTO THE WOODS - 10th Anniversary Part 3 w/ CHKLTE, Hish, krif & More at Starlane Pizza Bar
+# INTO THE WOODS - 10th Anniversary Part 3 w/ CHKLTE, Hish, krif & more at Starlane Pizza Bar
 
-INTO THE WOODS - 10th Anniversary Part 3 w/ CHKLTE, Hish, krif & More at Starlane Pizza Bar on Fri 25 Sept, London. 5 acts on the bill: CHKLTE, Hish, krif and Lesenburg and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
+INTO THE WOODS - 10th Anniversary Part 3 w/ CHKLTE, Hish, krif & more at Starlane Pizza Bar on Fri 25 Sept, London. 5 acts on the bill: CHKLTE, Hish, krif and Lesenburg and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

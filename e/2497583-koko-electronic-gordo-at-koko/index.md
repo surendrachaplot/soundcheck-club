@@ -1,6 +1,6 @@
 # KOKO Electronic: Gordo at KOKO
 
-KOKO Electronic: Gordo on Fri 11 Sept, London. 1 act on the bill: Gordo. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Gordo on Fri 11 Sept, London. 3 acts on the bill: Gordo, Saachi and Wakyin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ KOKO Electronic: Gordo on Fri 11 Sept, London. 1 act on the bill: Gordo. Preview
 ## Line-up
 
 - Gordo
+- Saachi
+- Wakyin
 
 *Source: [soundcheck](https://soundcheck.club/e/2497583-koko-electronic-gordo-at-koko/)*

@@ -1,8 +1,8 @@
 # Verleger
 
-Verleger is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SASS Music Club, Vienna on Sat, 5 Sept 2026.
+Verleger is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SASS Music Club, Vienna on Sat, 5 Sept 2026.
 
-Verleger is a house and deep house artist tracked on soundcheck, with 17 sets logged across Vienna. Often billed alongside Fabiano José, Reinhard Zach and DJ Hill (2). Next up: SASS Music Club, Vienna on Sat 5 Sept.
+Verleger is a house and deep house artist tracked on soundcheck, with 18 sets logged across Vienna. Often billed alongside Fabiano José, Reinhard Zach and DJ Hill (2). Next up: SASS Music Club, Vienna on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Verleger is a house and deep house artist tracked on soundcheck, with 17 sets lo
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | SASS Music Club | Vienna |
 | Sat, 5 Sept 2026 | Porto Pollo | Vienna |
+| Sat, 5 Sept 2026 | SASS Music Club | Vienna |
 
 ## Recently played
 

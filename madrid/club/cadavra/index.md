@@ -10,7 +10,7 @@ Cadavra is a music venue in Madrid listed on soundcheck. 28 upcoming nights, wit
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Samuel Kerridge at ANFANG | HCOR, Irazu, Samuel Kerridge, Semuta |
 | Fri, 4 Sept 2026 | La Movida Radioactiva with Franzizca | EMIR-B, Franzizca., Nachine |
-| Sat, 5 Sept 2026 | SUBWAX with Baldo & Ethel | Baldo, Ethel, Major Mario, Margott |
+| Sat, 5 Sept 2026 | SUBWAX with Baldo & Ethel | Baldo, Ethel, Major Mario, Margott, Margott (ES) |
 | Thu, 10 Sept 2026 | SERNA & Safia at Anfang | SERNA, Safia (2) |
 | Fri, 11 Sept 2026 | TROOPERS x CHECKPOINT | Lisandro Mustapic, MARYO, Sampol |
 | Sat, 12 Sept 2026 | Certain Club x Hypersoft with DJ TEETH & E.Talking | Certain People, DJ TEETH, E-Talking, Emi Koto |

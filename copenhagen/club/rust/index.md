@@ -1,8 +1,8 @@
 # RUST
 
-RUST is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Milkweed (UK) // RUST" on Sun, 6 Sept 2026.
+RUST is a music venue in Copenhagen with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Milkweed (UK) // RUST" on Sun, 6 Sept 2026.
 
-RUST is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including DJ Krush. Browse upcoming dates, start times and who's playing. Guldbergsgade 8, 2200 København N.
+RUST is a music venue in Copenhagen listed on soundcheck. 6 upcoming nights, with line-ups including DJ Krush. Browse upcoming dates, start times and who's playing. Guldbergsgade 8, 2200 København N.
 
 ## What's on
 
@@ -10,6 +10,7 @@ RUST is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, wit
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Milkweed (UK) // RUST |  |
 | Thu, 10 Sept 2026 | Chopper |  |
+| Sat, 26 Sept 2026 | Yawning Portal (UK) // RUST |  |
 | Fri, 2 Oct 2026 | Holy Fuck (CA) // RUST |  |
 | Thu, 29 Oct 2026 | DJ Krush (JP) // RUST | DJ Krush |
 | Fri, 20 Nov 2026 | Ductape (TR) // RUST |  |

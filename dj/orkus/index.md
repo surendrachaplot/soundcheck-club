@@ -1,14 +1,15 @@
 # Orkus
 
-Orkus is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar v Krymský, Prague on Sat, 19 Sept 2026.
+Orkus is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bar v Krymský, Prague on Sat, 19 Sept 2026.
 
-Orkus is a techno and deep house artist based in Czech Republic, tracked on soundcheck, with 34 sets logged across Prague. Often billed alongside Icarian PB1, Patricio Strix and NANCY (2). Next up: Bar v Krymský, Prague on Sat 19 Sept.
+Orkus is a techno and deep house artist based in Czech Republic, tracked on soundcheck, with 35 sets logged across Prague. Often billed alongside Icarian PB1, Patricio Strix and NANCY (2). Next up: Bar v Krymský, Prague on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Bar v Krymský | Prague |
+| Sat, 3 Oct 2026 | Music Club Pulse 22 | Prague |
 
 ## Recently played
 

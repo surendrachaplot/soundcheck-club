@@ -1,13 +1,14 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Edinburgh Corn Exchange, Edinburgh on Sat, 5 Sept 2026.
+Armand Van Helden is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Fri, 4 Sept 2026.
 
-Armand Van Helden is a house and tech house artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 30 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Edinburgh Corn Exchange, Edinburgh on Sat 5 Sept.
+Armand Van Helden is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Olympic Athletic Center of Athens, Athens on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Olympic Athletic Center of Athens | Athens |
 | Sat, 5 Sept 2026 | Edinburgh Corn Exchange | Edinburgh |
 | Thu, 10 Sept 2026 | Pacha Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Gaswrx Birmingham | London |

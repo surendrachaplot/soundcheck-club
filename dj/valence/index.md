@@ -1,14 +1,15 @@
 # VALENCE
 
-VALENCE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 25 Sept 2026.
+VALENCE is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Crobar - Buenos Aires, Buenos Aires on Fri, 25 Sept 2026.
 
-VALENCE is a house and deep house artist tracked on soundcheck, with 27 sets logged across Buenosaires, Lyon and Miami. Often billed alongside Manu Oubiña, Miguel Silver and Ana Hagen. Next up: Crobar - Buenos Aires, Buenosaires on Fri 25 Sept.
+VALENCE is a house and deep house artist tracked on soundcheck, with 28 sets logged across Berlin, Buenosaires, Lyon and Miami. Often billed alongside Manu Oubiña, Miguel Silver and Ana Hagen. Next up: Crobar - Buenos Aires, Buenosaires on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Crobar - Buenos Aires | Buenos Aires |
+| Mon, 12 Oct 2026 | Minimal Bar | Berlin |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ SAGE is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with li
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Watergate Open Air with Anfisa Letyago, Chez Damier, Isaac Carter, Natalie Robinson | Anfisa Letyago, Chez Damier, Faerber, HAMY, Isaac Carter, Natalie Robinson |
 | Sat, 12 Sept 2026 | The Gardens of Babylon: The Return to Berlin | Hedda Stenberg, Henrik Schwarz, JANE RYSE, MOOGLI (DE), Marvin Jam, Mona Pirzad, RICHE, Robag Wruhme, Soulfunk |
-| Sat, 26 Sept 2026 | END OF SUMMER OPEN AIR x 2 YEARS LOONE x CUDDLES x DRIFT x TILT |  |
+| Sat, 26 Sept 2026 | END OF SUMMER OPEN AIR x 2 YEARS LOONE x CUDDLES x DRIFT KYIV x TILT |  |
 
 ## Address
 

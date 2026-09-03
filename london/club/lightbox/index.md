@@ -10,7 +10,7 @@ Lightbox is a music venue in London listed on soundcheck. 7 upcoming nights. Bro
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Pop All Night Long - Limited Free Tickets |  |
 | Sat, 5 Sept 2026 | VIVA Baile |  |
-| Sat, 5 Sept 2026 | VIVA Reggaeton |  |
+| Sat, 5 Sept 2026 | VIVA Reggaeton Live |  |
 | Sun, 13 Sept 2026 | THE BIG FRESHERS WELCOME RAVE! - LONDON FRESHERS WEEK 2026 |  |
 | Mon, 14 Sept 2026 | The Freshers Initiation London |  |
 | Tue, 29 Sept 2026 | THE BIG LONDON FRESHERS MASHUP - LONDON FRESHERS WEEK 2026 |  |

@@ -1,6 +1,6 @@
 # MAHLWERK: Justin Jay, Brent Honey & Canelle Doublekick at Grelle Forelle
 
-MAHLWERK: Justin Jay, Brent Honey & Canelle Doublekick at Grelle Forelle on Sat 12 Sept, Vienna. 9 acts on the bill: Brent Honey, Canelle Doublekick, GOLDI (AT) and Justin Jay and 5 more. Preview the line-up and save it on soundcheck.
+MAHLWERK: Justin Jay, Brent Honey & Canelle Doublekick at Grelle Forelle on Sat 12 Sept, Vienna. 10 acts on the bill: Brent Honey, Canelle Doublekick, DJ PARKVERBOT and GOLDI (AT) and 6 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ MAHLWERK: Justin Jay, Brent Honey & Canelle Doublekick at Grelle Forelle on Sat 
 
 - Brent Honey
 - Canelle Doublekick
+- DJ PARKVERBOT
 - GOLDI (AT)
 - Justin Jay
 - Kat Ze

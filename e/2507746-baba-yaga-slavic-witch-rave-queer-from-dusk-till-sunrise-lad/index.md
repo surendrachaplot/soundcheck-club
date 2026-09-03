@@ -1,6 +1,6 @@
 # Baba Yaga: Slavic Witch Rave, Queer from dusk till Sunrise, LADY $UKA, Maria Roi, Dj handbag at Marmorbar
 
-Baba Yaga: Slavic Witch Rave, Queer from dusk till Sunrise, LADY $UKA, Maria Roi, Dj handbag at Marmorbar on Sat 12 Sept, Berlin. 6 acts on the bill: Dj handbag, DJILF, ENNIO and KINTEL and 2 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Baba Yaga: Slavic Witch Rave, Queer from dusk till Sunrise, LADY $UKA, Maria Roi, Dj handbag at Marmorbar on Sat 12 Sept, Berlin. 7 acts on the bill: Border Diva, Dj handbag, DJILF and ENNIO and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Baba Yaga: Slavic Witch Rave, Queer from dusk till Sunrise, LADY $UKA, Maria Roi
 
 ## Line-up
 
+- Border Diva
 - Dj handbag
 - DJILF
 - ENNIO

@@ -1,6 +1,6 @@
 # SIBLING at NEXT DOOR RECORDS 2 at Next Door Records Two
 
-SIBLING at NEXT DOOR RECORDS 2 at Next Door Records Two on Sat 5 Sept, London. 3 acts on the bill: Hen Borton, MAÏS and QWAK. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+SIBLING at NEXT DOOR RECORDS 2 at Next Door Records Two on Sat 5 Sept, London. 4 acts on the bill: Hen Borton, JABRIEL, MAÏS and QWAK. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SIBLING at NEXT DOOR RECORDS 2 at Next Door Records Two on Sat 5 Sept, London. 3
 ## Line-up
 
 - Hen Borton
+- JABRIEL
 - MAÏS
 - QWAK
 

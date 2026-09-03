@@ -9,8 +9,8 @@ Open Mind Club is a music venue in Barcelona listed on soundcheck. 4 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | JUEVES - NAKED |  |
-| Fri, 4 Sept 2026 | Open Friday - Ɑ͞ ̶͞ ̶͞ ̶͞ ﻝﮞ͞ |  |
-| Sat, 5 Sept 2026 | Open Saurday - Ɑ͞ ̶͞ ̶͞ ̶͞ ﻝﮞ͞ |  |
-| Sun, 6 Sept 2026 | MEN PARTY - NO DRESSCODE -ूाीू | Voodoo |
+| Fri, 4 Sept 2026 | Open Friday  |  |
+| Sat, 5 Sept 2026 | Open Saurday  |  |
+| Sun, 6 Sept 2026 | MEN PARTY - NO DRESSCODE  | Voodoo |
 
 *Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/open-mind-club/)*

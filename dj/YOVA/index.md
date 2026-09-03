@@ -1,8 +1,8 @@
 # YOVA
 
-YOVA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at OST, Berlin on Fri, 4 Sept 2026.
+YOVA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at OST, Berlin on Fri, 4 Sept 2026.
 
-YOVA is a techno and trance artist tracked on soundcheck, with 83 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside DJ Henk, XIMA and SOHOE. Next up: OST, Berlin on Fri 4 Sept.
+YOVA is a techno and trance artist tracked on soundcheck, with 84 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 3 more. Often billed alongside DJ Henk, Stinny Stone and XIMA. Next up: OST, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ YOVA is a techno and trance artist tracked on soundcheck, with 83 sets logged ac
 | Fri, 4 Sept 2026 | OST | Berlin |
 | Sat, 19 Sept 2026 | ://about blank | Berlin |
 | Fri, 23 Oct 2026 | Humboldthain Club | Berlin |
+| Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ YOVA is a techno and trance artist tracked on soundcheck, with 83 sets logged ac
 
 ## Shares bills with
 
-DJ Henk, XIMA, SOHOE
+DJ Henk, Stinny Stone, XIMA
 
 *Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/YOVA/)*

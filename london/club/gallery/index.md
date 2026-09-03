@@ -9,7 +9,7 @@ Gallery is a music venue in London listed on soundcheck. 18 upcoming nights, wit
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Paradox Nexus: Lindsey Matthews - Thursdays at Gallery | Lindsey Matthews, On-Off |
-| Fri, 4 Sept 2026 | Organic presents: Gabe | Gabe Live |
+| Fri, 4 Sept 2026 | Organic presents: Gabe, Meduk and Voilla | Gabe Live |
 | Sat, 5 Sept 2026 | Gallery Season 4 Launch party with Dennis Ferrer | Dennis Ferrer, Odrik |
 | Thu, 10 Sept 2026 | Paradox Nexus: Watchers - Thursdays at Gallery | BRADII, Watchers |
 | Sat, 12 Sept 2026 | Boogeyman presents: Jesse Calosso & FLETCH (London Special) | FLETCH, Jesse Calosso, Ramoss |

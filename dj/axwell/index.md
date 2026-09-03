@@ -1,13 +1,14 @@
 # Axwell
 
-Axwell is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
+Axwell is a Electronica and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Sat, 5 Sept 2026.
 
-Axwell is an electronica and progressive house artist tracked on soundcheck, with 4 sets logged across Buenosaires, Miami and Tokyo. Often billed alongside Kaskade, Oliver Heldens and Adam Beyer. Next up: ZEROTOKYO, Tokyo on Fri 16 Oct.
+Axwell is an electronica and progressive house artist tracked on soundcheck, with 5 sets logged across Athens, Buenosaires, Miami and Tokyo. Often billed alongside Adam Ten, Innellea and Kaskade. Next up: Olympic Athletic Center of Athens, Athens on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Olympic Athletic Center of Athens | Athens |
 | Fri, 16 Oct 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
@@ -18,6 +19,6 @@ Axwell is an electronica and progressive house artist tracked on soundcheck, wit
 
 ## Shares bills with
 
-Kaskade, Oliver Heldens, Adam Beyer
+Adam Ten, Innellea, Kaskade
 
 *Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axwell/)*

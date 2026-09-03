@@ -1,8 +1,8 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kimchi Records" on Thu, 3 Sept 2026.
+Sameheads is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kimchi Records" on Thu, 3 Sept 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including ALF CHAMPION, Capablanca, Courtney Bailey and Diamin and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including ALF CHAMPION, André Pahl, Capablanca and Courtney Bailey and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Sameheads is a music venue in Berlin listed on soundcheck. 13 upcoming nights, w
 | Sat, 12 Sept 2026 | HEADZOO with Tomoki Tamura | Courtney Bailey, Tomoki Tamura, Yuzo Iwata |
 | Fri, 18 Sept 2026 | EURO JACK | Dreimal T, Melizards, Sneaker |
 | Sat, 19 Sept 2026 | Sambol Grind - Sambol Foundation Fundraiser | Ike, MPeach, Nive, Perera Elsewhere, SETH DS |
-| Fri, 25 Sept 2026 | ((echon)) pres. Morgan Buckley (Wah Wah Wino) Live | Capablanca, Diamin |
+| Thu, 24 Sept 2026 | ZEPTER | André Pahl |
 
 ## Address
 

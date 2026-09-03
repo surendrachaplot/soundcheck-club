@@ -1,13 +1,14 @@
 # Adam Ten
 
-Adam Ten is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ironworks, London on Sat, 3 Oct 2026.
+Adam Ten is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Sat, 5 Sept 2026.
 
-Adam Ten is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: Ironworks, London on Sat 3 Oct.
+Adam Ten is a house and techno artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: Olympic Athletic Center of Athens, Athens on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Olympic Athletic Center of Athens | Athens |
 | Sat, 3 Oct 2026 | Ironworks | London |
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |

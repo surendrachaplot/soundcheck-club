@@ -1,8 +1,8 @@
 # Audrey Danza
 
-Audrey Danza is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Motel Campo, Geneva on Sat, 5 Sept 2026.
+Audrey Danza is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Motel Campo, Geneva on Sat, 5 Sept 2026.
 
-Audrey Danza is a techno and trance artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: Motel Campo, Geneva on Sat 5 Sept.
+Audrey Danza is a techno and trance artist tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: Motel Campo, Geneva on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Audrey Danza is a techno and trance artist tracked on soundcheck, with 177 sets 
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 3 Oct 2026 | TBA - WAREHOUSE ST DENIS | Paris |
 | Fri, 23 Oct 2026 | Azimut Club | Turin |
+| Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

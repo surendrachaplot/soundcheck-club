@@ -10,7 +10,7 @@ KOKO is a music venue in London listed on soundcheck. 17 upcoming nights, with l
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Louie Vega & Anané: The Ritual | Anane, Daisybelle, GENNARO, KingCrowney, Louie Vega, Max Sinàl, Phill de Janeiro |
 | Sat, 5 Sept 2026 | KOKO Electronic: Sébastien Léger & Roy Rosenfeld | Asch Pintura, Baron, Dorian Craft, Roy Rosenfeld, Sebastien Leger |
-| Fri, 11 Sept 2026 | KOKO Electronic: Gordo | Gordo |
+| Fri, 11 Sept 2026 | KOKO Electronic: Gordo | Gordo, Saachi, Wakyin |
 | Sat, 12 Sept 2026 | KOKO Electronic: Fideles | Alan Dixon, Fideles, Niiomi |
 | Fri, 18 Sept 2026 | KOKO Electronic: Franky Rizardo [SOLD OUT] | Franky Rizardo |
 | Sat, 19 Sept 2026 | KOKO Electronic: Rivo | LUCH (MEX), Rivo, Yulia Niko |

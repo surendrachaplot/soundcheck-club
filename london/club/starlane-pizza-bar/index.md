@@ -16,7 +16,7 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 20 upcoming 
 | Fri, 18 Sept 2026 | Forward x Bonanza present: Starlane London | Benny (El Rio Hostel), Kensa, Kyle Toole, Millie McKee, Moaad BKR, Nicky Macha |
 | Sat, 19 Sept 2026 | Starlane presents: Enrenou | Gabriel Rai, Olita (UK), Raphael Carrau, Tunik |
 | Sun, 20 Sept 2026 | YECAD MUSIC & Bread&Butter Recordings presents: 'Summer Closing' with Direkt at STARLANE | Davide Decay, Direkt, La Gosse, Max., Modebaku, Obreja., Samantha Blackburn, Stefan Andrei |
-| Fri, 25 Sept 2026 | INTO THE WOODS - 10th Anniversary Part 3 w/ CHKLTE, Hish, krif & More | CHKLTE, Hish, Lesenburg, Tommy- (UK), krif |
+| Fri, 25 Sept 2026 | INTO THE WOODS - 10th Anniversary Part 3 w/ CHKLTE, Hish, krif & more | CHKLTE, Hish, Lesenburg, Tommy- (UK), krif |
 | Sat, 26 Sept 2026 | Eargasm's 2nd Birthday ( w/ 3Minds, NOIDMATE, Nic David & Quidders ) | 3 Minds, Ghosts Of Dance, NOIDMATE, Nic David, Quidders |
 
 ## Address

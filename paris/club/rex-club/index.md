@@ -1,8 +1,8 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 18 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Undercore: El Desperado, Nrki, Hidup, Inima" on Thu, 3 Sept 2026.
+Rex Club is a music venue in Paris with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Undercore: El Desperado, Nrki, Hidup, Inima" on Thu, 3 Sept 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 18 upcoming nights, with line-ups including Mariiin, Antal, Canelle Doublekick and Charlotte (FR) and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming nights, with line-ups including Mariiin, Antal, Canelle Doublekick and Charlotte (FR) and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 

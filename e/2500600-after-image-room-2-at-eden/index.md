@@ -1,6 +1,6 @@
 # AFTER IMAGE - ROOM 2 at Eden
 
-AFTER IMAGE - ROOM 2 at Eden on Wed 9 Sept, Ibiza. 2 acts on the bill: Alberto Costa and Angelo Ferreri. House. Preview the line-up and save it on soundcheck.
+AFTER IMAGE - ROOM 2 at Eden on Wed 9 Sept, Ibiza. 3 acts on the bill: Alberto Costa, Angelo Ferreri and NRoxanne. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ AFTER IMAGE - ROOM 2 at Eden on Wed 9 Sept, Ibiza. 2 acts on the bill: Alberto C
 
 - Alberto Costa
 - Angelo Ferreri
+- NRoxanne
 
 *Source: [soundcheck](https://soundcheck.club/e/2500600-after-image-room-2-at-eden/)*

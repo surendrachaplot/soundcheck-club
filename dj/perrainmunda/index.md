@@ -1,13 +1,14 @@
 # Perra Inmunda
 
-Perra Inmunda is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Renate, Berlin on Fri, 18 Sept 2026.
+Perra Inmunda is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Studio1111, Berlin on Sat, 5 Sept 2026.
 
-Perra Inmunda is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside DJ Gigola, MCR-T and ALCATRAZ. Next up: Renate, Berlin on Fri 18 Sept.
+Perra Inmunda is a techno and house artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 15 more. Often billed alongside DJ Gigola, MCR-T and ALCATRAZ. Next up: Studio1111, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Studio1111 | Berlin |
 | Fri, 18 Sept 2026 | Renate | Berlin |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 

@@ -1,13 +1,14 @@
 # parashoot
 
-parashoot is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hangaren, Copenhagen on Sat, 12 Sept 2026.
+parashoot is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Baggen, Copenhagen on Sat, 5 Sept 2026.
 
-parashoot is a house and garage artist based in Denmark, tracked on soundcheck, with 22 sets logged across Copenhagen and London. Often billed alongside Mary Harp, ELOQ and DAISY. Next up: Hangaren, Copenhagen on Sat 12 Sept.
+parashoot is a house and garage artist based in Denmark, tracked on soundcheck, with 23 sets logged across Copenhagen and London. Often billed alongside Mary Harp, ELOQ and DAISY. Next up: Baggen, Copenhagen on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Baggen | Copenhagen |
 | Sat, 12 Sept 2026 | Hangaren | Copenhagen |
 | Sat, 19 Sept 2026 | Pumpehuset | Copenhagen |
 | Fri, 16 Oct 2026 | M.O.T | London |

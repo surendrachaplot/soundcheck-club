@@ -1,8 +1,8 @@
 # OHM
 
-OHM is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Técnica" on Thu, 3 Sept 2026.
+OHM is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Técnica" on Thu, 3 Sept 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Alexy, Anja Schneider, Anna Butter and Antal and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including Aaronovsky, Afidissima, Alexy and Anja Schneider and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
@@ -14,10 +14,10 @@ OHM is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with li
 | Thu, 10 Sept 2026 | System Revival with Haruka, Patrick Russell, Mayss | Haruka, Mayss, Patrick Russell |
 | Fri, 11 Sept 2026 | Against Interpretation Club | Courtesy, Eric D. Clark, Still Agua |
 | Thu, 17 Sept 2026 | Astral Industries | Ario, F-on, Jessie Granqvist, moss (IR) |
+| Fri, 18 Sept 2026 | MERGER | Afidissima, Carl Luis, DJ Plead, Giouann |
 | Sat, 19 Sept 2026 | PuMp Berlin Daytime hosted by Anja Schneider with Skatman | Anja Schneider, Skatman |
 | Sat, 19 Sept 2026 | Life Classics with Antal | Antal, Sanctuary |
 | Thu, 24 Sept 2026 | LA CASITA presents: Banu, CH3LO b2b HUAMMANISER, V.(Live), SPICY LAB & Much More | Alexy, Banu, CH3LO, Huamaniser, S.O.N.O.S, THIRTEEN DOZE, VCO |
-| Fri, 25 Sept 2026 | twin | Cosmo (KR), Lb Honne, Richard Akingbehin, Tina (DE) |
 
 ## Address
 

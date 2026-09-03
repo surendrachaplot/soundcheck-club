@@ -1,13 +1,14 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Óbuda Bay, Budapest on Sat, 5 Sept 2026.
+Stephan Bodzin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Fri, 4 Sept 2026.
 
-Stephan Bodzin is a techno and house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Austin, Bali and Barcelona and 38 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: Óbuda Bay, Budapest on Sat 5 Sept.
+Stephan Bodzin is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: Olympic Athletic Center of Athens, Athens on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | Olympic Athletic Center of Athens | Athens |
 | Sat, 5 Sept 2026 | Óbuda Bay | Budapest |
 | Wed, 9 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |

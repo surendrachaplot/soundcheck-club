@@ -2,7 +2,7 @@
 
 nachbar is a music venue in Amsterdam with 25 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Electro Boutique w/ Mayo, YAR b2b Glandorff, Frank Zaza" on Thu, 3 Sept 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, with line-ups including Cinnaman, COZi, DJ Koolt and Emvae and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, with line-ups including Cinnaman, COZi, DEVØX and DJ Koolt and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 

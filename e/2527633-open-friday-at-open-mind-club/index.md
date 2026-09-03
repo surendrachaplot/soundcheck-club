@@ -1,6 +1,6 @@
-# Open Friday - Ɑ͞ ̶͞ ̶͞ ̶͞ ﻝﮞ͞ at Open Mind Club
+# Open Friday at Open Mind Club
 
-Open Friday - Ɑ͞ ̶͞ ̶͞ ̶͞ ﻝﮞ͞ at Open Mind Club on Fri 4 Sept, Barcelona. House. Preview the line-up and save it on soundcheck.
+Open Friday at Open Mind Club on Fri 4 Sept, Barcelona. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

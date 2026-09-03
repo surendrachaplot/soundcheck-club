@@ -1,14 +1,15 @@
 # Joyce Muniz
 
-Joyce Muniz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Joyce Muniz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
-Joyce Muniz is a house and techno artist tracked on soundcheck, with 70 sets logged across Amsterdam, Bali, Berlin and Cologne and 21 more. Often billed alongside Mira, Anja Schneider and JAMIIE. Next up: Kater, Berlin on Fri 11 Sept.
+Joyce Muniz is a house and techno artist tracked on soundcheck, with 71 sets logged across Amsterdam, Bali, Berlin and Cologne and 21 more. Often billed alongside Mira, Nick Hanzo and Anja Schneider. Next up: Kater, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Kater | Berlin |
+| Fri, 18 Sept 2026 | SASS Music Club | Vienna |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Joyce Muniz is a house and techno artist tracked on soundcheck, with 70 sets log
 
 ## Shares bills with
 
-Mira, Anja Schneider, JAMIIE
+Mira, Nick Hanzo, Anja Schneider
 
 *Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joycemuniz/)*

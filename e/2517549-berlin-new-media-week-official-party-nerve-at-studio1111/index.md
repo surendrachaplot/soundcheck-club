@@ -1,6 +1,6 @@
 # Berlin New Media Week official party: Nerve at Studio1111
 
-Berlin New Media Week official party: Nerve at Studio1111 on Sat 5 Sept, Berlin. 4 acts on the bill: N (33), Nundale, Portrait XO and Sonderbar. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Berlin New Media Week official party: Nerve at Studio1111 on Sat 5 Sept, Berlin. 5 acts on the bill: N (33), Nundale, Perra Inmunda and Portrait XO and 1 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Berlin New Media Week official party: Nerve at Studio1111 on Sat 5 Sept, Berlin.
 
 - N (33)
 - Nundale
+- Perra Inmunda
 - Portrait XO
 - Sonderbar
 

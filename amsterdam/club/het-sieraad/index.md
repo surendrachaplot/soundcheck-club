@@ -1,8 +1,8 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kikixgold Soundsystem W/ Kikixgold Soundsystem - Koperblond - Anne Nymphaea" on Fri, 4 Sept 2026.
+Het Sieraad is a music venue in Amsterdam with 20 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kikixgold Soundsystem W/ Kikixgold Soundsystem - Koperblond - Anne Nymphaea" on Fri, 4 Sept 2026.
 
-Het Sieraad is a music venue in Amsterdam listed on soundcheck. 19 upcoming nights, with line-ups including Adam Ten, Adapter, Arc Music and Berkan V8 and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
+Het Sieraad is a music venue in Amsterdam listed on soundcheck. 20 upcoming nights, with line-ups including Adam Ten, Adapter, Arc Music and Berkan V8 and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Revolver Upstairs, Melbourne on Thu, 3 Sept 2026.
+Trancemaster Krause is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Revolver Upstairs, Melbourne on Thu, 3 Sept 2026.
 
-Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Revolver Upstairs, Melbourne on Thu 3 Sept.
+Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Revolver Upstairs, Melbourne on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 19
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
+| Fri, 25 Sept 2026 | Grelle Forelle | Vienna |
 | Sat, 10 Oct 2026 | Junkyard Dortmund | Dortmund-essen |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Wed, 18 Nov 2026 | Lokschuppen Berlin | Berlin |

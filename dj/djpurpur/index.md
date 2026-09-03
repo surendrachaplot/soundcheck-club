@@ -1,13 +1,14 @@
 # DJ Purpur
 
-DJ Purpur is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+DJ Purpur is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Humboldthain Club, Berlin on Fri, 25 Sept 2026.
 
-DJ Purpur is a techno and house artist tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside fatmuska, tamarawrx3 and DJ SOURCE. Next up: ://about blank, Berlin on Sat 26 Sept.
+DJ Purpur is a techno and house artist tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside tamarawrx3, Pavelo Promillo and fatmuska. Next up: Humboldthain Club, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Humboldthain Club | Berlin |
 | Sat, 26 Sept 2026 | ://about blank | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ DJ Purpur is a techno and house artist tracked on soundcheck, with 19 sets logge
 
 ## Shares bills with
 
-fatmuska, tamarawrx3, DJ SOURCE
+tamarawrx3, Pavelo Promillo, fatmuska
 
 *Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpurpur/)*

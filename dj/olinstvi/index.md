@@ -1,14 +1,15 @@
 # Olinstvi
 
-Olinstvi is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kolektor, Prague on Thu, 3 Sept 2026.
+Olinstvi is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kolektor, Prague on Thu, 3 Sept 2026.
 
-Olinstvi is a techno and electronica artist based in Czech Republic, tracked on soundcheck, with 64 sets logged across Barcelona, Belgrade, Berlin and London and 1 more. Often billed alongside Raphael Kosmos, Demonika and Fatty M. Next up: Kolektor, Prague on Thu 3 Sept.
+Olinstvi is a techno and electronica artist based in Czech Republic, tracked on soundcheck, with 65 sets logged across Barcelona, Belgrade, Berlin and London and 1 more. Often billed alongside Raphael Kosmos, Demonika and Fatty M. Next up: Kolektor, Prague on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Kolektor | Prague |
+| Fri, 11 Sept 2026 | TBA - Přehrada Hostivař  | Prague |
 
 ## Recently played
 

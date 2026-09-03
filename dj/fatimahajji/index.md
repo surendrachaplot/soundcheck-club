@@ -1,8 +1,8 @@
 # Fatima Hajji
 
-Fatima Hajji is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 4 Sept 2026.
+Fatima Hajji is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 4 Sept 2026.
 
-Fatima Hajji is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Alignment, Shlømo and Trym. Next up: NOS Event Center, Losangeles on Fri 4 Sept.
+Fatima Hajji is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Alignment, Shlømo and Trym. Next up: NOS Event Center, Losangeles on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Fatima Hajji is a techno and house artist tracked on soundcheck, with 189 sets l
 | Fri, 2 Oct 2026 | TBA - Kai Tak Cruise Terminal Waiting Hall A | Hong Kong |
 | Sat, 3 Oct 2026 | TBA - XOX Arena | Kuala Lumpur |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
+| Fri, 13 Nov 2026 | O der Klub | Vienna |
 
 ## Recently played
 

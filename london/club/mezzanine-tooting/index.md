@@ -1,6 +1,6 @@
 # Mezzanine - Tooting
 
-Mezzanine - Tooting is a music venue in London with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Bites&Beats - HOUSE AND TECHNO PARTY 75% SOLD OUT" on Fri, 4 Sept 2026.
+Mezzanine - Tooting is a music venue in London with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Bites&Beats - HOUSE AND TECHNO PARTY 90% SOLD OUT" on Fri, 4 Sept 2026.
 
 Mezzanine - Tooting is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including B_LOVE, Ben Carr, DJ Mods and Ginn LDN and 2 more. Browse upcoming dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
 
@@ -8,7 +8,7 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 8 upcoming 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Bites&Beats - HOUSE AND TECHNO PARTY 75% SOLD OUT | Matt Arnold |
+| Fri, 4 Sept 2026 | Bites&Beats - HOUSE AND TECHNO PARTY 90% SOLD OUT | Matt Arnold |
 | Fri, 11 Sept 2026 | Frequency Flux Vol.5 |  |
 | Thu, 17 Sept 2026 | Spectrum: Open Decks | Ben Carr, Vinni_frm_bratfud |
 | Fri, 18 Sept 2026 | Say Less & Friends at the Mezzanine | JDM, Tommy Eats |

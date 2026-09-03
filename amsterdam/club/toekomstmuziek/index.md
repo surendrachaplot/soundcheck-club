@@ -10,7 +10,7 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 14 upcoming n
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Føler x LINKD x Toekomstmuziek minifestival | AUTOFLOWER, Michel de Hey |
 | Fri, 11 Sept 2026 | Omnibus w/ Bruno Schmidt | Bruno Schmidt, Combined Type |
-| Fri, 11 Sept 2026 | The Pink Room | Initials, Karmon, Vanell |
+| Fri, 11 Sept 2026 | The Pink Room | Initials, Karmon, Peak w/ Vic, Vanell |
 | Sat, 12 Sept 2026 | Ritual |  |
 | Sat, 26 Sept 2026 | Sandunga Clubnight | Lidia Lo, Niklas Becher, UriBlanch |
 | Fri, 2 Oct 2026 | UNTIED | Drabes, LIKE61, Meestro |

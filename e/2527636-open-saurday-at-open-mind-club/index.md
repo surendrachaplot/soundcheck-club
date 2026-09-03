@@ -1,6 +1,6 @@
-# Open Saurday - Ɑ͞ ̶͞ ̶͞ ̶͞ ﻝﮞ͞ at Open Mind Club
+# Open Saurday at Open Mind Club
 
-Open Saurday - Ɑ͞ ̶͞ ̶͞ ̶͞ ﻝﮞ͞ at Open Mind Club on Sat 5 Sept, Barcelona. House. Preview the line-up and save it on soundcheck.
+Open Saurday at Open Mind Club on Sat 5 Sept, Barcelona. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

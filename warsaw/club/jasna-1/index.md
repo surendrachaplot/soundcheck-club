@@ -17,7 +17,7 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 13 upcoming nights, wit
 | Sat, 26 Sept 2026 | JASNA 9TH BDAY — DAY 2 | Aii PS, Earth Trax, Ilya Semashkevich, MATRIX3K, MKO (PL), Nadezh No, Olivia, Sandwell District, zenwerk |
 | Fri, 2 Oct 2026 | J1 x Unsound - SOFT LAUNCH PARTY with Donato Dozzy, dtekk, emerai B2B VI / Tom Boogizm  | Donato Dozzy, Tom Boogizm, Vi (PL), dtekk, emerai |
 | Sat, 3 Oct 2026 | Unsound Warszawa 2026: FUR - VTSS / Bobby Beethoven / Emma DJ b2b Low Jack / Some Guest + more | Emma DJ, Low Jack, Some Guest, VTSS, blastah, jul.ci |
-| Fri, 9 Oct 2026 | TAXAPHONE by Emil Zenko | Emil Zenko |
+| Fri, 9 Oct 2026 | TAXOPHONE by Emil Zenko | Emil Zenko |
 
 ## Address
 

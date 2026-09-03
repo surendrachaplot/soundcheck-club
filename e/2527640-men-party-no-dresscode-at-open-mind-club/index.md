@@ -1,6 +1,6 @@
-# MEN PARTY - NO DRESSCODE -ूाीू at Open Mind Club
+# MEN PARTY - NO DRESSCODE at Open Mind Club
 
-MEN PARTY - NO DRESSCODE -ूाीू at Open Mind Club on Sun 6 Sept, Barcelona. 1 act on the bill: Voodoo. House. Preview the line-up and save it on soundcheck.
+MEN PARTY - NO DRESSCODE at Open Mind Club on Sun 6 Sept, Barcelona. 1 act on the bill: Voodoo. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

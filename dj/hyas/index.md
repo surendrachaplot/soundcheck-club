@@ -1,13 +1,14 @@
 # Hyas
 
-Hyas is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at La Marbrerie, Paris on Sat, 26 Sept 2026.
+Hyas is a Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Badaboum, Paris on Fri, 25 Sept 2026.
 
-Hyas is a bass and breakbeat artist tracked on soundcheck, with 100 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Pura Pura, Kaba and Beatrice M.. Next up: La Marbrerie, Paris on Sat 26 Sept.
+Hyas is a bass and breakbeat artist tracked on soundcheck, with 101 sets logged across Amsterdam, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Pura Pura, Kaba and Beatrice M.. Next up: Badaboum, Paris on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Badaboum | Paris |
 | Sat, 26 Sept 2026 | La Marbrerie | Paris |
 
 ## Recently played

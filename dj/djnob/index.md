@@ -1,14 +1,15 @@
 # DJ NOB
 
-DJ NOB is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Möbel-Olfe, Berlin on Sat, 5 Sept 2026.
+DJ NOB is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Möbel-Olfe, Berlin on Sat, 5 Sept 2026.
 
-DJ NOB is a house and disco artist tracked on soundcheck, with 21 sets logged across Berlin, Lisbon and Prague. Often billed alongside Cleymoore, rubi* and ALINA (3). Next up: Möbel-Olfe, Berlin on Sat 5 Sept.
+DJ NOB is a house and disco artist tracked on soundcheck, with 22 sets logged across Berlin, Lisbon and Prague. Often billed alongside Cleymoore, rubi* and ALINA (3). Next up: Möbel-Olfe, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Möbel-Olfe | Berlin |
+| Fri, 25 Sept 2026 | migas, a listening bar | Berlin |
 
 ## Recently played
 

@@ -1,14 +1,16 @@
 # Marylou
 
-Marylou is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at De Sering, Amsterdam on Fri, 23 Oct 2026.
+Marylou is a Club and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
 
-Marylou is a club and experimental artist tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside ophélie, Darwin and Marco Shuttle. Next up: De Sering, Amsterdam on Fri 23 Oct.
+Marylou is a club and experimental artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside ophélie, Darwin and Marco Shuttle. Next up: Panke, Berlin on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 24 Sept 2026 | Panke | Berlin |
 | Fri, 23 Oct 2026 | De Sering | Amsterdam |
+| Wed, 28 Oct 2026 | Kantine am Berghain | Berlin |
 
 ## Recently played
 

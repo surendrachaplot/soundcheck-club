@@ -3090,7 +3090,29 @@
    the diary shipped; web returned `ev.mine` from the same endpoint and never
    drew it, so a night you had already written up went on offering "log a night"
    — the page asking a question it has the answer to. */
-.ev-mine{margin:16px 0 4px;padding-top:14px;border-top:1px solid var(--border);max-width:560px}
+/* The logged-night block. It carries its OWN gutter: inside the app's WebView
+   the parent that used to supply padding is absent, so this sat flush against
+   x=0 with its label touching the screen edge. */
+.ev-mine{margin:16px 0 4px;padding:14px var(--sp-4) 0;border-top:1px solid var(--border);max-width:560px}
+.evm-h{font:800 var(--fs-2xs)/var(--lh-2xs) var(--body);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.evm-top{display:flex;align-items:center;gap:16px;margin-top:10px}
+/* The numeral always means something — a rating if you gave one, else the count
+   of acts you caught. Never a placeholder. */
+.evm-num{font:700 48px/39px var(--body);color:var(--accent);flex:0 0 auto}
+.evm-sym{font-size:21px}
+.evm-cap{display:flex;flex-direction:column;min-width:0}
+.evm-capt{font:400 var(--fs-base)/var(--lh-base) var(--body);color:var(--muted)}
+.evm-where{font:700 var(--fs-md)/var(--lh-md) var(--body);color:var(--fg);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.evm-caponly{font:400 var(--fs-base)/var(--lh-base) var(--body);color:var(--muted);margin-top:8px}
+.evm-row{display:flex;align-items:center;gap:12px;padding:11px 0;margin-top:8px;border-top:1px dashed var(--border)}
+.evm-stars{font:700 var(--fs-sm)/1 var(--body);color:var(--accent);flex:0 0 92px}
+.evm-act{font:700 var(--fs-md)/var(--lh-md) var(--body);color:var(--fg);flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.evm-link{font:500 var(--fs-sm)/1 var(--body);color:var(--accent);text-decoration:none;flex:0 0 auto}
+/* A real control, not a word. Natural width — never stretched. */
+.evm-edit{display:inline-flex;align-items:center;gap:8px;margin-top:14px;height:48px;padding:0 18px;
+  border-radius:var(--radius-btn);cursor:pointer;
+  border:1px solid rgba(255,154,61,0.4);background:rgba(255,154,61,0.1);
+  font:800 var(--fs-2xs)/1 var(--body);letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
 .ev-mine-top{display:flex;align-items:center;justify-content:space-between;gap:12px}
 .ev-mine-h{font:800 var(--fs-2xs)/var(--lh-2xs) var(--body);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
 .ev-mine-stars{font:700 var(--fs-md)/1 var(--body);color:var(--accent)}
@@ -4353,7 +4375,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788395491885">
+<meta name="sc-build" content="1788438504830">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4412,7 +4434,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">25 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">109 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">137 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li><li><a href="/london/2026-09-10/">Thu 10 Sept <span class="c">18 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-03/">Thu 3 Sept <span class="c">25 events</span></a></li><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">111 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">138 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li><li><a href="/london/2026-09-10/">Thu 10 Sept <span class="c">18 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -7902,6 +7924,61 @@
     }
     // Venue DNA box — rendered synchronously from v.dna (folded into /api/venue),
     // so it paints in place with the rest of the page. '' when there's nothing.
+    // PROMOTER DNA — the same box, different rows. Every row has a threshold
+    // behind it in diary.js promoterDna(): a promoter with four nights gets
+    // rooms, line-up size and door price, and NO cadence, because "1.1 nights a
+    // month" from four events is a true number that describes nothing.
+    function promoterDnaBoxHTML(j, name){
+      if(!j) return '';
+      var rows='';
+      if((j.tags||[]).length) rows+='<div class="vd-tags">'+j.tags.slice(0,5).map(function(t){ return '<span class="vd-tag">'+esc(t)+'</span>'; }).join('')+'</div>';
+      if(j.rooms)   rows+='<div class="vd-row"><span class="vd-k">Rooms</span><span>'+esc(j.rooms)+'</span></div>';
+      if(j.cadence) rows+='<div class="vd-row"><span class="vd-k">How often</span><span>'+esc(j.cadence)+'</span></div>';
+      if(j.lineup)  rows+='<div class="vd-row"><span class="vd-k">Line-ups</span><span>'+esc(j.lineup)+'</span></div>';
+      if(j.door)    rows+='<div class="vd-row"><span class="vd-k">Door</span><span>'+esc(j.door)+'</span></div>';
+      if(!rows) return '';
+      // Name the sample. A DNA panel that will not say what it is based on is
+      // asking to be trusted rather than checked.
+      var note='From '+j.n+' night'+(j.n===1?'':'s')+' they&rsquo;ve put on'+(j.months?' over '+j.months+' months':'')+'.';
+      if(!j.cadence) note+=' No cadence yet &mdash; that needs a longer run.';
+      return '<div class="sec-h" style="margin-top:26px">Promoter DNA</div><div class="vd-box">'+rows+'<div class="vd-note">'+note+'</div></div>';
+    }
+    /**
+     * The night you already logged, on the event page.
+     *
+     * It used to be an eyebrow, optional stars, an optional acts line, an
+     * optional note and a text "Edit" — so a night filed with NO overall rating
+     * and no note rendered as literally two bare orange words. That is now the
+     * COMMON case, because acts stopped being required when logging.
+     *
+     * This is the native EventScreen's block, which was already right: a hero
+     * numeral that always means something, the venue and date under it, dashed
+     * act rows, the note, and EDIT as a real pill rather than a word.
+     */
+    function evMineHTML(ev){
+      var m=ev.mine, arts=(m.artists||[]), rated=arts.filter(function(a){ return a.rating!=null; });
+      // THE HERO NUMBER HAS TO MEAN SOMETHING. Your rating when you gave one,
+      // otherwise how many acts you caught — never a placeholder dash.
+      var num=(m.rating!=null)?m.rating:arts.length, sym=(m.rating!=null)?'\u2605':'\u00d7';
+      var cap=(m.rating!=null)?'the night you caught':('act'+(arts.length===1?'':'s')+' you caught');
+      // Nothing to count and nothing rated: say the plain true thing instead of
+      // showing "0×".
+      var head=(m.rating==null && !arts.length)
+        ? '<div class="evm-caponly">You logged this night.</div>'
+        : '<div class="evm-top"><span class="evm-num">'+num+'<span class="evm-sym">'+sym+'</span></span>'+
+          '<span class="evm-cap"><span class="evm-capt">'+cap+'</span>'+
+          '<b class="evm-where">'+esc([ev.venue, fmtDateLabel(String(m.gig_date||ev.event_date||'').slice(0,10))].filter(Boolean).join(' · '))+'</b></span></div>';
+      return '<div class="ev-mine">'+
+        '<div class="evm-h">You were there</div>'+ head +
+        rated.map(function(a){
+          return '<div class="evm-row"><span class="evm-stars">'+'\u2605'.repeat(a.rating)+'</span>'+
+            '<b class="evm-act">'+esc(a.name)+'</b>'+
+            (a.slug?'<a class="evm-link nav" href="'+esc(djHref(a.slug))+'" data-artist="'+esc(a.slug)+'">view artist \u203a</a>':'')+'</div>';
+        }).join('')+
+        (m.note?'<div class="ev-mine-note">'+esc(m.note)+'</div>':'')+
+        '<button class="evm-edit" id="ev-mine-edit" type="button">\u270e Edit this night</button>'+
+      '</div>';
+    }
     function dnaBoxHTML(j){
       if(!j || (!(j.tags||[]).length && !(j.genres||[]).length && !(j.similar||[]).length && !j.soundSystem && !(j.crowdTags||[]).length && !j.reviews)) return '';
       var rows='';
@@ -10043,6 +10120,27 @@
         })();
       }catch(_){ openPanel('<div class="empty">Couldn’t load that artist.</div>'); }
     }
+    // Mirrors toggleVenueFollow exactly — optimistic label, reverted on failure.
+    // A follow button that flips to "Following" and silently did nothing is the
+    // class of bug AGENTS.md rule 14 exists for.
+    async function togglePromoterFollow(p, btn){
+      if(!currentUser){ openAuth(); return; }
+      var on=btn.classList.contains('on'), next=!on;
+      btn.classList.toggle('on', next);
+      btn.setAttribute('aria-pressed', next?'true':'false');
+      var lbl=btn.querySelector('span'); if(lbl) lbl.textContent=next?'Following':'Follow';
+      try{
+        var r=await authedFetch('/api/promoter/follow',{ method:'POST', headers:{'Content-Type':'application/json'},
+          body:JSON.stringify({ slug:p.slug, name:p.name, follow:next }) });
+        if(!r.ok) throw new Error('failed');
+        p.following=next;
+      }catch(_){
+        btn.classList.toggle('on', on);
+        btn.setAttribute('aria-pressed', on?'true':'false');
+        if(lbl) lbl.textContent=on?'Following':'Follow';
+        showToast('Couldn\u2019t save that. Try again?');
+      }
+    }
     function toggleVenueFollow(v, btn){
       if(!currentUser){ openAuth(); return; }
       var willFollow=!btn.classList.contains('on');
@@ -10748,15 +10846,36 @@
       try{
         var r=await authedFetch('/api/promoter?slug='+encodeURIComponent(slug)); var p=await r.json();
         var dispName=p.name||slug;
-        var av='<span class="artist-av" style="background-image:'+avatarBg(dispName,null)+'"></span>';
         // A promoter with ONE city belongs to it — say so, and hang the page off that
         // city's index so it is not floating in the site with nothing above it.
         var pcity=(p.cities||[]).length===1?p.cities[0]:'';
         var crumbCity=pcity||currentCity||'london';
         var h='<nav class="crumb"><a class="nav" href="'+esc(SC_BASE+encodeURIComponent(crumbCity)+'/')+'">'+esc(cityLabel(crumbCity))+'</a>'+
               '<span>&rsaquo;</span><a class="nav" href="'+esc(promotersHref(crumbCity))+'">Promoters</a></nav>';
-        h+='<div class="artist-head artist-hero">'+av+'<div class="artist-head-tx"><div class="ah-namerow"><h3>'+esc(dispName)+'</h3></div><div class="sub">'+
-              ['Promoter', pcity?cityLabel(pcity):''].filter(Boolean).join(' · ')+'</div></div>'+(p.description?'<p class="seo-desc">'+esc(p.description)+'</p>':'')+'</div>';
+        // THE SAME fp-hero AS THE VENUE PAGE. The promoter page was built before
+        // venue_follows and never caught up — it had an avatar, a stats line and
+        // no follow, while the venue page moved on. Suren: "the exacttttt same
+        // treatment as the venue page in the top half".
+        var pNext0=nextPlayableEvent(p.upcoming);
+        var pNextArts=(pNext0&&pNext0.lineup)?pNext0.lineup.map(function(a){ return a.name; }).filter(Boolean):[];
+        var _pndl=(pNext0&&pNext0.event_date)?fmtDateLabel(String(pNext0.event_date).slice(0,10)):'';
+        var pKick=pNextArts.length?('Next · '+[_pndl, pNextArts.slice(0,6).map(esc).join(', ')].filter(Boolean).join(' · '))
+                                  :['Promoter', pcity?esc(cityLabel(pcity)):''].filter(Boolean).join(' · ');
+        if(p.followers>1) pKick+=(pKick?' ':'')+'<b class="fp-foll">'+p.followers+' followers</b>';
+        var pFollow='<button class="fp-ab'+(p.following?' on':'')+'" id="pf-btn" type="button" aria-pressed="'+(p.following?'true':'false')+'">'+HEART_SVG+'<span>'+(p.following?'Following':'Follow')+'</span></button>';
+        var pLogSvg='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>';
+        var pLog='<button class="fp-ab" id="pp-been" type="button">'+pLogSvg+'<span>Log a gig</span></button>';
+        var pActs='<div class="fp-acts">'+(pNext0?('<button class="fp-ab go" id="pp-radio" type="button" aria-label="Play the next lineup">'+PLAY_SVG+'<span>Play</span></button>'):'')+pFollow+pLog+'</div>';
+        h+='<div class="fp-artist"><div class="fp-hero">'+
+             '<div class="fp-photo">'+genHero(dispName, slug)+(pcity?'<div class="fp-origin">'+esc(cityLabel(pcity))+'</div>':'')+'</div>'+
+             '<div class="fp-hx">'+
+               '<div class="fp-kick">'+pKick+'</div>'+
+               '<div class="fp-namerow"><h1 class="fp-h1">'+esc(dispName)+'</h1></div>'+
+               (p.description?'<p class="fp-bio">'+esc(p.description)+'</p>':'')+
+               pActs+
+             '</div>'+
+           '</div>';
+        h+='<div id="pp-dna">'+promoterDnaBoxHTML(p.dna, dispName)+'</div>';
         // WHAT IS ON beats WHAT EVER WAS. "217 events · 1 city" reads like an archive;
         // somebody deciding on a Friday needs the live number first, so upcoming leads
         // and the all-time count trails it.
@@ -10767,24 +10886,45 @@
         if((p.cities||[]).length>1) stats.push('<span><b>'+p.cities.length+'</b> cities</span>');
         if(stats.length) h+='<div class="panel-stat" style="margin-top:12px">'+stats.join('')+'</div>';
         if(p.youLike) h+='<div class="pp-affinity">You’ve saved <b>'+p.youLike+'</b> artist'+(p.youLike===1?'':'s')+' this promoter books — you probably like their nights.</div>';
-        if((p.genres||[]).length) h+='<div class="ev-genres" style="margin-top:12px">'+p.genres.slice(0,6).map(function(g){ return '<span class="gchip">'+esc(g)+'</span>'; }).join('')+'</div>';
-        var pNext=nextPlayableEvent(p.upcoming);
-        if(pNext) h+='<div class="artist-actions" style="max-width:240px;margin-top:12px"><button class="ev-radio" id="pp-radio" type="button" aria-label="Play the next lineup">'+RADIO_SVG+'<span>Play</span></button></div>';
-        h+='<div id="pp-upcoming"></div><div id="pp-artists"></div><div id="pp-venues"></div><div id="pp-similar"></div><div id="pp-past"></div>';
+        var pNext=pNext0;
+        // UPCOMING / PAST AS TABS, like the venue and artist pages. They used to
+        // be two stacked sections, so a promoter with 200 past nights buried the
+        // two that are actually coming up.
+        var pUp=(p.upcoming||[]), pPast=(p.past||[]), pTabs=[];
+        if(pUp.length) pTabs.push({ key:'upcoming', label:'Upcoming', count:pUp.length, html:'<div id="pp-upcoming"></div>' });
+        if(pPast.length) pTabs.push({ key:'past', label:'Past', count:pPast.length, html:'<div id="pp-past"></div>' });
+        var _pDeep=(location.hash||'').replace(/^#/,'');
+        var _pActive=pTabs.some(function(t){ return t.key===_pDeep; })?_pDeep:(pTabs[0]&&pTabs[0].key);
+        if(pTabs.length>=2){
+          h+='<div class="fp-tabs" role="tablist">'+pTabs.map(function(t){ var on=t.key===_pActive; return '<button class="fp-tab'+(on?' on':'')+'" type="button" role="tab" aria-selected="'+on+'" data-tab="'+t.key+'">'+esc(t.label)+(t.count!=null?'<span class="c">'+t.count+'</span>':'')+'</button>'; }).join('')+'</div>'+
+            pTabs.map(function(t){ return '<div class="fp-tabpanel'+(t.key===_pActive?'':' hide')+'" data-panel="'+t.key+'">'+t.html+'</div>'; }).join('');
+        } else if(pTabs.length===1){ h+=pTabs[0].html; }
+        // Below the fold is unchanged — artists they book, venues, similar.
+        h+='<div id="pp-artists"></div><div id="pp-venues"></div><div id="pp-similar"></div>';
+        h+='</div>';   // close .fp-artist
         openPanel(h);
         var prb=document.getElementById('pp-radio');
         if(prb && pNext) prb.addEventListener('click',function(){ playEventLineupRadio({ id:pNext.id, venue:pNext.venue, event_date:pNext.event_date, poster_url:pNext.poster_url, lineup:pNext.lineup }); });
+        var pfBtn=document.getElementById('pf-btn');
+        if(pfBtn) pfBtn.addEventListener('click',function(){ togglePromoterFollow(p, pfBtn); });
+        var pBeen=document.getElementById('pp-been');
+        if(pBeen) pBeen.addEventListener('click',function(){ openLog({ q: dispName }); });
+        document.querySelectorAll('#page-body .fp-tab[data-tab]').forEach(function(b){ b.addEventListener('click',function(){ var k=b.dataset.tab;
+          document.querySelectorAll('#page-body .fp-tab').forEach(function(x){ var on=x===b; x.classList.toggle('on',on); x.setAttribute('aria-selected',on?'true':'false'); });
+          document.querySelectorAll('#page-body .fp-tabpanel').forEach(function(pn){ pn.classList.toggle('hide', pn.dataset.panel!==k); });
+          try{ history.replaceState(history.state,'','#'+k); }catch(_){}
+        }); });
         var _pcanon=location.origin+SC_BASE+'promoter/'+slug+'/';
         var _pdesc=p.description||(dispName+' — upcoming events, line-ups and the club nights they put on, on soundcheck.');
         setSeo(dispName+' — events & line-ups | soundcheck', _pdesc, { "@context":"https://schema.org","@type":"Organization", name:dispName, url:_pcanon, description:_pdesc }, _pcanon);
         var up=(p.upcoming||[]), pu=document.getElementById('pp-upcoming');
         if(pu && up.length){
-          pu.innerHTML='<div class="sec-h" style="margin-top:26px">Upcoming<span class="ct">'+up.length+'</span></div><div id="pp-strip"></div><div id="pp-cards"></div>';
+          pu.innerHTML='<div id="pp-strip"></div><div id="pp-cards"></div>';
           mountDatedEventCards(document.getElementById('pp-strip'), document.getElementById('pp-cards'), up, {showCity:true});
         }
         var pst=(p.past||[]), ppst=document.getElementById('pp-past');
         if(ppst && pst.length){
-          ppst.innerHTML='<div class="pf-box" style="margin-top:16px"><div class="sec-h">Past events</div><ul class="gig-history">'+pst.map(function(g){
+          ppst.innerHTML='<div class="pf-box" style="margin-top:16px"><ul class="gig-history">'+pst.map(function(g){
             var d=fmtDateLabel(String(g.event_date).slice(0,10));
             var line=(g.lineup||[]).map(function(a){ return a.name; }).filter(Boolean).slice(0,3).join(', ');
             var label=g.title||line||'Event';
@@ -11055,16 +11195,7 @@
             '<div class="evi-hd">Send soundcheck to your friends</div>'+
             '<button class="ob-cta" id="fp-ev-invite" type="button">Invite</button>'+
           '</div>'))+
-          (ev.mine?('<div class="ev-mine">'+
-              '<div class="ev-mine-top"><span class="ev-mine-h">You were there</span>'+
-                (ev.mine.rating!=null?'<span class="ev-mine-stars">'+'\u2605'.repeat(ev.mine.rating)+'</span>':'')+
-              '</div>'+
-              ((ev.mine.artists||[]).some(function(a){ return a.rating!=null; })
-                ? '<div class="ev-mine-acts">'+(ev.mine.artists||[]).filter(function(a){ return a.rating!=null; })
-                    .map(function(a){ return esc(a.name)+' '+a.rating; }).join('&nbsp;&nbsp;·&nbsp;&nbsp;')+'</div>' : '')+
-              (ev.mine.note?'<div class="ev-mine-note">'+esc(ev.mine.note)+'</div>':'')+
-              '<button class="ev-mine-edit" id="ev-mine-edit" type="button">Edit</button>'+
-            '</div>'):'')+
+          (ev.mine?evMineHTML(ev):'')+
           '<div class="fp-sec"><div class="fp-sech">Lineup <span>'+(ev.artists||[]).length+' artists</span></div><div id="fp-lineup"></div></div>'+
           '<div id="ev-review" style="margin-top:22px"></div>';
         if(ev.venueLat!=null && ev.venueLng!=null){
@@ -13540,13 +13671,44 @@
   </script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
-   1) Android renders rem/em larger than iOS → whole app at 90% on Android.
+   1) Android renders rem/em larger than iOS → fit the app to the width the
+      device actually reports, rather than a flat 90% for every handset.
    2) Mobile (≤640px) LIST VIEW for event grids: home paints + every
       mountEventCards grid (artist/venue upcoming, search event lists).
       Row keeps all wireEvcCards hooks (.evc-poster wraps the row and opens
       the sheet, .evc-play queues the line-up, .heart[data-pick-evt] saves). */
 (function(){
-  try{ if(/Android/i.test(navigator.userAgent||'')) document.documentElement.style.zoom='0.9'; }catch(_){}
+  // ANDROID FIT — MEASURED, NOT ASSUMED.
+  //
+  // This was a flat zoom:0.9 for every Android device, which is only correct for
+  // a phone that reports 360 CSS px. It is too small on a 412px Pixel and, far
+  // worse, nowhere near enough on a handset whose owner has raised Android's
+  // Display Size — that setting REDUCES the CSS width, so the layout gets
+  // proportionally bigger and starts wrapping and clipping. Suren, on his own
+  // phone: "it is tooo zoomed in - can we not scale it based on the device?"
+  //
+  // So: derive the factor from the width the device actually reports, aiming at
+  // the width the app is designed against. 360 → 0.90 (what the old constant
+  // happened to be), 320 → 0.80, 412 → 1 and no zoom at all.
+  //
+  // Clamped both ends. Below 0.8 the type is too small to read, and above 1 we
+  // would be magnifying a layout that already fits.
+  (function(){
+    if(!/Android/i.test(navigator.userAgent||'')) return;
+    var DESIGN=400, MIN=0.8, MAX=1;
+    function fit(){
+      try{
+        var de=document.documentElement;
+        de.style.zoom='';                                  // measure UNZOOMED, or we compound
+        var w=de.clientWidth||window.innerWidth||DESIGN;
+        var z=Math.max(MIN, Math.min(MAX, w/DESIGN));
+        de.style.zoom = (z>=0.999) ? '' : String(Math.round(z*1000)/1000);
+      }catch(_){}
+    }
+    fit();
+    // Rotation, split-screen, and the keyboard on some devices all change it.
+    window.addEventListener('resize', fit, {passive:true});
+  })();
   function init(){
   if(typeof cardHTML!=='function' || typeof paintCurrentGrid!=='function') return;
   var MQ=window.matchMedia('(max-width:640px)');

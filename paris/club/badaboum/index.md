@@ -1,8 +1,8 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Club — LA CH!CK: BEY DAY BIRTHDAY EVE PARTY" on Thu, 3 Sept 2026.
+Badaboum is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Club — LA CH!CK: BEY DAY BIRTHDAY EVE PARTY" on Thu, 3 Sept 2026.
 
-Badaboum is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including anyoneID, BADSISTA, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
+Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including anyoneID, BADSISTA, Bennet and Bennet (DE) and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Frædag: Wallace + G-HA & Olanskii" on Fri, 4 Sept 2026.
+Jaeger is a music venue in Oslo with 12 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Frædag: Wallace + G-HA & Olanskii" on Fri, 4 Sept 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 11 upcoming nights, with line-ups including Anders Hajem, Cestlek, Cody Currie and Mozzy and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 12 upcoming nights, with line-ups including Anders Hajem, Cestlek, Cody Currie and Mozzy and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 

@@ -9,7 +9,7 @@ Next Door Records Two is a music venue in London listed on soundcheck. 6 upcomin
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Zest Door Records | KOSIE, Malwen, Martita, Raab, Roy McKilljoy |
-| Sat, 5 Sept 2026 | SIBLING at NEXT DOOR RECORDS 2 | Hen Borton, MAÏS, QWAK |
+| Sat, 5 Sept 2026 | SIBLING at NEXT DOOR RECORDS 2 | Hen Borton, JABRIEL, MAÏS, QWAK |
 | Fri, 11 Sept 2026 | Twinspinsz ⋆𐙚₊ Residents & Guests | AKWA, xMachina |
 | Sat, 12 Sept 2026 | The Lift at NDR2 - Shop Floor | The Lift (2) |
 | Fri, 18 Sept 2026 | SOAP012: Christian Bonanata, batgirl, and Ruby SD | Ruby SD, batgirl |

@@ -1,6 +1,6 @@
 # Thursday Service by Pulse Friction at Crack Bellmer
 
-Thursday Service by Pulse Friction at Crack Bellmer on Thu 10 Sept, Berlin. 5 acts on the bill: Caldii, dOctOr doms, Dr. Sud and Luminick and 1 more. House. Preview the line-up and save it on soundcheck.
+Thursday Service by Pulse Friction at Crack Bellmer on Thu 10 Sept, Berlin. 6 acts on the bill: 0dysseus, Caldii, dOctOr doms and Dr. Sud and 2 more. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Thursday Service by Pulse Friction at Crack Bellmer on Thu 10 Sept, Berlin. 5 ac
 
 ## Line-up
 
+- 0dysseus
 - Caldii
 - dOctOr doms
 - Dr. Sud

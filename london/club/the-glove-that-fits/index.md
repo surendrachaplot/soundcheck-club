@@ -10,7 +10,7 @@ The Glove That Fits is a music venue in London listed on soundcheck. 24 upcoming
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | Rubedo II | CITYTRONIX, Modlar, Shayleen Rose |
 | Fri, 4 Sept 2026 | Club Hiatus x Nein: Danny Daze | Danny Daze, Franklin DJ, Meltem Yazar, Tronik Youth |
-| Fri, 4 Sept 2026 | Wap.Recs presents Greville, A.Wild, Patrick Rowe | A.Wild, Greville, Patrick Rowe, Skip Wooznam |
+| Fri, 4 Sept 2026 | Wap.Recs presents Greville, A.Wild, Patrick Rowe | A.Wild, Farv, Greville, Patrick Rowe, Skip Wooznam |
 | Sat, 5 Sept 2026 | Day & Night: Vinyl House & Techno  | Ardishko, Benebe, FASTON, Saumac, dj mush |
 | Sun, 6 Sept 2026 | Fossil Archive presents: Gareth Wild, Vindya, R.M.K | Gareth Wild, R.M.K, Vindya |
 | Fri, 11 Sept 2026 | CLUB BOOTS VOL II | DJ-CK, Katie Baxter, Meg Ward |

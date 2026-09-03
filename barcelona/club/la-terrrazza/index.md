@@ -1,8 +1,8 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 29 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Soundset Sessions with WOLTERS" on Thu, 3 Sept 2026.
+La Terrrazza is a music venue in Barcelona with 30 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Soundset Sessions with WOLTERS" on Thu, 3 Sept 2026.
 
-La Terrrazza is a music venue in Barcelona listed on soundcheck. 29 upcoming nights, with line-ups including 909 RACING TEAM, Baldo, Breezy S and Cesar Martino and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
+La Terrrazza is a music venue in Barcelona listed on soundcheck. 30 upcoming nights, with line-ups including 909 RACING TEAM, Baldo, Breezy S and Cesar Martino and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
 ## What's on
 

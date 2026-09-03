@@ -13,7 +13,7 @@ Eden is a music venue in Ibiza listed on soundcheck. 19 upcoming nights, with li
 | Sat, 5 Sept 2026 | FUEGO Closing Party |  |
 | Mon, 7 Sept 2026 | ACTIN' BAD WEEK 10 (Presented by Holler At Me) | Fritz Kalkbrenner, Noel Holler, STELLA BOSSI |
 | Wed, 9 Sept 2026 | GARAGE NATION WEEK 5 |  |
-| Wed, 9 Sept 2026 | AFTER IMAGE - ROOM 2 | Alberto Costa, Angelo Ferreri |
+| Wed, 9 Sept 2026 | AFTER IMAGE - ROOM 2 | Alberto Costa, Angelo Ferreri, NRoxanne |
 | Thu, 10 Sept 2026 | MARKUS SCHULZ - WEEK 3 | Markus Schulz |
 | Fri, 11 Sept 2026 | SECRET SESSIONS 5 |  |
 | Sat, 12 Sept 2026 | Stack City | Multunes |

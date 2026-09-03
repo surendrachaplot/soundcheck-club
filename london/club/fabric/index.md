@@ -9,7 +9,7 @@ fabric is a music venue in London listed on soundcheck. 28 upcoming nights, with
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | FABRICLIVE x UKF: Koven, Taiki Nulight, Zero, Arcando, BCee, Brookes Brothers + more | Anaïs, BCee, Bluck, Brookes Brothers, Georgie Riot, Jakes, Jojo Deevoy, Koven, Ruthless, SAVANNAH, Zero |
-| Sat, 5 Sept 2026 | fabric: Danilo Plessow (MCDE), Kenny Larkin, Seb Odyssey, Marlon Baleci, Layson, Phin  | Danilo Plessow, Kenny Larkin, Layson, Marlon Baleci, Phin (UK), Seb Odyssey |
+| Sat, 5 Sept 2026 | fabric: Danilo Plessow (MCDE), Kenny Larkin, Seb Odyssey | Danilo Plessow, Kenny Larkin, Layson, Marlon Baleci, Phin (UK), Seb Odyssey |
 | Sun, 6 Sept 2026 | CAYA by fabric: Rarebit x CUE - DJ Cosworth, Oldboy, Lucas Alexander + more | Cam Foster, DJ Cosworth, Lucas Alexander, Oldboy |
 | Fri, 11 Sept 2026 | Heavy House Society: Sidney Charles + more TBA | Sidney Charles |
 | Sat, 12 Sept 2026 | fabric presents Mount Kimbie mix launch: Yu Su, Tijana T, Leo Gosh, DJ Python, Galcher Lustwerk | DJ Python, Galcher Lustwerk, Leo Gosh, Mor Elian, Mount Kimbie, Tijana T, Yu Su |

@@ -1,8 +1,8 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Singularity" on Thu, 3 Sept 2026.
+THE MAGICK BAR is a music venue in Rome with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Singularity" on Thu, 3 Sept 2026.
 
-THE MAGICK BAR is a music venue in Rome listed on soundcheck. 7 upcoming nights, with line-ups including Allegra De Angelis, Bluemarina, Bonza and Brad Alloc and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
+THE MAGICK BAR is a music venue in Rome listed on soundcheck. 8 upcoming nights, with line-ups including Allegra De Angelis, Bluemarina, Bonza and Brad Alloc and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
 ## What's on
 
@@ -13,6 +13,7 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 7 upcoming nights,
 | Sat, 5 Sept 2026 | THE MAGICK BAR x Juno World x Bruno Schmidt, Bonza, DANAE, Brad Alloc, Mykki Blanco, Bluemarina | Bluemarina, Bonza, Brad Alloc, Bruno Schmidt, DANAE, Mykki Blanco |
 | Sun, 6 Sept 2026 | Flvmen with Allegra De Angelis, Rico, Half Banana, Onokai, Pedro Leon,Ylenia Evangelista | Allegra De Angelis, Onokai (UTB), Rico (2) |
 | Wed, 9 Sept 2026 | THE MAGICK BAR presents: Donato Dozzy, Matisa | Donato Dozzy, Matisa |
+| Thu, 10 Sept 2026 | Vestalia x Magick Bar with Filippo Scorcucchi b2b Viuza, Mantis, Egeeno, Low Gravity, Dj Q.B | Mantis (IT) |
 | Sat, 12 Sept 2026 | Neel invites Wata Igarashi | Neel, Wata Igarashi |
 | Tue, 15 Sept 2026 | Jungle at Magick bar Closing season with Jimmy Siao | Jimmy Siao, Mordak, Petra (4) |
 

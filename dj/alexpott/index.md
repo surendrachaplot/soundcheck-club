@@ -1,8 +1,8 @@
 # Alex Pott
 
-Alex Pott is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 13 Sept 2026.
+Alex Pott is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sun, 13 Sept 2026.
 
-Alex Pott is a house and tech house artist based in Spain, tracked on soundcheck, with 52 sets logged across Barcelona, Ibiza, Madrid and Turin and 1 more. Often billed alongside Ion Pananides, Angel Sani and Alex (ES). Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 13 Sept.
+Alex Pott is a house and tech house artist based in Spain, tracked on soundcheck, with 53 sets logged across Barcelona, Ibiza, Madrid and Turin and 1 more. Often billed alongside Ion Pananides, Angel Sani and Alex (ES). Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sun 13 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alex Pott is a house and tech house artist based in Spain, tracked on soundcheck
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 | Sat, 26 Sept 2026 | Sunseabar Beach Club | Barcelona |
+| Sat, 7 Nov 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 

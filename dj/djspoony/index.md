@@ -1,14 +1,15 @@
 # DJ Spoony
 
-DJ Spoony is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+DJ Spoony is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
-DJ Spoony is a house and garage artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Ibiza, London, Malta and Manchester. Often billed alongside Scott Garcia, Wookie and Boon (UK). Next up: UNO MALTA, Malta on Thu 24 Sept.
+DJ Spoony is a garage and house artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Ibiza, London, Malta and Manchester. Often billed alongside Scott Garcia, Wookie and Boon (UK). Next up: UNO MALTA, Malta on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | UNO MALTA | Malta |
+| Sun, 1 Nov 2026 | Night Tales | London |
 
 ## Recently played
 

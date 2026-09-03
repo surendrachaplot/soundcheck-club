@@ -1,6 +1,6 @@
 # FU:SIÓ [nit 1] at Dosrombos
 
-FU:SIÓ [nit 1] at Dosrombos on Sat 5 Sept, Barcelona. 5 acts on the bill: Andrea Zarco, Breezy S, Djoan and NOBODYISALICE and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+FU:SIÓ [nit 1] at Dosrombos on Sat 5 Sept, Barcelona. 6 acts on the bill: Andrea Zarco, Breezy S, Djoan and DjTraca and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ FU:SIÓ [nit 1] at Dosrombos on Sat 5 Sept, Barcelona. 5 acts on the bill: Andre
 - Andrea Zarco
 - Breezy S
 - Djoan
+- DjTraca
 - NOBODYISALICE
 - Rele
 

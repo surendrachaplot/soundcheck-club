@@ -1,13 +1,14 @@
 # Tobias Lindén
 
-Tobias Lindén is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Harbour Music Shelter, Lisbon on Sun, 13 Sept 2026.
+Tobias Lindén is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Rūmu, Lisbon on Sat, 5 Sept 2026.
 
-Tobias Lindén is a house and deep house artist tracked on soundcheck, with 28 sets logged across Berlin, Lisbon, Miami and Newyorkcity and 4 more. Often billed alongside Daniel Bertholdsson, O.BEE and Tomas Station. Next up: Harbour Music Shelter, Lisbon on Sun 13 Sept.
+Tobias Lindén is a house and deep house artist tracked on soundcheck, with 29 sets logged across Berlin, Lisbon, Miami and Newyorkcity and 4 more. Often billed alongside Daniel Bertholdsson, O.BEE and Tomas Station. Next up: Rūmu, Lisbon on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Rūmu | Lisbon |
 | Sun, 13 Sept 2026 | Harbour Music Shelter | Lisbon |
 
 ## Recently played

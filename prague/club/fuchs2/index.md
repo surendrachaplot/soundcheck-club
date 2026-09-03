@@ -1,8 +1,8 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SALO: CASH ONLY with mycash, frog8frog [PL], Blofeld, madlow, Opi, mader" on Thu, 3 Sept 2026.
+Fuchs2 is a music venue in Prague with 12 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SALO: CASH ONLY with mycash, frog8frog [PL], Blofeld, madlow, Opi, mader" on Thu, 3 Sept 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming nights, with line-ups including Adamatron, aláya, Alfred Czital and Arthur Robert and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming nights, with line-ups including Adamatron, aláya, Alfred Czital and Arthur Robert and 2 more. Browse upcoming dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming nights, with
 | Fri, 11 Sept 2026 | ALLNIGHTER: Nina Farrina | Nina Farrina |
 | Fri, 18 Sept 2026 | SEASON OPENING: Fuchs2 x Bike Jesus | Alfred Czital, DC Salas, DDK (1), Dash (CZ), LULU (1), Midirama, Misha Jaru, Miss Univers, Perc, SJ Yellow, TRANSmisia, Zuzana Hakl, domizako, mʊdʌki |
 | Sat, 19 Sept 2026 | hereandthere x Spectrum Waves: open-air day & night | Adamatron, Arthur Robert, Fake Agent, Lea Occhi, Maria Politi, Natalie Robinson, Pink Concrete, RÆZA, SOTTOH, aláya |
+| Thu, 24 Sept 2026 | SALO / MARMINT TAKEOVER: asvany ☆ előd ☆ vinben ☆ ItsLucid ☆ Mt. Saint Michel ☆ Gnosis ☆ SUTA | Gnosis, ItsLucid, VLZQUES |
 | Sat, 26 Sept 2026 | X-RAY: Roll Deep | Dj Alyaz, Double J, JohnyM, Manga Saint Hilare, Noir, Riko Dan, Sir Free, fahell |
 | Sat, 3 Oct 2026 | GEGEN PRAGUE | Cristian Marras, Mar/us, Samantha Togni, jardabpm |
-| Sat, 10 Oct 2026 | mʊdʌki INVITES Samurai Breaks | Dj Alyaz, Samurai Breaks, mʊdʌki |
 
 ## Address
 

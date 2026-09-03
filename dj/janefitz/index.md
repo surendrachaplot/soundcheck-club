@@ -1,8 +1,8 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Sheffield on Fri, 4 Sept 2026.
+Jane Fitz is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Sheffield on Fri, 4 Sept 2026.
 
-Jane Fitz is a techno and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Marco Shuttle, Francesco Del Garda and DJ Nobu. Next up: TBA, Sheffield on Fri 4 Sept.
+Jane Fitz is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Marco Shuttle, Francesco Del Garda and DJ Nobu. Next up: TBA, Sheffield on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Jane Fitz is a techno and house artist tracked on soundcheck, with 168 sets logg
 | Sat, 10 Oct 2026 | Sub Club | Glasgow |
 | Sat, 17 Oct 2026 | fabric | London |
 | Sun, 25 Oct 2026 | TBA | Amsterdam |
+| Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

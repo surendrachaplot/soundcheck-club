@@ -1,6 +1,6 @@
 # PARTY 4 BROKE // Delululand x Sause at Humboldthain Club
 
-PARTY 4 BROKE // Delululand x Sause at Humboldthain Club on Sat 5 Sept, Berlin. 9 acts on the bill: DJ ŌVËRDRĪVÊ, DJ Spaßgetränk, EZA (DE) and Jambu and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+PARTY 4 BROKE // Delululand x Sause at Humboldthain Club on Sat 5 Sept, Berlin. 10 acts on the bill: DJ ŌVËRDRĪVÊ, DJ Spaßgetränk, Dj Sunflash and EZA (DE) and 6 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ PARTY 4 BROKE // Delululand x Sause at Humboldthain Club on Sat 5 Sept, Berlin. 
 
 - DJ ŌVËRDRĪVÊ
 - DJ Spaßgetränk
+- Dj Sunflash
 - EZA (DE)
 - Jambu
 - Konsument

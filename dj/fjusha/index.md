@@ -1,8 +1,8 @@
 # FJUSHA
 
-FJUSHA is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KALT, Strasbourg on Sat, 19 Sept 2026.
+FJUSHA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KALT, Strasbourg on Sat, 19 Sept 2026.
 
-FJUSHA is a techno and trance artist tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 22 more. Often billed alongside DJ Cringey, Bae Blade and CALLUSH. Next up: KALT, Strasbourg on Sat 19 Sept.
+FJUSHA is a techno and trance artist tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 22 more. Often billed alongside DJ Cringey, Bae Blade and CALLUSH. Next up: KALT, Strasbourg on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ FJUSHA is a techno and trance artist tracked on soundcheck, with 70 sets logged 
 | Sat, 17 Oct 2026 | De Flesjesfabriek | Ghent |
 | Sat, 17 Oct 2026 | Kilomètre25 | Paris |
 | Wed, 21 Oct 2026 | Yellow House | Amsterdam |
+| Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 

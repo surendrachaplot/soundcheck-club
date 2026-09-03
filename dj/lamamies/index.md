@@ -1,13 +1,14 @@
 # Mamie's
 
-Mamie's is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Mamie's is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Rex Club, Paris on Fri, 9 Oct 2026.
 
-Mamie's is a house and techno artist based in France, tracked on soundcheck, with 62 sets logged across Bali, Bangkok, Barcelona and Hongkong and 10 more. Often billed alongside MLCH, Mr. Ho and Antal. Next up: Tai Tong Organic Ecopark, Hongkong on Sat 14 Nov.
+Mamie's is a house and techno artist based in France, tracked on soundcheck, with 63 sets logged across Bali, Bangkok, Barcelona and Hongkong and 10 more. Often billed alongside MLCH, Mr. Ho and Antal. Next up: Rex Club, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Rex Club | Paris |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played

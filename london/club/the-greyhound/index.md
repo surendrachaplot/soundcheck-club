@@ -16,7 +16,7 @@ The Greyhound is a music venue in London listed on soundcheck. 17 upcoming night
 | Sat, 19 Sept 2026 | All At Once #4 - edm 4 queer ppl | EVIL THWEK, Space Candy, Takenbymarshall |
 | Wed, 23 Sept 2026 | Brief Encounters presents: RenzNiro, roop, Tommy Ryoma, Ratiba Ayadi + Jah$tar | RenzNiro, roop |
 | Fri, 25 Sept 2026 | Hotel Danesfield | Dylan Forbes, iasc |
-| Sat, 26 Sept 2026 | Gazebo (Day Party) | Gazebo DJs |
+| Sat, 26 Sept 2026 | Gazebo (Day Party) | Gazebo DJs, datSIM |
 | Fri, 9 Oct 2026 | SLVA: The Greyhound | Bobby Mac, lorcan_ |
 
 ## Address

@@ -1,8 +1,8 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "2222 // Juan Evangelista, DDK, Charlotte Newman, KAMA & MORE" on Thu, 3 Sept 2026.
+Kilomètre25 is a music venue in Paris with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "2222 // Juan Evangelista, DDK, Charlotte Newman, KAMA & MORE" on Thu, 3 Sept 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including NYRA (DE), Airod, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 14 upcoming nights, with line-ups including NYRA (DE), Airod, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 

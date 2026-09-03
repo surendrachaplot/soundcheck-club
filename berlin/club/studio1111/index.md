@@ -9,7 +9,7 @@ Studio1111 is a music venue in Berlin listed on soundcheck. 4 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Toy Tonics Art Jam | A.tari, Armanda, Cody Currie, Kapote, Lars Eidinger, Robin Flux |
-| Sat, 5 Sept 2026 | Berlin New Media Week official party: Nerve  | N (33), Nundale, Portrait XO, Sonderbar |
+| Sat, 5 Sept 2026 | Berlin New Media Week official party: Nerve  | N (33), Nundale, Perra Inmunda, Portrait XO, Sonderbar |
 | Fri, 2 Oct 2026 | Toy Tonics Art Jam |  |
 | Fri, 6 Nov 2026 | Toy Tonics Art Jam | Kapote |
 

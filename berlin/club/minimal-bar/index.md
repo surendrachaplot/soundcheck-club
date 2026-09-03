@@ -17,7 +17,7 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 77 upcoming nights,
 | Wed, 9 Sept 2026 | mittendrin mit Fineberg | Fineberg |
 | Thu, 10 Sept 2026 | electronic.thursday mit halfaneagle |  |
 | Fri, 11 Sept 2026 | friends.zone mit Fritz Funke & Freunde | Fritz Funke |
-| Sat, 12 Sept 2026 | DAZA & freunde | DAZA |
+| Sat, 12 Sept 2026 | DAZA, Guiddo & MiiSCHA | DAZA, Guiddo, MiiSCHA |
 
 ## Address
 

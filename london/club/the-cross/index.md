@@ -9,7 +9,7 @@ The Cross is a music venue in London listed on soundcheck. 6 upcoming nights, wi
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | WILD Festival-Final Chapter x FTLOM | Bibiminor, FedUp, LUNÄTICO (IT), Mama Tzo, Rabota, Rahbani, STRAY SON, Tear of Joy, input |
-| Sat, 12 Sept 2026 | REHAB_LDN | AOB, Davide Del Vecchio |
+| Sat, 12 Sept 2026 | REHAB_LDN | AOB, Davide Del Vecchio, Dj Armi |
 | Thu, 17 Sept 2026 | Kyle Watson - 'Ask Me Tomorrow' Album Launch | Hyzteria, James Damian, Kyle Watson |
 | Sat, 19 Sept 2026 | SHIFTY & Friends | Ashleigh De-Niro, Raymundo Rodriguez, Tred Benedict |
 | Sat, 26 Sept 2026 | Billion Dollar Babes | Jeremy Healy |

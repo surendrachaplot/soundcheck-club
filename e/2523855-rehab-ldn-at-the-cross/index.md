@@ -1,6 +1,6 @@
 # REHAB_LDN at The Cross
 
-REHAB_LDN at The Cross on Sat 12 Sept, London. 2 acts on the bill: AOB and Davide Del Vecchio. House and Deep House. Preview the line-up and save it on soundcheck.
+REHAB_LDN at The Cross on Sat 12 Sept, London. 3 acts on the bill: AOB, Davide Del Vecchio and Dj Armi. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ REHAB_LDN at The Cross on Sat 12 Sept, London. 2 acts on the bill: AOB and David
 
 - AOB
 - Davide Del Vecchio
+- Dj Armi
 
 *Source: [soundcheck](https://soundcheck.club/e/2523855-rehab-ldn-at-the-cross/)*

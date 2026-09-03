@@ -1,14 +1,15 @@
-# Kristina May (4)
+# Kristina May
 
-Kristina May (4) is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+Kristina May is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
-Kristina May (4) is a techno and experimental artist based in Moldova, tracked on soundcheck, with 17 sets logged across Hamburg and London. Often billed alongside 50PHIE, 8108STN and ARWEN. Next up: Südpol, Hamburg on Fri 18 Sept.
+Kristina May is a techno and experimental artist based in Moldova, tracked on soundcheck, with 18 sets logged across Hamburg and London. Often billed alongside Alien Communications, CRL (1) and 50PHIE. Next up: Südpol, Hamburg on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Südpol | Hamburg |
+| Sat, 31 Oct 2026 | Vittoria Wharf Studio | London |
 | Fri, 6 Nov 2026 | The Greyhound | London |
 
 ## Recently played
@@ -24,6 +25,6 @@ Kristina May (4) is a techno and experimental artist based in Moldova, tracked o
 
 ## Shares bills with
 
-50PHIE, 8108STN, ARWEN
+Alien Communications, CRL (1), 50PHIE
 
 *Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinamay/)*
