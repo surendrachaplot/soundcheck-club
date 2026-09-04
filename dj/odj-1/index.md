@@ -1,6 +1,6 @@
 # ODJ (1)
 
-ODJ (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
+ODJ (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
 ODJ (1) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Millian, THEO (5) and Armând. Next up: Night Tales Loft, London on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ ODJ (1) is a house and tech house artist based in United Kingdom, tracked on sou
 
 Millian, THEO (5), Armând
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odj-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odj-1/)*

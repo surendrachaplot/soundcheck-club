@@ -1,6 +1,6 @@
 # AddlyMuff
 
-AddlyMuff is a Electronica and Guaracha artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at un club bonito, Mexico City on Sat, 12 Sept 2026.
+AddlyMuff is a Electronica and Guaracha artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at un club bonito, Mexico City on Sat, 12 Sept 2026.
 
 AddlyMuff is an electronica and guaracha artist based in Mexico, tracked on soundcheck, with 14 sets logged across Mexicocity. Often billed alongside Amapola Rose, Choi and Iris Estefanía. Next up: un club bonito, Mexicocity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ AddlyMuff is an electronica and guaracha artist based in Mexico, tracked on soun
 
 Amapola Rose, Choi, Iris Estefanía
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/addlymuff/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/addlymuff/)*

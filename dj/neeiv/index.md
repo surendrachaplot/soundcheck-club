@@ -1,6 +1,6 @@
 # Neeiv
 
-Neeiv is a Baile Funk and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Club (Málaga), Malaga on Fri, 11 Sept 2026.
+Neeiv is a Baile Funk and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Club (Málaga), Malaga on Fri, 11 Sept 2026.
 
 Neeiv is a baile funk and latin bass artist based in Spain, tracked on soundcheck, with 37 sets logged across Barcelona, Madrid, Malaga and Montreal. Often billed alongside Nukki, Dj Babatr and Kanti. Next up: The Club (Málaga), Malaga on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Neeiv is a baile funk and latin bass artist based in Spain, tracked on soundchec
 
 Nukki, Dj Babatr, Kanti
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neeiv/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neeiv/)*

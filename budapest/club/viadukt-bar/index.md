@@ -1,6 +1,6 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Rhythmic Steps with Daniel Meister, Nicolas Duvoisin, Octile" on Fri, 4 Sept 2026.
+Viadukt Bar is a music venue in Budapest with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Rhythmic Steps with Daniel Meister, Nicolas Duvoisin, Octile" on Fri, 4 Sept 2026.
 
 Viadukt Bar is a music venue in Budapest listed on soundcheck. 3 upcoming nights, with line-ups including Atos, Daniel Meister, Falcao and LAU (6) and 2 more. Browse upcoming dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
@@ -16,4 +16,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 3 upcoming nights
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

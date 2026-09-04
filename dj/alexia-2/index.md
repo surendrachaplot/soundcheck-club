@@ -1,6 +1,6 @@
 # Alexia (2)
 
-Alexia (2) is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
+Alexia (2) is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
 
 Alexia (2) is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Just1, Paul Kine and Penelope (2). Next up: Distillery, Leipzig on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Alexia (2) is a house and deep house artist based in United Kingdom, tracked on 
 
 Just1, Paul Kine, Penelope (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*

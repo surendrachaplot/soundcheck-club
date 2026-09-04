@@ -1,6 +1,6 @@
 # Times Square, Newcastle
 
-Times Square, Newcastle is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "DAYTIME DISCO w/ GOK WAN / ELLIE SAX Live" on Sat, 31 Oct 2026.
+Times Square, Newcastle is a music venue in Newcastle with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "DAYTIME DISCO w/ GOK WAN / ELLIE SAX Live" on Sat, 31 Oct 2026.
 
 Times Square, Newcastle is a music venue in Newcastle listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Times Square, Newcastle, NE4 7AD.
 
@@ -14,4 +14,4 @@ Times Square, Newcastle is a music venue in Newcastle listed on soundcheck. 1 up
 
 Times Square, Newcastle, NE4 7AD, Newcastle
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/times-square-newcastle/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/times-square-newcastle/)*

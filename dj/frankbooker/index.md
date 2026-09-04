@@ -1,6 +1,6 @@
 # Frank Booker
 
-Frank Booker is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Her, Melbourne on Sat, 12 Sept 2026.
+Frank Booker is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Her, Melbourne on Sat, 12 Sept 2026.
 
 Frank Booker is a house and disco artist tracked on soundcheck, with 35 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Samuel Harmony, Flamingo Pier and Nathan Haines. Next up: Her, Melbourne on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Frank Booker is a house and disco artist tracked on soundcheck, with 35 sets log
 
 Samuel Harmony, Flamingo Pier, Nathan Haines
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbooker/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbooker/)*

@@ -1,6 +1,6 @@
 # Julia Deychuk
 
-Julia Deychuk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mantra Bar, Kuala Lumpur on Sat, 19 Sept 2026.
+Julia Deychuk is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mantra Bar, Kuala Lumpur on Sat, 19 Sept 2026.
 
 Julia Deychuk is a house and techno artist based in Ukraine, tracked on soundcheck, with 38 sets logged across Kualalumpur. Often billed alongside Alam, Meliha and Axel Groove. Next up: Mantra Bar, Kualalumpur on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Julia Deychuk is a house and techno artist based in Ukraine, tracked on soundche
 
 Alam, Meliha, Axel Groove
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliadeychuk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliadeychuk/)*

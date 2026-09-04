@@ -1,6 +1,6 @@
 # wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin
 
-wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 18 Oct, Berlin. Trance and Techno. Preview the line-up and save it on soundcheck.
+wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 18 Oct, Berlin. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

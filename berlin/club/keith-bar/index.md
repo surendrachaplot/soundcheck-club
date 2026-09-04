@@ -1,6 +1,6 @@
 # Keith Bar
 
-Keith Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is ":Arctic groove connections:" on Sat, 5 Sept 2026.
+Keith Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is ":Arctic groove connections:" on Sat, 5 Sept 2026.
 
 Keith Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Robert Kalb and Steve Blom. Browse upcoming dates, start times and who's playing. Schillerpromenade 2, 12049 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Keith Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, wit
 
 Schillerpromenade 2, 12049 Berlin, Germany, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/keith-bar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/keith-bar/)*

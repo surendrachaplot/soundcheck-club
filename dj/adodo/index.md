@@ -1,6 +1,6 @@
 # adodo
 
-adodo is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paloma, Berlin on Fri, 2 Oct 2026.
+adodo is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paloma, Berlin on Fri, 2 Oct 2026.
 
 adodo is an electronic artist tracked on soundcheck, with 11 sets logged across Berlin and Cologne. Often billed alongside shayan, Black Mirror Park and bb:fm. Next up: Paloma, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ adodo is an electronic artist tracked on soundcheck, with 11 sets logged across 
 
 shayan, Black Mirror Park, bb:fm
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adodo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adodo/)*

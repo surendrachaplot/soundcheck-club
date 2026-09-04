@@ -1,6 +1,6 @@
 # Compulsive Leia
 
-Compulsive Leia is a Hardcore and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Thekla, Bristol on Fri, 11 Sept 2026.
+Compulsive Leia is a Hardcore and Hip-Hop artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Thekla, Bristol on Fri, 11 Sept 2026.
 
 Compulsive Leia is a hardcore and hip-hop artist tracked on soundcheck, with 26 sets logged across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, alterum and it_dont_Matt.er. Next up: Thekla, Bristol on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Compulsive Leia is a hardcore and hip-hop artist tracked on soundcheck, with 26 
 
 Takenbymarshall, alterum, it_dont_Matt.er
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/compulsiveleia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/compulsiveleia/)*

@@ -1,6 +1,6 @@
 # Rabibti áTable
 
-Rabibti áTable is a Techno and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at migas, a listening bar, Berlin on Fri, 4 Sept 2026.
+Rabibti áTable is a Techno and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at migas, a listening bar, Berlin on Fri, 4 Sept 2026.
 
 Rabibti áTable is a techno and disco artist tracked on soundcheck, with 14 sets logged across Berlin, Munich and Prague. Often billed alongside saHHar, Meriem S and MUNSEF. Next up: migas, a listening bar, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Rabibti áTable is a techno and disco artist tracked on soundcheck, with 14 sets
 
 saHHar, Meriem S, MUNSEF
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rabibtiatable/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rabibtiatable/)*

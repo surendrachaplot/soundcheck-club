@@ -1,6 +1,6 @@
 # Nicolas Duvoisin
 
-Nicolas Duvoisin is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Viadukt Bar, Budapest on Fri, 4 Sept 2026.
+Nicolas Duvoisin is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Viadukt Bar, Budapest on Fri, 4 Sept 2026.
 
 Nicolas Duvoisin is a house and minimal artist based in Switzerland, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Budapest and Copenhagen and 5 more. Often billed alongside Kayode, Luca Mascolo and Daniel Meister. Next up: Viadukt Bar, Budapest on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Nicolas Duvoisin is a house and minimal artist based in Switzerland, tracked on 
 
 Kayode, Luca Mascolo, Daniel Meister
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasduvoisin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasduvoisin/)*

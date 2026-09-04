@@ -1,6 +1,6 @@
 # Hošek Contemporary
 
-Hošek Contemporary is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Improvised & Experimental No. 295" on Wed, 16 Sept 2026.
+Hošek Contemporary is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Improvised & Experimental No. 295" on Wed, 16 Sept 2026.
 
 Hošek Contemporary is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Matthew Ryals. Browse upcoming dates, start times and who's playing. MS Heimatland / Fisherinsel 10179 Berlin.
 
@@ -14,4 +14,4 @@ Hošek Contemporary is a music venue in Berlin listed on soundcheck. 1 upcoming 
 
 MS Heimatland / Fisherinsel 10179 Berlin, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ho-ek-contemporary/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ho-ek-contemporary/)*

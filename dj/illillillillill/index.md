@@ -1,6 +1,6 @@
 # illillillillill
 
-illillillillill is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Karmakoma, Belgrade on Sat, 5 Sept 2026.
+illillillillill is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Karmakoma, Belgrade on Sat, 5 Sept 2026.
 
 illillillillill is a techno and house artist tracked on soundcheck, with 27 sets logged across Belgrade. Often billed alongside tsola, Matej Rusmir and Impedance. Next up: Karmakoma, Belgrade on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ illillillillill is a techno and house artist tracked on soundcheck, with 27 sets
 
 tsola, Matej Rusmir, Impedance
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illillillillill/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illillillillill/)*

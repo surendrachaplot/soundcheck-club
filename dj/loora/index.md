@@ -1,6 +1,6 @@
 # Loora
 
-Loora is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Colesdale Farm, London on Sun, 6 Sept 2026.
+Loora is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Colesdale Farm, London on Sun, 6 Sept 2026.
 
 Loora is a techno and tech house artist tracked on soundcheck, with 26 sets logged across London. Often billed alongside Thomas Galbardi, Dhez and Giusy S (2). Next up: Colesdale Farm, London on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Loora is a techno and tech house artist tracked on soundcheck, with 26 sets logg
 
 Thomas Galbardi, Dhez, Giusy S (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loora/)*

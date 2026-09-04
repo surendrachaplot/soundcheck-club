@@ -1,6 +1,6 @@
 # Panic
 
-Panic is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Panic is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
 Panic is a techno and tech house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Cologne, Dortmund-essen and Frankfurt and 4 more. Often billed alongside Marc Acardipane, Partyraiser and Act of Rage. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Panic is a techno and tech house artist tracked on soundcheck, with 24 sets logg
 
 Marc Acardipane, Partyraiser, Act of Rage
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panic/)*

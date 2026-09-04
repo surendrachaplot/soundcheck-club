@@ -1,6 +1,6 @@
 # Wilfy D
 
-Wilfy D is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Phonox, London on Sat, 5 Sept 2026.
+Wilfy D is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Phonox, London on Sat, 5 Sept 2026.
 
 Wilfy D is a garage and house artist tracked on soundcheck, with 42 sets logged across Bristol, Leeds, London and Manchester and 2 more. Often billed alongside DJ Stolen, Tommy Gold and Elliot Schooling. Next up: Phonox, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Wilfy D is a garage and house artist tracked on soundcheck, with 42 sets logged 
 
 DJ Stolen, Tommy Gold, Elliot Schooling
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfy-d/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilfy-d/)*

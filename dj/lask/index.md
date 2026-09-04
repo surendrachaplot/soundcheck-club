@@ -1,6 +1,6 @@
 # Lask
 
-Lask is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Russian House, Melbourne on Sat, 12 Sept 2026.
+Lask is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Russian House, Melbourne on Sat, 12 Sept 2026.
 
 Lask is a techno and house artist based in Australia, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Brussels and Hamburg and 3 more. Often billed alongside Balthazar Martinez, Her Waveform and Reka Zalan. Next up: The Russian House, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lask is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 Balthazar Martinez, Her Waveform, Reka Zalan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lask/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lask/)*

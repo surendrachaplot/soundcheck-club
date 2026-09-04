@@ -1,6 +1,6 @@
 # Waxtek
 
-Waxtek is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
+Waxtek is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Honey Street Studio, Manchester on Sat, 17 Oct 2026.
 
 Waxtek is a techno and bass artist tracked on soundcheck, with 21 sets logged across Leeds, Liverpool, London and Manchester. Often billed alongside Identikid, All Trades and April (UK). Next up: Honey Street Studio, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Waxtek is a techno and bass artist tracked on soundcheck, with 21 sets logged ac
 
 Identikid, All Trades, April (UK)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxtek/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxtek/)*

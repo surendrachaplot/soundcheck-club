@@ -1,6 +1,6 @@
 # MAÏS
 
-MAÏS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Next Door Records Two, London on Sat, 5 Sept 2026.
+MAÏS is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Next Door Records Two, London on Sat, 5 Sept 2026.
 
 MAÏS is a house and disco artist tracked on soundcheck, with 42 sets logged across Barcelona and London. Often billed alongside NOYB, Pableeto and Make Money Mafia. Next up: Next Door Records Two, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ MAÏS is a house and disco artist tracked on soundcheck, with 42 sets logged acr
 
 NOYB, Pableeto, Make Money Mafia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maïs/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maïs/)*

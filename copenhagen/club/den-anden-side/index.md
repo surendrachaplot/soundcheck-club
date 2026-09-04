@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Yours Truly - The Last Dance" on Fri, 4 Sept 2026.
+Den Anden Side is a music venue in Copenhagen with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Yours Truly - The Last Dance" on Fri, 4 Sept 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming nights, with line-ups including Adam Eisert, Alarico, Anders Horse and Anders HP and 2 more. Browse upcoming dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -23,4 +23,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming 
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

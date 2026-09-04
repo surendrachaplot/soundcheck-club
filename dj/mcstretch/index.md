@@ -1,6 +1,6 @@
 # MC Stretch
 
-MC Stretch is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at SWG3, Glasgow on Sat, 7 Nov 2026.
+MC Stretch is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at SWG3, Glasgow on Sat, 7 Nov 2026.
 
 MC Stretch is a hardcore and club artist tracked on soundcheck, with 6 sets logged across Glasgow, Newcastle and Rotterdam. Often billed alongside MC Stompin, MC Tazo and Andy Whitby. Next up: SWG3, Glasgow on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ MC Stretch is a hardcore and club artist tracked on soundcheck, with 6 sets logg
 
 MC Stompin, MC Tazo, Andy Whitby
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcstretch/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcstretch/)*

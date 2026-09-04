@@ -1,6 +1,6 @@
 # britty.
 
-britty. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+britty. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
 britty. is a house and techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Detroit, Newyorkcity and Sandiego. Often billed alongside sillygirlcarmen, JMT (2) and Shaun Reeves. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ britty. is a house and techno artist based in United States of America, tracked 
 
 sillygirlcarmen, JMT (2), Shaun Reeves
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/britty./)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/britty./)*

@@ -1,6 +1,6 @@
 # Else
 
-Else is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Else x Max Cooper invites" on Fri, 4 Sept 2026.
+Else is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Else x Max Cooper invites" on Fri, 4 Sept 2026.
 
 Else is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Alírio, Amanda Mussi, Any Mello and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
@@ -23,4 +23,4 @@ Else is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with l
 
 An den Treptowers 10, 12435 Berlin, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*

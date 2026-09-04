@@ -1,6 +1,6 @@
 # Babe Gorgeous
 
-Babe Gorgeous is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
+Babe Gorgeous is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 Babe Gorgeous is a bass and jungle artist tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside jass:minute, Ubax and DJ STRAIGHT GIRL. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Babe Gorgeous is a bass and jungle artist tracked on soundcheck, with 22 sets lo
 
 jass:minute, Ubax, DJ STRAIGHT GIRL
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babegorgeous/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babegorgeous/)*

@@ -1,13 +1,14 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "The Soundgarden" on Sat, 5 Sept 2026.
+UNLOCKED is a music venue in London with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Live Nation presents: SISTRA" on Thu, 3 Sept 2026.
 
-UNLOCKED is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Alythia Kwan, Carina Lawrence, Dosem and Eelke Kleijn and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
+UNLOCKED is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Alythia Kwan, Carina Lawrence, Dosem and Eelke Kleijn and 2 more. Browse upcoming dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Live Nation presents: SISTRA |  |
 | Sat, 5 Sept 2026 | The Soundgarden | Carina Lawrence, Eelke Kleijn, Lavie Au Soleil, Nick Warren, Sinca |
 | Fri, 2 Oct 2026 | Parable: KAS:ST at UNLOCKED | KAS:ST |
 | Sat, 3 Oct 2026 | High Fade presents 'Twice As Nice' London | High Fade |
@@ -20,4 +21,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 7 upcoming nights, wit
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

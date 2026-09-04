@@ -1,6 +1,6 @@
 # Isabeau Fort
 
-Isabeau Fort is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at gART.n, Berlin on Sun, 27 Sept 2026.
+Isabeau Fort is a Downtempo and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at gART.n, Berlin on Sun, 27 Sept 2026.
 
 Isabeau Fort is a downtempo and electronica artist tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside LENI (DE), 2 Girls 1 Club and Kon Faber. Next up: gART.n, Berlin on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Isabeau Fort is a downtempo and electronica artist tracked on soundcheck, with 4
 
 LENI (DE), 2 Girls 1 Club, Kon Faber
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabeaufort/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabeaufort/)*

@@ -1,6 +1,6 @@
 # Abby Echiverri
 
-Abby Echiverri is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
+Abby Echiverri is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
 
 Abby Echiverri is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Detroit, Losangeles, Newyorkcity and Portland and 1 more. Often billed alongside Clay Wilson, Bryan Kasenic and Analog Soul. Next up: public records, Newyorkcity on Mon 9 Nov.
 
@@ -26,4 +26,4 @@ Abby Echiverri is a techno and house artist based in United States of America, t
 
 Clay Wilson, Bryan Kasenic, Analog Soul
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abbyechiverri/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abbyechiverri/)*

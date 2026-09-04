@@ -1,15 +1,14 @@
 # DSGNRPSSY
 
-DSGNRPSSY is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Œlgarten, Berlin on Sun, 13 Sept 2026.
+DSGNRPSSY is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Œlgarten, Berlin on Sun, 13 Sept 2026.
 
-DSGNRPSSY is an electro and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Glasgow and Hamburg. Often billed alongside La Carpio, Khloe and Liad Krispin. Next up: Œlgarten, Berlin on Sun 13 Sept.
+DSGNRPSSY is a techno and electro artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Glasgow and Hamburg. Often billed alongside Khloe, La Carpio and Liad Krispin. Next up: Œlgarten, Berlin on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Œlgarten | Berlin |
-| Sat, 3 Oct 2026 | Golden Pudel Club | Hamburg |
 | Sat, 17 Oct 2026 | The Berkeley Suite | Glasgow |
 
 ## Recently played
@@ -25,6 +24,6 @@ DSGNRPSSY is an electro and techno artist based in Germany, tracked on soundchec
 
 ## Shares bills with
 
-La Carpio, Khloe, Liad Krispin
+Khloe, La Carpio, Liad Krispin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dsgnrpssy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dsgnrpssy/)*

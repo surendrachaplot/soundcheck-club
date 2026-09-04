@@ -1,6 +1,6 @@
 # enz.O
 
-enz.O is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 6 Sept 2026.
+enz.O is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Eighteenth Street Lounge (ESL), Washington DC on Sun, 6 Sept 2026.
 
 enz.O is a house and techno artist tracked on soundcheck, with 77 sets logged across Newyorkcity and Washingtondc. Often billed alongside Ramos (2), KayLaSoul and Jus Nowhere. Next up: Eighteenth Street Lounge (ESL), Washingtondc on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ enz.O is a house and techno artist tracked on soundcheck, with 77 sets logged ac
 
 Ramos (2), KayLaSoul, Jus Nowhere
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo-us/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo-us/)*

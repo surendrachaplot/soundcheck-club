@@ -1,6 +1,6 @@
 # Sam J
 
-Sam J is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Gut Level, Sheffield on Fri, 4 Sept 2026.
+Sam J is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Gut Level, Sheffield on Fri, 4 Sept 2026.
 
 Sam J is a techno and electro artist tracked on soundcheck, with 22 sets logged across Berlin and Sheffield. Often billed alongside Torque (2), Harrison (UK) and Linnemann. Next up: Gut Level, Sheffield on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Sam J is a techno and electro artist tracked on soundcheck, with 22 sets logged 
 
 Torque (2), Harrison (UK), Linnemann
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samj-uk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samj-uk/)*

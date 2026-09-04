@@ -1,6 +1,6 @@
 # Dopamyne
 
-Dopamyne is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Le Red Room, Montreal on Wed, 16 Sept 2026.
+Dopamyne is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Le Red Room, Montreal on Wed, 16 Sept 2026.
 
 Dopamyne is a techno and trance artist tracked on soundcheck, with 29 sets logged across Madrid and Montreal. Often billed alongside No Police, Katamina and Kris Tin. Next up: Le Red Room, Montreal on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Dopamyne is a techno and trance artist tracked on soundcheck, with 29 sets logge
 
 No Police, Katamina, Kris Tin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dopamyne/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dopamyne/)*

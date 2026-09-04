@@ -1,6 +1,6 @@
 # m0nagenda
 
-m0nagenda is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+m0nagenda is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
 m0nagenda is a bass and techno artist based in Poland, tracked on soundcheck, with 18 sets logged across Amsterdam, Tbilisi and Warsaw. Often billed alongside KANCIAK, Apostolov and aura (PL). Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ m0nagenda is a bass and techno artist based in Poland, tracked on soundcheck, wi
 
 KANCIAK, Apostolov, aura (PL)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m0nagenda/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m0nagenda/)*

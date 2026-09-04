@@ -1,6 +1,6 @@
 # KM28
 
-KM28 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Matthew Ryals + Eliad Wagner, Chris Williams + Sara Persico" on Tue, 15 Sept 2026.
+KM28 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Matthew Ryals + Eliad Wagner, Chris Williams + Sara Persico" on Tue, 15 Sept 2026.
 
 KM28 is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Matthew Ryals and Sara Persico. Browse upcoming dates, start times and who's playing. Karl-Marx-Str. 28, Berlin 12043.
 
@@ -14,4 +14,4 @@ KM28 is a music venue in Berlin listed on soundcheck. 1 upcoming night, with lin
 
 Karl-Marx-Str. 28, Berlin 12043, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/km28/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/km28/)*

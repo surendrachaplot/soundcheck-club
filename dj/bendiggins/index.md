@@ -1,6 +1,6 @@
 # Ben Diggins
 
-Ben Diggins is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
+Ben Diggins is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
 Ben Diggins is a house and techno artist based in Netherlands, tracked on soundcheck, with 34 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside Steven Pieters, LIMA (NL) and select motion. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ben Diggins is a house and techno artist based in Netherlands, tracked on soundc
 
 Steven Pieters, LIMA (NL), select motion
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bendiggins/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bendiggins/)*

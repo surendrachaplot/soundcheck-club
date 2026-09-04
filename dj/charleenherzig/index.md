@@ -1,6 +1,6 @@
 # Charleen Herzig
 
-Charleen Herzig is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 11 Sept 2026.
+Charleen Herzig is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 11 Sept 2026.
 
 Charleen Herzig is a techno and trance artist tracked on soundcheck, with 40 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Limoncello, Katy Rough and DETOXX. Next up: Uebel & Gefährlich, Hamburg on Fri 11 Sept.
 
@@ -32,4 +32,4 @@ Charleen Herzig is a techno and trance artist tracked on soundcheck, with 40 set
 
 Limoncello, Katy Rough, DETOXX
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charleenherzig/)*

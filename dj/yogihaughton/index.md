@@ -1,6 +1,6 @@
 # Yogi Haughton
 
-Yogi Haughton is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Street, Edinburgh on Sat, 5 Sept 2026.
+Yogi Haughton is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Street, Edinburgh on Sat, 5 Sept 2026.
 
 Yogi Haughton is a house and disco artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside David Elders, Booker T and DJ Harri. Next up: The Street, Edinburgh on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Yogi Haughton is a house and disco artist based in United Kingdom, tracked on so
 
 David Elders, Booker T, DJ Harri
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yogihaughton/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yogihaughton/)*

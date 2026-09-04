@@ -1,6 +1,6 @@
 # Haeterna
 
-Haeterna is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Volnost, Seoul on Sat, 19 Sept 2026.
+Haeterna is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Volnost, Seoul on Sat, 19 Sept 2026.
 
 Haeterna is a techno and minimal artist based in South Korea, tracked on soundcheck, with 6 sets logged across Seoul. Often billed alongside mizae lim, Chingyi and Deekay. Next up: Volnost, Seoul on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Haeterna is a techno and minimal artist based in South Korea, tracked on soundch
 
 mizae lim, Chingyi, Deekay
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haeterna/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haeterna/)*

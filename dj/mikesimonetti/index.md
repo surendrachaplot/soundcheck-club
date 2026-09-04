@@ -1,18 +1,18 @@
 # Mike Simonetti
 
-Mike Simonetti is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hang Dai Chinese, Dublin on Sun, 6 Sept 2026.
+Mike Simonetti is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at ICA, London on Thu, 3 Sept 2026.
 
-Mike Simonetti is an acid and house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Dublin, London, Losangeles and Miami and 3 more. Often billed alongside Simonetti, Elvin T and Alexis Taylor. Next up: Hang Dai Chinese, Dublin on Sun 6 Sept.
+Mike Simonetti is an acid and house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Dublin, London, Losangeles and Miami and 3 more. Often billed alongside Simonetti, Elvin T and Alexis Taylor. Next up: ICA, London on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | ICA | London |
 | Sun, 6 Sept 2026 | Hang Dai Chinese | Dublin |
 
 ## Recently played
 
-- ICA, London — Thu, 3 Sept 2026
 - Gabriela, New York City — Sun, 2 Aug 2026
 - Good Room, New York City — Sat, 4 Jul 2026
 - Gabriela, New York City — Sun, 7 Jun 2026
@@ -20,9 +20,10 @@ Mike Simonetti is an acid and house artist based in United States of America, tr
 - Gabriela, New York City — Fri, 6 Mar 2026
 - Bossa Nova Civic Club, New York City — Sat, 24 Jan 2026
 - Void, Philadelphia — Wed, 31 Dec 2025
+- Pianos, New York City — Thu, 18 Dec 2025
 
 ## Shares bills with
 
 Simonetti, Elvin T, Alexis Taylor
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesimonetti/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesimonetti/)*

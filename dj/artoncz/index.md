@@ -1,6 +1,6 @@
 # Arton (CZ)
 
-Arton (CZ) is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bike Jesus, Prague on Fri, 4 Sept 2026.
+Arton (CZ) is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bike Jesus, Prague on Fri, 4 Sept 2026.
 
 Arton (CZ) is a techno and downtempo artist tracked on soundcheck, with 11 sets logged across Prague. Often billed alongside Axis Alpha, Eva Falt and ka.za. Next up: Bike Jesus, Prague on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Arton (CZ) is a techno and downtempo artist tracked on soundcheck, with 11 sets 
 
 Axis Alpha, Eva Falt, ka.za
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artoncz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artoncz/)*

@@ -1,6 +1,6 @@
 # Zonzo
 
-Zonzo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - secret location, Barcelona on Sat, 3 Oct 2026.
+Zonzo is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - secret location, Barcelona on Sat, 3 Oct 2026.
 
 Zonzo is a disco and house artist tracked on soundcheck, with 58 sets logged across Barcelona, Berlin, Mallorca and Malta and 3 more. Often billed alongside Deckard, Sonido Tupinamba and Josep Xortó. Next up: TBA - secret location, Barcelona on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Zonzo is a disco and house artist tracked on soundcheck, with 58 sets logged acr
 
 Deckard, Sonido Tupinamba, Josep Xortó
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zonzo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zonzo/)*

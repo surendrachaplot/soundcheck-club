@@ -1,6 +1,6 @@
 # The Dolphin
 
-The Dolphin is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "RHYTHM OF THE NIGHT: 8 YEAR ANNIVERSARY with Joey Beltram" on Fri, 4 Sept 2026.
+The Dolphin is a music venue in Philadelphia with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "RHYTHM OF THE NIGHT: 8 YEAR ANNIVERSARY with Joey Beltram" on Fri, 4 Sept 2026.
 
 The Dolphin is a music venue in Philadelphia listed on soundcheck. 3 upcoming nights, with line-ups including Dave Tidey, Fundido, G I N A and Joey Beltram and 2 more. Browse upcoming dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
 
@@ -16,4 +16,4 @@ The Dolphin is a music venue in Philadelphia listed on soundcheck. 3 upcoming ni
 
 1539 S Broad St, Philadelphia, PA 19147, Philadelphia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*

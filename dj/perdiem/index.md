@@ -1,6 +1,6 @@
 # Perdiem
 
-Perdiem is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Scala, London on Fri, 25 Sept 2026.
+Perdiem is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Scala, London on Fri, 25 Sept 2026.
 
 Perdiem is a disco and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Late Night Disco, Haruka and fTronic. Next up: The Scala, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Perdiem is a disco and house artist based in United Kingdom, tracked on soundche
 
 Late Night Disco, Haruka, fTronic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perdiem/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perdiem/)*

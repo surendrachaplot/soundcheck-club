@@ -1,6 +1,6 @@
 # LOFTUS
 
-LOFTUS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Metropolitan Bar, New York City on Fri, 4 Sept 2026.
+LOFTUS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Metropolitan Bar, New York City on Fri, 4 Sept 2026.
 
 LOFTUS is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity and Sanfrancisco. Often billed alongside Delilah At Night, ConCon and Ryan Farr. Next up: Metropolitan Bar, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ LOFTUS is a house and techno artist based in United States of America, tracked o
 
 Delilah At Night, ConCon, Ryan Farr
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loftus/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loftus/)*

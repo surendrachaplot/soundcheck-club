@@ -1,6 +1,6 @@
 # Bash Man
 
-Bash Man is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Art School, Glasgow on Fri, 4 Sept 2026.
+Bash Man is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Art School, Glasgow on Fri, 4 Sept 2026.
 
 Bash Man is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow. Often billed alongside Mi$$ Co$mix, Jack Brown (2) and Jack Brown. Next up: The Art School, Glasgow on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Bash Man is a techno and acid artist based in United Kingdom, tracked on soundch
 
 Mi$$ Co$mix, Jack Brown (2), Jack Brown
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bashman/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bashman/)*

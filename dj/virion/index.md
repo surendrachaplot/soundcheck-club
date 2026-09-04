@@ -1,6 +1,6 @@
 # Virion
 
-Virion is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kote, Seoul on Sun, 6 Sept 2026.
+Virion is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kote, Seoul on Sun, 6 Sept 2026.
 
 Virion is a garage and bass artist based in Myanmar, tracked on soundcheck, with 40 sets logged across Bangkok, Hongkong, Seoul and Tokyo. Often billed alongside BAAWLA, Shins and Dabin. Next up: Kote, Seoul on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Virion is a garage and bass artist based in Myanmar, tracked on soundcheck, with
 
 BAAWLA, Shins, Dabin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/virion/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/virion/)*

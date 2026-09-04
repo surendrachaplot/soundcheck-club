@@ -1,13 +1,14 @@
 # M.O.T
 
-M.O.T is a music venue in London with 40 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "SEXY TECHNO, HARD BOUNCE, TRANCE - FIRED BY HEAT INDEX " on Fri, 4 Sept 2026.
+M.O.T is a music venue in London with 41 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "TECHNO IN LONDON - OPEN DECKS & SOCIAL" on Thu, 3 Sept 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 40 upcoming nights, with line-ups including 3DMA, Agility, Anina and arawzi and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 41 upcoming nights, with line-ups including 3DMA, Agility, Anina and arawzi and 2 more. Browse upcoming dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | TECHNO IN LONDON - OPEN DECKS & SOCIAL |  |
 | Fri, 4 Sept 2026 | SEXY TECHNO, HARD BOUNCE, TRANCE - FIRED BY HEAT INDEX  | AUDIO DUNE, GALLY, LeNil, Sedex, Sophia Nicole |
 | Fri, 4 Sept 2026 | Celeste: Crestfall | Coupdekat, Stef Sinclair, Techg1rls |
 | Sat, 5 Sept 2026 | Cool Summer with Macca All Day Long - Outside at Venue MOT | Macca. |
@@ -17,10 +18,9 @@ M.O.T is a music venue in London listed on soundcheck. 40 upcoming nights, with 
 | Fri, 11 Sept 2026 | Bait presents: the dubstep - tech house connection PARTY 2 |  |
 | Fri, 11 Sept 2026 | TRADES |  |
 | Sat, 12 Sept 2026 | A Colourful Storm & M.O.T ✻ Lena Willikens b2b Moopie, Nosedrip | Lena Willikens, Moopie, Nosedrip |
-| Sat, 12 Sept 2026 | Distant Planet X Singularity UK: Inside Out | Hughesee, ISORA, Jerome Hill, Louise Plus One, Mousai, The Bass Injector, Tim Reaper, Warlock |
 
 ## Address
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

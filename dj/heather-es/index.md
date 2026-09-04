@@ -1,6 +1,6 @@
 # Heather (ES)
 
-Heather (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 12 Sept 2026.
+Heather (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 12 Sept 2026.
 
 Heather (ES) is a house and techno artist tracked on soundcheck, with 19 sets logged across Barcelona. Often billed alongside pekkuliar, CMYK and VARAN. Next up: Village Underground Barcelona, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Heather (ES) is a house and techno artist tracked on soundcheck, with 19 sets lo
 
 pekkuliar, CMYK, VARAN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heather-es/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heather-es/)*

@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "10 YEARS MONKEYCIRCUS - Leipzig Edition" on Fri, 4 Sept 2026.
+elipamanoke is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "10 YEARS MONKEYCIRCUS - Leipzig Edition" on Fri, 4 Sept 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 12 upcoming nights, with line-ups including :MUMM, adamoandiamo, Aender and Aio and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -23,4 +23,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 12 upcoming nights
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

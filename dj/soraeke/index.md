@@ -1,6 +1,6 @@
 # Sora Éke
 
-Sora Éke is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Skin Club, Madrid on Sat, 5 Sept 2026.
+Sora Éke is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Skin Club, Madrid on Sat, 5 Sept 2026.
 
 Sora Éke is a techno and electronica artist based in Spain, tracked on soundcheck, with 31 sets logged across Berlin, Madrid, Paris and Warsaw. Often billed alongside Bluntz (2), Presunta (2) and Quka. Next up: Skin Club, Madrid on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Sora Éke is a techno and electronica artist based in Spain, tracked on soundche
 
 Bluntz (2), Presunta (2), Quka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soraeke/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soraeke/)*

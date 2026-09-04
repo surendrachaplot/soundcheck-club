@@ -1,6 +1,6 @@
 # yyshuu
 
-yyshuu is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri, 4 Sept 2026.
+yyshuu is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri, 4 Sept 2026.
 
 yyshuu is a minimal and house artist tracked on soundcheck, with 42 sets logged across Barcelona, Prague, Seoul and Tokyo. Often billed alongside yoshiken, Yos. and Ariaray. Next up: TBA - Backstage - Carrer Casp, 33B, Barcelona on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ yyshuu is a minimal and house artist tracked on soundcheck, with 42 sets logged 
 
 yoshiken, Yos., Ariaray
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yyshuu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yyshuu/)*

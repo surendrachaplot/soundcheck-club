@@ -1,6 +1,6 @@
 # RIBLX
 
-RIBLX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Department 184, Milan on Fri, 25 Sept 2026.
+RIBLX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Department 184, Milan on Fri, 25 Sept 2026.
 
 RIBLX is a techno and house artist tracked on soundcheck, with 7 sets logged across Milan. Often billed alongside MISERIA, FRANCESCO GUZZO and Ivan Carbone. Next up: Department 184, Milan on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ RIBLX is a techno and house artist tracked on soundcheck, with 7 sets logged acr
 
 MISERIA, FRANCESCO GUZZO, Ivan Carbone
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riblx/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riblx/)*

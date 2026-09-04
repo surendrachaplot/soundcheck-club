@@ -1,6 +1,6 @@
 # Ferrari
 
-Ferrari is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
+Ferrari is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
 
 Ferrari is a house and disco artist based in Italy, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Madrid and Milan and 2 more. Often billed alongside Dante (H501), Coni (2) and Larry Masmero. Next up: Klaproos, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Ferrari is a house and disco artist based in Italy, tracked on soundcheck, with 
 
 Dante (H501), Coni (2), Larry Masmero
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*

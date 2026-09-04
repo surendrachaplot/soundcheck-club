@@ -1,6 +1,6 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Skin On Skin is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Skin On Skin is a techno and house artist tracked on soundcheck, with 139 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 52 more. Often billed alongside Mall Grab, KETTAMA and Job Jobse. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Skin On Skin is a techno and house artist tracked on soundcheck, with 139 sets l
 
 Mall Grab, KETTAMA, Job Jobse
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

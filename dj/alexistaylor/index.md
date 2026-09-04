@@ -1,19 +1,19 @@
 # Alexis Taylor
 
-Alexis Taylor is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sneaky Pete's, Edinburgh on Sat, 19 Sept 2026.
+Alexis Taylor is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at ICA, London on Thu, 3 Sept 2026.
 
-Alexis Taylor is a house and disco artist tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, Brighton and Cork and 12 more. Often billed alongside Erol Alkan, Hot Chip and Mike Simonetti. Next up: Sneaky Pete's, Edinburgh on Sat 19 Sept.
+Alexis Taylor is a house and disco artist tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, Brighton and Cork and 12 more. Often billed alongside Erol Alkan, Hot Chip and Mike Simonetti. Next up: ICA, London on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | ICA | London |
 | Sat, 19 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
-- ICA, London — Thu, 3 Sept 2026
 - Signature Brew Blackhorse Road, London — Sat, 1 Aug 2026
 - TBA - Site Archéologique d'Olbia, Marseille — Fri, 24 Jul 2026
 - Hidden Grooves, London — Tue, 2 Jun 2026
@@ -21,9 +21,10 @@ Alexis Taylor is a house and disco artist tracked on soundcheck, with 47 sets lo
 - Kelham Island & Neepsend - Various Venues, Sheffield — Sat, 16 May 2026
 - Zebulon, Los Angeles — Sun, 10 May 2026
 - Yes, Manchester — Fri, 24 Apr 2026
+- Le Hasard Ludique, Paris — Wed, 22 Apr 2026
 
 ## Shares bills with
 
 Erol Alkan, Hot Chip, Mike Simonetti
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexistaylor/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexistaylor/)*

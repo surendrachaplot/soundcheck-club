@@ -1,6 +1,6 @@
 # Gio Lucca
 
-Gio Lucca is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sunnyside Pavilion, Toronto on Sat, 26 Sept 2026.
+Gio Lucca is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sunnyside Pavilion, Toronto on Sat, 26 Sept 2026.
 
 Gio Lucca is a tech house and house artist based in Peru, tracked on soundcheck, with 15 sets logged across Austin, Boston, Chicago and Denver and 4 more. Often billed alongside Jeff Sorkowitz, Simon Doty and Cole Terrazas. Next up: Sunnyside Pavilion, Toronto on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Gio Lucca is a tech house and house artist based in Peru, tracked on soundcheck,
 
 Jeff Sorkowitz, Simon Doty, Cole Terrazas
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giolucca/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giolucca/)*

@@ -1,6 +1,6 @@
 # Michael Trotter
 
-Michael Trotter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Danger Danger, New York City on Thu, 10 Sept 2026.
+Michael Trotter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Danger Danger, New York City on Thu, 10 Sept 2026.
 
 Michael Trotter is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Berlin, Miami and Newyorkcity. Often billed alongside Ardio Zemog, Darren Black and JEK G. Next up: Danger Danger, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Michael Trotter is a house and techno artist based in United States of America, 
 
 Ardio Zemog, Darren Black, JEK G
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeltrotter/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaeltrotter/)*

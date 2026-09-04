@@ -1,6 +1,6 @@
 # DJ Co.kr
 
-DJ Co.kr is a Club and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bolero, Seoul on Fri, 4 Sept 2026.
+DJ Co.kr is a Club and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bolero, Seoul on Fri, 4 Sept 2026.
 
 DJ Co.kr is a club and bass artist tracked on soundcheck, with 173 sets logged across Bangkok, Berlin, Hongkong and Ibiza and 5 more. Often billed alongside bojvck, ANDOW and Ligrye. Next up: Bolero, Seoul on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ DJ Co.kr is a club and bass artist tracked on soundcheck, with 173 sets logged a
 
 bojvck, ANDOW, Ligrye
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/DJ-co-kr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/DJ-co-kr/)*

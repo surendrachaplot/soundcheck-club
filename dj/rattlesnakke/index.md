@@ -1,6 +1,6 @@
 # Rattlesnakke
 
-Rattlesnakke is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at export, Rotterdam on Fri, 4 Sept 2026.
+Rattlesnakke is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at export, Rotterdam on Fri, 4 Sept 2026.
 
 Rattlesnakke is a techno and latin bass artist based in Argentina, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside KMILA, Sushinigami and AMANTRA. Next up: export, Rotterdam on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Rattlesnakke is a techno and latin bass artist based in Argentina, tracked on so
 
 KMILA, Sushinigami, AMANTRA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rattlesnakke/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rattlesnakke/)*

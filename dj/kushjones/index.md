@@ -1,6 +1,6 @@
 # Kush Jones
 
-Kush Jones is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Doubles, Washington DC on Sat, 19 Sept 2026.
+Kush Jones is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Doubles, Washington DC on Sat, 19 Sept 2026.
 
 Kush Jones is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Auckland, Bali and Berlin and 26 more. Often billed alongside DJ SWISHA, MoMA Ready and AceMo. Next up: Doubles, Washingtondc on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Kush Jones is a techno and house artist tracked on soundcheck, with 118 sets log
 
 DJ SWISHA, MoMA Ready, AceMo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kushjones/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kushjones/)*

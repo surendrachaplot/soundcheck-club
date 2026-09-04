@@ -1,6 +1,6 @@
 # LeVe
 
-LeVe is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Neukölln Secret Location, Berlin on Fri, 11 Sept 2026.
+LeVe is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Neukölln Secret Location, Berlin on Fri, 11 Sept 2026.
 
 LeVe is a house and deep house artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Josiane, Mad Shivers and Philippe Autuori. Next up: TBA - Neukölln Secret Location, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ LeVe is a house and deep house artist based in Germany, tracked on soundcheck, w
 
 Josiane, Mad Shivers, Philippe Autuori
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leve/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leve/)*

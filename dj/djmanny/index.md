@@ -1,6 +1,6 @@
 # DJ Manny
 
-DJ Manny is a Footwork and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Podlasie Club, Chicago on Thu, 10 Sept 2026.
+DJ Manny is a Footwork and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Podlasie Club, Chicago on Thu, 10 Sept 2026.
 
 DJ Manny is a footwork and techno artist tracked on soundcheck, with 87 sets logged across Austin, Boston, Chicago and Detroit and 6 more. Often billed alongside Traxman, DJ Phil and DJ Spinn. Next up: Podlasie Club, Chicago on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ DJ Manny is a footwork and techno artist tracked on soundcheck, with 87 sets log
 
 Traxman, DJ Phil, DJ Spinn
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*

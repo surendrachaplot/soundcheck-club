@@ -1,6 +1,6 @@
 # evin
 
-evin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Prince Charles, Berlin on Fri, 11 Sept 2026.
+evin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Prince Charles, Berlin on Fri, 11 Sept 2026.
 
 evin is a techno and house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Berlin, Brussels and Cologne and 12 more. Often billed alongside ferrari rot, MALUGI and Marlon Hoffstadt. Next up: Prince Charles, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ evin is a techno and house artist tracked on soundcheck, with 75 sets logged acr
 
 ferrari rot, MALUGI, Marlon Hoffstadt
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evin/)*

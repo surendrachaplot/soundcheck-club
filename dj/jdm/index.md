@@ -1,6 +1,6 @@
 # JDM
 
-JDM is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mezzanine - Tooting, London on Fri, 18 Sept 2026.
+JDM is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mezzanine - Tooting, London on Fri, 18 Sept 2026.
 
 JDM is a garage and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Liverpool and London. Often billed alongside Tommy Eats, Calm Stiege and FNKD. Next up: Mezzanine - Tooting, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ JDM is a garage and house artist based in United Kingdom, tracked on soundcheck,
 
 Tommy Eats, Calm Stiege, FNKD
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdm/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdm/)*

@@ -1,6 +1,6 @@
 # YUXI
 
-YUXI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Z Maruyama, Tokyo on Sat, 5 Sept 2026.
+YUXI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Z Maruyama, Tokyo on Sat, 5 Sept 2026.
 
 YUXI is a techno and house artist tracked on soundcheck, with 71 sets logged across Osaka and Tokyo. Often billed alongside DALJAE, ALEXANDER M and Drunken Kong. Next up: Z Maruyama, Tokyo on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ YUXI is a techno and house artist tracked on soundcheck, with 71 sets logged acr
 
 DALJAE, ALEXANDER M, Drunken Kong
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuxi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuxi/)*

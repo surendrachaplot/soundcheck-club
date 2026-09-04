@@ -1,6 +1,6 @@
 # Neon Grotto
 
-Neon Grotto is a music venue in Austin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "What's On My Mind: Family" on Sun, 6 Sept 2026.
+Neon Grotto is a music venue in Austin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "What's On My Mind: Family" on Sun, 6 Sept 2026.
 
 Neon Grotto is a music venue in Austin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 318 Colorado St, Austin, TX 78701, United States.
 
@@ -14,4 +14,4 @@ Neon Grotto is a music venue in Austin listed on soundcheck. 1 upcoming night. B
 
 318 Colorado St, Austin, TX 78701, United States, Austin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/neon-grotto/)*

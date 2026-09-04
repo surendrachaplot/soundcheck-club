@@ -1,6 +1,6 @@
 # Visible Cloaks
 
-Visible Cloaks is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Nowa Miodowa, Warsaw on Sun, 4 Oct 2026.
+Visible Cloaks is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nowa Miodowa, Warsaw on Sun, 4 Oct 2026.
 
 Visible Cloaks is an experimental and ambient artist tracked on soundcheck, with 11 sets logged across London, Mexicocity, Newyorkcity and Osaka and 5 more. Often billed alongside Yoshio Ojima, DJ Healthy and Aqua Mute. Next up: Nowa Miodowa, Warsaw on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Visible Cloaks is an experimental and ambient artist tracked on soundcheck, with
 
 Yoshio Ojima, DJ Healthy, Aqua Mute
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/visiblecloaks/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/visiblecloaks/)*

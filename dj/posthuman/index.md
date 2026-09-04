@@ -1,6 +1,6 @@
 # Posthuman
 
-Posthuman is a Acid and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Lost Horizon, Bristol on Fri, 4 Sept 2026.
+Posthuman is a Acid and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lost Horizon, Bristol on Fri, 4 Sept 2026.
 
 Posthuman is an acid and techno artist tracked on soundcheck, with 75 sets logged across Bangkok, Birmingham, Bristol and Chicago and 10 more. Often billed alongside Luke Vibert, Nightwave and Jon Dasilva. Next up: Lost Horizon, Bristol on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Posthuman is an acid and techno artist tracked on soundcheck, with 75 sets logge
 
 Luke Vibert, Nightwave, Jon Dasilva
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/posthuman/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/posthuman/)*

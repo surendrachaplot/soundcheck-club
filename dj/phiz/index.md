@@ -1,6 +1,6 @@
 # PHIZ
 
-PHIZ is a UK Funky and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Prince of Wales, London on Fri, 4 Sept 2026.
+PHIZ is a UK Funky and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Prince of Wales, London on Fri, 4 Sept 2026.
 
 PHIZ is an uk funky and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Akabema, TECHNOLUX and DREIAN. Next up: The Prince of Wales, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ PHIZ is an uk funky and house artist based in United Kingdom, tracked on soundch
 
 Akabema, TECHNOLUX, DREIAN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phiz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phiz/)*

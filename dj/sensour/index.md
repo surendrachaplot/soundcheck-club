@@ -1,6 +1,6 @@
 # sensour
 
-sensour is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at B-SIDE, Warsaw on Fri, 11 Sept 2026.
+sensour is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at B-SIDE, Warsaw on Fri, 11 Sept 2026.
 
 sensour is a minimal and tech house artist tracked on soundcheck, with 14 sets logged across Berlin, Krakow, Prague and Warsaw. Often billed alongside Solyr, Fuunkt and nuarrrrr. Next up: B-SIDE, Warsaw on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ sensour is a minimal and tech house artist tracked on soundcheck, with 14 sets l
 
 Solyr, Fuunkt, nuarrrrr
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sensour/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sensour/)*

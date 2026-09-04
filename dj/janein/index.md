@@ -1,6 +1,6 @@
 # JANEIN
 
-JANEIN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Glazart, Paris on Sat, 5 Sept 2026.
+JANEIN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Glazart, Paris on Sat, 5 Sept 2026.
 
 JANEIN is a techno and house artist tracked on soundcheck, with 84 sets logged across Basel, Belgrade, Berlin and Frankfurt and 14 more. Often billed alongside Stigmatique, Shaleen and Anna Hjalmarsson. Next up: Glazart, Paris on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ JANEIN is a techno and house artist tracked on soundcheck, with 84 sets logged a
 
 Stigmatique, Shaleen, Anna Hjalmarsson
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*

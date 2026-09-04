@@ -1,6 +1,6 @@
 # Tettix Hexer
 
-Tettix Hexer is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Communale Saint-Ouen, Paris on Sat, 5 Sept 2026.
+Tettix Hexer is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Communale Saint-Ouen, Paris on Sat, 5 Sept 2026.
 
 Tettix Hexer is an experimental and ambient artist tracked on soundcheck, with 9 sets logged across Copenhagen and Paris. Often billed alongside Internazionale, HEX ELECTRONIX and 999999999. Next up: Communale Saint-Ouen, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tettix Hexer is an experimental and ambient artist tracked on soundcheck, with 9
 
 Internazionale, HEX ELECTRONIX, 999999999
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tettixhexer/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tettixhexer/)*

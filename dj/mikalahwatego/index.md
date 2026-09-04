@@ -1,6 +1,6 @@
 # Mikalah Watego
 
-Mikalah Watego is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Miscellania, Melbourne on Sat, 5 Sept 2026.
+Mikalah Watego is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Miscellania, Melbourne on Sat, 5 Sept 2026.
 
 Mikalah Watego is a techno and house artist based in Australia, tracked on soundcheck, with 33 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Hasvat Informant, Ed Kent and Naycab. Next up: Miscellania, Melbourne on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Mikalah Watego is a techno and house artist based in Australia, tracked on sound
 
 Hasvat Informant, Ed Kent, Naycab
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*

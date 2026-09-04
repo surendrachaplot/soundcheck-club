@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 10 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Vlada, Da Ni" on Fri, 4 Sept 2026.
+Gare Porto is a music venue in Porto with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Vlada, Da Ni" on Fri, 4 Sept 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 10 upcoming nights, with line-ups including Alfred Czital, Amulador, Ayū (1) and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -23,4 +23,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 10 upcoming nights, w
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

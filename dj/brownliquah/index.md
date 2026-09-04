@@ -1,6 +1,6 @@
 # Brown Liquah
 
-Brown Liquah is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Pamela Club, Paris on Fri, 11 Sept 2026.
+Brown Liquah is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Pamela Club, Paris on Fri, 11 Sept 2026.
 
 Brown Liquah is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity, Paris, Philadelphia and Washingtondc. Often billed alongside Kenni Javon, Litney and DJ Freedem. Next up: Pamela Club, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Brown Liquah is a club and hip-hop artist based in United States of America, tra
 
 Kenni Javon, Litney, DJ Freedem
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brownliquah/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brownliquah/)*

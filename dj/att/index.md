@@ -1,6 +1,6 @@
 # ATT
 
-ATT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at [UNVRS], Ibiza on Sat, 12 Sept 2026.
+ATT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at [UNVRS], Ibiza on Sat, 12 Sept 2026.
 
 ATT is a techno and house artist based in Japan, tracked on soundcheck, with 47 sets logged across Barcelona, Ibiza and Tokyo. Often billed alongside Takami, Remo-con and Shinkawa. Next up: [UNVRS], Ibiza on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ ATT is a techno and house artist based in Japan, tracked on soundcheck, with 47 
 
 Takami, Remo-con, Shinkawa
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/att/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/att/)*

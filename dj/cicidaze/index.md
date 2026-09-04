@@ -1,6 +1,6 @@
 # Cici Daze
 
-Cici Daze is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Cici Daze is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
 Cici Daze is a house and tech house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside Benny Rodrigues, AAT (NL) and Prunk. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Cici Daze is a house and tech house artist based in Netherlands, tracked on soun
 
 Benny Rodrigues, AAT (NL), Prunk
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cicidaze/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cicidaze/)*

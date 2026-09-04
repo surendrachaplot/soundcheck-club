@@ -1,6 +1,6 @@
 # Binh
 
-Binh is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Studio Club Malaga, Malaga on Sat, 5 Sept 2026.
+Binh is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Studio Club Malaga, Malaga on Sat, 5 Sept 2026.
 
 Binh is a techno and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Studio Club Malaga, Malaga on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Binh is a techno and house artist tracked on soundcheck, with 199 sets logged ac
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

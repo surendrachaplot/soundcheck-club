@@ -1,6 +1,6 @@
 # Sabura
 
-Sabura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 12 Sept 2026.
+Sabura is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 12 Sept 2026.
 
 Sabura is a techno and house artist based in Germany, tracked on soundcheck, with 104 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 7 more. Often billed alongside Maurice Mino, Sin:port and Konfusia. Next up: Fridas Pier, Stuttgart on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Sabura is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 Maurice Mino, Sin:port, Konfusia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabura/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabura/)*

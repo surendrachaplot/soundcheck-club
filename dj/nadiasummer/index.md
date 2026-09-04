@@ -1,6 +1,6 @@
 # Nadia Summer
 
-Nadia Summer is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at E1, London on Sat, 5 Sept 2026.
+Nadia Summer is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at E1, London on Sat, 5 Sept 2026.
 
 Nadia Summer is a house and garage artist tracked on soundcheck, with 52 sets logged across Amsterdam, Bristol, Edinburgh and Glasgow and 1 more. Often billed alongside PASO, Archie Holmes and Oakley Carter. Next up: E1, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Nadia Summer is a house and garage artist tracked on soundcheck, with 52 sets lo
 
 PASO, Archie Holmes, Oakley Carter
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiasummer/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiasummer/)*

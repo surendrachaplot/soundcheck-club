@@ -1,6 +1,6 @@
 # Mama Lior
 
-Mama Lior is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
+Mama Lior is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
 
 Mama Lior is a techno and tech house artist tracked on soundcheck, with 9 sets logged across Berlin, Leipzig, Lisbon and Paris. Often billed alongside Dangermami, 2 Girls 1 Club and AM3LI3. Next up: Point Ephémère, Paris on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Mama Lior is a techno and tech house artist tracked on soundcheck, with 9 sets l
 
 Dangermami, 2 Girls 1 Club, AM3LI3
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamalior/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamalior/)*

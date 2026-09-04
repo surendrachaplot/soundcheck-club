@@ -1,6 +1,6 @@
 # Holten
 
-Holten is a Acid and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 9 Oct 2026.
+Holten is a Acid and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 9 Oct 2026.
 
 Holten is an acid and italo disco artist based in Ireland, tracked on soundcheck, with 25 sets logged across Berlin, Dublin, Ibiza and London and 1 more. Often billed alongside Dar Molloy (2), Spraoi Mór and Sound Metaphors Djs. Next up: Yamamori Tengu, Dublin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Holten is an acid and italo disco artist based in Ireland, tracked on soundcheck
 
 Dar Molloy (2), Spraoi Mór, Sound Metaphors Djs
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holten/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holten/)*

@@ -1,6 +1,6 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Universidad Autónoma de Madrid (UAM), Madrid on Sat, 12 Sept 2026.
+ANOTR is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Universidad Autónoma de Madrid (UAM), Madrid on Sat, 12 Sept 2026.
 
 ANOTR is a house and tech house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 33 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Universidad Autónoma de Madrid (UAM), Madrid on Sat 12 Sept.
 
@@ -34,4 +34,4 @@ ANOTR is a house and tech house artist tracked on soundcheck, with 156 sets logg
 
 Seth Troxler, Dennis Cruz, Toman
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*

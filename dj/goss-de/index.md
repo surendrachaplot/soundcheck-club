@@ -1,6 +1,6 @@
 # G.oss
 
-G.oss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OXI, Berlin on Fri, 11 Sept 2026.
+G.oss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OXI, Berlin on Fri, 11 Sept 2026.
 
 G.oss is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Milan and Prague. Often billed alongside Flight Mode (DE), Kobzev and Daniel Norrel. Next up: OXI, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ G.oss is a techno and house artist tracked on soundcheck, with 35 sets logged ac
 
 Flight Mode (DE), Kobzev, Daniel Norrel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goss-de/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goss-de/)*

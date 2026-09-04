@@ -1,6 +1,6 @@
 # Kenzura
 
-Kenzura is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Void Club, Berlin on Fri, 18 Sept 2026.
+Kenzura is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Void Club, Berlin on Fri, 18 Sept 2026.
 
 Kenzura is a drum & bass and dubstep artist tracked on soundcheck, with 24 sets logged across Berlin and London. Often billed alongside IHOPEIEXIST, Aynaet and Dub Isotope. Next up: Void Club, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Kenzura is a drum & bass and dubstep artist tracked on soundcheck, with 24 sets 
 
 IHOPEIEXIST, Aynaet, Dub Isotope
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzura/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzura/)*

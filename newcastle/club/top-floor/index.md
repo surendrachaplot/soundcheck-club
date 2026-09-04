@@ -1,6 +1,6 @@
 # Top Floor
 
-Top Floor is a music venue in Newcastle with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "SYNRG presents After Party: Blake, BOAG, Strictly Pritt, Dove, Murta" on Sat, 5 Sept 2026.
+Top Floor is a music venue in Newcastle with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SYNRG presents After Party: Blake, BOAG, Strictly Pritt, Dove, Murta" on Sat, 5 Sept 2026.
 
 Top Floor is a music venue in Newcastle listed on soundcheck. 4 upcoming nights, with line-ups including B.Love, Blasha & Allatt, Jacklyn and Objekt. Browse upcoming dates, start times and who's playing. 13 Bigg Market NE1 1SU.
 
@@ -17,4 +17,4 @@ Top Floor is a music venue in Newcastle listed on soundcheck. 4 upcoming nights,
 
 13 Bigg Market NE1 1SU, Newcastle
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/top-floor/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/top-floor/)*

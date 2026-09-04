@@ -1,6 +1,6 @@
 # Lexxy Jax
 
-Lexxy Jax is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Sept 2026.
+Lexxy Jax is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 19 Sept 2026.
 
 Lexxy Jax is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Barcelona, Chicago, London and Montreal and 4 more. Often billed alongside 99jakes, Replicator and Flapjack. Next up: F8 1192 Folsom, Sanfrancisco on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Lexxy Jax is a hardcore and techno artist based in United States of America, tra
 
 99jakes, Replicator, Flapjack
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexxyjax/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexxyjax/)*

@@ -1,6 +1,6 @@
 # Taisy
 
-Taisy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Grüner Jäger, Hamburg on Fri, 11 Sept 2026.
+Taisy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Grüner Jäger, Hamburg on Fri, 11 Sept 2026.
 
 Taisy is a house and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Hamburg. Often billed alongside DJ Babyblade, VALI THUN and Jakob Seidensticker. Next up: Grüner Jäger, Hamburg on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Taisy is a house and techno artist based in Germany, tracked on soundcheck, with
 
 DJ Babyblade, VALI THUN, Jakob Seidensticker
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taisy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taisy/)*

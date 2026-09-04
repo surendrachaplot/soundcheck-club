@@ -1,6 +1,6 @@
 # upper class
 
-upper class is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
+upper class is a House and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
 
 upper class is a house and breakbeat artist tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin, Cologne and Paris. Often billed alongside Pijus, 1-800 GIRLS and GEE LEE. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ upper class is a house and breakbeat artist tracked on soundcheck, with 5 sets l
 
 Pijus, 1-800 GIRLS, GEE LEE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/upperclass/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/upperclass/)*

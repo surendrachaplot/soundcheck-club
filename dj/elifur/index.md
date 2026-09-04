@@ -1,6 +1,6 @@
 # Eli & Fur
 
-Eli & Fur is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Eli & Fur is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside CRi, Jody Wisternoff and Marsh. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundch
 
 CRi, Jody Wisternoff, Marsh
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*

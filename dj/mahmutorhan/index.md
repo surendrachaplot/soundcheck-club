@@ -1,6 +1,6 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 11 Sept 2026.
+Mahmut Orhan is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Austin and 30 more. Often billed alongside Shimza, Adriatique and Andrea Oliva. Next up: Chinois Ibiza, Ibiza on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Mahmut Orhan is a house and afro house artist tracked on soundcheck, with 122 se
 
 Shimza, Adriatique, Andrea Oliva
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

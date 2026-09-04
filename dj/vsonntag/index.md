@@ -1,6 +1,6 @@
 # V:SONNTAG
 
-V:SONNTAG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Distillery, Leipzig on Sat, 3 Oct 2026.
+V:SONNTAG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Distillery, Leipzig on Sat, 3 Oct 2026.
 
 V:SONNTAG is a techno and house artist based in Germany, tracked on soundcheck, with 63 sets logged across Amsterdam, Basel, Berlin and Hamburg and 7 more. Often billed alongside Hanna Baertig, fr. JPLA and karete bu. Next up: Distillery, Leipzig on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ V:SONNTAG is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Hanna Baertig, fr. JPLA, karete bu
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vsonntag/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vsonntag/)*

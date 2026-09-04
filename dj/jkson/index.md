@@ -1,6 +1,6 @@
 # Jkson
 
-Jkson is a Downtempo and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kraftwerk, Zurich on Sun, 20 Sept 2026.
+Jkson is a Downtempo and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kraftwerk, Zurich on Sun, 20 Sept 2026.
 
 Jkson is a downtempo and electronica artist based in Switzerland, tracked on soundcheck, with 6 sets logged across Zurich. Often billed alongside Izumi Yamamoto. Next up: Kraftwerk, Zurich on Sun 20 Sept.
 
@@ -22,4 +22,4 @@ Jkson is a downtempo and electronica artist based in Switzerland, tracked on sou
 
 Izumi Yamamoto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jkson/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jkson/)*

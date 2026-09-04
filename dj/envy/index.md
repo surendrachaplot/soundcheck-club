@@ -1,6 +1,6 @@
 # EN:VY
 
-EN:VY is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+EN:VY is a Drum & Bass and Dubstep artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 EN:VY is a drum & bass and dubstep artist based in Ukraine, tracked on soundcheck, with 30 sets logged across Auckland, Bristol, Ghent and London and 11 more. Often billed alongside Enei, Kasra and Kyrist. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -14,7 +14,6 @@ EN:VY is a drum & bass and dubstep artist based in Ukraine, tracked on soundchec
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 3 Sept 2026
 - Grelle Forelle, Vienna — Sat, 20 Jun 2026
 - Saloon, Tokyo — Sun, 17 May 2026
 - Triangle, Osaka — Fri, 15 May 2026
@@ -22,9 +21,10 @@ EN:VY is a drum & bass and dubstep artist based in Ukraine, tracked on soundchec
 - Virgo, New York City — Thu, 23 Apr 2026
 - Hidden, Manchester — Fri, 6 Feb 2026
 - Document, Bristol — Sat, 31 Jan 2026
+- Grelle Forelle, Vienna — Sat, 15 Nov 2025
 
 ## Shares bills with
 
 Enei, Kasra, Kyrist
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/envy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/envy/)*

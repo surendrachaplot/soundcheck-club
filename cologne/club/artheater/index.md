@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "akt x hyperlove" on Sat, 5 Sept 2026.
+Artheater is a music venue in Cologne with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "akt x hyperlove" on Sat, 5 Sept 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, with line-ups including Aaro (3), Amøn, Aw508 and Blame The Mono and 2 more. Browse upcoming dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -21,4 +21,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 8 upcoming nights, w
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

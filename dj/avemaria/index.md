@@ -1,6 +1,6 @@
 # Ave Maria
 
-Ave Maria is a Garage and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sigurd CPH, Copenhagen on Sat, 26 Sept 2026.
+Ave Maria is a Garage and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sigurd CPH, Copenhagen on Sat, 26 Sept 2026.
 
 Ave Maria is a garage and afrobeats artist based in Denmark, tracked on soundcheck, with 14 sets logged across Copenhagen, Munich and Tallinn. Often billed alongside AVI.avi, Anton Goltermann and DJ Sprinter. Next up: Sigurd CPH, Copenhagen on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ave Maria is a garage and afrobeats artist based in Denmark, tracked on soundche
 
 AVI.avi, Anton Goltermann, DJ Sprinter
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avemaria/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avemaria/)*

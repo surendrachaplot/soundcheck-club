@@ -1,6 +1,6 @@
 # Rochelle Jordan
 
-Rochelle Jordan is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
+Rochelle Jordan is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
 
 Rochelle Jordan is a house and r&b artist based in Canada, tracked on soundcheck, with 28 sets logged across Austin, Chicago, Dublin and Lisbon and 11 more. Often billed alongside Disclosure, DARIUS and Dam Swindle. Next up: FS., Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Rochelle Jordan is a house and r&b artist based in Canada, tracked on soundcheck
 
 Disclosure, DARIUS, Dam Swindle
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rochellejordan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rochellejordan/)*

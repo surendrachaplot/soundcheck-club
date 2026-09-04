@@ -1,6 +1,6 @@
 # Mark Roma
 
-Mark Roma is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ministry Of Sound, London on Fri, 6 Nov 2026.
+Mark Roma is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ministry Of Sound, London on Fri, 6 Nov 2026.
 
 Mark Roma is a techno and trance artist tracked on soundcheck, with 7 sets logged across Cologne and London. Often billed alongside Alythia Kwan, Cast Lov and Danny F. Next up: Ministry Of Sound, London on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Mark Roma is a techno and trance artist tracked on soundcheck, with 7 sets logge
 
 Alythia Kwan, Cast Lov, Danny F
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markroma/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markroma/)*

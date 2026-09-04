@@ -1,6 +1,6 @@
 # A Taut Line
 
-A Taut Line is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Oath, Tokyo on Tue, 15 Sept 2026.
+A Taut Line is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Oath, Tokyo on Tue, 15 Sept 2026.
 
 A Taut Line is a house and techno artist tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside BD1982, RGL and Max Essa. Next up: Oath, Tokyo on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ A Taut Line is a house and techno artist tracked on soundcheck, with 9 sets logg
 
 BD1982, RGL, Max Essa
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atautline/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atautline/)*

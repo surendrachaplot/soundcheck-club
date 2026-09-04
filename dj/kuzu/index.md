@@ -1,6 +1,6 @@
 # Kuzu
 
-Kuzu is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Magazzino sul Po, Turin on Thu, 10 Sept 2026.
+Kuzu is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Magazzino sul Po, Turin on Thu, 10 Sept 2026.
 
 Kuzu is an electronica and experimental artist tracked on soundcheck, with 5 sets logged across Istanbul, Milan and Turin. Often billed alongside BETIX, Lorenzo BITW and Nash. Next up: Magazzino sul Po, Turin on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ Kuzu is an electronica and experimental artist tracked on soundcheck, with 5 set
 
 BETIX, Lorenzo BITW, Nash
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzu/)*

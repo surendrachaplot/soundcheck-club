@@ -1,6 +1,6 @@
 # Joe BRT
 
-Joe BRT is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Beate Uwe, Berlin on Sat, 5 Sept 2026.
+Joe BRT is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Beate Uwe, Berlin on Sat, 5 Sept 2026.
 
 Joe BRT is a house and minimal artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Balthazar Martinez, Bézier and Christopher Lawrenz. Next up: Beate Uwe, Berlin on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Joe BRT is a house and minimal artist based in Germany, tracked on soundcheck, w
 
 Balthazar Martinez, Bézier, Christopher Lawrenz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joebrt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joebrt/)*

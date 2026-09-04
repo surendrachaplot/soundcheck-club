@@ -1,6 +1,6 @@
 # Kid Moss
 
-Kid Moss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 26 Sept 2026.
+Kid Moss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 26 Sept 2026.
 
 Kid Moss is a house and techno artist tracked on soundcheck, with 90 sets logged across Barcelona, Berlin, Geneva and London and 1 more. Often billed alongside Guedes (ES), Guedes and IVAN POSEIDON. Next up: 303 Audiophile Bar, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Kid Moss is a house and techno artist tracked on soundcheck, with 90 sets logged
 
 Guedes (ES), Guedes, IVAN POSEIDON
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidmoss-us/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidmoss-us/)*

@@ -1,6 +1,6 @@
 # Stereo The Kid
 
-Stereo The Kid is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
+Stereo The Kid is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
 
 Stereo The Kid is a house and techno artist tracked on soundcheck, with 8 sets logged across Copenhagen. Often billed alongside Harrison Heat, Adam Eisert and Cynnamon. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Stereo The Kid is a house and techno artist tracked on soundcheck, with 8 sets l
 
 Harrison Heat, Adam Eisert, Cynnamon
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stereothekid/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stereothekid/)*

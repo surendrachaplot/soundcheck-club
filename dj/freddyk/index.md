@@ -1,6 +1,6 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Open Ground, Wuppertal on Fri, 4 Sept 2026.
+Freddy K is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Open Ground, Wuppertal on Fri, 4 Sept 2026.
 
 Freddy K is a techno and house artist tracked on soundcheck, with 276 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Blasha & Allatt, Alarico and Chlär. Next up: Open Ground, Wuppertal on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Freddy K is a techno and house artist tracked on soundcheck, with 276 sets logge
 
 Blasha & Allatt, Alarico, Chlär
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

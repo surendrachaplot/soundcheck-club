@@ -1,6 +1,6 @@
 # Jack D
 
-Jack D is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Backsteinboot, Berlin on Fri, 11 Sept 2026.
+Jack D is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Backsteinboot, Berlin on Fri, 11 Sept 2026.
 
 Jack D is a house and techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 9 more. Often billed alongside The Ghost, DJ Pipe and Josh Tweek. Next up: Backsteinboot, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Jack D is a house and techno artist based in United Kingdom, tracked on soundche
 
 The Ghost, DJ Pipe, Josh Tweek
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackd/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackd/)*

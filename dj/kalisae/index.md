@@ -1,6 +1,6 @@
 # Kalisae
 
-Kalisae is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Meraki, Liverpool on Sat, 12 Sept 2026.
+Kalisae is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Meraki, Liverpool on Sat, 12 Sept 2026.
 
 Kalisae is a hardcore and breakcore artist tracked on soundcheck, with 16 sets logged across Bristol, Leeds, Liverpool and Manchester. Often billed alongside Gullyteen, Charlie Power and Compulsive Leia. Next up: Meraki, Liverpool on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kalisae is a hardcore and breakcore artist tracked on soundcheck, with 16 sets l
 
 Gullyteen, Charlie Power, Compulsive Leia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalisae/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalisae/)*

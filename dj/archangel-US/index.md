@@ -1,6 +1,6 @@
 # ARCHANGEL (US)
 
-ARCHANGEL (US) is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 5 Sept 2026.
+ARCHANGEL (US) is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 5 Sept 2026.
 
 ARCHANGEL (US) is a club and techno artist based in United States of America, tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Chicago and Houston and 8 more. Often billed alongside Cisne, BLAIZE and Kilopatrah Jones. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 5 Sept.
 
@@ -9,7 +9,7 @@ ARCHANGEL (US) is a club and techno artist based in United States of America, tr
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Bossa Nova Civic Club | New York City |
-| Wed, 9 Sept 2026 | Bossa Nova Civic Club | New York City |
+| Tue, 8 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 18 Sept 2026 | Paragon | New York City |
 
 ## Recently played
@@ -27,4 +27,4 @@ ARCHANGEL (US) is a club and techno artist based in United States of America, tr
 
 Cisne, BLAIZE, Kilopatrah Jones
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/archangel-US/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/archangel-US/)*

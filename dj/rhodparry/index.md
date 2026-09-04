@@ -1,6 +1,6 @@
 # Rhod Parry
 
-Rhod Parry is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Golden Lion, Manchester on Fri, 4 Sept 2026.
+Rhod Parry is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Golden Lion, Manchester on Fri, 4 Sept 2026.
 
 Rhod Parry is a house and techno artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Leeds, Liverpool and Manchester. Often billed alongside Kickin Pigeon, Chunky and Fastlove. Next up: The Golden Lion, Manchester on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Rhod Parry is a house and techno artist based in United Kingdom, tracked on soun
 
 Kickin Pigeon, Chunky, Fastlove
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodparry/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhodparry/)*

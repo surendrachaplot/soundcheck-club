@@ -1,6 +1,6 @@
 # Lexx
 
-Lexx is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Landesmuseum, Zurich on Mon, 31 Aug 2026.
+Lexx is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Landesmuseum, Zurich on Mon, 31 Aug 2026.
 
 Lexx is a disco and house artist based in Switzerland, tracked on soundcheck, with 9 sets logged across Manchester and Zurich. Often billed alongside KAYYAK, Kalabrese and Alex Dallas. Next up: Landesmuseum, Zurich on Mon 31 Aug.
 
@@ -25,4 +25,4 @@ Lexx is a disco and house artist based in Switzerland, tracked on soundcheck, wi
 
 KAYYAK, Kalabrese, Alex Dallas
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexx/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexx/)*

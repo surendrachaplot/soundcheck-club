@@ -1,6 +1,6 @@
 # Sabrina Hawk
 
-Sabrina Hawk is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Goldener Reiter, Munich on Sat, 5 Sept 2026.
+Sabrina Hawk is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Goldener Reiter, Munich on Sat, 5 Sept 2026.
 
 Sabrina Hawk is a tech house and minimal artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin, Hamburg, Munich and Stuttgart. Often billed alongside Louisianaha, Jojo Vice and Kongusto. Next up: Goldener Reiter, Munich on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Sabrina Hawk is a tech house and minimal artist based in Germany, tracked on sou
 
 Louisianaha, Jojo Vice, Kongusto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrinahawk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrinahawk/)*

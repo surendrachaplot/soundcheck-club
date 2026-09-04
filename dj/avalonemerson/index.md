@@ -1,6 +1,6 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Avalon Emerson is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Avalon Emerson is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Sedef Adasï, BASHKKA and Roi Perez. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -33,4 +33,4 @@ Avalon Emerson is a techno and house artist tracked on soundcheck, with 177 sets
 
 Sedef Adasï, BASHKKA, Roi Perez
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

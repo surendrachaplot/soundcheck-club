@@ -1,6 +1,6 @@
 # Lawrence Kurt
 
-Lawrence Kurt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 12 Sept 2026.
+Lawrence Kurt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 12 Sept 2026.
 
 Lawrence Kurt is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin, Milan, Newyorkcity and Utrecht. Often billed alongside APRS, ARMANDO and Anri. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lawrence Kurt is a techno and house artist tracked on soundcheck, with 9 sets lo
 
 APRS, ARMANDO, Anri
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencekurt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencekurt/)*

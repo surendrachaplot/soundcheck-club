@@ -1,6 +1,6 @@
 # DJ Bowlcut
 
-DJ Bowlcut is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paper, Seoul on Sat, 5 Sept 2026.
+DJ Bowlcut is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paper, Seoul on Sat, 5 Sept 2026.
 
 DJ Bowlcut is a house and techno artist tracked on soundcheck, with 81 sets logged across Bangkok, Berlin, Bucharest and Lyon and 2 more. Often billed alongside Krijka, Slowmouth and Conan. Next up: Paper, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DJ Bowlcut is a house and techno artist tracked on soundcheck, with 81 sets logg
 
 Krijka, Slowmouth, Conan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlcut/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbowlcut/)*

@@ -1,6 +1,6 @@
 # Hedge Coffee
 
-Hedge Coffee is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Lose Yourself pres. Coffee & Beats w/Chris Sedayao, Greg Eversol, Monoclick, Nezar" on Sat, 12 Sept 2026.
+Hedge Coffee is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Lose Yourself pres. Coffee & Beats w/Chris Sedayao, Greg Eversol, Monoclick, Nezar" on Sat, 12 Sept 2026.
 
 Hedge Coffee is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Greg Eversoul and Monoclick. Browse upcoming dates, start times and who's playing. 434 Shotwell St, San Francisco, CA 94110.
 
@@ -14,4 +14,4 @@ Hedge Coffee is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming n
 
 434 Shotwell St, San Francisco, CA 94110, San Francisco/Oakland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hedge-coffee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/hedge-coffee/)*

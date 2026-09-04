@@ -1,13 +1,15 @@
 # Système
 
-Système is a music venue in Montreal with 17 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "DANSE CONTACT: 15th Anniversary (Part 1)" on Fri, 4 Sept 2026.
+Système is a music venue in Montreal with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "GROOVY GROOVY Montreal" on Thu, 3 Sept 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 17 upcoming nights, with line-ups including Anabasine, Aram, Barbara Boeing and B'UGO and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 19 upcoming nights, with line-ups including Akanbi, Anabasine, Aram and Barbara Boeing and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | GROOVY GROOVY Montreal | Akanbi, zi! |
+| Thu, 3 Sept 2026 | Book Launch: Michael Rancic's A Nation of Tinkerers | Hua Li 化力 |
 | Fri, 4 Sept 2026 | DANSE CONTACT: 15th Anniversary (Part 1) | B'UGO, Frank Turgeon, Maus, Sexnobe |
 | Fri, 4 Sept 2026 | DANSE CONTACT 15th Years - MAUS, EZ-BOYZ, FRANK TURGEON |  |
 | Sat, 5 Sept 2026 | 10 years of Isla | NAP (MX), Ramzilla, Ultima Esuna, fleet.dreams |
@@ -16,11 +18,9 @@ Système is a music venue in Montreal listed on soundcheck. 17 upcoming nights, 
 | Fri, 11 Sept 2026 | CUERPOS QUÉ PASÓ? EP Release Party | CUERPOS, Jordan Gardner, Juju le Moko |
 | Sat, 12 Sept 2026 | moodswings | CMD, Emil Paquin, Honeydrip, somebody3lse |
 | Sun, 13 Sept 2026 | Nicola Torriero + Kris Guilty | Kris Guilty |
-| Thu, 17 Sept 2026 | Vayia + Laurence Matte + Prïa | Laurence Matte, Prïa, Vayia |
-| Thu, 17 Sept 2026 | Also Cool presents: Drink n' Draw |  |
 
 ## Address
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

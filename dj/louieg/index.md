@@ -1,6 +1,6 @@
 # Louie G
 
-Louie G is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kapsule, Liverpool on Sat, 12 Sept 2026.
+Louie G is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kapsule, Liverpool on Sat, 12 Sept 2026.
 
 Louie G is an electro and techno artist tracked on soundcheck, with 80 sets logged across Barcelona, Berlin, Bucharest and Glasgow and 9 more. Often billed alongside Ryan Ingleby, Ethan McNamara and DMC.. Next up: Kapsule, Liverpool on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Louie G is an electro and techno artist tracked on soundcheck, with 80 sets logg
 
 Ryan Ingleby, Ethan McNamara, DMC.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louieg/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louieg/)*

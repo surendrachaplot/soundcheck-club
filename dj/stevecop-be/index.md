@@ -1,6 +1,6 @@
 # Steve Cop
 
-Steve Cop is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TRAUM, Antwerp on Sat, 26 Sept 2026.
+Steve Cop is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TRAUM, Antwerp on Sat, 26 Sept 2026.
 
 Steve Cop is a house and techno artist tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp and Ghent. Often billed alongside Alexander Koning, DJ Prinz and Erick E. Next up: TRAUM, Antwerp on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Steve Cop is a house and techno artist tracked on soundcheck, with 16 sets logge
 
 Alexander Koning, DJ Prinz, Erick E
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevecop-be/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevecop-be/)*

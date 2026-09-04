@@ -1,6 +1,6 @@
 # Samuelspaniel
 
-Samuelspaniel is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Skatecafe, Amsterdam on Sat, 12 Sept 2026.
+Samuelspaniel is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Skatecafe, Amsterdam on Sat, 12 Sept 2026.
 
 Samuelspaniel is a club and experimental artist tracked on soundcheck, with 10 sets logged across Amsterdam, Brussels, Hamburg and London and 2 more. Often billed alongside Ella Blou, Two Shell and Oli XL. Next up: Skatecafe, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Samuelspaniel is a club and experimental artist tracked on soundcheck, with 10 s
 
 Ella Blou, Two Shell, Oli XL
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelspaniel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelspaniel/)*

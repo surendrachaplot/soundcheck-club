@@ -1,6 +1,6 @@
 # EROS IN FURS
 
-EROS IN FURS is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 5 Sept 2026.
+EROS IN FURS is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 5 Sept 2026.
 
 EROS IN FURS is a house and progressive house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside ADAM MUNNINGS, DJ Petite and Jonathan Apelbaum. Next up: Phantom Bar Berlin, Berlin on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ EROS IN FURS is a house and progressive house artist based in Germany, tracked o
 
 ADAM MUNNINGS, DJ Petite, Jonathan Apelbaum
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erosinfurs/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erosinfurs/)*

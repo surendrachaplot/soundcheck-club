@@ -1,6 +1,6 @@
 # max brachais
 
-max brachais is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Switch Bar, Barcelona on Sat, 5 Sept 2026.
+max brachais is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Switch Bar, Barcelona on Sat, 5 Sept 2026.
 
 max brachais is a house and electro artist tracked on soundcheck, with 8 sets logged across Barcelona, Madrid and Miami. Often billed alongside Angelo Cortines, Ennio Skoto and yepecc. Next up: Switch Bar, Barcelona on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ max brachais is a house and electro artist tracked on soundcheck, with 8 sets lo
 
 Angelo Cortines, Ennio Skoto, yepecc
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbrachais/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbrachais/)*

@@ -1,6 +1,6 @@
 # 2dahlia
 
-2dahlia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Driftwood, San Francisco/Oakland on Fri, 4 Sept 2026.
+2dahlia is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Driftwood, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 2dahlia is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Sanfrancisco. Often billed alongside jcore, Myca and Mx Mouse. Next up: Driftwood, Sanfrancisco on Fri 4 Sept.
 
@@ -25,4 +25,4 @@
 
 jcore, Myca, Mx Mouse
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2dahlia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2dahlia/)*

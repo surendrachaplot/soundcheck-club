@@ -1,6 +1,6 @@
 # Boys Don't Disco
 
-Boys Don't Disco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, San Diego on Sat, 12 Sept 2026.
+Boys Don't Disco is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, San Diego on Sat, 12 Sept 2026.
 
 Boys Don't Disco is a house and disco artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Losangeles, Mexicocity and Sandiego. Often billed alongside Paul Najera, Cris Herrera and Mimi Raza. Next up: TBA, Sandiego on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Boys Don't Disco is a house and disco artist based in United States of America, 
 
 Paul Najera, Cris Herrera, Mimi Raza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boysdontdisco/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boysdontdisco/)*

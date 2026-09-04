@@ -1,6 +1,6 @@
 # RARA (US)
 
-RARA (US) is a Afro House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+RARA (US) is a Afro House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 RARA (US) is an afro house and club artist tracked on soundcheck, with 28 sets logged across Miami and Newyorkcity. Often billed alongside v1fro, SATURNSARii and Ale Acosta. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ RARA (US) is an afro house and club artist tracked on soundcheck, with 28 sets l
 
 v1fro, SATURNSARii, Ale Acosta
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rara-2/)*

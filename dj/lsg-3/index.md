@@ -1,6 +1,6 @@
 # LSG (3)
 
-LSG (3) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fundbureau, Hamburg on Sat, 5 Sept 2026.
+LSG (3) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fundbureau, Hamburg on Sat, 5 Sept 2026.
 
 LSG (3) is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Amøn, DJ Achim Feuervogel and NIA (4). Next up: Fundbureau, Hamburg on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ LSG (3) is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 Amøn, DJ Achim Feuervogel, NIA (4)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg-3/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg-3/)*

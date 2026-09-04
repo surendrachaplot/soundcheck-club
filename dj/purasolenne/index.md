@@ -1,6 +1,6 @@
 # Pura Solenne
 
-Pura Solenne is a electronic artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Gate Milano, Milan on Sat, 5 Sept 2026.
+Pura Solenne is a electronic artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Gate Milano, Milan on Sat, 5 Sept 2026.
 
 Pura Solenne is an electronic artist based in Italy, tracked on soundcheck, with 47 sets logged across Berlin, Milan and Rome. Often billed alongside HEMPTOTE, LELE INOS and KREATHVRE. Next up: Gate Milano, Milan on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Pura Solenne is an electronic artist based in Italy, tracked on soundcheck, with
 
 HEMPTOTE, LELE INOS, KREATHVRE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purasolenne/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purasolenne/)*

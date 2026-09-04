@@ -1,6 +1,6 @@
 # Miss Voltaghe
 
-Miss Voltaghe is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Versalles 64, Mexico City on Sat, 5 Sept 2026.
+Miss Voltaghe is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Versalles 64, Mexico City on Sat, 5 Sept 2026.
 
 Miss Voltaghe is a house and disco artist based in Mexico, tracked on soundcheck, with 108 sets logged across Mexicocity. Often billed alongside Duke Skylocker (Disco Dust), Lake Chalco and Pablo Miya. Next up: Versalles 64, Mexicocity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Miss Voltaghe is a house and disco artist based in Mexico, tracked on soundcheck
 
 Duke Skylocker (Disco Dust), Lake Chalco, Pablo Miya
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missvoltaghe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missvoltaghe/)*

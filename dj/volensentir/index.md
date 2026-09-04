@@ -1,6 +1,6 @@
 # Volen Sentir
 
-Volen Sentir is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA), Los Angeles on Sat, 5 Sept 2026.
+Volen Sentir is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA), Los Angeles on Sat, 5 Sept 2026.
 
 Volen Sentir is a deep house and progressive house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Budapest, Denver and London and 9 more. Often billed alongside DAVI, Guy Mantzur and Omer Tayar. Next up: TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA), Losangeles on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Volen Sentir is a deep house and progressive house artist tracked on soundcheck,
 
 DAVI, Guy Mantzur, Omer Tayar
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volensentir/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volensentir/)*

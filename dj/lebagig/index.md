@@ -1,6 +1,6 @@
 # LeBagig
 
-LeBagig is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Toffler, Rotterdam on Fri, 23 Oct 2026.
+LeBagig is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Toffler, Rotterdam on Fri, 23 Oct 2026.
 
 LeBagig is a techno artist tracked on soundcheck, with 7 sets logged across Rotterdam. Often billed alongside Kaikaina, Kyle Cortis and BRNK. Next up: Toffler, Rotterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ LeBagig is a techno artist tracked on soundcheck, with 7 sets logged across Rott
 
 Kaikaina, Kyle Cortis, BRNK
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lebagig/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lebagig/)*

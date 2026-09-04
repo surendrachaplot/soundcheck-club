@@ -1,6 +1,6 @@
 # Brunello
 
-Brunello is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Brunello is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Brunello is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Amsterdam, Austin, Chicago and Ibiza and 5 more. Often billed alongside VTSS, Beltran and Ben Sterling. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Brunello is a house and techno artist based in United States of America, tracked
 
 VTSS, Beltran, Ben Sterling
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*

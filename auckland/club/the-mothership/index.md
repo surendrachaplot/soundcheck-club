@@ -1,6 +1,6 @@
 # The Mothership
 
-The Mothership is a music venue in Auckland with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Estiva [Anjunabeats / Armada / Enhanced]" on Sat, 5 Sept 2026.
+The Mothership is a music venue in Auckland with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Estiva [Anjunabeats / Armada / Enhanced]" on Sat, 5 Sept 2026.
 
 The Mothership is a music venue in Auckland listed on soundcheck. 8 upcoming nights, with line-ups including Cam Harris, Eddie Richards, Estiva and Gorge and 2 more. Browse upcoming dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
 
@@ -21,4 +21,4 @@ The Mothership is a music venue in Auckland listed on soundcheck. 8 upcoming nig
 
 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand, Auckland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*

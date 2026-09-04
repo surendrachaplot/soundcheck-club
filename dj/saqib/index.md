@@ -1,6 +1,6 @@
 # Saqib
 
-Saqib is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at NWHR, Montreal on Fri, 4 Sept 2026.
+Saqib is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at NWHR, Montreal on Fri, 4 Sept 2026.
 
 Saqib is a house and deep house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Boston, Losangeles and Miami and 6 more. Often billed alongside Nhii, FRANZIV and Francesca Lombardo. Next up: NWHR, Montreal on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Saqib is a house and deep house artist based in United States of America, tracke
 
 Nhii, FRANZIV, Francesca Lombardo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*

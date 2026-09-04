@@ -1,6 +1,6 @@
 # Alexander Arpeggio
 
-Alexander Arpeggio is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Beate Uwe, Berlin on Fri, 25 Sept 2026.
+Alexander Arpeggio is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Beate Uwe, Berlin on Fri, 25 Sept 2026.
 
 Alexander Arpeggio is a disco and italo disco artist based in Germany, tracked on soundcheck, with 36 sets logged across Athens, Bangkok, Berlin and Bucharest and 1 more. Often billed alongside André Pahl, Osterinsel and Alicia Carrera. Next up: Beate Uwe, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Alexander Arpeggio is a disco and italo disco artist based in Germany, tracked o
 
 André Pahl, Osterinsel, Alicia Carrera
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderarpeggio/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderarpeggio/)*

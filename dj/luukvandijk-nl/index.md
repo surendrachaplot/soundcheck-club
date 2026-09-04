@@ -1,6 +1,6 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Luuk van Dijk is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 232 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside L.P. Rhythm, Prunk and Max Dean. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Luuk van Dijk is a house and tech house artist tracked on soundcheck, with 232 s
 
 L.P. Rhythm, Prunk, Max Dean
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

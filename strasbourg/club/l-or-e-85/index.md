@@ -1,6 +1,6 @@
 # L'orée 85
 
-L'orée 85 is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "LA SÉLECTION DE L'APRÈM" on Sun, 13 Sept 2026.
+L'orée 85 is a music venue in Strasbourg with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "LA SÉLECTION DE L'APRÈM" on Sun, 13 Sept 2026.
 
 L'orée 85 is a music venue in Strasbourg listed on soundcheck. 1 upcoming night, with line-ups including Halès, ludoviko and Perruche. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ L'orée 85 is a music venue in Strasbourg listed on soundcheck. 1 upcoming night
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | LA SÉLECTION DE L'APRÈM | Halès, Perruche, ludoviko |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/l-or-e-85/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/l-or-e-85/)*

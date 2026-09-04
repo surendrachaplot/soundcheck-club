@@ -1,6 +1,6 @@
 # mwamwa
 
-mwamwa is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - MALINALCO, Mexico City on Sat, 19 Sept 2026.
+mwamwa is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - MALINALCO, Mexico City on Sat, 19 Sept 2026.
 
 mwamwa is a techno and downtempo artist tracked on soundcheck, with 12 sets logged across Mexicocity. Often billed alongside Bluecommand, Eafhm and Koscoy. Next up: TBA - MALINALCO, Mexicocity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ mwamwa is a techno and downtempo artist tracked on soundcheck, with 12 sets logg
 
 Bluecommand, Eafhm, Koscoy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mwamwa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mwamwa/)*

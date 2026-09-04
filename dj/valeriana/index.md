@@ -1,14 +1,13 @@
 # Valeriana
 
-Valeriana is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Goldener Reiter, Munich on Fri, 11 Sept 2026.
+Valeriana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at 303 Audiophile Bar, Barcelona on Fri, 18 Sept 2026.
 
-Valeriana is a house and techno artist based in Mexico, tracked on soundcheck, with 151 sets logged across Barcelona, Berlin, Buenosaires and London and 5 more. Often billed alongside Julia Toporek, Rafatel and Remille. Next up: Goldener Reiter, Munich on Fri 11 Sept.
+Valeriana is a house and techno artist based in Mexico, tracked on soundcheck, with 150 sets logged across Barcelona, Berlin, Buenosaires and London and 4 more. Often billed alongside Julia Toporek, Remille and Rafatel. Next up: 303 Audiophile Bar, Barcelona on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Goldener Reiter | Munich |
 | Fri, 18 Sept 2026 | 303 Audiophile Bar | Barcelona |
 | Sun, 20 Sept 2026 | Palais | London |
 
@@ -25,6 +24,6 @@ Valeriana is a house and techno artist based in Mexico, tracked on soundcheck, w
 
 ## Shares bills with
 
-Julia Toporek, Rafatel, Remille
+Julia Toporek, Remille, Rafatel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriana/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriana/)*

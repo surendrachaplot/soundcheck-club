@@ -1,6 +1,6 @@
 # Gray
 
-Gray is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Gray is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Gray is a drum & bass and jungle artist tracked on soundcheck, with 5 sets logged across Berlin, Malta, Manchester and Paris. Often billed alongside Diagnostix, A Little Sound and Alix Perez. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -13,7 +13,6 @@ Gray is a drum & bass and jungle artist tracked on soundcheck, with 5 sets logge
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 3 Sept 2026
 - Panic Room, Paris — Sat, 18 Apr 2026
 - KitKatClub, Berlin — Mon, 6 Nov 2023
 - Spreepark Plänterwald, Berlin — Sat, 29 Jul 2023
@@ -22,4 +21,4 @@ Gray is a drum & bass and jungle artist tracked on soundcheck, with 5 sets logge
 
 Diagnostix, A Little Sound, Alix Perez
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gray/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gray/)*

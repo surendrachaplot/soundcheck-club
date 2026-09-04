@@ -1,6 +1,6 @@
 # Blackeye MC
 
-Blackeye MC is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Blackeye MC is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Blackeye MC is a jungle and drum & bass artist tracked on soundcheck, with 71 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 10 more. Often billed alongside Mantra, Double O and Tim Reaper. Next up: The Cause, London on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Blackeye MC is a jungle and drum & bass artist tracked on soundcheck, with 71 se
 
 Mantra, Double O, Tim Reaper
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackeyemc/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackeyemc/)*

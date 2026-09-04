@@ -1,6 +1,6 @@
 # Fullbodydurag
 
-Fullbodydurag is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Podlasie Club, Chicago on Fri, 11 Sept 2026.
+Fullbodydurag is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Podlasie Club, Chicago on Fri, 11 Sept 2026.
 
 Fullbodydurag is a ghetto tech and house artist based in United States of America, tracked on soundcheck, with 77 sets logged across Chicago, Denver, Detroit and Newyorkcity. Often billed alongside JMT (2), Disc Jockey George and Sheefy McFly. Next up: Podlasie Club, Chicago on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Fullbodydurag is a ghetto tech and house artist based in United States of Americ
 
 JMT (2), Disc Jockey George, Sheefy McFly
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodydurag/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fullbodydurag/)*

@@ -1,6 +1,6 @@
 # Beat Detective
 
-Beat Detective is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 25 Sept 2026.
+Beat Detective is a Hip-Hop and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 25 Sept 2026.
 
 Beat Detective is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Liverpool, London and Manchester. Often billed alongside Benno, Matica and ASAP RICKY. Next up: 24 Kitchen Street, Liverpool on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Beat Detective is a hip-hop and house artist based in United Kingdom, tracked on
 
 Benno, Matica, ASAP RICKY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatdetective/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatdetective/)*

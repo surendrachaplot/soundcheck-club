@@ -1,6 +1,6 @@
 # Concorde 2
 
-Concorde 2 is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Kirollus (All Day Long) - Beach Front Party" on Sat, 5 Sept 2026.
+Concorde 2 is a music venue in Brighton with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kirollus (All Day Long) - Beach Front Party" on Sat, 5 Sept 2026.
 
 Concorde 2 is a music venue in Brighton listed on soundcheck. 5 upcoming nights, with line-ups including Culture Shock, Kirollus, Obskur and SOSA (UK) and 1 more. Browse upcoming dates, start times and who's playing. 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom.
 
@@ -18,4 +18,4 @@ Concorde 2 is a music venue in Brighton listed on soundcheck. 5 upcoming nights,
 
 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom, Brighton
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*

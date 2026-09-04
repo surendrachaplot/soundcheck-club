@@ -1,6 +1,6 @@
 # Sushinigami
 
-Sushinigami is a Neo Perreo and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Razzmatazz, Barcelona on Fri, 11 Sept 2026.
+Sushinigami is a Neo Perreo and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Razzmatazz, Barcelona on Fri, 11 Sept 2026.
 
 Sushinigami is a neo perreo and latin bass artist based in Spain, tracked on soundcheck, with 49 sets logged across Barcelona. Often billed alongside Dirti Larita, DJ2D2 and Fakeguido. Next up: Razzmatazz, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Sushinigami is a neo perreo and latin bass artist based in Spain, tracked on sou
 
 Dirti Larita, DJ2D2, Fakeguido
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sushinigami/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sushinigami/)*

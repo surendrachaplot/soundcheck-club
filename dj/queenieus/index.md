@@ -1,6 +1,6 @@
 # QUEENIE (US)
 
-QUEENIE (US) is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Sept 2026.
+QUEENIE (US) is a Club and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 QUEENIE (US) is a club and techno artist based in United States of America, tracked on soundcheck, with 53 sets logged across Losangeles and Sanfrancisco. Often billed alongside felipe d, KIMOSABE and Profesito. Next up: F8 1192 Folsom, Sanfrancisco on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ QUEENIE (US) is a club and techno artist based in United States of America, trac
 
 felipe d, KIMOSABE, Profesito
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queenieus/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queenieus/)*

@@ -1,6 +1,6 @@
 # Mau Maioli
 
-Mau Maioli is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Edifício Martinelli, Sao Paulo on Sun, 6 Sept 2026.
+Mau Maioli is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Edifício Martinelli, Sao Paulo on Sun, 6 Sept 2026.
 
 Mau Maioli is a house and tech house artist tracked on soundcheck, with 11 sets logged across Saopaulo. Often billed alongside Eli Iwasa, Agrabah and Gabi Fischer. Next up: Edifício Martinelli, Saopaulo on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Mau Maioli is a house and tech house artist tracked on soundcheck, with 11 sets 
 
 Eli Iwasa, Agrabah, Gabi Fischer
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maumaioli/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maumaioli/)*

@@ -1,6 +1,6 @@
 # Sigma
 
-Sigma is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Sigma is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Sigma is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Auckland, Brighton, Bristol and Budapest and 14 more. Often billed alongside Circadian, Emily Makis and Hedex. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -13,7 +13,6 @@ Sigma is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 3 Sept 2026
 - Document, Bristol — Sat, 18 Jul 2026
 - The Woodshop, New York City — Sat, 20 Jun 2026
 - Maassilo, Rotterdam — Sat, 11 Apr 2026
@@ -21,9 +20,10 @@ Sigma is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 - H2o6, Riga — Sat, 1 Nov 2025
 - Joshua Brooks, Manchester — Fri, 24 Oct 2025
 - Arzenal, Budapest — Fri, 10 Oct 2025
+- Beaver Works, Leeds — Sat, 27 Sept 2025
 
 ## Shares bills with
 
 Circadian, Emily Makis, Hedex
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sigma/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sigma/)*

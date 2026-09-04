@@ -1,6 +1,6 @@
 # Z.L.O
 
-Z.L.O is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - DISTRIKT, Prague on Sat, 24 Oct 2026.
+Z.L.O is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - DISTRIKT, Prague on Sat, 24 Oct 2026.
 
 Z.L.O is a techno and hardcore artist tracked on soundcheck, with 5 sets logged across Prague. Often billed alongside ALICE ASTER, NEUWERTH and 2NDRA. Next up: TBA - DISTRIKT, Prague on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Z.L.O is a techno and hardcore artist tracked on soundcheck, with 5 sets logged 
 
 ALICE ASTER, NEUWERTH, 2NDRA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zlo-cz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zlo-cz/)*

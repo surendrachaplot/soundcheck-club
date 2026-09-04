@@ -1,6 +1,6 @@
 # Benjy Bradshaw
 
-Benjy Bradshaw is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Flash, Washington DC on Fri, 4 Sept 2026.
+Benjy Bradshaw is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Flash, Washington DC on Fri, 4 Sept 2026.
 
 Benjy Bradshaw is a house and deep house artist tracked on soundcheck, with 8 sets logged across London, Newyorkcity and Washingtondc. Often billed alongside Micfreak, Angelica de No and DJ Duchess. Next up: Flash, Washingtondc on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Benjy Bradshaw is a house and deep house artist tracked on soundcheck, with 8 se
 
 Micfreak, Angelica de No, DJ Duchess
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjybradshaw/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjybradshaw/)*

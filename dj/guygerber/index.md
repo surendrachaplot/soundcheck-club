@@ -1,6 +1,6 @@
 # Guy Gerber
 
-Guy Gerber is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Void Mykonos, Mykonos on Fri, 4 Sept 2026.
+Guy Gerber is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Void Mykonos, Mykonos on Fri, 4 Sept 2026.
 
 Guy Gerber is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Bali and 23 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Void Mykonos, Mykonos on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Guy Gerber is a house and techno artist tracked on soundcheck, with 126 sets log
 
 Noncitizens, Saraga, Annicka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*

@@ -1,6 +1,6 @@
 # Lulú Matheou
 
-Lulú Matheou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Lulú Matheou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
 Lulú Matheou is a house and techno artist based in Argentina, tracked on soundcheck, with 24 sets logged across Buenosaires, Detroit, Newyorkcity and Stockholm. Often billed alongside Bermani, Mar Monzon and Pabels. Next up: TBA - Parque de la Ciudad, CABA, Buenosaires on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lulú Matheou is a house and techno artist based in Argentina, tracked on soundc
 
 Bermani, Mar Monzon, Pabels
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lulúmatheou-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lulúmatheou-2/)*

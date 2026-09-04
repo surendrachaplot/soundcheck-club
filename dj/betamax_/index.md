@@ -1,6 +1,6 @@
 # Betamax_
 
-Betamax_ is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sala Siroco, Madrid on Fri, 2 Oct 2026.
+Betamax_ is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sala Siroco, Madrid on Fri, 2 Oct 2026.
 
 Betamax_ is a techno and club artist tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside Pablo Ruizgalan, Babu and Buraye. Next up: Sala Siroco, Madrid on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Betamax_ is a techno and club artist tracked on soundcheck, with 6 sets logged a
 
 Pablo Ruizgalan, Babu, Buraye
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betamax_/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betamax_/)*

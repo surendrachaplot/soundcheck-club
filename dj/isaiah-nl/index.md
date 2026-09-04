@@ -1,8 +1,8 @@
 # Isaiah (NL)
 
-Isaiah (NL) is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at RADION, Amsterdam on Sat, 5 Sept 2026.
+Isaiah (NL) is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at RADION, Amsterdam on Sat, 5 Sept 2026.
 
-Isaiah (NL) is a techno and club artist tracked on soundcheck, with 100 sets logged across Amsterdam, Berlin, Brussels and Budapest and 22 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: RADION, Amsterdam on Sat 5 Sept.
+Isaiah (NL) is a techno and club artist tracked on soundcheck, with 99 sets logged across Amsterdam, Berlin, Brussels and Budapest and 22 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: RADION, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ Isaiah (NL) is a techno and club artist tracked on soundcheck, with 100 sets log
 | Sat, 5 Sept 2026 | RADION | Amsterdam |
 | Thu, 22 Oct 2026 | RADION | Amsterdam |
 | Sat, 31 Oct 2026 | KALT | Strasbourg |
-| Sat, 7 Nov 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +27,4 @@ Isaiah (NL) is a techno and club artist tracked on soundcheck, with 100 sets log
 
 Beau Didier, Flits, Lasse
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*

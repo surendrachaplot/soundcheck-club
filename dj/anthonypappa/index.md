@@ -1,6 +1,6 @@
 # Anthony Pappa
 
-Anthony Pappa is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bikini Club, Barcelona on Sat, 5 Sept 2026.
+Anthony Pappa is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bikini Club, Barcelona on Sat, 5 Sept 2026.
 
 Anthony Pappa is a progressive house and house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Auckland, Barcelona and Belgrade and 21 more. Often billed alongside Dave Seaman, Danny Howells and Cris-H. Next up: Bikini Club, Barcelona on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Anthony Pappa is a progressive house and house artist tracked on soundcheck, wit
 
 Dave Seaman, Danny Howells, Cris-H
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonypappa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonypappa/)*

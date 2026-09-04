@@ -1,6 +1,6 @@
 # GIA
 
-GIA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at DRUMSHEDS, London on Sat, 14 Nov 2026.
+GIA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DRUMSHEDS, London on Sat, 14 Nov 2026.
 
 GIA is a techno and industrial artist tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, Bristol and Ibiza and 9 more. Often billed alongside Billy Gillies, DJ Hyaluron and DJ Pheromone. Next up: DRUMSHEDS, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ GIA is a techno and industrial artist tracked on soundcheck, with 84 sets logged
 
 Billy Gillies, DJ Hyaluron, DJ Pheromone
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gia/)*

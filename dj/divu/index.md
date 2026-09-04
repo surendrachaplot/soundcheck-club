@@ -1,6 +1,6 @@
 # Divu
 
-Divu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Cambridge Location, Boston on Fri, 11 Sept 2026.
+Divu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Cambridge Location, Boston on Fri, 11 Sept 2026.
 
 Divu is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Boston. Often billed alongside Paul Robson, FRANZIV and Màrelle. Next up: TBA - Cambridge Location, Boston on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Divu is a house and techno artist based in United States of America, tracked on 
 
 Paul Robson, FRANZIV, Màrelle
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/divu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/divu/)*

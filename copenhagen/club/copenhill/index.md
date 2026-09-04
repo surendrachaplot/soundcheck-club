@@ -1,6 +1,6 @@
 # Copenhill
 
-Copenhill is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Sounds Good on Copenhill with Kasper Marott" on Fri, 18 Sept 2026.
+Copenhill is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Sounds Good on Copenhill with Kasper Marott" on Fri, 18 Sept 2026.
 
 Copenhill is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, with line-ups including Arto (2), Djuma Soundsystem, Kasper Marott and MABINTI and 2 more. Browse upcoming dates, start times and who's playing. Vindmøllevej 6, 2300 København, Denmark.
 
@@ -15,4 +15,4 @@ Copenhill is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights
 
 Vindmøllevej 6, 2300 København, Denmark, Copenhagen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/copenhill/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/copenhill/)*

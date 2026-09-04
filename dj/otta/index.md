@@ -1,8 +1,8 @@
 # ØTTA
 
-ØTTA is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+ØTTA is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-ØTTA is a techno and trance artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Nico Moreno, 999999999 and Alignment. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+ØTTA is a techno and trance artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Nico Moreno, 999999999 and Alignment. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 7 Nov 2026 | The Chocolate Factory | New York City |
 | Fri, 13 Nov 2026 | Concord Music Hall | Chicago |
-| Sat, 21 Nov 2026 | Colour Factory | London |
+| Wed, 25 Nov 2026 | Origin | Los Angeles |
 
 ## Recently played
 
@@ -36,4 +36,4 @@
 
 Nico Moreno, 999999999, Alignment
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

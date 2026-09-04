@@ -1,6 +1,6 @@
 # Dayzero
 
-Dayzero is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Azumaya, Tokyo on Wed, 9 Sept 2026.
+Dayzero is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Azumaya, Tokyo on Wed, 9 Sept 2026.
 
 Dayzero is a bass and techno artist based in Japan, tracked on soundcheck, with 43 sets logged across Bristol, Kyoto, London and Osaka and 1 more. Often billed alongside Herbalistek, Oyubi and Romy Mats. Next up: Azumaya, Tokyo on Wed 9 Sept.
 
@@ -27,4 +27,4 @@ Dayzero is a bass and techno artist based in Japan, tracked on soundcheck, with 
 
 Herbalistek, Oyubi, Romy Mats
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzero/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzero/)*

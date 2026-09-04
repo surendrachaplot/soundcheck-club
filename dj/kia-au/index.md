@@ -1,6 +1,6 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Nitsa Club, Barcelona on Fri, 4 Sept 2026.
+Kia (AU) is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nitsa Club, Barcelona on Fri, 4 Sept 2026.
 
 Kia (AU) is a techno and house artist tracked on soundcheck, with 200 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 47 more. Often billed alongside Reptant, DjRUM and livwutang. Next up: Nitsa Club, Barcelona on Fri 4 Sept.
 
@@ -33,4 +33,4 @@ Kia (AU) is a techno and house artist tracked on soundcheck, with 200 sets logge
 
 Reptant, DjRUM, livwutang
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*

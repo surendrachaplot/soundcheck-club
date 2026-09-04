@@ -1,6 +1,6 @@
 # DJ Jinwook
 
-DJ Jinwook is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at teller, Seoul on Fri, 18 Sept 2026.
+DJ Jinwook is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at teller, Seoul on Fri, 18 Sept 2026.
 
 DJ Jinwook is a house and disco artist tracked on soundcheck, with 93 sets logged across Munich, Seoul and Tokyo. Often billed alongside Cityboy from Seoul, Radio Revolution and RTRP. Next up: teller, Seoul on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ Jinwook is a house and disco artist tracked on soundcheck, with 93 sets logge
 
 Cityboy from Seoul, Radio Revolution, RTRP
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjinwook/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djjinwook/)*

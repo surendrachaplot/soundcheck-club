@@ -1,6 +1,6 @@
 # Casper McFadden
 
-Casper McFadden is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Podlasie Club, Chicago on Fri, 18 Sept 2026.
+Casper McFadden is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Podlasie Club, Chicago on Fri, 18 Sept 2026.
 
 Casper McFadden is a hardcore and breakcore artist based in United States of America, tracked on soundcheck, with 24 sets logged across Austin, Boston, Chicago and Losangeles and 1 more. Often billed alongside 99jakes, Yesterdayneverhappened and avas. Next up: Podlasie Club, Chicago on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Casper McFadden is a hardcore and breakcore artist based in United States of Ame
 
 99jakes, Yesterdayneverhappened, avas
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caspermcfadden/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caspermcfadden/)*

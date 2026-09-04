@@ -1,6 +1,6 @@
 # DJ Dazy
 
-DJ Dazy is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at White Owl Social Club, Portland on Sat, 5 Sept 2026.
+DJ Dazy is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at White Owl Social Club, Portland on Sat, 5 Sept 2026.
 
 DJ Dazy is a house and deep house artist based in United States of America, tracked on soundcheck, with 14 sets logged across Losangeles, Portland and Sandiego. Often billed alongside DJ Colette, Ben Annand and DJ Heather. Next up: White Owl Social Club, Portland on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DJ Dazy is a house and deep house artist based in United States of America, trac
 
 DJ Colette, Ben Annand, DJ Heather
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdazy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdazy/)*

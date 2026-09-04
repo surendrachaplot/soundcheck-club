@@ -1,6 +1,6 @@
 # YVNNI
 
-YVNNI is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Salon Daomé, Montreal on Fri, 4 Sept 2026.
+YVNNI is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Salon Daomé, Montreal on Fri, 4 Sept 2026.
 
 YVNNI is a tech house and house artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal and Toronto. Often billed alongside Eli Brown, Hoss and PETER DAMIAN. Next up: Salon Daomé, Montreal on Fri 4 Sept.
 
@@ -20,4 +20,4 @@ YVNNI is a tech house and house artist based in Canada, tracked on soundcheck, w
 
 Eli Brown, Hoss, PETER DAMIAN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yvnni/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yvnni/)*

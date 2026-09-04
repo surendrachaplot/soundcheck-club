@@ -1,6 +1,6 @@
 # frieda (IT)
 
-frieda (IT) is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Distillery N17, London on Sat, 17 Oct 2026.
+frieda (IT) is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Distillery N17, London on Sat, 17 Oct 2026.
 
 frieda (IT) is a psytrance artist based in Italy, tracked on soundcheck, with 6 sets logged across London and Milan. Often billed alongside Uabos, Anthea and CEM3340. Next up: Distillery N17, London on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ frieda (IT) is a psytrance artist based in Italy, tracked on soundcheck, with 6 
 
 Uabos, Anthea, CEM3340
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frieda-it/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frieda-it/)*

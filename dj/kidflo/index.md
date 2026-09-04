@@ -1,8 +1,8 @@
 # Kidflo
 
-Kidflo is a Afro House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 77, London on Sat, 19 Sept 2026.
+Kidflo is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 77, London on Sat, 19 Sept 2026.
 
-Kidflo is an afro house and afrobeat artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside DUO (UK), Duo and Major League Djz. Next up: 77, London on Sat 19 Sept.
+Kidflo is an afro house and house artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside Duo, Major League Djz and BERNT. Next up: 77, London on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Kidflo is an afro house and afrobeat artist tracked on soundcheck, with 14 sets 
 
 ## Shares bills with
 
-DUO (UK), Duo, Major League Djz
+Duo, Major League Djz, BERNT
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidflo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidflo/)*

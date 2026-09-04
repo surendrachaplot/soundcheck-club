@@ -1,6 +1,6 @@
 # Bladerunner
 
-Bladerunner is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Bladerunner is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 Bladerunner is a drum & bass and jungle artist tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Birmingham and Boston and 19 more. Often billed alongside Inja, DJ SS and Benny L. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Bladerunner is a drum & bass and jungle artist tracked on soundcheck, with 77 se
 
 Inja, DJ SS, Benny L
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*

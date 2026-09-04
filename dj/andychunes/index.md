@@ -1,6 +1,6 @@
 # Andy Chunes
 
-Andy Chunes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Back Room, Bali on Sat, 5 Sept 2026.
+Andy Chunes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Back Room, Bali on Sat, 5 Sept 2026.
 
 Andy Chunes is a house and techno artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Bali and Singapore. Often billed alongside Carlos Valdes, Collé and Ferro. Next up: The Back Room, Bali on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Andy Chunes is a house and techno artist based in Netherlands, tracked on soundc
 
 Carlos Valdes, Collé, Ferro
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andychunes/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andychunes/)*

@@ -1,6 +1,6 @@
 # Lawrence Anthony
 
-Lawrence Anthony is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
+Lawrence Anthony is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
 
 Lawrence Anthony is a garage and jungle artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Shane Blitz, DJ Brockie and DJ Perception. Next up: LDN East, London on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ Lawrence Anthony is a garage and jungle artist tracked on soundcheck, with 4 set
 
 Shane Blitz, DJ Brockie, DJ Perception
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrenceanthony/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrenceanthony/)*

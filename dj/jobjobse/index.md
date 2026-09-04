@@ -1,6 +1,6 @@
 # Job Jobse
 
-Job Jobse is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Madrid Caja Mágica, Madrid on Fri, 11 Sept 2026.
+Job Jobse is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Madrid Caja Mágica, Madrid on Fri, 11 Sept 2026.
 
 Job Jobse is a house and techno artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Bali and Barcelona and 42 more. Often billed alongside Palms Trax, BASHKKA and Saoirse. Next up: Madrid Caja Mágica, Madrid on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Job Jobse is a house and techno artist tracked on soundcheck, with 143 sets logg
 
 Palms Trax, BASHKKA, Saoirse
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobjobse/)*

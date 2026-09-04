@@ -1,6 +1,6 @@
 # The Eagle of Detroit
 
-The Eagle of Detroit is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "◥◣DIGGING DEEP◥◣" on Sat, 5 Sept 2026.
+The Eagle of Detroit is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "◥◣DIGGING DEEP◥◣" on Sat, 5 Sept 2026.
 
 The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including DJ.K2, ang31t3ch, Garrison XR and Gay Felony and 2 more. Browse upcoming dates, start times and who's playing. 950 West McNichols.
 
@@ -15,4 +15,4 @@ The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 2 upcomin
 
 950 West McNichols, Detroit
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-eagle-of-detroit/)*

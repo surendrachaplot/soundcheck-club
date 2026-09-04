@@ -1,6 +1,6 @@
 # Ozzwald
 
-Ozzwald is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
+Ozzwald is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
 
 Ozzwald is a trance and techno artist tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Cologne and Madrid and 4 more. Often billed alongside Cobb Douglas, Sandwicho and Amøn. Next up: Lokschuppen Berlin, Berlin on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Ozzwald is a trance and techno artist tracked on soundcheck, with 71 sets logged
 
 Cobb Douglas, Sandwicho, Amøn
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzwald/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzwald/)*

@@ -1,6 +1,6 @@
 # Yasmin Regisford
 
-Yasmin Regisford is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Unité.22, Marseille on Fri, 4 Sept 2026.
+Yasmin Regisford is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Unité.22, Marseille on Fri, 4 Sept 2026.
 
 Yasmin Regisford is a techno and bass artist based in France, tracked on soundcheck, with 67 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 20 more. Often billed alongside 25EMEHEURE, Carla Schmitt and PRADA2000. Next up: Unité.22, Marseille on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Yasmin Regisford is a techno and bass artist based in France, tracked on soundch
 
 25EMEHEURE, Carla Schmitt, PRADA2000
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*

@@ -1,6 +1,6 @@
 # Seedreak
 
-Seedreak is a Electro and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at KALT, Strasbourg on Sat, 12 Sept 2026.
+Seedreak is a Electro and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at KALT, Strasbourg on Sat, 12 Sept 2026.
 
 Seedreak is an electro and italo disco artist based in France, tracked on soundcheck, with 9 sets logged across Strasbourg. Often billed alongside Austher, 1client and Barnemax. Next up: KALT, Strasbourg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Seedreak is an electro and italo disco artist based in France, tracked on soundc
 
 Austher, 1client, Barnemax
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seedreak/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seedreak/)*

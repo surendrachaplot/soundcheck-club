@@ -1,6 +1,6 @@
 # Z-Bau
 
-Z-Bau is a music venue in Nürnberg with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "polyamor" on Sat, 5 Sept 2026.
+Z-Bau is a music venue in Nürnberg with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "polyamor" on Sat, 5 Sept 2026.
 
 Z-Bau is a music venue in Nurnberg listed on soundcheck. 2 upcoming nights, with line-ups including Antonym, DJ Cringey, DJ DRECKISCH and Flipside and 2 more. Browse upcoming dates, start times and who's playing. Frankenstr.200.
 
@@ -15,4 +15,4 @@ Z-Bau is a music venue in Nurnberg listed on soundcheck. 2 upcoming nights, with
 
 Frankenstr.200, Nürnberg
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*

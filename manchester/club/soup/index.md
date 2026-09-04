@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 15 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Tom (All Night Flight) B2B DJ Lyster (Youth)" on Fri, 4 Sept 2026.
+Soup is a music venue in Manchester with 15 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Tom (All Night Flight) B2B DJ Lyster (Youth)" on Fri, 4 Sept 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 15 upcoming nights, with line-ups including Abby Harris, ASIAN BRAT, Bugs Groove and Coel Haines and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -23,4 +23,4 @@ Soup is a music venue in Manchester listed on soundcheck. 15 upcoming nights, wi
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

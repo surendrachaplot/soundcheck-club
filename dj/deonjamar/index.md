@@ -1,6 +1,6 @@
 # Deon Jamar
 
-Deon Jamar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Paramita Sound, Detroit on Sat, 5 Sept 2026.
+Deon Jamar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Paramita Sound, Detroit on Sat, 5 Sept 2026.
 
 Deon Jamar is a house and techno artist based in United States of America, tracked on soundcheck, with 104 sets logged across Chicago, Copenhagen, Detroit and Losangeles and 4 more. Often billed alongside Meftah, Mickey Perez and Toribio. Next up: Paramita Sound, Detroit on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Deon Jamar is a house and techno artist based in United States of America, track
 
 Meftah, Mickey Perez, Toribio
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deonjamar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deonjamar/)*

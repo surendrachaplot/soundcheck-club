@@ -1,6 +1,6 @@
 # Jonathan Kusuma
 
-Jonathan Kusuma is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mitsuki, Tokyo on Fri, 4 Sept 2026.
+Jonathan Kusuma is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mitsuki, Tokyo on Fri, 4 Sept 2026.
 
 Jonathan Kusuma is a house and techno artist based in Indonesia, tracked on soundcheck, with 35 sets logged across Bali, Bangkok, Berlin and Hongkong and 5 more. Often billed alongside YAMARCHY, Kimoji and Monkey Timers. Next up: Mitsuki, Tokyo on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Jonathan Kusuma is a house and techno artist based in Indonesia, tracked on soun
 
 YAMARCHY, Kimoji, Monkey Timers
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankusuma-id/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankusuma-id/)*

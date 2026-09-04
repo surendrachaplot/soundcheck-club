@@ -1,6 +1,6 @@
 # gili
 
-gili is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 5 Sept 2026.
+gili is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 5 Sept 2026.
 
 gili is a house and minimal artist tracked on soundcheck, with 16 sets logged across Berlin, Leipzig and Lisbon. Often billed alongside Big Honey, Bunny Tsukino and Cleo SNK. Next up: Jonny Knüppel, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ gili is a house and minimal artist tracked on soundcheck, with 16 sets logged ac
 
 Big Honey, Bunny Tsukino, Cleo SNK
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gili/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gili/)*

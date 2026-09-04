@@ -1,6 +1,6 @@
 # David Strasser
 
-David Strasser is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at DNA Club, Munich on Sat, 12 Sept 2026.
+David Strasser is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DNA Club, Munich on Sat, 12 Sept 2026.
 
 David Strasser is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Brisbane, Cologne and Munich and 5 more. Often billed alongside KEN (DE), Neon Graveyard and DJ PayPaul. Next up: DNA Club, Munich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ David Strasser is a techno and trance artist based in Germany, tracked on soundc
 
 KEN (DE), Neon Graveyard, DJ PayPaul
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidstrasser/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidstrasser/)*

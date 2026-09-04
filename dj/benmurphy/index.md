@@ -1,6 +1,6 @@
 # Ben Murphy
 
-Ben Murphy is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Distrikt, Leeds on Sat, 19 Sept 2026.
+Ben Murphy is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Distrikt, Leeds on Sat, 19 Sept 2026.
 
 Ben Murphy is a tech house and minimal artist tracked on soundcheck, with 14 sets logged across Leeds, London, Manchester and Newcastle. Often billed alongside Marcellus, Mas Fuego and Andrew Kay. Next up: Distrikt, Leeds on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Ben Murphy is a tech house and minimal artist tracked on soundcheck, with 14 set
 
 Marcellus, Mas Fuego, Andrew Kay
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benmurphy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benmurphy/)*

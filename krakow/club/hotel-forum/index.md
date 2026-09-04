@@ -1,6 +1,6 @@
 # Hotel Forum
 
-Hotel Forum is a music venue in Krakow with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Unsound Kraków 2026 SWAY: Vigro Deep b2b Batu, DJ Plead, gyrofield, KAVARI b2b Ship Sket + more" on Thu, 8 Oct 2026.
+Hotel Forum is a music venue in Krakow with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Unsound Kraków 2026 SWAY: Vigro Deep b2b Batu, DJ Plead, gyrofield, KAVARI b2b Ship Sket + more" on Thu, 8 Oct 2026.
 
 Hotel Forum is a music venue in Krakow listed on soundcheck. 3 upcoming nights, with line-ups including Batu, Dawuna, Deli Girls and Dj Danifox and 2 more. Browse upcoming dates, start times and who's playing. Marii Konopnickiej 28, 32-060 Kraków.
 
@@ -16,4 +16,4 @@ Hotel Forum is a music venue in Krakow listed on soundcheck. 3 upcoming nights, 
 
 Marii Konopnickiej 28, 32-060 Kraków, Krakow
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/hotel-forum/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/hotel-forum/)*

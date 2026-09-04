@@ -1,6 +1,6 @@
 # Zara
 
-Zara is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fuse, Brussels on Sat, 26 Sept 2026.
+Zara is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fuse, Brussels on Sat, 26 Sept 2026.
 
 Zara is a techno and experimental artist tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Basel and 22 more. Often billed alongside Andy Garvey, Tangerine and Agonis. Next up: Fuse, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Zara is a techno and experimental artist tracked on soundcheck, with 77 sets log
 
 Andy Garvey, Tangerine, Agonis
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zara/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zara/)*

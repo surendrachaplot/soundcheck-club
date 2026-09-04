@@ -1,6 +1,6 @@
 # DC81
 
-DC81 is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Almar Beach Club, Barcelona on Sat, 5 Sept 2026.
+DC81 is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Almar Beach Club, Barcelona on Sat, 5 Sept 2026.
 
 DC81 is a house and electronica artist tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside Mganz, juliboe and GUS PICCO. Next up: Almar Beach Club, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DC81 is a house and electronica artist tracked on soundcheck, with 9 sets logged
 
 Mganz, juliboe, GUS PICCO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dc81/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dc81/)*

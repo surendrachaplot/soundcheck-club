@@ -1,6 +1,6 @@
 # Salzbauer
 
-Salzbauer is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
+Salzbauer is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
 
 Salzbauer is a trance and techno artist based in Germany, tracked on soundcheck, with 45 sets logged across Antwerp, Berlin, Cologne and Hamburg and 5 more. Often billed alongside SOHOE, Stinny Stone and futurristic. Next up: Lokschuppen Berlin, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Salzbauer is a trance and techno artist based in Germany, tracked on soundcheck,
 
 SOHOE, Stinny Stone, futurristic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salzbauer/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salzbauer/)*

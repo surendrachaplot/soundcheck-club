@@ -1,6 +1,6 @@
 # Aletha
 
-Aletha is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Public NQ, Manchester on Sat, 12 Sept 2026.
+Aletha is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Public NQ, Manchester on Sat, 12 Sept 2026.
 
 Aletha is a house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Belgrade, Berlin and Brighton and 14 more. Often billed alongside Zuri, Joe Motion and DJ BORING. Next up: Public NQ, Manchester on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Aletha is a house and techno artist tracked on soundcheck, with 74 sets logged a
 
 Zuri, Joe Motion, DJ BORING
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aletha/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aletha/)*

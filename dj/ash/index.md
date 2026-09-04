@@ -1,6 +1,6 @@
 # Ash
 
-Ash is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Le Bain, New York City on Thu, 24 Sept 2026.
+Ash is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Le Bain, New York City on Thu, 24 Sept 2026.
 
 Ash is a deep house and house artist based in Egypt, tracked on soundcheck, with 31 sets logged across Austin, Barcelona, Basel and Copenhagen and 13 more. Often billed alongside Gacha, Lava and Anyma. Next up: Le Bain, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Ash is a deep house and house artist based in Egypt, tracked on soundcheck, with
 
 Gacha, Lava, Anyma
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ash/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ash/)*

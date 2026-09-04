@@ -1,6 +1,6 @@
 # 3oz Dive Club
 
-3oz Dive Club is a music venue in San Diego with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "DRAXX + MASALA" on Sat, 5 Sept 2026.
+3oz Dive Club is a music venue in San Diego with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "DRAXX + MASALA" on Sat, 5 Sept 2026.
 
 3oz Dive Club is a music venue in Sandiego listed on soundcheck. 7 upcoming nights, with line-ups including Andër, Jennifer Loveless, Julian Ortega and Liana and 2 more. Browse upcoming dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
 
@@ -20,4 +20,4 @@
 
 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA, San Diego
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*

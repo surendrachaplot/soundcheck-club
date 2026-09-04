@@ -1,6 +1,6 @@
 # Niko S.
 
-Niko S. is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Goldener Reiter, Munich on Fri, 4 Sept 2026.
+Niko S. is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Goldener Reiter, Munich on Fri, 4 Sept 2026.
 
 Niko S. is a minimal and house artist tracked on soundcheck, with 13 sets logged across Munich, Stuttgart and Tbilisi. Often billed alongside David Franz, Dexxis and Daisuki. Next up: Goldener Reiter, Munich on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Niko S. is a minimal and house artist tracked on soundcheck, with 13 sets logged
 
 David Franz, Dexxis, Daisuki
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikos./)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikos./)*

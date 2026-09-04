@@ -1,6 +1,6 @@
 # Soraya
 
-Soraya is a House and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
+Soraya is a House and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
 
 Soraya is a house and reggaeton artist tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Losangeles and Marseille and 2 more. Often billed alongside Ardalan, Blaq PAGES and Cardo. Next up: Randall's Island, Newyorkcity on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Soraya is a house and reggaeton artist tracked on soundcheck, with 7 sets logged
 
 Ardalan, Blaq PAGES, Cardo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soraya/)*

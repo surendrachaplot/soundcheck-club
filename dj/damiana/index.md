@@ -1,6 +1,6 @@
 # DAMIANA
 
-DAMIANA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Skin Club, Madrid on Fri, 4 Sept 2026.
+DAMIANA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Skin Club, Madrid on Fri, 4 Sept 2026.
 
 DAMIANA is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Antwerp, Berlin, Lisbon and London and 1 more. Often billed alongside Michelle Manetti, Alma Negrot and Areola Grande Latte. Next up: Skin Club, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DAMIANA is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Michelle Manetti, Alma Negrot, Areola Grande Latte
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damiana/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damiana/)*

@@ -1,6 +1,6 @@
 # B-SIDE
 
-B-SIDE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+B-SIDE is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 B-SIDE is a house and deep house artist tracked on soundcheck, with 7 sets logged across Austin, Leeds, Losangeles and Melbourne and 1 more. Often billed alongside Bear Who?, Basstripper and Callèn. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ B-SIDE is a house and deep house artist tracked on soundcheck, with 7 sets logge
 
 Bear Who?, Basstripper, Callèn
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-side/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-side/)*

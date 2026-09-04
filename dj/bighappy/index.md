@@ -1,6 +1,6 @@
 # Big Happy
 
-Big Happy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar Part Time, San Francisco/Oakland on Fri, 4 Sept 2026.
+Big Happy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar Part Time, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 Big Happy is a house and deep house artist tracked on soundcheck, with 21 sets logged across Berlin, Mexicocity, Miami and Newyorkcity and 1 more. Often billed alongside Disgonuts, Spiñorita and Barreto. Next up: Bar Part Time, Sanfrancisco on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Big Happy is a house and deep house artist tracked on soundcheck, with 21 sets l
 
 Disgonuts, Spiñorita, Barreto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bighappy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bighappy/)*

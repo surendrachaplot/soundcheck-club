@@ -1,6 +1,6 @@
 # BCee
 
-BCee is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at fabric, London on Fri, 4 Sept 2026.
+BCee is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at fabric, London on Fri, 4 Sept 2026.
 
 BCee is a drum & bass and jungle artist tracked on soundcheck, with 31 sets logged across Amsterdam, Austin, Boston and Brighton and 11 more. Often billed alongside BassLayerz, Bryan Gee and Dillinja. Next up: fabric, London on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ BCee is a drum & bass and jungle artist tracked on soundcheck, with 31 sets logg
 
 BassLayerz, Bryan Gee, Dillinja
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bcee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bcee/)*

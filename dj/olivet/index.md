@@ -1,6 +1,6 @@
 # Olive T
 
-Olive T is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Open Air Genève, Geneva on Sat, 3 Oct 2026.
+Olive T is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Open Air Genève, Geneva on Sat, 3 Oct 2026.
 
 Olive T is a house and disco artist based in United States of America, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Geneva and London and 2 more. Often billed alongside Adrianal, Alma Negrot and Beeches. Next up: Open Air Genève, Geneva on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Olive T is a house and disco artist based in United States of America, tracked o
 
 Adrianal, Alma Negrot, Beeches
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivet/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivet/)*

@@ -1,6 +1,6 @@
 # Random B
 
-Random B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Prince Charles, Berlin on Sat, 26 Sept 2026.
+Random B is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Prince Charles, Berlin on Sat, 26 Sept 2026.
 
 Random B is a house and techno artist tracked on soundcheck, with 22 sets logged across Berlin, Brussels, Lisbon and Madrid. Often billed alongside Carmelina, DJ Pipe and DJ Tjizza. Next up: Prince Charles, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Random B is a house and techno artist tracked on soundcheck, with 22 sets logged
 
 Carmelina, DJ Pipe, DJ Tjizza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randomb/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/randomb/)*

@@ -1,6 +1,6 @@
 # WaxFiend
 
-WaxFiend is a Dancehall and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Yellow House, Amsterdam on Sun, 13 Sept 2026.
+WaxFiend is a Dancehall and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Yellow House, Amsterdam on Sun, 13 Sept 2026.
 
 WaxFiend is a dancehall and hip-hop artist tracked on soundcheck, with 14 sets logged across Amsterdam. Often billed alongside Rockefellababe, Zoë Janice and Deemz. Next up: Yellow House, Amsterdam on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ WaxFiend is a dancehall and hip-hop artist tracked on soundcheck, with 14 sets l
 
 Rockefellababe, Zoë Janice, Deemz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxfiend/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxfiend/)*

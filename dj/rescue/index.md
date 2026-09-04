@@ -1,6 +1,6 @@
 # Rescue
 
-Rescue is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar v Krymský, Prague on Thu, 22 Oct 2026.
+Rescue is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar v Krymský, Prague on Thu, 22 Oct 2026.
 
 Rescue is a techno and house artist based in Czech Republic, tracked on soundcheck, with 30 sets logged across Brussels and Prague. Often billed alongside Soda, Yannick and Adron_. Next up: Bar v Krymský, Prague on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Rescue is a techno and house artist based in Czech Republic, tracked on soundche
 
 Soda, Yannick, Adron_
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rescue/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rescue/)*

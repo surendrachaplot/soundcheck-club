@@ -1,6 +1,6 @@
 # Roi Perez
 
-Roi Perez is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
+Roi Perez is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
 
 Roi Perez is a house and techno artist tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: DC-10, Ibiza on Mon 7 Sept.
 
@@ -29,4 +29,4 @@ Roi Perez is a house and techno artist tracked on soundcheck, with 218 sets logg
 
 Partok, BASHKKA, David Elimelech
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*

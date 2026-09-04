@@ -1,6 +1,6 @@
 # Korpuss
 
-Korpuss is a music venue in Riga with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "RESURRECTION × GRIDMOTH" on Fri, 4 Sept 2026.
+Korpuss is a music venue in Riga with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "RESURRECTION × GRIDMOTH" on Fri, 4 Sept 2026.
 
 Korpuss is a music venue in Riga listed on soundcheck. 3 upcoming nights, with line-ups including ANASI, ANNDRA, DEP (LV) and DEX.NØ and 2 more. Browse upcoming dates, start times and who's playing. Viskaļu iela 36.
 
@@ -16,4 +16,4 @@ Korpuss is a music venue in Riga listed on soundcheck. 3 upcoming nights, with l
 
 Viskaļu iela 36, Riga
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/korpuss/)*

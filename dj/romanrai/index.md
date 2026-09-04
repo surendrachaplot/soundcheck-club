@@ -1,6 +1,6 @@
 # Roman Rai
 
-Roman Rai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar v Krymský, Prague on Fri, 23 Oct 2026.
+Roman Rai is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar v Krymský, Prague on Fri, 23 Oct 2026.
 
 Roman Rai is a house and techno artist based in Czech Republic, tracked on soundcheck, with 44 sets logged across Prague. Often billed alongside Täino, ANĪC and Daniel Neighbour. Next up: Bar v Krymský, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Roman Rai is a house and techno artist based in Czech Republic, tracked on sound
 
 Täino, ANĪC, Daniel Neighbour
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romanrai/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romanrai/)*

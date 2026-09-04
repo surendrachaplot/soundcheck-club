@@ -1,6 +1,6 @@
 # KANCIAK
 
-KANCIAK is a Bass and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+KANCIAK is a Bass and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
 KANCIAK is a bass and acid artist tracked on soundcheck, with 27 sets logged across Tbilisi and Warsaw. Often billed alongside m0nagenda, Apostolov and aura (PL). Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ KANCIAK is a bass and acid artist tracked on soundcheck, with 27 sets logged acr
 
 m0nagenda, Apostolov, aura (PL)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanciak/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanciak/)*

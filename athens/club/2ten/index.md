@@ -1,6 +1,6 @@
 # 2ten
 
-2ten is a music venue in Athens with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Heads or Tails with Assaf Amdursky & Ben Biron " on Sat, 12 Sept 2026.
+2ten is a music venue in Athens with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Heads or Tails with Assaf Amdursky & Ben Biron " on Sat, 12 Sept 2026.
 
 2ten is a music venue in Athens listed on soundcheck. 4 upcoming nights, with line-ups including Alisa Murphy, Ben Biron, Emex and George Apergis and 2 more. Browse upcoming dates, start times and who's playing. Ermou 135, Athens.
 
@@ -17,4 +17,4 @@
 
 Ermou 135, Athens, Athens
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/2ten/)*

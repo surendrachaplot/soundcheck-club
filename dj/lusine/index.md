@@ -1,6 +1,6 @@
 # Lusine
 
-Lusine is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hidden Hall, Seattle on Sat, 12 Sept 2026.
+Lusine is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hidden Hall, Seattle on Sat, 12 Sept 2026.
 
 Lusine is an idm and experimental artist based in United States of America, tracked on soundcheck, with 13 sets logged across Austin, Detroit, Losangeles and Montreal and 4 more. Often billed alongside Yppah, Beard-o-Bees and Doza. Next up: Hidden Hall, Seattle on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Lusine is an idm and experimental artist based in United States of America, trac
 
 Yppah, Beard-o-Bees, Doza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lusine/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lusine/)*

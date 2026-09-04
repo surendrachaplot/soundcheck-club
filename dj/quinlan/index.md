@@ -1,6 +1,6 @@
 # Quinlan
 
-Quinlan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at XLR, Manchester on Thu, 24 Sept 2026.
+Quinlan is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at XLR, Manchester on Thu, 24 Sept 2026.
 
 Quinlan is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Leeds, London, Manchester and Newcastle. Often billed alongside Larushkin, LARISHKA (UK) and Neillis. Next up: XLR, Manchester on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Quinlan is a house and tech house artist based in United Kingdom, tracked on sou
 
 Larushkin, LARISHKA (UK), Neillis
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quinlan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quinlan/)*

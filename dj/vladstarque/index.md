@@ -1,6 +1,6 @@
 # Vlad Starque
 
-Vlad Starque is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Pontoon Budapest, Budapest on Sun, 6 Sept 2026.
+Vlad Starque is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Pontoon Budapest, Budapest on Sun, 6 Sept 2026.
 
 Vlad Starque is a house and progressive house artist based in Lithuania, tracked on soundcheck, with 8 sets logged across Budapest and Riga. Often billed alongside Kapusta, Rexton and ANESI. Next up: Pontoon Budapest, Budapest on Sun 6 Sept.
 
@@ -24,4 +24,4 @@ Vlad Starque is a house and progressive house artist based in Lithuania, tracked
 
 Kapusta, Rexton, ANESI
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladstarque/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladstarque/)*

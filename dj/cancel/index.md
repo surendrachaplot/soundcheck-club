@@ -1,6 +1,6 @@
 # Cancel
 
-Cancel is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
+Cancel is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
 
 Cancel is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 32 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Rebekah, 6EJOU and Aphøtic. Next up: Zuiderpark, Rotterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Cancel is a techno and hardcore artist based in Belgium, tracked on soundcheck, 
 
 Rebekah, 6EJOU, Aphøtic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cancel/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cancel/)*

@@ -1,6 +1,6 @@
 # Simonkannnix
 
-Simonkannnix is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Schiffsanlegestelle Uber Arena, Berlin on Sat, 19 Sept 2026.
+Simonkannnix is a Ghetto Tech and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Schiffsanlegestelle Uber Arena, Berlin on Sat, 19 Sept 2026.
 
 Simonkannnix is a ghetto tech and house artist tracked on soundcheck, with 5 sets logged across Berlin, Munich and Vienna. Often billed alongside BLUDHOUND, Carl Bergé and CeeJay. Next up: Schiffsanlegestelle Uber Arena, Berlin on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Simonkannnix is a ghetto tech and house artist tracked on soundcheck, with 5 set
 
 BLUDHOUND, Carl Bergé, CeeJay
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkannnix/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkannnix/)*

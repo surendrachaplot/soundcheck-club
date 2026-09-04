@@ -1,6 +1,6 @@
 # Sportpark Riekerhaven
 
-Sportpark Riekerhaven is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "PARELS VAN DE STAD 2026" on Sat, 12 Sept 2026.
+Sportpark Riekerhaven is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "PARELS VAN DE STAD 2026" on Sat, 12 Sept 2026.
 
 Sportpark Riekerhaven is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Emma Champagne Queen, Heritage Listed, Kirilski and Pura Pachanga. Browse upcoming dates, start times and who's playing. Overschiestraat 190 1062 XK Amsterdam.
 
@@ -15,4 +15,4 @@ Sportpark Riekerhaven is a music venue in Amsterdam listed on soundcheck. 2 upco
 
 Overschiestraat 190 1062 XK Amsterdam, Amsterdam
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sportpark-riekerhaven/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sportpark-riekerhaven/)*

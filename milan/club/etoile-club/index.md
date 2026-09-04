@@ -1,6 +1,6 @@
 # Etoile Club
 
-Etoile Club is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "MANAWA EXPERIENCE OPENING PARTY" on Sat, 12 Sept 2026.
+Etoile Club is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "MANAWA EXPERIENCE OPENING PARTY" on Sat, 12 Sept 2026.
 
 Etoile Club is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Davide T and Richy Ahmed. Browse upcoming dates, start times and who's playing. Viale Lombardia, 16N, 20081 Cassinetta di Lugagnano MI, Italy.
 
@@ -14,4 +14,4 @@ Etoile Club is a music venue in Milan listed on soundcheck. 1 upcoming night, wi
 
 Viale Lombardia, 16N, 20081 Cassinetta di Lugagnano MI, Italy, Milan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/etoile-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/etoile-club/)*

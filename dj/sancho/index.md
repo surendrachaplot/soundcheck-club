@@ -1,6 +1,6 @@
 # Sancho
 
-Sancho is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Vino Disco, Montreal on Fri, 4 Sept 2026.
+Sancho is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Vino Disco, Montreal on Fri, 4 Sept 2026.
 
 Sancho is a house and disco artist based in Canada, tracked on soundcheck, with 11 sets logged across Bangkok and Montreal. Often billed alongside Ledisko, kirillz and Balinsky. Next up: Vino Disco, Montreal on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Sancho is a house and disco artist based in Canada, tracked on soundcheck, with 
 
 Ledisko, kirillz, Balinsky
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sancho/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sancho/)*

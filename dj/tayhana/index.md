@@ -1,14 +1,13 @@
 # TAYHANA
 
-TAYHANA is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Karmen Camina, Strasbourg on Fri, 11 Sept 2026.
+TAYHANA is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The White Hotel, Manchester on Sat, 19 Sept 2026.
 
-TAYHANA is a techno and latin bass artist tracked on soundcheck, with 68 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 26 more. Often billed alongside Marie Davidson, Manuka Honey and Slim Soledad. Next up: Karmen Camina, Strasbourg on Fri 11 Sept.
+TAYHANA is a techno and latin bass artist tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Marie Davidson, Manuka Honey and Slim Soledad. Next up: The White Hotel, Manchester on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Karmen Camina | Strasbourg |
 | Sat, 19 Sept 2026 | The White Hotel | Manchester |
 
 ## Recently played
@@ -26,4 +25,4 @@ TAYHANA is a techno and latin bass artist tracked on soundcheck, with 68 sets lo
 
 Marie Davidson, Manuka Honey, Slim Soledad
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tayhana/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tayhana/)*

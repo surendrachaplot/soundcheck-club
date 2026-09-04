@@ -1,6 +1,6 @@
 # 99 Scott Ave
 
-99 Scott Ave is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "MoBlack Afterparty" on Fri, 4 Sept 2026.
+99 Scott Ave is a music venue in New York City with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "MoBlack Afterparty" on Fri, 4 Sept 2026.
 
 99 Scott Ave is a music venue in Newyorkcity listed on soundcheck. 8 upcoming nights, with line-ups including A.K.R, ARODES, BABYVAYE and CISUMMI and 2 more. Browse upcoming dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
 
@@ -9,7 +9,7 @@
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | MoBlack Afterparty | CISUMMI, FALYN, MoBlack, Oktave |
-| Sun, 6 Sept 2026 | Elsewhere presents: DJ LEX - Day Party @ 99 Scott Outdoors w/ Baby Vaye, Vega, Kendollaz + more | BABYVAYE, LEI, MAMICANA |
+| Sun, 6 Sept 2026 | Elsewhere presents: DJ LEX & Friends at 99 Scott Outdoors w/ Baby Vaye, Vega, Kendollaz + more | BABYVAYE, LEI, MAMICANA |
 | Fri, 18 Sept 2026 | Nitefreak presents HiNDE | Nitefreak |
 | Fri, 2 Oct 2026 | AGAPĒ PRESENTS: Vladimir Dubyshkin (LIVE) + PETERBLUE | A.K.R, PETERBLUE, Vladimir Dubyshkin |
 | Fri, 9 Oct 2026 | ARODES  w. JUNO  | ARODES, JUNO (DE) |
@@ -21,4 +21,4 @@
 
 99 Scott Ave, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*

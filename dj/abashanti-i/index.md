@@ -1,6 +1,6 @@
 # Aba Shanti-I
 
-Aba Shanti-I is a Dub and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Aba Shanti-I is a Dub and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Aba Shanti-I is a dub and dub techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Brighton and Bristol and 14 more. Often billed alongside Errol, Mia Koden and Tash LC. Next up: The Cause, London on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Aba Shanti-I is a dub and dub techno artist tracked on soundcheck, with 45 sets 
 
 Errol, Mia Koden, Tash LC
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abashanti-i/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abashanti-i/)*

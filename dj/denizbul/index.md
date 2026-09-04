@@ -1,6 +1,6 @@
 # Deniz Bul
 
-Deniz Bul is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
+Deniz Bul is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 25 Sept 2026.
 
 Deniz Bul is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Moritz Hofbauer, Boris Brejcha and Ann Clue. Next up: Fridas Pier, Stuttgart on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Deniz Bul is a techno and minimal techno artist based in Germany, tracked on sou
 
 Moritz Hofbauer, Boris Brejcha, Ann Clue
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denizbul/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denizbul/)*

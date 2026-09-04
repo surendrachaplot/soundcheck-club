@@ -1,6 +1,6 @@
 # Nuno Carneiro
 
-Nuno Carneiro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
+Nuno Carneiro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
 
 Nuno Carneiro is a house and techno artist tracked on soundcheck, with 36 sets logged across Barcelona, Berlin, Lisbon and Newyorkcity and 2 more. Often billed alongside Alfonsvs, Da Ni and Adriana Ruas. Next up: Signal, Newyorkcity on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nuno Carneiro is a house and techno artist tracked on soundcheck, with 36 sets l
 
 Alfonsvs, Da Ni, Adriana Ruas
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunocarneiro/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunocarneiro/)*

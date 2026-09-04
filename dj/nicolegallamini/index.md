@@ -1,6 +1,6 @@
 # Nicole Gallamini
 
-Nicole Gallamini is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Floyd, Miami on Fri, 11 Sept 2026.
+Nicole Gallamini is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Floyd, Miami on Fri, 11 Sept 2026.
 
 Nicole Gallamini is a house and tech house artist tracked on soundcheck, with 50 sets logged across Losangeles, Miami and Newyorkcity. Often billed alongside DIFFER, Thunderpony and Berrakka. Next up: Floyd, Miami on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Nicole Gallamini is a house and tech house artist tracked on soundcheck, with 50
 
 DIFFER, Thunderpony, Berrakka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegallamini/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegallamini/)*

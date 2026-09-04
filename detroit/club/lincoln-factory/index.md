@@ -1,6 +1,6 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 14 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Helena Hauff" on Fri, 4 Sept 2026.
+Lincoln Factory is a music venue in Detroit with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Helena Hauff" on Fri, 4 Sept 2026.
 
 Lincoln Factory is a music venue in Detroit listed on soundcheck. 14 upcoming nights, with line-ups including Ahadadream, A K, Arlo Parks and Blake Baxter and 2 more. Browse upcoming dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
@@ -23,4 +23,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 14 upcoming ni
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

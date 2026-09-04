@@ -1,6 +1,6 @@
 # Daniela Monroe
 
-Daniela Monroe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
+Daniela Monroe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
 Daniela Monroe is a techno and trance artist tracked on soundcheck, with 5 sets logged across Hamburg, Stockholm and Stuttgart. Often billed alongside GAAAS, DJ NATZZ and Marcel Locust. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Daniela Monroe is a techno and trance artist tracked on soundcheck, with 5 sets 
 
 GAAAS, DJ NATZZ, Marcel Locust
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielamonroe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielamonroe/)*

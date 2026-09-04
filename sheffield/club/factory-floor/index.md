@@ -1,6 +1,6 @@
 # Factory Floor
 
-Factory Floor is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Side5tep wt sleepsang - mdj - holon - RField" on Fri, 4 Sept 2026.
+Factory Floor is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Side5tep wt sleepsang - mdj - holon - RField" on Fri, 4 Sept 2026.
 
 Factory Floor is a music venue in Sheffield listed on soundcheck. 4 upcoming nights, with line-ups including Holon._, mdj (0815), sleepsang and Wax Thief. Browse upcoming dates, start times and who's playing. 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom.
 
@@ -17,4 +17,4 @@ Factory Floor is a music venue in Sheffield listed on soundcheck. 4 upcoming nig
 
 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom, Sheffield
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*

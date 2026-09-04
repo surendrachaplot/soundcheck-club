@@ -1,6 +1,6 @@
 # Marvin Jam
 
-Marvin Jam is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
+Marvin Jam is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
 
 Marvin Jam is a house and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Ibiza, Istanbul and Tbilisi. Often billed alongside Luna City Express, MUKKIMIAU and Mary  Quo. Next up: SAGE, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Marvin Jam is a house and techno artist based in Germany, tracked on soundcheck,
 
 Luna City Express, MUKKIMIAU, Mary  Quo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinjam/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinjam/)*

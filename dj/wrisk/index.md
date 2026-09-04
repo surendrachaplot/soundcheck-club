@@ -1,6 +1,6 @@
 # Wrisk
 
-Wrisk is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paradise Palms, Edinburgh on Sat, 5 Sept 2026.
+Wrisk is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paradise Palms, Edinburgh on Sat, 5 Sept 2026.
 
 Wrisk is a techno and hardcore artist tracked on soundcheck, with 76 sets logged across Dundee and Edinburgh. Often billed alongside DV60, Smiff and Sea Urchin. Next up: Paradise Palms, Edinburgh on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Wrisk is a techno and hardcore artist tracked on soundcheck, with 76 sets logged
 
 DV60, Smiff, Sea Urchin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*

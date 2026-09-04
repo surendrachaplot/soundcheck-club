@@ -1,6 +1,6 @@
 # Vina Konda
 
-Vina Konda is a Bass and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Communale Saint-Ouen, Paris on Thu, 12 Nov 2026.
+Vina Konda is a Bass and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Communale Saint-Ouen, Paris on Thu, 12 Nov 2026.
 
 Vina Konda is a bass and broken beat artist tracked on soundcheck, with 14 sets logged across Brussels, London, Milan and Nantes and 3 more. Often billed alongside Hajj, Høll and Simo Cell. Next up: Communale Saint-Ouen, Paris on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Vina Konda is a bass and broken beat artist tracked on soundcheck, with 14 sets 
 
 Hajj, Høll, Simo Cell
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vinakonda/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vinakonda/)*

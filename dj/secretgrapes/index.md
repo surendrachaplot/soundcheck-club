@@ -1,6 +1,6 @@
 # Secret Grapes
 
-Secret Grapes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 22 Sept 2026.
+Secret Grapes is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 22 Sept 2026.
 
 Secret Grapes is a techno and house artist tracked on soundcheck, with 16 sets logged across Newyorkcity. Often billed alongside Body Art, Interpretive Sound and Klipdagga. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Secret Grapes is a techno and house artist tracked on soundcheck, with 16 sets l
 
 Body Art, Interpretive Sound, Klipdagga
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/secretgrapes/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/secretgrapes/)*

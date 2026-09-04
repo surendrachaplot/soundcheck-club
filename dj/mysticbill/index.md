@@ -1,6 +1,6 @@
 # Mystic Bill
 
-Mystic Bill is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Mystic Bill is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Mystic Bill is a house and disco artist based in United States of America, tracked on soundcheck, with 45 sets logged across Austin, Chicago, Detroit and Losangeles and 6 more. Often billed alongside Danny Daze, Sister System and Terence Tabeau. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mystic Bill is a house and disco artist based in United States of America, track
 
 Danny Daze, Sister System, Terence Tabeau
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticbill/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticbill/)*

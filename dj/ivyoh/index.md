@@ -1,6 +1,6 @@
 # Ivy Oh
 
-Ivy Oh is a EBM and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hart Bar, New York City on Sat, 12 Sept 2026.
+Ivy Oh is a EBM and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hart Bar, New York City on Sat, 12 Sept 2026.
 
 Ivy Oh is an ebm and post-punk artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity and Philadelphia. Often billed alongside Brad Scott, DJ Baby Berlin and Mofongo Massacre. Next up: Hart Bar, Newyorkcity on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Ivy Oh is an ebm and post-punk artist based in United States of America, tracked
 
 Brad Scott, DJ Baby Berlin, Mofongo Massacre
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyoh/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyoh/)*

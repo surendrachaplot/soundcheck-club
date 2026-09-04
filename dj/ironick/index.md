@@ -1,6 +1,6 @@
 # Ironick
 
-Ironick is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Foro Normandie, Mexico City on Fri, 25 Sept 2026.
+Ironick is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Foro Normandie, Mexico City on Fri, 25 Sept 2026.
 
 Ironick is a techno and industrial artist tracked on soundcheck, with 6 sets logged across Mexicocity. Often billed alongside Salem X, JHAXIE and XOVOKY. Next up: Foro Normandie, Mexicocity on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ Ironick is a techno and industrial artist tracked on soundcheck, with 6 sets log
 
 Salem X, JHAXIE, XOVOKY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ironick/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ironick/)*

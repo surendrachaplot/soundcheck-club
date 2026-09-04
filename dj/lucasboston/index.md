@@ -1,6 +1,6 @@
 # Lucas Boston
 
-Lucas Boston is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
+Lucas Boston is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lardner Park, Melbourne on Fri, 27 Nov 2026.
 
 Lucas Boston is a techno and house artist based in Australia, tracked on soundcheck, with 33 sets logged across Berlin, Brisbane, Glasgow and Madrid and 4 more. Often billed alongside DINA, Josh Heywood and Brent Honey. Next up: Lardner Park, Melbourne on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lucas Boston is a techno and house artist based in Australia, tracked on soundch
 
 DINA, Josh Heywood, Brent Honey
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasboston/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasboston/)*

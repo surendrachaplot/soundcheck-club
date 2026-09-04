@@ -1,6 +1,6 @@
 # Korea Town Acid
 
-Korea Town Acid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lee's Palace, Toronto on Fri, 18 Sept 2026.
+Korea Town Acid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lee's Palace, Toronto on Fri, 18 Sept 2026.
 
 Korea Town Acid is a techno and house artist tracked on soundcheck, with 67 sets logged across Hongkong, Lyon, Montreal and Newyorkcity and 5 more. Often billed alongside Eejungmi, JIALING and SINAHILL. Next up: Lee's Palace, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Korea Town Acid is a techno and house artist tracked on soundcheck, with 67 sets
 
 Eejungmi, JIALING, SINAHILL
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koreatownacid/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koreatownacid/)*

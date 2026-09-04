@@ -1,6 +1,6 @@
 # Romantso
 
-Romantso is a music venue in Athens with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Romantso Club Night: BODY DOUBLE all night long" on Fri, 4 Sept 2026.
+Romantso is a music venue in Athens with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Romantso Club Night: BODY DOUBLE all night long" on Fri, 4 Sept 2026.
 
 Romantso is a music venue in Athens listed on soundcheck. 4 upcoming nights, with line-ups including .Fro., Benny Ill, BÊTE NOIRE and ClubKid and 2 more. Browse upcoming dates, start times and who's playing. Αnaxagora 3-5, Athens 10552, Greece.
 
@@ -17,4 +17,4 @@ Romantso is a music venue in Athens listed on soundcheck. 4 upcoming nights, wit
 
 Αnaxagora 3-5, Athens 10552, Greece, Athens
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*

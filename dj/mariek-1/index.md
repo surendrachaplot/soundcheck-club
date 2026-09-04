@@ -1,8 +1,8 @@
 # Marie K (1)
 
-Marie K (1) is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
+Marie K (1) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
 
-Marie K (1) is a techno and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Eversines, Caim and Pieter Jansen. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
+Marie K (1) is a techno and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Eversines, Caim and Pieter Jansen. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Marie K (1) is a techno and house artist tracked on soundcheck, with 70 sets log
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Phono Lake | Amsterdam |
 | Sat, 3 Oct 2026 | FOLD | London |
-| Sat, 3 Oct 2026 | Starlane Pizza Bar | London |
 | Fri, 9 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
@@ -30,4 +29,4 @@ Marie K (1) is a techno and house artist tracked on soundcheck, with 70 sets log
 
 Eversines, Caim, Pieter Jansen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariek-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariek-1/)*

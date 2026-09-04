@@ -1,6 +1,6 @@
 # JUNG(KR)
 
-JUNG(KR) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paper, Seoul on Fri, 4 Sept 2026.
+JUNG(KR) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paper, Seoul on Fri, 4 Sept 2026.
 
 JUNG(KR) is an electro and techno artist based in South Korea, tracked on soundcheck, with 66 sets logged across Seoul. Often billed alongside Honn, X2C (1) and MOVIN.KR. Next up: Paper, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ JUNG(KR) is an electro and techno artist based in South Korea, tracked on soundc
 
 Honn, X2C (1), MOVIN.KR
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jungkr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jungkr/)*

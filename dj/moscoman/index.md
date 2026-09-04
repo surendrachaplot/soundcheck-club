@@ -1,6 +1,6 @@
 # Moscoman
 
-Moscoman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Floyd, Miami on Thu, 15 Oct 2026.
+Moscoman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Floyd, Miami on Thu, 15 Oct 2026.
 
 Moscoman is a house and techno artist tracked on soundcheck, with 30 sets logged across Losangeles, Mexicocity, Miami and Newyorkcity and 6 more. Often billed alongside Mustache X, Thunderpony and Whitesquare. Next up: Floyd, Miami on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ Moscoman is a house and techno artist tracked on soundcheck, with 30 sets logged
 
 Mustache X, Thunderpony, Whitesquare
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moscoman/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moscoman/)*

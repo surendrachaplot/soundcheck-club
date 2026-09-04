@@ -1,6 +1,6 @@
 # Disguised
 
-Disguised is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
+Disguised is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
 
 Disguised is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Berlin, Cologne and Dortmund-essen and 12 more. Often billed alongside Kim She, AYLIN IDAH and Cryptofauna. Next up: Junkyard Dortmund, Dortmund-essen on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Disguised is a techno and house artist tracked on soundcheck, with 91 sets logge
 
 Kim She, AYLIN IDAH, Cryptofauna
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disguised/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disguised/)*

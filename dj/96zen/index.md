@@ -1,6 +1,6 @@
 # 96zen
 
-96zen is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Aether Club Budapest, Budapest on Fri, 18 Sept 2026.
+96zen is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Aether Club Budapest, Budapest on Fri, 18 Sept 2026.
 
 96zen is a trance and techno artist based in Hungary, tracked on soundcheck, with 18 sets logged across Budapest. Often billed alongside CRIME, Valenthin and Paralich. Next up: Aether Club Budapest, Budapest on Fri 18 Sept.
 
@@ -25,4 +25,4 @@
 
 CRIME, Valenthin, Paralich
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/96zen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/96zen/)*

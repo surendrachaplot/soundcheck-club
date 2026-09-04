@@ -1,6 +1,6 @@
 # Cristobal
 
-Cristobal is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Marseille on Sat, 17 Oct 2026.
+Cristobal is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Marseille on Sat, 17 Oct 2026.
 
 Cristobal is a tech house and techno artist tracked on soundcheck, with 20 sets logged across Berlin, London, Lyon and Manchester and 3 more. Often billed alongside Cess (2), Duane and Alyhas. Next up: TBA, Marseille on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Cristobal is a tech house and techno artist tracked on soundcheck, with 20 sets 
 
 Cess (2), Duane, Alyhas
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobal/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobal/)*

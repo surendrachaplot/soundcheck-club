@@ -1,6 +1,6 @@
 # Mark Radford
 
-Mark Radford is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Egg London, London on Sat, 5 Sept 2026.
+Mark Radford is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Egg London, London on Sat, 5 Sept 2026.
 
 Mark Radford is a deep house and house artist tracked on soundcheck, with 118 sets logged across Birmingham and London. Often billed alongside Shenin Amara, Lance Morgan and B3. Next up: Egg London, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mark Radford is a deep house and house artist tracked on soundcheck, with 118 se
 
 Shenin Amara, Lance Morgan, B3
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markradford/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markradford/)*

@@ -1,6 +1,6 @@
 # Ed Rush
 
-Ed Rush is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+Ed Rush is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
 
 Ed Rush is a drum & bass and jungle artist tracked on soundcheck, with 58 sets logged across Amsterdam, Auckland, Bali and Berlin and 26 more. Often billed alongside Optical, Audio and Black Sun Empire. Next up: Maassilo, Rotterdam on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ed Rush is a drum & bass and jungle artist tracked on soundcheck, with 58 sets l
 
 Optical, Audio, Black Sun Empire
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edrush/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edrush/)*

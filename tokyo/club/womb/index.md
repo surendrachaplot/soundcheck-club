@@ -1,16 +1,16 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "UNREAL" on Fri, 4 Sept 2026.
+WOMB is a music venue in Tokyo with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "WTW" on Thu, 3 Sept 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including 7e, Akie, AKIRAM EN and ANDY DEDE and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with line-ups including 7e, Akie, AKIRAM EN and ALEXANDER M and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | WTW | ALEXANDER M, ANDY DEDE, EIGHT |
 | Fri, 4 Sept 2026 | UNREAL | AKIRAM EN, Ayana Pattra, DJ Sodeyama, MOTOKA, MZKN, SIGNAL (JP), Torus, Yohei Hibiki, ki (43) |
 | Sat, 5 Sept 2026 | 06S | DJ AKi, KENJI FURUYA, KIBΘ, Kiyoyuki Kanno, Kulage, Maozon, NDK, SENNY D, YASUKI, YELLOCK |
-| Wed, 9 Sept 2026 | WTW | Manaha, XTAL |
 | Thu, 10 Sept 2026 | WTW | Sunga |
 | Fri, 11 Sept 2026 | METRO DANCE | ANDY DEDE, B (379), CLESENT, COCOLY, Daitto, Jellyf!sh, SIMBAH |
 | Sat, 12 Sept 2026 | EVERY | Akie, CHIDA, KZA, Karuta, RYOKEI, YAMARCHY, YELLOWUHURU |
@@ -23,4 +23,4 @@ WOMB is a music venue in Tokyo listed on soundcheck. 13 upcoming nights, with li
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

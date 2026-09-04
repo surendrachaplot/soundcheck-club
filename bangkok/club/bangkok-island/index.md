@@ -1,13 +1,14 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "For the Love of House" on Fri, 4 Sept 2026.
+Bangkok Island is a music venue in Bangkok with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Playground - 03/09" on Thu, 3 Sept 2026.
 
-Bangkok Island is a music venue in Bangkok listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
+Bangkok Island is a music venue in Bangkok listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Playground - 03/09 |  |
 | Fri, 4 Sept 2026 | For the Love of House |  |
 | Sat, 5 Sept 2026 | TERRA CANTA |  |
 | Sun, 6 Sept 2026 | Turntables on the Chao Phraya |  |
@@ -19,4 +20,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 6 upcoming nigh
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

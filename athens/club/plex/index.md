@@ -1,6 +1,6 @@
 # Plex
 
-Plex is a music venue in Athens with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "PANTHEON - DOUBLE STAGE ATHENS" on Sat, 19 Sept 2026.
+Plex is a music venue in Athens with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "PANTHEON - DOUBLE STAGE ATHENS" on Sat, 19 Sept 2026.
 
 Plex is a music venue in Athens listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Keramikou 28, 104 36, Athens, Greece.
 
@@ -14,4 +14,4 @@ Plex is a music venue in Athens listed on soundcheck. 1 upcoming night. Browse u
 
 Keramikou 28, 104 36, Athens, Greece, Athens
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/plex/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/plex/)*

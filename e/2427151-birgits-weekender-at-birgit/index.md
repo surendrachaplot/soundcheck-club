@@ -1,6 +1,6 @@
 # Birgits WEEKENDER at Birgit
 
-Birgits WEEKENDER on Fri 4 Sept, Berlin. 6 acts on the bill: ANIÈ, AWSM, FYNN and gem.ini and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Birgits WEEKENDER on Fri 4 Sept, Berlin. 5 acts on the bill: ANIÈ, AWSM, FYNN and gem.ini and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ Birgits WEEKENDER on Fri 4 Sept, Berlin. 6 acts on the bill: ANIÈ, AWSM, FYNN a
 - AWSM
 - FYNN
 - gem.ini
-- Schallapeño Schepperoni
 - Shlomsen
 
 *Source: [soundcheck](https://soundcheck.club/e/2427151-birgits-weekender-at-birgit/)*

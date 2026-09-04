@@ -1,6 +1,6 @@
 # Frazer Ray
 
-Frazer Ray is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Frazer Ray is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 Frazer Ray is a garage and breakbeat artist tracked on soundcheck, with 76 sets logged across Antwerp, Barcelona, Berlin and Birmingham and 15 more. Often billed alongside mixtress, Jay Carder and Skeptic. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Frazer Ray is a garage and breakbeat artist tracked on soundcheck, with 76 sets 
 
 mixtress, Jay Carder, Skeptic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frazerray/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frazerray/)*

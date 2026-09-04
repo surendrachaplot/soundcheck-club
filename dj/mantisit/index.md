@@ -1,6 +1,6 @@
 # Mantis (IT)
 
-Mantis (IT) is a Dub and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at THE MAGICK BAR, Rome on Thu, 10 Sept 2026.
+Mantis (IT) is a Dub and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at THE MAGICK BAR, Rome on Thu, 10 Sept 2026.
 
 Mantis (IT) is a dub and electronica artist tracked on soundcheck, with 10 sets logged across Rome. Often billed alongside VSC (1), Her Nice Too and Manifesto Disappunto. Next up: THE MAGICK BAR, Rome on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Mantis (IT) is a dub and electronica artist tracked on soundcheck, with 10 sets 
 
 VSC (1), Her Nice Too, Manifesto Disappunto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mantisit/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mantisit/)*

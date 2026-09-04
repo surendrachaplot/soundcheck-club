@@ -1,15 +1,14 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sala Upload Barcelona, Barcelona on Fri, 4 Sept 2026.
+DJ Plead is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sala Upload Barcelona, Barcelona on Fri, 4 Sept 2026.
 
-DJ Plead is a techno and bass artist tracked on soundcheck, with 129 sets logged across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: Sala Upload Barcelona, Barcelona on Fri 4 Sept.
+DJ Plead is a techno and bass artist tracked on soundcheck, with 128 sets logged across Amsterdam, Barcelona, Basel and Berlin and 32 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: Sala Upload Barcelona, Barcelona on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Sala Upload Barcelona | Barcelona |
-| Fri, 11 Sept 2026 | Karmen Camina | Strasbourg |
 | Sat, 12 Sept 2026 | EXIT Glasgow | Glasgow |
 | Fri, 18 Sept 2026 | OHM | Berlin |
 | Sat, 26 Sept 2026 | Bermondsey Triangle | London |
@@ -34,4 +33,4 @@ DJ Plead is a techno and bass artist tracked on soundcheck, with 129 sets logged
 
 rRoxymore, Azu Tiwaline, livwutang
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

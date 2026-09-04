@@ -1,13 +1,14 @@
 # BLNK
 
-BLNK is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Strantwerpen, Antwerp on Sat, 5 Sept 2026.
+BLNK is a Techno and Industrial artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ministerium Club, Lisbon on Thu, 3 Sept 2026.
 
-BLNK is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 18 more. Often billed alongside TiTi, LIEKS and KRUELTY. Next up: Strantwerpen, Antwerp on Sat 5 Sept.
+BLNK is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 18 more. Often billed alongside TiTi, LIEKS and KRUELTY. Next up: Ministerium Club, Lisbon on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Ministerium Club | Lisbon |
 | Sat, 5 Sept 2026 | Strantwerpen | Antwerp |
 | Sat, 5 Sept 2026 | Strantwerpen | Antwerp |
 | Sat, 5 Sept 2026 | Kilomètre25 | Paris |
@@ -18,7 +19,6 @@ BLNK is a techno and industrial artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- Ministerium Club, Lisbon — Thu, 3 Sept 2026
 - Maassilo, Rotterdam — Sat, 29 Aug 2026
 - H7 Warehouse, Amsterdam — Sat, 22 Aug 2026
 - The Flinders, Sydney — Fri, 31 Jul 2026
@@ -26,9 +26,10 @@ BLNK is a techno and industrial artist based in Netherlands, tracked on soundche
 - Thuishaven, Amsterdam — Sun, 21 Jun 2026
 - The ORB, Malta — Fri, 19 Jun 2026
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
+- City Hall, Barcelona — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 TiTi, LIEKS, KRUELTY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*

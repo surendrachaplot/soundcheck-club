@@ -1,6 +1,6 @@
 # Lena Brumby
 
-Lena Brumby is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
+Lena Brumby is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ://about blank, Berlin on Sat, 26 Sept 2026.
 
 Lena Brumby is a house and deep house artist tracked on soundcheck, with 43 sets logged across Berlin. Often billed alongside Jessamine, Alex.Do and Ed Herbst. Next up: ://about blank, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Lena Brumby is a house and deep house artist tracked on soundcheck, with 43 sets
 
 Jessamine, Alex.Do, Ed Herbst
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrumby/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrumby/)*

@@ -1,6 +1,6 @@
 # hitty
 
-hitty is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Colour Factory, London on Sat, 3 Oct 2026.
+hitty is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Colour Factory, London on Sat, 3 Oct 2026.
 
 hitty is a tech house and house artist tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Birmingham and Brighton and 9 more. Often billed alongside Shenin Amara, Meeshy and Sammy Porter. Next up: Colour Factory, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ hitty is a tech house and house artist tracked on soundcheck, with 78 sets logge
 
 Shenin Amara, Meeshy, Sammy Porter
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitty/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hitty/)*

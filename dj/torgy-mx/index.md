@@ -1,6 +1,6 @@
 # Torgy
 
-Torgy is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Versalles 64, Mexico City on Sat, 5 Sept 2026.
+Torgy is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Versalles 64, Mexico City on Sat, 5 Sept 2026.
 
 Torgy is a house and electronica artist based in Mexico, tracked on soundcheck, with 20 sets logged across Madrid and Mexicocity. Often billed alongside Eliel Capa, Amapola Rose and Kodemul. Next up: Versalles 64, Mexicocity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Torgy is a house and electronica artist based in Mexico, tracked on soundcheck, 
 
 Eliel Capa, Amapola Rose, Kodemul
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torgy-mx/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torgy-mx/)*

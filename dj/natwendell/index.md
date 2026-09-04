@@ -1,6 +1,6 @@
 # Nat Wendell
 
-Nat Wendell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Paloma, Berlin on Sun, 6 Sept 2026.
+Nat Wendell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Paloma, Berlin on Sun, 6 Sept 2026.
 
 Nat Wendell is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 14 more. Often billed alongside Luca Olivotto, Eva Crystaltips and Marie Lung. Next up: Paloma, Berlin on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Nat Wendell is a house and techno artist tracked on soundcheck, with 77 sets log
 
 Luca Olivotto, Eva Crystaltips, Marie Lung
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natwendell/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natwendell/)*

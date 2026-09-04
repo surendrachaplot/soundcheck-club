@@ -1,6 +1,6 @@
 # Calabasa
 
-Calabasa is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Frankhan Selectist, Istanbul on Fri, 4 Sept 2026.
+Calabasa is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Frankhan Selectist, Istanbul on Fri, 4 Sept 2026.
 
 Calabasa is a house and minimal artist tracked on soundcheck, with 50 sets logged across Antwerp, Barcelona, Berlin and Ibiza and 8 more. Often billed alongside Foie Gras, MARYO and Cap. Next up: Frankhan Selectist, Istanbul on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Calabasa is a house and minimal artist tracked on soundcheck, with 50 sets logge
 
 Foie Gras, MARYO, Cap
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calabasa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calabasa/)*

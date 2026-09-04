@@ -1,6 +1,6 @@
 # Yama
 
-Yama is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at VENT, Tokyo on Sat, 17 Oct 2026.
+Yama is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at VENT, Tokyo on Sat, 17 Oct 2026.
 
 Yama is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Berlin, Kyoto, Osaka and Seattle and 1 more. Often billed alongside MASA, DJ Nobu and KENJI MARUI. Next up: VENT, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Yama is a techno and house artist based in United States of America, tracked on 
 
 MASA, DJ Nobu, KENJI MARUI
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yama/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yama/)*

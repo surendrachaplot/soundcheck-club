@@ -1,6 +1,6 @@
 # Benjamin Roeder
 
-Benjamin Roeder is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paloma, Berlin on Sat, 26 Sept 2026.
+Benjamin Roeder is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paloma, Berlin on Sat, 26 Sept 2026.
 
 Benjamin Roeder is a house and disco artist based in Germany, tracked on soundcheck, with 67 sets logged across Athens, Austin, Berlin and Bucharest and 8 more. Often billed alongside Manuel Kim, beewack and sianza. Next up: Paloma, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Benjamin Roeder is a house and disco artist based in Germany, tracked on soundch
 
 Manuel Kim, beewack, sianza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminroeder/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminroeder/)*

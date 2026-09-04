@@ -1,6 +1,6 @@
 # Dario Dee
 
-Dario Dee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Moondog Hifi, New York City on Sat, 5 Sept 2026.
+Dario Dee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Moondog Hifi, New York City on Sat, 5 Sept 2026.
 
 Dario Dee is a house and deep house artist tracked on soundcheck, with 12 sets logged across Miami and Newyorkcity. Often billed alongside Leo Del Toro, Ro Rousseau and Cristobal ON. Next up: Moondog Hifi, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Dario Dee is a house and deep house artist tracked on soundcheck, with 12 sets l
 
 Leo Del Toro, Ro Rousseau, Cristobal ON
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariodee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariodee/)*

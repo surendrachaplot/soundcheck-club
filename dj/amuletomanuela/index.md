@@ -1,6 +1,6 @@
 # Amuleto Manuela
 
-Amuleto Manuela is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
+Amuleto Manuela is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
 
 Amuleto Manuela is a disco and deep house artist based in Colombia, tracked on soundcheck, with 22 sets logged across Berlin and Leipzig. Often billed alongside Calamidades Lola, Coco Maria and El Vago. Next up: TBA -  VARIOUS, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Amuleto Manuela is a disco and deep house artist based in Colombia, tracked on s
 
 Calamidades Lola, Coco Maria, El Vago
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amuletomanuela/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amuletomanuela/)*

@@ -1,6 +1,6 @@
 # Davide Del Vecchio
 
-Davide Del Vecchio is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Cross, London on Sat, 12 Sept 2026.
+Davide Del Vecchio is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Cross, London on Sat, 12 Sept 2026.
 
 Davide Del Vecchio is a disco and deep house artist tracked on soundcheck, with 145 sets logged across Berlin, Ibiza, Lisbon and Liverpool and 3 more. Often billed alongside Duappo, ARLYSS and Dan Cluskey. Next up: The Cross, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Davide Del Vecchio is a disco and deep house artist tracked on soundcheck, with 
 
 Duappo, ARLYSS, Dan Cluskey
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedelvecchio/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedelvecchio/)*

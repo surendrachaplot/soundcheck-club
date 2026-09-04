@@ -1,6 +1,6 @@
 # Ana Rs
 
-Ana Rs is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Pisco Bar, Kuala Lumpur on Sat, 5 Sept 2026.
+Ana Rs is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Pisco Bar, Kuala Lumpur on Sat, 5 Sept 2026.
 
 Ana Rs is a techno and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside CONCEPTUAL, Adriana Lopez and Hadone. Next up: Pisco Bar, Kualalumpur on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Ana Rs is a techno and house artist tracked on soundcheck, with 37 sets logged a
 
 CONCEPTUAL, Adriana Lopez, Hadone
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anars/)*

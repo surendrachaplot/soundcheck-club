@@ -1,6 +1,6 @@
 # Pumpehuset
 
-Pumpehuset is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "tonser // Pumpehuset" on Sat, 19 Sept 2026.
+Pumpehuset is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "tonser // Pumpehuset" on Sat, 19 Sept 2026.
 
 Pumpehuset is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including Cassius, Conway, ELOQ and Lisa Fosmark and 2 more. Browse upcoming dates, start times and who's playing. Studiestræde 52, 1554 Copenhagen V, Denmark.
 
@@ -21,4 +21,4 @@ Pumpehuset is a music venue in Copenhagen listed on soundcheck. 8 upcoming night
 
 Studiestræde 52, 1554 Copenhagen V, Denmark, Copenhagen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pumpehuset/)*

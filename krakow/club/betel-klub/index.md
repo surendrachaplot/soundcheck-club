@@ -1,6 +1,6 @@
 # Betel Klub
 
-Betel Klub is a music venue in Krakow with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Semprey I PRZYJACIELE - WIĘCEJ DYMU" on Sat, 5 Sept 2026.
+Betel Klub is a music venue in Krakow with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Semprey I PRZYJACIELE - WIĘCEJ DYMU" on Sat, 5 Sept 2026.
 
 Betel Klub is a music venue in Krakow listed on soundcheck. 1 upcoming night, with line-ups including Chugajstra, j.flo, MVZE and Sakrum and 1 more. Browse upcoming dates, start times and who's playing. Kraków, Plac Szczepański 3.
 
@@ -14,4 +14,4 @@ Betel Klub is a music venue in Krakow listed on soundcheck. 1 upcoming night, wi
 
 Kraków, Plac Szczepański 3, Krakow
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/betel-klub/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/betel-klub/)*

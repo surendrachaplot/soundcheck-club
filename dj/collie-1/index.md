@@ -1,6 +1,6 @@
 # Collie (1)
 
-Collie (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Wigwam, Dublin on Fri, 18 Sept 2026.
+Collie (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Wigwam, Dublin on Fri, 18 Sept 2026.
 
 Collie (1) is a house and techno artist based in Ireland, tracked on soundcheck, with 79 sets logged across Cork, Dublin, Liverpool and London. Often billed alongside Surka (1), Derv and Boots & Kats. Next up: Wigwam, Dublin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Collie (1) is a house and techno artist based in Ireland, tracked on soundcheck,
 
 Surka (1), Derv, Boots & Kats
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/collie-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/collie-1/)*

@@ -1,6 +1,6 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at block., Dublin on Fri, 11 Sept 2026.
+Marie Vaunt is a Techno and Acid artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at block., Dublin on Fri, 11 Sept 2026.
 
 Marie Vaunt is a techno and acid artist tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Auckland and Austin and 36 more. Often billed alongside Lino Fuso, Space 92 and DALJAE. Next up: block., Dublin on Fri 11 Sept.
 
@@ -33,4 +33,4 @@ Marie Vaunt is a techno and acid artist tracked on soundcheck, with 76 sets logg
 
 Lino Fuso, Space 92, DALJAE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*

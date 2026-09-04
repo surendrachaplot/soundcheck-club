@@ -1,6 +1,6 @@
 # Eleusinia Mysteria
 
-Eleusinia Mysteria is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Eleusinia Mysteria is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Eleusinia Mysteria is an electronic artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Athens. Often billed alongside Salvi k, .Fro. and 118119. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -12,7 +12,6 @@ Eleusinia Mysteria is an electronic artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- B side Athens, Athens — Thu, 3 Sept 2026
 - Astron Club, Athens — Fri, 31 Jul 2026
 - Astron Club, Athens — Thu, 12 Feb 2026
 - B side Athens, Athens — Sun, 4 May 2025
@@ -23,4 +22,4 @@ Eleusinia Mysteria is an electronic artist based in United Kingdom, tracked on s
 
 Salvi k, .Fro., 118119
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleusiniamysteria/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleusiniamysteria/)*

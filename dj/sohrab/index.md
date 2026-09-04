@@ -1,6 +1,6 @@
 # Sohrab
 
-Sohrab is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 4 Sept 2026.
+Sohrab is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at THE MAGICK BAR, Rome on Fri, 4 Sept 2026.
 
 Sohrab is an electronic artist based in Iran, tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and Milan and 1 more. Often billed alongside Brasi, GNMR and Lena Brumby. Next up: THE MAGICK BAR, Rome on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Sohrab is an electronic artist based in Iran, tracked on soundcheck, with 12 set
 
 Brasi, GNMR, Lena Brumby
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sohrab/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sohrab/)*

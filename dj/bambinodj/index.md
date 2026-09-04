@@ -1,6 +1,6 @@
 # bambinodj
 
-bambinodj is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Marmorbar, Berlin on Fri, 4 Sept 2026.
+bambinodj is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Marmorbar, Berlin on Fri, 4 Sept 2026.
 
 bambinodj is an electronica and experimental artist based in Germany, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, London and Newyorkcity and 2 more. Often billed alongside DJ KILLING, DJ Python and Hekt. Next up: Marmorbar, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ bambinodj is an electronica and experimental artist based in Germany, tracked on
 
 DJ KILLING, DJ Python, Hekt
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambinodj/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambinodj/)*

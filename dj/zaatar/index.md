@@ -1,6 +1,6 @@
 # Zaatar
 
-Zaatar is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
+Zaatar is a EBM and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
 
 Zaatar is an ebm and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Jen Cardini, Arabian Panther and Pablo Bozzi. Next up: KHIDI, Tbilisi on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Zaatar is an ebm and techno artist tracked on soundcheck, with 68 sets logged ac
 
 Jen Cardini, Arabian Panther, Pablo Bozzi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaatar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaatar/)*

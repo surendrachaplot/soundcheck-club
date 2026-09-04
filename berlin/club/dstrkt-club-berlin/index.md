@@ -1,6 +1,6 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "HIVE FREE RAVE" on Fri, 4 Sept 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "HIVE FREE RAVE" on Fri, 4 Sept 2026.
 
 DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Bollmann, Cobb Douglas, DJ KAIDO and GRMR and 2 more. Browse upcoming dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
@@ -16,4 +16,4 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming n
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

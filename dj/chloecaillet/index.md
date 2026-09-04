@@ -1,8 +1,8 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
+Chloé Caillet is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
 
-Chloé Caillet is a house and techno artist tracked on soundcheck, with 237 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: DC-10, Ibiza on Mon 7 Sept.
+Chloé Caillet is a house and techno artist tracked on soundcheck, with 236 sets logged across Amsterdam, Athens, Barcelona and Belfast and 48 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: DC-10, Ibiza on Mon 7 Sept.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 237 sets
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Fri, 25 Sept 2026 | Knockdown Center | New York City |
 | Sat, 26 Sept 2026 | Public Works | San Francisco/Oakland |
-| Fri, 2 Oct 2026 | Fvtvr | Paris |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 10 Oct 2026 | Fabrik | Madrid |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 6 Nov 2026 | Deseo BS AS | Buenos Aires |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Chloé Caillet is a house and techno artist tracked on soundcheck, with 237 sets
 
 Seth Troxler, DJ Tennis, Mochakk
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

@@ -1,6 +1,6 @@
 # Dude Skywalker
 
-Dude Skywalker is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Lion's Den, Miami on Sat, 5 Sept 2026.
+Dude Skywalker is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lion's Den, Miami on Sat, 5 Sept 2026.
 
 Dude Skywalker is a house and deep house artist tracked on soundcheck, with 39 sets logged across Miami and Newyorkcity. Often billed alongside Nii Tei, Kike Roldan and Alex Cecil. Next up: Lion's Den, Miami on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Dude Skywalker is a house and deep house artist tracked on soundcheck, with 39 s
 
 Nii Tei, Kike Roldan, Alex Cecil
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dudeskywalker-us/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dudeskywalker-us/)*

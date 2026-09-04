@@ -1,6 +1,6 @@
 # Cara Carpaccio
 
-Cara Carpaccio is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 5 Sept 2026.
+Cara Carpaccio is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 5 Sept 2026.
 
 Cara Carpaccio is a disco and house artist tracked on soundcheck, with 43 sets logged across Berlin and Hamburg. Often billed alongside Shimanski, Apolonia and Marabou. Next up: Jonny Knüppel, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Cara Carpaccio is a disco and house artist tracked on soundcheck, with 43 sets l
 
 Shimanski, Apolonia, Marabou
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caracarpaccio/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caracarpaccio/)*

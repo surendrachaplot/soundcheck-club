@@ -1,6 +1,6 @@
 # Andrew Azara
 
-Andrew Azara is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 6 Sept 2026.
+Andrew Azara is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 6 Sept 2026.
 
 Andrew Azara is a house and minimal artist tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 8 more. Often billed alongside Nick Curly, Max Haas and Kid Moss. Next up: Sunseabar Beach Club, Barcelona on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Andrew Azara is a house and minimal artist tracked on soundcheck, with 38 sets l
 
 Nick Curly, Max Haas, Kid Moss
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewazara/)*

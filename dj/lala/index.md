@@ -1,6 +1,6 @@
 # La La
 
-La La is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Lofi, Amsterdam on Fri, 9 Oct 2026.
+La La is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lofi, Amsterdam on Fri, 9 Oct 2026.
 
 La La is a house and techno artist tracked on soundcheck, with 143 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Ben Hemsley and Ewan McVicar. Next up: Lofi, Amsterdam on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ La La is a house and techno artist tracked on soundcheck, with 143 sets logged a
 
 AIRKEY, Ben Hemsley, Ewan McVicar
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*

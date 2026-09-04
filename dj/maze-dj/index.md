@@ -1,6 +1,6 @@
 # Maze DJ
 
-Maze DJ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+Maze DJ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
 
 Maze DJ is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Hamburg and Lisbon and 4 more. Often billed alongside 131bpm, Marie Malarie and Michelle Manetti. Next up: KREUZWERK, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Maze DJ is a house and techno artist based in United Kingdom, tracked on soundch
 
 131bpm, Marie Malarie, Michelle Manetti
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-dj/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maze-dj/)*

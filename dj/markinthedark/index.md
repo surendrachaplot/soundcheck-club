@@ -1,6 +1,6 @@
 # markintheDark
 
-markintheDark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Flash, Washington DC on Sat, 5 Sept 2026.
+markintheDark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Flash, Washington DC on Sat, 5 Sept 2026.
 
 markintheDark is a house and deep house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Washingtondc. Often billed alongside KayLaSoul, MAXIMILIANO (US) and Keenan Orr. Next up: Flash, Washingtondc on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ markintheDark is a house and deep house artist based in United States of America
 
 KayLaSoul, MAXIMILIANO (US), Keenan Orr
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markinthedark/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markinthedark/)*

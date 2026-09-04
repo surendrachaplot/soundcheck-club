@@ -1,6 +1,6 @@
 # Peppe Citarella
 
-Peppe Citarella is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 27 Sept 2026.
+Peppe Citarella is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 27 Sept 2026.
 
 Peppe Citarella is an afro house and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Amsterdam, Ibiza, Malaga and Mallorca and 3 more. Often billed alongside AARON SEVILLA, Marten Lou and Pablo Fierro. Next up: Hï Ibiza, Ibiza on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Peppe Citarella is an afro house and house artist based in Italy, tracked on sou
 
 AARON SEVILLA, Marten Lou, Pablo Fierro
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peppecitarella/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peppecitarella/)*

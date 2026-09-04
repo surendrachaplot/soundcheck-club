@@ -1,6 +1,6 @@
 # Cosmodan
 
-Cosmodan is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Twist Bar, Prague on Fri, 18 Sept 2026.
+Cosmodan is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Twist Bar, Prague on Fri, 18 Sept 2026.
 
 Cosmodan is an electro and club artist tracked on soundcheck, with 31 sets logged across Belgrade, Prague and Strasbourg. Often billed alongside Leoht, Olga Zhaldak and Høll. Next up: Twist Bar, Prague on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Cosmodan is an electro and club artist tracked on soundcheck, with 31 sets logge
 
 Leoht, Olga Zhaldak, Høll
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmodan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmodan/)*

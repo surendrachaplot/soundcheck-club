@@ -1,6 +1,6 @@
 # illgal
 
-illgal is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+illgal is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
 illgal is a bass and breakbeat artist tracked on soundcheck, with 34 sets logged across Berlin, Tbilisi and Warsaw. Often billed alongside faron, iffi and Hermeneia. Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ illgal is a bass and breakbeat artist tracked on soundcheck, with 34 sets logged
 
 faron, iffi, Hermeneia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illgal/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illgal/)*

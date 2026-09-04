@@ -1,6 +1,6 @@
 # John Karam
 
-John Karam is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 18 Sept 2026.
+John Karam is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 18 Sept 2026.
 
 John Karam is a minimal and house artist based in Lebanon, tracked on soundcheck, with 28 sets logged across Barcelona. Often billed alongside Bttologic, Gera (3) and Daescu. Next up: Sunseabar Beach Club, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ John Karam is a minimal and house artist based in Lebanon, tracked on soundcheck
 
 Bttologic, Gera (3), Daescu
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkaram/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkaram/)*

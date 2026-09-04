@@ -1,6 +1,6 @@
 # Darley
 
-Darley is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 25 Sept 2026.
+Darley is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 25 Sept 2026.
 
 Darley is a house and disco artist tracked on soundcheck, with 22 sets logged across London. Often billed alongside Neidex, Dolce Verde and Nirvan. Next up: NUMBER 90 LONDON, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Darley is a house and disco artist tracked on soundcheck, with 22 sets logged ac
 
 Neidex, Dolce Verde, Nirvan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darley/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darley/)*

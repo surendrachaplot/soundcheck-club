@@ -1,6 +1,6 @@
 # Jump Source
 
-Jump Source is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Virage, Paris on Fri, 11 Sept 2026.
+Jump Source is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Virage, Paris on Fri, 11 Sept 2026.
 
 Jump Source is a techno and house artist based in Canada, tracked on soundcheck, with 25 sets logged across Barcelona, Berlin, Brussels and Chicago and 9 more. Often billed alongside Patrick Holland, Priori and Blood Orange. Next up: Virage, Paris on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ Jump Source is a techno and house artist based in Canada, tracked on soundcheck,
 
 Patrick Holland, Priori, Blood Orange
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*

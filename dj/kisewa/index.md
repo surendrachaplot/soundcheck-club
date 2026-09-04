@@ -1,6 +1,6 @@
 # KISEWA
 
-KISEWA is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Soap Seoul., Seoul on Fri, 4 Sept 2026.
+KISEWA is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Soap Seoul., Seoul on Fri, 4 Sept 2026.
 
 KISEWA is a club and bass artist tracked on soundcheck, with 106 sets logged across Bali, Seoul and Tokyo. Often billed alongside NET GALA, T.T.E and dayoung. Next up: Soap Seoul., Seoul on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ KISEWA is a club and bass artist tracked on soundcheck, with 106 sets logged acr
 
 NET GALA, T.T.E, dayoung
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kisewa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kisewa/)*

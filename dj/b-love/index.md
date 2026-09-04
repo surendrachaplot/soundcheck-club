@@ -1,6 +1,6 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bricks, London on Sat, 5 Sept 2026.
+B.Love is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bricks, London on Sat, 5 Sept 2026.
 
 B.Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 13 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: Bricks, London on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

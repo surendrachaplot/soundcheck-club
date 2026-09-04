@@ -1,6 +1,6 @@
 # Otra Historia Club Cultural
 
-Otra Historia Club Cultural is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Knossos Rave: REBEKAOS - SNADIN - osado - AMY LOUGE" on Fri, 11 Sept 2026.
+Otra Historia Club Cultural is a music venue in Buenos Aires with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Knossos Rave: REBEKAOS - SNADIN - osado - AMY LOUGE" on Fri, 11 Sept 2026.
 
 Otra Historia Club Cultural is a music venue in Buenosaires listed on soundcheck. 2 upcoming nights, with line-ups including Franz Scala and osado. Browse upcoming dates, start times and who's playing. Estomba 851, C1427COS Buenos Aires.
 
@@ -15,4 +15,4 @@ Otra Historia Club Cultural is a music venue in Buenosaires listed on soundcheck
 
 Estomba 851, C1427COS Buenos Aires, Buenos Aires
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/otra-historia-club-cultural/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/otra-historia-club-cultural/)*

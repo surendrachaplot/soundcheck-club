@@ -1,6 +1,6 @@
 # Edifício Martinelli
 
-Edifício Martinelli is a music venue in Sao Paulo with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Heels of Love showcase at Martinelli" on Sun, 6 Sept 2026.
+Edifício Martinelli is a music venue in Sao Paulo with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Heels of Love showcase at Martinelli" on Sun, 6 Sept 2026.
 
 Edifício Martinelli is a music venue in Saopaulo listed on soundcheck. 3 upcoming nights, with line-ups including Eli Iwasa, Fafi Abdel Nour, From House to Disco and Gabi Fischer and 2 more. Browse upcoming dates, start times and who's playing. R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100.
 
@@ -16,4 +16,4 @@ Edifício Martinelli is a music venue in Saopaulo listed on soundcheck. 3 upcomi
 
 R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100, Sao Paulo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*

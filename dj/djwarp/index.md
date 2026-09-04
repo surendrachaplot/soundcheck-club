@@ -1,6 +1,6 @@
 # DJ Warp
 
-DJ Warp is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at DeTour, Tokyo on Fri, 4 Sept 2026.
+DJ Warp is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DeTour, Tokyo on Fri, 4 Sept 2026.
 
 DJ Warp is an acid and techno artist tracked on soundcheck, with 21 sets logged across Birmingham, Chicago, Detroit and Glasgow and 5 more. Often billed alongside Luke Vibert, Posthuman and Striz. Next up: DeTour, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Warp is an acid and techno artist tracked on soundcheck, with 21 sets logged 
 
 Luke Vibert, Posthuman, Striz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarp/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarp/)*

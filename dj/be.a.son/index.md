@@ -1,6 +1,6 @@
 # Be.a.son
 
-Be.a.son is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kashmir Lounge, Amsterdam on Thu, 10 Sept 2026.
+Be.a.son is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kashmir Lounge, Amsterdam on Thu, 10 Sept 2026.
 
 Be.a.son is a minimal and house artist based in Italy, tracked on soundcheck, with 8 sets logged across Amsterdam and Utrecht. Often billed alongside Nicola Piva, AnnaM (NL) and Mission Architect. Next up: Kashmir Lounge, Amsterdam on Thu 10 Sept.
 
@@ -24,4 +24,4 @@ Be.a.son is a minimal and house artist based in Italy, tracked on soundcheck, wi
 
 Nicola Piva, AnnaM (NL), Mission Architect
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/be.a.son/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/be.a.son/)*

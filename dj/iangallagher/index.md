@@ -1,6 +1,6 @@
 # Ian Gallagher
 
-Ian Gallagher is a Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Ian Gallagher is a Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
 Ian Gallagher is an experimental artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Glasgow and London. Often billed alongside An-Ting, Lucian Fletcher and Alex Smoke. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
@@ -21,4 +21,4 @@ Ian Gallagher is an experimental artist based in United Kingdom, tracked on soun
 
 An-Ting, Lucian Fletcher, Alex Smoke
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iangallagher/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iangallagher/)*

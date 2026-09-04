@@ -1,14 +1,13 @@
 # GRUE5OME
 
-GRUE5OME is a Ghetto Tech and Neo Perreo artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Las Rosas, Miami on Sun, 6 Sept 2026.
+GRUE5OME is a Ghetto Tech and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Churchill's Pub, Miami on Fri, 18 Sept 2026.
 
-GRUE5OME is a ghetto tech and neo perreo artist tracked on soundcheck, with 17 sets logged across Miami. Often billed alongside Racci, Lady Narcisse and Gabo Escalona. Next up: Las Rosas, Miami on Sun 6 Sept.
+GRUE5OME is a ghetto tech and neo perreo artist tracked on soundcheck, with 16 sets logged across Miami. Often billed alongside Racci, Lady Narcisse and Gabo Escalona. Next up: Churchill's Pub, Miami on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Las Rosas | Miami |
 | Fri, 18 Sept 2026 | Churchill's Pub | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
@@ -27,4 +26,4 @@ GRUE5OME is a ghetto tech and neo perreo artist tracked on soundcheck, with 17 s
 
 Racci, Lady Narcisse, Gabo Escalona
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grue5ome/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grue5ome/)*

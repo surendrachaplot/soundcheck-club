@@ -1,6 +1,6 @@
 # Tommy Pickles
 
-Tommy Pickles is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Cellar, London on Sun, 13 Sept 2026.
+Tommy Pickles is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Cellar, London on Sun, 13 Sept 2026.
 
 Tommy Pickles is a house and techno artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Desyn, Tom Morgan and Alex Picone. Next up: Cellar, London on Sun 13 Sept.
 
@@ -27,4 +27,4 @@ Tommy Pickles is a house and techno artist tracked on soundcheck, with 98 sets l
 
 Desyn, Tom Morgan, Alex Picone
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommypickles/)*

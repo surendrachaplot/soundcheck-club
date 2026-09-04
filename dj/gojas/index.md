@@ -1,6 +1,6 @@
 # Gojas
 
-Gojas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Weekend, Berlin on Fri, 4 Sept 2026.
+Gojas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Weekend, Berlin on Fri, 4 Sept 2026.
 
 Gojas is a house and techno artist tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Cronoselect, Emo Rugene and Flaaviø. Next up: Weekend, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Gojas is a house and techno artist tracked on soundcheck, with 18 sets logged ac
 
 Cronoselect, Emo Rugene, Flaaviø
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gojas/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gojas/)*

@@ -1,6 +1,6 @@
 # zeroday
 
-zeroday is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at B-SIDE, Warsaw on Fri, 11 Sept 2026.
+zeroday is a Minimal and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at B-SIDE, Warsaw on Fri, 11 Sept 2026.
 
 zeroday is a minimal and techno artist tracked on soundcheck, with 45 sets logged across Berlin, Krakow and Warsaw. Often billed alongside Slowmode, JESS.mp5 and Salat. Next up: B-SIDE, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ zeroday is a minimal and techno artist tracked on soundcheck, with 45 sets logge
 
 Slowmode, JESS.mp5, Salat
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*

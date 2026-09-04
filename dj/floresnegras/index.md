@@ -1,6 +1,6 @@
 # Flores Negras
 
-Flores Negras is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Flores Negras is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Flores Negras is a techno and acid artist based in United States of America, tracked on soundcheck, with 109 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 3 more. Often billed alongside Miss Twink USA, Elock and Loqum. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Flores Negras is a techno and acid artist based in United States of America, tra
 
 Miss Twink USA, Elock, Loqum
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floresnegras/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/floresnegras/)*

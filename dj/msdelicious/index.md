@@ -1,6 +1,6 @@
 # MSDELICIOUS
 
-MSDELICIOUS is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Toronto on Fri, 18 Sept 2026.
+MSDELICIOUS is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Toronto on Fri, 18 Sept 2026.
 
 MSDELICIOUS is a bass and club artist based in Canada, tracked on soundcheck, with 10 sets logged across Toronto. Often billed alongside orkid, Sulk Hogan (2) and Disthene. Next up: TBA, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ MSDELICIOUS is a bass and club artist based in Canada, tracked on soundcheck, wi
 
 orkid, Sulk Hogan (2), Disthene
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msdelicious/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msdelicious/)*

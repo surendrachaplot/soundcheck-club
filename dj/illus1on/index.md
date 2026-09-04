@@ -1,6 +1,6 @@
 # illus1on
 
-illus1on is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar A Bar, London on Sat, 3 Oct 2026.
+illus1on is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar A Bar, London on Sat, 3 Oct 2026.
 
 illus1on is a techno and minimal techno artist based in Slovakia, tracked on soundcheck, with 5 sets logged across London. Often billed alongside ANTIPODES, Arthur Keen and Biji. Next up: Bar A Bar, London on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ illus1on is a techno and minimal techno artist based in Slovakia, tracked on sou
 
 ANTIPODES, Arthur Keen, Biji
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illus1on/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illus1on/)*

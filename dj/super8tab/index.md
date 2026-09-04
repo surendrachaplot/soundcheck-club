@@ -1,6 +1,6 @@
 # Super8 & Tab
 
-Super8 & Tab is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Grand Central Hall, Liverpool on Sat, 7 Nov 2026.
+Super8 & Tab is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Grand Central Hall, Liverpool on Sat, 7 Nov 2026.
 
 Super8 & Tab are a progressive house and techno duo tracked on soundcheck, with 11 sets logged across Auckland, Birmingham, Glasgow and Liverpool and 6 more. Often billed alongside Amy Wiles, Leena Punks and Mat Zo. Next up: Grand Central Hall, Liverpool on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Super8 & Tab are a progressive house and techno duo tracked on soundcheck, with 
 
 Amy Wiles, Leena Punks, Mat Zo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*

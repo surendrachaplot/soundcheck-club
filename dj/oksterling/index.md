@@ -1,6 +1,6 @@
 # OK Sterling
 
-OK Sterling is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Los Angeles on Fri, 18 Sept 2026.
+OK Sterling is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Los Angeles on Fri, 18 Sept 2026.
 
 OK Sterling is a tech house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles. Often billed alongside Lavenge, Max Rush and yNOTi. Next up: TBA, Losangeles on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ OK Sterling is a tech house and techno artist based in United States of America,
 
 Lavenge, Max Rush, yNOTi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oksterling/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oksterling/)*

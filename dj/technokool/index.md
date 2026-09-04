@@ -1,6 +1,6 @@
 # Technokool
 
-Technokool is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at M-BIA, Berlin on Fri, 4 Sept 2026.
+Technokool is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at M-BIA, Berlin on Fri, 4 Sept 2026.
 
 Technokool is a techno and trance artist tracked on soundcheck, with 129 sets logged across Belgrade, Berlin, Brussels and Budapest and 12 more. Often billed alongside Akác, Kamafaka and CRIME. Next up: M-BIA, Berlin on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Technokool is a techno and trance artist tracked on soundcheck, with 129 sets lo
 
 Akác, Kamafaka, CRIME
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technokool/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technokool/)*

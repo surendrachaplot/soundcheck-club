@@ -1,6 +1,6 @@
 # Yellow Arch Studios
 
-Yellow Arch Studios is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "flock presents: Make A Dance and Grace Sands" on Fri, 2 Oct 2026.
+Yellow Arch Studios is a music venue in Sheffield with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "flock presents: Make A Dance and Grace Sands" on Fri, 2 Oct 2026.
 
 Yellow Arch Studios is a music venue in Sheffield listed on soundcheck. 1 upcoming night, with line-ups including Grace Sands, Make A Dance and Steely. Browse upcoming dates, start times and who's playing. 30-36 Burton Rd, Sheffield, South Yorkshire, S3 8BX.
 
@@ -14,4 +14,4 @@ Yellow Arch Studios is a music venue in Sheffield listed on soundcheck. 1 upcomi
 
 30-36 Burton Rd, Sheffield, South Yorkshire, S3 8BX, Sheffield
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/yellow-arch-studios/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/yellow-arch-studios/)*

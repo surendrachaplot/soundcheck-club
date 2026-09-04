@@ -1,6 +1,6 @@
 # Marlon Baleci
 
-Marlon Baleci is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
+Marlon Baleci is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
 
 Marlon Baleci is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London and Manchester. Often billed alongside Layson, Nick Clev and Sam Beach. Next up: fabric, London on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Marlon Baleci is a house and techno artist based in United Kingdom, tracked on s
 
 Layson, Nick Clev, Sam Beach
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonbaleci/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonbaleci/)*

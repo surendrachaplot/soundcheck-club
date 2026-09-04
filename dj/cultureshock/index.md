@@ -1,6 +1,6 @@
 # Culture Shock
 
-Culture Shock is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Culture Shock is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Culture Shock is a drum & bass and bass artist tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Sub Focus, Dimension and 1991. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -17,7 +17,6 @@ Culture Shock is a drum & bass and bass artist tracked on soundcheck, with 75 se
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 3 Sept 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Antwerp Expo, Antwerp — Sat, 22 Aug 2026
 - BERHTA, Washington DC — Fri, 14 Aug 2026
@@ -25,9 +24,10 @@ Culture Shock is a drum & bass and bass artist tracked on soundcheck, with 75 se
 - Finsbury Park, London — Sun, 2 Aug 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
 - Viertel, Basel — Fri, 1 May 2026
+- Óbuda Bay, Budapest — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Sub Focus, Dimension, 1991
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cultureshock/)*

@@ -1,6 +1,6 @@
 # Yasmin Gardezi
 
-Yasmin Gardezi is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
+Yasmin Gardezi is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
 Yasmin Gardezi is a techno and trance artist tracked on soundcheck, with 99 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 31 more. Often billed alongside blk., franck and Charlie Sparks. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Yasmin Gardezi is a techno and trance artist tracked on soundcheck, with 99 sets
 
 blk., franck, Charlie Sparks
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmingardezi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmingardezi/)*

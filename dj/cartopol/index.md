@@ -1,6 +1,6 @@
 # Cartopol
 
-Cartopol is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA -  LIMITED CAPACITY, Amsterdam on Fri, 18 Sept 2026.
+Cartopol is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA -  LIMITED CAPACITY, Amsterdam on Fri, 18 Sept 2026.
 
 Cartopol is an experimental and ambient artist tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside Emilio Arias, Marijn S and Bernhard Hollinger. Next up: TBA -  LIMITED CAPACITY, Amsterdam on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Cartopol is an experimental and ambient artist tracked on soundcheck, with 7 set
 
 Emilio Arias, Marijn S, Bernhard Hollinger
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cartopol/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cartopol/)*

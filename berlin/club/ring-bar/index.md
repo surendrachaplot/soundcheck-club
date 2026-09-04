@@ -1,6 +1,6 @@
 # Ring Bar
 
-Ring Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Night NRG in Ring Bar (Hi NRG, Synth Pop, NU Disco 100% on vinyl)" on Fri, 18 Sept 2026.
+Ring Bar is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Night NRG in Ring Bar (Hi NRG, Synth Pop, NU Disco 100% on vinyl)" on Fri, 18 Sept 2026.
 
 Ring Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Lancer (2). Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ring Bar is a music venue in Berlin listed on soundcheck. 1 upcoming night, with
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Night NRG in Ring Bar (Hi NRG, Synth Pop, NU Disco 100% on vinyl) | Lancer (2) |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ring-bar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ring-bar/)*

@@ -1,6 +1,6 @@
 # Thilpek
 
-Thilpek is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Buenos Aires on Fri, 18 Sept 2026.
+Thilpek is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Buenos Aires on Fri, 18 Sept 2026.
 
 Thilpek is a techno and electro artist tracked on soundcheck, with 10 sets logged across Buenosaires. Often billed alongside Bruno Ledesma, DJ Mommy and Gonzalo Trejo. Next up: TBA, Buenosaires on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Thilpek is a techno and electro artist tracked on soundcheck, with 10 sets logge
 
 Bruno Ledesma, DJ Mommy, Gonzalo Trejo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thilpek/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thilpek/)*

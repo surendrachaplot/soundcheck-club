@@ -1,6 +1,6 @@
 # Department 184
 
-Department 184 is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Dub Musik showcase" on Sat, 19 Sept 2026.
+Department 184 is a music venue in Milan with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Dub Musik showcase" on Sat, 19 Sept 2026.
 
 Department 184 is a music venue in Milan listed on soundcheck. 5 upcoming nights, with line-ups including Andrei Ciubuc, Dusk Poem, Enygma and Lady Goccia and 2 more. Browse upcoming dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
 
@@ -18,4 +18,4 @@ Department 184 is a music venue in Milan listed on soundcheck. 5 upcoming nights
 
 Via Varesina, 184, 20156 Milano MI, Milan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*

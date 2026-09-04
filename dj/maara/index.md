@@ -1,6 +1,6 @@
 # Maara
 
-Maara is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 4 Sept 2026.
+Maara is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 4 Sept 2026.
 
 Maara is a techno and house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Den Anden Side, Copenhagen on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Maara is a techno and house artist tracked on soundcheck, with 155 sets logged a
 
 Angel D'lite, Roza Terenzi, D. Tiffany
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*

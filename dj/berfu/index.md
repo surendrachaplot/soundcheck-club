@@ -1,6 +1,6 @@
 # Berfu
 
-Berfu is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Crack Bellmer, Berlin on Sat, 19 Sept 2026.
+Berfu is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Crack Bellmer, Berlin on Sat, 19 Sept 2026.
 
 Berfu is a techno and acid artist tracked on soundcheck, with 40 sets logged across Berlin, Ghent, Glasgow and Lisbon and 3 more. Often billed alongside Chili con Sosa, Orbi and REEZN. Next up: Crack Bellmer, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Berfu is a techno and acid artist tracked on soundcheck, with 40 sets logged acr
 
 Chili con Sosa, Orbi, REEZN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berfu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berfu/)*

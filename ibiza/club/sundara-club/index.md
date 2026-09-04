@@ -1,6 +1,6 @@
 # Sundara Club
 
-Sundara Club is a music venue in Ibiza with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE" on Sat, 5 Sept 2026.
+Sundara Club is a music venue in Ibiza with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Techno Agency x O.S.M.W.S.T.A x T6E RESILIENCE" on Sat, 5 Sept 2026.
 
 Sundara Club is a music venue in Ibiza listed on soundcheck. 3 upcoming nights, with line-ups including Lucien Foort, Nekro, Philip Ackowsky and ROOG. Browse upcoming dates, start times and who's playing. Carrer Badajoz, 10, 07829 Sant Josep de sa Talaia, Ibiza San Antonio bay.
 
@@ -16,4 +16,4 @@ Sundara Club is a music venue in Ibiza listed on soundcheck. 3 upcoming nights, 
 
 Carrer Badajoz, 10, 07829 Sant Josep de sa Talaia, Ibiza San Antonio bay, Ibiza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sundara-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/sundara-club/)*

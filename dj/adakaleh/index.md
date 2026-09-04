@@ -1,6 +1,6 @@
 # Ada Kaleh
 
-Ada Kaleh is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Bucharest on Fri, 2 Oct 2026.
+Ada Kaleh is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Bucharest on Fri, 2 Oct 2026.
 
 Ada Kaleh is a techno and electronica artist based in Romania, tracked on soundcheck, with 39 sets logged across Berlin, Bucharest, Copenhagen and Hamburg and 1 more. Often billed alongside Supersanity, Thomas Rob and Michael Ius. Next up: TBA, Bucharest on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Ada Kaleh is a techno and electronica artist based in Romania, tracked on soundc
 
 Supersanity, Thomas Rob, Michael Ius
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adakaleh/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adakaleh/)*

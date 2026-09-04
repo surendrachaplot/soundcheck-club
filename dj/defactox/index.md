@@ -1,6 +1,6 @@
 # DeFacto X
 
-DeFacto X is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Los Angeles on Sat, 5 Sept 2026.
+DeFacto X is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Los Angeles on Sat, 5 Sept 2026.
 
 DeFacto X is a club and house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Austin and Losangeles. Often billed alongside Alxander Ivey, NEPTUNEWAVEY and Cquestt. Next up: TBA, Losangeles on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DeFacto X is a club and house artist based in United States of America, tracked 
 
 Alxander Ivey, NEPTUNEWAVEY, Cquestt
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/defactox/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/defactox/)*

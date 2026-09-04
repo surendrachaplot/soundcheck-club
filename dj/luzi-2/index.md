@@ -1,6 +1,6 @@
 # LUZI (2)
 
-LUZI (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at elipamanoke, Leipzig on Fri, 11 Sept 2026.
+LUZI (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at elipamanoke, Leipzig on Fri, 11 Sept 2026.
 
 LUZI (2) is a techno and trance artist tracked on soundcheck, with 20 sets logged across Leipzig. Often billed alongside DJ STIMULA, R-SOHR and Siggi Petrol. Next up: elipamanoke, Leipzig on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ LUZI (2) is a techno and trance artist tracked on soundcheck, with 20 sets logge
 
 DJ STIMULA, R-SOHR, Siggi Petrol
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luzi-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luzi-2/)*

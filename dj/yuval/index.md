@@ -1,6 +1,6 @@
 # Yuval
 
-Yuval is a Afrobeat and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paloma, Berlin on Fri, 2 Oct 2026.
+Yuval is a Afrobeat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paloma, Berlin on Fri, 2 Oct 2026.
 
 Yuval is an afrobeat and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Bangkok and Berlin. Often billed alongside Paulita, AMON (1) and Angel Karel. Next up: Paloma, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Yuval is an afrobeat and house artist based in Germany, tracked on soundcheck, w
 
 Paulita, AMON (1), Angel Karel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuval/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuval/)*

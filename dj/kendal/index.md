@@ -1,6 +1,6 @@
 # Kendal
 
-Kendal is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Petit CAB, Marseille on Sat, 14 Nov 2026.
+Kendal is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Petit CAB, Marseille on Sat, 14 Nov 2026.
 
 Kendal is an italo disco and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Belaria and Miguel De Bois. Next up: Petit CAB, Marseille on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kendal is an italo disco and techno artist tracked on soundcheck, with 103 sets 
 
 Andi, Belaria, Miguel De Bois
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kendal/)*

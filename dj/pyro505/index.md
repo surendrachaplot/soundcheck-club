@@ -1,6 +1,6 @@
 # Pyro505
 
-Pyro505 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Toronto on Fri, 18 Sept 2026.
+Pyro505 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Toronto on Fri, 18 Sept 2026.
 
 Pyro505 is a house and techno artist tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside Marasii, Chumbo and DJ Googie. Next up: TBA, Toronto on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Pyro505 is a house and techno artist tracked on soundcheck, with 7 sets logged a
 
 Marasii, Chumbo, DJ Googie
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pyro505/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pyro505/)*

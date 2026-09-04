@@ -1,6 +1,6 @@
 # San Farafina
 
-San Farafina is a Afro House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar Datcha, Montreal on Sat, 12 Sept 2026.
+San Farafina is a Afro House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar Datcha, Montreal on Sat, 12 Sept 2026.
 
 San Farafina is an afro house and club artist based in Canada, tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Pierre Kwenders, Moonshine and NegoO. Next up: Bar Datcha, Montreal on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ San Farafina is an afro house and club artist based in Canada, tracked on soundc
 
 Pierre Kwenders, Moonshine, NegoO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanfarafina/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanfarafina/)*

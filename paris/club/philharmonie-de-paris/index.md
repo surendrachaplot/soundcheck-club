@@ -1,6 +1,6 @@
 # Philharmonie de Paris
 
-Philharmonie de Paris is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Philippe Katerine symphonique" on Sat, 19 Sept 2026.
+Philharmonie de Paris is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Philippe Katerine symphonique" on Sat, 19 Sept 2026.
 
 Philharmonie de Paris is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including upsammy and Valentina Magaletti. Browse upcoming dates, start times and who's playing. 221 avenue Jean Jaurès; 75019; Paris; France.
 
@@ -15,4 +15,4 @@ Philharmonie de Paris is a music venue in Paris listed on soundcheck. 2 upcoming
 
 221 avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/philharmonie-de-paris/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/philharmonie-de-paris/)*

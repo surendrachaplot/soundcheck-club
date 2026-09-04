@@ -1,6 +1,6 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Yard Vienna, Vienna on Sat, 12 Sept 2026.
+SLVL is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Yard Vienna, Vienna on Sat, 12 Sept 2026.
 
 SLVL is a techno and industrial artist tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside KLOFAMA, KARAH and KRUELTY. Next up: The Yard Vienna, Vienna on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ SLVL is a techno and industrial artist tracked on soundcheck, with 81 sets logge
 
 KLOFAMA, KARAH, KRUELTY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*

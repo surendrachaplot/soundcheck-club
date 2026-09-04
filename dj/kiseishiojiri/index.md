@@ -1,6 +1,6 @@
 # Kisei Shiojiri
 
-Kisei Shiojiri is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Koara, Tokyo on Sat, 12 Sept 2026.
+Kisei Shiojiri is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Koara, Tokyo on Sat, 12 Sept 2026.
 
 Kisei Shiojiri is a house and balearic artist tracked on soundcheck, with 13 sets logged across Tokyo. Often billed alongside DAIY, Alex Albrecht and Aymjet. Next up: Koara, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kisei Shiojiri is a house and balearic artist tracked on soundcheck, with 13 set
 
 DAIY, Alex Albrecht, Aymjet
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiseishiojiri/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiseishiojiri/)*

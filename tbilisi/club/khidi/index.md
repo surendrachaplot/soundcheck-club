@@ -1,6 +1,6 @@
 # KHIDI
 
-KHIDI is a music venue in Tbilisi with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "G2: Jorjick, Karina Saakyan, Pierce" on Fri, 4 Sept 2026.
+KHIDI is a music venue in Tbilisi with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "G2: Jorjick, Karina Saakyan, Pierce" on Fri, 4 Sept 2026.
 
 KHIDI is a music venue in Tbilisi listed on soundcheck. 4 upcoming nights, with line-ups including Boudi, Boyd Schidt, Cillian and Downwell and 2 more. Browse upcoming dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
 
@@ -17,4 +17,4 @@ KHIDI is a music venue in Tbilisi listed on soundcheck. 4 upcoming nights, with 
 
 Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi, Tbilisi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/khidi/)*

@@ -1,14 +1,13 @@
 # Dimitri Cooman
 
-Dimitri Cooman is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Noce KRK, Krakow on Sat, 26 Sept 2026.
+Dimitri Cooman is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Noce KRK, Krakow on Tue, 10 Nov 2026.
 
-Dimitri Cooman is a techno and club artist tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Michael Forzza, DJ Ghost and RAJZ. Next up: Noce KRK, Krakow on Sat 26 Sept.
+Dimitri Cooman is a techno and trance artist tracked on soundcheck, with 13 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Michael Forzza, DJ Ghost and Cierk du Nuit. Next up: Noce KRK, Krakow on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 26 Sept 2026 | Noce KRK | Krakow |
 | Tue, 10 Nov 2026 | Noce KRK | Krakow |
 
 ## Recently played
@@ -24,6 +23,6 @@ Dimitri Cooman is a techno and club artist tracked on soundcheck, with 14 sets l
 
 ## Shares bills with
 
-Michael Forzza, DJ Ghost, RAJZ
+Michael Forzza, DJ Ghost, Cierk du Nuit
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitricooman/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitricooman/)*

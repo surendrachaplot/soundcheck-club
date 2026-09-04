@@ -1,6 +1,6 @@
 # Tryangle Man
 
-Tryangle Man is a Progressive House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at La Java, Paris on Sat, 19 Sept 2026.
+Tryangle Man is a Progressive House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at La Java, Paris on Sat, 19 Sept 2026.
 
 Tryangle Man is a progressive house and funk / soul artist tracked on soundcheck, with 9 sets logged across Berlin, Liverpool, London and Paris. Next up: La Java, Paris on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Tryangle Man is a progressive house and funk / soul artist tracked on soundcheck
 - Notting Hill Arts Club, London — Sat, 18 May 2024
 - The Bush Theatre, London — Fri, 13 Oct 2023
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tryangleman/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tryangleman/)*

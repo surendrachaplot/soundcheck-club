@@ -1,6 +1,6 @@
 # manato
 
-manato is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at VENT, Tokyo on Sat, 12 Sept 2026.
+manato is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at VENT, Tokyo on Sat, 12 Sept 2026.
 
 manato is a techno and bass artist tracked on soundcheck, with 58 sets logged across Seoul and Tokyo. Often billed alongside Usk°, XINOVI and KOSHIRO. Next up: VENT, Tokyo on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ manato is a techno and bass artist tracked on soundcheck, with 58 sets logged ac
 
 Usk°, XINOVI, KOSHIRO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manato/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manato/)*

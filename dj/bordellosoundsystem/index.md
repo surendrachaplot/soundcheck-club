@@ -1,6 +1,6 @@
 # Bordello Soundsystem
 
-Bordello Soundsystem is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OXI, Berlin on Sat, 19 Sept 2026.
+Bordello Soundsystem is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OXI, Berlin on Sat, 19 Sept 2026.
 
 Bordello Soundsystem is an italo disco and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 14 more. Often billed alongside David Vunk, Richelle Soigni and Aroy Dee. Next up: OXI, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Bordello Soundsystem is an italo disco and house artist tracked on soundcheck, w
 
 David Vunk, Richelle Soigni, Aroy Dee
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bordellosoundsystem/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bordellosoundsystem/)*

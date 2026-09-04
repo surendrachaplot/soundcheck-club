@@ -1,6 +1,6 @@
 # DJ Bisou
 
-DJ Bisou is a Dub and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Beursschouwburg, Brussels on Fri, 16 Oct 2026.
+DJ Bisou is a Dub and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Beursschouwburg, Brussels on Fri, 16 Oct 2026.
 
 DJ Bisou is a dub and jungle artist based in Belgium, tracked on soundcheck, with 16 sets logged across Brussels. Often billed alongside Toirabat, Stel-R and Marouchka. Next up: Beursschouwburg, Brussels on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DJ Bisou is a dub and jungle artist based in Belgium, tracked on soundcheck, wit
 
 Toirabat, Stel-R, Marouchka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbisou/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbisou/)*

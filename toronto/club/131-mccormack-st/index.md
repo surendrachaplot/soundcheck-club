@@ -1,6 +1,6 @@
 # 131 Mccormack St
 
-131 Mccormack St is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "TAKEOVER 6IX presents ONLYNUMBERS" on Sun, 6 Sept 2026.
+131 Mccormack St is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "TAKEOVER 6IX presents ONLYNUMBERS" on Sun, 6 Sept 2026.
 
 131 Mccormack St is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including AADJA, Ahadadream, Alley Kay and Bambii and 2 more. Browse upcoming dates, start times and who's playing. 131 McCormack St, York, ON M6N 1X8.
 
@@ -18,4 +18,4 @@
 
 131 McCormack St, York, ON M6N 1X8, Toronto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/131-mccormack-st/)*

@@ -1,6 +1,6 @@
 # Jonny Rock
 
-Jonny Rock is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Rumore Nightclub Capri, Naples on Sat, 5 Sept 2026.
+Jonny Rock is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Rumore Nightclub Capri, Naples on Sat, 5 Sept 2026.
 
 Jonny Rock is a house and techno artist tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 25 more. Often billed alongside O.BEE, Tomas Station and Seth Troxler. Next up: Rumore Nightclub Capri, Naples on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Jonny Rock is a house and techno artist tracked on soundcheck, with 114 sets log
 
 O.BEE, Tomas Station, Seth Troxler
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*

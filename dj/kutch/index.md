@@ -1,6 +1,6 @@
 # KUTCH
 
-KUTCH is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Egg London, London on Sat, 5 Sept 2026.
+KUTCH is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Egg London, London on Sat, 5 Sept 2026.
 
 KUTCH is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Josh Torlot and KEMADA. Next up: Egg London, London on Sat 5 Sept.
 
@@ -15,4 +15,4 @@ KUTCH is a house and deep house artist based in United Kingdom, tracked on sound
 
 Josh Torlot, KEMADA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kutch/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kutch/)*

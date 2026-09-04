@@ -1,6 +1,6 @@
 # DANAE
 
-DANAE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
+DANAE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
 
 DANAE is a house and techno artist tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Buenosaires and London and 6 more. Often billed alongside Fabrizio Sala, Dario Lem and Enrico Vivaldi. Next up: THE MAGICK BAR, Rome on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DANAE is a house and techno artist tracked on soundcheck, with 45 sets logged ac
 
 Fabrizio Sala, Dario Lem, Enrico Vivaldi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-2/)*

@@ -1,6 +1,6 @@
 # Fourth World Music
 
-Fourth World Music is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 25 Sept 2026.
+Fourth World Music is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 25 Sept 2026.
 
 Fourth World Music is a latin bass and baile funk artist based in Poland, tracked on soundcheck, with 33 sets logged across Krakow and Warsaw. Often billed alongside KarateKnur, eylau and Cosaco. Next up: K-Bar Powiśle, Warsaw on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Fourth World Music is a latin bass and baile funk artist based in Poland, tracke
 
 KarateKnur, eylau, Cosaco
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fourthworldmusic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fourthworldmusic/)*

@@ -1,6 +1,6 @@
 # Árni
 
-Árni is a Techno and Dancehall artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
+Árni is a Techno and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 26 Sept 2026.
 
 Árni is a techno and dancehall artist tracked on soundcheck, with 15 sets logged across Berlin and Copenhagen. Often billed alongside AYLIN IDAH, Keeptress and AADJA. Next up: RSO.BERLIN, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@
 
 AYLIN IDAH, Keeptress, AADJA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arni/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arni/)*

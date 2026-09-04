@@ -1,6 +1,6 @@
 # Salvatore Foglia
 
-Salvatore Foglia is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Giri, Berlin on Fri, 18 Sept 2026.
+Salvatore Foglia is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Giri, Berlin on Fri, 18 Sept 2026.
 
 Salvatore Foglia is a techno and minimal artist tracked on soundcheck, with 9 sets logged across Berlin and Ibiza. Often billed alongside Daniel Norrel, G.oss and Ruman. Next up: Giri, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Salvatore Foglia is a techno and minimal artist tracked on soundcheck, with 9 se
 
 Daniel Norrel, G.oss, Ruman
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salvatorefoglia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salvatorefoglia/)*

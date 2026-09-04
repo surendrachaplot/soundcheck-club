@@ -1,6 +1,6 @@
 # Merco Ben
 
-Merco Ben is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Picky The BAR, Tokyo on Fri, 4 Sept 2026.
+Merco Ben is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Picky The BAR, Tokyo on Fri, 4 Sept 2026.
 
 Merco Ben is a techno and bass artist based in France, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside Guchon, SOGI and Aliceyuki. Next up: Picky The BAR, Tokyo on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Merco Ben is a techno and bass artist based in France, tracked on soundcheck, wi
 
 Guchon, SOGI, Aliceyuki
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mercoben/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mercoben/)*

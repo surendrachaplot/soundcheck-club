@@ -1,6 +1,6 @@
 # The Foundry
 
-The Foundry is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Bounce SF pres Cara Elizabeth + WILDERÍCH" on Sun, 6 Sept 2026.
+The Foundry is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Bounce SF pres Cara Elizabeth + WILDERÍCH" on Sun, 6 Sept 2026.
 
 The Foundry is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including Cara Elizabeth, Jojo Lorenzo, Leafar Legov and Tinzo and 2 more. Browse upcoming dates, start times and who's playing. 1425 Folsom St, San Francisco, CA 94103.
 
@@ -18,4 +18,4 @@ The Foundry is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming ni
 
 1425 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-foundry/)*

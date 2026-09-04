@@ -1,6 +1,6 @@
 # Akabema
 
-Akabema is a Baile Funk and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Prince of Wales, London on Fri, 4 Sept 2026.
+Akabema is a Baile Funk and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Prince of Wales, London on Fri, 4 Sept 2026.
 
 Akabema is a baile funk and hip-hop artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside Art Dealer, PHIZ and Samo. Next up: The Prince of Wales, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Akabema is a baile funk and hip-hop artist tracked on soundcheck, with 25 sets l
 
 Art Dealer, PHIZ, Samo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akabema/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akabema/)*

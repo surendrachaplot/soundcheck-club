@@ -1,6 +1,6 @@
 # Dwight Evan
 
-Dwight Evan is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bardo Speakeasy, Mexico City on Wed, 2 Sept 2026.
+Dwight Evan is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bardo Speakeasy, Mexico City on Wed, 2 Sept 2026.
 
 Dwight Evan is a progressive house and house artist tracked on soundcheck, with 20 sets logged across Mexicocity. Often billed alongside Alain Hellion, DJ Rick and Dimaio. Next up: Bardo Speakeasy, Mexicocity on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Dwight Evan is a progressive house and house artist tracked on soundcheck, with 
 
 Alain Hellion, DJ Rick, Dimaio
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dwightevan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dwightevan/)*

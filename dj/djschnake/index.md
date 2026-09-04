@@ -1,6 +1,6 @@
 # Dj Schnake
 
-Dj Schnake is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hidden, Manchester on Fri, 18 Sept 2026.
+Dj Schnake is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hidden, Manchester on Fri, 18 Sept 2026.
 
 Dj Schnake is a techno and trance artist tracked on soundcheck, with 50 sets logged across Antwerp, Berlin, Brussels and Budapest and 8 more. Often billed alongside Die Klar, DJ Caline and Kichta. Next up: Hidden, Manchester on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Dj Schnake is a techno and trance artist tracked on soundcheck, with 50 sets log
 
 Die Klar, DJ Caline, Kichta
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*

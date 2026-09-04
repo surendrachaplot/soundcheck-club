@@ -1,6 +1,6 @@
 # [PHANTOM GROUP] KLUBNACHT w inKKiss at John Doe
 
-[PHANTOM GROUP] KLUBNACHT w inKKiss at John Doe on Tue 8 Sept, Amsterdam. 2 acts on the bill: Deuvren and inKKiss. Techno and Industrial. Preview the line-up and save it on soundcheck.
+[PHANTOM GROUP] KLUBNACHT w inKKiss at John Doe on Tue 8 Sept, Amsterdam. 1 act on the bill: inKKiss. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@
 
 ## Line-up
 
-- Deuvren
 - inKKiss
 
 *Source: [soundcheck](https://soundcheck.club/e/2482190-phantom-group-klubnacht-w-inkkiss-at-john-doe/)*

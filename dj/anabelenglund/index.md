@@ -1,6 +1,6 @@
 # Anabel Englund
 
-Anabel Englund is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat, 3 Oct 2026.
+Anabel Englund is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat, 3 Oct 2026.
 
 Anabel Englund is a house and tech house artist tracked on soundcheck, with 20 sets logged across Austin, Denver, Losangeles and Miami and 7 more. Often billed alongside SOFI TUKKER, Coco & Breezy and Dombresky. Next up: TBA - 600 Pennsylvania Ave, NW, Washingtondc on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Anabel Englund is a house and tech house artist tracked on soundcheck, with 20 s
 
 SOFI TUKKER, Coco & Breezy, Dombresky
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelenglund/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelenglund/)*

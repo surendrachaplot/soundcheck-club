@@ -1,6 +1,6 @@
 # Franziska Lindholz
 
-Franziska Lindholz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at KREUZWERK, Berlin on Fri, 18 Sept 2026.
+Franziska Lindholz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at KREUZWERK, Berlin on Fri, 18 Sept 2026.
 
 Franziska Lindholz is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Ben Kaczor, ALKARLINE and Bryan Kessler. Next up: KREUZWERK, Berlin on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Franziska Lindholz is a house and techno artist based in Germany, tracked on sou
 
 Ben Kaczor, ALKARLINE, Bryan Kessler
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskalindholz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskalindholz/)*

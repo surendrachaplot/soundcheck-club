@@ -1,6 +1,6 @@
 # András
 
-András is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Solace, Melbourne on Fri, 11 Sept 2026.
+András is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Solace, Melbourne on Fri, 11 Sept 2026.
 
 András is a house and balearic artist tracked on soundcheck, with 15 sets logged across Brisbane, Glasgow, Hobart and London and 2 more. Often billed alongside Adriana (1), Wilson Tanner and Babycino. Next up: Solace, Melbourne on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ András is a house and balearic artist tracked on soundcheck, with 15 sets logge
 
 Adriana (1), Wilson Tanner, Babycino
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrasfox/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrasfox/)*

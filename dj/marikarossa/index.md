@@ -1,6 +1,6 @@
 # Marika Rossa
 
-Marika Rossa is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bollwerk Cologne, Cologne on Fri, 18 Sept 2026.
+Marika Rossa is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bollwerk Cologne, Cologne on Fri, 18 Sept 2026.
 
 Marika Rossa is a techno and industrial artist tracked on soundcheck, with 28 sets logged across Athens, Barcelona, Berlin and Brisbane and 14 more. Often billed alongside Alchemiah, Patrik Berg and Anna V.. Next up: Bollwerk Cologne, Cologne on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Marika Rossa is a techno and industrial artist tracked on soundcheck, with 28 se
 
 Alchemiah, Patrik Berg, Anna V.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marikarossa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marikarossa/)*

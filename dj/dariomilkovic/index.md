@@ -1,6 +1,6 @@
 # Dario Milkovic
 
-Dario Milkovic is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Pracht, Frankfurt on Fri, 4 Sept 2026.
+Dario Milkovic is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Pracht, Frankfurt on Fri, 4 Sept 2026.
 
 Dario Milkovic is a tech house and techno artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Frankfurt, Munich and Nurnberg. Often billed alongside Claudius (DE), BIANCA BLANCO and Matchy. Next up: Pracht, Frankfurt on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Dario Milkovic is a tech house and techno artist based in Germany, tracked on so
 
 Claudius (DE), BIANCA BLANCO, Matchy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariomilkovic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariomilkovic/)*

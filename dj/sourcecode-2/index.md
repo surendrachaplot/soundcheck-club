@@ -1,6 +1,6 @@
 # Source Code (2)
 
-Source Code (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Romantica, Stuttgart on Sun, 6 Sept 2026.
+Source Code (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Romantica, Stuttgart on Sun, 6 Sept 2026.
 
 Source Code (2) is a techno and house artist based in Germany, tracked on soundcheck, with 22 sets logged across Paris and Stuttgart. Often billed alongside Tamara Wirth, Raphael Dincsoy and Jannis Maxim. Next up: Romantica, Stuttgart on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Source Code (2) is a techno and house artist based in Germany, tracked on soundc
 
 Tamara Wirth, Raphael Dincsoy, Jannis Maxim
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcecode-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcecode-2/)*

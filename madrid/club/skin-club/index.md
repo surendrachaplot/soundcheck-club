@@ -1,6 +1,6 @@
 # Skin Club
 
-Skin Club is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "LA CASITA X SKIN" on Fri, 4 Sept 2026.
+Skin Club is a music venue in Madrid with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "LA CASITA X SKIN" on Fri, 4 Sept 2026.
 
 Skin Club is a music venue in Madrid listed on soundcheck. 4 upcoming nights, with line-ups including Alma Negrot, Buday, Cristian Marras and DAMIANA and 2 more. Browse upcoming dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
 
@@ -17,4 +17,4 @@ Skin Club is a music venue in Madrid listed on soundcheck. 4 upcoming nights, wi
 
 C. de la Aduana, 21Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*

@@ -1,6 +1,6 @@
 # franck
 
-franck is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Liberty Hall, Sydney on Fri, 18 Sept 2026.
+franck is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Liberty Hall, Sydney on Fri, 18 Sept 2026.
 
 franck is a techno and trance artist tracked on soundcheck, with 199 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 54 more. Often billed alongside Charlie Sparks, 999999999 and Cloudy. Next up: Liberty Hall, Sydney on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ franck is a techno and trance artist tracked on soundcheck, with 199 sets logged
 
 Charlie Sparks, 999999999, Cloudy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franck/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franck/)*

@@ -1,6 +1,6 @@
 # Tommyknocker
 
-Tommyknocker is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Tommyknocker is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Tommyknocker is a hardcore and gabber artist based in Italy, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Cologne and Frankfurt and 5 more. Often billed alongside Art of Fighters, Endymion and Korsakoff. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Tommyknocker is a hardcore and gabber artist based in Italy, tracked on soundche
 
 Art of Fighters, Endymion, Korsakoff
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyknocker/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyknocker/)*

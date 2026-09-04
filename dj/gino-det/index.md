@@ -1,6 +1,6 @@
 # Gino (DET)
 
-Gino (DET) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TV Lounge, Detroit on Sat, 12 Sept 2026.
+Gino (DET) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TV Lounge, Detroit on Sat, 12 Sept 2026.
 
 Gino (DET) is a house and deep house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Chicago, Detroit and Tokyo. Often billed alongside Tyson Dias, Chachi Guerrero and CoveLove. Next up: TV Lounge, Detroit on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Gino (DET) is a house and deep house artist based in United States of America, t
 
 Tyson Dias, Chachi Guerrero, CoveLove
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gino-det/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gino-det/)*

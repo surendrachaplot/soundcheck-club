@@ -1,6 +1,6 @@
 # CAIVA
 
-CAIVA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at BASIS, Utrecht on Fri, 4 Sept 2026.
+CAIVA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at BASIS, Utrecht on Fri, 4 Sept 2026.
 
 CAIVA is a techno and trance artist tracked on soundcheck, with 158 sets logged across Amsterdam, Barcelona, Basel and Berlin and 36 more. Often billed alongside Frederic., Part Time Killer and Lacchesi. Next up: BASIS, Utrecht on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ CAIVA is a techno and trance artist tracked on soundcheck, with 158 sets logged 
 
 Frederic., Part Time Killer, Lacchesi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caiva/)*

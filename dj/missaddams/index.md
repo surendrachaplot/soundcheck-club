@@ -1,6 +1,6 @@
 # Miss Addams
 
-Miss Addams is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
+Miss Addams is a EBM and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
 
 Miss Addams is an ebm and industrial artist tracked on soundcheck, with 5 sets logged across Berlin and Newyorkcity. Often billed alongside Desolate Discotheque, ATZENPUNK and Alienata. Next up: Void Club, Berlin on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Miss Addams is an ebm and industrial artist tracked on soundcheck, with 5 sets l
 
 Desolate Discotheque, ATZENPUNK, Alienata
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missaddams/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missaddams/)*

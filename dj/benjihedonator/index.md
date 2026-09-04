@@ -1,6 +1,6 @@
 # Benji Hedonator
 
-Benji Hedonator is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Patterns, Brighton on Sun, 13 Sept 2026.
+Benji Hedonator is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Patterns, Brighton on Sun, 13 Sept 2026.
 
 Benji Hedonator is a progressive house and trance artist tracked on soundcheck, with 9 sets logged across Brighton and London. Often billed alongside BIKINIWAX (2), Bil-Sol and Bollibubbles. Next up: Patterns, Brighton on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Benji Hedonator is a progressive house and trance artist tracked on soundcheck, 
 
 BIKINIWAX (2), Bil-Sol, Bollibubbles
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjihedonator/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjihedonator/)*

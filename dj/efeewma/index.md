@@ -1,6 +1,6 @@
 # Efeewma
 
-Efeewma is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Forestlimit, Tokyo on Sat, 5 Sept 2026.
+Efeewma is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Forestlimit, Tokyo on Sat, 5 Sept 2026.
 
 Efeewma is a techno and hardcore artist tracked on soundcheck, with 21 sets logged across Osaka and Tokyo. Often billed alongside EVE (1), egomania and DIV. Next up: Forestlimit, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Efeewma is a techno and hardcore artist tracked on soundcheck, with 21 sets logg
 
 EVE (1), egomania, DIV
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efeewma/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efeewma/)*

@@ -1,6 +1,6 @@
 # DJ Thai Take Away
 
-DJ Thai Take Away is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Amp, Munster on Fri, 25 Sept 2026.
+DJ Thai Take Away is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Amp, Munster on Fri, 25 Sept 2026.
 
 DJ Thai Take Away is a techno and trance artist tracked on soundcheck, with 27 sets logged across Berlin, Lisbon, Munster and Vienna. Often billed alongside Zenit, djvonnebenan and Femme Fatale. Next up: Amp, Munster on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Thai Take Away is a techno and trance artist tracked on soundcheck, with 27 s
 
 Zenit, djvonnebenan, Femme Fatale
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djthaitakeaway/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djthaitakeaway/)*

@@ -1,6 +1,6 @@
 # bbsanii
 
-bbsanii is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Misfits, Melbourne on Fri, 4 Sept 2026.
+bbsanii is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Misfits, Melbourne on Fri, 4 Sept 2026.
 
 bbsanii is a techno and house artist tracked on soundcheck, with 29 sets logged across Melbourne. Often billed alongside Tina Disco, JUPiTA and Mike Callander. Next up: Misfits, Melbourne on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ bbsanii is a techno and house artist tracked on soundcheck, with 29 sets logged 
 
 Tina Disco, JUPiTA, Mike Callander
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*

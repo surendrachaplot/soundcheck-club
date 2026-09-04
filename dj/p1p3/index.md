@@ -1,6 +1,6 @@
 # P1P3
 
-P1P3 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sala Pirandelo, Madrid on Sat, 5 Sept 2026.
+P1P3 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sala Pirandelo, Madrid on Sat, 5 Sept 2026.
 
 P1P3 is a trance and techno artist tracked on soundcheck, with 22 sets logged across Madrid. Often billed alongside Miguel Rivas, M3LO and NVMB. Next up: Sala Pirandelo, Madrid on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ P1P3 is a trance and techno artist tracked on soundcheck, with 22 sets logged ac
 
 Miguel Rivas, M3LO, NVMB
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p1p3/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p1p3/)*

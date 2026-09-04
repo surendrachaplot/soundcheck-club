@@ -1,6 +1,6 @@
 # ALXS
 
-ALXS is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Freeze HiFi, Liverpool on Wed, 16 Sept 2026.
+ALXS is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Freeze HiFi, Liverpool on Wed, 16 Sept 2026.
 
 ALXS is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Liverpool, Mexicocity and Seoul. Often billed alongside Todd Terry, Ferreck Dawn and Janika Tenn. Next up: Freeze HiFi, Liverpool on Wed 16 Sept.
 
@@ -24,4 +24,4 @@ ALXS is a house and progressive house artist based in Netherlands, tracked on so
 
 Todd Terry, Ferreck Dawn, Janika Tenn
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alxs/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alxs/)*

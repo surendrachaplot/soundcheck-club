@@ -1,6 +1,6 @@
 # DJ Hockey
 
-DJ Hockey is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - East Vancouver, Vancouver on Sat, 5 Sept 2026.
+DJ Hockey is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - East Vancouver, Vancouver on Sat, 5 Sept 2026.
 
 DJ Hockey is a techno and house artist tracked on soundcheck, with 40 sets logged across Chicago, Detroit, Montreal and Newyorkcity and 1 more. Often billed alongside Kasey Riot, Nancy Dru and Vasho. Next up: TBA - East Vancouver, Vancouver on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DJ Hockey is a techno and house artist tracked on soundcheck, with 40 sets logge
 
 Kasey Riot, Nancy Dru, Vasho
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhockey/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhockey/)*

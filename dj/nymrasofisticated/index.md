@@ -1,6 +1,6 @@
 # Nymra & Sofisticated
 
-Nymra & Sofisticated is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Salon Daomé, Montreal on Sat, 12 Sept 2026.
+Nymra & Sofisticated is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Salon Daomé, Montreal on Sat, 12 Sept 2026.
 
 Nymra & Sofisticated are a tech house and deep house duo based in Canada, tracked on soundcheck, with 8 sets logged across Montreal. Often billed alongside Cristina Lazic, ELIF and Field Note. Next up: Salon Daomé, Montreal on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Nymra & Sofisticated are a tech house and deep house duo based in Canada, tracke
 
 Cristina Lazic, ELIF, Field Note
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nymrasofisticated/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nymrasofisticated/)*

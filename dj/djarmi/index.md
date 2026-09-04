@@ -1,6 +1,6 @@
 # Dj Armi
 
-Dj Armi is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Cross, London on Sat, 12 Sept 2026.
+Dj Armi is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Cross, London on Sat, 12 Sept 2026.
 
 Dj Armi is a deep house and tech house artist tracked on soundcheck, with 7 sets logged across London and Naples. Often billed alongside AOB, Andrea Fiorito and Davide Del Vecchio. Next up: The Cross, London on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Dj Armi is a deep house and tech house artist tracked on soundcheck, with 7 sets
 
 AOB, Andrea Fiorito, Davide Del Vecchio
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djarmi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djarmi/)*

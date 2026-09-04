@@ -1,6 +1,6 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Flava Beach, Naples on Sat, 5 Sept 2026.
+Adam Beyer is a Techno and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Flava Beach, Naples on Sat, 5 Sept 2026.
 
 Adam Beyer is a techno and tech house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: Flava Beach, Naples on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ Adam Beyer is a techno and tech house artist tracked on soundcheck, with 184 set
 
 Eric Prydz, Bart Skils, Patrick Topping
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*

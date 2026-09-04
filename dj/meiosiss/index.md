@@ -1,6 +1,6 @@
 # MEIOSISS
 
-MEIOSISS is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Club Lucia, Vienna on Fri, 18 Sept 2026.
+MEIOSISS is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club Lucia, Vienna on Fri, 18 Sept 2026.
 
 MEIOSISS is a house and trance artist based in Austria, tracked on soundcheck, with 16 sets logged across Vienna. Often billed alongside Lila Gold (2), RUV3N and ADEM (AT). Next up: Club Lucia, Vienna on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ MEIOSISS is a house and trance artist based in Austria, tracked on soundcheck, w
 
 Lila Gold (2), RUV3N, ADEM (AT)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meiosiss/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meiosiss/)*

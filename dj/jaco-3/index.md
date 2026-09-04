@@ -1,6 +1,6 @@
 # Jaco Matthews
 
-Jaco Matthews is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Spkrbox, Detroit on Sat, 5 Sept 2026.
+Jaco Matthews is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Spkrbox, Detroit on Sat, 5 Sept 2026.
 
 Jaco Matthews is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Detroit and London. Often billed alongside Tylr, Andrea Ghita and Ashton Swinton. Next up: Spkrbox, Detroit on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Jaco Matthews is a house and techno artist based in United States of America, tr
 
 Tylr, Andrea Ghita, Ashton Swinton
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaco-3/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaco-3/)*

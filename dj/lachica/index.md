@@ -1,6 +1,6 @@
 # LACHICA
 
-LACHICA is a Trance and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Love Shack LDN, London on Fri, 11 Sept 2026.
+LACHICA is a Trance and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Love Shack LDN, London on Fri, 11 Sept 2026.
 
 LACHICA is a trance and garage artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside ManuTheMan, CHARLIE (UK) and Carlitus. Next up: Love Shack LDN, London on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ LACHICA is a trance and garage artist tracked on soundcheck, with 6 sets logged 
 
 ManuTheMan, CHARLIE (UK), Carlitus
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lachica/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lachica/)*

@@ -1,6 +1,6 @@
 # Milou
 
-Milou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 19 Sept 2026.
+Milou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 19 Sept 2026.
 
 Milou is a house and techno artist tracked on soundcheck, with 13 sets logged across Berlin, Frankfurt and Ibiza. Often billed alongside Defex, Federico Grazzini and Matthias Tanzmann. Next up: 528 Ibiza, Ibiza on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Milou is a house and techno artist tracked on soundcheck, with 13 sets logged ac
 
 Defex, Federico Grazzini, Matthias Tanzmann
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milou/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milou/)*

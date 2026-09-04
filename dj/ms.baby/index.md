@@ -1,6 +1,6 @@
 # Ms. Baby
 
-Ms. Baby is a Club and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Cyberlove Garden, Montreal on Fri, 4 Sept 2026.
+Ms. Baby is a Club and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Cyberlove Garden, Montreal on Fri, 4 Sept 2026.
 
 Ms. Baby is a club and afrobeat artist tracked on soundcheck, with 22 sets logged across Montreal and Toronto. Often billed alongside Niabi, SAMIA and G L O W Z I. Next up: TBA - Cyberlove Garden, Montreal on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ms. Baby is a club and afrobeat artist tracked on soundcheck, with 22 sets logge
 
 Niabi, SAMIA, G L O W Z I
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.baby/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.baby/)*

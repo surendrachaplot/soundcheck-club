@@ -1,6 +1,6 @@
 # TBA - UnityCode Galerie im Moabit
 
-TBA - UnityCode Galerie im Moabit is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "SZENETREFFEN: Networking for the Techno Scene by SHAMELESS" on Sat, 19 Sept 2026.
+TBA - UnityCode Galerie im Moabit is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "SZENETREFFEN: Networking for the Techno Scene by SHAMELESS" on Sat, 19 Sept 2026.
 
 TBA - UnityCode Galerie im Moabit is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Lisatrix. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - UnityCode Galerie im Moabit is a music venue in Berlin listed on soundchec
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | SZENETREFFEN: Networking for the Techno Scene by SHAMELESS | Lisatrix |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-unitycode-galerie-im-moabit/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-unitycode-galerie-im-moabit/)*

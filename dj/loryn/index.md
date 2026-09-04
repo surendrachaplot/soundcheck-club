@@ -1,6 +1,6 @@
 # Loryn
 
-Loryn is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 11 Sept 2026.
+Loryn is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 11 Sept 2026.
 
 Loryn is an electronica and house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Berlin, Hamburg and Paris. Often billed alongside Baccus, DJ Steaw and Emi Ömar. Next up: Fabrique im Gängeviertel, Hamburg on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Loryn is an electronica and house artist based in United States of America, trac
 
 Baccus, DJ Steaw, Emi Ömar
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loryn/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loryn/)*

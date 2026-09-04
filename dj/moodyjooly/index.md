@@ -1,6 +1,6 @@
 # moodyjooly
 
-moodyjooly is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Jama, Toronto on Sat, 17 Oct 2026.
+moodyjooly is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Jama, Toronto on Sat, 17 Oct 2026.
 
 moodyjooly is a club and house artist tracked on soundcheck, with 33 sets logged across Philadelphia and Toronto. Often billed alongside Coco de Mol, ENSIDER (2) and GUSSYEE. Next up: The Jama, Toronto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ moodyjooly is a club and house artist tracked on soundcheck, with 33 sets logged
 
 Coco de Mol, ENSIDER (2), GUSSYEE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyjooly/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodyjooly/)*

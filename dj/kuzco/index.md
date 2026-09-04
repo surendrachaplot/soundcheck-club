@@ -1,6 +1,6 @@
 # Kuzco
 
-Kuzco is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Evelyn Hotel, Melbourne on Fri, 25 Sept 2026.
+Kuzco is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Evelyn Hotel, Melbourne on Fri, 25 Sept 2026.
 
 Kuzco is a house and deep house artist based in Australia, tracked on soundcheck, with 33 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Mike Gurrieri, Adam Trace and Harvey Sutherland. Next up: The Evelyn Hotel, Melbourne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kuzco is a house and deep house artist based in Australia, tracked on soundcheck
 
 Mike Gurrieri, Adam Trace, Harvey Sutherland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzco/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzco/)*

@@ -1,6 +1,6 @@
 # Seven Lions
 
-Seven Lions is a Dubstep and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Seven Lions is a Dubstep and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Seven Lions is a dubstep and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, Boston, Chicago and London and 7 more. Often billed alongside Deadmau5, Deorro and James Hype (UK). Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Seven Lions is a dubstep and house artist based in United States of America, tra
 
 Deadmau5, Deorro, James Hype (UK)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*

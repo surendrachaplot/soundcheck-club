@@ -1,6 +1,6 @@
 # Joe FM
 
-Joe FM is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Wharf Chambers, Leeds on Fri, 2 Oct 2026.
+Joe FM is a Disco and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Wharf Chambers, Leeds on Fri, 2 Oct 2026.
 
 Joe FM is a disco and deep house artist tracked on soundcheck, with 5 sets logged across Leeds. Often billed alongside Anastasia McGarel, Joe Shaw and Bruce. Next up: Wharf Chambers, Leeds on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Joe FM is a disco and deep house artist tracked on soundcheck, with 5 sets logge
 
 Anastasia McGarel, Joe Shaw, Bruce
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joefm/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joefm/)*

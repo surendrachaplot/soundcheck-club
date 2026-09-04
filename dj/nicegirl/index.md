@@ -1,6 +1,6 @@
 # Nice Girl
 
-Nice Girl is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 18 Sept 2026.
+Nice Girl is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 18 Sept 2026.
 
 Nice Girl is a house and techno artist tracked on soundcheck, with 19 sets logged across Auckland, Bali, Berlin and Brussels and 3 more. Often billed alongside DJ City, Eden Burns and Frank Booker. Next up: Angel Music Bar, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Nice Girl is a house and techno artist tracked on soundcheck, with 19 sets logge
 
 DJ City, Eden Burns, Frank Booker
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicegirl/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicegirl/)*

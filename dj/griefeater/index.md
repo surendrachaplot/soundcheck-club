@@ -1,6 +1,6 @@
 # griefeater
 
-griefeater is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Acud Macht NEU, Berlin on Sun, 6 Sept 2026.
+griefeater is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Acud Macht NEU, Berlin on Sun, 6 Sept 2026.
 
 griefeater is a club and experimental artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside Taylor Cherry, Dmitra and REBE. Next up: Acud Macht NEU, Berlin on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ griefeater is a club and experimental artist based in Germany, tracked on soundc
 
 Taylor Cherry, Dmitra, REBE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/griefeater/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/griefeater/)*

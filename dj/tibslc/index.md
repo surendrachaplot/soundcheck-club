@@ -1,6 +1,6 @@
 # tibslc
 
-tibslc is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Haus der Elektronischen Künste, Basel on Fri, 4 Sept 2026.
+tibslc is a Ambient and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Haus der Elektronischen Künste, Basel on Fri, 4 Sept 2026.
 
 tibslc is an ambient and experimental artist based in Germany, tracked on soundcheck, with 18 sets logged across Basel, Berlin, Brussels and Glasgow and 5 more. Often billed alongside 131bpm, ADAM MUNNINGS and AGY3NA. Next up: TBA - Haus der Elektronischen Künste, Basel on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ tibslc is an ambient and experimental artist based in Germany, tracked on soundc
 
 131bpm, ADAM MUNNINGS, AGY3NA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tibslc/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tibslc/)*

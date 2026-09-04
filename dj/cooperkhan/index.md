@@ -1,6 +1,6 @@
 # Cooper Khan
 
-Cooper Khan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Shy Guy, Auckland on Fri, 18 Sept 2026.
+Cooper Khan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Shy Guy, Auckland on Fri, 18 Sept 2026.
 
 Cooper Khan is a techno and house artist tracked on soundcheck, with 5 sets logged across Auckland. Often billed alongside Cam Harris, Dale Rohan and Dylan C. Next up: The Shy Guy, Auckland on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Cooper Khan is a techno and house artist tracked on soundcheck, with 5 sets logg
 
 Cam Harris, Dale Rohan, Dylan C
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cooperkhan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cooperkhan/)*

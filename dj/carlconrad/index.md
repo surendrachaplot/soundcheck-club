@@ -1,6 +1,6 @@
 # Carl Conrad
 
-Carl Conrad is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Prisma, Berlin on Thu, 10 Sept 2026.
+Carl Conrad is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Prisma, Berlin on Thu, 10 Sept 2026.
 
 Carl Conrad is a techno and tech house artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Unerhört, High Protocol and Alternate. Next up: Prisma, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Carl Conrad is a techno and tech house artist based in Germany, tracked on sound
 
 Unerhört, High Protocol, Alternate
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlconrad/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlconrad/)*

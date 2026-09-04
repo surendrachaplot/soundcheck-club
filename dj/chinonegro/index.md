@@ -1,6 +1,6 @@
 # Chinonegro
 
-Chinonegro is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at [UNVRS], Ibiza on Sat, 5 Sept 2026.
+Chinonegro is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at [UNVRS], Ibiza on Sat, 5 Sept 2026.
 
 Chinonegro is a tech house and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Buenosaires and Dusseldorf and 10 more. Often billed alongside Luuk van Dijk, Sidney Charles and BLOND:ISH. Next up: [UNVRS], Ibiza on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Chinonegro is a tech house and house artist tracked on soundcheck, with 27 sets 
 
 Luuk van Dijk, Sidney Charles, BLOND:ISH
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*

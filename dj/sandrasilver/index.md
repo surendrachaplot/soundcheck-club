@@ -1,6 +1,6 @@
 # Sandra Silver
 
-Sandra Silver is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Sandra Silver is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Sandra Silver is a tech house and minimal artist based in Spain, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Ibiza and Madrid and 1 more. Often billed alongside SEVEN77, Tacchi and Tato (2). Next up: Prik Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Sandra Silver is a tech house and minimal artist based in Spain, tracked on soun
 
 SEVEN77, Tacchi, Tato (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrasilver/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrasilver/)*

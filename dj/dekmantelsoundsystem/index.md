@@ -1,6 +1,6 @@
 # Dekmantel Soundsystem
 
-Dekmantel Soundsystem is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
+Dekmantel Soundsystem is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Potato Head Beach Club, Bali on Sat, 26 Sept 2026.
 
 Dekmantel Soundsystem is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Casper Tielrooij, RHR and Call Super. Next up: Potato Head Beach Club, Bali on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Dekmantel Soundsystem is a house and techno artist tracked on soundcheck, with 4
 
 Casper Tielrooij, RHR, Call Super
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dekmantelsoundsystem/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dekmantelsoundsystem/)*

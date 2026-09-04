@@ -1,6 +1,6 @@
 # Gazebo
 
-Gazebo is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "𝐖𝐄 𝐆𝐑𝐄𝐖 𝐖𝐈𝐋𝐃 - 𝟐 𝐘𝐄𝐀𝐑𝐒 𝐁𝐎𝐍𝐀𝐍𝐙𝐀" on Sat, 26 Sept 2026.
+Gazebo is a music venue in Stockholm with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "𝐖𝐄 𝐆𝐑𝐄𝐖 𝐖𝐈𝐋𝐃 - 𝟐 𝐘𝐄𝐀𝐑𝐒 𝐁𝐎𝐍𝐀𝐍𝐙𝐀" on Sat, 26 Sept 2026.
 
 Gazebo is a music venue in Stockholm listed on soundcheck. 1 upcoming night, with line-ups including Ahiram, Franca, Jerpa and Victor Norman. Browse upcoming dates, start times and who's playing. Upplagsvägen 22, 142 91 Skogås.
 
@@ -14,4 +14,4 @@ Gazebo is a music venue in Stockholm listed on soundcheck. 1 upcoming night, wit
 
 Upplagsvägen 22, 142 91 Skogås, Stockholm
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/gazebo/)*

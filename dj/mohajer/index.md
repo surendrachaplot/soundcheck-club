@@ -1,6 +1,6 @@
 # Mohajer
 
-Mohajer is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OXI, Berlin on Tue, 22 Sept 2026.
+Mohajer is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OXI, Berlin on Tue, 22 Sept 2026.
 
 Mohajer is a techno and trance artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside Schacke, Rachel Noon and Hyperaktivist. Next up: OXI, Berlin on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Mohajer is a techno and trance artist tracked on soundcheck, with 98 sets logged
 
 Schacke, Rachel Noon, Hyperaktivist
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mohajer/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mohajer/)*

@@ -1,6 +1,6 @@
 # Joey Coco
 
-Joey Coco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Her, Melbourne on Sat, 5 Sept 2026.
+Joey Coco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Her, Melbourne on Sat, 5 Sept 2026.
 
 Joey Coco is a house and techno artist based in Australia, tracked on soundcheck, with 131 sets logged across Melbourne and Sydney. Often billed alongside Oscar de Lima, HAUSWiFE and Slumdog. Next up: Her, Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Joey Coco is a house and techno artist based in Australia, tracked on soundcheck
 
 Oscar de Lima, HAUSWiFE, Slumdog
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeycoco/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeycoco/)*

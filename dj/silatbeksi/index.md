@@ -1,6 +1,6 @@
 # Silat Beksi
 
-Silat Beksi is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 18 Sept 2026.
+Silat Beksi is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 18 Sept 2026.
 
 Silat Beksi is a minimal and house artist based in Ukraine, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Brussels and Bucharest and 14 more. Often billed alongside Bttologic, Fedo (UA) and David Delgado. Next up: Sunseabar Beach Club, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Silat Beksi is a minimal and house artist based in Ukraine, tracked on soundchec
 
 Bttologic, Fedo (UA), David Delgado
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silatbeksi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silatbeksi/)*

@@ -1,6 +1,6 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 11 Sept 2026.
+Jhobei is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 11 Sept 2026.
 
 Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 10 more. Often billed alongside B.Love, Julian Anthony and Reeshy. Next up: Les Enfants Brillants, Barcelona on Fri 11 Sept.
 
@@ -33,4 +33,4 @@ Jhobei is a house and electro artist based in United Kingdom, tracked on soundch
 
 B.Love, Julian Anthony, Reeshy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

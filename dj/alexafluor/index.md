@@ -1,6 +1,6 @@
 # Alexa Fluor
 
-Alexa Fluor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at La Cova, Hamburg on Sat, 19 Sept 2026.
+Alexa Fluor is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at La Cova, Hamburg on Sat, 19 Sept 2026.
 
 Alexa Fluor is a techno and trance artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside ELOISA, Melanchromie and Carotin. Next up: La Cova, Hamburg on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Alexa Fluor is a techno and trance artist based in Germany, tracked on soundchec
 
 ELOISA, Melanchromie, Carotin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexafluor/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexafluor/)*

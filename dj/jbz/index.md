@@ -1,6 +1,6 @@
 # JBZ
 
-JBZ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+JBZ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 JBZ is a tech house and house artist tracked on soundcheck, with 5 sets logged across Miami. Often billed alongside ALEJO (US), Alexx in Chainss and Artime. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ JBZ is a tech house and house artist tracked on soundcheck, with 5 sets logged a
 
 ALEJO (US), Alexx in Chainss, Artime
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jbz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jbz/)*

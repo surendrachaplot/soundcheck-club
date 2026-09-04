@@ -1,6 +1,6 @@
 # SACK (AR)
 
-SACK (AR) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bikini Club, Barcelona on Sat, 26 Sept 2026.
+SACK (AR) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bikini Club, Barcelona on Sat, 26 Sept 2026.
 
 SACK (AR) is a house and progressive house artist tracked on soundcheck, with 28 sets logged across Barcelona, Frankfurt and Malaga. Often billed alongside Volmaan, Syntonos and SHINO (AR). Next up: Bikini Club, Barcelona on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ SACK (AR) is a house and progressive house artist tracked on soundcheck, with 28
 
 Volmaan, Syntonos, SHINO (AR)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sack-ar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sack-ar/)*

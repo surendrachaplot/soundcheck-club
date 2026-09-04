@@ -1,6 +1,6 @@
 # Toro
 
-Toro is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Toro is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Toro is a techno and afro house artist tracked on soundcheck, with 5 sets logged across Kualalumpur, Lisbon, Madrid and Mexicocity and 1 more. Often billed alongside Blank, CFCF and Cadeem LaMarr. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Toro is a techno and afro house artist tracked on soundcheck, with 5 sets logged
 
 Blank, CFCF, Cadeem LaMarr
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toro/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toro/)*

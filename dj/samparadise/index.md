@@ -1,6 +1,6 @@
 # Sam Paradise
 
-Sam Paradise is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
+Sam Paradise is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OXI, Berlin on Sat, 26 Sept 2026.
 
 Sam Paradise is a house and disco artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin, Cologne, Dusseldorf and Frankfurt and 6 more. Often billed alongside Franziska Frizzante, Luca Olivotto and Eva Crystaltips. Next up: OXI, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sam Paradise is a house and disco artist based in Germany, tracked on soundcheck
 
 Franziska Frizzante, Luca Olivotto, Eva Crystaltips
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samparadise/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samparadise/)*

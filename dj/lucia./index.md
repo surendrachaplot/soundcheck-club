@@ -1,6 +1,6 @@
 # LUCIA.
 
-LUCIA. is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at telos.haus, New York City on Sat, 19 Sept 2026.
+LUCIA. is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at telos.haus, New York City on Sat, 19 Sept 2026.
 
 LUCIA. is a techno and breakbeat artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Brother Bunter, Hidden Order and Pat Bradley. Next up: telos.haus, Newyorkcity on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ LUCIA. is a techno and breakbeat artist tracked on soundcheck, with 5 sets logge
 
 Brother Bunter, Hidden Order, Pat Bradley
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucia./)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucia./)*

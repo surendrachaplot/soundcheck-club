@@ -1,6 +1,6 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "AWRB Afterhours" on Sat, 5 Sept 2026.
+Nice N Sleazy is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "AWRB Afterhours" on Sat, 5 Sept 2026.
 
 Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including Angel Negrin, Casual Look, Corran and EL PADRE and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 13 upcoming nigh
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

@@ -1,6 +1,6 @@
 # Amaliah
 
-Amaliah is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
+Amaliah is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
 
 Amaliah is a house and techno artist tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside NIKS, Danielle and Call Super. Next up: Vittoria Wharf Studio, London on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Amaliah is a house and techno artist tracked on soundcheck, with 171 sets logged
 
 NIKS, Danielle, Call Super
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*

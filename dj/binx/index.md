@@ -1,6 +1,6 @@
 # Binx
 
-Binx is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Yard, Manchester on Sat, 19 Sept 2026.
+Binx is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Yard, Manchester on Sat, 19 Sept 2026.
 
 Binx is a drum & bass and jungle artist tracked on soundcheck, with 18 sets logged across Berlin, Bristol, Manchester and Paris. Often billed alongside Fav B, Sinda and Rob NG. Next up: The Yard, Manchester on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Binx is a drum & bass and jungle artist tracked on soundcheck, with 18 sets logg
 
 Fav B, Sinda, Rob NG
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binx/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binx/)*

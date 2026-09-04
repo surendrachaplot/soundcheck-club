@@ -1,6 +1,6 @@
 # Pigeon Steve
 
-Pigeon Steve is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hope House, Leeds on Sat, 26 Sept 2026.
+Pigeon Steve is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hope House, Leeds on Sat, 26 Sept 2026.
 
 Pigeon Steve is an acid and house artist tracked on soundcheck, with 37 sets logged across Bristol, Edinburgh, Glasgow and Leeds and 2 more. Often billed alongside dj peanut, babyschön and Manuol Bone. Next up: Hope House, Leeds on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Pigeon Steve is an acid and house artist tracked on soundcheck, with 37 sets log
 
 dj peanut, babyschön, Manuol Bone
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pigeonsteve/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pigeonsteve/)*

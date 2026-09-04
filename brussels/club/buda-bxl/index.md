@@ -1,6 +1,6 @@
 # Buda BXL
 
-Buda BXL is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Forward x Euphorie present: Buda BXL" on Sat, 10 Oct 2026.
+Buda BXL is a music venue in Brussels with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Forward x Euphorie present: Buda BXL" on Sat, 10 Oct 2026.
 
 Buda BXL is a music venue in Brussels listed on soundcheck. 1 upcoming night, with line-ups including Bapow, Domi (FR), Hofmann (BE) and Kensa and 2 more. Browse upcoming dates, start times and who's playing. Chau. de Buda 96, 1130 Bruxelles, Belgium.
 
@@ -14,4 +14,4 @@ Buda BXL is a music venue in Brussels listed on soundcheck. 1 upcoming night, wi
 
 Chau. de Buda 96, 1130 Bruxelles, Belgium, Brussels
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/buda-bxl/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/buda-bxl/)*

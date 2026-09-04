@@ -1,6 +1,6 @@
 # Loucid
 
-Loucid is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Meraki, Liverpool on Fri, 2 Oct 2026.
+Loucid is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Meraki, Liverpool on Fri, 2 Oct 2026.
 
 Loucid is a drum & bass and jungle artist tracked on soundcheck, with 6 sets logged across Liverpool and Paris. Often billed alongside Leon, Tabula Rasa and Acid Oslo. Next up: Meraki, Liverpool on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Loucid is a drum & bass and jungle artist tracked on soundcheck, with 6 sets log
 
 Leon, Tabula Rasa, Acid Oslo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loucid/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loucid/)*

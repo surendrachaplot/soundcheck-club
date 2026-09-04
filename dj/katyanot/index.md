@@ -1,6 +1,6 @@
 # Katyanot
 
-Katyanot is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 4 Sept 2026.
+Katyanot is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mtkvarze, Tbilisi on Fri, 4 Sept 2026.
 
 Katyanot is an electronic artist tracked on soundcheck, with 12 sets logged across Tbilisi. Often billed alongside Bero, Gio Shengelia and Giorgi Devadze. Next up: Mtkvarze, Tbilisi on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Katyanot is an electronic artist tracked on soundcheck, with 12 sets logged acro
 
 Bero, Gio Shengelia, Giorgi Devadze
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katyanot/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katyanot/)*

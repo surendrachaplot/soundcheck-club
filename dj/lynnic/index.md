@@ -1,6 +1,6 @@
 # Lynnic
 
-Lynnic is a Deep House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Cinetol, Amsterdam on Tue, 17 Nov 2026.
+Lynnic is a Deep House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Cinetol, Amsterdam on Tue, 17 Nov 2026.
 
 Lynnic is a deep house and house artist tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 4 more. Often billed alongside Palma Palma. Next up: Cinetol, Amsterdam on Tue 17 Nov.
 
@@ -24,4 +24,4 @@ Lynnic is a deep house and house artist tracked on soundcheck, with 8 sets logge
 
 Palma Palma
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lynnic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lynnic/)*

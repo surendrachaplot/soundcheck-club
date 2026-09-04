@@ -1,6 +1,6 @@
 # Sonhan
 
-Sonhan is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at LAUT, Barcelona on Sat, 19 Sept 2026.
+Sonhan is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at LAUT, Barcelona on Sat, 19 Sept 2026.
 
 Sonhan is a techno and ebm artist based in Belgium, tracked on soundcheck, with 51 sets logged across Antwerp, Barcelona, Berlin and Brussels and 2 more. Often billed alongside Souleiman, Marie-Julie and Phara. Next up: LAUT, Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Sonhan is a techno and ebm artist based in Belgium, tracked on soundcheck, with 
 
 Souleiman, Marie-Julie, Phara
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonhan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonhan/)*

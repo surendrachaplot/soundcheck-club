@@ -1,6 +1,6 @@
 # Oscar Faivre
 
-Oscar Faivre is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
+Oscar Faivre is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
 
 Oscar Faivre is a house and electronica artist based in France, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Frankfurt and Leeds and 6 more. Often billed alongside Quim Clausell, Walrus and Alex Picone. Next up: Club der Visionaere, Berlin on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Oscar Faivre is a house and electronica artist based in France, tracked on sound
 
 Quim Clausell, Walrus, Alex Picone
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfaivre/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarfaivre/)*

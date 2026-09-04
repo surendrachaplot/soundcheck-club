@@ -1,6 +1,6 @@
 # JKO
 
-JKO is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+JKO is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
 JKO is a bass and techno artist tracked on soundcheck, with 6 sets logged across Warsaw. Often billed alongside Doga, Mohji and Yaris. Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ JKO is a bass and techno artist tracked on soundcheck, with 6 sets logged across
 
 Doga, Mohji, Yaris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jko/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jko/)*

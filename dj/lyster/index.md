@@ -1,6 +1,6 @@
 # DJ Lyster
 
-DJ Lyster is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Soup, Manchester on Fri, 4 Sept 2026.
+DJ Lyster is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Soup, Manchester on Fri, 4 Sept 2026.
 
 DJ Lyster is a techno and experimental artist tracked on soundcheck, with 18 sets logged across Berlin, Glasgow, Manchester and Milan and 2 more. Often billed alongside Sockethead, Even Tuell and FUMU. Next up: Soup, Manchester on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Lyster is a techno and experimental artist tracked on soundcheck, with 18 set
 
 Sockethead, Even Tuell, FUMU
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyster/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyster/)*

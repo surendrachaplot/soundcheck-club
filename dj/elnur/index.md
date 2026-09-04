@@ -1,6 +1,6 @@
 # Elnur
 
-Elnur is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Club der Visionaere, Berlin on Fri, 18 Sept 2026.
+Elnur is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club der Visionaere, Berlin on Fri, 18 Sept 2026.
 
 Elnur is a house and tech house artist tracked on soundcheck, with 19 sets logged across Berlin, Copenhagen, Krakow and Prague and 2 more. Often billed alongside Andrii., Eric (UA) and Olga Korol. Next up: Club der Visionaere, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Elnur is a house and tech house artist tracked on soundcheck, with 19 sets logge
 
 Andrii., Eric (UA), Olga Korol
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elnur/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elnur/)*

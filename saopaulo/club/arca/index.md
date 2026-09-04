@@ -1,6 +1,6 @@
 # Arca
 
-Arca is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "The Grid presents: OUTWORLD Klangkuenstler All Night Long" on Sat, 19 Sept 2026.
+Arca is a music venue in Sao Paulo with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "The Grid presents: OUTWORLD Klangkuenstler All Night Long" on Sat, 19 Sept 2026.
 
 Arca is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with line-ups including KlangKuenstler. Browse upcoming dates, start times and who's playing. Av. Manuel Bandeira, 360 - Vila Leopoldina, São Paulo - SP, 05317-020, Brazil.
 
@@ -14,4 +14,4 @@ Arca is a music venue in Saopaulo listed on soundcheck. 1 upcoming night, with l
 
 Av. Manuel Bandeira, 360 - Vila Leopoldina, São Paulo - SP, 05317-020, Brazil, Sao Paulo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/arca/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/arca/)*

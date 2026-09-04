@@ -1,6 +1,6 @@
 # Paul Heron
 
-Paul Heron is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Club, Vauxhall, London on Sat, 12 Sept 2026.
+Paul Heron is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Club, Vauxhall, London on Sat, 12 Sept 2026.
 
 Paul Heron is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin, Brighton and London. Often billed alongside Joel Mignott, S_STEELE and Sam Londt. Next up: Union Club, Vauxhall, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Paul Heron is a house and tech house artist based in United Kingdom, tracked on 
 
 Joel Mignott, S_STEELE, Sam Londt
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulheron/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulheron/)*

@@ -1,6 +1,6 @@
 # Wounder
 
-Wounder is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at M.O.T, London on Wed, 16 Sept 2026.
+Wounder is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at M.O.T, London on Wed, 16 Sept 2026.
 
 Wounder is an experimental and club artist tracked on soundcheck, with 15 sets logged across Berlin, London, Manchester and Vienna. Often billed alongside Crimson Chaos, Kamixlo and Madjestic Kasual. Next up: M.O.T, London on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Wounder is an experimental and club artist tracked on soundcheck, with 15 sets l
 
 Crimson Chaos, Kamixlo, Madjestic Kasual
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wounder/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wounder/)*

@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Detroit Love Labor Day Weekend: Carl Craig b2b Matthew Dear" on Sun, 6 Sept 2026.
+TV Lounge is a music venue in Detroit with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Detroit Love Labor Day Weekend: Carl Craig b2b Matthew Dear" on Sun, 6 Sept 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming nights, with line-ups including AK (US), angela baskets, Bruce Bailey and Carl Craig and 2 more. Browse upcoming dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -20,4 +20,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 7 upcoming nights, w
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

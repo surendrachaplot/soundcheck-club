@@ -1,6 +1,6 @@
 # Club Leidse
 
-Club Leidse is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "𝗖𝗘𝗟𝗘𝗕𝗥𝗔𝗧𝗜𝗡𝗚 𝗟𝗜𝗙𝗘 - 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗕𝗔𝗖𝗞" on Fri, 4 Sept 2026.
+Club Leidse is a music venue in Amsterdam with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "𝗖𝗘𝗟𝗘𝗕𝗥𝗔𝗧𝗜𝗡𝗚 𝗟𝗜𝗙𝗘 - 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗕𝗔𝗖𝗞" on Fri, 4 Sept 2026.
 
 Club Leidse is a music venue in Amsterdam listed on soundcheck. 7 upcoming nights, with line-ups including Daff, Oscar Osorio and Rishi Romero. Browse upcoming dates, start times and who's playing. Kleine-Gartmanplantsoen 11-H 1017 RP Amsterdam.
 
@@ -20,4 +20,4 @@ Club Leidse is a music venue in Amsterdam listed on soundcheck. 7 upcoming night
 
 Kleine-Gartmanplantsoen 11-H 1017 RP Amsterdam, Amsterdam
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-leidse/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-leidse/)*

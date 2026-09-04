@@ -1,6 +1,6 @@
 # Tocadisco
 
-Tocadisco is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
+Tocadisco is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
 
 Tocadisco is a techno artist tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Frankfurt and Stuttgart and 2 more. Often billed alongside DJ Jordan, Teenage Mutants and A.N.I.. Next up: Ritter Butzke, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Tocadisco is a techno artist tracked on soundcheck, with 21 sets logged across B
 
 DJ Jordan, Teenage Mutants, A.N.I.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tocadisco/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tocadisco/)*

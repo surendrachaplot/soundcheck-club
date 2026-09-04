@@ -1,6 +1,6 @@
 # Bassdee
 
-Bassdee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paloma, Berlin on Fri, 9 Oct 2026.
+Bassdee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paloma, Berlin on Fri, 9 Oct 2026.
 
 Bassdee is a house and deep house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Sven von Thülen, Felix K and DB1. Next up: Paloma, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Bassdee is a house and deep house artist based in Germany, tracked on soundcheck
 
 Sven von Thülen, Felix K, DB1
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassdee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bassdee/)*

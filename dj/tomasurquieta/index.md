@@ -1,6 +1,6 @@
 # Tomás Urquieta
 
-Tomás Urquieta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Trans-Pecos, New York City on Fri, 4 Sept 2026.
+Tomás Urquieta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Trans-Pecos, New York City on Fri, 4 Sept 2026.
 
 Tomás Urquieta is a techno and house artist tracked on soundcheck, with 25 sets logged across Barcelona, Mexicocity and Newyorkcity. Often billed alongside LYDO, Practice and Imaabs. Next up: Trans-Pecos, Newyorkcity on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Tomás Urquieta is a techno and house artist tracked on soundcheck, with 25 sets
 
 LYDO, Practice, Imaabs
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasurquieta/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasurquieta/)*

@@ -1,6 +1,6 @@
 # C-systems
 
-C-systems is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Basing House, London on Sat, 12 Sept 2026.
+C-systems is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Basing House, London on Sat, 12 Sept 2026.
 
 C-systems is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London and Losangeles. Often billed alongside DJMrB, Sago and Thiago Genez. Next up: Basing House, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ C-systems is a trance and progressive house artist based in United Kingdom, trac
 
 DJMrB, Sago, Thiago Genez
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c-systems/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/c-systems/)*

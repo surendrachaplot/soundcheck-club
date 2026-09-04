@@ -1,6 +1,6 @@
 # Petal Supply
 
-Petal Supply is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Cafe, San Francisco/Oakland on Thu, 17 Sept 2026.
+Petal Supply is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Cafe, San Francisco/Oakland on Thu, 17 Sept 2026.
 
 Petal Supply is a club and pop artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside umru, HVN (1) and Ard1n. Next up: The Cafe, Sanfrancisco on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Petal Supply is a club and pop artist tracked on soundcheck, with 61 sets logged
 
 umru, HVN (1), Ard1n
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petalsupply/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petalsupply/)*

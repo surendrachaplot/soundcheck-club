@@ -1,6 +1,6 @@
 # Punk Attack
 
-Punk Attack is a Ghetto Tech and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Left Bank, Tbilisi on Sat, 12 Sept 2026.
+Punk Attack is a Ghetto Tech and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Left Bank, Tbilisi on Sat, 12 Sept 2026.
 
 Punk Attack is a ghetto tech and hip-hop artist based in Georgia, tracked on soundcheck, with 18 sets logged across Tbilisi. Often billed alongside borisluvv, Dual Pistols and Ash Scholem. Next up: Left Bank, Tbilisi on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Punk Attack is a ghetto tech and hip-hop artist based in Georgia, tracked on sou
 
 borisluvv, Dual Pistols, Ash Scholem
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/punkattack/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/punkattack/)*

@@ -1,6 +1,6 @@
 # Robag Wruhme
 
-Robag Wruhme is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
+Robag Wruhme is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SAGE, Berlin on Sat, 12 Sept 2026.
 
 Robag Wruhme is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 33 more. Often billed alongside Michael Mayer, Denis Stockhausen and Jonathan Kaspar. Next up: SAGE, Berlin on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Robag Wruhme is a house and techno artist tracked on soundcheck, with 113 sets l
 
 Michael Mayer, Denis Stockhausen, Jonathan Kaspar
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robagwruhme/)*

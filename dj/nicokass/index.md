@@ -1,6 +1,6 @@
 # Nico Kass
 
-Nico Kass is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at IT Athens, Athens on Fri, 25 Sept 2026.
+Nico Kass is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at IT Athens, Athens on Fri, 25 Sept 2026.
 
 Nico Kass is a techno artist based in Greece, tracked on soundcheck, with 9 sets logged across Athens and Hamburg. Often billed alongside 118119, 22 (1) and Bakerman. Next up: IT Athens, Athens on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Nico Kass is a techno artist based in Greece, tracked on soundcheck, with 9 sets
 
 118119, 22 (1), Bakerman
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicokass/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicokass/)*

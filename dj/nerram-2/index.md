@@ -1,6 +1,6 @@
 # Nerram
 
-Nerram is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kazimier Garden, Liverpool on Fri, 11 Sept 2026.
+Nerram is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kazimier Garden, Liverpool on Fri, 11 Sept 2026.
 
 Nerram is a house and techno artist tracked on soundcheck, with 12 sets logged across Liverpool and Manchester. Often billed alongside Elleinad, Allmark and 4D (UK). Next up: Kazimier Garden, Liverpool on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Nerram is a house and techno artist tracked on soundcheck, with 12 sets logged a
 
 Elleinad, Allmark, 4D (UK)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nerram-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nerram-2/)*

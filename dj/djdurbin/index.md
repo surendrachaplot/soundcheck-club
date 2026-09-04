@@ -1,6 +1,6 @@
 # DJ Durbin
 
-DJ Durbin is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
+DJ Durbin is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
 
 DJ Durbin is a techno and club artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Prague. Often billed alongside Tempestfeather, 3Phaz and AAMIROO. Next up: Ankali & Planeta Za, Prague on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ Durbin is a techno and club artist based in Germany, tracked on soundcheck, w
 
 Tempestfeather, 3Phaz, AAMIROO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdurbin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdurbin/)*

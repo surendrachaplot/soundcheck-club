@@ -1,6 +1,6 @@
 # NVWLS
 
-NVWLS is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Big Penny Social, London on Sat, 12 Sept 2026.
+NVWLS is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Big Penny Social, London on Sat, 12 Sept 2026.
 
 NVWLS is a house and club artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside ATOM UK, Ally Tropical and Axel Lewis. Next up: Big Penny Social, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ NVWLS is a house and club artist based in United Kingdom, tracked on soundcheck,
 
 ATOM UK, Ally Tropical, Axel Lewis
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nvwls/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nvwls/)*

@@ -1,6 +1,6 @@
 # Zakes Bantwini
 
-Zakes Bantwini is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 77, London on Sat, 12 Sept 2026.
+Zakes Bantwini is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 77, London on Sat, 12 Sept 2026.
 
 Zakes Bantwini is an afro house and afro tech artist based in South Africa, tracked on soundcheck, with 10 sets logged across Amsterdam, Bali, London and Mexicocity and 2 more. Often billed alongside Kususa, Alexandthere and Andro. Next up: 77, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Zakes Bantwini is an afro house and afro tech artist based in South Africa, trac
 
 Kususa, Alexandthere, Andro
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zakesbantwini/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zakesbantwini/)*

@@ -1,6 +1,6 @@
 # Banksie
 
-Banksie is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
+Banksie is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
 Banksie is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London, Manchester and Paris. Often billed alongside Acid Kids, Annie Errez and Brian Smith. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Banksie is a deep house and tech house artist based in United Kingdom, tracked o
 
 Acid Kids, Annie Errez, Brian Smith
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/banksie/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/banksie/)*

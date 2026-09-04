@@ -1,6 +1,6 @@
 # Lux18
 
-Lux18 is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Eglise Saint-Remi, Brussels on Sat, 12 Sept 2026.
+Lux18 is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Eglise Saint-Remi, Brussels on Sat, 12 Sept 2026.
 
 Lux18 is an electronic artist tracked on soundcheck, with 5 sets logged across Brussels and Paris. Often billed alongside fetva, notinbed and Assyouti. Next up: Eglise Saint-Remi, Brussels on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Lux18 is an electronic artist tracked on soundcheck, with 5 sets logged across B
 
 fetva, notinbed, Assyouti
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*

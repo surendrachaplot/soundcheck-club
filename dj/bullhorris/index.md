@@ -1,6 +1,6 @@
 # Bull Horris
 
-Bull Horris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 2 Oct 2026.
+Bull Horris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 2 Oct 2026.
 
 Bull Horris is a house and techno artist tracked on soundcheck, with 36 sets logged across Belfast, Berlin, Dublin and London and 1 more. Often billed alongside Mercorn, Tadhg K and Cáit. Next up: Yamamori Tengu, Dublin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Bull Horris is a house and techno artist tracked on soundcheck, with 36 sets log
 
 Mercorn, Tadhg K, Cáit
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bullhorris/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bullhorris/)*

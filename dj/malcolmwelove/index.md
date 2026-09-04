@@ -1,6 +1,6 @@
 # Malcolm WeLove
 
-Malcolm WeLove is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Horse & Groom, London on Sat, 24 Oct 2026.
+Malcolm WeLove is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Horse & Groom, London on Sat, 24 Oct 2026.
 
 Malcolm WeLove is a house and deep house artist tracked on soundcheck, with 11 sets logged across Leeds and London. Often billed alongside Jagu, Bod Min and Dimitry Soul. Next up: The Horse & Groom, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Malcolm WeLove is a house and deep house artist tracked on soundcheck, with 11 s
 
 Jagu, Bod Min, Dimitry Soul
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmwelove/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmwelove/)*

@@ -1,6 +1,6 @@
 # Ann Mysochka
 
-Ann Mysochka is a Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Renate, Berlin on Sun, 6 Sept 2026.
+Ann Mysochka is a Bass and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Renate, Berlin on Sun, 6 Sept 2026.
 
 Ann Mysochka is a bass and breakbeat artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Lyon and Marseille and 2 more. Often billed alongside Habitat Shaking, Terikon and Udda. Next up: Renate, Berlin on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Ann Mysochka is a bass and breakbeat artist tracked on soundcheck, with 21 sets 
 
 Habitat Shaking, Terikon, Udda
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annmysochka/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annmysochka/)*

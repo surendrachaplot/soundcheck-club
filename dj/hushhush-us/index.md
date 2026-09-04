@@ -1,6 +1,6 @@
 # Hush Hush (US)
 
-Hush Hush (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Schubas, Chicago on Fri, 4 Sept 2026.
+Hush Hush (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Schubas, Chicago on Fri, 4 Sept 2026.
 
 Hush Hush (US) is a house and deep house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Austin, Chicago, Losangeles and Nashville and 2 more. Often billed alongside Thale, Ian Llorens and Janesita. Next up: Schubas, Chicago on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Hush Hush (US) is a house and deep house artist based in United States of Americ
 
 Thale, Ian Llorens, Janesita
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hushhush-us/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hushhush-us/)*

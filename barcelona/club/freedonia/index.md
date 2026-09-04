@@ -1,6 +1,6 @@
 # Freedonia
 
-Freedonia is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Kazanova Club Pres: Jo Kazan, Alphanova, Hannahluya, Better Late" on Fri, 11 Sept 2026.
+Freedonia is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kazanova Club Pres: Jo Kazan, Alphanova, Hannahluya, Better Late" on Fri, 11 Sept 2026.
 
 Freedonia is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Alphanova, Better Late, HannahLuyah and Heinech and 2 more. Browse upcoming dates, start times and who's playing. Carrer de la Lleialtat, 6, 08001 Raval, Barcelona.
 
@@ -15,4 +15,4 @@ Freedonia is a music venue in Barcelona listed on soundcheck. 2 upcoming nights,
 
 Carrer de la Lleialtat, 6, 08001 Raval, Barcelona, Barcelona
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/freedonia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/freedonia/)*

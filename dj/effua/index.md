@@ -1,6 +1,6 @@
 # effua
 
-effua is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Prince of Wales, London on Fri, 4 Sept 2026.
+effua is a Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Prince of Wales, London on Fri, 4 Sept 2026.
 
 effua is a bass and baile funk artist tracked on soundcheck, with 53 sets logged across Edinburgh, Glasgow and London. Often billed alongside Babyjaii, Miss Cabbage and Plantainchipps. Next up: The Prince of Wales, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ effua is a bass and baile funk artist tracked on soundcheck, with 53 sets logged
 
 Babyjaii, Miss Cabbage, Plantainchipps
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/effua/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/effua/)*

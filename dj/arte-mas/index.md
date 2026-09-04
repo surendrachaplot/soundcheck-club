@@ -1,6 +1,6 @@
 # ARTE-MAS
 
-ARTE-MAS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at John Doe, Amsterdam on Fri, 25 Sept 2026.
+ARTE-MAS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at John Doe, Amsterdam on Fri, 25 Sept 2026.
 
 ARTE-MAS is a techno and house artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam. Often billed alongside Sam Rose, Alex Sharp and Guy Didden. Next up: John Doe, Amsterdam on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ ARTE-MAS is a techno and house artist based in Netherlands, tracked on soundchec
 
 Sam Rose, Alex Sharp, Guy Didden
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arte-mas/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arte-mas/)*

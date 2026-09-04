@@ -1,14 +1,13 @@
 # OMC (UK)
 
-OMC (UK) is a House and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Distillery, Leipzig on Fri, 4 Sept 2026.
+OMC (UK) is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Glove That Fits, London on Fri, 30 Oct 2026.
 
-OMC (UK) is a house and dubstep artist tracked on soundcheck, with 6 sets logged across Leipzig and London. Often billed alongside GAZZA (UK), Ardishko and NAFEESA. Next up: Distillery, Leipzig on Fri 4 Sept.
+OMC (UK) is a house and garage artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside GAZZA (UK), Ardishko and NAFEESA. Next up: The Glove That Fits, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Distillery | Leipzig |
 | Fri, 30 Oct 2026 | The Glove That Fits | London |
 
 ## Recently played
@@ -22,4 +21,4 @@ OMC (UK) is a house and dubstep artist tracked on soundcheck, with 6 sets logged
 
 GAZZA (UK), Ardishko, NAFEESA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omcuk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omcuk/)*

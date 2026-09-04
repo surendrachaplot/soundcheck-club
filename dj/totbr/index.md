@@ -1,6 +1,6 @@
 # TOT (BR)
 
-TOT (BR) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 18 Sept 2026.
+TOT (BR) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 18 Sept 2026.
 
 TOT (BR) is a house and electro artist based in Brazil, tracked on soundcheck, with 8 sets logged across Barcelona, Berlin, London and Saopaulo. Often billed alongside Gartzzea, Silat Beksi and Bttologic. Next up: Sunseabar Beach Club, Barcelona on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ TOT (BR) is a house and electro artist based in Brazil, tracked on soundcheck, w
 
 Gartzzea, Silat Beksi, Bttologic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/totbr/)*

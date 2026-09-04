@@ -1,6 +1,6 @@
 # Satta B
 
-Satta B is a Garage and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Garage 442, Barcelona on Fri, 11 Sept 2026.
+Satta B is a Garage and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Garage 442, Barcelona on Fri, 11 Sept 2026.
 
 Satta B is a garage and broken beat artist tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Omega III, Sunny Graves and Chunky. Next up: Garage 442, Barcelona on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Satta B is a garage and broken beat artist tracked on soundcheck, with 5 sets lo
 
 Omega III, Sunny Graves, Chunky
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sattab/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sattab/)*

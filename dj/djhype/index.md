@@ -1,6 +1,6 @@
 # DJ Hype
 
-DJ Hype is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Phonox, London on Fri, 4 Sept 2026.
+DJ Hype is a Jungle and Drum & Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Phonox, London on Fri, 4 Sept 2026.
 
 DJ Hype is a jungle and drum & bass artist tracked on soundcheck, with 79 sets logged across Amsterdam, Bangkok, Berlin and Birmingham and 18 more. Often billed alongside IC3, Nicky Blackmarket and Kenny Ken. Next up: Phonox, London on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ DJ Hype is a jungle and drum & bass artist tracked on soundcheck, with 79 sets l
 
 IC3, Nicky Blackmarket, Kenny Ken
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhype/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhype/)*

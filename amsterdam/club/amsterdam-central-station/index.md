@@ -1,6 +1,6 @@
 # Amsterdam Central Station
 
-Amsterdam Central Station is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Lelantus ADE TRAIN - Sunset Experience [LAST 30 TICKETS] " on Fri, 23 Oct 2026.
+Amsterdam Central Station is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Lelantus ADE TRAIN - Sunset Experience [LAST 30 TICKETS] " on Fri, 23 Oct 2026.
 
 Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including Javier Anxiety, Albin Brezlan, Andrew Rayel and Barbara Tucker and 2 more. Browse upcoming dates, start times and who's playing. Stationsplein, 1012 AB Amsterdam, Netherlands.
 
@@ -16,4 +16,4 @@ Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 3 
 
 Stationsplein, 1012 AB Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*

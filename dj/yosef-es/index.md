@@ -1,13 +1,14 @@
 # Yosef (ES)
 
-Yosef (ES) is a Garage and Electronica artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Skatecafe, Amsterdam on Sat, 5 Sept 2026.
+Yosef (ES) is a Garage and Electronica artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club Magno, Madrid on Thu, 3 Sept 2026.
 
-Yosef (ES) is a garage and electronica artist based in Spain, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Copenhagen and Madrid and 2 more. Often billed alongside Diego Armando, Maxvll and Keiranai. Next up: Skatecafe, Amsterdam on Sat 5 Sept.
+Yosef (ES) is a garage and electronica artist based in Spain, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Copenhagen and Madrid and 2 more. Often billed alongside Diego Armando, Maxvll and Keiranai. Next up: Club Magno, Madrid on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Club Magno | Madrid |
 | Sat, 5 Sept 2026 | Skatecafe | Amsterdam |
 | Thu, 24 Sept 2026 | Club Magno | Madrid |
 | Thu, 1 Oct 2026 | Club Magno | Madrid |
@@ -16,7 +17,6 @@ Yosef (ES) is a garage and electronica artist based in Spain, tracked on soundch
 
 ## Recently played
 
-- Club Magno, Madrid — Thu, 3 Sept 2026
 - Razzmatazz, Barcelona — Fri, 21 Aug 2026
 - Grain Haus, Seoul — Sat, 8 Aug 2026
 - Razzmatazz, Barcelona — Fri, 31 Jul 2026
@@ -24,9 +24,10 @@ Yosef (ES) is a garage and electronica artist based in Spain, tracked on soundch
 - Sala ART, Madrid — Thu, 21 May 2026
 - Sala ART, Madrid — Sat, 2 May 2026
 - Sala ART, Madrid — Sat, 25 Apr 2026
+- Razzmatazz, Barcelona — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Diego Armando, Maxvll, Keiranai
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef-es/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yosef-es/)*

@@ -1,6 +1,6 @@
 # Pacha
 
-Pacha is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "FreitagNacht with Moonbootica, Michael Nowak" on Fri, 4 Sept 2026.
+Pacha is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "FreitagNacht with Moonbootica, Michael Nowak" on Fri, 4 Sept 2026.
 
 Pacha is a music venue in Munich listed on soundcheck. 7 upcoming nights, with line-ups including AMÉMÉ, CHOOSE WHITE, Deep Dish and Felipe de M. and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -20,4 +20,4 @@ Pacha is a music venue in Munich listed on soundcheck. 7 upcoming nights, with l
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

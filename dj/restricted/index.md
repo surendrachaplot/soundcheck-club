@@ -1,6 +1,6 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Brooklyn Storehouse, New York City on Sun, 6 Sept 2026.
+Restricted is a Techno and Hardcore artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Brooklyn Storehouse, New York City on Sun, 6 Sept 2026.
 
 Restricted is a techno and hardcore artist tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Azyr, JAZZY (2) and Vieze Asbak. Next up: Brooklyn Storehouse, Newyorkcity on Sun 6 Sept.
 
@@ -32,4 +32,4 @@ Restricted is a techno and hardcore artist tracked on soundcheck, with 72 sets l
 
 Azyr, JAZZY (2), Vieze Asbak
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

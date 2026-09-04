@@ -1,6 +1,6 @@
 # TBA -  47.414841, 19.310285
 
-TBA -  47.414841, 19.310285 is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Planewatching  14 // BUD2 Ferihegy" on Sat, 5 Sept 2026.
+TBA -  47.414841, 19.310285 is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Planewatching  14 // BUD2 Ferihegy" on Sat, 5 Sept 2026.
 
 TBA -  47.414841, 19.310285 is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Andrija Jäger, Cvrdwell, Jaffa Surfa and Vladislow and 1 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA -  47.414841, 19.310285 is a music venue in Budapest listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Planewatching  14 // BUD2 Ferihegy | Andrija Jäger, Cvrdwell, Jaffa Surfa, Vladislow, Zerogee |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-47-414841-19-310285/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-47-414841-19-310285/)*

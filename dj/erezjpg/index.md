@@ -1,6 +1,6 @@
 # EREZ.JPG
 
-EREZ.JPG is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Rhythm, Toronto on Sat, 19 Sept 2026.
+EREZ.JPG is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Rhythm, Toronto on Sat, 19 Sept 2026.
 
 EREZ.JPG is a house and minimal artist based in United States of America, tracked on soundcheck, with 42 sets logged across Detroit, Losangeles, Miami and Newyorkcity and 1 more. Often billed alongside shanty mane, Armii1n and Bella Mutino. Next up: Rhythm, Toronto on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ EREZ.JPG is a house and minimal artist based in United States of America, tracke
 
 shanty mane, Armii1n, Bella Mutino
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*

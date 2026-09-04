@@ -1,6 +1,6 @@
 # Sebastiaan Hooft
 
-Sebastiaan Hooft is a Minimal and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Paradiso, Amsterdam on Fri, 4 Sept 2026.
+Sebastiaan Hooft is a Minimal and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Paradiso, Amsterdam on Fri, 4 Sept 2026.
 
 Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam and Ibiza. Often billed alongside AFAR, Bi Män and Dana Ruh. Next up: Paradiso, Amsterdam on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Sebastiaan Hooft is a minimal and tech house artist based in Netherlands, tracke
 
 AFAR, Bi Män, Dana Ruh
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiaanhooft/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiaanhooft/)*

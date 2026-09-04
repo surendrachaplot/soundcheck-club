@@ -1,6 +1,6 @@
 # RAFE
 
-RAFE is a Grime and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
+RAFE is a Grime and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
 
 RAFE is a grime and tech house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Drime, Brian Smith and CHLO (UK). Next up: Planet Wax, London on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ RAFE is a grime and tech house artist based in United Kingdom, tracked on soundc
 
 Drime, Brian Smith, CHLO (UK)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafe/)*

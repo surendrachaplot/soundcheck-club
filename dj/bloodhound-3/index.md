@@ -1,6 +1,6 @@
 # BLOODHOUND (3)
 
-BLOODHOUND (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location, Chicago on Sat, 5 Sept 2026.
+BLOODHOUND (3) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret Location, Chicago on Sat, 5 Sept 2026.
 
 BLOODHOUND (3) is a house and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Antwerp, Chicago and Losangeles. Often billed alongside DJ Sakee, Esteban Adame and Kosmik. Next up: TBA - Secret Location, Chicago on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ BLOODHOUND (3) is a house and techno artist based in United States of America, t
 
 DJ Sakee, Esteban Adame, Kosmik
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodhound-3/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodhound-3/)*

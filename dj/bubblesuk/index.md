@@ -1,6 +1,6 @@
 # Bubbles (UK)
 
-Bubbles (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fluid510, San Francisco/Oakland on Sat, 12 Sept 2026.
+Bubbles (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fluid510, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Bubbles (UK) is a house and techno artist tracked on soundcheck, with 9 sets logged across Mexicocity, Sanfrancisco, Sheffield and Tokyo. Often billed alongside Backseat Driver, Paniolo and Host (CA). Next up: Fluid510, Sanfrancisco on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bubbles (UK) is a house and techno artist tracked on soundcheck, with 9 sets log
 
 Backseat Driver, Paniolo, Host (CA)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bubblesuk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bubblesuk/)*

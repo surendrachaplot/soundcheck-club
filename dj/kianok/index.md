@@ -1,6 +1,6 @@
 # Kian OK
 
-Kian OK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jolene Downtown Miami, Miami on Fri, 25 Sept 2026.
+Kian OK is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jolene Downtown Miami, Miami on Fri, 25 Sept 2026.
 
 Kian OK is a house and techno artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Ghent and London and 4 more. Often billed alongside Bowyer, Kyle Toole and Picasso. Next up: Jolene Downtown Miami, Miami on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Kian OK is a house and techno artist based in United Kingdom, tracked on soundch
 
 Bowyer, Kyle Toole, Picasso
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kianok/)*

@@ -1,6 +1,6 @@
 # NDK
 
-NDK is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at WOMB, Tokyo on Sat, 5 Sept 2026.
+NDK is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at WOMB, Tokyo on Sat, 5 Sept 2026.
 
 NDK is a trance and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Boston, Melbourne and Tokyo. Often billed alongside BEPPU, Jay Turio and TORUKK. Next up: WOMB, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ NDK is a trance and techno artist based in United States of America, tracked on 
 
 BEPPU, Jay Turio, TORUKK
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ndk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ndk/)*

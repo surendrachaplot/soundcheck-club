@@ -1,6 +1,6 @@
 # Goa'98
 
-Goa'98 is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Club M2 Miami, Miami on Fri, 4 Sept 2026.
+Goa'98 is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club M2 Miami, Miami on Fri, 4 Sept 2026.
 
 Goa'98 is a progressive house and techno artist tracked on soundcheck, with 18 sets logged across Miami and Philadelphia. Often billed alongside Kobza, Maddalena and Mayank. Next up: Club M2 Miami, Miami on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Goa'98 is a progressive house and techno artist tracked on soundcheck, with 18 s
 
 Kobza, Maddalena, Mayank
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goa98/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goa98/)*

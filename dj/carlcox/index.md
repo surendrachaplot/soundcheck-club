@@ -1,6 +1,6 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Lisboa, Lisbon on Sat, 5 Sept 2026.
+Carl Cox is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Lisboa, Lisbon on Sat, 5 Sept 2026.
 
 Carl Cox is a techno and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Auckland and Austin and 42 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: TBA - Lisboa, Lisbon on Sat 5 Sept.
 
@@ -35,4 +35,4 @@ Carl Cox is a techno and house artist tracked on soundcheck, with 132 sets logge
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

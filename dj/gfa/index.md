@@ -1,6 +1,6 @@
 # GFA
 
-GFA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hidden, Manchester on Sat, 12 Sept 2026.
+GFA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hidden, Manchester on Sat, 12 Sept 2026.
 
 GFA is a techno and trance artist tracked on soundcheck, with 43 sets logged across Belfast, Glasgow, Leeds and Liverpool and 3 more. Often billed alongside Cersy, Lyonsy and Model Citizen. Next up: Hidden, Manchester on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ GFA is a techno and trance artist tracked on soundcheck, with 43 sets logged acr
 
 Cersy, Lyonsy, Model Citizen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gfa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gfa/)*

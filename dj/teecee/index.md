@@ -1,6 +1,6 @@
 # Teecee
 
-Teecee is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Elsewhere, New York City on Fri, 4 Sept 2026.
+Teecee is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Elsewhere, New York City on Fri, 4 Sept 2026.
 
 Teecee is a house and club artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Brant Wolff, DJ ing and To The End.. Next up: Elsewhere, Newyorkcity on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ Teecee is a house and club artist tracked on soundcheck, with 6 sets logged acro
 
 Brant Wolff, DJ ing, To The End.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teecee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teecee/)*

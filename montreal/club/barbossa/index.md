@@ -1,6 +1,6 @@
 # Barbossa
 
-Barbossa is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Zik Selectors" on Fri, 18 Sept 2026.
+Barbossa is a music venue in Montreal with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Zik Selectors" on Fri, 18 Sept 2026.
 
 Barbossa is a music venue in Montreal listed on soundcheck. 2 upcoming nights, with line-ups including BADJUDA, Cidoine, Grid and Juju le Moko. Browse upcoming dates, start times and who's playing. 3956 A St Laurent Blvd, Montreal, Quebec H2W 1Y3, Canada.
 
@@ -15,4 +15,4 @@ Barbossa is a music venue in Montreal listed on soundcheck. 2 upcoming nights, w
 
 3956 A St Laurent Blvd, Montreal, Quebec H2W 1Y3, Canada, Montreal
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/barbossa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/barbossa/)*

@@ -1,6 +1,6 @@
 # The Trusts Stadium
 
-The Trusts Stadium is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "DnB Allstars (Auckland)" on Sat, 3 Oct 2026.
+The Trusts Stadium is a music venue in Auckland with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "DnB Allstars (Auckland)" on Sat, 3 Oct 2026.
 
 The Trusts Stadium is a music venue in Auckland listed on soundcheck. 2 upcoming nights, with line-ups including Camo & Krooked, Crossy, Disrupta and Eksman and 2 more. Browse upcoming dates, start times and who's playing. 65-67 Central Park Dr, Henderson, Auckland 0610, New Zealand.
 
@@ -15,4 +15,4 @@ The Trusts Stadium is a music venue in Auckland listed on soundcheck. 2 upcoming
 
 65-67 Central Park Dr, Henderson, Auckland 0610, New Zealand, Auckland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-trusts-stadium/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-trusts-stadium/)*

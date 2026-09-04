@@ -1,6 +1,6 @@
 # Tommy Lewis
 
-Tommy Lewis is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at NWHR, Montreal on Sat, 5 Sept 2026.
+Tommy Lewis is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at NWHR, Montreal on Sat, 5 Sept 2026.
 
 Tommy Lewis is a techno and minimal artist tracked on soundcheck, with 32 sets logged across Amsterdam, Austin, Berlin and Leipzig and 10 more. Often billed alongside Reid Fernando, esme (US) and CULT. Next up: NWHR, Montreal on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Tommy Lewis is a techno and minimal artist tracked on soundcheck, with 32 sets l
 
 Reid Fernando, esme (US), CULT
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylewis/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommylewis/)*

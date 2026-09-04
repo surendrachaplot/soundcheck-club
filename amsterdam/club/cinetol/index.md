@@ -1,6 +1,6 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 25 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Zoë Low" on Tue, 8 Sept 2026.
+Cinetol is a music venue in Amsterdam with 25 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Zoë Low" on Tue, 8 Sept 2026.
 
 Cinetol is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, with line-ups including AFAR, Camy Huot, Deep Forest and echofarmer and 2 more. Browse upcoming dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
@@ -23,4 +23,4 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 25 upcoming nights, 
 
 Tolstraat 182, 1074VM Amsterdam, Amsterdam
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*

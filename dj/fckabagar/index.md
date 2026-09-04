@@ -1,6 +1,6 @@
 # FC Kabagar
 
-FC Kabagar is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mia Mao, Paris on Sat, 12 Sept 2026.
+FC Kabagar is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mia Mao, Paris on Sat, 12 Sept 2026.
 
 FC Kabagar is a techno and trance artist based in France, tracked on soundcheck, with 13 sets logged across Berlin, Madrid, Nantes and Paris. Often billed alongside DJ Football, EARGASM GOD and KLÖSS. Next up: Mia Mao, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ FC Kabagar is a techno and trance artist based in France, tracked on soundcheck,
 
 DJ Football, EARGASM GOD, KLÖSS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fckabagar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fckabagar/)*

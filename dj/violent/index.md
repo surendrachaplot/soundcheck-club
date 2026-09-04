@@ -1,6 +1,6 @@
 # Violent
 
-Violent is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mastak, Warsaw on Fri, 4 Sept 2026.
+Violent is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mastak, Warsaw on Fri, 4 Sept 2026.
 
 Violent is a techno and industrial artist tracked on soundcheck, with 20 sets logged across Berlin, Krakow and Warsaw. Often billed alongside MERVH, Sabre (PL) and BEXA. Next up: Mastak, Warsaw on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Violent is a techno and industrial artist tracked on soundcheck, with 20 sets lo
 
 MERVH, Sabre (PL), BEXA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violent/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violent/)*

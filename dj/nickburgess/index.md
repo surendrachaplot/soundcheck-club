@@ -1,15 +1,14 @@
 # Nick Burgess
 
-Nick Burgess is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Strays, Detroit on Fri, 18 Sept 2026.
+Nick Burgess is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Strays, Detroit on Fri, 18 Sept 2026.
 
-Nick Burgess is a techno and ebm artist based in United States of America, tracked on soundcheck, with 54 sets logged across Detroit. Often billed alongside madeofants, Colliding Pins and LATEX GIRL. Next up: The Strays, Detroit on Fri 18 Sept.
+Nick Burgess is a techno and ebm artist based in United States of America, tracked on soundcheck, with 53 sets logged across Detroit. Often billed alongside madeofants, Colliding Pins and LATEX GIRL. Next up: The Strays, Detroit on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Strays | Detroit |
-| Sat, 3 Oct 2026 | Tangent Gallery | Detroit |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Nick Burgess is a techno and ebm artist based in United States of America, track
 
 madeofants, Colliding Pins, LATEX GIRL
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickburgess/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickburgess/)*

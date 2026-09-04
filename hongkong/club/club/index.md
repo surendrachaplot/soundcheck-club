@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 19 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "宀 Invites Taku Hirayama (Junction, Da Nang) + Stevie Whisper (YES, Belgrade)" on Fri, 4 Sept 2026.
+宀 Club is a music venue in Hong Kong with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "宀 Invites Taku Hirayama (Junction, Da Nang) + Stevie Whisper (YES, Belgrade)" on Fri, 4 Sept 2026.
 
 宀 Club is a music venue in Hongkong listed on soundcheck. 19 upcoming nights, with line-ups including 69DB, Andy-S, A Strange Wedding and Carl H and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

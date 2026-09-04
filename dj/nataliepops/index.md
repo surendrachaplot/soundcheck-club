@@ -1,6 +1,6 @@
 # nataliepops
 
-nataliepops is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+nataliepops is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 nataliepops is a techno and house artist tracked on soundcheck, with 71 sets logged across Mexicocity, Newyorkcity and Washingtondc. Often billed alongside ethereal.mvp, Pacha DJ and kyxm. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ nataliepops is a techno and house artist tracked on soundcheck, with 71 sets log
 
 ethereal.mvp, Pacha DJ, kyxm
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliepops/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliepops/)*

@@ -1,6 +1,6 @@
 # Jacq Jill
 
-Jacq Jill is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Jacq Jill is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Jacq Jill is a techno and house artist based in United States of America, tracked on soundcheck, with 62 sets logged across Amsterdam, Losangeles, Newyorkcity and Portland and 2 more. Often billed alongside Joyce Lim, Baronhawk Poitier and flotussin. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jacq Jill is a techno and house artist based in United States of America, tracke
 
 Joyce Lim, Baronhawk Poitier, flotussin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacqjill/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacqjill/)*

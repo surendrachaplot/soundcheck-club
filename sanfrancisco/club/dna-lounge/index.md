@@ -1,6 +1,6 @@
 # DNA Lounge
 
-DNA Lounge is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "After Life: Dark Electronica Experience" on Sat, 5 Sept 2026.
+DNA Lounge is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "After Life: Dark Electronica Experience" on Sat, 5 Sept 2026.
 
 DNA Lounge is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights, with line-ups including Miss Gia, Saint Triste and Synchronometry. Browse upcoming dates, start times and who's playing. 375 Eleventh Street, San Francisco, CA 94103, United States.
 
@@ -19,4 +19,4 @@ DNA Lounge is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nig
 
 375 Eleventh Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/dna-lounge/)*

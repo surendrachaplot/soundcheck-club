@@ -1,15 +1,14 @@
 # André Dancekowski
 
-André Dancekowski is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at ://about blank, Berlin on Sun, 13 Sept 2026.
+André Dancekowski is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ://about blank, Berlin on Sun, 13 Sept 2026.
 
-André Dancekowski is a house and techno artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin, Brussels, Cologne and Dublin and 6 more. Often billed alongside Mikey Gee, karete bu and Black Loops. Next up: ://about blank, Berlin on Sun 13 Sept.
+André Dancekowski is a house and techno artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin, Brussels, Cologne and Dublin and 6 more. Often billed alongside Mikey Gee, karete bu and Black Loops. Next up: ://about blank, Berlin on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | ://about blank | Berlin |
-| Fri, 18 Sept 2026 | Goldener Reiter | Munich |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ André Dancekowski is a house and techno artist based in Germany, tracked on sou
 
 Mikey Gee, karete bu, Black Loops
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*

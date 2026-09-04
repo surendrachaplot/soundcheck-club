@@ -1,6 +1,6 @@
 # RYKER
 
-RYKER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 18 Sept 2026.
+RYKER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bossa Nova Civic Club, New York City on Fri, 18 Sept 2026.
 
 RYKER is a techno and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Miami and Newyorkcity. Often billed alongside Ian Crane, Juliana Huxtable and OZA. Next up: Bossa Nova Civic Club, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ RYKER is a techno and house artist based in United States of America, tracked on
 
 Ian Crane, Juliana Huxtable, OZA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryker/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryker/)*

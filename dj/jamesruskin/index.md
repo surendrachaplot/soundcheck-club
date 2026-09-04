@@ -1,6 +1,6 @@
 # James Ruskin
 
-James Ruskin is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Sat, 5 Sept 2026.
+James Ruskin is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Sat, 5 Sept 2026.
 
 James Ruskin is a techno and electro artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside Regis, Cecilia Tosh and Kr!z. Next up: Tresor / Globus, Berlin on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ James Ruskin is a techno and electro artist tracked on soundcheck, with 59 sets 
 
 Regis, Cecilia Tosh, Kr!z
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesruskin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesruskin/)*

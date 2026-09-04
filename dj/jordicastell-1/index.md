@@ -1,6 +1,6 @@
 # Jordi Castell (1)
 
-Jordi Castell (1) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Oven Club, Valencia on Fri, 4 Sept 2026.
+Jordi Castell (1) is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Oven Club, Valencia on Fri, 4 Sept 2026.
 
 Jordi Castell (1) is a house and electronica artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Madrid and Valencia. Often billed alongside Alvaro Medina, Federico Molinari and Nekes. Next up: Oven Club, Valencia on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jordi Castell (1) is a house and electronica artist based in Spain, tracked on s
 
 Alvaro Medina, Federico Molinari, Nekes
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordicastell-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordicastell-1/)*

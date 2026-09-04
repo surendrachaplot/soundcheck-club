@@ -1,6 +1,6 @@
 # OlivR
 
-OlivR is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Vajdahunyad Castle, Budapest on Sat, 19 Sept 2026.
+OlivR is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Vajdahunyad Castle, Budapest on Sat, 19 Sept 2026.
 
 OlivR is a drum & bass and jungle artist based in Hungary, tracked on soundcheck, with 18 sets logged across Budapest. Often billed alongside Zentie, Chris.SU and D. Kay. Next up: Vajdahunyad Castle, Budapest on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ OlivR is a drum & bass and jungle artist based in Hungary, tracked on soundcheck
 
 Zentie, Chris.SU, D. Kay
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olivr/)*

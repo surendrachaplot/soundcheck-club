@@ -1,6 +1,6 @@
 # Pursuit Grooves
 
-Pursuit Grooves is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bsmt 254, Toronto on Mon, 7 Sept 2026.
+Pursuit Grooves is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bsmt 254, Toronto on Mon, 7 Sept 2026.
 
 Pursuit Grooves is a house and techno artist tracked on soundcheck, with 16 sets logged across Toronto. Often billed alongside Nicholas Nothing, AMV.3 and Ceremonies. Next up: Bsmt 254, Toronto on Mon 7 Sept.
 
@@ -26,4 +26,4 @@ Pursuit Grooves is a house and techno artist tracked on soundcheck, with 16 sets
 
 Nicholas Nothing, AMV.3, Ceremonies
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pursuit-grooves/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pursuit-grooves/)*

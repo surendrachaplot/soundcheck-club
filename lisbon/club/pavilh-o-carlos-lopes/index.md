@@ -1,6 +1,6 @@
 # Pavilhão Carlos Lopes
 
-Pavilhão Carlos Lopes is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "DVRKSUN 11 with Fantasm AND MORE" on Fri, 2 Oct 2026.
+Pavilhão Carlos Lopes is a music venue in Lisbon with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "DVRKSUN 11 with Fantasm AND MORE" on Fri, 2 Oct 2026.
 
 Pavilhão Carlos Lopes is a music venue in Lisbon listed on soundcheck. 3 upcoming nights, with line-ups including AARON SEVILLA, Bridge (NY), Chris Stassy and Dan Shake and 2 more. Browse upcoming dates, start times and who's playing. Pavilhão Carlos Lopes, 1070-051 Lisboa, Portugal.
 
@@ -16,4 +16,4 @@ Pavilhão Carlos Lopes is a music venue in Lisbon listed on soundcheck. 3 upcomi
 
 Pavilhão Carlos Lopes, 1070-051 Lisboa, Portugal, Lisbon
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/pavilh-o-carlos-lopes/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/pavilh-o-carlos-lopes/)*

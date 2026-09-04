@@ -1,6 +1,6 @@
 # UPRFXR
 
-UPRFXR is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mood Ring, New York City on Thu, 17 Sept 2026.
+UPRFXR is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mood Ring, New York City on Thu, 17 Sept 2026.
 
 UPRFXR is an electro and acid artist based in United States of America, tracked on soundcheck, with 11 sets logged across Newyorkcity. Often billed alongside Rob Seurat, L.F.T. and Fabiola. Next up: Mood Ring, Newyorkcity on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ UPRFXR is an electro and acid artist based in United States of America, tracked 
 
 Rob Seurat, L.F.T., Fabiola
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uprfxr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uprfxr/)*

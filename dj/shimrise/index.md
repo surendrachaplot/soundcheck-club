@@ -1,6 +1,6 @@
 # Shimrise
 
-Shimrise is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at E1, London on Sat, 12 Sept 2026.
+Shimrise is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at E1, London on Sat, 12 Sept 2026.
 
 Shimrise is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across London and Manchester. Often billed alongside Rich Reason, Chunky and Obeka. Next up: E1, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Shimrise is a house and tech house artist based in United Kingdom, tracked on so
 
 Rich Reason, Chunky, Obeka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimrise/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimrise/)*

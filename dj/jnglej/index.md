@@ -1,6 +1,6 @@
 # JNGLEJ
 
-JNGLEJ is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Departamento, Mexico City on Wed, 2 Sept 2026.
+JNGLEJ is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Departamento, Mexico City on Wed, 2 Sept 2026.
 
 JNGLEJ is a house and deep house artist tracked on soundcheck, with 24 sets logged across Mexicocity. Often billed alongside Barreto, papa jazz and Irena Stanisic. Next up: Departamento, Mexicocity on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ JNGLEJ is a house and deep house artist tracked on soundcheck, with 24 sets logg
 
 Barreto, papa jazz, Irena Stanisic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jnglej/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jnglej/)*

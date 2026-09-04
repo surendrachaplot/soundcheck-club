@@ -1,6 +1,6 @@
 # Saktu
 
-Saktu is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Duke Of Tokyo, Amsterdam on Wed, 21 Oct 2026.
+Saktu is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Duke Of Tokyo, Amsterdam on Wed, 21 Oct 2026.
 
 Saktu is a house and minimal artist tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside DJ Sandwich, Galu Bla and Silat Beksi. Next up: Duke Of Tokyo, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Saktu is a house and minimal artist tracked on soundcheck, with 13 sets logged a
 
 DJ Sandwich, Galu Bla, Silat Beksi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saktu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saktu/)*

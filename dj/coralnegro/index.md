@@ -1,6 +1,6 @@
 # Cøral Negrø
 
-Cøral Negrø is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ritter Butzke, Berlin on Sat, 12 Sept 2026.
+Cøral Negrø is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ritter Butzke, Berlin on Sat, 12 Sept 2026.
 
 Cøral Negrø is a techno and house artist based in Guatemala, tracked on soundcheck, with 24 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Konfusia, Aio and Bizzarro Universe. Next up: Ritter Butzke, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Cøral Negrø is a techno and house artist based in Guatemala, tracked on soundc
 
 Konfusia, Aio, Bizzarro Universe
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coralnegro/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coralnegro/)*

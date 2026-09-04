@@ -1,8 +1,8 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 13 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Bunker Season Opening with dasstudach & ANDATA" on Fri, 4 Sept 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Bunker Season Opening with dasstudach & ANDATA" on Fri, 4 Sept 2026.
 
-Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 13 upcoming nights, with line-ups including AEREA, Aiden (DE), Alignment and ANDATA and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
+Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcoming nights, with line-ups including Aiden (DE), Alignment, ANDATA and BNZN and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 13 upcomin
 | Sat, 3 Oct 2026 | NEGITIV | NEGITIV, TMB (1) |
 | Fri, 9 Oct 2026 | polyamor | BNZN, Cleopard2000, Elotrance, Mika Heggemann, SATYS FYRE |
 | Sat, 10 Oct 2026 | Innerblum with Karla Blum, Levt, Mha iri | Karla Blum, Levt, Mha iri |
-| Fri, 23 Oct 2026 | ROTATION W/ AEREA LIVE & Iman Janes | AEREA, Iman Janes, Juunni, TERMINAL 23 (DE) |
+| Fri, 13 Nov 2026 | 23:59 One Night with Felix Kröcher - 4h Set | Felix Kröcher |
 
 ## Address
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

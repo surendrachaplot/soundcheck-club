@@ -1,6 +1,6 @@
 # awhlkuhn
 
-awhlkuhn is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Skatecafe, Amsterdam on Fri, 4 Sept 2026.
+awhlkuhn is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Skatecafe, Amsterdam on Fri, 4 Sept 2026.
 
 awhlkuhn is a dancehall and club artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, London and Newyorkcity and 1 more. Often billed alongside Shinshan Salazar, T.NO and amara. Next up: Skatecafe, Amsterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ awhlkuhn is a dancehall and club artist based in Netherlands, tracked on soundch
 
 Shinshan Salazar, T.NO, amara
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*

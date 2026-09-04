@@ -1,6 +1,6 @@
 # Nicodemo
 
-Nicodemo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DURO, Milan on Sat, 12 Sept 2026.
+Nicodemo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at DURO, Milan on Sat, 12 Sept 2026.
 
 Nicodemo is a house and techno artist based in Italy, tracked on soundcheck, with 65 sets logged across Berlin, Lisbon, London and Madrid and 6 more. Often billed alongside Volantis, Odd Shy Guy and Fabrizio Mammarella. Next up: DURO, Milan on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Nicodemo is a house and techno artist based in Italy, tracked on soundcheck, wit
 
 Volantis, Odd Shy Guy, Fabrizio Mammarella
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicodemo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicodemo/)*

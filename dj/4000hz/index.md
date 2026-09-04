@@ -1,6 +1,6 @@
 # 4000 Hz
 
-4000 Hz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Virage, Paris on Fri, 4 Sept 2026.
+4000 Hz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Virage, Paris on Fri, 4 Sept 2026.
 
 4000 Hz is a techno and trance artist tracked on soundcheck, with 12 sets logged across Berlin, London, Manchester and Paris. Often billed alongside AREA ØNE, LIL DARK ONE and 2FEL. Next up: Virage, Paris on Fri 4 Sept.
 
@@ -27,4 +27,4 @@
 
 AREA ØNE, LIL DARK ONE, 2FEL
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4000hz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4000hz/)*

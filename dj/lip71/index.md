@@ -1,6 +1,6 @@
 # Lip71
 
-Lip71 is a Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 5 Sept 2026.
+Lip71 is a Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 5 Sept 2026.
 
 Lip71 is a techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Dortmund-essen and Leipzig. Often billed alongside Anuli, Dychromatic and Rostøm. Next up: Tresor.West, Dortmund-essen on Sat 5 Sept.
 
@@ -16,4 +16,4 @@ Lip71 is a techno artist based in Germany, tracked on soundcheck, with 3 sets lo
 
 Anuli, Dychromatic, Rostøm
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lip71/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lip71/)*

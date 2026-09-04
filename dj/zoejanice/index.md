@@ -1,6 +1,6 @@
 # Zoë Janice
 
-Zoë Janice is a Hip-Hop and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Yellow House, Amsterdam on Sun, 13 Sept 2026.
+Zoë Janice is a Hip-Hop and Amapiano artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Yellow House, Amsterdam on Sun, 13 Sept 2026.
 
 Zoë Janice is a hip-hop and amapiano artist tracked on soundcheck, with 16 sets logged across Amsterdam, Cologne, Hamburg and Rotterdam. Often billed alongside NATHIFA EFIA, WaxFiend and AAA. Next up: Yellow House, Amsterdam on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Zoë Janice is a hip-hop and amapiano artist tracked on soundcheck, with 16 sets
 
 NATHIFA EFIA, WaxFiend, AAA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoejanice/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoejanice/)*

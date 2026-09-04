@@ -1,6 +1,6 @@
 # Overland
 
-Overland is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Gorg-O-Mish, Vancouver on Fri, 4 Sept 2026.
+Overland is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Gorg-O-Mish, Vancouver on Fri, 4 Sept 2026.
 
 Overland is a techno and house artist tracked on soundcheck, with 52 sets logged across Barcelona, Berlin, Bristol and Chicago and 11 more. Often billed alongside xtine, DR BPM and Dairy Free. Next up: Gorg-O-Mish, Vancouver on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Overland is a techno and house artist tracked on soundcheck, with 52 sets logged
 
 xtine, DR BPM, Dairy Free
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/overland/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/overland/)*

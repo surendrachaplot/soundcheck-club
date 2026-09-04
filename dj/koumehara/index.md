@@ -1,8 +1,8 @@
 # Ko Umehara
 
-Ko Umehara is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DUNGEON akihabara, Tokyo on Sat, 5 Sept 2026.
+Ko Umehara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at DUNGEON akihabara, Tokyo on Sat, 5 Sept 2026.
 
-Ko Umehara is a techno and house artist based in Japan, tracked on soundcheck, with 50 sets logged across Tokyo. Often billed alongside Iori Wakasa, Haruka and IRON. Next up: DUNGEON akihabara, Tokyo on Sat 5 Sept.
+Ko Umehara is a techno and house artist based in Japan, tracked on soundcheck, with 49 sets logged across Tokyo. Often billed alongside Iori Wakasa, Haruka and IRON. Next up: DUNGEON akihabara, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Ko Umehara is a techno and house artist based in Japan, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | DUNGEON akihabara | Tokyo |
 | Mon, 21 Sept 2026 | Numm | Tokyo |
-| Tue, 22 Sept 2026 | Solfa | Tokyo |
 
 ## Recently played
 
@@ -27,4 +26,4 @@ Ko Umehara is a techno and house artist based in Japan, tracked on soundcheck, w
 
 Iori Wakasa, Haruka, IRON
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koumehara/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koumehara/)*

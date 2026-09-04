@@ -1,6 +1,6 @@
 # Genoe
 
-Genoe is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Malzfabrik, Berlin on Sat, 5 Sept 2026.
+Genoe is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Malzfabrik, Berlin on Sat, 5 Sept 2026.
 
 Genoe is a bass and dubstep artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin and Prague. Often billed alongside KaraKara, Migz and anna andersrum. Next up: Malzfabrik, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Genoe is a bass and dubstep artist based in Germany, tracked on soundcheck, with
 
 KaraKara, Migz, anna andersrum
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genoe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genoe/)*

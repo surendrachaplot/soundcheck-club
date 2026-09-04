@@ -1,6 +1,6 @@
 # GIDEÖN
 
-GIDEÖN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Palais, London on Sat, 17 Oct 2026.
+GIDEÖN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Palais, London on Sat, 17 Oct 2026.
 
 GIDEÖN is a house and techno artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Athens, Bali, Berlin and Bristol and 11 more. Often billed alongside Michelle Manetti, Hannah Holland and THEMPRESS. Next up: Palais, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ GIDEÖN is a house and techno artist based in United Kingdom, tracked on soundch
 
 Michelle Manetti, Hannah Holland, THEMPRESS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gideon-uk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gideon-uk/)*

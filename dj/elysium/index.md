@@ -1,6 +1,6 @@
 # ELYSIUM
 
-ELYSIUM is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Dr Banana Club, Sao Paulo on Sat, 19 Sept 2026.
+ELYSIUM is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Dr Banana Club, Sao Paulo on Sat, 19 Sept 2026.
 
 ELYSIUM is a techno and hardcore artist tracked on soundcheck, with 45 sets logged across Cologne, London, Losangeles and Newyorkcity and 3 more. Often billed alongside maniken05, hitomori and ANGEDONIYA. Next up: Dr Banana Club, Saopaulo on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ ELYSIUM is a techno and hardcore artist tracked on soundcheck, with 45 sets logg
 
 maniken05, hitomori, ANGEDONIYA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elysium/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elysium/)*

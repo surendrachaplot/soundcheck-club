@@ -1,15 +1,14 @@
 # Manaha
 
-Manaha is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at VENT, Tokyo on Sat, 5 Sept 2026.
+Manaha is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at VENT, Tokyo on Sat, 5 Sept 2026.
 
-Manaha is a house and electronica artist based in Japan, tracked on soundcheck, with 5 sets logged across Tokyo. Often billed alongside An toi, Curses and DSKE. Next up: VENT, Tokyo on Sat 5 Sept.
+Manaha is a house and electronica artist based in Japan, tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside An toi, Curses and DSKE. Next up: VENT, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | VENT | Tokyo |
-| Wed, 9 Sept 2026 | WOMB | Tokyo |
 | Fri, 11 Sept 2026 | Z Maruyama | Tokyo |
 | Sat, 19 Sept 2026 | Mitsuki | Tokyo |
 
@@ -21,4 +20,4 @@ Manaha is a house and electronica artist based in Japan, tracked on soundcheck, 
 
 An toi, Curses, DSKE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*

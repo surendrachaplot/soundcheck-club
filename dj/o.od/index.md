@@ -1,6 +1,6 @@
 # O.od
 
-O.od is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Pistil, Seoul on Fri, 4 Sept 2026.
+O.od is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Pistil, Seoul on Fri, 4 Sept 2026.
 
 O.od is a club and bass artist based in South Korea, tracked on soundcheck, with 14 sets logged across Seoul. Often billed alongside MOHOHOMO, rue (3) and KISEWA. Next up: Pistil, Seoul on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ O.od is a club and bass artist based in South Korea, tracked on soundcheck, with
 
 MOHOHOMO, rue (3), KISEWA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o.od/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o.od/)*

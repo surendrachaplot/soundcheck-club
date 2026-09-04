@@ -1,6 +1,6 @@
 # Barker
 
-Barker is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Mexico City on Fri, 4 Sept 2026.
+Barker is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Mexico City on Fri, 4 Sept 2026.
 
 Barker is a techno and experimental artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 28 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: TBA, Mexicocity on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Barker is a techno and experimental artist tracked on soundcheck, with 91 sets l
 
 JakoJako, Gabrielle Kwarteng, Virginia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*

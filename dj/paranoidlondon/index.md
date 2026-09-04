@@ -1,6 +1,6 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sub Club, Glasgow on Fri, 4 Sept 2026.
+Paranoid London is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sub Club, Glasgow on Fri, 4 Sept 2026.
 
 Paranoid London is a techno and acid artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Belfast and 41 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: Sub Club, Glasgow on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Paranoid London is a techno and acid artist tracked on soundcheck, with 121 sets
 
 Palms Trax, Elena Colombi, FJAAK
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

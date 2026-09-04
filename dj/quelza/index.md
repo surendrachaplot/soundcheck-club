@@ -1,6 +1,6 @@
 # Quelza
 
-Quelza is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Trädgården, Stockholm on Fri, 4 Sept 2026.
+Quelza is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Trädgården, Stockholm on Fri, 4 Sept 2026.
 
 Quelza is a techno and house artist tracked on soundcheck, with 207 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside BASHKKA, Freddy K and Ogazón. Next up: Trädgården, Stockholm on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Quelza is a techno and house artist tracked on soundcheck, with 207 sets logged 
 
 BASHKKA, Freddy K, Ogazón
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

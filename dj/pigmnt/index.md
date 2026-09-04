@@ -1,6 +1,6 @@
 # PIGMNT
 
-PIGMNT is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Onyx (E1), London on Fri, 11 Sept 2026.
+PIGMNT is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Onyx (E1), London on Fri, 11 Sept 2026.
 
 PIGMNT is an afro house and afro tech artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Just P, LOKI (2) and Ronnie Loko. Next up: Onyx (E1), London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ PIGMNT is an afro house and afro tech artist tracked on soundcheck, with 9 sets 
 
 Just P, LOKI (2), Ronnie Loko
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pigmnt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pigmnt/)*

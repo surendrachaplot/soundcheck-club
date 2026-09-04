@@ -1,6 +1,6 @@
 # Atsu
 
-Atsu is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Toranoko Shokudo, Tokyo on Fri, 18 Sept 2026.
+Atsu is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Toranoko Shokudo, Tokyo on Fri, 18 Sept 2026.
 
 Atsu is a house and jazz artist tracked on soundcheck, with 17 sets logged across Tokyo. Often billed alongside Baku, Chihoshi and Chris MS. Next up: Toranoko Shokudo, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Atsu is a house and jazz artist tracked on soundcheck, with 17 sets logged acros
 
 Baku, Chihoshi, Chris MS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atsu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atsu/)*

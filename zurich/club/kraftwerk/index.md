@@ -1,6 +1,6 @@
 # Kraftwerk
 
-Kraftwerk is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "AEREA (LIVE) - Raves and Vibes" on Sat, 12 Sept 2026.
+Kraftwerk is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "AEREA (LIVE) - Raves and Vibes" on Sat, 12 Sept 2026.
 
 Kraftwerk is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including AEREA, HOOM, Jkson and KAïA (2) and 2 more. Browse upcoming dates, start times and who's playing. Selnaustrasse 25, 8001 Zürich, Switzerland.
 
@@ -17,4 +17,4 @@ Kraftwerk is a music venue in Zurich listed on soundcheck. 4 upcoming nights, wi
 
 Selnaustrasse 25, 8001 Zürich, Switzerland, Zurich
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*

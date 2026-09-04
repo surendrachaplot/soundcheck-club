@@ -1,6 +1,6 @@
 # GEISTFREI
 
-GEISTFREI is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
+GEISTFREI is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
 
 GEISTFREI is a techno and ambient artist based in Germany, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Budapest and Cologne and 5 more. Often billed alongside Verhall, Melchiorr and Colum Urton. Next up: Fuchs2, Prague on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ GEISTFREI is a techno and ambient artist based in Germany, tracked on soundcheck
 
 Verhall, Melchiorr, Colum Urton
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geistfrei/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geistfrei/)*

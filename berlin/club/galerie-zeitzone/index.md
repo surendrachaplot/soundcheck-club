@@ -1,6 +1,6 @@
 # Galerie Zeitzone
 
-Galerie Zeitzone is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "TORRENTNETZ" on Sat, 12 Sept 2026.
+Galerie Zeitzone is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "TORRENTNETZ" on Sat, 12 Sept 2026.
 
 Galerie Zeitzone is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including KJ (3). Browse upcoming dates, start times and who's playing. Adalbertstr. 79, 10997 Berlin.
 
@@ -14,4 +14,4 @@ Galerie Zeitzone is a music venue in Berlin listed on soundcheck. 1 upcoming nig
 
 Adalbertstr. 79, 10997 Berlin, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/galerie-zeitzone/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/galerie-zeitzone/)*

@@ -1,6 +1,6 @@
 # DJ Räucherlaks
 
-DJ Räucherlaks is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Humboldthain Club, Berlin on Fri, 4 Sept 2026.
+DJ Räucherlaks is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Humboldthain Club, Berlin on Fri, 4 Sept 2026.
 
 DJ Räucherlaks is a trance and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Cologne, Hamburg and Munich and 1 more. Often billed alongside DJ Tallboy, KLING&KLANG and 9LALEY. Next up: Humboldthain Club, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ Räucherlaks is a trance and techno artist based in Germany, tracked on sound
 
 DJ Tallboy, KLING&KLANG, 9LALEY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djraucherlaks/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djraucherlaks/)*

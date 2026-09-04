@@ -1,6 +1,6 @@
 # Cannelle - Montréal at Fairmount Theatre
 
-Cannelle - Montréal at Fairmount Theatre on Fri 13 Nov, Montreal. 1 act on the bill: Cannelle. Electro and Pop. Preview the line-up and save it on soundcheck.
+Cannelle - Montréal at Fairmount Theatre on Fri 13 Nov, Montreal. 1 act on the bill: Cannelle. Pop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

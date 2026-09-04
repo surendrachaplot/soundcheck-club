@@ -1,6 +1,6 @@
 # Atos
 
-Atos is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Viadukt Bar, Budapest on Thu, 10 Sept 2026.
+Atos is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Viadukt Bar, Budapest on Thu, 10 Sept 2026.
 
 Atos is a techno and trance artist tracked on soundcheck, with 5 sets logged across Budapest and Paris. Often billed alongside Gary More, Daniel Moritz and Dee Me. Next up: Viadukt Bar, Budapest on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ Atos is a techno and trance artist tracked on soundcheck, with 5 sets logged acr
 
 Gary More, Daniel Moritz, Dee Me
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atos-hu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atos-hu/)*

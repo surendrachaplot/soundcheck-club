@@ -1,6 +1,6 @@
 # Julius Myles
 
-Julius Myles is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 18 Sept 2026.
+Julius Myles is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 18 Sept 2026.
 
 Julius Myles is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Brisbane and Melbourne. Often billed alongside Miles Ahead, Emotive Experience and NALIITA. Next up: Angel Music Bar, Melbourne on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Julius Myles is a deep house and disco artist based in United Kingdom, tracked o
 
 Miles Ahead, Emotive Experience, NALIITA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*

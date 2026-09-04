@@ -1,6 +1,6 @@
 # Katie
 
-Katie is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Distrikt, Leeds on Fri, 16 Oct 2026.
+Katie is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Distrikt, Leeds on Fri, 16 Oct 2026.
 
 Katie is a tech house and house artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Copenhagen and Leeds and 4 more. Often billed alongside AGNES (IT), Big Animal Theory and Bjarke Høver. Next up: Distrikt, Leeds on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Katie is a tech house and house artist tracked on soundcheck, with 11 sets logge
 
 AGNES (IT), Big Animal Theory, Bjarke Høver
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katie/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katie/)*

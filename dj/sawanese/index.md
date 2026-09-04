@@ -1,6 +1,6 @@
 # sawanese
 
-sawanese is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Forestlimit, Tokyo on Fri, 4 Sept 2026.
+sawanese is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Forestlimit, Tokyo on Fri, 4 Sept 2026.
 
 sawanese is a techno and hardcore artist based in Japan, tracked on soundcheck, with 3 sets logged across Tokyo. Often billed alongside AME (JP), Natasha (VE) and PARSA (2). Next up: Forestlimit, Tokyo on Fri 4 Sept.
 
@@ -19,4 +19,4 @@ sawanese is a techno and hardcore artist based in Japan, tracked on soundcheck, 
 
 AME (JP), Natasha (VE), PARSA (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sawanese/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sawanese/)*

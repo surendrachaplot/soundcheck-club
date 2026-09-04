@@ -1,6 +1,6 @@
 # Superlove
 
-Superlove is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "PARALLEL 'MAGMA' EDITION - OPENING SZN EVENT Φ HARD MUSIC" on Thu, 10 Sept 2026.
+Superlove is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "PARALLEL 'MAGMA' EDITION - OPENING SZN EVENT Φ HARD MUSIC" on Thu, 10 Sept 2026.
 
 Superlove is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including Decka, Flaiv Đarkø, Hi/Fi and Niceteed. Browse upcoming dates, start times and who's playing. Corso di Porta Ticinese, 32, 20123 Milano MI, Italy.
 
@@ -15,4 +15,4 @@ Superlove is a music venue in Milan listed on soundcheck. 2 upcoming nights, wit
 
 Corso di Porta Ticinese, 32, 20123 Milano MI, Italy, Milan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/superlove/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/superlove/)*

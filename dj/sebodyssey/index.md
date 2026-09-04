@@ -1,6 +1,6 @@
 # Seb Odyssey
 
-Seb Odyssey is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
+Seb Odyssey is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
 
 Seb Odyssey is a house and deep house artist tracked on soundcheck, with 47 sets logged across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Josh Caffé, Jade Seatle and FAFF. Next up: fabric, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Seb Odyssey is a house and deep house artist tracked on soundcheck, with 47 sets
 
 Josh Caffé, Jade Seatle, FAFF
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebodyssey/)*

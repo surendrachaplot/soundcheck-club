@@ -1,6 +1,6 @@
 # Lufer
 
-Lufer is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Boston on Thu, 24 Sept 2026.
+Lufer is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Boston on Thu, 24 Sept 2026.
 
 Lufer is a techno and acid artist tracked on soundcheck, with 29 sets logged across Boston, Melbourne and Newyorkcity. Often billed alongside The Consciousness, Egg In The Morning and Elizabëth. Next up: TBA, Boston on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Lufer is a techno and acid artist tracked on soundcheck, with 29 sets logged acr
 
 The Consciousness, Egg In The Morning, Elizabëth
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lufer/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lufer/)*

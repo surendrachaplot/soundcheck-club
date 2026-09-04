@@ -1,6 +1,6 @@
 # ELOISA
 
-ELOISA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
+ELOISA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
 
 ELOISA is a techno and trance artist tracked on soundcheck, with 79 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 5 more. Often billed alongside Carotin, Melanchromie and Alexa Fluor. Next up: Lokschuppen Berlin, Berlin on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ ELOISA is a techno and trance artist tracked on soundcheck, with 79 sets logged 
 
 Carotin, Melanchromie, Alexa Fluor
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*

@@ -1,6 +1,6 @@
 # Swiver
 
-Swiver is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Grelle Forelle, Vienna on Fri, 18 Sept 2026.
+Swiver is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Grelle Forelle, Vienna on Fri, 18 Sept 2026.
 
 Swiver is a techno artist tracked on soundcheck, with 34 sets logged across Vienna. Often billed alongside Anterogate, Dj Wifi (3) and THURI. Next up: Grelle Forelle, Vienna on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Swiver is a techno artist tracked on soundcheck, with 34 sets logged across Vien
 
 Anterogate, Dj Wifi (3), THURI
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swiver/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swiver/)*

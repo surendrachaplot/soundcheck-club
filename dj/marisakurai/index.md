@@ -1,6 +1,6 @@
 # Mari Sakurai
 
-Mari Sakurai is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Sept 2026.
+Mari Sakurai is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 12 Sept 2026.
 
 Mari Sakurai is a techno and house artist based in Japan, tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Shinsuke Goto, YANNY (1) and 7e. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Mari Sakurai is a techno and house artist based in Japan, tracked on soundcheck,
 
 Shinsuke Goto, YANNY (1), 7e
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marisakurai/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marisakurai/)*

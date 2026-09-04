@@ -1,6 +1,6 @@
 # Gorg-O-Mish
 
-Gorg-O-Mish is a music venue in Vancouver with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "ANALOG // Jay Tripwire & Overland // Vinyl Set" on Fri, 4 Sept 2026.
+Gorg-O-Mish is a music venue in Vancouver with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "ANALOG // Jay Tripwire & Overland // Vinyl Set" on Fri, 4 Sept 2026.
 
 Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 4 upcoming nights, with line-ups including Abasi, ATYYA, Jay Tripwire and Michael James (2) and 2 more. Browse upcoming dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
 
@@ -17,4 +17,4 @@ Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 4 upcoming night
 
 695 Smithe St; Vancouver, BC V6B 2C9; Canada, Vancouver
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*

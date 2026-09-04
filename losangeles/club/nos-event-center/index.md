@@ -1,6 +1,6 @@
 # NOS Event Center
 
-NOS Event Center is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Wasteland SoCal Festival 2026" on Fri, 4 Sept 2026.
+NOS Event Center is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Wasteland SoCal Festival 2026" on Fri, 4 Sept 2026.
 
 NOS Event Center is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including 999999999, AC Slater, Adam Ten and Adventure Club and 2 more. Browse upcoming dates, start times and who's playing. 689 South E Street, San Bernardino, CA 92408.
 
@@ -15,4 +15,4 @@ NOS Event Center is a music venue in Losangeles listed on soundcheck. 2 upcoming
 
 689 South E Street, San Bernardino, CA 92408, Los Angeles
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/nos-event-center/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/nos-event-center/)*

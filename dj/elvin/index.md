@@ -1,6 +1,6 @@
 # Elvin
 
-Elvin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 4 Sept 2026.
+Elvin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 4 Sept 2026.
 
 Elvin is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside KVLR, DJ SPORTSCHUH and Alputo. Next up: RSO.BERLIN, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Elvin is a techno and house artist tracked on soundcheck, with 58 sets logged ac
 
 KVLR, DJ SPORTSCHUH, Alputo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elvin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elvin/)*

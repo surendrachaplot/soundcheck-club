@@ -1,6 +1,6 @@
 # Max Jones
 
-Max Jones is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at World Headquarters, Newcastle on Fri, 25 Sept 2026.
+Max Jones is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at World Headquarters, Newcastle on Fri, 25 Sept 2026.
 
 Max Jones is a house and techno artist tracked on soundcheck, with 18 sets logged across London, Mexicocity and Newcastle. Often billed alongside Andre VII, Ellie Scougall and La Royale. Next up: World Headquarters, Newcastle on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Max Jones is a house and techno artist tracked on soundcheck, with 18 sets logge
 
 Andre VII, Ellie Scougall, La Royale
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxjones/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxjones/)*

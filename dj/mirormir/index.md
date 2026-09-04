@@ -1,6 +1,6 @@
 # mirormir
 
-mirormir is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at REJS, Warsaw on Sat, 26 Sept 2026.
+mirormir is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at REJS, Warsaw on Sat, 26 Sept 2026.
 
 mirormir is a techno and house artist tracked on soundcheck, with 14 sets logged across Warsaw. Often billed alongside Slowmode, Salat and Lyor Kalt. Next up: REJS, Warsaw on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ mirormir is a techno and house artist tracked on soundcheck, with 14 sets logged
 
 Slowmode, Salat, Lyor Kalt
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirormir/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirormir/)*

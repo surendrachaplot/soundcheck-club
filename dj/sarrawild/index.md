@@ -1,6 +1,6 @@
 # Sarra Wild
 
-Sarra Wild is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
+Sarra Wild is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
 
 Sarra Wild is a bass and techno artist tracked on soundcheck, with 72 sets logged across Barcelona, Berlin, Bristol and Brussels and 13 more. Often billed alongside TEDESCO, ASHTREY and Alo3. Next up: Hackney Bridge, London on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Sarra Wild is a bass and techno artist tracked on soundcheck, with 72 sets logge
 
 TEDESCO, ASHTREY, Alo3
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarrawild/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarrawild/)*

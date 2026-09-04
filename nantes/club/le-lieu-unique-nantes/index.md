@@ -1,6 +1,6 @@
 # Le Lieu Unique / Nantes
 
-Le Lieu Unique / Nantes is a music venue in Nantes with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Groove Therapy #6: édition spéciale" on Sat, 26 Sept 2026.
+Le Lieu Unique / Nantes is a music venue in Nantes with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Groove Therapy #6: édition spéciale" on Sat, 26 Sept 2026.
 
 Le Lieu Unique / Nantes is a music venue in Nantes listed on soundcheck. 5 upcoming nights, with line-ups including Autechre, Susobrino and Tina Tornade. Browse upcoming dates, start times and who's playing. 2 Quai Ferdinand Favre, Nantes.
 
@@ -18,4 +18,4 @@ Le Lieu Unique / Nantes is a music venue in Nantes listed on soundcheck. 5 upcom
 
 2 Quai Ferdinand Favre, Nantes, Nantes
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/le-lieu-unique-nantes/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/le-lieu-unique-nantes/)*

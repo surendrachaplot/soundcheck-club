@@ -1,6 +1,6 @@
 # Giovani
 
-Giovani is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 618 DC, Washington DC on Sat, 5 Sept 2026.
+Giovani is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 618 DC, Washington DC on Sat, 5 Sept 2026.
 
 Giovani is a techno and house artist tracked on soundcheck, with 63 sets logged across Berlin, Newyorkcity, Toronto and Washingtondc. Often billed alongside Secret Raver, Todd Fatjo and Pjay. Next up: 618 DC, Washingtondc on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Giovani is a techno and house artist tracked on soundcheck, with 63 sets logged 
 
 Secret Raver, Todd Fatjo, Pjay
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giovani/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giovani/)*

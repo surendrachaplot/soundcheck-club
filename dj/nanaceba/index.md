@@ -1,6 +1,6 @@
 # nanaceba
 
-nanaceba is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 1928 E 7th Pl, Los Angeles, CA 90021, Los Angeles on Sun, 6 Sept 2026.
+nanaceba is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 1928 E 7th Pl, Los Angeles, CA 90021, Los Angeles on Sun, 6 Sept 2026.
 
 nanaceba is a house and deep house artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Losangeles. Often billed alongside Stepushin, KOMLEV and Aaron Paar. Next up: 1928 E 7th Pl, Los Angeles, CA 90021, Losangeles on Sun 6 Sept.
 
@@ -23,4 +23,4 @@ nanaceba is a house and deep house artist based in Ukraine, tracked on soundchec
 
 Stepushin, KOMLEV, Aaron Paar
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanaceba/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanaceba/)*

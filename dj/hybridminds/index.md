@@ -1,6 +1,6 @@
 # Hybrid Minds
 
-Hybrid Minds is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Hybrid Minds is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 110 sets logged across Amsterdam, Auckland, Austin and Birmingham and 31 more. Often billed alongside K Motionz, Tempza and Andy C. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -15,7 +15,6 @@ Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 110 se
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 3 Sept 2026
 - Q Nightclub, Seattle — Sat, 1 Aug 2026
 - 45 East, Portland — Fri, 31 Jul 2026
 - Bristol Amphitheatre & Waterfront Square, Bristol — Sat, 25 Jul 2026
@@ -23,9 +22,10 @@ Hybrid Minds is a drum & bass and bass artist tracked on soundcheck, with 110 se
 - Digbeth Arena, Birmingham — Sat, 13 Jun 2026
 - High Lights - Barking Park, London — Sun, 31 May 2026
 - Factory Town, Miami — Fri, 27 Mar 2026
+- Blackstone Street Warehouse, Liverpool — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 K Motionz, Tempza, Andy C
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hybridminds/)*

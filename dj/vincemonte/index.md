@@ -1,6 +1,6 @@
 # VINCE MONTE
 
-VINCE MONTE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sussudio, Sydney on Fri, 4 Sept 2026.
+VINCE MONTE is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sussudio, Sydney on Fri, 4 Sept 2026.
 
 VINCE MONTE is a tech house and house artist based in Australia, tracked on soundcheck, with 11 sets logged across Sydney. Often billed alongside HIJCKD, mara (AU) and Bag Raiders. Next up: Sussudio, Sydney on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ VINCE MONTE is a tech house and house artist based in Australia, tracked on soun
 
 HIJCKD, mara (AU), Bag Raiders
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vincemonte/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vincemonte/)*

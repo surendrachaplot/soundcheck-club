@@ -1,6 +1,6 @@
 # Soundstream
 
-Soundstream is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at OXI, Berlin on Fri, 11 Sept 2026.
+Soundstream is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at OXI, Berlin on Fri, 11 Sept 2026.
 
 Soundstream is a house and disco artist based in Germany, tracked on soundcheck, with 68 sets logged across Berlin, Brussels, Budapest and Chicago and 13 more. Often billed alongside Snow (DE), Virginia and Nick Höppner. Next up: OXI, Berlin on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ Soundstream is a house and disco artist based in Germany, tracked on soundcheck,
 
 Snow (DE), Virginia, Nick Höppner
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soundstream/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soundstream/)*

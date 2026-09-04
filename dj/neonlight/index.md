@@ -1,6 +1,6 @@
 # Neonlight
 
-Neonlight is a Drum & Bass and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cross Club, Prague on Fri, 18 Sept 2026.
+Neonlight is a Drum & Bass and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cross Club, Prague on Fri, 18 Sept 2026.
 
 Neonlight is a drum & bass and psytrance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Bristol, Budapest and Cologne and 7 more. Often billed alongside Black Sun Empire, Badlokk and Merikan. Next up: Cross Club, Prague on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Neonlight is a drum & bass and psytrance artist based in Germany, tracked on sou
 
 Black Sun Empire, Badlokk, Merikan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neonlight/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neonlight/)*

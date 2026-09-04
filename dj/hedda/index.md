@@ -1,6 +1,6 @@
 # HEDDA
 
-HEDDA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
+HEDDA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
 
 HEDDA is a techno and house artist tracked on soundcheck, with 87 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 12 more. Often billed alongside faceblindbabe, lil ja and Young Lychee. Next up: RSO.BERLIN, Berlin on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ HEDDA is a techno and house artist tracked on soundcheck, with 87 sets logged ac
 
 faceblindbabe, lil ja, Young Lychee
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hedda/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hedda/)*

@@ -1,6 +1,6 @@
 # CHAFA
 
-CHAFA is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Melkweg, Amsterdam on Tue, 15 Sept 2026.
+CHAFA is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Melkweg, Amsterdam on Tue, 15 Sept 2026.
 
 CHAFA is a techno artist based in Spain, tracked on soundcheck, with 13 sets logged across Amsterdam and Madrid. Often billed alongside Dexon, Argie and OZUM. Next up: Melkweg, Amsterdam on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ CHAFA is a techno artist based in Spain, tracked on soundcheck, with 13 sets log
 
 Dexon, Argie, OZUM
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chafa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chafa/)*

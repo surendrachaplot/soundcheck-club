@@ -1,6 +1,6 @@
 # Ion Ludwig
 
-Ion Ludwig is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Distillery N17, London on Sat, 12 Sept 2026.
+Ion Ludwig is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Distillery N17, London on Sat, 12 Sept 2026.
 
 Ion Ludwig is a minimal and house artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Athens and Bali and 21 more. Often billed alongside Rhadoo, Aline (CH) and Edward. Next up: Distillery N17, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ion Ludwig is a minimal and house artist tracked on soundcheck, with 83 sets log
 
 Rhadoo, Aline (CH), Edward
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ionludwig/)*

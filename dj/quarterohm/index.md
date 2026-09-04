@@ -1,6 +1,6 @@
 # quarter ohm
 
-quarter ohm is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The White Hotel, Manchester on Thu, 1 Oct 2026.
+quarter ohm is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The White Hotel, Manchester on Thu, 1 Oct 2026.
 
 quarter ohm is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London and Manchester. Often billed alongside Connor (UK), Deventi and Egui. Next up: The White Hotel, Manchester on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ quarter ohm is a techno and minimal techno artist based in United Kingdom, track
 
 Connor (UK), Deventi, Egui
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quarterohm/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quarterohm/)*

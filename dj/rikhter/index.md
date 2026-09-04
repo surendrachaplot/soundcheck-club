@@ -1,6 +1,6 @@
 # RIKHTER
 
-RIKHTER is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Mon, 7 Sept 2026.
+RIKHTER is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Mon, 7 Sept 2026.
 
 RIKHTER is a techno and trance artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: Tresor / Globus, Berlin on Mon 7 Sept.
 
@@ -26,4 +26,4 @@ RIKHTER is a techno and trance artist tracked on soundcheck, with 149 sets logge
 
 Somewhen, Kobosil, In Verruf
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*

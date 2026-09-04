@@ -1,6 +1,6 @@
 # Josephine
 
-Josephine is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - LFO, Madrid on Fri, 4 Sept 2026.
+Josephine is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - LFO, Madrid on Fri, 4 Sept 2026.
 
 Josephine is a techno and electronica artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona, Buenosaires, Chicago and London and 1 more. Often billed alongside Diskoan, -nico- and 99jakes. Next up: TBA - LFO, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Josephine is a techno and electronica artist based in Spain, tracked on soundche
 
 Diskoan, -nico-, 99jakes
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephine/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephine/)*

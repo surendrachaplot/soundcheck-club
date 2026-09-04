@@ -1,6 +1,6 @@
 # Obelisk
 
-Obelisk is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Void Club, Berlin on Sat, 12 Sept 2026.
+Obelisk is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Void Club, Berlin on Sat, 12 Sept 2026.
 
 Obelisk is a techno and experimental artist based in Ireland, tracked on soundcheck, with 12 sets logged across Berlin and Sydney. Often billed alongside Callado, SOCKET and DJ BenGalo. Next up: Void Club, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Obelisk is a techno and experimental artist based in Ireland, tracked on soundch
 
 Callado, SOCKET, DJ BenGalo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obelisk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obelisk/)*

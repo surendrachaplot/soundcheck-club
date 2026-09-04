@@ -1,6 +1,6 @@
 # DJ Split
 
-DJ Split is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Standard Time, Toronto on Fri, 4 Sept 2026.
+DJ Split is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Standard Time, Toronto on Fri, 4 Sept 2026.
 
 DJ Split is a house and techno artist based in Germany, tracked on soundcheck, with 19 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Ido Toledano, AMANE and Alci. Next up: Standard Time, Toronto on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ DJ Split is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Ido Toledano, AMANE, Alci
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*

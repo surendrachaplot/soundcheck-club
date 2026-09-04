@@ -1,6 +1,6 @@
 # Beast Jane
 
-Beast Jane is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 12 x 12, Bangkok on Sat, 5 Sept 2026.
+Beast Jane is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 12 x 12, Bangkok on Sat, 5 Sept 2026.
 
 Beast Jane is a techno and drum & bass artist tracked on soundcheck, with 8 sets logged across Amsterdam, Athens, Bangkok and Prague and 1 more. Often billed alongside Konquest, Ekwols and Insom. Next up: 12 x 12, Bangkok on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Beast Jane is a techno and drum & bass artist tracked on soundcheck, with 8 sets
 
 Konquest, Ekwols, Insom
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beastjane/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beastjane/)*

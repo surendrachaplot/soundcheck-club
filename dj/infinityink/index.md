@@ -1,6 +1,6 @@
 # Infinity Ink
 
-Infinity Ink is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Infinity Ink is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Infinity Ink is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bali, London, Malta and Manchester. Often billed alongside Jimmy Switch, Miguel Campbell and Alex Mills. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Infinity Ink is a deep house and house artist based in United Kingdom, tracked o
 
 Jimmy Switch, Miguel Campbell, Alex Mills
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infinityink/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infinityink/)*

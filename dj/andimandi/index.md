@@ -1,6 +1,6 @@
 # ANDi MANDi
 
-ANDi MANDi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Noto Philadelphia, Philadelphia on Thu, 5 Nov 2026.
+ANDi MANDi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Noto Philadelphia, Philadelphia on Thu, 5 Nov 2026.
 
 ANDi MANDi is a techno and house artist tracked on soundcheck, with 25 sets logged across Philadelphia. Often billed alongside JFK (USA), De León and DJ Kalin. Next up: Noto Philadelphia, Philadelphia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ ANDi MANDi is a techno and house artist tracked on soundcheck, with 25 sets logg
 
 JFK (USA), De León, DJ Kalin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andimandi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andimandi/)*

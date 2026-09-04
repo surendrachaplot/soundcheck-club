@@ -1,6 +1,6 @@
 # Whatsthepro
 
-Whatsthepro is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
+Whatsthepro is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
 
 Whatsthepro is a techno and electronica artist tracked on soundcheck, with 19 sets logged across Berlin, Lyon, Milan and Turin. Often billed alongside Hi-Cloud, Syber and DOCTOR ZOT. Next up: TBA, Turin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Whatsthepro is a techno and electronica artist tracked on soundcheck, with 19 se
 
 Hi-Cloud, Syber, DOCTOR ZOT
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsthepro/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsthepro/)*

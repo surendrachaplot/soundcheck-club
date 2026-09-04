@@ -1,6 +1,6 @@
 # ViTo
 
-ViTo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Oven Club, Valencia on Sat, 5 Sept 2026.
+ViTo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Oven Club, Valencia on Sat, 5 Sept 2026.
 
 ViTo is a tech house and house artist tracked on soundcheck, with 13 sets logged across Barcelona, Basel, Glasgow and Ibiza and 3 more. Often billed alongside AJ Christou, Blanch and Joëlla Jackson. Next up: Oven Club, Valencia on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ViTo is a tech house and house artist tracked on soundcheck, with 13 sets logged
 
 AJ Christou, Blanch, Joëlla Jackson
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vito-de/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vito-de/)*

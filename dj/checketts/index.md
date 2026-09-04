@@ -1,6 +1,6 @@
 # Checketts
 
-Checketts is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Crate Brewery, London on Sat, 19 Sept 2026.
+Checketts is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Crate Brewery, London on Sat, 19 Sept 2026.
 
 Checketts is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Barcelona, Edinburgh, Lisbon and London. Often billed alongside Adam Chapman, O.WEBSTER and Dembinski. Next up: Crate Brewery, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Checketts is a house and deep house artist based in United Kingdom, tracked on s
 
 Adam Chapman, O.WEBSTER, Dembinski
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/checketts/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/checketts/)*

@@ -1,6 +1,6 @@
 # Toobris
 
-Toobris is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Open Ground, Wuppertal on Fri, 4 Sept 2026.
+Toobris is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Open Ground, Wuppertal on Fri, 4 Sept 2026.
 
 Toobris is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: Open Ground, Wuppertal on Fri 4 Sept.
 
@@ -32,4 +32,4 @@ Toobris is a techno and house artist tracked on soundcheck, with 55 sets logged 
 
 Freddy K, Alarico, Ignez
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

@@ -1,6 +1,6 @@
 # Klausmarie
 
-Klausmarie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hafenklang, Hamburg on Fri, 18 Sept 2026.
+Klausmarie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hafenklang, Hamburg on Fri, 18 Sept 2026.
 
 Klausmarie is a techno and house artist tracked on soundcheck, with 6 sets logged across Cologne and Hamburg. Often billed alongside ATTA (GER), Dju:k and Ferris (Ger). Next up: Hafenklang, Hamburg on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Klausmarie is a techno and house artist tracked on soundcheck, with 6 sets logge
 
 ATTA (GER), Dju:k, Ferris (Ger)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klausmarie/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klausmarie/)*

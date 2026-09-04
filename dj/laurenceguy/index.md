@@ -1,15 +1,14 @@
 # Laurence Guy
 
-Laurence Guy is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Laurence Guy is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Laurence Guy is a house and disco artist based in United Kingdom, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Bali and Bangkok and 27 more. Often billed alongside Arpy Brown, Hayden James and 1-800 GIRLS. Next up: Union Park, Chicago on Fri 4 Sept.
+Laurence Guy is a house and disco artist based in United Kingdom, tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Bali and Bangkok and 27 more. Often billed alongside Arpy Brown, Hayden James and 1-800 GIRLS. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Thu, 10 Sept 2026 | The Cat & Mutton | London |
 | Sat, 19 Sept 2026 | Sala Villanos | Madrid |
 | Sat, 26 Sept 2026 | Folk. | Manchester |
 
@@ -28,4 +27,4 @@ Laurence Guy is a house and disco artist based in United Kingdom, tracked on sou
 
 Arpy Brown, Hayden James, 1-800 GIRLS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*

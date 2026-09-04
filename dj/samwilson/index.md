@@ -1,6 +1,6 @@
 # Sam Wilson
 
-Sam Wilson is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Starlane Pizza Bar, London on Sun, 6 Sept 2026.
+Sam Wilson is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Starlane Pizza Bar, London on Sun, 6 Sept 2026.
 
 Sam Wilson is a techno and industrial artist tracked on soundcheck, with 8 sets logged across Buenosaires and London. Often billed alongside Labyrinthine, Jamie de Rooy and BEADS. Next up: Starlane Pizza Bar, London on Sun 6 Sept.
 
@@ -24,4 +24,4 @@ Sam Wilson is a techno and industrial artist tracked on soundcheck, with 8 sets 
 
 Labyrinthine, Jamie de Rooy, BEADS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samwilson/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samwilson/)*

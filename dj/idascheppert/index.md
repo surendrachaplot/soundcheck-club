@@ -1,6 +1,6 @@
 # Ida Scheppert
 
-Ida Scheppert is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at KitKatClub, Berlin on Fri, 25 Sept 2026.
+Ida Scheppert is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at KitKatClub, Berlin on Fri, 25 Sept 2026.
 
 Ida Scheppert is a techno and drum & bass artist based in Germany, tracked on soundcheck, with 51 sets logged across Berlin. Often billed alongside Upzet, KEN (DE) and Boudi Boudin. Next up: KitKatClub, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ida Scheppert is a techno and drum & bass artist based in Germany, tracked on so
 
 Upzet, KEN (DE), Boudi Boudin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idascheppert/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idascheppert/)*

@@ -1,6 +1,6 @@
 # Givi Gelashvili
 
-Givi Gelashvili is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bassiani, Tbilisi on Sat, 26 Sept 2026.
+Givi Gelashvili is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bassiani, Tbilisi on Sat, 26 Sept 2026.
 
 Givi Gelashvili is an electronic artist based in Georgia, tracked on soundcheck, with 7 sets logged across Tbilisi. Often billed alongside skyra, Boyá and Keto. Next up: Bassiani, Tbilisi on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Givi Gelashvili is an electronic artist based in Georgia, tracked on soundcheck,
 
 skyra, Boyá, Keto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/givigelashvili/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/givigelashvili/)*

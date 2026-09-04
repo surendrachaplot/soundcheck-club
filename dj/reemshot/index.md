@@ -1,6 +1,6 @@
 # Reemshot
 
-Reemshot is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Dock des Suds, Marseille on Sat, 19 Sept 2026.
+Reemshot is a Dub and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Dock des Suds, Marseille on Sat, 19 Sept 2026.
 
 Reemshot is a dub and bass artist based in France, tracked on soundcheck, with 6 sets logged across Bristol, Brussels, Geneva and Marseille and 1 more. Often billed alongside Alpha Steppa, Ayanna Heaven and EliseThere. Next up: Dock des Suds, Marseille on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Reemshot is a dub and bass artist based in France, tracked on soundcheck, with 6
 
 Alpha Steppa, Ayanna Heaven, EliseThere
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reemshot/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reemshot/)*

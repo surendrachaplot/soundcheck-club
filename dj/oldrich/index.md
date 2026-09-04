@@ -1,6 +1,6 @@
 # Old & Rich
 
-Old & Rich is a Acid and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bike Jesus, Prague on Sat, 19 Sept 2026.
+Old & Rich is a Acid and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bike Jesus, Prague on Sat, 19 Sept 2026.
 
 Old & Rich are an acid and italo disco duo based in Czech Republic, tracked on soundcheck, with 35 sets logged across Prague. Often billed alongside Jak Sen, Raphael Kosmos and Austin Powers. Next up: Bike Jesus, Prague on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Old & Rich are an acid and italo disco duo based in Czech Republic, tracked on s
 
 Jak Sen, Raphael Kosmos, Austin Powers
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldrich/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldrich/)*

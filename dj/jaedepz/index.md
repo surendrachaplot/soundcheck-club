@@ -1,6 +1,6 @@
 # Jae Depz
 
-Jae Depz is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Beaver Works, Leeds on Sat, 5 Sept 2026.
+Jae Depz is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Beaver Works, Leeds on Sat, 5 Sept 2026.
 
 Jae Depz is a garage and house artist tracked on soundcheck, with 9 sets logged across Leeds, Manchester, Nottingham and Sheffield. Often billed alongside camukg, Bassboy and Burgaboy. Next up: Beaver Works, Leeds on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Jae Depz is a garage and house artist tracked on soundcheck, with 9 sets logged 
 
 camukg, Bassboy, Burgaboy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaedepz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaedepz/)*

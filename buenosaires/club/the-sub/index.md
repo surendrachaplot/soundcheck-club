@@ -1,6 +1,6 @@
 # The Sub
 
-The Sub is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Alien Ritual Aniversario Raz & Upgrade" on Fri, 18 Sept 2026.
+The Sub is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Alien Ritual Aniversario Raz & Upgrade" on Fri, 18 Sept 2026.
 
 The Sub is a music venue in Buenosaires listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Av. Cordoba 543, Buenos Aires, Argentina.
 
@@ -14,4 +14,4 @@ The Sub is a music venue in Buenosaires listed on soundcheck. 1 upcoming night. 
 
 Av. Cordoba 543, Buenos Aires, Argentina, Buenos Aires
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/the-sub/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/the-sub/)*

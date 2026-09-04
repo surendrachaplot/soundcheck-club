@@ -1,6 +1,6 @@
 # Mike Steva
 
-Mike Steva is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at My Aeon, Melbourne on Sat, 19 Sept 2026.
+Mike Steva is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at My Aeon, Melbourne on Sat, 19 Sept 2026.
 
 Mike Steva is a house and afro house artist tracked on soundcheck, with 12 sets logged across Auckland, Bali, Hongkong and London and 4 more. Often billed alongside Chris NG, Kikko and ALESSANDRO. Next up: My Aeon, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Mike Steva is a house and afro house artist tracked on soundcheck, with 12 sets 
 
 Chris NG, Kikko, ALESSANDRO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesteva/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikesteva/)*

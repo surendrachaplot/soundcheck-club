@@ -1,6 +1,6 @@
 # Le Chinois
 
-Le Chinois is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "MOTORIUM: Salma Rosa b2b Sleek Fata + soundsystem by laminar audio" on Fri, 4 Sept 2026.
+Le Chinois is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "MOTORIUM: Salma Rosa b2b Sleek Fata + soundsystem by laminar audio" on Fri, 4 Sept 2026.
 
 Le Chinois is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including Venetia. Browse upcoming dates, start times and who's playing. 6 place du Marché, Montreuil.
 
@@ -17,4 +17,4 @@ Le Chinois is a music venue in Paris listed on soundcheck. 4 upcoming nights, wi
 
 6 place du Marché, Montreuil, Paris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*

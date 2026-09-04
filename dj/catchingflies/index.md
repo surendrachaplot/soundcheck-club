@@ -1,6 +1,6 @@
 # Catching Flies
 
-Catching Flies is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Catching Flies is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 Catching Flies is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 13 more. Often billed alongside Jody Wisternoff, Christian Löffler and Dosem. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Catching Flies is a house and electronica artist based in United Kingdom, tracke
 
 Jody Wisternoff, Christian Löffler, Dosem
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catchingflies/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catchingflies/)*

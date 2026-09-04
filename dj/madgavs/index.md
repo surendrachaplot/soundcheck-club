@@ -1,6 +1,6 @@
 # mad gavs
 
-mad gavs is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Avalon Hollywood, Los Angeles on Sat, 12 Sept 2026.
+mad gavs is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Avalon Hollywood, Los Angeles on Sat, 12 Sept 2026.
 
 mad gavs is a club and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across Losangeles. Often billed alongside Joey G (US), Etari and fun2bjane. Next up: Avalon Hollywood, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ mad gavs is a club and house artist based in United States of America, tracked o
 
 Joey G (US), Etari, fun2bjane
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madgavs/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madgavs/)*

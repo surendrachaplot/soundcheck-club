@@ -1,6 +1,6 @@
 # Quartz (2)
 
-Quartz (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Black Box, Denver on Sat, 10 Oct 2026.
+Quartz (2) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Black Box, Denver on Sat, 10 Oct 2026.
 
 Quartz (2) is a drum & bass and jungle artist tracked on soundcheck, with 10 sets logged across Bristol, Cardiff, Denver and Leeds and 3 more. Often billed alongside Doc Scott, Double O and Goldie. Next up: The Black Box, Denver on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Quartz (2) is a drum & bass and jungle artist tracked on soundcheck, with 10 set
 
 Doc Scott, Double O, Goldie
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quartz-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quartz-2/)*

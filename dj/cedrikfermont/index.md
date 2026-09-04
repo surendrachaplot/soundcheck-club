@@ -1,6 +1,6 @@
 # Cedrik Fermont
 
-Cedrik Fermont is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kaos Berlin, Berlin on Fri, 11 Sept 2026.
+Cedrik Fermont is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kaos Berlin, Berlin on Fri, 11 Sept 2026.
 
 Cedrik Fermont is an experimental and bass artist tracked on soundcheck, with 7 sets logged across Berlin and London. Often billed alongside Abas, Broshuda and Cluster Lizard. Next up: Kaos Berlin, Berlin on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Cedrik Fermont is an experimental and bass artist tracked on soundcheck, with 7 
 
 Abas, Broshuda, Cluster Lizard
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cedrikfermont/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cedrikfermont/)*

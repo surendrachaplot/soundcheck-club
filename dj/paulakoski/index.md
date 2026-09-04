@@ -1,6 +1,6 @@
 # Paula Koski
 
-Paula Koski is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 19 Sept 2026.
+Paula Koski is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 19 Sept 2026.
 
 Paula Koski is a techno and house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Justine Perry, Steffi and Virginia. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Paula Koski is a techno and house artist tracked on soundcheck, with 97 sets log
 
 Justine Perry, Steffi, Virginia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*

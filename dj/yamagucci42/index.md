@@ -1,6 +1,6 @@
 # yamagucci42
 
-yamagucci42 is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 24 Sept 2026.
+yamagucci42 is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 24 Sept 2026.
 
 yamagucci42 is a house and breakbeat artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin, Hamburg and Prague. Often billed alongside DJ SOURCE, KVLR and UNZHA. Next up: Golden Pudel Club, Hamburg on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ yamagucci42 is a house and breakbeat artist based in Germany, tracked on soundch
 
 DJ SOURCE, KVLR, UNZHA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci42/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamagucci42/)*

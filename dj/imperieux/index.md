@@ -1,6 +1,6 @@
 # Impérieux
 
-Impérieux is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paloma, Berlin on Fri, 4 Sept 2026.
+Impérieux is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paloma, Berlin on Fri, 4 Sept 2026.
 
 Impérieux is a techno and house artist based in Bulgaria, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Brussels and Hamburg and 9 more. Often billed alongside Buoy, Ryoma Sasaki and Onur Ozman. Next up: Paloma, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Impérieux is a techno and house artist based in Bulgaria, tracked on soundcheck
 
 Buoy, Ryoma Sasaki, Onur Ozman
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imperieux/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imperieux/)*

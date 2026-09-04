@@ -1,6 +1,6 @@
 # Tap1
 
-Tap1 is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Gravity presents: Armin van Buuren - Copenhagen (SOLD-OUT)" on Sat, 26 Sept 2026.
+Tap1 is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Gravity presents: Armin van Buuren - Copenhagen (SOLD-OUT)" on Sat, 26 Sept 2026.
 
 Tap1 is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, with line-ups including Aja Gulris, Armin van Buuren, CamelPhat and Eric Prydz and 2 more. Browse upcoming dates, start times and who's playing. Raffinaderivej 10, 2300 København S, Denmark.
 
@@ -16,4 +16,4 @@ Tap1 is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, wit
 
 Raffinaderivej 10, 2300 København S, Denmark, Copenhagen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/tap1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/tap1/)*

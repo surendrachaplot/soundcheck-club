@@ -1,6 +1,6 @@
 # Ted Tables
 
-Ted Tables is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Basing House, London on Sat, 5 Sept 2026.
+Ted Tables is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Basing House, London on Sat, 5 Sept 2026.
 
 Ted Tables is a house and drum & bass artist based in New Zealand, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Luke Mannion, Flamingo Pier and Ricky Dee. Next up: Basing House, London on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Ted Tables is a house and drum & bass artist based in New Zealand, tracked on so
 
 Luke Mannion, Flamingo Pier, Ricky Dee
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tedtables/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tedtables/)*

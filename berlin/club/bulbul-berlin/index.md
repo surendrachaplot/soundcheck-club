@@ -1,13 +1,14 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Discoforbreakfast: Mitsuko, MRTI, DJ Glitterelli, Grenouillette" on Fri, 4 Sept 2026.
+Bulbul Berlin is a music venue in Berlin with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SÜMA - COMMON GROUND 001: Fenster b2b Jambel, Stark, DJ F2P" on Thu, 3 Sept 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Aggy, Almost Famous, Betas and Better Call Paul and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 16 upcoming nights, with line-ups including Aggy, Almost Famous, Betas and Better Call Paul and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | SÜMA - COMMON GROUND 001: Fenster b2b Jambel, Stark, DJ F2P | Fenster, Jambel, Stark |
 | Fri, 4 Sept 2026 | Discoforbreakfast: Mitsuko, MRTI, DJ Glitterelli, Grenouillette | DJ Glitterelli, Grenouillette, MRTI, Mitsuko |
 | Sat, 5 Sept 2026 | 82/87: Sparkling Water Dreams, Carl.S aka SY, Bucknall, Sheridan | SY (DE), Sparkling Water Dreams |
 | Thu, 10 Sept 2026 | FRESH FACES (FREE ENTRY): Mirya, Moni von Pisani, Gerardo Moncada, Nicki Spumante | Gerardo Moncada, Moni von Pisani, Nicki Spumante |
@@ -17,10 +18,9 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 15 upcoming night
 | Fri, 18 Sept 2026 | Reboot Record Label: Szew, Rina Katen, Mati Espina, Juan Neira | Juan Neira, Mati Espina, Rina Katen, Szew |
 | Sat, 19 Sept 2026 | N'Sekt Vielleicht: Bruder Jakob, Wallat Wallat, Kat_Es | Bruder Jakob, Kat_Es, Wallat Wallat |
 | Thu, 24 Sept 2026 | mita records showcase: Flor Coto, materia hache, Manu Barcelo | Flor Coto, Manu Barcelo, materia hache |
-| Fri, 25 Sept 2026 | NIGHT SHIFT: Barre Massé (Marie), Umami Sound, GueHu, rabiatch | Umami Sound, rabiatch |
 
 ## Address
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

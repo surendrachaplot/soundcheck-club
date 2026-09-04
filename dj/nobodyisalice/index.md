@@ -1,6 +1,6 @@
 # NOBODYISALICE
 
-NOBODYISALICE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Dosrombos, Barcelona on Sat, 5 Sept 2026.
+NOBODYISALICE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Dosrombos, Barcelona on Sat, 5 Sept 2026.
 
 NOBODYISALICE is a house and techno artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona. Often billed alongside XipNoize, Gabo Oliveira and Lauriee. Next up: Dosrombos, Barcelona on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ NOBODYISALICE is a house and techno artist based in Spain, tracked on soundcheck
 
 XipNoize, Gabo Oliveira, Lauriee
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*

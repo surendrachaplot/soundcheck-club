@@ -1,6 +1,6 @@
 # TBA - BNN, Costanera
 
-TBA - BNN, Costanera is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Maxi Degrassi - Savage, BNN Costanera - ALLMusicParties" on Sun, 11 Oct 2026.
+TBA - BNN, Costanera is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Maxi Degrassi - Savage, BNN Costanera - ALLMusicParties" on Sun, 11 Oct 2026.
 
 TBA - BNN, Costanera is a music venue in Buenosaires listed on soundcheck. 1 upcoming night, with line-ups including Maxi Degrassi. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - BNN, Costanera is a music venue in Buenosaires listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Maxi Degrassi - Savage, BNN Costanera - ALLMusicParties | Maxi Degrassi |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-bnn-costanera/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/tba-bnn-costanera/)*

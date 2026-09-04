@@ -1,6 +1,6 @@
 # ZAGROZA
 
-ZAGROZA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 18 Sept 2026.
+ZAGROZA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 18 Sept 2026.
 
 ZAGROZA is a techno and trance artist tracked on soundcheck, with 53 sets logged across Berlin, Frankfurt, Krakow and Leipzig and 1 more. Often billed alongside A.N.I., DJ Jordan and ELOISA. Next up: STK 47 WAREHOUSE, Krakow on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ZAGROZA is a techno and trance artist tracked on soundcheck, with 53 sets logged
 
 A.N.I., DJ Jordan, ELOISA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zagroza/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zagroza/)*

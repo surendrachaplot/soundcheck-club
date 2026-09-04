@@ -1,6 +1,6 @@
 # Theia Daja
 
-Theia Daja is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Araña Club, Madrid on Fri, 18 Sept 2026.
+Theia Daja is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Araña Club, Madrid on Fri, 18 Sept 2026.
 
 Theia Daja is a techno and house artist tracked on soundcheck, with 28 sets logged across Barcelona and Madrid. Often billed alongside NETN, DJ TURBO and Alviker. Next up: Araña Club, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Theia Daja is a techno and house artist tracked on soundcheck, with 28 sets logg
 
 NETN, DJ TURBO, Alviker
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theiadaja/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theiadaja/)*

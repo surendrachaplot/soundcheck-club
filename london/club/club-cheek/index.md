@@ -1,6 +1,6 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 12 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "CLUB WETT w/ BIG WETT (LIVE), Jaguar B2B KDA (DJ) + Big Softy (LIVE)" on Fri, 4 Sept 2026.
+Club Cheek is a music venue in London with 12 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "CLUB WETT w/ BIG WETT (LIVE), Jaguar B2B KDA (DJ) + Big Softy (LIVE)" on Fri, 4 Sept 2026.
 
 Club Cheek is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including Alicia (UK), Amit, Anahita Shamsaei and ANNX and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
@@ -23,4 +23,4 @@ Club Cheek is a music venue in London listed on soundcheck. 12 upcoming nights, 
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

@@ -1,6 +1,6 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Sat, 5 Sept 2026.
+Mind Against is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Sat, 5 Sept 2026.
 
 Mind Against is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Adriatique, sideral and Dyzen. Next up: Olympic Athletic Center of Athens, Athens on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Mind Against is a techno and house artist tracked on soundcheck, with 154 sets l
 
 Adriatique, sideral, Dyzen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*

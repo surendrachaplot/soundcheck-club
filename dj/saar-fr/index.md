@@ -1,6 +1,6 @@
 # Saar (FR)
 
-Saar (FR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
+Saar (FR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 16 Oct 2026.
 
 Saar (FR) is a house and techno artist based in France, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Cologne and Lisbon and 3 more. Often billed alongside Archie Hamilton, 25EMEHEURE and Automatic Writing. Next up: Lokschuppen Berlin, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Saar (FR) is a house and techno artist based in France, tracked on soundcheck, w
 
 Archie Hamilton, 25EMEHEURE, Automatic Writing
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saar-fr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saar-fr/)*

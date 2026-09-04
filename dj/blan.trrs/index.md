@@ -1,8 +1,8 @@
 # blan.trrs
 
-blan.trrs is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Spook Club, Valencia on Sat, 19 Sept 2026.
+blan.trrs is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Spook Club, Valencia on Sat, 19 Sept 2026.
 
-blan.trrs is a house and tech house artist tracked on soundcheck, with 37 sets logged across Barcelona, Berlin, Brussels and Valencia and 1 more. Often billed alongside Blanch, Ladrillovitz and Pau Pérez. Next up: Spook Club, Valencia on Sat 19 Sept.
+blan.trrs is a house and tech house artist tracked on soundcheck, with 36 sets logged across Barcelona, Berlin, Brussels and Valencia and 1 more. Often billed alongside Blanch, Ladrillovitz and Pau Pérez. Next up: Spook Club, Valencia on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ blan.trrs is a house and tech house artist tracked on soundcheck, with 37 sets l
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Spook Club | Valencia |
 | Fri, 25 Sept 2026 | Resume Valencia | Valencia |
-| Sat, 26 Sept 2026 | Oven Club | Valencia |
 
 ## Recently played
 
@@ -27,4 +26,4 @@ blan.trrs is a house and tech house artist tracked on soundcheck, with 37 sets l
 
 Blanch, Ladrillovitz, Pau Pérez
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blan.trrs/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blan.trrs/)*

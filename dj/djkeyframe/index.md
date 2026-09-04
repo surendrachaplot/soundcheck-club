@@ -1,8 +1,8 @@
 # DJ Keyframe
 
-DJ Keyframe is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Berndhain, Berlin on Fri, 11 Sept 2026.
+DJ Keyframe is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Berndhain, Berlin on Fri, 11 Sept 2026.
 
-DJ Keyframe is a trance and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin and Munich. Often billed alongside Bonzo (2), ELA E. and Kenny Danger. Next up: Berndhain, Berlin on Fri 11 Sept.
+DJ Keyframe is a trance and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin and Munich. Often billed alongside Bonzo (2), ELA E. and Kenny Danger. Next up: Berndhain, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ DJ Keyframe is a trance and techno artist based in Germany, tracked on soundchec
 | Fri, 11 Sept 2026 | Berndhain | Berlin |
 | Fri, 11 Sept 2026 | Berndhain | Berlin |
 | Wed, 16 Sept 2026 | Lokschuppen Berlin | Berlin |
-| Fri, 23 Oct 2026 | Humboldthain Club | Berlin |
 
 ## Recently played
 
@@ -28,4 +27,4 @@ DJ Keyframe is a trance and techno artist based in Germany, tracked on soundchec
 
 Bonzo (2), ELA E., Kenny Danger
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkeyframe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkeyframe/)*

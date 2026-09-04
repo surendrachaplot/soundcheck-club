@@ -1,6 +1,6 @@
 # Glen Helen Regional Park
 
-Glen Helen Regional Park is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Nocturnal Wonderland" on Sat, 19 Sept 2026.
+Glen Helen Regional Park is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Nocturnal Wonderland" on Sat, 19 Sept 2026.
 
 Glen Helen Regional Park is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including B-SIDE, Basstripper, Callèn and Deadmau5 and 2 more. Browse upcoming dates, start times and who's playing. 2575 Glen Helen Pkwy, San Bernardino 92407, United States.
 
@@ -14,4 +14,4 @@ Glen Helen Regional Park is a music venue in Losangeles listed on soundcheck. 1 
 
 2575 Glen Helen Pkwy, San Bernardino 92407, United States, Los Angeles
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/glen-helen-regional-park/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/glen-helen-regional-park/)*

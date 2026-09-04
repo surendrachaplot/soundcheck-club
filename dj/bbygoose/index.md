@@ -1,6 +1,6 @@
 # BBY GOOSE
 
-BBY GOOSE is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Last Arch, London on Sat, 5 Sept 2026.
+BBY GOOSE is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Last Arch, London on Sat, 5 Sept 2026.
 
 BBY GOOSE is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Bristol, Cardiff, Leeds and London. Often billed alongside ROWANA, ASHTYLR and Amy Wiles. Next up: Last Arch, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ BBY GOOSE is a trance and progressive house artist based in United Kingdom, trac
 
 ROWANA, ASHTYLR, Amy Wiles
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbygoose/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbygoose/)*

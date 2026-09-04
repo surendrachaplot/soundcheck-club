@@ -1,6 +1,6 @@
 # Nono THING
 
-Nono THING is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fai Aoyama, Tokyo on Fri, 30 Oct 2026.
+Nono THING is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fai Aoyama, Tokyo on Fri, 30 Oct 2026.
 
 Nono THING is a techno and trance artist based in Japan, tracked on soundcheck, with 58 sets logged across Tokyo. Often billed alongside BEPPU, WAKA XINXI and DJ 34. Next up: Fai Aoyama, Tokyo on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Nono THING is a techno and trance artist based in Japan, tracked on soundcheck, 
 
 BEPPU, WAKA XINXI, DJ 34
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonothing/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nonothing/)*

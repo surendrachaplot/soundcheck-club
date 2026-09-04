@@ -1,6 +1,6 @@
 # DJ Possum
 
-DJ Possum is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Nowadays, New York City on Sun, 6 Sept 2026.
+DJ Possum is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nowadays, New York City on Sun, 6 Sept 2026.
 
 DJ Possum is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, Copenhagen and London and 5 more. Often billed alongside Myles Mac, Bex and Terri (2). Next up: Nowadays, Newyorkcity on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ DJ Possum is a house and techno artist tracked on soundcheck, with 84 sets logge
 
 Myles Mac, Bex, Terri (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*

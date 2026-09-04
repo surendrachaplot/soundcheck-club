@@ -1,6 +1,6 @@
 # Sappho
 
-Sappho is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Cape Lookout, Portland on Fri, 11 Sept 2026.
+Sappho is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Cape Lookout, Portland on Fri, 11 Sept 2026.
 
 Sappho is a house and disco artist tracked on soundcheck, with 36 sets logged across Losangeles, Newyorkcity, Portland and Sanfrancisco and 2 more. Often billed alongside Bro Hoe, Stacy Christine and Bears In Space. Next up: TBA - Cape Lookout, Portland on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Sappho is a house and disco artist tracked on soundcheck, with 36 sets logged ac
 
 Bro Hoe, Stacy Christine, Bears In Space
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sappho/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sappho/)*

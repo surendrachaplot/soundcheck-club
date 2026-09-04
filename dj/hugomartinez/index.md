@@ -1,6 +1,6 @@
 # Hugo Martinez
 
-Hugo Martinez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Esbirra Ibiza, Ibiza on Sat, 19 Sept 2026.
+Hugo Martinez is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Esbirra Ibiza, Ibiza on Sat, 19 Sept 2026.
 
 Hugo Martinez is a house and deep house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 10 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Esbirra Ibiza, Ibiza on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Hugo Martinez is a house and deep house artist tracked on soundcheck, with 76 se
 
 Pol K, Nuzzo, Carlos Vila
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*

@@ -1,6 +1,6 @@
 # Dardara
 
-Dardara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Leipzig on Sat, 26 Sept 2026.
+Dardara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Leipzig on Sat, 26 Sept 2026.
 
 Dardara is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Leipzig. Often billed alongside Traxx Jr, MAY/O and APRS. Next up: TBA, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Dardara is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Traxx Jr, MAY/O, APRS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dardara/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dardara/)*

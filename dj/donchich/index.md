@@ -1,6 +1,6 @@
 # Don Chich
 
-Don Chich is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Solace, Melbourne on Sat, 12 Sept 2026.
+Don Chich is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Solace, Melbourne on Sat, 12 Sept 2026.
 
 Don Chich is a techno and trance artist based in Australia, tracked on soundcheck, with 16 sets logged across Lyon, Melbourne and Rome. Often billed alongside Carl H, Hannah D and Lewba. Next up: Solace, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Don Chich is a techno and trance artist based in Australia, tracked on soundchec
 
 Carl H, Hannah D, Lewba
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donchich/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donchich/)*

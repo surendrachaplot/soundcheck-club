@@ -1,6 +1,6 @@
 # Ubax
 
-Ubax is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
+Ubax is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 Ubax is a bass and techno artist tracked on soundcheck, with 23 sets logged across Berlin, Leipzig and Tbilisi. Often billed alongside jass:minute, Babe Gorgeous and HIỀN ĐIÊN. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ubax is a bass and techno artist tracked on soundcheck, with 23 sets logged acro
 
 jass:minute, Babe Gorgeous, HIỀN ĐIÊN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ubax/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ubax/)*

@@ -1,6 +1,6 @@
 # Awedinary
 
-Awedinary is a Trance and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
+Awedinary is a Trance and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Honey Street Studio, Manchester on Sat, 5 Sept 2026.
 
 Awedinary is a trance and bass artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Leeds and Manchester. Often billed alongside AEON FUX, Kusasa and Ship Sket. Next up: Honey Street Studio, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Awedinary is a trance and bass artist based in United Kingdom, tracked on soundc
 
 AEON FUX, Kusasa, Ship Sket
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awedinary/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awedinary/)*

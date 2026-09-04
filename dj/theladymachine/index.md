@@ -1,8 +1,8 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DETROIT CLUB, Barcelona on Fri, 4 Sept 2026.
+The Lady Machine is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at DETROIT CLUB, Barcelona on Fri, 4 Sept 2026.
 
-The Lady Machine is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: DETROIT CLUB, Barcelona on Fri 4 Sept.
+The Lady Machine is a techno and house artist tracked on soundcheck, with 182 sets logged across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: DETROIT CLUB, Barcelona on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -18,7 +18,6 @@ The Lady Machine is a techno and house artist tracked on soundcheck, with 183 se
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 7 Nov 2026 | Universe Athens | Athens |
 | Fri, 20 Nov 2026 | Standard Time | Toronto |
-| Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -35,4 +34,4 @@ The Lady Machine is a techno and house artist tracked on soundcheck, with 183 se
 
 Freddy K, Blasha & Allatt, Rakans
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

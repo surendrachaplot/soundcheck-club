@@ -1,6 +1,6 @@
 # Todd Terje
 
-Todd Terje is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Concorde 2, Brighton on Sat, 12 Sept 2026.
+Todd Terje is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Concorde 2, Brighton on Sat, 12 Sept 2026.
 
 Todd Terje is a house and disco artist tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Belfast and 32 more. Often billed alongside Jayda G, Skatebård and Underworld. Next up: Concorde 2, Brighton on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Todd Terje is a house and disco artist tracked on soundcheck, with 84 sets logge
 
 Jayda G, Skatebård, Underworld
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterje/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterje/)*

@@ -1,6 +1,6 @@
 # Bilal
 
-Bilal is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
+Bilal is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Village Underground Lisboa, Lisbon on Fri, 11 Sept 2026.
 
 Bilal is a progressive house and house artist based in Portugal, tracked on soundcheck, with 4 sets logged across Istanbul, Lisbon and Melbourne. Often billed alongside Ali Bilal, Francisca Urbano and Kee_ko. Next up: Village Underground Lisboa, Lisbon on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Bilal is a progressive house and house artist based in Portugal, tracked on soun
 
 Ali Bilal, Francisca Urbano, Kee_ko
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bilal-pt/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bilal-pt/)*

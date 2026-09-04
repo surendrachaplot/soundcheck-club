@@ -1,6 +1,6 @@
 # Irena
 
-Irena is a House and Classical artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tonal, Mexico City on Wed, 2 Sept 2026.
+Irena is a House and Classical artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tonal, Mexico City on Wed, 2 Sept 2026.
 
 Irena is a house and classical artist tracked on soundcheck, with 6 sets logged across Athens and Mexicocity. Often billed alongside YOTA, AB and Astro. Next up: Tonal, Mexicocity on Wed 2 Sept.
 
@@ -23,4 +23,4 @@ Irena is a house and classical artist tracked on soundcheck, with 6 sets logged 
 
 YOTA, AB, Astro
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irena/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irena/)*

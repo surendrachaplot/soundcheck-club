@@ -1,6 +1,6 @@
 # Lucky Bunny
 
-Lucky Bunny is a Club and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Honey Street Studio, Manchester on Fri, 4 Sept 2026.
+Lucky Bunny is a Club and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Honey Street Studio, Manchester on Fri, 4 Sept 2026.
 
 Lucky Bunny is a club and hardcore artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Leeds and Manchester. Often billed alongside Willow J, maevie and Club Penguin. Next up: Honey Street Studio, Manchester on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Lucky Bunny is a club and hardcore artist based in United Kingdom, tracked on so
 
 Willow J, maevie, Club Penguin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckybunny/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luckybunny/)*

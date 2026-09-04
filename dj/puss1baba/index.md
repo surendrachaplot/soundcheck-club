@@ -1,6 +1,6 @@
 # PUSS1 BABA
 
-PUSS1 BABA is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Haus73, Hamburg on Fri, 11 Sept 2026.
+PUSS1 BABA is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Haus73, Hamburg on Fri, 11 Sept 2026.
 
 PUSS1 BABA is a house and breakbeat artist tracked on soundcheck, with 20 sets logged across Hamburg, Leipzig and Nurnberg. Often billed alongside Ivaldo Gino, L.A.tifa and Ring41. Next up: Haus73, Hamburg on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ PUSS1 BABA is a house and breakbeat artist tracked on soundcheck, with 20 sets l
 
 Ivaldo Gino, L.A.tifa, Ring41
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puss1baba/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puss1baba/)*

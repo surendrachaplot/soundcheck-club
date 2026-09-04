@@ -1,6 +1,6 @@
 # Big Queso
 
-Big Queso is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Deli @ Dwell, American St & Thompson St, Philadelphia on Sat, 5 Sept 2026.
+Big Queso is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Deli @ Dwell, American St & Thompson St, Philadelphia on Sat, 5 Sept 2026.
 
 Big Queso is a house and deep house artist tracked on soundcheck, with 11 sets logged across Philadelphia. Often billed alongside Cowa, tj groover and Qino Bounce. Next up: TBA - Deli @ Dwell, American St & Thompson St, Philadelphia on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Big Queso is a house and deep house artist tracked on soundcheck, with 11 sets l
 
 Cowa, tj groover, Qino Bounce
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bigqueso/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bigqueso/)*

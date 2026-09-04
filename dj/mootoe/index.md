@@ -1,6 +1,6 @@
 # MOOTOE
 
-MOOTOE is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Solfa, Tokyo on Fri, 11 Sept 2026.
+MOOTOE is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Solfa, Tokyo on Fri, 11 Sept 2026.
 
 MOOTOE is a bass and garage artist based in Japan, tracked on soundcheck, with 104 sets logged across Osaka and Tokyo. Often billed alongside VECSILLE, ATAMI and SAKO. Next up: Solfa, Tokyo on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ MOOTOE is a bass and garage artist based in Japan, tracked on soundcheck, with 1
 
 VECSILLE, ATAMI, SAKO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mootoe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mootoe/)*

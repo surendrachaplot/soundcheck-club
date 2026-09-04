@@ -1,6 +1,6 @@
 # COBRA
 
-COBRA is a Techno and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at PRST, Vienna on Sat, 12 Sept 2026.
+COBRA is a Techno and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at PRST, Vienna on Sat, 12 Sept 2026.
 
 COBRA is a techno and disco artist based in Austria, tracked on soundcheck, with 14 sets logged across Vienna. Often billed alongside CHERCHES, Paul Mile and BOYOHBOY. Next up: PRST, Vienna on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ COBRA is a techno and disco artist based in Austria, tracked on soundcheck, with
 
 CHERCHES, Paul Mile, BOYOHBOY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobra-at/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cobra-at/)*

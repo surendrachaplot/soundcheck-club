@@ -1,6 +1,6 @@
 # Sookie (3)
 
-Sookie (3) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fitzroy, Berlin on Sat, 12 Sept 2026.
+Sookie (3) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fitzroy, Berlin on Sat, 12 Sept 2026.
 
 Sookie (3) is a trance and techno artist based in Belgium, tracked on soundcheck, with 16 sets logged across Berlin, Brussels, Dusseldorf and Ghent and 2 more. Often billed alongside su:zy, Sarah Wanita and Trancesetters of Westphalia. Next up: Fitzroy, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Sookie (3) is a trance and techno artist based in Belgium, tracked on soundcheck
 
 su:zy, Sarah Wanita, Trancesetters of Westphalia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sookie-3/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sookie-3/)*

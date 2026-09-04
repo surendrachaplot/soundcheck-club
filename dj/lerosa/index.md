@@ -1,6 +1,6 @@
 # Lerosa
 
-Lerosa is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Lx Factory, Lisbon on Thu, 10 Sept 2026.
+Lerosa is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lx Factory, Lisbon on Thu, 10 Sept 2026.
 
 Lerosa is a techno and electro artist tracked on soundcheck, with 6 sets logged across Dublin and Lisbon. Often billed alongside Eliza, Andre Cascais and Ayolxi. Next up: Lx Factory, Lisbon on Thu 10 Sept.
 
@@ -22,4 +22,4 @@ Lerosa is a techno and electro artist tracked on soundcheck, with 6 sets logged 
 
 Eliza, Andre Cascais, Ayolxi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lerosa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lerosa/)*

@@ -1,6 +1,6 @@
 # DAYZZI
 
-DAYZZI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 3 Oct 2026.
+DAYZZI is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 3 Oct 2026.
 
 DAYZZI is a techno and house artist based in Australia, tracked on soundcheck, with 39 sets logged across Melbourne and Sydney. Often billed alongside DAUG, Silly Lily and Caleb Jackson. Next up: Carousel Bar & Ballroom, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ DAYZZI is a techno and house artist based in Australia, tracked on soundcheck, w
 
 DAUG, Silly Lily, Caleb Jackson
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzzi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzzi/)*

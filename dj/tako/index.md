@@ -1,6 +1,6 @@
 # Tako
 
-Tako is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at MAD Radio NYC, New York City on Sun, 6 Sept 2026.
+Tako is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at MAD Radio NYC, New York City on Sun, 6 Sept 2026.
 
 Tako is a house and disco artist tracked on soundcheck, with 18 sets logged across Amsterdam, Athens, Belgrade and Berlin and 6 more. Often billed alongside Chevy, K.atou and Lex (GR). Next up: MAD Radio NYC, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Tako is a house and disco artist tracked on soundcheck, with 18 sets logged acro
 
 Chevy, K.atou, Lex (GR)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tako/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tako/)*

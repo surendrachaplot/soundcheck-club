@@ -45,7 +45,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788445142720">
+<meta name="sc-build" content="1788481452700">
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=Detroit&s=Find%20your%20music%20for%20tonight" />
   <link rel="canonical" href="https://soundcheck.club/detroit/" />
 </head>
@@ -104,7 +104,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="detroit"><h2>What&rsquo;s on in Detroit this week</h2><ul class="home-seo-dates"><li><a href="/detroit/2026-09-03/">Thu 3 Sept <span class="c">5 events</span></a></li><li><a href="/detroit/2026-09-04/">Fri 4 Sept <span class="c">13 events</span></a></li><li><a href="/detroit/2026-09-05/">Sat 5 Sept <span class="c">16 events</span></a></li><li><a href="/detroit/2026-09-06/">Sun 6 Sept <span class="c">11 events</span></a></li><li><a href="/detroit/2026-09-07/">Mon 7 Sept <span class="c">3 events</span></a></li><li><a href="/detroit/2026-09-11/">Fri 11 Sept <span class="c">10 events</span></a></li><li><a href="/detroit/2026-09-12/">Sat 12 Sept <span class="c">12 events</span></a></li></ul><h2>Clubs and venues in Detroit</h2><ul class="home-seo-venues"><li><a href="/detroit/club/elektricity/">Elektricity<span class="c">19 nights</span></a></li><li><a href="/detroit/club/lincoln-factory/">Lincoln Factory<span class="c">14 nights</span></a></li><li><a href="/detroit/club/tangent-gallery/">Tangent Gallery<span class="c">9 nights</span></a></li><li><a href="/detroit/club/marble-bar/">Marble Bar<span class="c">9 nights</span></a></li><li><a href="/detroit/club/big-pink/">Big Pink<span class="c">9 nights</span></a></li><li><a href="/detroit/club/spkrbox/">Spkrbox<span class="c">8 nights</span></a></li><li><a href="/detroit/club/tv-lounge/">TV Lounge<span class="c">7 nights</span></a></li><li><a href="/detroit/club/northern-lights-lounge/">Northern Lights Lounge<span class="c">5 nights</span></a></li><li><a href="/detroit/club/moondog-cafe/">Moondog Cafe<span class="c">5 nights</span></a></li><li><a href="/detroit/club/russell-industrial-center/">Russell Industrial Center<span class="c">4 nights</span></a></li><li><a href="/detroit/club/mad-arts/">MAD Arts<span class="c">4 nights</span></a></li><li><a href="/detroit/club/motorcity-wine/">MotorCity Wine<span class="c">3 nights</span></a></li><li><a href="/detroit/club/cannons/">Cannons<span class="c">3 nights</span></a></li><li><a href="/detroit/club/detroit-shipping-company/">Detroit Shipping Company<span class="c">2 nights</span></a></li><li><a href="/detroit/club/the-high-dive/">The High Dive<span class="c">2 nights</span></a></li><li><a href="/detroit/club/tba-215-west/">TBA - 215 West<span class="c">2 nights</span></a></li><li><a href="/detroit/club/pronto-royal-oak/">Pronto Royal Oak<span class="c">2 nights</span></a></li><li><a href="/detroit/club/the-eagle-of-detroit/">The Eagle of Detroit<span class="c">2 nights</span></a></li><li><a href="/detroit/club/the-strays/">The Strays<span class="c">2 nights</span></a></li><li><a href="/detroit/club/tigris/">Tigris<span class="c">2 nights</span></a></li><li><a href="/detroit/club/traverse-city-whiskey-co-outpost/">Traverse City Whiskey Co. Outpost<span class="c">2 nights</span></a></li><li><a href="/detroit/club/paramita-sound/">Paramita Sound<span class="c">2 nights</span></a></li><li><a href="/detroit/club/tba-day-of-show/">TBA - Day of Show <span class="c">1 night</span></a></li><li><a href="/detroit/club/amplify/">Amplify<span class="c">1 night</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/detroit/promoters/">Detroit promoters</a> <a href="/detroit/this-weekend/">This weekend in Detroit</a> <a href="/detroit/scene/">Detroit scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="detroit"><h2>What&rsquo;s on in Detroit this week</h2><ul class="home-seo-dates"><li><a href="/detroit/2026-09-04/">Fri 4 Sept <span class="c">13 events</span></a></li><li><a href="/detroit/2026-09-05/">Sat 5 Sept <span class="c">17 events</span></a></li><li><a href="/detroit/2026-09-06/">Sun 6 Sept <span class="c">11 events</span></a></li><li><a href="/detroit/2026-09-07/">Mon 7 Sept <span class="c">3 events</span></a></li><li><a href="/detroit/2026-09-11/">Fri 11 Sept <span class="c">11 events</span></a></li><li><a href="/detroit/2026-09-12/">Sat 12 Sept <span class="c">12 events</span></a></li><li><a href="/detroit/2026-09-18/">Fri 18 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/detroit/this-weekend/">This weekend in Detroit</a> <a href="/detroit/scene/">Detroit scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -250,7 +250,21 @@
   // would be magnifying a layout that already fits.
   (function(){
     if(!/Android/i.test(navigator.userAgent||'')) return;
-    var DESIGN=400, MIN=0.8, MAX=1;
+    // MEASURED ON A REAL ANDROID, not reasoned about.
+    //
+    // A Pixel-class device reports 412 CSS px, root font-size 16px and
+    // text-size-adjust 100% — so there is no font boosting to blame; the page is
+    // simply too big at 1:1. Driving zoom over the devtools socket on that
+    // device, 0.85 is the value where the layout matches iOS: seven full event
+    // rows instead of five and a half, and titles stop truncating.
+    //
+    // 412 / 0.85 = 485, so that is the effective width the layout wants. Aiming
+    // every device at it means a narrow phone and a wide one lay out the same.
+    //
+    // The previous attempt targeted 400 and clamped at 1, which on this exact
+    // device produced NO zoom and made it 11% bigger than the flat 0.9 it
+    // replaced. That is why Suren said it was still not fixed.
+    var DESIGN=485, MIN=0.70, MAX=0.92;
     function fit(){
       try{
         var de=document.documentElement;

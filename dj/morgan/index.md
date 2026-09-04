@@ -1,6 +1,6 @@
 # Morgan
 
-Morgan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Morgan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Morgan is a house and techno artist based in Australia, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Tomas Station, Magda and Kiyoshi. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Morgan is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Tomas Station, Magda, Kiyoshi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morgan/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/morgan/)*

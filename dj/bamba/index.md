@@ -1,6 +1,6 @@
 # Bamba
 
-Bamba is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Satellite Gallery, New York City on Sat, 12 Sept 2026.
+Bamba is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Satellite Gallery, New York City on Sat, 12 Sept 2026.
 
 Bamba is a downtempo and deep house artist tracked on soundcheck, with 32 sets logged across Newyorkcity, Tallinn and Washingtondc. Often billed alongside BehTarin, Chillosophy and Heather Luna. Next up: Satellite Gallery, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bamba is a downtempo and deep house artist tracked on soundcheck, with 32 sets l
 
 BehTarin, Chillosophy, Heather Luna
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bamba/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bamba/)*

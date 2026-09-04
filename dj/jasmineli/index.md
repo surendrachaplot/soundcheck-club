@@ -1,6 +1,6 @@
 # Jasmine Li
 
-Jasmine Li is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at MAD Radio NYC, New York City on Sat, 5 Sept 2026.
+Jasmine Li is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at MAD Radio NYC, New York City on Sat, 5 Sept 2026.
 
 Jasmine Li is a house and disco artist tracked on soundcheck, with 5 sets logged across Newyorkcity and Valencia. Often billed alongside AG (NYC), AUJA and Alex Raouf. Next up: MAD Radio NYC, Newyorkcity on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Jasmine Li is a house and disco artist tracked on soundcheck, with 5 sets logged
 
 AG (NYC), AUJA, Alex Raouf
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmineli/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmineli/)*

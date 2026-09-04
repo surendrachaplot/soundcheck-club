@@ -1,6 +1,6 @@
 # MARINI
 
-MARINI is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at All My Friends, London on Sat, 12 Sept 2026.
+MARINI is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at All My Friends, London on Sat, 12 Sept 2026.
 
 MARINI is a house and disco artist tracked on soundcheck, with 29 sets logged across Amsterdam, Dublin and London. Often billed alongside Ricky Chong, Aisling and Bevan. Next up: All My Friends, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ MARINI is a house and disco artist tracked on soundcheck, with 29 sets logged ac
 
 Ricky Chong, Aisling, Bevan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marini/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marini/)*

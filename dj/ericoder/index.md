@@ -1,6 +1,6 @@
 # Eric Oder
 
-Eric Oder is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Urban Spree, Berlin on Fri, 4 Sept 2026.
+Eric Oder is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Urban Spree, Berlin on Fri, 4 Sept 2026.
 
 Eric Oder is an electronica and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Milan. Often billed alongside Casual Treatment, Coquinati and Airshpd. Next up: Urban Spree, Berlin on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Eric Oder is an electronica and techno artist based in Germany, tracked on sound
 
 Casual Treatment, Coquinati, Airshpd
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericoder/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericoder/)*

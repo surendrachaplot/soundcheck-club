@@ -1,6 +1,6 @@
 # Coquinati
 
-Coquinati is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Urban Spree, Berlin on Fri, 4 Sept 2026.
+Coquinati is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Urban Spree, Berlin on Fri, 4 Sept 2026.
 
 Coquinati is a techno and electronica artist based in Italy, tracked on soundcheck, with 5 sets logged across Berlin and Turin. Often billed alongside Casual Treatment, Eric Oder and Alys. Next up: Urban Spree, Berlin on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Coquinati is a techno and electronica artist based in Italy, tracked on soundche
 
 Casual Treatment, Eric Oder, Alys
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coquinati/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coquinati/)*

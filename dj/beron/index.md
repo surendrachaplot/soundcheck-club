@@ -1,6 +1,6 @@
 # Beron
 
-Beron is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 12 Sept 2026.
+Beron is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 12 Sept 2026.
 
 Beron is a house and club artist tracked on soundcheck, with 19 sets logged across Berlin and Leipzig. Often billed alongside Vøskij, FRANKA and Seitenwind. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Beron is a house and club artist tracked on soundcheck, with 19 sets logged acro
 
 Vøskij, FRANKA, Seitenwind
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beron/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beron/)*

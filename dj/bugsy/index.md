@@ -1,6 +1,6 @@
 # Bugsy
 
-Bugsy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Parco La Spezia, Milan on Sun, 6 Sept 2026.
+Bugsy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Parco La Spezia, Milan on Sun, 6 Sept 2026.
 
 Bugsy is a house and techno artist tracked on soundcheck, with 79 sets logged across Bangkok, Bristol, Ghent and London and 2 more. Often billed alongside DJLMP, Tayga and Dirty Channels. Next up: Parco La Spezia, Milan on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Bugsy is a house and techno artist tracked on soundcheck, with 79 sets logged ac
 
 DJLMP, Tayga, Dirty Channels
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bugsy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bugsy/)*

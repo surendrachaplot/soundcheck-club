@@ -1,6 +1,6 @@
 # Maï-Linh
 
-Maï-Linh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Macadam, Nantes on Sun, 13 Sept 2026.
+Maï-Linh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Macadam, Nantes on Sun, 13 Sept 2026.
 
 Maï-Linh is a house and techno artist tracked on soundcheck, with 84 sets logged across Amsterdam, Berlin, Budapest and Cologne and 15 more. Often billed alongside Soyoon, GTI and Youl. Next up: Macadam, Nantes on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Maï-Linh is a house and techno artist tracked on soundcheck, with 84 sets logge
 
 Soyoon, GTI, Youl
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*

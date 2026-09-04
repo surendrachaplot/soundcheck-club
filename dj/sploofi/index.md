@@ -1,6 +1,6 @@
 # Sploofi
 
-Sploofi is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Honey's, New York City on Fri, 18 Sept 2026.
+Sploofi is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Honey's, New York City on Fri, 18 Sept 2026.
 
 Sploofi is a techno and experimental artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Montreal and Newyorkcity and 1 more. Often billed alongside Nicolò Bernardi, Ron Like Hell and Denise Rabe. Next up: Honey's, Newyorkcity on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Sploofi is a techno and experimental artist based in United States of America, t
 
 Nicolò Bernardi, Ron Like Hell, Denise Rabe
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sploofi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sploofi/)*

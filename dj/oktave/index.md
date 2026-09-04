@@ -1,6 +1,6 @@
 # Oktave
 
-Oktave is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 99 Scott Ave, New York City on Fri, 4 Sept 2026.
+Oktave is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 99 Scott Ave, New York City on Fri, 4 Sept 2026.
 
 Oktave is an afro house and deep house artist tracked on soundcheck, with 33 sets logged across Ibiza, Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside MoBlack, Caiiro and Gifted Fire. Next up: 99 Scott Ave, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Oktave is an afro house and deep house artist tracked on soundcheck, with 33 set
 
 MoBlack, Caiiro, Gifted Fire
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oktave/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oktave/)*

@@ -1,6 +1,6 @@
 # Frederic.
 
-Frederic. is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Wigwam, Dublin on Fri, 4 Sept 2026.
+Frederic. is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Wigwam, Dublin on Fri, 4 Sept 2026.
 
 Frederic. is a techno and trance artist tracked on soundcheck, with 171 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 29 more. Often billed alongside CAIVA, Part Time Killer and Chlär. Next up: Wigwam, Dublin on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Frederic. is a techno and trance artist tracked on soundcheck, with 171 sets log
 
 CAIVA, Part Time Killer, Chlär
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*

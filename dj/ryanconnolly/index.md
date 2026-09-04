@@ -1,6 +1,6 @@
 # Ryan Connolly
 
-Ryan Connolly is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
+Ryan Connolly is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
 
 Ryan Connolly is a deep house and minimal artist based in Spain, tracked on soundcheck, with 42 sets logged across Barcelona, Belgrade, Ibiza and London and 2 more. Often billed alongside HARRIE SUMMERS, ACA (YU) and Darius Syrossian. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ryan Connolly is a deep house and minimal artist based in Spain, tracked on soun
 
 HARRIE SUMMERS, ACA (YU), Darius Syrossian
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanconnolly/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanconnolly/)*

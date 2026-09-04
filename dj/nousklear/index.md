@@ -1,6 +1,6 @@
 # Nous Klear
 
-Nous Klear is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Eventhuset, Stockholm on Sat, 5 Sept 2026.
+Nous Klear is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Eventhuset, Stockholm on Sat, 5 Sept 2026.
 
 Nous Klear is a techno and tech house artist based in Sweden, tracked on soundcheck, with 14 sets logged across Stockholm. Often billed alongside OSO (3), Ms. K and Raveman. Next up: Eventhuset, Stockholm on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Nous Klear is a techno and tech house artist based in Sweden, tracked on soundch
 
 OSO (3), Ms. K, Raveman
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nousklear/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nousklear/)*

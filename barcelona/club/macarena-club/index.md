@@ -1,13 +1,14 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 27 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Bla Bla Music Night" on Fri, 4 Sept 2026.
+Macarena Club is a music venue in Barcelona with 28 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "25º Anniversary presents Musumeci" on Thu, 3 Sept 2026.
 
-Macarena Club is a music venue in Barcelona listed on soundcheck. 27 upcoming nights, with line-ups including Jo-Sie, Belu Rodriguez, Brizas and C.MØ and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
+Macarena Club is a music venue in Barcelona listed on soundcheck. 28 upcoming nights, with line-ups including Jo-Sie, Belu Rodriguez, Brizas and C.MØ and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | 25º Anniversary presents Musumeci | Cipy, Ivan Pugliares, Musumeci |
 | Fri, 4 Sept 2026 | Bla Bla Music Night | Cetratelli, Daniel Sanchez, Dominique Tijoux, Javier Labarca, MNZR |
 | Sat, 5 Sept 2026 | Trust Wally | Wally Lopez |
 | Sun, 6 Sept 2026 | Move Your Body | Villaça, Wilowm |
@@ -17,10 +18,9 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 27 upcoming ni
 | Thu, 10 Sept 2026 | 25º Aniversario |  |
 | Fri, 11 Sept 2026 | CrazySonic Night | Crazy Sonic |
 | Sat, 12 Sept 2026 | Kosmic | Cipy, Ivan Pugliares, YoKer |
-| Sun, 13 Sept 2026 | Move Your Body | Civic Grief, Mila Morr |
 
 ## Address
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

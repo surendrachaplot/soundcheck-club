@@ -1,6 +1,6 @@
 # DJYOUTH
 
-DJYOUTH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 25 Sept 2026.
+DJYOUTH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 25 Sept 2026.
 
 DJYOUTH is a techno and house artist tracked on soundcheck, with 62 sets logged across London, Osaka, Tokyo and Toronto and 1 more. Often billed alongside RYOHEI, RINALUCKY and SAKO. Next up: ZEROTOKYO, Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJYOUTH is a techno and house artist tracked on soundcheck, with 62 sets logged 
 
 RYOHEI, RINALUCKY, SAKO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyouth/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djyouth/)*

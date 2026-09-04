@@ -1,6 +1,6 @@
 # Anastazja
 
-Anastazja is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Flash, Washington DC on Fri, 11 Sept 2026.
+Anastazja is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Flash, Washington DC on Fri, 11 Sept 2026.
 
 Anastazja is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Chicago, Istanbul, Lisbon and London and 10 more. Often billed alongside Ayanna Heaven, CTRLZORA and DJ Holographic. Next up: Flash, Washingtondc on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Anastazja is a house and techno artist based in United States of America, tracke
 
 Ayanna Heaven, CTRLZORA, DJ Holographic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*

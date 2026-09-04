@@ -1,6 +1,6 @@
 # Manu Miran
 
-Manu Miran is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Signal, New York City on Sun, 25 Oct 2026.
+Manu Miran is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Signal, New York City on Sun, 25 Oct 2026.
 
 Manu Miran is a techno and house artist based in Venezuela, tracked on soundcheck, with 64 sets logged across Amsterdam, Bangkok, Boston and Chicago and 6 more. Often billed alongside Josh Steers, Junior M (US) and ALEXIS DE LA ROSA. Next up: Signal, Newyorkcity on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Manu Miran is a techno and house artist based in Venezuela, tracked on soundchec
 
 Josh Steers, Junior M (US), ALEXIS DE LA ROSA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manumiran/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manumiran/)*

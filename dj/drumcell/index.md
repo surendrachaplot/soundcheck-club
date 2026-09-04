@@ -1,6 +1,6 @@
 # Drumcell
 
-Drumcell is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Los Angeles, Los Angeles on Sun, 6 Sept 2026.
+Drumcell is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Los Angeles, Los Angeles on Sun, 6 Sept 2026.
 
 Drumcell is a techno and house artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Bali, Basel and Berlin and 14 more. Often billed alongside Truncate, Max Gardner and Speedy J. Next up: TBA - Los Angeles, Losangeles on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Drumcell is a techno and house artist based in United States of America, tracked
 
 Truncate, Max Gardner, Speedy J
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drumcell/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drumcell/)*

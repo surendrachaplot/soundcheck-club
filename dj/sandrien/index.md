@@ -1,6 +1,6 @@
 # Sandrien
 
-Sandrien is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at essaim, Paris on Sat, 12 Sept 2026.
+Sandrien is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at essaim, Paris on Sat, 12 Sept 2026.
 
 Sandrien is a techno and house artist tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside JakoJako, DVS1 and Fafi Abdel Nour. Next up: essaim, Paris on Sat 12 Sept.
 
@@ -33,4 +33,4 @@ Sandrien is a techno and house artist tracked on soundcheck, with 171 sets logge
 
 JakoJako, DVS1, Fafi Abdel Nour
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*

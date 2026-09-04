@@ -1,6 +1,6 @@
 # Convextion
 
-Convextion is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Nowadays, New York City on Fri, 30 Oct 2026.
+Convextion is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Nowadays, New York City on Fri, 30 Oct 2026.
 
 Convextion is a techno and electro artist based in United States of America, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Detroit and Lisbon and 6 more. Often billed alongside E.R.P., Kudeki and Torsion. Next up: Nowadays, Newyorkcity on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Convextion is a techno and electro artist based in United States of America, tra
 
 E.R.P., Kudeki, Torsion
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/convextion/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/convextion/)*

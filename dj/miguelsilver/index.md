@@ -1,6 +1,6 @@
 # Miguel Silver
 
-Miguel Silver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Miguel Silver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
 Miguel Silver is a techno and house artist tracked on soundcheck, with 17 sets logged across Buenosaires. Often billed alongside Luis Nieva, VALENCE and Ana Hagen. Next up: TBA - Parque de la Ciudad, CABA, Buenosaires on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Miguel Silver is a techno and house artist tracked on soundcheck, with 17 sets l
 
 Luis Nieva, VALENCE, Ana Hagen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelsilver/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelsilver/)*

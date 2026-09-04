@@ -1,6 +1,6 @@
 # Miles Mercer
 
-Miles Mercer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - 14x21, Los Angeles on Fri, 2 Oct 2026.
+Miles Mercer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - 14x21, Los Angeles on Fri, 2 Oct 2026.
 
 Miles Mercer is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Detroit, Losangeles, Newyorkcity and Portland and 1 more. Often billed alongside Simic, Second Contact and Amelia Holt. Next up: TBA - 14x21, Losangeles on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Miles Mercer is a house and techno artist based in United States of America, tra
 
 Simic, Second Contact, Amelia Holt
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milesmercer/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milesmercer/)*

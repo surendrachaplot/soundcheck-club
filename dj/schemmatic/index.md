@@ -1,6 +1,6 @@
 # Schemmatic
 
-Schemmatic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Pearl, Vancouver on Fri, 11 Sept 2026.
+Schemmatic is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Pearl, Vancouver on Fri, 11 Sept 2026.
 
 Schemmatic is a house and deep house artist based in Canada, tracked on soundcheck, with 5 sets logged across Vancouver. Often billed alongside Beiti, Chez Damier and DJ dood. Next up: The Pearl, Vancouver on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Schemmatic is a house and deep house artist based in Canada, tracked on soundche
 
 Beiti, Chez Damier, DJ dood
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schemmatic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schemmatic/)*

@@ -1,15 +1,14 @@
 # Nora Asteroid
 
-Nora Asteroid is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at MODULE, Copenhagen on Sat, 12 Sept 2026.
+Nora Asteroid is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at MODULE, Copenhagen on Sat, 12 Sept 2026.
 
-Nora Asteroid is a trance and techno artist tracked on soundcheck, with 13 sets logged across Berlin, Copenhagen and Zurich. Often billed alongside Dragovic, Astral Bandit and Mia Lund. Next up: MODULE, Copenhagen on Sat 12 Sept.
+Nora Asteroid is a trance and techno artist tracked on soundcheck, with 12 sets logged across Berlin, Copenhagen and Zurich. Often billed alongside Dragovic, Astral Bandit and Mia Lund. Next up: MODULE, Copenhagen on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | MODULE | Copenhagen |
-| Sat, 3 Oct 2026 | TBA - Neukolln. 52.47736265617827, 13.4592885932799 | Berlin |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Nora Asteroid is a trance and techno artist tracked on soundcheck, with 13 sets 
 
 Dragovic, Astral Bandit, Mia Lund
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noraasteroid/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noraasteroid/)*

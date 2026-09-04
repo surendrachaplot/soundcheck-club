@@ -1,6 +1,6 @@
 # Collin Oliver
 
-Collin Oliver is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Superior Ingredients, New York City on Sun, 4 Oct 2026.
+Collin Oliver is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Superior Ingredients, New York City on Sun, 4 Oct 2026.
 
 Collin Oliver is a house and electro artist based in United States of America, tracked on soundcheck, with 11 sets logged across Amsterdam, London and Newyorkcity. Often billed alongside Janika Tenn, Julie Mcknight and Rivka Ruth. Next up: Superior Ingredients, Newyorkcity on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Collin Oliver is a house and electro artist based in United States of America, t
 
 Janika Tenn, Julie Mcknight, Rivka Ruth
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/collinoliver/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/collinoliver/)*

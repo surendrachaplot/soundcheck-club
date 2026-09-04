@@ -1,6 +1,6 @@
 # jcore
 
-jcore is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Driftwood, San Francisco/Oakland on Fri, 4 Sept 2026.
+jcore is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Driftwood, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 jcore is a techno and club artist based in United States of America, tracked on soundcheck, with 27 sets logged across Sanfrancisco and Toronto. Often billed alongside 2dahlia, Myca and Moonpie. Next up: Driftwood, Sanfrancisco on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ jcore is a techno and club artist based in United States of America, tracked on 
 
 2dahlia, Myca, Moonpie
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jcore/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jcore/)*

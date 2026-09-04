@@ -1,6 +1,6 @@
 # AUTUL
 
-AUTUL is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 19 Sept 2026.
+AUTUL is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 19 Sept 2026.
 
 AUTUL is a techno and progressive house artist tracked on soundcheck, with 9 sets logged across Bangkok and Toronto. Often billed alongside BlanchEcho, Charles D (US) and ADB (CA). Next up: 821 Runnymede Rd, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ AUTUL is a techno and progressive house artist tracked on soundcheck, with 9 set
 
 BlanchEcho, Charles D (US), ADB (CA)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autul/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/autul/)*

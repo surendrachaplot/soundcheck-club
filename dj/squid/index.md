@@ -1,6 +1,6 @@
 # Squid
 
-Squid is a Electronica and Dembow artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Future Yard, Liverpool on Sun, 25 Oct 2026.
+Squid is a Electronica and Dembow artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Future Yard, Liverpool on Sun, 25 Oct 2026.
 
 Squid is an electronica and dembow artist tracked on soundcheck, with 3 sets logged across Bristol, Liverpool and Mexicocity. Often billed alongside 96 Back, A Good Year and Alex Wilcox. Next up: Future Yard, Liverpool on Sun 25 Oct.
 
@@ -19,4 +19,4 @@ Squid is an electronica and dembow artist tracked on soundcheck, with 3 sets log
 
 96 Back, A Good Year, Alex Wilcox
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/squid/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/squid/)*

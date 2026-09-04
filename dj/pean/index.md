@@ -1,6 +1,6 @@
 # Pean
 
-Pean is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mastak, Warsaw on Fri, 11 Sept 2026.
+Pean is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mastak, Warsaw on Fri, 11 Sept 2026.
 
 Pean is a techno and electronica artist tracked on soundcheck, with 33 sets logged across Krakow and Warsaw. Often billed alongside Salat, sporra and Slowmode. Next up: Mastak, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Pean is a techno and electronica artist tracked on soundcheck, with 33 sets logg
 
 Salat, sporra, Slowmode
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pean/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pean/)*

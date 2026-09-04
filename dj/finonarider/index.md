@@ -1,6 +1,6 @@
 # Finona Rider
 
-Finona Rider is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+Finona Rider is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
 Finona Rider is a house and techno artist tracked on soundcheck, with 94 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 2 more. Often billed alongside Anton Jonathan, Ilja Franz and Erhardt Schuster. Next up: Südpol, Hamburg on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Finona Rider is a house and techno artist tracked on soundcheck, with 94 sets lo
 
 Anton Jonathan, Ilja Franz, Erhardt Schuster
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finonarider/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/finonarider/)*

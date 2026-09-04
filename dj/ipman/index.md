@@ -1,6 +1,6 @@
 # IP Man
 
-IP Man is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Platforma Wolff, Bucharest on Sat, 5 Sept 2026.
+IP Man is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Platforma Wolff, Bucharest on Sat, 5 Sept 2026.
 
 IP Man is an electronica and techno artist based in Romania, tracked on soundcheck, with 16 sets logged across Brussels, Bucharest and Vienna. Often billed alongside Sopar, ĚMǓ (1) and Brieela. Next up: Platforma Wolff, Bucharest on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ IP Man is an electronica and techno artist based in Romania, tracked on soundche
 
 Sopar, ĚMǓ (1), Brieela
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ipman/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ipman/)*

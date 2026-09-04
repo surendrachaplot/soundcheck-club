@@ -1,6 +1,6 @@
 # Six Sex
 
-Six Sex is a Techno and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Melkweg, Amsterdam on Fri, 4 Sept 2026.
+Six Sex is a Techno and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Melkweg, Amsterdam on Fri, 4 Sept 2026.
 
 Six Sex is a techno and reggaeton artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside MCR-T, Blawan and DJ Gigola. Next up: Melkweg, Amsterdam on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Six Sex is a techno and reggaeton artist tracked on soundcheck, with 47 sets log
 
 MCR-T, Blawan, DJ Gigola
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sixsex/)*

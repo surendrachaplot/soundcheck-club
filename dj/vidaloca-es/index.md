@@ -1,6 +1,6 @@
 # Vidaloca
 
-Vidaloca is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Olympo Sky Bar, Microcentro, Buenos Aires on Sat, 12 Sept 2026.
+Vidaloca is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Olympo Sky Bar, Microcentro, Buenos Aires on Sat, 12 Sept 2026.
 
 Vidaloca is a tech house and house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Buenosaires and Frankfurt and 6 more. Often billed alongside Pau Guilera, DIROS and Abdon. Next up: TBA - Olympo Sky Bar, Microcentro, Buenosaires on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Vidaloca is a tech house and house artist tracked on soundcheck, with 79 sets lo
 
 Pau Guilera, DIROS, Abdon
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vidaloca-es/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vidaloca-es/)*

@@ -1,6 +1,6 @@
 # Baime
 
-Baime is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at MODULE, Copenhagen on Fri, 11 Sept 2026.
+Baime is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at MODULE, Copenhagen on Fri, 11 Sept 2026.
 
 Baime is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside Aja Gulris, SCHAARUP and dj bootymagic. Next up: MODULE, Copenhagen on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Baime is a techno and house artist tracked on soundcheck, with 98 sets logged ac
 
 Aja Gulris, SCHAARUP, dj bootymagic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baime/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baime/)*

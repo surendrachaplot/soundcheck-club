@@ -1,6 +1,6 @@
 # Sha3by Chic
 
-Sha3by Chic is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Orange Room, London on Sat, 19 Sept 2026.
+Sha3by Chic is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Orange Room, London on Sat, 19 Sept 2026.
 
 Sha3by Chic is a club and experimental artist tracked on soundcheck, with 20 sets logged across Berlin and London. Often billed alongside DJ Trigger Happy Ticket Finger, Kabir and inda Flo. Next up: Orange Room, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sha3by Chic is a club and experimental artist tracked on soundcheck, with 20 set
 
 DJ Trigger Happy Ticket Finger, Kabir, inda Flo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sha3bychic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sha3bychic/)*

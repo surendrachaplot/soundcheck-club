@@ -1,6 +1,6 @@
 # Flashmob
 
-Flashmob is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Anfiteatro Monte Stella, Milan on Sat, 12 Sept 2026.
+Flashmob is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Anfiteatro Monte Stella, Milan on Sat, 12 Sept 2026.
 
 Flashmob is a tech house and house artist based in Italy, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Dublin and Ibiza and 7 more. Often billed alongside HYLO (IT), Alexis Raphael and Shadow Child. Next up: Anfiteatro Monte Stella, Milan on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Flashmob is a tech house and house artist based in Italy, tracked on soundcheck,
 
 HYLO (IT), Alexis Raphael, Shadow Child
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmob/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flashmob/)*

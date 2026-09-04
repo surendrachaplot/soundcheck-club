@@ -1,6 +1,6 @@
 # Laak
 
-Laak is a music venue in The Hague with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Club Night + Presto" on Fri, 18 Sept 2026.
+Laak is a music venue in The Hague with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Club Night + Presto" on Fri, 18 Sept 2026.
 
 Laak is a music venue in Thehague listed on soundcheck. 6 upcoming nights, with line-ups including Bella Hall, Bruno Pronsato, Canva6 and DEVREE and 2 more. Browse upcoming dates, start times and who's playing. Lulofstraat 59, 2521 AL Den Haag.
 
@@ -19,4 +19,4 @@ Laak is a music venue in Thehague listed on soundcheck. 6 upcoming nights, with 
 
 Lulofstraat 59, 2521 AL Den Haag, The Hague
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/laak/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/laak/)*

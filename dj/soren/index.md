@@ -1,6 +1,6 @@
 # Soren
 
-Soren is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 4 Sept 2026.
+Soren is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 4 Sept 2026.
 
 Soren is a house and disco artist tracked on soundcheck, with 6 sets logged across Detroit, Losangeles and Sanfrancisco. Often billed alongside ARCHON, Cara Elizabeth and DEA MAGNA. Next up: NOS Event Center, Losangeles on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ Soren is a house and disco artist tracked on soundcheck, with 6 sets logged acro
 
 ARCHON, Cara Elizabeth, DEA MAGNA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soren/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soren/)*

@@ -1,6 +1,6 @@
 # Giusy S (2)
 
-Giusy S (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Basing House, London on Fri, 4 Sept 2026.
+Giusy S (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Basing House, London on Fri, 4 Sept 2026.
 
 Giusy S (2) is a tech house and house artist tracked on soundcheck, with 51 sets logged across Amsterdam and London. Often billed alongside Thomas Galbardi, Diana Loredana and Dhez. Next up: Basing House, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Giusy S (2) is a tech house and house artist tracked on soundcheck, with 51 sets
 
 Thomas Galbardi, Diana Loredana, Dhez
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giusys-2/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giusys-2/)*

@@ -1,6 +1,6 @@
 # Adred
 
-Adred is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paragon, New York City on Fri, 4 Sept 2026.
+Adred is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paragon, New York City on Fri, 4 Sept 2026.
 
 Adred is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 8 sets logged across Montreal, Newyorkcity and Sanfrancisco. Often billed alongside Diverge, Goldie and Paradox. Next up: Paragon, Newyorkcity on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Adred is a drum & bass and jungle artist based in United States of America, trac
 
 Diverge, Goldie, Paradox
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adred/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adred/)*

@@ -1,6 +1,6 @@
 # Daniel Czerner
 
-Daniel Czerner is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Beate Uwe, Berlin on Sat, 5 Sept 2026.
+Daniel Czerner is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Beate Uwe, Berlin on Sat, 5 Sept 2026.
 
 Daniel Czerner is a minimal techno and house artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Hamburg. Often billed alongside Bonjour Ben, Vy Tran and Ana Karla. Next up: Beate Uwe, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Daniel Czerner is a minimal techno and house artist based in Germany, tracked on
 
 Bonjour Ben, Vy Tran, Ana Karla
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielczerner/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielczerner/)*

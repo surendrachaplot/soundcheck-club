@@ -1,6 +1,6 @@
 # Lowris
 
-Lowris is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Auber Garden, Paris on Fri, 11 Sept 2026.
+Lowris is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Auber Garden, Paris on Fri, 11 Sept 2026.
 
 Lowris is a house and minimal artist tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Birmingham and Brussels and 9 more. Often billed alongside Olivier Romero, Adema and Cabanne. Next up: Auber Garden, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Lowris is a house and minimal artist tracked on soundcheck, with 45 sets logged 
 
 Olivier Romero, Adema, Cabanne
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowris/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowris/)*

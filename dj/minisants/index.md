@@ -1,6 +1,6 @@
 # Mini Sants
 
-Mini Sants is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Honey's, New York City on Sat, 5 Sept 2026.
+Mini Sants is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Honey's, New York City on Sat, 5 Sept 2026.
 
 Mini Sants is a house and disco artist tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside TEFF.CB, partylord and Campdukes. Next up: Honey's, Newyorkcity on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Mini Sants is a house and disco artist tracked on soundcheck, with 5 sets logged
 
 TEFF.CB, partylord, Campdukes
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minisants/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minisants/)*

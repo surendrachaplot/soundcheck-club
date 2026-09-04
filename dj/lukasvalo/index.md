@@ -1,6 +1,6 @@
 # Lukas Valo
 
-Lukas Valo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA -  131 Menahan St brooklyn , New York City on Sat, 12 Sept 2026.
+Lukas Valo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA -  131 Menahan St brooklyn , New York City on Sat, 12 Sept 2026.
 
 Lukas Valo is a house and techno artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Giovani, AleXander Gentil and Prince of Queens. Next up: TBA -  131 Menahan St brooklyn , Newyorkcity on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Lukas Valo is a house and techno artist tracked on soundcheck, with 7 sets logge
 
 Giovani, AleXander Gentil, Prince of Queens
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasvalo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasvalo/)*

@@ -1,6 +1,6 @@
 # -ddd-
 
--ddd- is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Le Hasard Ludique, Paris on Sat, 12 Sept 2026.
+-ddd- is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Le Hasard Ludique, Paris on Sat, 12 Sept 2026.
 
 -ddd- is a house and techno artist tracked on soundcheck, with 17 sets logged across Paris. Often billed alongside The Hustler, Amarou and Aurèle. Next up: Le Hasard Ludique, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@
 
 The Hustler, Amarou, Aurèle
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/-ddd-/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/-ddd-/)*

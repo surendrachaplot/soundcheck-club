@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "SOBASS + FRIENDS - DAY & NIGHT" on Fri, 4 Sept 2026.
+Village Underground Lisboa is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SOBASS + FRIENDS - DAY & NIGHT" on Fri, 4 Sept 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Bilal, Bryto, Chester (1) and DJ Poco and 2 more. Browse upcoming dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -17,4 +17,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 4 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

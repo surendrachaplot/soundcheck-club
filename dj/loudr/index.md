@@ -1,6 +1,6 @@
 # LOUDR
 
-LOUDR is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Flash, Washington DC on Sat, 12 Sept 2026.
+LOUDR is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Flash, Washington DC on Sat, 12 Sept 2026.
 
 LOUDR is a house and afro house artist based in Italy, tracked on soundcheck, with 16 sets logged across Washingtondc. Often billed alongside Casa Nova, Einmusik and Electro-cute. Next up: Flash, Washingtondc on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ LOUDR is a house and afro house artist based in Italy, tracked on soundcheck, wi
 
 Casa Nova, Einmusik, Electro-cute
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loudr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loudr/)*

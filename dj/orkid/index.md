@@ -1,6 +1,6 @@
 # orkid
 
-orkid is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
+orkid is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
 
 orkid is a bass and experimental artist based in Canada, tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside MSDELICIOUS, Melonwater and Sulk Hogan (2). Next up: TBA, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ orkid is a bass and experimental artist based in Canada, tracked on soundcheck, 
 
 MSDELICIOUS, Melonwater, Sulk Hogan (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orkid/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orkid/)*

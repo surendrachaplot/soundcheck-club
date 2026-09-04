@@ -1,6 +1,6 @@
 # XLR
 
-XLR is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "XLR x Surf Beatz [B.Y.O.B]" on Fri, 18 Sept 2026.
+XLR is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "XLR x Surf Beatz [B.Y.O.B]" on Fri, 18 Sept 2026.
 
 XLR is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including AZEH, Emile, G33 (UK) and Kami Lee and 2 more. Browse upcoming dates, start times and who's playing. 455 Wilmslow Road, Withington, Manchester, M20 4AN.
 
@@ -23,4 +23,4 @@ XLR is a music venue in Manchester listed on soundcheck. 10 upcoming nights, wit
 
 455 Wilmslow Road, Withington, Manchester, M20 4AN, Manchester
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/xlr/)*

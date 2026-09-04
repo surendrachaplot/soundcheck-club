@@ -1,6 +1,6 @@
 # Joa Luna
 
-Joa Luna is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Zemin Art Gallery, Berlin on Sun, 4 Oct 2026.
+Joa Luna is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Zemin Art Gallery, Berlin on Sun, 4 Oct 2026.
 
 Joa Luna is an electronica and ambient artist based in Poland, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside INVERNO, Anna Sharifi and Suit Kei. Next up: Zemin Art Gallery, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Joa Luna is an electronica and ambient artist based in Poland, tracked on soundc
 
 INVERNO, Anna Sharifi, Suit Kei
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joaluna/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joaluna/)*

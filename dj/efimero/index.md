@@ -1,6 +1,6 @@
 # EFÍMERO
 
-EFÍMERO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bukanyr Boat, Prague on Fri, 4 Sept 2026.
+EFÍMERO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bukanyr Boat, Prague on Fri, 4 Sept 2026.
 
 EFÍMERO is a techno and house artist based in Mexico, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Mexicocity and Prague. Often billed alongside Diego Montiel, Frankie Flowerz and Gem Wallow. Next up: Bukanyr Boat, Prague on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ EFÍMERO is a techno and house artist based in Mexico, tracked on soundcheck, wi
 
 Diego Montiel, Frankie Flowerz, Gem Wallow
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efimero/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/efimero/)*

@@ -1,6 +1,6 @@
 # Rissa Garcia
 
-Rissa Garcia is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Good Room, New York City on Fri, 11 Sept 2026.
+Rissa Garcia is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Good Room, New York City on Fri, 11 Sept 2026.
 
 Rissa Garcia is a house and disco artist based in United States of America, tracked on soundcheck, with 49 sets logged across Boston, Detroit, Miami and Newyorkcity and 1 more. Often billed alongside Danny Krivit, Ruez and Francois K. Next up: Good Room, Newyorkcity on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Rissa Garcia is a house and disco artist based in United States of America, trac
 
 Danny Krivit, Ruez, Francois K
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rissagarcia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rissagarcia/)*

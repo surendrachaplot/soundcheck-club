@@ -1,6 +1,6 @@
 # Parches
 
-Parches is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at un club bonito, Mexico City on Fri, 4 Sept 2026.
+Parches is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at un club bonito, Mexico City on Fri, 4 Sept 2026.
 
 Parches is a house and electronica artist based in Mexico, tracked on soundcheck, with 8 sets logged across Mexicocity. Often billed alongside The Essence, allangrank and daveh00d. Next up: un club bonito, Mexicocity on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Parches is a house and electronica artist based in Mexico, tracked on soundcheck
 
 The Essence, allangrank, daveh00d
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parches/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parches/)*

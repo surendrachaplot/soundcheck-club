@@ -1,6 +1,6 @@
 # SEXTILE
 
-SEXTILE is a Post-Punk and Breakcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+SEXTILE is a Post-Punk and Breakcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 SEXTILE is a post-punk and breakcore artist tracked on soundcheck, with 19 sets logged across Austin, Berlin, Chicago and Losangeles and 6 more. Often billed alongside Automatic, Avalon Emerson and Bianca Lexis. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ SEXTILE is a post-punk and breakcore artist tracked on soundcheck, with 19 sets 
 
 Automatic, Avalon Emerson, Bianca Lexis
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sextile/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sextile/)*

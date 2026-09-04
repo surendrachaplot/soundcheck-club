@@ -1,6 +1,6 @@
 # Hadone
 
-Hadone is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Macadam, Nantes on Fri, 4 Sept 2026.
+Hadone is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Macadam, Nantes on Fri, 4 Sept 2026.
 
 Hadone is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside UFO95, Chlär and DC Salas. Next up: Macadam, Nantes on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Hadone is a techno and house artist tracked on soundcheck, with 166 sets logged 
 
 UFO95, Chlär, DC Salas
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*

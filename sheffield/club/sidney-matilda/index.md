@@ -1,6 +1,6 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 13 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BILL REAVER presents: Lady Passion" on Fri, 11 Sept 2026.
+Sidney & Matilda is a music venue in Sheffield with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "BILL REAVER presents: Lady Passion" on Fri, 11 Sept 2026.
 
 Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 13 upcoming nights, with line-ups including 808 State, Aries, Bailey Ibbs and Charla Green and 2 more. Browse upcoming dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
@@ -23,4 +23,4 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 13 upcoming
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

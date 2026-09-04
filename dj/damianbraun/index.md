@@ -1,6 +1,6 @@
 # Damian Braun
 
-Damian Braun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 6 Sept 2026.
+Damian Braun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 6 Sept 2026.
 
 Damian Braun is a house and techno artist based in Mexico, tracked on soundcheck, with 19 sets logged across Berlin and Mexicocity. Often billed alongside allangrank, Fig (DYN) and Nicolaos. Next up: Sunday Sunday, Mexicocity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Damian Braun is a house and techno artist based in Mexico, tracked on soundcheck
 
 allangrank, Fig (DYN), Nicolaos
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianbraun/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianbraun/)*

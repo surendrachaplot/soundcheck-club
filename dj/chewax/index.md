@@ -1,6 +1,6 @@
 # CHÉ WAX
 
-CHÉ WAX is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Freeze HiFi, Liverpool on Sat, 5 Sept 2026.
+CHÉ WAX is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Freeze HiFi, Liverpool on Sat, 5 Sept 2026.
 
 CHÉ WAX is a house and disco artist tracked on soundcheck, with 27 sets logged across Amsterdam, Bangkok, Liverpool and London and 1 more. Often billed alongside DMC., Dan Soulsmith and Greg Wilson. Next up: Freeze HiFi, Liverpool on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ CHÉ WAX is a house and disco artist tracked on soundcheck, with 27 sets logged 
 
 DMC., Dan Soulsmith, Greg Wilson
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chewax/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chewax/)*

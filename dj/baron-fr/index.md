@@ -1,6 +1,6 @@
 # Baron
 
-Baron is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at KOKO, London on Sat, 5 Sept 2026.
+Baron is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KOKO, London on Sat, 5 Sept 2026.
 
 Baron is a house and afro house artist based in France, tracked on soundcheck, with 5 sets logged across Berlin, Ibiza, London and Mykonos and 1 more. Often billed alongside Dorian Craft, Asch Pintura and Bedouin. Next up: KOKO, London on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Baron is a house and afro house artist based in France, tracked on soundcheck, w
 
 Dorian Craft, Asch Pintura, Bedouin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*

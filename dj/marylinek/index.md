@@ -1,6 +1,6 @@
 # Maryline K
 
-Maryline K is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at elipamanoke, Leipzig on Fri, 18 Sept 2026.
+Maryline K is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at elipamanoke, Leipzig on Fri, 18 Sept 2026.
 
 Maryline K is a techno and trance artist based in Germany, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 4 more. Often billed alongside Sabu!, The Jakob Sister and RaverPik. Next up: elipamanoke, Leipzig on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Maryline K is a techno and trance artist based in Germany, tracked on soundcheck
 
 Sabu!, The Jakob Sister, RaverPik
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marylinek/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marylinek/)*

@@ -1,6 +1,6 @@
 # Agent Greg
 
-Agent Greg is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Island Athens Riviera, Athens on Sun, 6 Sept 2026.
+Agent Greg is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Island Athens Riviera, Athens on Sun, 6 Sept 2026.
 
 Agent Greg is a house and tech house artist based in Greece, tracked on soundcheck, with 45 sets logged across Athens, Miami and Mykonos. Often billed alongside CJ Jeff, Dino MFU and James Hype (UK). Next up: Island Athens Riviera, Athens on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Agent Greg is a house and tech house artist based in Greece, tracked on soundche
 
 CJ Jeff, Dino MFU, James Hype (UK)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agentgreg/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agentgreg/)*

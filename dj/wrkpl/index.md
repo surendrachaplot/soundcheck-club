@@ -1,6 +1,6 @@
 # WRK (PL)
 
-WRK (PL) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OCZKI, Warsaw on Fri, 4 Sept 2026.
+WRK (PL) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OCZKI, Warsaw on Fri, 4 Sept 2026.
 
 WRK (PL) is a techno and trance artist based in Poland, tracked on soundcheck, with 18 sets logged across Berlin, Krakow, London and Warsaw. Often billed alongside ANXHELA, MERVH and VIVØ. Next up: OCZKI, Warsaw on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ WRK (PL) is a techno and trance artist based in Poland, tracked on soundcheck, w
 
 ANXHELA, MERVH, VIVØ
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrkpl/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrkpl/)*

@@ -1,6 +1,6 @@
 # Pawlowski (UK)
 
-Pawlowski (UK) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Room 2 Glasgow, Glasgow on Sun, 27 Sept 2026.
+Pawlowski (UK) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Room 2 Glasgow, Glasgow on Sun, 27 Sept 2026.
 
 Pawlowski (UK) is a techno and trance artist tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Basel and Berlin and 15 more. Often billed alongside Alignment, Nico Moreno and Holy Priest. Next up: Room 2 Glasgow, Glasgow on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Pawlowski (UK) is a techno and trance artist tracked on soundcheck, with 29 sets
 
 Alignment, Nico Moreno, Holy Priest
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*

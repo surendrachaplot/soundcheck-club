@@ -1,6 +1,6 @@
 # a.gar
 
-a.gar is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mood Ring, New York City on Fri, 18 Sept 2026.
+a.gar is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mood Ring, New York City on Fri, 18 Sept 2026.
 
 a.gar is a techno artist tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside Pablo Vitale, AJACENT and shirlz. Next up: Mood Ring, Newyorkcity on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ a.gar is a techno artist tracked on soundcheck, with 7 sets logged across Newyor
 
 Pablo Vitale, AJACENT, shirlz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*

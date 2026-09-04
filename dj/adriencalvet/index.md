@@ -1,6 +1,6 @@
 # Adrien Calvet
 
-Adrien Calvet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Adrien Calvet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 Adrien Calvet is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 16 more. Often billed alongside Emi Ömar, HearThug and Occibel. Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Adrien Calvet is a house and techno artist tracked on soundcheck, with 46 sets l
 
 Emi Ömar, HearThug, Occibel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*

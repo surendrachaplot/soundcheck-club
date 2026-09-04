@@ -1,6 +1,6 @@
 # Chris Avantgarde
 
-Chris Avantgarde is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Chris Avantgarde is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Chris Avantgarde is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Barcelona and Basel and 34 more. Often billed alongside Kevin de Vries, Adam Beyer and Massano. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Chris Avantgarde is a techno and house artist tracked on soundcheck, with 122 se
 
 Kevin de Vries, Adam Beyer, Massano
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisavantgarde/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisavantgarde/)*

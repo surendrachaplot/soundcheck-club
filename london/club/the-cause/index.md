@@ -1,6 +1,6 @@
 # The Cause
 
-The Cause is a music venue in London with 22 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "The Cause x Cortex presents: Loxy, DJ Flight, Nectax, CHEZA LUCINA" on Sat, 5 Sept 2026.
+The Cause is a music venue in London with 22 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "The Cause x Cortex presents: Loxy, DJ Flight, Nectax, CHEZA LUCINA" on Sat, 5 Sept 2026.
 
 The Cause is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including 4000 Hz, KT, Aba Shanti-I and Adiel and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 22 upcoming nights, w
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

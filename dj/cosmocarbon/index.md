@@ -1,6 +1,6 @@
 # Cosmo Carbon
 
-Cosmo Carbon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tuff Club, Singapore on Fri, 4 Sept 2026.
+Cosmo Carbon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tuff Club, Singapore on Fri, 4 Sept 2026.
 
 Cosmo Carbon is a techno and house artist based in Singapore, tracked on soundcheck, with 36 sets logged across Bangkok and Singapore. Often billed alongside Läbraatz, Pengsoo and James Selva. Next up: Tuff Club, Singapore on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Cosmo Carbon is a techno and house artist based in Singapore, tracked on soundch
 
 Läbraatz, Pengsoo, James Selva
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmocarbon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmocarbon/)*

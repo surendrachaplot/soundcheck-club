@@ -1,6 +1,6 @@
 # Rob NG
 
-Rob NG is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Bag Factory, Manchester on Fri, 4 Sept 2026.
+Rob NG is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Bag Factory, Manchester on Fri, 4 Sept 2026.
 
 Rob NG is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Manchester. Often billed alongside Binx, Fav B and Sinda. Next up: The Bag Factory, Manchester on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Rob NG is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Binx, Fav B, Sinda
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robng/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robng/)*

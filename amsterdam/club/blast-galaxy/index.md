@@ -1,6 +1,6 @@
 # Blast Galaxy
 
-Blast Galaxy is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "SLPFNK X SWEELY CURATES | ADE" on Thu, 22 Oct 2026.
+Blast Galaxy is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SLPFNK X SWEELY CURATES | ADE" on Thu, 22 Oct 2026.
 
 Blast Galaxy is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Aline Brooklyn, Confusion, Kameliia and Krol and 2 more. Browse upcoming dates, start times and who's playing. Mt. Lincolnweg 17 1033 SN Amsterdam.
 
@@ -15,4 +15,4 @@ Blast Galaxy is a music venue in Amsterdam listed on soundcheck. 2 upcoming nigh
 
 Mt. Lincolnweg 17 1033 SN Amsterdam, Amsterdam
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/blast-galaxy/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/blast-galaxy/)*

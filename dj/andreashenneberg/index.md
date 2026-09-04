@@ -1,6 +1,6 @@
 # Andreas Henneberg
 
-Andreas Henneberg is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
+Andreas Henneberg is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
 
 Andreas Henneberg is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin, Cologne, Hamburg and Losangeles and 8 more. Often billed alongside Beth Lydi, Maurice Mino and Konfusia. Next up: Fridas Pier, Stuttgart on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Andreas Henneberg is a techno and house artist based in Germany, tracked on soun
 
 Beth Lydi, Maurice Mino, Konfusia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreashenneberg/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreashenneberg/)*

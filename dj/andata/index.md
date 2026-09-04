@@ -1,6 +1,6 @@
 # ANDATA
 
-ANDATA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 4 Sept 2026.
+ANDATA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Uebel & Gefährlich, Hamburg on Fri, 4 Sept 2026.
 
 ANDATA is a techno and trance artist based in Germany, tracked on soundcheck, with 93 sets logged across Berlin, Budapest, Cologne and Frankfurt and 10 more. Often billed alongside two girls one mom, HOTBOI2300 and Invaria. Next up: Uebel & Gefährlich, Hamburg on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ ANDATA is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 two girls one mom, HOTBOI2300, Invaria
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*

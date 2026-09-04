@@ -1,6 +1,6 @@
 # tamanaramen
 
-tamanaramen is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Exhibition London, London on Sat, 26 Sept 2026.
+tamanaramen is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Exhibition London, London on Sat, 26 Sept 2026.
 
 tamanaramen is an experimental and electronica artist based in Japan, tracked on soundcheck, with 33 sets logged across Berlin, Brussels, Hongkong and London and 4 more. Often billed alongside HIMAWARI, MoEPiKA and Torus. Next up: Exhibition London, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ tamanaramen is an experimental and electronica artist based in Japan, tracked on
 
 HIMAWARI, MoEPiKA, Torus
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamanaramen/)*

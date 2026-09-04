@@ -1,6 +1,6 @@
 # Emilio Arias
 
-Emilio Arias is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at dubble, Amsterdam on Sat, 5 Sept 2026.
+Emilio Arias is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at dubble, Amsterdam on Sat, 5 Sept 2026.
 
 Emilio Arias is an electro and experimental artist based in Ecuador, tracked on soundcheck, with 21 sets logged across Amsterdam, Basel, Miami and Milan and 1 more. Often billed alongside Marijn S, Dj Serko and Masha Wordpress. Next up: dubble, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Emilio Arias is an electro and experimental artist based in Ecuador, tracked on 
 
 Marijn S, Dj Serko, Masha Wordpress
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilioarias/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilioarias/)*

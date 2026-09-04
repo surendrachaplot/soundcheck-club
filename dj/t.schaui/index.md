@@ -1,6 +1,6 @@
 # T.Schaui
 
-T.Schaui is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Absturz, Leipzig on Sat, 12 Sept 2026.
+T.Schaui is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Absturz, Leipzig on Sat, 12 Sept 2026.
 
 T.Schaui is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Leipzig. Often billed alongside OutWithJane, Beatris and Kalpea. Next up: Absturz, Leipzig on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ T.Schaui is a techno and house artist based in Germany, tracked on soundcheck, w
 
 OutWithJane, Beatris, Kalpea
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t.schaui/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t.schaui/)*

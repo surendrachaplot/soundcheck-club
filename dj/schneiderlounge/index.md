@@ -1,6 +1,6 @@
 # Schneider Lounge
 
-Schneider Lounge is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Czech Boat, Prague on Sat, 12 Sept 2026.
+Schneider Lounge is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Czech Boat, Prague on Sat, 12 Sept 2026.
 
 Schneider Lounge is a house and techno artist tracked on soundcheck, with 54 sets logged across Berlin and Prague. Often billed alongside Lucas Hulan, Stessie Tfgn and Dona. Next up: Czech Boat, Prague on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Schneider Lounge is a house and techno artist tracked on soundcheck, with 54 set
 
 Lucas Hulan, Stessie Tfgn, Dona
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schneiderlounge/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schneiderlounge/)*

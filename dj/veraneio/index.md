@@ -1,6 +1,6 @@
 # Veraneio
 
-Veraneio is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Rua Treze de Maio, 180 - Bela Vista, São Paulo - SP, 01327-000, Brasil, Sao Paulo on Fri, 4 Sept 2026.
+Veraneio is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Rua Treze de Maio, 180 - Bela Vista, São Paulo - SP, 01327-000, Brasil, Sao Paulo on Fri, 4 Sept 2026.
 
 Veraneio is a balearic and house artist based in Brazil, tracked on soundcheck, with 26 sets logged across Saopaulo. Often billed alongside AmadoPeace, Cremosa Vinil and Discos Baratos. Next up: TBA - Rua Treze de Maio, 180 - Bela Vista, São Paulo - SP, 01327-000, Brasil, Saopaulo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Veraneio is a balearic and house artist based in Brazil, tracked on soundcheck, 
 
 AmadoPeace, Cremosa Vinil, Discos Baratos
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veraneio/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veraneio/)*

@@ -1,6 +1,6 @@
 # Acsa
 
-Acsa is a Minimal Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Very Small Club, Budapest on Fri, 4 Sept 2026.
+Acsa is a Minimal Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Very Small Club, Budapest on Fri, 4 Sept 2026.
 
 Acsa is a minimal techno and acid artist based in Hungary, tracked on soundcheck, with 29 sets logged across Budapest. Often billed alongside Dorota, Andrija Jäger and JAGER (HU). Next up: Very Small Club, Budapest on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Acsa is a minimal techno and acid artist based in Hungary, tracked on soundcheck
 
 Dorota, Andrija Jäger, JAGER (HU)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acsa/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acsa/)*

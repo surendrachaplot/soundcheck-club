@@ -1,6 +1,6 @@
 # NEENZY (UK)
 
-NEENZY (UK) is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at M.O.T, London on Fri, 25 Sept 2026.
+NEENZY (UK) is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at M.O.T, London on Fri, 25 Sept 2026.
 
 NEENZY (UK) is a bass and garage artist tracked on soundcheck, with 27 sets logged across Leeds, London, Manchester and Newcastle. Often billed alongside DJ BootyShake, Amelia Leigh and PB (UK). Next up: M.O.T, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ NEENZY (UK) is a bass and garage artist tracked on soundcheck, with 27 sets logg
 
 DJ BootyShake, Amelia Leigh, PB (UK)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neenzyuk/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neenzyuk/)*

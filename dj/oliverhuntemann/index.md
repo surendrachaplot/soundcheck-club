@@ -1,6 +1,6 @@
 # Oliver Huntemann
 
-Oliver Huntemann is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Te Motu - Vineyard Restaurant, Auckland on Fri, 4 Sept 2026.
+Oliver Huntemann is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Te Motu - Vineyard Restaurant, Auckland on Fri, 4 Sept 2026.
 
 Oliver Huntemann is a techno and house artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Auckland and Bali and 23 more. Often billed alongside Steve Sai, Tommahawk and Aio. Next up: Te Motu - Vineyard Restaurant, Auckland on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Oliver Huntemann is a techno and house artist based in Germany, tracked on sound
 
 Steve Sai, Tommahawk, Aio
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhuntemann/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhuntemann/)*

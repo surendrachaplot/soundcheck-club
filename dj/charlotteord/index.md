@@ -1,6 +1,6 @@
 # Charlotte Ord
 
-Charlotte Ord is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+Charlotte Ord is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 Charlotte Ord is a house and garage artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Edinburgh, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Locky and Josh Demello. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Charlotte Ord is a house and garage artist based in United Kingdom, tracked on s
 
 Reeshy, Locky, Josh Demello
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotteord/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotteord/)*

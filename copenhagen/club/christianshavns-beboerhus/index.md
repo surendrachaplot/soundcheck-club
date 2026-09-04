@@ -1,6 +1,6 @@
 # Christianshavns Beboerhus
 
-Christianshavns Beboerhus is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Bashir Billow — How Will It Be [Album Release]" on Sat, 24 Oct 2026.
+Christianshavns Beboerhus is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Bashir Billow — How Will It Be [Album Release]" on Sat, 24 Oct 2026.
 
 Christianshavns Beboerhus is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, with line-ups including KUCHULU and Suzie The Cockroach. Browse upcoming dates, start times and who's playing. Dronningensgade 34, 1420 Copenhagen K.
 
@@ -15,4 +15,4 @@ Christianshavns Beboerhus is a music venue in Copenhagen listed on soundcheck. 2
 
 Dronningensgade 34, 1420 Copenhagen K, Copenhagen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christianshavns-beboerhus/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christianshavns-beboerhus/)*

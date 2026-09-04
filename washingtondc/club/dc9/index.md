@@ -1,6 +1,6 @@
 # DC9
 
-DC9 is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Dance Club presents Nocturnal Wax" on Fri, 11 Sept 2026.
+DC9 is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Dance Club presents Nocturnal Wax" on Fri, 11 Sept 2026.
 
 DC9 is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, with line-ups including Joyce Lim, Nocturnal Wax and Tommy Cornelis. Browse upcoming dates, start times and who's playing. 1940 9th Street; NW Washington, DC 20001; United States.
 
@@ -14,4 +14,4 @@ DC9 is a music venue in Washingtondc listed on soundcheck. 1 upcoming night, wit
 
 1940 9th Street; NW Washington, DC 20001; United States, Washington DC
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/dc9/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/dc9/)*

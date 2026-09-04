@@ -1,6 +1,6 @@
 # HIGHTS
 
-HIGHTS is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Toffler, Rotterdam on Sat, 31 Oct 2026.
+HIGHTS is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Toffler, Rotterdam on Sat, 31 Oct 2026.
 
 HIGHTS is a tech house and house artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam and Rotterdam. Often billed alongside Raphaelito, ESSNCE and Ammé. Next up: Toffler, Rotterdam on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ HIGHTS is a tech house and house artist based in Netherlands, tracked on soundch
 
 Raphaelito, ESSNCE, Ammé
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hights/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hights/)*

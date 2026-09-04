@@ -1,6 +1,6 @@
 # Tera
 
-Tera is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Azumaya, Tokyo on Tue, 15 Sept 2026.
+Tera is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Azumaya, Tokyo on Tue, 15 Sept 2026.
 
 Tera is a house and techno artist tracked on soundcheck, with 28 sets logged across Melbourne and Tokyo. Often billed alongside Yonenaga, Kamekawa and DAIZEN. Next up: Azumaya, Tokyo on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Tera is a house and techno artist tracked on soundcheck, with 28 sets logged acr
 
 Yonenaga, Kamekawa, DAIZEN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tera/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tera/)*

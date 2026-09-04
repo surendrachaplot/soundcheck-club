@@ -1,6 +1,6 @@
 # Robin Koch
 
-Robin Koch is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Legal, Munich on Sat, 5 Sept 2026.
+Robin Koch is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Legal, Munich on Sat, 5 Sept 2026.
 
 Robin Koch is a house and tech house artist based in Germany, tracked on soundcheck, with 12 sets logged across Munich. Often billed alongside Javier Bähr, Monaco Marco and Max Israel. Next up: Legal, Munich on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Robin Koch is a house and tech house artist based in Germany, tracked on soundch
 
 Javier Bähr, Monaco Marco, Max Israel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robinkoch/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robinkoch/)*

@@ -1,6 +1,6 @@
 # AMERICANRECYCLING
 
-AMERICANRECYCLING is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - 14758 Arminta St Los Angeles, CA 91402, Los Angeles on Fri, 4 Sept 2026.
+AMERICANRECYCLING is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - 14758 Arminta St Los Angeles, CA 91402, Los Angeles on Fri, 4 Sept 2026.
 
 AMERICANRECYCLING is an electro and electronica artist based in United States of America, tracked on soundcheck, with 7 sets logged across Losangeles and Sanfrancisco. Often billed alongside crushh, Alima Lee and Avalon Lurks. Next up: TBA - 14758 Arminta St Los Angeles, CA 91402, Losangeles on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ AMERICANRECYCLING is an electro and electronica artist based in United States of
 
 crushh, Alima Lee, Avalon Lurks
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/americanrecycling/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/americanrecycling/)*

@@ -1,6 +1,6 @@
 # Disclosure
 
-Disclosure is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
+Disclosure is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
 
 Disclosure is a house and techno artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Barcelona and Boston and 19 more. Often billed alongside Sammy Virji, Kaytranada and DJ Heartstring. Next up: FS., Tokyo on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Disclosure is a house and techno artist based in United Kingdom, tracked on soun
 
 Sammy Virji, Kaytranada, DJ Heartstring
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disclosure/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disclosure/)*

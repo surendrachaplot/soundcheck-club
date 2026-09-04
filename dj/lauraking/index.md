@@ -1,6 +1,6 @@
 # Laura King
 
-Laura King is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at ark (Melb), Melbourne on Sat, 5 Sept 2026.
+Laura King is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ark (Melb), Melbourne on Sat, 5 Sept 2026.
 
 Laura King is a techno and trance artist tracked on soundcheck, with 50 sets logged across Bali, Melbourne and Sydney. Often billed alongside Above & Beyond, Billy Gillies and 6 SENSE. Next up: ark (Melb), Melbourne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Laura King is a techno and trance artist tracked on soundcheck, with 50 sets log
 
 Above & Beyond, Billy Gillies, 6 SENSE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauraking/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lauraking/)*

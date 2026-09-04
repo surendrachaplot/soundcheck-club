@@ -1,6 +1,6 @@
 # GODOT
 
-GODOT is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Blank Site, Seoul on Sat, 12 Sept 2026.
+GODOT is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Blank Site, Seoul on Sat, 12 Sept 2026.
 
 GODOT is a bass and breakbeat artist tracked on soundcheck, with 6 sets logged across Seoul. Often billed alongside AEIDA, BAAWLA and Coziest. Next up: Blank Site, Seoul on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ GODOT is a bass and breakbeat artist tracked on soundcheck, with 6 sets logged a
 
 AEIDA, BAAWLA, Coziest
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/godot/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/godot/)*

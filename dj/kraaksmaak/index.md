@@ -1,6 +1,6 @@
 # Kraak & Smaak
 
-Kraak & Smaak is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sala Villanos, Madrid on Fri, 2 Oct 2026.
+Kraak & Smaak is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sala Villanos, Madrid on Fri, 2 Oct 2026.
 
 Kraak & Smaak are a disco and house duo based in Netherlands, tracked on soundcheck, with 20 sets logged across Amsterdam, Budapest, London and Madrid and 6 more. Often billed alongside Knight One, Moods and Alexander Koning. Next up: Sala Villanos, Madrid on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Kraak & Smaak are a disco and house duo based in Netherlands, tracked on soundch
 
 Knight One, Moods, Alexander Koning
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kraaksmaak/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kraaksmaak/)*

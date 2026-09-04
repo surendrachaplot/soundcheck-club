@@ -1,6 +1,6 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
+Angerfist is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 19 Sept 2026.
 
 Angerfist is a techno and hardcore artist tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Partyraiser, Alignment and Mad Dog. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Angerfist is a techno and hardcore artist tracked on soundcheck, with 66 sets lo
 
 Partyraiser, Alignment, Mad Dog
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

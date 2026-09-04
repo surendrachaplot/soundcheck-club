@@ -1,6 +1,6 @@
 # True Vine
 
-True Vine is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+True Vine is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 True Vine is a house and experimental artist based in United States of America, tracked on soundcheck, with 54 sets logged across Miami and Newyorkcity. Often billed alongside Bort, Sister System and Bakke. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ True Vine is a house and experimental artist based in United States of America, 
 
 Bort, Sister System, Bakke
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/truevine/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/truevine/)*

@@ -1,6 +1,6 @@
 # Joe Joiner
 
-Joe Joiner is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Moon Club, Bristol on Fri, 2 Oct 2026.
+Joe Joiner is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Moon Club, Bristol on Fri, 2 Oct 2026.
 
 Joe Joiner is a jungle and hardcore artist tracked on soundcheck, with 19 sets logged across Bristol and London. Often billed alongside Pressa, Highlander and Andy Foundations. Next up: Moon Club, Bristol on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Joe Joiner is a jungle and hardcore artist tracked on soundcheck, with 19 sets l
 
 Pressa, Highlander, Andy Foundations
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joejoiner/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joejoiner/)*

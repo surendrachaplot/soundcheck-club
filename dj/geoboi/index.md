@@ -1,6 +1,6 @@
 # Geoboi
 
-Geoboi is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Los Angeles on Fri, 4 Sept 2026.
+Geoboi is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Los Angeles on Fri, 4 Sept 2026.
 
 Geoboi is a techno and club artist based in United States of America, tracked on soundcheck, with 8 sets logged across Losangeles. Often billed alongside Shane Thomas, Miracles and Mez Monty. Next up: TBA, Losangeles on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ Geoboi is a techno and club artist based in United States of America, tracked on
 
 Shane Thomas, Miracles, Mez Monty
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geoboi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geoboi/)*

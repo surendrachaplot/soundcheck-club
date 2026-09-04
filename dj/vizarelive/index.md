@@ -1,6 +1,6 @@
 # VIZARE Live
 
-VIZARE Live is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
+VIZARE Live is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club der Visionaere, Berlin on Sun, 6 Sept 2026.
 
 VIZARE Live is a minimal and house artist tracked on soundcheck, with 12 sets logged across Berlin, Istanbul, London and Paris. Often billed alongside Cesar Merveille, Viken Arman and Clovis. Next up: Club der Visionaere, Berlin on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ VIZARE Live is a minimal and house artist tracked on soundcheck, with 12 sets lo
 
 Cesar Merveille, Viken Arman, Clovis
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vizarelive/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vizarelive/)*

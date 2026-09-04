@@ -1,6 +1,6 @@
 # The Organism
 
-The Organism is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 16 Sept 2026.
+The Organism is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 16 Sept 2026.
 
 The Organism is a house and tech house artist based in Ukraine, tracked on soundcheck, with 15 sets logged across Barcelona, Chicago, Ibiza and Istanbul and 3 more. Often billed alongside Alexandr Grecov, Audera and Marco Tegui. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ The Organism is a house and tech house artist based in Ukraine, tracked on sound
 
 Alexandr Grecov, Audera, Marco Tegui
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theorganism/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theorganism/)*

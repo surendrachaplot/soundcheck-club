@@ -1,6 +1,6 @@
 # acrosstheboard
 
-acrosstheboard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sub Club, Glasgow on Thu, 10 Sept 2026.
+acrosstheboard is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sub Club, Glasgow on Thu, 10 Sept 2026.
 
 acrosstheboard is a house and techno artist tracked on soundcheck, with 21 sets logged across Edinburgh, Glasgow, Ibiza and Melbourne. Often billed alongside McMSTR, Dominique. and Robbie. Next up: Sub Club, Glasgow on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ acrosstheboard is a house and techno artist tracked on soundcheck, with 21 sets 
 
 McMSTR, Dominique., Robbie
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acrosstheboard/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acrosstheboard/)*

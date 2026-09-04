@@ -1,6 +1,6 @@
 # Illuminati_Techno
 
-Illuminati_Techno is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fusion Club, Munster on Sat, 26 Sept 2026.
+Illuminati_Techno is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fusion Club, Munster on Sat, 26 Sept 2026.
 
 Illuminati_Techno is a techno and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Munster. Often billed alongside DJ PayPaul, KEN (DE) and FLEXTASY. Next up: Fusion Club, Munster on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Illuminati_Techno is a techno and trance artist based in Germany, tracked on sou
 
 DJ PayPaul, KEN (DE), FLEXTASY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illuminati_techno/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/illuminati_techno/)*

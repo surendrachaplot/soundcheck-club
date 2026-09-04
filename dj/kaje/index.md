@@ -1,6 +1,6 @@
 # KAJE
 
-KAJE is a Club and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Tue, 22 Sept 2026.
+KAJE is a Club and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Tue, 22 Sept 2026.
 
 KAJE is a club and ebm artist based in United States of America, tracked on soundcheck, with 12 sets logged across London and Sanfrancisco. Often billed alongside Hex Embrace, ImpirumCrypt and Hopelesss. Next up: F8 1192 Folsom, Sanfrancisco on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ KAJE is a club and ebm artist based in United States of America, tracked on soun
 
 Hex Embrace, ImpirumCrypt, Hopelesss
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaje/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaje/)*

@@ -1,6 +1,6 @@
 # Christoph Valdivia
 
-Christoph Valdivia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Rusty Bar, Malta on Fri, 4 Sept 2026.
+Christoph Valdivia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Rusty Bar, Malta on Fri, 4 Sept 2026.
 
 Christoph Valdivia is a house and techno artist based in Spain, tracked on soundcheck, with 6 sets logged across Malta. Often billed alongside Florian François, Philip Ackowsky and Víctor Güell. Next up: Rusty Bar, Malta on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ Christoph Valdivia is a house and techno artist based in Spain, tracked on sound
 
 Florian François, Philip Ackowsky, Víctor Güell
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christophvaldivia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christophvaldivia/)*

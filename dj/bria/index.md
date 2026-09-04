@@ -1,6 +1,6 @@
 # Bria
 
-Bria is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Vanguard, Sydney on Fri, 18 Sept 2026.
+Bria is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Vanguard, Sydney on Fri, 18 Sept 2026.
 
 Bria is a house and techno artist based in Australia, tracked on soundcheck, with 49 sets logged across Melbourne and Sydney. Often billed alongside Adi Toohey, Deepa and Evie. Next up: The Vanguard, Sydney on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Bria is a house and techno artist based in Australia, tracked on soundcheck, wit
 
 Adi Toohey, Deepa, Evie
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bria/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bria/)*

@@ -1,6 +1,6 @@
 # Big Miz
 
-Big Miz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+Big Miz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 Big Miz is a house and techno artist tracked on soundcheck, with 71 sets logged across Aberdeen, Barcelona, Bristol and Edinburgh and 12 more. Often billed alongside Bessa, Hayley Zalassi and Ben Hemsley. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Big Miz is a house and techno artist tracked on soundcheck, with 71 sets logged 
 
 Bessa, Hayley Zalassi, Ben Hemsley
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bigmiz/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bigmiz/)*

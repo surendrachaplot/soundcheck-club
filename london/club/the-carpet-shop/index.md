@@ -1,6 +1,6 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 16 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "SHUSH // Ken Okuda & D'Monk (All Night Long)" on Fri, 4 Sept 2026.
+The Carpet Shop is a music venue in London with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SHUSH // Ken Okuda & D'Monk (All Night Long)" on Fri, 4 Sept 2026.
 
 The Carpet Shop is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including 2xAA, Alexander Nut, Bushbby and Cleveland Watkiss and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 16 upcoming nig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

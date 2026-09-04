@@ -1,6 +1,6 @@
 # Mouridis
 
-Mouridis is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at renae, Manchester on Sat, 5 Sept 2026.
+Mouridis is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at renae, Manchester on Sat, 5 Sept 2026.
 
 Mouridis is a house and ambient artist tracked on soundcheck, with 21 sets logged across Manchester. Often billed alongside Ben Start, Amy Amor and Allius. Next up: renae, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mouridis is a house and ambient artist tracked on soundcheck, with 21 sets logge
 
 Ben Start, Amy Amor, Allius
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mouridis/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mouridis/)*

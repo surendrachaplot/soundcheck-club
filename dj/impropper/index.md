@@ -1,6 +1,6 @@
 # impropper
 
-impropper is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Rūmu, Lisbon on Fri, 4 Sept 2026.
+impropper is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Rūmu, Lisbon on Fri, 4 Sept 2026.
 
 impropper is a house and tech house artist tracked on soundcheck, with 39 sets logged across Lisbon, Paris and Saopaulo. Often billed alongside Holger Hecler, MAGA and Mâhfoud. Next up: Rūmu, Lisbon on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ impropper is a house and tech house artist tracked on soundcheck, with 39 sets l
 
 Holger Hecler, MAGA, Mâhfoud
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/impropper/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/impropper/)*

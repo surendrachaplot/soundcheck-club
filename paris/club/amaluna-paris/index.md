@@ -1,6 +1,6 @@
 # Amaluna Paris
 
-Amaluna Paris is a music venue in Paris with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Augurama: L'équinoxe" on Sat, 19 Sept 2026.
+Amaluna Paris is a music venue in Paris with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Augurama: L'équinoxe" on Sat, 19 Sept 2026.
 
 Amaluna Paris is a music venue in Paris listed on soundcheck. 1 upcoming night, with line-ups including Gaspard Magda and Segoz. Browse upcoming dates, start times and who's playing. 12 Esplanade Nathalie Sarraute.
 
@@ -14,4 +14,4 @@ Amaluna Paris is a music venue in Paris listed on soundcheck. 1 upcoming night, 
 
 12 Esplanade Nathalie Sarraute, Paris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/amaluna-paris/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/amaluna-paris/)*

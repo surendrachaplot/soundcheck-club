@@ -1,6 +1,6 @@
 # La Cité Fertile
 
-La Cité Fertile is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Résilience X Cité Fertile Invites Pattern - Warehouse Day" on Sat, 12 Sept 2026.
+La Cité Fertile is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Résilience X Cité Fertile Invites Pattern - Warehouse Day" on Sat, 12 Sept 2026.
 
 La Cité Fertile is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Abn - P2z, A.mo, Cosmo (KR) and Deep Tears On Clamart and 2 more. Browse upcoming dates, start times and who's playing. 14 avenue Edouard Vaillant, 93500 Pantin.
 
@@ -16,4 +16,4 @@ La Cité Fertile is a music venue in Paris listed on soundcheck. 3 upcoming nigh
 
 14 avenue Edouard Vaillant, 93500 Pantin, Paris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-cit-fertile/)*

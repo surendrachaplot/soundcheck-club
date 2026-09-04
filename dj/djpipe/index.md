@@ -1,6 +1,6 @@
 # DJ Pipe
 
-DJ Pipe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
+DJ Pipe is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Distillery, Leipzig on Sat, 5 Sept 2026.
 
 DJ Pipe is a house and techno artist based in United Kingdom, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Huerta, Taslo and The Ghost. Next up: Distillery, Leipzig on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ DJ Pipe is a house and techno artist based in United Kingdom, tracked on soundch
 
 Huerta, Taslo, The Ghost
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpipe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpipe/)*

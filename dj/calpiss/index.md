@@ -1,6 +1,6 @@
 # CALPISS
 
-CALPISS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 4 Sept 2026.
+CALPISS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 4 Sept 2026.
 
 CALPISS is a house and techno artist tracked on soundcheck, with 166 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside BANANA-CHAN, YAMARCHY and YELLOWUHURU. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ CALPISS is a house and techno artist tracked on soundcheck, with 166 sets logged
 
 BANANA-CHAN, YAMARCHY, YELLOWUHURU
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calpiss/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/calpiss/)*

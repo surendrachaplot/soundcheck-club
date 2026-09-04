@@ -1,6 +1,6 @@
 # Latmun
 
-Latmun is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
+Latmun is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
 
 Latmun is a tech house and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Austin, Barcelona and Boston and 28 more. Often billed alongside Will Taylor, Andrea Oliva and GW Harrison. Next up: Eutopia Whs, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Latmun is a tech house and house artist tracked on soundcheck, with 89 sets logg
 
 Will Taylor, Andrea Oliva, GW Harrison
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Latmun/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Latmun/)*

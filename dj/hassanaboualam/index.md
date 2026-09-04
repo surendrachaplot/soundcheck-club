@@ -1,6 +1,6 @@
 # Hassan Abou Alam
 
-Hassan Abou Alam is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
+Hassan Abou Alam is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ÆDEN, Berlin on Fri, 25 Sept 2026.
 
 Hassan Abou Alam is a bass and techno artist tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 8 more. Often billed alongside Ayesha, Azu Tiwaline and Cosmox. Next up: ÆDEN, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Hassan Abou Alam is a bass and techno artist tracked on soundcheck, with 24 sets
 
 Ayesha, Azu Tiwaline, Cosmox
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hassanaboualam/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hassanaboualam/)*

@@ -1,6 +1,6 @@
 # iLEE
 
-iLEE is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cavo Paradiso, Mykonos on Fri, 4 Sept 2026.
+iLEE is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cavo Paradiso, Mykonos on Fri, 4 Sept 2026.
 
 iLEE is an electronic artist based in Serbia, tracked on soundcheck, with 6 sets logged across Amsterdam, Ibiza, London and Mykonos. Often billed alongside AP(uk), AGA BORYN and Afshin Momadi. Next up: Cavo Paradiso, Mykonos on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ iLEE is an electronic artist based in Serbia, tracked on soundcheck, with 6 sets
 
 AP(uk), AGA BORYN, Afshin Momadi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilee/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilee/)*

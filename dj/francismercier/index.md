@@ -1,6 +1,6 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - The Port Lands, Toronto on Sun, 6 Sept 2026.
+Francis Mercier is a Afro House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - The Port Lands, Toronto on Sun, 6 Sept 2026.
 
 Francis Mercier is an afro house and house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: TBA - The Port Lands, Toronto on Sun 6 Sept.
 
@@ -35,4 +35,4 @@ Francis Mercier is an afro house and house artist tracked on soundcheck, with 16
 
 Andrea Oliva, Nadrums, ARYMÉ
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francismercier/)*

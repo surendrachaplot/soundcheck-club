@@ -1,13 +1,14 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Home The Venue, Sydney on Fri, 4 Sept 2026.
+davyboi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Revolver Upstairs, Melbourne on Thu, 3 Sept 2026.
 
-davyboi is a techno and trance artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Home The Venue, Sydney on Fri 4 Sept.
+davyboi is a techno and trance artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: Revolver Upstairs, Melbourne on Thu 3 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 3 Sept 2026 | Revolver Upstairs | Melbourne |
 | Fri, 4 Sept 2026 | Home The Venue | Sydney |
 | Sat, 5 Sept 2026 | TBA | Melbourne |
 | Fri, 11 Sept 2026 | Uebel & Gefährlich | Hamburg |
@@ -19,11 +20,9 @@ davyboi is a techno and trance artist tracked on soundcheck, with 163 sets logge
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | Werksviertel Mitte | Munich |
-| Fri, 6 Nov 2026 | E1 | London |
 
 ## Recently played
 
-- Revolver Upstairs, Melbourne — Thu, 3 Sept 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Toffler, Rotterdam — Sat, 22 Aug 2026
 - INPUT High Fidelity Dance Club, Barcelona — Fri, 14 Aug 2026
@@ -31,9 +30,10 @@ davyboi is a techno and trance artist tracked on soundcheck, with 163 sets logge
 - RSO.BERLIN, Berlin — Fri, 31 Jul 2026
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - Boomerang Beach, The Hague — Sun, 19 Jul 2026
+- Amnesia Ibiza, Ibiza — Wed, 15 Jul 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Alba Franch
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davyboi/)*

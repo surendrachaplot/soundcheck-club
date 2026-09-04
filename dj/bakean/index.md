@@ -1,6 +1,6 @@
 # Bakean
 
-Bakean is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Klein Phönix, Istanbul on Sat, 5 Sept 2026.
+Bakean is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Klein Phönix, Istanbul on Sat, 5 Sept 2026.
 
 Bakean is a techno and house artist tracked on soundcheck, with 17 sets logged across Bali, Ibiza, Istanbul and Lisbon and 3 more. Often billed alongside Edouard!, IBÁN MENDOZA and Adam Ten. Next up: Klein Phönix, Istanbul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Bakean is a techno and house artist tracked on soundcheck, with 17 sets logged a
 
 Edouard!, IBÁN MENDOZA, Adam Ten
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakean/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bakean/)*

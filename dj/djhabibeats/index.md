@@ -1,6 +1,6 @@
 # DJ Habibeats
 
-DJ Habibeats is a House and Hip-Hop artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Reelworks Denver, Denver on Fri, 25 Sept 2026.
+DJ Habibeats is a House and Hip-Hop artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Reelworks Denver, Denver on Fri, 25 Sept 2026.
 
 DJ Habibeats is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 48 sets logged across Auckland, Austin, Bali and Berlin and 18 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Reelworks Denver, Denver on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ DJ Habibeats is a house and hip-hop artist based in United States of America, tr
 
 AUGUSTE, Bianca Maieli, Ushka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*

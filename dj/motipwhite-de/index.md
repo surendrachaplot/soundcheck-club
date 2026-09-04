@@ -1,6 +1,6 @@
 # Motip White
 
-Motip White is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Klunkerkranich, Berlin on Sat, 5 Sept 2026.
+Motip White is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Klunkerkranich, Berlin on Sat, 5 Sept 2026.
 
 Motip White is a house and techno artist tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Cologne and Dusseldorf and 9 more. Often billed alongside Redfreya, Alexander Maier and P.Toile. Next up: Klunkerkranich, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Motip White is a house and techno artist tracked on soundcheck, with 34 sets log
 
 Redfreya, Alexander Maier, P.Toile
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motipwhite-de/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motipwhite-de/)*

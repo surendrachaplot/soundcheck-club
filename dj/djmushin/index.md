@@ -1,6 +1,6 @@
 # DJ Mushin
 
-DJ Mushin is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cabaret Berlin, Montreal on Sun, 6 Sept 2026.
+DJ Mushin is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cabaret Berlin, Montreal on Sun, 6 Sept 2026.
 
 DJ Mushin is a techno and acid artist tracked on soundcheck, with 11 sets logged across Montreal. Often billed alongside DJ Davidé, Mushin and AJ Marr. Next up: Cabaret Berlin, Montreal on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ DJ Mushin is a techno and acid artist tracked on soundcheck, with 11 sets logged
 
 DJ Davidé, Mushin, AJ Marr
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmushin/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmushin/)*

@@ -1,6 +1,6 @@
 # Millú
 
-Millú is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tender, Melbourne on Sat, 12 Sept 2026.
+Millú is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tender, Melbourne on Sat, 12 Sept 2026.
 
 Millú is a tech house and progressive house artist based in Australia, tracked on soundcheck, with 35 sets logged across Melbourne and Sydney. Often billed alongside Pjenné, Katie Pearson and Activator (AU). Next up: Tender, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Millú is a tech house and progressive house artist based in Australia, tracked 
 
 Pjenné, Katie Pearson, Activator (AU)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millu/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/millu/)*

@@ -1,6 +1,6 @@
 # Excultist
 
-Excultist is a Hip-Hop and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Blank Site, Seoul on Fri, 4 Sept 2026.
+Excultist is a Hip-Hop and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Blank Site, Seoul on Fri, 4 Sept 2026.
 
 Excultist is a hip-hop and electro artist based in South Korea, tracked on soundcheck, with 9 sets logged across Seoul. Often billed alongside rue (3), DDD (2) and S1LVERLUV. Next up: Blank Site, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Excultist is a hip-hop and electro artist based in South Korea, tracked on sound
 
 rue (3), DDD (2), S1LVERLUV
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/excultist/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/excultist/)*

@@ -1,6 +1,6 @@
 # Xenia
 
-Xenia is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 16 Toneladas, Valencia on Fri, 25 Sept 2026.
+Xenia is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 16 Toneladas, Valencia on Fri, 25 Sept 2026.
 
 Xenia is a techno and industrial artist based in Ukraine, tracked on soundcheck, with 54 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 22 more. Often billed alongside KARAH, Parsa Jafari and Per Pleks. Next up: 16 Toneladas, Valencia on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Xenia is a techno and industrial artist based in Ukraine, tracked on soundcheck,
 
 KARAH, Parsa Jafari, Per Pleks
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenia/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xenia/)*

@@ -1,6 +1,6 @@
 # Phil Abaddon
 
-Phil Abaddon is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Locke, Hamburg on Sun, 27 Sept 2026.
+Phil Abaddon is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Locke, Hamburg on Sun, 27 Sept 2026.
 
 Phil Abaddon is a techno and ghetto tech artist based in Germany, tracked on soundcheck, with 13 sets logged across Hamburg. Often billed alongside DJ SOURCE, Spriteeyez and Alphamob. Next up: Locke, Hamburg on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Phil Abaddon is a techno and ghetto tech artist based in Germany, tracked on sou
 
 DJ SOURCE, Spriteeyez, Alphamob
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philabaddon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philabaddon/)*

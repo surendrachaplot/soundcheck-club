@@ -1,6 +1,6 @@
 # Matthew Neequaye
 
-Matthew Neequaye is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Distrikt, Leeds on Sat, 3 Oct 2026.
+Matthew Neequaye is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Distrikt, Leeds on Sat, 3 Oct 2026.
 
 Matthew Neequaye is a house and electro artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Ghent and 11 more. Often billed alongside Shanti Celeste, Children of Valis and Christian AB. Next up: Distrikt, Leeds on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Matthew Neequaye is a house and electro artist tracked on soundcheck, with 52 se
 
 Shanti Celeste, Children of Valis, Christian AB
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*

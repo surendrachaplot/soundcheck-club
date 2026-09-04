@@ -45,7 +45,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788445142720">
+<meta name="sc-build" content="1788481452700">
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=Seoul&s=Find%20your%20music%20for%20tonight" />
   <link rel="canonical" href="https://soundcheck.club/seoul/" />
 </head>
@@ -104,7 +104,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="seoul"><h2>What&rsquo;s on in Seoul this week</h2><ul class="home-seo-dates"><li><a href="/seoul/2026-09-03/">Thu 3 Sept <span class="c">9 events</span></a></li><li><a href="/seoul/2026-09-04/">Fri 4 Sept <span class="c">33 events</span></a></li><li><a href="/seoul/2026-09-05/">Sat 5 Sept <span class="c">35 events</span></a></li><li><a href="/seoul/2026-09-06/">Sun 6 Sept <span class="c">5 events</span></a></li><li><a href="/seoul/2026-09-11/">Fri 11 Sept <span class="c">10 events</span></a></li><li><a href="/seoul/2026-09-12/">Sat 12 Sept <span class="c">12 events</span></a></li><li><a href="/seoul/2026-09-18/">Fri 18 Sept <span class="c">3 events</span></a></li></ul><h2>Clubs and venues in Seoul</h2><ul class="home-seo-venues"><li><a href="/seoul/club/teller/">teller<span class="c">9 nights</span></a></li><li><a href="/seoul/club/cakeshop/">Cakeshop<span class="c">9 nights</span></a></li><li><a href="/seoul/club/volnost/">Volnost<span class="c">8 nights</span></a></li><li><a href="/seoul/club/vurt/">vurt.<span class="c">6 nights</span></a></li><li><a href="/seoul/club/faust/">Faust<span class="c">5 nights</span></a></li><li><a href="/seoul/club/atdge-seoul/">Atdge Seoul<span class="c">5 nights</span></a></li><li><a href="/seoul/club/undercity/">UNDERCITY<span class="c">5 nights</span></a></li><li><a href="/seoul/club/lion-super-club/">Lion Super Club<span class="c">4 nights</span></a></li><li><a href="/seoul/club/hertz/">Hertz<span class="c">4 nights</span></a></li><li><a href="/seoul/club/blank-site/">Blank Site<span class="c">4 nights</span></a></li><li><a href="/seoul/club/lovehaus/">Lovehaus<span class="c">3 nights</span></a></li><li><a href="/seoul/club/kockiri/">Kockiri<span class="c">3 nights</span></a></li><li><a href="/seoul/club/j-j-mahoney-s-bar/">J.J. Mahoney's Bar<span class="c">3 nights</span></a></li><li><a href="/seoul/club/stoked-stoned/">Stoked&amp;stoned<span class="c">3 nights</span></a></li><li><a href="/seoul/club/paper/">Paper<span class="c">3 nights</span></a></li><li><a href="/seoul/club/ximxim-bar/">Ximxim Bar<span class="c">3 nights</span></a></li><li><a href="/seoul/club/nu-seoul/">Nué Seoul<span class="c">3 nights</span></a></li><li><a href="/seoul/club/the-edge-seoul/">The Edge Seoul<span class="c">3 nights</span></a></li><li><a href="/seoul/club/ring/">Ring<span class="c">2 nights</span></a></li><li><a href="/seoul/club/cul-sec/">Cul Sec<span class="c">2 nights</span></a></li><li><a href="/seoul/club/bar-piment/">Bar Piment<span class="c">2 nights</span></a></li><li><a href="/seoul/club/evening/">Evening<span class="c">2 nights</span></a></li><li><a href="/seoul/club/the-henz-club/">The Henz Club<span class="c">2 nights</span></a></li><li><a href="/seoul/club/pistil/">Pistil<span class="c">2 nights</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/seoul/promoters/">Seoul promoters</a> <a href="/seoul/this-weekend/">This weekend in Seoul</a> <a href="/seoul/scene/">Seoul scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="seoul"><h2>What&rsquo;s on in Seoul this week</h2><ul class="home-seo-dates"><li><a href="/seoul/2026-09-04/">Fri 4 Sept <span class="c">34 events</span></a></li><li><a href="/seoul/2026-09-05/">Sat 5 Sept <span class="c">36 events</span></a></li><li><a href="/seoul/2026-09-06/">Sun 6 Sept <span class="c">5 events</span></a></li><li><a href="/seoul/2026-09-11/">Fri 11 Sept <span class="c">10 events</span></a></li><li><a href="/seoul/2026-09-12/">Sat 12 Sept <span class="c">13 events</span></a></li><li><a href="/seoul/2026-09-18/">Fri 18 Sept <span class="c">3 events</span></a></li><li><a href="/seoul/2026-09-19/">Sat 19 Sept <span class="c">9 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/seoul/this-weekend/">This weekend in Seoul</a> <a href="/seoul/scene/">Seoul scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -250,7 +250,21 @@
   // would be magnifying a layout that already fits.
   (function(){
     if(!/Android/i.test(navigator.userAgent||'')) return;
-    var DESIGN=400, MIN=0.8, MAX=1;
+    // MEASURED ON A REAL ANDROID, not reasoned about.
+    //
+    // A Pixel-class device reports 412 CSS px, root font-size 16px and
+    // text-size-adjust 100% — so there is no font boosting to blame; the page is
+    // simply too big at 1:1. Driving zoom over the devtools socket on that
+    // device, 0.85 is the value where the layout matches iOS: seven full event
+    // rows instead of five and a half, and titles stop truncating.
+    //
+    // 412 / 0.85 = 485, so that is the effective width the layout wants. Aiming
+    // every device at it means a narrow phone and a wide one lay out the same.
+    //
+    // The previous attempt targeted 400 and clamped at 1, which on this exact
+    // device produced NO zoom and made it 11% bigger than the flat 0.9 it
+    // replaced. That is why Suren said it was still not fixed.
+    var DESIGN=485, MIN=0.70, MAX=0.92;
     function fit(){
       try{
         var de=document.documentElement;

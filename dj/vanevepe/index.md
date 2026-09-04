@@ -1,6 +1,6 @@
 # Vane Vepe
 
-Vane Vepe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fünk, Mexico City on Fri, 18 Sept 2026.
+Vane Vepe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fünk, Mexico City on Fri, 18 Sept 2026.
 
 Vane Vepe is a house and techno artist tracked on soundcheck, with 7 sets logged across Barcelona, Berlin, Madrid and Mexicocity. Often billed alongside Eliel Capa, Alvaro Medina and Cinema Paradisco. Next up: Fünk, Mexicocity on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Vane Vepe is a house and techno artist tracked on soundcheck, with 7 sets logged
 
 Eliel Capa, Alvaro Medina, Cinema Paradisco
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanevepe/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanevepe/)*

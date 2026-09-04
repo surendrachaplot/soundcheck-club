@@ -1,6 +1,6 @@
 # ASYNC
 
-ASYNC is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Volnost, Seoul on Fri, 4 Sept 2026.
+ASYNC is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Volnost, Seoul on Fri, 4 Sept 2026.
 
 ASYNC is a techno and minimal artist based in South Korea, tracked on soundcheck, with 48 sets logged across Seoul and Toronto. Often billed alongside DJ SIN, mizae lim and Hogun. Next up: Volnost, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ ASYNC is a techno and minimal artist based in South Korea, tracked on soundcheck
 
 DJ SIN, mizae lim, Hogun
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/async/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/async/)*

@@ -1,6 +1,6 @@
 # UNO MALTA
 
-UNO MALTA is a music venue in Malta with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Breaking Borders" on Thu, 3 Sept 2026.
+UNO MALTA is a music venue in Malta with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Breaking Borders" on Thu, 3 Sept 2026.
 
 UNO MALTA is a music venue in Malta listed on soundcheck. 7 upcoming nights, with line-ups including Kepler, ADMNTi, Alec Falconer and Aline Rocha and 2 more. Browse upcoming dates, start times and who's playing. Crafts Village, Ta''Qali, Attard ATD, 4000, Malta.
 
@@ -20,4 +20,4 @@ UNO MALTA is a music venue in Malta listed on soundcheck. 7 upcoming nights, wit
 
 Crafts Village, Ta''Qali, Attard ATD, 4000, Malta, Malta
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/uno-malta/)*

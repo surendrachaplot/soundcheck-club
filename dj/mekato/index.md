@@ -1,6 +1,6 @@
 # Mekato
 
-Mekato is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Marble Bar, Detroit on Fri, 4 Sept 2026.
+Mekato is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Marble Bar, Detroit on Fri, 4 Sept 2026.
 
 Mekato is a house and deep house artist tracked on soundcheck, with 7 sets logged across Detroit. Often billed alongside Roque Ybarra, RN ISMO and TEO (CDN). Next up: Marble Bar, Detroit on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Mekato is a house and deep house artist tracked on soundcheck, with 7 sets logge
 
 Roque Ybarra, RN ISMO, TEO (CDN)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mekato/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mekato/)*

@@ -1,6 +1,6 @@
 # Niklas Becher
 
-Niklas Becher is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Toekomstmuziek, Amsterdam on Sat, 26 Sept 2026.
+Niklas Becher is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Toekomstmuziek, Amsterdam on Sat, 26 Sept 2026.
 
 Niklas Becher is a house and techno artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam and Berlin. Often billed alongside UriBlanch, ANNASNEL and Black Box. Next up: Toekomstmuziek, Amsterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Niklas Becher is a house and techno artist based in Netherlands, tracked on soun
 
 UriBlanch, ANNASNEL, Black Box
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasbecher/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niklasbecher/)*

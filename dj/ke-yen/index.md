@@ -1,6 +1,6 @@
 # KE-YEN
 
-KE-YEN is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Preston Warehouse, Melbourne on Sat, 26 Sept 2026.
+KE-YEN is a Garage and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Preston Warehouse, Melbourne on Sat, 26 Sept 2026.
 
 KE-YEN is a garage and techno artist based in Australia, tracked on soundcheck, with 20 sets logged across Bali, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Maruwa, Benga and LAMMER. Next up: Preston Warehouse, Melbourne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ KE-YEN is a garage and techno artist based in Australia, tracked on soundcheck, 
 
 Maruwa, Benga, LAMMER
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ke-yen/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ke-yen/)*

@@ -1,6 +1,6 @@
 # Trance Kafka
 
-Trance Kafka is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Twist Bar, Prague on Thu, 17 Sept 2026.
+Trance Kafka is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Twist Bar, Prague on Thu, 17 Sept 2026.
 
 Trance Kafka is a techno and trance artist tracked on soundcheck, with 6 sets logged across Prague. Often billed alongside Shurigen, Teletext and Ancient Methods. Next up: Twist Bar, Prague on Thu 17 Sept.
 
@@ -22,4 +22,4 @@ Trance Kafka is a techno and trance artist tracked on soundcheck, with 6 sets lo
 
 Shurigen, Teletext, Ancient Methods
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancekafka/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancekafka/)*

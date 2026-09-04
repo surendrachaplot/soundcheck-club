@@ -1,6 +1,6 @@
 # Kazimier Stockroom
 
-Kazimier Stockroom is a music venue in Liverpool with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Tender Claws LIVE @ The Kaz Stockroom" on Wed, 16 Sept 2026.
+Kazimier Stockroom is a music venue in Liverpool with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Tender Claws LIVE @ The Kaz Stockroom" on Wed, 16 Sept 2026.
 
 Kazimier Stockroom is a music venue in Liverpool listed on soundcheck. 3 upcoming nights. Browse upcoming dates, start times and who's playing. 32 Seel Street, Liverpool, L1 4JJ, United Kingdom.
 
@@ -16,4 +16,4 @@ Kazimier Stockroom is a music venue in Liverpool listed on soundcheck. 3 upcomin
 
 32 Seel Street, Liverpool, L1 4JJ, United Kingdom, Liverpool
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-stockroom/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-stockroom/)*

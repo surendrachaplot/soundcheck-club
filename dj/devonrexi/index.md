@@ -1,6 +1,6 @@
 # Devon Rexi
 
-Devon Rexi is a Dub and Electronica artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
+Devon Rexi is a Dub and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Lubber Fiend, Newcastle on Thu, 17 Sept 2026.
 
 Devon Rexi is a dub and electronica artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 15 more. Often billed alongside John T. Gast, DJ Marcelle and Chinnamasta. Next up: The Lubber Fiend, Newcastle on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ Devon Rexi is a dub and electronica artist based in Netherlands, tracked on soun
 
 John T. Gast, DJ Marcelle, Chinnamasta
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devonrexi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devonrexi/)*

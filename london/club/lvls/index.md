@@ -1,6 +1,6 @@
 # Lvls
 
-Lvls is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "AFROQUITO 4" on Sun, 6 Sept 2026.
+Lvls is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "AFROQUITO 4" on Sun, 6 Sept 2026.
 
 Lvls is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including SCARBA and YVESSAINTMORON. Browse upcoming dates, start times and who's playing. 3 Sucession Walk, Fish Island, London E3 2RX.
 
@@ -14,4 +14,4 @@ Lvls is a music venue in London listed on soundcheck. 1 upcoming night, with lin
 
 3 Sucession Walk, Fish Island, London E3 2RX, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/lvls/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/lvls/)*

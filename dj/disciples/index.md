@@ -1,6 +1,6 @@
 # Disciples
 
-Disciples is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Studio 338, London on Sat, 12 Sept 2026.
+Disciples is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Studio 338, London on Sat, 12 Sept 2026.
 
 Disciples is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Amsterdam, Brighton, Ibiza and London and 2 more. Often billed alongside Calvin Harris, Danny Howard and Jess Bays. Next up: Studio 338, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Disciples is a house and progressive house artist based in United Kingdom, track
 
 Calvin Harris, Danny Howard, Jess Bays
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disciples/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disciples/)*

@@ -1,6 +1,6 @@
 # Cintia Martís
 
-Cintia Martís is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - LFO, Madrid on Fri, 4 Sept 2026.
+Cintia Martís is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - LFO, Madrid on Fri, 4 Sept 2026.
 
 Cintia Martís is a techno and electronica artist tracked on soundcheck, with 9 sets logged across Madrid and Porto. Often billed alongside Judy (ES), Hector MAD and Alexandre Laeddis. Next up: TBA - LFO, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Cintia Martís is a techno and electronica artist tracked on soundcheck, with 9 
 
 Judy (ES), Hector MAD, Alexandre Laeddis
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cintiamartis/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cintiamartis/)*

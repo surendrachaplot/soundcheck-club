@@ -1,6 +1,6 @@
 # Shh Listening Bar
 
-Shh Listening Bar is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Edition Hawara pres. Sun Tun Club Album Listening Party" on Sat, 3 Oct 2026.
+Shh Listening Bar is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Edition Hawara pres. Sun Tun Club Album Listening Party" on Sat, 3 Oct 2026.
 
 Shh Listening Bar is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Jonny Nemetz. Browse upcoming dates, start times and who's playing. Wiedner Hauptstr. 18, 1040 Vienna.
 
@@ -14,4 +14,4 @@ Shh Listening Bar is a music venue in Vienna listed on soundcheck. 1 upcoming ni
 
 Wiedner Hauptstr. 18, 1040 Vienna, Vienna
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/shh-listening-bar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/shh-listening-bar/)*

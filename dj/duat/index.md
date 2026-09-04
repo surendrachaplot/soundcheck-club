@@ -1,6 +1,6 @@
 # Duat
 
-Duat is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Onyx (E1), London on Sat, 12 Sept 2026.
+Duat is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Onyx (E1), London on Sat, 12 Sept 2026.
 
 Duat is a house and tech house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Eva Banks, BERNT and Duwat?. Next up: Onyx (E1), London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Duat is a house and tech house artist tracked on soundcheck, with 9 sets logged 
 
 Eva Banks, BERNT, Duwat?
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duat/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/duat/)*

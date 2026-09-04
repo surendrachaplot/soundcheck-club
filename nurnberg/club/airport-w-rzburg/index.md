@@ -1,6 +1,6 @@
 # Airport Würzburg
 
-Airport Würzburg is a music venue in Nürnberg with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Airport pres. zwilling. ALL NIGHT LONG" on Fri, 4 Sept 2026.
+Airport Würzburg is a music venue in Nürnberg with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Airport pres. zwilling. ALL NIGHT LONG" on Fri, 4 Sept 2026.
 
 Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 9 upcoming nights, with line-ups including Anuuk, BØĘRY, Cassa Cristano and Cassie Raptor and 2 more. Browse upcoming dates, start times and who's playing. Gattingerstr. 17; 97076 Würzburg; Germany.
 
@@ -22,4 +22,4 @@ Airport Würzburg is a music venue in Nurnberg listed on soundcheck. 9 upcoming 
 
 Gattingerstr. 17; 97076 Würzburg; Germany, Nürnberg
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/airport-w-rzburg/)*

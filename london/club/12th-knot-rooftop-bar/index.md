@@ -1,6 +1,6 @@
 # 12th Knot Rooftop Bar
 
-12th Knot Rooftop Bar is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "LALA Presents.. Zak & Friends" on Sat, 19 Sept 2026.
+12th Knot Rooftop Bar is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "LALA Presents.. Zak & Friends" on Sat, 19 Sept 2026.
 
 12th Knot Rooftop Bar is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 20 Upper Ground, South Bank, London SE1 9PD, United Kingdom.
 
@@ -14,4 +14,4 @@
 
 20 Upper Ground, South Bank, London SE1 9PD, United Kingdom, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/12th-knot-rooftop-bar/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/12th-knot-rooftop-bar/)*

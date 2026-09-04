@@ -1,6 +1,6 @@
 # Eug
 
-Eug is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Le Bain, New York City on Fri, 11 Sept 2026.
+Eug is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Le Bain, New York City on Fri, 11 Sept 2026.
 
 Eug is a house and techno artist tracked on soundcheck, with 20 sets logged across Newyorkcity, Sanfrancisco, Seoul and Tokyo. Often billed alongside Monkey Timers, FFAN and Kenji Takimi. Next up: Le Bain, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Eug is a house and techno artist tracked on soundcheck, with 20 sets logged acro
 
 Monkey Timers, FFAN, Kenji Takimi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eug/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eug/)*

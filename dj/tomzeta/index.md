@@ -1,6 +1,6 @@
 # Tom Zeta
 
-Tom Zeta is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Tom Zeta is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
 Tom Zeta is a house and deep house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Brussels and Hamburg and 7 more. Often billed alongside Adam Ten, Matthias Tanzmann and Rose Ringed. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Tom Zeta is a house and deep house artist tracked on soundcheck, with 28 sets lo
 
 Adam Ten, Matthias Tanzmann, Rose Ringed
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomzeta/)*

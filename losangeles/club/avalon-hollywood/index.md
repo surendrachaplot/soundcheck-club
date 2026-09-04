@@ -1,6 +1,6 @@
 # Avalon Hollywood
 
-Avalon Hollywood is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Korolova" on Sat, 5 Sept 2026.
+Avalon Hollywood is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Korolova" on Sat, 5 Sept 2026.
 
 Avalon Hollywood is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including Bad Boombox, Forester, Gaskin and Korolova and 2 more. Browse upcoming dates, start times and who's playing. 1735 Vine Street, Hollywood, CA 90028.
 
@@ -18,4 +18,4 @@ Avalon Hollywood is a music venue in Losangeles listed on soundcheck. 5 upcoming
 
 1735 Vine Street, Hollywood, CA 90028, Los Angeles
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/avalon-hollywood/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/avalon-hollywood/)*

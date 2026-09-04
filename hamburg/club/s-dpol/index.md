@@ -1,6 +1,6 @@
 # Südpol
 
-Südpol is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Expedition Südpol" on Fri, 4 Sept 2026.
+Südpol is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Expedition Südpol" on Fri, 4 Sept 2026.
 
 Südpol is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including 50PHIE, Polo (DE), A.B.U. and AALIYAH and 2 more. Browse upcoming dates, start times and who's playing. Süderstraße 112, 20537 Hamburg, Germany.
 
@@ -21,4 +21,4 @@ Südpol is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, wit
 
 Süderstraße 112, 20537 Hamburg, Germany, Hamburg
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/s-dpol/)*

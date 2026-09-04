@@ -1,6 +1,6 @@
 # Joss Crown
 
-Joss Crown is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Versalles 64, Mexico City on Sat, 5 Sept 2026.
+Joss Crown is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Versalles 64, Mexico City on Sat, 5 Sept 2026.
 
 Joss Crown is a house and techno artist tracked on soundcheck, with 26 sets logged across Mexicocity. Often billed alongside Eliel Capa, Diego Walle and Lamati. Next up: Versalles 64, Mexicocity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Joss Crown is a house and techno artist tracked on soundcheck, with 26 sets logg
 
 Eliel Capa, Diego Walle, Lamati
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josscrown/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josscrown/)*

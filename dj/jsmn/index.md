@@ -1,6 +1,6 @@
 # JSMN
 
-JSMN is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Brooklyn Storehouse, New York City on Sun, 6 Sept 2026.
+JSMN is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Brooklyn Storehouse, New York City on Sun, 6 Sept 2026.
 
 JSMN is a techno and house artist based in United States of America, tracked on soundcheck, with 53 sets logged across Chicago, London, Losangeles and Newyorkcity and 4 more. Often billed alongside 999999999, AC Slater and AIDA (CA). Next up: Brooklyn Storehouse, Newyorkcity on Sun 6 Sept.
 
@@ -29,4 +29,4 @@ JSMN is a techno and house artist based in United States of America, tracked on 
 
 999999999, AC Slater, AIDA (CA)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsmn/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jsmn/)*

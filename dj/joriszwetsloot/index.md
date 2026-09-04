@@ -1,6 +1,6 @@
 # Joris Zwetsloot
 
-Joris Zwetsloot is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 19 Sept 2026.
+Joris Zwetsloot is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Benelux BAR, Amsterdam on Sat, 19 Sept 2026.
 
 Joris Zwetsloot is a techno and house artist tracked on soundcheck, with 6 sets logged across Amsterdam. Often billed alongside Caim, Jaime Frias and Capra (2). Next up: Benelux BAR, Amsterdam on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ Joris Zwetsloot is a techno and house artist tracked on soundcheck, with 6 sets 
 
 Caim, Jaime Frias, Capra (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joriszwetsloot/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joriszwetsloot/)*

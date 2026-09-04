@@ -1,6 +1,6 @@
 # Luna Semara
 
-Luna Semara is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Óbuda Bay, Budapest on Sat, 5 Sept 2026.
+Luna Semara is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Óbuda Bay, Budapest on Sat, 5 Sept 2026.
 
 Luna Semara is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Amsterdam, Austin, Bali and Basel and 14 more. Often billed alongside Stephan Bodzin, ANNA and Alfa Romero. Next up: Óbuda Bay, Budapest on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Luna Semara is a techno and house artist based in Germany, tracked on soundcheck
 
 Stephan Bodzin, ANNA, Alfa Romero
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunasemara/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lunasemara/)*

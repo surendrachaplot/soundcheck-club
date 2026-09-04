@@ -1,6 +1,6 @@
 # Chambord
 
-Chambord is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
+Chambord is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
 
 Chambord is a house and deep house artist based in France, tracked on soundcheck, with 61 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside Kotoe, Britta Arnold and Daniel Cowel. Next up: Cité du Cinéma, Paris on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Chambord is a house and deep house artist based in France, tracked on soundcheck
 
 Kotoe, Britta Arnold, Daniel Cowel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chambord/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chambord/)*

@@ -1,6 +1,6 @@
 # Alexander Maier
 
-Alexander Maier is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Im Wizemann, Stuttgart on Sat, 14 Nov 2026.
+Alexander Maier is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Im Wizemann, Stuttgart on Sat, 14 Nov 2026.
 
 Alexander Maier is a house and techno artist tracked on soundcheck, with 64 sets logged across Berlin and Stuttgart. Often billed alongside Jochen Junker, Marco Bastone and Sibel. Next up: Im Wizemann, Stuttgart on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Alexander Maier is a house and techno artist tracked on soundcheck, with 64 sets
 
 Jochen Junker, Marco Bastone, Sibel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandermaier/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandermaier/)*

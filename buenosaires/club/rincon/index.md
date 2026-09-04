@@ -1,6 +1,6 @@
 # Rincon
 
-Rincon is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Save The Rave" on Sat, 5 Sept 2026.
+Rincon is a music venue in Buenos Aires with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Save The Rave" on Sat, 5 Sept 2026.
 
 Rincon is a music venue in Buenosaires listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Rincon is a music venue in Buenosaires listed on soundcheck. 1 upcoming night. B
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Save The Rave |  |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/rincon/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/rincon/)*

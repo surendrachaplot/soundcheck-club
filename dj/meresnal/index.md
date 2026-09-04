@@ -1,6 +1,6 @@
 # Mer Esnal
 
-Mer Esnal is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bulbul Berlin, Berlin on Thu, 17 Sept 2026.
+Mer Esnal is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bulbul Berlin, Berlin on Thu, 17 Sept 2026.
 
 Mer Esnal is a house and minimal artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona and Berlin. Often billed alongside Alice Youngling, Dr Humedo and Fluffi. Next up: Bulbul Berlin, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Mer Esnal is a house and minimal artist based in Spain, tracked on soundcheck, w
 
 Alice Youngling, Dr Humedo, Fluffi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meresnal/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meresnal/)*

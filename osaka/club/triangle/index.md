@@ -1,6 +1,6 @@
 # Triangle
 
-Triangle is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "RAVING APE" on Fri, 4 Sept 2026.
+Triangle is a music venue in Osaka with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "RAVING APE" on Fri, 4 Sept 2026.
 
 Triangle is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with line-ups including DJ :-), 死者蘇生CH, Ascalypso and Casper (FIN) and 2 more. Browse upcoming dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
@@ -20,4 +20,4 @@ Triangle is a music venue in Osaka listed on soundcheck. 7 upcoming nights, with
 
 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan, Osaka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*

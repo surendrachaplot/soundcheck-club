@@ -1,6 +1,6 @@
 # Cosmo (KR)
 
-Cosmo (KR) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
+Cosmo (KR) is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at La Cité Fertile, Paris on Sat, 19 Sept 2026.
 
 Cosmo (KR) is a techno and house artist based in South Korea, tracked on soundcheck, with 81 sets logged across Amsterdam, Berlin, Cologne and Detroit and 13 more. Often billed alongside Konstantin, Sunday Lee and Leafar Legov. Next up: La Cité Fertile, Paris on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Cosmo (KR) is a techno and house artist based in South Korea, tracked on soundch
 
 Konstantin, Sunday Lee, Leafar Legov
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-kr/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-kr/)*

@@ -1,6 +1,6 @@
 # GAKUTO(TOKYO)
 
-GAKUTO(TOKYO) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at BAR Inc, Osaka on Wed, 9 Sept 2026.
+GAKUTO(TOKYO) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at BAR Inc, Osaka on Wed, 9 Sept 2026.
 
 GAKUTO(TOKYO) is a techno and bass artist tracked on soundcheck, with 14 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside ceza, Tui (1) and AKIRA  FLAMMA. Next up: BAR Inc, Osaka on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ GAKUTO(TOKYO) is a techno and bass artist tracked on soundcheck, with 14 sets lo
 
 ceza, Tui (1), AKIRA  FLAMMA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gakutotokyo/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gakutotokyo/)*

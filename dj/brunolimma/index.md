@@ -1,6 +1,6 @@
 # Bruno Limma
 
-Bruno Limma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at MAD Radio NYC, New York City on Sun, 6 Sept 2026.
+Bruno Limma is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at MAD Radio NYC, New York City on Sun, 6 Sept 2026.
 
 Bruno Limma is a house and techno artist tracked on soundcheck, with 52 sets logged across Berlin, Boston, Detroit and Losangeles and 5 more. Often billed alongside Joe Tagessian, Daniel Bell and David Berrie. Next up: MAD Radio NYC, Newyorkcity on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Bruno Limma is a house and techno artist tracked on soundcheck, with 52 sets log
 
 Joe Tagessian, Daniel Bell, David Berrie
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunolimma/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brunolimma/)*

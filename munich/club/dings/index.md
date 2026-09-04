@@ -1,6 +1,6 @@
 # Dings
 
-Dings is a music venue in Munich with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Different times x Dings" on Sat, 24 Oct 2026.
+Dings is a music venue in Munich with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Different times x Dings" on Sat, 24 Oct 2026.
 
 Dings is a music venue in Munich listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Dings is a music venue in Munich listed on soundcheck. 1 upcoming night. Browse 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Different times x Dings |  |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/dings/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/dings/)*

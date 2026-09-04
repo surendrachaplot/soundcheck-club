@@ -1,8 +1,8 @@
 # Biscits
 
-Biscits is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Biscits is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Biscits is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Austin, Boston, Brisbane and Chicago and 23 more. Often billed alongside Sonny Fodera, Gorgon City and Azzecca. Next up: Union Park, Chicago on Fri 4 Sept.
+Biscits is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Austin, Boston, Brisbane and Chicago and 22 more. Often billed alongside Sonny Fodera, Gorgon City and Azzecca. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ Biscits is a house and tech house artist based in United Kingdom, tracked on sou
 | Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 12 Sept 2026 | Q Nightclub | Seattle |
 | Fri, 9 Oct 2026 | Beach House San Diego | San Diego |
-| Sat, 31 Oct 2026 | Night We Met | Nashville |
 | Sat, 14 Nov 2026 | Coda | Toronto |
 
 ## Recently played
@@ -29,4 +28,4 @@ Biscits is a house and tech house artist based in United Kingdom, tracked on sou
 
 Sonny Fodera, Gorgon City, Azzecca
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*

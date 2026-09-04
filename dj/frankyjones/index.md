@@ -1,6 +1,6 @@
 # Franky Jones
 
-Franky Jones is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 5 Sept 2026.
+Franky Jones is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at De Fik Garden, Amsterdam on Sat, 5 Sept 2026.
 
 Franky Jones is a techno and acid artist based in Belgium, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin and Ghent. Often billed alongside Alexander Koning, Erick E and Remy Unger. Next up: De Fik Garden, Amsterdam on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Franky Jones is a techno and acid artist based in Belgium, tracked on soundcheck
 
 Alexander Koning, Erick E, Remy Unger
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyjones/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyjones/)*

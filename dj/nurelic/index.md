@@ -1,6 +1,6 @@
 # NURELIC
 
-NURELIC is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Basing House, London on Sat, 12 Sept 2026.
+NURELIC is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Basing House, London on Sat, 12 Sept 2026.
 
 NURELIC is a garage and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Daniel Ward and Hermit. Next up: Basing House, London on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ NURELIC is a garage and house artist based in United Kingdom, tracked on soundch
 
 Daniel Ward, Hermit
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nurelic/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nurelic/)*

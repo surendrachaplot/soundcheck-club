@@ -1,6 +1,6 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Clara Cuvé is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 Clara Cuvé is a techno and house artist tracked on soundcheck, with 232 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Kobosil, 999999999 and MCR-T. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 232 sets lo
 
 Kobosil, 999999999, MCR-T
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

@@ -1,6 +1,6 @@
 # Valentin Ginies
 
-Valentin Ginies is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Starlane Pizza Bar, London on Sun, 6 Sept 2026.
+Valentin Ginies is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Starlane Pizza Bar, London on Sun, 6 Sept 2026.
 
 Valentin Ginies is a techno and minimal techno artist tracked on soundcheck, with 27 sets logged across Berlin, Hongkong, London and Porto and 2 more. Often billed alongside D-Leria, DANA NADA and Toxido Mask. Next up: Starlane Pizza Bar, London on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Valentin Ginies is a techno and minimal techno artist tracked on soundcheck, wit
 
 D-Leria, DANA NADA, Toxido Mask
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinginies/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinginies/)*

@@ -1,6 +1,6 @@
 # refanged
 
-refanged is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at La Toscadura, Montreal on Fri, 4 Sept 2026.
+refanged is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at La Toscadura, Montreal on Fri, 4 Sept 2026.
 
 refanged is a club and hardcore artist tracked on soundcheck, with 10 sets logged across Montreal and Toronto. Often billed alongside fangsie, the bald girl and D.Blavatsky. Next up: La Toscadura, Montreal on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ refanged is a club and hardcore artist tracked on soundcheck, with 10 sets logge
 
 fangsie, the bald girl, D.Blavatsky
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/refanged/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/refanged/)*

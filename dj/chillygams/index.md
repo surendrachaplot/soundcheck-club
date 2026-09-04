@@ -1,6 +1,6 @@
 # Chilly & Gams
 
-Chilly & Gams is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Moondog Hifi, New York City on Mon, 7 Sept 2026.
+Chilly & Gams is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Moondog Hifi, New York City on Mon, 7 Sept 2026.
 
 Chilly & Gams are a house and techno duo tracked on soundcheck, with 31 sets logged across Berlin and Newyorkcity. Often billed alongside Bella Mutino, Burchan Acar and Emsho. Next up: Moondog Hifi, Newyorkcity on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Chilly & Gams are a house and techno duo tracked on soundcheck, with 31 sets log
 
 Bella Mutino, Burchan Acar, Emsho
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chillygams/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chillygams/)*

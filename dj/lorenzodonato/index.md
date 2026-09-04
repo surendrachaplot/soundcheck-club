@@ -1,6 +1,6 @@
 # Lorenzo Donato
 
-Lorenzo Donato is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
+Lorenzo Donato is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
 
 Lorenzo Donato is a techno and electronica artist based in Italy, tracked on soundcheck, with 11 sets logged across Amsterdam, Hongkong, Shenzhen and Turin. Often billed alongside Boston 168, PERAMORE and 100%WONG. Next up: TBA, Turin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Lorenzo Donato is a techno and electronica artist based in Italy, tracked on sou
 
 Boston 168, PERAMORE, 100%WONG
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodonato/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodonato/)*

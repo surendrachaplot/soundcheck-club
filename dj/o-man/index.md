@@ -1,6 +1,6 @@
 # O-MAN
 
-O-MAN is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Joule, Osaka on Wed, 9 Sept 2026.
+O-MAN is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Joule, Osaka on Wed, 9 Sept 2026.
 
 O-MAN is a techno and psytrance artist based in Japan, tracked on soundcheck, with 132 sets logged across Amsterdam, Osaka, Sydney and Tokyo. Often billed alongside NOBUYA (2), ALESSA(JP) and Nao Nomura. Next up: Joule, Osaka on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ O-MAN is a techno and psytrance artist based in Japan, tracked on soundcheck, wi
 
 NOBUYA (2), ALESSA(JP), Nao Nomura
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o-man/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o-man/)*

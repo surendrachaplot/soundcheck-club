@@ -1,6 +1,6 @@
 # Axel Boman
 
-Axel Boman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fünk, Mexico City on Fri, 4 Sept 2026.
+Axel Boman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fünk, Mexico City on Fri, 4 Sept 2026.
 
 Axel Boman is a house and techno artist tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Austin and Bali and 46 more. Often billed alongside Kornél Kovács, Pedrodollar and Octo Octa. Next up: Fünk, Mexicocity on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Axel Boman is a house and techno artist tracked on soundcheck, with 142 sets log
 
 Kornél Kovács, Pedrodollar, Octo Octa
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axelboman/)*

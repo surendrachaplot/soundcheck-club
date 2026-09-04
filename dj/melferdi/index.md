@@ -1,6 +1,6 @@
 # MelFerdi
 
-MelFerdi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Toffler, Rotterdam on Sat, 24 Oct 2026.
+MelFerdi is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Toffler, Rotterdam on Sat, 24 Oct 2026.
 
 MelFerdi is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam and Rotterdam. Often billed alongside All Dave, Baliology and Chess. Next up: Toffler, Rotterdam on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ MelFerdi is a techno and tech house artist based in Netherlands, tracked on soun
 
 All Dave, Baliology, Chess
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melferdi/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melferdi/)*

@@ -1,6 +1,6 @@
 # Sayuri (1)
 
-Sayuri (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 9 Oct 2026.
+Sayuri (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 9 Oct 2026.
 
 Sayuri (1) is a techno and house artist based in Japan, tracked on soundcheck, with 20 sets logged across Mexicocity, Stuttgart and Tokyo. Often billed alongside ZuKaRoHi, ALI3N and Alex Ormond. Next up: Fridas Pier, Stuttgart on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sayuri (1) is a techno and house artist based in Japan, tracked on soundcheck, w
 
 ZuKaRoHi, ALI3N, Alex Ormond
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-1/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-1/)*

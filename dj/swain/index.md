@@ -1,6 +1,6 @@
 # Swain
 
-Swain is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Very Small Club, Budapest on Fri, 25 Sept 2026.
+Swain is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Very Small Club, Budapest on Fri, 25 Sept 2026.
 
 Swain is a techno and drum & bass artist tracked on soundcheck, with 5 sets logged across Budapest, Seoul and Sydney. Often billed alongside JINJU, Oliver SCH and Mike Bee. Next up: Very Small Club, Budapest on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Swain is a techno and drum & bass artist tracked on soundcheck, with 5 sets logg
 
 JINJU, Oliver SCH, Mike Bee
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swain/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swain/)*

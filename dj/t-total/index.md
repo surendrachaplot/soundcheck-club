@@ -1,6 +1,6 @@
 # T-Total
 
-T-Total is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at French Street (Strange Field), Glasgow on Fri, 18 Sept 2026.
+T-Total is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at French Street (Strange Field), Glasgow on Fri, 18 Sept 2026.
 
 T-Total is a club and experimental artist tracked on soundcheck, with 10 sets logged across Edinburgh and Glasgow. Often billed alongside al gu, Buckfast Barbie and 2manycolours. Next up: French Street (Strange Field), Glasgow on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ T-Total is a club and experimental artist tracked on soundcheck, with 10 sets lo
 
 al gu, Buckfast Barbie, 2manycolours
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t-total/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t-total/)*

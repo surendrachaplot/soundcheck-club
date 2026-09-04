@@ -1,6 +1,6 @@
 # ReSolute x Aionia: Secret Guest - Lena Willikens + more TBA at H0L0
 
-ReSolute x Aionia: Secret Guest - Lena Willikens + more TBA at H0L0 on Fri 18 Sept, Newyorkcity. 4 acts on the bill: Athena, Honey Bun, Lena Willikens and Mona Matsuoka. Techno and House. Preview the line-up and save it on soundcheck.
+ReSolute x Aionia: Secret Guest - Lena Willikens + more TBA at H0L0 on Fri 18 Sept, Newyorkcity. 3 acts on the bill: Athena, Lena Willikens and Mona Matsuoka. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ ReSolute x Aionia: Secret Guest - Lena Willikens + more TBA at H0L0 on Fri 18 Se
 ## Line-up
 
 - Athena
-- Honey Bun
 - Lena Willikens
 - Mona Matsuoka
 

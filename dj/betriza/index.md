@@ -1,6 +1,6 @@
 # BETRIZA
 
-BETRIZA is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ephigenia, Sao Paulo on Fri, 4 Sept 2026.
+BETRIZA is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ephigenia, Sao Paulo on Fri, 4 Sept 2026.
 
 BETRIZA is a techno and acid artist tracked on soundcheck, with 12 sets logged across Saopaulo. Often billed alongside Bllack Rose, Acid Asian and GARIB. Next up: Ephigenia, Saopaulo on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ BETRIZA is a techno and acid artist tracked on soundcheck, with 12 sets logged a
 
 Bllack Rose, Acid Asian, GARIB
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betriza/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betriza/)*

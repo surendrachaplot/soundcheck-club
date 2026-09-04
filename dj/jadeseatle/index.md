@@ -1,6 +1,6 @@
 # Jade Seatle
 
-Jade Seatle is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Arch 535, London on Sat, 5 Sept 2026.
+Jade Seatle is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Arch 535, London on Sat, 5 Sept 2026.
 
 Jade Seatle is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Jane Fitz, NIGHT MOVES and DJ Rino. Next up: Arch 535, London on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Jade Seatle is a house and techno artist tracked on soundcheck, with 49 sets log
 
 Jane Fitz, NIGHT MOVES, DJ Rino
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*
+*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*
