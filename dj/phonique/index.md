@@ -1,14 +1,15 @@
 # Phonique
 
-Phonique is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Weekend, Berlin on Fri, 9 Oct 2026.
+Phonique is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Weekend, Berlin on Fri, 9 Oct 2026.
 
-Phonique is a house and techno artist tracked on soundcheck, with 65 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 6 more. Often billed alongside Diogo Accioly, Misha Svirid and Fairplay. Next up: Weekend, Berlin on Fri 9 Oct.
+Phonique is a house and techno artist tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Copenhagen and Frankfurt and 6 more. Often billed alongside Diogo Accioly, Misha Svirid and Fairplay. Next up: Weekend, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Weekend | Berlin |
+| Fri, 20 Nov 2026 | Weekend | Berlin |
 
 ## Recently played
 

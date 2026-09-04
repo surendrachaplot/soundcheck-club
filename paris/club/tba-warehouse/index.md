@@ -1,8 +1,8 @@
-# TBA - Warehouse
+# TBA - warehouse
 
-TBA - Warehouse is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "STATICPROOF presents: Marsolo" on Sat, 5 Sept 2026.
+TBA - warehouse is a music venue in Paris with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "STATICPROOF presents: Marsolo" on Sat, 5 Sept 2026.
 
-TBA - Warehouse is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including AEREA, ARJ (IR), beta_phase and Blachord and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - warehouse is a music venue in Paris listed on soundcheck. 6 upcoming nights, with line-ups including AEREA, ARJ (IR), beta_phase and Blachord and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

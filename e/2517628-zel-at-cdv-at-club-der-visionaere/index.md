@@ -1,6 +1,6 @@
 # Zel at CDV at Club der Visionaere
 
-Zel at CDV at Club der Visionaere on Wed 16 Sept, Berlin. 2 acts on the bill: Johnson (2) and Samuele Pagliai. Progressive House and House. Preview the line-up and save it on soundcheck.
+Zel at CDV at Club der Visionaere on Wed 16 Sept, Berlin. 3 acts on the bill: Dj F0Xx, Johnson (2) and Samuele Pagliai. Progressive House and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Zel at CDV at Club der Visionaere on Wed 16 Sept, Berlin. 2 acts on the bill: Jo
 
 ## Line-up
 
+- Dj F0Xx
 - Johnson (2)
 - Samuele Pagliai
 

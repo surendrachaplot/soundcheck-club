@@ -1,6 +1,6 @@
 # DILJIT DOSANJH AFTERPARTY at Chicago Social Club
 
-DILJIT DOSANJH AFTERPARTY at Chicago Social Club on Mon 7 Sept, Amsterdam. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+DILJIT DOSANJH AFTERPARTY at Chicago Social Club on Mon 7 Sept, Amsterdam. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

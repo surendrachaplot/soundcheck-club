@@ -1,14 +1,15 @@
 # Lucas Frank
 
-Lucas Frank is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - BIGG Fit Barcelona, Barcelona on Fri, 4 Sept 2026.
+Lucas Frank is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - BIGG Fit Barcelona, Barcelona on Fri, 4 Sept 2026.
 
-Lucas Frank is a house and tech house artist based in Argentina, tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside Babo, DC81 and Frucula. Next up: TBA - BIGG Fit Barcelona, Barcelona on Fri 4 Sept.
+Lucas Frank is a house and tech house artist based in Argentina, tracked on soundcheck, with 12 sets logged across Barcelona. Often billed alongside Babo, Frucula and DC81. Next up: TBA - BIGG Fit Barcelona, Barcelona on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | TBA - BIGG Fit Barcelona | Barcelona |
+| Sat, 19 Sept 2026 | BUS Hexperience | Barcelona |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Lucas Frank is a house and tech house artist based in Argentina, tracked on soun
 
 ## Shares bills with
 
-Babo, DC81, Frucula
+Babo, Frucula, DC81
 
 *Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasfrank/)*

@@ -8,7 +8,7 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 13 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | MITA - Volume 1 | Mitch Julian |
+| Fri, 11 Sept 2026 | MITA - Volume 1 | Mitch Julian, ROOX |
 | Sat, 12 Sept 2026 | Side to Side | Jens (1), MELLEHH, Melle |
 | Fri, 18 Sept 2026 | Space Society | Mitch de Klein, Viox |
 | Fri, 25 Sept 2026 | Drum 'n Babes Amsterdam with Adi-J ft. Rhode, Hexter, Ili, Lirios and Odyssey |  |

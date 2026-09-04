@@ -2,7 +2,7 @@
 
 Malu is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Amp, Munster on Fri, 4 Sept 2026.
 
-Malu is a techno and deep house artist tracked on soundcheck, with 8 sets logged across Berlin, Munster and Saopaulo. Often billed alongside &more, Abdullah Miniawy and Above & Beyond. Next up: Amp, Munster on Fri 4 Sept.
+Malu is a techno and deep house artist tracked on soundcheck, with 8 sets logged across Berlin, Munster and Saopaulo. Often billed alongside Malu, &more and Abdullah Miniawy. Next up: Amp, Munster on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ Malu is a techno and deep house artist tracked on soundcheck, with 8 sets logged
 
 ## Shares bills with
 
-&more, Abdullah Miniawy, Above & Beyond
+Malu, &more, Abdullah Miniawy
 
 *Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malu/)*

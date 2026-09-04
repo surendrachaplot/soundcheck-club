@@ -1,14 +1,15 @@
 # MC PSG
 
-MC PSG is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Night Tales, London on Sun, 1 Nov 2026.
+MC PSG is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Night Tales, London on Sun, 1 Nov 2026.
 
-MC PSG is a garage and house artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside MC Creed, MC DT and MC CKP. Next up: Night Tales, London on Sun 1 Nov.
+MC PSG is a garage and house artist tracked on soundcheck, with 14 sets logged across London. Often billed alongside MC DT, MC Creed and MC CKP. Next up: Night Tales, London on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Night Tales | London |
+| Sat, 14 Nov 2026 | Emerald Embankment | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ MC PSG is a garage and house artist tracked on soundcheck, with 13 sets logged a
 
 ## Shares bills with
 
-MC Creed, MC DT, MC CKP
+MC DT, MC Creed, MC CKP
 
 *Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcpsg/)*

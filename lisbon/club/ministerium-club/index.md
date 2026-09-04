@@ -9,7 +9,7 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming nig
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Art Bei Ton: from Berlin to Lisbon ~ 17 | Hypnotic Black Magic, Luis FMR, Maria Callapez, apukas, ena b. |
-| Sat, 5 Sept 2026 | Cirque x Fuse Records: Mella Dee | DJ Nox, MURI, Mella Dee, Minimart |
+| Sat, 5 Sept 2026 | Cirque x Fuse Records: Mella Dee | DJ Nox, MURI, Mella Dee, Micaia, Minimart |
 | Thu, 10 Sept 2026 | Riktus with João Lagrima De Ouro, Dibison, GADDAM, Anibal | ANÍBAL, Dibison, GADDAM, João Lágrima De Ouro, João Melgueira |
 | Thu, 17 Sept 2026 | Riktus - Double Trouble | MakeCatBleed, shoutz |
 | Thu, 24 Sept 2026 | Riktus with Shogun (Usa / Portugal Debut) | Shogun, VLB (1) |

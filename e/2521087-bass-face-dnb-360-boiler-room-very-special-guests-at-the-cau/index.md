@@ -1,6 +1,6 @@
-# Bass Face // DNB // 360° BOILER ROOM *VERY SPECIAL GUESTS* at The Cause
+# Bass Face // DNB // 360° BOILER ROOM *VERY SPECIAL GUESTS*! at The Cause
 
-Bass Face // DNB // 360° BOILER ROOM *VERY SPECIAL GUESTS* at The Cause on Fri 20 Nov, London. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Bass Face // DNB // 360° BOILER ROOM *VERY SPECIAL GUESTS*! at The Cause on Fri 20 Nov, London. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

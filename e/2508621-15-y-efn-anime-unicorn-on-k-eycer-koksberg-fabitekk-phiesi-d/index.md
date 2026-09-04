@@ -1,6 +1,6 @@
 # 15 Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid at M-BIA
 
-15 Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid at M-BIA on Fri 4 Sept, Berlin. 6 acts on the bill: Anime, Techno Frühstück, Technokool and Tekk and 2 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+15 Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid at M-BIA on Fri 4 Sept, Berlin. 8 acts on the bill: Anime, Laser, Tanz Unter Freunden and Techno Frühstück and 4 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@
 ## Line-up
 
 - Anime
+- Laser
+- Tanz Unter Freunden
 - Techno Frühstück
 - Technokool
 - Tekk

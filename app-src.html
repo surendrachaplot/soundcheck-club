@@ -3436,7 +3436,14 @@
     .fp-gemline{ margin:0 0 14px; }
     /* equal-width action buttons — a grid keeps every column identical and wraps
        cleanly (a wrapped button stays its column width, never stretches full) */
-    .fp-acts{ display:grid; grid-template-columns:repeat(auto-fit,minmax(100px,1fr)); gap:9px; }
+    /* NATURAL WIDTH. This was a grid of equal 1fr columns, so three buttons split
+       the row into three 244px slabs — "Play" wearing the same width as "Log a
+       gig" because they happened to be siblings. Buttons are sized by their
+       label. Flex-wrap so a narrow screen stacks them rather than crushing them,
+       and align-items:center so a wrapped row does not stretch to match its
+       tallest sibling. */
+    .fp-acts{ display:flex; flex-wrap:wrap; align-items:center; gap:9px; }
+    .fp-acts > .fp-ab, .fp-acts > .fp-pb { flex:0 0 auto; width:auto; }
     .fp-ab{ min-width:0; }   /* fixed 42px height (see .pf-btn group); width comes from the grid column */
     .fp-ab svg{ width:16px; height:16px; flex:none; }
     .fp-ab.go{ background:var(--accent); color:var(--accent-ink); border-color:var(--accent); }
@@ -3748,8 +3755,14 @@
               transform-origin:left center; will-change:opacity, transform; }
       /* The nav title is absent until you scroll — it is the large title's echo,
          not a second heading, so it must not occupy space while invisible. */
+      /* ONE LINE, ALWAYS. It is the large title's echo, and an echo that breaks
+         onto a second line doubles the header's height as you scroll. Long
+         titles ellipsis instead — min-width:0 because a flex child will not
+         shrink below its content without it, which is what let it wrap. */
       .sc-navtitle{ display:block; font-family:var(--head); font-size:var(--fs-md); font-weight:800;
                     letter-spacing:-0.01em; margin-left:auto; color:var(--fg);
+                    white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+                    min-width:0; max-width:58%;
                     opacity:var(--ntO, 0); transform:translateY(var(--ntY, 7px));
                     pointer-events:none; will-change:opacity, transform; }
     }
@@ -4379,7 +4392,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788521308783">
+<meta name="sc-build" content="1788525126505">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -11539,24 +11552,34 @@
      * the native app has.
      */
     var lgCityMode=false, _lgQStash='';
+    // The cities you can LOG in, which is not the 104-city registry: 124 cities
+    // have past events, and the 20 outside it include Cork with 546 nights.
+    var LOG_CITIES=null;
+    function loadLogCities(){
+      if(LOG_CITIES) return Promise.resolve(LOG_CITIES);
+      return pubGet('/api/log/cities').then(function(j){
+        LOG_CITIES=(j&&j.cities&&j.cities.length)?j.cities:CITY_LIST; return LOG_CITIES;
+      }).catch(function(){ LOG_CITIES=CITY_LIST; return LOG_CITIES; });
+    }
     function renderLgCities(){
       var box=document.getElementById('lg-q'), ev=document.getElementById('lg-events');
       if(!ev) return;
+      var LIST=LOG_CITIES||CITY_LIST;
       var cur=document.getElementById('lg-city').value;
       var term=(box?box.value:'').trim().toLowerCase();
       var byName=function(a,b){ return a.name.localeCompare(b.name); };
       var busiest=[], rest;
       if(term){
-        rest=CITY_LIST.filter(function(c){ return c.name.toLowerCase().indexOf(term)>=0; }).sort(byName);
+        rest=LIST.filter(function(c){ return c.name.toLowerCase().indexOf(term)>=0; }).sort(byName);
       } else {
         // `events` is UPCOMING nights in the next 7 days. It orders the list and
         // is never PRINTED: this screen logs nights already been to, so the
         // number would be true and answer a question nobody asked.
-        var haveCounts=CITY_LIST.some(function(c){ return typeof c.events==='number'; });
-        busiest=haveCounts?CITY_LIST.filter(function(c){ return (c.events||0)>0; })
+        var haveCounts=LIST.some(function(c){ return typeof c.events==='number'; });
+        busiest=haveCounts?LIST.filter(function(c){ return (c.events||0)>0; })
           .sort(function(a,b){ return (b.events||0)-(a.events||0); }).slice(0,6):[];
         var seen={}; busiest.forEach(function(c){ seen[c.slug]=1; });
-        rest=CITY_LIST.filter(function(c){ return !seen[c.slug]; }).sort(byName);
+        rest=LIST.filter(function(c){ return !seen[c.slug]; }).sort(byName);
       }
       if(!busiest.length && !rest.length){ ev.innerHTML='<div class="empty" style="padding:6px 0">No city matches that.</div>'; return; }
       var row=function(c){ return '<button type="button" class="lg-cityrow'+(c.slug===cur?' on':'')+'" data-city="'+esc(c.slug)+'">'+
@@ -11575,6 +11598,7 @@
       if(lgCityMode){
         _lgQStash=box.value; box.value=''; box.placeholder='Which city?';
         renderLgCities();
+        loadLogCities().then(renderLgCities);   // repaint once the fuller list lands
       } else {
         // The night query survives a trip to the picker — losing what they typed
         // to change a city would be its own bug.

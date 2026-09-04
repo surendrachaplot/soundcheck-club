@@ -1,14 +1,15 @@
 # Marie Pravda
 
-Marie Pravda is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
+Marie Pravda is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Fri, 25 Sept 2026.
 
-Marie Pravda is a techno and house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 14 more. Often billed alongside fleika, Kobayashi Maru and Dean High. Next up: Jasna 1, Warsaw on Fri 25 Sept.
+Marie Pravda is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 14 more. Often billed alongside fleika, Kobayashi Maru and Dean High. Next up: Jasna 1, Warsaw on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Jasna 1 | Warsaw |
+| Fri, 2 Oct 2026 | Insomnia | Berlin |
 | Sat, 24 Oct 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

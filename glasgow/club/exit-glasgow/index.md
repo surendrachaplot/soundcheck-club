@@ -13,7 +13,7 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming night
 | Fri, 11 Sept 2026 | ARIAS | JayJay, Magnus Westwell, Zoe Pea |
 | Sat, 12 Sept 2026 | In The ࿓ Spirit ࿓ of EXIT | Bake, DJ Plead, Libra Esterlina |
 | Fri, 18 Sept 2026 | Tekhole presents: SIN  | Buckfast Barbie, C Frame, Maveen, Moina Moin, North Star, Salam Kitty, Tekhole, saparilla |
-| Sat, 19 Sept 2026 | EXIT CLUB |  |
+| Sat, 19 Sept 2026 | EXIT CLUB | JayJay, RRRKRTA, manu_facturer |
 | Fri, 25 Sept 2026 | A.D.S.R w/ Somniac One, Kalopsia, DJ Smoker, 3SBAT | 3SBAT, DJ Smoker, Kalopsia, Somniac One |
 | Sat, 26 Sept 2026 | UVB-76 x EXIT Glasgow [DNB / Jungle] | Gremlinz, Overlook |
 | Fri, 2 Oct 2026 | Sonica Club - Loma Doom / DEBONAIR | DEBONAIR, Loma Doom |

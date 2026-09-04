@@ -1,8 +1,8 @@
 # Weekend
 
-Weekend is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "WKND X Nika Herero – IFA" on Fri, 4 Sept 2026.
+Weekend is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "WKND X Nika Herero – IFA" on Fri, 4 Sept 2026.
 
-Weekend is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Alejandro Molinari, Alex Gallus, Black elektronika and BOHO and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
+Weekend is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Alejandro Molinari, Alex Gallus, Black elektronika and BOHO and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
@@ -16,6 +16,8 @@ Weekend is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with
 | Fri, 16 Oct 2026 | WKND X OFFLINE | DJ PayPaul |
 | Fri, 23 Oct 2026 | WKND X USHA BERLIN | Denno Matini |
 | Fri, 30 Oct 2026 | WKND X STUCK IN SPACE - PRE HALLOWEEN |  |
+| Fri, 6 Nov 2026 | WKND X DON'T TELL ANYONE | BOHO |
+| Fri, 13 Nov 2026 | WKND X OPERATOR | Dennis Beutler |
 
 ## Address
 

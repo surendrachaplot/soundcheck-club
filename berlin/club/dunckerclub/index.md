@@ -1,8 +1,8 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "80-90-00 Das neue Partymaß + Farin Urlaub Special" on Fri, 4 Sept 2026.
+Dunckerclub is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "80-90-00 Das neue Partymaß + Farin Urlaub Special" on Fri, 4 Sept 2026.
 
-Dunckerclub is a music venue in Berlin listed on soundcheck. 9 upcoming nights. Browse upcoming dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
+Dunckerclub is a music venue in Berlin listed on soundcheck. 10 upcoming nights. Browse upcoming dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 9 upcoming nights. 
 | Sat, 12 Sept 2026 | Independent Tanzmusik |  |
 | Fri, 18 Sept 2026 | 'STRANGELOVE' Die Depeche Mode Party |  |
 | Sat, 19 Sept 2026 | ALTERNATIVE ROCK MEETS METAL by DJ Gomez |  |
+| Sat, 26 Sept 2026 | Independent Tanzmusik |  |
 | Mon, 30 Nov 2026 | Dark Monday |  |
 
 ## Address

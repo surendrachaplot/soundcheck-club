@@ -9,7 +9,7 @@ Parco La Spezia is a music venue in Milan listed on soundcheck. 2 upcoming night
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Sunday Remedy in the Park Closing Party powered by Take It Easy | Bugsy, Fabio Alampi, Tayga |
-| Sat, 19 Sept 2026 | GET UP – Closing Event with OPUL | OPUL (2) |
+| Sat, 19 Sept 2026 | GET UP presents OPUL • Open Air Event (Free) | OPUL (2) |
 
 ## Address
 

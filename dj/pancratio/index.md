@@ -1,14 +1,15 @@
 # Pancratio
 
-Pancratio is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 5 Sept 2026.
+Pancratio is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Shelter Amsterdam, Amsterdam on Sat, 5 Sept 2026.
 
-Pancratio is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Shelter Amsterdam, Amsterdam on Sat 5 Sept.
+Pancratio is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Shelter Amsterdam, Amsterdam on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Shelter Amsterdam | Amsterdam |
+| Sat, 26 Sept 2026 | Amboss Rampe | Zurich |
 | Sat, 17 Oct 2026 | Palais | London |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |

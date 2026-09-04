@@ -1,8 +1,8 @@
 # BOHO
 
-BOHO is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ritter Butzke, Berlin on Sat, 5 Sept 2026.
+BOHO is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ritter Butzke, Berlin on Sat, 5 Sept 2026.
 
-BOHO is a techno and electro artist tracked on soundcheck, with 106 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 16 more. Often billed alongside Rad.Lez, Bianka Banks and Lino Fuso. Next up: Ritter Butzke, Berlin on Sat 5 Sept.
+BOHO is a techno and electro artist tracked on soundcheck, with 107 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 16 more. Often billed alongside Rad.Lez, Bianka Banks and Lino Fuso. Next up: Ritter Butzke, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ BOHO is a techno and electro artist tracked on soundcheck, with 106 sets logged 
 | Sat, 5 Sept 2026 | Ritter Butzke | Berlin |
 | Fri, 18 Sept 2026 | Weekend | Berlin |
 | Fri, 23 Oct 2026 | E1 | London |
+| Fri, 6 Nov 2026 | Weekend | Berlin |
 
 ## Recently played
 

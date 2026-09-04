@@ -1,6 +1,6 @@
 # Cirque x Fuse Records: Mella Dee at Ministerium Club
 
-Cirque x Fuse Records: Mella Dee at Ministerium Club on Sat 5 Sept, Lisbon. 4 acts on the bill: DJ Nox, Mella Dee, Minimart and MURI. House and Minimal. Preview the line-up and save it on soundcheck.
+Cirque x Fuse Records: Mella Dee at Ministerium Club on Sat 5 Sept, Lisbon. 5 acts on the bill: DJ Nox, Mella Dee, Micaia and Minimart and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Cirque x Fuse Records: Mella Dee at Ministerium Club on Sat 5 Sept, Lisbon. 4 ac
 
 - DJ Nox
 - Mella Dee
+- Micaia
 - Minimart
 - MURI
 

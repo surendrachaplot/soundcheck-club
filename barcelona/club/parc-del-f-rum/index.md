@@ -2,7 +2,7 @@
 
 Parc del Fòrum is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Sandro Bianchi at Extreme Barcelona" on Fri, 4 Sept 2026.
 
-Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including 6EJOU, Cristobal Pesce, Davina Moss and DYEN and 2 more. Browse upcoming dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
+Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including 6EJOU, Claptone, Cristobal Pesce and Davina Moss and 2 more. Browse upcoming dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 12 upcoming 
 | Sat, 5 Sept 2026 | Dj Kisa at Extreme Barcelona |  |
 | Fri, 30 Oct 2026 | KINYXX Open Air Halloween [Balla Barcelona Festival] |  |
 | Fri, 30 Oct 2026 | Fury 3rd Anniversary [DAY 1] x Halloween [Balla Barcelona Festival] | 6EJOU, Cristobal Pesce, DYEN, Hades |
-| Sat, 31 Oct 2026 | Jackies Open Air Halloween [Balla Barcelona Festival] |  |
+| Sat, 31 Oct 2026 | Jackies Open Air Halloween [Balla Barcelona Festival] | Claptone, Mr. Belt & Wezol, Ross From Friends |
 
 ## Address
 

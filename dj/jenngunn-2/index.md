@@ -1,8 +1,8 @@
 # Jenn Gunn (2)
 
-Jenn Gunn (2) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+Jenn Gunn (2) is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
-Jenn Gunn (2) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Gourlay and Et Al (1). Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
+Jenn Gunn (2) is a house and garage artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Gourlay and Et Al (1). Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jenn Gunn (2) is a house and garage artist based in United Kingdom, tracked on s
 | Sat, 5 Sept 2026 | Jupiter Artland | Edinburgh |
 | Fri, 11 Sept 2026 | La Cheetah Club | Glasgow |
 | Tue, 15 Sept 2026 | Oran Mor | Glasgow |
+| Thu, 3 Dec 2026 | King Tut's Wah Wah Hut | Glasgow |
 
 ## Recently played
 

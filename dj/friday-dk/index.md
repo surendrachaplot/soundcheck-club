@@ -1,13 +1,14 @@
 # Frida(y)
 
-Frida(y) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
+Frida(y) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at MODULE, Copenhagen on Fri, 18 Sept 2026.
 
-Frida(y) is a techno and house artist tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Anna Logic, Adexia and Anders HP. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
+Frida(y) is a techno and house artist tracked on soundcheck, with 7 sets logged across Copenhagen. Often billed alongside Anna Logic, Adexia and Anders HP. Next up: MODULE, Copenhagen on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | MODULE | Copenhagen |
 | Fri, 2 Oct 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played

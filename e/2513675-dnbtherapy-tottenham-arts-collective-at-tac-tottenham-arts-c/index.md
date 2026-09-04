@@ -1,6 +1,6 @@
 # dnbtherapy: Tottenham Arts Collective at TAC (Tottenham Arts Collective)
 
-dnbtherapy: Tottenham Arts Collective at TAC (Tottenham Arts Collective) on Fri 30 Oct, London. 8 acts on the bill: Congo Natty, DJ Kane (1), DJ Stretch and Marly Marl and 4 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+dnbtherapy: Tottenham Arts Collective at TAC (Tottenham Arts Collective) on Fri 30 Oct, London. 9 acts on the bill: Congo Natty, DJ Kane (1), DJ Stretch and Marly Marl and 5 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,5 +18,6 @@ dnbtherapy: Tottenham Arts Collective at TAC (Tottenham Arts Collective) on Fri 
 - MC Gusto
 - Navigator
 - Ray Keith
+- The Ragga Twins
 
 *Source: [soundcheck](https://soundcheck.club/e/2513675-dnbtherapy-tottenham-arts-collective-at-tac-tottenham-arts-c/)*

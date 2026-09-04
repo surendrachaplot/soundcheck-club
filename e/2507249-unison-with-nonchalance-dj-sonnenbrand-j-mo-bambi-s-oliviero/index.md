@@ -1,6 +1,6 @@
 # Unison with Nonchalance, DJ Sonnenbrand, JÄMO, Bambi-S, Oliviero at Ritter Butzke
 
-Unison with Nonchalance, DJ Sonnenbrand, JÄMO, Bambi-S, Oliviero at Ritter Butzke on Fri 11 Sept, Berlin. 8 acts on the bill: Bambi-S, CLARA, CLARA (FR) and DJ Sonnenbrand and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Unison with Nonchalance, DJ Sonnenbrand, JÄMO, Bambi-S, Oliviero at Ritter Butzke on Fri 11 Sept, Berlin. 10 acts on the bill: Bambi-S, CLARA, CLARA (FR) and DJ Sonnenbrand and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,8 +15,10 @@ Unison with Nonchalance, DJ Sonnenbrand, JÄMO, Bambi-S, Oliviero at Ritter Butz
 - CLARA (FR)
 - DJ Sonnenbrand
 - JÄMO
+- Malthès
 - Oliviero
 - TRC
 - TRC (3)
+- Yasmin Gardezi
 
 *Source: [soundcheck](https://soundcheck.club/e/2507249-unison-with-nonchalance-dj-sonnenbrand-j-mo-bambi-s-oliviero/)*

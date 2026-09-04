@@ -1,13 +1,14 @@
 # B. Clarke
 
-B. Clarke is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat, 26 Sept 2026.
+B. Clarke is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
 
-B. Clarke is a house and disco artist based in Germany, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Copenhagen and Lisbon and 1 more. Often billed alongside Phil Paruschke, DJ Jetski and MALAGÜERA. Next up: Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat 26 Sept.
+B. Clarke is a house and disco artist based in Germany, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Copenhagen and Lisbon and 1 more. Often billed alongside Phil Paruschke, DJ Jetski and MALAGÜERA. Next up: Jonny Knüppel, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Jonny Knüppel | Berlin |
 | Sat, 26 Sept 2026 | Kesselhaus & Maschinenhaus Kulturbrauerei Berlin | Berlin |
 
 ## Recently played

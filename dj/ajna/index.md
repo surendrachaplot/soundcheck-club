@@ -1,8 +1,8 @@
 # AJNA
 
-AJNA is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sooki Lounge, Melbourne on Sat, 5 Sept 2026.
+AJNA is a Afro House and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sooki Lounge, Melbourne on Sat, 5 Sept 2026.
 
-AJNA is an afro house and house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Antwerp, Athens and Brussels and 10 more. Often billed alongside Maxi Meraki, Samm and Samm (BE). Next up: Sooki Lounge, Melbourne on Sat 5 Sept.
+AJNA is an afro house and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 11 more. Often billed alongside Samm (BE), Maxi Meraki and Samm. Next up: Sooki Lounge, Melbourne on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ AJNA is an afro house and house artist tracked on soundcheck, with 36 sets logge
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | Hï Ibiza | Ibiza |
 | Fri, 2 Oct 2026 | Lula Club | Madrid |
+| Sat, 3 Oct 2026 | BORIS CLUB | Barcelona |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 
 ## Recently played
@@ -27,6 +28,6 @@ AJNA is an afro house and house artist tracked on soundcheck, with 36 sets logge
 
 ## Shares bills with
 
-Maxi Meraki, Samm, Samm (BE)
+Samm (BE), Maxi Meraki, Samm
 
 *Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajna/)*

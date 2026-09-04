@@ -9,7 +9,7 @@ Liquid Club is a music venue in Malta listed on soundcheck. 22 upcoming nights, 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | 77CELLAR: Ashibane, Molario, Uma Scheffer, P RISCO | Ashibane, Molario, P RISCO, Uma Scheffer |
-| Fri, 4 Sept 2026 | DJ Dextro | DJ Dextro, Echofaze, ØZZY |
+| Fri, 4 Sept 2026 | Liquid Club - Locals Night | DJ Dextro, Echofaze, ØZZY |
 | Sat, 5 Sept 2026 | UTOPIA - B2B EDITION | Dicentra, Idealist (2), Naomi Baldacchino, SPEEDQUEEN (PL), Tntna, chouhal |
 | Sat, 5 Sept 2026 | Analogical Force x Frekwenzi | James Shinra, Mutex, Sound synthesis (2) |
 | Mon, 7 Sept 2026 | VERSUS PRESENTS - TRÏÏSS ALL NIGHT LONG | TRÏÏSS |

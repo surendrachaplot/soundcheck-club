@@ -1,8 +1,8 @@
 # D. Tiffany
 
-D. Tiffany is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Société des arts technologiques, Montreal on Fri, 4 Sept 2026.
+D. Tiffany is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Société des arts technologiques, Montreal on Fri, 4 Sept 2026.
 
-D. Tiffany is a techno and house artist tracked on soundcheck, with 178 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: Société des arts technologiques, Montreal on Fri 4 Sept.
+D. Tiffany is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: Société des arts technologiques, Montreal on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ D. Tiffany is a techno and house artist tracked on soundcheck, with 178 sets log
 | Fri, 4 Sept 2026 | Société des arts technologiques | Montreal |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Fri, 25 Sept 2026 | The San Francisco Mint | San Francisco/Oakland |
+| Sat, 31 Oct 2026 | FOLD | London |
 
 ## Recently played
 

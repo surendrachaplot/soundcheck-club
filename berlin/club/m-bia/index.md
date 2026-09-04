@@ -8,7 +8,7 @@ M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with 
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | 15 Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid | Anime, Techno Frühstück, Technokool, Tekk, Tekk DJ'z, Unicorn on Ketamine |
+| Fri, 4 Sept 2026 | 15 Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid | Anime, Laser, Tanz Unter Freunden, Techno Frühstück, Technokool, Tekk, Tekk DJ'z, Unicorn on Ketamine |
 | Sat, 5 Sept 2026 | INTOXICATION Summer Special | Johan (PT) |
 | Fri, 11 Sept 2026 | Bleib deinen Linientreu vs. Mega 90er Rave | DJ Jordan, Shorty |
 | Sat, 12 Sept 2026 | INCEPTION with Phantom - 2 FLOORS - GOA & TECHNO | Momentune, Phantom, SAOX, Tronic |

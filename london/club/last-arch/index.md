@@ -17,7 +17,7 @@ Last Arch is a music venue in London listed on soundcheck. 16 upcoming nights, w
 | Sat, 19 Sept 2026 | Club Soft with Joseph Wood, Mina, Peroli, GDSMRCY, BLCK Stream | Godsfave, Joseph Wood, Mina, Peroli |
 | Sat, 26 Sept 2026 | Eargasm's 2nd Birthday (Night w/ NoIDMate & Nic David) | Nic David |
 | Fri, 2 Oct 2026 | REEK0 (All Night Long) |  |
-| Sat, 3 Oct 2026 | GROUNDED. // LABEL LAUNCH // LIQUID DNB | ETHICS, Episode Three, Slimist, Swampman, karishma |
+| Sat, 3 Oct 2026 | GROUNDED. // LABEL LAUNCH // LIQUID DNB | ETHICS, Episode Three, Slimist, Surreal (GER), Swampman, karishma |
 
 ## Address
 

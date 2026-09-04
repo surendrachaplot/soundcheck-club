@@ -1,6 +1,6 @@
 # Sound Canteen with Evan Tail at Orangerie Neukölln
 
-Sound Canteen with Evan Tail at Orangerie Neukölln on Sat 19 Sept, Berlin. House and Ballroom. Preview the line-up and save it on soundcheck.
+Sound Canteen with Evan Tail at Orangerie Neukölln on Sat 19 Sept, Berlin. House and Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

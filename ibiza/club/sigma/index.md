@@ -1,8 +1,8 @@
 # Sigma
 
-Sigma is a music venue in Ibiza with 23 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "No Sleep" on Fri, 4 Sept 2026.
+Sigma is a music venue in Ibiza with 24 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "No Sleep" on Fri, 4 Sept 2026.
 
-Sigma is a music venue in Ibiza listed on soundcheck. 23 upcoming nights, with line-ups including AntZ (2), Charlotte Newman, D I N and Francesco Menduni and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
+Sigma is a music venue in Ibiza listed on soundcheck. 24 upcoming nights, with line-ups including AntZ (2), Charlotte Newman, D I N and Francesco Menduni and 2 more. Browse upcoming dates, start times and who's playing. C/ de Carles V, nº 11, local 15, 07800 Ibiza.
 
 ## What's on
 

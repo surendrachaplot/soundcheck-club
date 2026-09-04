@@ -1,13 +1,14 @@
 # brawni
 
-brawni is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mandela Hall, Belfast on Sat, 10 Oct 2026.
+brawni is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Daylight, Dublin on Sat, 26 Sept 2026.
 
-brawni is a techno and experimental artist tracked on soundcheck, with 22 sets logged across Belfast, Dublin, Galway and Limerick. Often billed alongside Chaz Moloney, Tadhg K and Barker. Next up: Mandela Hall, Belfast on Sat 10 Oct.
+brawni is a techno and bass artist tracked on soundcheck, with 23 sets logged across Belfast, Dublin, Galway and Limerick. Often billed alongside Chaz Moloney, Tadhg K and Barker. Next up: TBA - Daylight, Dublin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | TBA - Daylight | Dublin |
 | Sat, 10 Oct 2026 | Mandela Hall | Belfast |
 
 ## Recently played

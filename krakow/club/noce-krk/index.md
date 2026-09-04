@@ -11,7 +11,7 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 9 upcoming nights, wit
 | Fri, 4 Sept 2026 | NOCE PO LECIE - MELODIC TECHNO & HOUSE |  |
 | Sat, 5 Sept 2026 | BUNKER RAVE |  |
 | Fri, 11 Sept 2026 | Wave Zebra X Noce KRK | Azer, RAJZ |
-| Sat, 12 Sept 2026 | HYPNØ x nachtwerk |  |
+| Sat, 12 Sept 2026 | HYPNØ x nachtwerk | Grymek, PyjamaMama |
 | Sat, 26 Sept 2026 | TECHNOSESSIONS 04: Dimitri Cooman (BE), Abrew | Abrew, Dimitri Cooman, MRV (1), RAJZ |
 | Fri, 2 Oct 2026 | K​Ø​LP​Ø​S + Vertical Spectrum + others | exoførm |
 | Sat, 31 Oct 2026 | Zorya IV Halloween edition |  |

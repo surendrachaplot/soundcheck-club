@@ -1,8 +1,8 @@
 # Nyra
 
-Nyra is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 11 Sept 2026.
+Nyra is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 11 Sept 2026.
 
-Nyra is a house and techno artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Athens and Belfast and 16 more. Often billed alongside Chloé Caillet, Demi Riquisimo and Grace Sands. Next up: Studio Club Malaga, Malaga on Fri 11 Sept.
+Nyra is a house and techno artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Amsterdam, Antwerp, Athens and Belfast and 16 more. Often billed alongside Chloé Caillet, Demi Riquisimo and Grace Sands. Next up: Studio Club Malaga, Malaga on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nyra is a house and techno artist based in United Kingdom, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Studio Club Malaga | Malaga |
 | Sat, 3 Oct 2026 | Zinkbad Eventhalle | Zurich |
+| Sun, 4 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 

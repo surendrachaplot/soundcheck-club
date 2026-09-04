@@ -1,13 +1,14 @@
 # SENDA FATAL
 
-SENDA FATAL is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Heave Festival, Madrid on Fri, 25 Sept 2026.
+SENDA FATAL is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Core, Madrid on Sat, 5 Sept 2026.
 
-SENDA FATAL is a techno and electronica artist based in Spain, tracked on soundcheck, with 5 sets logged across Madrid. Often billed alongside BOUNCE BRIGADE, Baldman and Bibi. Next up: Heave Festival, Madrid on Fri 25 Sept.
+SENDA FATAL is a techno and tech house artist based in Spain, tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside Nachine, Axis Mundi and BOUNCE BRIGADE. Next up: Core, Madrid on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Core | Madrid |
 | Fri, 25 Sept 2026 | Heave Festival | Madrid |
 
 ## Recently played
@@ -19,6 +20,6 @@ SENDA FATAL is a techno and electronica artist based in Spain, tracked on soundc
 
 ## Shares bills with
 
-BOUNCE BRIGADE, Baldman, Bibi
+Nachine, Axis Mundi, BOUNCE BRIGADE
 
 *Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sendafatal/)*

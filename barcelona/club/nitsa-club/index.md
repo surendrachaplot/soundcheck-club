@@ -1,8 +1,8 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Club Romantico x DESTRUCCIÓN: DJ Ramon Sucesso · Florentino · Manuka Honey · Safety Trance/ Kia" on Fri, 4 Sept 2026.
+Nitsa Club is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Club Romantico x DESTRUCCIÓN: DJ Ramon Sucesso · Florentino · Manuka Honey · Safety Trance/ Kia" on Fri, 4 Sept 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including acidheaven, Alan Braxe, Altinbas and Anah and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including acidheaven, Alan Braxe, Altinbas and Anah and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 

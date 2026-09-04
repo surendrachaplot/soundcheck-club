@@ -9,7 +9,7 @@ DJ Dustin is a house and techno artist tracked on soundcheck, with 94 sets logge
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Haus der Visionäre | Berlin |
-| Sat, 19 Sept 2026 | TBA - LFO | Madrid |
+| Sat, 19 Sept 2026 | LFO.exp | Madrid |
 | Sat, 26 Sept 2026 | TBA - Secret Location | Mallorca |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |

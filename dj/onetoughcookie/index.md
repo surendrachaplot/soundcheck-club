@@ -1,13 +1,14 @@
 # One Tough Cookie
 
-One Tough Cookie is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+One Tough Cookie is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Auber Garden, Paris on Sat, 26 Sept 2026.
 
-One Tough Cookie is a house and minimal artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Charlotte (FR), Charonne and Poggio. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
+One Tough Cookie is a house and minimal artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Charlotte (FR), Charonne and Poggio. Next up: Auber Garden, Paris on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Auber Garden | Paris |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 
 ## Recently played

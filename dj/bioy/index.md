@@ -1,14 +1,16 @@
 # BIØY
 
-BIØY is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Club Araoz, Palermo, Buenos Aires on Fri, 4 Sept 2026.
+BIØY is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Club Araoz, Palermo, Buenos Aires on Fri, 4 Sept 2026.
 
-BIØY is a techno and progressive house artist based in Argentina, tracked on soundcheck, with 11 sets logged across Barcelona, Buenosaires and Rome. Often billed alongside Adam Sellouk, David Lindmer and Fur Coat. Next up: TBA - Club Araoz, Palermo, Buenosaires on Fri 4 Sept.
+BIØY is a techno and progressive house artist based in Argentina, tracked on soundcheck, with 13 sets logged across Barcelona, Buenosaires and Rome. Often billed alongside Adam Sellouk, Alex Rush and Fat-P. Next up: TBA - Club Araoz, Palermo, Buenosaires on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | TBA - Club Araoz, Palermo | Buenos Aires |
+| Fri, 11 Sept 2026 | Port Olimpic | Barcelona |
+| Sat, 12 Sept 2026 | Port Olimpic | Barcelona |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ BIØY is a techno and progressive house artist based in Argentina, tracked on so
 
 ## Shares bills with
 
-Adam Sellouk, David Lindmer, Fur Coat
+Adam Sellouk, Alex Rush, Fat-P
 
 *Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bioy/)*

@@ -13,7 +13,7 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 4
 | Sun, 6 Sept 2026 | Nido | Aracil, Jay Fase, Panyer |
 | Mon, 7 Sept 2026 | Peace N´Music | DJ Pippi, Willie Graff |
 | Tue, 8 Sept 2026 | Borealis |  |
-| Tue, 8 Sept 2026 | Ethereal |  |
+| Tue, 8 Sept 2026 | Ethereal | Clint Lee, Dubpaper |
 | Wed, 9 Sept 2026 | Namaste | Fake Tattoos |
 | Fri, 11 Sept 2026 | Tales of the Unexpected | Jeremy Weeks, Maribou State, ROSIE, The Brothers Grim |
 | Sat, 12 Sept 2026 | Supernova | Parra for Cuva, Words of Niō |

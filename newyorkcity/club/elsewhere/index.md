@@ -11,7 +11,7 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 37 upcoming nigh
 | Fri, 4 Sept 2026 | Klingande, hanzondeck | Klingande, hanzondeck |
 | Fri, 4 Sept 2026 | Sofia Kourtesis (DJ Set), Sorley, EREZ, House Hats: Trainer RED, Steffy, Baum b2b Teecee + more | Baum, E R E Z, EREZ (US), Han G, Lana Vese, Sofia Kourtesis, Steffy, Teecee |
 | Sat, 5 Sept 2026 | Sparrow, CISUMMI, TURÉ | CISUMMI, Sparrow (CH) |
-| Sat, 5 Sept 2026 | Perreito, MARACUYá, MANGUMAMI, Anarcho: Lauren Ritter, Dundar, Bea Trinidad | Bea Trinidad, Dundar, Lauren Ritter, MANGUMAMI, MARACUYá |
+| Sat, 5 Sept 2026 | Perreito, MARACUYá, MANGUMAMI, Anarcho: Lauren Ritter, Dundar, Bea Trinidad | Bea Trinidad, Dundar, Lauren Ritter, MANGUMAMI, Maracuya |
 | Sun, 6 Sept 2026 | Paraíso Fest: Caribbean Experience (Hall) / Plant Bass (Zone One + Loft) |  |
 | Mon, 7 Sept 2026 | FEVER MAX - Labor Day Afterhours  |  |
 | Mon, 7 Sept 2026 | FEVER MAX - Labor Day Afterhours | Kevin Aviance |

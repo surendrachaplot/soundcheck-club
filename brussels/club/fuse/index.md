@@ -8,7 +8,7 @@ Fuse is a music venue in Brussels listed on soundcheck. 12 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Fuse presents: NIKOLINA & Ornella | GAIVEU, NIKOLINA_, Ornella |
+| Fri, 4 Sept 2026 | Fuse presents: NIKOLINA & Ornella | GAIVEU, Herton, Initial Code, NIKOLINA_, Ornella |
 | Sat, 5 Sept 2026 | Fuse presents: Hadone curates with Nørbak & Tauceti | Hadone, Nørbak, Tauceti (FR) |
 | Fri, 11 Sept 2026 | Fuse presents: 2HOT2PLAY & ALT8 | 2HOT2PLAY, ALT8, ATARAXY, Maëlle |
 | Sat, 12 Sept 2026 | Fuse presents: Andy C | Andy C, Bredren |

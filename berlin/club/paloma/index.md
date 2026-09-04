@@ -17,7 +17,7 @@ Paloma is a music venue in Berlin listed on soundcheck. 30 upcoming nights, with
 | Thu, 10 Sept 2026 | Ausländerbehörde with Madalba (Tresor), JEDRANALINE, DJ Regret & Tan B | DJ Regret, JEDRANALINE, Madalba |
 | Fri, 11 Sept 2026 | Paloma x Selectors Club | ANDI A., Roko (2), Thomas Heinrich |
 | Fri, 11 Sept 2026 | SQUEEZE w/ Sevensol + Luscius | Sevensol |
-| Sat, 12 Sept 2026 | Coming Through |  |
+| Sat, 12 Sept 2026 | Coming Through | NothingDoing |
 
 ## Address
 

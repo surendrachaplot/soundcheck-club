@@ -8,7 +8,7 @@ Cross Club is a music venue in Prague listed on soundcheck. 8 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | PR7 RECORDS SHOWCASE |  |
+| Fri, 4 Sept 2026 | PR7 RECORDS SHOWCASE | RUDE BOY (US) |
 | Sat, 5 Sept 2026 | 10 YEARS OF NEXT:GEN CREW | Dave Tarrida, Ghandi, Nika77, Sir Free |
 | Fri, 11 Sept 2026 | THALASSOPHOBIA: SAVE OUR SOULS |  |
 | Sat, 12 Sept 2026 | HARD RAVE |  |

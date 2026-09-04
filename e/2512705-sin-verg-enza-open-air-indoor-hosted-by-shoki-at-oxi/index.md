@@ -1,0 +1,27 @@
+# SIN VERGÜENZA [OPEN AIR + INDOOR] hosted by SHOKI at OXI
+
+SIN VERGÜENZA [OPEN AIR + INDOOR] hosted by SHOKI at OXI on Sat 12 Sept, Berlin. 13 acts on the bill: DJ Cringey, DJ SEXSTASY, Eliangel and FORTUNATA and 9 more. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 12 Sept 2026 |
+| Venue | OXI |
+| City | Berlin |
+
+## Line-up
+
+- DJ Cringey
+- DJ SEXSTASY
+- Eliangel
+- FORTUNATA
+- Impulsive Behaviour
+- Maque
+- maríajosé
+- Ojos de miel
+- PvssyDivx
+- SHOKI287
+- STEYA
+- The Muffin Man
+- Vivienna
+
+*Source: [soundcheck](https://soundcheck.club/e/2512705-sin-verg-enza-open-air-indoor-hosted-by-shoki-at-oxi/)*

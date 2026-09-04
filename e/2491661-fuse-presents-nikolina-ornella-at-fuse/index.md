@@ -1,6 +1,6 @@
 # Fuse presents: NIKOLINA & Ornella at Fuse
 
-Fuse presents: NIKOLINA & Ornella on Fri 4 Sept, Brussels. 3 acts on the bill: GAIVEU, NIKOLINA_ and Ornella. Preview the line-up and save it on soundcheck.
+Fuse presents: NIKOLINA & Ornella on Fri 4 Sept, Brussels. 5 acts on the bill: GAIVEU, Herton, Initial Code and NIKOLINA_ and 1 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Fuse presents: NIKOLINA & Ornella on Fri 4 Sept, Brussels. 3 acts on the bill: G
 ## Line-up
 
 - GAIVEU
+- Herton
+- Initial Code
 - NIKOLINA_
 - Ornella
 

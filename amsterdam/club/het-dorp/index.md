@@ -11,7 +11,7 @@ Het Dorp is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, 
 | Fri, 4 Sept 2026 | Field Notes presents... A House Party 2 | Alexis Le-Tan, Alicia Carrera, Field Notes DJs, Legowelt, Prins Thomas |
 | Fri, 4 Sept 2026 | Field Notes presents... A House Party 2 | Alexis Le-Tan, Alicia Carrera, Field Notes DJs, Legowelt, Prins Thomas |
 | Thu, 22 Oct 2026 | ADE Naturalis festival with Manfredas, Paula Tape, Jonny Rock  | Arista, Budino, Jonny Rock, Manfredas, Nunzio Borino, Paula Tape, ThanksMate |
-| Fri, 23 Oct 2026 | Festifest ADE | BELLA (NL), Demi Riquisimo, Evi (1), Fabrizio Mammarella, Galleria Europa, Giulia Gutterer, SHMLSS, Sound Metaphors Djs |
+| Fri, 23 Oct 2026 | Festifest ADE (Sold Out) | BELLA (NL), Demi Riquisimo, Evi (1), Fabrizio Mammarella, Galleria Europa, Giulia Gutterer, SHMLSS, Sound Metaphors Djs |
 | Sun, 25 Oct 2026 | Bubble House x ADE |  |
 
 ## Address

@@ -1,8 +1,8 @@
 # Ryan Nicholls
 
-Ryan Nicholls is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Distrikt, Leeds on Fri, 4 Sept 2026.
+Ryan Nicholls is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Distrikt, Leeds on Fri, 4 Sept 2026.
 
-Ryan Nicholls is a house and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 7 more. Often billed alongside Josh Gregg, Ryan Resso and Fleur Shore. Next up: Distrikt, Leeds on Fri 4 Sept.
+Ryan Nicholls is a house and tech house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 7 more. Often billed alongside Josh Gregg, Ryan Resso and Fleur Shore. Next up: Distrikt, Leeds on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ryan Nicholls is a house and tech house artist tracked on soundcheck, with 28 se
 | Fri, 4 Sept 2026 | Distrikt | Leeds |
 | Sat, 5 Sept 2026 | FORGE | Sheffield |
 | Tue, 8 Sept 2026 | Hï Ibiza | Ibiza |
+| Sat, 3 Oct 2026 | XOYO | London |
 | Thu, 22 Oct 2026 | Club Up | Amsterdam |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
 

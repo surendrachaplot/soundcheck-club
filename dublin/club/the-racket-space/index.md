@@ -9,7 +9,7 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 14 upcoming ni
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Absys Rec x Bodytonic present S.P.Y | S.P.Y., SHO |
-| Fri, 11 Sept 2026 | REIGN 001 |  |
+| Fri, 11 Sept 2026 | MYTH X IMMERSIV3 PRESENTS — REIGN 001 |  |
 | Sat, 12 Sept 2026 | Ritmic presents: D.N.A, Glockex & Soraiwa |  |
 | Thu, 17 Sept 2026 | Secret Cells Vol 1 |  |
 | Sun, 20 Sept 2026 | Mystify Creative Playground & Vinyl and Learn Workshop Season 2 | Tadhg K, Tr One |

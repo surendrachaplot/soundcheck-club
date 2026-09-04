@@ -1,6 +1,6 @@
 # MITA - Volume 1 at THE OTHER SIDE
 
-MITA - Volume 1 at THE OTHER SIDE on Fri 11 Sept, Amsterdam. 1 act on the bill: Mitch Julian. House and Club. Preview the line-up and save it on soundcheck.
+MITA - Volume 1 at THE OTHER SIDE on Fri 11 Sept, Amsterdam. 2 acts on the bill: Mitch Julian and ROOX. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ MITA - Volume 1 at THE OTHER SIDE on Fri 11 Sept, Amsterdam. 1 act on the bill: 
 ## Line-up
 
 - Mitch Julian
+- ROOX
 
 *Source: [soundcheck](https://soundcheck.club/e/2498891-mita-volume-1-at-the-other-side/)*

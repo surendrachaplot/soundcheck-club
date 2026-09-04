@@ -1,13 +1,14 @@
 # VRTL
 
-VRTL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Alte Feuerwache THF, Berlin on Fri, 25 Sept 2026.
+VRTL is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at AMT, Berlin on Fri, 18 Sept 2026.
 
-VRTL is a house and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin and Paris. Often billed alongside Lixi, materia hache and Flemish.Fetish. Next up: Alte Feuerwache THF, Berlin on Fri 25 Sept.
+VRTL is a house and techno artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin and Paris. Often billed alongside Lixi, materia hache and Flemish.Fetish. Next up: AMT, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | AMT | Berlin |
 | Fri, 25 Sept 2026 | Alte Feuerwache THF | Berlin |
 | Sun, 18 Oct 2026 | Fitzroy | Berlin |
 

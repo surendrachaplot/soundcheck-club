@@ -9,7 +9,7 @@ La Java is a music venue in Paris listed on soundcheck. 11 upcoming nights, with
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Solar Rush: DATSKO, Britney Speed, Greeds & More | Britney Speed (FR), DATSKO |
-| Sat, 5 Sept 2026 | Le Club House : Occibel, Bousti, Numero 6 & More | Occibel, Soju Gang |
+| Sat, 5 Sept 2026 | Le Club House : Occibel, Bousti, Numero 6 & More | Numero 6, Occibel |
 | Fri, 11 Sept 2026 | Pastel, Baka G, Mely & More: Groovy Celebration | Baka G, Mely, Pastel |
 | Fri, 11 Sept 2026 | Groovy Celebration: Pastel, Baka G, Mely & More | Baka G, Mely, Pastel |
 | Sat, 12 Sept 2026 | Dj Angel, Rin La Dalle, Succubus & More: Groove your body | Mia Ovaa |

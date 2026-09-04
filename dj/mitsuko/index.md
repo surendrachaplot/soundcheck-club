@@ -1,14 +1,15 @@
 # Mitsuko
 
-Mitsuko is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 4 Sept 2026.
+Mitsuko is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 4 Sept 2026.
 
-Mitsuko is a house and deep house artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin and Tokyo. Often billed alongside LIZZN, Miss Kitchen and ADAM REC.. Next up: Bulbul Berlin, Berlin on Fri 4 Sept.
+Mitsuko is a house and deep house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin and Tokyo. Often billed alongside LIZZN, Miss Kitchen and ADAM REC.. Next up: Bulbul Berlin, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Bulbul Berlin | Berlin |
+| Thu, 10 Sept 2026 | Zu Mir Oder Zu Dir | Berlin |
 | Fri, 11 Sept 2026 | Klunkerkranich | Berlin |
 | Sat, 21 Nov 2026 | Beate Uwe | Berlin |
 

@@ -1,14 +1,15 @@
 # Ross From Friends
 
-Ross From Friends is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Loft, Manchester on Sat, 10 Oct 2026.
+Ross From Friends is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Loft, Manchester on Sat, 10 Oct 2026.
 
-Ross From Friends is a house and techno artist tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Bicep, Logic1000 and Underworld. Next up: The Loft, Manchester on Sat 10 Oct.
+Ross From Friends is a house and techno artist tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Bicep, Logic1000 and Underworld. Next up: The Loft, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Loft | Manchester |
+| Sat, 31 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 6 Nov 2026 | Phonox | London |
 | Fri, 13 Nov 2026 | Phonox | London |
 | Fri, 20 Nov 2026 | Phonox | London |

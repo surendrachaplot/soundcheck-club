@@ -1,6 +1,6 @@
 # Possibly Jamie: Did It All For You at Nice N Sleazy
 
-Possibly Jamie: Did It All For You at Nice N Sleazy on Mon 21 Sept, Glasgow. Pop. Preview the line-up and save it on soundcheck.
+Possibly Jamie: Did It All For You at Nice N Sleazy on Mon 21 Sept, Glasgow. Pop and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,14 @@
 # truthspeaker
 
-truthspeaker is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location, Berlin on Fri, 2 Oct 2026.
+truthspeaker is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
-truthspeaker is a techno and trance artist tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 11 more. Often billed alongside CUNT REMEMBER, DJ VALENTIMES and PAX (2). Next up: TBA - Secret Location, Berlin on Fri 2 Oct.
+truthspeaker is a techno and trance artist tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 11 more. Often billed alongside CUNT REMEMBER, PAX (2) and DJ VALENTIMES. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | TBA - Warschauer Pl. 18, 10245 Berlin | Berlin |
 | Fri, 2 Oct 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ truthspeaker is a techno and trance artist tracked on soundcheck, with 39 sets l
 
 ## Shares bills with
 
-CUNT REMEMBER, DJ VALENTIMES, PAX (2)
+CUNT REMEMBER, PAX (2), DJ VALENTIMES
 
 *Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/truthspeaker/)*

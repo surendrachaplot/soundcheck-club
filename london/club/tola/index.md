@@ -13,7 +13,7 @@ Tola is a music venue in London listed on soundcheck. 8 upcoming nights, with li
 | Sat, 19 Sept 2026 | Frogwork: Day and Night Special | Corvair, Donut, Jiminy Watts, M'Lover, Touré |
 | Fri, 25 Sept 2026 | The Wonky House presents: Straight On 'til Morning | 1KY (1), Harmony, Harry Mason, Josh Wickers, ZAZA C |
 | Sat, 26 Sept 2026 | Riddim Division: Summer Send Off - Lineup TBA | Ali Velmi, Klose One |
-| Fri, 16 Oct 2026 | JAZZ TO JUNGLE | ELshus, karishma |
+| Fri, 16 Oct 2026 | JAZZ TO JUNGLE | ELshus, Half-Life, karishma |
 | Fri, 30 Oct 2026 | Groove27 presents: Día de los Muertos |  |
 | Sat, 31 Oct 2026 | one:2 eight presents: LE CIRQUE CLANDESTIN | Not From Concentrate |
 

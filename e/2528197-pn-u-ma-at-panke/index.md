@@ -1,6 +1,6 @@
 # /pnèu·ma/ at Panke
 
-/pnèu·ma/ at Panke on Thu 24 Sept, Berlin. 5 acts on the bill: AGILITÄT, ELA, marcio and Marylou and 1 more. Preview the line-up and save it on soundcheck.
+/pnèu·ma/ at Panke on Thu 24 Sept, Berlin. 7 acts on the bill: AGILITÄT, E L A, ELA and marcio and 3 more. Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,11 @@
 ## Line-up
 
 - AGILITÄT
+- E L A
 - ELA
 - marcio
 - Marylou
 - Sentient
+- Sentient (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2528197-pn-u-ma-at-panke/)*

@@ -1,8 +1,8 @@
 # RRRKRTA
 
-RRRKRTA is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mastak, Warsaw on Sat, 5 Sept 2026.
+RRRKRTA is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mastak, Warsaw on Sat, 5 Sept 2026.
 
-RRRKRTA is a techno and electronica artist based in Poland, tracked on soundcheck, with 28 sets logged across Belgrade, Berlin, Glasgow and Hamburg and 5 more. Often billed alongside Diamin, Elena Colombi and ābnamā. Next up: Mastak, Warsaw on Sat 5 Sept.
+RRRKRTA is a techno and electronica artist based in Poland, tracked on soundcheck, with 29 sets logged across Belgrade, Berlin, Glasgow and Hamburg and 5 more. Often billed alongside Diamin, Elena Colombi and JayJay. Next up: Mastak, Warsaw on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ RRRKRTA is a techno and electronica artist based in Poland, tracked on soundchec
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Mastak | Warsaw |
 | Fri, 18 Sept 2026 | Spanners | London |
+| Sat, 19 Sept 2026 | EXIT Glasgow | Glasgow |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ RRRKRTA is a techno and electronica artist based in Poland, tracked on soundchec
 
 ## Shares bills with
 
-Diamin, Elena Colombi, ābnamā
+Diamin, Elena Colombi, JayJay
 
 *Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrkrta/)*

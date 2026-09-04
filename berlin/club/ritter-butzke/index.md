@@ -11,7 +11,7 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 26 upcoming night
 | Fri, 4 Sept 2026 | Deeportament Community with Nico Morano (Open Air & Indoor) - Free entry until 7 PM | Bøgen, Eva Kim, Misha Svirid, Nico Morano, Stefan Muchte, Syntonos, TONI, Vlad Yaki |
 | Sat, 5 Sept 2026 | Giorgia Angiuli Live (Open Air) - free entry until 7pm | BOHO, Ele Luz, Giorgia Angiuli, Gunnar Stiller |
 | Sat, 5 Sept 2026 | Sascha Braemer | MPathy, Sascha Braemer |
-| Fri, 11 Sept 2026 | Unison with Nonchalance, DJ Sonnenbrand, JÄMO, Bambi-S, Oliviero | Bambi-S, CLARA, CLARA (FR), DJ Sonnenbrand, JÄMO, Oliviero, TRC, TRC (3) |
+| Fri, 11 Sept 2026 | Unison with Nonchalance, DJ Sonnenbrand, JÄMO, Bambi-S, Oliviero | Bambi-S, CLARA, CLARA (FR), DJ Sonnenbrand, JÄMO, Malthès, Oliviero, TRC, TRC (3), Yasmin Gardezi |
 | Sat, 12 Sept 2026 | Echos of Utopia (Open Air & Indoor) - free entry until 7pm | Aracil, Bebetta, Cøral Negrø, Hidden Empire, MILLA LOU, Martin Ka, Sin:port |
 | Fri, 18 Sept 2026 | Giddy Club - free entry until 7pm | Aimé You, DJ SPORTSCHUH, Danito San, Johænsson, MC-K, Mababy, Mareike Bautz, Natta, Valeby |
 | Sat, 19 Sept 2026 | Solee | Katzengold, Malouna, Prismode, Solee |

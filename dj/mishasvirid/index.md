@@ -1,8 +1,8 @@
 # Misha Svirid
 
-Misha Svirid is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ritter Butzke, Berlin on Fri, 4 Sept 2026.
+Misha Svirid is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ritter Butzke, Berlin on Fri, 4 Sept 2026.
 
-Misha Svirid is a techno and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Berlin, Lisbon and Riga. Often billed alongside Phonique, Ante Perry and Vlad Yaki. Next up: Ritter Butzke, Berlin on Fri 4 Sept.
+Misha Svirid is a techno and house artist based in Germany, tracked on soundcheck, with 48 sets logged across Berlin, Lisbon and Riga. Often billed alongside Phonique, Ante Perry and Vlad Yaki. Next up: Ritter Butzke, Berlin on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Misha Svirid is a techno and house artist based in Germany, tracked on soundchec
 | Fri, 4 Sept 2026 | Ritter Butzke | Berlin |
 | Sat, 12 Sept 2026 | AMT | Berlin |
 | Fri, 9 Oct 2026 | Weekend | Berlin |
+| Fri, 20 Nov 2026 | Weekend | Berlin |
 
 ## Recently played
 

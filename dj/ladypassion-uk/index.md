@@ -1,8 +1,8 @@
 # Lady Passion
 
-Lady Passion is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sidney & Matilda, Sheffield on Fri, 11 Sept 2026.
+Lady Passion is a Garage and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sidney & Matilda, Sheffield on Fri, 11 Sept 2026.
 
-Lady Passion is a garage and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Bristol and Dublin and 7 more. Often billed alongside DJ Perception, Jeremy Sylvester and Neffa-T. Next up: Sidney & Matilda, Sheffield on Fri 11 Sept.
+Lady Passion is a garage and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Bristol and Dublin and 7 more. Often billed alongside DJ Perception, Jeremy Sylvester and Neffa-T. Next up: Sidney & Matilda, Sheffield on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lady Passion is a garage and house artist tracked on soundcheck, with 71 sets lo
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Sidney & Matilda | Sheffield |
 | Sat, 12 Sept 2026 | Night Tales Loft | London |
+| Sat, 10 Oct 2026 | Phonox | London |
 
 ## Recently played
 

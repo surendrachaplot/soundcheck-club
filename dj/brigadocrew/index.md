@@ -1,8 +1,8 @@
 # Brigado Crew
 
-Brigado Crew is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Buenos Aires on Sat, 5 Sept 2026.
+Brigado Crew is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Buenos Aires on Sat, 5 Sept 2026.
 
-Brigado Crew is a techno and tech house artist tracked on soundcheck, with 53 sets logged across Antwerp, Barcelona, Berlin and Buenosaires and 13 more. Often billed alongside Konstantin Sibold, VMM DJ For Fun and ACCARD. Next up: TBA, Buenosaires on Sat 5 Sept.
+Brigado Crew is a techno and tech house artist tracked on soundcheck, with 54 sets logged across Antwerp, Barcelona, Berlin and Buenosaires and 14 more. Often billed alongside Konstantin Sibold, VMM DJ For Fun and ACCARD. Next up: TBA, Buenosaires on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Brigado Crew is a techno and tech house artist tracked on soundcheck, with 53 se
 | Sun, 13 Sept 2026 | TBA | Buenos Aires |
 | Fri, 18 Sept 2026 | TBA | Mexico City |
 | Sun, 11 Oct 2026 | TBA - La Fabrica, Cordoba | Buenos Aires |
+| Sat, 17 Oct 2026 | Hangar48 Club | Madrid |
 
 ## Recently played
 

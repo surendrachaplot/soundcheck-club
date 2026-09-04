@@ -10,7 +10,7 @@ Hidden is a music venue in Manchester listed on soundcheck. 24 upcoming nights, 
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | LACE: Rhyw // KD22LR // Zuri | KD22LR, Rhyw, Zuri |
 | Fri, 11 Sept 2026 | Parallel: Christian AB & Touré | Christian AB, Touré |
-| Sat, 12 Sept 2026 | Somatics  | GFA, INLIMEN, Nestor (IE), Toobris |
+| Sat, 12 Sept 2026 | Somatics presents  | GFA, INLIMEN, Nestor (IE), Toobris |
 | Sat, 12 Sept 2026 | Majefa Underground Trance V2 | Solarstone |
 | Thu, 17 Sept 2026 | Start of Term Warehouse Rave: Joe Hunt, LLEAHDAVIES, Higgo, SHUFFA | DJANGO (NL), Higgo, LLEAHDAVIES, Reimond, SHADEV, SHUFFA |
 | Fri, 18 Sept 2026 | Teletech: Manchester Mandidextrous | CBABY, Dj Schnake, Ephy Pinkman, Gullyteen, Laze, Mandidextrous, Mollie Rush, Princess Elf Bar |

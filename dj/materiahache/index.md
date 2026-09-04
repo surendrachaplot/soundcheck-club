@@ -1,8 +1,8 @@
 # materia hache
 
-materia hache is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at ciao ciao Bar, Berlin on Fri, 11 Sept 2026.
+materia hache is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at ciao ciao Bar, Berlin on Fri, 11 Sept 2026.
 
-materia hache is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside Fluffi, Mamede and ilbroccolovolante. Next up: ciao ciao Bar, Berlin on Fri 11 Sept.
+materia hache is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside Fluffi, Mamede and ilbroccolovolante. Next up: ciao ciao Bar, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ materia hache is a house and techno artist tracked on soundcheck, with 81 sets l
 | Thu, 24 Sept 2026 | Bulbul Berlin | Berlin |
 | Thu, 1 Oct 2026 | Paloma | Berlin |
 | Thu, 8 Oct 2026 | Bulbul Berlin | Berlin |
+| Fri, 9 Oct 2026 | ciao ciao Bar | Berlin |
 
 ## Recently played
 

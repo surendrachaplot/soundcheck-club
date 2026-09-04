@@ -1,8 +1,8 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "LEVELS" on Fri, 4 Sept 2026.
+Four Quarters is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "LEVELS" on Fri, 4 Sept 2026.
 
-Four Quarters is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Devil's Daughter, DJMH, DungeonMaster and Equinox (UK) and 2 more. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
+Four Quarters is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Alfie Fraser, Calm Stiege, Cozen (2) and Declan Knapp and 2 more. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Four Quarters is a music venue in London listed on soundcheck. 6 upcoming nights
 | Fri, 18 Sept 2026 | dull thud | Jon Hughes, Missile to the Moon, Tom Gillieron |
 | Sat, 19 Sept 2026 | Mural | DJMH |
 | Sat, 31 Oct 2026 | Virtuoso - HALLOWEEN |  |
+| Fri, 27 Nov 2026 | GroundUpCollective presents: Together in Motion | Alfie Fraser, Calm Stiege, Cozen (2), Declan Knapp, Elemental, Griff, PJ Statham |
 
 ## Address
 

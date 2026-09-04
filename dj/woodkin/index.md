@@ -1,13 +1,14 @@
 # WOODKIN
 
-WOODKIN is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Cologne on Sat, 26 Sept 2026.
+WOODKIN is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
 
-WOODKIN is a tech house and deep house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Cologne, Frankfurt and Stuttgart. Often billed alongside Mollono.Bass, Danilo Kupfernagel and MAZ'N. Next up: TBA, Cologne on Sat 26 Sept.
+WOODKIN is a tech house and deep house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Frankfurt and Stuttgart. Often billed alongside Mollono.Bass, Danilo Kupfernagel and MAZ'N. Next up: Jonny Knüppel, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Jonny Knüppel | Berlin |
 | Sat, 26 Sept 2026 | TBA | Cologne |
 
 ## Recently played

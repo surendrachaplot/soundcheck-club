@@ -17,7 +17,7 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 12 upco
 | Sat, 26 Sept 2026 | Headrush 009 - Hardgroove/Techno Club Night |  |
 | Fri, 2 Oct 2026 | Jaded Audio presents - Harley D & Kaz |  |
 | Sat, 3 Oct 2026 | SGP Presents: Berwick, Cersy, Josh Taylor, Boonie | Berwick, Cersy |
-| Fri, 16 Oct 2026 | RUSH presents: SPECTRAL | Amelia Leigh, Sweetly |
+| Fri, 16 Oct 2026 | RUSH presents: SPECTRAL // AudioVisual Show // JUNGLE // GARAGE // SPEED BASS | Amelia Leigh, Sweetly |
 
 ## Address
 

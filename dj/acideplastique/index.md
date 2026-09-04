@@ -1,13 +1,14 @@
 # acideplastique
 
-acideplastique is a Bass and Breakcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bal Chavaux, Paris on Sat, 3 Oct 2026.
+acideplastique is a Bass and Breakcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at La Maison Bistrot, Paris on Fri, 25 Sept 2026.
 
-acideplastique is a bass and breakcore artist tracked on soundcheck, with 16 sets logged across Barcelona, Nantes, Paris and Vienna. Often billed alongside Amblio, Antonia XM and Kenji Araki. Next up: Bal Chavaux, Paris on Sat 3 Oct.
+acideplastique is a bass and breakcore artist tracked on soundcheck, with 17 sets logged across Barcelona, Nantes, Paris and Vienna. Often billed alongside Amblio, Antonia XM and Kenji Araki. Next up: La Maison Bistrot, Paris on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | La Maison Bistrot | Paris |
 | Sat, 3 Oct 2026 | Bal Chavaux | Paris |
 
 ## Recently played

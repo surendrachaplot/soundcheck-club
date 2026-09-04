@@ -1,8 +1,8 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Club Angel is a Garage and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Club Angel is a garage and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Sam Alfred, Interplanetary Criminal and salute. Next up: Union Park, Chicago on Fri 4 Sept.
+Club Angel is a garage and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 32 more. Often billed alongside Sam Alfred, Interplanetary Criminal and salute. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Club Angel is a garage and house artist tracked on soundcheck, with 95 sets logg
 | Sun, 11 Oct 2026 | Mondo Open Air | Madrid |
 | Sun, 11 Oct 2026 | Mondo | Madrid |
 | Fri, 16 Oct 2026 | The Clock Factory | Bristol |
+| Sat, 17 Oct 2026 | Centre Point | Dublin |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Space Society at THE OTHER SIDE
 
-Space Society at THE OTHER SIDE on Fri 18 Sept, Amsterdam. 2 acts on the bill: Mitch de Klein and Viox. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Space Society at THE OTHER SIDE on Fri 18 Sept, Amsterdam. 2 acts on the bill: Mitch de Klein and Viox. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Tippa
 
-Tippa is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Theata, London on Fri, 4 Sept 2026.
+Tippa is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Theata, London on Fri, 4 Sept 2026.
 
-Tippa is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across London. Often billed alongside Supa D, Mark Radford and Shenin Amara. Next up: Theata, London on Fri 4 Sept.
+Tippa is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across London. Often billed alongside Supa D, Mark Radford and Shenin Amara. Next up: Theata, London on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tippa is a house and deep house artist based in United Kingdom, tracked on sound
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Theata | London |
 | Sun, 13 Sept 2026 | Studio 338 | London |
+| Sat, 24 Oct 2026 | The Steel Yard | London |
 
 ## Recently played
 

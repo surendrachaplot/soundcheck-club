@@ -2,7 +2,7 @@
 
 Egg On Toast is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hidden, Manchester on Fri, 9 Oct 2026.
 
-Egg On Toast is a techno and house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Manchester and Sheffield. Often billed alongside MARACUYá, THT GRL and Aiden Francis. Next up: Hidden, Manchester on Fri 9 Oct.
+Egg On Toast is a techno and house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Manchester and Sheffield. Often billed alongside Maracuya, THT GRL and Aiden Francis. Next up: Hidden, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Egg On Toast is a techno and house artist based in United Kingdom, tracked on so
 
 ## Shares bills with
 
-MARACUYá, THT GRL, Aiden Francis
+Maracuya, THT GRL, Aiden Francis
 
 *Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eggontoast/)*

@@ -1,13 +1,14 @@
 # The Burrell Connection
 
-The Burrell Connection is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
+The Burrell Connection is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location Neukolln, Berlin on Fri, 18 Sept 2026.
 
-The Burrell Connection is a house and techno artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Berlin, Budapest, Edinburgh and Ghent and 4 more. Often billed alongside DJ CHICHI, Amanita and Craigie Knowes. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
+The Burrell Connection is a house and techno artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Berlin, Budapest, Edinburgh and Ghent and 4 more. Often billed alongside DJ CHICHI, Amanita and Craigie Knowes. Next up: TBA - Secret Location Neukolln, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | TBA - Secret Location Neukolln | Berlin |
 | Fri, 2 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played

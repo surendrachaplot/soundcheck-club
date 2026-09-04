@@ -1,6 +1,6 @@
 # Soundset Sessions with ROZIE at La Terrrazza
 
-Soundset Sessions with ROZIE at La Terrrazza on Thu 17 Sept, Barcelona. 2 acts on the bill: Rozie and WOLTERS. Trance and House. Preview the line-up and save it on soundcheck.
+Soundset Sessions with ROZIE at La Terrrazza on Thu 17 Sept, Barcelona. 4 acts on the bill: ANYA (2), CLANDESTINE (2), Rozie and WOLTERS. Trance and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Soundset Sessions with ROZIE at La Terrrazza on Thu 17 Sept, Barcelona. 2 acts o
 
 ## Line-up
 
+- ANYA (2)
+- CLANDESTINE (2)
 - Rozie
 - WOLTERS
 
