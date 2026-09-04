@@ -1,6 +1,6 @@
 # Alec Falconer
 
-Alec Falconer is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 5 Sept 2026.
+Alec Falconer is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 5 Sept 2026.
 
 Alec Falconer is a house and garage artist tracked on soundcheck, with 112 sets logged across Aberdeen, Amsterdam, Barcelona and Berlin and 27 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: Ouseburn Garden, Newcastle on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Alec Falconer is a house and garage artist tracked on soundcheck, with 112 sets 
 
 Harry Wills, Dr Banana, Phone Traxxx
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*

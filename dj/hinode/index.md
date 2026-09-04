@@ -1,6 +1,6 @@
 # Hinode
 
-Hinode is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Heavy Sick Zero, Tokyo on Sun, 20 Sept 2026.
+Hinode is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Heavy Sick Zero, Tokyo on Sun, 20 Sept 2026.
 
 Hinode is a psytrance and techno artist tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside Takuya Asakura, BASiRiNO and BERLINER KINDL. Next up: Heavy Sick Zero, Tokyo on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Hinode is a psytrance and techno artist tracked on soundcheck, with 9 sets logge
 
 Takuya Asakura, BASiRiNO, BERLINER KINDL
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode/)*

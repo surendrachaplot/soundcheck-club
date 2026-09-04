@@ -1,6 +1,6 @@
 # Cirqet
 
-Cirqet is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Signal, New York City on Sat, 5 Sept 2026.
+Cirqet is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Signal, New York City on Sat, 5 Sept 2026.
 
 Cirqet is a techno and house artist tracked on soundcheck, with 9 sets logged across Detroit, Losangeles, Newyorkcity and Washingtondc. Often billed alongside Alarico, David Castellani and Perc. Next up: Signal, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Cirqet is a techno and house artist tracked on soundcheck, with 9 sets logged ac
 
 Alarico, David Castellani, Perc
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cirqet/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cirqet/)*

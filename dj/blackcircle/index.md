@@ -1,6 +1,6 @@
 # Black Circle
 
-Black Circle is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Klein Phönix, Istanbul on Fri, 4 Sept 2026.
+Black Circle is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Klein Phönix, Istanbul on Fri, 4 Sept 2026.
 
 Black Circle is a house and tech house artist based in Switzerland, tracked on soundcheck, with 28 sets logged across Chicago, Frankfurt, Ibiza and Istanbul and 12 more. Often billed alongside 1TWO, Airrica and Avangart Tabldot. Next up: Klein Phönix, Istanbul on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Black Circle is a house and tech house artist based in Switzerland, tracked on s
 
 1TWO, Airrica, Avangart Tabldot
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcircle/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcircle/)*

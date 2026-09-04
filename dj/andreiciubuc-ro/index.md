@@ -1,6 +1,6 @@
 # Andrei Ciubuc
 
-Andrei Ciubuc is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 18 Sept 2026.
+Andrei Ciubuc is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 18 Sept 2026.
 
 Andrei Ciubuc is a house and minimal artist based in Romania, tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Brussels and Bucharest and 9 more. Often billed alongside Herodot, Aleksan'dru and Cap. Next up: Platforma Wolff, Bucharest on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Andrei Ciubuc is a house and minimal artist based in Romania, tracked on soundch
 
 Herodot, Aleksan'dru, Cap
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreiciubuc-ro/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreiciubuc-ro/)*

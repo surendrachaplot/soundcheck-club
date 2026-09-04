@@ -1,13 +1,14 @@
 # bolo
 
-bolo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+bolo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 19 Sept 2026.
 
-bolo is a techno and house artist tracked on soundcheck, with 45 sets logged across Austin, Losangeles, Nashville and Newyorkcity and 1 more. Often billed alongside Abrew, Kobayashkn and CRACKD. Next up: The Concourse Project, Austin on Fri 13 Nov.
+bolo is a techno and house artist tracked on soundcheck, with 46 sets logged across Austin, Losangeles, Nashville and Newyorkcity and 1 more. Often billed alongside Abrew, Kobayashkn and PayoYayo. Next up: K-Bar Powiśle, Warsaw on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | K-Bar Powiśle | Warsaw |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
@@ -23,6 +24,6 @@ bolo is a techno and house artist tracked on soundcheck, with 45 sets logged acr
 
 ## Shares bills with
 
-Abrew, Kobayashkn, CRACKD
+Abrew, Kobayashkn, PayoYayo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*

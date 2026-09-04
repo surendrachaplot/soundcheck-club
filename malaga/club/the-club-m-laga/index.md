@@ -1,14 +1,13 @@
 # The Club (Málaga)
 
-The Club (Málaga) is a music venue in Malaga with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "HELLO WEEKEND: APEIDON" on Thu, 3 Sept 2026.
+The Club (Málaga) is a music venue in Malaga with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "GERMEN: LAS VIRUS · LOUDEL" on Fri, 4 Sept 2026.
 
-The Club (Málaga) is a music venue in Malaga listed on soundcheck. 10 upcoming nights, with line-ups including Neeiv, SOSANDLOW and Timo Otten. Browse upcoming dates, start times and who's playing. Plaza San Francisco 8 29008 Malaga España.
+The Club (Málaga) is a music venue in Malaga listed on soundcheck. 9 upcoming nights, with line-ups including Neeiv, SOSANDLOW and Timo Otten. Browse upcoming dates, start times and who's playing. Plaza San Francisco 8 29008 Malaga España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | HELLO WEEKEND: APEIDON |  |
 | Fri, 4 Sept 2026 | GERMEN: LAS VIRUS · LOUDEL |  |
 | Sat, 5 Sept 2026 | SAAV INVITES: 100% VINYL NIGTH |  |
 | Thu, 10 Sept 2026 | HELLO WEEKEND: APEIDON |  |
@@ -23,4 +22,4 @@ The Club (Málaga) is a music venue in Malaga listed on soundcheck. 10 upcoming 
 
 Plaza San Francisco 8 29008 Malaga España, Malaga
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/the-club-m-laga/)*

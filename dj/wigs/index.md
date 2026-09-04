@@ -1,6 +1,6 @@
 # Wigs
 
-Wigs is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 19 Sept 2026.
+Wigs is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 19 Sept 2026.
 
 Wigs is a house and progressive house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Barcelona, Berlin, Edinburgh and London and 1 more. Often billed alongside Wigs, ANNX and Albal. Next up: Village Underground Barcelona, Barcelona on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Wigs is a house and progressive house artist based in United Kingdom, tracked on
 
 Wigs, ANNX, Albal
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wigs/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wigs/)*

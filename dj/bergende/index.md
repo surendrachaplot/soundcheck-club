@@ -1,6 +1,6 @@
 # Bergen (DE)
 
-Bergen (DE) is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
+Bergen (DE) is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat, 12 Sept 2026.
 
 Bergen (DE) is a deep house and tech house artist tracked on soundcheck, with 4 sets logged across Cologne and Dusseldorf. Often billed alongside Anna Cainelli, Arninho and Bergen. Next up: TBA - JOSEF-LAMMERTING-ALLEE 17-19, 50933 KÖLN, Cologne on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ Bergen (DE) is a deep house and tech house artist tracked on soundcheck, with 4 
 
 Anna Cainelli, Arninho, Bergen
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bergende/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bergende/)*

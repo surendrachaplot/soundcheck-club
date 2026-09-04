@@ -1,6 +1,6 @@
 # Pirupa
 
-Pirupa is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Wurstküche Restaurant Venice Beach, Los Angeles on Sat, 12 Sept 2026.
+Pirupa is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Wurstküche Restaurant Venice Beach, Los Angeles on Sat, 12 Sept 2026.
 
 Pirupa is a house and tech house artist based in Italy, tracked on soundcheck, with 10 sets logged across Barcelona, Copenhagen, London and Losangeles and 4 more. Often billed alongside Aja Gulris, Andrew Kay and Bontan. Next up: Wurstküche Restaurant Venice Beach, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Pirupa is a house and tech house artist based in Italy, tracked on soundcheck, w
 
 Aja Gulris, Andrew Kay, Bontan
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pirupa/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pirupa/)*

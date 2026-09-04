@@ -1,6 +1,6 @@
 # 24 Moons
 
-24 Moons is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Rising Sun presents: Millennium" on Sat, 26 Sept 2026.
+24 Moons is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Rising Sun presents: Millennium" on Sat, 26 Sept 2026.
 
 24 Moons is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Amber Ferraro, Crozier, DJ Luv You and Jamie Stevens. Browse upcoming dates, start times and who's playing. 2 Arthurton Rd, Northcote 3070 VIC, Australia.
 
@@ -15,4 +15,4 @@
 
 2 Arthurton Rd, Northcote 3070 VIC, Australia, Melbourne
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*

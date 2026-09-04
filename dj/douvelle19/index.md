@@ -1,6 +1,6 @@
 # Douvelle19
 
-Douvelle19 is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club Up, Amsterdam on Wed, 21 Oct 2026.
+Douvelle19 is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Club Up, Amsterdam on Wed, 21 Oct 2026.
 
 Douvelle19 is a house and garage artist tracked on soundcheck, with 26 sets logged across Amsterdam, Brighton, Bristol and Cardiff and 4 more. Often billed alongside Cesco, Diffrent and Rich Reason. Next up: Club Up, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Douvelle19 is a house and garage artist tracked on soundcheck, with 26 sets logg
 
 Cesco, Diffrent, Rich Reason
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/douvelle19/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/douvelle19/)*

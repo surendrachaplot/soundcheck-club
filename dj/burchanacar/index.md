@@ -1,6 +1,6 @@
 # Burchan Acar
 
-Burchan Acar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at feedbk, New York City on Sat, 5 Sept 2026.
+Burchan Acar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at feedbk, New York City on Sat, 5 Sept 2026.
 
 Burchan Acar is a house and techno artist based in United States of America, tracked on soundcheck, with 38 sets logged across Berlin, Boston, London and Losangeles and 3 more. Often billed alongside Ryan King, Desyn and Rama NYC. Next up: feedbk, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Burchan Acar is a house and techno artist based in United States of America, tra
 
 Ryan King, Desyn, Rama NYC
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/burchanacar/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/burchanacar/)*

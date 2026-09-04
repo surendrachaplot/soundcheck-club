@@ -1,6 +1,6 @@
 # BRX (2)
 
-BRX (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club Exil, Vienna on Fri, 18 Sept 2026.
+BRX (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Club Exil, Vienna on Fri, 18 Sept 2026.
 
 BRX (2) is a trance and techno artist based in Austria, tracked on soundcheck, with 17 sets logged across Berlin and Vienna. Often billed alongside Vanessa Sa, Aleta and Paul Mile. Next up: Club Exil, Vienna on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ BRX (2) is a trance and techno artist based in Austria, tracked on soundcheck, w
 
 Vanessa Sa, Aleta, Paul Mile
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brx-2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brx-2/)*

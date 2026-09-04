@@ -1,6 +1,6 @@
 # Tijn Driessen
 
-Tijn Driessen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Shelter Antwerp, Antwerp on Fri, 4 Sept 2026.
+Tijn Driessen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Shelter Antwerp, Antwerp on Fri, 4 Sept 2026.
 
 Tijn Driessen is a house and disco artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Antwerp, Berlin, Brussels and Ghent and 2 more. Often billed alongside Flieder, Body Electric and Bolt Ruin. Next up: Shelter Antwerp, Antwerp on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Tijn Driessen is a house and disco artist based in Netherlands, tracked on sound
 
 Flieder, Body Electric, Bolt Ruin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tijndriessen/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tijndriessen/)*

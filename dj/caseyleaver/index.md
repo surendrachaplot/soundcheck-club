@@ -1,6 +1,6 @@
 # Casey Leaver
 
-Casey Leaver is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Collingwood Basement, Melbourne on Sat, 26 Sept 2026.
+Casey Leaver is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Collingwood Basement, Melbourne on Sat, 26 Sept 2026.
 
 Casey Leaver is a house and techno artist tracked on soundcheck, with 118 sets logged across Melbourne. Often billed alongside Boogs, Spacey Space and Ben Silver (AUS). Next up: Collingwood Basement, Melbourne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Casey Leaver is a house and techno artist tracked on soundcheck, with 118 sets l
 
 Boogs, Spacey Space, Ben Silver (AUS)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyleaver/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyleaver/)*

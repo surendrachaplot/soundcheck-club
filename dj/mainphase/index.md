@@ -1,6 +1,6 @@
 # Main Phase
 
-Main Phase is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Main Phase is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Main Phase is a garage and bass artist tracked on soundcheck, with 199 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 56 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: The Cause, London on Sat 12 Sept.
 
@@ -33,4 +33,4 @@ Main Phase is a garage and bass artist tracked on soundcheck, with 199 sets logg
 
 Interplanetary Criminal, Silva Bumpa, Dr Dubplate
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mainphase/)*

@@ -1,6 +1,6 @@
 # Wim Wixx.
 
-Wim Wixx. is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Amigo, Ghent on Fri, 18 Sept 2026.
+Wim Wixx. is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Amigo, Ghent on Fri, 18 Sept 2026.
 
 Wim Wixx. is a techno artist tracked on soundcheck, with 4 sets logged across Brussels and Ghent. Often billed alongside Laura Charlier, Makoveev and Ørshe. Next up: Amigo, Ghent on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Wim Wixx. is a techno artist tracked on soundcheck, with 4 sets logged across Br
 
 Laura Charlier, Makoveev, Ørshe
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wimwixx./)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wimwixx./)*

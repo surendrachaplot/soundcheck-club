@@ -1,6 +1,6 @@
 # Frank Rayo
 
-Frank Rayo is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tranzit, Hamburg on Sat, 12 Sept 2026.
+Frank Rayo is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tranzit, Hamburg on Sat, 12 Sept 2026.
 
 Frank Rayo is a techno and industrial artist based in Colombia, tracked on soundcheck, with 59 sets logged across Amsterdam, Cologne, Hamburg and Lisbon and 2 more. Often billed alongside AH-N!CE, DJ BTM and Zulu. Next up: Tranzit, Hamburg on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Frank Rayo is a techno and industrial artist based in Colombia, tracked on sound
 
 AH-N!CE, DJ BTM, Zulu
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankrayo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankrayo/)*

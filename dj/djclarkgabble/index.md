@@ -1,6 +1,6 @@
 # Dj Clark Gabble
 
-Dj Clark Gabble is a Amapiano and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at HWK, London on Sat, 12 Sept 2026.
+Dj Clark Gabble is a Amapiano and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at HWK, London on Sat, 12 Sept 2026.
 
 Dj Clark Gabble is an amapiano and baile funk artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside By Dusk, Underground Tribe and Sho Gabi. Next up: HWK, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Dj Clark Gabble is an amapiano and baile funk artist tracked on soundcheck, with
 
 By Dusk, Underground Tribe, Sho Gabi
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djclarkgabble/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djclarkgabble/)*

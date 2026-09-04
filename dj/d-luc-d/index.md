@@ -1,6 +1,6 @@
 # D-Luc-D
 
-D-Luc-D is a Hardcore and Breakcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The DBA, Manchester on Sat, 17 Oct 2026.
+D-Luc-D is a Hardcore and Breakcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The DBA, Manchester on Sat, 17 Oct 2026.
 
 D-Luc-D is a hardcore and breakcore artist tracked on soundcheck, with 12 sets logged across Leeds, Liverpool and Manchester. Often billed alongside Aerbreak, DJ SARIA and Harmful Logic. Next up: The DBA, Manchester on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ D-Luc-D is a hardcore and breakcore artist tracked on soundcheck, with 12 sets l
 
 Aerbreak, DJ SARIA, Harmful Logic
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d-luc-d/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d-luc-d/)*

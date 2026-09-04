@@ -1,6 +1,6 @@
 # Guiddo
 
-Guiddo is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Minimal Bar, Berlin on Sat, 12 Sept 2026.
+Guiddo is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Minimal Bar, Berlin on Sat, 12 Sept 2026.
 
 Guiddo is an electro and techno artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside MiiSCHA, Berlin Bunny and Eyesdice. Next up: Minimal Bar, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Guiddo is an electro and techno artist tracked on soundcheck, with 10 sets logge
 
 MiiSCHA, Berlin Bunny, Eyesdice
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guiddo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guiddo/)*

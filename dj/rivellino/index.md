@@ -1,6 +1,6 @@
 # Rivellino
 
-Rivellino is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
+Rivellino is a Techno and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 10 Sept 2026.
 
 Rivellino is a techno and deep house artist tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Frankfurt and Ibiza and 2 more. Often billed alongside Andrea Castells, Ivan Pugliares and Saulo Pisa. Next up: Sunseabar Beach Club, Barcelona on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Rivellino is a techno and deep house artist tracked on soundcheck, with 76 sets 
 
 Andrea Castells, Ivan Pugliares, Saulo Pisa
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivellino/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivellino/)*

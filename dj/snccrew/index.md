@@ -1,6 +1,6 @@
 # SNC Crew
 
-SNC Crew is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fitzroy, Berlin on Fri, 18 Sept 2026.
+SNC Crew is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fitzroy, Berlin on Fri, 18 Sept 2026.
 
 SNC Crew is a house and garage artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Munich. Often billed alongside 3Hertz, DJ NORTHERN and Hanna Baertig. Next up: Fitzroy, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ SNC Crew is a house and garage artist based in Germany, tracked on soundcheck, w
 
 3Hertz, DJ NORTHERN, Hanna Baertig
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snccrew/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snccrew/)*

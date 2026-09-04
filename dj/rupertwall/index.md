@@ -1,6 +1,6 @@
 # Rupert Wall
 
-Rupert Wall is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Satellite Gallery, New York City on Sat, 12 Sept 2026.
+Rupert Wall is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Satellite Gallery, New York City on Sat, 12 Sept 2026.
 
 Rupert Wall is a house and minimal artist tracked on soundcheck, with 43 sets logged across Boston and Newyorkcity. Often billed alongside Adam Braiman, Devon James and Telesforo. Next up: Satellite Gallery, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Rupert Wall is a house and minimal artist tracked on soundcheck, with 43 sets lo
 
 Adam Braiman, Devon James, Telesforo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rupertwall/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rupertwall/)*

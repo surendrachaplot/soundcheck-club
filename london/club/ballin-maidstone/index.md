@@ -1,6 +1,6 @@
 # Ballin Maidstone
 
-Ballin Maidstone is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "OUT RUN After Party - 12th September" on Sat, 12 Sept 2026.
+Ballin Maidstone is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "OUT RUN After Party - 12th September" on Sat, 12 Sept 2026.
 
 Ballin Maidstone is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including Obskur. Browse upcoming dates, start times and who's playing. 87-88 bank street Kent - ME14 1SD.
 
@@ -15,4 +15,4 @@ Ballin Maidstone is a music venue in London listed on soundcheck. 2 upcoming nig
 
 87-88 bank street Kent - ME14 1SD, London
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballin-maidstone/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballin-maidstone/)*

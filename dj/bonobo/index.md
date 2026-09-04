@@ -1,6 +1,6 @@
 # Bonobo
 
-Bonobo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jacaranda Baltic, Liverpool on Tue, 15 Sept 2026.
+Bonobo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jacaranda Baltic, Liverpool on Tue, 15 Sept 2026.
 
 Bonobo is a house and techno artist tracked on soundcheck, with 93 sets logged across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside DJ Tennis, Sofia Kourtesis and Honey Dijon. Next up: Jacaranda Baltic, Liverpool on Tue 15 Sept.
 
@@ -26,4 +26,4 @@ Bonobo is a house and techno artist tracked on soundcheck, with 93 sets logged a
 
 DJ Tennis, Sofia Kourtesis, Honey Dijon
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonobo/)*

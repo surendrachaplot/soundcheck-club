@@ -1,6 +1,6 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 5 Sept 2026.
+Luke Una is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 5 Sept 2026.
 
 Luke Una is a house and disco artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Joey T, Simon Morell and Aroop Roy. Next up: 528 Ibiza, Ibiza on Sat 5 Sept.
 
@@ -33,4 +33,4 @@ Luke Una is a house and disco artist tracked on soundcheck, with 142 sets logged
 
 Joey T, Simon Morell, Aroop Roy
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

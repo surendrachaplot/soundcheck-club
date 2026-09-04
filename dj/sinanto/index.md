@@ -1,6 +1,6 @@
 # Sin Anto
 
-Sin Anto is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tigullio, Malta on Fri, 4 Sept 2026.
+Sin Anto is a Guaracha and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tigullio, Malta on Fri, 4 Sept 2026.
 
 Sin Anto is a guaracha and techno artist tracked on soundcheck, with 5 sets logged across Malta. Often billed alongside 5AJAAK, Alex Micca and GRVYWRLD. Next up: Tigullio, Malta on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Sin Anto is a guaracha and techno artist tracked on soundcheck, with 5 sets logg
 
 5AJAAK, Alex Micca, GRVYWRLD
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinanto/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinanto/)*

@@ -1,6 +1,6 @@
 # Munch
 
-Munch is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Ultima 2026 / Japanese Noise / Merzbow" on Fri, 18 Sept 2026.
+Munch is a music venue in Oslo with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Ultima 2026 / Japanese Noise / Merzbow" on Fri, 18 Sept 2026.
 
 Munch is a music venue in Oslo listed on soundcheck. 1 upcoming night, with line-ups including Merzbow. Browse upcoming dates, start times and who's playing. Edvard Munchs Plass 1, 0194 Oslo, Norway.
 
@@ -14,4 +14,4 @@ Munch is a music venue in Oslo listed on soundcheck. 1 upcoming night, with line
 
 Edvard Munchs Plass 1, 0194 Oslo, Norway, Oslo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/munch/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/munch/)*

@@ -1,6 +1,6 @@
 # ASTA MARI
 
-ASTA MARI is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
+ASTA MARI is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
 
 ASTA MARI is a techno and trance artist based in Denmark, tracked on soundcheck, with 41 sets logged across Berlin and Copenhagen. Often billed alongside Anton Goltermann, DJ 2LATE and steamboi. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ ASTA MARI is a techno and trance artist based in Denmark, tracked on soundcheck,
 
 Anton Goltermann, DJ 2LATE, steamboi
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astamari/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astamari/)*

@@ -1,6 +1,6 @@
 # Pauliewog
 
-Pauliewog is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at El Cid, Los Angeles on Sat, 26 Sept 2026.
+Pauliewog is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at El Cid, Los Angeles on Sat, 26 Sept 2026.
 
 Pauliewog is a club and techno artist tracked on soundcheck, with 11 sets logged across Losangeles. Often billed alongside Ly Tran, Jae-an and Azure. Next up: El Cid, Losangeles on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Pauliewog is a club and techno artist tracked on soundcheck, with 11 sets logged
 
 Ly Tran, Jae-an, Azure
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauliewog/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauliewog/)*

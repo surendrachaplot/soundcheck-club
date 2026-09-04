@@ -1,6 +1,6 @@
 # Lucinee
 
-Lucinee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Pleasure Patterns, Berlin on Sat, 5 Sept 2026.
+Lucinee is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Pleasure Patterns, Berlin on Sat, 5 Sept 2026.
 
 Lucinee is a techno and trance artist tracked on soundcheck, with 126 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside Lifka, Sept and CLTX. Next up: Pleasure Patterns, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Lucinee is a techno and trance artist tracked on soundcheck, with 126 sets logge
 
 Lifka, Sept, CLTX
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucinee/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucinee/)*

@@ -1,6 +1,6 @@
 # Danielle Nicole
 
-Danielle Nicole is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Danielle Nicole is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Danielle Nicole is a house and club artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Hamburg and Newyorkcity. Often billed alongside Chad Andrew, Mumblah and Primãrie. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Danielle Nicole is a house and club artist based in Germany, tracked on soundche
 
 Chad Andrew, Mumblah, Primãrie
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellenicole/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellenicole/)*

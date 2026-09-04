@@ -1,6 +1,6 @@
 # Ferdiyei
 
-Ferdiyei is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Nitsa Club, Barcelona on Sat, 5 Sept 2026.
+Ferdiyei is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Nitsa Club, Barcelona on Sat, 5 Sept 2026.
 
 Ferdiyei is a house and italo disco artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Dj Coco, Klara Missyle and ABSOLUTE.. Next up: Nitsa Club, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ferdiyei is a house and italo disco artist based in Spain, tracked on soundcheck
 
 Dj Coco, Klara Missyle, ABSOLUTE.
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdiyei/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferdiyei/)*

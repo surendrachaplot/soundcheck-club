@@ -1,6 +1,6 @@
 # Estiva
 
-Estiva is a Progressive House and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Mothership, Auckland on Sat, 5 Sept 2026.
+Estiva is a Progressive House and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Mothership, Auckland on Sat, 5 Sept 2026.
 
 Estiva is a progressive house and trance artist tracked on soundcheck, with 37 sets logged across Amsterdam, Auckland, Chicago and Cologne and 11 more. Often billed alongside mölly, ALLKNIGHT and Farius. Next up: The Mothership, Auckland on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Estiva is a progressive house and trance artist tracked on soundcheck, with 37 s
 
 mölly, ALLKNIGHT, Farius
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/estiva/)*

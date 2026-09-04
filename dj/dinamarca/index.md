@@ -1,6 +1,6 @@
 # Dinamarca
 
-Dinamarca is a Club and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Cakeshop, Seoul on Fri, 18 Sept 2026.
+Dinamarca is a Club and Reggaeton artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Cakeshop, Seoul on Fri, 18 Sept 2026.
 
 Dinamarca is a club and reggaeton artist based in Sweden, tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside Meth Math, Manuka Honey and DJ Python. Next up: Cakeshop, Seoul on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Dinamarca is a club and reggaeton artist based in Sweden, tracked on soundcheck,
 
 Meth Math, Manuka Honey, DJ Python
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamarca/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dinamarca/)*

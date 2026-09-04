@@ -1,6 +1,6 @@
 # Giles Smith
 
-Giles Smith is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
+Giles Smith is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
 
 Giles Smith is a house and disco artist tracked on soundcheck, with 72 sets logged across Bali, Barcelona, Berlin and Copenhagen and 12 more. Often billed alongside Alexander Nut, Dave Lee and Leanne Wright. Next up: The Cause, London on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Giles Smith is a house and disco artist tracked on soundcheck, with 72 sets logg
 
 Alexander Nut, Dave Lee, Leanne Wright
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gilessmith/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gilessmith/)*

@@ -1,6 +1,6 @@
 # Deo'jorge
 
-Deo'jorge is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 26 Sept 2026.
+Deo'jorge is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Dead Letter No. 9, New York City on Sat, 26 Sept 2026.
 
 Deo'jorge is a house and electro artist based in United States of America, tracked on soundcheck, with 58 sets logged across Newyorkcity. Often billed alongside Anna Collecta, Will Buck and Atilla Ural. Next up: Dead Letter No. 9, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Deo'jorge is a house and electro artist based in United States of America, track
 
 Anna Collecta, Will Buck, Atilla Ural
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deojorge/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deojorge/)*

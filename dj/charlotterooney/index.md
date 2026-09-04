@@ -1,6 +1,6 @@
 # Charlotte Rooney
 
-Charlotte Rooney is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 4 Sept 2026.
+Charlotte Rooney is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 4 Sept 2026.
 
 Charlotte Rooney is a techno and house artist tracked on soundcheck, with 72 sets logged across Melbourne. Often billed alongside Ambedo, Ricky Nord and anna(n). Next up: Angel Music Bar, Melbourne on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Charlotte Rooney is a techno and house artist tracked on soundcheck, with 72 set
 
 Ambedo, Ricky Nord, anna(n)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotterooney/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotterooney/)*

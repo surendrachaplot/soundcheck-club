@@ -1,6 +1,6 @@
 # Helly
 
-Helly is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Helly is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Helly is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside DJ Tjizza, DJ Senc and Jacopo Latini. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Helly is a house and techno artist tracked on soundcheck, with 46 sets logged ac
 
 DJ Tjizza, DJ Senc, Jacopo Latini
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helly/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helly/)*

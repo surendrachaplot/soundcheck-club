@@ -1,6 +1,6 @@
 # DJ PIRO
 
-DJ PIRO is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
+DJ PIRO is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
 
 DJ PIRO is a techno and electronica artist tracked on soundcheck, with 9 sets logged across Milan and Turin. Often billed alongside PACKAPUNCH909, heresiana and ANKKH. Next up: TBA, Turin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ DJ PIRO is a techno and electronica artist tracked on soundcheck, with 9 sets lo
 
 PACKAPUNCH909, heresiana, ANKKH
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpiro/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpiro/)*

@@ -1,6 +1,6 @@
 # Todd Edwards
 
-Todd Edwards is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Night Tales Loft, London on Fri, 4 Sept 2026.
+Todd Edwards is a House and Garage artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Night Tales Loft, London on Fri, 4 Sept 2026.
 
 Todd Edwards is a house and garage artist tracked on soundcheck, with 122 sets logged across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: Night Tales Loft, London on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Todd Edwards is a house and garage artist tracked on soundcheck, with 122 sets l
 
 Conducta, Sam Divine, Rio Tashan
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*

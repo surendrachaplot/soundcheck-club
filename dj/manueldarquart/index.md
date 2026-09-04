@@ -1,6 +1,6 @@
 # Manuel Darquart
 
-Manuel Darquart is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Carpet Shop, London on Fri, 25 Sept 2026.
+Manuel Darquart is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Carpet Shop, London on Fri, 25 Sept 2026.
 
 Manuel Darquart is a house and italo disco artist tracked on soundcheck, with 47 sets logged across Auckland, Berlin, Bucharest and Edinburgh and 8 more. Often billed alongside Hollick, Ariane V and Secretsundaze. Next up: The Carpet Shop, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Manuel Darquart is a house and italo disco artist tracked on soundcheck, with 47
 
 Hollick, Ariane V, Secretsundaze
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manueldarquart/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manueldarquart/)*

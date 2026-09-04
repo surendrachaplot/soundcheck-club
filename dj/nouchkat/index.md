@@ -1,6 +1,6 @@
 # NouchKat
 
-NouchKat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
+NouchKat is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
 
 NouchKat is a house and techno artist tracked on soundcheck, with 21 sets logged across London. Often billed alongside ACCARD, KNWLSY and Chérie. Next up: The Timber Loft, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ NouchKat is a house and techno artist tracked on soundcheck, with 21 sets logged
 
 ACCARD, KNWLSY, Chérie
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nouchkat/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nouchkat/)*

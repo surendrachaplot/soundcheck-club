@@ -1,6 +1,6 @@
 # Yuri Umemoto
 
-Yuri Umemoto is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Saloon, Tokyo on Sat, 5 Sept 2026.
+Yuri Umemoto is a Experimental and Classical artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Saloon, Tokyo on Sat, 5 Sept 2026.
 
 Yuri Umemoto is an experimental and classical artist based in Japan, tracked on soundcheck, with 6 sets logged across Brussels, Copenhagen, Paris and Tokyo. Often billed alongside VINESSETT, iced lattina and pam (unofficial). Next up: Saloon, Tokyo on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Yuri Umemoto is an experimental and classical artist based in Japan, tracked on 
 
 VINESSETT, iced lattina, pam (unofficial)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuriumemoto/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yuriumemoto/)*

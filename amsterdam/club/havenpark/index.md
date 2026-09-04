@@ -1,6 +1,6 @@
 # Havenpark
 
-Havenpark is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Mystic Garden Festival ADE" on Sat, 24 Oct 2026.
+Havenpark is a music venue in Amsterdam with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Mystic Garden Festival ADE" on Sat, 24 Oct 2026.
 
 Havenpark is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights, with line-ups including Benny Rodrigues, BLANKA, DAX J and DJ EZ and 2 more. Browse upcoming dates, start times and who's playing. Wethouder van Essenweg.
 
@@ -15,4 +15,4 @@ Havenpark is a music venue in Amsterdam listed on soundcheck. 2 upcoming nights,
 
 Wethouder van Essenweg, Amsterdam
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/havenpark/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/havenpark/)*

@@ -1,6 +1,6 @@
 # Ono2
 
-Ono2 is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Rendezvous à Rimini" on Fri, 25 Sept 2026.
+Ono2 is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Rendezvous à Rimini" on Fri, 25 Sept 2026.
 
 Ono2 is a music venue in Frankfurt listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Walter-Kolb-Straße 16, 60594 Frankfurt am Main.
 
@@ -14,4 +14,4 @@ Ono2 is a music venue in Frankfurt listed on soundcheck. 1 upcoming night. Brows
 
 Walter-Kolb-Straße 16, 60594 Frankfurt am Main, Frankfurt
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/ono2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/ono2/)*

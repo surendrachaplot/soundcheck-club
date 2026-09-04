@@ -1,6 +1,6 @@
 # Mykki Blanco
 
-Mykki Blanco is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
+Mykki Blanco is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
 
 Mykki Blanco is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Basel, Berlin, Bristol and Brussels and 14 more. Often billed alongside COBRAH, Olof Dreijer and 2ManyDJs. Next up: THE MAGICK BAR, Rome on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Mykki Blanco is a house and techno artist based in United States of America, tra
 
 COBRAH, Olof Dreijer, 2ManyDJs
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykkiblanco/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykkiblanco/)*

@@ -1,6 +1,6 @@
 # Gabe
 
-Gabe is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at KitKatClub, Berlin on Wed, 9 Sept 2026.
+Gabe is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at KitKatClub, Berlin on Wed, 9 Sept 2026.
 
 Gabe is a house and tech house artist tracked on soundcheck, with 8 sets logged across Berlin, Ibiza, Miami and Newyorkcity and 1 more. Often billed alongside HoneyLuv, Alex Wann and BAPP. Next up: KitKatClub, Berlin on Wed 9 Sept.
 
@@ -24,4 +24,4 @@ Gabe is a house and tech house artist tracked on soundcheck, with 8 sets logged 
 
 HoneyLuv, Alex Wann, BAPP
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabe/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabe/)*

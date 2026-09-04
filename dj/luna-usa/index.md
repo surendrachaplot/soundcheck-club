@@ -1,14 +1,14 @@
 # LUN★
 
-LUN★ is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 8 Sept 2026.
+LUN★ is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 9 Sept 2026.
 
-LUN★ is a techno and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Xana 101, ARCHANGEL (US) and Robyn DaBank. Next up: Bossa Nova Civic Club, Newyorkcity on Tue 8 Sept.
+LUN★ is a techno and club artist based in United States of America, tracked on soundcheck, with 12 sets logged across Newyorkcity. Often billed alongside Xana 101, ARCHANGEL (US) and Robyn DaBank. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 9 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 8 Sept 2026 | Bossa Nova Civic Club | New York City |
+| Wed, 9 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 18 Sept 2026 | Paragon | New York City |
 
 ## Recently played
@@ -26,4 +26,4 @@ LUN★ is a techno and club artist based in United States of America, tracked on
 
 Xana 101, ARCHANGEL (US), Robyn DaBank
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-usa/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luna-usa/)*

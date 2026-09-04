@@ -1,6 +1,6 @@
 # Huebl
 
-Huebl is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Das Werk, Vienna on Sat, 5 Sept 2026.
+Huebl is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Das Werk, Vienna on Sat, 5 Sept 2026.
 
 Huebl is a techno and house artist based in Austria, tracked on soundcheck, with 73 sets logged across Amsterdam and Vienna. Often billed alongside Albin Brezlan, Dana Melissa and Telicho. Next up: Das Werk, Vienna on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Huebl is a techno and house artist based in Austria, tracked on soundcheck, with
 
 Albin Brezlan, Dana Melissa, Telicho
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huebl/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huebl/)*

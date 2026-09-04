@@ -1,6 +1,6 @@
 # Fedele
 
-Fedele is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 26 Sept 2026.
+Fedele is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 26 Sept 2026.
 
 Fedele is a techno and house artist based in Italy, tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Athens and Bali and 21 more. Often billed alongside Raxon, Maceo Plex and Golden Virgo. Next up: Seaseaclub Barcelona, Barcelona on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Fedele is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 Raxon, Maceo Plex, Golden Virgo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedele/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedele/)*

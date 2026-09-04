@@ -1,6 +1,6 @@
 # Iga
 
-Iga is a Hip-Hop and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Spread, Tokyo on Sat, 5 Sept 2026.
+Iga is a Hip-Hop and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Spread, Tokyo on Sat, 5 Sept 2026.
 
 Iga is a hip-hop and bass artist based in Germany, tracked on soundcheck, with 13 sets logged across Osaka and Tokyo. Often billed alongside NordOst, meweta and uku kasai. Next up: Spread, Tokyo on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Iga is a hip-hop and bass artist based in Germany, tracked on soundcheck, with 1
 
 NordOst, meweta, uku kasai
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iga/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iga/)*

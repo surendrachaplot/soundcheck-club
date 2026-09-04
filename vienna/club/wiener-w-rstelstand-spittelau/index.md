@@ -1,6 +1,6 @@
 # Wiener Würstelstand - Spittelau
 
-Wiener Würstelstand - Spittelau is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "MORPHERA POP-UP LAUNCH RAVE" on Fri, 4 Sept 2026.
+Wiener Würstelstand - Spittelau is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "MORPHERA POP-UP LAUNCH RAVE" on Fri, 4 Sept 2026.
 
 Wiener Würstelstand - Spittelau is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including pinklotion and Qaoz. Browse upcoming dates, start times and who's playing. Spittelau U4 - Ausgang, Josef-Holaubek-Platz, 1090 Wien, Austria.
 
@@ -14,4 +14,4 @@ Wiener Würstelstand - Spittelau is a music venue in Vienna listed on soundcheck
 
 Spittelau U4 - Ausgang, Josef-Holaubek-Platz, 1090 Wien, Austria, Vienna
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/wiener-w-rstelstand-spittelau/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/wiener-w-rstelstand-spittelau/)*

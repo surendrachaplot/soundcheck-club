@@ -1,6 +1,6 @@
 # DELARA
 
-DELARA is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bar A Bar, London on Fri, 18 Sept 2026.
+DELARA is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bar A Bar, London on Fri, 18 Sept 2026.
 
 DELARA is a techno and electro artist based in Spain, tracked on soundcheck, with 31 sets logged across London. Often billed alongside TOOTHTAXI, Modlar and LIZAZA. Next up: Bar A Bar, London on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ DELARA is a techno and electro artist based in Spain, tracked on soundcheck, wit
 
 TOOTHTAXI, Modlar, LIZAZA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delara/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delara/)*

@@ -1,6 +1,6 @@
 # An On Bast
 
-An On Bast is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Odonien, Cologne on Fri, 25 Sept 2026.
+An On Bast is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Odonien, Cologne on Fri, 25 Sept 2026.
 
 An On Bast is a techno and house artist based in Poland, tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Hamburg and Krakow and 3 more. Often billed alongside Cryptofauna, timodufner and Anja Schneider. Next up: Odonien, Cologne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ An On Bast is a techno and house artist based in Poland, tracked on soundcheck, 
 
 Cryptofauna, timodufner, Anja Schneider
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anonbast/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anonbast/)*

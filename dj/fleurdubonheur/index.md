@@ -1,6 +1,6 @@
 # Fleur du Bonheur
 
-Fleur du Bonheur is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+Fleur du Bonheur is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
 Fleur du Bonheur is a house and disco artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Antwerp, Rotterdam and Thehague and 1 more. Often billed alongside Mees Salomé, Miss Melera and Ays (NL). Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Fleur du Bonheur is a house and disco artist based in Netherlands, tracked on so
 
 Mees Salomé, Miss Melera, Ays (NL)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurdubonheur/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurdubonheur/)*

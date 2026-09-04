@@ -1,13 +1,14 @@
 # People Like Us (3)
 
-People Like Us (3) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
+People Like Us (3) is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kastel, Istanbul on Fri, 11 Sept 2026.
 
-People Like Us (3) is a house and afro house artist tracked on soundcheck, with 19 sets logged across Amsterdam, Dusseldorf, Ibiza and Istanbul and 3 more. Often billed alongside Mahmut Orhan, Charmeine and 1TWO. Next up: TBA - Pátio da Galé, Lisbon on Sat 31 Oct.
+People Like Us (3) is a house and afro house artist tracked on soundcheck, with 20 sets logged across Amsterdam, Dusseldorf, Ibiza and Istanbul and 3 more. Often billed alongside Mahmut Orhan, Charmeine and 1TWO. Next up: Kastel, Istanbul on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Kastel | Istanbul |
 | Sat, 31 Oct 2026 | TBA - Pátio da Galé | Lisbon |
 
 ## Recently played
@@ -25,4 +26,4 @@ People Like Us (3) is a house and afro house artist tracked on soundcheck, with 
 
 Mahmut Orhan, Charmeine, 1TWO
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peoplelikeus-3/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peoplelikeus-3/)*

@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Berlin New Media Week: SOUND/BODY RESONANCE" on Sun, 6 Sept 2026.
+Atemporal is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Berlin New Media Week: SOUND/BODY RESONANCE" on Sun, 6 Sept 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Ground Tactics, KĀ (1), oscargvz and SENAIDA. Browse upcoming dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -17,4 +17,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 4 upcoming nights, wi
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

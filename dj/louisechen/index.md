@@ -1,6 +1,6 @@
 # Louise Chen
 
-Louise Chen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
+Louise Chen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Phono Lake, Amsterdam on Sat, 12 Sept 2026.
 
 Louise Chen is a house and disco artist based in Luxembourg, tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Heléna Star, Bradley Zero and Tai Lokun. Next up: Phono Lake, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Louise Chen is a house and disco artist based in Luxembourg, tracked on soundche
 
 Heléna Star, Bradley Zero, Tai Lokun
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louisechen/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louisechen/)*

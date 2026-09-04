@@ -1,6 +1,6 @@
 # Scar
 
-Scar is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nordstern, Basel on Fri, 2 Oct 2026.
+Scar is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Nordstern, Basel on Fri, 2 Oct 2026.
 
 Scar is a drum & bass and techno artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Basel, Bristol, Glasgow and London and 3 more. Often billed alongside kso12, 1luu and Alicia (UK). Next up: Nordstern, Basel on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Scar is a drum & bass and techno artist based in United Kingdom, tracked on soun
 
 kso12, 1luu, Alicia (UK)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scar/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scar/)*

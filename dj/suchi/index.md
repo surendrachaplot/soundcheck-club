@@ -1,6 +1,6 @@
 # SUCHI
 
-SUCHI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Algha's Plantroom, London on Sat, 26 Sept 2026.
+SUCHI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Algha's Plantroom, London on Sat, 26 Sept 2026.
 
 SUCHI is a house and techno artist tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Amaliah, Anz and Heléna Star. Next up: Algha's Plantroom, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ SUCHI is a house and techno artist tracked on soundcheck, with 63 sets logged ac
 
 Amaliah, Anz, Heléna Star
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suchi/)*

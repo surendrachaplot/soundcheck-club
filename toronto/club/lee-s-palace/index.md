@@ -1,6 +1,6 @@
 # Lee's Palace
 
-Lee's Palace is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Venjent" on Thu, 10 Sept 2026.
+Lee's Palace is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Venjent" on Thu, 10 Sept 2026.
 
 Lee's Palace is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including 0xydr0p, /ASYNC, Isis Salam and Kiki LeFreak and 2 more. Browse upcoming dates, start times and who's playing. 529 Bloor Street West; Toronto, ON M5S 1Y5; Canada.
 
@@ -17,4 +17,4 @@ Lee's Palace is a music venue in Toronto listed on soundcheck. 4 upcoming nights
 
 529 Bloor Street West; Toronto, ON M5S 1Y5; Canada, Toronto
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lee-s-palace/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lee-s-palace/)*

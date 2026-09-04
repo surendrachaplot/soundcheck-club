@@ -1,6 +1,6 @@
 # Julia Govor
 
-Julia Govor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Refuge, New York City on Mon, 7 Sept 2026.
+Julia Govor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Refuge, New York City on Mon, 7 Sept 2026.
 
 Julia Govor is a techno and house artist based in United States of America, tracked on soundcheck, with 118 sets logged across Amsterdam, Athens, Austin and Bali and 29 more. Often billed alongside Kamran Sadeghi, Adrian Hex and Cloudy Ku. Next up: Refuge, Newyorkcity on Mon 7 Sept.
 
@@ -26,4 +26,4 @@ Julia Govor is a techno and house artist based in United States of America, trac
 
 Kamran Sadeghi, Adrian Hex, Cloudy Ku
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliagovor/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliagovor/)*

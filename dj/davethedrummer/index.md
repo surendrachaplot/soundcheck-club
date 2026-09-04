@@ -1,6 +1,6 @@
 # DAVE the Drummer
 
-DAVE the Drummer is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
+DAVE the Drummer is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
 
 DAVE the Drummer is a techno and acid artist tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Chris Liberator, CJ Bolland and Cinquedea. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DAVE the Drummer is a techno and acid artist tracked on soundcheck, with 42 sets
 
 Chris Liberator, CJ Bolland, Cinquedea
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davethedrummer/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davethedrummer/)*

@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Toxic Haus x Perfect Party" on Fri, 4 Sept 2026.
+TBA - DTLA is a music venue in Los Angeles with 14 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Toxic Haus x Perfect Party" on Fri, 4 Sept 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 14 upcoming nights, with line-ups including 6 SENSE, Baby Uniq, Barbara Boeing and BC Rydah and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 14 upcoming nigh
 | Sat, 26 Sept 2026 | Wellness Check presents: Jen Cardini, Konduku, Buttechno (live), Rachana | Buttechno, Jen Cardini, Konduku, Rachana |
 | Fri, 2 Oct 2026 | Toy Tonics Jam - Los Angeles | Barbara Boeing, Cody Currie, Xica Soul |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

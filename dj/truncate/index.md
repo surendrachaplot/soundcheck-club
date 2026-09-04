@@ -1,6 +1,6 @@
 # Truncate
 
-Truncate is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - The Way UP, Houston on Fri, 11 Sept 2026.
+Truncate is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - The Way UP, Houston on Fri, 11 Sept 2026.
 
 Truncate is a techno and house artist tracked on soundcheck, with 149 sets logged across Amsterdam, Austin, Barcelona and Basel and 40 more. Often billed alongside Drumcell, DJ Hyperactive and Max Gardner. Next up: TBA - The Way UP, Houston on Fri 11 Sept.
 
@@ -34,4 +34,4 @@ Truncate is a techno and house artist tracked on soundcheck, with 149 sets logge
 
 Drumcell, DJ Hyperactive, Max Gardner
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*

@@ -1,6 +1,6 @@
 # Ilja Franz
 
-Ilja Franz is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lilli Escher, Hamburg on Sat, 19 Sept 2026.
+Ilja Franz is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Lilli Escher, Hamburg on Sat, 19 Sept 2026.
 
 Ilja Franz is a house and downtempo artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Frankfurt and Hamburg. Often billed alongside Finona Rider, Sasha Zlykh and Aii PS. Next up: Lilli Escher, Hamburg on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Ilja Franz is a house and downtempo artist based in Germany, tracked on soundche
 
 Finona Rider, Sasha Zlykh, Aii PS
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iljafranz/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iljafranz/)*

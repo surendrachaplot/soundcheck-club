@@ -1,6 +1,6 @@
 # DJ Brian
 
-DJ Brian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
+DJ Brian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Signal, New York City on Fri, 30 Oct 2026.
 
 DJ Brian is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside Armii1n, Choukroun and Zayd. Next up: Signal, Newyorkcity on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Brian is a house and techno artist based in United States of America, tracked
 
 Armii1n, Choukroun, Zayd
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrian/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrian/)*

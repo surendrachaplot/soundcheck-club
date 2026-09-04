@@ -1,6 +1,6 @@
 # PIMENTTA
 
-PIMENTTA is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at P4 na Praia, Porto on Sun, 13 Sept 2026.
+PIMENTTA is a Electronica and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at P4 na Praia, Porto on Sun, 13 Sept 2026.
 
 PIMENTTA is an electronica and house artist tracked on soundcheck, with 3 sets logged across Porto. Often billed alongside Carlos Regadas, DJ Nox and Easttown. Next up: P4 na Praia, Porto on Sun 13 Sept.
 
@@ -19,4 +19,4 @@ PIMENTTA is an electronica and house artist tracked on soundcheck, with 3 sets l
 
 Carlos Regadas, DJ Nox, Easttown
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pimentta/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pimentta/)*

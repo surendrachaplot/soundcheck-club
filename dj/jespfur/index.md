@@ -1,6 +1,6 @@
 # Jespfur
 
-Jespfur is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
+Jespfur is a Downtempo and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Garage Noord, Amsterdam on Sun, 20 Sept 2026.
 
 Jespfur is a downtempo and experimental artist tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, London and Paris and 1 more. Often billed alongside Beatrice Dillon, Helmond Lang and Malibu. Next up: Garage Noord, Amsterdam on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Jespfur is a downtempo and experimental artist tracked on soundcheck, with 10 se
 
 Beatrice Dillon, Helmond Lang, Malibu
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jespfur/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jespfur/)*

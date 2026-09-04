@@ -1,6 +1,6 @@
 # Wrecked Lightship
 
-Wrecked Lightship is a Experimental and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cu, London on Sun, 11 Oct 2026.
+Wrecked Lightship is a Experimental and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cu, London on Sun, 11 Oct 2026.
 
 Wrecked Lightship is an experimental and dub artist tracked on soundcheck, with 8 sets logged across Berlin, London and Stockholm. Often billed alongside Appleblim, Adam Winchester and Amnesia Scanner. Next up: Cu, London on Sun 11 Oct.
 
@@ -24,4 +24,4 @@ Wrecked Lightship is an experimental and dub artist tracked on soundcheck, with 
 
 Appleblim, Adam Winchester, Amnesia Scanner
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wreckedlightship/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wreckedlightship/)*

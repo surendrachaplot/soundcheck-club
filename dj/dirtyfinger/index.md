@@ -1,6 +1,6 @@
 # Dirtyfinger
 
-Dirtyfinger is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mood Ring, New York City on Wed, 16 Sept 2026.
+Dirtyfinger is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mood Ring, New York City on Wed, 16 Sept 2026.
 
 Dirtyfinger is a house and disco artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside Acid Eastern, Andi and BUNZ. Next up: Mood Ring, Newyorkcity on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Dirtyfinger is a house and disco artist based in United States of America, track
 
 Acid Eastern, Andi, BUNZ
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyfinger/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyfinger/)*

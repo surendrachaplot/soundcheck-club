@@ -1,6 +1,6 @@
 # IMOGEN
 
-IMOGEN is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Fri, 16 Oct 2026.
+IMOGEN is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Fri, 16 Oct 2026.
 
 IMOGEN is a techno and electro artist tracked on soundcheck, with 143 sets logged across Amsterdam, Athens, Austin and Bangkok and 45 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: Tresor / Globus, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ IMOGEN is a techno and electro artist tracked on soundcheck, with 143 sets logge
 
 DJ MELL G, DJ Stingray 313, Helena Hauff
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*

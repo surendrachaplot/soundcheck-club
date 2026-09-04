@@ -1,6 +1,6 @@
 # Simply City
 
-Simply City is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bunker Toronto, Toronto on Fri, 11 Sept 2026.
+Simply City is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bunker Toronto, Toronto on Fri, 11 Sept 2026.
 
 Simply City is a progressive house and house artist based in Canada, tracked on soundcheck, with 30 sets logged across Amsterdam, Buenosaires, Miami and Montreal and 1 more. Often billed alongside Hernan Cattaneo, Dimuth K and Graziano Raffa. Next up: Bunker Toronto, Toronto on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Simply City is a progressive house and house artist based in Canada, tracked on 
 
 Hernan Cattaneo, Dimuth K, Graziano Raffa
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simplycity/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simplycity/)*

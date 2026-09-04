@@ -1,6 +1,6 @@
 # Flat Esoteric
 
-Flat Esoteric is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at New Guernica, Melbourne on Fri, 4 Sept 2026.
+Flat Esoteric is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at New Guernica, Melbourne on Fri, 4 Sept 2026.
 
 Flat Esoteric is a techno and house artist based in Australia, tracked on soundcheck, with 20 sets logged across Melbourne. Often billed alongside Willis Anne, gross margins and CAITY WATSON. Next up: New Guernica, Melbourne on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Flat Esoteric is a techno and house artist based in Australia, tracked on soundc
 
 Willis Anne, gross margins, CAITY WATSON
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flatesoteric/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flatesoteric/)*

@@ -1,6 +1,6 @@
 # Cristian Sirica
 
-Cristian Sirica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, London on Fri, 4 Sept 2026.
+Cristian Sirica is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, London on Fri, 4 Sept 2026.
 
 Cristian Sirica is a techno and house artist based in Italy, tracked on soundcheck, with 38 sets logged across London. Often billed alongside David Agrella, Benebe and ARLYSS. Next up: TBA, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Cristian Sirica is a techno and house artist based in Italy, tracked on soundche
 
 David Agrella, Benebe, ARLYSS
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansirica/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiansirica/)*

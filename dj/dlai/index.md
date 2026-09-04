@@ -1,6 +1,6 @@
 # D LAI
 
-D LAI is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar A Bar, London on Sat, 26 Sept 2026.
+D LAI is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar A Bar, London on Sat, 26 Sept 2026.
 
 D LAI is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Adela, Alythia Kwan and Any Koh. Next up: Bar A Bar, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ D LAI is a techno and minimal techno artist based in United Kingdom, tracked on 
 
 Adela, Alythia Kwan, Any Koh
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlai/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlai/)*

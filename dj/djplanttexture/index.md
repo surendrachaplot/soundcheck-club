@@ -1,6 +1,6 @@
 # DJ Plant Texture
 
-DJ Plant Texture is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 11 Sept 2026.
+DJ Plant Texture is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 11 Sept 2026.
 
 DJ Plant Texture is a techno and breakbeat artist based in Italy, tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Ireen Amnes, SDN (1) and AliA. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ DJ Plant Texture is a techno and breakbeat artist based in Italy, tracked on sou
 
 Ireen Amnes, SDN (1), AliA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djplanttexture/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djplanttexture/)*

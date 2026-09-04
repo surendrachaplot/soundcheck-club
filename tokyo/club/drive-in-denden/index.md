@@ -1,6 +1,6 @@
 # Drive in Denden
 
-Drive in Denden is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "『夢見電電 ~Beautiful Dreams Never Last~』vol.2" on Sun, 13 Sept 2026.
+Drive in Denden is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "『夢見電電 ~Beautiful Dreams Never Last~』vol.2" on Sun, 13 Sept 2026.
 
 Drive in Denden is a music venue in Tokyo listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 16 B1F, Asakusa Underground Shopping Street, 1-12-1 Asakusa, Taito-ku, Tokyo.
 
@@ -14,4 +14,4 @@ Drive in Denden is a music venue in Tokyo listed on soundcheck. 1 upcoming night
 
 16 B1F, Asakusa Underground Shopping Street, 1-12-1 Asakusa, Taito-ku, Tokyo, Tokyo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/drive-in-denden/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/drive-in-denden/)*

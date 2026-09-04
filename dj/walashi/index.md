@@ -1,6 +1,6 @@
 # WALASHI
 
-WALASHI is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Shelter Antwerp, Antwerp on Sat, 5 Sept 2026.
+WALASHI is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Shelter Antwerp, Antwerp on Sat, 5 Sept 2026.
 
 WALASHI is a deep house and disco artist based in Syria, tracked on soundcheck, with 5 sets logged across Amsterdam, Antwerp, Ghent and Lisbon. Often billed alongside Deejames, Amine K and Bass van Duijn. Next up: Shelter Antwerp, Antwerp on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ WALASHI is a deep house and disco artist based in Syria, tracked on soundcheck, 
 
 Deejames, Amine K, Bass van Duijn
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/walashi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/walashi/)*

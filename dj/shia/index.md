@@ -1,6 +1,6 @@
 # SHIA
 
-SHIA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
+SHIA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
 
 SHIA is a house and tech house artist based in Portugal, tracked on soundcheck, with 21 sets logged across Amsterdam, Lisbon, London and Porto. Often billed alongside Miguel Rendeiro, Martim Rola and Alex Wann. Next up: TBA - Pátio da Galé, Lisbon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SHIA is a house and tech house artist based in Portugal, tracked on soundcheck, 
 
 Miguel Rendeiro, Martim Rola, Alex Wann
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shia/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shia/)*

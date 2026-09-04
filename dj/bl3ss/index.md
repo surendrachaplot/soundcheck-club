@@ -1,6 +1,6 @@
 # BL3SS
 
-BL3SS is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at El Rey Theatre, Los Angeles on Fri, 11 Sept 2026.
+BL3SS is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at El Rey Theatre, Los Angeles on Fri, 11 Sept 2026.
 
 BL3SS is a house and garage artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Aberdeen, Amsterdam, Auckland and Bali and 20 more. Often billed alongside LAMMER, ANDG LUNA and Alycia Bezgo. Next up: El Rey Theatre, Losangeles on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ BL3SS is a house and garage artist based in United Kingdom, tracked on soundchec
 
 LAMMER, ANDG LUNA, Alycia Bezgo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3ss/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3ss/)*

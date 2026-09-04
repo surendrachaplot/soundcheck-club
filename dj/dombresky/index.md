@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Grand Boston, Boston on Sat, 5 Sept 2026.
+Dombresky is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Grand Boston, Boston on Sat, 5 Sept 2026.
 
 Dombresky is a house and tech house artist tracked on soundcheck, with 142 sets logged across Austin, Bali, Barcelona and Boston and 30 more. Often billed alongside Jaded (UK), Purple Disco Machine and Tini Gessler. Next up: The Grand Boston, Boston on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ Dombresky is a house and tech house artist tracked on soundcheck, with 142 sets 
 
 Jaded (UK), Purple Disco Machine, Tini Gessler
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

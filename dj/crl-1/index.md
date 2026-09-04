@@ -1,6 +1,6 @@
 # CRL (1)
 
-CRL (1) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 31 Oct 2026.
+CRL (1) is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 31 Oct 2026.
 
 CRL (1) is an electro and house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Bangkok, London and Manchester and 3 more. Often billed alongside Damiano (2), Jos and Alien Communications. Next up: Vittoria Wharf Studio, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ CRL (1) is an electro and house artist based in United Kingdom, tracked on sound
 
 Damiano (2), Jos, Alien Communications
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crl-1/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crl-1/)*

@@ -1,6 +1,6 @@
 # Daff
 
-Daff is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club Leidse, Amsterdam on Fri, 4 Sept 2026.
+Daff is a R&B and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Club Leidse, Amsterdam on Fri, 4 Sept 2026.
 
 Daff is a r&b and hip-hop artist tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside Oscar Osorio and Rishi Romero. Next up: Club Leidse, Amsterdam on Fri 4 Sept.
 
@@ -23,4 +23,4 @@ Daff is a r&b and hip-hop artist tracked on soundcheck, with 7 sets logged acros
 
 Oscar Osorio, Rishi Romero
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daff/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daff/)*

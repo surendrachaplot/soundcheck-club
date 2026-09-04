@@ -1,6 +1,6 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 21 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "DJ Dymond presents Xpression" on Fri, 4 Sept 2026.
+The Fox and Firkin is a music venue in London with 21 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "DJ Dymond presents Xpression" on Fri, 4 Sept 2026.
 
 The Fox and Firkin is a music venue in London listed on soundcheck. 21 upcoming nights, with line-ups including Aroop Roy, Breaka, Case (2) and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
@@ -12,7 +12,7 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 21 upcoming 
 | Sat, 5 Sept 2026 | POPOLA |  |
 | Sun, 6 Sept 2026 | Lloyd Coxsone, Haseeb Iqbal, Linett Kamala | Haseeb Iqbal |
 | Fri, 11 Sept 2026 | Club Glow Takeover: Yas Reven, Henry Greenleaf, LMajor b2b.Mani Festo, Mak & Pasteman,  | Henry Greenleaf, LMajor, Mak & Pasteman, Mani Festo, Yas Reven |
-| Sat, 12 Sept 2026 | Aroop Roy & Friends | Aroop Roy, Jimpster, Kanem, Megatronic |
+| Sat, 12 Sept 2026 | Aroop Roy & Friends | Aroop Roy, Jimpster, KISA, Kanem, Megatronic |
 | Fri, 18 Sept 2026 | Todd Terry | Todd Terry |
 | Fri, 18 Sept 2026 | CJP Band |  |
 | Sun, 20 Sept 2026 | Big Fish Little Fish Outdoor Family Rave - Lewisham |  |
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 21 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

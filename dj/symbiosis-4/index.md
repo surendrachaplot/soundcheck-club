@@ -1,6 +1,6 @@
 # Symbiosis (4)
 
-Symbiosis (4) is a Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+Symbiosis (4) is a Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
 
 Symbiosis (4) is a deep house artist tracked on soundcheck, with 6 sets logged across Miami. Often billed alongside Grove Shaman, RO3 and Soto Music. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Symbiosis (4) is a deep house artist tracked on soundcheck, with 6 sets logged a
 
 Grove Shaman, RO3, Soto Music
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/symbiosis-4/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/symbiosis-4/)*

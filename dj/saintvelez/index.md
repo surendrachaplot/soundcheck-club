@@ -1,6 +1,6 @@
 # Saint Velez
 
-Saint Velez is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Saint Velez is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 Saint Velez is a techno and trance artist based in United States of America, tracked on soundcheck, with 31 sets logged across Berlin, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Junkfile, Ramsey Neville and Concrete Husband. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Saint Velez is a techno and trance artist based in United States of America, tra
 
 Junkfile, Ramsey Neville, Concrete Husband
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintvelez/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintvelez/)*

@@ -1,6 +1,6 @@
 # Isa Rojas
 
-Isa Rojas is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bus Terraza, Barcelona on Fri, 18 Sept 2026.
+Isa Rojas is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bus Terraza, Barcelona on Fri, 18 Sept 2026.
 
 Isa Rojas is a house and deep house artist tracked on soundcheck, with 110 sets logged across Barcelona, Madrid and Paris. Often billed alongside Amalia Balbontin, Jade Rolt and Jen Cruz. Next up: Bus Terraza, Barcelona on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Isa Rojas is a house and deep house artist tracked on soundcheck, with 110 sets 
 
 Amalia Balbontin, Jade Rolt, Jen Cruz
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isarojas/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isarojas/)*

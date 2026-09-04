@@ -1,6 +1,6 @@
 # vendredear
 
-vendredear is a Electro and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bal Chavaux, Paris on Fri, 4 Sept 2026.
+vendredear is a Electro and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bal Chavaux, Paris on Fri, 4 Sept 2026.
 
 vendredear is an electro and ambient artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Emma DJ, TTristana and Laura Trance. Next up: Bal Chavaux, Paris on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ vendredear is an electro and ambient artist tracked on soundcheck, with 35 sets 
 
 Emma DJ, TTristana, Laura Trance
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vendredear/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vendredear/)*

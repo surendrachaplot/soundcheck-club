@@ -1,6 +1,6 @@
 # Mindstate
 
-Mindstate is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
+Mindstate is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
 
 Mindstate is a drum & bass and jungle artist tracked on soundcheck, with 30 sets logged across Birmingham, Bristol, Ghent and London and 1 more. Often billed alongside dogger, Verbz and DRS. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mindstate is a drum & bass and jungle artist tracked on soundcheck, with 30 sets
 
 dogger, Verbz, DRS
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindstate/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindstate/)*

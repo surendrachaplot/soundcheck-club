@@ -1,6 +1,6 @@
 # The Telegraph Building
 
-The Telegraph Building is a music venue in Belfast with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Fantasm" on Sat, 26 Sept 2026.
+The Telegraph Building is a music venue in Belfast with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Fantasm" on Sat, 26 Sept 2026.
 
 The Telegraph Building is a music venue in Belfast listed on soundcheck. 7 upcoming nights, with line-ups including Andrew Cairns, CIAN__, Duke Dumont and Fantasm and 2 more. Browse upcoming dates, start times and who's playing. 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom.
 
@@ -20,4 +20,4 @@ The Telegraph Building is a music venue in Belfast listed on soundcheck. 7 upcom
 
 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom, Belfast
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*

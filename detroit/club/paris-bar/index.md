@@ -1,6 +1,6 @@
 # Paris Bar
 
-Paris Bar is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "SIREN: Cyber City" on Sat, 12 Sept 2026.
+Paris Bar is a music venue in Detroit with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "SIREN: Cyber City" on Sat, 12 Sept 2026.
 
 Paris Bar is a music venue in Detroit listed on soundcheck. 1 upcoming night, with line-ups including Auntie Chanel, CleoTheeDoll and Seanni B. Browse upcoming dates, start times and who's playing. 2961 E McNichols Rd, Hamtramck, MI 48212, United States.
 
@@ -14,4 +14,4 @@ Paris Bar is a music venue in Detroit listed on soundcheck. 1 upcoming night, wi
 
 2961 E McNichols Rd, Hamtramck, MI 48212, United States, Detroit
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*

@@ -1,6 +1,6 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Deeportament Community with Nico Morano (Open Air & Indoor) - Free entry until 7 PM" on Fri, 4 Sept 2026.
+Ritter Butzke is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Deeportament Community with Nico Morano (Open Air & Indoor) - Free entry until 7 PM" on Fri, 4 Sept 2026.
 
 Ritter Butzke is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including Aimé You, Aio, Alan Fitzpatrick and Aracil and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 26 upcoming night
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

@@ -1,6 +1,6 @@
 # Anacalypto
 
-Anacalypto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OT301, Amsterdam on Sat, 5 Sept 2026.
+Anacalypto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OT301, Amsterdam on Sat, 5 Sept 2026.
 
 Anacalypto is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Bangkok, Berlin and Hamburg and 10 more. Often billed alongside Vio PRG, House of Optimism and E-Talking. Next up: OT301, Amsterdam on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Anacalypto is a house and techno artist tracked on soundcheck, with 47 sets logg
 
 Vio PRG, House of Optimism, E-Talking
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anacalypto/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anacalypto/)*

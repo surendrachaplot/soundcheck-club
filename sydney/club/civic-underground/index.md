@@ -1,6 +1,6 @@
 # Civic Underground
 
-Civic Underground is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "WIP Music presents. Timmy Regisford (Shelter NYC) 6 Hour Dj Set " on Fri, 4 Sept 2026.
+Civic Underground is a music venue in Sydney with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "WIP Music presents. Timmy Regisford (Shelter NYC) 6 Hour Dj Set " on Fri, 4 Sept 2026.
 
 Civic Underground is a music venue in Sydney listed on soundcheck. 2 upcoming nights, with line-ups including Harry Hayes and Timmy Regisford. Browse upcoming dates, start times and who's playing. 388 Pitt St; Sydney, NSW 2000; Australia.
 
@@ -15,4 +15,4 @@ Civic Underground is a music venue in Sydney listed on soundcheck. 2 upcoming ni
 
 388 Pitt St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/civic-underground/)*

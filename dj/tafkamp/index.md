@@ -1,6 +1,6 @@
 # TAFKAMP
 
-TAFKAMP is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
+TAFKAMP is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Lofi, Amsterdam on Sat, 19 Sept 2026.
 
 TAFKAMP is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Belfast, Berlin and Brussels and 17 more. Often billed alongside Bastienne, Grace Dahl and Deniro. Next up: Lofi, Amsterdam on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ TAFKAMP is a techno and house artist tracked on soundcheck, with 81 sets logged 
 
 Bastienne, Grace Dahl, Deniro
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkamp/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkamp/)*

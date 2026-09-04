@@ -1,6 +1,6 @@
 # Lele Sacchi
 
-Lele Sacchi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Monza Boschetti Reali , Milan on Fri, 4 Sept 2026.
+Lele Sacchi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Monza Boschetti Reali , Milan on Fri, 4 Sept 2026.
 
 Lele Sacchi is a house and techno artist tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, London and Milan and 3 more. Often billed alongside Futuro Tropicale, Larry Masmero and Keira Meier. Next up: TBA - Monza Boschetti Reali , Milan on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Lele Sacchi is a house and techno artist tracked on soundcheck, with 85 sets log
 
 Futuro Tropicale, Larry Masmero, Keira Meier
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lelesacchi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lelesacchi/)*

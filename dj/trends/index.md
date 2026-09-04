@@ -1,6 +1,6 @@
 # Trends
 
-Trends is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
+Trends is a Grime and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
 
 Trends is a grime and dubstep artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin, London, Manchester and Porto. Often billed alongside Boylan, D.O.K and Hanz. Next up: Hidden, Manchester on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Trends is a grime and dubstep artist based in United Kingdom, tracked on soundch
 
 Boylan, D.O.K, Hanz
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trends/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trends/)*

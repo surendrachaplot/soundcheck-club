@@ -1,6 +1,6 @@
 # MzRizk
 
-MzRizk is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Trainscendence, Melbourne on Sat, 26 Sept 2026.
+MzRizk is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Trainscendence, Melbourne on Sat, 26 Sept 2026.
 
 MzRizk is a house and disco artist based in Australia, tracked on soundcheck, with 41 sets logged across Berlin, Bristol, London and Melbourne and 1 more. Often billed alongside DJ PGZ, RAMSEY (AU) and Saliah. Next up: Trainscendence, Melbourne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MzRizk is a house and disco artist based in Australia, tracked on soundcheck, wi
 
 DJ PGZ, RAMSEY (AU), Saliah
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mzrizk/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mzrizk/)*

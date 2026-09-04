@@ -1,6 +1,6 @@
 # Hilit Kolet
 
-Hilit Kolet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Eagle, London on Sat, 12 Sept 2026.
+Hilit Kolet is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Eagle, London on Sat, 12 Sept 2026.
 
 Hilit Kolet is a house and techno artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Anja Schneider, Dan Shake and Groove Armada. Next up: The Eagle, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Hilit Kolet is a house and techno artist based in United Kingdom, tracked on sou
 
 Anja Schneider, Dan Shake, Groove Armada
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hilitkolet/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hilitkolet/)*

@@ -1,6 +1,6 @@
 # Tom Dubwise
 
-Tom Dubwise is a Dub and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Cu, London on Sun, 11 Oct 2026.
+Tom Dubwise is a Dub and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Cu, London on Sun, 11 Oct 2026.
 
 Tom Dubwise is a dub and experimental artist tracked on soundcheck, with 10 sets logged across Amsterdam, Belfast and London. Often billed alongside Richard Fearless, Dennis Bovell and Elijah Minnelli. Next up: Cu, London on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Tom Dubwise is a dub and experimental artist tracked on soundcheck, with 10 sets
 
 Richard Fearless, Dennis Bovell, Elijah Minnelli
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomdubwise/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomdubwise/)*

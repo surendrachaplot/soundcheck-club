@@ -1,6 +1,6 @@
 # NAHUEL
 
-NAHUEL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+NAHUEL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
 NAHUEL is a techno and house artist tracked on soundcheck, with 11 sets logged across Berlin and Hamburg. Often billed alongside Gwen Wayne, Suse and Julio Paradise. Next up: Südpol, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ NAHUEL is a techno and house artist tracked on soundcheck, with 11 sets logged a
 
 Gwen Wayne, Suse, Julio Paradise
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nahuel/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nahuel/)*

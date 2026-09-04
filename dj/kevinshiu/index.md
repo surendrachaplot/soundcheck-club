@@ -1,6 +1,6 @@
 # Kevin Shiu
 
-Kevin Shiu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Malkin Bowl, Vancouver on Sat, 12 Sept 2026.
+Kevin Shiu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Malkin Bowl, Vancouver on Sat, 12 Sept 2026.
 
 Kevin Shiu is a techno and house artist tracked on soundcheck, with 25 sets logged across Vancouver. Often billed alongside Jared Love, Kon Radd and Marist. Next up: Malkin Bowl, Vancouver on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kevin Shiu is a techno and house artist tracked on soundcheck, with 25 sets logg
 
 Jared Love, Kon Radd, Marist
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinshiu/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinshiu/)*

@@ -1,6 +1,6 @@
 # Jahmed
 
-Jahmed is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Two More Years, London on Sat, 12 Sept 2026.
+Jahmed is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Two More Years, London on Sat, 12 Sept 2026.
 
 Jahmed is a house and disco artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside SUGARLOAF, GENIETUNES and Arnie Wrong. Next up: Two More Years, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jahmed is a house and disco artist based in United Kingdom, tracked on soundchec
 
 SUGARLOAF, GENIETUNES, Arnie Wrong
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jahmed/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jahmed/)*

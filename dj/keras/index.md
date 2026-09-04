@@ -1,6 +1,6 @@
 # Keras
 
-Keras is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Stade Fontainieu, Marseille on Sat, 19 Sept 2026.
+Keras is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Stade Fontainieu, Marseille on Sat, 19 Sept 2026.
 
 Keras is a house and techno artist tracked on soundcheck, with 41 sets logged across Antwerp, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Jorge Escribano, Desyn and Cecilio. Next up: Stade Fontainieu, Marseille on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Keras is a house and techno artist tracked on soundcheck, with 41 sets logged ac
 
 Jorge Escribano, Desyn, Cecilio
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keras/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keras/)*

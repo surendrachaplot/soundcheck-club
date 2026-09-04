@@ -1,6 +1,6 @@
 # Pablito el Drito
 
-Pablito el Drito is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Salumeria del design - via Cecilio Stazio 18 - Milano, Milan on Thu, 10 Sept 2026.
+Pablito el Drito is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Salumeria del design - via Cecilio Stazio 18 - Milano, Milan on Thu, 10 Sept 2026.
 
 Pablito el Drito is a techno and electro artist tracked on soundcheck, with 11 sets logged across Milan, Rome and Turin. Often billed alongside D'Arcangelo, Lory D and Pearl River Sound. Next up: TBA - Salumeria del design - via Cecilio Stazio 18 - Milano, Milan on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Pablito el Drito is a techno and electro artist tracked on soundcheck, with 11 s
 
 D'Arcangelo, Lory D, Pearl River Sound
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablitoeldrito/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pablitoeldrito/)*

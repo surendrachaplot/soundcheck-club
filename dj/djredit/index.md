@@ -1,6 +1,6 @@
 # DJ Red
 
-DJ Red is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+DJ Red is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 DJ Red is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Efdemin, DVS1 and DjRUM. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ DJ Red is a techno and house artist tracked on soundcheck, with 72 sets logged a
 
 Efdemin, DVS1, DjRUM
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djredit/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djredit/)*

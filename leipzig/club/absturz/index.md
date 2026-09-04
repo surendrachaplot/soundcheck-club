@@ -1,6 +1,6 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "CALL OF THE WILD #6 with Electronic Routes & exLEpäng" on Fri, 4 Sept 2026.
+Absturz is a music venue in Leipzig with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "CALL OF THE WILD #6 with Electronic Routes & exLEpäng" on Fri, 4 Sept 2026.
 
 Absturz is a music venue in Leipzig listed on soundcheck. 6 upcoming nights, with line-ups including bertziherzi, isoSportler, Mariposa x Lyra and Oliotronix and 2 more. Browse upcoming dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
@@ -19,4 +19,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 6 upcoming nights, wit
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

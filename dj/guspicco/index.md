@@ -1,6 +1,6 @@
 # GUS PICCO
 
-GUS PICCO is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 4 Sept 2026.
+GUS PICCO is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 4 Sept 2026.
 
 GUS PICCO is a progressive house and electronica artist tracked on soundcheck, with 12 sets logged across Barcelona. Often billed alongside Santi Gonzalez, Agoostina and DC81. Next up: Almar Beach Club, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ GUS PICCO is a progressive house and electronica artist tracked on soundcheck, w
 
 Santi Gonzalez, Agoostina, DC81
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guspicco/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guspicco/)*

@@ -1,6 +1,6 @@
 # Rachael (ES)
 
-Rachael (ES) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - LFO, Madrid on Sat, 24 Oct 2026.
+Rachael (ES) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - LFO, Madrid on Sat, 24 Oct 2026.
 
 Rachael (ES) is a techno and electro artist based in Spain, tracked on soundcheck, with 39 sets logged across Barcelona, Madrid and Valencia. Often billed alongside Semuta, Esterne Moog and oma totem. Next up: TBA - LFO, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rachael (ES) is a techno and electro artist based in Spain, tracked on soundchec
 
 Semuta, Esterne Moog, oma totem
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rachael-es/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rachael-es/)*

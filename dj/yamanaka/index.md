@@ -1,6 +1,6 @@
 # Yamanaka
 
-Yamanaka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 4 Sept 2026.
+Yamanaka is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 4 Sept 2026.
 
 Yamanaka is a techno and house artist tracked on soundcheck, with 19 sets logged across Denver, Portland, Seattle and Tokyo. Often billed alongside Ana-Lucid, DJ Raine and JENN GREEN. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Yamanaka is a techno and house artist tracked on soundcheck, with 19 sets logged
 
 Ana-Lucid, DJ Raine, JENN GREEN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamanaka/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yamanaka/)*

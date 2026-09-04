@@ -1,6 +1,6 @@
 # Module One
 
-Module One is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Module One is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Module One is a house and disco artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Soela, Black Eyes and 4meter. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Module One is a house and disco artist tracked on soundcheck, with 8 sets logged
 
 Soela, Black Eyes, 4meter
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moduleone/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moduleone/)*

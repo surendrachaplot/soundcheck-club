@@ -1,6 +1,6 @@
 # Quarterpoundernocheese
 
-Quarterpoundernocheese is a Hard Drum and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sneaky Pete's, Edinburgh on Sat, 12 Sept 2026.
+Quarterpoundernocheese is a Hard Drum and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sneaky Pete's, Edinburgh on Sat, 12 Sept 2026.
 
 Quarterpoundernocheese is a hard drum and baile funk artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Edinburgh and Glasgow. Often billed alongside Lara Sinclair, Casement and SKIMUDA. Next up: Sneaky Pete's, Edinburgh on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Quarterpoundernocheese is a hard drum and baile funk artist based in United King
 
 Lara Sinclair, Casement, SKIMUDA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quarterpoundernocheese/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quarterpoundernocheese/)*

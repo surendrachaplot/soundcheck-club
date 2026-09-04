@@ -1,6 +1,6 @@
 # Amália Leandro
 
-Amália Leandro is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Rhythm, Toronto on Sat, 12 Sept 2026.
+Amália Leandro is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Rhythm, Toronto on Sat, 12 Sept 2026.
 
 Amália Leandro is a house and tech house artist based in Canada, tracked on soundcheck, with 10 sets logged across Miami and Toronto. Often billed alongside Barroness, RUDEE NIK and Audi Étoffe. Next up: Rhythm, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Amália Leandro is a house and tech house artist based in Canada, tracked on sou
 
 Barroness, RUDEE NIK, Audi Étoffe
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amalialeandro/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amalialeandro/)*

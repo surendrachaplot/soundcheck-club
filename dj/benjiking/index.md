@@ -1,6 +1,6 @@
 # Benji King
 
-Benji King is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Benji King is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
 Benji King is a house and tech house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 7 more. Often billed alongside Phill de Janeiro, Jude Lenihan and Truly Madly. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Benji King is a house and tech house artist tracked on soundcheck, with 76 sets 
 
 Phill de Janeiro, Jude Lenihan, Truly Madly
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*

@@ -1,6 +1,6 @@
 # Ketacaos
 
-Ketacaos is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
+Ketacaos is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sacre Coeur Prague, Prague on Fri, 30 Oct 2026.
 
 Ketacaos is a techno and gabber artist based in Cyprus, tracked on soundcheck, with 9 sets logged across Prague. Often billed alongside Flakka, Big Lil and Carlos Young. Next up: Sacre Coeur Prague, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ketacaos is a techno and gabber artist based in Cyprus, tracked on soundcheck, w
 
 Flakka, Big Lil, Carlos Young
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketacaos/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketacaos/)*

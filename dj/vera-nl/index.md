@@ -1,6 +1,6 @@
 # VE/RA
 
-VE/RA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ephigenia, Sao Paulo on Fri, 4 Sept 2026.
+VE/RA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ephigenia, Sao Paulo on Fri, 4 Sept 2026.
 
 VE/RA is a techno and house artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Cologne and Ghent and 9 more. Often billed alongside Amber Broos, BLONDEX and DIØN. Next up: Ephigenia, Saopaulo on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ VE/RA is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Amber Broos, BLONDEX, DIØN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vera-nl/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vera-nl/)*

@@ -1,6 +1,6 @@
 # Anthony James
 
-Anthony James is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 25 Sept 2026.
+Anthony James is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Chinois Ibiza, Ibiza on Fri, 25 Sept 2026.
 
 Anthony James is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Ibiza, London and Malaga. Often billed alongside BARTELLA, Harriet Bella and L.A. Dave. Next up: Chinois Ibiza, Ibiza on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Anthony James is an afro house and house artist based in United Kingdom, tracked
 
 BARTELLA, Harriet Bella, L.A. Dave
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyjames/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyjames/)*

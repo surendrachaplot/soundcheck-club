@@ -1,6 +1,6 @@
 # Phát Paris
 
-Phát Paris is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tuff Club, Singapore on Sat, 19 Sept 2026.
+Phát Paris is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tuff Club, Singapore on Sat, 19 Sept 2026.
 
 Phát Paris is a club and experimental artist based in Vietnam, tracked on soundcheck, with 7 sets logged across Bangkok, Leipzig, Losangeles and Seoul and 1 more. Often billed alongside Smoothie Boiz, New Masculine and Soup snakeS. Next up: Tuff Club, Singapore on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Phát Paris is a club and experimental artist based in Vietnam, tracked on sound
 
 Smoothie Boiz, New Masculine, Soup snakeS
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phatparis/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phatparis/)*

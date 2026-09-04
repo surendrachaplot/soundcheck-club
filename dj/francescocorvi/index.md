@@ -1,6 +1,6 @@
 # Francesco Corvi
 
-Francesco Corvi is a Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Silent Green, Berlin on Thu, 1 Oct 2026.
+Francesco Corvi is a Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Silent Green, Berlin on Thu, 1 Oct 2026.
 
 Francesco Corvi is an experimental artist tracked on soundcheck, with 10 sets logged across Berlin, Rome and Vienna. Often billed alongside Nocturnerror, Angelo Harmsworth and Evol. Next up: Silent Green, Berlin on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Francesco Corvi is an experimental artist tracked on soundcheck, with 10 sets lo
 
 Nocturnerror, Angelo Harmsworth, Evol
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocorvi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocorvi/)*

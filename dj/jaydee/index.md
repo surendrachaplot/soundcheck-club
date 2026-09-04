@@ -1,6 +1,6 @@
 # Jay Dee
 
-Jay Dee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
+Jay Dee is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
 
 Jay Dee is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Ghent and Newyorkcity and 2 more. Often billed alongside Alexander Koning, Remy Unger and Dimitri (1). Next up: Maassilo, Rotterdam on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Jay Dee is a house and techno artist based in United States of America, tracked 
 
 Alexander Koning, Remy Unger, Dimitri (1)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydee/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydee/)*

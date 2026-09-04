@@ -1,6 +1,6 @@
 # FKSR
 
-FKSR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hunter Club São Paulo, Sao Paulo on Sun, 6 Sept 2026.
+FKSR is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hunter Club São Paulo, Sao Paulo on Sun, 6 Sept 2026.
 
 FKSR is a house and techno artist based in Brazil, tracked on soundcheck, with 10 sets logged across Saopaulo. Often billed alongside Another Dudx, Gezender and Dany Bany. Next up: Hunter Club São Paulo, Saopaulo on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ FKSR is a house and techno artist based in Brazil, tracked on soundcheck, with 1
 
 Another Dudx, Gezender, Dany Bany
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fksr/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fksr/)*

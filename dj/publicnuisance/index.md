@@ -1,6 +1,6 @@
 # Public Nuisance
 
-Public Nuisance is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Echo & Bounce, Brisbane on Sun, 4 Oct 2026.
+Public Nuisance is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Echo & Bounce, Brisbane on Sun, 4 Oct 2026.
 
 Public Nuisance is a techno and minimal techno artist based in Australia, tracked on soundcheck, with 9 sets logged across Brisbane. Often billed alongside Pusky, SF Fudge and Josh Heywood. Next up: Echo & Bounce, Brisbane on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Public Nuisance is a techno and minimal techno artist based in Australia, tracke
 
 Pusky, SF Fudge, Josh Heywood
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/publicnuisance/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/publicnuisance/)*

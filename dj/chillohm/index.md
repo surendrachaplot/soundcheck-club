@@ -1,6 +1,6 @@
 # ChillOhm
 
-ChillOhm is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club Baggerbeest, Amsterdam on Fri, 23 Oct 2026.
+ChillOhm is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Club Baggerbeest, Amsterdam on Fri, 23 Oct 2026.
 
 ChillOhm is a tech house and techno artist based in France, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona and Edinburgh. Often billed alongside Eddy Romero, Bubba Brothers and Frink. Next up: Club Baggerbeest, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ ChillOhm is a tech house and techno artist based in France, tracked on soundchec
 
 Eddy Romero, Bubba Brothers, Frink
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chillohm/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chillohm/)*

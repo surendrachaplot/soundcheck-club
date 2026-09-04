@@ -1,6 +1,6 @@
 # DJ Hybrid
 
-DJ Hybrid is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Yard, Manchester on Sat, 19 Sept 2026.
+DJ Hybrid is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Yard, Manchester on Sat, 19 Sept 2026.
 
 DJ Hybrid is a drum & bass and jungle artist tracked on soundcheck, with 29 sets logged across Amsterdam, Auckland, Boston and Brighton and 11 more. Often billed alongside Benny Page, Deekline and Hypershe. Next up: The Yard, Manchester on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ DJ Hybrid is a drum & bass and jungle artist tracked on soundcheck, with 29 sets
 
 Benny Page, Deekline, Hypershe
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhybrid/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhybrid/)*

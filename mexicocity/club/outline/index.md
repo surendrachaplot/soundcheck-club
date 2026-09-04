@@ -1,6 +1,6 @@
 # Outline
 
-Outline is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "OUTLINE Cartelera SEP 03-06" on Thu, 3 Sept 2026.
+Outline is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "OUTLINE Cartelera SEP 03-06" on Thu, 3 Sept 2026.
 
 Outline is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, with line-ups including Juan Soto and Vanderlinden. Browse upcoming dates, start times and who's playing. Av Oaxaca 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX.
 
@@ -14,4 +14,4 @@ Outline is a music venue in Mexicocity listed on soundcheck. 1 upcoming night, w
 
 Av Oaxaca 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico City
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/outline/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/outline/)*

@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "188minds" on Sat, 5 Sept 2026.
+Solace is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "188minds" on Sat, 5 Sept 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including András, anna(n), Charlotte Rooney and DITA (ID) and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -18,4 +18,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, wi
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

@@ -1,6 +1,6 @@
 # Steve Dekay
 
-Steve Dekay is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Steve Dekay is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Steve Dekay is a techno and trance artist tracked on soundcheck, with 5 sets logged across Amsterdam, Barcelona, Edinburgh and Losangeles and 1 more. Often billed alongside Allen Watts, A.N.I. and Aaron Hibell. Next up: The Queen Mary, Losangeles on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Steve Dekay is a techno and trance artist tracked on soundcheck, with 5 sets log
 
 Allen Watts, A.N.I., Aaron Hibell
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevedekay/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevedekay/)*

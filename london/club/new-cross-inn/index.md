@@ -1,6 +1,6 @@
 # New Cross Inn
 
-New Cross Inn is a music venue in London with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Mumble" on Tue, 29 Sept 2026.
+New Cross Inn is a music venue in London with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Mumble" on Tue, 29 Sept 2026.
 
 New Cross Inn is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including 1111, BRAVA and Mumble. Browse upcoming dates, start times and who's playing. 323 New Cross Road; New Cross; London SE14 6AS; United Kingdom.
 
@@ -19,4 +19,4 @@ New Cross Inn is a music venue in London listed on soundcheck. 6 upcoming nights
 
 323 New Cross Road; New Cross; London SE14 6AS; United Kingdom, London
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/new-cross-inn/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/new-cross-inn/)*

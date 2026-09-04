@@ -1,6 +1,6 @@
 # Oshi
 
-Oshi is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ZUBAR, Tokyo on Sun, 6 Sept 2026.
+Oshi is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at ZUBAR, Tokyo on Sun, 6 Sept 2026.
 
 Oshi is a techno and bass artist based in France, tracked on soundcheck, with 85 sets logged across Barcelona, Riga and Tokyo. Often billed alongside --- mr ---, Kuro and POPPO. Next up: ZUBAR, Tokyo on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Oshi is a techno and bass artist based in France, tracked on soundcheck, with 85
 
 --- mr ---, Kuro, POPPO
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oshi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oshi/)*

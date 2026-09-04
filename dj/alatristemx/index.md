@@ -1,6 +1,6 @@
 # Alatriste (MX)
 
-Alatriste (MX) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at un club bonito, Mexico City on Fri, 4 Sept 2026.
+Alatriste (MX) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at un club bonito, Mexico City on Fri, 4 Sept 2026.
 
 Alatriste (MX) is a house and techno artist tracked on soundcheck, with 9 sets logged across Mexicocity. Often billed alongside Alby Esc, Basho and DJ Milka. Next up: un club bonito, Mexicocity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Alatriste (MX) is a house and techno artist tracked on soundcheck, with 9 sets l
 
 Alby Esc, Basho, DJ Milka
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alatristemx/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alatristemx/)*

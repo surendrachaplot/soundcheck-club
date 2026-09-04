@@ -1,6 +1,6 @@
 # Drime
 
-Drime is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
+Drime is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Planet Wax, London on Sat, 12 Sept 2026.
 
 Drime is a dubstep and grime artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Leeds and London. Often billed alongside Marky V, A.N.T and DFUSE. Next up: Planet Wax, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Drime is a dubstep and grime artist based in United Kingdom, tracked on soundche
 
 Marky V, A.N.T, DFUSE
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drime/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drime/)*

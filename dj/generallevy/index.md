@@ -1,13 +1,14 @@
 # General Levy
 
-General Levy is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Brixton Jamm, London on Fri, 30 Oct 2026.
+General Levy is a Jungle and Drum & Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mdlr, Singapore on Sat, 3 Oct 2026.
 
-General Levy is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Birmingham, Brighton, Bristol and Dublin and 9 more. Often billed alongside Deekline, Navigator and Killa P. Next up: Brixton Jamm, London on Fri 30 Oct.
+General Levy is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Birmingham, Brighton, Bristol and Dublin and 9 more. Often billed alongside Deekline, Navigator and Killa P. Next up: Mdlr, Singapore on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Mdlr | Singapore |
 | Fri, 30 Oct 2026 | Brixton Jamm | London |
 | Fri, 6 Nov 2026 | Thekla | Bristol |
 
@@ -26,4 +27,4 @@ General Levy is a drum & bass and jungle artist based in United Kingdom, tracked
 
 Deekline, Navigator, Killa P
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/generallevy/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/generallevy/)*

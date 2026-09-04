@@ -1,6 +1,6 @@
 # retropxssy
 
-retropxssy is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - 198 Hackney Road, E2 7QL, London on Fri, 4 Sept 2026.
+retropxssy is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - 198 Hackney Road, E2 7QL, London on Fri, 4 Sept 2026.
 
 retropxssy is a hip-hop and experimental artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Amsterdam, Brighton, Bristol and Glasgow and 1 more. Often billed alongside JoeJas, ACE C0NWAY and anti.Net. Next up: TBA - 198 Hackney Road, E2 7QL, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ retropxssy is a hip-hop and experimental artist based in United Kingdom, tracked
 
 JoeJas, ACE C0NWAY, anti.Net
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/retropxssy/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/retropxssy/)*

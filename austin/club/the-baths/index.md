@@ -1,6 +1,6 @@
 # THE BATHS
 
-THE BATHS is a music venue in Austin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Situations with Wenzday" on Fri, 13 Nov 2026.
+THE BATHS is a music venue in Austin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Situations with Wenzday" on Fri, 13 Nov 2026.
 
 THE BATHS is a music venue in Austin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 207 San Jacinto Blvd #100, Austin, TX 78701.
 
@@ -14,4 +14,4 @@ THE BATHS is a music venue in Austin listed on soundcheck. 1 upcoming night. Bro
 
 207 San Jacinto Blvd #100, Austin, TX 78701, Austin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-baths/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-baths/)*

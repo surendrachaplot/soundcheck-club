@@ -1,6 +1,6 @@
 # Voice Actor
 
-Voice Actor is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Julia Stoschek Foundation, Berlin on Thu, 10 Sept 2026.
+Voice Actor is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Julia Stoschek Foundation, Berlin on Thu, 10 Sept 2026.
 
 Voice Actor is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Berlin, Bristol, Brussels and Copenhagen and 15 more. Often billed alongside Nosedrip, James Massiah and Smerz. Next up: Julia Stoschek Foundation, Berlin on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Voice Actor is an experimental and ambient artist based in United Kingdom, track
 
 Nosedrip, James Massiah, Smerz
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*

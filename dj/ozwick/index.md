@@ -1,14 +1,15 @@
 # Ozwick
 
-Ozwick is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Spanners, London on Sat, 5 Sept 2026.
+Ozwick is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Spanners, London on Sat, 5 Sept 2026.
 
-Ozwick is a techno and house artist tracked on soundcheck, with 79 sets logged across London and Tokyo. Often billed alongside 7005, Bushmind and Taigen Kawabe. Next up: Spanners, London on Sat 5 Sept.
+Ozwick is a techno and house artist tracked on soundcheck, with 80 sets logged across London and Tokyo. Often billed alongside 7005, Bushmind and Taigen Kawabe. Next up: Spanners, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Spanners | London |
+| Thu, 17 Sept 2026 | The Glove That Fits | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ozwick is a techno and house artist tracked on soundcheck, with 79 sets logged a
 
 7005, Bushmind, Taigen Kawabe
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozwick/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ozwick/)*

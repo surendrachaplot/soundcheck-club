@@ -1,6 +1,6 @@
 # Gianca - Murazzi
 
-Gianca - Murazzi is a music venue in Turin with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "We Are Family" on Fri, 4 Sept 2026.
+Gianca - Murazzi is a music venue in Turin with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "We Are Family" on Fri, 4 Sept 2026.
 
 Gianca - Murazzi is a music venue in Turin listed on soundcheck. 3 upcoming nights, with line-ups including Gandalf, Isabel Soto, Jonny N Travis and Paul Acquaviva. Browse upcoming dates, start times and who's playing. Torino, 10123, Murazzi del Po Gipo Farassino.
 
@@ -16,4 +16,4 @@ Gianca - Murazzi is a music venue in Turin listed on soundcheck. 3 upcoming nigh
 
 Torino, 10123, Murazzi del Po Gipo Farassino, Turin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/gianca-murazzi/)*

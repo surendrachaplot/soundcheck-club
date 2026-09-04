@@ -1,6 +1,6 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "PR7 RECORDS SHOWCASE" on Fri, 4 Sept 2026.
+Cross Club is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "PR7 RECORDS SHOWCASE" on Fri, 4 Sept 2026.
 
 Cross Club is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including Akira, AMAR DURGA, Amygdala and Dave Tarrida and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
@@ -21,4 +21,4 @@ Cross Club is a music venue in Prague listed on soundcheck. 8 upcoming nights, w
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

@@ -1,6 +1,6 @@
 # Shimza
 
-Shimza is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Fri, 4 Sept 2026.
+Shimza is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Fri, 4 Sept 2026.
 
 Shimza is an afro house and house artist tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Olympic Athletic Center of Athens, Athens on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Shimza is an afro house and house artist tracked on soundcheck, with 145 sets lo
 
 ARODES, Andrea Oliva, Mahmut Orhan
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*

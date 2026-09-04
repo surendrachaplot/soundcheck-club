@@ -1,6 +1,6 @@
 # Jasmine Infiniti
 
-Jasmine Infiniti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at House of Yes, New York City on Fri, 11 Sept 2026.
+Jasmine Infiniti is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at House of Yes, New York City on Fri, 11 Sept 2026.
 
 Jasmine Infiniti is a techno and house artist based in United States of America, tracked on soundcheck, with 79 sets logged across Auckland, Barcelona, Berlin and Chicago and 17 more. Often billed alongside TYGAPAW, Cali Rose and Cisne. Next up: House of Yes, Newyorkcity on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Jasmine Infiniti is a techno and house artist based in United States of America,
 
 TYGAPAW, Cali Rose, Cisne
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmineinfiniti/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmineinfiniti/)*

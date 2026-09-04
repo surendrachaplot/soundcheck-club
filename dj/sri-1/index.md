@@ -1,6 +1,6 @@
 # SRI (1)
 
-SRI (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Elsewhere, New York City on Sat, 17 Oct 2026.
+SRI (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Elsewhere, New York City on Sat, 17 Oct 2026.
 
 SRI (1) is a house and techno artist based in United States of America, tracked on soundcheck, with 17 sets logged across Losangeles and Newyorkcity. Often billed alongside ARMANA KHAN, 444 (1) and ARINI. Next up: Elsewhere, Newyorkcity on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ SRI (1) is a house and techno artist based in United States of America, tracked 
 
 ARMANA KHAN, 444 (1), ARINI
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sri-1/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sri-1/)*

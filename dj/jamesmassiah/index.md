@@ -1,6 +1,6 @@
 # James Massiah
 
-James Massiah is a Dancehall and Experimental artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
+James Massiah is a Dancehall and Experimental artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
 
 James Massiah is a dancehall and experimental artist tracked on soundcheck, with 98 sets logged across Amsterdam, Belgrade, Berlin and Brisbane and 16 more. Often billed alongside Lord Tusk, Kemarr and Tash LC. Next up: Hackney Bridge, London on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ James Massiah is a dancehall and experimental artist tracked on soundcheck, with
 
 Lord Tusk, Kemarr, Tash LC
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*

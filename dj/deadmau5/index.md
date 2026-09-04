@@ -1,6 +1,6 @@
 # Deadmau5
 
-Deadmau5 is a Progressive House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Deadmau5 is a Progressive House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Deadmau5 is a progressive house and electro artist tracked on soundcheck, with 44 sets logged across Austin, Bali, Boston and Bristol and 12 more. Often billed alongside Above & Beyond, Artbat and Dubfire. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Deadmau5 is a progressive house and electro artist tracked on soundcheck, with 4
 
 Above & Beyond, Artbat, Dubfire
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmau5/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deadmau5/)*

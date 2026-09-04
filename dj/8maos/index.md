@@ -1,6 +1,6 @@
 # 8maos
 
-8maos is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Sonder Bar, Portland on Sun, 6 Sept 2026.
+8maos is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Sonder Bar, Portland on Sun, 6 Sept 2026.
 
 8maos is a minimal and house artist tracked on soundcheck, with 7 sets logged across Portland. Often billed alongside Aaron Davis, Alvaro and Andrew Paris. Next up: The Sonder Bar, Portland on Sun 6 Sept.
 
@@ -23,4 +23,4 @@
 
 Aaron Davis, Alvaro, Andrew Paris
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/8maos/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/8maos/)*

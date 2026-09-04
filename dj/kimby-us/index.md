@@ -1,6 +1,6 @@
 # Kimby (US)
 
-Kimby (US) is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Moondog Hifi, New York City on Fri, 18 Sept 2026.
+Kimby (US) is a Balearic and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Moondog Hifi, New York City on Fri, 18 Sept 2026.
 
 Kimby (US) is a balearic and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Eleou, Asphodèle and James Park.. Next up: Moondog Hifi, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Kimby (US) is a balearic and house artist based in United States of America, tra
 
 Eleou, Asphodèle, James Park.
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimby-us/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimby-us/)*

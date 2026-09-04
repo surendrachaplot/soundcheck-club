@@ -1,8 +1,8 @@
 # Hobbes
 
-Hobbes is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 12 Sept 2026.
+Hobbes is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 12 Sept 2026.
 
-Hobbes is a house and disco artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Edinburgh. Often billed alongside Fërb, Jedda and Mairi 'b' Pots. Next up: The Bongo Club, Edinburgh on Sat 12 Sept.
+Hobbes is a house and disco artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Edinburgh. Often billed alongside Fërb, Jedda and Mairi 'b' Pots. Next up: The Bongo Club, Edinburgh on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Hobbes is a house and disco artist based in United Kingdom, tracked on soundchec
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Bongo Club | Edinburgh |
 | Sat, 10 Oct 2026 | The Bongo Club | Edinburgh |
+| Sat, 7 Nov 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Hobbes is a house and disco artist based in United Kingdom, tracked on soundchec
 
 Fërb, Jedda, Mairi 'b' Pots
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hobbes/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hobbes/)*

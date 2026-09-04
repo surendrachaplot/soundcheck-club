@@ -3054,7 +3054,11 @@
 .diary-page .pb-ds-date{justify-content:flex-start}
 .diary-page .pb-ds-y{font-family:var(--font-mono);font-size:var(--fs-2xs);letter-spacing:.1em;color:var(--faint);margin-top:3px}
 .diary-page .pb-ds-venue{flex-wrap:wrap}
-.diary-page .pb-ds-body .ptiles{margin-top:12px;grid-template-columns:repeat(auto-fill,minmax(84px,1fr));gap:16px 12px;max-width:none}
+/* THREE, fixed. auto-fill made the count drift with the container: the stub's
+   body is what is left after the date column, so the same page showed two
+   faces a row on one phone and four on another. A diary entry is a set of
+   faces you are meant to scan, and a stable grid is what makes it scannable. */
+.diary-page .pb-ds-body .ptiles{margin-top:12px;grid-template-columns:repeat(3,1fr);gap:16px 12px;max-width:none}
 .diary-page .pb-ds-body .ptile .nm{white-space:normal;overflow:visible;text-overflow:clip;line-height:1.25;font-size:var(--fs-2xs)}
 .diary-page .pb-ds-body .ptile .ptile-img{border-radius:var(--radius-md)}   /* squarish artist photos in the diary */
 /* edit + delete sit TOGETHER on the right of the stub (was: two margin-left:auto pushed them apart) */
@@ -4375,7 +4379,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1788481452700">
+<meta name="sc-build" content="1788521308783">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
 </head>
@@ -4434,7 +4438,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">111 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">138 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li><li><a href="/london/2026-09-10/">Thu 10 Sept <span class="c">20 events</span></a></li><li><a href="/london/2026-09-11/">Fri 11 Sept <span class="c">96 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-04/">Fri 4 Sept <span class="c">110 events</span></a></li><li><a href="/london/2026-09-05/">Sat 5 Sept <span class="c">139 events</span></a></li><li><a href="/london/2026-09-06/">Sun 6 Sept <span class="c">24 events</span></a></li><li><a href="/london/2026-09-08/">Tue 8 Sept <span class="c">4 events</span></a></li><li><a href="/london/2026-09-09/">Wed 9 Sept <span class="c">8 events</span></a></li><li><a href="/london/2026-09-10/">Thu 10 Sept <span class="c">20 events</span></a></li><li><a href="/london/2026-09-11/">Fri 11 Sept <span class="c">97 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -9516,14 +9520,16 @@
       }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">Couldn&rsquo;t load Discover.</div>'); }
     }
     // Recent searches — device-local, ephemeral UI history (not synced / not picks data).
-    function getRecent(){ try{ var r=JSON.parse(localStorage.getItem('sc_recent_searches')||'[]'); return Array.isArray(r)?r:[]; }catch(_){ return []; } }
-    function pushRecent(q){ q=(q||'').trim(); if(q.length<2) return; try{ var r=getRecent().filter(function(x){ return String(x).toLowerCase()!==q.toLowerCase(); }); r.unshift(q); localStorage.setItem('sc_recent_searches', JSON.stringify(r.slice(0,6))); }catch(_){ } }
+    // Past searches are no longer suggested, and the stored list is cleared on
+    // sight: a half-typed name someone searched once is not a suggestion, and
+    // keeping it on the device after we stopped showing it would be worse.
+    try{ localStorage.removeItem('sc_recent_searches'); }catch(_){ }
     function setSearchQuery(q){ var input=document.getElementById('sx-input'); if(!input) return; input.value=q; input.dispatchEvent(new Event('input')); input.focus(); }
     function openSearch(){
       setRoute('search');
       _dcSceneP=null; // fresh suggestions for the current city
       showPage('<div class="search-box" style="margin-top:6px"><svg class="search-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><input type="search" id="sx-input" placeholder="Search artists, venues, promoters, events…" autocomplete="off" autocapitalize="off" autocorrect="off"></div>'+
-        '<div id="sx-recent-top"></div>'+
+
         '<div id="sx-results"></div>'+
         '<div id="sx-radio-foot"></div>');
       // Weekend radio pinned at the bottom of the search page (user pref)
@@ -9538,9 +9544,7 @@
       try{ input.focus({preventScroll:true}); }catch(_){ try{ input.focus(); }catch(e){} }
       var lastQ='', showing='';
       // recent searches sit as plain pills below the search box (no sub-heading)
-      function renderRecentTop(){ var rt=document.getElementById('sx-recent-top'); if(!rt) return; var rec=getRecent(); rt.innerHTML=rec.length?('<div class="pillrow" style="margin-bottom:14px">'+rec.map(function(t){ return '<button class="qchip" type="button" data-q="'+esc(t)+'">'+esc(t)+'</button>'; }).join('')+'</div>'):''; rt.querySelectorAll('.qchip[data-q]').forEach(function(b){ b.addEventListener('click',function(){ setSearchQuery(b.dataset.q); }); }); }
       // a tap on any result records the query as "recent" (the search led somewhere)
-      results.addEventListener('click', function(){ if(lastQ){ pushRecent(lastQ); renderRecentTop(); } }, true);
       var run=debounce(async function(){
         var q=input.value.trim();
         if(q.length<2){ if(showing!=='empty'){ renderSearchEmpty(results); showing='empty'; } return; }
@@ -9560,11 +9564,10 @@
         renderSearch(results, j, q);
       };
       input.addEventListener('input',run);
-      renderRecentTop();
       renderSearchEmpty(results); showing='empty'; // default state on open
       setTimeout(function(){ input.focus(); },60);
     }
-    // Empty state — nothing but recent searches (rendered above in #sx-recent-top).
+    // Empty state.
     // No recommendation rails: a clean search page (user pref).
     function renderSearchEmpty(el){ el.innerHTML=''; }
     // How closely a candidate's name matches the query — lower = closer. Powers the

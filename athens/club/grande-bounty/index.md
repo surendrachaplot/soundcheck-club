@@ -1,6 +1,6 @@
 # Grande Bounty
 
-Grande Bounty is a music venue in Athens with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "MÅNGATA PROJEKT 13Y CELEBRATION - Cruise & Groove" on Sun, 13 Sept 2026.
+Grande Bounty is a music venue in Athens with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "MÅNGATA PROJEKT 13Y CELEBRATION - Cruise & Groove" on Sun, 13 Sept 2026.
 
 Grande Bounty is a music venue in Athens listed on soundcheck. 1 upcoming night, with line-ups including Angie (CY), Filippos and MÅNGATA. Browse upcoming dates, start times and who's playing. Pier E, Alimos, 17455, Athens, Greece.
 
@@ -14,4 +14,4 @@ Grande Bounty is a music venue in Athens listed on soundcheck. 1 upcoming night,
 
 Pier E, Alimos, 17455, Athens, Greece, Athens
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/grande-bounty/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/grande-bounty/)*

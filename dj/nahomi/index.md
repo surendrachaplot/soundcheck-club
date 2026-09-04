@@ -1,6 +1,6 @@
 # Nahomi
 
-Nahomi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 5 Sept 2026.
+Nahomi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 5 Sept 2026.
 
 Nahomi is a house and techno artist based in Switzerland, tracked on soundcheck, with 26 sets logged across Basel, Berlin, Frankfurt and Geneva and 4 more. Often billed alongside Lea Lisa, Dusty Fingers and Soela. Next up: Tokonoma Club, Frankfurt on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Nahomi is a house and techno artist based in Switzerland, tracked on soundcheck,
 
 Lea Lisa, Dusty Fingers, Soela
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nahomi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nahomi/)*

@@ -1,6 +1,6 @@
 # die jane.
 
-die jane. is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Artheater, Cologne on Fri, 25 Sept 2026.
+die jane. is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Artheater, Cologne on Fri, 25 Sept 2026.
 
 die jane. is a techno artist tracked on soundcheck, with 9 sets logged across Berlin and Cologne. Often billed alongside Isabelle Beaucamp, lollo and Die Jane. Next up: Artheater, Cologne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ die jane. is a techno artist tracked on soundcheck, with 9 sets logged across Be
 
 Isabelle Beaucamp, lollo, Die Jane
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diejane/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diejane/)*

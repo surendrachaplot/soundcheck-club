@@ -1,6 +1,6 @@
 # KZTÀ
 
-KZTÀ is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hangar48 Club, Madrid on Fri, 4 Sept 2026.
+KZTÀ is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hangar48 Club, Madrid on Fri, 4 Sept 2026.
 
 KZTÀ is an electronica and acid artist tracked on soundcheck, with 21 sets logged across Madrid. Often billed alongside Palimpseste, Marchandazing and DJ CORDE SENSIBLE. Next up: Hangar48 Club, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ KZTÀ is an electronica and acid artist tracked on soundcheck, with 21 sets logg
 
 Palimpseste, Marchandazing, DJ CORDE SENSIBLE
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kzta/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kzta/)*

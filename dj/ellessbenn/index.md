@@ -1,6 +1,6 @@
 # Elless & Benn
 
-Elless & Benn is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 26 Sept 2026.
+Elless & Benn is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 26 Sept 2026.
 
 Elless & Benn are an electronica and techno duo based in Portugal, tracked on soundcheck, with 52 sets logged across Lisbon and Stockholm. Often billed alongside Mary B (2), Guigas and Solid-Funk. Next up: Collect LX Factory, Lisbon on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Elless & Benn are an electronica and techno duo based in Portugal, tracked on so
 
 Mary B (2), Guigas, Solid-Funk
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellessbenn/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellessbenn/)*

@@ -1,6 +1,6 @@
 # DJ TOOL
 
-DJ TOOL is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Bassement, Madrid on Sat, 5 Sept 2026.
+DJ TOOL is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Bassement, Madrid on Sat, 5 Sept 2026.
 
 DJ TOOL is a techno and house artist tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Austin and Barcelona and 49 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: The Bassement, Madrid on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ DJ TOOL is a techno and house artist tracked on soundcheck, with 187 sets logged
 
 Yazzus, Hyperaktivist, D.Dan
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*

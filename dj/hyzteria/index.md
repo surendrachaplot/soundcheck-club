@@ -1,6 +1,6 @@
 # Hyzteria
 
-Hyzteria is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Cross, London on Thu, 17 Sept 2026.
+Hyzteria is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Cross, London on Thu, 17 Sept 2026.
 
 Hyzteria is a house and tech house artist tracked on soundcheck, with 40 sets logged across Ibiza, London and Manchester. Often billed alongside Sammy Porter, Charlotte Van de Peer and George Mensah. Next up: The Cross, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Hyzteria is a house and tech house artist tracked on soundcheck, with 40 sets lo
 
 Sammy Porter, Charlotte Van de Peer, George Mensah
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyzteria/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyzteria/)*

@@ -1,6 +1,6 @@
 # Jan Blomqvist
 
-Jan Blomqvist is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Forbindelsehallen, Stockholm on Sat, 12 Sept 2026.
+Jan Blomqvist is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Forbindelsehallen, Stockholm on Sat, 12 Sept 2026.
 
 Jan Blomqvist is a house and deep house artist based in Germany, tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside WhoMadeWho, Bedouin and Colyn. Next up: Forbindelsehallen, Stockholm on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Jan Blomqvist is a house and deep house artist based in Germany, tracked on soun
 
 WhoMadeWho, Bedouin, Colyn
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*

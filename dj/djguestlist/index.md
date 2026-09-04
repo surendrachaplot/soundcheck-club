@@ -1,6 +1,6 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Mia Mao, Paris on Sat, 5 Sept 2026.
+DJ GUESTLIST is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mia Mao, Paris on Sat, 5 Sept 2026.
 
 DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Paraçek, DJ Traytex and KLING&KLANG. Next up: Mia Mao, Paris on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ DJ GUESTLIST is a techno and trance artist tracked on soundcheck, with 127 sets 
 
 Paraçek, DJ Traytex, KLING&KLANG
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

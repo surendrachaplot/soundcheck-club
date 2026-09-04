@@ -1,6 +1,6 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 19 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "BARCHAN" on Fri, 4 Sept 2026.
+Mastak is a music venue in Warsaw with 19 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BARCHAN" on Fri, 4 Sept 2026.
 
 Mastak is a music venue in Warsaw listed on soundcheck. 19 upcoming nights, with line-ups including Ania R, Densel, FM (PL) and Hermeneia and 2 more. Browse upcoming dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
@@ -23,4 +23,4 @@ Mastak is a music venue in Warsaw listed on soundcheck. 19 upcoming nights, with
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

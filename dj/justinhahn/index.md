@@ -1,6 +1,6 @@
 # Justin Hahn
 
-Justin Hahn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at MTW, Frankfurt on Fri, 2 Oct 2026.
+Justin Hahn is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at MTW, Frankfurt on Fri, 2 Oct 2026.
 
 Justin Hahn is a techno and trance artist based in Germany, tracked on soundcheck, with 19 sets logged across Amsterdam, Frankfurt and Ibiza. Often billed alongside CiKi, Kacy and MRCL. Next up: MTW, Frankfurt on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Justin Hahn is a techno and trance artist based in Germany, tracked on soundchec
 
 CiKi, Kacy, MRCL
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinhahn/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinhahn/)*

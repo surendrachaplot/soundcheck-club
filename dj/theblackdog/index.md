@@ -1,6 +1,6 @@
 # The Black Dog
 
-The Black Dog is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Gut Level, Sheffield on Thu, 17 Sept 2026.
+The Black Dog is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Gut Level, Sheffield on Thu, 17 Sept 2026.
 
 The Black Dog is a techno and ambient artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, Chicago, London and Manchester and 1 more. Often billed alongside Richard Akingbehin, 96 Back and A Guy Called Gerald. Next up: Gut Level, Sheffield on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ The Black Dog is a techno and ambient artist based in United Kingdom, tracked on
 
 Richard Akingbehin, 96 Back, A Guy Called Gerald
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackdog/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackdog/)*

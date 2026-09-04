@@ -1,6 +1,6 @@
 # Quince
 
-Quince is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fabrik, Madrid on Sat, 3 Oct 2026.
+Quince is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fabrik, Madrid on Sat, 3 Oct 2026.
 
 Quince is an electronic artist tracked on soundcheck, with 6 sets logged across Berlin, Madrid and Rotterdam. Often billed alongside H1pnos1s, Sandwicho and Amo (IT). Next up: Fabrik, Madrid on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Quince is an electronic artist tracked on soundcheck, with 6 sets logged across 
 
 H1pnos1s, Sandwicho, Amo (IT)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quince/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quince/)*

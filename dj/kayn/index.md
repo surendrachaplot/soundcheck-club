@@ -1,6 +1,6 @@
 # KAYN
 
-KAYN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 3 Oct 2026.
+KAYN is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 821 Runnymede Rd, Toronto on Sat, 3 Oct 2026.
 
 KAYN is a techno and hardcore artist based in Canada, tracked on soundcheck, with 5 sets logged across Toronto. Often billed alongside KILL 9 1, R4TS and Maul (2). Next up: 821 Runnymede Rd, Toronto on Sat 3 Oct.
 
@@ -21,4 +21,4 @@ KAYN is a techno and hardcore artist based in Canada, tracked on soundcheck, wit
 
 KILL 9 1, R4TS, Maul (2)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayn/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayn/)*

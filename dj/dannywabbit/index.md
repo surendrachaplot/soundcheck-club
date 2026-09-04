@@ -1,13 +1,14 @@
 # Danny Wabbit
 
-Danny Wabbit is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 10 Oct 2026.
+Danny Wabbit is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at AUX Club, Athens on Fri, 18 Sept 2026.
 
-Danny Wabbit is a techno and trance artist tracked on soundcheck, with 56 sets logged across Amsterdam, Belgrade, Berlin and Brussels and 18 more. Often billed alongside The Chronics, Bours? and Lacchesi. Next up: Tempio del Futuro Perduto, Milan on Sat 10 Oct.
+Danny Wabbit is a techno and trance artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Belgrade and Berlin and 19 more. Often billed alongside The Chronics, Bours? and Lacchesi. Next up: AUX Club, Athens on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | AUX Club | Athens |
 | Sat, 10 Oct 2026 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
@@ -25,4 +26,4 @@ Danny Wabbit is a techno and trance artist tracked on soundcheck, with 56 sets l
 
 The Chronics, Bours?, Lacchesi
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*

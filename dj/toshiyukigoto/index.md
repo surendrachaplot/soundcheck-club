@@ -1,6 +1,6 @@
 # Toshiyuki Goto
 
-Toshiyuki Goto is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at DJ Bar Bridge, Tokyo on Sat, 5 Sept 2026.
+Toshiyuki Goto is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DJ Bar Bridge, Tokyo on Sat, 5 Sept 2026.
 
 Toshiyuki Goto is a house and techno artist based in Japan, tracked on soundcheck, with 350 sets logged across Seoul and Tokyo. Often billed alongside Eitetsu Takamiya, Kengo and DJ SHIKISAI. Next up: DJ Bar Bridge, Tokyo on Sat 5 Sept.
 
@@ -35,4 +35,4 @@ Toshiyuki Goto is a house and techno artist based in Japan, tracked on soundchec
 
 Eitetsu Takamiya, Kengo, DJ SHIKISAI
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toshiyukigoto/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toshiyukigoto/)*

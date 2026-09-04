@@ -1,6 +1,6 @@
 # Sona
 
-Sona is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Volt Club Milano, Milan on Fri, 18 Sept 2026.
+Sona is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Volt Club Milano, Milan on Fri, 18 Sept 2026.
 
 Sona is an afro house and house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Houston and Ibiza and 7 more. Often billed alongside Black Coffee, AMÉMÉ and BARON (UK). Next up: Volt Club Milano, Milan on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Sona is an afro house and house artist tracked on soundcheck, with 14 sets logge
 
 Black Coffee, AMÉMÉ, BARON (UK)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sona/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sona/)*

@@ -1,6 +1,6 @@
 # Funk Assault
 
-Funk Assault is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Funk Assault is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Funk Assault is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Basel and Belfast and 27 more. Often billed alongside Chlär, Alarico and 999999999. Next up: NOS Event Center, Losangeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Funk Assault is a techno and house artist tracked on soundcheck, with 71 sets lo
 
 Chlär, Alarico, 999999999
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkassault/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkassault/)*

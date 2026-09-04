@@ -1,6 +1,6 @@
 # MRAK
 
-MRAK is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Fri, 4 Sept 2026.
+MRAK is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Fri, 4 Sept 2026.
 
 MRAK is a techno and electronica artist tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Barcelona and Basel and 14 more. Often billed alongside Tale Of Us, Anyma and 19:26. Next up: Olympic Athletic Center of Athens, Athens on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ MRAK is a techno and electronica artist tracked on soundcheck, with 29 sets logg
 
 Tale Of Us, Anyma, 19:26
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrak/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrak/)*

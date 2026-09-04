@@ -1,6 +1,6 @@
 # Electric Garden
 
-Electric Garden is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "No Signal" on Sat, 12 Sept 2026.
+Electric Garden is a music venue in Dublin with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "No Signal" on Sat, 12 Sept 2026.
 
 Electric Garden is a music venue in Dublin listed on soundcheck. 3 upcoming nights, with line-ups including Leo Cardi and MOGO. Browse upcoming dates, start times and who's playing. 13-14 Liberty Lane, Dublin 8, D08 NF86.
 
@@ -16,4 +16,4 @@ Electric Garden is a music venue in Dublin listed on soundcheck. 3 upcoming nigh
 
 13-14 Liberty Lane, Dublin 8, D08 NF86, Dublin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/electric-garden/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/electric-garden/)*

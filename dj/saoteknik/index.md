@@ -1,6 +1,6 @@
 # SaoTeknik
 
-SaoTeknik is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar Temp., Bangkok on Sat, 19 Sept 2026.
+SaoTeknik is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar Temp., Bangkok on Sat, 19 Sept 2026.
 
 SaoTeknik is a house and minimal artist based in Thailand, tracked on soundcheck, with 45 sets logged across Bangkok and Osaka. Often billed alongside Elaheh, Gishiyama and JAKRIN. Next up: Bar Temp., Bangkok on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ SaoTeknik is a house and minimal artist based in Thailand, tracked on soundcheck
 
 Elaheh, Gishiyama, JAKRIN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saoteknik/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saoteknik/)*

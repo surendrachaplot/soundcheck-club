@@ -1,13 +1,14 @@
 # Boomy
 
-Boomy is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Le Red Room, Montreal on Sun, 20 Sept 2026.
+Boomy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at NWHR, Montreal on Fri, 18 Sept 2026.
 
-Boomy is a techno and house artist based in Canada, tracked on soundcheck, with 17 sets logged across Montreal. Often billed alongside Clochette, CrisseMarqueur and abel.aiff. Next up: Le Red Room, Montreal on Sun 20 Sept.
+Boomy is a techno and house artist based in Canada, tracked on soundcheck, with 18 sets logged across Montreal. Often billed alongside Clochette, CrisseMarqueur and abel.aiff. Next up: NWHR, Montreal on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | NWHR | Montreal |
 | Sun, 20 Sept 2026 | Le Red Room | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Boomy is a techno and house artist based in Canada, tracked on soundcheck, with 
 
 Clochette, CrisseMarqueur, abel.aiff
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boomy/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boomy/)*

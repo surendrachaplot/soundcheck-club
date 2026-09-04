@@ -1,6 +1,6 @@
 # Kade Young
 
-Kade Young is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Kade Young is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Kade Young is a house and club artist based in United States of America, tracked on soundcheck, with 30 sets logged across Glasgow, London, Newyorkcity and Philadelphia and 2 more. Often billed alongside CalvoMusic, Tromac and Franxx. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kade Young is a house and club artist based in United States of America, tracked
 
 CalvoMusic, Tromac, Franxx
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeyoung/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kadeyoung/)*

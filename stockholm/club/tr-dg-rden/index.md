@@ -1,6 +1,6 @@
 # Trädgården
 
-Trädgården is a music venue in Stockholm with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Luigi Tozzi & Claudio PRC (LIVE) + Anthony Linell " on Fri, 4 Sept 2026.
+Trädgården is a music venue in Stockholm with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Luigi Tozzi & Claudio PRC (LIVE) + Anthony Linell " on Fri, 4 Sept 2026.
 
 Trädgården is a music venue in Stockholm listed on soundcheck. 7 upcoming nights, with line-ups including ALCATRAZ, Andree Bohlin, Anthony Linell and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Hammarby Slussväg 2, 118 60 Stockholm, Sweden.
 
@@ -20,4 +20,4 @@ Trädgården is a music venue in Stockholm listed on soundcheck. 7 upcoming nigh
 
 Hammarby Slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/tr-dg-rden/)*

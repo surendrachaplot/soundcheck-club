@@ -1,6 +1,6 @@
 # Merikan
 
-Merikan is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
+Merikan is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
 
 Merikan is a drum & bass and bass artist tracked on soundcheck, with 25 sets logged across Berlin, Bristol, Budapest and Geneva and 8 more. Often billed alongside Black Sun Empire, Audio and Pythius. Next up: Zuiderpark, Rotterdam on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Merikan is a drum & bass and bass artist tracked on soundcheck, with 25 sets log
 
 Black Sun Empire, Audio, Pythius
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merikan/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merikan/)*

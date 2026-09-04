@@ -1,6 +1,6 @@
 # TKS1T
 
-TKS1T is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Koara, Tokyo on Sat, 5 Sept 2026.
+TKS1T is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Koara, Tokyo on Sat, 5 Sept 2026.
 
 TKS1T is a house and techno artist based in Japan, tracked on soundcheck, with 74 sets logged across Tokyo. Often billed alongside Rina Sakai, TAT2K and BANANA-CHAN. Next up: Koara, Tokyo on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ TKS1T is a house and techno artist based in Japan, tracked on soundcheck, with 7
 
 Rina Sakai, TAT2K, BANANA-CHAN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tks1t/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tks1t/)*

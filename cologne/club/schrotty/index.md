@@ -1,8 +1,8 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 12 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "BZZBZZ TECHNO 3 YEAR ANNIVERSARY" on Fri, 4 Sept 2026.
+Schrotty is a music venue in Cologne with 13 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BZZBZZ TECHNO 3 YEAR ANNIVERSARY" on Fri, 4 Sept 2026.
 
-Schrotty is a music venue in Cologne listed on soundcheck. 12 upcoming nights, with line-ups including A.D.H.S., Adrian Mills, Anna Reusch and Anuuk and 2 more. Browse upcoming dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
+Schrotty is a music venue in Cologne listed on soundcheck. 13 upcoming nights, with line-ups including A.D.H.S., Adrian Mills, Andreas Kraemer and Anna Reusch and 2 more. Browse upcoming dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Schrotty is a music venue in Cologne listed on soundcheck. 12 upcoming nights, w
 | Fri, 25 Sept 2026 | EhrenKlub im Schrotty #14 mit USH, RIOT SHIFT, TITI, DIKKE BAAP, S*Y*N*K uvm |  |
 | Fri, 2 Oct 2026 | Adrenaline Family Tour | Adrian Mills, Cloudy, KUKO |
 | Sat, 3 Oct 2026 | SESH pres. MCR-T ANL | MCR-T |
-| Fri, 13 Nov 2026 | Swimming Paul @ Schrotty Köln | Swimming Paul |
+| Fri, 16 Oct 2026 | Pappenheimer, Kerstin Eden, A*S*Y*S, S. Groth, Drumcomplex uvm. by BACK2BASICS XXL | A*S*Y*S (2), Andreas Kraemer, Daniela Hensel, Drumcomplex, Kerstin Eden, Markus Weigelt, Matthias Olck, Nick Schwenderling, PETER PAHN, Sebastian Groth |
 
 ## Address
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

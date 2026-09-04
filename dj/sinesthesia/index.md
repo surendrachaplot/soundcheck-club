@@ -1,6 +1,6 @@
 # Sinesthesia
 
-Sinesthesia is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Macadam, Nantes on Fri, 30 Oct 2026.
+Sinesthesia is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Macadam, Nantes on Fri, 30 Oct 2026.
 
 Sinesthesia is a techno artist tracked on soundcheck, with 16 sets logged across Nantes and Paris. Often billed alongside Bailey Ibbs, Iman Janes and Maemm. Next up: Macadam, Nantes on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sinesthesia is a techno artist tracked on soundcheck, with 16 sets logged across
 
 Bailey Ibbs, Iman Janes, Maemm
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinesthesia/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinesthesia/)*

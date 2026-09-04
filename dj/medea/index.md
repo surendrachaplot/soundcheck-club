@@ -1,6 +1,6 @@
 # Medea
 
-Medea is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 5 Sept 2026.
+Medea is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 5 Sept 2026.
 
 Medea is a techno and house artist based in Germany, tracked on soundcheck, with 25 sets logged across Athens, Berlin, Cologne and Dortmund-essen and 4 more. Often billed alongside DJ SOURCE, Gutkind and DJ Hyaluron. Next up: Tresor.West, Dortmund-essen on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Medea is a techno and house artist based in Germany, tracked on soundcheck, with
 
 DJ SOURCE, Gutkind, DJ Hyaluron
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medea/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/medea/)*

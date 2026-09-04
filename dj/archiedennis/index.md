@@ -1,6 +1,6 @@
 # Archie Dennis
 
-Archie Dennis is a Electronica and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Back Room, Bali on Fri, 18 Sept 2026.
+Archie Dennis is a Electronica and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Back Room, Bali on Fri, 18 Sept 2026.
 
 Archie Dennis is an electronica and disco artist tracked on soundcheck, with 37 sets logged across Bali. Often billed alongside Bagvs, DITA (ID) and Danny. Next up: The Back Room, Bali on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Archie Dennis is an electronica and disco artist tracked on soundcheck, with 37 
 
 Bagvs, DITA (ID), Danny
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/archiedennis/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/archiedennis/)*

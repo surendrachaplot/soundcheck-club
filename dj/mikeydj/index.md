@@ -1,6 +1,6 @@
 # Mikey DJ
 
-Mikey DJ is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Horse & Groom, London on Sat, 24 Oct 2026.
+Mikey DJ is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Horse & Groom, London on Sat, 24 Oct 2026.
 
 Mikey DJ is a house and garage artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Birmingham and London. Often billed alongside Jeremy Sylvester, DJ MJ and MC CKP. Next up: The Horse & Groom, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mikey DJ is a house and garage artist based in United Kingdom, tracked on soundc
 
 Jeremy Sylvester, DJ MJ, MC CKP
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeydj/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeydj/)*

@@ -1,6 +1,6 @@
 # Elon
 
-Elon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Moondog Hifi, New York City on Fri, 25 Sept 2026.
+Elon is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Moondog Hifi, New York City on Fri, 25 Sept 2026.
 
 Elon is a house and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Detroit, Miami and Newyorkcity. Often billed alongside Jay Prouty, Chuwee and Vivian Wang. Next up: Moondog Hifi, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Elon is a house and techno artist based in United States of America, tracked on 
 
 Jay Prouty, Chuwee, Vivian Wang
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elon/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elon/)*

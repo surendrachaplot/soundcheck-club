@@ -1,8 +1,8 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 25 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Beneath Earth Pres. HNDRXX Birthday Bash" on Fri, 4 Sept 2026.
+Stage and Radio is a music venue in Manchester with 26 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Beneath Earth Pres. HNDRXX Birthday Bash" on Fri, 4 Sept 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 25 upcoming nights, with line-ups including adamine, AJ Jonesy, Anah and b_d (UK) and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 26 upcoming nights, with line-ups including adamine, AJ Jonesy, Anah and b_d (UK) and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 25 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

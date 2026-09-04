@@ -1,6 +1,6 @@
 # Jo Johnson
 
-Jo Johnson is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bello Bar, Dublin on Fri, 11 Sept 2026.
+Jo Johnson is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bello Bar, Dublin on Fri, 11 Sept 2026.
 
 Jo Johnson is an ambient and experimental artist tracked on soundcheck, with 23 sets logged across Berlin, Bristol, Detroit and Dublin and 8 more. Often billed alongside Erika, Bryan Kasenic and Mike Servito. Next up: Bello Bar, Dublin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Jo Johnson is an ambient and experimental artist tracked on soundcheck, with 23 
 
 Erika, Bryan Kasenic, Mike Servito
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jojohnson/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jojohnson/)*

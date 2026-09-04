@@ -1,6 +1,6 @@
 # Käthe
 
-Käthe is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Goldener Reiter, Munich on Fri, 4 Sept 2026.
+Käthe is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Goldener Reiter, Munich on Fri, 4 Sept 2026.
 
 Käthe is a house and deep house artist tracked on soundcheck, with 10 sets logged across Berlin, Hamburg and Munich. Often billed alongside David Franz, Käthe & Haes and S.3000. Next up: Goldener Reiter, Munich on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Käthe is a house and deep house artist tracked on soundcheck, with 10 sets logg
 
 David Franz, Käthe & Haes, S.3000
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kathe/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kathe/)*

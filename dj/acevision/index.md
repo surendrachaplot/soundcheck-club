@@ -1,6 +1,6 @@
 # Ace Vision
 
-Ace Vision is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Back Room, Bali on Fri, 18 Sept 2026.
+Ace Vision is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Back Room, Bali on Fri, 18 Sept 2026.
 
 Ace Vision is a techno and electronica artist tracked on soundcheck, with 13 sets logged across Amsterdam, Bali, Barcelona and Berlin and 6 more. Often billed alongside Andrea Vietti, Archie Dennis and CLO (2). Next up: The Back Room, Bali on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ace Vision is a techno and electronica artist tracked on soundcheck, with 13 set
 
 Andrea Vietti, Archie Dennis, CLO (2)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acevision/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acevision/)*

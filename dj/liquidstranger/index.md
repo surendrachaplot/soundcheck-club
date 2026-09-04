@@ -1,6 +1,6 @@
 # Liquid Stranger
 
-Liquid Stranger is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Liquid Stranger is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
 Liquid Stranger is a bass and dubstep artist tracked on soundcheck, with 17 sets logged across Amsterdam, Austin, Chicago and London and 6 more. Often billed alongside Galantis, KREAM and Zedd. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Liquid Stranger is a bass and dubstep artist tracked on soundcheck, with 17 sets
 
 Galantis, KREAM, Zedd
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidstranger/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidstranger/)*

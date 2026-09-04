@@ -1,6 +1,6 @@
 # SIMZ (DE)
 
-SIMZ (DE) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at KitKatClub, Berlin on Sun, 15 Nov 2026.
+SIMZ (DE) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at KitKatClub, Berlin on Sun, 15 Nov 2026.
 
 SIMZ (DE) is a techno and tech house artist based in Germany, tracked on soundcheck, with 5 sets logged across Bangkok and Berlin. Often billed alongside K-H1, Cristian Marras and 5.5MM. Next up: KitKatClub, Berlin on Sun 15 Nov.
 
@@ -21,4 +21,4 @@ SIMZ (DE) is a techno and tech house artist based in Germany, tracked on soundch
 
 K-H1, Cristian Marras, 5.5MM
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simz-de/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simz-de/)*

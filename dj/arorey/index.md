@@ -1,6 +1,6 @@
 # Aro Rey
 
-Aro Rey is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Specka, Madrid on Fri, 25 Sept 2026.
+Aro Rey is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Specka, Madrid on Fri, 25 Sept 2026.
 
 Aro Rey is a house and tech house artist tracked on soundcheck, with 10 sets logged across Madrid. Often billed alongside B444P, Baugust and DHERMIDA. Next up: Specka, Madrid on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Aro Rey is a house and tech house artist tracked on soundcheck, with 10 sets log
 
 B444P, Baugust, DHERMIDA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arorey/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arorey/)*

@@ -1,6 +1,6 @@
 # Melina Serser
 
-Melina Serser is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Sheffield on Fri, 4 Sept 2026.
+Melina Serser is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Sheffield on Fri, 4 Sept 2026.
 
 Melina Serser is a house and techno artist tracked on soundcheck, with 53 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside Jane Fitz, DJ Koolt and ASIA (DE). Next up: TBA, Sheffield on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Melina Serser is a house and techno artist tracked on soundcheck, with 53 sets l
 
 Jane Fitz, DJ Koolt, ASIA (DE)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melinaserser/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melinaserser/)*

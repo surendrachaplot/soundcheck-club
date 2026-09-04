@@ -1,8 +1,8 @@
 # Alinka
 
-Alinka is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at BASEMENT, New York City on Sat, 12 Sept 2026.
+Alinka is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at BASEMENT, New York City on Sat, 12 Sept 2026.
 
-Alinka is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: BASEMENT, Newyorkcity on Sat 12 Sept.
+Alinka is a house and techno artist tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: BASEMENT, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alinka is a house and techno artist tracked on soundcheck, with 112 sets logged 
 | Sat, 12 Sept 2026 | BASEMENT | New York City |
 | Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 17 Oct 2026 | Studio Club Malaga | Malaga |
+| Fri, 23 Oct 2026 | Q-Factory | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Alinka is a house and techno artist tracked on soundcheck, with 112 sets logged 
 
 Massimiliano Pagliara, Budino, Sara Miller
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*

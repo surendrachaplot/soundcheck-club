@@ -1,6 +1,6 @@
 # Okain
 
-Okain is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club der Visionaere, Berlin on Sat, 12 Sept 2026.
+Okain is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Club der Visionaere, Berlin on Sat, 12 Sept 2026.
 
 Okain is a house and tech house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 5 more. Often billed alongside Ray Okpara, Marko Nastic and Juan Ramos. Next up: Club der Visionaere, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Okain is a house and tech house artist tracked on soundcheck, with 26 sets logge
 
 Ray Okpara, Marko Nastic, Juan Ramos
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okain/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okain/)*

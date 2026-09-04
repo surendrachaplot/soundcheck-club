@@ -1,6 +1,6 @@
 # BABYKOOOL
 
-BABYKOOOL is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Henz Club, Seoul on Fri, 4 Sept 2026.
+BABYKOOOL is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Henz Club, Seoul on Fri, 4 Sept 2026.
 
 BABYKOOOL is a hip-hop and club artist based in South Korea, tracked on soundcheck, with 42 sets logged across Seoul. Often billed alongside Daul, BILL.E and DOBERMAN. Next up: The Henz Club, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ BABYKOOOL is a hip-hop and club artist based in South Korea, tracked on soundche
 
 Daul, BILL.E, DOBERMAN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babykoool/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babykoool/)*

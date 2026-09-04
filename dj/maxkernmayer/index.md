@@ -1,6 +1,6 @@
 # Max Kernmayer
 
-Max Kernmayer is a Techno and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ganz Wien, Vienna on Fri, 4 Sept 2026.
+Max Kernmayer is a Techno and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ganz Wien, Vienna on Fri, 4 Sept 2026.
 
 Max Kernmayer is a techno and afrobeat artist based in Austria, tracked on soundcheck, with 14 sets logged across Vienna. Often billed alongside Ele Luz, Traumata and Anni Herzer. Next up: Ganz Wien, Vienna on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Max Kernmayer is a techno and afrobeat artist based in Austria, tracked on sound
 
 Ele Luz, Traumata, Anni Herzer
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkernmayer/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkernmayer/)*

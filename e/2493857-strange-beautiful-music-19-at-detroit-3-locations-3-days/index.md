@@ -1,6 +1,6 @@
 # Strange Beautiful Music 19 at Detroit - 3 Locations / 3 Days
 
-Strange Beautiful Music 19 at Detroit - 3 Locations / 3 Days on Thu 10 Sept, Detroit. 4 acts on the bill: Joy Guidry, Philip Glass, Shigeto and Tammy Lakkis. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Strange Beautiful Music 19 at Detroit - 3 Locations / 3 Days on Thu 10 Sept, Detroit. 5 acts on the bill: Joy Guidry, New Music Detroit, Philip Glass and Shigeto and 1 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Strange Beautiful Music 19 at Detroit - 3 Locations / 3 Days on Thu 10 Sept, Det
 ## Line-up
 
 - Joy Guidry
+- New Music Detroit
 - Philip Glass
 - Shigeto
 - Tammy Lakkis

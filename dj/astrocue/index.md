@@ -1,6 +1,6 @@
 # Astrocue
 
-Astrocue is a Progressive House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DNA. CLUB, Berlin on Fri, 4 Sept 2026.
+Astrocue is a Progressive House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at DNA. CLUB, Berlin on Fri, 4 Sept 2026.
 
 Astrocue is a progressive house and dub techno artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Tallah, Anne-Sophie Selig and Fabian Fischbach. Next up: DNA. CLUB, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Astrocue is a progressive house and dub techno artist tracked on soundcheck, wit
 
 Tallah, Anne-Sophie Selig, Fabian Fischbach
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrocue/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrocue/)*

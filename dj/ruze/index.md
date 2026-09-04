@@ -1,14 +1,13 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 3 Sept 2026.
+RUZE is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at FORGE, Sheffield on Sat, 5 Sept 2026.
 
-RUZE is a house and tech house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Chinois Ibiza, Ibiza on Thu 3 Sept.
+RUZE is a house and tech house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: FORGE, Sheffield on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 5 Sept 2026 | FORGE | Sheffield |
 | Wed, 16 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
@@ -20,9 +19,11 @@ RUZE is a house and tech house artist tracked on soundcheck, with 120 sets logge
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Sat, 31 Oct 2026 | The Nest | Nottingham |
+| Sat, 7 Nov 2026 | Mint XL | Leeds |
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Thu, 3 Sept 2026
 - Hornblower Spirit, San Francisco/Oakland — Sat, 22 Aug 2026
 - Elsewhere, New York City — Fri, 21 Aug 2026
 - UNLOCKED, London — Thu, 16 Jul 2026
@@ -30,10 +31,9 @@ RUZE is a house and tech house artist tracked on soundcheck, with 120 sets logge
 - Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
 - Cova Santa, Ibiza — Tue, 23 Jun 2026
 - Club Space Miami, Miami — Fri, 19 Jun 2026
-- TBA - Multiple Venues, Malta — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

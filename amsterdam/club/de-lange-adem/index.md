@@ -1,6 +1,6 @@
 # De Lange Adem
 
-De Lange Adem is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Soirée of Butoh" on Sun, 4 Oct 2026.
+De Lange Adem is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Soirée of Butoh" on Sun, 4 Oct 2026.
 
 De Lange Adem is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Interlude and Pause. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ De Lange Adem is a music venue in Amsterdam listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Soirée of Butoh | Interlude, Pause |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-lange-adem/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-lange-adem/)*

@@ -1,6 +1,6 @@
 # Buddy. (2)
 
-Buddy. (2) is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 11 Sept 2026.
+Buddy. (2) is a Tech House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 11 Sept 2026.
 
 Buddy. (2) is a tech house and deep house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London and Manchester. Often billed alongside Sunny D, Theo G (UK) and AJC (UK). Next up: NUMBER 90 LONDON, London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Buddy. (2) is a tech house and deep house artist based in United Kingdom, tracke
 
 Sunny D, Theo G (UK), AJC (UK)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buddy.-2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buddy.-2/)*

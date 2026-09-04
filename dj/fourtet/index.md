@@ -1,6 +1,6 @@
 # Four Tet
 
-Four Tet is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Brooklyn Storehouse, New York City on Thu, 17 Sept 2026.
+Four Tet is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Brooklyn Storehouse, New York City on Thu, 17 Sept 2026.
 
 Four Tet is a house and techno artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside Skrillex, Ben UFO and Floating Points. Next up: Brooklyn Storehouse, Newyorkcity on Thu 17 Sept.
 
@@ -30,4 +30,4 @@ Four Tet is a house and techno artist based in United Kingdom, tracked on soundc
 
 Skrillex, Ben UFO, Floating Points
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fourtet/)*

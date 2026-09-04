@@ -1,6 +1,6 @@
 # The Fitness
 
-The Fitness is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Vino Disco, Montreal on Fri, 4 Sept 2026.
+The Fitness is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Vino Disco, Montreal on Fri, 4 Sept 2026.
 
 The Fitness is a house and techno artist based in Canada, tracked on soundcheck, with 19 sets logged across Montreal, Newyorkcity and Toronto. Often billed alongside Matt FX, Mona Matsuoka and Body Art. Next up: Vino Disco, Montreal on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ The Fitness is a house and techno artist based in Canada, tracked on soundcheck,
 
 Matt FX, Mona Matsuoka, Body Art
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thefitness/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thefitness/)*

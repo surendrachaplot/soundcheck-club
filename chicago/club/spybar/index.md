@@ -1,14 +1,13 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "ARC After Dark: Luke Dean" on Thu, 3 Sept 2026.
+Spybar is a music venue in Chicago with 17 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "ARC After Dark: Brunello" on Fri, 4 Sept 2026.
 
-Spybar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, with line-ups including ARVI MALA, Brunello, CRi and Dam Swindle and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
+Spybar is a music venue in Chicago listed on soundcheck. 17 upcoming nights, with line-ups including ARVI MALA, Brunello, CRi and Dam Swindle and 2 more. Browse upcoming dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | ARC After Dark: Luke Dean | Luke Dean_ |
 | Fri, 4 Sept 2026 | ARC After Dark: Brunello | Brunello |
 | Sat, 5 Sept 2026 | ARC After Dark: Omar | Omar+ |
 | Sun, 6 Sept 2026 | ARC After Dark: Jamback + Marsolo | Jamback, Marsolo |
@@ -18,9 +17,10 @@ Spybar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, wit
 | Thu, 17 Sept 2026 | Minimal Madness feat. Zack Darza | EUPHORIC STATE |
 | Fri, 18 Sept 2026 | Dean Turnley | Dean Turnley |
 | Sat, 19 Sept 2026 | Tini Gessler | Tini Gessler |
+| Fri, 25 Sept 2026 | Dam Swindle | Dam Swindle |
 
 ## Address
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

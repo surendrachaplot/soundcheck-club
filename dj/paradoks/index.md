@@ -1,6 +1,6 @@
 # Paradoks
 
-Paradoks is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bikini Club, Barcelona on Sat, 12 Sept 2026.
+Paradoks is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bikini Club, Barcelona on Sat, 12 Sept 2026.
 
 Paradoks is a techno and progressive house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside Nora En Pure, Corren Cavini and Miss Monique. Next up: Bikini Club, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Paradoks is a techno and progressive house artist tracked on soundcheck, with 32
 
 Nora En Pure, Corren Cavini, Miss Monique
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paradoks/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paradoks/)*

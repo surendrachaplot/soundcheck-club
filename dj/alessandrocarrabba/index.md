@@ -1,6 +1,6 @@
 # Alessandro Carrabba
 
-Alessandro Carrabba is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 4 Sept 2026.
+Alessandro Carrabba is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 4 Sept 2026.
 
 Alessandro Carrabba is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Seattle. Often billed alongside Nick Carroll, 'nohup' and ACHAMA. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Alessandro Carrabba is a house and techno artist based in United States of Ameri
 
 Nick Carroll, 'nohup', ACHAMA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandrocarrabba/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandrocarrabba/)*

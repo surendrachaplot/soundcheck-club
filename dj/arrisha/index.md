@@ -1,6 +1,6 @@
 # ARRISHA
 
-ARRISHA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Teritorija, Riga on Sat, 12 Sept 2026.
+ARRISHA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Teritorija, Riga on Sat, 12 Sept 2026.
 
 ARRISHA is a house and techno artist tracked on soundcheck, with 52 sets logged across Riga and Tallinn. Often billed alongside Notwelcome, BASSBOSS and ANGEDONIYA. Next up: Teritorija, Riga on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ ARRISHA is a house and techno artist tracked on soundcheck, with 52 sets logged 
 
 Notwelcome, BASSBOSS, ANGEDONIYA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arrisha/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arrisha/)*

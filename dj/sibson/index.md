@@ -1,6 +1,6 @@
 # Sibson
 
-Sibson is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Desterro, Lisbon on Fri, 11 Sept 2026.
+Sibson is a Acid and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Desterro, Lisbon on Fri, 11 Sept 2026.
 
 Sibson is an acid and electronica artist tracked on soundcheck, with 45 sets logged across Berlin, Istanbul, Lisbon and London and 1 more. Often billed alongside Mariana Raposo, Mikey Sibson and Nick Craddock. Next up: Desterro, Lisbon on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Sibson is an acid and electronica artist tracked on soundcheck, with 45 sets log
 
 Mariana Raposo, Mikey Sibson, Nick Craddock
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibson/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sibson/)*

@@ -1,6 +1,6 @@
 # Sunrush
 
-Sunrush is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cascina nascosta, Milan on Sun, 20 Sept 2026.
+Sunrush is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cascina nascosta, Milan on Sun, 20 Sept 2026.
 
 Sunrush is an electronica and house artist tracked on soundcheck, with 16 sets logged across Milan. Often billed alongside Lvca, Lovin Duo and Side Quest. Next up: Cascina nascosta, Milan on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Sunrush is an electronica and house artist tracked on soundcheck, with 16 sets l
 
 Lvca, Lovin Duo, Side Quest
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunrush/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunrush/)*

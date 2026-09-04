@@ -1,6 +1,6 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Refuge, New York City on Fri, 4 Sept 2026.
+Prunk is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Refuge, New York City on Fri, 4 Sept 2026.
 
 Prunk is a house and tech house artist tracked on soundcheck, with 299 sets logged across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Refuge, Newyorkcity on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Prunk is a house and tech house artist tracked on soundcheck, with 299 sets logg
 
 Kellie Allen, M-High, Robbie Doherty
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prunk/)*

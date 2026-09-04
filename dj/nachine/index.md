@@ -1,6 +1,6 @@
 # Nachine
 
-Nachine is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cadavra, Madrid on Fri, 4 Sept 2026.
+Nachine is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cadavra, Madrid on Fri, 4 Sept 2026.
 
 Nachine is an electronica and house artist based in Spain, tracked on soundcheck, with 12 sets logged across Madrid. Often billed alongside SexNachine, Aury and CINCOCEROSEIS. Next up: Cadavra, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Nachine is an electronica and house artist based in Spain, tracked on soundcheck
 
 SexNachine, Aury, CINCOCEROSEIS
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nachine/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nachine/)*

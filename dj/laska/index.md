@@ -1,6 +1,6 @@
 # Laska
 
-Laska is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kauz, Zurich on Sat, 19 Sept 2026.
+Laska is a Downtempo and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kauz, Zurich on Sat, 19 Sept 2026.
 
 Laska is a downtempo and house artist tracked on soundcheck, with 23 sets logged across Berlin and Zurich. Often billed alongside Florelle, Krash Cora and ONNY CHO. Next up: Kauz, Zurich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Laska is a downtempo and house artist tracked on soundcheck, with 23 sets logged
 
 Florelle, Krash Cora, ONNY CHO
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laska/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laska/)*

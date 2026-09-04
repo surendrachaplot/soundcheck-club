@@ -1,14 +1,15 @@
 # Max Beat
 
-Max Beat is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at NEO CLUB ROMA, Rome on Fri, 4 Sept 2026.
+Max Beat is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at NEO CLUB ROMA, Rome on Fri, 4 Sept 2026.
 
-Max Beat is a house and club artist tracked on soundcheck, with 45 sets logged across Rome. Often billed alongside Kikko, Flavio Rago and Marco Rea. Next up: NEO CLUB ROMA, Rome on Fri 4 Sept.
+Max Beat is a house and club artist tracked on soundcheck, with 46 sets logged across Rome. Often billed alongside Flavio Rago, Kikko and Marco Rea. Next up: NEO CLUB ROMA, Rome on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | NEO CLUB ROMA | Rome |
+| Sat, 12 Sept 2026 | NEO CLUB ROMA | Rome |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Max Beat is a house and club artist tracked on soundcheck, with 45 sets logged a
 
 ## Shares bills with
 
-Kikko, Flavio Rago, Marco Rea
+Flavio Rago, Kikko, Marco Rea
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbeat/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxbeat/)*

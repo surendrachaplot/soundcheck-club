@@ -1,6 +1,6 @@
 # Dimitrios (2)
 
-Dimitrios (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Das Werk, Vienna on Fri, 18 Sept 2026.
+Dimitrios (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Das Werk, Vienna on Fri, 18 Sept 2026.
 
 Dimitrios (2) is a techno and trance artist tracked on soundcheck, with 29 sets logged across Stuttgart and Vienna. Often billed alongside presso, DJ Böhm and DJ FERRARI. Next up: Das Werk, Vienna on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Dimitrios (2) is a techno and trance artist tracked on soundcheck, with 29 sets 
 
 presso, DJ Böhm, DJ FERRARI
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrios-2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrios-2/)*

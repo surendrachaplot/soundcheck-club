@@ -1,6 +1,6 @@
 # Julia Linkogel
 
-Julia Linkogel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Volt Club Milano, Milan on Sat, 19 Sept 2026.
+Julia Linkogel is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Volt Club Milano, Milan on Sat, 19 Sept 2026.
 
 Julia Linkogel is a techno and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Basel and Berlin and 8 more. Often billed alongside Adriatique, Baime and Ae:ther. Next up: Volt Club Milano, Milan on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Julia Linkogel is a techno and house artist based in Germany, tracked on soundch
 
 Adriatique, Baime, Ae:ther
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*

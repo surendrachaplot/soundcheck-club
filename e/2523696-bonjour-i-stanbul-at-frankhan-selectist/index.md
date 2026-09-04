@@ -1,6 +1,6 @@
 # Bonjour İstanbul at Frankhan Selectist
 
-Bonjour İstanbul at Frankhan Selectist on Fri 4 Sept, Istanbul. 1 act on the bill: Calabasa. Preview the line-up and save it on soundcheck.
+Bonjour İstanbul at Frankhan Selectist on Fri 4 Sept, Istanbul. 2 acts on the bill: Calabasa and Övet. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Bonjour İstanbul at Frankhan Selectist on Fri 4 Sept, Istanbul. 1 act on the bi
 ## Line-up
 
 - Calabasa
+- Övet
 
 *Source: [soundcheck](https://soundcheck.club/e/2523696-bonjour-i-stanbul-at-frankhan-selectist/)*

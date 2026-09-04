@@ -1,6 +1,6 @@
 # KOLLIN
 
-KOLLIN is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at fabric, London on Fri, 2 Oct 2026.
+KOLLIN is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at fabric, London on Fri, 2 Oct 2026.
 
 KOLLIN is a club and bass artist tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, London and Paris and 3 more. Often billed alongside Kitty, DJ Co.kr and KISEWA. Next up: fabric, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ KOLLIN is a club and bass artist tracked on soundcheck, with 50 sets logged acro
 
 Kitty, DJ Co.kr, KISEWA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kollin/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kollin/)*

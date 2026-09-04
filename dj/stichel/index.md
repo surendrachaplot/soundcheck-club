@@ -1,6 +1,6 @@
 # Stichel
 
-Stichel is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+Stichel is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
 
 Stichel is a techno and trance artist tracked on soundcheck, with 17 sets logged across Nurnberg. Often billed alongside atjan, TSAVAGE and In Verruf. Next up: E-Werk Kulturzentrum, Nurnberg on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Stichel is a techno and trance artist tracked on soundcheck, with 17 sets logged
 
 atjan, TSAVAGE, In Verruf
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stichel/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stichel/)*

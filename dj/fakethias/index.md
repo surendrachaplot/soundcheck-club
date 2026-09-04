@@ -1,6 +1,6 @@
 # Fakethias
 
-Fakethias is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OIL Club, Shenzhen on Sat, 10 Oct 2026.
+Fakethias is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OIL Club, Shenzhen on Sat, 10 Oct 2026.
 
 Fakethias is a techno and club artist based in Norway, tracked on soundcheck, with 27 sets logged across Berlin, Brussels, Copenhagen and Losangeles and 5 more. Often billed alongside sport7000, Onleash and TOXE. Next up: OIL Club, Shenzhen on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Fakethias is a techno and club artist based in Norway, tracked on soundcheck, wi
 
 sport7000, Onleash, TOXE
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fakethias/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fakethias/)*

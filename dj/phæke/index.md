@@ -1,6 +1,6 @@
 # Phæke
 
-Phæke is a IDM and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The DBA, Manchester on Thu, 10 Sept 2026.
+Phæke is a IDM and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The DBA, Manchester on Thu, 10 Sept 2026.
 
 Phæke is an idm and minimal techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Liverpool and Manchester. Often billed alongside Dj Streaks, Mia Mai and J. Conley. Next up: The DBA, Manchester on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Phæke is an idm and minimal techno artist based in United Kingdom, tracked on s
 
 Dj Streaks, Mia Mai, J. Conley
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phæke/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phæke/)*

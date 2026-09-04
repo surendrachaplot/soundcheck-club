@@ -1,6 +1,6 @@
 # Fried Pork Chop
 
-Fried Pork Chop is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Trough X Sydney, Sydney on Sat, 12 Sept 2026.
+Fried Pork Chop is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Trough X Sydney, Sydney on Sat, 12 Sept 2026.
 
 Fried Pork Chop is a techno and house artist tracked on soundcheck, with 25 sets logged across London and Sydney. Often billed alongside Dan Azzo, Isa (5) and Baschoe. Next up: Trough X Sydney, Sydney on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Fried Pork Chop is a techno and house artist tracked on soundcheck, with 25 sets
 
 Dan Azzo, Isa (5), Baschoe
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/friedporkchop/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/friedporkchop/)*

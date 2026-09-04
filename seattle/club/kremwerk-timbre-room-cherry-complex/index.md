@@ -1,6 +1,6 @@
 # Kremwerk-Timbre Room-Cherry Complex
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Rabba's House: 'nohup'" on Fri, 4 Sept 2026.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Rabba's House: 'nohup'" on Fri, 4 Sept 2026.
 
 Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 7 upcoming nights, with line-ups including Alessandro Carrabba, alexia.f, Ana-Lucid and Black Rave Culture and 2 more. Browse upcoming dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
 
@@ -20,4 +20,4 @@ Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundc
 
 1809 Minor Ave #10, Seattle, WA 98101 USA, Seattle
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*

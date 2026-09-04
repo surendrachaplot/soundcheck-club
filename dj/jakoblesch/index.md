@@ -1,6 +1,6 @@
 # Jakob Lesch
 
-Jakob Lesch is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at AMT, Berlin on Sat, 12 Sept 2026.
+Jakob Lesch is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at AMT, Berlin on Sat, 12 Sept 2026.
 
 Jakob Lesch is a techno and tech house artist tracked on soundcheck, with 34 sets logged across Amsterdam, Bangkok, Berlin and Frankfurt and 4 more. Often billed alongside Tuna (DE), Daria Zadekova and Bonq. Next up: AMT, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jakob Lesch is a techno and tech house artist tracked on soundcheck, with 34 set
 
 Tuna (DE), Daria Zadekova, Bonq
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakoblesch/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakoblesch/)*

@@ -1,6 +1,6 @@
 # Tumbalong Park
 
-Tumbalong Park is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Electric Nation Halloween Edition 2026" on Fri, 30 Oct 2026.
+Tumbalong Park is a music venue in Sydney with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Electric Nation Halloween Edition 2026" on Fri, 30 Oct 2026.
 
 Tumbalong Park is a music venue in Sydney listed on soundcheck. 3 upcoming nights, with line-ups including Bag Raiders, Catching Flies, Dosem and Eli & Fur and 2 more. Browse upcoming dates, start times and who's playing. Darling Harbour, NSW 2000; Australia.
 
@@ -16,4 +16,4 @@ Tumbalong Park is a music venue in Sydney listed on soundcheck. 3 upcoming night
 
 Darling Harbour, NSW 2000; Australia, Sydney
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tumbalong-park/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tumbalong-park/)*

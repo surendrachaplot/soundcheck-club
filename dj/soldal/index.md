@@ -1,6 +1,6 @@
 # Soldal
 
-Soldal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jaeger, Oslo on Fri, 2 Oct 2026.
+Soldal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jaeger, Oslo on Fri, 2 Oct 2026.
 
 Soldal is a house and techno artist tracked on soundcheck, with 9 sets logged across Oslo. Often billed alongside 360Mads, G-HA and Kevin Saunderson. Next up: Jaeger, Oslo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Soldal is a house and techno artist tracked on soundcheck, with 9 sets logged ac
 
 360Mads, G-HA, Kevin Saunderson
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soldal/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soldal/)*

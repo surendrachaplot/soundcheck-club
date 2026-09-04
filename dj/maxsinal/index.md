@@ -1,6 +1,6 @@
 # Max Sinàl
 
-Max Sinàl is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KOKO, London on Fri, 4 Sept 2026.
+Max Sinàl is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at KOKO, London on Fri, 4 Sept 2026.
 
 Max Sinàl is a deep house and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Brighton and London. Often billed alongside Mr James, LEV (UK) and Elliot Schooling. Next up: KOKO, London on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Max Sinàl is a deep house and house artist tracked on soundcheck, with 32 sets 
 
 Mr James, LEV (UK), Elliot Schooling
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*

@@ -1,6 +1,6 @@
 # Ricky Montanari
 
-Ricky Montanari is a Italo Disco and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Monza Boschetti Reali , Milan on Fri, 4 Sept 2026.
+Ricky Montanari is a Italo Disco and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Monza Boschetti Reali , Milan on Fri, 4 Sept 2026.
 
 Ricky Montanari is an italo disco and minimal techno artist tracked on soundcheck, with 12 sets logged across Berlin, Milan, Paris and Rome and 1 more. Often billed alongside Simon T, Flavio Vecchi and Marcolino. Next up: TBA - Monza Boschetti Reali , Milan on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ricky Montanari is an italo disco and minimal techno artist tracked on soundchec
 
 Simon T, Flavio Vecchi, Marcolino
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymontanari/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymontanari/)*

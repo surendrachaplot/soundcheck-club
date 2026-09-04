@@ -1,6 +1,6 @@
 # Twitch DJs
 
-Twitch DJs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 5 Sept 2026.
+Twitch DJs is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Ulster Sports Club, Belfast on Sat, 5 Sept 2026.
 
 Twitch DJs is a techno and house artist tracked on soundcheck, with 32 sets logged across Belfast. Often billed alongside Holly Lester, Reger and Inside Moves. Next up: The Ulster Sports Club, Belfast on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Twitch DJs is a techno and house artist tracked on soundcheck, with 32 sets logg
 
 Holly Lester, Reger, Inside Moves
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twitchdjs-uk/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twitchdjs-uk/)*

@@ -1,6 +1,6 @@
 # Ammé
 
-Ammé is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
+Ammé is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
 Ammé is a house and tech house artist based in Netherlands, tracked on soundcheck, with 70 sets logged across Amsterdam, Ibiza, Rotterdam and Thehague and 1 more. Often billed alongside Benny Rodrigues, Michel de Hey and Easttown. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Ammé is a house and tech house artist based in Netherlands, tracked on soundche
 
 Benny Rodrigues, Michel de Hey, Easttown
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amme/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amme/)*

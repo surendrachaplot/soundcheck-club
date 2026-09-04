@@ -1,6 +1,6 @@
 # Davide Squillace
 
-Davide Squillace is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Monza Boschetti Reali , Milan on Sun, 6 Sept 2026.
+Davide Squillace is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Monza Boschetti Reali , Milan on Sun, 6 Sept 2026.
 
 Davide Squillace is a tech house and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Buenosaires and Denver and 11 more. Often billed alongside Marco Carola, Joey Daniel and Matthias Tanzmann. Next up: TBA - Monza Boschetti Reali , Milan on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Davide Squillace is a tech house and house artist tracked on soundcheck, with 55
 
 Marco Carola, Joey Daniel, Matthias Tanzmann
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidesquillace/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidesquillace/)*

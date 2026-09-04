@@ -1,19 +1,19 @@
 # Kaskade
 
-Kaskade is a House and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Pacha New York, New York City on Thu, 3 Sept 2026.
+Kaskade is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Factory Town, Miami on Fri, 18 Sept 2026.
 
-Kaskade is a house and bass artist tracked on soundcheck, with 51 sets logged across Austin, Chicago, Detroit and London and 9 more. Often billed alongside Green Velvet, Chris Lake and Eli Brown. Next up: Pacha New York, Newyorkcity on Thu 3 Sept.
+Kaskade is a house and bass artist tracked on soundcheck, with 51 sets logged across Austin, Chicago, Detroit and London and 9 more. Often billed alongside Green Velvet, Chris Lake and Eli Brown. Next up: Factory Town, Miami on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | Pacha New York | New York City |
 | Fri, 18 Sept 2026 | Factory Town | Miami |
 | Fri, 20 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 
+- Pacha New York, New York City — Thu, 3 Sept 2026
 - Void Mykonos, Mykonos — Sat, 25 Jul 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 18 Jul 2026
 - Brooklyn Army Terminal, New York City — Fri, 19 Jun 2026
@@ -21,10 +21,9 @@ Kaskade is a house and bass artist tracked on soundcheck, with 51 sets logged ac
 - Historic Virginia Key Beach Park, Miami — Sat, 28 Feb 2026
 - Petco Park, San Diego — Wed, 31 Dec 2025
 - Meyer Amphitheatre, Miami — Sat, 27 Dec 2025
-- Gallagher Square, San Diego — Sat, 8 Nov 2025
 
 ## Shares bills with
 
 Green Velvet, Chris Lake, Eli Brown
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaskade/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaskade/)*

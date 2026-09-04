@@ -1,6 +1,6 @@
 # Bake
 
-Bake is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at EXIT Glasgow, Glasgow on Sat, 12 Sept 2026.
+Bake is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at EXIT Glasgow, Glasgow on Sat, 12 Sept 2026.
 
 Bake is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Berlin, Bristol, Dublin and Edinburgh and 9 more. Often billed alongside Lewis Lowe, Batu and Libra Esterlina. Next up: EXIT Glasgow, Glasgow on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Bake is a techno and bass artist based in United Kingdom, tracked on soundcheck,
 
 Lewis Lowe, Batu, Libra Esterlina
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bake/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bake/)*

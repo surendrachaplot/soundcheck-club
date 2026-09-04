@@ -1,6 +1,6 @@
 # Lamache
 
-Lamache is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Refuge, New York City on Fri, 4 Sept 2026.
+Lamache is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Refuge, New York City on Fri, 4 Sept 2026.
 
 Lamache is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 35 more. Often billed alongside Aline Umber, Automatic Writing and Aline Brooklyn. Next up: Refuge, Newyorkcity on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Lamache is a house and techno artist tracked on soundcheck, with 112 sets logged
 
 Aline Umber, Automatic Writing, Aline Brooklyn
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*

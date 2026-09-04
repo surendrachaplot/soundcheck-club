@@ -1,6 +1,6 @@
 # DJ Python
 
-DJ Python is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at fabric, London on Sat, 12 Sept 2026.
+DJ Python is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at fabric, London on Sat, 12 Sept 2026.
 
 DJ Python is a techno and house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Austin, Barcelona and Belfast and 43 more. Often billed alongside Nick León, Ana Roxanne and Loidis. Next up: fabric, London on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ DJ Python is a techno and house artist tracked on soundcheck, with 184 sets logg
 
 Nick León, Ana Roxanne, Loidis
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*

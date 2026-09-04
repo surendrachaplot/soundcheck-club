@@ -1,6 +1,6 @@
 # Vancouver Playhouse
 
-Vancouver Playhouse is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "An Evening with Mark Mothersbaugh" on Thu, 8 Oct 2026.
+Vancouver Playhouse is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "An Evening with Mark Mothersbaugh" on Thu, 8 Oct 2026.
 
 Vancouver Playhouse is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Vancouver Playhouse is a music venue in Vancouver listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | An Evening with Mark Mothersbaugh |  |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/vancouver-playhouse/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/vancouver-playhouse/)*

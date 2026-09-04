@@ -1,6 +1,6 @@
 # Malika Mahmoud
 
-Malika Mahmoud is a Dembow and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Poolen, Copenhagen on Sat, 12 Sept 2026.
+Malika Mahmoud is a Dembow and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Poolen, Copenhagen on Sat, 12 Sept 2026.
 
 Malika Mahmoud is a dembow and techno artist tracked on soundcheck, with 15 sets logged across Berlin, Copenhagen and Stockholm. Often billed alongside Atusa, Muskila and Prof. Stranger. Next up: Poolen, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Malika Mahmoud is a dembow and techno artist tracked on soundcheck, with 15 sets
 
 Atusa, Muskila, Prof. Stranger
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malikamahmoud/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malikamahmoud/)*

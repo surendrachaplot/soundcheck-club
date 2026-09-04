@@ -1,6 +1,6 @@
 # Kray Atief
 
-Kray Atief is a Dub and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Filth, Amsterdam on Sat, 19 Sept 2026.
+Kray Atief is a Dub and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Filth, Amsterdam on Sat, 19 Sept 2026.
 
 Kray Atief is a dub and experimental artist tracked on soundcheck, with 19 sets logged across Amsterdam. Often billed alongside SBS (2), Anna Randt and Annebel. Next up: Filth, Amsterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Kray Atief is a dub and experimental artist tracked on soundcheck, with 19 sets 
 
 SBS (2), Anna Randt, Annebel
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krayatief/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krayatief/)*

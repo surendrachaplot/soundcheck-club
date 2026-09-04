@@ -1,6 +1,6 @@
 # Møreti
 
-Møreti is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
+Møreti is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
 
 Møreti is a techno and acid artist based in Czech Republic, tracked on soundcheck, with 49 sets logged across Berlin and Prague. Often billed alongside Vapanda, Eva Porating and Raphael Kosmos. Next up: Ankali & Planeta Za, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Møreti is a techno and acid artist based in Czech Republic, tracked on soundche
 
 Vapanda, Eva Porating, Raphael Kosmos
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moreti/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moreti/)*

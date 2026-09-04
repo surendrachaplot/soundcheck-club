@@ -1,6 +1,6 @@
 # Mizuki
 
-Mizuki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Spread, Tokyo on Sun, 13 Sept 2026.
+Mizuki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Spread, Tokyo on Sun, 13 Sept 2026.
 
 Mizuki is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Mexicocity, Newyorkcity and Tokyo. Often billed alongside DJ Sodeyama, Ko Umehara and Leo Gabriel. Next up: Spread, Tokyo on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Mizuki is a house and techno artist based in United Kingdom, tracked on soundche
 
 DJ Sodeyama, Ko Umehara, Leo Gabriel
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuki/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mizuki/)*

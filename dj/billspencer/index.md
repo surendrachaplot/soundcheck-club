@@ -1,6 +1,6 @@
 # Bill Spencer
 
-Bill Spencer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
+Bill Spencer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
 
 Bill Spencer is a house and techno artist tracked on soundcheck, with 17 sets logged across Detroit and Toronto. Often billed alongside Ryan Spencer, Scott Zacharias and Shigeto. Next up: MotorCity Wine, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Bill Spencer is a house and techno artist tracked on soundcheck, with 17 sets lo
 
 Ryan Spencer, Scott Zacharias, Shigeto
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billspencer/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billspencer/)*

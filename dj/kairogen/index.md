@@ -1,6 +1,6 @@
 # Kairogen
 
-Kairogen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+Kairogen is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
 Kairogen is a techno and house artist based in United Kingdom, tracked on soundcheck, with 103 sets logged across Barcelona, Bristol, Edinburgh and Glasgow and 1 more. Often billed alongside Slam, Skillis and Feena. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Kairogen is a techno and house artist based in United Kingdom, tracked on soundc
 
 Slam, Skillis, Feena
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kairogen/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kairogen/)*

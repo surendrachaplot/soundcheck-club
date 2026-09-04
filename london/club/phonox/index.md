@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 39 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "30 Years of Playaz: DJ Hype, DJ Hazard, Heist, Taxman + more" on Fri, 4 Sept 2026.
+Phonox is a music venue in London with 39 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "30 Years of Playaz: DJ Hype, DJ Hazard, Heist, Taxman + more" on Fri, 4 Sept 2026.
 
 Phonox is a music venue in London listed on soundcheck. 39 upcoming nights, with line-ups including Alan Fitzpatrick, Alba Heidari, Amaliah and amil raja and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -23,4 +23,4 @@ Phonox is a music venue in London listed on soundcheck. 39 upcoming nights, with
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

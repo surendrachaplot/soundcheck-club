@@ -1,6 +1,6 @@
 # Samuel Fish
 
-Samuel Fish is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fucine Vulcano, Milan on Sat, 5 Sept 2026.
+Samuel Fish is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fucine Vulcano, Milan on Sat, 5 Sept 2026.
 
 Samuel Fish is a techno and house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Detroit and Mexicocity and 5 more. Often billed alongside Henry Chow, Anthony Parasole and Handmade. Next up: Fucine Vulcano, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Samuel Fish is a techno and house artist based in United States of America, trac
 
 Henry Chow, Anthony Parasole, Handmade
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelfish/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelfish/)*

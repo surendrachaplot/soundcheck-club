@@ -1,6 +1,6 @@
 # Hicham (FR)
 
-Hicham (FR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at House of Q, Stockholm on Sat, 12 Sept 2026.
+Hicham (FR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at House of Q, Stockholm on Sat, 12 Sept 2026.
 
 Hicham (FR) is a house and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Walrus, Tomas Station and Arto. Next up: House of Q, Stockholm on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Hicham (FR) is a house and techno artist tracked on soundcheck, with 60 sets log
 
 Walrus, Tomas Station, Arto
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham-fr/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hicham-fr/)*

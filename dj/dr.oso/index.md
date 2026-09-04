@@ -1,6 +1,6 @@
 # Dr. Oso
 
-Dr. Oso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Melt Underground, Buenos Aires on Fri, 11 Sept 2026.
+Dr. Oso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Melt Underground, Buenos Aires on Fri, 11 Sept 2026.
 
 Dr. Oso is a techno and house artist based in Argentina, tracked on soundcheck, with 13 sets logged across Buenosaires. Often billed alongside May Mc Laren, Berger Muzik and Franz Scala. Next up: Melt Underground, Buenosaires on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Dr. Oso is a techno and house artist based in Argentina, tracked on soundcheck, 
 
 May Mc Laren, Berger Muzik, Franz Scala
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.oso/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.oso/)*

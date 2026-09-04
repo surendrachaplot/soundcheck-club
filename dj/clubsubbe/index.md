@@ -1,6 +1,6 @@
 # ClubSubbe
 
-ClubSubbe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat, 12 Sept 2026.
+ClubSubbe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat, 12 Sept 2026.
 
 ClubSubbe is a techno and trance artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Ravejezuz, Thielking and JUWLZ. Next up: TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ ClubSubbe is a techno and trance artist tracked on soundcheck, with 5 sets logge
 
 Ravejezuz, Thielking, JUWLZ
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsubbe/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsubbe/)*

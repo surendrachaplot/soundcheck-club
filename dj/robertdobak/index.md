@@ -1,6 +1,6 @@
 # Robert Dobak
 
-Robert Dobak is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Atno, Budapest on Fri, 25 Sept 2026.
+Robert Dobak is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Atno, Budapest on Fri, 25 Sept 2026.
 
 Robert Dobak is a minimal and house artist based in Hungary, tracked on soundcheck, with 28 sets logged across Budapest and Riga. Often billed alongside Cassiel, Electric Boutique and Martin 'M. Next up: Atno, Budapest on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Robert Dobak is a minimal and house artist based in Hungary, tracked on soundche
 
 Cassiel, Electric Boutique, Martin 'M
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdobak/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertdobak/)*

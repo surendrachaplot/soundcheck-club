@@ -1,6 +1,6 @@
 # Nastee Boi
 
-Nastee Boi is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Society Leeds, Leeds on Sat, 19 Sept 2026.
+Nastee Boi is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Society Leeds, Leeds on Sat, 19 Sept 2026.
 
 Nastee Boi is a bass and garage artist tracked on soundcheck, with 19 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside Chad Harrison, Jamie Duggan and Shaun Banger Scott. Next up: Society Leeds, Leeds on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nastee Boi is a bass and garage artist tracked on soundcheck, with 19 sets logge
 
 Chad Harrison, Jamie Duggan, Shaun Banger Scott
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nasteeboi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nasteeboi/)*

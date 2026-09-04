@@ -1,6 +1,6 @@
 # Kaloustian
 
-Kaloustian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Perro Loco, Berlin on Fri, 4 Sept 2026.
+Kaloustian is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Perro Loco, Berlin on Fri, 4 Sept 2026.
 
 Kaloustian is a house and techno artist tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside DALOG, Akatana and Fanfarrosa. Next up: Perro Loco, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Kaloustian is a house and techno artist tracked on soundcheck, with 20 sets logg
 
 DALOG, Akatana, Fanfarrosa
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaloustian/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaloustian/)*

@@ -1,6 +1,6 @@
 # SHMLSS
 
-SHMLSS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
+SHMLSS is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
 
 SHMLSS is a house and disco artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Rotterdam and 1 more. Often billed alongside Eileen (NL), Budino and Mowgli (NL). Next up: Het Dorp, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ SHMLSS is a house and disco artist tracked on soundcheck, with 25 sets logged ac
 
 Eileen (NL), Budino, Mowgli (NL)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shmlss/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shmlss/)*

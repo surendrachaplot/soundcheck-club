@@ -1,6 +1,6 @@
 # Boyos (1)
 
-Boyos (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Blaue Lagune, Düsseldorf on Sat, 5 Sept 2026.
+Boyos (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Blaue Lagune, Düsseldorf on Sat, 5 Sept 2026.
 
 Boyos (1) is a house and tech house artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona, Dusseldorf and Hamburg and 1 more. Often billed alongside Lis Sarroca, Tom Trago and Anil Aras. Next up: Blaue Lagune, Dusseldorf on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Boyos (1) is a house and tech house artist based in Netherlands, tracked on soun
 
 Lis Sarroca, Tom Trago, Anil Aras
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyos-1/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boyos-1/)*

@@ -1,6 +1,6 @@
 # Alte Feuerwache THF
 
-Alte Feuerwache THF is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "BRENN.XTRAVAGANZA" on Fri, 25 Sept 2026.
+Alte Feuerwache THF is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "BRENN.XTRAVAGANZA" on Fri, 25 Sept 2026.
 
 Alte Feuerwache THF is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including CHUKWU, Flemish.Fetish, TAMARR and VRTL. Browse upcoming dates, start times and who's playing. Tempelhofer Damm 45, 12101 Berlin.
 
@@ -14,4 +14,4 @@ Alte Feuerwache THF is a music venue in Berlin listed on soundcheck. 1 upcoming 
 
 Tempelhofer Damm 45, 12101 Berlin, Berlin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/alte-feuerwache-thf/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/alte-feuerwache-thf/)*

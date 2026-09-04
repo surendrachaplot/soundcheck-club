@@ -1,6 +1,6 @@
 # Nic Jericho
 
-Nic Jericho is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
+Nic Jericho is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - DTLA, Los Angeles on Sat, 12 Sept 2026.
 
 Nic Jericho is a house and tech house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Losangeles. Often billed alongside BUCK/OFF, masato and Flabbergast (LA). Next up: TBA - DTLA, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Nic Jericho is a house and tech house artist based in United States of America, 
 
 BUCK/OFF, masato, Flabbergast (LA)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicjericho/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicjericho/)*

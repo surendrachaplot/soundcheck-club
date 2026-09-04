@@ -1,6 +1,6 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "NIGHT SWETS X TRAUMAVILLE PRESENTS: THE 3RD EDITION" on Fri, 4 Sept 2026.
+The DBA is a music venue in Manchester with 20 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "NIGHT SWETS X TRAUMAVILLE PRESENTS: THE 3RD EDITION" on Fri, 4 Sept 2026.
 
 The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming nights, with line-ups including 4STR0, Aerbreak, atalaya and b.lo and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
@@ -9,8 +9,8 @@ The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming nights,
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | NIGHT SWETS X TRAUMAVILLE PRESENTS: THE 3RD EDITION | CBABY, FKA Hardcore, FOULMOUTH, PEPPA (2), RUBY RAWR, Selvasolstice |
-| Sat, 5 Sept 2026 | BOOTLEG 002 | Jess Rose, Karlie Marx, Maracuya, Qoqnut, atalaya |
-| Sat, 5 Sept 2026 | HOTLINE | 4STR0, Danny Roach, Deventi, Jase Jeffery, Kabel, djcd |
+| Sat, 5 Sept 2026 | BOOTLEG 002 | Jess Rose, Karlie Marx, MARACUYá, Qoqnut, atalaya |
+| Sat, 5 Sept 2026 | HOTLINE // GARDEN DAY PARTY | 4STR0, Danny Roach, Deventi, Jase Jeffery, Kabel, djcd |
 | Thu, 10 Sept 2026 | Rising by HØL | Fussey, Phæke, Rúadh, soulframe |
 | Fri, 11 Sept 2026 | Scarlett O'Malley at The DBA: Bad Intentions x All Kinds of Things | Gary Spesh, Layson, Marlon Baleci, Scarlett O'Malley |
 | Sat, 12 Sept 2026 | Babemaxxx: The Final Climaxxx | BMOL, MYOHMY, Pacemaker, e-kitty, gwlucas |
@@ -23,4 +23,4 @@ The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming nights,
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

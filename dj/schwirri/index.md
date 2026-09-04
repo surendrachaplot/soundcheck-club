@@ -1,6 +1,6 @@
 # Schwirri
 
-Schwirri is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 11 Sept 2026.
+Schwirri is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 11 Sept 2026.
 
 Schwirri is a techno and house artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Hamburg and Munich. Often billed alongside BARTi, Phauna and Rosa Kante. Next up: Jonny Knüppel, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Schwirri is a techno and house artist based in Germany, tracked on soundcheck, w
 
 BARTi, Phauna, Rosa Kante
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schwirri/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schwirri/)*

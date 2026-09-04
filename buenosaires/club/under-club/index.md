@@ -1,6 +1,6 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Under Club X ROOM" on Sat, 5 Sept 2026.
+Under Club is a music venue in Buenos Aires with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Under Club X ROOM" on Sat, 5 Sept 2026.
 
 Under Club is a music venue in Buenosaires listed on soundcheck. 6 upcoming nights, with line-ups including Ana Hagen, ANNĒ, Ben Klock and Bondarük and 2 more. Browse upcoming dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
@@ -19,4 +19,4 @@ Under Club is a music venue in Buenosaires listed on soundcheck. 6 upcoming nigh
 
 Niceto Vega 5699, 1425, Ciudad de Buenos Aires, Buenos Aires
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*

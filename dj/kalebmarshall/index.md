@@ -1,6 +1,6 @@
 # Kaleb Marshall
 
-Kaleb Marshall is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Blipsy Bar, Los Angeles on Fri, 30 Oct 2026.
+Kaleb Marshall is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Blipsy Bar, Los Angeles on Fri, 30 Oct 2026.
 
 Kaleb Marshall is a techno and experimental artist tracked on soundcheck, with 9 sets logged across Losangeles and Newyorkcity. Often billed alongside Luke Mele, Max Ellington and agraybé. Next up: Blipsy Bar, Losangeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kaleb Marshall is a techno and experimental artist tracked on soundcheck, with 9
 
 Luke Mele, Max Ellington, agraybé
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalebmarshall/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalebmarshall/)*

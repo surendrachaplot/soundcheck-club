@@ -1,6 +1,6 @@
 # Mui Mui
 
-Mui Mui is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
+Mui Mui is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
 
 Mui Mui is a techno and bass artist tracked on soundcheck, with 75 sets logged across Berlin, Copenhagen, London and Montreal and 4 more. Often billed alongside JIALING, DJ DEADNAME and Eva Loveless. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Mui Mui is a techno and bass artist tracked on soundcheck, with 75 sets logged a
 
 JIALING, DJ DEADNAME, Eva Loveless
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muimui/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muimui/)*

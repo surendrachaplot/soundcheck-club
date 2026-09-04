@@ -1,6 +1,6 @@
 # Serrian
 
-Serrian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Danger Danger, New York City on Sat, 5 Sept 2026.
+Serrian is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Danger Danger, New York City on Sat, 5 Sept 2026.
 
 Serrian is a house and techno artist tracked on soundcheck, with 55 sets logged across Chicago, Newyorkcity, Philadelphia and Tokyo. Often billed alongside Dio Garcia, Aria Pash and Ben Zo. Next up: Danger Danger, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Serrian is a house and techno artist tracked on soundcheck, with 55 sets logged 
 
 Dio Garcia, Aria Pash, Ben Zo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serrian/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/serrian/)*

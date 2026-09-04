@@ -1,6 +1,6 @@
 # Mina Tonic
 
-Mina Tonic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tokyo Sing Song, Sydney on Sat, 19 Sept 2026.
+Mina Tonic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tokyo Sing Song, Sydney on Sat, 19 Sept 2026.
 
 Mina Tonic is a house and techno artist based in Australia, tracked on soundcheck, with 29 sets logged across Melbourne and Sydney. Often billed alongside Ari Kiko, Casual P and Postponez. Next up: Tokyo Sing Song, Sydney on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Mina Tonic is a house and techno artist based in Australia, tracked on soundchec
 
 Ari Kiko, Casual P, Postponez
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minatonic/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/minatonic/)*

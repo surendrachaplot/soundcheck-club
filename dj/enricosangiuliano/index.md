@@ -1,6 +1,6 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Enrico Sangiuliano is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
 Enrico Sangiuliano is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Joseph Capriati. Next up: TBA - Parque de la Ciudad, CABA, Buenosaires on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Enrico Sangiuliano is a techno and house artist tracked on soundcheck, with 103 
 
 Charlotte de Witte, Anfisa Letyago, Joseph Capriati
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*

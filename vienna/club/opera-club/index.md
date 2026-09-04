@@ -1,6 +1,6 @@
 # Opera Club
 
-Opera Club is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "TINDER PARTY - НОЧЬ ЗНАКОМТСВ - ВАРШАВА" on Sat, 5 Sept 2026.
+Opera Club is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "TINDER PARTY - НОЧЬ ЗНАКОМТСВ - ВАРШАВА" on Sat, 5 Sept 2026.
 
 Opera Club is a music venue in Vienna listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Mahlerstrasse11; 1010 Vienna; Austria.
 
@@ -14,4 +14,4 @@ Opera Club is a music venue in Vienna listed on soundcheck. 1 upcoming night. Br
 
 Mahlerstrasse11; 1010 Vienna; Austria, Vienna
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/opera-club/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/opera-club/)*

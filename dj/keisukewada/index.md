@@ -1,14 +1,15 @@
 # Keisuke Wada
 
-Keisuke Wada is a Club and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Spanners, London on Sat, 5 Sept 2026.
+Keisuke Wada is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Spanners, London on Sat, 5 Sept 2026.
 
-Keisuke Wada is a club and acid artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London and Tokyo. Often billed alongside Rentaro, Sho Komatsu and Ozwick. Next up: Spanners, London on Sat 5 Sept.
+Keisuke Wada is a club and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London and Tokyo. Often billed alongside Rentaro, Sho Komatsu and Ozwick. Next up: Spanners, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Spanners | London |
+| Sun, 13 Sept 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Keisuke Wada is a club and acid artist based in United Kingdom, tracked on sound
 
 Rentaro, Sho Komatsu, Ozwick
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keisukewada/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keisukewada/)*

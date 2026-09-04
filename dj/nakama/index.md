@@ -1,6 +1,6 @@
 # NAKAMA
 
-NAKAMA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Artheater, Cologne on Sat, 12 Sept 2026.
+NAKAMA is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Artheater, Cologne on Sat, 12 Sept 2026.
 
 NAKAMA is a techno and trance artist based in Germany, tracked on soundcheck, with 16 sets logged across Cologne, Madrid and Munich. Often billed alongside BOLZ, Aw508 and Lukas Neumann. Next up: Artheater, Cologne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ NAKAMA is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 BOLZ, Aw508, Lukas Neumann
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakama/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakama/)*

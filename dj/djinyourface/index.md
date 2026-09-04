@@ -1,6 +1,6 @@
 # DJ InYourFace
 
-DJ InYourFace is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Clebard, Montreal on Sun, 20 Sept 2026.
+DJ InYourFace is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Clebard, Montreal on Sun, 20 Sept 2026.
 
 DJ InYourFace is an acid and techno artist based in Canada, tracked on soundcheck, with 33 sets logged across Montreal. Often billed alongside Dj Sarcastic, Icky Magdala and Crimewave. Next up: Clebard, Montreal on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ DJ InYourFace is an acid and techno artist based in Canada, tracked on soundchec
 
 Dj Sarcastic, Icky Magdala, Crimewave
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djinyourface/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djinyourface/)*

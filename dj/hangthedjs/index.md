@@ -1,6 +1,6 @@
 # Hang The DJs
 
-Hang The DJs is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club360, London on Fri, 11 Sept 2026.
+Hang The DJs is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Club360, London on Fri, 11 Sept 2026.
 
 Hang The DJs is a hardcore and gabber artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Berlin, Brighton, Bristol and Glasgow and 3 more. Often billed alongside Stinny Stone, alterum and Cobb Douglas. Next up: Club360, London on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Hang The DJs is a hardcore and gabber artist based in United Kingdom, tracked on
 
 Stinny Stone, alterum, Cobb Douglas
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hangthedjs/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hangthedjs/)*

@@ -1,6 +1,6 @@
 # ŌMEYŌCĀN: XŌCHITL, A Celebration of Flowers, Rave and Art at TBA
 
-ŌMEYŌCĀN: XŌCHITL, A Celebration of Flowers, Rave and Art at TBA on Fri 18 Sept, Sanfrancisco. 6 acts on the bill: BRIIZV, cotton, DE ALMA and Lady Witch and 2 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+ŌMEYŌCĀN: XŌCHITL, A Celebration of Flowers, Rave and Art at TBA on Fri 18 Sept, Sanfrancisco. 7 acts on the bill: BOYPRINCESS, BRIIZV, cotton and DE ALMA and 3 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- BOYPRINCESS
 - BRIIZV
 - cotton
 - DE ALMA

@@ -1,6 +1,6 @@
 # Bucle
 
-Bucle is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bridge 48, Barcelona on Thu, 10 Sept 2026.
+Bucle is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bridge 48, Barcelona on Thu, 10 Sept 2026.
 
 Bucle is a techno artist tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Avox25, Avraxas and Elisa Batti. Next up: Bridge 48, Barcelona on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ Bucle is a techno artist tracked on soundcheck, with 5 sets logged across Barcel
 
 Avox25, Avraxas, Elisa Batti
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bucle/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bucle/)*

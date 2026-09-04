@@ -1,6 +1,6 @@
 # Massive
 
-Massive is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Tommy's Crush - Resident Night" on Sat, 5 Sept 2026.
+Massive is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Tommy's Crush - Resident Night" on Sat, 5 Sept 2026.
 
 Massive is a music venue in Seattle listed on soundcheck. 4 upcoming nights, with line-ups including Korra the Kid, Mirin Doja, Nark and Tommy Hart. Browse upcoming dates, start times and who's playing. 619 E Pine Street, Seattle, WA 98122.
 
@@ -17,4 +17,4 @@ Massive is a music venue in Seattle listed on soundcheck. 4 upcoming nights, wit
 
 619 E Pine Street, Seattle, WA 98122, Seattle
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*

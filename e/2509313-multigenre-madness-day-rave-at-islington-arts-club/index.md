@@ -1,6 +1,6 @@
 # Multigenre Madness - DAY RAVE at Islington Arts Club
 
-Multigenre Madness - DAY RAVE at Islington Arts Club on Sat 5 Sept, London. 3 acts on the bill: Positive_Con, Sharpson and Tianna Franxx. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Multigenre Madness - DAY RAVE at Islington Arts Club on Sat 5 Sept, London. 4 acts on the bill: JVSPR, Positive_Con, Sharpson and Tianna Franxx. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Multigenre Madness - DAY RAVE at Islington Arts Club on Sat 5 Sept, London. 3 ac
 
 ## Line-up
 
+- JVSPR
 - Positive_Con
 - Sharpson
 - Tianna Franxx

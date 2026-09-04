@@ -1,6 +1,6 @@
 # Sozef
 
-Sozef is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Yellow House, Amsterdam on Fri, 4 Sept 2026.
+Sozef is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Yellow House, Amsterdam on Fri, 4 Sept 2026.
 
 Sozef is a house and funk / soul artist tracked on soundcheck, with 25 sets logged across Amsterdam, Cologne, Thehague and Utrecht. Often billed alongside Benny Rodrigues, Rozie and Jamback. Next up: Yellow House, Amsterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Sozef is a house and funk / soul artist tracked on soundcheck, with 25 sets logg
 
 Benny Rodrigues, Rozie, Jamback
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sozef/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sozef/)*

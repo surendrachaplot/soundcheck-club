@@ -1,6 +1,6 @@
 # Shrff
 
-Shrff is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
+Shrff is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
 
 Shrff is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 3 more. Often billed alongside Gutkind, HWRD and Amilli. Next up: Junkyard Dortmund, Dortmund-essen on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Shrff is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Gutkind, HWRD, Amilli
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shrff/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shrff/)*

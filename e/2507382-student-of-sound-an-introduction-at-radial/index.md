@@ -1,6 +1,6 @@
 # STUDENT OF SOUND: AN INTRODUCTION at radial
 
-STUDENT OF SOUND: AN INTRODUCTION at radial on Thu 17 Sept, London. 1 act on the bill: JÏMONO. Electronica and Afro Tech. Preview the line-up and save it on soundcheck.
+STUDENT OF SOUND: AN INTRODUCTION at radial on Thu 17 Sept, London. 2 acts on the bill: JÏMONO and Miči. Electronica and Afro Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ STUDENT OF SOUND: AN INTRODUCTION at radial on Thu 17 Sept, London. 1 act on the
 ## Line-up
 
 - JÏMONO
+- Miči
 
 *Source: [soundcheck](https://soundcheck.club/e/2507382-student-of-sound-an-introduction-at-radial/)*

@@ -1,6 +1,6 @@
 # Ngly
 
-Ngly is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at OIL Club, Shenzhen on Sun, 6 Sept 2026.
+Ngly is a Electro and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at OIL Club, Shenzhen on Sun, 6 Sept 2026.
 
 Ngly is an electro and experimental artist based in Germany, tracked on soundcheck, with 10 sets logged across Athens, Bali, Belgrade and Berlin and 3 more. Often billed alongside Burago, ALF CHAMPION and Aire. Next up: OIL Club, Shenzhen on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Ngly is an electro and experimental artist based in Germany, tracked on soundche
 
 Burago, ALF CHAMPION, Aire
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*

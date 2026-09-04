@@ -1,6 +1,6 @@
 # Takenaga
 
-Takenaga is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
+Takenaga is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 12 Sept 2026.
 
 Takenaga is a techno and trance artist based in Mexico, tracked on soundcheck, with 20 sets logged across Lisbon and Prague. Often billed alongside Alfred Czital, Ella Pavel and DJ Bubbles. Next up: Ankali & Planeta Za, Prague on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Takenaga is a techno and trance artist based in Mexico, tracked on soundcheck, w
 
 Alfred Czital, Ella Pavel, DJ Bubbles
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takenaga/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takenaga/)*

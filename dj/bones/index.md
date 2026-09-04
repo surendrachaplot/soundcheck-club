@@ -1,6 +1,6 @@
 # Bones
 
-Bones is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Koenji Cave, Tokyo on Sat, 5 Sept 2026.
+Bones is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Koenji Cave, Tokyo on Sat, 5 Sept 2026.
 
 Bones is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Chicago, Detroit, London and Losangeles and 7 more. Often billed alongside Lee Wells, BERLINER KINDL and Destructo. Next up: Koenji Cave, Tokyo on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Bones is a house and techno artist based in United States of America, tracked on
 
 Lee Wells, BERLINER KINDL, Destructo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bones/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bones/)*

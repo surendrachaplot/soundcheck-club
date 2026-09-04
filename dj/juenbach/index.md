@@ -1,6 +1,6 @@
 # Juen & Bach
 
-Juen & Bach is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kauz, Zurich on Fri, 4 Sept 2026.
+Juen & Bach is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kauz, Zurich on Fri, 4 Sept 2026.
 
 Juen & Bach are a house and techno duo tracked on soundcheck, with 6 sets logged across Berlin, Geneva and Zurich. Often billed alongside ACID FLORA, Anthik and Auli W.. Next up: Kauz, Zurich on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ Juen & Bach are a house and techno duo tracked on soundcheck, with 6 sets logged
 
 ACID FLORA, Anthik, Auli W.
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juenbach/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juenbach/)*

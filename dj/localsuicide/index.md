@@ -1,6 +1,6 @@
 # Local Suicide
 
-Local Suicide is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 5 Sept 2026.
+Local Suicide is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 5 Sept 2026.
 
 Local Suicide is a techno and house artist tracked on soundcheck, with 80 sets logged across Athens, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Frankie Flowerz, Dina Summer and Kalipo. Next up: Tempio del Futuro Perduto, Milan on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Local Suicide is a techno and house artist tracked on soundcheck, with 80 sets l
 
 Frankie Flowerz, Dina Summer, Kalipo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/localsuicide/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/localsuicide/)*

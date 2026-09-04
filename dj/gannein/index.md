@@ -1,6 +1,6 @@
 # Gannein
 
-Gannein is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Glove That Fits, London on Sun, 13 Sept 2026.
+Gannein is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Glove That Fits, London on Sun, 13 Sept 2026.
 
 Gannein is a techno artist tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Hamburg and London and 1 more. Often billed alongside Bconscious, Charlie. and Marina George. Next up: The Glove That Fits, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Gannein is a techno artist tracked on soundcheck, with 14 sets logged across Bar
 
 Bconscious, Charlie., Marina George
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gannein/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gannein/)*

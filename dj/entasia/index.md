@@ -1,6 +1,6 @@
 # Entasia
 
-Entasia is a House and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Preston Warehouse, Melbourne on Sat, 5 Sept 2026.
+Entasia is a House and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Preston Warehouse, Melbourne on Sat, 5 Sept 2026.
 
 Entasia is a house and trance artist tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside Inafekt, Kyle Starkey and DART. Next up: Preston Warehouse, Melbourne on Sat 5 Sept.
 
@@ -33,4 +33,4 @@ Entasia is a house and trance artist tracked on soundcheck, with 63 sets logged 
 
 Inafekt, Kyle Starkey, DART
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/entasia/)*

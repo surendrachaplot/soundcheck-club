@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at California Plaza, Los Angeles on Sat, 12 Sept 2026.
+Dean Turnley is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at California Plaza, Los Angeles on Sat, 12 Sept 2026.
 
 Dean Turnley is a house and tech house artist tracked on soundcheck, with 20 sets logged across Adelaide, Amsterdam, Belfast and Berlin and 15 more. Often billed alongside Prospa, Beltran and Ben Sterling. Next up: California Plaza, Losangeles on Sat 12 Sept.
 
@@ -34,4 +34,4 @@ Dean Turnley is a house and tech house artist tracked on soundcheck, with 20 set
 
 Prospa, Beltran, Ben Sterling
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

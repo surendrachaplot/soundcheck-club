@@ -1,6 +1,6 @@
 # JAQ.XS
 
-JAQ.XS is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Chicago on Sat, 5 Sept 2026.
+JAQ.XS is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Chicago on Sat, 5 Sept 2026.
 
 JAQ.XS is a techno and industrial artist based in United States of America, tracked on soundcheck, with 35 sets logged across Chicago, Losangeles, Sandiego and Sanfrancisco. Often billed alongside Michelle Mendez, Miguel Pinedo and TOKEONETOKA. Next up: TBA, Chicago on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ JAQ.XS is a techno and industrial artist based in United States of America, trac
 
 Michelle Mendez, Miguel Pinedo, TOKEONETOKA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaq.xs/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaq.xs/)*

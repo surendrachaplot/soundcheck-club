@@ -1,6 +1,6 @@
 # DJ Rick
 
-DJ Rick is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hookah Lounge, Mexico City on Wed, 2 Sept 2026.
+DJ Rick is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hookah Lounge, Mexico City on Wed, 2 Sept 2026.
 
 DJ Rick is a progressive house artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin and Mexicocity. Often billed alongside Dimaio, Dwight Evan and Eternal Glow. Next up: Hookah Lounge, Mexicocity on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ DJ Rick is a progressive house artist based in Netherlands, tracked on soundchec
 
 Dimaio, Dwight Evan, Eternal Glow
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrick/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrick/)*

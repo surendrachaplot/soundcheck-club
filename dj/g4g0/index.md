@@ -1,6 +1,6 @@
 # G4G0
 
-G4G0 is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Sala Siroco, Madrid on Sun, 13 Sept 2026.
+G4G0 is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sala Siroco, Madrid on Sun, 13 Sept 2026.
 
 G4G0 is a techno and electronica artist based in Spain, tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside ADRI.G, Angelo Stasi and CVRLXS CA. Next up: Sala Siroco, Madrid on Sun 13 Sept.
 
@@ -22,4 +22,4 @@ G4G0 is a techno and electronica artist based in Spain, tracked on soundcheck, w
 
 ADRI.G, Angelo Stasi, CVRLXS CA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g4g0/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g4g0/)*

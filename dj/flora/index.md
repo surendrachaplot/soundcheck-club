@@ -1,6 +1,6 @@
 # FLORA
 
-FLORA is a R&B and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Left Bank, Tbilisi on Sat, 12 Sept 2026.
+FLORA is a R&B and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Left Bank, Tbilisi on Sat, 12 Sept 2026.
 
 FLORA is a r&b and downtempo artist tracked on soundcheck, with 36 sets logged across Buenosaires, Lyon, Nantes and Newyorkcity and 2 more. Often billed alongside DJ Tara, Toribio and Cosmo (NY). Next up: Left Bank, Tbilisi on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ FLORA is a r&b and downtempo artist tracked on soundcheck, with 36 sets logged a
 
 DJ Tara, Toribio, Cosmo (NY)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flora/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flora/)*

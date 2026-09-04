@@ -1,6 +1,6 @@
 # Lydia Eisenblätter
 
-Lydia Eisenblätter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kater, Berlin on Fri, 16 Oct 2026.
+Lydia Eisenblätter is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kater, Berlin on Fri, 16 Oct 2026.
 
 Lydia Eisenblätter is a house and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 6 more. Often billed alongside Jana Falcon, Jorkes and TiZiAN (DE). Next up: Kater, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lydia Eisenblätter is a house and techno artist based in Germany, tracked on so
 
 Jana Falcon, Jorkes, TiZiAN (DE)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lydiaeisenblatter/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lydiaeisenblatter/)*

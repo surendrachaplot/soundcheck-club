@@ -1,6 +1,6 @@
 # KinoKo
 
-KinoKo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OST, Berlin on Sat, 17 Oct 2026.
+KinoKo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OST, Berlin on Sat, 17 Oct 2026.
 
 KinoKo is a techno and house artist tracked on soundcheck, with 19 sets logged across Berlin, Brussels, Osaka and Prague and 2 more. Often billed alongside Baikamo, Kojiro and SuperUser. Next up: OST, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ KinoKo is a techno and house artist tracked on soundcheck, with 19 sets logged a
 
 Baikamo, Kojiro, SuperUser
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kinoko/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kinoko/)*

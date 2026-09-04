@@ -1,6 +1,6 @@
 # Poor J’Darr
 
-Poor J’Darr is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Romantso, Athens on Fri, 18 Sept 2026.
+Poor J’Darr is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Romantso, Athens on Fri, 18 Sept 2026.
 
 Poor J’Darr is a bass and techno artist based in Greece, tracked on soundcheck, with 42 sets logged across Athens, Brussels, Madrid and Manchester. Often billed alongside Madam X, pink.wav and Saber Rider. Next up: Romantso, Athens on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Poor J’Darr is a bass and techno artist based in Greece, tracked on soundcheck
 
 Madam X, pink.wav, Saber Rider
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poorjdarr/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poorjdarr/)*

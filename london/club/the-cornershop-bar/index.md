@@ -1,6 +1,6 @@
 # The Cornershop Bar
 
-The Cornershop Bar is a music venue in London with 22 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "R&B On A Friday - Shoreditch Free RnB Party" on Fri, 4 Sept 2026.
+The Cornershop Bar is a music venue in London with 22 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "R&B On A Friday - Shoreditch Free RnB Party" on Fri, 4 Sept 2026.
 
 The Cornershop Bar is a music venue in London listed on soundcheck. 22 upcoming nights. Browse upcoming dates, start times and who's playing. 123 Shoreditch High Street  London E1 6JE.
 
@@ -23,4 +23,4 @@ The Cornershop Bar is a music venue in London listed on soundcheck. 22 upcoming 
 
 123 Shoreditch High Street  London E1 6JE, London
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cornershop-bar/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cornershop-bar/)*

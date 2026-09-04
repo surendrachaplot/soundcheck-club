@@ -1,6 +1,6 @@
 # Alyhas
 
-Alyhas is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - 75013, Paris on Sat, 5 Sept 2026.
+Alyhas is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - 75013, Paris on Sat, 5 Sept 2026.
 
 Alyhas is a house and electro artist based in France, tracked on soundcheck, with 67 sets logged across Brussels, Marseille, Milan and Paris and 2 more. Often billed alongside Blanco, Taieb Chékir and IAMBP. Next up: TBA - 75013, Paris on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Alyhas is a house and electro artist based in France, tracked on soundcheck, wit
 
 Blanco, Taieb Chékir, IAMBP
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyhas/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alyhas/)*

@@ -1,6 +1,6 @@
 # Amøn
 
-Amøn is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Grelle Forelle, Vienna on Sat, 5 Sept 2026.
+Amøn is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Grelle Forelle, Vienna on Sat, 5 Sept 2026.
 
 Amøn is a techno and trance artist based in Germany, tracked on soundcheck, with 102 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 5 more. Often billed alongside KLING&KLANG, DETOXX and Cobb Douglas. Next up: Grelle Forelle, Vienna on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Amøn is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 KLING&KLANG, DETOXX, Cobb Douglas
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amon/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amon/)*

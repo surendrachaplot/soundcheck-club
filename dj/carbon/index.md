@@ -1,6 +1,6 @@
 # Carbon
 
-Carbon is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fundbureau, Hamburg on Sat, 12 Sept 2026.
+Carbon is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fundbureau, Hamburg on Sat, 12 Sept 2026.
 
 Carbon is a techno and garage artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Brighton, Cologne and Frankfurt and 6 more. Often billed alongside Lampé, Liho and Marcus Meinhardt. Next up: Fundbureau, Hamburg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Carbon is a techno and garage artist based in Germany, tracked on soundcheck, wi
 
 Lampé, Liho, Marcus Meinhardt
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carbon/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carbon/)*

@@ -1,6 +1,6 @@
 # Milo Raad
 
-Milo Raad is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Garagen, Cologne on Wed, 9 Sept 2026.
+Milo Raad is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Garagen, Cologne on Wed, 9 Sept 2026.
 
 Milo Raad is a techno and industrial artist tracked on soundcheck, with 38 sets logged across Amsterdam, Athens, Belgrade and Berlin and 13 more. Often billed alongside Filip Xavi, Dexon and KATALINA. Next up: Garagen, Cologne on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Milo Raad is a techno and industrial artist tracked on soundcheck, with 38 sets 
 
 Filip Xavi, Dexon, KATALINA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miloraad/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miloraad/)*

@@ -1,6 +1,6 @@
 # Eliseo Adri
 
-Eliseo Adri is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Lovétosse, Berlin on Sat, 5 Sept 2026.
+Eliseo Adri is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Lovétosse, Berlin on Sat, 5 Sept 2026.
 
 Eliseo Adri is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Chili con Sosa, Amo (IT) and Sony2k. Next up: TBA - Lovétosse, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Eliseo Adri is a techno and trance artist tracked on soundcheck, with 11 sets lo
 
 Chili con Sosa, Amo (IT), Sony2k
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliseoadri/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliseoadri/)*

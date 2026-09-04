@@ -1,6 +1,6 @@
 # Schrotthagen
 
-Schrotthagen is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 4 Sept 2026.
+Schrotthagen is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 4 Sept 2026.
 
 Schrotthagen is a techno and trance artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside A.N.I., PRADA2000 and Somewhen. Next up: Fridas Pier, Stuttgart on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Schrotthagen is a techno and trance artist tracked on soundcheck, with 49 sets l
 
 A.N.I., PRADA2000, Somewhen
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*

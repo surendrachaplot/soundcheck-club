@@ -1,6 +1,6 @@
 # Emorine
 
-Emorine is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Klunkerkranich, Berlin on Wed, 9 Sept 2026.
+Emorine is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Klunkerkranich, Berlin on Wed, 9 Sept 2026.
 
 Emorine is an electronica and house artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin. Often billed alongside Robin Schellenberg, ELIZEN THE EMPEROR and anahï. Next up: Klunkerkranich, Berlin on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Emorine is an electronica and house artist based in Germany, tracked on soundche
 
 Robin Schellenberg, ELIZEN THE EMPEROR, anahï
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emorine/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emorine/)*

@@ -1,6 +1,6 @@
 # Tony Serban
 
-Tony Serban is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 93 Feet East, London on Sun, 27 Sept 2026.
+Tony Serban is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 93 Feet East, London on Sun, 27 Sept 2026.
 
 Tony Serban is a house and minimal artist based in United States of America, tracked on soundcheck, with 14 sets logged across Bangkok, London, Miami and Milan and 1 more. Often billed alongside Rakim Under, BabyBass and David Triana. Next up: 93 Feet East, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Tony Serban is a house and minimal artist based in United States of America, tra
 
 Rakim Under, BabyBass, David Triana
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyserban/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyserban/)*

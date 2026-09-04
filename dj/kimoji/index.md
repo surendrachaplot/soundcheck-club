@@ -1,6 +1,6 @@
 # Kimoji
 
-Kimoji is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Dual, Bangkok on Sat, 5 Sept 2026.
+Kimoji is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Dual, Bangkok on Sat, 5 Sept 2026.
 
 Kimoji is a house and disco artist based in Indonesia, tracked on soundcheck, with 33 sets logged across Bali, Bangkok, Jakarta and Kyoto and 4 more. Often billed alongside Cozyhoon, Daichi and Jonathan Kusuma. Next up: Dual, Bangkok on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Kimoji is a house and disco artist based in Indonesia, tracked on soundcheck, wi
 
 Cozyhoon, Daichi, Jonathan Kusuma
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimoji/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimoji/)*

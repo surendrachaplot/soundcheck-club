@@ -1,6 +1,6 @@
 # OHTHR333
 
-OHTHR333 is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at EQ San Diego, San Diego on Thu, 10 Sept 2026.
+OHTHR333 is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at EQ San Diego, San Diego on Thu, 10 Sept 2026.
 
 OHTHR333 is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 11 sets logged across Sandiego. Often billed alongside ARP8, DJ Kale and Damian Kuro. Next up: EQ San Diego, Sandiego on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ OHTHR333 is a techno and ghetto tech artist based in United States of America, t
 
 ARP8, DJ Kale, Damian Kuro
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohthr333/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ohthr333/)*

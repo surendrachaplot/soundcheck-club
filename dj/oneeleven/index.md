@@ -1,6 +1,6 @@
 # ONEELEVEN
 
-ONEELEVEN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 12 Sept 2026.
+ONEELEVEN is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 12 Sept 2026.
 
 ONEELEVEN is a club and techno artist tracked on soundcheck, with 48 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside lorboo, R3m Sativa and Firestone. Next up: Warehouse on Watts, Philadelphia on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ONEELEVEN is a club and techno artist tracked on soundcheck, with 48 sets logged
 
 lorboo, R3m Sativa, Firestone
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oneeleven/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oneeleven/)*

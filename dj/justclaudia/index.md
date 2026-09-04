@@ -1,6 +1,6 @@
 # Just Claudia
 
-Just Claudia is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 19 Sept 2026.
+Just Claudia is a Club and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 19 Sept 2026.
 
 Just Claudia is a club and bass artist tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Lisbon and Liverpool and 4 more. Often billed alongside EYRA, phil in a maze and Lanav. Next up: Ankali & Planeta Za, Prague on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Just Claudia is a club and bass artist tracked on soundcheck, with 54 sets logge
 
 EYRA, phil in a maze, Lanav
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justclaudia/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justclaudia/)*

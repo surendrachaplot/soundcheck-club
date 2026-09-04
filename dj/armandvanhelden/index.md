@@ -1,6 +1,6 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Fri, 4 Sept 2026.
+Armand Van Helden is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Fri, 4 Sept 2026.
 
 Armand Van Helden is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Olympic Athletic Center of Athens, Athens on Fri 4 Sept.
 
@@ -35,4 +35,4 @@ Armand Van Helden is a house and tech house artist tracked on soundcheck, with 1
 
 Fatzo, Oden, MiNNA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

@@ -1,6 +1,6 @@
 # Karim Alkhayat
 
-Karim Alkhayat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mokka Mitte Bar / James Simon Park, Berlin on Fri, 11 Sept 2026.
+Karim Alkhayat is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mokka Mitte Bar / James Simon Park, Berlin on Fri, 11 Sept 2026.
 
 Karim Alkhayat is a techno and house artist based in Syria, tracked on soundcheck, with 59 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside NÚRIA (DE), KEN (DE) and Leon Licht. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Karim Alkhayat is a techno and house artist based in Syria, tracked on soundchec
 
 NÚRIA (DE), KEN (DE), Leon Licht
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karimalkhayat/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karimalkhayat/)*

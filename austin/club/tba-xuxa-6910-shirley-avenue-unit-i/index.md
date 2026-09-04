@@ -1,6 +1,6 @@
 # TBA - XuXa - 6910 Shirley Avenue, Unit I
 
-TBA - XuXa - 6910 Shirley Avenue, Unit I is a music venue in Austin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "XuXa presents: Schi The God & Brett Johnson" on Sat, 5 Sept 2026.
+TBA - XuXa - 6910 Shirley Avenue, Unit I is a music venue in Austin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "XuXa presents: Schi The God & Brett Johnson" on Sat, 5 Sept 2026.
 
 TBA - XuXa - 6910 Shirley Avenue, Unit I is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including Brett Johnson and Schithegod. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - XuXa - 6910 Shirley Avenue, Unit I is a music venue in Austin listed on so
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | XuXa presents: Schi The God & Brett Johnson | Brett Johnson, Schithegod |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-xuxa-6910-shirley-avenue-unit-i/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-xuxa-6910-shirley-avenue-unit-i/)*

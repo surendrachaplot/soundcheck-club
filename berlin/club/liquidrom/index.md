@@ -1,6 +1,6 @@
 # Liquidrom
 
-Liquidrom is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "YOU ARE THE VIBE" on Wed, 9 Sept 2026.
+Liquidrom is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "YOU ARE THE VIBE" on Wed, 9 Sept 2026.
 
 Liquidrom is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Ceață. Browse upcoming dates, start times and who's playing. Möckernstraße 10, 10963 Berlin.
 
@@ -14,4 +14,4 @@ Liquidrom is a music venue in Berlin listed on soundcheck. 1 upcoming night, wit
 
 Möckernstraße 10, 10963 Berlin, Berlin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/liquidrom/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/liquidrom/)*

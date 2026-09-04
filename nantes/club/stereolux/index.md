@@ -1,6 +1,6 @@
 # Stereolux
 
-Stereolux is a music venue in Nantes with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Pinkwasing: Queer Party" on Sat, 10 Oct 2026.
+Stereolux is a music venue in Nantes with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Pinkwasing: Queer Party" on Sat, 10 Oct 2026.
 
 Stereolux is a music venue in Nantes listed on soundcheck. 1 upcoming night, with line-ups including Or'l and Paulette Sauvage. Browse upcoming dates, start times and who's playing. 4 Boulevard Léon Bureau 44200 Nantes.
 
@@ -14,4 +14,4 @@ Stereolux is a music venue in Nantes listed on soundcheck. 1 upcoming night, wit
 
 4 Boulevard Léon Bureau 44200 Nantes, Nantes
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/stereolux/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/stereolux/)*

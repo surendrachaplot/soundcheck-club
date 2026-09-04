@@ -1,6 +1,6 @@
 # Theorem (IT)
 
-Theorem (IT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 12 Sept 2026.
+Theorem (IT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 12 Sept 2026.
 
 Theorem (IT) is a techno and house artist tracked on soundcheck, with 6 sets logged across Milan and Zurich. Often billed alongside Luca Scarpa, Mattia Dambrosio and Outburst Knobs. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Theorem (IT) is a techno and house artist tracked on soundcheck, with 6 sets log
 
 Luca Scarpa, Mattia Dambrosio, Outburst Knobs
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theorem-2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theorem-2/)*

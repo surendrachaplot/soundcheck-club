@@ -1,6 +1,6 @@
 # LAWYA
 
-LAWYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Weekend, Berlin on Fri, 4 Sept 2026.
+LAWYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Weekend, Berlin on Fri, 4 Sept 2026.
 
 LAWYA is a techno and house artist tracked on soundcheck, with 11 sets logged across Berlin and Munich. Often billed alongside Martin Meyer, Mike vom MOnd and CHOOSE WHITE. Next up: Weekend, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ LAWYA is a techno and house artist tracked on soundcheck, with 11 sets logged ac
 
 Martin Meyer, Mike vom MOnd, CHOOSE WHITE
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lawya/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lawya/)*

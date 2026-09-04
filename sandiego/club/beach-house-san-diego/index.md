@@ -1,6 +1,6 @@
 # Beach House San Diego
 
-Beach House San Diego is a music venue in San Diego with 11 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "FNGRS CRSSD presents Palms Beach Club with Le Youth" on Sat, 5 Sept 2026.
+Beach House San Diego is a music venue in San Diego with 11 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "FNGRS CRSSD presents Palms Beach Club with Le Youth" on Sat, 5 Sept 2026.
 
 Beach House San Diego is a music venue in Sandiego listed on soundcheck. 11 upcoming nights, with line-ups including 999999999, FLETCH, Ben Sterling and Biscits and 2 more. Browse upcoming dates, start times and who's playing. 3125 Ocean Front Walk.
 
@@ -23,4 +23,4 @@ Beach House San Diego is a music venue in Sandiego listed on soundcheck. 11 upco
 
 3125 Ocean Front Walk, San Diego
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*

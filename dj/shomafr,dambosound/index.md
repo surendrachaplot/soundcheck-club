@@ -1,6 +1,6 @@
 # Shoma fr,dambosound
 
-Shoma fr,dambosound is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Batica, Tokyo on Fri, 4 Sept 2026.
+Shoma fr,dambosound is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Batica, Tokyo on Fri, 4 Sept 2026.
 
 Shoma fr,dambosound are a hip-hop and house duo based in Japan, tracked on soundcheck, with 21 sets logged across Tokyo. Often billed alongside ecec, miute and JUN INAGAWA. Next up: Batica, Tokyo on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Shoma fr,dambosound are a hip-hop and house duo based in Japan, tracked on sound
 
 ecec, miute, JUN INAGAWA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shomafr,dambosound/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shomafr,dambosound/)*

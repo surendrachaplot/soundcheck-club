@@ -1,6 +1,6 @@
 # Ikonika
 
-Ikonika is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Colour Factory, London on Sat, 5 Sept 2026.
+Ikonika is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Colour Factory, London on Sat, 5 Sept 2026.
 
 Ikonika is a techno and bass artist tracked on soundcheck, with 67 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Bok Bok, Karen Nyame KG and State OFFF. Next up: Colour Factory, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ikonika is a techno and bass artist tracked on soundcheck, with 67 sets logged a
 
 Bok Bok, Karen Nyame KG, State OFFF
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikonika/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikonika/)*

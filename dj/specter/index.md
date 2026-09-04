@@ -1,6 +1,6 @@
 # Specter
 
-Specter is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Podlasie Club, Chicago on Sat, 12 Sept 2026.
+Specter is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Podlasie Club, Chicago on Sat, 12 Sept 2026.
 
 Specter is a house and deep house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Bristol, Chicago, Cork and Detroit and 2 more. Often billed alongside CTRLZORA, JADALAREIGN and Damon Lamar. Next up: Podlasie Club, Chicago on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Specter is a house and deep house artist based in United States of America, trac
 
 CTRLZORA, JADALAREIGN, Damon Lamar
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/specter/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/specter/)*

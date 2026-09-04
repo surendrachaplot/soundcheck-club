@@ -1,8 +1,8 @@
 # Particles
 
-Particles is a Garage and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Freight Brixton, London on Sat, 5 Sept 2026.
+Particles is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Freight Brixton, London on Sat, 5 Sept 2026.
 
-Particles is a garage and bass artist tracked on soundcheck, with 16 sets logged across Istanbul, London and Manchester. Often billed alongside Murteza, Rectør and Jung (3). Next up: Freight Brixton, London on Sat 5 Sept.
+Particles is a garage and bass artist tracked on soundcheck, with 17 sets logged across Istanbul, London and Manchester. Often billed alongside Murteza, Rectør and Chunky. Next up: Freight Brixton, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Particles is a garage and bass artist tracked on soundcheck, with 16 sets logged
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Freight Brixton | London |
 | Sun, 6 Sept 2026 | Freight Island | Manchester |
+| Fri, 23 Oct 2026 | Şahika | Istanbul |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Particles is a garage and bass artist tracked on soundcheck, with 16 sets logged
 
 ## Shares bills with
 
-Murteza, Rectør, Jung (3)
+Murteza, Rectør, Chunky
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/particles/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/particles/)*

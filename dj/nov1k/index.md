@@ -1,6 +1,6 @@
 # NOV1K
 
-NOV1K is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Smolna, Warsaw on Fri, 4 Sept 2026.
+NOV1K is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Smolna, Warsaw on Fri, 4 Sept 2026.
 
 NOV1K is a bass and garage artist based in Poland, tracked on soundcheck, with 27 sets logged across Krakow and Warsaw. Often billed alongside Kogiel, dj.zamocno and Sarba. Next up: Smolna, Warsaw on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ NOV1K is a bass and garage artist based in Poland, tracked on soundcheck, with 2
 
 Kogiel, dj.zamocno, Sarba
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nov1k/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nov1k/)*

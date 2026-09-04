@@ -1,13 +1,14 @@
 # RayRay
 
-RayRay is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Phantom Bar Berlin, Berlin on Thu, 17 Sept 2026.
+RayRay is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at KREUZWERK, Berlin on Sat, 5 Sept 2026.
 
-RayRay is a techno and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Lisbon and London and 4 more. Often billed alongside Varanasi, ASHTREY and Gloria Rose. Next up: Phantom Bar Berlin, Berlin on Thu 17 Sept.
+RayRay is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Lisbon and London and 4 more. Often billed alongside Varanasi, ASHTREY and Gloria Rose. Next up: KREUZWERK, Berlin on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | KREUZWERK | Berlin |
 | Thu, 17 Sept 2026 | Phantom Bar Berlin | Berlin |
 | Sat, 26 Sept 2026 | Ankali & Planeta Za | Prague |
 
@@ -26,4 +27,4 @@ RayRay is a techno and house artist tracked on soundcheck, with 37 sets logged a
 
 Varanasi, ASHTREY, Gloria Rose
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rayray/)*

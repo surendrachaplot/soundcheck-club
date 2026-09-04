@@ -1,6 +1,6 @@
 # Colum Urton
 
-Colum Urton is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
+Colum Urton is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
 
 Colum Urton is an ambient and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Prague. Often billed alongside GEISTFREI, VIVEZ and Verhall. Next up: Fuchs2, Prague on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ Colum Urton is an ambient and techno artist based in Germany, tracked on soundch
 
 GEISTFREI, VIVEZ, Verhall
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/columurton/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/columurton/)*

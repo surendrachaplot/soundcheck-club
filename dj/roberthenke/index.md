@@ -1,6 +1,6 @@
 # Robert Henke
 
-Robert Henke is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Robert Henke is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 Robert Henke is an electronica and electro artist tracked on soundcheck, with 11 sets logged across Amsterdam, Athens, Barcelona and Berlin and 4 more. Often billed alongside Caterina Barbieri, Timnah and Valentina Magaletti. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Robert Henke is an electronica and electro artist tracked on soundcheck, with 11
 
 Caterina Barbieri, Timnah, Valentina Magaletti
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthenke/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthenke/)*

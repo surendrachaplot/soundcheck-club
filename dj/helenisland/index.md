@@ -1,6 +1,6 @@
 # Helen Island
 
-Helen Island is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cafe OTO, London on Sat, 19 Sept 2026.
+Helen Island is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cafe OTO, London on Sat, 19 Sept 2026.
 
 Helen Island is an experimental and electro artist based in France, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside 1morning, Actress and Akua. Next up: Cafe OTO, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Helen Island is an experimental and electro artist based in France, tracked on s
 
 1morning, Actress, Akua
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenisland/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenisland/)*

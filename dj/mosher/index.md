@@ -1,6 +1,6 @@
 # Mosher
 
-Mosher is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at John Doe, Amsterdam on Fri, 4 Sept 2026.
+Mosher is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at John Doe, Amsterdam on Fri, 4 Sept 2026.
 
 Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Buenosaires and Mexicocity and 1 more. Often billed alongside Sebastian Mora, Patrick Scuro and Basstronauten. Next up: John Doe, Amsterdam on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, wi
 
 Sebastian Mora, Patrick Scuro, Basstronauten
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*

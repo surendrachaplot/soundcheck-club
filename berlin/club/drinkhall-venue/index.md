@@ -1,6 +1,6 @@
 # Drinkhall Venue
 
-Drinkhall Venue is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Kotti Salsa" on Sat, 5 Sept 2026.
+Drinkhall Venue is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Kotti Salsa" on Sat, 5 Sept 2026.
 
 Drinkhall Venue is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Oranienstraße 36 10999 Berlin.
 
@@ -15,4 +15,4 @@ Drinkhall Venue is a music venue in Berlin listed on soundcheck. 2 upcoming nigh
 
 Oranienstraße 36 10999 Berlin, Berlin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/drinkhall-venue/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/drinkhall-venue/)*

@@ -1,6 +1,6 @@
 # Budg
 
-Budg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
+Budg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
 
 Budg is a techno and house artist based in Malta, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Malta and Melbourne and 1 more. Often billed alongside T-RAIL, Human Safari and STK (MT). Next up: H7 Warehouse, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Budg is a techno and house artist based in Malta, tracked on soundcheck, with 35
 
 T-RAIL, Human Safari, STK (MT)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/budg/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/budg/)*

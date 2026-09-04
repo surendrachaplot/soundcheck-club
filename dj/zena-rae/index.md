@@ -1,6 +1,6 @@
 # Zena-Rae
 
-Zena-Rae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Time is the new space, Rotterdam on Fri, 25 Sept 2026.
+Zena-Rae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Time is the new space, Rotterdam on Fri, 25 Sept 2026.
 
 Zena-Rae is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Rotterdam and Sandiego. Often billed alongside Ansjowvis, OG Karin and Chirty. Next up: Time is the new space, Rotterdam on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Zena-Rae is a house and techno artist based in United States of America, tracked
 
 Ansjowvis, OG Karin, Chirty
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-rae/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zena-rae/)*

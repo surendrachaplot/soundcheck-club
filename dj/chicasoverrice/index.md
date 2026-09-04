@@ -1,6 +1,6 @@
 # chicas over rice
 
-chicas over rice is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jupiter Disco, New York City on Wed, 23 Sept 2026.
+chicas over rice is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jupiter Disco, New York City on Wed, 23 Sept 2026.
 
 chicas over rice is a club and bass artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity. Often billed alongside kyxm, martine (5) and Brant Wolff. Next up: Jupiter Disco, Newyorkcity on Wed 23 Sept.
 
@@ -23,4 +23,4 @@ chicas over rice is a club and bass artist based in United States of America, tr
 
 kyxm, martine (5), Brant Wolff
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicasoverrice/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicasoverrice/)*

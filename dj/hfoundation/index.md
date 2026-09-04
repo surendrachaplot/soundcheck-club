@@ -1,6 +1,6 @@
 # H-Foundation
 
-H-Foundation is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
+H-Foundation is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TILLATEC, Amsterdam on Mon, 26 Oct 2026.
 
 H-Foundation is a house and tech house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Amsterdam, Chicago, Denver and London and 3 more. Often billed alongside Hipp-e, Halo Varga and Maher Daniel. Next up: TILLATEC, Amsterdam on Mon 26 Oct.
 
@@ -26,4 +26,4 @@ H-Foundation is a house and tech house artist based in United States of America,
 
 Hipp-e, Halo Varga, Maher Daniel
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*

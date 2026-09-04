@@ -1,6 +1,6 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Motel Campo, Geneva on Sat, 5 Sept 2026.
+DJ Nobu is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Motel Campo, Geneva on Sat, 5 Sept 2026.
 
 DJ Nobu is a techno and house artist tracked on soundcheck, with 226 sets logged across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Gabrielle Kwarteng, Wata Igarashi and DVS1. Next up: Motel Campo, Geneva on Sat 5 Sept.
 
@@ -35,4 +35,4 @@ DJ Nobu is a techno and house artist tracked on soundcheck, with 226 sets logged
 
 Gabrielle Kwarteng, Wata Igarashi, DVS1
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djnobu/)*

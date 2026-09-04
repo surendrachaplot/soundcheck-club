@@ -1,6 +1,6 @@
 # Reezar
 
-Reezar is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 4 Sept 2026.
+Reezar is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Azul Rooftop Barceloneta, Barcelona on Fri, 4 Sept 2026.
 
 Reezar is a deep house and house artist tracked on soundcheck, with 61 sets logged across Barcelona. Often billed alongside Ivan Pugliares, Cipy and ERRANT. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Reezar is a deep house and house artist tracked on soundcheck, with 61 sets logg
 
 Ivan Pugliares, Cipy, ERRANT
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reezar/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reezar/)*

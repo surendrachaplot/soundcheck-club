@@ -1,6 +1,6 @@
 # colell
 
-colell is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Haunted Dancehall, Manchester on Fri, 4 Sept 2026.
+colell is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Haunted Dancehall, Manchester on Fri, 4 Sept 2026.
 
 colell is a trance and techno artist tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Leeds and Lisbon and 5 more. Often billed alongside HØLEIGH, April (UK) and Medlock. Next up: TBA - Haunted Dancehall, Manchester on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ colell is a trance and techno artist tracked on soundcheck, with 43 sets logged 
 
 HØLEIGH, April (UK), Medlock
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*

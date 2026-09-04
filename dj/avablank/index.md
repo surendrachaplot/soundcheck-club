@@ -1,6 +1,6 @@
 # Ava Blank
 
-Ava Blank is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mothership, San Francisco/Oakland on Fri, 4 Sept 2026.
+Ava Blank is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mothership, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 Ava Blank is a house and club artist based in United States of America, tracked on soundcheck, with 27 sets logged across Losangeles and Sanfrancisco. Often billed alongside Dazegxd, Akumen and Andy Oro. Next up: Mothership, Sanfrancisco on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ava Blank is a house and club artist based in United States of America, tracked 
 
 Dazegxd, Akumen, Andy Oro
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avablank/)*

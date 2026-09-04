@@ -1,6 +1,6 @@
 # Jessica Nightlife
 
-Jessica Nightlife is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Giri, Berlin on Fri, 4 Sept 2026.
+Jessica Nightlife is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Giri, Berlin on Fri, 4 Sept 2026.
 
 Jessica Nightlife is a house and techno artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Brussels and Cologne and 7 more. Often billed alongside puppy, Aaron Blau and 131bpm. Next up: Giri, Berlin on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Jessica Nightlife is a house and techno artist based in Germany, tracked on soun
 
 puppy, Aaron Blau, 131bpm
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicanightlife/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicanightlife/)*

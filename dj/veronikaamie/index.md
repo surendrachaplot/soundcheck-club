@@ -1,6 +1,6 @@
 # Veronika Amie
 
-Veronika Amie is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Porto Pollo, Vienna on Sat, 5 Sept 2026.
+Veronika Amie is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Porto Pollo, Vienna on Sat, 5 Sept 2026.
 
 Veronika Amie is a house and minimal artist based in Austria, tracked on soundcheck, with 21 sets logged across Vienna. Often billed alongside Thomas Grün, Philipp Blecha and Robin Ma'Ar. Next up: Porto Pollo, Vienna on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Veronika Amie is a house and minimal artist based in Austria, tracked on soundch
 
 Thomas Grün, Philipp Blecha, Robin Ma'Ar
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veronikaamie/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/veronikaamie/)*

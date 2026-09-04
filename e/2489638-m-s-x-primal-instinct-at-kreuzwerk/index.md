@@ -1,6 +1,6 @@
 # MÁS X PRIMAL INSTINCT at KREUZWERK
 
-MÁS X PRIMAL INSTINCT at KREUZWERK on Sat 5 Sept, Berlin. 10 acts on the bill: Amphia, Chlär, Connor Wall and Debbie and 6 more. Techno. Preview the line-up and save it on soundcheck.
+MÁS X PRIMAL INSTINCT at KREUZWERK on Sat 5 Sept, Berlin. 11 acts on the bill: Amphia, Chlär, Connor Wall and Debbie and 7 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ MÁS X PRIMAL INSTINCT at KREUZWERK on Sat 5 Sept, Berlin. 10 acts on the bill: 
 - JKS
 - KONZ
 - MarcelDune
+- RayRay
 - THC
 - TONI BA
 - VINVAR

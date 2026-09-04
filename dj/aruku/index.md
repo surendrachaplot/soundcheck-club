@@ -1,6 +1,6 @@
 # aruku
 
-aruku is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at L'ado, Tbilisi on Fri, 4 Sept 2026.
+aruku is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at L'ado, Tbilisi on Fri, 4 Sept 2026.
 
 aruku is a house and disco artist based in Georgia, tracked on soundcheck, with 13 sets logged across Tbilisi. Often billed alongside Amin (DE), Arya (4) and Givi Gelashvili. Next up: L'ado, Tbilisi on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ aruku is a house and disco artist based in Georgia, tracked on soundcheck, with 
 
 Amin (DE), Arya (4), Givi Gelashvili
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aruku/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aruku/)*

@@ -1,6 +1,6 @@
 # David Gtronic
 
-David Gtronic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
+David Gtronic is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at BRET, Amsterdam on Fri, 11 Sept 2026.
 
 David Gtronic is a house and techno artist based in Colombia, tracked on soundcheck, with 39 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 12 more. Often billed alongside Gian-Paul, Sepp and Adam Cloud. Next up: BRET, Amsterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ David Gtronic is a house and techno artist based in Colombia, tracked on soundch
 
 Gian-Paul, Sepp, Adam Cloud
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgtronic/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgtronic/)*

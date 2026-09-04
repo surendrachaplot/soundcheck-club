@@ -1,6 +1,6 @@
 # Tobias Lindén
 
-Tobias Lindén is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Rūmu, Lisbon on Sat, 5 Sept 2026.
+Tobias Lindén is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Rūmu, Lisbon on Sat, 5 Sept 2026.
 
 Tobias Lindén is a house and deep house artist tracked on soundcheck, with 29 sets logged across Berlin, Lisbon, Miami and Newyorkcity and 4 more. Often billed alongside Daniel Bertholdsson, O.BEE and Tomas Station. Next up: Rūmu, Lisbon on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Tobias Lindén is a house and deep house artist tracked on soundcheck, with 29 s
 
 Daniel Bertholdsson, O.BEE, Tomas Station
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiaslinden-se/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiaslinden-se/)*

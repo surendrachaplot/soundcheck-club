@@ -1,6 +1,6 @@
 # OXOPOHA
 
-OXOPOHA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at AMT, Berlin on Sat, 24 Oct 2026.
+OXOPOHA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at AMT, Berlin on Sat, 24 Oct 2026.
 
 OXOPOHA is a techno and house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside _minted, shesand and Isoskeles. Next up: AMT, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ OXOPOHA is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 _minted, shesand, Isoskeles
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oxopoha/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oxopoha/)*

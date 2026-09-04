@@ -1,6 +1,6 @@
 # Ravejezuz
 
-Ravejezuz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat, 12 Sept 2026.
+Ravejezuz is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat, 12 Sept 2026.
 
 Ravejezuz is a techno and trance artist tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Thielking, Trash Bandit and Error507. Next up: TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ravejezuz is a techno and trance artist tracked on soundcheck, with 18 sets logg
 
 Thielking, Trash Bandit, Error507
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ravejezuz/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ravejezuz/)*

@@ -1,6 +1,6 @@
 # Mumdance
 
-Mumdance is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cu, London on Sat, 19 Sept 2026.
+Mumdance is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cu, London on Sat, 19 Sept 2026.
 
 Mumdance is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 5 more. Often billed alongside Turbo Miffy, Logos and Manami. Next up: Cu, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Mumdance is a bass and techno artist based in United Kingdom, tracked on soundch
 
 Turbo Miffy, Logos, Manami
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdance/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mumdance/)*

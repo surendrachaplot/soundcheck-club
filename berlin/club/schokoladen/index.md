@@ -1,6 +1,6 @@
 # Schokoladen
 
-Schokoladen is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Grito Exclamac!ón, J Mahon & The Heavenly Pop Hits" on Thu, 24 Sept 2026.
+Schokoladen is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Grito Exclamac!ón, J Mahon & The Heavenly Pop Hits" on Thu, 24 Sept 2026.
 
 Schokoladen is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Ackerstraße 169/170, 10115, Berlin, Germany.
 
@@ -15,4 +15,4 @@ Schokoladen is a music venue in Berlin listed on soundcheck. 2 upcoming nights. 
 
 Ackerstraße 169/170, 10115, Berlin, Germany, Berlin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/schokoladen/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/schokoladen/)*

@@ -1,6 +1,6 @@
 # Sippin' T
 
-Sippin' T is a Techno and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
+Sippin' T is a Techno and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
 
 Sippin' T is a techno and broken beat artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Berlin, London, Newyorkcity and Sydney. Often billed alongside TEDESCO, THEMPRESS and GIDEÖN. Next up: Hackney Bridge, London on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Sippin' T is a techno and broken beat artist based in United Kingdom, tracked on
 
 TEDESCO, THEMPRESS, GIDEÖN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sippint/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sippint/)*

@@ -1,6 +1,6 @@
 # Passos Manuel
 
-Passos Manuel is a music venue in Porto with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "AlFaer - all night set" on Fri, 2 Oct 2026.
+Passos Manuel is a music venue in Porto with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "AlFaer - all night set" on Fri, 2 Oct 2026.
 
 Passos Manuel is a music venue in Porto listed on soundcheck. 1 upcoming night, with line-ups including AlFaer. Browse upcoming dates, start times and who's playing. Rua Passos Manuel 137, 4000-385 Porto.
 
@@ -14,4 +14,4 @@ Passos Manuel is a music venue in Porto listed on soundcheck. 1 upcoming night, 
 
 Rua Passos Manuel 137, 4000-385 Porto, Porto
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/passos-manuel/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/passos-manuel/)*

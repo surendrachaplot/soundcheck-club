@@ -1,6 +1,6 @@
 # Szunflower
 
-Szunflower is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Odonien, Cologne on Fri, 4 Sept 2026.
+Szunflower is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Odonien, Cologne on Fri, 4 Sept 2026.
 
 Szunflower is a techno and trance artist tracked on soundcheck, with 21 sets logged across Cologne, Dusseldorf and Frankfurt. Often billed alongside Gutkind, Tschatsching and Alchemiah. Next up: Odonien, Cologne on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Szunflower is a techno and trance artist tracked on soundcheck, with 21 sets log
 
 Gutkind, Tschatsching, Alchemiah
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szunflower/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szunflower/)*

@@ -1,6 +1,6 @@
 # suciopath
 
-suciopath is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mood Ring, New York City on Fri, 4 Sept 2026.
+suciopath is a House and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mood Ring, New York City on Fri, 4 Sept 2026.
 
 suciopath is a house and idm artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity and Toronto. Often billed alongside LIONESSA, PUFF and porygon k. Next up: Mood Ring, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ suciopath is a house and idm artist based in United States of America, tracked o
 
 LIONESSA, PUFF, porygon k
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suciopath/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suciopath/)*

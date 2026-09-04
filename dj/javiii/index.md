@@ -1,6 +1,6 @@
 # JAViii
 
-JAViii is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - XuXa - 6910 Shirley Avenue, Austin on Fri, 4 Sept 2026.
+JAViii is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - XuXa - 6910 Shirley Avenue, Austin on Fri, 4 Sept 2026.
 
 JAViii is a house and acid artist tracked on soundcheck, with 33 sets logged across Austin. Often billed alongside Purple Matter, Brett Johnson and The Electric Pearl. Next up: TBA - XuXa - 6910 Shirley Avenue, Austin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ JAViii is a house and acid artist tracked on soundcheck, with 33 sets logged acr
 
 Purple Matter, Brett Johnson, The Electric Pearl
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/javiii/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/javiii/)*

@@ -1,6 +1,6 @@
 # mike ext
 
-mike ext is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at SubT Lounge, Chicago on Sat, 5 Sept 2026.
+mike ext is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at SubT Lounge, Chicago on Sat, 5 Sept 2026.
 
 mike ext is a techno and house artist tracked on soundcheck, with 13 sets logged across Chicago. Often billed alongside Nathaniel Pavel, KEEFE and Adam Pecho. Next up: SubT Lounge, Chicago on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ mike ext is a techno and house artist tracked on soundcheck, with 13 sets logged
 
 Nathaniel Pavel, KEEFE, Adam Pecho
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeext/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeext/)*

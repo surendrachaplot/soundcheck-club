@@ -1,6 +1,6 @@
 # The Josh Craig
 
-The Josh Craig is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Moondog Hifi, New York City on Sat, 5 Sept 2026.
+The Josh Craig is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Moondog Hifi, New York City on Sat, 5 Sept 2026.
 
 The Josh Craig is a house and techno artist tracked on soundcheck, with 23 sets logged across Amsterdam, Lisbon, Mexicocity and Miami and 3 more. Often billed alongside Rechulski, Bergsonist and Edo. Next up: Moondog Hifi, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ The Josh Craig is a house and techno artist tracked on soundcheck, with 23 sets 
 
 Rechulski, Bergsonist, Edo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thejoshcraig/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thejoshcraig/)*

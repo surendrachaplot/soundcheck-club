@@ -1,6 +1,6 @@
 # Cirque Cosmic
 
-Cirque Cosmic is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Société des arts technologiques, Montreal on Fri, 4 Sept 2026.
+Cirque Cosmic is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Société des arts technologiques, Montreal on Fri, 4 Sept 2026.
 
 Cirque Cosmic is a house and tech house artist based in Canada, tracked on soundcheck, with 19 sets logged across Montreal and Newyorkcity. Often billed alongside Flleur, Bodegaparty and Guillaume Michaud. Next up: Société des arts technologiques, Montreal on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Cirque Cosmic is a house and tech house artist based in Canada, tracked on sound
 
 Flleur, Bodegaparty, Guillaume Michaud
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cirquecosmic/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cirquecosmic/)*

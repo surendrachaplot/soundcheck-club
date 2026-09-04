@@ -1,6 +1,6 @@
 # Mina
 
-Mina is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Flinders, Sydney on Sat, 5 Sept 2026.
+Mina is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Flinders, Sydney on Sat, 5 Sept 2026.
 
 Mina is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 29 more. Often billed alongside Bryte, SANA and Tash LC. Next up: The Flinders, Sydney on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Mina is a techno and house artist tracked on soundcheck, with 90 sets logged acr
 
 Bryte, SANA, Tash LC
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mina/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mina/)*

@@ -1,6 +1,6 @@
 # dj people's princess
 
-dj people's princess is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
+dj people's princess is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
 
 dj people's princess is a techno and dub techno artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside nohexcode, CITYTRONIX and ANTIPODES. Next up: Algha's Plantroom, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ dj people's princess is a techno and dub techno artist tracked on soundcheck, wi
 
 nohexcode, CITYTRONIX, ANTIPODES
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeoplesprincess/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpeoplesprincess/)*

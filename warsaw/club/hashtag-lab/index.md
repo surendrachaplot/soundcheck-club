@@ -1,6 +1,6 @@
 # Hashtag Lab
 
-Hashtag Lab is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Grischa Lichtenberger, Qba Janicki - Avant Art Festival" on Thu, 17 Sept 2026.
+Hashtag Lab is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Grischa Lichtenberger, Qba Janicki - Avant Art Festival" on Thu, 17 Sept 2026.
 
 Hashtag Lab is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including Grischa Lichtenberger. Browse upcoming dates, start times and who's playing. Barska 29, 02-315 Warszawa.
 
@@ -14,4 +14,4 @@ Hashtag Lab is a music venue in Warsaw listed on soundcheck. 1 upcoming night, w
 
 Barska 29, 02-315 Warszawa, Warsaw
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hashtag-lab/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hashtag-lab/)*

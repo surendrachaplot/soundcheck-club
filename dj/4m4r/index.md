@@ -1,6 +1,6 @@
 # 4M4R
 
-4M4R is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Flakturm Humboldthain, Berlin on Sun, 20 Sept 2026.
+4M4R is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Flakturm Humboldthain, Berlin on Sun, 20 Sept 2026.
 
 4M4R is a house and electro artist based in Spain, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Miss T Delight, Adam Cooke and Anaté. Next up: TBA - Flakturm Humboldthain, Berlin on Sun 20 Sept.
 
@@ -21,4 +21,4 @@
 
 Miss T Delight, Adam Cooke, Anaté
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4m4r/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/4m4r/)*

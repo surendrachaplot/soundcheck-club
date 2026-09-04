@@ -1,6 +1,6 @@
 # TBA - Allstate Arena Chicago
 
-TBA - Allstate Arena Chicago is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Zac Brown Band" on Sat, 21 Nov 2026.
+TBA - Allstate Arena Chicago is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Zac Brown Band" on Sat, 21 Nov 2026.
 
 TBA - Allstate Arena Chicago is a music venue in Chicago listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Allstate Arena Chicago is a music venue in Chicago listed on soundcheck. 1
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Zac Brown Band |  |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-allstate-arena-chicago/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-allstate-arena-chicago/)*

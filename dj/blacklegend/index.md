@@ -1,6 +1,6 @@
 # Black Legend
 
-Black Legend is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+Black Legend is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
 Black Legend is a tech house and house artist based in Italy, tracked on soundcheck, with 4 sets logged across Amsterdam and Tokyo. Often billed alongside Angelo Ferreri, CLESENT and Charlie Brown. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Black Legend is a tech house and house artist based in Italy, tracked on soundch
 
 Angelo Ferreri, CLESENT, Charlie Brown
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklegend/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklegend/)*

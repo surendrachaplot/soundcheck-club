@@ -1,14 +1,13 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 50 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "HOUSE-TEX" on Thu, 3 Sept 2026.
+DJ Bar Bridge is a music venue in Tokyo with 49 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "DJ Nori & Max Essa" on Fri, 4 Sept 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 50 upcoming nights, with line-ups including DJ246, DJ Emma, DJ Nori and Eitetsu Takamiya and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 49 upcoming nights, with line-ups including DJ246, DJ Emma, DJ Nori and Eitetsu Takamiya and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | HOUSE-TEX | DJ Emma, Louis Shannon |
 | Fri, 4 Sept 2026 | DJ Nori & Max Essa | DJ Nori, Max Essa |
 | Sat, 5 Sept 2026 | Toshiyuki Goto & Kengo | Kengo, Toshiyuki Goto |
 | Mon, 7 Sept 2026 | KANGO, SHINYA & HIRO |  |
@@ -18,9 +17,10 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 50 upcoming nights
 | Fri, 11 Sept 2026 | DJ Nori & Takehiko Kitahara | DJ Nori |
 | Sat, 12 Sept 2026 | Eitetsu Takamiya | Eitetsu Takamiya |
 | Mon, 14 Sept 2026 | DJ MINOYAMA, DAH-ISHI & ISABELLE |  |
+| Tue, 15 Sept 2026 | ZUKIE, Ryo Futojima & DJ HARUKI |  |
 
 ## Address
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

@@ -1,6 +1,6 @@
 # S.N.R.I.
 
-S.N.R.I. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bike Jesus, Prague on Sat, 17 Oct 2026.
+S.N.R.I. is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bike Jesus, Prague on Sat, 17 Oct 2026.
 
 S.N.R.I. is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 14 sets logged across Prague. Often billed alongside Diva, KAWA and Riki Boro. Next up: Bike Jesus, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ S.N.R.I. is a techno and trance artist based in Czech Republic, tracked on sound
 
 Diva, KAWA, Riki Boro
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.n.r.i./)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.n.r.i./)*

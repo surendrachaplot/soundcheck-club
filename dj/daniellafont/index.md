@@ -1,6 +1,6 @@
 # Daniella Font
 
-Daniella Font is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Unit 58, London on Fri, 4 Sept 2026.
+Daniella Font is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Unit 58, London on Fri, 4 Sept 2026.
 
 Daniella Font is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside Omari, BECKIE ADAMS and Jaden Pace. Next up: Unit 58, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Daniella Font is a house and tech house artist based in United Kingdom, tracked 
 
 Omari, BECKIE ADAMS, Jaden Pace
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellafont/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellafont/)*

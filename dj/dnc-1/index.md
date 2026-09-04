@@ -1,6 +1,6 @@
 # DNC (1)
 
-DNC (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Chatroom at Elsewhere, New York City on Fri, 4 Sept 2026.
+DNC (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Chatroom at Elsewhere, New York City on Fri, 4 Sept 2026.
 
 DNC (1) is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Newyorkcity. Often billed alongside Abril IRL, LoKho and @Soluna. Next up: Chatroom at Elsewhere, Newyorkcity on Fri 4 Sept.
 
@@ -24,4 +24,4 @@ DNC (1) is a house and techno artist based in United States of America, tracked 
 
 Abril IRL, LoKho, @Soluna
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dnc-1/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dnc-1/)*

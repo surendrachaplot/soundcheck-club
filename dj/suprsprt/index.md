@@ -1,6 +1,6 @@
 # SUPR SPRT
 
-SUPR SPRT is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 7 Sept 2026.
+SUPR SPRT is a Club and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bossa Nova Civic Club, New York City on Mon, 7 Sept 2026.
 
 SUPR SPRT is a club and garage artist based in Tajikistan, tracked on soundcheck, with 25 sets logged across Losangeles and Newyorkcity. Often billed alongside Grabba Ranks, NoahG and Kasey Cortez. Next up: Bossa Nova Civic Club, Newyorkcity on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ SUPR SPRT is a club and garage artist based in Tajikistan, tracked on soundcheck
 
 Grabba Ranks, NoahG, Kasey Cortez
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suprsprt/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suprsprt/)*

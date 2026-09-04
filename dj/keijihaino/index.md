@@ -1,6 +1,6 @@
 # Keiji Haino
 
-Keiji Haino is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club Goodman, Tokyo on Sat, 26 Sept 2026.
+Keiji Haino is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Club Goodman, Tokyo on Sat, 26 Sept 2026.
 
 Keiji Haino is an experimental and noise artist tracked on soundcheck, with 9 sets logged across Berlin, Krakow, Melbourne and Paris and 2 more. Often billed alongside 2K88, Actress and Bianca Scout. Next up: Club Goodman, Tokyo on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Keiji Haino is an experimental and noise artist tracked on soundcheck, with 9 se
 
 2K88, Actress, Bianca Scout
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keijihaino/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keijihaino/)*

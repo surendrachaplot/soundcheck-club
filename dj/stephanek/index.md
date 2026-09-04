@@ -1,6 +1,6 @@
 # Stephane K
 
-Stephane K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Oath, Tokyo on Fri, 4 Sept 2026.
+Stephane K is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Oath, Tokyo on Fri, 4 Sept 2026.
 
 Stephane K is a techno and house artist tracked on soundcheck, with 14 sets logged across Tokyo. Often billed alongside THE RATA, ABOUT SOFIYA and Do Shock Booze. Next up: Oath, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Stephane K is a techno and house artist tracked on soundcheck, with 14 sets logg
 
 THE RATA, ABOUT SOFIYA, Do Shock Booze
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanek/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanek/)*

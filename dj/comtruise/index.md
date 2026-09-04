@@ -1,6 +1,6 @@
 # Com Truise
 
-Com Truise is a Electronica and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kingdom Nightclub, Austin on Fri, 13 Nov 2026.
+Com Truise is a Electronica and Vaporwave artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kingdom Nightclub, Austin on Fri, 13 Nov 2026.
 
 Com Truise is an electronica and vaporwave artist based in United States of America, tracked on soundcheck, with 26 sets logged across Austin, Chicago, Detroit and Losangeles and 10 more. Often billed alongside Amourette, Arht and Dapapa. Next up: Kingdom Nightclub, Austin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Com Truise is an electronica and vaporwave artist based in United States of Amer
 
 Amourette, Arht, Dapapa
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comtruise/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comtruise/)*

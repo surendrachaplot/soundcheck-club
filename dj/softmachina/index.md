@@ -1,6 +1,6 @@
 # soft:machina
 
-soft:machina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at C12, Brussels on Sat, 3 Oct 2026.
+soft:machina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at C12, Brussels on Sat, 3 Oct 2026.
 
 soft:machina is a house and techno artist tracked on soundcheck, with 10 sets logged across Antwerp and Brussels. Often billed alongside VTT (BE), ATARAXY and AZA. Next up: C12, Brussels on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ soft:machina is a house and techno artist tracked on soundcheck, with 10 sets lo
 
 VTT (BE), ATARAXY, AZA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/softmachina/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/softmachina/)*

@@ -1,6 +1,6 @@
 # Sissy Elliott
 
-Sissy Elliott is a Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Elsewhere, New York City on Sat, 31 Oct 2026.
+Sissy Elliott is a Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Elsewhere, New York City on Sat, 31 Oct 2026.
 
 Sissy Elliott is a club artist tracked on soundcheck, with 13 sets logged across Newyorkcity. Often billed alongside DJ Erewhon, Naija Couture and ARCHANGEL (US). Next up: Elsewhere, Newyorkcity on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sissy Elliott is a club artist tracked on soundcheck, with 13 sets logged across
 
 DJ Erewhon, Naija Couture, ARCHANGEL (US)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sissyelliott/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sissyelliott/)*

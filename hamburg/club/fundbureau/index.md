@@ -1,6 +1,6 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "SKKIN VELVET ANL // EMA ZDESAR // BIZARRE // CALIGO" on Fri, 4 Sept 2026.
+Fundbureau is a music venue in Hamburg with 14 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "SKKIN VELVET ANL // EMA ZDESAR // BIZARRE // CALIGO" on Fri, 4 Sept 2026.
 
 Fundbureau is a music venue in Hamburg listed on soundcheck. 14 upcoming nights, with line-ups including 3LEEZA, Aio, BENITO (DE) and Carbon and 2 more. Browse upcoming dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 14 upcoming nights,
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

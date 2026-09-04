@@ -1,6 +1,6 @@
 # MJ Cole
 
-MJ Cole is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Freight Brixton, London on Sat, 5 Sept 2026.
+MJ Cole is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Freight Brixton, London on Sat, 5 Sept 2026.
 
 MJ Cole is a garage and bass artist tracked on soundcheck, with 28 sets logged across Barcelona, Brighton, Dublin and Ibiza and 4 more. Often billed alongside Chunky, Kirollus and LARISHKA (UK). Next up: Freight Brixton, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ MJ Cole is a garage and bass artist tracked on soundcheck, with 28 sets logged a
 
 Chunky, Kirollus, LARISHKA (UK)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mjcole/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mjcole/)*

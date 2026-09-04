@@ -1,6 +1,6 @@
 # Secret Cells Vol 1 at The Racket Space
 
-Secret Cells Vol 1 at The Racket Space on Thu 17 Sept, Dublin. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Secret Cells Vol 1 at The Racket Space on Thu 17 Sept, Dublin. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

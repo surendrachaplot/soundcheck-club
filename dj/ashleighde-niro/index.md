@@ -1,6 +1,6 @@
 # Ashleigh De-Niro
 
-Ashleigh De-Niro is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Cross, London on Sat, 19 Sept 2026.
+Ashleigh De-Niro is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Cross, London on Sat, 19 Sept 2026.
 
 Ashleigh De-Niro is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside B3, Dominique Danielle and Lance Morgan. Next up: The Cross, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ashleigh De-Niro is a deep house and tech house artist based in United Kingdom, 
 
 B3, Dominique Danielle, Lance Morgan
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleighde-niro/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleighde-niro/)*

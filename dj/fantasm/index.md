@@ -1,6 +1,6 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Carlswerk Victoria, Cologne on Fri, 4 Sept 2026.
+Fantasm is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Carlswerk Victoria, Cologne on Fri, 4 Sept 2026.
 
 Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Carlswerk Victoria, Cologne on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logg
 
 KLOFAMA, NOVAH, Holy Priest
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

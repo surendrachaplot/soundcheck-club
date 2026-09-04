@@ -1,6 +1,6 @@
 # Cheriii
 
-Cheriii is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Cheriii is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Cheriii is a house and techno artist tracked on soundcheck, with 77 sets logged across Antwerp, Athens, Barcelona and Berlin and 14 more. Often billed alongside Kubin, Julie Desire and Dirty Daddy Don. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Cheriii is a house and techno artist tracked on soundcheck, with 77 sets logged 
 
 Kubin, Julie Desire, Dirty Daddy Don
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*

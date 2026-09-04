@@ -1,6 +1,6 @@
 # Dreams
 
-Dreams is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 23 Sept 2026.
+Dreams is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 23 Sept 2026.
 
 Dreams is a techno and club artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Austin, Brisbane and Losangeles and 3 more. Often billed alongside S4M23, Laenz and Mui Mui. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Dreams is a techno and club artist based in United States of America, tracked on
 
 S4M23, Laenz, Mui Mui
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dreams/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dreams/)*

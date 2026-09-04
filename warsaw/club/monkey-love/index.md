@@ -1,6 +1,6 @@
 # MONKEY LOVE
 
-MONKEY LOVE is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "MONKEY LOVE pres. uiava X Ganna Glass" on Fri, 4 Sept 2026.
+MONKEY LOVE is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "MONKEY LOVE pres. uiava X Ganna Glass" on Fri, 4 Sept 2026.
 
 MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with line-ups including bart ender, daisy cutter, Ganna Glass and Helga and 2 more. Browse upcoming dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
 
@@ -19,4 +19,4 @@ MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, 
 
 Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa, Warsaw
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*

@@ -1,6 +1,6 @@
 # KINTEL
 
-KINTEL is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Atelier Gardens Campus, Berlin on Sat, 5 Sept 2026.
+KINTEL is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Atelier Gardens Campus, Berlin on Sat, 5 Sept 2026.
 
 KINTEL is a house and deep house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Milan. Often billed alongside cliff, BUTZ and Fletchy Boy. Next up: Atelier Gardens Campus, Berlin on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ KINTEL is a house and deep house artist based in Germany, tracked on soundcheck,
 
 cliff, BUTZ, Fletchy Boy
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kintel/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kintel/)*

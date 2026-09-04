@@ -1,6 +1,6 @@
 # Bauhaus
 
-Bauhaus is a music venue in Houston with 21 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Layla Benitez" on Fri, 4 Sept 2026.
+Bauhaus is a music venue in Houston with 21 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Layla Benitez" on Fri, 4 Sept 2026.
 
 Bauhaus is a music venue in Houston listed on soundcheck. 21 upcoming nights, with line-ups including Black V Neck, bradeazy, Classmatic and DJ MANDY and 2 more. Browse upcoming dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
 
@@ -23,4 +23,4 @@ Bauhaus is a music venue in Houston listed on soundcheck. 21 upcoming nights, wi
 
 1803 Pease St, Houston, TX 77003, US, Houston
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*

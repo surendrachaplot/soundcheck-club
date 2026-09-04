@@ -1,6 +1,6 @@
 # Brennan (2)
 
-Brennan (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ringside Shoreditch, London on Sat, 7 Nov 2026.
+Brennan (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ringside Shoreditch, London on Sat, 7 Nov 2026.
 
 Brennan (2) is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Manchester. Often billed alongside Quidders, Jimmy and Ferg. Next up: Ringside Shoreditch, London on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Brennan (2) is a tech house and house artist based in United Kingdom, tracked on
 
 Quidders, Jimmy, Ferg
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brennan-2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brennan-2/)*

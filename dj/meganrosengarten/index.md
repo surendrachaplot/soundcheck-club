@@ -1,6 +1,6 @@
 # Megan Rosengarten
 
-Megan Rosengarten is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bogart House, New York City on Sat, 12 Sept 2026.
+Megan Rosengarten is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bogart House, New York City on Sat, 12 Sept 2026.
 
 Megan Rosengarten is a techno and experimental artist based in United States of America, tracked on soundcheck, with 24 sets logged across Berlin and Newyorkcity. Often billed alongside Wren's Lullaby, Friedberg and B-SiiDE. Next up: Bogart House, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Megan Rosengarten is a techno and experimental artist based in United States of 
 
 Wren's Lullaby, Friedberg, B-SiiDE
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meganrosengarten/)*

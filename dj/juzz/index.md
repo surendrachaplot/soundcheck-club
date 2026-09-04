@@ -1,6 +1,6 @@
 # Juzz
 
-Juzz is a Minimal Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Supermarket, Zurich on Sat, 12 Sept 2026.
+Juzz is a Minimal Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Supermarket, Zurich on Sat, 12 Sept 2026.
 
 Juzz is a minimal techno and deep house artist tracked on soundcheck, with 20 sets logged across Zurich. Often billed alongside Aline (CH), Benosah and Flavio (CH). Next up: Supermarket, Zurich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Juzz is a minimal techno and deep house artist tracked on soundcheck, with 20 se
 
 Aline (CH), Benosah, Flavio (CH)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juzz/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juzz/)*

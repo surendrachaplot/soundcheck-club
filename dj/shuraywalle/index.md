@@ -1,6 +1,6 @@
 # Shuray & Walle
 
-Shuray & Walle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Leipzig on Sat, 26 Sept 2026.
+Shuray & Walle is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Leipzig on Sat, 26 Sept 2026.
 
 Shuray & Walle are a house and techno duo tracked on soundcheck, with 10 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Carlotta Jacobi, MAY/O and Medha. Next up: TBA, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Shuray & Walle are a house and techno duo tracked on soundcheck, with 10 sets lo
 
 Carlotta Jacobi, MAY/O, Medha
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shuraywalle/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shuraywalle/)*

@@ -1,6 +1,6 @@
 # Matias Aguayo
 
-Matias Aguayo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Switch, Porto on Fri, 4 Sept 2026.
+Matias Aguayo is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Switch, Porto on Fri, 4 Sept 2026.
 
 Matias Aguayo is a house and electronica artist tracked on soundcheck, with 79 sets logged across Austin, Barcelona, Basel and Belgrade and 27 more. Often billed alongside PAURRO, Justin Strauss and Magda. Next up: Switch, Porto on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Matias Aguayo is a house and electronica artist tracked on soundcheck, with 79 s
 
 PAURRO, Justin Strauss, Magda
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*

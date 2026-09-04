@@ -1,6 +1,6 @@
 # Tylr
 
-Tylr is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Spkrbox, Detroit on Fri, 4 Sept 2026.
+Tylr is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Spkrbox, Detroit on Fri, 4 Sept 2026.
 
 Tylr is a house and techno artist tracked on soundcheck, with 330 sets logged across Detroit, London, Newyorkcity and Seattle and 1 more. Often billed alongside Loren, Garrison XR and Kass (US). Next up: Spkrbox, Detroit on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Tylr is a house and techno artist tracked on soundcheck, with 330 sets logged ac
 
 Loren, Garrison XR, Kass (US)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tylr/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tylr/)*

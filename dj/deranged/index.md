@@ -1,6 +1,6 @@
 # Deranged
 
-Deranged is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Gaffe, London on Sat, 17 Oct 2026.
+Deranged is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Gaffe, London on Sat, 17 Oct 2026.
 
 Deranged is a techno artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London and Manchester. Often billed alongside Ylia (UK), H Grade and GIZZI. Next up: Gaffe, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Deranged is a techno artist based in United Kingdom, tracked on soundcheck, with
 
 Ylia (UK), H Grade, GIZZI
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deranged/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deranged/)*

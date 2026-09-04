@@ -1,6 +1,6 @@
 # Simone
 
-Simone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bridge 48, Barcelona on Fri, 25 Sept 2026.
+Simone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bridge 48, Barcelona on Fri, 25 Sept 2026.
 
 Simone is a techno and house artist tracked on soundcheck, with 17 sets logged across Barcelona, Belfast, Bristol and Dublin and 7 more. Often billed alongside Azyr, I Hate Models and Juicy Romance. Next up: Bridge 48, Barcelona on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Simone is a techno and house artist tracked on soundcheck, with 17 sets logged a
 
 Azyr, I Hate Models, Juicy Romance
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simone/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simone/)*

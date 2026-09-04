@@ -1,6 +1,6 @@
 # VOX (1)
 
-VOX (1) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 5 Sept 2026.
+VOX (1) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at ZEROTOKYO, Tokyo on Sat, 5 Sept 2026.
 
 VOX (1) is a techno and bass artist based in Japan, tracked on soundcheck, with 9 sets logged across Amsterdam and Tokyo. Often billed alongside PANICWORKS, AYANA KOSHIBA and EMILIO (3). Next up: ZEROTOKYO, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ VOX (1) is a techno and bass artist based in Japan, tracked on soundcheck, with 
 
 PANICWORKS, AYANA KOSHIBA, EMILIO (3)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vox-1/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vox-1/)*

@@ -1,6 +1,6 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "The Gang is Beautiful x Grey Men - Fashion Week Closing" on Sat, 5 Sept 2026.
+CLUB RAUM is a music venue in Amsterdam with 14 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "The Gang is Beautiful x Grey Men - Fashion Week Closing" on Sat, 5 Sept 2026.
 
 CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights, with line-ups including Afra, Aldonna, Alienata and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
@@ -23,4 +23,4 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 14 upcoming nights
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

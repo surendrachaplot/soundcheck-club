@@ -1,6 +1,6 @@
 # Becca Egan
 
-Becca Egan is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
+Becca Egan is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
 
 Becca Egan is a house and trance artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Edinburgh. Often billed alongside ARWEN, HAPOL and Sweeney. Next up: The Bongo Club, Edinburgh on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Becca Egan is a house and trance artist based in United Kingdom, tracked on soun
 
 ARWEN, HAPOL, Sweeney
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beccaegan/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beccaegan/)*

@@ -1,6 +1,6 @@
 # Hans Nieswandt
 
-Hans Nieswandt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Objktt Record Bar, Seoul on Fri, 4 Sept 2026.
+Hans Nieswandt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Objktt Record Bar, Seoul on Fri, 4 Sept 2026.
 
 Hans Nieswandt is a house and techno artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside Baxa, DJ Funny and Better. Next up: Objktt Record Bar, Seoul on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Hans Nieswandt is a house and techno artist based in Germany, tracked on soundch
 
 Baxa, DJ Funny, Better
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hansnieswandt/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hansnieswandt/)*

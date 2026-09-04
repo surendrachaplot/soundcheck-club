@@ -1,6 +1,6 @@
 # Platform9
 
-Platform9 is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "BDrive: nextdimensional" on Fri, 18 Sept 2026.
+Platform9 is a music venue in Vancouver with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BDrive: nextdimensional" on Fri, 18 Sept 2026.
 
 Platform9 is a music venue in Vancouver listed on soundcheck. 3 upcoming nights, with line-ups including 1morning, AVRY, AWood and DJ dood and 2 more. Browse upcoming dates, start times and who's playing. 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada.
 
@@ -16,4 +16,4 @@ Platform9 is a music venue in Vancouver listed on soundcheck. 3 upcoming nights,
 
 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada, Vancouver
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*

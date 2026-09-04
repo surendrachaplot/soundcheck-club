@@ -1,6 +1,6 @@
 # Genosidra
 
-Genosidra is a Guaracha and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 25 Sept 2026.
+Genosidra is a Guaracha and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at K-Bar Powiśle, Warsaw on Fri, 25 Sept 2026.
 
 Genosidra is a guaracha and latin bass artist based in Colombia, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Buenosaires and Geneva and 11 more. Often billed alongside FKS (1), Gadutra and Lechuga Zafiro. Next up: K-Bar Powiśle, Warsaw on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Genosidra is a guaracha and latin bass artist based in Colombia, tracked on soun
 
 FKS (1), Gadutra, Lechuga Zafiro
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genosidra/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genosidra/)*

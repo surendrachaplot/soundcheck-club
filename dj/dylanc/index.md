@@ -1,6 +1,6 @@
 # Dylan C
 
-Dylan C is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Neck of the Woods, Auckland on Fri, 4 Sept 2026.
+Dylan C is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Neck of the Woods, Auckland on Fri, 4 Sept 2026.
 
 Dylan C is a drum & bass and bass artist tracked on soundcheck, with 21 sets logged across Auckland. Often billed alongside Mia Kober, DirdyGerdi and Paige Julia. Next up: Neck of the Woods, Auckland on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Dylan C is a drum & bass and bass artist tracked on soundcheck, with 21 sets log
 
 Mia Kober, DirdyGerdi, Paige Julia
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanc/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanc/)*

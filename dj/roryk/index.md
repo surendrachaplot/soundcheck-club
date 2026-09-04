@@ -1,6 +1,6 @@
 # Rory K
 
-Rory K is a Footwork and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Planet Wax, London on Fri, 11 Sept 2026.
+Rory K is a Footwork and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Planet Wax, London on Fri, 11 Sept 2026.
 
 Rory K is a footwork and electro artist tracked on soundcheck, with 12 sets logged across Bristol, London and Manchester. Often billed alongside Shadesy, P-Hocto and Big Dope P. Next up: Planet Wax, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Rory K is a footwork and electro artist tracked on soundcheck, with 12 sets logg
 
 Shadesy, P-Hocto, Big Dope P
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roryk/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roryk/)*

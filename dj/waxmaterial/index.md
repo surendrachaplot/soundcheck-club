@@ -1,6 +1,6 @@
 # Wax Material
 
-Wax Material is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at World Headquarters, Newcastle on Fri, 9 Oct 2026.
+Wax Material is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at World Headquarters, Newcastle on Fri, 9 Oct 2026.
 
 Wax Material is a house and tech house artist tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 6 more. Often billed alongside Just Jam, Laidlaw and Jordan Masters. Next up: World Headquarters, Newcastle on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Wax Material is a house and tech house artist tracked on soundcheck, with 42 set
 
 Just Jam, Laidlaw, Jordan Masters
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmaterial/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmaterial/)*

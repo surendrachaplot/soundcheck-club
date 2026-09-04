@@ -1,6 +1,6 @@
 # Fracture
 
-Fracture is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Fracture is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Fracture is a drum & bass and jungle artist tracked on soundcheck, with 51 sets logged across Antwerp, Berlin, Brighton and Bristol and 9 more. Often billed alongside Tim Reaper, Decibella and Equinox (UK). Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -17,6 +17,7 @@ Fracture is a drum & bass and jungle artist tracked on soundcheck, with 51 sets 
 
 ## Recently played
 
+- UNO MALTA, Malta — Thu, 3 Sept 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
 - Planet Wax, London — Sun, 17 May 2026
 - Basing House, London — Sat, 9 May 2026
@@ -24,10 +25,9 @@ Fracture is a drum & bass and jungle artist tracked on soundcheck, with 51 sets 
 - WARRECORDS, Antwerp — Fri, 27 Mar 2026
 - Gorilla, Manchester — Fri, 20 Mar 2026
 - Rich Mix, London — Thu, 26 Feb 2026
-- Corsica Studios, London — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 Tim Reaper, Decibella, Equinox (UK)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fracture/)*

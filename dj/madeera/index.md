@@ -1,6 +1,6 @@
 # madeera
 
-madeera is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Spkrbox, Detroit on Fri, 4 Sept 2026.
+madeera is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Spkrbox, Detroit on Fri, 4 Sept 2026.
 
 madeera is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Detroit, Dublin, Newcastle and Newyorkcity and 1 more. Often billed alongside Brent Shay, Antikkka and Tormented. Next up: Spkrbox, Detroit on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ madeera is a techno and house artist based in United States of America, tracked 
 
 Brent Shay, Antikkka, Tormented
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*

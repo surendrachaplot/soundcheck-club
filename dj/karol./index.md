@@ -1,6 +1,6 @@
 # KAROL.
 
-KAROL. is a Progressive House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at L'ado, Tbilisi on Fri, 4 Sept 2026.
+KAROL. is a Progressive House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at L'ado, Tbilisi on Fri, 4 Sept 2026.
 
 KAROL. is a progressive house and minimal artist tracked on soundcheck, with 12 sets logged across Istanbul and Tbilisi. Often billed alongside SENOR, Aku (4) and Audio Space. Next up: L'ado, Tbilisi on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ KAROL. is a progressive house and minimal artist tracked on soundcheck, with 12 
 
 SENOR, Aku (4), Audio Space
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karol./)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karol./)*

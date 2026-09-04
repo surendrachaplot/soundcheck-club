@@ -1,6 +1,6 @@
 # Vanaenae
 
-Vanaenae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paloma, Berlin on Sun, 6 Sept 2026.
+Vanaenae is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paloma, Berlin on Sun, 6 Sept 2026.
 
 Vanaenae is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside Big Honey, Neele and karete bu. Next up: Paloma, Berlin on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Vanaenae is a house and techno artist tracked on soundcheck, with 49 sets logged
 
 Big Honey, Neele, karete bu
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanaenae/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanaenae/)*

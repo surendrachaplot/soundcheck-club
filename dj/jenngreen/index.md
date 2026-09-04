@@ -1,6 +1,6 @@
 # JENN GREEN
 
-JENN GREEN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 4 Sept 2026.
+JENN GREEN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 4 Sept 2026.
 
 JENN GREEN is a techno and house artist tracked on soundcheck, with 65 sets logged across Losangeles, Portland, Seattle and Vancouver. Often billed alongside Jason Code, Jordana and Freddy M. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ JENN GREEN is a techno and house artist tracked on soundcheck, with 65 sets logg
 
 Jason Code, Jordana, Freddy M
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngreen/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngreen/)*

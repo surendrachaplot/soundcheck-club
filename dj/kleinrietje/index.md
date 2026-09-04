@@ -1,6 +1,6 @@
 # Klein Rietje
 
-Klein Rietje is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Chinese Laundry, Sydney on Sat, 5 Sept 2026.
+Klein Rietje is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Chinese Laundry, Sydney on Sat, 5 Sept 2026.
 
 Klein Rietje is a techno and house artist tracked on soundcheck, with 8 sets logged across Melbourne and Sydney. Often billed alongside AHJU, Black Dave and D-Grade. Next up: Chinese Laundry, Sydney on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Klein Rietje is a techno and house artist tracked on soundcheck, with 8 sets log
 
 AHJU, Black Dave, D-Grade
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kleinrietje/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kleinrietje/)*

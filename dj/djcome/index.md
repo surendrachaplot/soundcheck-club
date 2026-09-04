@@ -1,6 +1,6 @@
 # dj come
 
-dj come is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Model, Nottingham on Fri, 30 Oct 2026.
+dj come is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Model, Nottingham on Fri, 30 Oct 2026.
 
 dj come is a house and techno artist tracked on soundcheck, with 15 sets logged across Nottingham. Often billed alongside Mush Love (UK), rPal and Evil Woman. Next up: The Model, Nottingham on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ dj come is a house and techno artist tracked on soundcheck, with 15 sets logged 
 
 Mush Love (UK), rPal, Evil Woman
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcome/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcome/)*

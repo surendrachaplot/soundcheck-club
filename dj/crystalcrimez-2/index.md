@@ -1,6 +1,6 @@
 # crystal crimez (2)
 
-crystal crimez (2) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Schrotty, Cologne on Sat, 5 Sept 2026.
+crystal crimez (2) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Schrotty, Cologne on Sat, 5 Sept 2026.
 
 crystal crimez (2) is a trance and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Cologne, Munich and Stuttgart. Often billed alongside Aniza (DE), JANO (4) and Nick Hurton. Next up: Schrotty, Cologne on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ crystal crimez (2) is a trance and techno artist based in Germany, tracked on so
 
 Aniza (DE), JANO (4), Nick Hurton
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalcrimez-2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crystalcrimez-2/)*

@@ -1,6 +1,6 @@
 # Pygmalion
 
-Pygmalion is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Pyg presents January Winters" on Fri, 4 Sept 2026.
+Pygmalion is a music venue in Dublin with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Pyg presents January Winters" on Fri, 4 Sept 2026.
 
 Pygmalion is a music venue in Dublin listed on soundcheck. 7 upcoming nights, with line-ups including DIEBYVEG, Jake Fitz, January Winters and Joshwa and 2 more. Browse upcoming dates, start times and who's playing. 59 William St S, Dublin, Ireland.
 
@@ -20,4 +20,4 @@ Pygmalion is a music venue in Dublin listed on soundcheck. 7 upcoming nights, wi
 
 59 William St S, Dublin, Ireland, Dublin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*

@@ -1,6 +1,6 @@
 # Alte Münze
 
-Alte Münze is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Ikkimel & Friends Aftershow Party x HÖR" on Sat, 5 Sept 2026.
+Alte Münze is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Ikkimel & Friends Aftershow Party x HÖR" on Sat, 5 Sept 2026.
 
 Alte Münze is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including 3LEEZA, Acid Foxy, Alex Benz and Annie O and 2 more. Browse upcoming dates, start times and who's playing. Molkenmarkt 2, 10179 Berlin.
 
@@ -17,4 +17,4 @@ Alte Münze is a music venue in Berlin listed on soundcheck. 4 upcoming nights, 
 
 Molkenmarkt 2, 10179 Berlin, Berlin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/alte-m-nze/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/alte-m-nze/)*

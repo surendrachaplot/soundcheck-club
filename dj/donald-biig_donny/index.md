@@ -1,6 +1,6 @@
 # DONALD - BIIG_DONNY
 
-DONALD - BIIG_DONNY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+DONALD - BIIG_DONNY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 DONALD - BIIG_DONNY is a house and techno artist based in Italy, tracked on soundcheck, with 46 sets logged across Athens, Bali, Bangkok and Barcelona and 18 more. Often billed alongside Alex Dima, Cristian Sarde and Munir Nadir. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ DONALD - BIIG_DONNY is a house and techno artist based in Italy, tracked on soun
 
 Alex Dima, Cristian Sarde, Munir Nadir
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donald-biig_donny/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donald-biig_donny/)*

@@ -1,6 +1,6 @@
 # Dj Hiro
 
-Dj Hiro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at S Nightclub, Tokyo on Fri, 4 Sept 2026.
+Dj Hiro is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at S Nightclub, Tokyo on Fri, 4 Sept 2026.
 
 Dj Hiro is a house and techno artist based in Japan, tracked on soundcheck, with 43 sets logged across Bangkok, Kyoto, Osaka and Tokyo. Often billed alongside OPTIKZ, DJ JURI and MASANORI MORITA. Next up: S Nightclub, Tokyo on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Dj Hiro is a house and techno artist based in Japan, tracked on soundcheck, with
 
 OPTIKZ, DJ JURI, MASANORI MORITA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhiro/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhiro/)*

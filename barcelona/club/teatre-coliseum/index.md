@@ -1,6 +1,6 @@
 # Teatre Coliseum
 
-Teatre Coliseum is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Christian Löffler - Until We Meet Again Tour" on Tue, 24 Nov 2026.
+Teatre Coliseum is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Christian Löffler - Until We Meet Again Tour" on Tue, 24 Nov 2026.
 
 Teatre Coliseum is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Christian Löffler. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Teatre Coliseum is a music venue in Barcelona listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Tue, 24 Nov 2026 | Christian Löffler - Until We Meet Again Tour | Christian Löffler |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/teatre-coliseum/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/teatre-coliseum/)*

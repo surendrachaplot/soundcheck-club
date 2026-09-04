@@ -1,6 +1,6 @@
 # Walker & Royce
 
-Walker & Royce is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Walker & Royce is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Walker & Royce are a house and tech house duo tracked on soundcheck, with 81 sets logged across Austin, Boston, Chicago and Detroit and 13 more. Often billed alongside Vnssa, Kyle Watson and Sara Landry. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ Walker & Royce are a house and tech house duo tracked on soundcheck, with 81 set
 
 Vnssa, Kyle Watson, Sara Landry
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/walkerroyce/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/walkerroyce/)*

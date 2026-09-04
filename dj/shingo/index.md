@@ -1,6 +1,6 @@
 # Shingo
 
-Shingo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nué Seoul, Seoul on Sat, 5 Sept 2026.
+Shingo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Nué Seoul, Seoul on Sat, 5 Sept 2026.
 
 Shingo is a techno and house artist based in Japan, tracked on soundcheck, with 68 sets logged across Bali, Kyoto, Liverpool and Osaka and 2 more. Often billed alongside ONO (3), VIDEOBOY and AOKI takamasa. Next up: Nué Seoul, Seoul on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Shingo is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 ONO (3), VIDEOBOY, AOKI takamasa
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shingo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shingo/)*

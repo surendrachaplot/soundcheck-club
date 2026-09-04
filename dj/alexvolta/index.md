@@ -1,6 +1,6 @@
 # Alex Volta
 
-Alex Volta is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lieberscholli, Munich on Sun, 6 Sept 2026.
+Alex Volta is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lieberscholli, Munich on Sun, 6 Sept 2026.
 
 Alex Volta is a techno and tech house artist based in Germany, tracked on soundcheck, with 45 sets logged across Hamburg and Munich. Often billed alongside DEYST, Moritz Butschek and NUAH. Next up: Lieberscholli, Munich on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Alex Volta is a techno and tech house artist based in Germany, tracked on soundc
 
 DEYST, Moritz Butschek, NUAH
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvolta/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvolta/)*

@@ -1,6 +1,6 @@
 # Thoms Traxx
 
-Thoms Traxx is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KHIDI, Tbilisi on Fri, 18 Sept 2026.
+Thoms Traxx is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at KHIDI, Tbilisi on Fri, 18 Sept 2026.
 
 Thoms Traxx is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Cologne and Manchester and 7 more. Often billed alongside Beste Hira, Flits and I-RO. Next up: KHIDI, Tbilisi on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Thoms Traxx is a techno and house artist tracked on soundcheck, with 58 sets log
 
 Beste Hira, Flits, I-RO
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomstraxx/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomstraxx/)*

@@ -1,6 +1,6 @@
 # Kid Kenobi
 
-Kid Kenobi is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Chinese Laundry, Sydney on Fri, 18 Sept 2026.
+Kid Kenobi is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Chinese Laundry, Sydney on Fri, 18 Sept 2026.
 
 Kid Kenobi is a house and breakbeat artist based in Australia, tracked on soundcheck, with 8 sets logged across Hobart, Melbourne and Sydney. Often billed alongside Krafty Kuts, Mark Dynamix and Agent 86. Next up: Chinese Laundry, Sydney on Fri 18 Sept.
 
@@ -24,4 +24,4 @@ Kid Kenobi is a house and breakbeat artist based in Australia, tracked on soundc
 
 Krafty Kuts, Mark Dynamix, Agent 86
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidkenobi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidkenobi/)*

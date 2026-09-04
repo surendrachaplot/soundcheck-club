@@ -1,6 +1,6 @@
 # Sleep D
 
-Sleep D is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tender, Melbourne on Sat, 12 Sept 2026.
+Sleep D is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tender, Melbourne on Sat, 12 Sept 2026.
 
 Sleep D is a techno and house artist tracked on soundcheck, with 80 sets logged across Bali, Bangkok, Berlin and Brisbane and 17 more. Often billed alongside DJ PGZ, Moopie and Darcy Justice. Next up: Tender, Melbourne on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Sleep D is a techno and house artist tracked on soundcheck, with 80 sets logged 
 
 DJ PGZ, Moopie, Darcy Justice
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*

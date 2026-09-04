@@ -1,6 +1,6 @@
 # Rich Medina
 
-Rich Medina is a House and Hip-Hop artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Le Bain, New York City on Fri, 4 Sept 2026.
+Rich Medina is a House and Hip-Hop artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Le Bain, New York City on Fri, 4 Sept 2026.
 
 Rich Medina is a house and hip-hop artist tracked on soundcheck, with 197 sets logged across Amsterdam, Barcelona, Chicago and Denver and 19 more. Often billed alongside Djinji Brown, Dvize and Sunny Cheeba. Next up: Le Bain, Newyorkcity on Fri 4 Sept.
 
@@ -30,4 +30,4 @@ Rich Medina is a house and hip-hop artist tracked on soundcheck, with 197 sets l
 
 Djinji Brown, Dvize, Sunny Cheeba
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richmedina/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richmedina/)*

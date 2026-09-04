@@ -1,6 +1,6 @@
 # Scion
 
-Scion is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
+Scion is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
 
 Scion is an electronic artist based in Germany, tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Berlin and Milan and 2 more. Often billed alongside Substance, Vainqueur and Tikiman. Next up: Tresor / Globus, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Scion is an electronic artist based in Germany, tracked on soundcheck, with 14 s
 
 Substance, Vainqueur, Tikiman
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scion/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scion/)*
