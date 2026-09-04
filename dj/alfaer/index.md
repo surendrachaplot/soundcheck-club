@@ -1,6 +1,6 @@
 # AlFaer
 
-AlFaer is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Maus Hábitos, Porto on Sat, 5 Sept 2026.
+AlFaer is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Maus Hábitos, Porto on Sat, 5 Sept 2026.
 
 AlFaer is a techno and ebm artist tracked on soundcheck, with 43 sets logged across Barcelona, Lisbon, Porto and Warsaw. Often billed alongside Amulador, Mind Archives and Yassine. Next up: Maus Hábitos, Porto on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ AlFaer is a techno and ebm artist tracked on soundcheck, with 43 sets logged acr
 
 Amulador, Mind Archives, Yassine
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaer/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaer/)*

@@ -1,6 +1,6 @@
 # Ferrand
 
-Ferrand is a Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Schrotty, Cologne on Sat, 5 Sept 2026.
+Ferrand is a Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Schrotty, Cologne on Sat, 5 Sept 2026.
 
 Ferrand is a trance artist tracked on soundcheck, with 14 sets logged across Berlin, Cologne and Vienna. Often billed alongside BabaBass3000, SUITSIDE and Atzendent. Next up: Schrotty, Cologne on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ferrand is a trance artist tracked on soundcheck, with 14 sets logged across Ber
 
 BabaBass3000, SUITSIDE, Atzendent
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrand/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrand/)*

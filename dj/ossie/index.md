@@ -1,6 +1,6 @@
 # Ossie
 
-Ossie is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Ossie is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
 Ossie is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Ibiza, London and Mexicocity. Often billed alongside Djammin, Meeshy and Skepta. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Ossie is an afro house and house artist based in United Kingdom, tracked on soun
 
 Djammin, Meeshy, Skepta
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ossie/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ossie/)*

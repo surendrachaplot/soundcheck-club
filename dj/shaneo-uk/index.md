@@ -1,6 +1,6 @@
 # ShaneØ
 
-ShaneØ is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at HWK Garden / Terrace, London on Sun, 20 Sept 2026.
+ShaneØ is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at HWK Garden / Terrace, London on Sun, 20 Sept 2026.
 
 ShaneØ is a techno artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Lezcano, PacMan (IT) and SVRN. Next up: HWK Garden / Terrace, London on Sun 20 Sept.
 
@@ -22,4 +22,4 @@ ShaneØ is a techno artist tracked on soundcheck, with 6 sets logged across Lond
 
 Lezcano, PacMan (IT), SVRN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneo-uk/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaneo-uk/)*

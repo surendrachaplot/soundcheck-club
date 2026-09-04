@@ -1,6 +1,6 @@
 # G.E.N.E.
 
-G.E.N.E. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Flash, Washington DC on Fri, 18 Sept 2026.
+G.E.N.E. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Flash, Washington DC on Fri, 18 Sept 2026.
 
 G.E.N.E. is a house and deep house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Newyorkcity and Washingtondc. Often billed alongside KayLaSoul, Edo and MAXIMILIANO (US). Next up: Flash, Washingtondc on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ G.E.N.E. is a house and deep house artist based in United States of America, tra
 
 KayLaSoul, Edo, MAXIMILIANO (US)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g.e.n.e./)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/g.e.n.e./)*

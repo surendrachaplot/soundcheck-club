@@ -1,6 +1,6 @@
 # Vass
 
-Vass is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
+Vass is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at FOLD, London on Sat, 26 Sept 2026.
 
 Vass is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: FOLD, London on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Vass is a techno and electro artist based in United Kingdom, tracked on soundche
 
 Unai Trotti, Junki Inoue, Z@p
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*

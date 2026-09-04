@@ -1,6 +1,6 @@
 # Fulusoma
 
-Fulusoma is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DUNGEON akihabara, Tokyo on Sat, 19 Sept 2026.
+Fulusoma is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at DUNGEON akihabara, Tokyo on Sat, 19 Sept 2026.
 
 Fulusoma is a techno and drum & bass artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside Ario, GS Projekt and Lynne. Next up: DUNGEON akihabara, Tokyo on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Fulusoma is a techno and drum & bass artist based in Japan, tracked on soundchec
 
 Ario, GS Projekt, Lynne
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fulusoma/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fulusoma/)*

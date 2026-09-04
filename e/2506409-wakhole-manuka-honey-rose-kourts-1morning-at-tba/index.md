@@ -1,6 +1,6 @@
 # WAKhole: Manuka Honey, Rose Kourts, 1morning at TBA
 
-WAKhole: Manuka Honey, Rose Kourts, 1morning at TBA on Sat 19 Sept, Losangeles. 5 acts on the bill: 1morning, Manuka Honey, Rose Kourts and Sakaguchi and 1 more. Techno and Club. Preview the line-up and save it on soundcheck.
+WAKhole: Manuka Honey, Rose Kourts, 1morning at TBA on Sat 19 Sept, Losangeles. 6 acts on the bill: 1morning, Manuka Honey, Olivia Powers and Rose Kourts and 2 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ WAKhole: Manuka Honey, Rose Kourts, 1morning at TBA on Sat 19 Sept, Losangeles. 
 
 - 1morning
 - Manuka Honey
+- Olivia Powers
 - Rose Kourts
 - Sakaguchi
 - Tahl (US)

@@ -1,6 +1,6 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 13 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Far From Alone with Data Flow, Foxtrot, & Scratch That Itch" on Fri, 4 Sept 2026.
+Dalston Den is a music venue in London with 13 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Far From Alone with Data Flow, Foxtrot, & Scratch That Itch" on Fri, 4 Sept 2026.
 
 Dalston Den is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 22Cheeky, AAKAARA, Das ist Vas and Data Flow and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
 
@@ -23,4 +23,4 @@ Dalston Den is a music venue in London listed on soundcheck. 13 upcoming nights,
 
 91-93 Kingsland High Street, London
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

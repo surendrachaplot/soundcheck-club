@@ -1,6 +1,6 @@
 # Gorilla
 
-Gorilla is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Devlin - Manchester" on Sat, 12 Sept 2026.
+Gorilla is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Devlin - Manchester" on Sat, 12 Sept 2026.
 
 Gorilla is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including alterum, Amelia Leigh, Aries and Compulsive Leia and 2 more. Browse upcoming dates, start times and who's playing. 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom.
 
@@ -23,4 +23,4 @@ Gorilla is a music venue in Manchester listed on soundcheck. 10 upcoming nights,
 
 54-56 Whitworth St West, Manchester, M1 5WW, United Kingdom, Manchester
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/gorilla/)*

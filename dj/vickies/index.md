@@ -1,6 +1,6 @@
 # Vickies
 
-Vickies is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Virage, Paris on Fri, 4 Sept 2026.
+Vickies is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Virage, Paris on Fri, 4 Sept 2026.
 
 Vickies is a house and techno artist based in France, tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Lyon and Paris. Often billed alongside Sainte Exp, C.L.E.O 2.5.A.7 and Lucia Loot. Next up: Virage, Paris on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ Vickies is a house and techno artist based in France, tracked on soundcheck, wit
 
 Sainte Exp, C.L.E.O 2.5.A.7, Lucia Loot
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vickies/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vickies/)*

@@ -1,6 +1,6 @@
 # BEARCAT
 
-BEARCAT is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Nowadays, New York City on Sat, 24 Oct 2026.
+BEARCAT is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Nowadays, New York City on Sat, 24 Oct 2026.
 
 BEARCAT is a techno and club artist tracked on soundcheck, with 97 sets logged across Amsterdam, Berlin, Chicago and Leipzig and 10 more. Often billed alongside Byrell The Great, planetperris and Shyboi. Next up: Nowadays, Newyorkcity on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ BEARCAT is a techno and club artist tracked on soundcheck, with 97 sets logged a
 
 Byrell The Great, planetperris, Shyboi
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bearcat/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bearcat/)*

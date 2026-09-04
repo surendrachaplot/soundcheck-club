@@ -1,6 +1,6 @@
 # Alex Nantaya
 
-Alex Nantaya is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret Warehouse, Paris on Sat, 5 Sept 2026.
+Alex Nantaya is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Warehouse, Paris on Sat, 5 Sept 2026.
 
 Alex Nantaya is a techno and electro artist tracked on soundcheck, with 72 sets logged across Bangkok, Basel, Berlin and Geneva and 8 more. Often billed alongside Bours?, Doma and Gioski. Next up: TBA - Secret Warehouse, Paris on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Alex Nantaya is a techno and electro artist tracked on soundcheck, with 72 sets 
 
 Bours?, Doma, Gioski
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnantaya/)*

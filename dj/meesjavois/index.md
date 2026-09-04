@@ -1,6 +1,6 @@
 # Mees Javois
 
-Mees Javois is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mono, Rotterdam on Fri, 18 Sept 2026.
+Mees Javois is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mono, Rotterdam on Fri, 18 Sept 2026.
 
 Mees Javois is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Lyon, Paris and Rotterdam and 2 more. Often billed alongside Prance, Bastienne and Joya Astou. Next up: Mono, Rotterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mees Javois is a techno and house artist tracked on soundcheck, with 35 sets log
 
 Prance, Bastienne, Joya Astou
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meesjavois/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meesjavois/)*

@@ -1,6 +1,6 @@
 # Wally Lopez
 
-Wally Lopez is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Macarena Club, Barcelona on Sat, 5 Sept 2026.
+Wally Lopez is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Macarena Club, Barcelona on Sat, 5 Sept 2026.
 
 Wally Lopez is a house and tech house artist based in Spain, tracked on soundcheck, with 42 sets logged across Amsterdam, Bangkok, Barcelona and Houston and 8 more. Often billed alongside NODUS, Oscar Colorado and AN5 (SP). Next up: Macarena Club, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Wally Lopez is a house and tech house artist based in Spain, tracked on soundche
 
 NODUS, Oscar Colorado, AN5 (SP)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wallylopez/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wallylopez/)*

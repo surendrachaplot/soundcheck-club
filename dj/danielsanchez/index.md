@@ -1,6 +1,6 @@
 # Daniel Sanchez
 
-Daniel Sanchez is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Macarena Club, Barcelona on Fri, 4 Sept 2026.
+Daniel Sanchez is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Macarena Club, Barcelona on Fri, 4 Sept 2026.
 
 Daniel Sanchez is an electronic artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam and Barcelona. Often billed alongside Munøz, Galu Bla and CAZOU. Next up: Macarena Club, Barcelona on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Daniel Sanchez is an electronic artist based in Netherlands, tracked on soundche
 
 Munøz, Galu Bla, CAZOU
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielsanchez/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielsanchez/)*

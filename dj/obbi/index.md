@@ -1,6 +1,6 @@
 # Obbi
 
-Obbi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Umoya, Naples on Sun, 20 Sept 2026.
+Obbi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Umoya, Naples on Sun, 20 Sept 2026.
 
 Obbi is a house and disco artist tracked on soundcheck, with 21 sets logged across London and Naples. Often billed alongside ThanksMate, Giuseppe Fava and Mugman. Next up: Umoya, Naples on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Obbi is a house and disco artist tracked on soundcheck, with 21 sets logged acro
 
 ThanksMate, Giuseppe Fava, Mugman
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obbi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obbi/)*

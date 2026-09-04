@@ -1,6 +1,6 @@
 # fivequestionmarks
 
-fivequestionmarks is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Forte Antenne, Rome on Fri, 11 Sept 2026.
+fivequestionmarks is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Forte Antenne, Rome on Fri, 11 Sept 2026.
 
 fivequestionmarks is a techno and acid artist based in Italy, tracked on soundcheck, with 46 sets logged across Berlin, Milan and Rome. Often billed alongside Produkkt, Lady Maru and Fabrizio Sala. Next up: Forte Antenne, Rome on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ fivequestionmarks is a techno and acid artist based in Italy, tracked on soundch
 
 Produkkt, Lady Maru, Fabrizio Sala
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fivequestionmarks/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fivequestionmarks/)*

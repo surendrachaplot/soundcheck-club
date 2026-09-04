@@ -1,6 +1,6 @@
 # Promis3
 
-Promis3 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Alte Münze, Berlin on Sat, 5 Sept 2026.
+Promis3 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Alte Münze, Berlin on Sat, 5 Sept 2026.
 
 Promis3 is a techno and trance artist tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Stinny Stone, Kander and Miss Bashful x DBBD. Next up: Alte Münze, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Promis3 is a techno and trance artist tracked on soundcheck, with 44 sets logged
 
 Stinny Stone, Kander, Miss Bashful x DBBD
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/promis3/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/promis3/)*

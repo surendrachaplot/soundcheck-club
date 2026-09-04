@@ -1,14 +1,15 @@
 # Giorgio Di Majo
 
-Giorgio Di Majo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Villa Ricotti - La Valera, Milan on Sat, 5 Sept 2026.
+Giorgio Di Majo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Villa Ricotti - La Valera, Milan on Sat, 5 Sept 2026.
 
-Giorgio Di Majo is a house and tech house artist tracked on soundcheck, with 36 sets logged across London, Milan and Rome. Often billed alongside Guglielmo Morandini, La Sape and Totino. Next up: Villa Ricotti - La Valera, Milan on Sat 5 Sept.
+Giorgio Di Majo is a house and tech house artist tracked on soundcheck, with 37 sets logged across London, Milan and Rome. Often billed alongside Guglielmo Morandini, La Sape and Totino. Next up: Villa Ricotti - La Valera, Milan on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Villa Ricotti - La Valera | Milan |
+| Sun, 6 Sept 2026 | Audiofficina - HI-FI Corner | Milan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Giorgio Di Majo is a house and tech house artist tracked on soundcheck, with 36 
 
 Guglielmo Morandini, La Sape, Totino
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiodimajo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiodimajo/)*

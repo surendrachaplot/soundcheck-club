@@ -1,6 +1,6 @@
 # Fanfarrosa
 
-Fanfarrosa is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Beate Uwe, Berlin on Fri, 4 Sept 2026.
+Fanfarrosa is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Beate Uwe, Berlin on Fri, 4 Sept 2026.
 
 Fanfarrosa is a house and minimal artist tracked on soundcheck, with 39 sets logged across Berlin. Often billed alongside Akatana, DJ Zurückbleiben Bitte and Estimulo. Next up: Beate Uwe, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Fanfarrosa is a house and minimal artist tracked on soundcheck, with 39 sets log
 
 Akatana, DJ Zurückbleiben Bitte, Estimulo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fanfarrosa/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fanfarrosa/)*

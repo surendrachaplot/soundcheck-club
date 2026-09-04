@@ -1,6 +1,6 @@
 # EUPHORIC STATE
 
-EUPHORIC STATE is a Tech House and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Spybar, Chicago on Thu, 17 Sept 2026.
+EUPHORIC STATE is a Tech House and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Spybar, Chicago on Thu, 17 Sept 2026.
 
 EUPHORIC STATE is a tech house and idm artist tracked on soundcheck, with 5 sets logged across Chicago and Losangeles. Often billed alongside BEME, BRKN and BizZa. Next up: Spybar, Chicago on Thu 17 Sept.
 
@@ -21,4 +21,4 @@ EUPHORIC STATE is a tech house and idm artist tracked on soundcheck, with 5 sets
 
 BEME, BRKN, BizZa
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/euphoricstate/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/euphoricstate/)*

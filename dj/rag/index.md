@@ -1,6 +1,6 @@
 # RAG
 
-RAG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fvtvr, Paris on Fri, 4 Sept 2026.
+RAG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fvtvr, Paris on Fri, 4 Sept 2026.
 
 RAG is a techno and house artist tracked on soundcheck, with 56 sets logged across Berlin, Geneva, Lyon and Marseille and 4 more. Often billed alongside PEPIITA, Anaco and COCKO. Next up: Fvtvr, Paris on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ RAG is a techno and house artist tracked on soundcheck, with 56 sets logged acro
 
 PEPIITA, Anaco, COCKO
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rag/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rag/)*

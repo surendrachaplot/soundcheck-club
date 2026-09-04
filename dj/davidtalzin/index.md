@@ -1,6 +1,6 @@
 # David Talzin
 
-David Talzin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at KitKatClub, Berlin on Fri, 25 Sept 2026.
+David Talzin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at KitKatClub, Berlin on Fri, 25 Sept 2026.
 
 David Talzin is a techno and house artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside KEN (DE), DJ PayPaul and PADERKID. Next up: KitKatClub, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ David Talzin is a techno and house artist tracked on soundcheck, with 9 sets log
 
 KEN (DE), DJ PayPaul, PADERKID
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtalzin/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtalzin/)*

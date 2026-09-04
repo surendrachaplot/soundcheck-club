@@ -1,6 +1,6 @@
 # AVRY
 
-AVRY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Platform9, Vancouver on Fri, 25 Sept 2026.
+AVRY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Platform9, Vancouver on Fri, 25 Sept 2026.
 
 AVRY is a house and techno artist based in Canada, tracked on soundcheck, with 13 sets logged across Toronto and Vancouver. Often billed alongside ZIGGY ZAYA, Andre Rose and Andre Zimmer. Next up: Platform9, Vancouver on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ AVRY is a house and techno artist based in Canada, tracked on soundcheck, with 1
 
 ZIGGY ZAYA, Andre Rose, Andre Zimmer
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avry/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avry/)*

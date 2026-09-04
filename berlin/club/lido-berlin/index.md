@@ -1,6 +1,6 @@
 # Lido Berlin
 
-Lido Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "VTOROI KA (KGZ) in Berlin. Final tour" on Wed, 16 Sept 2026.
+Lido Berlin is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "VTOROI KA (KGZ) in Berlin. Final tour" on Wed, 16 Sept 2026.
 
 Lido Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including BLEACH.LIVE and Wyatt (1). Browse upcoming dates, start times and who's playing. Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany.
 
@@ -17,4 +17,4 @@ Lido Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming nights, 
 
 Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany, Berlin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*

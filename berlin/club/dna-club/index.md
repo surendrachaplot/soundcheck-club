@@ -1,14 +1,13 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR" on Thu, 3 Sept 2026.
+DNA. CLUB is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "KTA.MKE - Progressive House on Open Air Terrace and Indoor Club" on Fri, 4 Sept 2026.
 
-DNA. CLUB is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Alex Friday, Astrocue, BEJA and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
+DNA. CLUB is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including Alex Friday, Astrocue, BEJA and Blck-Swan and 2 more. Browse upcoming dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR |  |
 | Fri, 4 Sept 2026 | KTA.MKE - Progressive House on Open Air Terrace and Indoor Club | Astrocue, TYDE, Tallah |
 | Sun, 6 Sept 2026 | FREE ENTRY: 'Playground' Open Stage: Community OPEN AIR at DNA. CLUB: Jazz & House DJ Sets |  |
 | Thu, 10 Sept 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR |  |
@@ -18,9 +17,10 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 18 upcoming nights, w
 | Thu, 17 Sept 2026 | FREE ENTRY: Live Music Jam Session & DJ Sets Community OPEN AIR |  |
 | Sat, 19 Sept 2026 | Connect & RAVE: Community OPEN AIR at DNA. CLUB: Tech House, Techno & Bounce |  |
 | Sat, 19 Sept 2026 | Mein Film Releaseparty | DWNE |
+| Sat, 19 Sept 2026 | ETERNITY x KlangKnospe - KOTTI BOUNCE | Callado, MIMI404, Obelisk030, TERRA TWIINS, TIZIANO, jeanska |
 
 ## Address
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*

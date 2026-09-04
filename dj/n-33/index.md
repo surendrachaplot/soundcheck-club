@@ -1,6 +1,6 @@
 # N (33)
 
-N (33) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Studio1111, Berlin on Sat, 5 Sept 2026.
+N (33) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Studio1111, Berlin on Sat, 5 Sept 2026.
 
 N (33) is a techno and house artist tracked on soundcheck, with 6 sets logged across Berlin and Tokyo. Often billed alongside ecec, AMANE and Actias. Next up: Studio1111, Berlin on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ N (33) is a techno and house artist tracked on soundcheck, with 6 sets logged ac
 
 ecec, AMANE, Actias
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n-33/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n-33/)*

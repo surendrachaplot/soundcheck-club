@@ -1,6 +1,6 @@
 # ninafterdark
 
-ninafterdark is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
+ninafterdark is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
 
 ninafterdark is a club and bass artist tracked on soundcheck, with 24 sets logged across Belgrade, Berlin, Brussels and London and 2 more. Often billed alongside Bianca Intensa, Nico Adomako and Luwei. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ninafterdark is a club and bass artist tracked on soundcheck, with 24 sets logge
 
 Bianca Intensa, Nico Adomako, Luwei
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninafterdark/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninafterdark/)*

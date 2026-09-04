@@ -1,6 +1,6 @@
 # Private Panther
 
-Private Panther is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Moondog Hifi, New York City on Sat, 5 Sept 2026.
+Private Panther is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Moondog Hifi, New York City on Sat, 5 Sept 2026.
 
 Private Panther is a house and disco artist tracked on soundcheck, with 7 sets logged across Barcelona, Lisbon, Mexicocity and Newyorkcity and 1 more. Often billed alongside Aroop Roy, Baltra and Clap Kent. Next up: Moondog Hifi, Newyorkcity on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Private Panther is a house and disco artist tracked on soundcheck, with 7 sets l
 
 Aroop Roy, Baltra, Clap Kent
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/privatepanther/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/privatepanther/)*

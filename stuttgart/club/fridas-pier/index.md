@@ -1,6 +1,6 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "5 JAHRE Fridas Pier - DAY 01" on Fri, 4 Sept 2026.
+Fridas Pier is a music venue in Stuttgart with 16 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "5 JAHRE Fridas Pier - DAY 01" on Fri, 4 Sept 2026.
 
 Fridas Pier is a music venue in Stuttgart listed on soundcheck. 16 upcoming nights, with line-ups including A.D.H.S., Alex Kassian, Analog Crystal and Andreas Henneberg and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
@@ -23,4 +23,4 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 16 upcoming nigh
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

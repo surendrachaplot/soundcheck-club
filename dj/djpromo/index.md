@@ -1,6 +1,6 @@
 # Dj Promo
 
-Dj Promo is a Gabber and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
+Dj Promo is a Gabber and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hemkade 48, Amsterdam on Sat, 31 Oct 2026.
 
 Dj Promo is a gabber and drum & bass artist tracked on soundcheck, with 8 sets logged across Amsterdam, Madrid, Rotterdam and Sheffield. Often billed alongside Gysèle, Akemiö Grey and Akira. Next up: Hemkade 48, Amsterdam on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Dj Promo is a gabber and drum & bass artist tracked on soundcheck, with 8 sets l
 
 Gysèle, Akemiö Grey, Akira
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpromo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpromo/)*

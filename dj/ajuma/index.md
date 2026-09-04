@@ -1,6 +1,6 @@
 # Ajuma
 
-Ajuma is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at NAR, Utrecht on Fri, 4 Sept 2026.
+Ajuma is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at NAR, Utrecht on Fri, 4 Sept 2026.
 
 Ajuma is a disco and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside CHEWCHEW, Another Taste and Kennedy. Next up: NAR, Utrecht on Fri 4 Sept.
 
@@ -28,4 +28,4 @@ Ajuma is a disco and house artist tracked on soundcheck, with 85 sets logged acr
 
 CHEWCHEW, Another Taste, Kennedy
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajuma/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajuma/)*

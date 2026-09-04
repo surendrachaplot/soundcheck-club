@@ -1,6 +1,6 @@
 # Whiney
 
-Whiney is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tendinha dos Clérigos, Porto on Sat, 5 Sept 2026.
+Whiney is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tendinha dos Clérigos, Porto on Sat, 5 Sept 2026.
 
 Whiney is a drum & bass and jungle artist tracked on soundcheck, with 59 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 26 more. Often billed alongside P Money, Degs and Unglued. Next up: Tendinha dos Clérigos, Porto on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Whiney is a drum & bass and jungle artist tracked on soundcheck, with 59 sets lo
 
 P Money, Degs, Unglued
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whiney/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whiney/)*

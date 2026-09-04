@@ -1,6 +1,6 @@
 # Victoria Arena
 
-Victoria Arena is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Wed, 9 Sept 2026.
+Victoria Arena is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Wed, 9 Sept 2026.
 
 Victoria Arena is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin, Buenosaires, Frankfurt and Ibiza. Often billed alongside Devil Rays, HIHATDANCER and Camila Isabel. Next up: Tresor / Globus, Berlin on Wed 9 Sept.
 
@@ -27,4 +27,4 @@ Victoria Arena is a techno and house artist tracked on soundcheck, with 25 sets 
 
 Devil Rays, HIHATDANCER, Camila Isabel
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriaarena/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriaarena/)*

@@ -1,6 +1,6 @@
 # Miss Purple Shampoo
 
-Miss Purple Shampoo is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Boombox, Miami on Sat, 12 Sept 2026.
+Miss Purple Shampoo is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Boombox, Miami on Sat, 12 Sept 2026.
 
 Miss Purple Shampoo is a club and techno artist tracked on soundcheck, with 16 sets logged across Miami. Often billed alongside SPELL, DJ SABI and Winter Wrong. Next up: The Boombox, Miami on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Miss Purple Shampoo is a club and techno artist tracked on soundcheck, with 16 s
 
 SPELL, DJ SABI, Winter Wrong
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misspurpleshampoo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misspurpleshampoo/)*

@@ -1,6 +1,6 @@
 # DASH (SLO)
 
-DASH (SLO) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Sept 2026.
+DASH (SLO) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 18 Sept 2026.
 
 DASH (SLO) is a techno and house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin and Munich. Often billed alongside Besch, RIØ (DE) and Rosan. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ DASH (SLO) is a techno and house artist tracked on soundcheck, with 15 sets logg
 
 Besch, RIØ (DE), Rosan
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dashslo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dashslo/)*

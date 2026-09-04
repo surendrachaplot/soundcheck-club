@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Unreal: North America Tour: 999999999, Adrián Mills, Cara Elizabeth, Cloudy b2b KUKO, Winson" on Fri, 4 Sept 2026.
+Echostage is a music venue in Washington DC with 21 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Unreal: North America Tour: 999999999, Adrián Mills, Cara Elizabeth, Cloudy b2b KUKO, Winson" on Fri, 4 Sept 2026.
 
 Echostage is a music venue in Washingtondc listed on soundcheck. 21 upcoming nights, with line-ups including 10cust, 999999999, Adrian Mills and Afrojack and 2 more. Browse upcoming dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washingtondc listed on soundcheck. 21 upcoming nig
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

@@ -1,6 +1,6 @@
 # Deep Cleansing
 
-Deep Cleansing is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Deep Cleansing is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Deep Cleansing is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Miami and Newyorkcity. Often billed alongside Alexx in Chainss, ALEJO (US) and Coffintexts. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Deep Cleansing is a techno and house artist based in United States of America, t
 
 Alexx in Chainss, ALEJO (US), Coffintexts
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcleansing/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcleansing/)*

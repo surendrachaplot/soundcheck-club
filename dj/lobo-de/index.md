@@ -1,6 +1,6 @@
 # Lobo (DE)
 
-Lobo (DE) is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Süss War Gestern, Berlin on Sat, 5 Sept 2026.
+Lobo (DE) is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Süss War Gestern, Berlin on Sat, 5 Sept 2026.
 
 Lobo (DE) is a house and disco artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin and Madrid. Often billed alongside Domhof, anna G and Monsai. Next up: Süss War Gestern, Berlin on Sat 5 Sept.
 
@@ -9,7 +9,7 @@ Lobo (DE) is a house and disco artist based in Germany, tracked on soundcheck, w
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Süss War Gestern | Berlin |
-| Fri, 11 Sept 2026 | Mom's Limousine Service | Berlin |
+| Fri, 11 Sept 2026 | TBA | Berlin |
 | Sat, 19 Sept 2026 | Humboldthain Club | Berlin |
 
 ## Recently played
@@ -27,4 +27,4 @@ Lobo (DE) is a house and disco artist based in Germany, tracked on soundcheck, w
 
 Domhof, anna G, Monsai
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lobo-de/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lobo-de/)*

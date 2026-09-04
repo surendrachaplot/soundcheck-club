@@ -1,6 +1,6 @@
 # Tatiana Vaughan (2)
 
-Tatiana Vaughan (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 10 Sept 2026.
+Tatiana Vaughan (2) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 10 Sept 2026.
 
 Tatiana Vaughan (2) is a techno and hardcore artist tracked on soundcheck, with 24 sets logged across Berlin, Mexicocity and Sanfrancisco. Often billed alongside Cruz de Cal, Magnolia Coronado and Ann García. Next up: 1015 Folsom, Sanfrancisco on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Tatiana Vaughan (2) is a techno and hardcore artist tracked on soundcheck, with 
 
 Cruz de Cal, Magnolia Coronado, Ann García
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatianavaughan-2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tatianavaughan-2/)*

@@ -1,6 +1,6 @@
 # Kataya
 
-Kataya is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Klunkerkranich, Berlin on Fri, 4 Sept 2026.
+Kataya is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Klunkerkranich, Berlin on Fri, 4 Sept 2026.
 
 Kataya is a house and downtempo artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Cologne. Often billed alongside Ciao 3lla, ANTYA and Acid.Foxy. Next up: Klunkerkranich, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Kataya is a house and downtempo artist based in Germany, tracked on soundcheck, 
 
 Ciao 3lla, ANTYA, Acid.Foxy
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kataya/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kataya/)*

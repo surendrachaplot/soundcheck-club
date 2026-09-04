@@ -1,6 +1,6 @@
 # The Blues Kitchen Shoreditch
 
-The Blues Kitchen Shoreditch is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Shoreditch Got Soul" on Fri, 4 Sept 2026.
+The Blues Kitchen Shoreditch is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Shoreditch Got Soul" on Fri, 4 Sept 2026.
 
 The Blues Kitchen Shoreditch is a music venue in London listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 134-146 Curtain Rd, London EC2A 3AR.
 
@@ -15,4 +15,4 @@ The Blues Kitchen Shoreditch is a music venue in London listed on soundcheck. 2 
 
 134-146 Curtain Rd, London EC2A 3AR, London
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-blues-kitchen-shoreditch/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-blues-kitchen-shoreditch/)*

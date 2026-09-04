@@ -1,6 +1,6 @@
 # p1no
 
-p1no is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Boombox, Miami on Sat, 12 Sept 2026.
+p1no is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Boombox, Miami on Sat, 12 Sept 2026.
 
 p1no is a club and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Boston, Miami, Newyorkcity and Philadelphia. Often billed alongside Chelita, DJ SABI and DJ maddog. Next up: The Boombox, Miami on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ p1no is a club and techno artist based in United States of America, tracked on s
 
 Chelita, DJ SABI, DJ maddog
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*

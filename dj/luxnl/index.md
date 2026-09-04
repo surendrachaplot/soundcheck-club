@@ -1,6 +1,6 @@
 # LuxNL
 
-LuxNL is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Vic's Bar, Amsterdam on Sat, 24 Oct 2026.
+LuxNL is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Vic's Bar, Amsterdam on Sat, 24 Oct 2026.
 
 LuxNL is a house and afro house artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, London, Malta and Utrecht. Often billed alongside Dan Cluskey, Alex Liveris and JOHNJAYDEE. Next up: Vic's Bar, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ LuxNL is a house and afro house artist based in Netherlands, tracked on soundche
 
 Dan Cluskey, Alex Liveris, JOHNJAYDEE
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luxnl/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luxnl/)*

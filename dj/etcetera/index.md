@@ -1,6 +1,6 @@
 # Et Cetera
 
-Et Cetera is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Korpuss, Riga on Fri, 30 Oct 2026.
+Et Cetera is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Korpuss, Riga on Fri, 30 Oct 2026.
 
 Et Cetera is a house and techno artist tracked on soundcheck, with 6 sets logged across Berlin, Copenhagen, Riga and Saopaulo. Often billed alongside ANNYL, Acierate and Agrabah. Next up: Korpuss, Riga on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Et Cetera is a house and techno artist tracked on soundcheck, with 6 sets logged
 
 ANNYL, Acierate, Agrabah
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera/)*

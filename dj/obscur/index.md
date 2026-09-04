@@ -1,6 +1,6 @@
 # Obscur
 
-Obscur is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at SMUT Athens, Athens on Sat, 19 Sept 2026.
+Obscur is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at SMUT Athens, Athens on Sat, 19 Sept 2026.
 
 Obscur is a techno and electro artist based in Slovenia, tracked on soundcheck, with 9 sets logged across Amsterdam, Athens, Belgrade and Berlin and 3 more. Often billed alongside 04061, 314A and A.mo. Next up: SMUT Athens, Athens on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Obscur is a techno and electro artist based in Slovenia, tracked on soundcheck, 
 
 04061, 314A, A.mo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*

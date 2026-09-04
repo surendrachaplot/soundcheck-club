@@ -1,6 +1,6 @@
 # Gwen Wayne
 
-Gwen Wayne is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Golden Gate, Berlin on Sat, 5 Sept 2026.
+Gwen Wayne is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Golden Gate, Berlin on Sat, 5 Sept 2026.
 
 Gwen Wayne is a techno and house artist tracked on soundcheck, with 53 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Julio Paradise, Punani and Elliver. Next up: Golden Gate, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Gwen Wayne is a techno and house artist tracked on soundcheck, with 53 sets logg
 
 Julio Paradise, Punani, Elliver
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenwayne/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenwayne/)*

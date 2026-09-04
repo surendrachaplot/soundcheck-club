@@ -1,6 +1,6 @@
 # KIMMO
 
-KIMMO is a Drum & Bass and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ehemaliges Polizeipräsidium, Frankfurt on Sat, 5 Sept 2026.
+KIMMO is a Drum & Bass and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ehemaliges Polizeipräsidium, Frankfurt on Sat, 5 Sept 2026.
 
 KIMMO is a drum & bass and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside Kacy, A.B.U. and A.N.I.. Next up: Ehemaliges Polizeipräsidium, Frankfurt on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ KIMMO is a drum & bass and trance artist based in Germany, tracked on soundcheck
 
 Kacy, A.B.U., A.N.I.
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmo/)*

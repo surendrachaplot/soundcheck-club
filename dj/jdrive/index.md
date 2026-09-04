@@ -1,6 +1,6 @@
 # j:drive
 
-j:drive is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 5 Sept 2026.
+j:drive is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 5 Sept 2026.
 
 j:drive is a techno and house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity and Washingtondc. Often billed alongside Cobrastrk, DJ AstroNat and Erin Page. Next up: TRANSMISSION DC, Washingtondc on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ j:drive is a techno and house artist based in United States of America, tracked 
 
 Cobrastrk, DJ AstroNat, Erin Page
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdrive/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdrive/)*

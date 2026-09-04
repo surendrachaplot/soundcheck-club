@@ -1,6 +1,6 @@
 # Modern Sleaze
 
-Modern Sleaze is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bardo Speakeasy, Mexico City on Wed, 2 Sept 2026.
+Modern Sleaze is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bardo Speakeasy, Mexico City on Wed, 2 Sept 2026.
 
 Modern Sleaze is a house and techno artist tracked on soundcheck, with 19 sets logged across Detroit and Mexicocity. Often billed alongside Fig (DYN), DJ B2B and Vanilla Storm. Next up: Bardo Speakeasy, Mexicocity on Wed 2 Sept.
 
@@ -25,4 +25,4 @@ Modern Sleaze is a house and techno artist tracked on soundcheck, with 19 sets l
 
 Fig (DYN), DJ B2B, Vanilla Storm
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modernsleaze/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modernsleaze/)*

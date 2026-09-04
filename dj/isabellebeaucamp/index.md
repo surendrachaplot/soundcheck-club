@@ -1,6 +1,6 @@
 # Isabelle Beaucamp
 
-Isabelle Beaucamp is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
+Isabelle Beaucamp is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
 
 Isabelle Beaucamp is a techno and trance artist tracked on soundcheck, with 91 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 15 more. Often billed alongside EDNA, Paralich and A.N.I.. Next up: Lokschuppen Berlin, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Isabelle Beaucamp is a techno and trance artist tracked on soundcheck, with 91 s
 
 EDNA, Paralich, A.N.I.
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellebeaucamp/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellebeaucamp/)*

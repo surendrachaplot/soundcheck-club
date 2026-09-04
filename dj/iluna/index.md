@@ -1,6 +1,6 @@
 # iluna
 
-iluna is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Bongo Club, Edinburgh on Wed, 16 Sept 2026.
+iluna is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Bongo Club, Edinburgh on Wed, 16 Sept 2026.
 
 iluna is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Edinburgh, Glasgow and Mexicocity. Often billed alongside ona:v, Boom Merchant and Kairogen. Next up: The Bongo Club, Edinburgh on Wed 16 Sept.
 
@@ -26,4 +26,4 @@ iluna is a techno and electro artist based in United Kingdom, tracked on soundch
 
 ona:v, Boom Merchant, Kairogen
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iluna/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iluna/)*

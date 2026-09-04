@@ -1,6 +1,6 @@
 # Jynki
 
-Jynki is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at ÆDEN, Berlin on Thu, 10 Sept 2026.
+Jynki is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at ÆDEN, Berlin on Thu, 10 Sept 2026.
 
 Jynki is a techno and house artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside AndrewsFox, BAUTZ and BEJA. Next up: ÆDEN, Berlin on Thu 10 Sept.
 
@@ -21,4 +21,4 @@ Jynki is a techno and house artist tracked on soundcheck, with 5 sets logged acr
 
 AndrewsFox, BAUTZ, BEJA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jynki/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jynki/)*

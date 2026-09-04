@@ -1,6 +1,6 @@
 # Jeans (NL)
 
-Jeans (NL) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Laak, The Hague on Fri, 18 Sept 2026.
+Jeans (NL) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Laak, The Hague on Fri, 18 Sept 2026.
 
 Jeans (NL) is a techno and trance artist based in Netherlands, tracked on soundcheck, with 97 sets logged across Amsterdam, Belgrade, Berlin and Geneva and 9 more. Often billed alongside Woody92, DINA and Jetti. Next up: Laak, Thehague on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Jeans (NL) is a techno and trance artist based in Netherlands, tracked on soundc
 
 Woody92, DINA, Jetti
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeans-nl/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeans-nl/)*

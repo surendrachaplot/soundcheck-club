@@ -1,6 +1,6 @@
 # KX CHR
 
-KX CHR is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at E1, London on Fri, 4 Sept 2026.
+KX CHR is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at E1, London on Fri, 4 Sept 2026.
 
 KX CHR is a techno and industrial artist based in France, tracked on soundcheck, with 46 sets logged across Athens, Belfast, Berlin and Brisbane and 26 more. Often billed alongside Alex Farell, OMAKS and Nik Kastel. Next up: E1, London on Fri 4 Sept.
 
@@ -31,4 +31,4 @@ KX CHR is a techno and industrial artist based in France, tracked on soundcheck,
 
 Alex Farell, OMAKS, Nik Kastel
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*

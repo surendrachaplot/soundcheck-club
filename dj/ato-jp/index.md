@@ -1,6 +1,6 @@
 # ato夢
 
-ato夢 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Space Orbit, Tokyo on Sun, 6 Sept 2026.
+ato夢 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Space Orbit, Tokyo on Sun, 6 Sept 2026.
 
 ato夢 is a techno and experimental artist based in Japan, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside Tetsuya Fukada, deadfish eyes and Dana Ollestad. Next up: Space Orbit, Tokyo on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ ato夢 is a techno and experimental artist based in Japan, tracked on soundcheck
 
 Tetsuya Fukada, deadfish eyes, Dana Ollestad
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ato-jp/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ato-jp/)*

@@ -1,6 +1,6 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Solaris" on Fri, 4 Sept 2026.
+rake?raka? is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Solaris" on Fri, 4 Sept 2026.
 
 rake?raka? is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with line-ups including nima (2), Phekam, SIROH and Teshi tama. Browse upcoming dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
@@ -18,4 +18,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 5 upcoming nights, wi
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

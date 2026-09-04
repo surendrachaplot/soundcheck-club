@@ -1,6 +1,6 @@
 # Nicolas Jaar
 
-Nicolas Jaar is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 314 Scholes, New York City on Fri, 25 Sept 2026.
+Nicolas Jaar is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 314 Scholes, New York City on Fri, 25 Sept 2026.
 
 Nicolas Jaar is an experimental and electronica artist tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Brussels and Buenosaires and 10 more. Often billed alongside DARKSIDE, Aho Ssan and Ale Hop. Next up: 314 Scholes, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Nicolas Jaar is an experimental and electronica artist tracked on soundcheck, wi
 
 DARKSIDE, Aho Ssan, Ale Hop
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjaar/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjaar/)*

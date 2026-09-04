@@ -1,6 +1,6 @@
 # LILLIVEE
 
-LILLIVEE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
+LILLIVEE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
 
 LILLIVEE is a techno and trance artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin, Cologne, Frankfurt and Munich and 1 more. Often billed alongside Cassa Cristano, FAROUT and Mantraa. Next up: Airport Würzburg, Nurnberg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ LILLIVEE is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 Cassa Cristano, FAROUT, Mantraa
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lillivee/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lillivee/)*

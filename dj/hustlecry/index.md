@@ -1,6 +1,6 @@
 # Hustle Cry
 
-Hustle Cry is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Art Club, Houston on Sat, 5 Sept 2026.
+Hustle Cry is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Art Club, Houston on Sat, 5 Sept 2026.
 
 Hustle Cry is a house and techno artist tracked on soundcheck, with 8 sets logged across Houston and Paris. Often billed alongside yunginternet, Santa Muerte and DanyKiss. Next up: Art Club, Houston on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Hustle Cry is a house and techno artist tracked on soundcheck, with 8 sets logge
 
 yunginternet, Santa Muerte, DanyKiss
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hustlecry/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hustlecry/)*

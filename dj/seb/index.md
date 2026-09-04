@@ -1,6 +1,6 @@
 # Seb
 
-Seb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
+Seb is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
 Seb is a techno and house artist based in Argentina, tracked on soundcheck, with 7 sets logged across London, Newyorkcity and Warsaw. Often billed alongside Moobi, Alex Graham and Amba. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Seb is a techno and house artist based in Argentina, tracked on soundcheck, with
 
 Moobi, Alex Graham, Amba
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seb/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seb/)*

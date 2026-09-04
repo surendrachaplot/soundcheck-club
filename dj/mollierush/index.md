@@ -1,6 +1,6 @@
 # Mollie Rush
 
-Mollie Rush is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club360, London on Fri, 11 Sept 2026.
+Mollie Rush is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Club360, London on Fri, 11 Sept 2026.
 
 Mollie Rush is a hardcore and techno artist tracked on soundcheck, with 31 sets logged across Bristol, Edinburgh, Leeds and London and 3 more. Often billed alongside alterum, CBABY and K-Rush. Next up: Club360, London on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Mollie Rush is a hardcore and techno artist tracked on soundcheck, with 31 sets 
 
 alterum, CBABY, K-Rush
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollierush/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollierush/)*

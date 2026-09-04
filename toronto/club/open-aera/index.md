@@ -1,14 +1,13 @@
 # Open Aera
 
-Open Aera is a music venue in Toronto with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Chris Luno (Sunset Rooftop Party)" on Thu, 3 Sept 2026.
+Open Aera is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "mölly (Sunset Rooftop Party)" on Thu, 10 Sept 2026.
 
-Open Aera is a music venue in Toronto listed on soundcheck. 3 upcoming nights, with line-ups including Chris Luno, Felix Cartal, mölly and Nicholas Nothing. Browse upcoming dates, start times and who's playing. 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada.
+Open Aera is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Felix Cartal and mölly. Browse upcoming dates, start times and who's playing. 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | Chris Luno (Sunset Rooftop Party) | Chris Luno, Nicholas Nothing |
 | Thu, 10 Sept 2026 | mölly (Sunset Rooftop Party) | mölly |
 | Sat, 12 Sept 2026 | Mystical Open Air: Felix Cartal (Day Event) | Felix Cartal |
 
@@ -16,4 +15,4 @@ Open Aera is a music venue in Toronto listed on soundcheck. 3 upcoming nights, w
 
 8 Spadina Ave. #3800, Toronto, ON, M5V 2H6, Canada, Toronto
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/open-aera/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/open-aera/)*

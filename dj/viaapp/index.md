@@ -1,6 +1,6 @@
 # Via App
 
-Via App is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
+Via App is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Nowadays, New York City on Sat, 5 Sept 2026.
 
 Via App is a techno and experimental artist based in United States of America, tracked on soundcheck, with 46 sets logged across Austin, Berlin, Milan and Montreal and 3 more. Often billed alongside Juliana Huxtable, Sausha and DICAP. Next up: Nowadays, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Via App is a techno and experimental artist based in United States of America, t
 
 Juliana Huxtable, Sausha, DICAP
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viaapp/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viaapp/)*

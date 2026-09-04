@@ -1,6 +1,6 @@
 # Schicktanz
 
-Schicktanz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
+Schicktanz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
 
 Schicktanz is a techno and trance artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin, Brussels, Hamburg and Munich. Often billed alongside Vysion, BNZN and KVLR. Next up: Renate, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Schicktanz is a techno and trance artist based in Germany, tracked on soundcheck
 
 Vysion, BNZN, KVLR
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schicktanz/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schicktanz/)*

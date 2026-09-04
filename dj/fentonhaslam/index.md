@@ -1,6 +1,6 @@
 # Fenton Haslam
 
-Fenton Haslam is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bricks, London on Fri, 18 Sept 2026.
+Fenton Haslam is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bricks, London on Fri, 18 Sept 2026.
 
 Fenton Haslam is a tech house and deep house artist tracked on soundcheck, with 9 sets logged across London and Manchester. Often billed alongside Bobby Scallop, Something Good (UK) and Adam Shelton. Next up: Bricks, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Fenton Haslam is a tech house and deep house artist tracked on soundcheck, with 
 
 Bobby Scallop, Something Good (UK), Adam Shelton
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fentonhaslam/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fentonhaslam/)*

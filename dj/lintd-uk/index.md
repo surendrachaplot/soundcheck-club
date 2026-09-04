@@ -1,6 +1,6 @@
 # LINTD
 
-LINTD is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 8MM, Berlin on Fri, 13 Nov 2026.
+LINTD is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 8MM, Berlin on Fri, 13 Nov 2026.
 
 LINTD is an experimental and techno artist tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Glasgow and London and 5 more. Often billed alongside Porter Brook, Chande and Aleksandra Słyż. Next up: 8MM, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ LINTD is an experimental and techno artist tracked on soundcheck, with 18 sets l
 
 Porter Brook, Chande, Aleksandra Słyż
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lintd-uk/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lintd-uk/)*

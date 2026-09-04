@@ -1,6 +1,6 @@
 # YASMINA
 
-YASMINA is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Althea's Rooftop, New York City on Sat, 5 Sept 2026.
+YASMINA is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Althea's Rooftop, New York City on Sat, 5 Sept 2026.
 
 YASMINA is an afro house and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Barcelona, Berlin, Leipzig and Losangeles and 5 more. Often billed alongside Yasmina Sadiki, DOS (DE) and Farnozz. Next up: Althea's Rooftop, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ YASMINA is an afro house and house artist based in United States of America, tra
 
 Yasmina Sadiki, DOS (DE), Farnozz
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmina/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmina/)*

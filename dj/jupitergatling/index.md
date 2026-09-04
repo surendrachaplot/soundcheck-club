@@ -1,6 +1,6 @@
 # Jupiter Gatling
 
-Jupiter Gatling is a Pop and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Cat Club, San Francisco/Oakland on Sat, 5 Sept 2026.
+Jupiter Gatling is a Pop and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Cat Club, San Francisco/Oakland on Sat, 5 Sept 2026.
 
 Jupiter Gatling is a pop and club artist tracked on soundcheck, with 17 sets logged across Berlin, Sanfrancisco and Tokyo. Often billed alongside Adriana A, KEN (DE) and DJ PayPaul. Next up: Cat Club, Sanfrancisco on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Jupiter Gatling is a pop and club artist tracked on soundcheck, with 17 sets log
 
 Adriana A, KEN (DE), DJ PayPaul
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jupitergatling/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jupitergatling/)*

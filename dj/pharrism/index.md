@@ -1,6 +1,6 @@
 # PHARRISM
 
-PHARRISM is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TILLATEC, Amsterdam on Sat, 26 Sept 2026.
+PHARRISM is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TILLATEC, Amsterdam on Sat, 26 Sept 2026.
 
 PHARRISM is a techno artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam and Naples. Often billed alongside THEBODYKNOWS, Aretam and Bailey Ibbs. Next up: TILLATEC, Amsterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ PHARRISM is a techno artist based in Netherlands, tracked on soundcheck, with 9 
 
 THEBODYKNOWS, Aretam, Bailey Ibbs
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pharrism/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pharrism/)*

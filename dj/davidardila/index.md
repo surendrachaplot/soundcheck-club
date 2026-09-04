@@ -1,6 +1,6 @@
 # David Ardila
 
-David Ardila is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Monkey Loft, Seattle on Mon, 7 Sept 2026.
+David Ardila is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Monkey Loft, Seattle on Mon, 7 Sept 2026.
 
 David Ardila is a house and progressive house artist tracked on soundcheck, with 15 sets logged across Seattle. Often billed alongside Interwave Surfer, Mia Maya and Chris Wildr. Next up: The Monkey Loft, Seattle on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ David Ardila is a house and progressive house artist tracked on soundcheck, with
 
 Interwave Surfer, Mia Maya, Chris Wildr
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidardila/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidardila/)*

@@ -1,6 +1,6 @@
 # MAXIMILIANO (US)
 
-MAXIMILIANO (US) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Satellite Gallery, New York City on Thu, 10 Sept 2026.
+MAXIMILIANO (US) is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Satellite Gallery, New York City on Thu, 10 Sept 2026.
 
 MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 178 sets logged across Barcelona, Buenosaires, Detroit and Ibiza and 3 more. Often billed alongside Factory Reset, Mikey J and Room 12. Next up: Satellite Gallery, Newyorkcity on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ MAXIMILIANO (US) is a house and deep house artist tracked on soundcheck, with 17
 
 Factory Reset, Mikey J, Room 12
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*

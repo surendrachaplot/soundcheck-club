@@ -1,6 +1,6 @@
 # Rita!
 
-Rita! is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lovehaus, Seoul on Fri, 4 Sept 2026.
+Rita! is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lovehaus, Seoul on Fri, 4 Sept 2026.
 
 Rita! is a breakbeat and bass artist tracked on soundcheck, with 6 sets logged across Seoul. Often billed alongside MOHOHOMO, DAEGARI and Dj Fucci. Next up: Lovehaus, Seoul on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ Rita! is a breakbeat and bass artist tracked on soundcheck, with 6 sets logged a
 
 MOHOHOMO, DAEGARI, Dj Fucci
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rita!/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rita!/)*

@@ -1,6 +1,6 @@
 # Abimixx
 
-Abimixx is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Golden Flamingo, Berlin on Sat, 12 Sept 2026.
+Abimixx is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Golden Flamingo, Berlin on Sat, 12 Sept 2026.
 
 Abimixx is a techno and tech house artist tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside DaSoMaZo, Sonse and DJ KAIDO. Next up: Golden Flamingo, Berlin on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Abimixx is a techno and tech house artist tracked on soundcheck, with 5 sets log
 
 DaSoMaZo, Sonse, DJ KAIDO
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abimixx/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abimixx/)*

@@ -1,6 +1,6 @@
 # Lexlay
 
-Lexlay is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Waranga, Stuttgart on Sat, 5 Sept 2026.
+Lexlay is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Waranga, Stuttgart on Sat, 5 Sept 2026.
 
 Lexlay is a tech house and house artist tracked on soundcheck, with 84 sets logged across Barcelona, Buenosaires, Ibiza and London and 6 more. Often billed alongside Shitake, Alvaro Smart and Carlo Lio. Next up: Waranga, Stuttgart on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Lexlay is a tech house and house artist tracked on soundcheck, with 84 sets logg
 
 Shitake, Alvaro Smart, Carlo Lio
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexlay/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexlay/)*

@@ -1,8 +1,8 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 21 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "The Birthday Link up - 16 Years of Electrikal & 26 Years of RC1" on Sat, 5 Sept 2026.
+Lakota is a music venue in Bristol with 21 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "The Birthday Link up - 16 Years of Electrikal & 26 Years of RC1" on Sat, 5 Sept 2026.
 
-Lakota is a music venue in Bristol listed on soundcheck. 21 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Friction and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
+Lakota is a music venue in Bristol listed on soundcheck. 21 upcoming nights, with line-ups including Akira (Buntai), Betsy Mae, camukg and Fabio Santos and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 21 upcoming nights, wit
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

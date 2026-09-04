@@ -1,6 +1,6 @@
 # TERRA TWIINS
 
-TERRA TWIINS is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at DNA. CLUB, Berlin on Sat, 19 Sept 2026.
+TERRA TWIINS is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DNA. CLUB, Berlin on Sat, 19 Sept 2026.
 
 TERRA TWIINS is a techno and trance artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin, Hamburg and Vienna. Often billed alongside SOHOE, Stinny Stone and Amo (IT). Next up: DNA. CLUB, Berlin on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ TERRA TWIINS is a techno and trance artist based in Germany, tracked on soundche
 
 SOHOE, Stinny Stone, Amo (IT)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*

@@ -1,6 +1,6 @@
 # KW Institute for Contemporary Art
 
-KW Institute for Contemporary Art is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "LABOUR (Farahnaz Hatam & Colin Hacklander) 'soft thought'" on Sat, 12 Sept 2026.
+KW Institute for Contemporary Art is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "LABOUR (Farahnaz Hatam & Colin Hacklander) 'soft thought'" on Sat, 12 Sept 2026.
 
 KW Institute for Contemporary Art is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including LABOUR. Browse upcoming dates, start times and who's playing. Auguststraße 69 10117 Berlin.
 
@@ -14,4 +14,4 @@ KW Institute for Contemporary Art is a music venue in Berlin listed on soundchec
 
 Auguststraße 69 10117 Berlin, Berlin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kw-institute-for-contemporary-art/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kw-institute-for-contemporary-art/)*

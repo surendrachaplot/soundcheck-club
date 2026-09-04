@@ -1,6 +1,6 @@
 # FOI (SK)
 
-FOI (SK) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Stoked&stoned, Seoul on Sat, 5 Sept 2026.
+FOI (SK) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Stoked&stoned, Seoul on Sat, 5 Sept 2026.
 
 FOI (SK) is a house and techno artist based in South Korea, tracked on soundcheck, with 64 sets logged across Seoul. Often billed alongside givogi, Jimin and Nolove. Next up: Stoked&stoned, Seoul on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ FOI (SK) is a house and techno artist based in South Korea, tracked on soundchec
 
 givogi, Jimin, Nolove
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foi-sk/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/foi-sk/)*

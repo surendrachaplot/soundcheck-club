@@ -1,6 +1,6 @@
 # Brad Alloc
 
-Brad Alloc is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
+Brad Alloc is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
 
 Brad Alloc is an electronic artist tracked on soundcheck, with 4 sets logged across Milan and Rome. Often billed alongside Bluemarina, Bonza and Bruno Schmidt. Next up: THE MAGICK BAR, Rome on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Brad Alloc is an electronic artist tracked on soundcheck, with 4 sets logged acr
 
 Bluemarina, Bonza, Bruno Schmidt
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradalloc/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradalloc/)*

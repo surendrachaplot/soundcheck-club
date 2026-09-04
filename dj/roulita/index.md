@@ -1,6 +1,6 @@
 # Roulita
 
-Roulita is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at essaim, Paris on Fri, 9 Oct 2026.
+Roulita is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at essaim, Paris on Fri, 9 Oct 2026.
 
 Roulita is a techno and trance artist tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Lyon and Marseille and 3 more. Often billed alongside Adiel, Litoshka and Olivia Mendez. Next up: essaim, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Roulita is a techno and trance artist tracked on soundcheck, with 38 sets logged
 
 Adiel, Litoshka, Olivia Mendez
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roulita/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roulita/)*

@@ -1,6 +1,6 @@
 # Fasme
 
-Fasme is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at UMI, Brussels on Sat, 5 Sept 2026.
+Fasme is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UMI, Brussels on Sat, 5 Sept 2026.
 
 Fasme is a house and techno artist tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Glasgow and Hamburg and 8 more. Often billed alongside Binary Digit, Mézigue and Priori. Next up: UMI, Brussels on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Fasme is a house and techno artist tracked on soundcheck, with 38 sets logged ac
 
 Binary Digit, Mézigue, Priori
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fasme/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fasme/)*

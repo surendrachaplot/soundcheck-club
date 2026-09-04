@@ -1,6 +1,6 @@
 # Bootsevent Spree mit dickem Bass at Schiffsanlegestelle Uber Arena
 
-Bootsevent Spree mit dickem Bass at Schiffsanlegestelle Uber Arena on Sat 19 Sept, Berlin. 5 acts on the bill: Carl Bergé, DJ YARAK, Maxim Covelo and Shake Daddy and 1 more. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Bootsevent Spree mit dickem Bass at Schiffsanlegestelle Uber Arena on Sat 19 Sept, Berlin. 6 acts on the bill: Carl Bergé, DJ YARAK, ELLI B and Maxim Covelo and 2 more. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Bootsevent Spree mit dickem Bass at Schiffsanlegestelle Uber Arena on Sat 19 Sep
 
 - Carl Bergé
 - DJ YARAK
+- ELLI B
 - Maxim Covelo
 - Shake Daddy
 - Simonkannnix

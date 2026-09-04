@@ -1,6 +1,6 @@
 # Otherside London
 
-Otherside London is a music venue in London with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Horsepower Productions - Release Party at Otherside" on Fri, 18 Sept 2026.
+Otherside London is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Horsepower Productions - Release Party at Otherside" on Fri, 18 Sept 2026.
 
 Otherside London is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Horsepower Productions. Browse upcoming dates, start times and who's playing. 261 Portobello Road, London, W11 1LR.
 
@@ -16,4 +16,4 @@ Otherside London is a music venue in London listed on soundcheck. 3 upcoming nig
 
 261 Portobello Road, London, W11 1LR, London
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/otherside-london/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/otherside-london/)*

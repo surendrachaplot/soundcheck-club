@@ -1,6 +1,6 @@
 # Abstraxion
 
-Abstraxion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Petit CAB, Marseille on Fri, 2 Oct 2026.
+Abstraxion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Petit CAB, Marseille on Fri, 2 Oct 2026.
 
 Abstraxion is a techno and house artist tracked on soundcheck, with 28 sets logged across Berlin, Copenhagen, Marseille and Nantes and 2 more. Often billed alongside Sean Fender, Vio PRG and Delavas. Next up: Petit CAB, Marseille on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Abstraxion is a techno and house artist tracked on soundcheck, with 28 sets logg
 
 Sean Fender, Vio PRG, Delavas
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abstraxion/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abstraxion/)*

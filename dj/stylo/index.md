@@ -1,6 +1,6 @@
 # Stylo
 
-Stylo is a Techno and Hip-Hop artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Munich, Munich on Sat, 12 Sept 2026.
+Stylo is a Techno and Hip-Hop artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Munich, Munich on Sat, 12 Sept 2026.
 
 Stylo is a techno and hip-hop artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Anyma, DJ B2B and Mind Against. Next up: TBA - Munich, Munich on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Stylo is a techno and hip-hop artist tracked on soundcheck, with 20 sets logged 
 
 Anyma, DJ B2B, Mind Against
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stylo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stylo/)*

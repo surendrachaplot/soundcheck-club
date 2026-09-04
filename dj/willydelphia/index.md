@@ -1,6 +1,6 @@
 # Willy Delphia
 
-Willy Delphia is a Jazz and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Basing House, London on Sat, 5 Sept 2026.
+Willy Delphia is a Jazz and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Basing House, London on Sat, 5 Sept 2026.
 
 Willy Delphia is a jazz and deep house artist based in New Zealand, tracked on soundcheck, with 5 sets logged across London. Often billed alongside SOPHIA (2) and Ted Tables. Next up: Basing House, London on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Willy Delphia is a jazz and deep house artist based in New Zealand, tracked on s
 
 SOPHIA (2), Ted Tables
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willydelphia/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willydelphia/)*

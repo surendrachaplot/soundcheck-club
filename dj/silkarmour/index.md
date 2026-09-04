@@ -1,6 +1,6 @@
 # Silkarmour
 
-Silkarmour is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at M.O.T, London on Wed, 16 Sept 2026.
+Silkarmour is a Experimental and Post-Punk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at M.O.T, London on Wed, 16 Sept 2026.
 
 Silkarmour is an experimental and post-punk artist tracked on soundcheck, with 7 sets logged across Glasgow and London. Often billed alongside Daniel Miller, Dhangsha and Klahrk. Next up: M.O.T, London on Wed 16 Sept.
 
@@ -23,4 +23,4 @@ Silkarmour is an experimental and post-punk artist tracked on soundcheck, with 7
 
 Daniel Miller, Dhangsha, Klahrk
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silkarmour/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silkarmour/)*

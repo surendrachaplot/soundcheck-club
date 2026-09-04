@@ -1,6 +1,6 @@
 # Alienata
 
-Alienata is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
+Alienata is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
 
 Alienata is a techno and electro artist tracked on soundcheck, with 97 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Bloody Mary, Ben Sims and L.F.T.. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Alienata is a techno and electro artist tracked on soundcheck, with 97 sets logg
 
 Bloody Mary, Ben Sims, L.F.T.
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alienata/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alienata/)*

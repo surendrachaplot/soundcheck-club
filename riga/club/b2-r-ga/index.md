@@ -1,14 +1,15 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "FILTER W Clicklounge" on Fri, 4 Sept 2026.
+B2 Rīga is a music venue in Riga with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "FILTER W Clicklounge" on Fri, 4 Sept 2026.
 
-B2 Rīga is a music venue in Riga listed on soundcheck. 6 upcoming nights, with line-ups including Aistelele, Clicklounge, DEEP DISTRICT and Diego Krause and 2 more. Browse upcoming dates, start times and who's playing. Bruņinieku iela 2, Rīga.
+B2 Rīga is a music venue in Riga listed on soundcheck. 7 upcoming nights, with line-ups including Aistelele, Clicklounge, DEEP DISTRICT and Diego Krause and 2 more. Browse upcoming dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | FILTER W Clicklounge | Clicklounge, PUPA |
+| Sun, 6 Sept 2026 | WHITE NIGHTS OPEN DECKS | Vaizini |
 | Sat, 12 Sept 2026 | PIXEL VOL 2 | Hele, RAF [ LT ], Sorsa |
 | Fri, 18 Sept 2026 | HOIST 005 | Aistelele, Mikass |
 | Fri, 2 Oct 2026 | Night Shift 3 - Mihai Popoviciu [RO] | D I N, DEEP DISTRICT, Mihai Popoviciu, iOAN (LV) |
@@ -19,4 +20,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 6 upcoming nights, with 
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

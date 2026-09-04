@@ -1,6 +1,6 @@
 # Pure 100%
 
-Pure 100% is a Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Luka, Seoul on Sat, 5 Sept 2026.
+Pure 100% is a Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Luka, Seoul on Sat, 5 Sept 2026.
 
 Pure 100% is a bass and hardcore artist tracked on soundcheck, with 12 sets logged across Seoul. Often billed alongside Bagagee Viphex13, Carbonatez and JADE KEY. Next up: Luka, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Pure 100% is a bass and hardcore artist tracked on soundcheck, with 12 sets logg
 
 Bagagee Viphex13, Carbonatez, JADE KEY
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pure100/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pure100/)*

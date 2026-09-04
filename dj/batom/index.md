@@ -1,6 +1,6 @@
 # Batom
 
-Batom is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Sonder Bar, Portland on Fri, 11 Sept 2026.
+Batom is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Sonder Bar, Portland on Fri, 11 Sept 2026.
 
 Batom is a house and balearic artist based in Mexico, tracked on soundcheck, with 14 sets logged across Melbourne and Portland. Often billed alongside Luum, Peter Sheppard and Trustfall. Next up: The Sonder Bar, Portland on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Batom is a house and balearic artist based in Mexico, tracked on soundcheck, wit
 
 Luum, Peter Sheppard, Trustfall
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/batom/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/batom/)*

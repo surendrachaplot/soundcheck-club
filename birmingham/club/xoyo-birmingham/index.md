@@ -1,6 +1,6 @@
 # XOYO Birmingham
 
-XOYO Birmingham is a music venue in Birmingham with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "André Granada & Dana Scully" on Sat, 5 Sept 2026.
+XOYO Birmingham is a music venue in Birmingham with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "André Granada & Dana Scully" on Sat, 5 Sept 2026.
 
 XOYO Birmingham is a music venue in Birmingham listed on soundcheck. 3 upcoming nights, with line-ups including BAR (DE), Lens (2) and sanio. Browse upcoming dates, start times and who's playing. B9 4AG.
 
@@ -16,4 +16,4 @@ XOYO Birmingham is a music venue in Birmingham listed on soundcheck. 3 upcoming 
 
 B9 4AG, Birmingham
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/xoyo-birmingham/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/xoyo-birmingham/)*

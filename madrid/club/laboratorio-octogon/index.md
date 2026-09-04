@@ -1,6 +1,6 @@
 # Laboratorio Octogon
 
-Laboratorio Octogon is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "MAKINA TRICKz vol. 09 - SEASON OPENING" on Fri, 4 Sept 2026.
+Laboratorio Octogon is a music venue in Madrid with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "MAKINA TRICKz vol. 09 - SEASON OPENING" on Fri, 4 Sept 2026.
 
 Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming nights, with line-ups including Alviker, DAVID MENA, Driusaki and Fluss and 2 more. Browse upcoming dates, start times and who's playing. Calle Cerámica, 16, 28038 Madrid.
 
@@ -20,4 +20,4 @@ Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming 
 
 Calle Cerámica, 16, 28038 Madrid, Madrid
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*

@@ -1,6 +1,6 @@
 # Terry Francis
 
-Terry Francis is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Piccadilly Central, Manchester on Fri, 4 Sept 2026.
+Terry Francis is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Piccadilly Central, Manchester on Fri, 4 Sept 2026.
 
 Terry Francis is a house and tech house artist tracked on soundcheck, with 61 sets logged across Aberdeen, Berlin, Birmingham and Brighton and 8 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: Piccadilly Central, Manchester on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Terry Francis is a house and tech house artist tracked on soundcheck, with 61 se
 
 3 Minds, Eddie Richards, Jake Beautyman
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*

@@ -1,6 +1,6 @@
 # World Headquarters
 
-World Headquarters is a music venue in Newcastle with 26 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "BLOOM - FREE RAVE - D'n'B, Jungle, UK Garage, 140" on Fri, 4 Sept 2026.
+World Headquarters is a music venue in Newcastle with 26 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BLOOM - FREE RAVE - D'n'B, Jungle, UK Garage, 140" on Fri, 4 Sept 2026.
 
 World Headquarters is a music venue in Newcastle listed on soundcheck. 26 upcoming nights, with line-ups including A.M.C., Dan Fresco, Danny Snowden and DXNBY and 2 more. Browse upcoming dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
 
@@ -23,4 +23,4 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 26 upcomi
 
 Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF, Newcastle
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*

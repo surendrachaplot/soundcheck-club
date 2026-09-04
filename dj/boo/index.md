@@ -1,6 +1,6 @@
 # Boo
 
-Boo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at clubasia, Tokyo on Fri, 4 Sept 2026.
+Boo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at clubasia, Tokyo on Fri, 4 Sept 2026.
 
 Boo is a techno and trance artist tracked on soundcheck, with 38 sets logged across Leeds, London, Manchester and Newcastle and 1 more. Often billed alongside Mia Lily, Ben Caldwell and Jacklyn. Next up: clubasia, Tokyo on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Boo is a techno and trance artist tracked on soundcheck, with 38 sets logged acr
 
 Mia Lily, Ben Caldwell, Jacklyn
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boo/)*

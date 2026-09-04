@@ -1,6 +1,6 @@
 # KPH Volume
 
-KPH Volume is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "+1 833 246 46 22 American Airlines New York Office" on Sat, 5 Sept 2026.
+KPH Volume is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "+1 833 246 46 22 American Airlines New York Office" on Sat, 5 Sept 2026.
 
 KPH Volume is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Cleveland. Browse upcoming dates, start times and who's playing. Enghavevej 80, 2450 København, Denmark.
 
@@ -14,4 +14,4 @@ KPH Volume is a music venue in Copenhagen listed on soundcheck. 1 upcoming night
 
 Enghavevej 80, 2450 København, Denmark, Copenhagen
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/kph-volume/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/kph-volume/)*

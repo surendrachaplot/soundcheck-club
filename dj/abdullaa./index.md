@@ -1,6 +1,6 @@
 # Abdulla A.
 
-Abdulla A. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at LFO.exp, Madrid on Fri, 2 Oct 2026.
+Abdulla A. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at LFO.exp, Madrid on Fri, 2 Oct 2026.
 
 Abdulla A. is a house and techno artist tracked on soundcheck, with 11 sets logged across Barcelona, Lisbon and Madrid. Often billed alongside Avo (ES), Cesc (ES) and DJ F (ES). Next up: LFO.exp, Madrid on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Abdulla A. is a house and techno artist tracked on soundcheck, with 11 sets logg
 
 Avo (ES), Cesc (ES), DJ F (ES)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullaa./)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullaa./)*

@@ -1,6 +1,6 @@
 # Hotel Ziggy
 
-Hotel Ziggy is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Summer Club LA: Season Finale Pool Party" on Sun, 20 Sept 2026.
+Hotel Ziggy is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Summer Club LA: Season Finale Pool Party" on Sun, 20 Sept 2026.
 
 Hotel Ziggy is a music venue in Losangeles listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 8462 Sunset Blvd, West Hollywood, CA 90069.
 
@@ -15,4 +15,4 @@ Hotel Ziggy is a music venue in Losangeles listed on soundcheck. 2 upcoming nigh
 
 8462 Sunset Blvd, West Hollywood, CA 90069, Los Angeles
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hotel-ziggy/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hotel-ziggy/)*

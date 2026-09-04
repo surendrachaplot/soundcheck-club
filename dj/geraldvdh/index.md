@@ -1,6 +1,6 @@
 # Gerald VDH
 
-Gerald VDH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Grelle Forelle, Vienna on Fri, 18 Sept 2026.
+Gerald VDH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Grelle Forelle, Vienna on Fri, 18 Sept 2026.
 
 Gerald VDH is a techno and house artist tracked on soundcheck, with 63 sets logged across Bangkok, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside Annika Stein, Mischa Beton and Boris. Next up: Grelle Forelle, Vienna on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Gerald VDH is a techno and house artist tracked on soundcheck, with 63 sets logg
 
 Annika Stein, Mischa Beton, Boris
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geraldvdh/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geraldvdh/)*

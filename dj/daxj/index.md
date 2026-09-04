@@ -1,6 +1,6 @@
 # DAX J
 
-DAX J is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 4 Sept 2026.
+DAX J is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 4 Sept 2026.
 
 DAX J is a techno and house artist tracked on soundcheck, with 255 sets logged across Amsterdam, Athens, Barcelona and Basel and 66 more. Often billed alongside SPFDJ, Daria Kolosova and 999999999. Next up: TBA - Secret Location, Toronto on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ DAX J is a techno and house artist tracked on soundcheck, with 255 sets logged a
 
 SPFDJ, Daria Kolosova, 999999999
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daxj/)*

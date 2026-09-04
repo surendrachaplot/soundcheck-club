@@ -1,6 +1,6 @@
 # Epic Prague
 
-Epic Prague is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Moksi" on Sat, 5 Sept 2026.
+Epic Prague is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Moksi" on Sat, 5 Sept 2026.
 
 Epic Prague is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including Andrew Rayel, Deborah De Luca, Marc van Linden and Moksi and 2 more. Browse upcoming dates, start times and who's playing. 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia.
 
@@ -20,4 +20,4 @@ Epic Prague is a music venue in Prague listed on soundcheck. 7 upcoming nights, 
 
 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia, Prague
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*

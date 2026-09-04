@@ -1,6 +1,6 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Wasteland Festival, Cologne on Sat, 5 Sept 2026.
+Johannes Schuster is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Wasteland Festival, Cologne on Sat, 5 Sept 2026.
 
 Johannes Schuster is a techno and trance artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: TBA - Wasteland Festival, Cologne on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Johannes Schuster is a techno and trance artist tracked on soundcheck, with 194 
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

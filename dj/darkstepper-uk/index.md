@@ -1,6 +1,6 @@
 # Darkstepper
 
-Darkstepper is a R&B and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at LDN East, London on Sun, 6 Sept 2026.
+Darkstepper is a R&B and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at LDN East, London on Sun, 6 Sept 2026.
 
 Darkstepper is a r&b and bass artist tracked on soundcheck, with 34 sets logged across London. Often billed alongside Shadobeni, Chinese Daughter and H3L3NA. Next up: LDN East, London on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Darkstepper is a r&b and bass artist tracked on soundcheck, with 34 sets logged 
 
 Shadobeni, Chinese Daughter, H3L3NA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darkstepper-uk/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darkstepper-uk/)*

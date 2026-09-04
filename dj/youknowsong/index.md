@@ -1,6 +1,6 @@
 # Youknowsong
 
-Youknowsong is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kockiri, Seoul on Fri, 4 Sept 2026.
+Youknowsong is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kockiri, Seoul on Fri, 4 Sept 2026.
 
 Youknowsong is a house and techno artist based in South Korea, tracked on soundcheck, with 98 sets logged across Bangkok, Hongkong, Osaka and Seoul and 1 more. Often billed alongside Cozyhoon, Shinyoung and JAEHAN (2). Next up: Kockiri, Seoul on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Youknowsong is a house and techno artist based in South Korea, tracked on soundc
 
 Cozyhoon, Shinyoung, JAEHAN (2)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youknowsong/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youknowsong/)*

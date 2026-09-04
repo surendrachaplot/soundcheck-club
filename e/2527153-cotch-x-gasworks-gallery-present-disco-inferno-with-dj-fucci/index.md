@@ -1,6 +1,6 @@
-# COTCH x Gasworks Gallery present: Disco Inferno with Dj Fucci, Zut Zut, Microhm, Pochola at Ormside Projects
+# COTCH x Gasworks Gallery present: Disco Inferno with DJ Fucci, Zutzut, Microhm, Pochola at Ormside Projects
 
-COTCH x Gasworks Gallery present: Disco Inferno with Dj Fucci, Zut Zut, Microhm, Pochola at Ormside Projects on Thu 1 Oct, London. 4 acts on the bill: Dj Fucci, Joe Cotch, Microhm and Pochola. Guaracha and Electronica. Preview the line-up and save it on soundcheck.
+COTCH x Gasworks Gallery present: Disco Inferno with DJ Fucci, Zutzut, Microhm, Pochola at Ormside Projects on Thu 1 Oct, London. 4 acts on the bill: Dj Fucci, Joe Cotch, Microhm and Pochola. Guaracha and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tripmastaz
 
-Tripmastaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
+Tripmastaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 26 Sept 2026.
 
 Tripmastaz is a house and techno artist based in Germany, tracked on soundcheck, with 59 sets logged across Amsterdam, Basel, Berlin and Budapest and 11 more. Often billed alongside Inga!, David Delgado and Brizman. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Tripmastaz is a house and techno artist based in Germany, tracked on soundcheck,
 
 Inga!, David Delgado, Brizman
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripmastaz/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tripmastaz/)*

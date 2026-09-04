@@ -1,6 +1,6 @@
 # SHERELLE
 
-SHERELLE is a Techno and Jungle artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The White Hotel, Manchester on Sat, 5 Sept 2026.
+SHERELLE is a Techno and Jungle artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The White Hotel, Manchester on Sat, 5 Sept 2026.
 
 SHERELLE is a techno and jungle artist tracked on soundcheck, with 179 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 52 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: The White Hotel, Manchester on Sat 5 Sept.
 
@@ -35,4 +35,4 @@ SHERELLE is a techno and jungle artist tracked on soundcheck, with 179 sets logg
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

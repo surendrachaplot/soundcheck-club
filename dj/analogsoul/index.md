@@ -1,6 +1,6 @@
 # Analog Soul
 
-Analog Soul is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club Rawhide, New York City on Sun, 6 Sept 2026.
+Analog Soul is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Club Rawhide, New York City on Sun, 6 Sept 2026.
 
 Analog Soul is a house and techno artist based in United States of America, tracked on soundcheck, with 128 sets logged across Berlin, Boston, Brussels and Chicago and 15 more. Often billed alongside The Carry Nation, Aurora Halal and JADALAREIGN. Next up: Club Rawhide, Newyorkcity on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Analog Soul is a house and techno artist based in United States of America, trac
 
 The Carry Nation, Aurora Halal, JADALAREIGN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/analogsoul/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/analogsoul/)*

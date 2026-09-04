@@ -1,6 +1,6 @@
 # gwlucas
 
-gwlucas is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The DBA, Manchester on Sat, 12 Sept 2026.
+gwlucas is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The DBA, Manchester on Sat, 12 Sept 2026.
 
 gwlucas is a hardcore and jungle artist tracked on soundcheck, with 18 sets logged across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside BMOL, Princess Elf Bar and RUBES. Next up: The DBA, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ gwlucas is a hardcore and jungle artist tracked on soundcheck, with 18 sets logg
 
 BMOL, Princess Elf Bar, RUBES
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gwlucas/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gwlucas/)*

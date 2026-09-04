@@ -1,6 +1,6 @@
 # GUAVA (BK)
 
-GUAVA (BK) is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Alphaville, New York City on Sat, 5 Sept 2026.
+GUAVA (BK) is a Breakbeat and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Alphaville, New York City on Sat, 5 Sept 2026.
 
 GUAVA (BK) is a breakbeat and electro artist tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside JULESMCKOOLS, ANICHE and Iluvonionz. Next up: Alphaville, Newyorkcity on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ GUAVA (BK) is a breakbeat and electro artist tracked on soundcheck, with 6 sets 
 
 JULESMCKOOLS, ANICHE, Iluvonionz
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guavabk/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guavabk/)*

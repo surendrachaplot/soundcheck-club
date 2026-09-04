@@ -1,6 +1,6 @@
 # Dave from Stoke
 
-Dave from Stoke is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 18 Sept 2026.
+Dave from Stoke is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 18 Sept 2026.
 
 Dave from Stoke is a house and disco artist tracked on soundcheck, with 20 sets logged across Washingtondc. Often billed alongside nikolo, Hassaan E and My Friend Jack. Next up: TRANSMISSION DC, Washingtondc on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Dave from Stoke is a house and disco artist tracked on soundcheck, with 20 sets 
 
 nikolo, Hassaan E, My Friend Jack
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davefromstoke/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davefromstoke/)*

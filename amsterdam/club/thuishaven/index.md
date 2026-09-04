@@ -1,6 +1,6 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "06 SEP - Thuishaven with Kolter 10HRS SOLD OUT" on Sun, 6 Sept 2026.
+Thuishaven is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "06 SEP - Thuishaven with Kolter 10HRS SOLD OUT" on Sun, 6 Sept 2026.
 
 Thuishaven is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including Kepler, AAT (NL), Abstract Division and Alec Dienaar and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 16 upcoming night
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

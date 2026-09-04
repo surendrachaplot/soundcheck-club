@@ -1,6 +1,6 @@
 # BYUNGHO
 
-BYUNGHO is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar Piment, Seoul on Sat, 5 Sept 2026.
+BYUNGHO is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar Piment, Seoul on Sat, 5 Sept 2026.
 
 BYUNGHO is a house and disco artist based in South Korea, tracked on soundcheck, with 15 sets logged across Seoul. Often billed alongside SINAHILL, bojvck and .2ndfloor. Next up: Bar Piment, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ BYUNGHO is a house and disco artist based in South Korea, tracked on soundcheck,
 
 SINAHILL, bojvck, .2ndfloor
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byungho/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byungho/)*

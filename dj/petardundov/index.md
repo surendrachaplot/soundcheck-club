@@ -1,6 +1,6 @@
 # Petar Dundov
 
-Petar Dundov is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at VENT, Tokyo on Sat, 17 Oct 2026.
+Petar Dundov is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at VENT, Tokyo on Sat, 17 Oct 2026.
 
 Petar Dundov is a techno and house artist tracked on soundcheck, with 10 sets logged across Belgrade, Cologne, Lisbon and London and 2 more. Often billed alongside Gregor Tresher, VALOUR and Celter. Next up: VENT, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Petar Dundov is a techno and house artist tracked on soundcheck, with 10 sets lo
 
 Gregor Tresher, VALOUR, Celter
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petardundov/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petardundov/)*

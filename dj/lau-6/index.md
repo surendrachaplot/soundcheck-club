@@ -1,6 +1,6 @@
 # LAU (6)
 
-LAU (6) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Viadukt Bar, Budapest on Thu, 10 Sept 2026.
+LAU (6) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Viadukt Bar, Budapest on Thu, 10 Sept 2026.
 
 LAU (6) is a techno and house artist tracked on soundcheck, with 61 sets logged across Budapest. Often billed alongside Vatsanah, Switch Nollie and dtnb. Next up: Viadukt Bar, Budapest on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ LAU (6) is a techno and house artist tracked on soundcheck, with 61 sets logged 
 
 Vatsanah, Switch Nollie, dtnb
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lau-6/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lau-6/)*

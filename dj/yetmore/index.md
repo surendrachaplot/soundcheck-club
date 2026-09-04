@@ -1,6 +1,6 @@
 # Yet More
 
-Yet More is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Silencio, Paris on Sat, 5 Sept 2026.
+Yet More is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Silencio, Paris on Sat, 5 Sept 2026.
 
 Yet More is a house and deep house artist based in France, tracked on soundcheck, with 70 sets logged across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Nandu, Auggië and Miguel Payda. Next up: Silencio, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Yet More is a house and deep house artist based in France, tracked on soundcheck
 
 Nandu, Auggië, Miguel Payda
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yetmore/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yetmore/)*

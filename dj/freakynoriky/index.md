@@ -1,6 +1,6 @@
 # FrEaKyNoRiKy
 
-FrEaKyNoRiKy is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Mash House, Edinburgh on Fri, 18 Sept 2026.
+FrEaKyNoRiKy is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Mash House, Edinburgh on Fri, 18 Sept 2026.
 
 FrEaKyNoRiKy is a techno and breakbeat artist based in Japan, tracked on soundcheck, with 55 sets logged across Edinburgh, Frankfurt, London and Montreal and 3 more. Often billed alongside VÏVÏ, 7e and M.I.O. Next up: The Mash House, Edinburgh on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ FrEaKyNoRiKy is a techno and breakbeat artist based in Japan, tracked on soundch
 
 VÏVÏ, 7e, M.I.O
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freakynoriky/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freakynoriky/)*

@@ -1,6 +1,6 @@
 # Nathan Alzon
 
-Nathan Alzon is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
+Nathan Alzon is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
 
 Nathan Alzon is a house and tech house artist tracked on soundcheck, with 36 sets logged across Amsterdam, Frankfurt, Milan and Porto and 3 more. Often billed alongside Benjamin Berg, Benny Rodrigues and Prunk. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Nathan Alzon is a house and tech house artist tracked on soundcheck, with 36 set
 
 Benjamin Berg, Benny Rodrigues, Prunk
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanalzon/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanalzon/)*

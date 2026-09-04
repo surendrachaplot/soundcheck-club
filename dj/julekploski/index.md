@@ -1,6 +1,6 @@
 # julek ploski
 
-julek ploski is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OCZKI, Warsaw on Tue, 6 Oct 2026.
+julek ploski is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OCZKI, Warsaw on Tue, 6 Oct 2026.
 
 julek ploski is an experimental and electronica artist tracked on soundcheck, with 27 sets logged across Belgrade, Berlin, Brussels and Budapest and 7 more. Often billed alongside Moin, Nick León and 2K88. Next up: OCZKI, Warsaw on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ julek ploski is an experimental and electronica artist tracked on soundcheck, wi
 
 Moin, Nick León, 2K88
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julekploski/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julekploski/)*

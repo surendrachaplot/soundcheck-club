@@ -1,6 +1,6 @@
 # Ian Martin
 
-Ian Martin is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
+Ian Martin is a Acid and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Inter-city , The Hague on Sat, 26 Sept 2026.
 
 Ian Martin is an acid and disco artist tracked on soundcheck, with 13 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Esther Dune, I-F and Marsman. Next up: TBA - Inter-city , Thehague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ian Martin is an acid and disco artist tracked on soundcheck, with 13 sets logge
 
 Esther Dune, I-F, Marsman
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmartin/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmartin/)*

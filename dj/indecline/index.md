@@ -1,6 +1,6 @@
 # INDECLINE
 
-INDECLINE is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Green Works, Bristol on Sat, 5 Sept 2026.
+INDECLINE is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Green Works, Bristol on Sat, 5 Sept 2026.
 
 INDECLINE is a hardcore and gabber artist tracked on soundcheck, with 19 sets logged across Bristol, Leeds and Newcastle. Often billed alongside Rubb3rducki, Emily Knight and Medusa. Next up: Green Works, Bristol on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ INDECLINE is a hardcore and gabber artist tracked on soundcheck, with 19 sets lo
 
 Rubb3rducki, Emily Knight, Medusa
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indecline/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/indecline/)*

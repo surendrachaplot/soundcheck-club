@@ -1,6 +1,6 @@
 # Riley
 
-Riley is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
+Riley is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
 
 Riley is a tech house and house artist tracked on soundcheck, with 40 sets logged across Bristol, Cardiff, Dublin and Glasgow and 9 more. Often billed alongside Max Dean, East End Dubs and Latmun. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Riley is a tech house and house artist tracked on soundcheck, with 40 sets logge
 
 Max Dean, East End Dubs, Latmun
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riley/)*

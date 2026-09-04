@@ -1,6 +1,6 @@
 # Tony Zola
 
-Tony Zola is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Paris, Paris on Sat, 19 Sept 2026.
+Tony Zola is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Paris, Paris on Sat, 19 Sept 2026.
 
 Tony Zola is an electronic artist tracked on soundcheck, with 5 sets logged across Paris. Often billed alongside AMBRR, Chéri and Ella Blou. Next up: TBA - Paris, Paris on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Tony Zola is an electronic artist tracked on soundcheck, with 5 sets logged acro
 
 AMBRR, Chéri, Ella Blou
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyzola/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyzola/)*

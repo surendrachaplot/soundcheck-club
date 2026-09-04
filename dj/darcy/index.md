@@ -1,6 +1,6 @@
 # Darcy
 
-Darcy is a Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
+Darcy is a Bass and Grime artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
 
 Darcy is a bass and grime artist tracked on soundcheck, with 5 sets logged across Bristol and London. Often billed alongside Nancy June, Nio-B and Coki. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Darcy is a bass and grime artist tracked on soundcheck, with 5 sets logged acros
 
 Nancy June, Nio-B, Coki
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darcy/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darcy/)*

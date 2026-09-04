@@ -1,6 +1,6 @@
 # Niko Silencio
 
-Niko Silencio is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at BRAND SHIBUYA, Tokyo on Thu, 10 Sept 2026.
+Niko Silencio is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at BRAND SHIBUYA, Tokyo on Thu, 10 Sept 2026.
 
 Niko Silencio is a psytrance and techno artist tracked on soundcheck, with 38 sets logged across Tokyo. Often billed alongside BERLINER KINDL, PUSTER and CATRONICA. Next up: BRAND SHIBUYA, Tokyo on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Niko Silencio is a psytrance and techno artist tracked on soundcheck, with 38 se
 
 BERLINER KINDL, PUSTER, CATRONICA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikosilencio/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikosilencio/)*

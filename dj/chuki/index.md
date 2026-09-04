@@ -1,6 +1,6 @@
 # chuki
 
-chuki is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paragon, New York City on Mon, 7 Sept 2026.
+chuki is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paragon, New York City on Mon, 7 Sept 2026.
 
 chuki is a club and experimental artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity. Often billed alongside MHYSA, SCRAAATCH and Akanbi. Next up: Paragon, Newyorkcity on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ chuki is a club and experimental artist based in United States of America, track
 
 MHYSA, SCRAAATCH, Akanbi
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chuki/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chuki/)*

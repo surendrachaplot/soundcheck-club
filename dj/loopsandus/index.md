@@ -1,6 +1,6 @@
 # Loops and Us
 
-Loops and Us is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Belvedere du Centre Des Sciences de Montréal, Montreal on Sat, 5 Sept 2026.
+Loops and Us is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Belvedere du Centre Des Sciences de Montréal, Montreal on Sat, 5 Sept 2026.
 
 Loops and Us are a house and deep house duo based in Canada, tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside Arielle Roberge, Bolarinho and Clochette. Next up: Belvedere du Centre Des Sciences de Montréal, Montreal on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Loops and Us are a house and deep house duo based in Canada, tracked on soundche
 
 Arielle Roberge, Bolarinho, Clochette
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loopsandus/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loopsandus/)*

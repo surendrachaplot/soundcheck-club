@@ -1,6 +1,6 @@
 # Enzo
 
-Enzo is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Core, Madrid on Sat, 5 Sept 2026.
+Enzo is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Core, Madrid on Sat, 5 Sept 2026.
 
 Enzo is a techno and tech house artist tracked on soundcheck, with 17 sets logged across Barcelona, Losangeles, Madrid and Newyorkcity and 4 more. Often billed alongside Icarian PB1, Orkus and COTA. Next up: Core, Madrid on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Enzo is a techno and tech house artist tracked on soundcheck, with 17 sets logge
 
 Icarian PB1, Orkus, COTA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo/)*

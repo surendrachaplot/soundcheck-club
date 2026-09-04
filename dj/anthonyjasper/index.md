@@ -1,6 +1,6 @@
 # Anthony Jasper
 
-Anthony Jasper is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - The American Riad | 920 Euclid, Detroit on Sun, 13 Sept 2026.
+Anthony Jasper is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - The American Riad | 920 Euclid, Detroit on Sun, 13 Sept 2026.
 
 Anthony Jasper is a house and techno artist tracked on soundcheck, with 30 sets logged across Detroit. Often billed alongside MGUN, Max Watts and Nate (Det). Next up: TBA - The American Riad | 920 Euclid, Detroit on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Anthony Jasper is a house and techno artist tracked on soundcheck, with 30 sets 
 
 MGUN, Max Watts, Nate (Det)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyjasper/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyjasper/)*

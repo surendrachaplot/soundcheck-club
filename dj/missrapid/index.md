@@ -1,6 +1,6 @@
 # Miss Rapid
 
-Miss Rapid is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
+Miss Rapid is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Schrotty, Cologne on Fri, 4 Sept 2026.
 
 Miss Rapid is a trance and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Cologne. Often billed alongside Anuuk, Aw508 and BOLZ. Next up: Schrotty, Cologne on Fri 4 Sept.
 
@@ -15,4 +15,4 @@ Miss Rapid is a trance and techno artist based in Germany, tracked on soundcheck
 
 Anuuk, Aw508, BOLZ
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missrapid/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missrapid/)*

@@ -1,6 +1,6 @@
 # Alba Franch
 
-Alba Franch is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Grelle Forelle, Vienna on Sat, 5 Sept 2026.
+Alba Franch is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Grelle Forelle, Vienna on Sat, 5 Sept 2026.
 
 Alba Franch is a techno and trance artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside davyboi, Gerardo Niva and Cleopard2000. Next up: Grelle Forelle, Vienna on Sat 5 Sept.
 
@@ -33,4 +33,4 @@ Alba Franch is a techno and trance artist tracked on soundcheck, with 144 sets l
 
 davyboi, Gerardo Niva, Cleopard2000
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albafranch/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albafranch/)*

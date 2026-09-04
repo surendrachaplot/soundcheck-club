@@ -1,6 +1,6 @@
 # Denso
 
-Denso is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hangar48 Club, Madrid on Sat, 5 Sept 2026.
+Denso is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hangar48 Club, Madrid on Sat, 5 Sept 2026.
 
 Denso is an electronica and techno artist based in Spain, tracked on soundcheck, with 12 sets logged across Barcelona and Madrid. Often billed alongside Valleyk, MSKS and Modesto. Next up: Hangar48 Club, Madrid on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Denso is an electronica and techno artist based in Spain, tracked on soundcheck,
 
 Valleyk, MSKS, Modesto
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denso/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denso/)*

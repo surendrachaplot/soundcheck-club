@@ -1,6 +1,6 @@
 # NAMARA
 
-NAMARA is a Hardcore and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mia Mao, Paris on Fri, 25 Sept 2026.
+NAMARA is a Hardcore and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mia Mao, Paris on Fri, 25 Sept 2026.
 
 NAMARA is a hardcore and electro artist tracked on soundcheck, with 10 sets logged across Cologne, Frankfurt, Madrid and Manchester and 4 more. Often billed alongside Lil Texas, Mad Dog and Deadly Guns. Next up: Mia Mao, Paris on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ NAMARA is a hardcore and electro artist tracked on soundcheck, with 10 sets logg
 
 Lil Texas, Mad Dog, Deadly Guns
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/namara/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/namara/)*

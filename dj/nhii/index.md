@@ -1,6 +1,6 @@
 # Nhii
 
-Nhii is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Rūmu, Lisbon on Fri, 4 Sept 2026.
+Nhii is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Rūmu, Lisbon on Fri, 4 Sept 2026.
 
 Nhii is a deep house and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Brussels and Chicago and 17 more. Often billed alongside Saqib, Sarkis Mikael and CIOZ. Next up: Rūmu, Lisbon on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Nhii is a deep house and house artist tracked on soundcheck, with 60 sets logged
 
 Saqib, Sarkis Mikael, CIOZ
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nhii/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nhii/)*

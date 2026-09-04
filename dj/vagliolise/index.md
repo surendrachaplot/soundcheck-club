@@ -1,6 +1,6 @@
 # Vagliolise
 
-Vagliolise is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Vagliolise is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Vagliolise is a techno and electronica artist based in Italy, tracked on soundcheck, with 11 sets logged across Milan, Naples, Rome and Turin. Often billed alongside Na Diavl, Fybes and Nicolas Lutz. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Vagliolise is a techno and electronica artist based in Italy, tracked on soundch
 
 Na Diavl, Fybes, Nicolas Lutz
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vagliolise/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vagliolise/)*

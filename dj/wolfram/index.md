@@ -1,6 +1,6 @@
 # Wolfram
 
-Wolfram is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 77, London on Thu, 17 Sept 2026.
+Wolfram is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 77, London on Thu, 17 Sept 2026.
 
 Wolfram is a house and techno artist based in Austria, tracked on soundcheck, with 49 sets logged across Barcelona, Berlin, Cologne and Copenhagen and 14 more. Often billed alongside Sossa, Tom Trago and Agathe Mougin. Next up: 77, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Wolfram is a house and techno artist based in Austria, tracked on soundcheck, wi
 
 Sossa, Tom Trago, Agathe Mougin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfram/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfram/)*

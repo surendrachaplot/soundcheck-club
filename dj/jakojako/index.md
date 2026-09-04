@@ -1,6 +1,6 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SMUT Athens, Athens on Sat, 5 Sept 2026.
+JakoJako is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at SMUT Athens, Athens on Sat, 5 Sept 2026.
 
 JakoJako is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: SMUT Athens, Athens on Sat 5 Sept.
 
@@ -33,4 +33,4 @@ JakoJako is a techno and house artist tracked on soundcheck, with 163 sets logge
 
 Rødhåd, Barker, Fadi Mohem
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

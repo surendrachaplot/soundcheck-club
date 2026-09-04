@@ -1,6 +1,6 @@
 # Marion Hawkes
 
-Marion Hawkes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - SECRET LOCATION, Belfast on Sat, 5 Sept 2026.
+Marion Hawkes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - SECRET LOCATION, Belfast on Sat, 5 Sept 2026.
 
 Marion Hawkes is a house and techno artist tracked on soundcheck, with 45 sets logged across Belfast, Bristol, Cork and Dublin and 4 more. Often billed alongside Conor Schmtz, Inside Moves and Jordan Nocturne. Next up: TBA - SECRET LOCATION, Belfast on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Marion Hawkes is a house and techno artist tracked on soundcheck, with 45 sets l
 
 Conor Schmtz, Inside Moves, Jordan Nocturne
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marionhawkes/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marionhawkes/)*

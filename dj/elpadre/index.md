@@ -1,6 +1,6 @@
 # EL PADRE
 
-EL PADRE is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nice N Sleazy, Glasgow on Sun, 13 Sept 2026.
+EL PADRE is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Nice N Sleazy, Glasgow on Sun, 13 Sept 2026.
 
 EL PADRE is a techno and progressive house artist based in Poland, tracked on soundcheck, with 4 sets logged across Amsterdam, Glasgow and London. Often billed alongside Nathassia, Major K and Jay Cluss. Next up: Nice N Sleazy, Glasgow on Sun 13 Sept.
 
@@ -20,4 +20,4 @@ EL PADRE is a techno and progressive house artist based in Poland, tracked on so
 
 Nathassia, Major K, Jay Cluss
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elpadre/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elpadre/)*

@@ -1,10 +1,10 @@
 # Electroclash Y2K: Meebs, Annie, Meg Mog at Movers
 
-Electroclash Y2K: Meebs, Annie, Meg Mog at Movers on Fri 18 Sept, Nottingham. Experimental. Preview the line-up and save it on soundcheck.
+Electroclash Y2K: Meebs, Annie, Meg Mog at Movers on Fri 25 Sept, Nottingham. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 18 Sept 2026 |
+| Date | Fri, 25 Sept 2026 |
 | Venue | Movers |
 | City | Nottingham |
 

@@ -1,6 +1,6 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 9 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "ALL NIGHT x T.I.T.S. - D. Tiffany - Ma Sha " on Fri, 4 Sept 2026.
+Société des arts technologiques is a music venue in Montreal with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "ALL NIGHT x T.I.T.S. - D. Tiffany - Ma Sha " on Fri, 4 Sept 2026.
 
 Société des arts technologiques is a music venue in Montreal listed on soundcheck. 9 upcoming nights, with line-ups including Audrey Bélanger, Aurora Halal, Batu and Cabaret Voltaire and 2 more. Browse upcoming dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
@@ -22,4 +22,4 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

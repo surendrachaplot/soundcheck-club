@@ -1,6 +1,6 @@
 # Joe Rolét
 
-Joe Rolét is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at IDRA, Manchester on Sat, 26 Sept 2026.
+Joe Rolét is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at IDRA, Manchester on Sat, 26 Sept 2026.
 
 Joe Rolét is a tech house and house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Dublin and Ibiza and 7 more. Often billed alongside Fleur Shore, Olive F and ALISHA. Next up: IDRA, Manchester on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Joe Rolét is a tech house and house artist tracked on soundcheck, with 24 sets 
 
 Fleur Shore, Olive F, ALISHA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*

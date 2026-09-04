@@ -1,6 +1,6 @@
 # Jason Rault
 
-Jason Rault is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jolene Downtown Miami, Miami on Fri, 11 Sept 2026.
+Jason Rault is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jolene Downtown Miami, Miami on Fri, 11 Sept 2026.
 
 Jason Rault is a house and tech house artist based in Mauritius, tracked on soundcheck, with 45 sets logged across Miami. Often billed alongside Grove Shaman, Bakke and Soto Music. Next up: Jolene Downtown Miami, Miami on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Jason Rault is a house and tech house artist based in Mauritius, tracked on soun
 
 Grove Shaman, Bakke, Soto Music
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonrault/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonrault/)*

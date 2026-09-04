@@ -1,6 +1,6 @@
 # HARLØW
 
-HARLØW is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Glove That Fits, London on Sun, 20 Sept 2026.
+HARLØW is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Glove That Fits, London on Sun, 20 Sept 2026.
 
 HARLØW is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Brighton and London. Often billed alongside Døra, Jack Jeffrey and DSD uk. Next up: The Glove That Fits, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ HARLØW is a techno and trance artist based in United Kingdom, tracked on soundc
 
 Døra, Jack Jeffrey, DSD uk
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harlow/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harlow/)*

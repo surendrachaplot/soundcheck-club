@@ -1,6 +1,6 @@
 # SLVC024
 
-SLVC024 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 26 Sept 2026.
+SLVC024 is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 26 Sept 2026.
 
 SLVC024 is a techno and electro artist based in Serbia, tracked on soundcheck, with 8 sets logged across Belgrade. Often billed alongside AM Hi, Mamavitae and Aneri. Next up: Drugstore Beograd, Belgrade on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ SLVC024 is a techno and electro artist based in Serbia, tracked on soundcheck, w
 
 AM Hi, Mamavitae, Aneri
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slvc024/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slvc024/)*

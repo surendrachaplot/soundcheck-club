@@ -1,6 +1,6 @@
 # K1RA
 
-K1RA is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 5 Sept 2026.
+K1RA is a Latin Bass and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 5 Sept 2026.
 
 K1RA is a latin bass and baile funk artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston and Washingtondc. Often billed alongside Alucarda, Franxx and znorthy. Next up: Jimmy Valentine's Lonely Hearts Club, Washingtondc on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ K1RA is a latin bass and baile funk artist based in United States of America, tr
 
 Alucarda, Franxx, znorthy
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k1ra/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/k1ra/)*

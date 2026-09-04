@@ -1,6 +1,6 @@
 # SLANY
 
-SLANY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at elipamanoke, Leipzig on Wed, 16 Sept 2026.
+SLANY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at elipamanoke, Leipzig on Wed, 16 Sept 2026.
 
 SLANY is a techno and house artist tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Leipzig and Munich and 2 more. Often billed alongside noxsonos, NACHTIGALL and KIMYA. Next up: elipamanoke, Leipzig on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ SLANY is a techno and house artist tracked on soundcheck, with 41 sets logged ac
 
 noxsonos, NACHTIGALL, KIMYA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slany/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slany/)*

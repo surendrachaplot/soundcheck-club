@@ -1,6 +1,6 @@
 # Trans-Pecos
 
-Trans-Pecos is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "LATITUD3" on Fri, 4 Sept 2026.
+Trans-Pecos is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "LATITUD3" on Fri, 4 Sept 2026.
 
 Trans-Pecos is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including ALL EXITS, Deejay Energy, DJ SWISHA and DJ Technics and 2 more. Browse upcoming dates, start times and who's playing. 9-15 Wyckoff Ave, Queens, NY 11385.
 
@@ -17,4 +17,4 @@ Trans-Pecos is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nig
 
 9-15 Wyckoff Ave, Queens, NY 11385, New York City
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/trans-pecos/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/trans-pecos/)*

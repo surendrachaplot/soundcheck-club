@@ -1,6 +1,6 @@
 # Karotte
 
-Karotte is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
+Karotte is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
 
 Karotte is a techno and house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Basel, Berlin and Cologne and 8 more. Often billed alongside Gregor Tresher, Lilly Palmer and Anja Schneider. Next up: Fridas Pier, Stuttgart on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Karotte is a techno and house artist tracked on soundcheck, with 70 sets logged 
 
 Gregor Tresher, Lilly Palmer, Anja Schneider
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karotte/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karotte/)*

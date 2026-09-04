@@ -1,6 +1,6 @@
 # R:Journey
 
-R:Journey is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "SHENRON SESSIONS Outdoor Edition" on Sat, 12 Sept 2026.
+R:Journey is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "SHENRON SESSIONS Outdoor Edition" on Sat, 12 Sept 2026.
 
 R:Journey is a music venue in Vienna listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Karl-Farkas-Gasse 18, 1030 Vienna, Austria.
 
@@ -14,4 +14,4 @@ R:Journey is a music venue in Vienna listed on soundcheck. 1 upcoming night. Bro
 
 Karl-Farkas-Gasse 18, 1030 Vienna, Austria, Vienna
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/r-journey/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/r-journey/)*

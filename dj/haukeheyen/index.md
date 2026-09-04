@@ -1,6 +1,6 @@
 # haukeheyen
 
-haukeheyen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret Location, London on Sat, 5 Sept 2026.
+haukeheyen is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location, London on Sat, 5 Sept 2026.
 
 haukeheyen is a house and techno artist tracked on soundcheck, with 12 sets logged across London and Munich. Often billed alongside AXU (2), Phenomenon and 22Cheeky. Next up: TBA - Secret Location, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ haukeheyen is a house and techno artist tracked on soundcheck, with 12 sets logg
 
 AXU (2), Phenomenon, 22Cheeky
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haukeheyen/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haukeheyen/)*

@@ -1,6 +1,6 @@
 # Ganna Glass
 
-Ganna Glass is a Deep House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 4 Sept 2026.
+Ganna Glass is a Deep House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at MONKEY LOVE, Warsaw on Fri, 4 Sept 2026.
 
 Ganna Glass is a deep house and minimal techno artist based in Poland, tracked on soundcheck, with 22 sets logged across Krakow and Warsaw. Often billed alongside Axis Operandi, MaL (1) and Salat. Next up: MONKEY LOVE, Warsaw on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ganna Glass is a deep house and minimal techno artist based in Poland, tracked o
 
 Axis Operandi, MaL (1), Salat
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gannaglass/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gannaglass/)*

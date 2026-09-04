@@ -1,6 +1,6 @@
 # CHANG
 
-CHANG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at DeTour, Tokyo on Fri, 4 Sept 2026.
+CHANG is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at DeTour, Tokyo on Fri, 4 Sept 2026.
 
 CHANG is a techno and house artist based in Japan, tracked on soundcheck, with 16 sets logged across Tokyo. Often billed alongside NITA, SIGNAL (JP) and PINA (PT). Next up: DeTour, Tokyo on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ CHANG is a techno and house artist based in Japan, tracked on soundcheck, with 1
 
 NITA, SIGNAL (JP), PINA (PT)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chang-jp/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chang-jp/)*

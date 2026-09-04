@@ -1,6 +1,6 @@
 # Spooky
 
-Spooky is a Garage and Grime artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Vespers Club, London on Sat, 12 Sept 2026.
+Spooky is a Garage and Grime artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Vespers Club, London on Sat, 12 Sept 2026.
 
 Spooky is a garage and grime artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Brighton, Bristol, Leeds and London and 4 more. Often billed alongside Braindead, N-Type and DEVZ. Next up: Vespers Club, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Spooky is a garage and grime artist based in United Kingdom, tracked on soundche
 
 Braindead, N-Type, DEVZ
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spooky/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spooky/)*

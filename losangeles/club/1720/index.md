@@ -1,6 +1,6 @@
 # 1720
 
-1720 is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Y2k Scene Night" on Fri, 18 Sept 2026.
+1720 is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Y2k Scene Night" on Fri, 18 Sept 2026.
 
 1720 is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Bag Raiders, Bayymack, CSS and Sam Divine and 1 more. Browse upcoming dates, start times and who's playing. 1720 E. 16th Ave, Los Angeles, CA 90021.
 
@@ -17,4 +17,4 @@
 
 1720 E. 16th Ave, Los Angeles, CA 90021, Los Angeles
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*

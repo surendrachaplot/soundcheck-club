@@ -1,6 +1,6 @@
 # HypoGeo
 
-HypoGeo is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Illegaal, Brussels on Sat, 17 Oct 2026.
+HypoGeo is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Illegaal, Brussels on Sat, 17 Oct 2026.
 
 HypoGeo is a psytrance and techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Brussels and Dublin and 2 more. Often billed alongside Ash Roy, Josephine Wedekind and Krumelur. Next up: Illegaal, Brussels on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ HypoGeo is a psytrance and techno artist tracked on soundcheck, with 12 sets log
 
 Ash Roy, Josephine Wedekind, Krumelur
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hypogeo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hypogeo/)*

@@ -1,6 +1,6 @@
 # Silhouwet
 
-Silhouwet is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Airliner, Los Angeles on Sat, 12 Sept 2026.
+Silhouwet is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Airliner, Los Angeles on Sat, 12 Sept 2026.
 
 Silhouwet is a house and baile funk artist tracked on soundcheck, with 20 sets logged across Losangeles. Often billed alongside CHRYSALIS, baby.com and Cquestt. Next up: The Airliner, Losangeles on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Silhouwet is a house and baile funk artist tracked on soundcheck, with 20 sets l
 
 CHRYSALIS, baby.com, Cquestt
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silhouwet/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silhouwet/)*

@@ -1,6 +1,6 @@
 # Ana Sant
 
-Ana Sant is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hangar48 Club, Madrid on Fri, 11 Sept 2026.
+Ana Sant is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hangar48 Club, Madrid on Fri, 11 Sept 2026.
 
 Ana Sant is a techno artist based in Spain, tracked on soundcheck, with 10 sets logged across Madrid. Often billed alongside KSAL, ANJELIKA SAHAKIAN and Allisson Nunes. Next up: Hangar48 Club, Madrid on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ana Sant is a techno artist based in Spain, tracked on soundcheck, with 10 sets 
 
 KSAL, ANJELIKA SAHAKIAN, Allisson Nunes
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anasant/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anasant/)*

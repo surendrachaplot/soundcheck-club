@@ -1,6 +1,6 @@
 # Lee Burton
 
-Lee Burton is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at A38, Budapest on Thu, 1 Oct 2026.
+Lee Burton is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at A38, Budapest on Thu, 1 Oct 2026.
 
 Lee Burton is a house and techno artist tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Barcelona and Berlin and 8 more. Often billed alongside Nekes, Federico Molinari and Giuliano Lomonte. Next up: A38, Budapest on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Lee Burton is a house and techno artist tracked on soundcheck, with 29 sets logg
 
 Nekes, Federico Molinari, Giuliano Lomonte
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburton/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburton/)*

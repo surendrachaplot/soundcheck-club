@@ -1,6 +1,6 @@
 # Frappant
 
-Frappant is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "BuBYEmara" on Fri, 4 Sept 2026.
+Frappant is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BuBYEmara" on Fri, 4 Sept 2026.
 
 Frappant is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including ATEQ, Atomlui, Bubamara and Bushfya and 2 more. Browse upcoming dates, start times and who's playing. Bodenstedtstraße 16, 22765 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Frappant is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, wi
 
 Bodenstedtstraße 16, 22765 Hamburg, Germany, Hamburg
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/frappant/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/frappant/)*

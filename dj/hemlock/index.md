@@ -1,6 +1,6 @@
 # Hemlock
 
-Hemlock is a Funk / Soul and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Toronto on Fri, 18 Sept 2026.
+Hemlock is a Funk / Soul and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Toronto on Fri, 18 Sept 2026.
 
 Hemlock is a funk / soul and club artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Tokyo and Toronto. Often billed alongside Chumbo, DJ Hammer and Eejungmi. Next up: TBA, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Hemlock is a funk / soul and club artist based in Netherlands, tracked on soundc
 
 Chumbo, DJ Hammer, Eejungmi
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hemlock/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hemlock/)*

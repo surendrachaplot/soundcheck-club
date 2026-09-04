@@ -1,6 +1,6 @@
 # Euphrat
 
-Euphrat is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Printhouse, Munich on Sat, 5 Sept 2026.
+Euphrat is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Printhouse, Munich on Sat, 5 Sept 2026.
 
 Euphrat is a house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Frankfurt and Munich. Often billed alongside DJ Fucks Himself, EUROBABES and Lenny Fuck. Next up: Printhouse, Munich on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Euphrat is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 DJ Fucks Himself, EUROBABES, Lenny Fuck
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/euphrat/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/euphrat/)*

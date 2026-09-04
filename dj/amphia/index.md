@@ -1,6 +1,6 @@
 # Amphia
 
-Amphia is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at KREUZWERK, Berlin on Sat, 5 Sept 2026.
+Amphia is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at KREUZWERK, Berlin on Sat, 5 Sept 2026.
 
 Amphia is a techno and trance artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Bristol and Lisbon and 3 more. Often billed alongside MarcelDune, Gloria Rose and Bailey Ibbs. Next up: KREUZWERK, Berlin on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Amphia is a techno and trance artist tracked on soundcheck, with 39 sets logged 
 
 MarcelDune, Gloria Rose, Bailey Ibbs
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*

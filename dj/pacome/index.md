@@ -1,8 +1,8 @@
 # Pacome
 
-Pacome is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at 3oz Dive Club, San Diego on Sat, 12 Sept 2026.
+Pacome is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at 3oz Dive Club, San Diego on Sat, 12 Sept 2026.
 
-Pacome is a house and minimal artist tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Liana, Fer (ES) and bOIX. Next up: 3oz Dive Club, Sandiego on Sat 12 Sept.
+Pacome is a house and minimal artist tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Liana, Fer (ES) and bOIX. Next up: 3oz Dive Club, Sandiego on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pacome is a house and minimal artist tracked on soundcheck, with 44 sets logged 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | 3oz Dive Club | San Diego |
 | Sat, 19 Sept 2026 | 303 Audiophile Bar | Barcelona |
+| Fri, 25 Sept 2026 | Nocturna | Ibiza |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Pacome is a house and minimal artist tracked on soundcheck, with 44 sets logged 
 
 Liana, Fer (ES), bOIX
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacome/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacome/)*

@@ -1,6 +1,6 @@
 # Nicola Bear
 
-Nicola Bear is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Ōdiobā, Manchester on Fri, 4 Sept 2026.
+Nicola Bear is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ōdiobā, Manchester on Fri, 4 Sept 2026.
 
 Nicola Bear is a house and balearic artist tracked on soundcheck, with 12 sets logged across London and Manchester. Often billed alongside Aletha, Bakey and Bou (UK). Next up: Ōdiobā, Manchester on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Nicola Bear is a house and balearic artist tracked on soundcheck, with 12 sets l
 
 Aletha, Bakey, Bou (UK)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolabear/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolabear/)*

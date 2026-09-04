@@ -1,6 +1,6 @@
 # Helm
 
-Helm is a Experimental and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
+Helm is a Experimental and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
 
 Helm is an experimental and industrial artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Copenhagen, Manchester and Osaka and 3 more. Often billed alongside AELVA K, AfroNinja and Alif Hilal. Next up: Tresor / Globus, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Helm is an experimental and industrial artist based in United Kingdom, tracked o
 
 AELVA K, AfroNinja, Alif Hilal
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helm/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helm/)*

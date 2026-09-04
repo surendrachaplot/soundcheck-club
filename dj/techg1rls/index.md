@@ -1,6 +1,6 @@
 # Techg1rls
 
-Techg1rls is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at M.O.T, London on Fri, 4 Sept 2026.
+Techg1rls is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at M.O.T, London on Fri, 4 Sept 2026.
 
 Techg1rls is an electronica and club artist based in United States of America, tracked on soundcheck, with 9 sets logged across London, Losangeles, Miami and Newyorkcity and 3 more. Often billed alongside CFCF, Coupdekat and Indie Sleaze. Next up: M.O.T, London on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Techg1rls is an electronica and club artist based in United States of America, t
 
 CFCF, Coupdekat, Indie Sleaze
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techg1rls/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/techg1rls/)*

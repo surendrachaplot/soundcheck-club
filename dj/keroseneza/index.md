@@ -1,6 +1,6 @@
 # KEROSENE (ZA)
 
-KEROSENE (ZA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OST, Berlin on Thu, 10 Sept 2026.
+KEROSENE (ZA) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OST, Berlin on Thu, 10 Sept 2026.
 
 KEROSENE (ZA) is a techno and house artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin and Leipzig. Often billed alongside ATR DJ-TEAM, GLASSBASS and Gabrielle (DE). Next up: OST, Berlin on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ KEROSENE (ZA) is a techno and house artist based in Germany, tracked on soundche
 
 ATR DJ-TEAM, GLASSBASS, Gabrielle (DE)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keroseneza/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keroseneza/)*

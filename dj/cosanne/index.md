@@ -1,6 +1,6 @@
 # Cosanne
 
-Cosanne is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Wirtshaus Heimliche Liebe, Dortmund-essen on Sat, 26 Sept 2026.
+Cosanne is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Wirtshaus Heimliche Liebe, Dortmund-essen on Sat, 26 Sept 2026.
 
 Cosanne is a house and progressive house artist tracked on soundcheck, with 8 sets logged across Cologne and Dortmund-essen. Often billed alongside Jonathan Kaspar, Boys Noize and Catu Diosis. Next up: Wirtshaus Heimliche Liebe, Dortmund-essen on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Cosanne is a house and progressive house artist tracked on soundcheck, with 8 se
 
 Jonathan Kaspar, Boys Noize, Catu Diosis
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosanne/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosanne/)*

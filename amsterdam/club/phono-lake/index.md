@@ -1,14 +1,15 @@
 # Phono Lake
 
-Phono Lake is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Phono Lake Festival" on Sat, 12 Sept 2026.
+Phono Lake is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Phono Lake Festival" on Sat, 12 Sept 2026.
 
-Phono Lake is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including Athens of the North, Blake Baxter, Danny Daze and Field Notes DJs and 2 more. Browse upcoming dates, start times and who's playing. Christoffel Plantijngracht 4, 1065 DA Amsterdam, The Netherlands.
+Phono Lake is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Athens of the North, Blake Baxter, Danny Daze and Field Notes DJs and 2 more. Browse upcoming dates, start times and who's playing. Christoffel Plantijngracht 4, 1065 DA Amsterdam, The Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Phono Lake Festival | Athens of the North, Blake Baxter, Danny Daze, Field Notes DJs, Jetti, Jovonn, Louise Chen, Marie K (1), Mike Dunn, Millie McKee, Officer John, Pender Street Steppers |
+| Sat, 12 Sept 2026 | Phono Lake Festival By Night - On-site Afterparties |  |
 | Fri, 23 Oct 2026 | Phono Lake ADE with Magda & Sandrien | Magda, Sandrien |
 | Sat, 24 Oct 2026 | Homegrown - Amsterdam |  |
 | Sat, 24 Oct 2026 | Phono Lake ADE with Moodymann, Flo Real, Lefto Early Bird, Shy One | Flo Real, Lefto Early Bird, Moodymann, Shy One |
@@ -17,4 +18,4 @@ Phono Lake is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights
 
 Christoffel Plantijngracht 4, 1065 DA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/phono-lake/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/phono-lake/)*

@@ -1,6 +1,6 @@
 # Or'l
 
-Or'l is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Stereolux, Nantes on Sat, 10 Oct 2026.
+Or'l is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Stereolux, Nantes on Sat, 10 Oct 2026.
 
 Or'l is a house and techno artist tracked on soundcheck, with 37 sets logged across Nantes and Paris. Often billed alongside Paulette Sauvage, Tina Tornade and mystery kid. Next up: Stereolux, Nantes on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Or'l is a house and techno artist tracked on soundcheck, with 37 sets logged acr
 
 Paulette Sauvage, Tina Tornade, mystery kid
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orl/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orl/)*

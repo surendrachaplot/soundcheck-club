@@ -1,6 +1,6 @@
 # Club Z in Zimmermans
 
-Club Z in Zimmermans is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Buena Vista Social Club - Musical" on Sat, 5 Sept 2026.
+Club Z in Zimmermans is a music venue in Cologne with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Buena Vista Social Club - Musical" on Sat, 5 Sept 2026.
 
 Club Z in Zimmermans is a music venue in Cologne listed on soundcheck. 3 upcoming nights, with line-ups including George Morel and Pierce. Browse upcoming dates, start times and who's playing. Venloer Str 39, 50672, Koln.
 
@@ -16,4 +16,4 @@ Club Z in Zimmermans is a music venue in Cologne listed on soundcheck. 3 upcomin
 
 Venloer Str 39, 50672, Koln, Cologne
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-z-in-zimmermans/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-z-in-zimmermans/)*

@@ -1,6 +1,6 @@
 # jojoj
 
-jojoj is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Laak, The Hague on Fri, 2 Oct 2026.
+jojoj is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Laak, The Hague on Fri, 2 Oct 2026.
 
 jojoj is a techno and house artist tracked on soundcheck, with 8 sets logged across Amsterdam, Paris and Thehague. Often billed alongside 751, Amaliah and BASHKKA. Next up: Laak, Thehague on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ jojoj is a techno and house artist tracked on soundcheck, with 8 sets logged acr
 
 751, Amaliah, BASHKKA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jojoj/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jojoj/)*

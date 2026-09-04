@@ -1,6 +1,6 @@
 # Rafush
 
-Rafush is a Bass and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
+Rafush is a Bass and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
 
 Rafush is a bass and house artist tracked on soundcheck, with 128 sets logged across Basel, Berlin, Cologne and Hamburg and 4 more. Often billed alongside Dj Goodboy, Punani and ADAM MUNNINGS. Next up: Holdenweid, Basel on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Rafush is a bass and house artist tracked on soundcheck, with 128 sets logged ac
 
 Dj Goodboy, Punani, ADAM MUNNINGS
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafush/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafush/)*

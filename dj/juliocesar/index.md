@@ -1,6 +1,6 @@
 # Julio César
 
-Julio César is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
+Julio César is a Latin Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
 
 Julio César is a latin bass and techno artist based in Mexico, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Manchester and Mexicocity. Often billed alongside Tiyumii, Sofy Suars and T0M1. Next up: Nitsa Club, Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Julio César is a latin bass and techno artist based in Mexico, tracked on sound
 
 Tiyumii, Sofy Suars, T0M1
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliocesar/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliocesar/)*

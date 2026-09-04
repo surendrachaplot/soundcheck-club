@@ -1,6 +1,6 @@
 # Fina
 
-Fina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 6 Sept 2026.
+Fina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 6 Sept 2026.
 
 Fina is a house and techno artist based in Mexico, tracked on soundcheck, with 13 sets logged across Barcelona and Mexicocity. Often billed alongside Fig (DYN), Toledano and Vanilla Storm. Next up: Sunday Sunday, Mexicocity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Fina is a house and techno artist based in Mexico, tracked on soundcheck, with 1
 
 Fig (DYN), Toledano, Vanilla Storm
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fina/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fina/)*

@@ -1,6 +1,6 @@
 # NU NOIZE
 
-NU NOIZE is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Madrone Art Bar, San Francisco/Oakland on Fri, 4 Sept 2026.
+NU NOIZE is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Madrone Art Bar, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 NU NOIZE is a house and disco artist tracked on soundcheck, with 5 sets logged across Sanfrancisco. Often billed alongside Knowpa Slaps and Mackswell. Next up: Madrone Art Bar, Sanfrancisco on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ NU NOIZE is a house and disco artist tracked on soundcheck, with 5 sets logged a
 
 Knowpa Slaps, Mackswell
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunoize/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nunoize/)*

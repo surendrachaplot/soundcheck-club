@@ -1,6 +1,6 @@
 # Liam Mour
 
-Liam Mour is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
+Liam Mour is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
 
 Liam Mour is an electronic artist tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin and London. Often billed alongside 1-800 GIRLS, Abiba Sokoto and Ahadadream. Next up: Funkhaus Berlin, Berlin on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Liam Mour is an electronic artist tracked on soundcheck, with 5 sets logged acro
 
 1-800 GIRLS, Abiba Sokoto, Ahadadream
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liammour/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liammour/)*

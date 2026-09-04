@@ -1,6 +1,6 @@
 # Alessandro Osini
 
-Alessandro Osini is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Fabwick, London on Sun, 20 Sept 2026.
+Alessandro Osini is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fabwick, London on Sun, 20 Sept 2026.
 
 Alessandro Osini is a house and tech house artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside Andrea Giudice, Areeb Abbasi and Larry Cadge. Next up: Fabwick, London on Sun 20 Sept.
 
@@ -20,4 +20,4 @@ Alessandro Osini is a house and tech house artist tracked on soundcheck, with 4 
 
 Andrea Giudice, Areeb Abbasi, Larry Cadge
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroosini/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroosini/)*

@@ -1,6 +1,6 @@
 # JDH
 
-JDH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Freedonia, Barcelona on Sat, 12 Sept 2026.
+JDH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Freedonia, Barcelona on Sat, 12 Sept 2026.
 
 JDH is a techno and house artist tracked on soundcheck, with 35 sets logged across Athens, Barcelona, Berlin and Munich and 3 more. Often billed alongside Gee Dee, Budino and Avalon Emerson. Next up: Freedonia, Barcelona on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ JDH is a techno and house artist tracked on soundcheck, with 35 sets logged acro
 
 Gee Dee, Budino, Avalon Emerson
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdh/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdh/)*

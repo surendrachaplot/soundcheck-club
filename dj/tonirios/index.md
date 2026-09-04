@@ -1,6 +1,6 @@
 # Toni Rios
 
-Toni Rios is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Pracht, Frankfurt on Fri, 18 Sept 2026.
+Toni Rios is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Pracht, Frankfurt on Fri, 18 Sept 2026.
 
 Toni Rios is a tech house and house artist tracked on soundcheck, with 5 sets logged across Frankfurt. Often billed alongside Alexander Olck, C-Rock and DJ Rush. Next up: Pracht, Frankfurt on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Toni Rios is a tech house and house artist tracked on soundcheck, with 5 sets lo
 
 Alexander Olck, C-Rock, DJ Rush
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonirios/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonirios/)*

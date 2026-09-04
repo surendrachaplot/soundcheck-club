@@ -1,6 +1,6 @@
 # Ben Evers
 
-Ben Evers is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Ben Evers is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kaap Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Ben Evers is a house and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Amsterdam, Berlin, Hamburg and Stuttgart. Often billed alongside Diass, Dj Diass and Dominik Krammer. Next up: Kaap Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Ben Evers is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Diass, Dj Diass, Dominik Krammer
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benevers/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benevers/)*

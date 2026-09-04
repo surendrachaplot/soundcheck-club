@@ -1,6 +1,6 @@
 # No Plastic
 
-No Plastic is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at UMI, Brussels on Fri, 11 Sept 2026.
+No Plastic is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at UMI, Brussels on Fri, 11 Sept 2026.
 
 No Plastic is a house and club artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 5 more. Often billed alongside Richard Akingbehin, Antal and BASHKKA. Next up: UMI, Brussels on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ No Plastic is a house and club artist based in United Kingdom, tracked on soundc
 
 Richard Akingbehin, Antal, BASHKKA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noplastic/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noplastic/)*

@@ -1,6 +1,6 @@
 # Lidia Lo
 
-Lidia Lo is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Madam, Amsterdam on Fri, 4 Sept 2026.
+Lidia Lo is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Madam, Amsterdam on Fri, 4 Sept 2026.
 
 Lidia Lo is a tech house and house artist based in Spain, tracked on soundcheck, with 37 sets logged across Amsterdam. Often billed alongside Sanne Dammers, Kirilski and Snooz. Next up: Madam, Amsterdam on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Lidia Lo is a tech house and house artist based in Spain, tracked on soundcheck,
 
 Sanne Dammers, Kirilski, Snooz
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lidialo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lidialo/)*

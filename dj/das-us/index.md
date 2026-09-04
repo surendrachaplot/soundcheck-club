@@ -1,6 +1,6 @@
 # D A S
 
-D A S is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Chicago on Sun, 27 Sept 2026.
+D A S is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Chicago on Sun, 27 Sept 2026.
 
 D A S is a house and techno artist tracked on soundcheck, with 5 sets logged across Chicago. Often billed alongside Mantas Steles, Anthony Cruz and Glen S. Next up: TBA, Chicago on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ D A S is a house and techno artist tracked on soundcheck, with 5 sets logged acr
 
 Mantas Steles, Anthony Cruz, Glen S
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/das-us/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/das-us/)*

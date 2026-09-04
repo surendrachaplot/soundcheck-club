@@ -1,6 +1,6 @@
 # Blkvirgo
 
-Blkvirgo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Buddies in Bad Times, Toronto on Sat, 5 Sept 2026.
+Blkvirgo is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Buddies in Bad Times, Toronto on Sat, 5 Sept 2026.
 
 Blkvirgo is a house and deep house artist tracked on soundcheck, with 20 sets logged across Toronto. Often billed alongside Amedeo (CA), Chinelo and DJ Chris (CA). Next up: Buddies in Bad Times, Toronto on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Blkvirgo is a house and deep house artist tracked on soundcheck, with 20 sets lo
 
 Amedeo (CA), Chinelo, DJ Chris (CA)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blkvirgo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blkvirgo/)*

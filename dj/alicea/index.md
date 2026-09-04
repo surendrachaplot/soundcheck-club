@@ -1,6 +1,6 @@
 # Alicea
 
-Alicea is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 24 Sept 2026.
+Alicea is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bahnwärter Thiel, Munich on Thu, 24 Sept 2026.
 
 Alicea is a techno and trance artist tracked on soundcheck, with 112 sets logged across Berlin, Hamburg, Leipzig and Marseille and 5 more. Often billed alongside Louis EMP, DJ Yugo and VSSL. Next up: Bahnwärter Thiel, Munich on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Alicea is a techno and trance artist tracked on soundcheck, with 112 sets logged
 
 Louis EMP, DJ Yugo, VSSL
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alicea/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alicea/)*

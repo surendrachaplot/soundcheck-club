@@ -1,6 +1,6 @@
 # Jean Bressan
 
-Jean Bressan is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sunseabar Beach Club, Barcelona on Wed, 23 Sept 2026.
+Jean Bressan is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sunseabar Beach Club, Barcelona on Wed, 23 Sept 2026.
 
 Jean Bressan is a house and minimal artist tracked on soundcheck, with 15 sets logged across Barcelona and Miami. Often billed alongside Breezywav, Farres and Javier Carballo. Next up: Sunseabar Beach Club, Barcelona on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Jean Bressan is a house and minimal artist tracked on soundcheck, with 15 sets l
 
 Breezywav, Farres, Javier Carballo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanbressan/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanbressan/)*

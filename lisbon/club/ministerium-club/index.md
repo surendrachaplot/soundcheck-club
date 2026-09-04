@@ -1,14 +1,13 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Riktus with LIEKS, BLNK, Angel Karel" on Thu, 3 Sept 2026.
+Ministerium Club is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Art Bei Ton: from Berlin to Lisbon ~ 17" on Fri, 4 Sept 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, with line-ups including aalice, Angel Karel, ANÍBAL and apukas and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, with line-ups including aalice, ANÍBAL, apukas and Client and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | Riktus with LIEKS, BLNK, Angel Karel | Angel Karel, BLNK, LIEKS |
 | Fri, 4 Sept 2026 | Art Bei Ton: from Berlin to Lisbon ~ 17 | Hypnotic Black Magic, Luis FMR, Maria Callapez, apukas, ena b. |
 | Sat, 5 Sept 2026 | Cirque x Fuse Records: Mella Dee | DJ Nox, MURI, Mella Dee, Minimart |
 | Thu, 10 Sept 2026 | Riktus with João Lagrima De Ouro, Dibison, GADDAM, Anibal | ANÍBAL, Dibison, GADDAM, João Lágrima De Ouro, João Melgueira |
@@ -23,4 +22,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 10 upcoming ni
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

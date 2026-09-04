@@ -1,6 +1,6 @@
 # DJ Dawson
 
-DJ Dawson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at broad hall., Philadelphia on Sat, 12 Sept 2026.
+DJ Dawson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at broad hall., Philadelphia on Sat, 12 Sept 2026.
 
 DJ Dawson is a house and techno artist tracked on soundcheck, with 44 sets logged across Mexicocity, Newyorkcity and Philadelphia. Often billed alongside DROPO, Mitch Ferrino and Boomer Banks. Next up: broad hall., Philadelphia on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ Dawson is a house and techno artist tracked on soundcheck, with 44 sets logge
 
 DROPO, Mitch Ferrino, Boomer Banks
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdawson/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djdawson/)*

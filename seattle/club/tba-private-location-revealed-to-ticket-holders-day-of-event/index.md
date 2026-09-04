@@ -1,6 +1,6 @@
 # TBA - Private Location (revealed to ticket holders day of event)
 
-TBA - Private Location (revealed to ticket holders day of event) is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "A Divine Time Together: Halo Varga [Extended Set]" on Fri, 18 Sept 2026.
+TBA - Private Location (revealed to ticket holders day of event) is a music venue in Seattle with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "A Divine Time Together: Halo Varga [Extended Set]" on Fri, 18 Sept 2026.
 
 TBA - Private Location (revealed to ticket holders day of event) is a music venue in Seattle listed on soundcheck. 1 upcoming night, with line-ups including Halo Varga. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Private Location (revealed to ticket holders day of event) is a music venu
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | A Divine Time Together: Halo Varga [Extended Set] | Halo Varga |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/tba-private-location-revealed-to-ticket-holders-day-of-event/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/tba-private-location-revealed-to-ticket-holders-day-of-event/)*

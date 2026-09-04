@@ -1,6 +1,6 @@
 # Jonaku (DE)
 
-Jonaku (DE) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Kater, Berlin on Fri, 4 Sept 2026.
+Jonaku (DE) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kater, Berlin on Fri, 4 Sept 2026.
 
 Jonaku (DE) is a house and minimal artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Budapest, Dundee and Edinburgh and 1 more. Often billed alongside Annina, Scoopsi and Cyko. Next up: Kater, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Jonaku (DE) is a house and minimal artist based in Germany, tracked on soundchec
 
 Annina, Scoopsi, Cyko
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonaku-3/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonaku-3/)*

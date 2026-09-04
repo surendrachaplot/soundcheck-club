@@ -1,6 +1,6 @@
 # Souci
 
-Souci is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 4 Sept 2026.
+Souci is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 4 Sept 2026.
 
 Souci is a techno and house artist tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Cologne and Detroit and 4 more. Often billed alongside DJ Fucks Himself, $ombi and Camilla Rae. Next up: Jonny Knüppel, Berlin on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Souci is a techno and house artist tracked on soundcheck, with 55 sets logged ac
 
 DJ Fucks Himself, $ombi, Camilla Rae
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/souci/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/souci/)*

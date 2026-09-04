@@ -1,6 +1,6 @@
 # Innellea
 
-Innellea is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Sat, 5 Sept 2026.
+Innellea is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Sat, 5 Sept 2026.
 
 Innellea is a techno and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Colyn, Mind Against and 8KAYS. Next up: Olympic Athletic Center of Athens, Athens on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Innellea is a techno and house artist tracked on soundcheck, with 141 sets logge
 
 Colyn, Mind Against, 8KAYS
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

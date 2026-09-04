@@ -1,6 +1,6 @@
 # Genetica
 
-Genetica is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at BASIS, Utrecht on Fri, 2 Oct 2026.
+Genetica is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at BASIS, Utrecht on Fri, 2 Oct 2026.
 
 Genetica is an industrial and techno artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Leipzig and Madrid and 2 more. Often billed alongside DJ Europarking, Ellen Allien and Maxime IKO. Next up: BASIS, Utrecht on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Genetica is an industrial and techno artist tracked on soundcheck, with 14 sets 
 
 DJ Europarking, Ellen Allien, Maxime IKO
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genetica/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genetica/)*

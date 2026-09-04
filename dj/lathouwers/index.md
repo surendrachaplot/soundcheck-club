@@ -1,6 +1,6 @@
 # Lathouwers
 
-Lathouwers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Shelter Antwerp, Antwerp on Sat, 5 Sept 2026.
+Lathouwers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Shelter Antwerp, Antwerp on Sat, 5 Sept 2026.
 
 Lathouwers is a house and disco artist based in Belgium, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside WLC (BE), FBR (be) and Boatman. Next up: Shelter Antwerp, Antwerp on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Lathouwers is a house and disco artist based in Belgium, tracked on soundcheck, 
 
 WLC (BE), FBR (be), Boatman
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lathouwers/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lathouwers/)*

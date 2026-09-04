@@ -1,6 +1,6 @@
 # Babaganouschka
 
-Babaganouschka is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Le Red Room, Montreal on Fri, 18 Sept 2026.
+Babaganouschka is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Le Red Room, Montreal on Fri, 18 Sept 2026.
 
 Babaganouschka is a techno and club artist based in Canada, tracked on soundcheck, with 15 sets logged across Montreal and Toronto. Often billed alongside _ZARB, Hurakkan and ALEX REV. Next up: Le Red Room, Montreal on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Babaganouschka is a techno and club artist based in Canada, tracked on soundchec
 
 _ZARB, Hurakkan, ALEX REV
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babaganouschka/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babaganouschka/)*

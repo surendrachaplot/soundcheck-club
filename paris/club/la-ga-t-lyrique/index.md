@@ -1,6 +1,6 @@
 # La Gaîté Lyrique
 
-La Gaîté Lyrique is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "La scène sonore par Sounds Like Paulin" on Sat, 5 Sept 2026.
+La Gaîté Lyrique is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "La scène sonore par Sounds Like Paulin" on Sat, 5 Sept 2026.
 
 La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including Kiala Ogawa, Varg²™ and Wolfgang Voigt. Browse upcoming dates, start times and who's playing. 3 bis rue Papin; 75003; Paris; France.
 
@@ -20,4 +20,4 @@ La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 7 upcoming ni
 
 3 bis rue Papin; 75003; Paris; France, Paris
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*

@@ -1,6 +1,6 @@
 # Lutsu
 
-Lutsu is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at radial, London on Sun, 27 Sept 2026.
+Lutsu is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at radial, London on Sun, 27 Sept 2026.
 
 Lutsu is a bass and electronica artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside J V N, JESSI and Knegativ. Next up: radial, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Lutsu is a bass and electronica artist based in United Kingdom, tracked on sound
 
 J V N, JESSI, Knegativ
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lutsu/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lutsu/)*

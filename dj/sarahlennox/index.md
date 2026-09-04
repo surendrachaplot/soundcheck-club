@@ -1,6 +1,6 @@
 # Sarah Lennox
 
-Sarah Lennox is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Racket Space, Dublin on Fri, 9 Oct 2026.
+Sarah Lennox is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Racket Space, Dublin on Fri, 9 Oct 2026.
 
 Sarah Lennox is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Dublin. Often billed alongside DJ PIERR, Cailín and Coyu. Next up: The Racket Space, Dublin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sarah Lennox is a techno and electro artist based in United Kingdom, tracked on 
 
 DJ PIERR, Cailín, Coyu
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahlennox/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahlennox/)*

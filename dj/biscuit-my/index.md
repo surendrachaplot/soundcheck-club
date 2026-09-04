@@ -1,13 +1,14 @@
 # Biscuit (MY)
 
-Biscuit (MY) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Pisco Bar, Kuala Lumpur on Sat, 19 Sept 2026.
+Biscuit (MY) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Neo Bar KL, Level 37 Ilham Tower, Jalan Binjai 8, 50450, Kuala Lumpur on Fri, 4 Sept 2026.
 
-Biscuit (MY) is a house and techno artist tracked on soundcheck, with 122 sets logged across Bali and Kualalumpur. Often billed alongside Meliha, Obadius and Raysoo. Next up: Pisco Bar, Kualalumpur on Sat 19 Sept.
+Biscuit (MY) is a house and techno artist tracked on soundcheck, with 123 sets logged across Bali and Kualalumpur. Often billed alongside Meliha, Obadius and Raysoo. Next up: TBA - Neo Bar KL, Level 37 Ilham Tower, Jalan Binjai 8, 50450, Kualalumpur on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Sept 2026 | TBA - Neo Bar KL, Level 37 Ilham Tower, Jalan Binjai 8, 50450 | Kuala Lumpur |
 | Sat, 19 Sept 2026 | Pisco Bar | Kuala Lumpur |
 
 ## Recently played
@@ -25,4 +26,4 @@ Biscuit (MY) is a house and techno artist tracked on soundcheck, with 122 sets l
 
 Meliha, Obadius, Raysoo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biscuit-my/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biscuit-my/)*

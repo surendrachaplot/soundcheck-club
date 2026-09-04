@@ -1,6 +1,6 @@
 # ACIDROB
 
-ACIDROB is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at HWK Garden / Terrace, London on Sun, 20 Sept 2026.
+ACIDROB is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at HWK Garden / Terrace, London on Sun, 20 Sept 2026.
 
 ACIDROB is a techno and industrial artist tracked on soundcheck, with 17 sets logged across London, Madrid and Naples. Often billed alongside Rispoli Benito, Emmef and Aran Burn. Next up: HWK Garden / Terrace, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ ACIDROB is a techno and industrial artist tracked on soundcheck, with 17 sets lo
 
 Rispoli Benito, Emmef, Aran Burn
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidrob/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidrob/)*

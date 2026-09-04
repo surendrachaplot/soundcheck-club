@@ -1,6 +1,6 @@
 # max whatever
 
-max whatever is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
+max whatever is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Fri, 4 Sept 2026.
 
 max whatever is a techno and progressive house artist based in Ukraine, tracked on soundcheck, with 25 sets logged across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and fiedorka. Next up: Jasna 1, Warsaw on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ max whatever is a techno and progressive house artist based in Ukraine, tracked 
 
 Abrew, dj.zamocno, fiedorka
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwhatever/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwhatever/)*

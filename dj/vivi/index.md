@@ -1,6 +1,6 @@
 # vivi
 
-vivi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 5 Sept 2026.
+vivi is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bahnwärter Thiel, Munich on Sat, 5 Sept 2026.
 
 vivi is a house and disco artist based in Australia, tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Hamburg and London and 3 more. Often billed alongside Justice, MikAH and Ashlea Milinkovic. Next up: Bahnwärter Thiel, Munich on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ vivi is a house and disco artist based in Australia, tracked on soundcheck, with
 
 Justice, MikAH, Ashlea Milinkovic
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vivi/)*

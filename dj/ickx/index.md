@@ -1,6 +1,6 @@
 # ICKX
 
-ICKX is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 12 Sept 2026.
+ICKX is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 12 Sept 2026.
 
 ICKX is a techno and breakbeat artist tracked on soundcheck, with 8 sets logged across Barcelona and Berlin. Often billed alongside DJ Lit, PONY and Vamp Acid. Next up: 303 Audiophile Bar, Barcelona on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ ICKX is a techno and breakbeat artist tracked on soundcheck, with 8 sets logged 
 
 DJ Lit, PONY, Vamp Acid
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ickx/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ickx/)*

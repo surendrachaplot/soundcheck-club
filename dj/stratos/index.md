@@ -1,6 +1,6 @@
 # Stratos
 
-Stratos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Stratos is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Stratos is a techno and house artist tracked on soundcheck, with 9 sets logged across Athens and Berlin. Often billed alongside Mikele, PHONOGRAPH and AAMIROO. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -12,6 +12,7 @@ Stratos is a techno and house artist tracked on soundcheck, with 9 sets logged a
 
 ## Recently played
 
+- B side Athens, Athens — Thu, 3 Sept 2026
 - Festsaal Kreuzberg, Berlin — Sat, 11 Oct 2025
 - Skull Bar, Athens — Sun, 18 May 2025
 - Skull Bar, Athens — Sun, 27 Apr 2025
@@ -19,10 +20,9 @@ Stratos is a techno and house artist tracked on soundcheck, with 9 sets logged a
 - Crust Basement, Athens — Fri, 10 Jan 2025
 - Renate, Berlin — Fri, 5 Jul 2024
 - Orangerie Neukölln, Berlin — Fri, 5 Jan 2024
-- Renate, Berlin — Fri, 4 Aug 2023
 
 ## Shares bills with
 
 Mikele, PHONOGRAPH, AAMIROO
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stratos/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stratos/)*

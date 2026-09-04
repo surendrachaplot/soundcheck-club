@@ -1,6 +1,6 @@
 # Sam Eyvaz
 
-Sam Eyvaz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Silbergold, Frankfurt on Sat, 5 Sept 2026.
+Sam Eyvaz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Silbergold, Frankfurt on Sat, 5 Sept 2026.
 
 Sam Eyvaz is a techno and house artist tracked on soundcheck, with 25 sets logged across Berlin, Frankfurt and Lisbon. Often billed alongside Dhia, Grillac and HAO (CN). Next up: Silbergold, Frankfurt on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Sam Eyvaz is a techno and house artist tracked on soundcheck, with 25 sets logge
 
 Dhia, Grillac, HAO (CN)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sameyvaz/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sameyvaz/)*

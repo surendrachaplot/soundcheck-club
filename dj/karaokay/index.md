@@ -1,6 +1,6 @@
 # Kara Okay
 
-Kara Okay is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
+Kara Okay is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
 
 Kara Okay is a house and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Bali and Cologne and 13 more. Often billed alongside DART, Bella Claxton and Freddi. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Kara Okay is a house and techno artist tracked on soundcheck, with 67 sets logge
 
 DART, Bella Claxton, Freddi
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*

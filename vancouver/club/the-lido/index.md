@@ -1,6 +1,6 @@
 # The Lido
 
-The Lido is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "widdows95 all nite long" on Thu, 3 Sept 2026.
+The Lido is a music venue in Vancouver with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "widdows95 all nite long" on Thu, 3 Sept 2026.
 
 The Lido is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, with line-ups including widdows95. Browse upcoming dates, start times and who's playing. 518 East Broadway, Vancouver.
 
@@ -15,4 +15,4 @@ The Lido is a music venue in Vancouver listed on soundcheck. 2 upcoming nights, 
 
 518 East Broadway, Vancouver, Vancouver
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-lido/)*

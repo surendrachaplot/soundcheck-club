@@ -1,6 +1,6 @@
 # Sol Edge
 
-Sol Edge is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
+Sol Edge is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
 
 Sol Edge is a house and tech house artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Jerome Six, Acid Kids and Brian Smith. Next up: Eutopia Whs, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Sol Edge is a house and tech house artist tracked on soundcheck, with 15 sets lo
 
 Jerome Six, Acid Kids, Brian Smith
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soledge/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soledge/)*

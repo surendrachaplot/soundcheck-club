@@ -1,6 +1,6 @@
 # ealing
 
-ealing is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - EORA, Sydney on Sat, 12 Sept 2026.
+ealing is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - EORA, Sydney on Sat, 12 Sept 2026.
 
 ealing is an experimental and techno artist tracked on soundcheck, with 21 sets logged across Seoul and Sydney. Often billed alongside E3P, Rydeen (AU) and ABOPF. Next up: TBA - EORA, Sydney on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ealing is an experimental and techno artist tracked on soundcheck, with 21 sets 
 
 E3P, Rydeen (AU), ABOPF
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ealing/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ealing/)*

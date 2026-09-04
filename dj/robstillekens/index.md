@@ -1,6 +1,6 @@
 # Rob Stillekens
 
-Rob Stillekens is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Toffler, Rotterdam on Fri, 4 Sept 2026.
+Rob Stillekens is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Toffler, Rotterdam on Fri, 4 Sept 2026.
 
 Rob Stillekens is a tech house and house artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Ibiza, Manchester and Milan and 2 more. Often billed alongside Benny Rodrigues, Fleur Shore and Easttown. Next up: Toffler, Rotterdam on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Rob Stillekens is a tech house and house artist based in Netherlands, tracked on
 
 Benny Rodrigues, Fleur Shore, Easttown
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robstillekens/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robstillekens/)*

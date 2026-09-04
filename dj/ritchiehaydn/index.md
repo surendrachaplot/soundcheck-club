@@ -1,6 +1,6 @@
 # Ritchie Haydn
 
-Ritchie Haydn is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Egg London, London on Sat, 12 Sept 2026.
+Ritchie Haydn is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Egg London, London on Sat, 12 Sept 2026.
 
 Ritchie Haydn is a deep house and progressive house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London, Losangeles, Paris and Tokyo. Often billed alongside KONNR, Carina Lawrence and GABS (SK). Next up: Egg London, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Ritchie Haydn is a deep house and progressive house artist based in United Kingd
 
 KONNR, Carina Lawrence, GABS (SK)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchiehaydn/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ritchiehaydn/)*

@@ -1,6 +1,6 @@
 # babysquid
 
-babysquid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 18 Sept 2026.
+babysquid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 18 Sept 2026.
 
 babysquid is a techno and house artist based in Romania, tracked on soundcheck, with 34 sets logged across Copenhagen. Often billed alongside DJ BENDER, DJ Greatfruit Grapefruit and ASTA MARI. Next up: Den Anden Side, Copenhagen on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ babysquid is a techno and house artist based in Romania, tracked on soundcheck, 
 
 DJ BENDER, DJ Greatfruit Grapefruit, ASTA MARI
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babysquid/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babysquid/)*

@@ -1,6 +1,6 @@
 # Pornbugs
 
-Pornbugs is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Klunkerkranich, Berlin on Fri, 11 Sept 2026.
+Pornbugs is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Klunkerkranich, Berlin on Fri, 11 Sept 2026.
 
 Pornbugs is a house and deep house artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 8 more. Often billed alongside Rangø, ANĪC and JHNS. Next up: Klunkerkranich, Berlin on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Pornbugs is a house and deep house artist based in Germany, tracked on soundchec
 
 Rangø, ANĪC, JHNS
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pornbugs/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pornbugs/)*

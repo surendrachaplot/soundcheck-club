@@ -1,6 +1,6 @@
 # LIZAZA
 
-LIZAZA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Distillery N17, London on Fri, 25 Sept 2026.
+LIZAZA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Distillery N17, London on Fri, 25 Sept 2026.
 
 LIZAZA is a techno and tech house artist based in Russia, tracked on soundcheck, with 37 sets logged across London. Often billed alongside Leviminks, Arrosa and DELARA. Next up: Distillery N17, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ LIZAZA is a techno and tech house artist based in Russia, tracked on soundcheck,
 
 Leviminks, Arrosa, DELARA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaza/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaza/)*

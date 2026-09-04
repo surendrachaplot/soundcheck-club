@@ -1,6 +1,6 @@
 # Greg Nox
 
-Greg Nox is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
+Greg Nox is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 5 Sept 2026.
 
 Greg Nox is a techno and house artist based in Italy, tracked on soundcheck, with 15 sets logged across Berlin and London. Often billed alongside Kimsi, Monterosso and Desuba. Next up: Vittoria Wharf Studio, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Greg Nox is a techno and house artist based in Italy, tracked on soundcheck, wit
 
 Kimsi, Monterosso, Desuba
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gregnox/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gregnox/)*

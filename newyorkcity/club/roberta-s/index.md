@@ -1,6 +1,6 @@
 # Roberta's
 
-Roberta's is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "RAW CUTS: Luuk van Dijk b2b DJ BORING" on Sun, 6 Sept 2026.
+Roberta's is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "RAW CUTS: Luuk van Dijk b2b DJ BORING" on Sun, 6 Sept 2026.
 
 Roberta's is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including Bea Trinidad, DJ BORING, James Juke and Luuk van Dijk. Browse upcoming dates, start times and who's playing. 261 Moore St, Brooklyn, NY 11206.
 
@@ -14,4 +14,4 @@ Roberta's is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night
 
 261 Moore St, Brooklyn, NY 11206, New York City
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roberta-s/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/roberta-s/)*

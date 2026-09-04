@@ -1,6 +1,6 @@
 # dawn dani
 
-dawn dani is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lux Fragil, Lisbon on Thu, 17 Sept 2026.
+dawn dani is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lux Fragil, Lisbon on Thu, 17 Sept 2026.
 
 dawn dani is a techno and electronica artist based in Portugal, tracked on soundcheck, with 9 sets logged across Lisbon and Porto. Often billed alongside BLEID, Colinas and Delikwe. Next up: Lux Fragil, Lisbon on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ dawn dani is a techno and electronica artist based in Portugal, tracked on sound
 
 BLEID, Colinas, Delikwe
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawndani/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dawndani/)*

@@ -1,6 +1,6 @@
 # Johnny Panga
 
-Johnny Panga is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Archivio Records, 55 Meadow Street #106, New York City on Fri, 4 Sept 2026.
+Johnny Panga is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Archivio Records, 55 Meadow Street #106, New York City on Fri, 4 Sept 2026.
 
 Johnny Panga is a house and deep house artist tracked on soundcheck, with 10 sets logged across Newyorkcity. Often billed alongside Alenaudio, Sweater On Polo and manny steelo. Next up: TBA - Archivio Records, 55 Meadow Street #106, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Johnny Panga is a house and deep house artist tracked on soundcheck, with 10 set
 
 Alenaudio, Sweater On Polo, manny steelo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnypanga/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnypanga/)*

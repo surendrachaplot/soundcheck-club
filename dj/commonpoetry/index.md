@@ -1,6 +1,6 @@
 # Common Poetry
 
-Common Poetry is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lime Milano, Milan on Sat, 3 Oct 2026.
+Common Poetry is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lime Milano, Milan on Sat, 3 Oct 2026.
 
 Common Poetry is a techno and industrial artist tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Chicago and Lisbon and 10 more. Often billed alongside Vinka Wydro, Angel Karel and Reitze. Next up: Lime Milano, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Common Poetry is a techno and industrial artist tracked on soundcheck, with 33 s
 
 Vinka Wydro, Angel Karel, Reitze
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/commonpoetry/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/commonpoetry/)*

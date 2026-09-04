@@ -1,6 +1,6 @@
 # ELIF
 
-ELIF is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
+ELIF is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fridas Pier, Stuttgart on Sat, 5 Sept 2026.
 
 ELIF is a house and techno artist tracked on soundcheck, with 140 sets logged across Amsterdam, Bali, Barcelona and Basel and 32 more. Often billed alongside Mira, Britta Arnold and Chris Schwarzwälder. Next up: Fridas Pier, Stuttgart on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ ELIF is a house and techno artist tracked on soundcheck, with 140 sets logged ac
 
 Mira, Britta Arnold, Chris Schwarzwälder
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*

@@ -1,6 +1,6 @@
 # Cellar
 
-Cellar is a music venue in London with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "*club night with Onur Özer/Junki Inoue/Tommy Pickles & LSG" on Sun, 13 Sept 2026.
+Cellar is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "*club night with Onur Özer/Junki Inoue/Tommy Pickles & LSG" on Sun, 13 Sept 2026.
 
 Cellar is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Junki Inoue, LSG, Onur Özer and Tommy Pickles. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cellar is a music venue in London listed on soundcheck. 1 upcoming night, with l
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | *club night with Onur Özer/Junki Inoue/Tommy Pickles & LSG | Junki Inoue, LSG, Onur Özer, Tommy Pickles |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cellar/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/cellar/)*

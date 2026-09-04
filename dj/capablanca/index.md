@@ -1,6 +1,6 @@
 # Capablanca
 
-Capablanca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sameheads, Berlin on Fri, 25 Sept 2026.
+Capablanca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sameheads, Berlin on Fri, 25 Sept 2026.
 
 Capablanca is a house and techno artist based in Germany, tracked on soundcheck, with 39 sets logged across Bangkok, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside FFAN, CHIDA and CVLT. Next up: Sameheads, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Capablanca is a house and techno artist based in Germany, tracked on soundcheck,
 
 FFAN, CHIDA, CVLT
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/capablanca/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/capablanca/)*

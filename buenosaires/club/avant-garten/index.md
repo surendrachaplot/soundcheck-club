@@ -1,6 +1,6 @@
 # Avant Garten
 
-Avant Garten is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Innen x AVG pres. Guile, Steven Mazó" on Fri, 18 Sept 2026.
+Avant Garten is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Innen x AVG pres. Guile, Steven Mazó" on Fri, 18 Sept 2026.
 
 Avant Garten is a music venue in Buenosaires listed on soundcheck. 3 upcoming nights, with line-ups including GRETA (2), Guile, LUKAS (4) and Manu Oubiña and 1 more. Browse upcoming dates, start times and who's playing. Av. Libertador 3883, Arco 10, Buenos Aires, Argentina.
 
@@ -16,4 +16,4 @@ Avant Garten is a music venue in Buenosaires listed on soundcheck. 3 upcoming ni
 
 Av. Libertador 3883, Arco 10, Buenos Aires, Argentina, Buenos Aires
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/avant-garten/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/avant-garten/)*

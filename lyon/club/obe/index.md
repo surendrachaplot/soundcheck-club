@@ -1,6 +1,6 @@
 # Obe
 
-Obe is a music venue in Lyon with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Obe - Opening" on Fri, 4 Sept 2026.
+Obe is a music venue in Lyon with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Obe - Opening" on Fri, 4 Sept 2026.
 
 Obe is a music venue in Lyon listed on soundcheck. 2 upcoming nights, with line-ups including Automatic Writing, Danny Parton, Electric Rescue and Mi Ke and 1 more. Browse upcoming dates, start times and who's playing. Bâtiment des Douanes, 45 Quai Rambaud, 69002 Lyon, France.
 
@@ -15,4 +15,4 @@ Obe is a music venue in Lyon listed on soundcheck. 2 upcoming nights, with line-
 
 Bâtiment des Douanes, 45 Quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/obe/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/obe/)*

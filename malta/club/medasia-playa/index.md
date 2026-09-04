@@ -1,6 +1,6 @@
 # Medasia Playa
 
-Medasia Playa is a music venue in Malta with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "BASHMENT POOL PARTY - Freedom Street Pre-Pool Day Party in MALTA" on Fri, 11 Sept 2026.
+Medasia Playa is a music venue in Malta with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BASHMENT POOL PARTY - Freedom Street Pre-Pool Day Party in MALTA" on Fri, 11 Sept 2026.
 
 Medasia Playa is a music venue in Malta listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Ix - Xatt Ta' Qui - Si - Sana, Tas-Sliema, Malta.
 
@@ -15,4 +15,4 @@ Medasia Playa is a music venue in Malta listed on soundcheck. 2 upcoming nights.
 
 Ix - Xatt Ta' Qui - Si - Sana, Tas-Sliema, Malta, Malta
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/medasia-playa/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/medasia-playa/)*

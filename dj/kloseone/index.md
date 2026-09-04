@@ -1,6 +1,6 @@
 # Klose One
 
-Klose One is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at radial, London on Sun, 6 Sept 2026.
+Klose One is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at radial, London on Sun, 6 Sept 2026.
 
 Klose One is a techno and bass artist tracked on soundcheck, with 35 sets logged across London and Nottingham. Often billed alongside Paleman, Benton (UK) and DJ Say Less. Next up: radial, London on Sun 6 Sept.
 
@@ -28,4 +28,4 @@ Klose One is a techno and bass artist tracked on soundcheck, with 35 sets logged
 
 Paleman, Benton (UK), DJ Say Less
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloseone/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kloseone/)*

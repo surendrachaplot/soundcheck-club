@@ -1,6 +1,6 @@
 # Amber
 
-Amber is a Hardcore and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sawmills, Bristol on Sat, 5 Sept 2026.
+Amber is a Hardcore and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sawmills, Bristol on Sat, 5 Sept 2026.
 
 Amber is a hardcore and hip-hop artist tracked on soundcheck, with 5 sets logged across Bristol and Sanfrancisco. Often billed alongside Goldie, 1-800 GIRLS and 4am Kru. Next up: Sawmills, Bristol on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Amber is a hardcore and hip-hop artist tracked on soundcheck, with 5 sets logged
 
 Goldie, 1-800 GIRLS, 4am Kru
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amber/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amber/)*

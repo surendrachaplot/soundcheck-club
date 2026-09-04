@@ -1,6 +1,6 @@
 # MIHEMI
 
-MIHEMI is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor / Globus, Berlin on Wed, 30 Sept 2026.
+MIHEMI is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Wed, 30 Sept 2026.
 
 MIHEMI is a house and tech house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Munich and Stuttgart. Often billed alongside Neverglass, FLUONITE and Gaaston. Next up: Tresor / Globus, Berlin on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ MIHEMI is a house and tech house artist based in Germany, tracked on soundcheck,
 
 Neverglass, FLUONITE, Gaaston
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihemi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mihemi/)*

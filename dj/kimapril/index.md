@@ -1,6 +1,6 @@
 # Kim April
 
-Kim April is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 11 Sept 2026.
+Kim April is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 11 Sept 2026.
 
 Kim April is a house and tech house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Ibiza and London and 5 more. Often billed alongside ELVI (SE), Job de Jong and M-High. Next up: SISSI'S Amsterdam, Amsterdam on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Kim April is a house and tech house artist tracked on soundcheck, with 85 sets l
 
 ELVI (SE), Job de Jong, M-High
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimapril/)*

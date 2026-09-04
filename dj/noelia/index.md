@@ -1,6 +1,6 @@
 # no:elia
 
-no:elia is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Open Ground, Wuppertal on Fri, 2 Oct 2026.
+no:elia is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Open Ground, Wuppertal on Fri, 2 Oct 2026.
 
 no:elia is an electronic artist tracked on soundcheck, with 21 sets logged across Berlin, Cologne and Wuppertal. Often billed alongside Aino DJ, Philo_ and Gîn Bali. Next up: Open Ground, Wuppertal on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ no:elia is an electronic artist tracked on soundcheck, with 21 sets logged acros
 
 Aino DJ, Philo_, Gîn Bali
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noelia/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noelia/)*

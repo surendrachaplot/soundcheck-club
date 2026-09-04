@@ -1,6 +1,6 @@
 # Ankhoï
 
-Ankhoï is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at fabric, London on Fri, 25 Sept 2026.
+Ankhoï is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at fabric, London on Fri, 25 Sept 2026.
 
 Ankhoï is an afro house and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Houston and Ibiza and 12 more. Often billed alongside Adam Ten, JAMIIE and Laolu. Next up: fabric, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Ankhoï is an afro house and house artist tracked on soundcheck, with 35 sets lo
 
 Adam Ten, JAMIIE, Laolu
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ankhoi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ankhoi/)*

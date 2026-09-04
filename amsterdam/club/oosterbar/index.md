@@ -1,6 +1,6 @@
 # Oosterbar
 
-Oosterbar is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Rave in the Lecture Hall - Melodic & Techno Takeover" on Sat, 24 Oct 2026.
+Oosterbar is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Rave in the Lecture Hall - Melodic & Techno Takeover" on Sat, 24 Oct 2026.
 
 Oosterbar is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Jasmin Blust, Joris Turenhout, Joyhauser and Juliet Fox and 2 more. Browse upcoming dates, start times and who's playing. Mauritskade 57, 1092 AD Amsterdam, Netherlands.
 
@@ -14,4 +14,4 @@ Oosterbar is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, 
 
 Mauritskade 57, 1092 AD Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/oosterbar/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/oosterbar/)*

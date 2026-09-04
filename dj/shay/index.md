@@ -1,6 +1,6 @@
 # SHAY
 
-SHAY is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 26 Sept 2026.
+SHAY is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 26 Sept 2026.
 
 SHAY is a techno and dubstep artist based in Switzerland, tracked on soundcheck, with 18 sets logged across Amsterdam, Dortmund-essen, London and Paris and 1 more. Often billed alongside Rolmar, Braindead and Paul Robinson. Next up: Tresor.West, Dortmund-essen on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ SHAY is a techno and dubstep artist based in Switzerland, tracked on soundcheck,
 
 Rolmar, Braindead, Paul Robinson
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shay/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shay/)*

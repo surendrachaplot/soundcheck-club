@@ -1,6 +1,6 @@
 # Aton
 
-Aton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Modeci, Seoul on Sat, 5 Sept 2026.
+Aton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Modeci, Seoul on Sat, 5 Sept 2026.
 
 Aton is a techno and house artist based in Italy, tracked on soundcheck, with 32 sets logged across Barcelona, Berlin, London and Malaga and 4 more. Often billed alongside Basse Frequenze Soundsystem, Francesco Salvadori and Mattia Lumee. Next up: Modeci, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Aton is a techno and house artist based in Italy, tracked on soundcheck, with 32
 
 Basse Frequenze Soundsystem, Francesco Salvadori, Mattia Lumee
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aton/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aton/)*

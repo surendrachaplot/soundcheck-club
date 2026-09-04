@@ -1,6 +1,6 @@
 # TBA - Herzbergstr 51-54 Berlin Lichtenberg 
 
-TBA - Herzbergstr 51-54 Berlin Lichtenberg  is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Slust Love Spezial" on Fri, 4 Sept 2026.
+TBA - Herzbergstr 51-54 Berlin Lichtenberg  is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Slust Love Spezial" on Fri, 4 Sept 2026.
 
 TBA - Herzbergstr 51-54 Berlin Lichtenberg  is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Lale Hepborn, MELLA MARA, Rachel Raw and Simon Yellow. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Herzbergstr 51-54 Berlin Lichtenberg  is a music venue in Berlin listed on
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Slust Love Spezial | Lale Hepborn, MELLA MARA, Rachel Raw, Simon Yellow |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-herzbergstr-51-54-berlin-lichtenberg/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-herzbergstr-51-54-berlin-lichtenberg/)*

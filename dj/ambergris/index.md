@@ -1,6 +1,6 @@
 # Amber Gris
 
-Amber Gris is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Podlasie Club, Chicago on Fri, 4 Sept 2026.
+Amber Gris is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Podlasie Club, Chicago on Fri, 4 Sept 2026.
 
 Amber Gris is a techno and ebm artist tracked on soundcheck, with 18 sets logged across Chicago and Newyorkcity. Often billed alongside Beau Wanzer, Flores Negras and Justin Aulis Long. Next up: Podlasie Club, Chicago on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Amber Gris is a techno and ebm artist tracked on soundcheck, with 18 sets logged
 
 Beau Wanzer, Flores Negras, Justin Aulis Long
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambergris/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambergris/)*

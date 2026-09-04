@@ -1,6 +1,6 @@
 # Phonobar
 
-Phonobar is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "'Head Sounds' by MonkeyMan" on Fri, 4 Sept 2026.
+Phonobar is a music venue in San Francisco/Oakland with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "'Head Sounds' by MonkeyMan" on Fri, 4 Sept 2026.
 
 Phonobar is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming nights, with line-ups including DJ MonkeyMan, Femmelectric, Jaage and Monoclick and 1 more. Browse upcoming dates, start times and who's playing. 370 Grove Street.
 
@@ -16,4 +16,4 @@ Phonobar is a music venue in Sanfrancisco listed on soundcheck. 3 upcoming night
 
 370 Grove Street, San Francisco/Oakland
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/phonobar/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/phonobar/)*

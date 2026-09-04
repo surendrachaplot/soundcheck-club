@@ -1,6 +1,6 @@
 # Ecilo
 
-Ecilo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Pisco Bar, Kuala Lumpur on Sat, 19 Sept 2026.
+Ecilo is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Pisco Bar, Kuala Lumpur on Sat, 19 Sept 2026.
 
 Ecilo is a techno and house artist based in Indonesia, tracked on soundcheck, with 22 sets logged across Amsterdam, Bali, Bangkok and Berlin and 7 more. Often billed alongside BBANDIT, Mairakilla and Pink Concrete. Next up: Pisco Bar, Kualalumpur on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Ecilo is a techno and house artist based in Indonesia, tracked on soundcheck, wi
 
 BBANDIT, Mairakilla, Pink Concrete
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ecilo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ecilo/)*

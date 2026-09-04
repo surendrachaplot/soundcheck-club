@@ -1,6 +1,6 @@
 # Saverio Celestri
 
-Saverio Celestri is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Milan on Sat, 3 Oct 2026.
+Saverio Celestri is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Milan on Sat, 3 Oct 2026.
 
 Saverio Celestri is an electro and techno artist based in Italy, tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Bucharest and Buenosaires and 5 more. Often billed alongside Enrico Vivaldi, Psycho Mind Transmission and Avo (ES). Next up: TBA, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Saverio Celestri is an electro and techno artist based in Italy, tracked on soun
 
 Enrico Vivaldi, Psycho Mind Transmission, Avo (ES)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saveriocelestri/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saveriocelestri/)*

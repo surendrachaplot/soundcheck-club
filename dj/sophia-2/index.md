@@ -1,6 +1,6 @@
 # SOPHIA (2)
 
-SOPHIA (2) is a House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at DeTour, Tokyo on Sat, 5 Sept 2026.
+SOPHIA (2) is a House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DeTour, Tokyo on Sat, 5 Sept 2026.
 
 SOPHIA (2) is a house and afro tech artist tracked on soundcheck, with 6 sets logged across London, Sydney and Tokyo. Often billed alongside AOI BLOOM, Almared and Bethan. Next up: DeTour, Tokyo on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ SOPHIA (2) is a house and afro tech artist tracked on soundcheck, with 6 sets lo
 
 AOI BLOOM, Almared, Bethan
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophia-2/)*

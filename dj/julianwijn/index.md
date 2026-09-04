@@ -1,6 +1,6 @@
 # Julian Wijn
 
-Julian Wijn is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Club Up, Amsterdam on Sat, 19 Sept 2026.
+Julian Wijn is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Club Up, Amsterdam on Sat, 19 Sept 2026.
 
 Julian Wijn is a house and deep house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Paris and Utrecht. Often billed alongside Ive Lovers, Lasse Top and Laura Meester. Next up: Club Up, Amsterdam on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Julian Wijn is a house and deep house artist tracked on soundcheck, with 30 sets
 
 Ive Lovers, Lasse Top, Laura Meester
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianwijn/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianwijn/)*

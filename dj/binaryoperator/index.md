@@ -1,6 +1,6 @@
 # Binary Operator
 
-Binary Operator is a Minimal Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 25 Sept 2026.
+Binary Operator is a Minimal Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Fri, 25 Sept 2026.
 
 Binary Operator is a minimal techno and disco artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside nicky brown snout, Nicky B and Tibulca. Next up: Nico's Bar at Hackney Bridge, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Binary Operator is a minimal techno and disco artist tracked on soundcheck, with
 
 nicky brown snout, Nicky B, Tibulca
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binaryoperator/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binaryoperator/)*

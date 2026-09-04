@@ -1,6 +1,6 @@
 # DJ Spen
 
-DJ Spen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+DJ Spen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
 DJ Spen is a house and deep house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Chicago, Detroit and Edinburgh and 24 more. Often billed alongside Micfreak, Neil Pierce and sillygirlcarmen. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ DJ Spen is a house and deep house artist tracked on soundcheck, with 82 sets log
 
 Micfreak, Neil Pierce, sillygirlcarmen
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*

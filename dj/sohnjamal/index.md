@@ -1,6 +1,6 @@
 # Sohn Jamal
 
-Sohn Jamal is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret Boston Location, Boston on Sat, 26 Sept 2026.
+Sohn Jamal is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Boston Location, Boston on Sat, 26 Sept 2026.
 
 Sohn Jamal is a techno and idm artist tracked on soundcheck, with 5 sets logged across Boston and Miami. Often billed alongside Diego Melgar, Roiju and &ME. Next up: TBA - Secret Boston Location, Boston on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Sohn Jamal is a techno and idm artist tracked on soundcheck, with 5 sets logged 
 
 Diego Melgar, Roiju, &ME
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sohnjamal/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sohnjamal/)*

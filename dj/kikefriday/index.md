@@ -1,6 +1,6 @@
 # KIKE Friday
 
-KIKE Friday is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
+KIKE Friday is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
 
 KIKE Friday is a house and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Alex Friday, Philena and Al Aslan. Next up: Lokschuppen Berlin, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ KIKE Friday is a house and techno artist based in Germany, tracked on soundcheck
 
 Alex Friday, Philena, Al Aslan
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikefriday/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikefriday/)*

@@ -1,14 +1,15 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Meteor Studio, Tbilisi on Fri, 4 Sept 2026.
+Max Sprauer is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Meteor Studio, Tbilisi on Fri, 4 Sept 2026.
 
-Max Sprauer is a house and techno artist tracked on soundcheck, with 104 sets logged across Berlin, Boston, Brussels and Chicago and 10 more. Often billed alongside Shvili, Rama NYC and Desyn. Next up: Meteor Studio, Tbilisi on Fri 4 Sept.
+Max Sprauer is a house and techno artist tracked on soundcheck, with 105 sets logged across Berlin, Boston, Brussels and Chicago and 10 more. Often billed alongside Shvili, Rama NYC and CAMILLA. Next up: Meteor Studio, Tbilisi on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Meteor Studio | Tbilisi |
+| Sat, 5 Sept 2026 | H0L0 | New York City |
 | Sat, 12 Sept 2026 | The Dolphin | Philadelphia |
 | Sat, 19 Sept 2026 | Secret Location | London |
 
@@ -25,6 +26,6 @@ Max Sprauer is a house and techno artist tracked on soundcheck, with 104 sets lo
 
 ## Shares bills with
 
-Shvili, Rama NYC, Desyn
+Shvili, Rama NYC, CAMILLA
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

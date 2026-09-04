@@ -1,6 +1,6 @@
 # W Hotel - Westwood
 
-W Hotel - Westwood is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "FLOAT Rooftop Pool Party feat. Apache [2-8 PM]" on Sat, 19 Sept 2026.
+W Hotel - Westwood is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "FLOAT Rooftop Pool Party feat. Apache [2-8 PM]" on Sat, 19 Sept 2026.
 
 W Hotel - Westwood is a music venue in Losangeles listed on soundcheck. 1 upcoming night, with line-ups including Apache. Browse upcoming dates, start times and who's playing. 930 Hilgard Ave, Los Angeles, CA 90024.
 
@@ -14,4 +14,4 @@ W Hotel - Westwood is a music venue in Losangeles listed on soundcheck. 1 upcomi
 
 930 Hilgard Ave, Los Angeles, CA 90024, Los Angeles
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/w-hotel-westwood/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/w-hotel-westwood/)*

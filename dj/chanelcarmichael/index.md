@@ -1,6 +1,6 @@
 # Chanel Carmichael
 
-Chanel Carmichael is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
+Chanel Carmichael is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
 
 Chanel Carmichael is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Ibiza, Liverpool, London and Malta and 1 more. Often billed alongside Saffron Stone, AJ Christou and Adam Locke. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Chanel Carmichael is a house and minimal artist based in United Kingdom, tracked
 
 Saffron Stone, AJ Christou, Adam Locke
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chanelcarmichael/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chanelcarmichael/)*

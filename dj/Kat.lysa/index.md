@@ -1,6 +1,6 @@
 # Kat.lysa
 
-Kat.lysa is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at migas, a listening bar, Berlin on Thu, 10 Sept 2026.
+Kat.lysa is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at migas, a listening bar, Berlin on Thu, 10 Sept 2026.
 
 Kat.lysa is a techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and London. Often billed alongside 4BLISS#, BUTZ and Banjax iO. Next up: migas, a listening bar, Berlin on Thu 10 Sept.
 
@@ -24,4 +24,4 @@ Kat.lysa is a techno artist based in Germany, tracked on soundcheck, with 8 sets
 
 4BLISS#, BUTZ, Banjax iO
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Kat.lysa/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Kat.lysa/)*

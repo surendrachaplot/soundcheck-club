@@ -1,6 +1,6 @@
 # ALEX FÖX
 
-ALEX FÖX is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at X Private Club, Madrid on Fri, 18 Sept 2026.
+ALEX FÖX is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at X Private Club, Madrid on Fri, 18 Sept 2026.
 
 ALEX FÖX is a progressive house and house artist based in Cuba, tracked on soundcheck, with 23 sets logged across Madrid. Often billed alongside Vico Deep, Brisa Then and IVANG. Next up: X Private Club, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ALEX FÖX is a progressive house and house artist based in Cuba, tracked on soun
 
 Vico Deep, Brisa Then, IVANG
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfox/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfox/)*

@@ -1,6 +1,6 @@
 # ADAN
 
-ADAN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Adam Riese, Frankfurt on Fri, 9 Oct 2026.
+ADAN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Adam Riese, Frankfurt on Fri, 9 Oct 2026.
 
 ADAN is a techno and industrial artist based in Germany, tracked on soundcheck, with 6 sets logged across Frankfurt. Often billed alongside Philipp Wolf, ÉTIENNE and Airod. Next up: Adam Riese, Frankfurt on Fri 9 Oct.
 
@@ -22,4 +22,4 @@ ADAN is a techno and industrial artist based in Germany, tracked on soundcheck, 
 
 Philipp Wolf, ÉTIENNE, Airod
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adan/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adan/)*

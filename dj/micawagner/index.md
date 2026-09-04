@@ -1,6 +1,6 @@
 # Mica Wagner
 
-Mica Wagner is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Say No More Madrid, Philadelphia on Sat, 5 Sept 2026.
+Mica Wagner is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Say No More Madrid, Philadelphia on Sat, 5 Sept 2026.
 
 Mica Wagner is a house and electronica artist based in Spain, tracked on soundcheck, with 34 sets logged across Ibiza, Madrid and Philadelphia. Often billed alongside Mamba Nera, SOL3M and Valle. Next up: Say No More Madrid, Philadelphia on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mica Wagner is a house and electronica artist based in Spain, tracked on soundch
 
 Mamba Nera, SOL3M, Valle
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micawagner/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micawagner/)*

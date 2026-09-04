@@ -1,6 +1,6 @@
 # Love, Jess
 
-Love, Jess is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Chinese Laundry, Sydney on Fri, 4 Sept 2026.
+Love, Jess is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Chinese Laundry, Sydney on Fri, 4 Sept 2026.
 
 Love, Jess are a techno and house duo based in Australia, tracked on soundcheck, with 39 sets logged across Hobart, Melbourne and Sydney. Often billed alongside Black Dave, House Mum and Josh Heywood. Next up: Chinese Laundry, Sydney on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Love, Jess are a techno and house duo based in Australia, tracked on soundcheck,
 
 Black Dave, House Mum, Josh Heywood
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/love,jess/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/love,jess/)*

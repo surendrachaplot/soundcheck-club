@@ -1,8 +1,8 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 14 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Cristian Varela (All Night Long)" on Sat, 5 Sept 2026.
+LAB theCLUB is a music venue in Madrid with 15 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Cristian Varela (All Night Long)" on Sat, 5 Sept 2026.
 
-LAB theCLUB is a music venue in Madrid listed on soundcheck. 14 upcoming nights, with line-ups including Adam Beyer, Claptone, Cristian Varela and Crusy and 2 more. Browse upcoming dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
+LAB theCLUB is a music venue in Madrid listed on soundcheck. 15 upcoming nights, with line-ups including Adam Beyer, Claptone, Cristian Varela and Crusy and 2 more. Browse upcoming dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
 ## What's on
 
@@ -23,4 +23,4 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 14 upcoming nights,
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

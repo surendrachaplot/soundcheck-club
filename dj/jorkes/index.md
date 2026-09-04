@@ -1,6 +1,6 @@
 # Jorkes
 
-Jorkes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Astron Club, Athens on Sat, 5 Sept 2026.
+Jorkes is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Astron Club, Athens on Sat, 5 Sept 2026.
 
 Jorkes is a house and techno artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Berlin and Bucharest and 9 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: Astron Club, Athens on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Jorkes is a house and techno artist tracked on soundcheck, with 137 sets logged 
 
 TiZiAN (DE), Massimiliano Pagliara, Rumi de Baires
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*

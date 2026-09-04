@@ -1,6 +1,6 @@
 # Lorenzo Raganzini
 
-Lorenzo Raganzini is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 19 Sept 2026.
+Lorenzo Raganzini is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 19 Sept 2026.
 
 Lorenzo Raganzini is a techno and hardcore artist tracked on soundcheck, with 86 sets logged across Barcelona, Basel, Belgrade and Berlin and 35 more. Often billed alongside Paolo Ferrara, Alignment and DIØN. Next up: Den Anden Side, Copenhagen on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Lorenzo Raganzini is a techno and hardcore artist tracked on soundcheck, with 86
 
 Paolo Ferrara, Alignment, DIØN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzo-es/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzo-es/)*

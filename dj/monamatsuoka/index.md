@@ -1,6 +1,6 @@
 # Mona Matsuoka
 
-Mona Matsuoka is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Dead Letter No. 9, New York City on Sun, 6 Sept 2026.
+Mona Matsuoka is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Dead Letter No. 9, New York City on Sun, 6 Sept 2026.
 
 Mona Matsuoka is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Mexicocity and Newyorkcity. Often billed alongside Matt FX, Tim Lucent and The Fitness. Next up: Dead Letter No. 9, Newyorkcity on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ Mona Matsuoka is a house and techno artist based in United States of America, tr
 
 Matt FX, Tim Lucent, The Fitness
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monamatsuoka/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monamatsuoka/)*

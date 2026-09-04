@@ -1,6 +1,6 @@
 # 7CIRCLE
 
-7CIRCLE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 11 Sept 2026.
+7CIRCLE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 11 Sept 2026.
 
 7CIRCLE is a techno and industrial artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Don Woezik, Inverse Element and BLACK ANTHEM RESTORE. Next up: STK 47 WAREHOUSE, Krakow on Fri 11 Sept.
 
@@ -25,4 +25,4 @@
 
 Don Woezik, Inverse Element, BLACK ANTHEM RESTORE
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/7circle/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/7circle/)*

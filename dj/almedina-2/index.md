@@ -1,6 +1,6 @@
 # Almedina (2)
 
-Almedina (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Legal, Munich on Fri, 11 Sept 2026.
+Almedina (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Legal, Munich on Fri, 11 Sept 2026.
 
 Almedina (2) is a house and tech house artist tracked on soundcheck, with 31 sets logged across Barcelona, Munich, Stuttgart and Vienna. Often billed alongside Olli Rubber, DJ Floppy Disk and A-DEE. Next up: Legal, Munich on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Almedina (2) is a house and tech house artist tracked on soundcheck, with 31 set
 
 Olli Rubber, DJ Floppy Disk, A-DEE
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/almedina-2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/almedina-2/)*

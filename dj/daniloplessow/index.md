@@ -1,6 +1,6 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at NAR, Utrecht on Fri, 4 Sept 2026.
+Danilo Plessow is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at NAR, Utrecht on Fri, 4 Sept 2026.
 
 Danilo Plessow is a house and disco artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Bali and 48 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: NAR, Utrecht on Fri 4 Sept.
 
@@ -32,4 +32,4 @@ Danilo Plessow is a house and disco artist tracked on soundcheck, with 164 sets 
 
 Motor City Drum Ensemble, Hugo LX, Antal
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*

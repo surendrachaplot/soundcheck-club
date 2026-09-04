@@ -1,6 +1,6 @@
 # Warmrubberette
 
-Warmrubberette is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Cabaret Berlin, Montreal on Sat, 5 Sept 2026.
+Warmrubberette is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cabaret Berlin, Montreal on Sat, 5 Sept 2026.
 
 Warmrubberette is a techno and electronica artist based in Canada, tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside Vicky Devika, DJ Davidé and Davidé. Next up: Cabaret Berlin, Montreal on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Warmrubberette is a techno and electronica artist based in Canada, tracked on so
 
 Vicky Devika, DJ Davidé, Davidé
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warmrubberette/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/warmrubberette/)*

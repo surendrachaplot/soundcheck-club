@@ -1,6 +1,6 @@
 # Huerta
 
-Huerta is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at BRET, Amsterdam on Sat, 5 Sept 2026.
+Huerta is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at BRET, Amsterdam on Sat, 5 Sept 2026.
 
 Huerta is a house and techno artist tracked on soundcheck, with 120 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: BRET, Amsterdam on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Huerta is a house and techno artist tracked on soundcheck, with 120 sets logged 
 
 Youandewan, DJ Pipe, Liquid Earth
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*

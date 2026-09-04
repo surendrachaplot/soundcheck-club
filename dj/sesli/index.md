@@ -1,6 +1,6 @@
 # Sesli
 
-Sesli is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Barbary, Philadelphia on Sat, 12 Sept 2026.
+Sesli is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Barbary, Philadelphia on Sat, 12 Sept 2026.
 
 Sesli is a techno and progressive house artist tracked on soundcheck, with 6 sets logged across Newyorkcity and Philadelphia. Often billed alongside Angelinkast, Omri B and Ben Arsenal. Next up: The Barbary, Philadelphia on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Sesli is a techno and progressive house artist tracked on soundcheck, with 6 set
 
 Angelinkast, Omri B, Ben Arsenal
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sesli/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sesli/)*

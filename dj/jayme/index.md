@@ -1,6 +1,6 @@
 # JayMe
 
-JayMe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Secret Warehouse 2 Rooms, Hong Kong on Sat, 12 Sept 2026.
+JayMe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Warehouse 2 Rooms, Hong Kong on Sat, 12 Sept 2026.
 
 JayMe is a house and techno artist based in China, tracked on soundcheck, with 41 sets logged across Hongkong. Often billed alongside Andy-S, The Heman and Jeremy Cheung. Next up: TBA - Secret Warehouse 2 Rooms, Hongkong on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ JayMe is a house and techno artist based in China, tracked on soundcheck, with 4
 
 Andy-S, The Heman, Jeremy Cheung
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayme/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayme/)*

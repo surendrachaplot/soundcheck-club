@@ -1,6 +1,6 @@
 # ((Szene)) Wien
 
-((Szene)) Wien is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Bakkers Trakkers with Isaac Gluten, Kristina Saputo & the Blue Ease" on Wed, 23 Sept 2026.
+((Szene)) Wien is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Bakkers Trakkers with Isaac Gluten, Kristina Saputo & the Blue Ease" on Wed, 23 Sept 2026.
 
 ((Szene)) Wien is a music venue in Vienna listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Bakkers Trakkers with Isaac Gluten, Kristina Saputo & the Blue Ease |  |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/szene-wien/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/szene-wien/)*

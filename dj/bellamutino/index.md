@@ -1,6 +1,6 @@
 # Bella Mutino
 
-Bella Mutino is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at The Bentway, Toronto on Sat, 19 Sept 2026.
+Bella Mutino is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Bentway, Toronto on Sat, 19 Sept 2026.
 
 Bella Mutino is a house and techno artist based in United States of America, tracked on soundcheck, with 71 sets logged across Newyorkcity, Toronto and Washingtondc. Often billed alongside Dayna C, Dani Moon and Amy Jor. Next up: The Bentway, Toronto on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Bella Mutino is a house and techno artist based in United States of America, tra
 
 Dayna C, Dani Moon, Amy Jor
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamutino/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamutino/)*

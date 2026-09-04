@@ -1,6 +1,6 @@
 # Felix Fleer
 
-Felix Fleer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 11 Sept 2026.
+Felix Fleer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 11 Sept 2026.
 
 Felix Fleer is a techno and house artist based in Germany, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Jonas Landwehr, Ahmet Sisman and .VRIL. Next up: RSO.BERLIN, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Felix Fleer is a techno and house artist based in Germany, tracked on soundcheck
 
 Jonas Landwehr, Ahmet Sisman, .VRIL
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixfleer/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixfleer/)*

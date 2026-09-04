@@ -1,6 +1,6 @@
 # como se DJ
 
-como se DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+como se DJ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 como se DJ is a techno and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Montreal, Newyorkcity, Portland and Toronto and 1 more. Often billed alongside DJ DEADNAME, Matas and Eugenia. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ como se DJ is a techno and house artist based in United States of America, track
 
 DJ DEADNAME, Matas, Eugenia
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comosedj/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comosedj/)*

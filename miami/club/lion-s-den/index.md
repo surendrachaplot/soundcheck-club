@@ -1,6 +1,6 @@
 # Lion's Den
 
-Lion's Den is a music venue in Miami with 3 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Massuma, Rabieta" on Fri, 4 Sept 2026.
+Lion's Den is a music venue in Miami with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Massuma, Rabieta" on Fri, 4 Sept 2026.
 
 Lion's Den is a music venue in Miami listed on soundcheck. 3 upcoming nights, with line-ups including Aramís Lorié, Dude Skywalker, Israel Sunshine and Manumat and 1 more. Browse upcoming dates, start times and who's playing. 150 NW 73rd st.
 
@@ -16,4 +16,4 @@ Lion's Den is a music venue in Miami listed on soundcheck. 3 upcoming nights, wi
 
 150 NW 73rd st, Miami
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/lion-s-den/)*

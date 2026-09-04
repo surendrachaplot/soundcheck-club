@@ -1,6 +1,6 @@
 # diggm’clua
 
-diggm’clua is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at La Paloma, Barcelona on Sat, 26 Sept 2026.
+diggm’clua is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at La Paloma, Barcelona on Sat, 26 Sept 2026.
 
 diggm’clua is a house and disco artist tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Angelo Cortines, DJ Bruce Lee and DJ Cobo. Next up: La Paloma, Barcelona on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ diggm’clua is a house and disco artist tracked on soundcheck, with 5 sets logg
 
 Angelo Cortines, DJ Bruce Lee, DJ Cobo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diggmclua/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diggmclua/)*

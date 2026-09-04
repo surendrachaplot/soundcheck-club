@@ -1,6 +1,6 @@
 # Soul Avengerz
 
-Soul Avengerz is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at fabric, London on Sat, 24 Oct 2026.
+Soul Avengerz is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at fabric, London on Sat, 24 Oct 2026.
 
 Soul Avengerz is a disco and funk / soul artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Ibiza and London. Often billed alongside George Goodson, Brandon Block and Darrell Privett. Next up: fabric, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Soul Avengerz is a disco and funk / soul artist based in United Kingdom, tracked
 
 George Goodson, Brandon Block, Darrell Privett
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulavengerz/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulavengerz/)*

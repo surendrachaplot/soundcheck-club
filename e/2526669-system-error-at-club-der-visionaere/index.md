@@ -1,6 +1,6 @@
 # System Error at Club der Visionaere
 
-System Error at Club der Visionaere on Fri 18 Sept, Berlin. 6 acts on the bill: DJ ZBB, Elnur, Frozilla and Maria Wildeis and 2 more. House and Ambient. Preview the line-up and save it on soundcheck.
+System Error at Club der Visionaere on Fri 18 Sept, Berlin. 7 acts on the bill: DJ ZBB, Elnur, Frozilla and Maria Wildeis and 3 more. House and Ambient. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ System Error at Club der Visionaere on Fri 18 Sept, Berlin. 6 acts on the bill: 
 - Frozilla
 - Maria Wildeis
 - TC80
+- Travis or Alice
 - Yard Customer
 
 *Source: [soundcheck](https://soundcheck.club/e/2526669-system-error-at-club-der-visionaere/)*

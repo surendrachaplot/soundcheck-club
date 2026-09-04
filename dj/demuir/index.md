@@ -1,6 +1,6 @@
 # Demuir
 
-Demuir is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Belvedere du Centre Des Sciences de Montréal, Montreal on Sat, 5 Sept 2026.
+Demuir is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Belvedere du Centre Des Sciences de Montréal, Montreal on Sat, 5 Sept 2026.
 
 Demuir is a house and deep house artist tracked on soundcheck, with 46 sets logged across Auckland, Austin, Chicago and Denver and 10 more. Often billed alongside Boys Don't Disco, Ian Llorens and Paul Najera. Next up: Belvedere du Centre Des Sciences de Montréal, Montreal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Demuir is a house and deep house artist tracked on soundcheck, with 46 sets logg
 
 Boys Don't Disco, Ian Llorens, Paul Najera
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demuir/)*

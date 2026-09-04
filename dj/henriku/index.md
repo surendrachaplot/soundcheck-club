@@ -1,6 +1,6 @@
 # Henriku
 
-Henriku is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hoppetosse, Berlin on Sat, 26 Sept 2026.
+Henriku is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hoppetosse, Berlin on Sat, 26 Sept 2026.
 
 Henriku is a house and techno artist based in Norway, tracked on soundcheck, with 39 sets logged across Berlin, Brussels, Bucharest and Lisbon and 3 more. Often billed alongside Alexander Skancke, Trent Voyage and Elena Moroder. Next up: Hoppetosse, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Henriku is a house and techno artist based in Norway, tracked on soundcheck, wit
 
 Alexander Skancke, Trent Voyage, Elena Moroder
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henriku/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henriku/)*

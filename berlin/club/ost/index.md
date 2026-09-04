@@ -1,14 +1,13 @@
 # OST
 
-OST is a music venue in Berlin with 29 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Savory - Techno Every Thursday" on Thu, 3 Sept 2026.
+OST is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "MAYHEM x OST w. ALT8, Krl Mx" on Fri, 4 Sept 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 29 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including NYRA (DE), YOVA, Alas (2) and ALT8 and 2 more. Browse upcoming dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | Savory - Techno Every Thursday | Megaira, OnlyWithYou, TMS (Dj) |
 | Fri, 4 Sept 2026 | MAYHEM x OST w. ALT8, Krl Mx | ALT8, Antonym, GM1 (IT), Krl Mx, L.zwo, Maudux, NYRA (DE), SATYS FYRE, YOVA |
 | Sat, 5 Sept 2026 | OST Klubnacht | DJ SUN (CH/DE), Dollushka, JUICY (DE), MKHXR, XIMA |
 | Thu, 10 Sept 2026 | Savory - Techno Every Thursday | Carotin, KEROSENE (ZA) |
@@ -18,9 +17,10 @@ OST is a music venue in Berlin listed on soundcheck. 29 upcoming nights, with li
 | Sat, 19 Sept 2026 | Devoted pres Inferno w. JAZZY, Kø:lab, Limoncello, INFERNO Showcase & more | Athina, DJ HOTMAIL, IGDA, JAZZY (2), Kø:lab, Limoncello, SEKTOR69, Treibende Kraft, ZOEVITA |
 | Thu, 24 Sept 2026 | Savory - Techno Every Thursday | MAURER, WAN.1, sima (DE) |
 | Fri, 25 Sept 2026 | [CANCELLED] 808 Studios x OST pres. OGUZ | OGUZ |
+| Sat, 26 Sept 2026 | Mixmag Germany Session | Arman John, Ben Techy, Cybersex, Eva Charley, PERT |
 
 ## Address
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

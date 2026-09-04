@@ -1,6 +1,6 @@
 # Mischkonsum
 
-Mischkonsum is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Garagen, Cologne on Sat, 19 Sept 2026.
+Mischkonsum is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Garagen, Cologne on Sat, 19 Sept 2026.
 
 Mischkonsum is a trance and techno artist tracked on soundcheck, with 5 sets logged across Cologne, Leipzig, Nurnberg and Vienna. Often billed alongside Joey (2), YØNDER and keha. Next up: Garagen, Cologne on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ Mischkonsum is a trance and techno artist tracked on soundcheck, with 5 sets log
 
 Joey (2), YØNDER, keha
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mischkonsum/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mischkonsum/)*

@@ -1,6 +1,6 @@
 # BLUDHOUND
 
-BLUDHOUND is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Husitská 22, Prague on Fri, 11 Sept 2026.
+BLUDHOUND is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Husitská 22, Prague on Fri, 11 Sept 2026.
 
 BLUDHOUND is a techno and industrial artist based in Austria, tracked on soundcheck, with 35 sets logged across Prague and Vienna. Often billed alongside pinklotion, Dj Wifi (3) and Silentsevir. Next up: Husitská 22, Prague on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ BLUDHOUND is a techno and industrial artist based in Austria, tracked on soundch
 
 pinklotion, Dj Wifi (3), Silentsevir
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bludhound/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bludhound/)*

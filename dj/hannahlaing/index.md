@@ -1,6 +1,6 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at OCZKI, Warsaw on Fri, 4 Sept 2026.
+Hannah Laing is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at OCZKI, Warsaw on Fri, 4 Sept 2026.
 
 Hannah Laing is a techno and house artist tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: OCZKI, Warsaw on Fri 4 Sept.
 
@@ -33,4 +33,4 @@ Hannah Laing is a techno and house artist tracked on soundcheck, with 170 sets l
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

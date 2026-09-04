@@ -1,6 +1,6 @@
 # nobena
 
-nobena is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Matrez - Warehouse, Belgrade on Sat, 12 Sept 2026.
+nobena is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Matrez - Warehouse, Belgrade on Sat, 12 Sept 2026.
 
 nobena is a techno artist based in Slovenia, tracked on soundcheck, with 3 sets logged across Belgrade. Often billed alongside ACOR, Moraitov and Stameni. Next up: Matrez - Warehouse, Belgrade on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ nobena is a techno artist based in Slovenia, tracked on soundcheck, with 3 sets 
 
 ACOR, Moraitov, Stameni
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nobena/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nobena/)*

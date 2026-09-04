@@ -1,6 +1,6 @@
 # Telicho
 
-Telicho is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Das Werk, Vienna on Sat, 5 Sept 2026.
+Telicho is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Das Werk, Vienna on Sat, 5 Sept 2026.
 
 Telicho is a techno and trance artist tracked on soundcheck, with 20 sets logged across Berlin and Vienna. Often billed alongside Huebl, Albin Brezlan and Dana Melissa. Next up: Das Werk, Vienna on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Telicho is a techno and trance artist tracked on soundcheck, with 20 sets logged
 
 Huebl, Albin Brezlan, Dana Melissa
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/telicho/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/telicho/)*

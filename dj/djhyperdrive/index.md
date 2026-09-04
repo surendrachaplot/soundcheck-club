@@ -1,6 +1,6 @@
 # DJ Hyperdrive
 
-DJ Hyperdrive is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
+DJ Hyperdrive is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Westhafen, Leipzig on Sat, 5 Sept 2026.
 
 DJ Hyperdrive is a techno and trance artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside future.666, ÜBERKIKZ and slin. Next up: Westhafen, Leipzig on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ DJ Hyperdrive is a techno and trance artist tracked on soundcheck, with 201 sets
 
 future.666, ÜBERKIKZ, slin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*

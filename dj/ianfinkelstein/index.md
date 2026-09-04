@@ -1,6 +1,6 @@
 # Ian Finkelstein
 
-Ian Finkelstein is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paramita Sound, Detroit on Fri, 4 Sept 2026.
+Ian Finkelstein is a Jazz and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paramita Sound, Detroit on Fri, 4 Sept 2026.
 
 Ian Finkelstein is a jazz and house artist tracked on soundcheck, with 27 sets logged across Detroit and Newyorkcity. Often billed alongside Andrés, Shigeto and Kenjiro. Next up: Paramita Sound, Detroit on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Ian Finkelstein is a jazz and house artist tracked on soundcheck, with 27 sets l
 
 Andrés, Shigeto, Kenjiro
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianfinkelstein/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianfinkelstein/)*

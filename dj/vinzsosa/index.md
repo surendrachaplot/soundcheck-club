@@ -1,6 +1,6 @@
 # Vinz Sosa
 
-Vinz Sosa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at nachbar, Amsterdam on Fri, 18 Sept 2026.
+Vinz Sosa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at nachbar, Amsterdam on Fri, 18 Sept 2026.
 
 Vinz Sosa is a house and techno artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Cologne and Istanbul and 4 more. Often billed alongside dj sweet6teen, Terrakin and Hashashin. Next up: nachbar, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Vinz Sosa is a house and techno artist tracked on soundcheck, with 35 sets logge
 
 dj sweet6teen, Terrakin, Hashashin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzsosa/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzsosa/)*

@@ -1,8 +1,8 @@
 # Iman Janes
 
-Iman Janes is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+Iman Janes is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
 
-Iman Janes is a techno and tech house artist based in France, tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Frankfurt and Ibiza and 4 more. Often billed alongside KALTBLUME, Sinesthesia and ÜBERKIKZ. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
+Iman Janes is a techno and tech house artist based in France, tracked on soundcheck, with 24 sets logged across Berlin, Brussels, Frankfurt and Hamburg and 5 more. Often billed alongside AEREA, KALTBLUME and Sinesthesia. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Iman Janes is a techno and tech house artist based in France, tracked on soundch
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 10 Oct 2026 | KALT | Strasbourg |
+| Fri, 23 Oct 2026 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Iman Janes is a techno and tech house artist based in France, tracked on soundch
 
 ## Shares bills with
 
-KALTBLUME, Sinesthesia, ÜBERKIKZ
+AEREA, KALTBLUME, Sinesthesia
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*

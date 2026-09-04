@@ -1,6 +1,6 @@
 # Lido Fantastico
 
-Lido Fantastico is a music venue in Naples with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "WALKINGWAX" on Fri, 4 Sept 2026.
+Lido Fantastico is a music venue in Naples with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "WALKINGWAX" on Fri, 4 Sept 2026.
 
 Lido Fantastico is a music venue in Naples listed on soundcheck. 1 upcoming night, with line-ups including JALE. Browse upcoming dates, start times and who's playing. Via dei Navigatori 12, Pontecagnano 84098 (SA).
 
@@ -14,4 +14,4 @@ Lido Fantastico is a music venue in Naples listed on soundcheck. 1 upcoming nigh
 
 Via dei Navigatori 12, Pontecagnano 84098 (SA), Naples
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/lido-fantastico/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/lido-fantastico/)*

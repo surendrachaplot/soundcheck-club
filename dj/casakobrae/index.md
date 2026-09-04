@@ -1,6 +1,6 @@
 # Casa Kobrae
 
-Casa Kobrae is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bar Datcha, Montreal on Thu, 17 Sept 2026.
+Casa Kobrae is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar Datcha, Montreal on Thu, 17 Sept 2026.
 
 Casa Kobrae is a techno and ghetto tech artist tracked on soundcheck, with 55 sets logged across Montreal and Toronto. Often billed alongside JASHIM, Katamina and nastygloss. Next up: Bar Datcha, Montreal on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Casa Kobrae is a techno and ghetto tech artist tracked on soundcheck, with 55 se
 
 JASHIM, Katamina, nastygloss
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casakobrae/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casakobrae/)*

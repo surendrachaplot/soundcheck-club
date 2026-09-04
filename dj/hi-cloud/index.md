@@ -1,6 +1,6 @@
 # Hi-Cloud
 
-Hi-Cloud is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
+Hi-Cloud is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
 
 Hi-Cloud is a techno and hardcore artist tracked on soundcheck, with 15 sets logged across Milan and Turin. Often billed alongside Whatsthepro, DOCTOR ZOT and Franz Bush. Next up: TBA, Turin on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Hi-Cloud is a techno and hardcore artist tracked on soundcheck, with 15 sets log
 
 Whatsthepro, DOCTOR ZOT, Franz Bush
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-cloud/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-cloud/)*

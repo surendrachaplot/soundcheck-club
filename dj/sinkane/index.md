@@ -1,6 +1,6 @@
 # Sinkane
 
-Sinkane is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
+Sinkane is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
 
 Sinkane is a house and disco artist tracked on soundcheck, with 6 sets logged across Berlin and Newyorkcity. Often billed alongside Aanandi, Bendik Giske and Dustin Zahn. Next up: Funkhaus Berlin, Berlin on Sat 10 Oct.
 
@@ -22,4 +22,4 @@ Sinkane is a house and disco artist tracked on soundcheck, with 6 sets logged ac
 
 Aanandi, Bendik Giske, Dustin Zahn
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinkane/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinkane/)*

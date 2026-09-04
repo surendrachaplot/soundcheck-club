@@ -1,6 +1,6 @@
 # CatLadyHi
 
-CatLadyHi is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Fulton Fish Market - Hunts Point, New York City on Sat, 5 Sept 2026.
+CatLadyHi is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fulton Fish Market - Hunts Point, New York City on Sat, 5 Sept 2026.
 
 CatLadyHi is a house and tech house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity. Often billed alongside Miss Hazard, Beltran and Eric Modz. Next up: Fulton Fish Market - Hunts Point, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ CatLadyHi is a house and tech house artist based in United States of America, tr
 
 Miss Hazard, Beltran, Eric Modz
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*

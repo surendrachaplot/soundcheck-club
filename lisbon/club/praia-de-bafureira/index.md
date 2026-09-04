@@ -1,6 +1,6 @@
 # Praia de Bafureira
 
-Praia de Bafureira is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "ELEVIN + TREBLE - Open-Air + Club - Praia de Bafureira" on Sat, 3 Oct 2026.
+Praia de Bafureira is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "ELEVIN + TREBLE - Open-Air + Club - Praia de Bafureira" on Sat, 3 Oct 2026.
 
 Praia de Bafureira is a music venue in Lisbon listed on soundcheck. 1 upcoming night, with line-ups including ELEVIN. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Praia de Bafureira is a music venue in Lisbon listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | ELEVIN + TREBLE - Open-Air + Club - Praia de Bafureira | ELEVIN |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/praia-de-bafureira/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/praia-de-bafureira/)*

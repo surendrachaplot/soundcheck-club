@@ -1,6 +1,6 @@
 # Mairi 'b' Pots
 
-Mairi 'b' Pots is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Hidden Heights Creative Studio, Newcastle on Sat, 12 Sept 2026.
+Mairi 'b' Pots is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hidden Heights Creative Studio, Newcastle on Sat, 12 Sept 2026.
 
 Mairi 'b' Pots is a disco and house artist tracked on soundcheck, with 69 sets logged across Edinburgh and Newcastle. Often billed alongside Trendy Wendy, Jordy Joans and Hobbes. Next up: Hidden Heights Creative Studio, Newcastle on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Mairi 'b' Pots is a disco and house artist tracked on soundcheck, with 69 sets l
 
 Trendy Wendy, Jordy Joans, Hobbes
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mairibpots/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mairibpots/)*

@@ -1,6 +1,6 @@
 # ELA
 
-ELA is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
+ELA is a Electronica and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
 
 ELA is an electronica and downtempo artist based in Italy, tracked on soundcheck, with 12 sets logged across Berlin, Hamburg, Ibiza and Mexicocity and 2 more. Often billed alongside Eliangel, AARON and AGILITÄT. Next up: Panke, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ ELA is an electronica and downtempo artist based in Italy, tracked on soundcheck
 
 Eliangel, AARON, AGILITÄT
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ela/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ela/)*

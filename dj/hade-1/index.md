@@ -1,6 +1,6 @@
 # HADE (1)
 
-HADE (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Giselle, Düsseldorf on Sat, 5 Sept 2026.
+HADE (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Giselle, Düsseldorf on Sat, 5 Sept 2026.
 
 HADE (1) is a house and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Cologne, Dusseldorf, Leipzig and Munich. Often billed alongside Nikity, Aino DJ and AMSL. Next up: Giselle, Dusseldorf on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ HADE (1) is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Nikity, Aino DJ, AMSL
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hade-1/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hade-1/)*

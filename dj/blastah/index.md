@@ -1,6 +1,6 @@
 # blastah
 
-blastah is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jasna 1, Warsaw on Sat, 3 Oct 2026.
+blastah is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Sat, 3 Oct 2026.
 
 blastah is an experimental and club artist based in Portugal, tracked on soundcheck, with 29 sets logged across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Eleftheria, Chickenmilk dot com and Madjestic Kasual. Next up: Jasna 1, Warsaw on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ blastah is an experimental and club artist based in Portugal, tracked on soundch
 
 Eleftheria, Chickenmilk dot com, Madjestic Kasual
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blastah/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blastah/)*

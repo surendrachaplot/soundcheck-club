@@ -1,6 +1,6 @@
 # Bouffant Bouffant
 
-Bouffant Bouffant is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Paloma, Berlin on Sun, 27 Sept 2026.
+Bouffant Bouffant is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paloma, Berlin on Sun, 27 Sept 2026.
 
 Bouffant Bouffant is a house and electro artist tracked on soundcheck, with 19 sets logged across Berlin, Hongkong, Houston and Kualalumpur and 3 more. Often billed alongside Markus (US), AAguilAA and ASL Princess. Next up: Paloma, Berlin on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Bouffant Bouffant is a house and electro artist tracked on soundcheck, with 19 s
 
 Markus (US), AAguilAA, ASL Princess
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouffantbouffant/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouffantbouffant/)*

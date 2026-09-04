@@ -1,6 +1,6 @@
 # Sebastian Rebig
 
-Sebastian Rebig is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Minimal Bar, Berlin on Mon, 26 Oct 2026.
+Sebastian Rebig is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Minimal Bar, Berlin on Mon, 26 Oct 2026.
 
 Sebastian Rebig is a house and techno artist tracked on soundcheck, with 9 sets logged across Berlin and Dusseldorf. Often billed alongside Roxtone, Aubrey and Bryan Kessler. Next up: Minimal Bar, Berlin on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ Sebastian Rebig is a house and techno artist tracked on soundcheck, with 9 sets 
 
 Roxtone, Aubrey, Bryan Kessler
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianrebig/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianrebig/)*

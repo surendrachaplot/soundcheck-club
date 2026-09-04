@@ -1,6 +1,6 @@
 # XDB
 
-XDB is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Last Arch, London on Fri, 4 Sept 2026.
+XDB is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Last Arch, London on Fri, 4 Sept 2026.
 
 XDB is a techno and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside dj sweet6teen, Edward and Yamour. Next up: Last Arch, London on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ XDB is a techno and house artist tracked on soundcheck, with 129 sets logged acr
 
 dj sweet6teen, Edward, Yamour
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*

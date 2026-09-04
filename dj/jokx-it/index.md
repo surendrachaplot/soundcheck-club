@@ -1,6 +1,6 @@
 # JOKX
 
-JOKX is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Garagen, Cologne on Sat, 19 Sept 2026.
+JOKX is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Garagen, Cologne on Sat, 19 Sept 2026.
 
 JOKX is a trance and techno artist tracked on soundcheck, with 6 sets logged across Cologne. Often billed alongside Atzendent, BabaBass3000 and CRITICAL ERROR 404. Next up: Garagen, Cologne on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ JOKX is a trance and techno artist tracked on soundcheck, with 6 sets logged acr
 
 Atzendent, BabaBass3000, CRITICAL ERROR 404
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jokx-it/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jokx-it/)*

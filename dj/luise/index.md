@@ -1,6 +1,6 @@
 # Luise
 
-Luise is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Distillery, Leipzig on Sat, 12 Sept 2026.
+Luise is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Distillery, Leipzig on Sat, 12 Sept 2026.
 
 Luise is a house and techno artist tracked on soundcheck, with 33 sets logged across Berlin, Cologne, Dusseldorf and Hamburg and 5 more. Often billed alongside Klix (3), EllA and Gwen Wayne. Next up: Distillery, Leipzig on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Luise is a house and techno artist tracked on soundcheck, with 33 sets logged ac
 
 Klix (3), EllA, Gwen Wayne
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luise/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luise/)*

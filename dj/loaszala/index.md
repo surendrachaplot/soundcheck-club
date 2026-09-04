@@ -1,6 +1,6 @@
 # Loa Szala
 
-Loa Szala is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Le 211, Paris on Sat, 19 Sept 2026.
+Loa Szala is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Le 211, Paris on Sat, 19 Sept 2026.
 
 Loa Szala is a house and techno artist based in United Kingdom, tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 34 more. Often billed alongside Jos, Andy Luff and Alien Communications. Next up: Le 211, Paris on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Loa Szala is a house and techno artist based in United Kingdom, tracked on sound
 
 Jos, Andy Luff, Alien Communications
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loaszala/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loaszala/)*

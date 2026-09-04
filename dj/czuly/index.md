@@ -1,6 +1,6 @@
 # czuly
 
-czuly is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Chmury, Warsaw on Fri, 11 Sept 2026.
+czuly is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Chmury, Warsaw on Fri, 11 Sept 2026.
 
 czuly is a bass and club artist tracked on soundcheck, with 23 sets logged across Krakow and Warsaw. Often billed alongside anymati, monia.mp3 and Avtomat. Next up: Chmury, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ czuly is a bass and club artist tracked on soundcheck, with 23 sets logged acros
 
 anymati, monia.mp3, Avtomat
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/czuly/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/czuly/)*

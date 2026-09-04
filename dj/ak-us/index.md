@@ -1,14 +1,14 @@
 # AK (US)
 
-AK (US) is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at 4821 Grand River, Detroit on Sat, 5 Sept 2026.
+AK (US) is a Techno and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Periodicals, Detroit on Sat, 5 Sept 2026.
 
-AK (US) is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 78 sets logged across Chicago, Detroit, Newyorkcity and Portland. Often billed alongside Blackmoonchild, Disc Jockey George and JMT (2). Next up: 4821 Grand River, Detroit on Sat 5 Sept.
+AK (US) is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 78 sets logged across Chicago, Detroit, Newyorkcity and Portland. Often billed alongside Blackmoonchild, Disc Jockey George and JMT (2). Next up: Periodicals, Detroit on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | 4821 Grand River | Detroit |
+| Sat, 5 Sept 2026 | Periodicals | Detroit |
 | Sat, 19 Sept 2026 | TV Lounge | Detroit |
 
 ## Recently played
@@ -26,4 +26,4 @@ AK (US) is a techno and ghetto tech artist based in United States of America, tr
 
 Blackmoonchild, Disc Jockey George, JMT (2)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*

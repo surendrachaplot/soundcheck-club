@@ -1,6 +1,6 @@
 # Justin Cudmore
 
-Justin Cudmore is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at KREUZWERK, Berlin on Sat, 12 Sept 2026.
+Justin Cudmore is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at KREUZWERK, Berlin on Sat, 12 Sept 2026.
 
 Justin Cudmore is a house and techno artist based in United States of America, tracked on soundcheck, with 102 sets logged across Amsterdam, Berlin, Chicago and Detroit and 6 more. Often billed alongside Mike Servito, Lauren Flax and JADALAREIGN. Next up: KREUZWERK, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Justin Cudmore is a house and techno artist based in United States of America, t
 
 Mike Servito, Lauren Flax, JADALAREIGN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justincudmore/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justincudmore/)*

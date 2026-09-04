@@ -1,20 +1,20 @@
 # Mayari (2)
 
-Mayari (2) is a Electronica and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Miscellania, Melbourne on Thu, 3 Sept 2026.
+Mayari (2) is a Electronica and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Miscellania, Melbourne on Sat, 12 Sept 2026.
 
-Mayari (2) is an electronica and trance artist tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside AVAXA, Amaliah and Blue Hawaii. Next up: Miscellania, Melbourne on Thu 3 Sept.
+Mayari (2) is an electronica and trance artist tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside AVAXA, Amaliah and Blue Hawaii. Next up: Miscellania, Melbourne on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | Miscellania | Melbourne |
 | Sat, 12 Sept 2026 | Miscellania | Melbourne |
 | Sat, 19 Sept 2026 | The Russian House | Melbourne |
 | Sat, 10 Oct 2026 | Abbotsford Convent | Melbourne |
 
 ## Recently played
 
+- Miscellania, Melbourne — Thu, 3 Sept 2026
 - The Toff in Town, Melbourne — Sat, 6 Dec 2025
 - Grace Darling Hotel, Melbourne — Sat, 30 Aug 2025
 - Sub Club Melbourne, Melbourne — Sat, 5 Apr 2025
@@ -24,4 +24,4 @@ Mayari (2) is an electronica and trance artist tracked on soundcheck, with 8 set
 
 AVAXA, Amaliah, Blue Hawaii
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayari-2/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mayari-2/)*

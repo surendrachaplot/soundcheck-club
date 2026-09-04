@@ -1,6 +1,6 @@
 # Farres
 
-Farres is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sunseabar Beach Club, Barcelona on Wed, 23 Sept 2026.
+Farres is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sunseabar Beach Club, Barcelona on Wed, 23 Sept 2026.
 
 Farres is a house and electro artist tracked on soundcheck, with 26 sets logged across Athens, Barcelona, Ibiza and Lisbon. Often billed alongside Breezywav, Jean Bressan and Lina Prey. Next up: Sunseabar Beach Club, Barcelona on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Farres is a house and electro artist tracked on soundcheck, with 26 sets logged 
 
 Breezywav, Jean Bressan, Lina Prey
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farres/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farres/)*

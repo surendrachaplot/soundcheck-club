@@ -1,6 +1,6 @@
 # Koichi (Koichiro Okada)
 
-Koichi (Koichiro Okada) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Sixth Garden Records, Kyoto on Sat, 5 Sept 2026.
+Koichi (Koichiro Okada) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sixth Garden Records, Kyoto on Sat, 5 Sept 2026.
 
 Koichi (Koichiro Okada) is a techno and house artist based in Japan, tracked on soundcheck, with 37 sets logged across Kyoto and Osaka. Often billed alongside Ryoma Sasaki, Ouchi-S and Paul Leonard. Next up: Sixth Garden Records, Kyoto on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Koichi (Koichiro Okada) is a techno and house artist based in Japan, tracked on 
 
 Ryoma Sasaki, Ouchi-S, Paul Leonard
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koichikoichirookada/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koichikoichirookada/)*

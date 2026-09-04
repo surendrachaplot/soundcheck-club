@@ -1,6 +1,6 @@
 # Nick Clev
 
-Nick Clev is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Glove That Fits, London on Fri, 25 Sept 2026.
+Nick Clev is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Glove That Fits, London on Fri, 25 Sept 2026.
 
 Nick Clev is a house and garage artist tracked on soundcheck, with 41 sets logged across London. Often billed alongside Sam Beach, Michelle Manetti and ASHTREY. Next up: The Glove That Fits, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Nick Clev is a house and garage artist tracked on soundcheck, with 41 sets logge
 
 Sam Beach, Michelle Manetti, ASHTREY
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickclev/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickclev/)*

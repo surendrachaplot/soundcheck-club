@@ -1,6 +1,6 @@
 # EARGASM GOD
 
-EARGASM GOD is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Phonox, London on Sat, 12 Sept 2026.
+EARGASM GOD is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Phonox, London on Sat, 12 Sept 2026.
 
 EARGASM GOD is a techno and trance artist tracked on soundcheck, with 162 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 36 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: Phonox, London on Sat 12 Sept.
 
@@ -35,4 +35,4 @@ EARGASM GOD is a techno and trance artist tracked on soundcheck, with 162 sets l
 
 DJ Traytex, Indecorum, Meg (PL)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*

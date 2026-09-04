@@ -1,6 +1,6 @@
 # Ilya Semashkevich
 
-Ilya Semashkevich is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
+Ilya Semashkevich is a Tech House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
 
 Ilya Semashkevich is a tech house and electronica artist based in Belarus, tracked on soundcheck, with 20 sets logged across Krakow and Warsaw. Often billed alongside Samogulov, stereometrix and Pridi. Next up: Jasna 1, Warsaw on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Ilya Semashkevich is a tech house and electronica artist based in Belarus, track
 
 Samogulov, stereometrix, Pridi
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyasemashkevich/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilyasemashkevich/)*

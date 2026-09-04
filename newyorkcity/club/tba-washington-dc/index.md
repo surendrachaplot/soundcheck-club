@@ -1,6 +1,6 @@
 # TBA - Washington DC 
 
-TBA - Washington DC  is a music venue in New York City with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Undertone: MISAANG [미상] Vol. 2" on Fri, 25 Sept 2026.
+TBA - Washington DC  is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Undertone: MISAANG [미상] Vol. 2" on Fri, 25 Sept 2026.
 
 TBA - Washington DC  is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Washington DC  is a music venue in Newyorkcity listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Undertone: MISAANG [미상] Vol. 2 |  |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-washington-dc/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-washington-dc/)*

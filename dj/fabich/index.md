@@ -1,6 +1,6 @@
 # Fabich
 
-Fabich is a House and R&B artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Lux Fragil, Lisbon on Sat, 12 Sept 2026.
+Fabich is a House and R&B artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Lux Fragil, Lisbon on Sat, 12 Sept 2026.
 
 Fabich is a house and r&b artist tracked on soundcheck, with 29 sets logged across Bangkok, Ibiza, Istanbul and Lisbon and 2 more. Often billed alongside Moulin.music, Juju Manju and Moulin. Next up: Lux Fragil, Lisbon on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Fabich is a house and r&b artist tracked on soundcheck, with 29 sets logged acro
 
 Moulin.music, Juju Manju, Moulin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabich/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabich/)*

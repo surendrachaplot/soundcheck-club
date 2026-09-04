@@ -1,6 +1,6 @@
 # DJ Hochzeit
 
-DJ Hochzeit is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at MS Stubnitz, Hamburg on Sat, 26 Sept 2026.
+DJ Hochzeit is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at MS Stubnitz, Hamburg on Sat, 26 Sept 2026.
 
 DJ Hochzeit is a house and downtempo artist tracked on soundcheck, with 33 sets logged across Berlin, Hamburg and Munich. Often billed alongside ogmilian, DJ Babyblade and TTX (GER). Next up: MS Stubnitz, Hamburg on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Hochzeit is a house and downtempo artist tracked on soundcheck, with 33 sets 
 
 ogmilian, DJ Babyblade, TTX (GER)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhochzeit/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhochzeit/)*

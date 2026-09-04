@@ -1,6 +1,6 @@
 # DOUBLE P
 
-DOUBLE P is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Trix, Antwerp on Sat, 10 Oct 2026.
+DOUBLE P is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Trix, Antwerp on Sat, 10 Oct 2026.
 
 DOUBLE P is a techno and house artist tracked on soundcheck, with 7 sets logged across Antwerp. Often billed alongside DJNO, Rostgoed and Butchpm. Next up: Trix, Antwerp on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ DOUBLE P is a techno and house artist tracked on soundcheck, with 7 sets logged 
 
 DJNO, Rostgoed, Butchpm
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doublep/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doublep/)*

@@ -1,6 +1,6 @@
 # Eli Kapowski
 
-Eli Kapowski is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 17 Sept 2026.
+Eli Kapowski is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 17 Sept 2026.
 
 Eli Kapowski is a house and electro artist tracked on soundcheck, with 43 sets logged across Barcelona and Madrid. Often billed alongside Jade Rolt, Dadame and Panpe n' u. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Eli Kapowski is a house and electro artist tracked on soundcheck, with 43 sets l
 
 Jade Rolt, Dadame, Panpe n' u
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elikapowski/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elikapowski/)*

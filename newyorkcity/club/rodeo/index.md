@@ -1,6 +1,6 @@
 # Rodeo
 
-Rodeo is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "delete again: Henry R, Sohrob, jumperrrr, DJ IGFMS" on Fri, 4 Sept 2026.
+Rodeo is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "delete again: Henry R, Sohrob, jumperrrr, DJ IGFMS" on Fri, 4 Sept 2026.
 
 Rodeo is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Henry R, OYYSTER, Rush Davis and Sohrob. Browse upcoming dates, start times and who's playing. 1134 President St, Brooklyn NY, 11225.
 
@@ -15,4 +15,4 @@ Rodeo is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, w
 
 1134 President St, Brooklyn NY, 11225, New York City
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/rodeo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/rodeo/)*

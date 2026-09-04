@@ -1,0 +1,28 @@
+# CXLI
+
+CXLI is a UK Funky and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
+
+CXLI is an uk funky and baile funk artist tracked on soundcheck, with 25 sets logged across London and Manchester. Often billed alongside OTDELTA, Ìyáàlù and Bushbby. Next up: Colour Factory, London on Thu 17 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 17 Sept 2026 | Colour Factory | London |
+
+## Recently played
+
+- The Carpet Shop, London — Fri, 28 Aug 2026
+- Jumbi, London — Sun, 9 Aug 2026
+- Ninety One, London — Sat, 21 Mar 2026
+- 91 Brick Lane, London — Sat, 21 Mar 2026
+- Corsica Studios, London — Fri, 24 Oct 2025
+- The Glove That Fits, London — Sat, 20 Sept 2025
+- The Standard, London, London — Fri, 5 Sept 2025
+- The Owl and Hitchhiker, London — Fri, 8 Aug 2025
+
+## Shares bills with
+
+OTDELTA, Ìyáàlù, Bushbby
+
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cxli/)*

@@ -1,6 +1,6 @@
 # Steve Blom
 
-Steve Blom is a Club and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Keith Bar, Berlin on Sat, 5 Sept 2026.
+Steve Blom is a Club and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Keith Bar, Berlin on Sat, 5 Sept 2026.
 
 Steve Blom is a club and downtempo artist tracked on soundcheck, with 8 sets logged across Berlin and Stockholm. Often billed alongside Robert Kalb and Autem. Next up: Keith Bar, Berlin on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ Steve Blom is a club and downtempo artist tracked on soundcheck, with 8 sets log
 
 Robert Kalb, Autem
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steveblom/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steveblom/)*

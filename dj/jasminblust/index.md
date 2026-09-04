@@ -1,6 +1,6 @@
 # Jasmin Blust
 
-Jasmin Blust is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+Jasmin Blust is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
 Jasmin Blust is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Amsterdam, Basel, Berlin and Cologne and 3 more. Often billed alongside Joris Turenhout, Lilly Palmer and A.N.I.. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jasmin Blust is a techno and house artist based in Germany, tracked on soundchec
 
 Joris Turenhout, Lilly Palmer, A.N.I.
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasminblust/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasminblust/)*

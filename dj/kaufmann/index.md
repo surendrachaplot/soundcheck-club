@@ -1,6 +1,6 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Tereza-Joanne Boat, London on Fri, 4 Sept 2026.
+Kaufmann is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tereza-Joanne Boat, London on Fri, 4 Sept 2026.
 
 Kaufmann is a techno and house artist tracked on soundcheck, with 140 sets logged across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Tereza-Joanne Boat, London on Fri 4 Sept.
 
@@ -29,4 +29,4 @@ Kaufmann is a techno and house artist tracked on soundcheck, with 140 sets logge
 
 Leon Licht, Memo., ADAMN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*

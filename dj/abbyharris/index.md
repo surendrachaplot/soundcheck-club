@@ -1,6 +1,6 @@
 # Abby Harris
 
-Abby Harris is a Techno and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Ōdiobā, Manchester on Fri, 18 Sept 2026.
+Abby Harris is a Techno and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ōdiobā, Manchester on Fri, 18 Sept 2026.
 
 Abby Harris is a techno and disco artist tracked on soundcheck, with 27 sets logged across Manchester and Newcastle. Often billed alongside Bobby Scallop, Ells and b.lo. Next up: Ōdiobā, Manchester on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Abby Harris is a techno and disco artist tracked on soundcheck, with 27 sets log
 
 Bobby Scallop, Ells, b.lo
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abbyharris/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abbyharris/)*

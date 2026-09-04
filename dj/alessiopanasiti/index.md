@@ -1,6 +1,6 @@
 # Alessio Panasiti
 
-Alessio Panasiti is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 13 Sept 2026.
+Alessio Panasiti is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 13 Sept 2026.
 
 Alessio Panasiti is a tech house and electro artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside Angelo Cortines, LM and ALOT. Next up: Almar Beach Club, Barcelona on Sun 13 Sept.
 
@@ -23,4 +23,4 @@ Alessio Panasiti is a tech house and electro artist based in Spain, tracked on s
 
 Angelo Cortines, LM, ALOT
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiopanasiti/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiopanasiti/)*

@@ -1,6 +1,6 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 18 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "JOUST (USA) + more" on Fri, 4 Sept 2026.
+Le Red Room is a music venue in Montreal with 18 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "JOUST (USA) + more" on Fri, 4 Sept 2026.
 
 Le Red Room is a music venue in Montreal listed on soundcheck. 18 upcoming nights, with line-ups including 7AZ (1), Aegis, AYMÉ and Babaganouschka and 2 more. Browse upcoming dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
@@ -23,4 +23,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 18 upcoming night
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

@@ -1,6 +1,6 @@
 # AIVISO
 
-AIVISO is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Poseidons, Riga on Fri, 18 Sept 2026.
+AIVISO is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Poseidons, Riga on Fri, 18 Sept 2026.
 
 AIVISO is a drum & bass and techno artist tracked on soundcheck, with 42 sets logged across Riga. Often billed alongside nummurs, Dispoze and MSK (LV). Next up: Poseidons, Riga on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ AIVISO is a drum & bass and techno artist tracked on soundcheck, with 42 sets lo
 
 nummurs, Dispoze, MSK (LV)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aiviso/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aiviso/)*

@@ -1,6 +1,6 @@
 # Apparat
 
-Apparat is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Elbphilharmonie Hamburg, Hamburg on Tue, 6 Oct 2026.
+Apparat is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Elbphilharmonie Hamburg, Hamburg on Tue, 6 Oct 2026.
 
 Apparat is an electronica and electro artist based in Germany, tracked on soundcheck, with 19 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 10 more. Often billed alongside NZIRIA, Alessandro Addi and Andrea Saba. Next up: Elbphilharmonie Hamburg, Hamburg on Tue 6 Oct.
 
@@ -25,4 +25,4 @@ Apparat is an electronica and electro artist based in Germany, tracked on soundc
 
 NZIRIA, Alessandro Addi, Andrea Saba
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apparat/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apparat/)*

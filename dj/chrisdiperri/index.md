@@ -1,6 +1,6 @@
 # Chris Di Perri
 
-Chris Di Perri is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at TBA - Location wird erst nach Ticketkauf veröffentlicht. , Dortmund-essen on Sat, 5 Sept 2026.
+Chris Di Perri is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Location wird erst nach Ticketkauf veröffentlicht. , Dortmund-essen on Sat, 5 Sept 2026.
 
 Chris Di Perri is a tech house and house artist based in Germany, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 11 more. Often billed alongside Melanie Ribbe, Domenic D'Agnelli and Matthias Tanzmann. Next up: TBA - Location wird erst nach Ticketkauf veröffentlicht. , Dortmund-essen on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Chris Di Perri is a tech house and house artist based in Germany, tracked on sou
 
 Melanie Ribbe, Domenic D'Agnelli, Matthias Tanzmann
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdiperri/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdiperri/)*

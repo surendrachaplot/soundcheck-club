@@ -1,6 +1,6 @@
 # House of Q
 
-House of Q is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Portal #3 W/ Hicham, Eliza, Natten (live), Axel Hallqvist, Rickard Ehn, Monique" on Sat, 12 Sept 2026.
+House of Q is a music venue in Stockholm with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Portal #3 W/ Hicham, Eliza, Natten (live), Axel Hallqvist, Rickard Ehn, Monique" on Sat, 12 Sept 2026.
 
 House of Q is a music venue in Stockholm listed on soundcheck. 2 upcoming nights, with line-ups including Axel Hallqvist, Eliza (2), Hicham (FR) and Mira Iranpour and 1 more. Browse upcoming dates, start times and who's playing. Malmvägen 1, 115 41 Stockholm.
 
@@ -15,4 +15,4 @@ House of Q is a music venue in Stockholm listed on soundcheck. 2 upcoming nights
 
 Malmvägen 1, 115 41 Stockholm, Stockholm
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/house-of-q/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/house-of-q/)*

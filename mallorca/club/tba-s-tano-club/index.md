@@ -1,6 +1,6 @@
 # TBA - Sótano Club 
 
-TBA - Sótano Club  is a music venue in Mallorca with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "808 pres. Manu Oubiña, Starkoff, Ivo Guzman" on Fri, 4 Sept 2026.
+TBA - Sótano Club  is a music venue in Mallorca with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "808 pres. Manu Oubiña, Starkoff, Ivo Guzman" on Fri, 4 Sept 2026.
 
 TBA - Sótano Club  is a music venue in Mallorca listed on soundcheck. 1 upcoming night, with line-ups including Manu Oubiña. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Sótano Club  is a music venue in Mallorca listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | 808 pres. Manu Oubiña, Starkoff, Ivo Guzman | Manu Oubiña |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/tba-s-tano-club/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/mallorca/club/tba-s-tano-club/)*

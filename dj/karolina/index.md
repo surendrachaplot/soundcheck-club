@@ -1,6 +1,6 @@
 # KAROLINA
 
-KAROLINA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Grelle Forelle, Vienna on Sat, 26 Sept 2026.
+KAROLINA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Grelle Forelle, Vienna on Sat, 26 Sept 2026.
 
 KAROLINA is a techno and house artist tracked on soundcheck, with 54 sets logged across Berlin, Lisbon, Munich and Vienna. Often billed alongside FX-31, GEN97 and KRAWALLBARBIE. Next up: Grelle Forelle, Vienna on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ KAROLINA is a techno and house artist tracked on soundcheck, with 54 sets logged
 
 FX-31, GEN97, KRAWALLBARBIE
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karolina/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karolina/)*

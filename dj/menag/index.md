@@ -1,6 +1,6 @@
 # Mena G
 
-Mena G is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at LFO.exp, Madrid on Fri, 18 Sept 2026.
+Mena G is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at LFO.exp, Madrid on Fri, 18 Sept 2026.
 
 Mena G is a techno and house artist tracked on soundcheck, with 55 sets logged across Barcelona, Berlin, Madrid and Mallorca and 1 more. Often billed alongside ORFIGYAL, NAD1A and TINA (ES). Next up: LFO.exp, Madrid on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mena G is a techno and house artist tracked on soundcheck, with 55 sets logged a
 
 ORFIGYAL, NAD1A, TINA (ES)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/menag/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/menag/)*

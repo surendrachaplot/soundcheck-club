@@ -1,6 +1,6 @@
 # Andi Teichmann
 
-Andi Teichmann is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Club der Visionaere, Berlin on Sat, 5 Sept 2026.
+Andi Teichmann is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Club der Visionaere, Berlin on Sat, 5 Sept 2026.
 
 Andi Teichmann is an electronic artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside Gebrüder Teichmann, Hannes Teichmann and Gary Martin. Next up: Club der Visionaere, Berlin on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ Andi Teichmann is an electronic artist tracked on soundcheck, with 4 sets logged
 
 Gebrüder Teichmann, Hannes Teichmann, Gary Martin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anditeichmann/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anditeichmann/)*

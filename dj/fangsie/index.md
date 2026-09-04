@@ -1,6 +1,6 @@
 # fangsie
 
-fangsie is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at La Toscadura, Montreal on Fri, 4 Sept 2026.
+fangsie is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at La Toscadura, Montreal on Fri, 4 Sept 2026.
 
 fangsie is a techno and hardcore artist based in Canada, tracked on soundcheck, with 21 sets logged across Montreal and Newyorkcity. Often billed alongside the bald girl, Mowie (2) and sineila. Next up: La Toscadura, Montreal on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ fangsie is a techno and hardcore artist based in Canada, tracked on soundcheck, 
 
 the bald girl, Mowie (2), sineila
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fangsie/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fangsie/)*

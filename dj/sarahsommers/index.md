@@ -1,6 +1,6 @@
 # Sarah Sommers
 
-Sarah Sommers is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
+Sarah Sommers is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
 
 Sarah Sommers is a techno and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 19 more. Often billed alongside Josef Kunz, Ellen Allien and Tomo in der Muhlen. Next up: RSO.BERLIN, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Sarah Sommers is a techno and house artist tracked on soundcheck, with 53 sets l
 
 Josef Kunz, Ellen Allien, Tomo in der Muhlen
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*

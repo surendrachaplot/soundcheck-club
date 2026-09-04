@@ -1,6 +1,6 @@
 # Dangermami
 
-Dangermami is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
+Dangermami is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
 
 Dangermami is a bass and techno artist tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 20 more. Often billed alongside MSJY, Marie Midori and DJ Fuckoff. Next up: Point Ephémère, Paris on Wed 30 Sept.
 
@@ -27,4 +27,4 @@ Dangermami is a bass and techno artist tracked on soundcheck, with 90 sets logge
 
 MSJY, Marie Midori, DJ Fuckoff
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dangermami/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dangermami/)*

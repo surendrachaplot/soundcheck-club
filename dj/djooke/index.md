@@ -1,6 +1,6 @@
 # Djooke
 
-Djooke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Horn, Bangkok on Sat, 5 Sept 2026.
+Djooke is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Horn, Bangkok on Sat, 5 Sept 2026.
 
 Djooke is a techno and house artist based in Portugal, tracked on soundcheck, with 25 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 3 more. Often billed alongside ANÍBAL, Dimitri Tenot and ENGALANAN. Next up: Horn, Bangkok on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Djooke is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 ANÍBAL, Dimitri Tenot, ENGALANAN
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*

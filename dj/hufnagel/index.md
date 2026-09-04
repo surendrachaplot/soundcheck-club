@@ -1,6 +1,6 @@
 # Hufnagel
 
-Hufnagel is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Frappant, Hamburg on Fri, 4 Sept 2026.
+Hufnagel is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Frappant, Hamburg on Fri, 4 Sept 2026.
 
 Hufnagel is a house and disco artist based in Germany, tracked on soundcheck, with 26 sets logged across Hamburg. Often billed alongside DJ Dreams, cmp (1) and david bay. Next up: Frappant, Hamburg on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Hufnagel is a house and disco artist based in Germany, tracked on soundcheck, wi
 
 DJ Dreams, cmp (1), david bay
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hufnagel/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hufnagel/)*

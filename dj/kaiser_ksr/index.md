@@ -1,8 +1,8 @@
 # Kaiser (K S R)
 
-Kaiser (K S R) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at not|or|ius Club, Turin on Sat, 26 Sept 2026.
+Kaiser (K S R) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at not|or|ius Club, Turin on Sat, 26 Sept 2026.
 
-Kaiser (K S R) is a techno and house artist tracked on soundcheck, with 125 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 40 more. Often billed alongside Freddy K, Kwartz and Chami. Next up: not|or|ius Club, Turin on Sat 26 Sept.
+Kaiser (K S R) is a techno and house artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 40 more. Often billed alongside Freddy K, Kwartz and Chami. Next up: not|or|ius Club, Turin on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kaiser (K S R) is a techno and house artist tracked on soundcheck, with 125 sets
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | not/or/ius Club | Turin |
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
+| Sat, 7 Nov 2026 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kaiser (K S R) is a techno and house artist tracked on soundcheck, with 125 sets
 
 Freddy K, Kwartz, Chami
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiser_ksr/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiser_ksr/)*

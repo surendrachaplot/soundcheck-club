@@ -1,6 +1,6 @@
 # Sonido Tupinamba
 
-Sonido Tupinamba is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at BUS Hexperience, Barcelona on Fri, 11 Sept 2026.
+Sonido Tupinamba is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at BUS Hexperience, Barcelona on Fri, 11 Sept 2026.
 
 Sonido Tupinamba is a house and disco artist tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Buenosaires and Ibiza and 8 more. Often billed alongside Camilo Miranda, Zonzo and Sama Yax. Next up: BUS Hexperience, Barcelona on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Sonido Tupinamba is a house and disco artist tracked on soundcheck, with 75 sets
 
 Camilo Miranda, Zonzo, Sama Yax
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonidotupinamba/)*

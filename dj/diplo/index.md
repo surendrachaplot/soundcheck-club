@@ -1,6 +1,6 @@
 # Diplo
 
-Diplo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Pacha New York, New York City on Sat, 12 Sept 2026.
+Diplo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Pacha New York, New York City on Sat, 12 Sept 2026.
 
 Diplo is a house and techno artist tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside Charlotte de Witte, Claptone and Chris Lake. Next up: Pacha New York, Newyorkcity on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Diplo is a house and techno artist tracked on soundcheck, with 88 sets logged ac
 
 Charlotte de Witte, Claptone, Chris Lake
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*

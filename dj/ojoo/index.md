@@ -1,6 +1,6 @@
 # ojoo
 
-ojoo is a Experimental and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+ojoo is a Experimental and Dub artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 ojoo is an experimental and dub artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside ojoo, Ossia and NVST. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ ojoo is an experimental and dub artist tracked on soundcheck, with 99 sets logge
 
 ojoo, Ossia, NVST
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*

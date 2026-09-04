@@ -1,6 +1,6 @@
 # DJ TURBO
 
-DJ TURBO is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Skin Club, Madrid on Fri, 4 Sept 2026.
+DJ TURBO is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Skin Club, Madrid on Fri, 4 Sept 2026.
 
 DJ TURBO is an electronic artist tracked on soundcheck, with 39 sets logged across Madrid. Often billed alongside NETN, Theia Daja and RMXR. Next up: Skin Club, Madrid on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ DJ TURBO is an electronic artist tracked on soundcheck, with 39 sets logged acro
 
 NETN, Theia Daja, RMXR
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djturbo/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djturbo/)*

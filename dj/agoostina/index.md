@@ -1,6 +1,6 @@
 # Agoostina
 
-Agoostina is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Bikini Club, Barcelona on Sat, 5 Sept 2026.
+Agoostina is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bikini Club, Barcelona on Sat, 5 Sept 2026.
 
 Agoostina is an electronic artist tracked on soundcheck, with 10 sets logged across Barcelona. Often billed alongside GUS PICCO, Mganz and Santi Gonzalez. Next up: Bikini Club, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Agoostina is an electronic artist tracked on soundcheck, with 10 sets logged acr
 
 GUS PICCO, Mganz, Santi Gonzalez
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agoostina/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agoostina/)*

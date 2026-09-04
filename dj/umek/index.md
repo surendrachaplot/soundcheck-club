@@ -1,6 +1,6 @@
 # Umek
 
-Umek is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at TBA, Berlin on Sat, 28 Nov 2026.
+Umek is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Berlin on Sat, 28 Nov 2026.
 
 Umek is a techno and electro artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Sam Wolfe, SKIY and Karla Blum. Next up: TBA, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Umek is a techno and electro artist tracked on soundcheck, with 51 sets logged a
 
 Sam Wolfe, SKIY, Karla Blum
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umek/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/umek/)*

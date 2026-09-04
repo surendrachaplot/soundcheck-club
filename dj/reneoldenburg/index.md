@@ -1,6 +1,6 @@
 # Rene Oldenburg
 
-Rene Oldenburg is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Void Club, Berlin on Fri, 23 Oct 2026.
+Rene Oldenburg is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Void Club, Berlin on Fri, 23 Oct 2026.
 
 Rene Oldenburg is a techno and tech house artist tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Milk N Coffee, Somaphon and Honschu Lee. Next up: Void Club, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Rene Oldenburg is a techno and tech house artist tracked on soundcheck, with 25 
 
 Milk N Coffee, Somaphon, Honschu Lee
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reneoldenburg/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reneoldenburg/)*

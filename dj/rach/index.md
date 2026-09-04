@@ -1,6 +1,6 @@
 # RACH
 
-RACH is a Dubstep and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Planet Wax, London on Fri, 2 Oct 2026.
+RACH is a Dubstep and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Planet Wax, London on Fri, 2 Oct 2026.
 
 RACH is a dubstep and jungle artist based in Colombia, tracked on soundcheck, with 7 sets logged across Amsterdam, Brighton and London. Often billed alongside AUDIO DUNE, Aura and Cartridge (UK). Next up: Planet Wax, London on Fri 2 Oct.
 
@@ -23,4 +23,4 @@ RACH is a dubstep and jungle artist based in Colombia, tracked on soundcheck, wi
 
 AUDIO DUNE, Aura, Cartridge (UK)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rach/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rach/)*

@@ -1,6 +1,6 @@
 # shhron
 
-shhron is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 12 Sept 2026.
+shhron is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 12 Sept 2026.
 
 shhron is a bass and breakbeat artist tracked on soundcheck, with 33 sets logged across Krakow and Warsaw. Often billed alongside Adnable, Kaj.O and Solin. Next up: K-Bar Powiśle, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ shhron is a bass and breakbeat artist tracked on soundcheck, with 33 sets logged
 
 Adnable, Kaj.O, Solin
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shhron/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shhron/)*

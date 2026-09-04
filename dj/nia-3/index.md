@@ -1,6 +1,6 @@
 # NIA (3)
 
-NIA (3) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
+NIA (3) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
 
 NIA (3) is a techno and trance artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Cologne and Munich and 3 more. Often billed alongside DETOXX, Amøn and DJ Achim Feuervogel. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ NIA (3) is a techno and trance artist based in Spain, tracked on soundcheck, wit
 
 DETOXX, Amøn, DJ Achim Feuervogel
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nia-3/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nia-3/)*

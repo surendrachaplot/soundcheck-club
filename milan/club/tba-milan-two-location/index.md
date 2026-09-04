@@ -1,6 +1,6 @@
 # TBA - Milan - Two Location
 
-TBA - Milan - Two Location is a music venue in Milan with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "MOAB Season Opening - DAY & NIGHT - Secret Location + DURO Club" on Sat, 19 Sept 2026.
+TBA - Milan - Two Location is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "MOAB Season Opening - DAY & NIGHT - Secret Location + DURO Club" on Sat, 19 Sept 2026.
 
 TBA - Milan - Two Location is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Franzizca., Leena and tINI. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Milan - Two Location is a music venue in Milan listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | MOAB Season Opening - DAY & NIGHT - Secret Location + DURO Club | Franzizca., Leena, tINI |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-milan-two-location/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-milan-two-location/)*

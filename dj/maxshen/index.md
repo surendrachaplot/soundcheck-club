@@ -1,6 +1,6 @@
 # Max Shen
 
-Max Shen is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at AMT, Berlin on Wed, 9 Sept 2026.
+Max Shen is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at AMT, Berlin on Wed, 9 Sept 2026.
 
 Max Shen is a techno and club artist based in China, tracked on soundcheck, with 10 sets logged across Athens, Berlin, Milan and Seoul and 2 more. Often billed alongside Mar/us, Nymed and 3.14. Next up: AMT, Berlin on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ Max Shen is a techno and club artist based in China, tracked on soundcheck, with
 
 Mar/us, Nymed, 3.14
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxshen/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxshen/)*

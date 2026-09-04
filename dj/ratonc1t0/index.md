@@ -1,6 +1,6 @@
 # RATONC1T0
 
-RATONC1T0 is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Podlasie Club, Chicago on Fri, 11 Sept 2026.
+RATONC1T0 is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Podlasie Club, Chicago on Fri, 11 Sept 2026.
 
 RATONC1T0 is a techno and electro artist based in Puerto Rico, tracked on soundcheck, with 20 sets logged across Chicago, Newyorkcity and Washingtondc. Often billed alongside Ether Pleaser, D. Strange and DAIYAH. Next up: Podlasie Club, Chicago on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ RATONC1T0 is a techno and electro artist based in Puerto Rico, tracked on soundc
 
 Ether Pleaser, D. Strange, DAIYAH
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ratonc1t0/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ratonc1t0/)*

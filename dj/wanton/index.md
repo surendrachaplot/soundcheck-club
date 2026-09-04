@@ -1,6 +1,6 @@
 # Wanton
 
-Wanton is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Mia Mao, Paris on Thu, 17 Sept 2026.
+Wanton is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mia Mao, Paris on Thu, 17 Sept 2026.
 
 Wanton is a techno and industrial artist tracked on soundcheck, with 35 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside AMRTUM, ANXHELA and FLUCC. Next up: Mia Mao, Paris on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Wanton is a techno and industrial artist tracked on soundcheck, with 35 sets log
 
 AMRTUM, ANXHELA, FLUCC
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wanton/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wanton/)*

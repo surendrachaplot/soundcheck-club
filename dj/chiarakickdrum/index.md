@@ -1,6 +1,6 @@
 # Chiara Kickdrum
 
-Chiara Kickdrum is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Evelyn Hotel, Melbourne on Fri, 4 Sept 2026.
+Chiara Kickdrum is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Evelyn Hotel, Melbourne on Fri, 4 Sept 2026.
 
 Chiara Kickdrum is a techno and house artist based in Australia, tracked on soundcheck, with 49 sets logged across Melbourne. Often billed alongside Mike Callander, Acid Safari and DJ Kiti. Next up: The Evelyn Hotel, Melbourne on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Chiara Kickdrum is a techno and house artist based in Australia, tracked on soun
 
 Mike Callander, Acid Safari, DJ Kiti
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarakickdrum/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarakickdrum/)*

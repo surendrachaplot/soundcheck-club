@@ -1,6 +1,6 @@
 # Sparta Schwimmclub
 
-Sparta Schwimmclub is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Cocoon Frankfurt Sparta" on Sun, 13 Sept 2026.
+Sparta Schwimmclub is a music venue in Frankfurt with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Cocoon Frankfurt Sparta" on Sun, 13 Sept 2026.
 
 Sparta Schwimmclub is a music venue in Frankfurt listed on soundcheck. 1 upcoming night, with line-ups including KiNK, Robag Wruhme, Sven Vath and Victoria Arena. Browse upcoming dates, start times and who's playing. Franziusstrasse 35 60314 Frankfurt.
 
@@ -14,4 +14,4 @@ Sparta Schwimmclub is a music venue in Frankfurt listed on soundcheck. 1 upcomin
 
 Franziusstrasse 35 60314 Frankfurt, Frankfurt
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/sparta-schwimmclub/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/sparta-schwimmclub/)*

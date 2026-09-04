@@ -1,6 +1,6 @@
 # ninsn
 
-ninsn is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 5 Sept 2026.
+ninsn is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 5 Sept 2026.
 
 ninsn is a house and downtempo artist tracked on soundcheck, with 24 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Body Electric, Elliver and Mila Stern. Next up: Jonny Knüppel, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ninsn is a house and downtempo artist tracked on soundcheck, with 24 sets logged
 
 Body Electric, Elliver, Mila Stern
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninsn/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninsn/)*

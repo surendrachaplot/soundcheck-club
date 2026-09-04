@@ -1,6 +1,6 @@
 # Soul Purpose (LA)
 
-Soul Purpose (LA) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at District 7, Los Angeles on Fri, 18 Sept 2026.
+Soul Purpose (LA) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at District 7, Los Angeles on Fri, 18 Sept 2026.
 
 Soul Purpose (LA) is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Losangeles. Often billed alongside Heart of Gold, Flabbergast (LA) and BIIANCO. Next up: District 7, Losangeles on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Soul Purpose (LA) is a house and techno artist based in United States of America
 
 Heart of Gold, Flabbergast (LA), BIIANCO
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulpurposela/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulpurposela/)*

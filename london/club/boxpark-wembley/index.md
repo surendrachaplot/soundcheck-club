@@ -1,6 +1,6 @@
 # Boxpark Wembley
 
-Boxpark Wembley is a music venue in London with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Old School Jam" on Sat, 5 Sept 2026.
+Boxpark Wembley is a music venue in London with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Old School Jam" on Sat, 5 Sept 2026.
 
 Boxpark Wembley is a music venue in London listed on soundcheck. 2 upcoming nights, with line-ups including ID and Nana B. Browse upcoming dates, start times and who's playing. Olympic Way, Wembley, HA9 0NU, London, United Kingdom.
 
@@ -15,4 +15,4 @@ Boxpark Wembley is a music venue in London listed on soundcheck. 2 upcoming nigh
 
 Olympic Way, Wembley, HA9 0NU, London, United Kingdom, London
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-wembley/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark-wembley/)*

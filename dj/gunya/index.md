@@ -1,8 +1,8 @@
 # Gunya
 
-Gunya is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Culture Cafe, Bangkok on Fri, 4 Sept 2026.
+Gunya is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Culture Cafe, Bangkok on Fri, 4 Sept 2026.
 
-Gunya is a techno and industrial artist tracked on soundcheck, with 127 sets logged across Bangkok. Often billed alongside The3RD, Damon Rider and REIKS. Next up: Culture Cafe, Bangkok on Fri 4 Sept.
+Gunya is a techno and industrial artist tracked on soundcheck, with 129 sets logged across Bangkok. Often billed alongside The3RD, Damon Rider and REIKS. Next up: Culture Cafe, Bangkok on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Gunya is a techno and industrial artist tracked on soundcheck, with 127 sets log
 | Fri, 4 Sept 2026 | Culture Cafe | Bangkok |
 | Fri, 18 Sept 2026 | Culture Cafe | Bangkok |
 | Fri, 25 Sept 2026 | Culture Cafe | Bangkok |
+| Fri, 2 Oct 2026 | Culture Cafe | Bangkok |
+| Fri, 9 Oct 2026 | Culture Cafe | Bangkok |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Gunya is a techno and industrial artist tracked on soundcheck, with 127 sets log
 
 The3RD, Damon Rider, REIKS
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunya/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gunya/)*

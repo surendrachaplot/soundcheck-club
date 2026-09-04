@@ -1,6 +1,6 @@
 # dreamcastmoe
 
-dreamcastmoe is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Good Room, New York City on Fri, 4 Sept 2026.
+dreamcastmoe is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Good Room, New York City on Fri, 4 Sept 2026.
 
 dreamcastmoe is a house and r&b artist based in United States of America, tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Berlin and Bristol and 17 more. Often billed alongside Bradley Zero, DJ Tennis and Jyoty. Next up: Good Room, Newyorkcity on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ dreamcastmoe is a house and r&b artist based in United States of America, tracke
 
 Bradley Zero, DJ Tennis, Jyoty
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamcast/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamcast/)*

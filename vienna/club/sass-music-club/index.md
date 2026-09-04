@@ -1,14 +1,13 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 10 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "GRAIN 001" on Thu, 3 Sept 2026.
+SASS Music Club is a music venue in Vienna with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "GBRL all night long" on Fri, 4 Sept 2026.
 
-SASS Music Club is a music venue in Vienna listed on soundcheck. 10 upcoming nights, with line-ups including Altroy Jerome, Eye F, IKARIOS and Joyce Muniz and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
+SASS Music Club is a music venue in Vienna listed on soundcheck. 9 upcoming nights, with line-ups including Altroy Jerome, Eye F, IKARIOS and Joyce Muniz and 2 more. Browse upcoming dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | GRAIN 001 | WOL.QUE |
 | Fri, 4 Sept 2026 | GBRL all night long |  |
 | Sat, 5 Sept 2026 | Merkwürdig | Reinhard Zach, Verleger |
 | Sat, 5 Sept 2026 | Merkwürdig | Reinhard Zach, Verleger |
@@ -23,4 +22,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 10 upcoming nig
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

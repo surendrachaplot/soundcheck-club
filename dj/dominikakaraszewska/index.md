@@ -1,6 +1,6 @@
 # Dominika Karaszewska
 
-Dominika Karaszewska is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Parallel, Amsterdam on Sun, 27 Sept 2026.
+Dominika Karaszewska is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Parallel, Amsterdam on Sun, 27 Sept 2026.
 
 Dominika Karaszewska is a techno and ambient artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin and Utrecht. Often billed alongside angelboy, Alarico and Amotik. Next up: Parallel, Amsterdam on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Dominika Karaszewska is a techno and ambient artist based in Netherlands, tracke
 
 angelboy, Alarico, Amotik
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikakaraszewska/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikakaraszewska/)*

@@ -1,6 +1,6 @@
 # VIBRACIONES
 
-VIBRACIONES is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at The Boombox, Miami on Sat, 12 Sept 2026.
+VIBRACIONES is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Boombox, Miami on Sat, 12 Sept 2026.
 
 VIBRACIONES is a techno and latin bass artist tracked on soundcheck, with 9 sets logged across Miami. Often billed alongside DJ SABI, Miss Purple Shampoo and Pressure Point (US). Next up: The Boombox, Miami on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ VIBRACIONES is a techno and latin bass artist tracked on soundcheck, with 9 sets
 
 DJ SABI, Miss Purple Shampoo, Pressure Point (US)
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vibraciones/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vibraciones/)*

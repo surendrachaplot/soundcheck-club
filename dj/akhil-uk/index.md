@@ -1,6 +1,6 @@
 # Akhil (UK)
 
-Akhil (UK) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at CÉ LA VI, London on Sat, 5 Sept 2026.
+Akhil (UK) is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at CÉ LA VI, London on Sat, 5 Sept 2026.
 
 Akhil (UK) is an afro house and house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Alex Taliana, JVINCENT and Kususa. Next up: CÉ LA VI, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Akhil (UK) is an afro house and house artist tracked on soundcheck, with 9 sets 
 
 Alex Taliana, JVINCENT, Kususa
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akhil-uk/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akhil-uk/)*

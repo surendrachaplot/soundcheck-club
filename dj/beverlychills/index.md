@@ -1,6 +1,6 @@
 # Beverly Chills
 
-Beverly Chills is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 4 Sept 2026.
+Beverly Chills is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Underground SF, San Francisco/Oakland on Fri, 4 Sept 2026.
 
 Beverly Chills is a techno and house artist tracked on soundcheck, with 64 sets logged across Losangeles, Sanfrancisco and Seattle. Often billed alongside nonsuit, likeholywine and Papa Xanny. Next up: Underground SF, Sanfrancisco on Fri 4 Sept.
 
@@ -26,4 +26,4 @@ Beverly Chills is a techno and house artist tracked on soundcheck, with 64 sets 
 
 nonsuit, likeholywine, Papa Xanny
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beverlychills/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beverlychills/)*

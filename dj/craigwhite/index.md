@@ -1,6 +1,6 @@
 # Craig White
 
-Craig White is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Open Ground, Wuppertal on Sat, 5 Sept 2026.
+Craig White is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Open Ground, Wuppertal on Sat, 5 Sept 2026.
 
 Craig White is a house and disco artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, London and Newyorkcity and 1 more. Often billed alongside Dave Thorley, Brink (US) and Fellagha. Next up: Open Ground, Wuppertal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Craig White is a house and disco artist tracked on soundcheck, with 35 sets logg
 
 Dave Thorley, Brink (US), Fellagha
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigwhite/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/craigwhite/)*

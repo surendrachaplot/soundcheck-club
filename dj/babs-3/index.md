@@ -1,6 +1,6 @@
 # Babs (3)
 
-Babs (3) is a House and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at renae, Manchester on Fri, 4 Sept 2026.
+Babs (3) is a House and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at renae, Manchester on Fri, 4 Sept 2026.
 
 Babs (3) is a house and ebm artist tracked on soundcheck, with 9 sets logged across Manchester and Sheffield. Often billed alongside Holba, A Little Bit Orange and CARALUS. Next up: renae, Manchester on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Babs (3) is a house and ebm artist tracked on soundcheck, with 9 sets logged acr
 
 Holba, A Little Bit Orange, CARALUS
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babs-3/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babs-3/)*

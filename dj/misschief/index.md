@@ -1,6 +1,6 @@
 # misschief
 
-misschief is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at fabric, London on Sun, 20 Sept 2026.
+misschief is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at fabric, London on Sun, 20 Sept 2026.
 
 misschief is an electronic artist tracked on soundcheck, with 11 sets logged across London, Manchester and Newyorkcity. Often billed alongside Kfeelz, RAQX and atalaya. Next up: fabric, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ misschief is an electronic artist tracked on soundcheck, with 11 sets logged acr
 
 Kfeelz, RAQX, atalaya
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misschief/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misschief/)*

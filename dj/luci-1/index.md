@@ -1,6 +1,6 @@
 # luci.
 
-luci. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Chausseestrasse 131, Berlin on Fri, 4 Sept 2026.
+luci. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Chausseestrasse 131, Berlin on Fri, 4 Sept 2026.
 
 luci. is a techno and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Berlin and Lyon. Often billed alongside Amo (IT), August Kind and CUNT REMEMBER. Next up: Chausseestrasse 131, Berlin on Fri 4 Sept.
 
@@ -22,4 +22,4 @@ luci. is a techno and house artist based in United States of America, tracked on
 
 Amo (IT), August Kind, CUNT REMEMBER
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luci-1/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luci-1/)*

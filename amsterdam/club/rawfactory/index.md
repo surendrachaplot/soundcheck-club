@@ -1,6 +1,6 @@
 # RAWFACTORY
 
-RAWFACTORY is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "Audio Obscura ADE with Patrick Mason [B2B] SPFDJ & More" on Thu, 22 Oct 2026.
+RAWFACTORY is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Audio Obscura ADE with Patrick Mason [B2B] SPFDJ & More" on Thu, 22 Oct 2026.
 
 RAWFACTORY is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including Adiel, Amelie Lens, Anetha and Anfisa Letyago and 2 more. Browse upcoming dates, start times and who's playing. Amsterdam, 1114 AN, Joan Muyskenweg 39.
 
@@ -19,4 +19,4 @@ RAWFACTORY is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights
 
 Amsterdam, 1114 AN, Joan Muyskenweg 39, Amsterdam
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/rawfactory/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/rawfactory/)*

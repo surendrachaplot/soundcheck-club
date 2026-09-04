@@ -1,14 +1,15 @@
 # Photay
 
-Photay is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Agora Records, Los Angeles on Fri, 18 Sept 2026.
+Photay is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Agora Records, Los Angeles on Fri, 18 Sept 2026.
 
-Photay is a house and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Chicago, Detroit and London and 5 more. Often billed alongside Toribio, Colloboh and 2Lanes. Next up: Agora Records, Losangeles on Fri 18 Sept.
+Photay is a house and techno artist tracked on soundcheck, with 30 sets logged across Berlin, Chicago, Detroit and London and 5 more. Often billed alongside Toribio, Celia Hollander and Colloboh. Next up: Agora Records, Losangeles on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Agora Records | Los Angeles |
+| Sat, 19 Sept 2026 | The Airliner | Los Angeles |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Photay is a house and techno artist tracked on soundcheck, with 29 sets logged a
 
 ## Shares bills with
 
-Toribio, Colloboh, 2Lanes
+Toribio, Celia Hollander, Colloboh
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/photay/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/photay/)*

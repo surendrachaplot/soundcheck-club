@@ -1,6 +1,6 @@
 # GUZZ.
 
-GUZZ. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Happys Belfast, Belfast on Fri, 2 Oct 2026.
+GUZZ. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Happys Belfast, Belfast on Fri, 2 Oct 2026.
 
 GUZZ. is a techno and house artist tracked on soundcheck, with 10 sets logged across Belfast. Often billed alongside HUTS, Skellyoz and Casual. Next up: Happys Belfast, Belfast on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ GUZZ. is a techno and house artist tracked on soundcheck, with 10 sets logged ac
 
 HUTS, Skellyoz, Casual
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guzz./)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guzz./)*

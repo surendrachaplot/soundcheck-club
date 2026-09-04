@@ -1,6 +1,6 @@
 # PKL Boston
 
-PKL Boston is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Thu, 3 Sept 2026; the next is "After Brunch presents: 5 Anniversary w/ Allendes and Andrea Quintero" on Sun, 6 Sept 2026.
+PKL Boston is a music venue in Boston with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "After Brunch presents: 5 Anniversary w/ Allendes and Andrea Quintero" on Sun, 6 Sept 2026.
 
 PKL Boston is a music venue in Boston listed on soundcheck. 2 upcoming nights, with line-ups including Egg In The Morning, Francisco Allendes and Kyle Walker. Browse upcoming dates, start times and who's playing. 64 C St, South Boston, MA 02127.
 
@@ -15,4 +15,4 @@ PKL Boston is a music venue in Boston listed on soundcheck. 2 upcoming nights, w
 
 64 C St, South Boston, MA 02127, Boston
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/pkl-boston/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/pkl-boston/)*

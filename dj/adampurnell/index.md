@@ -1,6 +1,6 @@
 # Adam Purnell
 
-Adam Purnell is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at Lux Fragil, Lisbon on Fri, 4 Sept 2026.
+Adam Purnell is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lux Fragil, Lisbon on Fri, 4 Sept 2026.
 
 Adam Purnell is a house and disco artist tracked on soundcheck, with 58 sets logged across Bangkok, Berlin, Hongkong and Ibiza and 2 more. Often billed alongside Antilope, Kierastoboy and Tiago Oudman. Next up: Lux Fragil, Lisbon on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Adam Purnell is a house and disco artist tracked on soundcheck, with 58 sets log
 
 Antilope, Kierastoboy, Tiago Oudman
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adampurnell/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adampurnell/)*

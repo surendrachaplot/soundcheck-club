@@ -1,6 +1,6 @@
 # Lolalita
 
-Lolalita is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 3 Sept 2026, next at Kilomètre25, Paris on Sat, 5 Sept 2026.
+Lolalita is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kilomètre25, Paris on Sat, 5 Sept 2026.
 
 Lolalita is a techno and hardcore artist based in Belgium, tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside myu:sa, waltur and KimberlaID. Next up: Kilomètre25, Paris on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Lolalita is a techno and hardcore artist based in Belgium, tracked on soundcheck
 
 myu:sa, waltur, KimberlaID
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolalita/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lolalita/)*

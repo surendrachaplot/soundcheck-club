@@ -1,6 +1,6 @@
 # no.name (IT)
 
-no.name (IT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at OXI, Berlin on Tue, 22 Sept 2026.
+no.name (IT) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OXI, Berlin on Tue, 22 Sept 2026.
 
 no.name (IT) is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Budapest and Dublin and 5 more. Often billed alongside MZR, Alarico and Maris Shilton. Next up: OXI, Berlin on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ no.name (IT) is a techno and house artist tracked on soundcheck, with 48 sets lo
 
 MZR, Alarico, Maris Shilton
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/no.nameit/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/no.nameit/)*

@@ -1,6 +1,6 @@
 # 77: DEB FA at 77
 
-77: DEB FA on Sat 19 Sept, London. 2 acts on the bill: Duo and Kidflo. House. Preview the line-up and save it on soundcheck.
+77: DEB FA on Sat 19 Sept, London. 3 acts on the bill: Duo, DUO (UK) and Kidflo. Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Duo
+- DUO (UK)
 - Kidflo
 
 *Source: [soundcheck](https://soundcheck.club/e/2516740-77-deb-fa-at-77/)*

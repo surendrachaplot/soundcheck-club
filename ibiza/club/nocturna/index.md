@@ -1,13 +1,14 @@
 # Nocturna
 
-Nocturna is a music venue in Ibiza with 1 upcoming night listed on soundcheck as of Thu, 3 Sept 2026; the next is "Paul Traeumer X Tanika X Waï" on Wed, 16 Sept 2026.
+Nocturna is a music venue in Ibiza with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Paul Traeumer X Tanika X Waï" on Wed, 16 Sept 2026.
 
-Nocturna is a music venue in Ibiza listed on soundcheck. 1 upcoming night, with line-ups including Paul Traeumer. Browse upcoming dates, start times and who's playing.
+Nocturna is a music venue in Ibiza listed on soundcheck. 2 upcoming nights, with line-ups including Liana, Monile, Pacome and Paul Traeumer and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Paul Traeumer X Tanika X Waï | Paul Traeumer |
+| Fri, 25 Sept 2026 | AUDIODISE x Offbeat by OpenLab pres. Unai Trotti, Monile, Pacome & Liana | Liana, Monile, Pacome, Unai Trotti |
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/nocturna/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/nocturna/)*

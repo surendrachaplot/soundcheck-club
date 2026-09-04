@@ -1,6 +1,6 @@
 # Kaj.O
 
-Kaj.O is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 3 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 12 Sept 2026.
+Kaj.O is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 12 Sept 2026.
 
 Kaj.O is a breakbeat and bass artist tracked on soundcheck, with 8 sets logged across Krakow and Warsaw. Often billed alongside Solin, shhron and Adnable. Next up: K-Bar Powiśle, Warsaw on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Kaj.O is a breakbeat and bass artist tracked on soundcheck, with 8 sets logged a
 
 Solin, shhron, Adnable
 
-*Updated Thu, 3 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaj.o/)*
+*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaj.o/)*
