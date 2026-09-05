@@ -1,6 +1,6 @@
 # LIL RISK
 
-LIL RISK is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Private Location, Berlin on Sat, 5 Sept 2026.
+LIL RISK is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Private Location, Berlin on Sat, 5 Sept 2026.
 
 LIL RISK is a club and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Berlin, Hongkong, Leipzig and Losangeles. Often billed alongside Amowia, Hyperaktivist and Kikelomo. Next up: TBA - Private Location, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ LIL RISK is a club and techno artist based in United States of America, tracked 
 
 Amowia, Hyperaktivist, Kikelomo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrisk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrisk/)*

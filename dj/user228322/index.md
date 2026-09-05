@@ -1,6 +1,6 @@
 # user228322
 
-user228322 is a Electro and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at B-SIDE, Warsaw on Fri, 11 Sept 2026.
+user228322 is a Electro and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at B-SIDE, Warsaw on Fri, 11 Sept 2026.
 
 user228322 is an electro and tech house artist tracked on soundcheck, with 55 sets logged across Krakow and Warsaw. Often billed alongside Boreichuk, Badalian and Slowmode. Next up: B-SIDE, Warsaw on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ user228322 is an electro and tech house artist tracked on soundcheck, with 55 se
 
 Boreichuk, Badalian, Slowmode
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*

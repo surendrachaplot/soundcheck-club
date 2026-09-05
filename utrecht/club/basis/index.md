@@ -1,14 +1,13 @@
 # BASIS
 
-BASIS is a music venue in Utrecht with 19 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90" on Fri, 4 Sept 2026.
+BASIS is a music venue in Utrecht with 18 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "BASIS/ ANOUQUE/ Cybersex/ DJ HÖRDE/ DJ SPORTSCHUH" on Sat, 5 Sept 2026.
 
-BASIS is a music venue in Utrecht listed on soundcheck. 19 upcoming nights, with line-ups including 36framez, Alarico, Aphøtic and AREA ØNE and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
+BASIS is a music venue in Utrecht listed on soundcheck. 18 upcoming nights, with line-ups including 36framez, Alarico, Aphøtic and AREA ØNE and 2 more. Browse upcoming dates, start times and who's playing. Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | BASIS/ CAIVA/ Nedir Nadir/ Ramon Berendes/ Upper90 | CAIVA, Nedir Nadir, Ramon Berendes, Upper90 |
 | Sat, 5 Sept 2026 | BASIS/ ANOUQUE/ Cybersex/ DJ HÖRDE/ DJ SPORTSCHUH | Cybersex, DJ HÖRDE, DJ SPORTSCHUH |
 | Fri, 11 Sept 2026 | BASIS x Hardline/ Alarico pres. Kenji Hina/ DJ Cosworth b2b Oldboy/ Hannah Hannah | Alarico, DJ Cosworth, Hardline, Oldboy |
 | Sat, 12 Sept 2026 | BASIS x Smeerboel After/ Anna Nymphaea/ DART b2b Kyle Starkey/ Jessie Dols | DART, Jessie Dols, Kyle Starkey |
@@ -18,9 +17,10 @@ BASIS is a music venue in Utrecht listed on soundcheck. 19 upcoming nights, with
 | Sat, 26 Sept 2026 | BASIS/ Brent Honey/ fka.m4a (Jay Jackson)/ NewTone/ Roos Reijmers | Brent Honey, NewTone, fka.m4a |
 | Fri, 2 Oct 2026 | BASIS/ DEF/ Genetica/ LESSSS/ SANTØS | Genetica, LESSSS, SANTØS |
 | Sat, 3 Oct 2026 | BASIS/ BIIA All Night Long | BIIA |
+| Fri, 9 Oct 2026 | BASIS/ Ghetto House Special/ Böhm/ DJ Assault [extended set]/ DJ Godfather/ ZORA Soundsystem | Bohm, DJ Assault, DJ Godfather |
 
 ## Address
 
 Oudegracht aan de Werf 97 3511 AL Utrecht, Netherlands, Utrecht
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/basis/)*

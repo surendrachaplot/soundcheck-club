@@ -1,6 +1,6 @@
 # Remain
 
-Remain is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Absolem bar, Marseille on Sun, 6 Sept 2026.
+Remain is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Absolem bar, Marseille on Sun, 6 Sept 2026.
 
 Remain is a techno and house artist based in France, tracked on soundcheck, with 29 sets logged across Berlin, Lyon, Marseille and Mexicocity and 2 more. Often billed alongside Marc Houle, daWad and Tommy Castro. Next up: Absolem bar, Marseille on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Remain is a techno and house artist based in France, tracked on soundcheck, with
 
 Marc Houle, daWad, Tommy Castro
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remain/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remain/)*

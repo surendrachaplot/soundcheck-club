@@ -1,6 +1,6 @@
 # hisnameisevgeni
 
-hisnameisevgeni is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hoxton Cabin, London on Sat, 26 Sept 2026.
+hisnameisevgeni is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Hoxton Cabin, London on Sat, 26 Sept 2026.
 
 hisnameisevgeni is a progressive house and electronica artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Cecilia Ena, Jesus RedSoul and Tate Tosto. Next up: Hoxton Cabin, London on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ hisnameisevgeni is a progressive house and electronica artist based in United Ki
 
 Cecilia Ena, Jesus RedSoul, Tate Tosto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hisnameisevgeni/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hisnameisevgeni/)*

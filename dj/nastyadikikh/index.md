@@ -1,6 +1,6 @@
 # Nastya Dikikh
 
-Nastya Dikikh is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at C12, Brussels on Sat, 26 Sept 2026.
+Nastya Dikikh is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at C12, Brussels on Sat, 26 Sept 2026.
 
 Nastya Dikikh is a techno and industrial artist tracked on soundcheck, with 22 sets logged across Antwerp, Brussels, Sydney and Utrecht. Often billed alongside Justin Muscat, LIIA and ART IS HARD. Next up: C12, Brussels on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nastya Dikikh is a techno and industrial artist tracked on soundcheck, with 22 s
 
 Justin Muscat, LIIA, ART IS HARD
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyadikikh/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyadikikh/)*

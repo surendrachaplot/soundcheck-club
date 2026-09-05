@@ -1,6 +1,6 @@
 # Chad Andrew
 
-Chad Andrew is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Duke Of Tokyo, Amsterdam on Wed, 21 Oct 2026.
+Chad Andrew is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Duke Of Tokyo, Amsterdam on Wed, 21 Oct 2026.
 
 Chad Andrew is a house and minimal artist tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Barcelona and Berlin and 6 more. Often billed alongside Sam Gittis, AMO and Sebastian Paiza. Next up: Duke Of Tokyo, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Chad Andrew is a house and minimal artist tracked on soundcheck, with 53 sets lo
 
 Sam Gittis, AMO, Sebastian Paiza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chadandrew/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chadandrew/)*

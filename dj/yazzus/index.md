@@ -1,6 +1,6 @@
 # Yazzus
 
-Yazzus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Private Location, Berlin on Sat, 5 Sept 2026.
+Yazzus is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Private Location, Berlin on Sat, 5 Sept 2026.
 
 Yazzus is a techno and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: TBA - Private Location, Berlin on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Yazzus is a techno and house artist tracked on soundcheck, with 167 sets logged 
 
 DJ TOOL, Hyperaktivist, D.Dan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*

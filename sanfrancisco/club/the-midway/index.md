@@ -1,6 +1,6 @@
 # The Midway
 
-The Midway is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Electroluxx Block Party: Purple Disco Machine, RuPaul + more" on Sat, 5 Sept 2026.
+The Midway is a music venue in San Francisco/Oakland with 9 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Electroluxx Block Party: Purple Disco Machine, RuPaul + more" on Sat, 5 Sept 2026.
 
 The Midway is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nights, with line-ups including chungtech, DJ Holographic, Estiva and Franky Boissy and 2 more. Browse upcoming dates, start times and who's playing. 900 Marin Street, San Francisco, CA 94124.
 
@@ -8,7 +8,7 @@ The Midway is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nig
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Electroluxx Block Party: Purple Disco Machine, RuPaul + more | DJ Holographic, JLittle, Kilo, Purple Disco Machine, Twunkerbell, nina sol |
+| Sat, 5 Sept 2026 | Electroluxx Block Party: Purple Disco Machine, RuPaul + more | DJ Holographic, JLittle, Kilo, LITANY, Purple Disco Machine, Twunkerbell, nina sol |
 | Sat, 5 Sept 2026 | DJ Holographic | DJ Holographic |
 | Sat, 19 Sept 2026 | Polaris presents: Estiva 'Solyra' EP Tour | Estiva, MOSTASH, Pixxie, S Λ V |
 | Sat, 19 Sept 2026 | Satin Jackets | Satin Jackets |
@@ -22,4 +22,4 @@ The Midway is a music venue in Sanfrancisco listed on soundcheck. 9 upcoming nig
 
 900 Marin Street, San Francisco, CA 94124, San Francisco/Oakland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-midway/)*

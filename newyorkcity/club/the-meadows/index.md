@@ -1,6 +1,6 @@
 # The Meadows
 
-The Meadows is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "SUBELO - Dembow • Bachata • Mambo • Tipico (21+)" on Sat, 5 Sept 2026.
+The Meadows is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "SUBELO - Dembow • Bachata • Mambo • Tipico (21+)" on Sat, 5 Sept 2026.
 
 The Meadows is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
 
@@ -20,4 +20,4 @@ The Meadows is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nig
 
 17 Meadow St, Brooklyn, NY 11206, New York City
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*

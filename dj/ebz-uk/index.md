@@ -1,6 +1,6 @@
 # Ebz
 
-Ebz is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Beaver Works, Leeds on Sat, 5 Sept 2026.
+Ebz is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Beaver Works, Leeds on Sat, 5 Sept 2026.
 
 Ebz is a drum & bass and techno artist tracked on soundcheck, with 40 sets logged across Leeds, London, Nottingham and Sheffield. Often billed alongside Olesia_Ra, STRAY SON and KOKOH. Next up: Beaver Works, Leeds on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ebz is a drum & bass and techno artist tracked on soundcheck, with 40 sets logge
 
 Olesia_Ra, STRAY SON, KOKOH
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ebz-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ebz-uk/)*

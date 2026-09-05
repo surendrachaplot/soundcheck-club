@@ -1,6 +1,6 @@
 # subcutan
 
-subcutan is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 18 Sept 2026.
+subcutan is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 18 Sept 2026.
 
 subcutan is a trance and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin, Leipzig, Munich and Nurnberg. Often billed alongside NAGINI, Vaneska and Praun. Next up: Bahnwärter Thiel, Munich on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ subcutan is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 NAGINI, Vaneska, Praun
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subcutan/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subcutan/)*

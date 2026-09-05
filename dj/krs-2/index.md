@@ -1,6 +1,6 @@
 # kRs (2)
 
-kRs (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mitsuki, Tokyo on Fri, 18 Sept 2026.
+kRs (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mitsuki, Tokyo on Fri, 18 Sept 2026.
 
 kRs (2) is a house and electro artist tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside Chihoshi, YOYOHEI and TORAO. Next up: Mitsuki, Tokyo on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ kRs (2) is a house and electro artist tracked on soundcheck, with 9 sets logged 
 
 Chihoshi, YOYOHEI, TORAO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krs-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krs-2/)*

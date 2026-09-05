@@ -1,6 +1,6 @@
 # Adnable
 
-Adnable is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 12 Sept 2026.
+Adnable is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 12 Sept 2026.
 
 Adnable is a bass and breakbeat artist based in Poland, tracked on soundcheck, with 23 sets logged across Krakow and Warsaw. Often billed alongside shhron, Solin and Kaj.O. Next up: K-Bar Powiśle, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Adnable is a bass and breakbeat artist based in Poland, tracked on soundcheck, w
 
 shhron, Solin, Kaj.O
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adnable/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adnable/)*

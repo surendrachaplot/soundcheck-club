@@ -1,14 +1,14 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 12 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "FLY - For The Love of House - Alex Culross" on Fri, 4 Sept 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 12 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "NCTRN021: Club Nocturne presents McCart & Joe Banks" on Sat, 5 Sept 2026.
 
-Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 12 upcoming nights, with line-ups including YVI, Alex Culross, Avyakt and Ben Kok (2) and 2 more. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
+Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 12 upcoming nights, with line-ups including YVI, Avyakt, Ben Kok (2) and Benwal and 2 more. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | FLY - For The Love of House - Alex Culross | Alex Culross |
+| Sat, 5 Sept 2026 | NCTRN021: Club Nocturne presents McCart & Joe Banks | McCart |
 | Thu, 10 Sept 2026 | Desi Warehouse Vol. 14 | Avyakt, Psync |
 | Fri, 11 Sept 2026 | FLY - TWOFACED - Edinburgh |  |
 | Sat, 12 Sept 2026 | FLY Festival Edinbugh - Sat Afterhours - Cab Vol |  |
@@ -23,4 +23,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 12 upcoming
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

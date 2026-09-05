@@ -1,8 +1,8 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 5 Sept 2026.
+CC:DISCO! is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 5 Sept 2026.
 
-CC:DISCO! is a house and disco artist tracked on soundcheck, with 142 sets logged across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Chima Isaaro, Erol Alkan and Gerd Janson. Next up: 528 Ibiza, Ibiza on Sat 5 Sept.
+CC:DISCO! is a house and disco artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Chima Isaaro, Erol Alkan and Gerd Janson. Next up: 528 Ibiza, Ibiza on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ CC:DISCO! is a house and disco artist tracked on soundcheck, with 142 sets logge
 | Fri, 11 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | Garage Klub | Antwerp |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 20 Nov 2026 | VENT | Tokyo |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ CC:DISCO! is a house and disco artist tracked on soundcheck, with 142 sets logge
 
 Chima Isaaro, Erol Alkan, Gerd Janson
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*

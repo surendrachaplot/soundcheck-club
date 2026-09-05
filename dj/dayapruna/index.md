@@ -1,6 +1,6 @@
 # Daya Pruna
 
-Daya Pruna is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Crack Bellmer, Berlin on Sat, 12 Sept 2026.
+Daya Pruna is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Crack Bellmer, Berlin on Sat, 12 Sept 2026.
 
 Daya Pruna is a house and deep house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin and Seoul. Often billed alongside babxi, Red Pig Flower and DAAS (1). Next up: Crack Bellmer, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Daya Pruna is a house and deep house artist based in Germany, tracked on soundch
 
 babxi, Red Pig Flower, DAAS (1)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayapruna/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dayapruna/)*

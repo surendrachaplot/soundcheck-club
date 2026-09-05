@@ -1,6 +1,6 @@
 # Oneman
 
-Oneman is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Soup, Manchester on Thu, 24 Sept 2026.
+Oneman is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Soup, Manchester on Thu, 24 Sept 2026.
 
 Oneman is a garage and bass artist tracked on soundcheck, with 90 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 13 more. Often billed alongside RIZ LA TEEF, Lu.Re and Flowdan. Next up: Soup, Manchester on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Oneman is a garage and bass artist tracked on soundcheck, with 90 sets logged ac
 
 RIZ LA TEEF, Lu.Re, Flowdan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oneman/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oneman/)*

@@ -1,6 +1,6 @@
 # Planet KaiA
 
-Planet KaiA is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Periodicals, Detroit on Sat, 5 Sept 2026.
+Planet KaiA is a Ghetto Tech and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Periodicals, Detroit on Sat, 5 Sept 2026.
 
 Planet KaiA is a ghetto tech and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Detroit. Often billed alongside Fullbodydurag, Auntie Chanel and we1sman. Next up: Periodicals, Detroit on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Planet KaiA is a ghetto tech and techno artist based in United States of America
 
 Fullbodydurag, Auntie Chanel, we1sman
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/planetkaia/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/planetkaia/)*

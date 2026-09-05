@@ -1,8 +1,8 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Traum Summer Trip: Oko Stellar & TORI ANN" on Sat, 5 Sept 2026.
+TRAUM is a music venue in Antwerp with 10 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Traum Summer Trip: Oko Stellar & TORI ANN" on Sat, 5 Sept 2026.
 
-TRAUM is a music venue in Antwerp listed on soundcheck. 9 upcoming nights, with line-ups including Arter, Bevan, bullet tooth and Cameo Blush and 2 more. Browse upcoming dates, start times and who's playing.
+TRAUM is a music venue in Antwerp listed on soundcheck. 10 upcoming nights, with line-ups including Arter, Bevan, bullet tooth and Cameo Blush and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -17,5 +17,6 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 9 upcoming nights, with 
 | Fri, 9 Oct 2026 | Traum Nacht: Moodymann, Oko Stellar, Mab'ish | Mab'ish, Moodymann, Oko Stellar |
 | Sat, 10 Oct 2026 | Jungle Alliance | Coco Bryce, Dwarde, Sully, Tim Reaper |
 | Fri, 16 Oct 2026 | 9 Years of Soulful Sessions with Palms Trax | Bevan, EG (1), Lil Lawaw, Palms Trax, Zouzibabe |
+| Sat, 28 Nov 2026 | Traum Nacht: Ellen Allien, Clara D, Phemia | Clara D, Ellen Allien, Phemia |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

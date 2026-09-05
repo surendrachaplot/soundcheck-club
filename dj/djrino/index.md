@@ -1,14 +1,15 @@
 # DJ Rino
 
-DJ Rino is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Gaffe, London on Sat, 5 Sept 2026.
+DJ Rino is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Gaffe, London on Sat, 5 Sept 2026.
 
-DJ Rino is a techno and house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Dana Kuehr and Kuba'97. Next up: Gaffe, London on Sat 5 Sept.
+DJ Rino is a techno and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Dana Kuehr and Kuba'97. Next up: Gaffe, London on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Gaffe | London |
+| Sun, 6 Sept 2026 | Algha's Plantroom | London |
 | Sat, 3 Oct 2026 | Myra Ostraria | Lisbon |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
@@ -28,4 +29,4 @@ DJ Rino is a techno and house artist tracked on soundcheck, with 98 sets logged 
 
 Walrus, Dana Kuehr, Kuba'97
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrino/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrino/)*

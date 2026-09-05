@@ -1,6 +1,6 @@
 # Sokolyann
 
-Sokolyann is a Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Folklore, London on Sat, 17 Oct 2026.
+Sokolyann is a Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Folklore, London on Sat, 17 Oct 2026.
 
 Sokolyann is a downtempo artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside rannag, External Subway and GreenWay. Next up: Folklore, London on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Sokolyann is a downtempo artist tracked on soundcheck, with 7 sets logged across
 
 rannag, External Subway, GreenWay
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sokolyann/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sokolyann/)*

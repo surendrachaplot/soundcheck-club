@@ -1,6 +1,6 @@
 # St. David
 
-St. David is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
+St. David is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Strijkviertel, Utrecht on Sat, 5 Sept 2026.
 
 St. David is a house and techno artist based in Italy, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 7 more. Often billed alongside TSHA, Jamie Unknown and Papa Nugs. Next up: Strijkviertel, Utrecht on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ St. David is a house and techno artist based in Italy, tracked on soundcheck, wi
 
 TSHA, Jamie Unknown, Papa Nugs
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stdavid/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stdavid/)*

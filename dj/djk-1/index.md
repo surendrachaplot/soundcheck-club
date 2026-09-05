@@ -1,6 +1,6 @@
 # DJK
 
-DJK is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+DJK is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 DJK is a techno and electronica artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Detroit and Krakow and 3 more. Often billed alongside ojoo, Ana Roxanne and Arsenal Mikebe. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ DJK is a techno and electronica artist tracked on soundcheck, with 9 sets logged
 
 ojoo, Ana Roxanne, Arsenal Mikebe
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djk-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djk-1/)*

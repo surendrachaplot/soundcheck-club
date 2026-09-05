@@ -1,8 +1,8 @@
 # DAIYAH
 
-DAIYAH is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Chicago on Sat, 5 Sept 2026.
+DAIYAH is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Chicago on Sat, 5 Sept 2026.
 
-DAIYAH is a techno and house artist based in United States of America, tracked on soundcheck, with 95 sets logged across Amsterdam, Austin, Berlin and Boston and 8 more. Often billed alongside Devoye, Juliana Huxtable and KYRUH. Next up: TBA, Chicago on Sat 5 Sept.
+DAIYAH is a techno and house artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, Berlin and Boston and 8 more. Often billed alongside Devoye, Juliana Huxtable and KYRUH. Next up: TBA, Chicago on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DAIYAH is a techno and house artist based in United States of America, tracked o
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | TBA | Chicago |
 | Thu, 17 Sept 2026 | Phantom Bar Berlin | Berlin |
+| Sat, 3 Oct 2026 | TBA - Call Infoline for Secret Location | Boston |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
@@ -27,4 +28,4 @@ DAIYAH is a techno and house artist based in United States of America, tracked o
 
 Devoye, Juliana Huxtable, KYRUH
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daiyah/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daiyah/)*

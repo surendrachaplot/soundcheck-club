@@ -1,6 +1,6 @@
 # Goosey
 
-Goosey is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Green Works, Bristol on Sat, 5 Sept 2026.
+Goosey is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Green Works, Bristol on Sat, 5 Sept 2026.
 
 Goosey is a house and tech house artist tracked on soundcheck, with 74 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 12 more. Often billed alongside Enzo is Burning, Gaskin and Manda Moor. Next up: Green Works, Bristol on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Goosey is a house and tech house artist tracked on soundcheck, with 74 sets logg
 
 Enzo is Burning, Gaskin, Manda Moor
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*

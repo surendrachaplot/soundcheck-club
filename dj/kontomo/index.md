@@ -1,6 +1,6 @@
 # KONTOMO
 
-KONTOMO is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
+KONTOMO is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
 
 KONTOMO is a techno and industrial artist based in China, tracked on soundcheck, with 15 sets logged across Bangkok, Hongkong, Osaka and Shenzhen and 1 more. Often billed alongside Linh Violet, EVE (1) and TEI TEI. Next up: TBA - Kai Tak Cruise Terminal Waiting Hall A, Hongkong on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ KONTOMO is a techno and industrial artist based in China, tracked on soundcheck,
 
 Linh Violet, EVE (1), TEI TEI
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kontomo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kontomo/)*

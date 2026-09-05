@@ -1,6 +1,6 @@
 # Mikass
 
-Mikass is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at B2 Rīga, Riga on Fri, 18 Sept 2026.
+Mikass is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at B2 Rīga, Riga on Fri, 18 Sept 2026.
 
 Mikass is a house and techno artist tracked on soundcheck, with 30 sets logged across Riga. Often billed alongside Johnny Depo, Grisha Nirgov and Recurrence. Next up: B2 Rīga, Riga on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mikass is a house and techno artist tracked on soundcheck, with 30 sets logged a
 
 Johnny Depo, Grisha Nirgov, Recurrence
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikass/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikass/)*

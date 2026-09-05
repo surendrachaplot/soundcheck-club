@@ -1,6 +1,6 @@
 # Arto (2)
 
-Arto (2) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Copenhill, Copenhagen on Fri, 18 Sept 2026.
+Arto (2) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Copenhill, Copenhagen on Fri, 18 Sept 2026.
 
 Arto (2) is a house and acid artist based in Denmark, tracked on soundcheck, with 7 sets logged across Copenhagen. Often billed alongside dj bootymagic, Anton Goltermann and Jake Mckay. Next up: Copenhill, Copenhagen on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Arto (2) is a house and acid artist based in Denmark, tracked on soundcheck, wit
 
 dj bootymagic, Anton Goltermann, Jake Mckay
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arto-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arto-2/)*

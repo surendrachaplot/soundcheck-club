@@ -1,6 +1,6 @@
 # Kaya
 
-Kaya is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at E1, London on Sat, 17 Oct 2026.
+Kaya is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at E1, London on Sat, 17 Oct 2026.
 
 Kaya is a house and afro tech artist tracked on soundcheck, with 14 sets logged across Bali, Berlin, Brighton and Bristol and 5 more. Often billed alongside Fattony, Jamie Love and Anta (FR). Next up: E1, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Kaya is a house and afro tech artist tracked on soundcheck, with 14 sets logged 
 
 Fattony, Jamie Love, Anta (FR)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaya/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaya/)*

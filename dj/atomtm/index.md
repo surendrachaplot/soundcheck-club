@@ -1,6 +1,6 @@
 # Atom™
 
-Atom™ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Circolo Amelia, Milan on Sat, 3 Oct 2026.
+Atom™ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Circolo Amelia, Milan on Sat, 3 Oct 2026.
 
 Atom™ is a techno and house artist tracked on soundcheck, with 6 sets logged across Barcelona, Milan, Montreal and Osaka. Often billed alongside Peter Van Hoesen, .VRIL and E-Saggila. Next up: Circolo Amelia, Milan on Sat 3 Oct.
 
@@ -22,4 +22,4 @@ Atom™ is a techno and house artist tracked on soundcheck, with 6 sets logged a
 
 Peter Van Hoesen, .VRIL, E-Saggila
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atomtm/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atomtm/)*

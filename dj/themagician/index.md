@@ -1,6 +1,6 @@
 # The Magician
 
-The Magician is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 17 Sept 2026.
+The Magician is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Thu, 17 Sept 2026.
 
 The Magician is a house and disco artist based in Belgium, tracked on soundcheck, with 42 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 12 more. Often billed alongside A-Trak, Martin Garrix and HAI-LIFE. Next up: Ushuaïa Ibiza, Ibiza on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ The Magician is a house and disco artist based in Belgium, tracked on soundcheck
 
 A-Trak, Martin Garrix, HAI-LIFE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themagician/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themagician/)*

@@ -1,6 +1,6 @@
 # Canal 54
 
-Canal 54 is a music venue in Geneva with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Hamada Night" on Fri, 11 Sept 2026.
+Canal 54 is a music venue in Geneva with 5 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Hamada Night" on Fri, 11 Sept 2026.
 
 Canal 54 is a music venue in Geneva listed on soundcheck. 5 upcoming nights, with line-ups including Braises de Velours, Cora M., Garance and Leo Gretener and 2 more. Browse upcoming dates, start times and who's playing. Boulevard St-George 54, 1205 Genève.
 
@@ -18,4 +18,4 @@ Canal 54 is a music venue in Geneva listed on soundcheck. 5 upcoming nights, wit
 
 Boulevard St-George 54, 1205 Genève, Geneva
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/canal-54/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/canal-54/)*

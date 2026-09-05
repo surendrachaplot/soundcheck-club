@@ -1,6 +1,6 @@
 # Rudaki
 
-Rudaki is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Panama, Amsterdam on Sat, 21 Nov 2026.
+Rudaki is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Panama, Amsterdam on Sat, 21 Nov 2026.
 
 Rudaki is a techno artist tracked on soundcheck, with 12 sets logged across Amsterdam, Berlin, Lisbon and Nurnberg and 2 more. Often billed alongside Azyr, KARAH and Raxeller. Next up: Panama, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rudaki is a techno artist tracked on soundcheck, with 12 sets logged across Amst
 
 Azyr, KARAH, Raxeller
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rudaki/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rudaki/)*

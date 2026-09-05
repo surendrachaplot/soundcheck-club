@@ -1,6 +1,6 @@
 # 2M (2)
 
-2M (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Curveball, Dublin on Fri, 11 Sept 2026.
+2M (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Curveball, Dublin on Fri, 11 Sept 2026.
 
 2M (2) is a techno and trance artist based in Ireland, tracked on soundcheck, with 21 sets logged across Cork, Dublin, London and Milan and 1 more. Often billed alongside DJ Dobrel, K.IKOEI and Leonardo Biagini. Next up: Curveball, Dublin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@
 
 DJ Dobrel, K.IKOEI, Leonardo Biagini
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2m-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2m-2/)*

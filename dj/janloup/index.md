@@ -1,14 +1,15 @@
 # Jan Loup
 
-Jan Loup is a Bass and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location, Berlin, Berlin on Sat, 12 Sept 2026.
+Jan Loup is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Secret Location, Berlin, Berlin on Sat, 12 Sept 2026.
 
-Jan Loup is a bass and techno artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Brussels and Budapest and 19 more. Often billed alongside Maquis Son Sistèm, A Strange Wedding and Woody92. Next up: TBA - Secret Location, Berlin, Berlin on Sat 12 Sept.
+Jan Loup is a bass and techno artist based in France, tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Brussels and Budapest and 20 more. Often billed alongside Maquis Son Sistèm, A Strange Wedding and Woody92. Next up: TBA - Secret Location, Berlin, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - Secret Location, Berlin | Berlin |
+| Fri, 25 Sept 2026 | Zoo | Geneva |
 | Fri, 2 Oct 2026 | Sameheads | Berlin |
 | Fri, 23 Oct 2026 | OHM | Berlin |
 
@@ -27,4 +28,4 @@ Jan Loup is a bass and techno artist based in France, tracked on soundcheck, wit
 
 Maquis Son Sistèm, A Strange Wedding, Woody92
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janloup/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janloup/)*

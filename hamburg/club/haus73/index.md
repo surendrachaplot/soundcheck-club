@@ -1,14 +1,13 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Lust auf Techno? by Tous Les Fruits" on Fri, 4 Sept 2026.
+Haus73 is a music venue in Hamburg with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "SPLIT: SUBMASSIVE x GIVE ME A BREAK" on Fri, 11 Sept 2026.
 
-Haus73 is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with line-ups including ACID B4RBIE, aitch, eira haul and Ivaldo Gino and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
+Haus73 is a music venue in Hamburg listed on soundcheck. 8 upcoming nights, with line-ups including ACID B4RBIE, aitch, eira haul and Ivaldo Gino and 2 more. Browse upcoming dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Lust auf Techno? by Tous Les Fruits | Luca Oswald |
 | Fri, 11 Sept 2026 | SPLIT: SUBMASSIVE x GIVE ME A BREAK |  |
 | Fri, 11 Sept 2026 | Submassive x Give Me A Break | Ivaldo Gino, Lang Jan (2), PUSS1 BABA, Sarah Q, Suzi Mystique, Usus |
 | Sun, 13 Sept 2026 | Danny Steinmeyer |  |
@@ -22,4 +21,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 9 upcoming nights, with
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

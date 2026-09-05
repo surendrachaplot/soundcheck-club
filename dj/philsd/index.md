@@ -1,6 +1,6 @@
 # Phil SD
 
-Phil SD is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Silbergold, Frankfurt on Fri, 4 Sept 2026.
+Phil SD is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Silbergold, Frankfurt on Fri, 4 Sept 2026.
 
 Phil SD is a house and breakbeat artist tracked on soundcheck, with 8 sets logged across Frankfurt. Often billed alongside Heinrich Narb, Lukas Akata and ²nimble. Next up: Silbergold, Frankfurt on Fri 4 Sept.
 
@@ -12,6 +12,7 @@ Phil SD is a house and breakbeat artist tracked on soundcheck, with 8 sets logge
 
 ## Recently played
 
+- Silbergold, Frankfurt — Fri, 4 Sept 2026
 - Yachtklub, Frankfurt — Fri, 22 Aug 2025
 - Yachtklub, Frankfurt — Fri, 27 Jun 2025
 - Silbergold, Frankfurt — Wed, 28 May 2025
@@ -24,4 +25,4 @@ Phil SD is a house and breakbeat artist tracked on soundcheck, with 8 sets logge
 
 Heinrich Narb, Lukas Akata, ²nimble
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philsd/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philsd/)*

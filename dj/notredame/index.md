@@ -1,6 +1,6 @@
 # Notre Dame
 
-Notre Dame is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Notre Dame is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Notre Dame is a house and afro house artist tracked on soundcheck, with 120 sets logged across Amsterdam, Athens, Austin and Barcelona and 33 more. Often billed alongside Alex Wann, Artbat and Bedouin. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -15,6 +15,7 @@ Notre Dame is a house and afro house artist tracked on soundcheck, with 120 sets
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - Amok Club, Mallorca — Mon, 24 Aug 2026
 - Chinois Ibiza, Ibiza — Sun, 2 Aug 2026
 - Island Athens Riviera, Athens — Sun, 26 Jul 2026
@@ -22,10 +23,9 @@ Notre Dame is a house and afro house artist tracked on soundcheck, with 120 sets
 - TBA - Engros Markt Aargauerstrasse 1, 8048 Zürich, Zurich — Sat, 13 Jun 2026
 - Hive Club, Zurich — Sat, 13 Jun 2026
 - [UNVRS], Ibiza — Tue, 9 Jun 2026
-- Santa Monica Pier, Los Angeles — Sat, 30 May 2026
 
 ## Shares bills with
 
 Alex Wann, Artbat, Bedouin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notredame/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notredame/)*

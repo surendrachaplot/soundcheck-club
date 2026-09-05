@@ -1,6 +1,6 @@
 # Paulanerkirche, Vienna
 
-Paulanerkirche, Vienna is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "The Music of Harry Potter by Mystery Ensemble" on Fri, 25 Sept 2026.
+Paulanerkirche, Vienna is a music venue in Vienna with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "The Music of Harry Potter by Mystery Ensemble" on Fri, 25 Sept 2026.
 
 Paulanerkirche, Vienna is a music venue in Vienna listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Paulanerkirche, Vienna is a music venue in Vienna listed on soundcheck. 2 upcomi
 | Fri, 25 Sept 2026 | The Music of Harry Potter by Mystery Ensemble |  |
 | Fri, 23 Oct 2026 | The Four Seasons Reimagined. From Richter to Vivaldi by Mystery Ensemble |  |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/paulanerkirche-vienna/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/paulanerkirche-vienna/)*

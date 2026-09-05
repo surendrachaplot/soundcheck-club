@@ -1,6 +1,6 @@
 # Leena Punks
 
-Leena Punks is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
+Leena Punks is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
 
 Leena Punks is a trance and progressive house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Austin, Ibiza and Liverpool and 9 more. Often billed alongside Amy Wiles, Ben Hemsley and Mat Zo. Next up: The Timber Loft, London on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Leena Punks is a trance and progressive house artist tracked on soundcheck, with
 
 Amy Wiles, Ben Hemsley, Mat Zo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leenapunks/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leenapunks/)*

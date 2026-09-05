@@ -1,6 +1,6 @@
 # Black Panda
 
-Black Panda is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fluid510, San Francisco/Oakland on Sat, 12 Sept 2026.
+Black Panda is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Fluid510, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Black Panda is a house and afro house artist tracked on soundcheck, with 40 sets logged across Sanfrancisco. Often billed alongside vRok, DJ Parrot and HIDRA. Next up: Fluid510, Sanfrancisco on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Black Panda is a house and afro house artist tracked on soundcheck, with 40 sets
 
 vRok, DJ Parrot, HIDRA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpanda/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackpanda/)*

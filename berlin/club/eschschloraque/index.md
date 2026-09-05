@@ -1,14 +1,13 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Boris Day" on Fri, 4 Sept 2026.
+Eschschloraque is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Another NORIGINAL NIGHT (No Originals Just Covers)" on Wed, 9 Sept 2026.
 
-Eschschloraque is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including MissVergnügen and Sheila Chipperfield. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
+Eschschloraque is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including MissVergnügen and Sheila Chipperfield. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Boris Day |  |
 | Wed, 9 Sept 2026 | Another NORIGINAL NIGHT (No Originals Just Covers) | MissVergnügen, Sheila Chipperfield |
 | Thu, 10 Sept 2026 | The Great Bordedom |  |
 | Wed, 16 Sept 2026 | Strange Songs for Strange People | MissVergnügen |
@@ -20,4 +19,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 7 upcoming night
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

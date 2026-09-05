@@ -1,6 +1,6 @@
 # DJ Hops
 
-DJ Hops is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OHM, Berlin on Sat, 26 Sept 2026.
+DJ Hops is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at OHM, Berlin on Sat, 26 Sept 2026.
 
 DJ Hops is a dubstep and bass artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Orson, DJ Flounce and Impurity. Next up: OHM, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ Hops is a dubstep and bass artist based in Germany, tracked on soundcheck, wi
 
 Orson, DJ Flounce, Impurity
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hops/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hops/)*

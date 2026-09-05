@@ -1,14 +1,13 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Forbindelsehallen, Stockholm on Fri, 4 Sept 2026.
+Artbat is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 9 Sept 2026.
 
-Artbat is a techno and progressive house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Forbindelsehallen, Stockholm on Fri 4 Sept.
+Artbat is a techno and progressive house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Amnesia Ibiza, Ibiza on Wed 9 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Forbindelsehallen | Stockholm |
 | Wed, 9 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Château de Fontainebleau | Paris |
 | Fri, 16 Oct 2026 | Zumana Bali | Bali |
@@ -17,6 +16,7 @@ Artbat is a techno and progressive house artist tracked on soundcheck, with 121 
 
 ## Recently played
 
+- Forbindelsehallen, Stockholm — Fri, 4 Sept 2026
 - [UNVRS], Ibiza — Tue, 1 Sept 2026
 - Jardins de Joan Brossa, Barcelona — Sun, 23 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 19 Aug 2026
@@ -24,10 +24,9 @@ Artbat is a techno and progressive house artist tracked on soundcheck, with 121 
 - Downsview Park, Toronto — Fri, 31 Jul 2026
 - Pacha New York, New York City — Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza — Wed, 29 Jul 2026
-- Horse Park Zürich, Zurich — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

@@ -1,6 +1,6 @@
 # Imox
 
-Imox is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Razzmatazz, Barcelona on Sun, 6 Sept 2026.
+Imox is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Razzmatazz, Barcelona on Sun, 6 Sept 2026.
 
 Imox is a techno and dub techno artist based in Spain, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Buenosaires and London and 2 more. Often billed alongside Ángel Molina, ABSIS and Ario. Next up: Razzmatazz, Barcelona on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Imox is a techno and dub techno artist based in Spain, tracked on soundcheck, wi
 
 Ángel Molina, ABSIS, Ario
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imox/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imox/)*

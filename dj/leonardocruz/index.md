@@ -1,6 +1,6 @@
 # Leonardo Cruz
 
-Leonardo Cruz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lux Fragil, Lisbon on Fri, 25 Sept 2026.
+Leonardo Cruz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Lux Fragil, Lisbon on Fri, 25 Sept 2026.
 
 Leonardo Cruz is a house and techno artist tracked on soundcheck, with 5 sets logged across Lisbon, London and Newyorkcity. Often billed alongside Jordi Iven, DVS1 and Dune. Next up: Lux Fragil, Lisbon on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Leonardo Cruz is a house and techno artist tracked on soundcheck, with 5 sets lo
 
 Jordi Iven, DVS1, Dune
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardocruz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardocruz/)*

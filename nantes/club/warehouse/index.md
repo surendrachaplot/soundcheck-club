@@ -1,14 +1,13 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 10 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Rave in Da Club x Wolf City: Hysta, Lekkerfaces, Ophidian, RDØ Nantes" on Fri, 4 Sept 2026.
+Warehouse is a music venue in Nantes with 10 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Club de Jour invite GUTS" on Sat, 26 Sept 2026.
 
-Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming nights, with line-ups including Bellaire, Bob Sinclar, Corentin Mab and Dan Bono and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
+Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming nights, with line-ups including Azhar Sistorms, Bellaire, Bob Sinclar and BSD and 2 more. Browse upcoming dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Rave in Da Club x Wolf City: Hysta, Lekkerfaces, Ophidian, RDØ Nantes | EVN (2), Lekkerfaces, Ophidian |
 | Sat, 26 Sept 2026 | Club de Jour invite GUTS |  |
 | Fri, 2 Oct 2026 | Warehouse 9 ans avec Bob Sinclar | Bob Sinclar, Corentin Mab, Dan Bono, Quentin Schneider |
 | Fri, 9 Oct 2026 | NANTES RAVE TECHNO XXL with NOVAH, MATRAKK, Maudux, DJ Caline, Mosmoz | DJ Caline, MATRAKK, Maudux, NOVAH |
@@ -16,6 +15,7 @@ Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming nights, w
 | Fri, 16 Oct 2026 | PANDEMIC W/ Vortek's - Dr Donk - Noiseflow - Kruella - Pa//ra - Nemesys | Dr Donk, Vortek's |
 | Sat, 17 Oct 2026 | Club de Jour invite KÖLSCH | Kolsch |
 | Wed, 28 Oct 2026 | Deep Forest en concert à Nantes | Deep Forest |
+| Fri, 30 Oct 2026 | Nantes Rave Techno W/ Vladimir Cauchemar, Shanixx, Noir Mat & More | Azhar Sistorms, BSD, Shanixx, Vladimir Cauchemar |
 | Sat, 7 Nov 2026 | Club de Jour invite Bellaire & Dimitri From Paris | Bellaire, Corentin Mab, Dan Bono, Dimitri From Paris |
 | Fri, 20 Nov 2026 | ORGANÏK with Jazzy, Yoshiko, Todiefor | HIBI, Todiefor, Yoshiko |
 
@@ -23,4 +23,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming nights, w
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

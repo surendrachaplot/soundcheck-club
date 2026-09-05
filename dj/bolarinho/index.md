@@ -1,6 +1,6 @@
 # Bolarinho
 
-Bolarinho is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Belvedere du Centre Des Sciences de Montréal, Montreal on Sat, 5 Sept 2026.
+Bolarinho is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Belvedere du Centre Des Sciences de Montréal, Montreal on Sat, 5 Sept 2026.
 
 Bolarinho is a house and disco artist tracked on soundcheck, with 24 sets logged across Montreal. Often billed alongside Arielle Roberge, Manuel Falardeau and Claire. Next up: Belvedere du Centre Des Sciences de Montréal, Montreal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Bolarinho is a house and disco artist tracked on soundcheck, with 24 sets logged
 
 Arielle Roberge, Manuel Falardeau, Claire
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bolarinho/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bolarinho/)*

@@ -1,6 +1,6 @@
 # Maurice Mino
 
-Maurice Mino is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
+Maurice Mino is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Kater, Berlin on Fri, 18 Sept 2026.
 
 Maurice Mino is a techno and house artist based in Germany, tracked on soundcheck, with 146 sets logged across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: Kater, Berlin on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Maurice Mino is a techno and house artist based in Germany, tracked on soundchec
 
 Sin:port, Sabura, Konfusia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*

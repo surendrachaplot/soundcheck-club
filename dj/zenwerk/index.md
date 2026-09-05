@@ -1,6 +1,6 @@
 # zenwerk
 
-zenwerk is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kaskada, Warsaw on Fri, 25 Sept 2026.
+zenwerk is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Kaskada, Warsaw on Fri, 25 Sept 2026.
 
 zenwerk is a tech house and house artist tracked on soundcheck, with 55 sets logged across Krakow, Lisbon and Warsaw. Often billed alongside aist (LT), zuzaeksperyment and Helga. Next up: Kaskada, Warsaw on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ zenwerk is a tech house and house artist tracked on soundcheck, with 55 sets log
 
 aist (LT), zuzaeksperyment, Helga
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zenwerk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zenwerk/)*

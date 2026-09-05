@@ -1,6 +1,6 @@
 # BECCA SORANA
 
-BECCA SORANA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 6 Sept 2026.
+BECCA SORANA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sun, 6 Sept 2026.
 
 BECCA SORANA is a techno and trance artist based in Brazil, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin and Milan. Often billed alongside ATMEN, Alex Pott and Ambarcita. Next up: Sunseabar Beach Club, Barcelona on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ BECCA SORANA is a techno and trance artist based in Brazil, tracked on soundchec
 
 ATMEN, Alex Pott, Ambarcita
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beccasorana/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beccasorana/)*

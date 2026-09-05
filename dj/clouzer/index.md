@@ -1,6 +1,6 @@
 # Clouzer
 
-Clouzer is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
+Clouzer is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Void Club, Berlin on Fri, 2 Oct 2026.
 
 Clouzer is an ebm and techno artist tracked on soundcheck, with 8 sets logged across Bangkok, Berlin and Prague. Often billed alongside ANTGNSM, Franz Scala and ANDI A.. Next up: Void Club, Berlin on Fri 2 Oct.
 
@@ -24,4 +24,4 @@ Clouzer is an ebm and techno artist tracked on soundcheck, with 8 sets logged ac
 
 ANTGNSM, Franz Scala, ANDI A.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clouzer/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clouzer/)*

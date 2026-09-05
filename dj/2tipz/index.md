@@ -1,6 +1,6 @@
 # 2tipz
 
-2tipz is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Guild Row, Chicago on Sun, 6 Sept 2026.
+2tipz is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Guild Row, Chicago on Sun, 6 Sept 2026.
 
 2tipz is a club and footwork artist tracked on soundcheck, with 9 sets logged across Chicago. Often billed alongside Dj Scari, Relativity Lounge and swesdo. Next up: Guild Row, Chicago on Sun 6 Sept.
 
@@ -25,4 +25,4 @@
 
 Dj Scari, Relativity Lounge, swesdo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2tipz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2tipz/)*

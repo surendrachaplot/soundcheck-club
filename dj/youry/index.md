@@ -1,6 +1,6 @@
 # Youry
 
-Youry is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Youry is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
 Youry is a house and techno artist tracked on soundcheck, with 12 sets logged across Hongkong. Often billed alongside Guido Balboa, Emel and Jascer. Next up: Tai Tong Organic Ecopark, Hongkong on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Youry is a house and techno artist tracked on soundcheck, with 12 sets logged ac
 
 Guido Balboa, Emel, Jascer
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youry/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youry/)*

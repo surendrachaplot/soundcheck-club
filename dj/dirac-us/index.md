@@ -1,6 +1,6 @@
 # Dirac (US)
 
-Dirac (US) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sat, 12 Sept 2026.
+Dirac (US) is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Great Northern, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Dirac (US) is a techno and tech house artist tracked on soundcheck, with 17 sets logged across Sanfrancisco and Tbilisi. Often billed alongside Emanate, ALMAS and HIDRA. Next up: The Great Northern, Sanfrancisco on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Dirac (US) is a techno and tech house artist tracked on soundcheck, with 17 sets
 
 Emanate, ALMAS, HIDRA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirac-us/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dirac-us/)*

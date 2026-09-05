@@ -1,6 +1,6 @@
 # Simo Cell
 
-Simo Cell is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Soup, Manchester on Sat, 19 Sept 2026.
+Simo Cell is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Soup, Manchester on Sat, 19 Sept 2026.
 
 Simo Cell is a techno and bass artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 42 more. Often billed alongside CCL, DjRUM and Ehua. Next up: Soup, Manchester on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Simo Cell is a techno and bass artist tracked on soundcheck, with 110 sets logge
 
 CCL, DjRUM, Ehua
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*

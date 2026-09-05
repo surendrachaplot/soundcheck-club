@@ -1,6 +1,6 @@
 # Conntex
 
-Conntex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at ÆDEN, Berlin on Thu, 10 Sept 2026.
+Conntex is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at ÆDEN, Berlin on Thu, 10 Sept 2026.
 
 Conntex is a techno and house artist tracked on soundcheck, with 22 sets logged across Berlin, London, Munich and Prague and 1 more. Often billed alongside Blck-Swan, Alex Friday and Artifex (DE). Next up: ÆDEN, Berlin on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Conntex is a techno and house artist tracked on soundcheck, with 22 sets logged 
 
 Blck-Swan, Alex Friday, Artifex (DE)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conntex/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conntex/)*

@@ -1,6 +1,6 @@
 # Brutalismus 3000
 
-Brutalismus 3000 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Brutalismus 3000 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Brutalismus 3000 is a techno and house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 33 more. Often billed alongside DJ Gigola, MCR-T and 999999999. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -17,6 +17,7 @@ Brutalismus 3000 is a techno and house artist tracked on soundcheck, with 71 set
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Parc Jean-Drapeau, Montreal — Fri, 31 Jul 2026
 - TBA, Berlin — Fri, 10 Jul 2026
@@ -24,10 +25,9 @@ Brutalismus 3000 is a techno and house artist tracked on soundcheck, with 71 set
 - Drom, New York City — Thu, 11 Jun 2026
 - UNDERCITY, Seoul — Sat, 9 May 2026
 - Radius, Chicago — Sat, 4 Oct 2025
-- Radius, Chicago — Fri, 3 Oct 2025
 
 ## Shares bills with
 
 DJ Gigola, MCR-T, 999999999
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*

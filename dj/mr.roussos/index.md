@@ -1,6 +1,6 @@
 # Mr. Roussos
 
-Mr. Roussos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Mr. Roussos is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Mr. Roussos is a house and techno artist tracked on soundcheck, with 55 sets logged across Athens. Often billed alongside Bonso, Mr.M and Useless Co.. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Mr. Roussos is a house and techno artist tracked on soundcheck, with 55 sets log
 
 Bonso, Mr.M, Useless Co.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.roussos/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.roussos/)*

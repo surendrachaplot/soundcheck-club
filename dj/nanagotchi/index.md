@@ -1,6 +1,6 @@
 # NANAGOTCHI
 
-NANAGOTCHI is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sinners and Saints, Washington DC on Sat, 5 Sept 2026.
+NANAGOTCHI is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sinners and Saints, Washington DC on Sat, 5 Sept 2026.
 
 NANAGOTCHI is a hardcore and club artist based in United States of America, tracked on soundcheck, with 9 sets logged across Washingtondc. Often billed alongside Girlypop Princess, ILUSM and EL SUCIO. Next up: Sinners and Saints, Washingtondc on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ NANAGOTCHI is a hardcore and club artist based in United States of America, trac
 
 Girlypop Princess, ILUSM, EL SUCIO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanagotchi/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanagotchi/)*

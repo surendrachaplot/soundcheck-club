@@ -1,6 +1,6 @@
 # Wharf Chambers
 
-Wharf Chambers is a music venue in Leeds with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Lick Quid Gold with Jay Duncan and Billy Jack" on Fri, 18 Sept 2026.
+Wharf Chambers is a music venue in Leeds with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Lick Quid Gold with Jay Duncan and Billy Jack" on Fri, 18 Sept 2026.
 
 Wharf Chambers is a music venue in Leeds listed on soundcheck. 6 upcoming nights, with line-ups including Anastasia McGarel, Billy Jack (UK), Diverge and Gremlinz and 2 more. Browse upcoming dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
 
@@ -19,4 +19,4 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 6 upcoming nights
 
 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom, Leeds
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*

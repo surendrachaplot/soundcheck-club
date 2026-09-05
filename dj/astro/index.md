@@ -1,6 +1,6 @@
 # Astro
 
-Astro is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 10 Oct 2026.
+Astro is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 10 Oct 2026.
 
 Astro is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Birmingham and Buenosaires and 3 more. Often billed alongside Febe, Miss Voltaghe and Barreto. Next up: People's Leisure Club, Edinburgh on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Astro is a house and electronica artist based in United Kingdom, tracked on soun
 
 Febe, Miss Voltaghe, Barreto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astro/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astro/)*

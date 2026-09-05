@@ -1,6 +1,6 @@
 # Jacky Jeane
 
-Jacky Jeane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at La Rotonde Stalingrad, Paris on Fri, 11 Sept 2026.
+Jacky Jeane is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at La Rotonde Stalingrad, Paris on Fri, 11 Sept 2026.
 
 Jacky Jeane is a techno and house artist tracked on soundcheck, with 69 sets logged across Berlin, Brussels, Lyon and Marseille and 3 more. Often billed alongside Sarcus Soundsystem, Ubik (Fr) and OLGA B.. Next up: La Rotonde Stalingrad, Paris on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Jacky Jeane is a techno and house artist tracked on soundcheck, with 69 sets log
 
 Sarcus Soundsystem, Ubik (Fr), OLGA B.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*

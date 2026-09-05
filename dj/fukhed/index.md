@@ -1,6 +1,6 @@
 # FUKHED
 
-FUKHED is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Preston Warehouse, Melbourne on Sat, 5 Sept 2026.
+FUKHED is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Preston Warehouse, Melbourne on Sat, 5 Sept 2026.
 
 FUKHED is a techno and house artist tracked on soundcheck, with 58 sets logged across Amsterdam, Bangkok, Berlin and Brisbane and 9 more. Often billed alongside SPFDJ, cera and dameeeela. Next up: Preston Warehouse, Melbourne on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ FUKHED is a techno and house artist tracked on soundcheck, with 58 sets logged a
 
 SPFDJ, cera, dameeeela
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*

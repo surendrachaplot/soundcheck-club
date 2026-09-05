@@ -1,6 +1,6 @@
 # Marie.Luis
 
-Marie.Luis is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
+Marie.Luis is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Berlin on Sat, 19 Sept 2026.
 
 Marie.Luis is a house and progressive house artist tracked on soundcheck, with 10 sets logged across Berlin and Munich. Often billed alongside Mara Vilu, Marina Semren and VIDO (DE). Next up: TBA, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Marie.Luis is a house and progressive house artist tracked on soundcheck, with 1
 
 Mara Vilu, Marina Semren, VIDO (DE)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marie.luis/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marie.luis/)*

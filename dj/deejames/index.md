@@ -1,6 +1,6 @@
 # Deejames
 
-Deejames is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Shelter Antwerp, Antwerp on Sun, 6 Sept 2026.
+Deejames is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Shelter Antwerp, Antwerp on Sun, 6 Sept 2026.
 
 Deejames is a house and deep house artist based in Belgium, tracked on soundcheck, with 18 sets logged across Antwerp, Ghent, Lisbon and London and 1 more. Often billed alongside Jensen, No Shit Like Deep and Lathouwers. Next up: Shelter Antwerp, Antwerp on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Deejames is a house and deep house artist based in Belgium, tracked on soundchec
 
 Jensen, No Shit Like Deep, Lathouwers
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deejames/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deejames/)*

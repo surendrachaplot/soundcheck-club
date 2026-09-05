@@ -1,6 +1,6 @@
 # B side Athens
 
-B side Athens is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "18 years Cannibal Radio" on Thu, 3 Sept 2026.
+B side Athens is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "18 years Cannibal Radio" on Thu, 3 Sept 2026.
 
 B side Athens is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including Γ12 (1), Adam Des, Artee and Bakerman and 2 more. Browse upcoming dates, start times and who's playing. Mavrokordatou 6, Athina 106 78, Greece.
 
@@ -15,4 +15,4 @@ B side Athens is a music venue in Athens listed on soundcheck. 2 upcoming nights
 
 Mavrokordatou 6, Athina 106 78, Greece, Athens
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/b-side-athens/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/b-side-athens/)*

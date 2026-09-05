@@ -1,6 +1,6 @@
 # Corpino
 
-Corpino is a Afro Tech and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at gART.n, Berlin on Sun, 20 Sept 2026.
+Corpino is a Afro Tech and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at gART.n, Berlin on Sun, 20 Sept 2026.
 
 Corpino is an afro tech and club artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside CIOZ, 7heads and Bonfante. Next up: gART.n, Berlin on Sun 20 Sept.
 
@@ -23,4 +23,4 @@ Corpino is an afro tech and club artist tracked on soundcheck, with 7 sets logge
 
 CIOZ, 7heads, Bonfante
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/corpino/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/corpino/)*

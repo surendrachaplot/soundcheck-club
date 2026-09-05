@@ -1,6 +1,6 @@
 # Helado Negro
 
-Helado Negro is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
+Helado Negro is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
 
 Helado Negro is an electronica and ambient artist tracked on soundcheck, with 8 sets logged across Barcelona, Berlin, Budapest and Losangeles and 3 more. Often billed alongside Adriatique, Chris Liebing and DJ Gigola. Next up: Funkhaus Berlin, Berlin on Sat 10 Oct.
 
@@ -24,4 +24,4 @@ Helado Negro is an electronica and ambient artist tracked on soundcheck, with 8 
 
 Adriatique, Chris Liebing, DJ Gigola
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heladonegro/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heladonegro/)*

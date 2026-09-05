@@ -1,6 +1,6 @@
 # Zara Mustafa
 
-Zara Mustafa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - XuXa - 6910 Shirley Avenue, Austin on Sat, 12 Sept 2026.
+Zara Mustafa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - XuXa - 6910 Shirley Avenue, Austin on Sat, 12 Sept 2026.
 
 Zara Mustafa is a techno and house artist tracked on soundcheck, with 18 sets logged across Amsterdam and Austin. Often billed alongside Brett Johnson, Joan Dark and AMANDA KOONTZ. Next up: TBA - XuXa - 6910 Shirley Avenue, Austin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Zara Mustafa is a techno and house artist tracked on soundcheck, with 18 sets lo
 
 Brett Johnson, Joan Dark, AMANDA KOONTZ
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaramustafa/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaramustafa/)*

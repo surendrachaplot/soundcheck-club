@@ -1,6 +1,6 @@
 # Marie Davidson
 
-Marie Davidson is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Xanadu, New York City on Fri, 16 Oct 2026.
+Marie Davidson is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Xanadu, New York City on Fri, 16 Oct 2026.
 
 Marie Davidson is a techno and electro artist tracked on soundcheck, with 152 sets logged across Amsterdam, Athens, Austin and Bangkok and 50 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: Xanadu, Newyorkcity on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Marie Davidson is a techno and electro artist tracked on soundcheck, with 152 se
 
 Laurel Halo, TAYHANA, deBasement
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*

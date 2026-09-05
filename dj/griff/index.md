@@ -1,6 +1,6 @@
 # Griff
 
-Griff is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Four Quarters, London on Fri, 27 Nov 2026.
+Griff is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Four Quarters, London on Fri, 27 Nov 2026.
 
 Griff is a house and disco artist tracked on soundcheck, with 14 sets logged across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Mas Que Nada Brothers, Hot Cross Fun and Todd Terry. Next up: Four Quarters, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Griff is a house and disco artist tracked on soundcheck, with 14 sets logged acr
 
 Mas Que Nada Brothers, Hot Cross Fun, Todd Terry
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/griff/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/griff/)*

@@ -1,15 +1,13 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Weltraum with Cozy Night Inn" on Fri, 4 Sept 2026.
+Bike Jesus is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "LICK x The Cabin: Day/ Night with Big Lil, Lewis P, Porter, VISNEACS, Amygdala " on Sat, 5 Sept 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 9 upcoming nights, with line-ups including Amygdala, Arton (CZ), Atlaskin and AVHD and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including Amygdala, AVHD, Big Lil and CEREAL and 2 more. Browse upcoming dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Weltraum with Cozy Night Inn | Arton (CZ), Axis Alpha, Eva Falt, KonsT |
-| Fri, 4 Sept 2026 | Spirála | Atlaskin, Inger Illel, Nina Farrina |
 | Sat, 5 Sept 2026 | LICK x The Cabin: Day/ Night with Big Lil, Lewis P, Porter, VISNEACS, Amygdala  | Amygdala, Big Lil, Porter, VISNEACS, enthrust, too many Jesses |
 | Thu, 10 Sept 2026 | Bike Jesus EDUCATED STAGE AUDIRE - SPECIAL LIMITED EDITION |  |
 | Sat, 19 Sept 2026 | Compact Disco: Revolution stage | Old & Rich |
@@ -22,4 +20,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 9 upcoming nights, w
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

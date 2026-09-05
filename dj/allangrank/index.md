@@ -1,6 +1,6 @@
 # allangrank
 
-allangrank is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 6 Sept 2026.
+allangrank is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Sunday Sunday, Mexico City on Sun, 6 Sept 2026.
 
 allangrank is a techno and house artist based in Mexico, tracked on soundcheck, with 34 sets logged across Mexicocity. Often billed alongside EM2K, Damian Braun and Fig (DYN). Next up: Sunday Sunday, Mexicocity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ allangrank is a techno and house artist based in Mexico, tracked on soundcheck, 
 
 EM2K, Damian Braun, Fig (DYN)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allangrank/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/allangrank/)*

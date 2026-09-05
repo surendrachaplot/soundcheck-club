@@ -1,6 +1,6 @@
 # Masalo
 
-Masalo is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
+Masalo is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
 
 Masalo is a house and disco artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Athens and Bali and 35 more. Often billed alongside Kamma, Antal and Sedef Adasï. Next up: DC-10, Ibiza on Mon 7 Sept.
 
@@ -30,4 +30,4 @@ Masalo is a house and disco artist tracked on soundcheck, with 131 sets logged a
 
 Kamma, Antal, Sedef Adasï
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masalo/)*

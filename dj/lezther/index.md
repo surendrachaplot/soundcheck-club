@@ -1,6 +1,6 @@
 # Lezther
 
-Lezther is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Under Club, Buenos Aires on Sat, 5 Sept 2026.
+Lezther is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Under Club, Buenos Aires on Sat, 5 Sept 2026.
 
 Lezther is a techno artist tracked on soundcheck, with 6 sets logged across Buenosaires. Often billed alongside Fran Lezaun, Gonzalo Trejo and Ariana Fedele. Next up: Under Club, Buenosaires on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Lezther is a techno artist tracked on soundcheck, with 6 sets logged across Buen
 
 Fran Lezaun, Gonzalo Trejo, Ariana Fedele
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lezther/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lezther/)*

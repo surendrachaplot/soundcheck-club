@@ -1,6 +1,6 @@
 # LazerGazer
 
-LazerGazer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
+LazerGazer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 18 Sept 2026.
 
 LazerGazer is a house and techno artist based in Syria, tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Jasmín, Naone and YoungWoman. Next up: CLUB RAUM, Amsterdam on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ LazerGazer is a house and techno artist based in Syria, tracked on soundcheck, w
 
 Jasmín, Naone, YoungWoman
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lazergazer/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lazergazer/)*

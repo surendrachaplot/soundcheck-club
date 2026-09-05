@@ -1,6 +1,6 @@
-# DOWN2TECHNO: Every Wednesday at Le Red Room
+# DOWN2TECHNO [Every Wednesday] at Le Red Room
 
-DOWN2TECHNO: Every Wednesday at Le Red Room on Wed 23 Sept, Montreal. Techno. Preview the line-up and save it on soundcheck.
+DOWN2TECHNO [Every Wednesday] at Le Red Room on Wed 23 Sept, Montreal. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Guedra Guedra
 
-Guedra Guedra is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Point Ephémère, Paris on Sat, 5 Sept 2026.
+Guedra Guedra is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Point Ephémère, Paris on Sat, 5 Sept 2026.
 
 Guedra Guedra is an electronica and experimental artist based in Morocco, tracked on soundcheck, with 6 sets logged across Berlin, London, Nantes and Paris. Often billed alongside Aunty Rayzor, Born in Flamez and Clementaum. Next up: Point Ephémère, Paris on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Guedra Guedra is an electronica and experimental artist based in Morocco, tracke
 
 Aunty Rayzor, Born in Flamez, Clementaum
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guedraguedra/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guedraguedra/)*

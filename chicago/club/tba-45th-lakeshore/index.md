@@ -1,6 +1,6 @@
 # TBA - 45th & Lakeshore
 
-TBA - 45th & Lakeshore is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Excursions: Summer Breeze" on Sat, 5 Sept 2026.
+TBA - 45th & Lakeshore is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Excursions: Summer Breeze" on Sat, 5 Sept 2026.
 
 TBA - 45th & Lakeshore is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including Cordell Johnson and James Vincent. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 45th & Lakeshore is a music venue in Chicago listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Excursions: Summer Breeze | Cordell Johnson, James Vincent |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-45th-lakeshore/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/tba-45th-lakeshore/)*

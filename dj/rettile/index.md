@@ -1,6 +1,6 @@
 # RETTILE
 
-RETTILE is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paloma, London on Sat, 12 Sept 2026.
+RETTILE is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Paloma, London on Sat, 12 Sept 2026.
 
 RETTILE is a tech house and afro house artist tracked on soundcheck, with 13 sets logged across London. Often billed alongside Vincent Simm, LLeiL and Balko Musik. Next up: Paloma, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ RETTILE is a tech house and afro house artist tracked on soundcheck, with 13 set
 
 Vincent Simm, LLeiL, Balko Musik
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rettile/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rettile/)*

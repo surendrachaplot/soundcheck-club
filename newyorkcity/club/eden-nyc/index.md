@@ -1,6 +1,6 @@
 # Eden NYC
 
-Eden NYC is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "CLUB WORKS: A LABOR DAY WEEKEND FUNCTION" on Sun, 6 Sept 2026.
+Eden NYC is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "CLUB WORKS: A LABOR DAY WEEKEND FUNCTION" on Sun, 6 Sept 2026.
 
 Eden NYC is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including Chris IDH, Dos Flakos, Spinrillo and Tim Fields and 1 more. Browse upcoming dates, start times and who's playing. 20 w 36th St.
 
@@ -15,4 +15,4 @@ Eden NYC is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights
 
 20 w 36th St, New York City
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden-nyc/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/eden-nyc/)*

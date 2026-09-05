@@ -1,6 +1,6 @@
 # Per Pleks
 
-Per Pleks is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Per Pleks is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Per Pleks is a techno and industrial artist tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 34 more. Often billed alongside Luciid, Aphøtic and Alignment. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Per Pleks is a techno and industrial artist tracked on soundcheck, with 91 sets 
 
 Luciid, Aphøtic, Alignment
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perpleks/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perpleks/)*

@@ -1,18 +1,18 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 24 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "04.09 Forestlimit" on Fri, 4 Sept 2026.
+Forestlimit is a music venue in Tokyo with 24 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "「死」" on Sat, 5 Sept 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming nights, with line-ups including Acidclank, Aki Dolanikov, AME (JP) and ANiIIIIiiiKii and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming nights, with line-ups including Acidclank, Aki Dolanikov, ANiIIIIiiiKii and ast midori and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | 04.09 Forestlimit | AME (JP), nataria, sawanese |
 | Sat, 5 Sept 2026 | 「死」 | Efeewma, HAIZAI AUDIO, Lil Mofo |
 | Sat, 5 Sept 2026 | SOGURAGURA & AIWABEATZ presents 'iNiTiAL iMPULSE' |  |
 | Sun, 6 Sept 2026 | Color:inc presents Pantone vol.3 |  |
 | Tue, 8 Sept 2026 | 'DUB名人' |  |
+| Wed, 9 Sept 2026 | 【99 M/A/S/S/A/C/R/E】 | Hue Ray, KYLE MIKASA |
 | Fri, 11 Sept 2026 | -Need to Control- |  |
 | Sat, 12 Sept 2026 | X-OVER :TOKYO CHAOS | JUN/V:SiTOR |
 | Sun, 13 Sept 2026 | rhizome vol.3 |  |
@@ -23,4 +23,4 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 24 upcoming nights, 
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

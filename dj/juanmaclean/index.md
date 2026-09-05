@@ -1,6 +1,6 @@
 # Juan Maclean
 
-Juan Maclean is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hidden Hall, Seattle on Fri, 2 Oct 2026.
+Juan Maclean is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Hidden Hall, Seattle on Fri, 2 Oct 2026.
 
 Juan Maclean is a house and disco artist based in United States of America, tracked on soundcheck, with 66 sets logged across Austin, Barcelona, Boston and Chicago and 19 more. Often billed alongside Matthew Dear, Gee Dee and Kate Stein. Next up: Hidden Hall, Seattle on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Juan Maclean is a house and disco artist based in United States of America, trac
 
 Matthew Dear, Gee Dee, Kate Stein
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmaclean/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanmaclean/)*

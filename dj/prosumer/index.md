@@ -1,6 +1,6 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 8 Sept 2026.
+Prosumer is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 8 Sept 2026.
 
 Prosumer is a house and techno artist tracked on soundcheck, with 167 sets logged across Amsterdam, Athens, Barcelona and Belfast and 46 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: 528 Ibiza, Ibiza on Tue 8 Sept.
 
@@ -29,4 +29,4 @@ Prosumer is a house and techno artist tracked on soundcheck, with 167 sets logge
 
 Horse Meat Disco, Peach, Job Jobse
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

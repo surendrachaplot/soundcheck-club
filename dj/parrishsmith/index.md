@@ -1,18 +1,18 @@
 # Parrish Smith
 
-Parrish Smith is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Garage Noord, Amsterdam on Fri, 4 Sept 2026.
+Parrish Smith is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Parrish Smith is a techno and electro artist tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Mila V, Adriana Lopez and Ancient Methods. Next up: Garage Noord, Amsterdam on Fri 4 Sept.
+Parrish Smith is a techno and electro artist tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Mila V, Adriana Lopez and Ancient Methods. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Garage Noord | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 
 ## Recently played
 
+- Garage Noord, Amsterdam — Fri, 4 Sept 2026
 - Time is the new space, Rotterdam — Sat, 27 Jun 2026
 - RADION, Amsterdam — Fri, 19 Jun 2026
 - CLUB RAUM, Amsterdam — Sat, 9 May 2026
@@ -20,10 +20,9 @@ Parrish Smith is a techno and electro artist tracked on soundcheck, with 83 sets
 - KHIDI, Tbilisi — Fri, 2 Jan 2026
 - Paradiso, Amsterdam — Sat, 29 Nov 2025
 - Fuchs2, Prague — Fri, 21 Nov 2025
-- BASIS, Utrecht — Fri, 14 Nov 2025
 
 ## Shares bills with
 
 Mila V, Adriana Lopez, Ancient Methods
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parrishsmith/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parrishsmith/)*

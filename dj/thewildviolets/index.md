@@ -1,6 +1,6 @@
 # The Wild Violets
 
-The Wild Violets is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+The Wild Violets is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
 
 The Wild Violets is a disco and house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London and Paris. Often billed alongside Bustin' Loose, Crystal Touch and Old as Funk. Next up: Ministry Of Sound, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ The Wild Violets is a disco and house artist based in United Kingdom, tracked on
 
 Bustin' Loose, Crystal Touch, Old as Funk
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thewildviolets/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thewildviolets/)*

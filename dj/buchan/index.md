@@ -1,6 +1,6 @@
 # Buchan
 
-Buchan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Fri, 18 Sept 2026.
+Buchan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Jasna 1, Warsaw on Fri, 18 Sept 2026.
 
 Buchan is a house and techno artist tracked on soundcheck, with 44 sets logged across Krakow, Newyorkcity and Warsaw. Often billed alongside Edvvin, MATRIX3K and dd (PL). Next up: Jasna 1, Warsaw on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Buchan is a house and techno artist tracked on soundcheck, with 44 sets logged a
 
 Edvvin, MATRIX3K, dd (PL)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buchan/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buchan/)*

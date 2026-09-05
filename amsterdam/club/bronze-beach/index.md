@@ -1,6 +1,6 @@
 # Bronze Beach
 
-Bronze Beach is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "JOY - The Closing" on Sat, 19 Sept 2026.
+Bronze Beach is a music venue in Amsterdam with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "JOY - The Closing" on Sat, 19 Sept 2026.
 
 Bronze Beach is a music venue in Amsterdam listed on soundcheck. 1 upcoming night, with line-ups including Benny Rodrigues, Cici Daze, Joss Dean and Prunk. Browse upcoming dates, start times and who's playing. Zeeweg 86b, 2051 EC Overveen.
 
@@ -14,4 +14,4 @@ Bronze Beach is a music venue in Amsterdam listed on soundcheck. 1 upcoming nigh
 
 Zeeweg 86b, 2051 EC Overveen, Amsterdam
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bronze-beach/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bronze-beach/)*

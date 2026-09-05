@@ -1,6 +1,6 @@
 # SWDEJAY
 
-SWDEJAY is a Reggaeton and Dembow artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Orchid Theatre, Detroit on Sat, 5 Sept 2026.
+SWDEJAY is a Reggaeton and Dembow artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Orchid Theatre, Detroit on Sat, 5 Sept 2026.
 
 SWDEJAY is a reggaeton and dembow artist based in United States of America, tracked on soundcheck, with 91 sets logged across Detroit and Mexicocity. Often billed alongside DJ IZA, Dylán Gomez and Disc Jockey George. Next up: Orchid Theatre, Detroit on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ SWDEJAY is a reggaeton and dembow artist based in United States of America, trac
 
 DJ IZA, Dylán Gomez, Disc Jockey George
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swdejay/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/swdejay/)*

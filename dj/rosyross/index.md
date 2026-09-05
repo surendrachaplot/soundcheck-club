@@ -1,6 +1,6 @@
 # Rosy Ross
 
-Rosy Ross is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Z Maruyama, Tokyo on Sat, 5 Sept 2026.
+Rosy Ross is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Z Maruyama, Tokyo on Sat, 5 Sept 2026.
 
 Rosy Ross is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across London and Tokyo. Often billed alongside Megan Leo, L KAE F and Stella Z. Next up: Z Maruyama, Tokyo on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Rosy Ross is a house and balearic artist based in United Kingdom, tracked on sou
 
 Megan Leo, L KAE F, Stella Z
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosyross/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosyross/)*

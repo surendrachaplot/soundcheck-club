@@ -1,6 +1,6 @@
 # Bell Towers
 
-Bell Towers is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Bell Towers is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Bell Towers is a house and techno artist based in Australia, tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Bucharest and Copenhagen and 11 more. Often billed alongside David Fogarty, Sound Metaphors Djs and Public Possession. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Bell Towers is a house and techno artist based in Australia, tracked on soundche
 
 David Fogarty, Sound Metaphors Djs, Public Possession
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belltowers/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belltowers/)*

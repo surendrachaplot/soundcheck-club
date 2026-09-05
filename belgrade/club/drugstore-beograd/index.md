@@ -1,14 +1,13 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "MRAK Season Opening with Massimiliano Pagliara" on Fri, 4 Sept 2026.
+Drugstore Beograd is a music venue in Belgrade with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Frenzee, Grim Rhythm, Reckoning" on Tue, 15 Sept 2026.
 
-Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming nights, with line-ups including Ali Guney, AM Hi, Aneri and Asarri and 2 more. Browse upcoming dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
+Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 7 upcoming nights, with line-ups including AM Hi, Aneri, Asarri and Carbon Based Lifeforms and 2 more. Browse upcoming dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | MRAK Season Opening with Massimiliano Pagliara | Ali Guney, Massimiliano Pagliara |
 | Tue, 15 Sept 2026 | Frenzee, Grim Rhythm, Reckoning |  |
 | Sat, 19 Sept 2026 | INDOOR HARDCORE VOL.V ( 70% SOLD OUT ) | Commissar  Lag, D/K/OXY, SNTS, Stashha, Suzana, cassandrah, laccotti |
 | Fri, 25 Sept 2026 | KRШ Season Opener with Rommek & JERM  | HETEM, JERM, Rommek, mdngt |
@@ -21,4 +20,4 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming 
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

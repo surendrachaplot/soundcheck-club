@@ -1,6 +1,6 @@
 # Janus Rasmussen
 
-Janus Rasmussen is a Electronica and IDM artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at POPUP!, Paris on Wed, 25 Nov 2026.
+Janus Rasmussen is a Electronica and IDM artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at POPUP!, Paris on Wed, 25 Nov 2026.
 
 Janus Rasmussen is an electronica and idm artist tracked on soundcheck, with 23 sets logged across Amsterdam, Athens, Berlin and Brussels and 8 more. Often billed alongside Kiasmos, Garbage Delight and Natascha Polké. Next up: POPUP!, Paris on Wed 25 Nov.
 
@@ -28,4 +28,4 @@ Janus Rasmussen is an electronica and idm artist tracked on soundcheck, with 23 
 
 Kiasmos, Garbage Delight, Natascha Polké
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrasmussen/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janusrasmussen/)*

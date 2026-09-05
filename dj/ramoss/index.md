@@ -1,14 +1,15 @@
 # Ramoss
 
-Ramoss is a Tech House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Gallery, London on Sat, 12 Sept 2026.
+Ramoss is a Tech House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Gallery, London on Sat, 12 Sept 2026.
 
-Ramoss is a tech house and minimal artist tracked on soundcheck, with 42 sets logged across Basel, Ibiza, London and Milan and 3 more. Often billed alongside Ale Grooves, Pedro Villa and Jey Mellen. Next up: Gallery, London on Sat 12 Sept.
+Ramoss is a tech house and minimal artist tracked on soundcheck, with 43 sets logged across Basel, Ibiza, London and Milan and 3 more. Often billed alongside Ale Grooves, Pedro Villa and Jey Mellen. Next up: Gallery, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Gallery | London |
+| Sat, 3 Oct 2026 | Gallery | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ramoss is a tech house and minimal artist tracked on soundcheck, with 42 sets lo
 
 Ale Grooves, Pedro Villa, Jey Mellen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramoss/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ramoss/)*

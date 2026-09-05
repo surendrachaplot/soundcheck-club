@@ -1,6 +1,6 @@
 # Tito Pulpo
 
-Tito Pulpo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at El Charcon Beach, Malaga on Sat, 19 Sept 2026.
+Tito Pulpo is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at El Charcon Beach, Malaga on Sat, 19 Sept 2026.
 
 Tito Pulpo is a house and deep house artist based in Spain, tracked on soundcheck, with 15 sets logged across London and Malaga. Often billed alongside Stuart Patterson, Milady and Ronnie Herel. Next up: El Charcon Beach, Malaga on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Tito Pulpo is a house and deep house artist based in Spain, tracked on soundchec
 
 Stuart Patterson, Milady, Ronnie Herel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/titopulpo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/titopulpo/)*

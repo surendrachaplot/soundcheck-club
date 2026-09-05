@@ -1,6 +1,6 @@
 # Blackmoonchild
 
-Blackmoonchild is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
+Blackmoonchild is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
 
 Blackmoonchild is a techno and house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Berlin, Chicago, Detroit and Losangeles and 3 more. Often billed alongside AK (US), DJ Etta (US) and The AM/AMX. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Blackmoonchild is a techno and house artist based in United States of America, t
 
 AK (US), DJ Etta (US), The AM/AMX
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmoonchild/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmoonchild/)*

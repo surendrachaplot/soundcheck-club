@@ -1,6 +1,6 @@
 # Noni-Mouse
 
-Noni-Mouse is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at radial, London on Sun, 27 Sept 2026.
+Noni-Mouse is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at radial, London on Sun, 27 Sept 2026.
 
 Noni-Mouse is a bass and electronica artist tracked on soundcheck, with 5 sets logged across London and Sheffield. Often billed alongside Izzi, Mahnoor and 1-800 GIRLS. Next up: radial, London on Sun 27 Sept.
 
@@ -21,4 +21,4 @@ Noni-Mouse is a bass and electronica artist tracked on soundcheck, with 5 sets l
 
 Izzi, Mahnoor, 1-800 GIRLS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noni-mouse/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noni-mouse/)*

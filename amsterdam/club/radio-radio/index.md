@@ -1,14 +1,13 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 10 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Mendel • Giu Nunez" on Fri, 4 Sept 2026.
+Radio Radio is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Retromigration • Zopelar" on Sat, 5 Sept 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 10 upcoming nights, with line-ups including Bennet (DE), Berkan V8, Cleo Grooves and Dimitri K and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Bennet (DE), Berkan V8, Cleo Grooves and Dimitri K and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Mendel • Giu Nunez | Giu Nunez, Mendel |
 | Sat, 5 Sept 2026 | Retromigration • Zopelar | Retromigration, Zopelar |
 | Fri, 11 Sept 2026 | Radio Radio 8Y Anniversary |  |
 | Sat, 12 Sept 2026 | D Stone • Laura Meester • Midas Field | D Stone, Laura Meester, Midas Field |
@@ -23,4 +22,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 10 upcoming nigh
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

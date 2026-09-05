@@ -1,6 +1,6 @@
 # Kijara
 
-Kijara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Wendel, Berlin on Sat, 28 Nov 2026.
+Kijara is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Wendel, Berlin on Sat, 28 Nov 2026.
 
 Kijara is a house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside CEEE, DERICE and Alex Grebe. Next up: Wendel, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kijara is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 CEEE, DERICE, Alex Grebe
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kijara/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kijara/)*

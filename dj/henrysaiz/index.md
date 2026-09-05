@@ -1,6 +1,6 @@
 # Henry Saiz
 
-Henry Saiz is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 5 Sept 2026.
+Henry Saiz is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 5 Sept 2026.
 
 Henry Saiz is a progressive house and house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 18 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Henry Saiz is a progressive house and house artist tracked on soundcheck, with 6
 
 Amadori, Luciano Lozz, Gespona
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysaiz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/henrysaiz/)*

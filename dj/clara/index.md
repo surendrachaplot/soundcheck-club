@@ -1,6 +1,6 @@
 # CLARA
 
-CLARA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ritter Butzke, Berlin on Fri, 11 Sept 2026.
+CLARA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ritter Butzke, Berlin on Fri, 11 Sept 2026.
 
 CLARA is a techno and house artist tracked on soundcheck, with 23 sets logged across Bali, Berlin, Cologne and Hamburg. Often billed alongside DJ SPORTSCHUH, Arninho and Fabian Krooss. Next up: Ritter Butzke, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ CLARA is a techno and house artist tracked on soundcheck, with 23 sets logged ac
 
 DJ SPORTSCHUH, Arninho, Fabian Krooss
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clara/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clara/)*

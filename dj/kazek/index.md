@@ -1,6 +1,6 @@
 # Kazek
 
-Kazek is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Aatma, Manchester on Sat, 17 Oct 2026.
+Kazek is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Aatma, Manchester on Sat, 17 Oct 2026.
 
 Kazek is an acid and techno artist tracked on soundcheck, with 10 sets logged across Manchester. Often billed alongside RaFFski and Kami Lee. Next up: Aatma, Manchester on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Kazek is an acid and techno artist tracked on soundcheck, with 10 sets logged ac
 
 RaFFski, Kami Lee
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kazek/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kazek/)*

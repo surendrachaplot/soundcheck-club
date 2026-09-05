@@ -1,6 +1,6 @@
 # Sistek
 
-Sistek is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at YoYo - Palais de Tokyo, Paris on Sat, 19 Sept 2026.
+Sistek is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at YoYo - Palais de Tokyo, Paris on Sat, 19 Sept 2026.
 
 Sistek is an afro house and house artist tracked on soundcheck, with 34 sets logged across Basel, Berlin, Boston and Chicago and 17 more. Often billed alongside ARODES, Chelina Manuhutu and Cristoph. Next up: YoYo - Palais de Tokyo, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sistek is an afro house and house artist tracked on soundcheck, with 34 sets log
 
 ARODES, Chelina Manuhutu, Cristoph
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*

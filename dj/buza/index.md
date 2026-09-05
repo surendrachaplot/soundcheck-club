@@ -1,6 +1,6 @@
 # Buza
 
-Buza is a Electro and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Wolf Milano, Milan on Sat, 5 Sept 2026.
+Buza is a Electro and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Wolf Milano, Milan on Sat, 5 Sept 2026.
 
 Buza is an electro and acid artist based in Italy, tracked on soundcheck, with 7 sets logged across Milan. Often billed alongside Vis., Virgo (3) and RTGL. Next up: Wolf Milano, Milan on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Buza is an electro and acid artist based in Italy, tracked on soundcheck, with 7
 
 Vis., Virgo (3), RTGL
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buza/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buza/)*

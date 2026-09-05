@@ -1,6 +1,6 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
+PARAMIDA is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
 
 PARAMIDA is a house and techno artist tracked on soundcheck, with 250 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 4 Sept.
 
@@ -22,6 +22,7 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 250 sets logge
 
 ## Recently played
 
+- Pylonen - Frizonen Langebro, Copenhagen — Fri, 4 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 28 Aug 2026
 - Chinois Ibiza, Ibiza — Tue, 25 Aug 2026
 - Motel Campo, Geneva — Sat, 15 Aug 2026
@@ -29,10 +30,9 @@ PARAMIDA is a house and techno artist tracked on soundcheck, with 250 sets logge
 - Burgess Park, London — Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza — Sun, 26 Jul 2026
 - Flevopark, Amsterdam — Sat, 25 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

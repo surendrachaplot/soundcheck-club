@@ -1,6 +1,6 @@
 # Kali Malone
 
-Kali Malone is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Waidmarkt and St. Gertrud Church, Cologne on Sat, 26 Sept 2026.
+Kali Malone is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Waidmarkt and St. Gertrud Church, Cologne on Sat, 26 Sept 2026.
 
 Kali Malone is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 34 sets logged across Amsterdam, Athens, Berlin and Brussels and 15 more. Often billed alongside Stephen O'Malley, ojoo and KMRU. Next up: TBA - Waidmarkt and St. Gertrud Church, Cologne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Kali Malone is an experimental and ambient artist based in United States of Amer
 
 Stephen O'Malley, ojoo, KMRU
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimalone/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalimalone/)*

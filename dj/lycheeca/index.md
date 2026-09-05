@@ -1,6 +1,6 @@
 # Lychee (CA)
 
-Lychee (CA) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
+Lychee (CA) is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Soleil, Toronto on Sat, 19 Sept 2026.
 
 Lychee (CA) is a house and minimal artist tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside Akkai (2), Chloe J and Maves. Next up: Soleil, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Lychee (CA) is a house and minimal artist tracked on soundcheck, with 9 sets log
 
 Akkai (2), Chloe J, Maves
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lycheeca/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lycheeca/)*

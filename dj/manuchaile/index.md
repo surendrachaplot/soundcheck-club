@@ -1,6 +1,6 @@
 # Manu Chaile
 
-Manu Chaile is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Generator Barcelona, Barcelona on Sat, 5 Sept 2026.
+Manu Chaile is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Generator Barcelona, Barcelona on Sat, 5 Sept 2026.
 
 Manu Chaile is a techno and electronica artist tracked on soundcheck, with 28 sets logged across Barcelona and Dublin. Often billed alongside Juan Guerra, Nuuk and Edu Suarez. Next up: Generator Barcelona, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Manu Chaile is a techno and electronica artist tracked on soundcheck, with 28 se
 
 Juan Guerra, Nuuk, Edu Suarez
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuchaile/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuchaile/)*

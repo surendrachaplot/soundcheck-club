@@ -1,6 +1,6 @@
 # Electronic Elephant
 
-Electronic Elephant is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Electronic Elephant is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Electronic Elephant is a house and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Geneva, Hamburg and Munich. Often billed alongside Casimir von Oettingen, Erhardt Schuster and Hans Hammer. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Electronic Elephant is a house and techno artist based in Germany, tracked on so
 
 Casimir von Oettingen, Erhardt Schuster, Hans Hammer
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electronicelephant/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/electronicelephant/)*

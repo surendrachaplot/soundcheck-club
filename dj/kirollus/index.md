@@ -1,6 +1,6 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Concorde 2, Brighton on Sat, 5 Sept 2026.
+Kirollus is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Concorde 2, Brighton on Sat, 5 Sept 2026.
 
 Kirollus is a house and disco artist tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Concorde 2, Brighton on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Kirollus is a house and disco artist tracked on soundcheck, with 140 sets logged
 
 MiNNA, Tonno Disko, Dan Shake
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*

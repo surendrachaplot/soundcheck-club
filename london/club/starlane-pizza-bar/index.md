@@ -1,6 +1,6 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 22 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Distant Audio x Blushh Audio" on Sat, 5 Sept 2026.
+Starlane Pizza Bar is a music venue in London with 22 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Distant Audio x Blushh Audio" on Sat, 5 Sept 2026.
 
 Starlane Pizza Bar is a music venue in London listed on soundcheck. 22 upcoming nights, with line-ups including 3 Minds, Aerofunk, Alfie and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
@@ -23,4 +23,4 @@ Starlane Pizza Bar is a music venue in London listed on soundcheck. 22 upcoming 
 
 12 Cody Road, E16 4SR London, United Kingdom, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/starlane-pizza-bar/)*

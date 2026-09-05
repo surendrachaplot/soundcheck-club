@@ -1,6 +1,6 @@
 # KOPI O
 
-KOPI O is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+KOPI O is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
 KOPI O is a techno and ebm artist tracked on soundcheck, with 28 sets logged across Berlin, Edinburgh, Glasgow and London and 5 more. Often billed alongside Blood of Aza, KAVARI and Mvcoko. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ KOPI O is a techno and ebm artist tracked on soundcheck, with 28 sets logged acr
 
 Blood of Aza, KAVARI, Mvcoko
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kopio/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kopio/)*

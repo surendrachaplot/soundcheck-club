@@ -1,6 +1,6 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Oasis presents: Simon Vuarambon - Labor Day + Restless Planet & Grüv in the Loft" on Mon, 7 Sept 2026.
+The Monkey Loft is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Oasis presents: Simon Vuarambon - Labor Day + Restless Planet & Grüv in the Loft" on Mon, 7 Sept 2026.
 
 The Monkey Loft is a music venue in Seattle listed on soundcheck. 4 upcoming nights, with line-ups including Chance Sands, Colt, David Ardila and Erozion and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
@@ -17,4 +17,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 4 upcoming nig
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

@@ -1,6 +1,6 @@
 # Pawn Shop
 
-Pawn Shop is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "NeoN Sunday Service presents Scidley Rott" on Sun, 6 Sept 2026.
+Pawn Shop is a music venue in Dublin with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "NeoN Sunday Service presents Scidley Rott" on Sun, 6 Sept 2026.
 
 Pawn Shop is a music venue in Dublin listed on soundcheck. 2 upcoming nights, with line-ups including Blewit (2), Dicko, Medalla and Michal C. Browse upcoming dates, start times and who's playing. 15 Dame St, Dublin 2, D02 KD74.
 
@@ -15,4 +15,4 @@ Pawn Shop is a music venue in Dublin listed on soundcheck. 2 upcoming nights, wi
 
 15 Dame St, Dublin 2, D02 KD74, Dublin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pawn-shop/)*

@@ -1,14 +1,13 @@
 # Mala
 
-Mala is a Dubstep and Bass artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Slaktkyrkan, Stockholm on Fri, 4 Sept 2026.
+Mala is a Dubstep and Bass artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
-Mala is a dubstep and bass artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Mia Koden, SGT Pokes and CCL. Next up: Slaktkyrkan, Stockholm on Fri 4 Sept.
+Mala is a dubstep and bass artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Mia Koden, SGT Pokes and CCL. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Slaktkyrkan | Stockholm |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
 | Thu, 24 Sept 2026 | Various Venues | London |
 | Fri, 25 Sept 2026 | Outernet Live | London |
@@ -20,6 +19,7 @@ Mala is a dubstep and bass artist tracked on soundcheck, with 107 sets logged ac
 
 ## Recently played
 
+- Slaktkyrkan, Stockholm — Fri, 4 Sept 2026
 - TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
@@ -27,10 +27,9 @@ Mala is a dubstep and bass artist tracked on soundcheck, with 107 sets logged ac
 - Parco Dora, Turin — Fri, 3 Jul 2026
 - Phonox, London — Fri, 19 Jun 2026
 - Centro Cultural Conde Duque, Madrid — Fri, 12 Jun 2026
-- Phonox, London — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Mia Koden, SGT Pokes, CCL
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*

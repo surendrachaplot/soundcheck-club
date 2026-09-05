@@ -1,6 +1,6 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Just Cavalli Milano - Restaurant & Club, Milan on Fri, 11 Sept 2026.
+Sven Vath is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Just Cavalli Milano - Restaurant & Club, Milan on Fri, 11 Sept 2026.
 
 Sven Vath is a techno and house artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: Just Cavalli Milano - Restaurant & Club, Milan on Fri 11 Sept.
 
@@ -35,4 +35,4 @@ Sven Vath is a techno and house artist tracked on soundcheck, with 214 sets logg
 
 Maurizio Schmitz, Richie Hawtin, Dana Ruh
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*

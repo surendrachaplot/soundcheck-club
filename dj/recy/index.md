@@ -1,6 +1,6 @@
 # Recy
 
-Recy is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Volnost, Seoul on Fri, 11 Sept 2026.
+Recy is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Volnost, Seoul on Fri, 11 Sept 2026.
 
 Recy is a techno and electro artist based in South Korea, tracked on soundcheck, with 30 sets logged across Seoul. Often billed alongside Yeji, WEEUN KIM and KYVU. Next up: Volnost, Seoul on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Recy is a techno and electro artist based in South Korea, tracked on soundcheck,
 
 Yeji, WEEUN KIM, KYVU
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/recy/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/recy/)*

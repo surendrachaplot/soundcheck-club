@@ -1,6 +1,6 @@
 # Samuel Kerridge
 
-Samuel Kerridge is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Sat, 5 Sept 2026.
+Samuel Kerridge is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Tresor / Globus, Berlin on Sat, 5 Sept 2026.
 
 Samuel Kerridge is a techno and experimental artist tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Regis, OAKE and Russell Haswell. Next up: Tresor / Globus, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Samuel Kerridge is a techno and experimental artist tracked on soundcheck, with 
 
 Regis, OAKE, Russell Haswell
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelkerridge/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelkerridge/)*

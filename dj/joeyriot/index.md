@@ -1,6 +1,6 @@
 # Joey Riot
 
-Joey Riot is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
+Joey Riot is a Trance and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
 
 Joey Riot is a trance and hardcore artist tracked on soundcheck, with 5 sets logged across Berlin, Glasgow and Manchester. Often billed alongside DJ Henk, Darren Styles and Florelle. Next up: Lokschuppen Berlin, Berlin on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Joey Riot is a trance and hardcore artist tracked on soundcheck, with 5 sets log
 
 DJ Henk, Darren Styles, Florelle
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyriot/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeyriot/)*

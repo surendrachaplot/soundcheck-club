@@ -1,6 +1,6 @@
 # Jeremy Underground
 
-Jeremy Underground is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Roundhouse, London on Sat, 12 Sept 2026.
+Jeremy Underground is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Roundhouse, London on Sat, 12 Sept 2026.
 
 Jeremy Underground is a house and disco artist tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 22 more. Often billed alongside Kerri Chandler, Mr. G and AliA. Next up: The Roundhouse, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jeremy Underground is a house and disco artist tracked on soundcheck, with 92 se
 
 Kerri Chandler, Mr. G, AliA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyunderground/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyunderground/)*

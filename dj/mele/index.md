@@ -1,6 +1,6 @@
 # Melé
 
-Melé is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
+Melé is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Chinois Ibiza, Ibiza on Thu, 10 Sept 2026.
 
 Melé is a house and tech house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: Chinois Ibiza, Ibiza on Thu 10 Sept.
 
@@ -29,4 +29,4 @@ Melé is a house and tech house artist tracked on soundcheck, with 121 sets logg
 
 Sam Divine, Eats Everything, Olive F
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*

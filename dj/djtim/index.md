@@ -1,6 +1,6 @@
 # DJ Tim
 
-DJ Tim is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+DJ Tim is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 DJ Tim is an electronic artist tracked on soundcheck, with 6 sets logged across Athens. Often billed alongside Bonso, Marsha and Adam Des. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -23,4 +23,4 @@ DJ Tim is an electronic artist tracked on soundcheck, with 6 sets logged across 
 
 Bonso, Marsha, Adam Des
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtim/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtim/)*

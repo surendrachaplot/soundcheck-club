@@ -1,6 +1,6 @@
 # Gostoja
 
-Gostoja is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
+Gostoja is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
 
 Gostoja is a house and techno artist tracked on soundcheck, with 14 sets logged across Belgrade and Naples. Often billed alongside Dakman, Dakissa and Gard. Next up: Drugstore Beograd, Belgrade on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Gostoja is a house and techno artist tracked on soundcheck, with 14 sets logged 
 
 Dakman, Dakissa, Gard
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gostoja/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gostoja/)*

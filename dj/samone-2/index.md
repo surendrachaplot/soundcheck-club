@@ -1,6 +1,6 @@
 # SamOne (2)
 
-SamOne (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 5 Sept 2026.
+SamOne (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 5 Sept 2026.
 
 SamOne (2) is a house and tech house artist tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Carl Hang, DJ Business (2) and Wall Ra. Next up: TBA - Secret Location, Berlin on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ SamOne (2) is a house and tech house artist tracked on soundcheck, with 8 sets l
 
 Carl Hang, DJ Business (2), Wall Ra
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samone-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samone-2/)*

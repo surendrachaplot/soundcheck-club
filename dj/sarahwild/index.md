@@ -1,6 +1,6 @@
 # Sarah Wild
 
-Sarah Wild is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Südbrücke Open Air, Cologne on Sat, 5 Sept 2026.
+Sarah Wild is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Südbrücke Open Air, Cologne on Sat, 5 Sept 2026.
 
 Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 11 more. Often billed alongside Kotoe, Chris Schwarzwälder and Daniel Cowel. Next up: Südbrücke Open Air, Cologne on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Sarah Wild is a house and techno artist tracked on soundcheck, with 100 sets log
 
 Kotoe, Chris Schwarzwälder, Daniel Cowel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*

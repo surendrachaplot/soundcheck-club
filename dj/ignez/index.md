@@ -1,8 +1,8 @@
 # Ignez
 
-Ignez is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
+Ignez is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
 
-Ignez is a techno and house artist tracked on soundcheck, with 189 sets logged across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Yanamaste, Inox Traxx and Beste Hira. Next up: Junkyard Dortmund, Dortmund-essen on Sat 5 Sept.
+Ignez is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Yanamaste, Inox Traxx and Beste Hira. Next up: Junkyard Dortmund, Dortmund-essen on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Ignez is a techno and house artist tracked on soundcheck, with 189 sets logged a
 
 Yanamaste, Inox Traxx, Beste Hira
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

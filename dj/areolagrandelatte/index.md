@@ -1,6 +1,6 @@
 # Areola Grande Latte
 
-Areola Grande Latte is a Acid and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Komedia Brighton, Brighton on Fri, 25 Sept 2026.
+Areola Grande Latte is a Acid and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Komedia Brighton, Brighton on Fri, 25 Sept 2026.
 
 Areola Grande Latte is an acid and hip-hop artist tracked on soundcheck, with 12 sets logged across Brighton and London. Often billed alongside Michelle Manetti, Bil-Sol and Florence.. Next up: Komedia Brighton, Brighton on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Areola Grande Latte is an acid and hip-hop artist tracked on soundcheck, with 12
 
 Michelle Manetti, Bil-Sol, Florence.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/areolagrandelatte/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/areolagrandelatte/)*

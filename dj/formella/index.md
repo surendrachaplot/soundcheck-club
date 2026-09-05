@@ -1,6 +1,6 @@
 # Formella
 
-Formella is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Panke, Berlin on Sat, 5 Sept 2026.
+Formella is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Panke, Berlin on Sat, 5 Sept 2026.
 
 Formella is a bass and techno artist tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Bristol and Cologne and 10 more. Often billed alongside Dangermami, Sabine Hoffmann and yungfya. Next up: Panke, Berlin on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Formella is a bass and techno artist tracked on soundcheck, with 54 sets logged 
 
 Dangermami, Sabine Hoffmann, yungfya
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formella/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/formella/)*

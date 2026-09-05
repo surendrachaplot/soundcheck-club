@@ -1,6 +1,6 @@
 # M Love
 
-M Love is a Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Madame Claude, Berlin on Mon, 21 Sept 2026.
+M Love is a Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Madame Claude, Berlin on Mon, 21 Sept 2026.
 
 M Love is an experimental artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Manu Louis and Shabi. Next up: Madame Claude, Berlin on Mon 21 Sept.
 
@@ -23,4 +23,4 @@ M Love is an experimental artist tracked on soundcheck, with 7 sets logged acros
 
 Manu Louis, Shabi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mlove/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mlove/)*

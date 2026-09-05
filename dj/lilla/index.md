@@ -1,8 +1,8 @@
 # LILLA
 
-LILLA is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Elsewhere, New York City on Sat, 12 Sept 2026.
+LILLA is a Club and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Elsewhere, New York City on Sat, 12 Sept 2026.
 
-LILLA is a club and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity. Often billed alongside SAMIA, ARMANA KHAN and Nadim Maghzal. Next up: Elsewhere, Newyorkcity on Sat 12 Sept.
+LILLA is a club and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across Newyorkcity. Often billed alongside SAMIA, ARMANA KHAN and Nadim Maghzal. Next up: Elsewhere, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LILLA is a club and techno artist based in United States of America, tracked on 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Elsewhere | New York City |
 | Wed, 23 Sept 2026 | Jupiter Disco | New York City |
+| Sat, 26 Sept 2026 | Elsewhere | New York City |
 | Sat, 17 Oct 2026 | Elsewhere | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ LILLA is a club and techno artist based in United States of America, tracked on 
 
 SAMIA, ARMANA KHAN, Nadim Maghzal
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilla/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilla/)*

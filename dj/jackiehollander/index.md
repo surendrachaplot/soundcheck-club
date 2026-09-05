@@ -1,6 +1,6 @@
 # Jackie Hollander
 
-Jackie Hollander is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
+Jackie Hollander is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Randall's Island, New York City on Sat, 19 Sept 2026.
 
 Jackie Hollander is a house and tech house artist based in United States of America, tracked on soundcheck, with 49 sets logged across Austin, Boston, Bristol and Chicago and 14 more. Often billed alongside Gorgon City, Max Styler and Riordan. Next up: Randall's Island, Newyorkcity on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Jackie Hollander is a house and tech house artist based in United States of Amer
 
 Gorgon City, Max Styler, Riordan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*

@@ -1,6 +1,6 @@
 # Miguelle
 
-Miguelle is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Universidad Autónoma de Madrid (UAM), Madrid on Sat, 12 Sept 2026.
+Miguelle is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Universidad Autónoma de Madrid (UAM), Madrid on Sat, 12 Sept 2026.
 
 Miguelle is a tech house and house artist based in Venezuela, tracked on soundcheck, with 111 sets logged across Amsterdam, Austin, Barcelona and Boston and 16 more. Often billed alongside TONS, Ben Sterling and Marco Carola. Next up: Universidad Autónoma de Madrid (UAM), Madrid on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Miguelle is a tech house and house artist based in Venezuela, tracked on soundch
 
 TONS, Ben Sterling, Marco Carola
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelle/)*

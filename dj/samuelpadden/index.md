@@ -1,6 +1,6 @@
 # Samuel Padden
 
-Samuel Padden is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Rūmu, Lisbon on Wed, 16 Sept 2026.
+Samuel Padden is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Rūmu, Lisbon on Wed, 16 Sept 2026.
 
 Samuel Padden is a house and electro artist tracked on soundcheck, with 15 sets logged across Leeds, Lisbon, Liverpool and London and 2 more. Often billed alongside Manata, Overmars and 4D (UK). Next up: Rūmu, Lisbon on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Samuel Padden is a house and electro artist tracked on soundcheck, with 15 sets 
 
 Manata, Overmars, 4D (UK)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelpadden/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelpadden/)*

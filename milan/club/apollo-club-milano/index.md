@@ -1,6 +1,6 @@
 # Apollo Club Milano
 
-Apollo Club Milano is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Nothing Cool - Opening Party" on Sat, 5 Sept 2026.
+Apollo Club Milano is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Nothing Cool - Opening Party" on Sat, 5 Sept 2026.
 
 Apollo Club Milano is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including Bitter Saint, GABRIELEFEDELE, Larry Masmero and rar3. Browse upcoming dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
 
@@ -15,4 +15,4 @@ Apollo Club Milano is a music venue in Milan listed on soundcheck. 2 upcoming ni
 
 via Giosuè Borsi, 9, 20143, Milan, Milan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*

@@ -1,6 +1,6 @@
 # Skantia
 
-Skantia is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Skantia is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Skantia is a drum & bass and bass artist tracked on soundcheck, with 54 sets logged across Auckland, Birmingham, Brighton and Brisbane and 20 more. Often billed alongside Simula, Disrupta and K Motionz. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -9,7 +9,6 @@ Skantia is a drum & bass and bass artist tracked on soundcheck, with 54 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Sept 2026 | UNO MALTA | Malta |
-| Fri, 4 Sept 2026 | Plaza Hotel Sydney | Sydney |
 | Sat, 5 Sept 2026 | Superordinary | Brisbane |
 | Sat, 12 Sept 2026 | Bourke Street Courtyard | Melbourne |
 | Fri, 23 Oct 2026 | fabric | London |
@@ -17,6 +16,7 @@ Skantia is a drum & bass and bass artist tracked on soundcheck, with 54 sets log
 
 ## Recently played
 
+- Plaza Hotel Sydney, Sydney — Fri, 4 Sept 2026
 - UNO MALTA, Malta — Thu, 3 Sept 2026
 - LAB theCLUB, Madrid — Sat, 29 Aug 2026
 - Boston Manor Park, London — Fri, 24 Jul 2026
@@ -24,10 +24,9 @@ Skantia is a drum & bass and bass artist tracked on soundcheck, with 54 sets log
 - Lakota, Bristol — Sat, 9 May 2026
 - Now&Wow, Rotterdam — Sun, 26 Apr 2026
 - The Clock Factory, Bristol — Sat, 21 Mar 2026
-- The Clock Factory, Bristol — Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Simula, Disrupta, K Motionz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skantia/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skantia/)*

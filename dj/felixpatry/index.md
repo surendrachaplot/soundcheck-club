@@ -1,6 +1,6 @@
 # Felix Patry
 
-Felix Patry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar Datcha, Montreal on Thu, 17 Sept 2026.
+Felix Patry is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bar Datcha, Montreal on Thu, 17 Sept 2026.
 
 Felix Patry is a techno and house artist tracked on soundcheck, with 29 sets logged across Montreal. Often billed alongside Casa Kobrae, James Benjamin and Skin On Skin. Next up: Bar Datcha, Montreal on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Felix Patry is a techno and house artist tracked on soundcheck, with 29 sets log
 
 Casa Kobrae, James Benjamin, Skin On Skin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixpatry/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixpatry/)*

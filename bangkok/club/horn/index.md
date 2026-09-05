@@ -1,14 +1,13 @@
 # Horn
 
-Horn is a music venue in Bangkok with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "NON NON NON Invites YASMIN (VN)" on Fri, 4 Sept 2026.
+Horn is a music venue in Bangkok with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "PRNCPTL does Bangkok" on Sat, 5 Sept 2026.
 
-Horn is a music venue in Bangkok listed on soundcheck. 9 upcoming nights, with line-ups including 5.5MM, Cardi L, Djooke and Em-J and 2 more. Browse upcoming dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
+Horn is a music venue in Bangkok listed on soundcheck. 8 upcoming nights, with line-ups including 5.5MM, Cardi L, Djooke and Hu Yang and 2 more. Browse upcoming dates, start times and who's playing. 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | NON NON NON Invites YASMIN (VN) | Em-J, Mae Happyair, Malaii.exe, NOON (2), YASMIN (2) |
 | Sat, 5 Sept 2026 | PRNCPTL does Bangkok | Djooke, OLLE (TH), Spacer Woman |
 | Thu, 10 Sept 2026 | BUNKER: MJMA / Winkieb / Matrixxman | MJMA, Matrixxman, Winkieb |
 | Sat, 12 Sept 2026 | BBCB 10yrs: Bangkok | Hu Yang, Kim.Qna, R.I.M |
@@ -22,4 +21,4 @@ Horn is a music venue in Bangkok listed on soundcheck. 9 upcoming nights, with l
 
 4th floor, 71 -73 Silom 4 Alley, Suriya Wong, Bang Rak, Bangkok 10500, Thailand, Bangkok
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/horn/)*

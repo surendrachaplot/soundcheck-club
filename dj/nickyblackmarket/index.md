@@ -1,6 +1,6 @@
 # Nicky Blackmarket
 
-Nicky Blackmarket is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Nicky Blackmarket is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 Nicky Blackmarket is a drum & bass and jungle artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bangkok, Berlin and Birmingham and 10 more. Often billed alongside Nicky B, Kenny Ken and Ray Keith. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Nicky Blackmarket is a drum & bass and jungle artist tracked on soundcheck, with
 
 Nicky B, Kenny Ken, Ray Keith
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*

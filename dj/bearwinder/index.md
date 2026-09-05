@@ -1,6 +1,6 @@
 # Bear Winder
 
-Bear Winder is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at HWK, London on Sat, 5 Sept 2026.
+Bear Winder is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at HWK, London on Sat, 5 Sept 2026.
 
 Bear Winder is a house and garage artist tracked on soundcheck, with 40 sets logged across London, Manchester and Melbourne. Often billed alongside Zak Miller, Jeremy Sylvester and Tiffany Quinn. Next up: HWK, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Bear Winder is a house and garage artist tracked on soundcheck, with 40 sets log
 
 Zak Miller, Jeremy Sylvester, Tiffany Quinn
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*

@@ -1,6 +1,6 @@
 # Will Mellor
 
-Will Mellor is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Oven Club, Valencia on Wed, 23 Sept 2026.
+Will Mellor is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Oven Club, Valencia on Wed, 23 Sept 2026.
 
 Will Mellor is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Liverpool, London, Manchester and Valencia. Often billed alongside Rupert Ellis, DUCK-E and Athers. Next up: Oven Club, Valencia on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Will Mellor is a house and tech house artist based in United Kingdom, tracked on
 
 Rupert Ellis, DUCK-E, Athers
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willmellor/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willmellor/)*

@@ -1,6 +1,6 @@
 # Faerber
 
-Faerber is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at SAGE, Berlin on Sat, 5 Sept 2026.
+Faerber is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at SAGE, Berlin on Sat, 5 Sept 2026.
 
 Faerber is a techno and house artist based in Germany, tracked on soundcheck, with 52 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 2 more. Often billed alongside N.R.M, ENNIO and HAMY. Next up: SAGE, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Faerber is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 N.R.M, ENNIO, HAMY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faerber/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faerber/)*

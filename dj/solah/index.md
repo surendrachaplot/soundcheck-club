@@ -1,6 +1,6 @@
 # Solah
 
-Solah is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Quarters, Brighton on Fri, 23 Oct 2026.
+Solah is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Quarters, Brighton on Fri, 23 Oct 2026.
 
 Solah is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Brighton, Bristol and Ibiza and 7 more. Often billed alongside Whiney, Emma B and Flava D. Next up: Quarters, Brighton on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Solah is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Whiney, Emma B, Flava D
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solah/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solah/)*

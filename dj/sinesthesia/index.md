@@ -1,6 +1,6 @@
 # Sinesthesia
 
-Sinesthesia is a Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at ÆDEN, Berlin on Thu, 1 Oct 2026.
+Sinesthesia is a Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at ÆDEN, Berlin on Thu, 1 Oct 2026.
 
 Sinesthesia is a techno artist tracked on soundcheck, with 17 sets logged across Berlin, Nantes and Paris. Often billed alongside Iman Janes, Bailey Ibbs and Ian Maur. Next up: ÆDEN, Berlin on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Sinesthesia is a techno artist tracked on soundcheck, with 17 sets logged across
 
 Iman Janes, Bailey Ibbs, Ian Maur
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinesthesia/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinesthesia/)*

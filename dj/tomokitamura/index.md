@@ -1,6 +1,6 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at PRST, Vienna on Sat, 5 Sept 2026.
+Tomoki Tamura is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at PRST, Vienna on Sat, 5 Sept 2026.
 
 Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 94 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 25 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Cromby. Next up: PRST, Vienna on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ Tomoki Tamura is a house and techno artist based in Germany, tracked on soundche
 
 GARAN GARAN, Satoshi Tomiie, Cromby
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

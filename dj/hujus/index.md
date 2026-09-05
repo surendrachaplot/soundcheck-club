@@ -1,6 +1,6 @@
 # HUJUS
 
-HUJUS is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TILLATEC, Amsterdam on Sat, 12 Sept 2026.
+HUJUS is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TILLATEC, Amsterdam on Sat, 12 Sept 2026.
 
 HUJUS is a techno and trance artist tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Fran LF, Adrian Mills and Beau Didier. Next up: TILLATEC, Amsterdam on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ HUJUS is a techno and trance artist tracked on soundcheck, with 46 sets logged a
 
 Fran LF, Adrian Mills, Beau Didier
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hujus/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hujus/)*

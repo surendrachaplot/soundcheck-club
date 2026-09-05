@@ -1,6 +1,6 @@
 # CGM - Club Giovanile Milano
 
-CGM - Club Giovanile Milano is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "fvtvristica presents ACVSTICA" on Fri, 11 Sept 2026.
+CGM - Club Giovanile Milano is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "fvtvristica presents ACVSTICA" on Fri, 11 Sept 2026.
 
 CGM - Club Giovanile Milano is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including Fab21100, Giuseppe Schembri, Hi/Fi and Hutchee and 2 more. Browse upcoming dates, start times and who's playing. Via Antonio Raimondi, 15, 20156 Milano MI, Italy.
 
@@ -15,4 +15,4 @@ CGM - Club Giovanile Milano is a music venue in Milan listed on soundcheck. 2 up
 
 Via Antonio Raimondi, 15, 20156 Milano MI, Italy, Milan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cgm-club-giovanile-milano/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cgm-club-giovanile-milano/)*

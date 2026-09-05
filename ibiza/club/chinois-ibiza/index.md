@@ -1,14 +1,13 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 32 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Major League Djz presents: Bun Xapa, Coco & Breezy, AMŌUN:KA" on Fri, 4 Sept 2026.
+Chinois Ibiza is a music venue in Ibiza with 31 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "The Masquerade: Claptone, Elderbrook DJ Set, Tony Cortez, Shir Khan" on Sat, 5 Sept 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 32 upcoming nights, with line-ups including 2lovers, Alan Dixon, Andrea Oliva and Antdot and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 31 upcoming nights, with line-ups including 2lovers, Alan Dixon, Andrea Oliva and Antdot and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Major League Djz presents: Bun Xapa, Coco & Breezy, AMŌUN:KA | Bun Xapa, Coco & Breezy, Major League Djz |
 | Sat, 5 Sept 2026 | The Masquerade: Claptone, Elderbrook DJ Set, Tony Cortez, Shir Khan | Claptone, Elderbrook, Shir Khan |
 | Sun, 6 Sept 2026 | Bedouin presents SAGA: Bedouin, Liva K, Bontan | Bedouin, Bontan, Liva K |
 | Mon, 7 Sept 2026 | La Troya: GOK WAN, Oscar Colorado, Davina Moss, SALVA MARTIN, Felix Da Funk | Davina Moss, Felix Da Funk, Oscar Colorado |
@@ -18,9 +17,10 @@ Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 32 upcoming nights
 | Sat, 12 Sept 2026 | The Masquerade: Claptone, Hannah Wants B2B Paul Woolford, Chus & Ceballos, Peverell | Chus & Ceballos, Claptone, Hannah Wants, Paul Woolford, Peverell |
 | Sun, 13 Sept 2026 | Bedouin presents SAGA | Baron, Bedouin, Dorian Craft, Jan Blomqvist |
 | Mon, 14 Sept 2026 | La Troya: Oscar Colorado, 2lovers, Bachi, MARIO SANXEZ | 2lovers, Bachi, Oscar Colorado |
+| Tue, 15 Sept 2026 | Anjunadeep: Dosem b2b Hana, Dusky, Romain Garcia, Catching Flies | Dusky, Hana, Romain Garcia |
 
 ## Address
 
 Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/chinois-ibiza/)*

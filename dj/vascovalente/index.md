@@ -1,6 +1,6 @@
 # Vasco Valente
 
-Vasco Valente is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Gare Porto, Porto on Sat, 5 Sept 2026.
+Vasco Valente is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Gare Porto, Porto on Sat, 5 Sept 2026.
 
 Vasco Valente is a techno and house artist based in Portugal, tracked on soundcheck, with 25 sets logged across Lisbon and Porto. Often billed alongside Pedro Tabuada, Carlos Regadas and Alfonsvs. Next up: Gare Porto, Porto on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Vasco Valente is a techno and house artist based in Portugal, tracked on soundch
 
 Pedro Tabuada, Carlos Regadas, Alfonsvs
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vascovalente/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vascovalente/)*

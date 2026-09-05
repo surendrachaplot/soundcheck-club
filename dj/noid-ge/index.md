@@ -1,6 +1,6 @@
 # NO:ID
 
-NO:ID is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at KHIDI, Tbilisi on Sat, 5 Sept 2026.
+NO:ID is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at KHIDI, Tbilisi on Sat, 5 Sept 2026.
 
 NO:ID is an electronic artist tracked on soundcheck, with 8 sets logged across Tbilisi. Often billed alongside Generali Minerali, Astrobee and Bero. Next up: KHIDI, Tbilisi on Sat 5 Sept.
 
@@ -24,4 +24,4 @@ NO:ID is an electronic artist tracked on soundcheck, with 8 sets logged across T
 
 Generali Minerali, Astrobee, Bero
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noid-ge/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noid-ge/)*

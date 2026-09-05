@@ -1,6 +1,6 @@
 # The M1 and M2 Lines on the Copenhagen Metro
 
-The M1 and M2 Lines on the Copenhagen Metro is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "TRANS METRO EXPRESS 2026: SUNRISE JOURNEY" on Sun, 27 Sept 2026.
+The M1 and M2 Lines on the Copenhagen Metro is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "TRANS METRO EXPRESS 2026: SUNRISE JOURNEY" on Sun, 27 Sept 2026.
 
 The M1 and M2 Lines on the Copenhagen Metro is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Hasfeldt. Browse upcoming dates, start times and who's playing. Vanløse Metro Station, Vanløse Torv 5, 2720 Vanløse.
 
@@ -14,4 +14,4 @@ The M1 and M2 Lines on the Copenhagen Metro is a music venue in Copenhagen liste
 
 Vanløse Metro Station, Vanløse Torv 5, 2720 Vanløse, Copenhagen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/the-m1-and-m2-lines-on-the-copenhagen-metro/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/the-m1-and-m2-lines-on-the-copenhagen-metro/)*

@@ -1,6 +1,6 @@
-# FREE BEACH PARTY CLOSING SUMMER: Les Enfants x ■ Checkpoint x Troopers at Sunseabar Beach Club
+# FREE BEACH PARTY CLOSING SUMMER: Les Enfants x ■ Checkpoint x Troopers (LAST EPISODE) at Sunseabar Beach Club
 
-FREE BEACH PARTY CLOSING SUMMER: Les Enfants x ■ Checkpoint x Troopers at Sunseabar Beach Club on Sat 19 Sept, Barcelona. Techno and House. Preview the line-up and save it on soundcheck.
+FREE BEACH PARTY CLOSING SUMMER: Les Enfants x ■ Checkpoint x Troopers (LAST EPISODE) at Sunseabar Beach Club on Sat 19 Sept, Barcelona. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

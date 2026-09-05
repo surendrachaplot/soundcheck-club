@@ -1,14 +1,13 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 16 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "HVYWGHT x 10 Years of 1985: Alix Perez [RESALE]" on Fri, 4 Sept 2026.
+Outernet Live is a music venue in London with 15 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "MORTEN - London Takeover" on Sat, 19 Sept 2026.
 
-Outernet Live is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including AliA, ALISHA, Alix Perez and Beatrice M. and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
+Outernet Live is a music venue in London listed on soundcheck. 15 upcoming nights, with line-ups including AliA, ALISHA, Bitter Babe and Blawan and 2 more. Browse upcoming dates, start times and who's playing. Denmark Street, London WC2H.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | HVYWGHT x 10 Years of 1985: Alix Perez [RESALE] | Alix Perez, Beatrice M., Breakage, Cesco, HIJINX, Monty, Mr. G, SP:MC, Sharnie, Tasha, Visages |
 | Sat, 19 Sept 2026 | MORTEN - London Takeover |  |
 | Fri, 25 Sept 2026 | AVA London x RA25 - Blawan Live, Mala, Bitter Babe Live AV feat. Koch.a, AliA | AliA, Bitter Babe, Blawan, Mala |
 | Sat, 26 Sept 2026 | Shogun Sessions: HERE at Outernet | DRIIA, Duskee, Gardna, LSB (UK), Larnie Moles, LowQui, S.P.Y, Sabrina, Stamina MC, Sustance, Workforce |
@@ -18,9 +17,10 @@ Outernet Live is a music venue in London listed on soundcheck. 16 upcoming night
 | Sat, 24 Oct 2026 | AFRODESI London | MR SAJ |
 | Sat, 31 Oct 2026 | Labyrinth presents: Cassius Club London | Cassius |
 | Sat, 7 Nov 2026 | Two Shell (with Weirdcore) — HERE @ Outernet, London | Two Shell |
+| Sat, 14 Nov 2026 | The History of Jungle | DJ Hype, DJ Rap, DJ SS, Eksman, Grooverider, Inja, Kenny Ken, MC Det, MC Flux, MC GQ, Majistrate, Navigator, Nicky Blackmarket, Roni Size |
 
 ## Address
 
 Denmark Street, London WC2H, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

@@ -1,6 +1,6 @@
 # Vladimir Dubyshkin
 
-Vladimir Dubyshkin is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Substation, Seattle on Fri, 11 Sept 2026.
+Vladimir Dubyshkin is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Substation, Seattle on Fri, 11 Sept 2026.
 
 Vladimir Dubyshkin is a techno and trance artist based in Russia, tracked on soundcheck, with 106 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside u.r.trax, DJ Hyperdrive and fka.m4a. Next up: Substation, Seattle on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Vladimir Dubyshkin is a techno and trance artist based in Russia, tracked on sou
 
 u.r.trax, DJ Hyperdrive, fka.m4a
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirdubyshkin-de/)*

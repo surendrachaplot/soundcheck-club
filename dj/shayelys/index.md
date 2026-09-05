@@ -1,6 +1,6 @@
 # Shay Elys
 
-Shay Elys is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Townhouse Venice, Los Angeles on Sat, 5 Sept 2026.
+Shay Elys is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Townhouse Venice, Los Angeles on Sat, 5 Sept 2026.
 
 Shay Elys is a house and club artist tracked on soundcheck, with 23 sets logged across Houston, Losangeles, Portland and Washingtondc. Often billed alongside Suga Shay, DJ Moma and Ashley Younniä. Next up: Townhouse Venice, Losangeles on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Shay Elys is a house and club artist tracked on soundcheck, with 23 sets logged 
 
 Suga Shay, DJ Moma, Ashley Younniä
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shayelys/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shayelys/)*

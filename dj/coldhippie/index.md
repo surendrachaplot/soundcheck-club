@@ -1,6 +1,6 @@
 # Cold Hippie
 
-Cold Hippie is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
+Cold Hippie is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
 
 Cold Hippie is a techno and breakbeat artist tracked on soundcheck, with 7 sets logged across Kualalumpur, London and Rotterdam. Often billed alongside Form Affinity, Squish and AYEGY. Next up: Ormside Projects, London on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Cold Hippie is a techno and breakbeat artist tracked on soundcheck, with 7 sets 
 
 Form Affinity, Squish, AYEGY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coldhippie/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coldhippie/)*

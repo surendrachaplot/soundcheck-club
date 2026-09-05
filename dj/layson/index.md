@@ -1,6 +1,6 @@
 # Layson
 
-Layson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
+Layson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
 
 Layson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London and Manchester. Often billed alongside Marlon Baleci, Nick Clev and Sam Beach. Next up: fabric, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Layson is a house and techno artist based in United Kingdom, tracked on soundche
 
 Marlon Baleci, Nick Clev, Sam Beach
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/layson/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/layson/)*

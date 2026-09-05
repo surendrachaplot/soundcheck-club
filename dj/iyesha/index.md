@@ -1,14 +1,15 @@
 # Iyesha
 
-Iyesha is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hope House, Leeds on Thu, 24 Sept 2026.
+Iyesha is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hope House, Leeds on Thu, 24 Sept 2026.
 
-Iyesha is a techno and club artist tracked on soundcheck, with 44 sets logged across Berlin, Brighton, Glasgow and Leeds and 4 more. Often billed alongside NSFW, Kessie and Michelle Manetti. Next up: Hope House, Leeds on Thu 24 Sept.
+Iyesha is a techno and club artist tracked on soundcheck, with 45 sets logged across Berlin, Brighton, Glasgow and Leeds and 4 more. Often billed alongside NSFW, Kessie and Michelle Manetti. Next up: Hope House, Leeds on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 24 Sept 2026 | Hope House | Leeds |
+| Fri, 25 Sept 2026 | Vespers Club | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Iyesha is a techno and club artist tracked on soundcheck, with 44 sets logged ac
 
 NSFW, Kessie, Michelle Manetti
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iyesha/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iyesha/)*

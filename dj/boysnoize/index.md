@@ -1,6 +1,6 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
+Boys Noize is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
 
 Boys Noize is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Austin, Barcelona and Berlin and 45 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: TBA, Washingtondc on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ Boys Noize is a techno and house artist tracked on soundcheck, with 150 sets log
 
 VTSS, MCR-T, DJ Tennis
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*

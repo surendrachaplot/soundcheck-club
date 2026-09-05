@@ -1,6 +1,6 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+MCR-T is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 MCR-T is a techno and house artist tracked on soundcheck, with 263 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 60 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -23,6 +23,7 @@ MCR-T is a techno and house artist tracked on soundcheck, with 263 sets logged a
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - Southwark Park, London — Sun, 30 Aug 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
@@ -30,10 +31,9 @@ MCR-T is a techno and house artist tracked on soundcheck, with 263 sets logged a
 - Kingdom Nightclub, Austin — Sat, 8 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Holocene, Portland — Sat, 1 Aug 2026
-- TBA - Mission Four (Ace*Mission Studios) 560 S Mission Rd, Los Angeles, CA 90033, Los Angeles — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

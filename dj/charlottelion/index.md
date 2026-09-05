@@ -1,6 +1,6 @@
 # Charlotte Lion
 
-Charlotte Lion is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Playa Soleil Ibiza, Ibiza on Tue, 8 Sept 2026.
+Charlotte Lion is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Playa Soleil Ibiza, Ibiza on Tue, 8 Sept 2026.
 
 Charlotte Lion is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Hamburg, Ibiza and Leipzig. Often billed alongside maniaclina, Stuckeyrella and KETA PERRY. Next up: Playa Soleil Ibiza, Ibiza on Tue 8 Sept.
 
@@ -27,4 +27,4 @@ Charlotte Lion is a techno and trance artist based in Germany, tracked on soundc
 
 maniaclina, Stuckeyrella, KETA PERRY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottelion/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottelion/)*

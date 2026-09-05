@@ -1,14 +1,13 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "WUZA x Klunkerkranich w. Kataya, Caro Vola, Herr Nora *live, Eloiß, Ouhana, Mike Moran" on Fri, 4 Sept 2026.
+Klunkerkranich is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "CLIQUE BOOKING x Klunkerkranich w. Acua *live, Motip White b2b Redfreya, Miz Kiara" on Sat, 5 Sept 2026.
 
-Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including BECKSHAM, CATAWR, cee_ohh and Dela Nesto and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
+Klunkerkranich is a music venue in Berlin listed on soundcheck. 7 upcoming nights, with line-ups including BECKSHAM, CATAWR, cee_ohh and Dela Nesto and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | WUZA x Klunkerkranich w. Kataya, Caro Vola, Herr Nora *live, Eloiß, Ouhana, Mike Moran | Eloïß, Kataya |
 | Sat, 5 Sept 2026 | CLIQUE BOOKING x Klunkerkranich w. Acua *live, Motip White b2b Redfreya, Miz Kiara | Motip White, Nicolai Toma, P.Toile, Redfreya |
 | Tue, 8 Sept 2026 | BLAUES STÜNDCHEN w. Jack's Teller |  |
 | Wed, 9 Sept 2026 | WOCHENMITTE w. Emorine | Emorine |
@@ -21,4 +20,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

@@ -1,6 +1,6 @@
 # cotton
 
-cotton is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
+cotton is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 cotton is a techno and electro artist based in United States of America, tracked on soundcheck, with 45 sets logged across Athens, Berlin, Chicago and Istanbul and 3 more. Often billed alongside Juliana Huxtable, Kilopatrah Jones and Massimiliano Pagliara. Next up: TBA, Sanfrancisco on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ cotton is a techno and electro artist based in United States of America, tracked
 
 Juliana Huxtable, Kilopatrah Jones, Massimiliano Pagliara
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*

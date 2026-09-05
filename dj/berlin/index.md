@@ -1,6 +1,6 @@
 # BERLIN
 
-BERLIN is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Maaya, Berlin on Sat, 5 Sept 2026.
+BERLIN is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Maaya, Berlin on Sat, 5 Sept 2026.
 
 BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 46 sets logged across Berlin, Hamburg, Montreal and Osaka and 2 more. Often billed alongside Laigonen Kanonen, Max Muth and V (NYC). Next up: Maaya, Berlin on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ BERLIN is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Laigonen Kanonen, Max Muth, V (NYC)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/berlin/)*

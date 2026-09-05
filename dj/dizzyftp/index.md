@@ -1,6 +1,6 @@
 # Dizzy FTP
 
-Dizzy FTP is a Ghetto Tech and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Strays, Detroit on Sat, 5 Sept 2026.
+Dizzy FTP is a Ghetto Tech and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Strays, Detroit on Sat, 5 Sept 2026.
 
 Dizzy FTP is a ghetto tech and club artist tracked on soundcheck, with 16 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside jamea., sel in space and AK (US). Next up: The Strays, Detroit on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Dizzy FTP is a ghetto tech and club artist tracked on soundcheck, with 16 sets l
 
 jamea., sel in space, AK (US)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzyftp/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzyftp/)*

@@ -1,6 +1,6 @@
 # Sinners and Saints
 
-Sinners and Saints is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Sinners and Saints presents: Ass Shakers w/ Mix3dmatch + Nanagotchi" on Sat, 5 Sept 2026.
+Sinners and Saints is a music venue in Washington DC with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Sinners and Saints presents: Ass Shakers w/ Mix3dmatch + Nanagotchi" on Sat, 5 Sept 2026.
 
 Sinners and Saints is a music venue in Washingtondc listed on soundcheck. 3 upcoming nights, with line-ups including DJ KORIS, IDKRYAN, NANAGOTCHI and Saintclair and 2 more. Browse upcoming dates, start times and who's playing. 2309 18th St NW, Washington, DC 20009, USA.
 
@@ -16,4 +16,4 @@ Sinners and Saints is a music venue in Washingtondc listed on soundcheck. 3 upco
 
 2309 18th St NW, Washington, DC 20009, USA, Washington DC
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*

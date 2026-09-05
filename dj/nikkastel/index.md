@@ -1,6 +1,6 @@
 # Nik Kastel
 
-Nik Kastel is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
+Nik Kastel is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Il Mercato Centrale, Melbourne on Sat, 5 Sept 2026.
 
 Nik Kastel is a techno and trance artist based in Australia, tracked on soundcheck, with 24 sets logged across Brisbane, Melbourne, Paris and Shenzhen and 1 more. Often billed alongside Alex Farell, Andrea Guadalupi and Etwas. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Nik Kastel is a techno and trance artist based in Australia, tracked on soundche
 
 Alex Farell, Andrea Guadalupi, Etwas
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkastel/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkastel/)*

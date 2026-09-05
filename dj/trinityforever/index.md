@@ -1,6 +1,6 @@
 # Trinity Forever
 
-Trinity Forever is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sinners and Saints, Washington DC on Sat, 12 Sept 2026.
+Trinity Forever is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Sinners and Saints, Washington DC on Sat, 12 Sept 2026.
 
 Trinity Forever is a club and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Philadelphia and Washingtondc. Often billed alongside Franxx, Mrs. Qbert and Ether Pleaser. Next up: Sinners and Saints, Washingtondc on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Trinity Forever is a club and techno artist based in United States of America, t
 
 Franxx, Mrs. Qbert, Ether Pleaser
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trinityforever/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trinityforever/)*

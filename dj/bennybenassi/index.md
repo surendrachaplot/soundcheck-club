@@ -1,6 +1,6 @@
 # Benny Benassi
 
-Benny Benassi is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 17 Sept 2026.
+Benny Benassi is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 17 Sept 2026.
 
 Benny Benassi is a house and electro artist tracked on soundcheck, with 44 sets logged across Boston, Chicago, Copenhagen and Ibiza and 14 more. Often billed alongside Terry, Zedd and Alok. Next up: Hï Ibiza, Ibiza on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ Benny Benassi is a house and electro artist tracked on soundcheck, with 44 sets 
 
 Terry, Zedd, Alok
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*

@@ -1,6 +1,6 @@
 # Mechanica.Club
 
-Mechanica.Club is a music venue in Tbilisi with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Secrets of the third planet / Mechanica sound club" on Fri, 27 Nov 2026.
+Mechanica.Club is a music venue in Tbilisi with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Secrets of the third planet / Mechanica sound club" on Fri, 27 Nov 2026.
 
 Mechanica.Club is a music venue in Tbilisi listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Georgia Tbilisi 9 Dmitry Uznadze.
 
@@ -14,4 +14,4 @@ Mechanica.Club is a music venue in Tbilisi listed on soundcheck. 1 upcoming nigh
 
 Georgia Tbilisi 9 Dmitry Uznadze, Tbilisi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/mechanica-club/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/mechanica-club/)*

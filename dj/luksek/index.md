@@ -1,6 +1,6 @@
 # Luksek
 
-Luksek is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 42 Marches, Paris on Fri, 9 Oct 2026.
+Luksek is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 42 Marches, Paris on Fri, 9 Oct 2026.
 
 Luksek is a disco and house artist tracked on soundcheck, with 13 sets logged across Berlin, Brussels, Milan and Paris and 1 more. Often billed alongside Arnaud Denzler, Bustin' Loose and Cannelle. Next up: 42 Marches, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Luksek is a disco and house artist tracked on soundcheck, with 13 sets logged ac
 
 Arnaud Denzler, Bustin' Loose, Cannelle
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luksek/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luksek/)*

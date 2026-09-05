@@ -1,6 +1,6 @@
 # ARTEM (FR)
 
-ARTEM (FR) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - LOCATION VIA EMAIL AFTER PURCHASE, Belgrade on Sat, 12 Sept 2026.
+ARTEM (FR) is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - LOCATION VIA EMAIL AFTER PURCHASE, Belgrade on Sat, 12 Sept 2026.
 
 ARTEM (FR) is a bass and club artist based in France, tracked on soundcheck, with 13 sets logged across Belgrade, Marseille, Paris and Rotterdam. Often billed alongside Naomi (FR), Hey Bony and Lorkestra. Next up: TBA - LOCATION VIA EMAIL AFTER PURCHASE, Belgrade on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ARTEM (FR) is a bass and club artist based in France, tracked on soundcheck, wit
 
 Naomi (FR), Hey Bony, Lorkestra
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artem-fr/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artem-fr/)*

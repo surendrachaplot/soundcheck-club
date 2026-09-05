@@ -1,14 +1,15 @@
 # Takē
 
-Takē is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bukanyr Boat, Prague on Fri, 18 Sept 2026.
+Takē is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bukanyr Boat, Prague on Fri, 18 Sept 2026.
 
-Takē is a techno and house artist based in Czech Republic, tracked on soundcheck, with 44 sets logged across Berlin and Prague. Often billed alongside ishka machina, AVHD and DJames (2). Next up: Bukanyr Boat, Prague on Fri 18 Sept.
+Takē is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 45 sets logged across Berlin and Prague. Often billed alongside ishka machina, AVHD and DJames (2). Next up: Bukanyr Boat, Prague on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Bukanyr Boat | Prague |
+| Sat, 19 Sept 2026 | Stalin | Prague |
 | Fri, 25 Sept 2026 | Altenburg 1964 | Prague |
 | Sat, 26 Sept 2026 | Twist Bar | Prague |
 | Sat, 24 Oct 2026 | Ankali & Planeta Za | Prague |
@@ -28,4 +29,4 @@ Takē is a techno and house artist based in Czech Republic, tracked on soundchec
 
 ishka machina, AVHD, DJames (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/take/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/take/)*

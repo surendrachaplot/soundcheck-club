@@ -1,6 +1,6 @@
 # VASAP
 
-VASAP is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
+VASAP is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
 
 VASAP is a house and progressive house artist tracked on soundcheck, with 28 sets logged across Barcelona. Often billed alongside NAC Oliver, Diego Montiel and Fede Roses. Next up: Port Olimpic, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ VASAP is a house and progressive house artist tracked on soundcheck, with 28 set
 
 NAC Oliver, Diego Montiel, Fede Roses
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vasap/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vasap/)*

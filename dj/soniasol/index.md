@@ -1,6 +1,6 @@
 # Sonia Sol
 
-Sonia Sol is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lieberscholli, Munich on Fri, 9 Oct 2026.
+Sonia Sol is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Lieberscholli, Munich on Fri, 9 Oct 2026.
 
 Sonia Sol is a hip-hop and afrobeat artist based in United States of America, tracked on soundcheck, with 30 sets logged across Berlin, Copenhagen, London and Losangeles and 6 more. Often billed alongside AceMo, Cquestt and JVINCENT. Next up: Lieberscholli, Munich on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Sonia Sol is a hip-hop and afrobeat artist based in United States of America, tr
 
 AceMo, Cquestt, JVINCENT
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soniasol/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soniasol/)*

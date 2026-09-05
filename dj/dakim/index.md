@@ -1,6 +1,6 @@
 # Dakim
 
-Dakim is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Stoked&stoned, Seoul on Sun, 6 Sept 2026.
+Dakim is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Stoked&stoned, Seoul on Sun, 6 Sept 2026.
 
 Dakim is a house and tech house artist based in South Korea, tracked on soundcheck, with 14 sets logged across Seoul. Often billed alongside .2ndfloor, Jongho and Oho.. Next up: Stoked&stoned, Seoul on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Dakim is a house and tech house artist based in South Korea, tracked on soundche
 
 .2ndfloor, Jongho, Oho.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dakim/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dakim/)*

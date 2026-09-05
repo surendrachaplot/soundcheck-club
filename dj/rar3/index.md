@@ -1,6 +1,6 @@
 # rar3
 
-rar3 is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Apollo Club Milano, Milan on Sat, 5 Sept 2026.
+rar3 is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Apollo Club Milano, Milan on Sat, 5 Sept 2026.
 
 rar3 is an electro and techno artist based in Italy, tracked on soundcheck, with 15 sets logged across Milan. Often billed alongside Bitter Saint, GABRIELEFEDELE and figo. Next up: Apollo Club Milano, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ rar3 is an electro and techno artist based in Italy, tracked on soundcheck, with
 
 Bitter Saint, GABRIELEFEDELE, figo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rar3/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rar3/)*

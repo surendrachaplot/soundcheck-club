@@ -1,6 +1,6 @@
 # Schwesta P
 
-Schwesta P is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Amp, Munster on Fri, 18 Sept 2026.
+Schwesta P is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Amp, Munster on Fri, 18 Sept 2026.
 
 Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck, with 63 sets logged across Amsterdam, Berlin, Cologne and Dusseldorf and 8 more. Often billed alongside EliaHaze, Anton Jonathan and Carluschka. Next up: Amp, Munster on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Schwesta P is a techno and trance artist based in Germany, tracked on soundcheck
 
 EliaHaze, Anton Jonathan, Carluschka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schwestap/)*

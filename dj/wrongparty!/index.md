@@ -1,6 +1,6 @@
 # Wrong Party!
 
-Wrong Party! is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Old Burnt Barns, Glasgow on Sat, 19 Sept 2026.
+Wrong Party! is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Old Burnt Barns, Glasgow on Sat, 19 Sept 2026.
 
 Wrong Party! is an acid and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Aberdeen and Glasgow. Often billed alongside GK Machine, Illogical Operator and Vladimir Ivkovic. Next up: The Old Burnt Barns, Glasgow on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Wrong Party! is an acid and house artist based in United Kingdom, tracked on sou
 
 GK Machine, Illogical Operator, Vladimir Ivkovic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrongparty!/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wrongparty!/)*

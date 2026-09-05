@@ -1,6 +1,6 @@
 # TINKERHELL
 
-TINKERHELL is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Artheater, Cologne on Sat, 19 Sept 2026.
+TINKERHELL is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Artheater, Cologne on Sat, 19 Sept 2026.
 
 TINKERHELL is a techno and electronica artist based in Argentina, tracked on soundcheck, with 21 sets logged across Berlin, Buenosaires, Cologne and Lisbon and 2 more. Often billed alongside Bermani, Forello and Gaston Fiore. Next up: Artheater, Cologne on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ TINKERHELL is a techno and electronica artist based in Argentina, tracked on sou
 
 Bermani, Forello, Gaston Fiore
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinkerhell/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinkerhell/)*

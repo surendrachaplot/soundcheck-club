@@ -1,6 +1,6 @@
 # dithering
 
-dithering is a Hardcore and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at New Wave Ramen, Manchester on Fri, 18 Sept 2026.
+dithering is a Hardcore and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at New Wave Ramen, Manchester on Fri, 18 Sept 2026.
 
 dithering is a hardcore and downtempo artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Manchester. Often billed alongside EJ Woodall, Nusheen and Semi Peppered. Next up: New Wave Ramen, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ dithering is a hardcore and downtempo artist based in United Kingdom, tracked on
 
 EJ Woodall, Nusheen, Semi Peppered
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dithering/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dithering/)*

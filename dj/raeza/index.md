@@ -1,6 +1,6 @@
 # RÆZA
 
-RÆZA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at export, Rotterdam on Sat, 12 Sept 2026.
+RÆZA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at export, Rotterdam on Sat, 12 Sept 2026.
 
 RÆZA is a techno and house artist based in France, tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 8 more. Often billed alongside Rachel Noon, Lea Occhi and BASHKKA. Next up: export, Rotterdam on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ RÆZA is a techno and house artist based in France, tracked on soundcheck, with 
 
 Rachel Noon, Lea Occhi, BASHKKA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raeza/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raeza/)*

@@ -1,6 +1,6 @@
 # Kenni Javon
 
-Kenni Javon is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paragon, New York City on Sat, 5 Sept 2026.
+Kenni Javon is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Paragon, New York City on Sat, 5 Sept 2026.
 
 Kenni Javon is a club and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Chicago, Losangeles, Newyorkcity and Philadelphia and 1 more. Often billed alongside Byrell The Great, PINKYY and Brown Liquah. Next up: Paragon, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Kenni Javon is a club and techno artist based in United States of America, track
 
 Byrell The Great, PINKYY, Brown Liquah
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennijavon/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kennijavon/)*

@@ -1,6 +1,6 @@
 # Lab11
 
-Lab11 is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Forward Motion Birmingham" on Sat, 5 Sept 2026.
+Lab11 is a music venue in Birmingham with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Forward Motion Birmingham" on Sat, 5 Sept 2026.
 
 Lab11 is a music venue in Birmingham listed on soundcheck. 2 upcoming nights, with line-ups including Booker T, Boon (UK), Dusky and Jack Swift and 2 more. Browse upcoming dates, start times and who's playing. Trent St; Birmingham, B5 5NL, United Kingdom.
 
@@ -15,4 +15,4 @@ Lab11 is a music venue in Birmingham listed on soundcheck. 2 upcoming nights, wi
 
 Trent St; Birmingham, B5 5NL, United Kingdom, Birmingham
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab11/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab11/)*

@@ -1,6 +1,6 @@
 # Winston Hazel
 
-Winston Hazel is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Panke Social, Sheffield on Sat, 19 Sept 2026.
+Winston Hazel is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Panke Social, Sheffield on Sat, 19 Sept 2026.
 
 Winston Hazel is a house and funk / soul artist tracked on soundcheck, with 8 sets logged across Leeds, London, Mallorca and Sheffield. Often billed alongside Pipes, 96 Back and DJ Deep Heat. Next up: Panke Social, Sheffield on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Winston Hazel is a house and funk / soul artist tracked on soundcheck, with 8 se
 
 Pipes, 96 Back, DJ Deep Heat
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winstonhazel/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winstonhazel/)*

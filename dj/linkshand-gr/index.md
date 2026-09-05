@@ -1,6 +1,6 @@
 # Linkshänd
 
-Linkshänd is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Linkshänd is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Linkshänd is an electronic artist tracked on soundcheck, with 7 sets logged across Athens. Often billed alongside VSSLS, Adam Des and Alisa Murphy. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Linkshänd is an electronic artist tracked on soundcheck, with 7 sets logged acr
 
 VSSLS, Adam Des, Alisa Murphy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linkshand-gr/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/linkshand-gr/)*

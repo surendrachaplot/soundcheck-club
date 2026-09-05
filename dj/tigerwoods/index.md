@@ -1,6 +1,6 @@
 # Tiger & Woods
 
-Tiger & Woods is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Tiger & Woods is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Tiger & Woods are a house and disco duo tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Detroit and Dublin and 10 more. Often billed alongside 1-800-CALL-ASH, Massimiliano Pagliara and Perel. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Tiger & Woods are a house and disco duo tracked on soundcheck, with 21 sets logg
 
 1-800-CALL-ASH, Massimiliano Pagliara, Perel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerwoods/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerwoods/)*

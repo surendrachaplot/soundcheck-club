@@ -1,6 +1,6 @@
 # Eddie Richards
 
-Eddie Richards is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Mothership, Auckland on Fri, 18 Sept 2026.
+Eddie Richards is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Mothership, Auckland on Fri, 18 Sept 2026.
 
 Eddie Richards is a tech house and house artist tracked on soundcheck, with 31 sets logged across Amsterdam, Auckland, Berlin and Brighton and 11 more. Often billed alongside Terry Francis, 3 Minds and Silverlining. Next up: The Mothership, Auckland on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Eddie Richards is a tech house and house artist tracked on soundcheck, with 31 s
 
 Terry Francis, 3 Minds, Silverlining
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddierichards/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddierichards/)*

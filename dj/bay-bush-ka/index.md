@@ -1,6 +1,6 @@
 # BAY-BUSH-KA
 
-BAY-BUSH-KA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
+BAY-BUSH-KA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
 
 BAY-BUSH-KA is a house and techno artist tracked on soundcheck, with 41 sets logged across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Will Druid, Elianne and ChaRita. Next up: Renate, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ BAY-BUSH-KA is a house and techno artist tracked on soundcheck, with 41 sets log
 
 Will Druid, Elianne, ChaRita
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bay-bush-ka/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bay-bush-ka/)*

@@ -1,6 +1,6 @@
 # Pouty's Rage
 
-Pouty's Rage is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 5 Sept 2026.
+Pouty's Rage is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 5 Sept 2026.
 
 Pouty's Rage is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 18 sets logged across Denver, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside DJ Land Reform, Djoser and GET FACE. Next up: TRANSMISSION DC, Washingtondc on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Pouty's Rage is a drum & bass and jungle artist based in United States of Americ
 
 DJ Land Reform, Djoser, GET FACE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poutysrage/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poutysrage/)*

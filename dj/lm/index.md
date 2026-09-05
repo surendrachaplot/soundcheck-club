@@ -1,14 +1,13 @@
 # LM
 
-LM is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sunseabar Beach Club, Barcelona on Fri, 4 Sept 2026.
+LM is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at 303 Audiophile Bar, Barcelona on Thu, 10 Sept 2026.
 
-LM is a house and electro artist tracked on soundcheck, with 142 sets logged across Bangkok, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Brieela, ildec and Baffa. Next up: Sunseabar Beach Club, Barcelona on Fri 4 Sept.
+LM is a house and electro artist tracked on soundcheck, with 142 sets logged across Bangkok, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Brieela, ildec and Baffa. Next up: 303 Audiophile Bar, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Sunseabar Beach Club | Barcelona |
 | Thu, 10 Sept 2026 | 303 Audiophile Bar | Barcelona |
 | Fri, 11 Sept 2026 | Resume Valencia | Valencia |
 | Fri, 18 Sept 2026 | Macarena Club | Barcelona |
@@ -17,6 +16,7 @@ LM is a house and electro artist tracked on soundcheck, with 142 sets logged acr
 
 ## Recently played
 
+- Sunseabar Beach Club, Barcelona — Fri, 4 Sept 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Thu, 3 Sept 2026
 - HOTEL PULITZER BARCELONA, Barcelona — Sun, 19 Jul 2026
 - 303 Audiophile Bar, Barcelona — Thu, 2 Jul 2026
@@ -24,10 +24,9 @@ LM is a house and electro artist tracked on soundcheck, with 142 sets logged acr
 - TBA - Fonik Café @ Carrer de Tamarit, 104, Eixample, 08015 Barcelona, Barcelona — Thu, 18 Jun 2026
 - Garage 442, Barcelona — Sat, 13 Jun 2026
 - 303 Audiophile Bar, Barcelona — Thu, 7 May 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Fri, 1 May 2026
 
 ## Shares bills with
 
 Brieela, ildec, Baffa
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*

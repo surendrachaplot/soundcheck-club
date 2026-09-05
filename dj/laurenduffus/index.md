@@ -1,6 +1,6 @@
 # Lauren Duffus
 
-Lauren Duffus is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
+Lauren Duffus is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at La Station - Gare des Mines, Paris on Fri, 18 Sept 2026.
 
 Lauren Duffus is an experimental and bass artist tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 13 more. Often billed alongside 2K88, Rainy Miller and Bianca Scout. Next up: La Station - Gare des Mines, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Lauren Duffus is an experimental and bass artist tracked on soundcheck, with 54 
 
 2K88, Rainy Miller, Bianca Scout
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenduffus/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenduffus/)*

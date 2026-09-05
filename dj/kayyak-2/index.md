@@ -1,6 +1,6 @@
 # KAYYAK
 
-KAYYAK is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Landesmuseum, Zurich on Mon, 31 Aug 2026.
+KAYYAK is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Landesmuseum, Zurich on Mon, 31 Aug 2026.
 
 KAYYAK is a house and electronica artist based in Switzerland, tracked on soundcheck, with 46 sets logged across Barcelona, Ibiza, Manchester and Newyorkcity and 1 more. Often billed alongside Kalabrese, Alex Dallas and Dejan. Next up: Landesmuseum, Zurich on Mon 31 Aug.
 
@@ -9,10 +9,10 @@ KAYYAK is a house and electronica artist based in Switzerland, tracked on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 31 Aug 2026 | Landesmuseum | Zurich |
-| Fri, 4 Sept 2026 | Studio Zürich | Zurich |
 
 ## Recently played
 
+- Studio Zürich, Zurich — Fri, 4 Sept 2026
 - Landesmuseum, Zurich — Mon, 31 Aug 2026
 - Landesmuseum, Zurich — Mon, 10 Aug 2026
 - TBA, Zurich — Sat, 8 Aug 2026
@@ -20,10 +20,9 @@ KAYYAK is a house and electronica artist based in Switzerland, tracked on soundc
 - Kauz, Zurich — Thu, 30 Apr 2026
 - Kauz, Zurich — Fri, 20 Mar 2026
 - Kauz, Zurich — Thu, 25 Dec 2025
-- Kino Roland, Zurich — Sun, 21 Dec 2025
 
 ## Shares bills with
 
 Kalabrese, Alex Dallas, Dejan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayyak-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayyak-2/)*

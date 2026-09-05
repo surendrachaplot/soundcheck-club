@@ -1,6 +1,6 @@
 # Mobilat Club
 
-Mobilat Club is a music venue in Stuttgart with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Rave InToxication - Clubfestival Heilbronn" on Sat, 12 Sept 2026.
+Mobilat Club is a music venue in Stuttgart with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Rave InToxication - Clubfestival Heilbronn" on Sat, 12 Sept 2026.
 
 Mobilat Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming nights, with line-ups including A.T.E.K, crystal crimez (2), Daniela Monroe and DJ NATZZ and 2 more. Browse upcoming dates, start times and who's playing. Salzstrasse 27; 74076 Heilbronn.
 
@@ -15,4 +15,4 @@ Mobilat Club is a music venue in Stuttgart listed on soundcheck. 2 upcoming nigh
 
 Salzstrasse 27; 74076 Heilbronn, Stuttgart
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/mobilat-club/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/mobilat-club/)*

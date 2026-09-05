@@ -1,6 +1,6 @@
 # Marcel Locust
 
-Marcel Locust is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
+Marcel Locust is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
 Marcel Locust is a trance and techno artist tracked on soundcheck, with 5 sets logged across Berlin, Munich and Stuttgart. Often billed alongside DJ NATZZ, Daniela Monroe and GAAAS. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Marcel Locust is a trance and techno artist tracked on soundcheck, with 5 sets l
 
 DJ NATZZ, Daniela Monroe, GAAAS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcellocust/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcellocust/)*

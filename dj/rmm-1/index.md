@@ -1,6 +1,6 @@
 # RMM (1)
 
-RMM (1) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Emporium Arcade Bar - Wicker Park, Chicago on Thu, 17 Sept 2026.
+RMM (1) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Emporium Arcade Bar - Wicker Park, Chicago on Thu, 17 Sept 2026.
 
 RMM (1) is an electro and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Berlin and Chicago. Often billed alongside Baseck, Blaine Mason and Dan Graveyard. Next up: Emporium Arcade Bar - Wicker Park, Chicago on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ RMM (1) is an electro and techno artist based in United States of America, track
 
 Baseck, Blaine Mason, Dan Graveyard
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rmm-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rmm-1/)*

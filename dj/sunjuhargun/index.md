@@ -1,6 +1,6 @@
 # Sunju Hargun
 
-Sunju Hargun is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
+Sunju Hargun is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Somewhere in the Mountains., Bali on Fri, 25 Sept 2026.
 
 Sunju Hargun is a techno and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Kia (AU), Woody92 and DJ MARIA.. Next up: Somewhere in the Mountains., Bali on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Sunju Hargun is a techno and house artist tracked on soundcheck, with 91 sets lo
 
 Kia (AU), Woody92, DJ MARIA.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunjuhargun/)*

@@ -1,6 +1,6 @@
 # Risk Assessment (CA)
 
-Risk Assessment (CA) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
+Risk Assessment (CA) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
 
 Risk Assessment (CA) is a techno and hardcore artist based in Canada, tracked on soundcheck, with 7 sets logged across London and Toronto. Often billed alongside Mazuu, ASYNC and Afem Syko. Next up: Ministry Of Sound, London on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Risk Assessment (CA) is a techno and hardcore artist based in Canada, tracked on
 
 Mazuu, ASYNC, Afem Syko
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riskassessment/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riskassessment/)*

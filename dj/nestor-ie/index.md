@@ -1,6 +1,6 @@
 # Nestor (IE)
 
-Nestor (IE) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hidden, Manchester on Sat, 12 Sept 2026.
+Nestor (IE) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Hidden, Manchester on Sat, 12 Sept 2026.
 
 Nestor (IE) is a techno and bass artist tracked on soundcheck, with 13 sets logged across Cork, Dublin and Manchester. Often billed alongside GFA, Gary Sloan and Kerrie. Next up: Hidden, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Nestor (IE) is a techno and bass artist tracked on soundcheck, with 13 sets logg
 
 GFA, Gary Sloan, Kerrie
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nestor-ie/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nestor-ie/)*

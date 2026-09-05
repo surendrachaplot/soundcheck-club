@@ -1,15 +1,15 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Home The Venue, Sydney on Fri, 4 Sept 2026.
+Trancemaster Krause is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Melbourne on Sat, 5 Sept 2026.
 
-Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Home The Venue, Sydney on Fri 4 Sept.
+Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: TBA, Melbourne on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Home The Venue | Sydney |
 | Sat, 5 Sept 2026 | TBA | Melbourne |
+| Fri, 11 Sept 2026 | Lehmann Club | Stuttgart |
 | Sat, 12 Sept 2026 | Fabrik | Madrid |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
@@ -22,6 +22,7 @@ Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 19
 
 ## Recently played
 
+- Home The Venue, Sydney — Fri, 4 Sept 2026
 - Revolver Upstairs, Melbourne — Thu, 3 Sept 2026
 - Schrotty, Cologne — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
@@ -29,10 +30,9 @@ Trancemaster Krause is a techno and trance artist tracked on soundcheck, with 19
 - Kilomètre25, Paris — Fri, 14 Aug 2026
 - Donauinsel, Vienna — Sat, 1 Aug 2026
 - Hangaren, Copenhagen — Fri, 31 Jul 2026
-- E1, London — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

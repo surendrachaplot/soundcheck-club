@@ -1,6 +1,6 @@
 # Karanikas
 
-Karanikas is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Karanikas is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Karanikas is an electronica and house artist tracked on soundcheck, with 25 sets logged across Athens. Often billed alongside Nikos Thanos, Mighty Robot and Mikele. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Karanikas is an electronica and house artist tracked on soundcheck, with 25 sets
 
 Nikos Thanos, Mighty Robot, Mikele
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karanikas/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karanikas/)*

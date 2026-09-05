@@ -1,6 +1,6 @@
 # High Tide
 
-High Tide is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BAILE WORLD Labor Day Party" on Sat, 5 Sept 2026.
+High Tide is a music venue in Los Angeles with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "BAILE WORLD Labor Day Party" on Sat, 5 Sept 2026.
 
 High Tide is a music venue in Losangeles listed on soundcheck. 4 upcoming nights, with line-ups including Cquestt, Pressure Point and Rich Medina. Browse upcoming dates, start times and who's playing. 605 E 4th St, Los Angeles, CA 90013.
 
@@ -17,4 +17,4 @@ High Tide is a music venue in Losangeles listed on soundcheck. 4 upcoming nights
 
 605 E 4th St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*

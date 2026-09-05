@@ -1,6 +1,6 @@
 # chouhal
 
-chouhal is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
+chouhal is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
 
 chouhal is a techno and trance artist based in Malta, tracked on soundcheck, with 26 sets logged across Malta. Often billed alongside Damz, Dicentra and Gordon Flash. Next up: Liquid Club, Malta on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ chouhal is a techno and trance artist based in Malta, tracked on soundcheck, wit
 
 Damz, Dicentra, Gordon Flash
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chouhal/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chouhal/)*

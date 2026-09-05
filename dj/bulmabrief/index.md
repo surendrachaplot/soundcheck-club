@@ -1,6 +1,6 @@
 # Bulma Brief
 
-Bulma Brief is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DURO, Milan on Fri, 11 Sept 2026.
+Bulma Brief is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at DURO, Milan on Fri, 11 Sept 2026.
 
 Bulma Brief is a house and techno artist based in Italy, tracked on soundcheck, with 40 sets logged across Berlin, London, Madrid and Milan and 2 more. Often billed alongside Bertrand., Bugsy and Nicola Mazzetti. Next up: DURO, Milan on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Bulma Brief is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Bertrand., Bugsy, Nicola Mazzetti
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bulmabrief/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bulmabrief/)*

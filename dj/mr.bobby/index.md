@@ -1,6 +1,6 @@
 # Mr. Bobby
 
-Mr. Bobby is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Chicago, Chicago on Fri, 11 Sept 2026.
+Mr. Bobby is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Chicago, Chicago on Fri, 11 Sept 2026.
 
 Mr. Bobby is a tech house and house artist tracked on soundcheck, with 81 sets logged across Chicago. Often billed alongside Flores Negras, Jimmie Page and Blu9. Next up: TBA - Chicago, Chicago on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Mr. Bobby is a tech house and house artist tracked on soundcheck, with 81 sets l
 
 Flores Negras, Jimmie Page, Blu9
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.bobby/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.bobby/)*

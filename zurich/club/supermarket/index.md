@@ -1,14 +1,13 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 10 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "RUMPELMUSIG x EIFACH SCHÖN" on Fri, 4 Sept 2026.
+Supermarket is a music venue in Zurich with 9 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Moving Around Us" on Sat, 5 Sept 2026.
 
-Supermarket is a music venue in Zurich listed on soundcheck. 10 upcoming nights, with line-ups including FLETCH, Alci, Aline (CH) and Andrey Pushkarev and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
+Supermarket is a music venue in Zurich listed on soundcheck. 9 upcoming nights, with line-ups including FLETCH, Alci, Aline (CH) and Andrey Pushkarev and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | RUMPELMUSIG x EIFACH SCHÖN | Kalabrese, Ohm Hourani, San Marco |
 | Sat, 5 Sept 2026 | Moving Around Us | Andrey Pushkarev, Mihael Simic, Pedram |
 | Fri, 11 Sept 2026 | 28 YEARS Supermarket W/ Ricardo Villalobos | Alci, Flavio (CH), Ricardo Villalobos, Styro 2000 |
 | Sat, 12 Sept 2026 | 28 YEARS Supermarket | Aline (CH), Anthik, De La Maso, Dejan, Juzz, Pazkal, Ronny Grauer |
@@ -23,4 +22,4 @@ Supermarket is a music venue in Zurich listed on soundcheck. 10 upcoming nights,
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

@@ -1,6 +1,6 @@
 # Alex Dima
 
-Alex Dima is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Alex Dima is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Alex Dima is a house and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 26 more. Often billed alongside Alexia Glensy, Cristian Sarde and Munir Nadir. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Alex Dima is a house and techno artist tracked on soundcheck, with 102 sets logg
 
 Alexia Glensy, Cristian Sarde, Munir Nadir
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdima/)*

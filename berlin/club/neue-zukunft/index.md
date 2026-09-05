@@ -1,6 +1,6 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "An Electric Evening Of ANTIMATTER & SLEEPING PULSE" on Tue, 8 Sept 2026.
+Neue Zukunft is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "An Electric Evening Of ANTIMATTER & SLEEPING PULSE" on Tue, 8 Sept 2026.
 
 Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
@@ -21,4 +21,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming nights.
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

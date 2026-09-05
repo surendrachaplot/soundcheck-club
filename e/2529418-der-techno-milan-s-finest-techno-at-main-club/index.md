@@ -1,6 +1,6 @@
 # Der Techno - MILAN'S FINEST TECHNO at Main Club
 
-Der Techno - MILAN'S FINEST TECHNO at Main Club on Sat 19 Sept, Milan. 2 acts on the bill: Alessandro Reale and Cristopher Arcuri. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Der Techno - MILAN'S FINEST TECHNO at Main Club on Sat 19 Sept, Milan. 3 acts on the bill: Alessandro Reale, Cristopher Arcuri and WarinD. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Der Techno - MILAN'S FINEST TECHNO at Main Club on Sat 19 Sept, Milan. 2 acts on
 
 - Alessandro Reale
 - Cristopher Arcuri
+- WarinD
 
 *Source: [soundcheck](https://soundcheck.club/e/2529418-der-techno-milan-s-finest-techno-at-main-club/)*

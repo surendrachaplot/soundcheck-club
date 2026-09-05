@@ -1,6 +1,6 @@
 # BIGALKE
 
-BIGALKE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
+BIGALKE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 BIGALKE is a techno and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Leipzig. Often billed alongside Ninette, Atalanta and Moto Moto. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ BIGALKE is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Ninette, Atalanta, Moto Moto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bigalke/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bigalke/)*

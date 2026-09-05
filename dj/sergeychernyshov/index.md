@@ -1,6 +1,6 @@
 # Sergey Chernyshov
 
-Sergey Chernyshov is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+Sergey Chernyshov is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
 Sergey Chernyshov is a techno and electronica artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Little Vanya, Terikon and SOCIAL VLAD. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sergey Chernyshov is a techno and electronica artist based in Germany, tracked o
 
 Little Vanya, Terikon, SOCIAL VLAD
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergeychernyshov/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sergeychernyshov/)*

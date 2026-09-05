@@ -1,6 +1,6 @@
 # mu tate
 
-mu tate is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location, Berlin, Berlin on Sat, 12 Sept 2026.
+mu tate is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Secret Location, Berlin, Berlin on Sat, 12 Sept 2026.
 
 mu tate is an ambient and experimental artist based in Latvia, tracked on soundcheck, with 20 sets logged across Berlin, Lisbon, London and Newyorkcity and 2 more. Often billed alongside NEXCYIA, Discka and Mori Mori. Next up: TBA - Secret Location, Berlin, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ mu tate is an ambient and experimental artist based in Latvia, tracked on soundc
 
 NEXCYIA, Discka, Mori Mori
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutate-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mutate-uk/)*

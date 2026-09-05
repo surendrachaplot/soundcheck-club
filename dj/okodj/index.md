@@ -1,6 +1,6 @@
 # OKO DJ
 
-OKO DJ is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Nowadays, New York City on Thu, 17 Sept 2026.
+OKO DJ is a Experimental and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Nowadays, New York City on Thu, 17 Sept 2026.
 
 OKO DJ is an experimental and techno artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Eiger Drums Propaganda, Nosedrip and Judaah. Next up: Nowadays, Newyorkcity on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ OKO DJ is an experimental and techno artist tracked on soundcheck, with 92 sets 
 
 Eiger Drums Propaganda, Nosedrip, Judaah
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okodj/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okodj/)*

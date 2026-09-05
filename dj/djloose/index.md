@@ -1,6 +1,6 @@
 # DJ Loose
 
-DJ Loose is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 19 Sept 2026.
+DJ Loose is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 19 Sept 2026.
 
 DJ Loose is a techno and house artist based in Ukraine, tracked on soundcheck, with 14 sets logged across Warsaw. Often billed alongside Abrew, bolo and Kobayashkn. Next up: K-Bar Powiśle, Warsaw on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ DJ Loose is a techno and house artist based in Ukraine, tracked on soundcheck, w
 
 Abrew, bolo, Kobayashkn
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djloose/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djloose/)*

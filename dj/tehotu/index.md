@@ -1,6 +1,6 @@
 # TEHOTU
 
-TEHOTU is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at La Cité Fertile, Paris on Sat, 12 Sept 2026.
+TEHOTU is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at La Cité Fertile, Paris on Sat, 12 Sept 2026.
 
 TEHOTU is a techno and house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Frankfurt and Lyon and 4 more. Often billed alongside Maris Shilton, Jessie Granqvist and T-RAIL. Next up: La Cité Fertile, Paris on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ TEHOTU is a techno and house artist tracked on soundcheck, with 26 sets logged a
 
 Maris Shilton, Jessie Granqvist, T-RAIL
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tehotu/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tehotu/)*

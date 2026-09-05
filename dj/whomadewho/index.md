@@ -1,6 +1,6 @@
 # WhoMadeWho
 
-WhoMadeWho is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+WhoMadeWho is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 WhoMadeWho is a techno and house artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -15,6 +15,7 @@ WhoMadeWho is a techno and house artist tracked on soundcheck, with 144 sets log
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - 528 Ibiza, Ibiza — Sun, 30 Aug 2026
 - Mercado Pago Hall, Sao Paulo — Sat, 22 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 11 Aug 2026
@@ -22,10 +23,9 @@ WhoMadeWho is a techno and house artist tracked on soundcheck, with 144 sets log
 - Donauinsel, Vienna — Sat, 1 Aug 2026
 - [UNVRS], Ibiza — Tue, 7 Jul 2026
 - Antonioli Hangar, Ibiza — Tue, 7 Jul 2026
-- Pacha Ibiza, Ibiza — Tue, 16 Jun 2026
 
 ## Shares bills with
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

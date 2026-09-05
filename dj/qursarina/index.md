@@ -1,6 +1,6 @@
 # Qursarina
 
-Qursarina is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Monk Club, Rome on Sat, 5 Sept 2026.
+Qursarina is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Monk Club, Rome on Sat, 5 Sept 2026.
 
 Qursarina is a techno and bass artist tracked on soundcheck, with 19 sets logged across Rome and Turin. Often billed alongside Giorgia Ferrero, Asymptote and Anastasya. Next up: Monk Club, Rome on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Qursarina is a techno and bass artist tracked on soundcheck, with 19 sets logged
 
 Giorgia Ferrero, Asymptote, Anastasya
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qursarina/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qursarina/)*

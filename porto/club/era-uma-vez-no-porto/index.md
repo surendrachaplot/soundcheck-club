@@ -1,6 +1,6 @@
 # Era uma vez no Porto
 
-Era uma vez no Porto is a music venue in Porto with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BONUS_BASS B2B PSYBASS em noite de estreia" on Sun, 6 Sept 2026.
+Era uma vez no Porto is a music venue in Porto with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "BONUS_BASS B2B PSYBASS em noite de estreia" on Sun, 6 Sept 2026.
 
 Era uma vez no Porto is a music venue in Porto listed on soundcheck. 7 upcoming nights, with line-ups including Alive, Nuno di Rosso, Rui Azevedo and Rui Trintaeum. Browse upcoming dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
 
@@ -20,4 +20,4 @@ Era uma vez no Porto is a music venue in Porto listed on soundcheck. 7 upcoming 
 
 Rua da Madeira, nº 126, 4000-330 Porto, Portugal, Porto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*

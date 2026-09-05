@@ -1,6 +1,6 @@
 # Math3ca
 
-Math3ca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at District 288, Boston on Sat, 5 Sept 2026.
+Math3ca is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at District 288, Boston on Sat, 5 Sept 2026.
 
 Math3ca is a house and techno artist tracked on soundcheck, with 22 sets logged across Boston and Newyorkcity. Often billed alongside Adam Unknown, Mx. Blaire and Alex Slater. Next up: District 288, Boston on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Math3ca is a house and techno artist tracked on soundcheck, with 22 sets logged 
 
 Adam Unknown, Mx. Blaire, Alex Slater
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/math3ca/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/math3ca/)*

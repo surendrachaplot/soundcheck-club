@@ -1,6 +1,6 @@
 # Richey V
 
-Richey V is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Main Club, Milan on Thu, 17 Sept 2026.
+Richey V is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Main Club, Milan on Thu, 17 Sept 2026.
 
 Richey V is a techno and downtempo artist based in Italy, tracked on soundcheck, with 68 sets logged across Ibiza and Milan. Often billed alongside Massi Rocket, Francis Arvel and Andrea Isella. Next up: Main Club, Milan on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Richey V is a techno and downtempo artist based in Italy, tracked on soundcheck,
 
 Massi Rocket, Francis Arvel, Andrea Isella
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richeyv/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richeyv/)*

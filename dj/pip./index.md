@@ -1,6 +1,6 @@
 # PIP.
 
-PIP. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 11 Sept 2026.
+PIP. is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Berkeley Suite, Glasgow on Fri, 11 Sept 2026.
 
 PIP. is a house and techno artist tracked on soundcheck, with 41 sets logged across Amsterdam, Glasgow, London and Manchester and 2 more. Often billed alongside Weston, Westy and BATESY. Next up: The Berkeley Suite, Glasgow on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ PIP. is a house and techno artist tracked on soundcheck, with 41 sets logged acr
 
 Weston, Westy, BATESY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*

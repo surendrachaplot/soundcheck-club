@@ -1,6 +1,6 @@
 # Jonny Loves House
 
-Jonny Loves House is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 24 Sept 2026.
+Jonny Loves House is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 24 Sept 2026.
 
 Jonny Loves House is a house and deep house artist tracked on soundcheck, with 15 sets logged across Barcelona. Often billed alongside Simon Boulind, HannahLuyah and Better Late. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Jonny Loves House is a house and deep house artist tracked on soundcheck, with 1
 
 Simon Boulind, HannahLuyah, Better Late
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyloveshouse/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyloveshouse/)*

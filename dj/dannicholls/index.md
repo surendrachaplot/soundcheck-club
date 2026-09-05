@@ -1,6 +1,6 @@
 # dan nicholls
 
-dan nicholls is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sauna Social Club, London on Sun, 13 Sept 2026.
+dan nicholls is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Sauna Social Club, London on Sun, 13 Sept 2026.
 
 dan nicholls is an experimental and ambient artist tracked on soundcheck, with 31 sets logged across Berlin, Birmingham, Frankfurt and London and 4 more. Often billed alongside Avsluta, Michelle Manetti and Sybil. Next up: Sauna Social Club, London on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ dan nicholls is an experimental and ambient artist tracked on soundcheck, with 3
 
 Avsluta, Michelle Manetti, Sybil
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannicholls/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannicholls/)*

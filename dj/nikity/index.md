@@ -1,6 +1,6 @@
 # Nikity
 
-Nikity is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Comedia Halle, Cologne on Sat, 12 Sept 2026.
+Nikity is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Comedia Halle, Cologne on Sat, 12 Sept 2026.
 
 Nikity is a house and bass artist based in Germany, tracked on soundcheck, with 34 sets logged across Berlin, Cologne, Dusseldorf and Munich. Often billed alongside AMSL, Anna Cainelli and Savsannah. Next up: Comedia Halle, Cologne on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Nikity is a house and bass artist based in Germany, tracked on soundcheck, with 
 
 AMSL, Anna Cainelli, Savsannah
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikity/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikity/)*

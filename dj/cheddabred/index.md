@@ -1,6 +1,6 @@
 # Chedda Bred
 
-Chedda Bred is a UK Funky and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
+Chedda Bred is a UK Funky and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Hackney Bridge, London on Sat, 5 Sept 2026.
 
 Chedda Bred is an uk funky and jazz artist tracked on soundcheck, with 21 sets logged across London. Often billed alongside Chedda B, Neue Grafik and limi. Next up: Hackney Bridge, London on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Chedda Bred is an uk funky and jazz artist tracked on soundcheck, with 21 sets l
 
 Chedda B, Neue Grafik, limi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*

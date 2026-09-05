@@ -1,14 +1,15 @@
 # LWS
 
-LWS is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+LWS is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
 
-LWS is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Belfast, Bristol, Dundee and Edinburgh and 5 more. Often billed alongside Skillis, Gregor AM and Creep Woland. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
+LWS is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 73 sets logged across Belfast, Bristol, Dundee and Edinburgh and 5 more. Often billed alongside Skillis, Gregor AM and Creep Woland. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Jupiter Artland | Edinburgh |
+| Sat, 19 Sept 2026 | The Liquid Room | Edinburgh |
 | Sat, 3 Oct 2026 | The Island | Bristol |
 | Fri, 30 Oct 2026 | radial | London |
 
@@ -27,4 +28,4 @@ LWS is a techno and bass artist based in United Kingdom, tracked on soundcheck, 
 
 Skillis, Gregor AM, Creep Woland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lws/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lws/)*

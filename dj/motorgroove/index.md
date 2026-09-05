@@ -1,6 +1,6 @@
 # MOTORGROOVE
 
-MOTORGROOVE is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
+MOTORGROOVE is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
 
 MOTORGROOVE is a house and afro house artist based in Spain, tracked on soundcheck, with 18 sets logged across Barcelona and Madrid. Often billed alongside Alessa (ES), Alex Rush and BIØY. Next up: Port Olimpic, Barcelona on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ MOTORGROOVE is a house and afro house artist based in Spain, tracked on soundche
 
 Alessa (ES), Alex Rush, BIØY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motorgroove/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motorgroove/)*

@@ -1,6 +1,6 @@
 # Mathame
 
-Mathame is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Stereo, Montreal on Sat, 5 Sept 2026.
+Mathame is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Stereo, Montreal on Sat, 5 Sept 2026.
 
 Mathame is a techno and house artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Lyke, Olympe and Brina Knauss. Next up: Stereo, Montreal on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Mathame is a techno and house artist tracked on soundcheck, with 158 sets logged
 
 Lyke, Olympe, Brina Knauss
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*

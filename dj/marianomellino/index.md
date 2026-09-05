@@ -1,15 +1,15 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Madrid on Fri, 4 Sept 2026.
+Mariano Mellino is a Progressive House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Mexico City on Sat, 26 Sept 2026.
 
-Mariano Mellino is a progressive house and techno artist tracked on soundcheck, with 73 sets logged across Amsterdam, Auckland, Barcelona and Buenosaires and 21 more. Often billed alongside Guy J, MASANORI MORITA and Nico Moon. Next up: TBA, Madrid on Fri 4 Sept.
+Mariano Mellino is a progressive house and techno artist tracked on soundcheck, with 74 sets logged across Amsterdam, Auckland, Barcelona and Buenosaires and 21 more. Often billed alongside Guy J, MASANORI MORITA and Nico Moon. Next up: TBA, Mexicocity on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TBA | Madrid |
 | Sat, 26 Sept 2026 | TBA | Mexico City |
+| Sat, 26 Sept 2026 | Pasaje America | Mexico City |
 | Sat, 3 Oct 2026 | Howler | Melbourne |
 | Sun, 4 Oct 2026 | TBA | Sydney |
 | Fri, 9 Oct 2026 | The Mothership | Auckland |
@@ -22,6 +22,7 @@ Mariano Mellino is a progressive house and techno artist tracked on soundcheck, 
 
 ## Recently played
 
+- TBA, Madrid — Fri, 4 Sept 2026
 - Mute Malaga, Malaga — Fri, 7 Aug 2026
 - Club M2 Miami, Miami — Wed, 1 Jul 2026
 - Club M2 Miami, Miami — Wed, 1 Jul 2026
@@ -29,10 +30,9 @@ Mariano Mellino is a progressive house and techno artist tracked on soundcheck, 
 - TBA - Palacio Alsina, Microcentro, Buenos Aires — Sat, 20 Jun 2026
 - Palacio Alsina, Buenos Aires — Sat, 20 Jun 2026
 - The Bow, Buenos Aires — Fri, 19 Jun 2026
-- Recinto Mallorca Live, Mallorca — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Guy J, MASANORI MORITA, Nico Moon
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

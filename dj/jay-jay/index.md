@@ -1,6 +1,6 @@
 # JayJay
 
-JayJay is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+JayJay is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 JayJay is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Athens, Barcelona, Glasgow and Krakow and 4 more. Often billed alongside TRSSX, Alliyah Enyo and Brandon Lee Vear. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ JayJay is a techno and electro artist based in United Kingdom, tracked on soundc
 
 TRSSX, Alliyah Enyo, Brandon Lee Vear
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jay-jay/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jay-jay/)*

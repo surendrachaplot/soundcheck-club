@@ -1,6 +1,6 @@
 # MÖSEE
 
-MÖSEE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Flash, Washington DC on Sat, 26 Sept 2026.
+MÖSEE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Flash, Washington DC on Sat, 26 Sept 2026.
 
 MÖSEE is a house and techno artist based in Iran, tracked on soundcheck, with 21 sets logged across Detroit, Newyorkcity, Sandiego and Washingtondc. Often billed alongside Eric Yaz, enz.O and Jus Nowhere. Next up: Flash, Washingtondc on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ MÖSEE is a house and techno artist based in Iran, tracked on soundcheck, with 2
 
 Eric Yaz, enz.O, Jus Nowhere
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosee/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosee/)*

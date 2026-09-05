@@ -1,6 +1,6 @@
 # bullet tooth
 
-bullet tooth is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+bullet tooth is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 bullet tooth is a garage and house artist tracked on soundcheck, with 126 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 33 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -23,6 +23,7 @@ bullet tooth is a garage and house artist tracked on soundcheck, with 126 sets l
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - The Nest, Nottingham — Sun, 30 Aug 2026
 - Mint Warehouse, Leeds — Sun, 30 Aug 2026
 - Steelyard Kelham, Sheffield — Sun, 30 Aug 2026
@@ -30,10 +31,9 @@ bullet tooth is a garage and house artist tracked on soundcheck, with 126 sets l
 - Mondo, Madrid — Thu, 20 Aug 2026
 - BRET, Amsterdam — Fri, 14 Aug 2026
 - BRET, Amsterdam — Fri, 14 Aug 2026
-- Burgess Park, London — Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

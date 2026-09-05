@@ -1,6 +1,6 @@
 # The Regency Ballroom
 
-The Regency Ballroom is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Slayyyter" on Tue, 8 Sept 2026.
+The Regency Ballroom is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Slayyyter" on Tue, 8 Sept 2026.
 
 The Regency Ballroom is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including Cesco, Channel Tres, Conducta and Flava D and 2 more. Browse upcoming dates, start times and who's playing. 1290 Sutter St, San Francisco, CA 94109, USA.
 
@@ -18,4 +18,4 @@ The Regency Ballroom is a music venue in Sanfrancisco listed on soundcheck. 5 up
 
 1290 Sutter St, San Francisco, CA 94109, USA, San Francisco/Oakland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-regency-ballroom/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-regency-ballroom/)*

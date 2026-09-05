@@ -1,6 +1,6 @@
 # Vie Sauvage
 
-Vie Sauvage is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at NWHR, Montreal on Fri, 11 Sept 2026.
+Vie Sauvage is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at NWHR, Montreal on Fri, 11 Sept 2026.
 
 Vie Sauvage is a progressive house and deep house artist based in Canada, tracked on soundcheck, with 10 sets logged across Montreal. Often billed alongside Hauy, Anaïs Ley and BLANKET. Next up: NWHR, Montreal on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Vie Sauvage is a progressive house and deep house artist based in Canada, tracke
 
 Hauy, Anaïs Ley, BLANKET
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viesauvage/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viesauvage/)*

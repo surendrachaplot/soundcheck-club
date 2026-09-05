@@ -1,6 +1,6 @@
 # Francesco Farfa
 
-Francesco Farfa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Oven Club, Valencia on Sat, 5 Sept 2026.
+Francesco Farfa is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Oven Club, Valencia on Sat, 5 Sept 2026.
 
 Francesco Farfa is a house and techno artist tracked on soundcheck, with 87 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Janina, Alex Picone and Ale Carniel. Next up: Oven Club, Valencia on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Francesco Farfa is a house and techno artist tracked on soundcheck, with 87 sets
 
 Janina, Alex Picone, Ale Carniel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*

@@ -1,6 +1,6 @@
 # kansi
 
-kansi is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
+kansi is a House and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
 
 kansi is a house and baile funk artist tracked on soundcheck, with 8 sets logged across Basel, Leipzig and Zurich. Often billed alongside Traxx Jr, pokka and AFAR. Next up: Holdenweid, Basel on Fri 4 Sept.
 
@@ -12,6 +12,7 @@ kansi is a house and baile funk artist tracked on soundcheck, with 8 sets logged
 
 ## Recently played
 
+- Holdenweid, Basel — Fri, 4 Sept 2026
 - TBA, Leipzig — Sun, 24 May 2026
 - TBA - Mikro, Zurich — Sat, 30 Aug 2025
 - elipamanoke, Leipzig — Fri, 27 Jun 2025
@@ -24,4 +25,4 @@ kansi is a house and baile funk artist tracked on soundcheck, with 8 sets logged
 
 Traxx Jr, pokka, AFAR
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kansi/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kansi/)*

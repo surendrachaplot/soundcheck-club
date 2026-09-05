@@ -1,6 +1,6 @@
 # Davide T
 
-Davide T is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Etoile Club, Milan on Sat, 12 Sept 2026.
+Davide T is a Tech House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Etoile Club, Milan on Sat, 12 Sept 2026.
 
 Davide T is a tech house and minimal techno artist based in Italy, tracked on soundcheck, with 5 sets logged across Ibiza, Malta and Milan. Often billed alongside Alex Rubia, Andrea celano and Davide Squillace. Next up: Etoile Club, Milan on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Davide T is a tech house and minimal techno artist based in Italy, tracked on so
 
 Alex Rubia, Andrea celano, Davide Squillace
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidet/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidet/)*

@@ -1,6 +1,6 @@
 # la piscine
 
-la piscine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Simmons Bar | Shoreditch, London on Fri, 11 Sept 2026.
+la piscine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Simmons Bar | Shoreditch, London on Fri, 11 Sept 2026.
 
 la piscine is a techno and house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside EWERED, MIZNIK and Misura. Next up: Simmons Bar | Shoreditch, London on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ la piscine is a techno and house artist tracked on soundcheck, with 6 sets logge
 
 EWERED, MIZNIK, Misura
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lapiscine/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lapiscine/)*

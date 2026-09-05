@@ -1,6 +1,6 @@
 # keyshawty
 
-keyshawty is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Teritorija, Riga on Sat, 19 Sept 2026.
+keyshawty is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Teritorija, Riga on Sat, 19 Sept 2026.
 
 keyshawty is a hardcore and gabber artist based in Latvia, tracked on soundcheck, with 5 sets logged across Riga. Often billed alongside B2BBASS, blissfuloverdose and hitomori. Next up: Teritorija, Riga on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ keyshawty is a hardcore and gabber artist based in Latvia, tracked on soundcheck
 
 B2BBASS, blissfuloverdose, hitomori
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyshawty/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyshawty/)*

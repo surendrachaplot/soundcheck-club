@@ -1,6 +1,6 @@
 # Monki
 
-Monki is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Night Tales Loft, London on Sat, 5 Sept 2026.
+Monki is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Night Tales Loft, London on Sat, 5 Sept 2026.
 
 Monki is a house and tech house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Bali, Bristol and Ibiza and 9 more. Often billed alongside Sam Divine, Hannah Wants and Lowsteppa. Next up: Night Tales Loft, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Monki is a house and tech house artist tracked on soundcheck, with 51 sets logge
 
 Sam Divine, Hannah Wants, Lowsteppa
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monki/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monki/)*

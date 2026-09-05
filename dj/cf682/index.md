@@ -1,6 +1,6 @@
 # CF682
 
-CF682 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
+CF682 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
 
 CF682 is a trance and techno artist based in Denmark, tracked on soundcheck, with 21 sets logged across Copenhagen. Often billed alongside Lead Ore, Britney Speed and DJ BENDER. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 4 Sept.
 
@@ -12,6 +12,7 @@ CF682 is a trance and techno artist based in Denmark, tracked on soundcheck, wit
 
 ## Recently played
 
+- Pylonen - Frizonen Langebro, Copenhagen — Fri, 4 Sept 2026
 - Den Anden Side, Copenhagen — Sat, 22 Aug 2026
 - Baggen, Copenhagen — Wed, 24 Jun 2026
 - Mimersparken, Copenhagen — Sat, 20 Jun 2026
@@ -19,10 +20,9 @@ CF682 is a trance and techno artist based in Denmark, tracked on soundcheck, wit
 - Den Anden Side, Copenhagen — Sat, 2 May 2026
 - MODULE, Copenhagen — Sat, 28 Mar 2026
 - MODULE, Copenhagen — Sat, 10 Jan 2026
-- Hangaren, Copenhagen — Sat, 27 Dec 2025
 
 ## Shares bills with
 
 Lead Ore, Britney Speed, DJ BENDER
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cf682/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cf682/)*

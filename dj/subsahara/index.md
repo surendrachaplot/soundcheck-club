@@ -1,6 +1,6 @@
 # Sub Sahara
 
-Sub Sahara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Giri, Berlin on Sat, 26 Sept 2026.
+Sub Sahara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Giri, Berlin on Sat, 26 Sept 2026.
 
 Sub Sahara is a techno and house artist tracked on soundcheck, with 26 sets logged across Auckland, Berlin, London and Melbourne and 1 more. Often billed alongside Ojos de miel, Aunty Nora and Lixi. Next up: Giri, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Sub Sahara is a techno and house artist tracked on soundcheck, with 26 sets logg
 
 Ojos de miel, Aunty Nora, Lixi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subsahara/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subsahara/)*

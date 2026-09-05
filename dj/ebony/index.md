@@ -1,6 +1,6 @@
 # Èbony
 
-Èbony is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar Datcha, Montreal on Sat, 19 Sept 2026.
+Èbony is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bar Datcha, Montreal on Sat, 19 Sept 2026.
 
 Èbony is a techno and club artist tracked on soundcheck, with 16 sets logged across Montreal and Toronto. Often billed alongside Chinelo, Liftkit and MIASALAV. Next up: Bar Datcha, Montreal on Sat 19 Sept.
 
@@ -25,4 +25,4 @@
 
 Chinelo, Liftkit, MIASALAV
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ebony/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ebony/)*

@@ -1,6 +1,6 @@
 # Ryan Arnold
 
-Ryan Arnold is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at XOYO, London on Sat, 3 Oct 2026.
+Ryan Arnold is a House and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at XOYO, London on Sat, 3 Oct 2026.
 
 Ryan Arnold is a house and drum & bass artist tracked on soundcheck, with 31 sets logged across Amsterdam, Birmingham, Ibiza and Leeds and 4 more. Often billed alongside ACT ON, George Mensah and Sammy Porter. Next up: XOYO, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Ryan Arnold is a house and drum & bass artist tracked on soundcheck, with 31 set
 
 ACT ON, George Mensah, Sammy Porter
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanarnold/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanarnold/)*

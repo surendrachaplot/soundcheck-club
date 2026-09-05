@@ -1,13 +1,14 @@
 # McCart
 
-McCart is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sub Club, Glasgow on Sat, 12 Sept 2026.
+McCart is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Cabaret Voltaire, Edinburgh on Sat, 5 Sept 2026.
 
-McCart is a house and techno artist tracked on soundcheck, with 75 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Babyccino, Jamie Gunn and Robbie. Next up: Sub Club, Glasgow on Sat 12 Sept.
+McCart is a house and techno artist tracked on soundcheck, with 76 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Babyccino, Jamie Gunn and Robbie. Next up: Cabaret Voltaire, Edinburgh on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 12 Sept 2026 | Sub Club | Glasgow |
 
 ## Recently played
@@ -25,4 +26,4 @@ McCart is a house and techno artist tracked on soundcheck, with 75 sets logged a
 
 Babyccino, Jamie Gunn, Robbie
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mccart/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mccart/)*

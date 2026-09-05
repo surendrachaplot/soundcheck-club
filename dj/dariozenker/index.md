@@ -1,6 +1,6 @@
 # Dario Zenker
 
-Dario Zenker is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 26 Sept 2026.
+Dario Zenker is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 26 Sept 2026.
 
 Dario Zenker is a trance and techno artist tracked on soundcheck, with 6 sets logged across Amsterdam, Munich and Strasbourg. Often billed alongside Muallem, Stenny and Polygonia. Next up: Karmen Camina, Strasbourg on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Dario Zenker is a trance and techno artist tracked on soundcheck, with 6 sets lo
 
 Muallem, Stenny, Polygonia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariozenker/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariozenker/)*

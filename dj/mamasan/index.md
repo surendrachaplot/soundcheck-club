@@ -1,6 +1,6 @@
 # MAMA SAN
 
-MAMA SAN is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Cafe, San Francisco/Oakland on Thu, 15 Oct 2026.
+MAMA SAN is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Cafe, San Francisco/Oakland on Thu, 15 Oct 2026.
 
 MAMA SAN is a pop and club artist based in United States of America, tracked on soundcheck, with 43 sets logged across Sanfrancisco and Seattle. Often billed alongside MAMA SANx, Discnogirl and MASHALLAH. Next up: The Cafe, Sanfrancisco on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ MAMA SAN is a pop and club artist based in United States of America, tracked on 
 
 MAMA SANx, Discnogirl, MASHALLAH
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasan/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mamasan/)*

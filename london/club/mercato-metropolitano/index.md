@@ -1,6 +1,6 @@
 # Mercato Metropolitano
 
-Mercato Metropolitano is a music venue in London with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "J. Müller & Friends" on Sat, 12 Sept 2026.
+Mercato Metropolitano is a music venue in London with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "J. Müller & Friends" on Sat, 12 Sept 2026.
 
 Mercato Metropolitano is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Adam Romo, C4LYPSO, Cristian Ebasta and Enrico Chirchiello and 2 more. Browse upcoming dates, start times and who's playing. Elephant & Castle.
 
@@ -16,4 +16,4 @@ Mercato Metropolitano is a music venue in London listed on soundcheck. 3 upcomin
 
 Elephant & Castle, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/mercato-metropolitano/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/mercato-metropolitano/)*

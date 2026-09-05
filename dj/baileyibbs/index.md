@@ -1,6 +1,6 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+Bailey Ibbs is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 Bailey Ibbs is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Bangkok, Barcelona and Belfast and 44 more. Often billed alongside JKS, Paige (Night Service) and Beau Didier. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -33,4 +33,4 @@ Bailey Ibbs is a techno and house artist tracked on soundcheck, with 161 sets lo
 
 JKS, Paige (Night Service), Beau Didier
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

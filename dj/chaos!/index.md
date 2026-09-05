@@ -1,6 +1,6 @@
 # CHAOS!
 
-CHAOS! is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+CHAOS! is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 CHAOS! is a house and electro artist based in United States of America, tracked on soundcheck, with 29 sets logged across Miami. Often billed alongside Lotusoph, Roll-e and Milo Ziro. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ CHAOS! is a house and electro artist based in United States of America, tracked 
 
 Lotusoph, Roll-e, Milo Ziro
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos!/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos!/)*

@@ -1,6 +1,6 @@
 # DISTORT (ES)
 
-DISTORT (ES) is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Araña Club, Madrid on Fri, 18 Sept 2026.
+DISTORT (ES) is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Araña Club, Madrid on Fri, 18 Sept 2026.
 
 DISTORT (ES) is an electronica and techno artist based in Spain, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin and Madrid. Often billed alongside ANGEL (3), EMIR-B and MIQUELISSIMO. Next up: Araña Club, Madrid on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ DISTORT (ES) is an electronica and techno artist based in Spain, tracked on soun
 
 ANGEL (3), EMIR-B, MIQUELISSIMO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/distort-es/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/distort-es/)*

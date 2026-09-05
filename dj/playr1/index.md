@@ -1,6 +1,6 @@
 # Playr1
 
-Playr1 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bastet, Philadelphia on Sat, 12 Sept 2026.
+Playr1 is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bastet, Philadelphia on Sat, 12 Sept 2026.
 
 Playr1 is a house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Chicago, Nashville, Newyorkcity and Philadelphia. Often billed alongside Anastazja, Andre Power and Ash Lauryn. Next up: Bastet, Philadelphia on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Playr1 is a house and techno artist based in United States of America, tracked o
 
 Anastazja, Andre Power, Ash Lauryn
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/playr1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/playr1/)*

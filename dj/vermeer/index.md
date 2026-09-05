@@ -1,6 +1,6 @@
 # Vermeer
 
-Vermeer is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+Vermeer is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
 
 Vermeer is a techno and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, London, Madrid and Vienna. Often billed alongside Frederic., CAIVA and Part Time Killer. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Vermeer is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 Frederic., CAIVA, Part Time Killer
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vermeer/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vermeer/)*

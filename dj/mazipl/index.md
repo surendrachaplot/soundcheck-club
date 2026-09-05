@@ -1,6 +1,6 @@
 # Mazi (PL)
 
-Mazi (PL) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Letnisko Żoliborz, Warsaw on Sat, 5 Sept 2026.
+Mazi (PL) is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Letnisko Żoliborz, Warsaw on Sat, 5 Sept 2026.
 
 Mazi (PL) is a house and progressive house artist tracked on soundcheck, with 27 sets logged across Warsaw. Often billed alongside GiGi (PL), Korenberg and WEIKUM. Next up: Letnisko Żoliborz, Warsaw on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Mazi (PL) is a house and progressive house artist tracked on soundcheck, with 27
 
 GiGi (PL), Korenberg, WEIKUM
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazipl/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazipl/)*

@@ -1,6 +1,6 @@
 # Girlypop Princess
 
-Girlypop Princess is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Girlypop Princess is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
 Girlypop Princess is a club and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Newyorkcity, Philadelphia and Washingtondc. Often billed alongside NANAGOTCHI, Franxx and Ether Pleaser. Next up: TRANSMISSION DC, Washingtondc on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Girlypop Princess is a club and techno artist based in United States of America,
 
 NANAGOTCHI, Franxx, Ether Pleaser
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlypopprincess/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlypopprincess/)*

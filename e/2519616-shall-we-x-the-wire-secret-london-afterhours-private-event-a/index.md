@@ -1,6 +1,6 @@
 # SHALL WE? x THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - EAST LONDON- announced to ticket holders on the day
 
-SHALL WE? x THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - EAST LONDON- announced to ticket holders on the day on Fri 16 Oct, London. 5 acts on the bill: Azire, Dimanté, mayflowduo and Pharo and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+SHALL WE? x THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - EAST LONDON- announced to ticket holders on the day on Fri 16 Oct, London. 6 acts on the bill: Any Koh, Azire, Dimanté and mayflowduo and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SHALL WE? x THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE EVENT at TBA - EAST LON
 
 ## Line-up
 
+- Any Koh
 - Azire
 - Dimanté
 - mayflowduo

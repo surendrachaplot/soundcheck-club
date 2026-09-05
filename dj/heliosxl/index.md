@@ -1,6 +1,6 @@
 # Helios XL
 
-Helios XL is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at RASA, Singapore on Fri, 18 Sept 2026.
+Helios XL is a Jungle and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at RASA, Singapore on Fri, 18 Sept 2026.
 
 Helios XL is a jungle and techno artist based in Singapore, tracked on soundcheck, with 29 sets logged across Hongkong, Kualalumpur and Singapore. Often billed alongside Dexter Colt, TASHASAN and Jony Maddkidz. Next up: RASA, Singapore on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Helios XL is a jungle and techno artist based in Singapore, tracked on soundchec
 
 Dexter Colt, TASHASAN, Jony Maddkidz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosxl/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heliosxl/)*

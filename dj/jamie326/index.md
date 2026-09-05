@@ -1,14 +1,15 @@
 # Jamie 3:26
 
-Jamie 3:26 is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TV Lounge, Detroit on Fri, 11 Sept 2026.
+Jamie 3:26 is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TV Lounge, Detroit on Fri, 11 Sept 2026.
 
-Jamie 3:26 is a house and disco artist tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Dimitri From Paris, Melvo Baptiste and Natasha Diggs. Next up: TV Lounge, Detroit on Fri 11 Sept.
+Jamie 3:26 is a house and disco artist tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 28 more. Often billed alongside Dimitri From Paris, Melvo Baptiste and Natasha Diggs. Next up: TV Lounge, Detroit on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TV Lounge | Detroit |
+| Wed, 16 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Fri, 25 Sept 2026 | Night Tales Loft | London |
 | Tue, 29 Sept 2026 | TBA - Quai De Heembeek | Brussels |
 
@@ -27,4 +28,4 @@ Jamie 3:26 is a house and disco artist tracked on soundcheck, with 107 sets logg
 
 Dimitri From Paris, Melvo Baptiste, Natasha Diggs
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*

@@ -1,6 +1,6 @@
 # Lady Witch
 
-Lady Witch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Northern Lights Lounge, Detroit on Fri, 11 Sept 2026.
+Lady Witch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Northern Lights Lounge, Detroit on Fri, 11 Sept 2026.
 
 Lady Witch is a techno and house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Boston, Detroit and Sanfrancisco. Often billed alongside Misanthropia Narcissus, Lo Dazz and Kenjiro. Next up: Northern Lights Lounge, Detroit on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Lady Witch is a techno and house artist based in United States of America, track
 
 Misanthropia Narcissus, Lo Dazz, Kenjiro
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladywitch/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladywitch/)*

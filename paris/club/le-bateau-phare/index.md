@@ -1,6 +1,6 @@
 # Le Bateau Phare
 
-Le Bateau Phare is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Sunset Session - Bateau Phare" on Sat, 5 Sept 2026.
+Le Bateau Phare is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Sunset Session - Bateau Phare" on Sat, 5 Sept 2026.
 
 Le Bateau Phare is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including Artemis, Providence and Saint Esprit. Browse upcoming dates, start times and who's playing. 3 Port de la gare, Quai François Mauriac face 11, 75013 Paris.
 
@@ -16,4 +16,4 @@ Le Bateau Phare is a music venue in Paris listed on soundcheck. 3 upcoming night
 
 3 Port de la gare, Quai François Mauriac face 11, 75013 Paris, Paris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-bateau-phare/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-bateau-phare/)*

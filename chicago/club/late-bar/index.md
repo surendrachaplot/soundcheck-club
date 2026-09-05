@@ -1,6 +1,6 @@
 # Late Bar
 
-Late Bar is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Electronic Transmission" on Fri, 11 Sept 2026.
+Late Bar is a music venue in Chicago with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Electronic Transmission" on Fri, 11 Sept 2026.
 
 Late Bar is a music venue in Chicago listed on soundcheck. 1 upcoming night, with line-ups including DJ Eternal. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Late Bar is a music venue in Chicago listed on soundcheck. 1 upcoming night, wit
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Electronic Transmission | DJ Eternal |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/late-bar/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/late-bar/)*

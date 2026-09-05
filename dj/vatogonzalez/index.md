@@ -1,6 +1,6 @@
 # Vato Gonzalez
 
-Vato Gonzalez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TivoliVredenburg, Utrecht on Fri, 2 Oct 2026.
+Vato Gonzalez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TivoliVredenburg, Utrecht on Fri, 2 Oct 2026.
 
 Vato Gonzalez is a house and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Rotterdam and Utrecht. Often billed alongside Becking, Moksi and BOVSKI. Next up: TivoliVredenburg, Utrecht on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Vato Gonzalez is a house and techno artist tracked on soundcheck, with 9 sets lo
 
 Becking, Moksi, BOVSKI
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vatogonzalez/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vatogonzalez/)*

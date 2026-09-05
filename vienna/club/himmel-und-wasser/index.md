@@ -1,6 +1,6 @@
 # Himmel und Wasser
 
-Himmel und Wasser is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "TECHNO AUF DER INSEL - FREE OPEN AIR RAVE - Season Closing" on Sat, 12 Sept 2026.
+Himmel und Wasser is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "TECHNO AUF DER INSEL - FREE OPEN AIR RAVE - Season Closing" on Sat, 12 Sept 2026.
 
 Himmel und Wasser is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including Dana Melissa, ESH, Huebl and Telicho. Browse upcoming dates, start times and who's playing. Steinspornbrücke 1, 1220 Wien, Austria.
 
@@ -14,4 +14,4 @@ Himmel und Wasser is a music venue in Vienna listed on soundcheck. 1 upcoming ni
 
 Steinspornbrücke 1, 1220 Wien, Austria, Vienna
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/himmel-und-wasser/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/himmel-und-wasser/)*

@@ -1,6 +1,6 @@
 # Don Plok
 
-Don Plok is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at NAR, Utrecht on Thu, 3 Sept 2026.
+Don Plok is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at NAR, Utrecht on Thu, 3 Sept 2026.
 
 Don Plok is an electronica and bass artist tracked on soundcheck, with 11 sets logged across Berlin, Brussels, Buenosaires and Madrid and 1 more. Often billed alongside Tessa, Anita B Queen and DJ Karen. Next up: NAR, Utrecht on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Don Plok is an electronica and bass artist tracked on soundcheck, with 11 sets l
 
 Tessa, Anita B Queen, DJ Karen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donplok/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donplok/)*

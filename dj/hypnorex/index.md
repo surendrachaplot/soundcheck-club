@@ -1,6 +1,6 @@
 # hypnorex
 
-hypnorex is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
+hypnorex is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
 
 hypnorex is a techno and electro artist tracked on soundcheck, with 14 sets logged across Berlin, Hamburg, Stockholm and Zurich. Often billed alongside Anja Zaube, DJ Flush and Elliver. Next up: Jonny Knüppel, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ hypnorex is a techno and electro artist tracked on soundcheck, with 14 sets logg
 
 Anja Zaube, DJ Flush, Elliver
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnorex/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnorex/)*

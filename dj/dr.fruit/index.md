@@ -1,6 +1,6 @@
 # Dr. Fruit
 
-Dr. Fruit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mood Ring, New York City on Fri, 11 Sept 2026.
+Dr. Fruit is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mood Ring, New York City on Fri, 11 Sept 2026.
 
 Dr. Fruit is a techno and house artist tracked on soundcheck, with 26 sets logged across Newyorkcity. Often billed alongside Sevyn Love, AFTRMTH and DJPT. Next up: Mood Ring, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Dr. Fruit is a techno and house artist tracked on soundcheck, with 26 sets logge
 
 Sevyn Love, AFTRMTH, DJPT
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.fruit/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.fruit/)*

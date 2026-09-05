@@ -1,6 +1,6 @@
 # NLI
 
-NLI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Alte Münze, Berlin on Sat, 5 Sept 2026.
+NLI is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Alte Münze, Berlin on Sat, 5 Sept 2026.
 
 NLI is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Berlin, Birmingham and London. Often billed alongside Dres Codex, Lau.tastic and Baptist (UK). Next up: Alte Münze, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ NLI is a techno and trance artist based in United Kingdom, tracked on soundcheck
 
 Dres Codex, Lau.tastic, Baptist (UK)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nliuk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nliuk/)*

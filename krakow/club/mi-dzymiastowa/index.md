@@ -1,6 +1,6 @@
 # Międzymiastowa
 
-Międzymiastowa is a music venue in Krakow with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "MM: PARADISO" on Sat, 5 Sept 2026.
+Międzymiastowa is a music venue in Krakow with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "MM: PARADISO" on Sat, 5 Sept 2026.
 
 Międzymiastowa is a music venue in Krakow listed on soundcheck. 4 upcoming nights, with line-ups including Sincz. Browse upcoming dates, start times and who's playing. Rynek Główny 34, Kraków, Polska.
 
@@ -17,4 +17,4 @@ Międzymiastowa is a music venue in Krakow listed on soundcheck. 4 upcoming nigh
 
 Rynek Główny 34, Kraków, Polska, Krakow
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/mi-dzymiastowa/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/mi-dzymiastowa/)*

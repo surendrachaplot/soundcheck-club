@@ -1,6 +1,6 @@
 # Brancaleone
 
-Brancaleone is a music venue in Rome with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Burraco and Beats" on Sat, 19 Sept 2026.
+Brancaleone is a music venue in Rome with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Burraco and Beats" on Sat, 19 Sept 2026.
 
 Brancaleone is a music venue in Rome listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 11 Via Levanna 00141, Rome (RM), Italy.
 
@@ -15,4 +15,4 @@ Brancaleone is a music venue in Rome listed on soundcheck. 2 upcoming nights. Br
 
 11 Via Levanna 00141, Rome (RM), Italy, Rome
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/brancaleone/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/brancaleone/)*

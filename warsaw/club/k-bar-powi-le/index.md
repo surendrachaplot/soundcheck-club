@@ -1,6 +1,6 @@
 # K-Bar Powiśle
 
-K-Bar Powiśle is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "LDHF - Let DJ's Have Fun" on Sat, 5 Sept 2026.
+K-Bar Powiśle is a music venue in Warsaw with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "LDHF - Let DJ's Have Fun" on Sat, 5 Sept 2026.
 
 K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 6 upcoming nights, with line-ups including Abrew, Adnable, Adobo (PL) and anymati and 2 more. Browse upcoming dates, start times and who's playing. aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa.
 
@@ -19,4 +19,4 @@ K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 6 upcoming night
 
 aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa, Warsaw
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*

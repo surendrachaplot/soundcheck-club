@@ -1,6 +1,6 @@
 # Silloh
 
-Silloh is a Drum & Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Volks, Brighton on Sat, 5 Sept 2026.
+Silloh is a Drum & Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Volks, Brighton on Sat, 5 Sept 2026.
 
 Silloh is a drum & bass and hip-hop artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Brighton and London. Often billed alongside Half Cab, Promo ZO and Vektah. Next up: Volks, Brighton on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Silloh is a drum & bass and hip-hop artist based in United Kingdom, tracked on s
 
 Half Cab, Promo ZO, Vektah
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silloh/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/silloh/)*

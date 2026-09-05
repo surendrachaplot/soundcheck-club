@@ -1,6 +1,6 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at New City Gas, Montreal on Sun, 6 Sept 2026.
+Luke Dean_ is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at New City Gas, Montreal on Sun, 6 Sept 2026.
 
 Luke Dean_ is a house and tech house artist tracked on soundcheck, with 109 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 29 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: New City Gas, Montreal on Sun 6 Sept.
 
@@ -35,4 +35,4 @@ Luke Dean_ is a house and tech house artist tracked on soundcheck, with 109 sets
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

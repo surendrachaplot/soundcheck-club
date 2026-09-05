@@ -1,6 +1,6 @@
 # Emil Bunker
 
-Emil Bunker is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ehemaliges Polizeipräsidium, Frankfurt on Sat, 5 Sept 2026.
+Emil Bunker is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ehemaliges Polizeipräsidium, Frankfurt on Sat, 5 Sept 2026.
 
 Emil Bunker is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Frankfurt. Often billed alongside Antonym, DeGuzman and Kacy. Next up: Ehemaliges Polizeipräsidium, Frankfurt on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Emil Bunker is a techno and trance artist based in Germany, tracked on soundchec
 
 Antonym, DeGuzman, Kacy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilbunker/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilbunker/)*

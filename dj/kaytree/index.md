@@ -1,6 +1,6 @@
 # Kaytree
 
-Kaytree is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Public Works, San Francisco/Oakland on Sun, 27 Sept 2026.
+Kaytree is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Public Works, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 Kaytree is a techno and bass artist based in United States of America, tracked on soundcheck, with 35 sets logged across Sanfrancisco. Often billed alongside YANNI, Milli Meng and Felly Fell. Next up: Public Works, Sanfrancisco on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Kaytree is a techno and bass artist based in United States of America, tracked o
 
 YANNI, Milli Meng, Felly Fell
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytree/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytree/)*

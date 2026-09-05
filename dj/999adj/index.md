@@ -1,6 +1,6 @@
 # 999ADJ
 
-999ADJ is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Standard Time, Toronto on Thu, 10 Sept 2026.
+999ADJ is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Standard Time, Toronto on Thu, 10 Sept 2026.
 
 999ADJ is a techno and club artist tracked on soundcheck, with 113 sets logged across Chicago, Detroit, Montreal and Newyorkcity and 2 more. Often billed alongside SEXMP3, JIYNX and TJ Traxx. Next up: Standard Time, Toronto on Thu 10 Sept.
 
@@ -27,4 +27,4 @@
 
 SEXMP3, JIYNX, TJ Traxx
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/999adj/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/999adj/)*

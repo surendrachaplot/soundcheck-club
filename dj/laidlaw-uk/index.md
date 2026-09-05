@@ -1,6 +1,6 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 5 Sept 2026.
+Laidlaw is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 5 Sept 2026.
 
 Laidlaw is a house and tech house artist tracked on soundcheck, with 195 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Ouseburn Garden, Newcastle on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 195 sets lo
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

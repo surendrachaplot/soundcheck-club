@@ -1,6 +1,6 @@
 # CLEO
 
-CLEO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fitzroy, Berlin on Fri, 11 Sept 2026.
+CLEO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Fitzroy, Berlin on Fri, 11 Sept 2026.
 
 CLEO is a techno and house artist tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 3 more. Often billed alongside STAANA, Cleo (AU) and Cleo SNK. Next up: Fitzroy, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ CLEO is a techno and house artist tracked on soundcheck, with 41 sets logged acr
 
 STAANA, Cleo (AU), Cleo SNK
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo/)*

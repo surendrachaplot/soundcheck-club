@@ -1,6 +1,6 @@
 # TBA - Bar Sway
 
-TBA - Bar Sway is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Double Dancer" on Fri, 18 Sept 2026.
+TBA - Bar Sway is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Double Dancer" on Fri, 18 Sept 2026.
 
 TBA - Bar Sway is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Double Dancer. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Bar Sway is a music venue in Berlin listed on soundcheck. 1 upcoming night
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Double Dancer | Double Dancer |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-bar-sway/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-bar-sway/)*

@@ -1,6 +1,6 @@
 # Anita B Queen
 
-Anita B Queen is a Bass and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OIL Club, Shenzhen on Sat, 5 Sept 2026.
+Anita B Queen is a Bass and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at OIL Club, Shenzhen on Sat, 5 Sept 2026.
 
 Anita B Queen is a bass and latin bass artist tracked on soundcheck, with 32 sets logged across Bangkok, Barcelona, Berlin and Buenosaires and 10 more. Often billed alongside Meg10, TEDESCO and BADSISTA. Next up: OIL Club, Shenzhen on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Anita B Queen is a bass and latin bass artist tracked on soundcheck, with 32 set
 
 Meg10, TEDESCO, BADSISTA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anitabqueen/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anitabqueen/)*

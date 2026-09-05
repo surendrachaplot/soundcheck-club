@@ -1,8 +1,8 @@
 # Félicie
 
-Félicie is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Sat, 12 Sept 2026.
+Félicie is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Zenith - Die Kulturhalle, Munich on Sat, 12 Sept 2026.
 
-Félicie is a techno and trance artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 40 more. Often billed alongside Cleric, Koboyo and Alignment. Next up: Zenith - Die Kulturhalle, Munich on Sat 12 Sept.
+Félicie is a techno and trance artist tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 40 more. Often billed alongside Cleric, Koboyo and Alignment. Next up: Zenith - Die Kulturhalle, Munich on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Félicie is a techno and trance artist tracked on soundcheck, with 105 sets logg
 | Sat, 12 Sept 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 2 Oct 2026 | Club Exil | Vienna |
 | Sat, 3 Oct 2026 | RSO.BERLIN | Berlin |
+| Sun, 25 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 
 ## Recently played
@@ -28,4 +29,4 @@ Félicie is a techno and trance artist tracked on soundcheck, with 105 sets logg
 
 Cleric, Koboyo, Alignment
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felicie/)*

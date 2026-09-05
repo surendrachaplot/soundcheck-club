@@ -1,6 +1,6 @@
 # Albal
 
-Albal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 5 Sept 2026.
+Albal is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 5 Sept 2026.
 
 Albal is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Juguete, ISAbella and acidheaven. Next up: La Station - Gare des Mines, Paris on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Albal is a techno and house artist tracked on soundcheck, with 48 sets logged ac
 
 Juguete, ISAbella, acidheaven
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albal/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albal/)*

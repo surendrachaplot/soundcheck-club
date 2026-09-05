@@ -1,14 +1,13 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "KHAOS X KHIDI 10 ans: Regal, NEUX, 00rt & Panzer" on Fri, 4 Sept 2026.
+Mia Mao is a music venue in Paris with 15 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Fluid: DJ GUESTLIST, CLTX, Noimage, Ghosty & Tara Toska" on Sat, 5 Sept 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including 00rt, Adame DJ, Alba Franch and Alex Nantaya and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 15 upcoming nights, with line-ups including Adame DJ, Alba Franch, Alex Nantaya and Amine S and 2 more. Browse upcoming dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | KHAOS X KHIDI 10 ans: Regal, NEUX, 00rt & Panzer | 00rt, NEUX, Panzer, Regal |
 | Sat, 5 Sept 2026 | Fluid: DJ GUESTLIST, CLTX, Noimage, Ghosty & Tara Toska | CLTX, DJ GUESTLIST, Ghosty (1), Noimage |
 | Thu, 10 Sept 2026 | Deepsea Grooves: TAKEOVER DKO RECORDS, LA RUCHE, STO & MORE | Amine S, Seabra, Segoz |
 | Fri, 11 Sept 2026 | THUNDER : A.N.I., ANIME, A5KM, XINA MORA & MORE | A.N.I., BOTICKA, SaltySis, Yoshiko |
@@ -18,9 +17,10 @@ Mia Mao is a music venue in Paris listed on soundcheck. 16 upcoming nights, with
 | Sat, 19 Sept 2026 | OFF THE GRID: Dave Clarke, Louisahhh, Candy Cox, L.F.T, David Shaw and The Beat live | Candy Cox, Dave Clarke, David Shaw and The Beat, L.F.T., Louisahhh |
 | Thu, 24 Sept 2026 | Westfall X Reload: two girls one mom, Westfall, Saphyr &More | Suave (BE), Westfall, two girls one mom |
 | Fri, 25 Sept 2026 | ANUBIS: Paul Seul, RUFFNECK, NAMARA, FLUCC & MORE | FLUCC, NAMARA, Paul Seul |
+| Sat, 26 Sept 2026 | Orka x Sakral : KX CHR, Popof, Alex Nantaya, Night Owl, RATZ | Alex Nantaya, KX CHR, Night Owl, Popof |
 
 ## Address
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

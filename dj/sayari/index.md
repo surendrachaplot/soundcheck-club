@@ -1,6 +1,6 @@
 # SAYARI
 
-SAYARI is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Barcelona on Sat, 12 Sept 2026.
+SAYARI is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Barcelona on Sat, 12 Sept 2026.
 
 SAYARI is a house and electro artist tracked on soundcheck, with 8 sets logged across Barcelona. Often billed alongside Alphanova, Ambarcita and BECCA SORANA. Next up: TBA, Barcelona on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ SAYARI is a house and electro artist tracked on soundcheck, with 8 sets logged a
 
 Alphanova, Ambarcita, BECCA SORANA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sayari/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sayari/)*

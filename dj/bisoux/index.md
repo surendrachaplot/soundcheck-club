@@ -1,6 +1,6 @@
 # BISOUX
 
-BISOUX is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Studio Citygate, Brussels on Sat, 12 Sept 2026.
+BISOUX is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Studio Citygate, Brussels on Sat, 12 Sept 2026.
 
 BISOUX is a trance and techno artist based in Belgium, tracked on soundcheck, with 27 sets logged across Antwerp, Berlin, Brussels and Paris and 1 more. Often billed alongside Jef Nice, BAVR and Lisa Korver. Next up: Studio Citygate, Brussels on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ BISOUX is a trance and techno artist based in Belgium, tracked on soundcheck, wi
 
 Jef Nice, BAVR, Lisa Korver
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoux/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bisoux/)*

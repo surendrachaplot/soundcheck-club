@@ -1,14 +1,13 @@
 # Rūmu
 
-Rūmu is a music venue in Lisbon with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Rūmu presents: Nhii and impropper" on Fri, 4 Sept 2026.
+Rūmu is a music venue in Lisbon with 5 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Rūmu presents: Tobias Lindén" on Sat, 5 Sept 2026.
 
-Rūmu is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with line-ups including Barbu, Boyá, C4STRO and impropper and 2 more. Browse upcoming dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
+Rūmu is a music venue in Lisbon listed on soundcheck. 5 upcoming nights, with line-ups including Barbu, Boyá, C4STRO and Jorge Caiado and 2 more. Browse upcoming dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Rūmu presents: Nhii and impropper | Nhii, impropper |
 | Sat, 5 Sept 2026 | Rūmu presents: Tobias Lindén | Tobias Lindén |
 | Wed, 9 Sept 2026 | ROOM: Carpet & Friends with Mike Morales, Nuno di Rosso | Mike Morales, Nuno di Rosso |
 | Wed, 16 Sept 2026 | Nugs On Board x Flipside with Manata, Samuel Padden, Barbu, Twodoor | Barbu, Manata, Samuel Padden, Twodoor |
@@ -19,4 +18,4 @@ Rūmu is a music venue in Lisbon listed on soundcheck. 6 upcoming nights, with l
 
 R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal, Lisbon
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*

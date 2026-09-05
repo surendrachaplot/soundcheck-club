@@ -1,6 +1,6 @@
 # cmp (1)
 
-cmp (1) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+cmp (1) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
 cmp (1) is a techno and electro artist based in Germany, tracked on soundcheck, with 25 sets logged across Hamburg and Munich. Often billed alongside Festnacht, Hufnagel and Fovian. Next up: Südpol, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ cmp (1) is a techno and electro artist based in Germany, tracked on soundcheck, 
 
 Festnacht, Hufnagel, Fovian
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cmp-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cmp-1/)*

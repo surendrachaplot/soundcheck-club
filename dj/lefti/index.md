@@ -1,6 +1,6 @@
 # LEFTI
 
-LEFTI is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Xanadu, New York City on Sat, 5 Sept 2026.
+LEFTI is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Xanadu, New York City on Sat, 5 Sept 2026.
 
 LEFTI is a house and tech house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Brighton, Denver, Losangeles and Miami and 3 more. Often billed alongside Anthony Romano, James Patterson and Jay Vic. Next up: Xanadu, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ LEFTI is a house and tech house artist based in United States of America, tracke
 
 Anthony Romano, James Patterson, Jay Vic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lefti/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lefti/)*

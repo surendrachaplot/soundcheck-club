@@ -1,6 +1,6 @@
 # DEVREE
 
-DEVREE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Laak, The Hague on Fri, 25 Sept 2026.
+DEVREE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Laak, The Hague on Fri, 25 Sept 2026.
 
 DEVREE is a techno and tech house artist tracked on soundcheck, with 12 sets logged across Amsterdam and Thehague. Often billed alongside ØGNA, Jayzo and Alex Sharp. Next up: Laak, Thehague on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DEVREE is a techno and tech house artist tracked on soundcheck, with 12 sets log
 
 ØGNA, Jayzo, Alex Sharp
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devree/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devree/)*

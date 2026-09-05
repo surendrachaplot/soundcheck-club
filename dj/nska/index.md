@@ -1,6 +1,6 @@
 # N ska
 
-N ska is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mastak, Warsaw on Fri, 11 Sept 2026.
+N ska is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Mastak, Warsaw on Fri, 11 Sept 2026.
 
 N ska is a techno and bass artist based in Poland, tracked on soundcheck, with 14 sets logged across Berlin and Warsaw. Often billed alongside Gościńska, Delta Division and SAGAN. Next up: Mastak, Warsaw on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ N ska is a techno and bass artist based in Poland, tracked on soundcheck, with 1
 
 Gościńska, Delta Division, SAGAN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nska/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nska/)*

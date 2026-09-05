@@ -1,6 +1,6 @@
 # Dazzle Drums
 
-Dazzle Drums is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 11 Sept 2026.
+Dazzle Drums is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at MIDNIGHT EAST, Tokyo on Fri, 11 Sept 2026.
 
 Dazzle Drums is a house and techno artist based in Japan, tracked on soundcheck, with 265 sets logged across Amsterdam, Barcelona, Kyoto and London and 7 more. Often billed alongside Toshio Matsuura, MINAMI and DJ Emma. Next up: MIDNIGHT EAST, Tokyo on Fri 11 Sept.
 
@@ -32,4 +32,4 @@ Dazzle Drums is a house and techno artist based in Japan, tracked on soundcheck,
 
 Toshio Matsuura, MINAMI, DJ Emma
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dazzledrums/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dazzledrums/)*

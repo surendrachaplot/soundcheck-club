@@ -1,6 +1,6 @@
 # Niz (IE)
 
-Niz (IE) is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Razzmatazz, Barcelona on Sat, 5 Sept 2026.
+Niz (IE) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Razzmatazz, Barcelona on Sat, 5 Sept 2026.
 
 Niz (IE) is an electronic artist tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Dublin and Madrid and 1 more. Often billed alongside Slim (IE), Flug and Héctor Oaks. Next up: Razzmatazz, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Niz (IE) is an electronic artist tracked on soundcheck, with 23 sets logged acro
 
 Slim (IE), Flug, Héctor Oaks
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niz-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niz-2/)*

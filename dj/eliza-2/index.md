@@ -1,6 +1,6 @@
 # Eliza (2)
 
-Eliza (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at House of Q, Stockholm on Sat, 12 Sept 2026.
+Eliza (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at House of Q, Stockholm on Sat, 12 Sept 2026.
 
 Eliza (2) is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Barcelona, Berlin, Brussels and Copenhagen and 10 more. Often billed alongside Miran N, Akaj and DRAMA SOURCE ARTIFACTS. Next up: House of Q, Stockholm on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Eliza (2) is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Miran N, Akaj, DRAMA SOURCE ARTIFACTS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliza-2/)*

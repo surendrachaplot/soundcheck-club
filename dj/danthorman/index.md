@@ -1,6 +1,6 @@
 # Dan Thorman
 
-Dan Thorman is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sauna Social Club, London on Sat, 12 Sept 2026.
+Dan Thorman is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Sauna Social Club, London on Sat, 12 Sept 2026.
 
 Dan Thorman is an ambient and experimental artist tracked on soundcheck, with 6 sets logged across Bristol, London and Sheffield. Often billed alongside Anina, dan nicholls and Debmaster. Next up: Sauna Social Club, London on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Dan Thorman is an ambient and experimental artist tracked on soundcheck, with 6 
 
 Anina, dan nicholls, Debmaster
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danthorman/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danthorman/)*

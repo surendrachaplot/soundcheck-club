@@ -1,6 +1,6 @@
 # Paz
 
-Paz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 11 Sept 2026.
+Paz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Revolver Upstairs, Melbourne on Fri, 11 Sept 2026.
 
 Paz is a house and techno artist based in Argentina, tracked on soundcheck, with 18 sets logged across Auckland, Barcelona, Madrid and Melbourne and 1 more. Often billed alongside Moray, Perro Jimbo and Pierre Marty (live). Next up: Revolver Upstairs, Melbourne on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Paz is a house and techno artist based in Argentina, tracked on soundcheck, with
 
 Moray, Perro Jimbo, Pierre Marty (live)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paz/)*

@@ -1,6 +1,6 @@
 # Chris Cruse
 
-Chris Cruse is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at KREUZWERK, Berlin on Sat, 12 Sept 2026.
+Chris Cruse is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at KREUZWERK, Berlin on Sat, 12 Sept 2026.
 
 Chris Cruse is a house and techno artist based in United States of America, tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Austin and Bali and 27 more. Often billed alongside Luigi Di Venere, Massimiliano Pagliara and Roi Perez. Next up: KREUZWERK, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Chris Cruse is a house and techno artist based in United States of America, trac
 
 Luigi Di Venere, Massimiliano Pagliara, Roi Perez
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscruse/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscruse/)*

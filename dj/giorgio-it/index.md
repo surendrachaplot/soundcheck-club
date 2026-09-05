@@ -1,6 +1,6 @@
 # GIORGIO (IT)
 
-GIORGIO (IT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Club Bellevue, Zurich on Sat, 12 Sept 2026.
+GIORGIO (IT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Club Bellevue, Zurich on Sat, 12 Sept 2026.
 
 GIORGIO (IT) is a house and techno artist tracked on soundcheck, with 5 sets logged across Antwerp, Madrid, Taipei and Tokyo and 1 more. Often billed alongside Acid Gigi, Acidgigi and Chipo Chipo. Next up: Club Bellevue, Zurich on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ GIORGIO (IT) is a house and techno artist tracked on soundcheck, with 5 sets log
 
 Acid Gigi, Acidgigi, Chipo Chipo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgio-it/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgio-it/)*

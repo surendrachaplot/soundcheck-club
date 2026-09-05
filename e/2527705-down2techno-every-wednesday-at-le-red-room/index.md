@@ -1,6 +1,6 @@
-# DOWN2TECHNO: Every Wednesday at Le Red Room
+# DOWN2TECHNO [Every Wednesday] at Le Red Room
 
-DOWN2TECHNO: Every Wednesday at Le Red Room on Wed 9 Sept, Montreal. 3 acts on the bill: 7AZ (1), Aegis and JRD. Techno. Preview the line-up and save it on soundcheck.
+DOWN2TECHNO [Every Wednesday] at Le Red Room on Wed 9 Sept, Montreal. 3 acts on the bill: 7AZ (1), Aegis and JRD. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

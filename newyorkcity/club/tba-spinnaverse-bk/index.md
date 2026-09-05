@@ -1,6 +1,6 @@
 # TBA - SpinnaVerse BK
 
-TBA - SpinnaVerse BK is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "EveryBody Loves ROY AYERS Tribute Party (w) DJ Spinna + DJ Tahleim" on Sat, 12 Sept 2026.
+TBA - SpinnaVerse BK is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "EveryBody Loves ROY AYERS Tribute Party (w) DJ Spinna + DJ Tahleim" on Sat, 12 Sept 2026.
 
 TBA - SpinnaVerse BK is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including DJ Spinna. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - SpinnaVerse BK is a music venue in Newyorkcity listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | EveryBody Loves ROY AYERS Tribute Party (w) DJ Spinna + DJ Tahleim | DJ Spinna |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-spinnaverse-bk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-spinnaverse-bk/)*

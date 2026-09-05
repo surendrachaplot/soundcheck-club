@@ -1,6 +1,6 @@
 # Ryan King
 
-Ryan King is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at H0L0, New York City on Sat, 5 Sept 2026.
+Ryan King is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at H0L0, New York City on Sat, 5 Sept 2026.
 
 Ryan King is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Newyorkcity and Philadelphia. Often billed alongside Burchan Acar, Max Sprauer and Shvili. Next up: H0L0, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Ryan King is a house and techno artist based in United States of America, tracke
 
 Burchan Acar, Max Sprauer, Shvili
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanking/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanking/)*

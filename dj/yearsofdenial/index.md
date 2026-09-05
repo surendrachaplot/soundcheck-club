@@ -1,6 +1,6 @@
 # Years of Denial
 
-Years of Denial is a EBM and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
+Years of Denial is a EBM and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Razzmatazz, Barcelona on Sat, 19 Sept 2026.
 
 Years of Denial is an ebm and techno artist tracked on soundcheck, with 39 sets logged across Athens, Barcelona, Berlin and Brussels and 18 more. Often billed alongside ComaRobot, Phase Fatale and Ancient Methods. Next up: Razzmatazz, Barcelona on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Years of Denial is an ebm and techno artist tracked on soundcheck, with 39 sets 
 
 ComaRobot, Phase Fatale, Ancient Methods
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yearsofdenial/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yearsofdenial/)*

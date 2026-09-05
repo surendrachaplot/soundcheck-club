@@ -1,6 +1,6 @@
 # LT (UK)
 
-LT (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Toffler, Rotterdam on Sat, 31 Oct 2026.
+LT (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Toffler, Rotterdam on Sat, 31 Oct 2026.
 
 LT (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Chicago, London, Manchester and Rotterdam and 2 more. Often billed alongside Medium J, Aaron Chase and Adonis Childs. Next up: Toffler, Rotterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LT (UK) is a house and techno artist based in United Kingdom, tracked on soundch
 
 Medium J, Aaron Chase, Adonis Childs
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lt-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lt-uk/)*

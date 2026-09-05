@@ -1,6 +1,6 @@
 # 50PHIE
 
-50PHIE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+50PHIE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
 50PHIE is a techno and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Frankfurt, Hamburg and Leipzig and 1 more. Often billed alongside Jacob Knob, Vy Tran and Christian Kluge. Next up: Südpol, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@
 
 Jacob Knob, Vy Tran, Christian Kluge
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/50phie/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/50phie/)*

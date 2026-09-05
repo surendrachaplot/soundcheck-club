@@ -1,6 +1,6 @@
 # Mefjus
 
-Mefjus is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Mefjus is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Mefjus is a drum & bass and bass artist tracked on soundcheck, with 53 sets logged across Amsterdam, Auckland, Berlin and Boston and 22 more. Often billed alongside Camo & Krooked, Daxta and Black Sun Empire. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -31,4 +31,4 @@ Mefjus is a drum & bass and bass artist tracked on soundcheck, with 53 sets logg
 
 Camo & Krooked, Daxta, Black Sun Empire
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mefjus/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mefjus/)*

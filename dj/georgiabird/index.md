@@ -1,6 +1,6 @@
 # Georgia Bird
 
-Georgia Bird is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Gare Porto, Porto on Sat, 12 Sept 2026.
+Georgia Bird is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Gare Porto, Porto on Sat, 12 Sept 2026.
 
 Georgia Bird is a house and techno artist tracked on soundcheck, with 28 sets logged across Berlin, Hobart, Melbourne and Paris and 2 more. Often billed alongside Alfred Czital, Raleigh and Yan (CZ). Next up: Gare Porto, Porto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Georgia Bird is a house and techno artist tracked on soundcheck, with 28 sets lo
 
 Alfred Czital, Raleigh, Yan (CZ)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiabird/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiabird/)*

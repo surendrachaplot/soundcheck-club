@@ -1,6 +1,6 @@
 # Viot
 
-Viot is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at 77, London on Fri, 11 Sept 2026.
+Viot is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at 77, London on Fri, 11 Sept 2026.
 
 Viot is a house and tech house artist tracked on soundcheck, with 27 sets logged across Buenosaires, Chicago, Ibiza and Lisbon and 8 more. Often billed alongside Antdot, Carl Cox and Maz (BR). Next up: 77, London on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Viot is a house and tech house artist tracked on soundcheck, with 27 sets logged
 
 Antdot, Carl Cox, Maz (BR)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viot/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viot/)*

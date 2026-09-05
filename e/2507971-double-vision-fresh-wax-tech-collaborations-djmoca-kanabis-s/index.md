@@ -1,6 +1,6 @@
-# Double Vision: Fresh Wax! ; Tech Collaborations: djmoca & Kanabis Stoned(6 hours Vinyl Set) at Culture Cafe
+# Double Vision: Fresh Wax! ;Tech Collaborations: djmoca,Kanabis Stoned &GonzoGot(Vinyl Set) at Culture Cafe
 
-Double Vision: Fresh Wax! ; Tech Collaborations: djmoca & Kanabis Stoned(6 hours Vinyl Set) at Culture Cafe on Sat 5 Sept, Bangkok. 3 acts on the bill: djmoca, Kanabis Stoned and MOODYBOOM. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Double Vision: Fresh Wax! ;Tech Collaborations: djmoca,Kanabis Stoned &GonzoGot(Vinyl Set) at Culture Cafe on Sat 5 Sept, Bangkok. 3 acts on the bill: djmoca, Kanabis Stoned and MOODYBOOM. Techno and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Pascal Morais
 
-Pascal Morais is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Yellow House, Amsterdam on Sat, 19 Sept 2026.
+Pascal Morais is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Yellow House, Amsterdam on Sat, 19 Sept 2026.
 
 Pascal Morais is an afro house and afro tech artist tracked on soundcheck, with 14 sets logged across Amsterdam and Rotterdam. Often billed alongside Van Zand, De La Noise and Bun Xapa. Next up: Yellow House, Amsterdam on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Pascal Morais is an afro house and afro tech artist tracked on soundcheck, with 
 
 Van Zand, De La Noise, Bun Xapa
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalmorais/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalmorais/)*

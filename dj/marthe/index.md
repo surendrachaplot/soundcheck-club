@@ -1,6 +1,6 @@
 # Marthe
 
-Marthe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 2ten, Athens on Sat, 10 Oct 2026.
+Marthe is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 2ten, Athens on Sat, 10 Oct 2026.
 
 Marthe is a house and techno artist tracked on soundcheck, with 42 sets logged across Athens. Often billed alongside Tolis Q, George Apergis and TolisQ. Next up: 2ten, Athens on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Marthe is a house and techno artist tracked on soundcheck, with 42 sets logged a
 
 Tolis Q, George Apergis, TolisQ
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marthe/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marthe/)*

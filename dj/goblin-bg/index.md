@@ -1,6 +1,6 @@
 # GØBLIN
 
-GØBLIN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
+GØBLIN is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
 
 GØBLIN is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Berlin, Birmingham, Budapest and London and 1 more. Often billed alongside Labåzuy, 5ogol and PARAPHER. Next up: OFF Kultur, Budapest on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ GØBLIN is a techno and industrial artist based in United Kingdom, tracked on so
 
 Labåzuy, 5ogol, PARAPHER
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goblin-bg/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goblin-bg/)*

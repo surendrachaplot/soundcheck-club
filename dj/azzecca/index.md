@@ -1,6 +1,6 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Azzecca is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Azzecca is a house and techno artist tracked on soundcheck, with 81 sets logged across Amsterdam, Austin, Berlin and Boston and 20 more. Often billed alongside Gorgon City, Chris Lake and Dom Dolla. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -16,6 +16,7 @@ Azzecca is a house and techno artist tracked on soundcheck, with 81 sets logged 
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - Castaways, Chicago — Thu, 3 Sept 2026
 - The William Vale, New York City — Sun, 30 Aug 2026
 - TBA - Open Air: Downtown Los Angeles, Los Angeles — Sat, 22 Aug 2026
@@ -23,10 +24,9 @@ Azzecca is a house and techno artist tracked on soundcheck, with 81 sets logged 
 - Barbara Hall Park, Toronto — Sat, 27 Jun 2026
 - Floyd, Miami — Sun, 14 Jun 2026
 - TBA - Downtown Los Angeles, Los Angeles — Fri, 29 May 2026
-- The Ground at Club Space, Miami — Thu, 26 Mar 2026
 
 ## Shares bills with
 
 Gorgon City, Chris Lake, Dom Dolla
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*

@@ -1,0 +1,28 @@
+# Hemlock (CA)
+
+Hemlock (CA) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Society Clubhouse, Toronto on Thu, 10 Sept 2026.
+
+Hemlock (CA) is a house and techno artist based in Canada, tracked on soundcheck, with 19 sets logged across Toronto. Often billed alongside Chumbo, Siren (4) and Utopos. Next up: Society Clubhouse, Toronto on Thu 10 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 10 Sept 2026 | Society Clubhouse | Toronto |
+
+## Recently played
+
+- The Jama, Toronto — Thu, 27 Aug 2026
+- Rhythm, Toronto — Tue, 18 Aug 2026
+- The Jama, Toronto — Fri, 14 Aug 2026
+- TBA, Toronto — Sat, 11 Jul 2026
+- TBA, Toronto — Fri, 15 May 2026
+- TBA - Toronto, Toronto — Sat, 28 Mar 2026
+- TBA - Toronto, Toronto — Sat, 31 Jan 2026
+- Bampot Tea House, Toronto — Fri, 30 Jan 2026
+
+## Shares bills with
+
+Chumbo, Siren (4), Utopos
+
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hemlockca/)*

@@ -1,6 +1,6 @@
 # Traxion
 
-Traxion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Night Cat, Melbourne on Sat, 26 Sept 2026.
+Traxion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Night Cat, Melbourne on Sat, 26 Sept 2026.
 
 Traxion is a techno and house artist tracked on soundcheck, with 21 sets logged across Melbourne. Often billed alongside Eric Stark, Stockholm Syndrome and Mike Callander. Next up: The Night Cat, Melbourne on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Traxion is a techno and house artist tracked on soundcheck, with 21 sets logged 
 
 Eric Stark, Stockholm Syndrome, Mike Callander
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traxion/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traxion/)*

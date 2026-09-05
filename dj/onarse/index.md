@@ -1,6 +1,6 @@
 # ONARSÉ
 
-ONARSÉ is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Il Brutto Auckland, Auckland on Sat, 19 Sept 2026.
+ONARSÉ is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Il Brutto Auckland, Auckland on Sat, 19 Sept 2026.
 
 ONARSÉ is a techno and hardcore artist tracked on soundcheck, with 20 sets logged across Amsterdam, Auckland, London and Melbourne and 2 more. Often billed alongside BASS SLVT, ARTISAH and Audiophile. Next up: Il Brutto Auckland, Auckland on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ ONARSÉ is a techno and hardcore artist tracked on soundcheck, with 20 sets logg
 
 BASS SLVT, ARTISAH, Audiophile
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onarse/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onarse/)*

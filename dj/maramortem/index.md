@@ -1,6 +1,6 @@
 # Mara Mortem
 
-Mara Mortem is a Post-Punk and EBM artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at ÆDEN, Berlin on Sat, 5 Sept 2026.
+Mara Mortem is a Post-Punk and EBM artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at ÆDEN, Berlin on Sat, 5 Sept 2026.
 
 Mara Mortem is a post-punk and ebm artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin and London. Often billed alongside Ricardo Castro, Lais Pattak and Steve Weeks. Next up: ÆDEN, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Mara Mortem is a post-punk and ebm artist tracked on soundcheck, with 14 sets lo
 
 Ricardo Castro, Lais Pattak, Steve Weeks
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maramortem/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maramortem/)*

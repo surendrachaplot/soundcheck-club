@@ -1,6 +1,6 @@
 # Blanch
 
-Blanch is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Oven Club, Valencia on Sat, 12 Sept 2026.
+Blanch is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Oven Club, Valencia on Sat, 12 Sept 2026.
 
 Blanch is a house and tech house artist tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Brussels and London and 4 more. Often billed alongside blan.trrs, Pau Pérez and Ladrillovitz. Next up: Oven Club, Valencia on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Blanch is a house and tech house artist tracked on soundcheck, with 63 sets logg
 
 blan.trrs, Pau Pérez, Ladrillovitz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blanch/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blanch/)*

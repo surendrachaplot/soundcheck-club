@@ -1,6 +1,6 @@
 # Noise Casino
 
-Noise Casino is a Acid and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location (Neukölln), Berlin on Sat, 12 Sept 2026.
+Noise Casino is a Acid and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Secret Location (Neukölln), Berlin on Sat, 12 Sept 2026.
 
 Noise Casino is an acid and breakbeat artist based in Colombia, tracked on soundcheck, with 15 sets logged across Berlin and Prague. Often billed alongside Juana Valeria, Francisco Nada and SEPBTT. Next up: TBA - Secret Location (Neukölln), Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Noise Casino is an acid and breakbeat artist based in Colombia, tracked on sound
 
 Juana Valeria, Francisco Nada, SEPBTT
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noisecasino/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noisecasino/)*

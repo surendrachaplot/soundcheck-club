@@ -1,6 +1,6 @@
 # Storm Mollison
 
-Storm Mollison is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Cause, London on Fri, 18 Sept 2026.
+Storm Mollison is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Cause, London on Fri, 18 Sept 2026.
 
 Storm Mollison is a house and disco artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Brighton and Bristol and 9 more. Often billed alongside Joshua James, Dan Shake and D Stone. Next up: The Cause, London on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Storm Mollison is a house and disco artist tracked on soundcheck, with 67 sets l
 
 Joshua James, Dan Shake, D Stone
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*

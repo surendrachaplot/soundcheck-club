@@ -1,6 +1,6 @@
 # CXLI
 
-CXLI is a UK Funky and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
+CXLI is a UK Funky and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
 
 CXLI is an uk funky and baile funk artist tracked on soundcheck, with 25 sets logged across London and Manchester. Often billed alongside OTDELTA, Ìyáàlù and Bushbby. Next up: Colour Factory, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ CXLI is an uk funky and baile funk artist tracked on soundcheck, with 25 sets lo
 
 OTDELTA, Ìyáàlù, Bushbby
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cxli/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cxli/)*

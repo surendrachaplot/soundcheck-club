@@ -1,6 +1,6 @@
 # broad hall.
 
-broad hall. is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Porkroll PHL" on Sat, 12 Sept 2026.
+broad hall. is a music venue in Philadelphia with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Porkroll PHL" on Sat, 12 Sept 2026.
 
 broad hall. is a music venue in Philadelphia listed on soundcheck. 2 upcoming nights, with line-ups including Derrick Carter, DJ Dawson, Redevil (2) and Tommy Cornelis. Browse upcoming dates, start times and who's playing. 699 N. Broad Street, Philadelphia, PA 19123 USA.
 
@@ -15,4 +15,4 @@ broad hall. is a music venue in Philadelphia listed on soundcheck. 2 upcoming ni
 
 699 N. Broad Street, Philadelphia, PA 19123 USA, Philadelphia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/broad-hall/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/broad-hall/)*

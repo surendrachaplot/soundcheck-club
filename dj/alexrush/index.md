@@ -1,6 +1,6 @@
 # Alex Rush
 
-Alex Rush is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
+Alex Rush is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
 
 Alex Rush is an afro house and deep house artist tracked on soundcheck, with 9 sets logged across Barcelona, Bucharest, Ibiza and London. Often billed alongside BIØY, CARSA and Fat-P. Next up: Port Olimpic, Barcelona on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Alex Rush is an afro house and deep house artist tracked on soundcheck, with 9 s
 
 BIØY, CARSA, Fat-P
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrush/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrush/)*

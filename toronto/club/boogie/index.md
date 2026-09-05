@@ -1,6 +1,6 @@
 # Boogie
 
-Boogie is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Sunday Casual w. Trackheadz, Ray Ray" on Sun, 6 Sept 2026.
+Boogie is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Sunday Casual w. Trackheadz, Ray Ray" on Sun, 6 Sept 2026.
 
 Boogie is a music venue in Toronto listed on soundcheck. 1 upcoming night, with line-ups including Nick Holder, Trackheadz and Tyrone Solomon. Browse upcoming dates, start times and who's playing. 1188 Queen St W, Toronto, ON M6J 1J6, Canada.
 
@@ -14,4 +14,4 @@ Boogie is a music venue in Toronto listed on soundcheck. 1 upcoming night, with 
 
 1188 Queen St W, Toronto, ON M6J 1J6, Canada, Toronto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/boogie/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/boogie/)*

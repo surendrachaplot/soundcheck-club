@@ -1,6 +1,6 @@
 # INEXXSTABLE
 
-INEXXSTABLE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT , Barcelona on Sat, 19 Sept 2026.
+INEXXSTABLE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT , Barcelona on Sat, 19 Sept 2026.
 
 INEXXSTABLE is a house and techno artist tracked on soundcheck, with 119 sets logged across Barcelona and Belgrade. Often billed alongside CLANDESTINE (2), Cucut and Brieela. Next up: TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT , Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ INEXXSTABLE is a house and techno artist tracked on soundcheck, with 119 sets lo
 
 CLANDESTINE (2), Cucut, Brieela
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inexxstable/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inexxstable/)*

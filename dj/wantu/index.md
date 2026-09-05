@@ -1,6 +1,6 @@
 # Wan Tu
 
-Wan Tu is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at SJQ, London on Sat, 5 Sept 2026.
+Wan Tu is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at SJQ, London on Sat, 5 Sept 2026.
 
 Wan Tu is a disco and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Birmingham and London. Often billed alongside Gus de Silva, Martini and Adam Shelton. Next up: SJQ, London on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Wan Tu is a disco and house artist based in United Kingdom, tracked on soundchec
 
 Gus de Silva, Martini, Adam Shelton
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wantu/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wantu/)*

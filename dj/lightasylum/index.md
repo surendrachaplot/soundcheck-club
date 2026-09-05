@@ -1,6 +1,6 @@
 # Light Asylum
 
-Light Asylum is a EBM and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at ÆDEN, Berlin on Fri, 11 Sept 2026.
+Light Asylum is a EBM and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at ÆDEN, Berlin on Fri, 11 Sept 2026.
 
 Light Asylum is an ebm and industrial artist based in United States of America, tracked on soundcheck, with 23 sets logged across Berlin, Brussels, Chicago and Copenhagen and 11 more. Often billed alongside EchoDroides, Heavy Halo and Vyper. Next up: ÆDEN, Berlin on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Light Asylum is an ebm and industrial artist based in United States of America, 
 
 EchoDroides, Heavy Halo, Vyper
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lightasylum/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lightasylum/)*

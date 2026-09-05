@@ -1,6 +1,6 @@
 # Paco Osuna
 
-Paco Osuna is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Paco Osuna is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Paco Osuna is a tech house and house artist tracked on soundcheck, with 239 sets logged across Amsterdam, Athens, Bali and Barcelona and 44 more. Often billed alongside The Martinez Brothers, Melanie Ribbe and Marco Carola. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -23,6 +23,7 @@ Paco Osuna is a tech house and house artist tracked on soundcheck, with 239 sets
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - Hï Ibiza, Ibiza — Tue, 1 Sept 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 29 Aug 2026
 - KOKO, London — Fri, 28 Aug 2026
@@ -30,10 +31,9 @@ Paco Osuna is a tech house and house artist tracked on soundcheck, with 239 sets
 - Hï Ibiza, Ibiza — Tue, 18 Aug 2026
 - Hï Ibiza, Ibiza — Tue, 11 Aug 2026
 - Hï Ibiza, Ibiza — Tue, 4 Aug 2026
-- [UNVRS], Ibiza — Thu, 30 Jul 2026
 
 ## Shares bills with
 
 The Martinez Brothers, Melanie Ribbe, Marco Carola
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacoosuna/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pacoosuna/)*

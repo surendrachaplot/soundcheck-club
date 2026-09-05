@@ -1,6 +1,6 @@
 # The Woodshop
 
-The Woodshop is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "DRUM AND BASS T & Sugah NYC DEBUT SATURDAY SEPTEMBER 19TH 11PM " on Sat, 19 Sept 2026.
+The Woodshop is a music venue in New York City with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "DRUM AND BASS T & Sugah NYC DEBUT SATURDAY SEPTEMBER 19TH 11PM " on Sat, 19 Sept 2026.
 
 The Woodshop is a music venue in Newyorkcity listed on soundcheck. 2 upcoming nights, with line-ups including BLCKLST, Connect, E-Mood and T & Sugah. Browse upcoming dates, start times and who's playing. 21a Meadow Street, Brooklyn, NY 11206.
 
@@ -15,4 +15,4 @@ The Woodshop is a music venue in Newyorkcity listed on soundcheck. 2 upcoming ni
 
 21a Meadow Street, Brooklyn, NY 11206, New York City
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-woodshop/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-woodshop/)*

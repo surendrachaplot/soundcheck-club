@@ -1,6 +1,6 @@
 # DIL KASHMIR
 
-DIL KASHMIR is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at City Hall, Barcelona on Sat, 12 Sept 2026.
+DIL KASHMIR is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at City Hall, Barcelona on Sat, 12 Sept 2026.
 
 DIL KASHMIR is a techno and acid artist based in Spain, tracked on soundcheck, with 16 sets logged across Barcelona. Often billed alongside DUNA ËDEN, B.UNQ and B.UNQ!. Next up: City Hall, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DIL KASHMIR is a techno and acid artist based in Spain, tracked on soundcheck, w
 
 DUNA ËDEN, B.UNQ, B.UNQ!
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dilkashmir/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dilkashmir/)*

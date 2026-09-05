@@ -1,6 +1,6 @@
 # hi.fí
 
-hi.fí is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Flakturm Humboldthain, Berlin on Sun, 20 Sept 2026.
+hi.fí is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Flakturm Humboldthain, Berlin on Sun, 20 Sept 2026.
 
 hi.fí is a house and techno artist based in Ireland, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Meriem S, François Dulac and Miss T Delight. Next up: TBA - Flakturm Humboldthain, Berlin on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ hi.fí is a house and techno artist based in Ireland, tracked on soundcheck, wit
 
 Meriem S, François Dulac, Miss T Delight
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hi.fí/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hi.fí/)*

@@ -1,6 +1,6 @@
 # rabiatch
 
-rabiatch is a Club and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 25 Sept 2026.
+rabiatch is a Club and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 25 Sept 2026.
 
 rabiatch is a club and breakbeat artist tracked on soundcheck, with 10 sets logged across Barcelona, Berlin and Porto. Often billed alongside Aber., Benyayer and Creti. Next up: Bulbul Berlin, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ rabiatch is a club and breakbeat artist tracked on soundcheck, with 10 sets logg
 
 Aber., Benyayer, Creti
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rabiatch/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rabiatch/)*

@@ -1,18 +1,17 @@
 # Hotel Vegas
 
-Hotel Vegas is a music venue in Austin with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "DJ SOULARREAL on the Hotel Patio!" on Fri, 4 Sept 2026.
+Hotel Vegas is a music venue in Austin with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "DJ SUXXY PUXXY on the Hotel Patio!" on Sat, 5 Sept 2026.
 
-Hotel Vegas is a music venue in Austin listed on soundcheck. 2 upcoming nights, with line-ups including SUXXY PUXXY. Browse upcoming dates, start times and who's playing. 1502 E 6th Street; Austin, TX 78702; United States.
+Hotel Vegas is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including SUXXY PUXXY. Browse upcoming dates, start times and who's playing. 1502 E 6th Street; Austin, TX 78702; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | DJ SOULARREAL on the Hotel Patio! |  |
 | Sat, 5 Sept 2026 | DJ SUXXY PUXXY on the Hotel Patio! | SUXXY PUXXY |
 
 ## Address
 
 1502 E 6th Street; Austin, TX 78702; United States, Austin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/hotel-vegas/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/hotel-vegas/)*

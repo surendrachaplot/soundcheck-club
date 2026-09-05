@@ -1,6 +1,6 @@
 # Philipp Werner
 
-Philipp Werner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Climax-Institutes, Stuttgart on Sat, 12 Sept 2026.
+Philipp Werner is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Climax-Institutes, Stuttgart on Sat, 12 Sept 2026.
 
 Philipp Werner is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Stuttgart. Often billed alongside Alexander Maier, Femcat and Jochen Junker. Next up: Climax-Institutes, Stuttgart on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Philipp Werner is a techno and house artist based in Germany, tracked on soundch
 
 Alexander Maier, Femcat, Jochen Junker
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippwerner/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippwerner/)*

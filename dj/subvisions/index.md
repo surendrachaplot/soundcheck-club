@@ -1,6 +1,6 @@
 # SUBVISIONS
 
-SUBVISIONS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Beaver Works, Leeds on Sat, 5 Sept 2026.
+SUBVISIONS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Beaver Works, Leeds on Sat, 5 Sept 2026.
 
 SUBVISIONS is a techno and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Leeds. Often billed alongside Ventah, MOUTH and ATTA. Next up: Beaver Works, Leeds on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ SUBVISIONS is a techno and house artist based in United Kingdom, tracked on soun
 
 Ventah, MOUTH, ATTA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subvisions/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/subvisions/)*

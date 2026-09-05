@@ -1,6 +1,6 @@
 # Restinga
 
-Restinga is a Electronica and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at EL SÓTANO, Madrid on Thu, 10 Sept 2026.
+Restinga is a Electronica and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at EL SÓTANO, Madrid on Thu, 10 Sept 2026.
 
 Restinga is an electronica and afrobeat artist tracked on soundcheck, with 6 sets logged across Barcelona, Lisbon and Madrid. Often billed alongside CRKS290, Diego Armando and Dinamarca. Next up: EL SÓTANO, Madrid on Thu 10 Sept.
 
@@ -22,4 +22,4 @@ Restinga is an electronica and afrobeat artist tracked on soundcheck, with 6 set
 
 CRKS290, Diego Armando, Dinamarca
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restinga/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restinga/)*

@@ -1,6 +1,6 @@
 # Hugo Mari
 
-Hugo Mari is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Maya Marylebone, London on Sat, 5 Sept 2026.
+Hugo Mari is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Maya Marylebone, London on Sat, 5 Sept 2026.
 
 Hugo Mari is a house and deep house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside ADJ, CKTRL and Christopher Commander. Next up: Maya Marylebone, London on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Hugo Mari is a house and deep house artist tracked on soundcheck, with 5 sets lo
 
 ADJ, CKTRL, Christopher Commander
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomari/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomari/)*

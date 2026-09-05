@@ -1,6 +1,6 @@
 # Jessen
 
-Jessen is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Place Poelaertplein, Brussels on Sat, 12 Sept 2026.
+Jessen is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Place Poelaertplein, Brussels on Sat, 12 Sept 2026.
 
 Jessen is a house and electro artist based in Belgium, tracked on soundcheck, with 24 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Bobbi Watson, Shoplifter and trillosta. Next up: Place Poelaertplein, Brussels on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jessen is a house and electro artist based in Belgium, tracked on soundcheck, wi
 
 Bobbi Watson, Shoplifter, trillosta
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessen/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessen/)*

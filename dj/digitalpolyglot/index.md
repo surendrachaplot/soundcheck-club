@@ -1,6 +1,6 @@
 # digital polyglot
 
-digital polyglot is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
+digital polyglot is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Toronto on Sat, 19 Sept 2026.
 
 digital polyglot is a techno and club artist tracked on soundcheck, with 25 sets logged across Montreal and Toronto. Often billed alongside HVN (1), Litney and 999ADJ. Next up: TBA, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ digital polyglot is a techno and club artist tracked on soundcheck, with 25 sets
 
 HVN (1), Litney, 999ADJ
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalpolyglot/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalpolyglot/)*

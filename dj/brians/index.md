@@ -1,6 +1,6 @@
 # Brian S.
 
-Brian S. is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ijland, Amsterdam on Sat, 3 Oct 2026.
+Brian S. is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ijland, Amsterdam on Sat, 3 Oct 2026.
 
 Brian S. is a house and minimal artist tracked on soundcheck, with 21 sets logged across Amsterdam and Ibiza. Often billed alongside sucre., ROOG and Zender. Next up: Ijland, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Brian S. is a house and minimal artist tracked on soundcheck, with 21 sets logge
 
 sucre., ROOG, Zender
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brians/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brians/)*

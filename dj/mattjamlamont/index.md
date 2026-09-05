@@ -1,6 +1,6 @@
 # Matt Jam Lamont
 
-Matt Jam Lamont is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
+Matt Jam Lamont is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
 Matt Jam Lamont is a garage and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Birmingham, Bristol, Ibiza and Leeds and 4 more. Often billed alongside MC DT, MC CKP and Scott Garcia. Next up: Studio 338, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Matt Jam Lamont is a garage and house artist based in United Kingdom, tracked on
 
 MC DT, MC CKP, Scott Garcia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattjamlamont/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattjamlamont/)*

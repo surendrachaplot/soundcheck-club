@@ -1,6 +1,6 @@
 # DJoy
 
-DJoy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at De Vierde Zaal, Ghent on Sat, 26 Sept 2026.
+DJoy is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at De Vierde Zaal, Ghent on Sat, 26 Sept 2026.
 
 DJoy is a house and techno artist tracked on soundcheck, with 58 sets logged across Athens, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Bogus Trumper, VOE and sianza. Next up: De Vierde Zaal, Ghent on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ DJoy is a house and techno artist tracked on soundcheck, with 58 sets logged acr
 
 Bogus Trumper, VOE, sianza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*

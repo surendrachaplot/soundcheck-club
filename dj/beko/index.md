@@ -1,6 +1,6 @@
 # Bekø
 
-Bekø is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Atno, Budapest on Sat, 12 Sept 2026.
+Bekø is a House and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Atno, Budapest on Sat, 12 Sept 2026.
 
 Bekø is a house and dub techno artist tracked on soundcheck, with 14 sets logged across Budapest. Often billed alongside Arash Ete, Garpo and Hanussen. Next up: Atno, Budapest on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bekø is a house and dub techno artist tracked on soundcheck, with 14 sets logge
 
 Arash Ete, Garpo, Hanussen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beko/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beko/)*

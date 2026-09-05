@@ -1,6 +1,6 @@
 # MEERA (UK)
 
-MEERA (UK) is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Amsterdamse Bos, Amsterdam on Sat, 5 Sept 2026.
+MEERA (UK) is a Afro House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Amsterdamse Bos, Amsterdam on Sat, 5 Sept 2026.
 
 MEERA (UK) is an afro house and house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, London and Munster. Often billed alongside Picep, Simon Alfred and Bradley Skeng. Next up: Amsterdamse Bos, Amsterdam on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ MEERA (UK) is an afro house and house artist based in United Kingdom, tracked on
 
 Picep, Simon Alfred, Bradley Skeng
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meerauk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meerauk/)*

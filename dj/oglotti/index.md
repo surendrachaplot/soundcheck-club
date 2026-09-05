@@ -1,6 +1,6 @@
 # OG Lotti
 
-OG Lotti is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Elysia, Basel on Sat, 12 Sept 2026.
+OG Lotti is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Elysia, Basel on Sat, 12 Sept 2026.
 
 OG Lotti is a techno and trance artist tracked on soundcheck, with 14 sets logged across Basel and Zurich. Often billed alongside Twenny5, kso12 and AEREA. Next up: Elysia, Basel on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ OG Lotti is a techno and trance artist tracked on soundcheck, with 14 sets logge
 
 Twenny5, kso12, AEREA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oglotti/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oglotti/)*

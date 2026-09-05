@@ -1,6 +1,6 @@
 # Lynta
 
-Lynta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Club Metro, Kyoto on Sat, 12 Sept 2026.
+Lynta is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Club Metro, Kyoto on Sat, 12 Sept 2026.
 
 Lynta is a techno and house artist based in Japan, tracked on soundcheck, with 43 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Yui (JP), tnseei and Kurea. Next up: Club Metro, Kyoto on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Lynta is a techno and house artist based in Japan, tracked on soundcheck, with 4
 
 Yui (JP), tnseei, Kurea
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lynta/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lynta/)*

@@ -1,6 +1,6 @@
 # Agem
 
-Agem is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
+Agem is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Berlin on Fri, 25 Sept 2026.
 
 Agem is a drum & bass and techno artist based in Czech Republic, tracked on soundcheck, with 47 sets logged across Berlin and Prague. Often billed alongside DJ Agem, Upzet and Hovercat. Next up: TBA, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Agem is a drum & bass and techno artist based in Czech Republic, tracked on soun
 
 DJ Agem, Upzet, Hovercat
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agem/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agem/)*

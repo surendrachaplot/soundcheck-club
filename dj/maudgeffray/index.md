@@ -1,6 +1,6 @@
 # Maud Geffray
 
-Maud Geffray is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mia Mao, Paris on Fri, 18 Sept 2026.
+Maud Geffray is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mia Mao, Paris on Fri, 18 Sept 2026.
 
 Maud Geffray is a techno and electro artist tracked on soundcheck, with 13 sets logged across Geneva, Lyon, Marseille and Paris. Often billed alongside RAG, Alex Nantaya and Anja Schneider. Next up: Mia Mao, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Maud Geffray is a techno and electro artist tracked on soundcheck, with 13 sets 
 
 RAG, Alex Nantaya, Anja Schneider
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maudgeffray/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maudgeffray/)*

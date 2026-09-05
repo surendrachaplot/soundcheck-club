@@ -1,6 +1,6 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 5 Sept 2026.
+Sonja Moonear is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 5 Sept 2026.
 
 Sonja Moonear is a house and techno artist tracked on soundcheck, with 189 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: Seaseaclub Barcelona, Barcelona on Sat 5 Sept.
 
@@ -32,4 +32,4 @@ Sonja Moonear is a house and techno artist tracked on soundcheck, with 189 sets 
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

@@ -1,6 +1,6 @@
 # MACKINLAY
 
-MACKINLAY is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
+MACKINLAY is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
 
 MACKINLAY is a tech house and techno artist tracked on soundcheck, with 23 sets logged across Barcelona. Often billed alongside Rafa Aleman, ATMEN and Mindlancholic. Next up: Port Olimpic, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ MACKINLAY is a tech house and techno artist tracked on soundcheck, with 23 sets 
 
 Rafa Aleman, ATMEN, Mindlancholic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mackinlay/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mackinlay/)*

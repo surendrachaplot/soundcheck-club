@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
+Rhadoo is a Minimal and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
 
 Rhadoo is a minimal and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: DC-10, Ibiza on Mon 7 Sept.
 
@@ -29,4 +29,4 @@ Rhadoo is a minimal and house artist tracked on soundcheck, with 177 sets logged
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

@@ -1,6 +1,6 @@
 # Ijver
 
-Ijver is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "De Binnenstad x TNT Records" on Thu, 22 Oct 2026.
+Ijver is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "De Binnenstad x TNT Records" on Thu, 22 Oct 2026.
 
 Ijver is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including ANNASNEL, Anz, Baron Von Trax and Brent Honey and 2 more. Browse upcoming dates, start times and who's playing. Scheepsbouwkade 72, 1033 WM Amsterdam.
 
@@ -19,4 +19,4 @@ Ijver is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, wit
 
 Scheepsbouwkade 72, 1033 WM Amsterdam, Amsterdam
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijver/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijver/)*

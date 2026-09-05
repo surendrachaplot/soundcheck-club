@@ -1,6 +1,6 @@
 # Spin
 
-Spin is a music venue in San Diego with 16 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "FNGRS CRSSD x knownunknown present Partiboi69" on Fri, 4 Sept 2026.
+Spin is a music venue in San Diego with 16 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "LED presents Distant Matter" on Sat, 5 Sept 2026.
 
 Spin is a music venue in Sandiego listed on soundcheck. 16 upcoming nights, with line-ups including 6 SENSE, aali, Apache and BAUGRUPPE90 and 2 more. Browse upcoming dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
@@ -8,11 +8,11 @@ Spin is a music venue in Sandiego listed on soundcheck. 16 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | FNGRS CRSSD x knownunknown present Partiboi69 | Partiboi69 |
 | Sat, 5 Sept 2026 | LED presents Distant Matter |  |
 | Sat, 5 Sept 2026 | FNGRS CRSSD presents Le Youth [After Party] | Le Youth |
 | Sun, 6 Sept 2026 | GG & Friends |  |
 | Fri, 11 Sept 2026 | SD Union with Delta Heavy | Delta Heavy, MC Ridda |
+| Sat, 12 Sept 2026 | Road to OTG: Justin Martin | DJ IDeaL, Justin Martin, MNTRA, TCHiLT |
 | Thu, 17 Sept 2026 | RISE: Trance Thursday Nightclub - Last Light, Mo0n Biscuits, Kailey Grace |  |
 | Thu, 17 Sept 2026 | Headroom Listening Sessions: San Diego |  |
 | Sat, 19 Sept 2026 | WONDERGATE presents: Sainte Vie | Sainte Vie, aali |
@@ -23,4 +23,4 @@ Spin is a music venue in Sandiego listed on soundcheck. 16 upcoming nights, with
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

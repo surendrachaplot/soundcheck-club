@@ -1,6 +1,6 @@
 # SEXMP3, JIYNX, MAXXX, PARTEHARDY at The Jama
 
-SEXMP3, JIYNX, MAXXX, PARTEHARDY at The Jama on Fri 18 Sept, Toronto. 3 acts on the bill: JIYNX, Maxxxxxx and SEXMP3. Techno and Club. Preview the line-up and save it on soundcheck.
+SEXMP3, JIYNX, MAXXX, PARTEHARDY at The Jama on Fri 18 Sept, Toronto. 3 acts on the bill: JIYNX, Maxxxxxx and SEXMP3. Techno and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

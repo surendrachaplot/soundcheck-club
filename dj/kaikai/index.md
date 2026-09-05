@@ -1,8 +1,8 @@
 # KAIKAI
 
-KAIKAI is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Débris, Tokyo on Sat, 5 Sept 2026.
+KAIKAI is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Débris, Tokyo on Sat, 5 Sept 2026.
 
-KAIKAI is a house and techno artist based in Japan, tracked on soundcheck, with 29 sets logged across Bali, Sanfrancisco, Sydney and Tokyo. Often billed alongside SIGNAL (JP), ALEXANDER M and DJ Yogurt. Next up: Débris, Tokyo on Sat 5 Sept.
+KAIKAI is a house and techno artist based in Japan, tracked on soundcheck, with 30 sets logged across Bali, Sanfrancisco, Sydney and Tokyo. Often billed alongside SIGNAL (JP), ALEXANDER M and DJ Yogurt. Next up: Débris, Tokyo on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KAIKAI is a house and techno artist based in Japan, tracked on soundcheck, with 
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Débris | Tokyo |
 | Mon, 7 Sept 2026 | Royal Lounge | Tokyo |
+| Wed, 16 Sept 2026 | Azumaya | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ KAIKAI is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 SIGNAL (JP), ALEXANDER M, DJ Yogurt
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikai/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikai/)*

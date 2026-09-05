@@ -1,8 +1,8 @@
 # Gabi Fischer
 
-Gabi Fischer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Central 1926, Sao Paulo on Sat, 5 Sept 2026.
+Gabi Fischer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Central 1926, Sao Paulo on Sat, 5 Sept 2026.
 
-Gabi Fischer is a house and techno artist based in Brazil, tracked on soundcheck, with 28 sets logged across Berlin and Saopaulo. Often billed alongside PR.A.DO, Dj Melted and Kair. Next up: Central 1926, Saopaulo on Sat 5 Sept.
+Gabi Fischer is a house and techno artist based in Brazil, tracked on soundcheck, with 29 sets logged across Berlin and Saopaulo. Often billed alongside PR.A.DO, Dj Melted and Kair. Next up: Central 1926, Saopaulo on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Gabi Fischer is a house and techno artist based in Brazil, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Central 1926 | Sao Paulo |
 | Sun, 6 Sept 2026 | Edifício Martinelli | Sao Paulo |
+| Sun, 20 Sept 2026 | D-EDGE | Sao Paulo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Gabi Fischer is a house and techno artist based in Brazil, tracked on soundcheck
 
 PR.A.DO, Dj Melted, Kair
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabifischer/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabifischer/)*

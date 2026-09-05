@@ -1,6 +1,6 @@
 # HAIVAI B
 
-HAIVAI B is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Club Magno, Madrid on Thu, 10 Sept 2026.
+HAIVAI B is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Club Magno, Madrid on Thu, 10 Sept 2026.
 
 HAIVAI B is a hip-hop and r&b artist tracked on soundcheck, with 21 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 10 more. Often billed alongside Diego Armando, Yosef (ES) and BZZHOUND. Next up: Club Magno, Madrid on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ HAIVAI B is a hip-hop and r&b artist tracked on soundcheck, with 21 sets logged 
 
 Diego Armando, Yosef (ES), BZZHOUND
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haivaib/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haivaib/)*

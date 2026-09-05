@@ -1,6 +1,6 @@
 # Intaktogene
 
-Intaktogene is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
+Intaktogene is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
 
 Intaktogene is a techno and house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Buenosaires and Dusseldorf and 5 more. Often billed alongside Till Antonio, Michael Ritter and Teenage Mutants. Next up: Jonny Knüppel, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Intaktogene is a techno and house artist tracked on soundcheck, with 67 sets log
 
 Till Antonio, Michael Ritter, Teenage Mutants
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/intaktogene/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/intaktogene/)*

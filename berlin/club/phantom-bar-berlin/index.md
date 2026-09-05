@@ -1,6 +1,6 @@
 # Phantom Bar Berlin
 
-Phantom Bar Berlin is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "CUNTCORE with Alma Negrot, Dj handbag, Lady $uka more" on Sat, 5 Sept 2026.
+Phantom Bar Berlin is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "CUNTCORE with Alma Negrot, Dj handbag, Lady $uka more" on Sat, 5 Sept 2026.
 
 Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including Alma Negrot, Berlin Bunny, clay (DE) and DAIYAH and 2 more. Browse upcoming dates, start times and who's playing. Torstraße 231, 10115 Berlin Germany.
 
@@ -19,4 +19,4 @@ Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming n
 
 Torstraße 231, 10115 Berlin Germany, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/phantom-bar-berlin/)*

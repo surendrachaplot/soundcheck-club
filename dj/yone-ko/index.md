@@ -1,6 +1,6 @@
 # Yone-Ko
 
-Yone-Ko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Platforma Wolff, Bucharest on Sat, 26 Sept 2026.
+Yone-Ko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Platforma Wolff, Bucharest on Sat, 26 Sept 2026.
 
 Yone-Ko is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Bucharest and Warsaw. Often billed alongside Timur Basha, Shakolin and Karine. Next up: Platforma Wolff, Bucharest on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Yone-Ko is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Timur Basha, Shakolin, Karine
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yone-ko/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yone-ko/)*

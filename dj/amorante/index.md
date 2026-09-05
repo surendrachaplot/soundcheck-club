@@ -1,6 +1,6 @@
 # Amor Ante
 
-Amor Ante is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at AMT, Berlin on Fri, 18 Sept 2026.
+Amor Ante is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at AMT, Berlin on Fri, 18 Sept 2026.
 
 Amor Ante is a techno and electro artist tracked on soundcheck, with 30 sets logged across Berlin, Brighton, Bristol and London and 1 more. Often billed alongside Fvck Totvm, Phåro (2) and AKU (3). Next up: AMT, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Amor Ante is a techno and electro artist tracked on soundcheck, with 30 sets log
 
 Fvck Totvm, Phåro (2), AKU (3)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amorante/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amorante/)*

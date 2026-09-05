@@ -1,6 +1,6 @@
 # Celter
 
-Celter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Oath, Tokyo on Sat, 19 Sept 2026.
+Celter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Oath, Tokyo on Sat, 19 Sept 2026.
 
 Celter is a techno and house artist based in Japan, tracked on soundcheck, with 196 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Wada Yosuke, P-YAN and DJ Shibata. Next up: Oath, Tokyo on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Celter is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Wada Yosuke, P-YAN, DJ Shibata
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/celter-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/celter-2/)*

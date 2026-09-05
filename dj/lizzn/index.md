@@ -1,6 +1,6 @@
 # LIZZN
 
-LIZZN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Klunkerkranich, Berlin on Fri, 11 Sept 2026.
+LIZZN is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Klunkerkranich, Berlin on Fri, 11 Sept 2026.
 
 LIZZN is a house and techno artist tracked on soundcheck, with 79 sets logged across Berlin, Brussels, Cologne and Copenhagen and 5 more. Often billed alongside Ana Cover, Ligal Tamir and justUS. Next up: Klunkerkranich, Berlin on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ LIZZN is a house and techno artist tracked on soundcheck, with 79 sets logged ac
 
 Ana Cover, Ligal Tamir, justUS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzn/)*

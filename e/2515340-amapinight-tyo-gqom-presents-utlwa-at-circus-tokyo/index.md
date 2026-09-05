@@ -1,6 +1,6 @@
 # amapinight × TYO GQOM presents 'UTLWA!' at Circus Tokyo
 
-amapinight × TYO GQOM presents 'UTLWA!' at Circus Tokyo on Sat 5 Sept, Tokyo. 5 acts on the bill: HW BINGO, K8 (TYO GQOM), mitokon and TAKENOKO and 1 more. Gqom and Amapiano. Preview the line-up and save it on soundcheck.
+amapinight × TYO GQOM presents 'UTLWA!' at Circus Tokyo on Sat 5 Sept, Tokyo. 6 acts on the bill: HW BINGO, K8 (TYO GQOM), mitokon and Samrok and 2 more. Gqom and Amapiano. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ amapinight × TYO GQOM presents 'UTLWA!' at Circus Tokyo on Sat 5 Sept, Tokyo. 5
 - HW BINGO
 - K8 (TYO GQOM)
 - mitokon
+- Samrok
 - TAKENOKO
 - YUUGOH
 

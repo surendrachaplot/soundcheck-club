@@ -1,6 +1,6 @@
 # Edvvin
 
-Edvvin is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Fri, 18 Sept 2026.
+Edvvin is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Jasna 1, Warsaw on Fri, 18 Sept 2026.
 
 Edvvin is a techno and breakbeat artist based in Poland, tracked on soundcheck, with 68 sets logged across Berlin, Budapest, Krakow and Warsaw. Often billed alongside Buchan, MATRIX3K and DJNIEMUSIAŁ. Next up: Jasna 1, Warsaw on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Edvvin is a techno and breakbeat artist based in Poland, tracked on soundcheck, 
 
 Buchan, MATRIX3K, DJNIEMUSIAŁ
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edvvin/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edvvin/)*

@@ -1,6 +1,6 @@
 # Nicki Black
 
-Nicki Black is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at DOCK B, Paris on Sat, 5 Sept 2026.
+Nicki Black is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at DOCK B, Paris on Sat, 5 Sept 2026.
 
 Nicki Black is an industrial and techno artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Paris. Often billed alongside Fluid, hybral and Mogano. Next up: DOCK B, Paris on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Nicki Black is an industrial and techno artist based in Germany, tracked on soun
 
 Fluid, hybral, Mogano
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickiblack/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickiblack/)*

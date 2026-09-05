@@ -1,6 +1,6 @@
 # AXR x Colette + CNTRL Pres. Olga Korol, Ferg, Brennan at Distrikt
 
-AXR x Colette + CNTRL Pres. Olga Korol, Ferg, Brennan at Distrikt on Sat 5 Sept, Leeds. 5 acts on the bill: Brennan, Ferg, Mica (UK) and Olga Korol and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
+AXR x Colette + CNTRL Pres. Olga Korol, Ferg, Brennan at Distrikt on Sat 5 Sept, Leeds. 6 acts on the bill: Brennan, Faraz (UK), Ferg and Mica (UK) and 2 more. House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ AXR x Colette + CNTRL Pres. Olga Korol, Ferg, Brennan at Distrikt on Sat 5 Sept,
 ## Line-up
 
 - Brennan
+- Faraz (UK)
 - Ferg
 - Mica (UK)
 - Olga Korol

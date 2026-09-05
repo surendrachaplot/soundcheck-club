@@ -1,13 +1,14 @@
 # DJ SWISHA
 
-DJ SWISHA is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Trans-Pecos, New York City on Sat, 12 Sept 2026.
+DJ SWISHA is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Middlesex, Boston on Thu, 10 Sept 2026.
 
-DJ SWISHA is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Trans-Pecos, Newyorkcity on Sat 12 Sept.
+DJ SWISHA is a techno and house artist tracked on soundcheck, with 198 sets logged across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Middlesex, Boston on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Middlesex | Boston |
 | Sat, 12 Sept 2026 | Trans-Pecos | New York City |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
@@ -33,4 +34,4 @@ DJ SWISHA is a techno and house artist tracked on soundcheck, with 197 sets logg
 
 Kush Jones, AceMo, MoMA Ready
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*

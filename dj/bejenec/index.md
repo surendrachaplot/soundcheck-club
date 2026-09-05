@@ -1,6 +1,6 @@
 # Bejenec
 
-Bejenec is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 17 Sept 2026.
+Bejenec is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Sunseabar Beach Club, Barcelona on Thu, 17 Sept 2026.
 
 Bejenec is a techno and trance artist tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Krakow and Lisbon and 4 more. Often billed alongside Koloah, AEROBIICA and Afem Syko. Next up: Sunseabar Beach Club, Barcelona on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Bejenec is a techno and trance artist tracked on soundcheck, with 30 sets logged
 
 Koloah, AEROBIICA, Afem Syko
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bejenec/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bejenec/)*

@@ -1,6 +1,6 @@
 # Samuel Rees
 
-Samuel Rees is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
+Samuel Rees is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 5 Sept 2026.
 
 Samuel Rees is a techno and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Copenhagen. Often billed alongside Nizzy, Niko Nuevo and Lewis Hunter. Next up: Den Anden Side, Copenhagen on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Samuel Rees is a techno and house artist based in United Kingdom, tracked on sou
 
 Nizzy, Niko Nuevo, Lewis Hunter
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelrees/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelrees/)*

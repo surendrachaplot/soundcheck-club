@@ -1,6 +1,6 @@
 # RAR
 
-RAR is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+RAR is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
 RAR is a techno and acid artist based in Serbia, tracked on soundcheck, with 27 sets logged across Belgrade. Often billed alongside ACOR, laccotti and Asarri. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ RAR is a techno and acid artist based in Serbia, tracked on soundcheck, with 27 
 
 ACOR, laccotti, Asarri
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rar/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rar/)*

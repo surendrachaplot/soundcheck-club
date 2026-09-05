@@ -1,6 +1,6 @@
 # DJ STRANGELOVE
 
-DJ STRANGELOVE is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Cirque Romanes Tzigane, Paris on Sat, 26 Sept 2026.
+DJ STRANGELOVE is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Cirque Romanes Tzigane, Paris on Sat, 26 Sept 2026.
 
 DJ STRANGELOVE is a deep house and minimal artist tracked on soundcheck, with 14 sets logged across Berlin, Bucharest, Lisbon and Mexicocity and 2 more. Often billed alongside Antilope, EVGHENIIA and YokoO. Next up: TBA - Cirque Romanes Tzigane, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ STRANGELOVE is a deep house and minimal artist tracked on soundcheck, with 14
 
 Antilope, EVGHENIIA, YokoO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrangelove/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrangelove/)*

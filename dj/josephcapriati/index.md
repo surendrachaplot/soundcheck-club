@@ -1,6 +1,6 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Madrid Caja Mágica, Madrid on Sat, 5 Sept 2026.
+Joseph Capriati is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Madrid Caja Mágica, Madrid on Sat, 5 Sept 2026.
 
 Joseph Capriati is a techno and house artist tracked on soundcheck, with 220 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Madrid Caja Mágica, Madrid on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Joseph Capriati is a techno and house artist tracked on soundcheck, with 220 set
 
 Jamie Jones, Indira Paganotto, Dennis Cruz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

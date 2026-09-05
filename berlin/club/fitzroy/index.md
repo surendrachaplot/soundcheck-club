@@ -1,6 +1,6 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "TANGA 3RD ANNIVERSARY" on Fri, 11 Sept 2026.
+Fitzroy is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "TANGA 3RD ANNIVERSARY" on Fri, 11 Sept 2026.
 
 Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 3Hertz, 5RVZ, Akua and ALP (DE) and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming nights, wit
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

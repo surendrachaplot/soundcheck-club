@@ -1,6 +1,6 @@
 # FA999
 
-FA999 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at MODULE, Copenhagen on Fri, 18 Sept 2026.
+FA999 is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at MODULE, Copenhagen on Fri, 18 Sept 2026.
 
 FA999 is a techno and trance artist based in Denmark, tracked on soundcheck, with 5 sets logged across Copenhagen. Often billed alongside Bestrawa, Emma Priis and KAMIKAZEM. Next up: MODULE, Copenhagen on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ FA999 is a techno and trance artist based in Denmark, tracked on soundcheck, wit
 
 Bestrawa, Emma Priis, KAMIKAZEM
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fa999/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fa999/)*

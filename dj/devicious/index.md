@@ -1,6 +1,6 @@
 # Devicious
 
-Devicious is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bridge 48, Barcelona on Thu, 17 Sept 2026.
+Devicious is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bridge 48, Barcelona on Thu, 17 Sept 2026.
 
 Devicious is a tech house and house artist tracked on soundcheck, with 68 sets logged across Barcelona. Often billed alongside DIROS, Vidaloca and Armand Carrion. Next up: Bridge 48, Barcelona on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Devicious is a tech house and house artist tracked on soundcheck, with 68 sets l
 
 DIROS, Vidaloca, Armand Carrion
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devicious/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/devicious/)*

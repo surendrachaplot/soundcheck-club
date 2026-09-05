@@ -1,6 +1,6 @@
 # Tanaka
 
-Tanaka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at ZUBAR, Tokyo on Sat, 12 Sept 2026.
+Tanaka is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at ZUBAR, Tokyo on Sat, 12 Sept 2026.
 
 Tanaka is a house and techno artist tracked on soundcheck, with 27 sets logged across Bristol and Tokyo. Often billed alongside SIGNAL (JP), Chika Luna and LogicBeat. Next up: ZUBAR, Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Tanaka is a house and techno artist tracked on soundcheck, with 27 sets logged a
 
 SIGNAL (JP), Chika Luna, LogicBeat
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanaka/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tanaka/)*

@@ -1,6 +1,6 @@
 # Callèn
 
-Callèn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 12 Sept 2026.
+Callèn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 12 Sept 2026.
 
 Callèn is a techno and house artist tracked on soundcheck, with 6 sets logged across Losangeles and Strasbourg. Often billed alongside A Strange Wedding, Andy Garvey and Audrey Danza. Next up: Karmen Camina, Strasbourg on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Callèn is a techno and house artist tracked on soundcheck, with 6 sets logged a
 
 A Strange Wedding, Andy Garvey, Audrey Danza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callen/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callen/)*

@@ -1,6 +1,6 @@
 # YOZÉ
 
-YOZÉ is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Culture Box, Copenhagen on Sat, 10 Oct 2026.
+YOZÉ is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Culture Box, Copenhagen on Sat, 10 Oct 2026.
 
 YOZÉ is a techno and trance artist based in Turkey, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 1 more. Often billed alongside Rob Robsen, GHOST DE and Førehand. Next up: Culture Box, Copenhagen on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ YOZÉ is a techno and trance artist based in Turkey, tracked on soundcheck, with
 
 Rob Robsen, GHOST DE, Førehand
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoze/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yoze/)*

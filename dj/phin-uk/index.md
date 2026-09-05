@@ -1,6 +1,6 @@
 # Phin (UK)
 
-Phin (UK) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
+Phin (UK) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at fabric, London on Sat, 5 Sept 2026.
 
 Phin (UK) is a house and techno artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Oolong, ATST and Adam Pits. Next up: fabric, London on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Phin (UK) is a house and techno artist tracked on soundcheck, with 6 sets logged
 
 Oolong, ATST, Adam Pits
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phin-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phin-uk/)*

@@ -1,6 +1,6 @@
 # The Prince Consort
 
-The Prince Consort is a music venue in Brisbane with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Chris Luno — Brisbane 2026" on Fri, 2 Oct 2026.
+The Prince Consort is a music venue in Brisbane with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Chris Luno — Brisbane 2026" on Fri, 2 Oct 2026.
 
 The Prince Consort is a music venue in Brisbane listed on soundcheck. 3 upcoming nights, with line-ups including Alan Fitzpatrick, Chris Luno, LF SYSTEM and SF Fudge. Browse upcoming dates, start times and who's playing. 230 Wickham St, Fortitude Valley QLD 4006.
 
@@ -16,4 +16,4 @@ The Prince Consort is a music venue in Brisbane listed on soundcheck. 3 upcoming
 
 230 Wickham St, Fortitude Valley QLD 4006, Brisbane
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-prince-consort/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-prince-consort/)*

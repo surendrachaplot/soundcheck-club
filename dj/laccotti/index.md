@@ -1,6 +1,6 @@
 # laccotti
 
-laccotti is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 19 Sept 2026.
+laccotti is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Drugstore Beograd, Belgrade on Sat, 19 Sept 2026.
 
 laccotti is a techno and industrial artist based in Serbia, tracked on soundcheck, with 16 sets logged across Belgrade. Often billed alongside Stameni, ACOR and Asarri. Next up: Drugstore Beograd, Belgrade on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ laccotti is a techno and industrial artist based in Serbia, tracked on soundchec
 
 Stameni, ACOR, Asarri
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laccotti/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laccotti/)*

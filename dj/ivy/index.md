@@ -1,6 +1,6 @@
 # Ivy
 
-Ivy is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Ivy is a Club and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Ivy is a club and electronica artist based in United States of America, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Bristol and Buenosaires and 9 more. Often billed alongside Freda, KAMIKAZE and Mefjus. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Ivy is a club and electronica artist based in United States of America, tracked 
 
 Freda, KAMIKAZE, Mefjus
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivy/)*

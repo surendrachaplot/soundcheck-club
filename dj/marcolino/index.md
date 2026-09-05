@@ -1,6 +1,6 @@
 # Marcolino
 
-Marcolino is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hoppetosse, Berlin on Fri, 4 Sept 2026.
+Marcolino is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hoppetosse, Berlin on Fri, 4 Sept 2026.
 
 Marcolino is a techno and electro artist tracked on soundcheck, with 84 sets logged across Barcelona, Berlin, Bucharest and Madrid and 7 more. Often billed alongside GNMR, IRIDE and Giammarco Orsini. Next up: Hoppetosse, Berlin on Fri 4 Sept.
 
@@ -13,6 +13,7 @@ Marcolino is a techno and electro artist tracked on soundcheck, with 84 sets log
 
 ## Recently played
 
+- Hoppetosse, Berlin — Fri, 4 Sept 2026
 - Hotel Butterfly, Rome — Thu, 6 Aug 2026
 - Hotel Butterfly, Rome — Thu, 16 Jul 2026
 - Hotel Butterfly, Rome — Thu, 25 Jun 2026
@@ -20,10 +21,9 @@ Marcolino is a techno and electro artist tracked on soundcheck, with 84 sets log
 - TBA, Naples — Fri, 19 Jun 2026
 - Hotel Butterfly, Rome — Thu, 11 Jun 2026
 - Hotel Butterfly, Rome — Thu, 28 May 2026
-- Soap House - Ex Saponerie Mira Lanza, Rome — Fri, 15 May 2026
 
 ## Shares bills with
 
 GNMR, IRIDE, Giammarco Orsini
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolino/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolino/)*

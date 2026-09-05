@@ -1,6 +1,6 @@
 # LIEKS
 
-LIEKS is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Strantwerpen, Antwerp on Sat, 5 Sept 2026.
+LIEKS is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Strantwerpen, Antwerp on Sat, 5 Sept 2026.
 
 LIEKS is a techno and industrial artist tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Cologne and Ghent and 8 more. Often billed alongside BLNK, TiTi and BØĘRY. Next up: Strantwerpen, Antwerp on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ LIEKS is a techno and industrial artist tracked on soundcheck, with 27 sets logg
 
 BLNK, TiTi, BØĘRY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lieks-ams/)*

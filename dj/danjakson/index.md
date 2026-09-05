@@ -1,6 +1,6 @@
 # Dan Jakson
 
-Dan Jakson is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Mash House, Edinburgh on Thu, 17 Sept 2026.
+Dan Jakson is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Mash House, Edinburgh on Thu, 17 Sept 2026.
 
 Dan Jakson is an electronic artist tracked on soundcheck, with 5 sets logged across Edinburgh. Often billed alongside ROXAN (UK), Rònan White and SINN3R. Next up: The Mash House, Edinburgh on Thu 17 Sept.
 
@@ -21,4 +21,4 @@ Dan Jakson is an electronic artist tracked on soundcheck, with 5 sets logged acr
 
 ROXAN (UK), Rònan White, SINN3R
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danjakson/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danjakson/)*

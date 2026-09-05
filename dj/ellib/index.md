@@ -1,6 +1,6 @@
 # ELLI B
 
-ELLI B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Schiffsanlegestelle Uber Arena, Berlin on Sat, 19 Sept 2026.
+ELLI B is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Schiffsanlegestelle Uber Arena, Berlin on Sat, 19 Sept 2026.
 
 ELLI B is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside fatmuska, DJ Luiser and DJ Purpur. Next up: Schiffsanlegestelle Uber Arena, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ ELLI B is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 fatmuska, DJ Luiser, DJ Purpur
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellib/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellib/)*

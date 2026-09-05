@@ -1,6 +1,6 @@
 # Mercorn
 
-Mercorn is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 2 Oct 2026.
+Mercorn is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Yamamori Tengu, Dublin on Fri, 2 Oct 2026.
 
 Mercorn is a house and trance artist based in Ireland, tracked on soundcheck, with 42 sets logged across Belfast, Berlin, Cork and Dublin and 3 more. Often billed alongside Bull Horris, Cáit and Gary (3). Next up: Yamamori Tengu, Dublin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Mercorn is a house and trance artist based in Ireland, tracked on soundcheck, wi
 
 Bull Horris, Cáit, Gary (3)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mercorn/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mercorn/)*

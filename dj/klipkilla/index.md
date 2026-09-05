@@ -1,6 +1,6 @@
 # KLIPKILLA
 
-KLIPKILLA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paragon, New York City on Mon, 7 Sept 2026.
+KLIPKILLA is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Paragon, New York City on Mon, 7 Sept 2026.
 
 KLIPKILLA is a club and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across Leeds, London and Newyorkcity. Often billed alongside Talia Goddess, Chinnamasta and ARKNGL. Next up: Paragon, Newyorkcity on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ KLIPKILLA is a club and techno artist based in United States of America, tracked
 
 Talia Goddess, Chinnamasta, ARKNGL
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klipkilla/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klipkilla/)*

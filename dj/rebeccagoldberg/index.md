@@ -1,6 +1,6 @@
 # Rebecca Goldberg
 
-Rebecca Goldberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+Rebecca Goldberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
 Rebecca Goldberg is a techno and house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Athens, Berlin, Chicago and Detroit and 6 more. Often billed alongside 2Lanes, Ataxia and Bruce Bailey. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Rebecca Goldberg is a techno and house artist based in United States of America,
 
 2Lanes, Ataxia, Bruce Bailey
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccagoldberg/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccagoldberg/)*

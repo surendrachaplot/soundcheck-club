@@ -1,6 +1,6 @@
 # Resom
 
-Resom is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
+Resom is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
 
 Resom is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Bangkok, Berlin and Hamburg and 6 more. Often billed alongside .VRIL, ATEQ and Boyá. Next up: Südpol, Hamburg on Fri 4 Sept.
 
@@ -13,6 +13,7 @@ Resom is a techno and house artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
+- Südpol, Hamburg — Fri, 4 Sept 2026
 - Bassiani, Tbilisi — Fri, 16 Jan 2026
 - Südpol, Hamburg — Thu, 2 Oct 2025
 - Bijhuub, Amsterdam — Sat, 14 Jun 2025
@@ -20,10 +21,9 @@ Resom is a techno and house artist based in Germany, tracked on soundcheck, with
 - Conne Island, Leipzig — Fri, 14 Mar 2025
 - Institut fuer Zukunft (IfZ), Leipzig — Wed, 1 Jan 2025
 - Bassiani, Tbilisi — Fri, 4 Oct 2024
-- ://about blank, Berlin — Sat, 28 Sept 2024
 
 ## Shares bills with
 
 .VRIL, ATEQ, Boyá
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resom/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/resom/)*

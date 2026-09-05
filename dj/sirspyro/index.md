@@ -1,6 +1,6 @@
 # Sir Spyro
 
-Sir Spyro is a Grime and Dubstep artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
+Sir Spyro is a Grime and Dubstep artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hidden, Manchester on Thu, 24 Sept 2026.
 
 Sir Spyro is a grime and dubstep artist tracked on soundcheck, with 73 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 14 more. Often billed alongside Footsie, Kahn and D Double E. Next up: Hidden, Manchester on Thu 24 Sept.
 
@@ -30,4 +30,4 @@ Sir Spyro is a grime and dubstep artist tracked on soundcheck, with 73 sets logg
 
 Footsie, Kahn, D Double E
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*

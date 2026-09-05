@@ -1,6 +1,6 @@
 # HannahLuyah
 
-HannahLuyah is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Freedonia, Barcelona on Fri, 11 Sept 2026.
+HannahLuyah is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Freedonia, Barcelona on Fri, 11 Sept 2026.
 
 HannahLuyah is a house and disco artist based in United States of America, tracked on soundcheck, with 53 sets logged across Barcelona and London. Often billed alongside Better Late, Hanakito and Simon Boulind. Next up: Freedonia, Barcelona on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ HannahLuyah is a house and disco artist based in United States of America, track
 
 Better Late, Hanakito, Simon Boulind
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahluyah/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahluyah/)*

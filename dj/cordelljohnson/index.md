@@ -1,6 +1,6 @@
 # Cordell Johnson
 
-Cordell Johnson is a Deep House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA -  45th Lake Shore Drive, Chicago on Sat, 5 Sept 2026.
+Cordell Johnson is a Deep House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA -  45th Lake Shore Drive, Chicago on Sat, 5 Sept 2026.
 
 Cordell Johnson is a deep house and disco artist tracked on soundcheck, with 90 sets logged across Amsterdam, Chicago, Detroit and Lisbon and 2 more. Often billed alongside James Vincent, Lorenzo Dewberry and CTRLZORA. Next up: TBA -  45th Lake Shore Drive, Chicago on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Cordell Johnson is a deep house and disco artist tracked on soundcheck, with 90 
 
 James Vincent, Lorenzo Dewberry, CTRLZORA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cordelljohnson/)*

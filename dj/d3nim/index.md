@@ -1,6 +1,6 @@
 # D3NIM
 
-D3NIM is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 3 Oct 2026.
+D3NIM is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 3 Oct 2026.
 
 D3NIM is a club and footwork artist based in United States of America, tracked on soundcheck, with 25 sets logged across London, Miami, Newyorkcity and Sandiego. Often billed alongside Tice Cin, JEAN-PIERRE and Avenhue. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ D3NIM is a club and footwork artist based in United States of America, tracked o
 
 Tice Cin, JEAN-PIERRE, Avenhue
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d3nim/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/d3nim/)*

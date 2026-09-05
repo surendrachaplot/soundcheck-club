@@ -1,6 +1,6 @@
 # Juan Neira
 
-Juan Neira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 18 Sept 2026.
+Juan Neira is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 18 Sept 2026.
 
 Juan Neira is a house and techno artist based in Uruguay, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Jogo, Freigeist and Flor Coto. Next up: Bulbul Berlin, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Juan Neira is a house and techno artist based in Uruguay, tracked on soundcheck,
 
 Jogo, Freigeist, Flor Coto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanneira/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanneira/)*

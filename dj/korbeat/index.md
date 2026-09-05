@@ -1,6 +1,6 @@
 # KORBEAT
 
-KORBEAT is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 12 Sept 2026.
+KORBEAT is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 12 Sept 2026.
 
 KORBEAT is a techno and experimental artist based in Colombia, tracked on soundcheck, with 6 sets logged across Newyorkcity. Often billed alongside Buzzi, Secret Raver and Allen. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ KORBEAT is a techno and experimental artist based in Colombia, tracked on soundc
 
 Buzzi, Secret Raver, Allen
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korbeat/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/korbeat/)*

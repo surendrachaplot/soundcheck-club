@@ -1,6 +1,6 @@
 # La Nuit
 
-La Nuit is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Burrata x Ayahuasca: Chris Schwarzwälder & Madmotormiquel" on Fri, 2 Oct 2026.
+La Nuit is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Burrata x Ayahuasca: Chris Schwarzwälder & Madmotormiquel" on Fri, 2 Oct 2026.
 
 La Nuit is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including AxMod, Chris Schwarzwälder, Madmotormiquel and Mira and 1 more. Browse upcoming dates, start times and who's playing. 8 boulevard de la Madeleine 75009 Paris.
 
@@ -15,4 +15,4 @@ La Nuit is a music venue in Paris listed on soundcheck. 2 upcoming nights, with 
 
 8 boulevard de la Madeleine 75009 Paris, Paris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-nuit/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-nuit/)*

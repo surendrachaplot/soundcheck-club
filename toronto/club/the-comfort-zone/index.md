@@ -1,6 +1,6 @@
 # The Comfort Zone
 
-The Comfort Zone is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Come Get Your FCUK'IN Beats pres. Stacey Pullen" on Sun, 6 Sept 2026.
+The Comfort Zone is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Come Get Your FCUK'IN Beats pres. Stacey Pullen" on Sun, 6 Sept 2026.
 
 The Comfort Zone is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including KILL 9 1, Manzone & Strong, Stacey Pullen and Stefano Noferini and 1 more. Browse upcoming dates, start times and who's playing. 1369 Queen St. West.
 
@@ -17,4 +17,4 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 4 upcoming ni
 
 1369 Queen St. West, Toronto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*

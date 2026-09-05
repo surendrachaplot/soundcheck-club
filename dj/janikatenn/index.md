@@ -1,6 +1,6 @@
 # Janika Tenn
 
-Janika Tenn is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Basing House, London on Sat, 19 Sept 2026.
+Janika Tenn is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Basing House, London on Sat, 19 Sept 2026.
 
 Janika Tenn is a house and tech house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Ibiza, Liverpool and London and 2 more. Often billed alongside Todd Terry, Michael Moog and Steve Taylor. Next up: Basing House, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Janika Tenn is a house and tech house artist tracked on soundcheck, with 30 sets
 
 Todd Terry, Michael Moog, Steve Taylor
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janikatenn/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janikatenn/)*

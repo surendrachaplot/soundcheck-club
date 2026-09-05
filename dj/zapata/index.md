@@ -1,6 +1,6 @@
 # Zapata
 
-Zapata is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Open Ground, Wuppertal on Sat, 5 Sept 2026.
+Zapata is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Open Ground, Wuppertal on Sat, 5 Sept 2026.
 
 Zapata is a house and disco artist based in United States of America, tracked on soundcheck, with 30 sets logged across Berlin, London, Mexicocity and Wuppertal. Often billed alongside Nils Nilsson, Brink (US) and JVXTA. Next up: Open Ground, Wuppertal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Zapata is a house and disco artist based in United States of America, tracked on
 
 Nils Nilsson, Brink (US), JVXTA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zapata/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zapata/)*

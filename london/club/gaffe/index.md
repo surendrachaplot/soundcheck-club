@@ -1,6 +1,6 @@
 # Gaffe
 
-Gaffe is a music venue in London with 19 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "thumbprint 5 years ⋆ 𖤓 ⋆˚࿔ day to night, to day" on Sat, 5 Sept 2026.
+Gaffe is a music venue in London with 19 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "thumbprint 5 years ⋆ 𖤓 ⋆˚࿔ day to night, to day" on Sat, 5 Sept 2026.
 
 Gaffe is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including 1-800 GIRLS, 1BYAKKO, 3 Minds and Alien Communications and 2 more. Browse upcoming dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
@@ -16,11 +16,11 @@ Gaffe is a music venue in London listed on soundcheck. 19 upcoming nights, with 
 | Sun, 20 Sept 2026 | meanwhile... summer closing | ANNX, Fais Le Beau, Ludi, Oliver Scala, Wigs |
 | Fri, 25 Sept 2026 | Nachtlicker XI |  |
 | Sat, 26 Sept 2026 | Gaffe presents: A Summer Closing | Free Zing, Gwenan, Lottie (SI), Marius Bø, Sugar Free |
-| Fri, 2 Oct 2026 | Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 | Cassy, Kuba'97, Vladimir Ivkovic |
+| Fri, 2 Oct 2026 | Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 + After Party | Cassy, Kuba'97, Vladimir Ivkovic |
 | Fri, 9 Oct 2026 | Focal Point |  |
 
 ## Address
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

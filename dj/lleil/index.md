@@ -1,6 +1,6 @@
 # LLeiL
 
-LLeiL is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paloma, London on Sat, 12 Sept 2026.
+LLeiL is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Paloma, London on Sat, 12 Sept 2026.
 
 LLeiL is an afro house and tech house artist tracked on soundcheck, with 5 sets logged across London. Often billed alongside RETTILE, CLEIDO and InteliDey. Next up: Paloma, London on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ LLeiL is an afro house and tech house artist tracked on soundcheck, with 5 sets 
 
 RETTILE, CLEIDO, InteliDey
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lleil/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lleil/)*

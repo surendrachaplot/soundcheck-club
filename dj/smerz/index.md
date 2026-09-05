@@ -1,6 +1,6 @@
 # Smerz
 
-Smerz is a Pop and Electronica artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fonda Theatre, Los Angeles on Sun, 6 Sept 2026.
+Smerz is a Pop and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Fonda Theatre, Los Angeles on Sun, 6 Sept 2026.
 
 Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, with 43 sets logged across Austin, Berlin, Brisbane and Bristol and 25 more. Often billed alongside Valentina Magaletti, YHWH Nailgun and DjRUM. Next up: Fonda Theatre, Losangeles on Sun 6 Sept.
 
@@ -30,4 +30,4 @@ Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, wi
 
 Valentina Magaletti, YHWH Nailgun, DjRUM
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*

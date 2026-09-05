@@ -1,6 +1,6 @@
 # VILENA
 
-VILENA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 17 Sept 2026.
+VILENA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 17 Sept 2026.
 
 VILENA is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Losangeles, Newyorkcity and Sandiego. Often billed alongside BLANC MAMBA, Capes and Curses. Next up: TBA - Location Link in Bio on Instagram @recollectunderground, Losangeles on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ VILENA is a house and techno artist based in United States of America, tracked o
 
 BLANC MAMBA, Capes, Curses
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vilena/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vilena/)*

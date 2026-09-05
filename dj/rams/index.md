@@ -1,6 +1,6 @@
 # Rams
 
-Rams is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cadavra, Madrid on Fri, 25 Sept 2026.
+Rams is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Cadavra, Madrid on Fri, 25 Sept 2026.
 
 Rams is a house and electronica artist based in Spain, tracked on soundcheck, with 28 sets logged across Madrid. Often billed alongside Osman (Es), Jabra and Osman. Next up: Cadavra, Madrid on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Rams is a house and electronica artist based in Spain, tracked on soundcheck, wi
 
 Osman (Es), Jabra, Osman
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rams/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rams/)*

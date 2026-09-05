@@ -1,6 +1,6 @@
 # Reinhard Zach
 
-Reinhard Zach is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at SASS Music Club, Vienna on Sat, 5 Sept 2026.
+Reinhard Zach is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at SASS Music Club, Vienna on Sat, 5 Sept 2026.
 
 Reinhard Zach is a house and acid artist based in Austria, tracked on soundcheck, with 85 sets logged across Vienna. Often billed alongside Fabiano José, Stipo and Apua. Next up: SASS Music Club, Vienna on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Reinhard Zach is a house and acid artist based in Austria, tracked on soundcheck
 
 Fabiano José, Stipo, Apua
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reinhardzach/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reinhardzach/)*

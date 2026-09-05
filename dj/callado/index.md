@@ -1,6 +1,6 @@
 # Callado
 
-Callado is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Void Club, Berlin on Sat, 12 Sept 2026.
+Callado is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Void Club, Berlin on Sat, 12 Sept 2026.
 
 Callado is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Obelisk030, Obelisk and EZA (DE). Next up: Void Club, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Callado is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 Obelisk030, Obelisk, EZA (DE)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callado/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/callado/)*

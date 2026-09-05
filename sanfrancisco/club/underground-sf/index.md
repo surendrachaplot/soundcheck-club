@@ -1,14 +1,13 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "FILM FUND RAVE" on Fri, 4 Sept 2026.
+Underground SF is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "PROX. Jason Kendig, Dr. Rek, Kenvulsion, M4RC0, Andrew Butcher" on Fri, 11 Sept 2026.
 
-Underground SF is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including 9-System, Alexandernaut, Beverly Chills and Digital KitKat and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
+Underground SF is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights, with line-ups including 9-System, Alexandernaut, Digital KitKat and Dr. Rek and 2 more. Browse upcoming dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | FILM FUND RAVE | Beverly Chills, xtcemi |
 | Fri, 11 Sept 2026 | PROX. Jason Kendig, Dr. Rek, Kenvulsion, M4RC0, Andrew Butcher | Dr. Rek, Jason Kendig |
 | Fri, 11 Sept 2026 | CLUB MUSIC 9/11/26 |  |
 | Sat, 10 Oct 2026 | IDP 11yr Anniversary | Alexandernaut, Dr. Rek, Hydroplane, Xanopticon, Øbsrvr (PDX) |
@@ -20,4 +19,4 @@ Underground SF is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

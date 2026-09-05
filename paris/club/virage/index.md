@@ -1,14 +1,13 @@
 # Virage
 
-Virage is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Union Trance Mission: Metaraph, Dana Montana & more" on Fri, 4 Sept 2026.
+Virage is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "MARATHON! Club : Mount Kimbie, Aleksandir, Mely, Cabaret Contemporain" on Sat, 5 Sept 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including 4000 Hz, Aleksandir, Alex Quillard and Bande de Filles and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including Aleksandir, Alex Quillard, Bande de Filles and Bérou and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Trance Mission: Metaraph, Dana Montana & more | 4000 Hz, DJ Reiz, Dana Montana, Metaraph, Vickies |
 | Sat, 5 Sept 2026 | MARATHON! Club : Mount Kimbie, Aleksandir, Mely, Cabaret Contemporain | Aleksandir, Mely, Mount Kimbie |
 | Wed, 9 Sept 2026 | Le Virage du Mercredi Closing All Stars | Alex Quillard, DJ ANGEL (fr), Djé Djé from the block, NTBR |
 | Thu, 10 Sept 2026 | Disco Disco x Paillettes Pompettes | Bande de Filles, Dusty Fingers, Tonno Disko |
@@ -22,4 +21,4 @@ Virage is a music venue in Paris listed on soundcheck. 9 upcoming nights, with l
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

@@ -1,6 +1,6 @@
 # TBA - Downtown Toronto 
 
-TBA - Downtown Toronto  is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "FORMAT: UNANNOUNCED" on Sat, 5 Sept 2026.
+TBA - Downtown Toronto  is a music venue in Toronto with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "FORMAT: UNANNOUNCED" on Sat, 5 Sept 2026.
 
 TBA - Downtown Toronto  is a music venue in Toronto listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Downtown Toronto  is a music venue in Toronto listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | FORMAT: UNANNOUNCED |  |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-downtown-toronto/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/tba-downtown-toronto/)*

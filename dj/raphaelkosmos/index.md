@@ -1,6 +1,6 @@
 # Raphael Kosmos
 
-Raphael Kosmos is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar v Krymský, Prague on Sat, 5 Sept 2026.
+Raphael Kosmos is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bar v Krymský, Prague on Sat, 5 Sept 2026.
 
 Raphael Kosmos is a techno and electro artist tracked on soundcheck, with 92 sets logged across Belgrade, Berlin, Brussels and Prague. Often billed alongside Olinstvi, Manntracs and Midirama. Next up: Bar v Krymský, Prague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Raphael Kosmos is a techno and electro artist tracked on soundcheck, with 92 set
 
 Olinstvi, Manntracs, Midirama
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelkosmos/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelkosmos/)*

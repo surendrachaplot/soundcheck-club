@@ -1,6 +1,6 @@
 # Garage
 
-Garage is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
+Garage is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
 
 Garage is a garage and drum & bass artist tracked on soundcheck, with 17 sets logged across Bristol, Istanbul, London and Milan and 3 more. Often billed alongside Jungle (UK), More (3) and Uncle Dugs. Next up: LDN East, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Garage is a garage and drum & bass artist tracked on soundcheck, with 17 sets lo
 
 Jungle (UK), More (3), Uncle Dugs
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garage-ukr/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/garage-ukr/)*

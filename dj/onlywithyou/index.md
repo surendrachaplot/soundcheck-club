@@ -1,6 +1,6 @@
 # OnlyWithYou
 
-OnlyWithYou is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Toekomstmuziek, Amsterdam on Fri, 23 Oct 2026.
+OnlyWithYou is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Toekomstmuziek, Amsterdam on Fri, 23 Oct 2026.
 
 OnlyWithYou is a techno and trance artist based in Australia, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, London and Madrid and 5 more. Often billed alongside MIMI404, Garfie and AKEYLAH. Next up: Toekomstmuziek, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ OnlyWithYou is a techno and trance artist based in Australia, tracked on soundch
 
 MIMI404, Garfie, AKEYLAH
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlywithyou/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlywithyou/)*

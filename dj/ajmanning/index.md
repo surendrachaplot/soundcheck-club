@@ -1,6 +1,6 @@
 # AJ Manning
 
-AJ Manning is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Glove That Fits, London on Sat, 19 Sept 2026.
+AJ Manning is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Glove That Fits, London on Sat, 19 Sept 2026.
 
 AJ Manning is a house and balearic artist based in Australia, tracked on soundcheck, with 6 sets logged across London. Often billed alongside FRASER (3), Evie and Markozonio. Next up: The Glove That Fits, London on Sat 19 Sept.
 
@@ -22,4 +22,4 @@ AJ Manning is a house and balearic artist based in Australia, tracked on soundch
 
 FRASER (3), Evie, Markozonio
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajmanning/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajmanning/)*

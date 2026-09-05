@@ -1,6 +1,6 @@
 # Mindlancholic
 
-Mindlancholic is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
+Mindlancholic is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
 
 Mindlancholic is an afro house and deep house artist tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside KELO AR, MACKINLAY and Alex Rush. Next up: Port Olimpic, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Mindlancholic is an afro house and deep house artist tracked on soundcheck, with
 
 KELO AR, MACKINLAY, Alex Rush
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindlancholic/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mindlancholic/)*

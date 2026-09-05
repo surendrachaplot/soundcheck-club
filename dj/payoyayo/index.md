@@ -1,6 +1,6 @@
 # PayoYayo
 
-PayoYayo is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+PayoYayo is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
 PayoYayo is a techno and bass artist based in Poland, tracked on soundcheck, with 48 sets logged across Krakow and Warsaw. Often billed alongside bolo, Abrew and Kobayashkn. Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ PayoYayo is a techno and bass artist based in Poland, tracked on soundcheck, wit
 
 bolo, Abrew, Kobayashkn
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/payoyayo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/payoyayo/)*

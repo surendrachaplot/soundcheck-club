@@ -1,6 +1,6 @@
 # YOUniverse
 
-YOUniverse is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Z Maruyama, Tokyo on Mon, 21 Sept 2026.
+YOUniverse is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Z Maruyama, Tokyo on Mon, 21 Sept 2026.
 
 YOUniverse is a tech house and house artist tracked on soundcheck, with 98 sets logged across Barcelona, Ibiza, Liverpool and London and 7 more. Often billed alongside Nicola Gavino, Riverside (IT) and Dario Loconte. Next up: Z Maruyama, Tokyo on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ YOUniverse is a tech house and house artist tracked on soundcheck, with 98 sets 
 
 Nicola Gavino, Riverside (IT), Dario Loconte
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youniverse/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youniverse/)*

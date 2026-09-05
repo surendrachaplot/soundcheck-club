@@ -1,6 +1,6 @@
 # Dominik Eulberg
 
-Dominik Eulberg is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ritter Butzke, Berlin on Sat, 26 Sept 2026.
+Dominik Eulberg is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Ritter Butzke, Berlin on Sat, 26 Sept 2026.
 
 Dominik Eulberg is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside Super Flu, Bebetta and Marius Lehnert. Next up: Ritter Butzke, Berlin on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Dominik Eulberg is a techno and house artist tracked on soundcheck, with 81 sets
 
 Super Flu, Bebetta, Marius Lehnert
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikeulberg/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikeulberg/)*

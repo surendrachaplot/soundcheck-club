@@ -1,6 +1,6 @@
 # N-Type
 
-N-Type is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Stage and Radio, Manchester on Fri, 18 Sept 2026.
+N-Type is a Dubstep and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Stage and Radio, Manchester on Fri, 18 Sept 2026.
 
 N-Type is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Berlin, Bristol, Denver and Hamburg and 7 more. Often billed alongside MINTY, SGT Pokes and DFUSE. Next up: Stage and Radio, Manchester on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ N-Type is a dubstep and bass artist based in United Kingdom, tracked on soundche
 
 MINTY, SGT Pokes, DFUSE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ntype/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ntype/)*

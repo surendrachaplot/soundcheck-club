@@ -1,6 +1,6 @@
 # Cassiel
 
-Cassiel is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Rua Padre João Gonçalves, 186 — Pinheiros, São Paulo — SP, Sao Paulo on Sat, 5 Sept 2026.
+Cassiel is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Rua Padre João Gonçalves, 186 — Pinheiros, São Paulo — SP, Sao Paulo on Sat, 5 Sept 2026.
 
 Cassiel is a techno and drum & bass artist tracked on soundcheck, with 11 sets logged across Budapest and Saopaulo. Often billed alongside Robert Dobak, Raqpar and Liro. Next up: TBA - Rua Padre João Gonçalves, 186 — Pinheiros, São Paulo — SP, Saopaulo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Cassiel is a techno and drum & bass artist tracked on soundcheck, with 11 sets l
 
 Robert Dobak, Raqpar, Liro
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassiel/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassiel/)*

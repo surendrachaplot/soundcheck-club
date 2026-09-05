@@ -1,6 +1,6 @@
 # Wally
 
-Wally is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at La Récré, Montreal on Fri, 11 Sept 2026.
+Wally is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at La Récré, Montreal on Fri, 11 Sept 2026.
 
 Wally is a jungle and drum & bass artist based in Canada, tracked on soundcheck, with 21 sets logged across Manchester, Montreal and Toronto. Often billed alongside STLKR, Crimewave and IIITHRIII. Next up: La Récré, Montreal on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Wally is a jungle and drum & bass artist based in Canada, tracked on soundcheck,
 
 STLKR, Crimewave, IIITHRIII
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wally/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wally/)*

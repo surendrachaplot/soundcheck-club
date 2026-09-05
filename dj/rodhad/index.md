@@ -1,6 +1,6 @@
 # Rødhåd
 
-Rødhåd is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 25 Sept 2026.
+Rødhåd is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 25 Sept 2026.
 
 Rødhåd is a techno and house artist tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside JakoJako, Ben Klock and MARRØN. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 25 Sept.
 
@@ -32,4 +32,4 @@ Rødhåd is a techno and house artist tracked on soundcheck, with 215 sets logge
 
 JakoJako, Ben Klock, MARRØN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*

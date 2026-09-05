@@ -1,6 +1,6 @@
 # Ace9
 
-Ace9 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Marmorbar, Berlin on Sat, 5 Sept 2026.
+Ace9 is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Marmorbar, Berlin on Sat, 5 Sept 2026.
 
 Ace9 is a trance and techno artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Nadia Bel Air, E.T. and Mindframe. Next up: Marmorbar, Berlin on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Ace9 is a trance and techno artist tracked on soundcheck, with 6 sets logged acr
 
 Nadia Bel Air, E.T., Mindframe
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ace9/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ace9/)*

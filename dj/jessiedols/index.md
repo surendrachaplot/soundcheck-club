@@ -1,6 +1,6 @@
 # Jessie Dols
 
-Jessie Dols is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
+Jessie Dols is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
 Jessie Dols is a techno and trance artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 7 more. Often billed alongside Mischluft, Bad Boombox and Janis Zielinski. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Jessie Dols is a techno and trance artist tracked on soundcheck, with 39 sets lo
 
 Mischluft, Bad Boombox, Janis Zielinski
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiedols/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiedols/)*

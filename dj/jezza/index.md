@@ -1,6 +1,6 @@
 # Jezza
 
-Jezza is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 77, London on Sat, 14 Nov 2026.
+Jezza is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 77, London on Sat, 14 Nov 2026.
 
 Jezza is an afro house and house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Dublin and London. Often billed alongside AliTR, Yoel Telyaz and Black Traffic. Next up: 77, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jezza is an afro house and house artist tracked on soundcheck, with 14 sets logg
 
 AliTR, Yoel Telyaz, Black Traffic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jezza/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jezza/)*

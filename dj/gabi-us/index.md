@@ -1,6 +1,6 @@
 # Gabi
 
-Gabi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sensorium, Berlin on Sun, 6 Sept 2026.
+Gabi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sensorium, Berlin on Sun, 6 Sept 2026.
 
 Gabi is a techno and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Berlin, Detroit, London and Miami and 2 more. Often billed alongside Blood Orange, Ciel and DJ Voices. Next up: Sensorium, Berlin on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Gabi is a techno and house artist based in United States of America, tracked on 
 
 Blood Orange, Ciel, DJ Voices
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabi-us/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabi-us/)*

@@ -1,14 +1,13 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Praia Irmão, Lisbon on Fri, 4 Sept 2026.
+Bambounou is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
 
-Bambounou is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 48 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Praia Irmão, Lisbon on Fri 4 Sept.
+Bambounou is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 48 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: TBA, Washingtondc on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Praia Irmão | Lisbon |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
 | Sat, 12 Sept 2026 | smartbar | Chicago |
 | Fri, 25 Sept 2026 | Kilomètre25 | Paris |
@@ -18,6 +17,7 @@ Bambounou is a techno and house artist tracked on soundcheck, with 166 sets logg
 
 ## Recently played
 
+- Praia Irmão, Lisbon — Fri, 4 Sept 2026
 - Karmen Camina, Strasbourg — Fri, 21 Aug 2026
 - Else, Berlin — Fri, 14 Aug 2026
 - Virage, Paris — Fri, 31 Jul 2026
@@ -25,10 +25,9 @@ Bambounou is a techno and house artist tracked on soundcheck, with 166 sets logg
 - Clifton Street, London — Sat, 11 Jul 2026
 - DC-10, Ibiza — Mon, 8 Jun 2026
 - Bois de Vincennes, Paris — Fri, 5 Jun 2026
-- Club Space Miami, Miami — Fri, 22 May 2026
 
 ## Shares bills with
 
 Sedef Adasï, Sossa, Bradley Zero
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bambounou/)*

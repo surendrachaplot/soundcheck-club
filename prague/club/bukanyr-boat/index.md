@@ -1,14 +1,13 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Innuendo Showcase - DJs EFÍMERO (MEX) & Vakuri (MEX)" on Fri, 4 Sept 2026.
+Bukanyr Boat is a music venue in Prague with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Generate - djs Malandra JR. (IT / Diynamic), Hugorieri, Arasion" on Sat, 5 Sept 2026.
 
-Bukanyr Boat is a music venue in Prague listed on soundcheck. 8 upcoming nights, with line-ups including abecko, Caren Callas, Cubik and Da Moon and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
+Bukanyr Boat is a music venue in Prague listed on soundcheck. 7 upcoming nights, with line-ups including abecko, Caren Callas, Cubik and Da Moon and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Innuendo Showcase - DJs EFÍMERO (MEX) & Vakuri (MEX) | EFÍMERO |
 | Sat, 5 Sept 2026 | Generate - djs Malandra JR. (IT / Diynamic), Hugorieri, Arasion | Hugorieri, Malandra JR |
 | Fri, 11 Sept 2026 | Spank - djs Ondrej K, Identic, Zissou | Identic, Ondrej K, Zissou |
 | Sat, 12 Sept 2026 | Sexy Beats - djs Lumiere, Moskito, Baloo | DJ Lumiere |
@@ -21,4 +20,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 8 upcoming nights,
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

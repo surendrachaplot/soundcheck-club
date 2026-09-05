@@ -1,6 +1,6 @@
 # Dr Dubplate
 
-Dr Dubplate is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Dr Dubplate is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Dr Dubplate is a garage and bass artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Bakey, Yemz and Soul Mass Transit System. Next up: The Cause, London on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Dr Dubplate is a garage and bass artist tracked on soundcheck, with 144 sets log
 
 Bakey, Yemz, Soul Mass Transit System
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*

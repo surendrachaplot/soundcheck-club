@@ -1,6 +1,6 @@
 # microtear
 
-microtear is a Club and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Platform9, Vancouver on Fri, 18 Sept 2026.
+microtear is a Club and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Platform9, Vancouver on Fri, 18 Sept 2026.
 
 microtear is a club and breakbeat artist tracked on soundcheck, with 7 sets logged across Vancouver. Often billed alongside BINKY, soratora and Earthware. Next up: Platform9, Vancouver on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ microtear is a club and breakbeat artist tracked on soundcheck, with 7 sets logg
 
 BINKY, soratora, Earthware
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/microtear/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/microtear/)*

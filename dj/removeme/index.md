@@ -1,6 +1,6 @@
 # Remove Me
 
-Remove Me is a Psytrance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Fitzroy, Berlin on Sat, 12 Sept 2026.
+Remove Me is a Psytrance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Fitzroy, Berlin on Sat, 12 Sept 2026.
 
 Remove Me is a psytrance and progressive house artist tracked on soundcheck, with 19 sets logged across Berlin, Brussels, London and Madrid and 1 more. Often billed alongside Carl H, Vass and DJ Masda. Next up: Fitzroy, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Remove Me is a psytrance and progressive house artist tracked on soundcheck, wit
 
 Carl H, Vass, DJ Masda
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/removeme/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/removeme/)*

@@ -1,6 +1,6 @@
 # LEEKUNHEE
 
-LEEKUNHEE is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Evening, Seoul on Sat, 5 Sept 2026.
+LEEKUNHEE is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Evening, Seoul on Sat, 5 Sept 2026.
 
 LEEKUNHEE is a house and minimal artist based in South Korea, tracked on soundcheck, with 53 sets logged across Seoul. Often billed alongside Gumi, Acidwork and Afrodite (2). Next up: Evening, Seoul on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ LEEKUNHEE is a house and minimal artist based in South Korea, tracked on soundch
 
 Gumi, Acidwork, Afrodite (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leekunhee/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leekunhee/)*

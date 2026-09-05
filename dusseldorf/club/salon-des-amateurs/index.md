@@ -1,6 +1,6 @@
 # Salon des Amateurs
 
-Salon des Amateurs is a music venue in Düsseldorf with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "tik tak traks" on Sat, 19 Sept 2026.
+Salon des Amateurs is a music venue in Düsseldorf with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "tik tak traks" on Sat, 19 Sept 2026.
 
 Salon des Amateurs is a music venue in Dusseldorf listed on soundcheck. 4 upcoming nights, with line-ups including Courtney Bailey, Die Wilde Jagd, Lars Eidinger and Lucas Croon and 2 more. Browse upcoming dates, start times and who's playing. Grabbeplatz 4; 40213 Düsseldorf; Germany.
 
@@ -17,4 +17,4 @@ Salon des Amateurs is a music venue in Dusseldorf listed on soundcheck. 4 upcomi
 
 Grabbeplatz 4; 40213 Düsseldorf; Germany, Düsseldorf
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/salon-des-amateurs/)*

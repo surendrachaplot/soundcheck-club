@@ -1,6 +1,6 @@
 # Leg Room
 
-Leg Room is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jupiter Disco, New York City on Fri, 25 Sept 2026.
+Leg Room is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Jupiter Disco, New York City on Fri, 25 Sept 2026.
 
 Leg Room is a house and techno artist tracked on soundcheck, with 69 sets logged across Newyorkcity. Often billed alongside Seth Hosko, Shek and Parker Mac. Next up: Jupiter Disco, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Leg Room is a house and techno artist tracked on soundcheck, with 69 sets logged
 
 Seth Hosko, Shek, Parker Mac
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/legroom/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/legroom/)*

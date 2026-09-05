@@ -1,6 +1,6 @@
 # The Dare
 
-The Dare is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Pacha New York, New York City on Sat, 5 Sept 2026.
+The Dare is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Pacha New York, New York City on Sat, 5 Sept 2026.
 
 The Dare is a house and electro artist based in United States of America, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Brussels and Chicago and 15 more. Often billed alongside Doss, Yaeji and 999999999. Next up: Pacha New York, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ The Dare is a house and electro artist based in United States of America, tracke
 
 Doss, Yaeji, 999999999
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thedare/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thedare/)*

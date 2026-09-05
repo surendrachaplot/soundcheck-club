@@ -1,6 +1,6 @@
 # Samet Gunal
 
-Samet Gunal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Málaga Forum, Malaga on Sat, 26 Sept 2026.
+Samet Gunal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Málaga Forum, Malaga on Sat, 26 Sept 2026.
 
 Samet Gunal is a house and techno artist tracked on soundcheck, with 29 sets logged across Berlin, Frankfurt, Istanbul and Malaga and 2 more. Often billed alongside Esin, Enes Çakır and Bákayan. Next up: TBA - Málaga Forum, Malaga on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Samet Gunal is a house and techno artist tracked on soundcheck, with 29 sets log
 
 Esin, Enes Çakır, Bákayan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sametgunal/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sametgunal/)*

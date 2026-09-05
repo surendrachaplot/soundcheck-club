@@ -1,6 +1,6 @@
 # Soulidan
 
-Soulidan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at OXI, Berlin on Sat, 5 Sept 2026.
+Soulidan is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at OXI, Berlin on Sat, 5 Sept 2026.
 
 Soulidan is a house and deep house artist based in Georgia, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 4 more. Often billed alongside David Silver, MiNNA and Afshin. Next up: OXI, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Soulidan is a house and deep house artist based in Georgia, tracked on soundchec
 
 David Silver, MiNNA, Afshin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulidan/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulidan/)*

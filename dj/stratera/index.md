@@ -1,6 +1,6 @@
 # Stratera
 
-Stratera is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
+Stratera is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
 
 Stratera is a techno and drum & bass artist based in Austria, tracked on soundcheck, with 29 sets logged across Budapest, Hamburg, Oberhausen and Vienna. Often billed alongside TEKKNISH, IOSIO and Jubin Amiri. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Stratera is a techno and drum & bass artist based in Austria, tracked on soundch
 
 TEKKNISH, IOSIO, Jubin Amiri
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stratera/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stratera/)*

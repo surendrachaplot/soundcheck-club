@@ -1,6 +1,6 @@
 # SNO (UK)
 
-SNO (UK) is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Soup, Manchester on Sat, 5 Sept 2026.
+SNO (UK) is a House and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Soup, Manchester on Sat, 5 Sept 2026.
 
 SNO (UK) is a house and afrobeat artist based in South Africa, tracked on soundcheck, with 33 sets logged across Bristol, Liverpool, London and Manchester and 1 more. Often billed alongside La Rumba, Anish Kumar and Greg Wilson. Next up: Soup, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ SNO (UK) is a house and afrobeat artist based in South Africa, tracked on soundc
 
 La Rumba, Anish Kumar, Greg Wilson
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sno-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sno-uk/)*

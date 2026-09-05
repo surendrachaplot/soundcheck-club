@@ -1,6 +1,6 @@
 # gummi
 
-gummi is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+gummi is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
 gummi is a bass and techno artist based in Poland, tracked on soundcheck, with 41 sets logged across Brussels, Krakow and Warsaw. Often billed alongside Taan, madikoptah and 2K88. Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ gummi is a bass and techno artist based in Poland, tracked on soundcheck, with 4
 
 Taan, madikoptah, 2K88
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gummi/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gummi/)*

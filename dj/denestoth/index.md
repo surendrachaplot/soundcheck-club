@@ -1,6 +1,6 @@
 # Denes Toth
 
-Denes Toth is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at O der Klub, Vienna on Fri, 18 Sept 2026.
+Denes Toth is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at O der Klub, Vienna on Fri, 18 Sept 2026.
 
 Denes Toth is a techno and house artist based in Slovakia, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Budapest and Copenhagen and 2 more. Often billed alongside Secret Factory, Mateo & Spirit and Baime. Next up: O der Klub, Vienna on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Denes Toth is a techno and house artist based in Slovakia, tracked on soundcheck
 
 Secret Factory, Mateo & Spirit, Baime
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*

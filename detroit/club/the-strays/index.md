@@ -1,6 +1,6 @@
 # The Strays
 
-The Strays is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "LABOR DAY DUNGEON AFTERPARTY" on Sat, 5 Sept 2026.
+The Strays is a music venue in Detroit with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "LABOR DAY DUNGEON AFTERPARTY" on Sat, 5 Sept 2026.
 
 The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming nights, with line-ups including BLESSTONIO, Colliding Pins, Dizzy FTP and Kenjiro and 1 more. Browse upcoming dates, start times and who's playing. 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA.
 
@@ -15,4 +15,4 @@ The Strays is a music venue in Detroit listed on soundcheck. 2 upcoming nights, 
 
 8850 Joseph Campau Ave, Hamtramck, MI 48212, USA, Detroit
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-strays/)*

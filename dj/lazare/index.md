@@ -1,6 +1,6 @@
 # Lazare
 
-Lazare is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Gallery, London on Sat, 19 Sept 2026.
+Lazare is a Afro House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Gallery, London on Sat, 19 Sept 2026.
 
 Lazare is an afro house and tech house artist tracked on soundcheck, with 7 sets logged across Amsterdam, Ibiza, London and Miami and 2 more. Often billed alongside :DARREN, BARON (FR) and Benja (NL). Next up: Gallery, London on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Lazare is an afro house and tech house artist tracked on soundcheck, with 7 sets
 
 :DARREN, BARON (FR), Benja (NL)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lazare/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lazare/)*

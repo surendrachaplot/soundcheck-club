@@ -1,6 +1,6 @@
 # Libra
 
-Libra is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Klunkerkranich, Berlin on Sat, 12 Sept 2026.
+Libra is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Klunkerkranich, Berlin on Sat, 12 Sept 2026.
 
 Libra is a house and electronica artist based in Ukraine, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Belisa, CosmiKat and DJ LP (NL). Next up: Klunkerkranich, Berlin on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Libra is a house and electronica artist based in Ukraine, tracked on soundcheck,
 
 Belisa, CosmiKat, DJ LP (NL)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/libra/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/libra/)*

@@ -1,6 +1,6 @@
 # OPÄK
 
-OPÄK is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Glazart, Paris on Sat, 12 Sept 2026.
+OPÄK is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Glazart, Paris on Sat, 12 Sept 2026.
 
 OPÄK is a techno and ebm artist tracked on soundcheck, with 50 sets logged across Berlin, Geneva, Lyon and Marseille and 2 more. Often billed alongside Brutal Experiences, Ey.rah and Romain Dafalgang. Next up: Glazart, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ OPÄK is a techno and ebm artist tracked on soundcheck, with 50 sets logged acro
 
 Brutal Experiences, Ey.rah, Romain Dafalgang
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/opak/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/opak/)*

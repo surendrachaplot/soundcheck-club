@@ -1,6 +1,6 @@
 # Lillie
 
-Lillie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Toekomstmuziek, Amsterdam on Fri, 23 Oct 2026.
+Lillie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Toekomstmuziek, Amsterdam on Fri, 23 Oct 2026.
 
 Lillie is a trance and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Brussels and Cologne and 2 more. Often billed alongside DJ Parabolspiegel, EZA (DE) and Flohmarkt. Next up: Toekomstmuziek, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lillie is a trance and techno artist tracked on soundcheck, with 9 sets logged a
 
 DJ Parabolspiegel, EZA (DE), Flohmarkt
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lillie/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lillie/)*

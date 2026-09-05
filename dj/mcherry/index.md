@@ -1,6 +1,6 @@
 # mCherry
 
-mCherry is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Village au Pied-du-Courant, Montreal on Sat, 5 Sept 2026.
+mCherry is a Reggaeton and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Village au Pied-du-Courant, Montreal on Sat, 5 Sept 2026.
 
 mCherry is a reggaeton and latin bass artist based in Argentina, tracked on soundcheck, with 37 sets logged across Montreal and Vancouver. Often billed alongside La Niña Kiwi, JASHIM and Whorito. Next up: Village au Pied-du-Courant, Montreal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ mCherry is a reggaeton and latin bass artist based in Argentina, tracked on soun
 
 La Niña Kiwi, JASHIM, Whorito
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcherry/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcherry/)*

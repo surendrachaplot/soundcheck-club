@@ -1,6 +1,6 @@
 # AJACENT
 
-AJACENT is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mood Ring, New York City on Fri, 18 Sept 2026.
+AJACENT is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mood Ring, New York City on Fri, 18 Sept 2026.
 
 AJACENT is a techno and baile funk artist based in United States of America, tracked on soundcheck, with 19 sets logged across Newyorkcity. Often billed alongside shirlz, a.gar and ASTER (DJ). Next up: Mood Ring, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ AJACENT is a techno and baile funk artist based in United States of America, tra
 
 shirlz, a.gar, ASTER (DJ)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajacent/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajacent/)*

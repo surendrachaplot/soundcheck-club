@@ -1,6 +1,6 @@
 # GRMR
 
-GRMR is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
+GRMR is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
 
 GRMR is a techno and trance artist tracked on soundcheck, with 8 sets logged across Berlin, Cologne and Leipzig. Often billed alongside m4tsch1, Amøn and CARGO (DE). Next up: DSTRKT Club Berlin, Berlin on Fri 4 Sept.
 
@@ -12,6 +12,7 @@ GRMR is a techno and trance artist tracked on soundcheck, with 8 sets logged acr
 
 ## Recently played
 
+- DSTRKT Club Berlin, Berlin — Fri, 4 Sept 2026
 - ://about blank, Berlin — Fri, 5 Jun 2026
 - Odonien, Cologne — Wed, 20 May 2026
 - OST, Berlin — Sun, 1 Feb 2026
@@ -24,4 +25,4 @@ GRMR is a techno and trance artist tracked on soundcheck, with 8 sets logged acr
 
 m4tsch1, Amøn, CARGO (DE)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grmr/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grmr/)*

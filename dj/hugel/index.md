@@ -1,6 +1,6 @@
 # Hugel
 
-Hugel is a House and Afro House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Echostage, Washington DC on Sat, 5 Sept 2026.
+Hugel is a House and Afro House artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Echostage, Washington DC on Sat, 5 Sept 2026.
 
 Hugel is a house and afro house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Auckland and Austin and 33 more. Often billed alongside Miss Monique, Dombresky and Eran Hersh. Next up: Echostage, Washingtondc on Sat 5 Sept.
 
@@ -33,4 +33,4 @@ Hugel is a house and afro house artist tracked on soundcheck, with 135 sets logg
 
 Miss Monique, Dombresky, Eran Hersh
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*

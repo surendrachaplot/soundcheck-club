@@ -1,6 +1,6 @@
 # High Fade
 
-High Fade is a Funk / Soul and Disco artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNLOCKED, London on Sat, 3 Oct 2026.
+High Fade is a Funk / Soul and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at UNLOCKED, London on Sat, 3 Oct 2026.
 
 High Fade is a funk / soul and disco artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Barcelona, Brighton, Bristol and Dublin and 7 more. Often billed alongside DJ Football, Dj Schnake and Eloi. Next up: UNLOCKED, London on Sat 3 Oct.
 
@@ -30,4 +30,4 @@ High Fade is a funk / soul and disco artist based in United Kingdom, tracked on 
 
 DJ Football, Dj Schnake, Eloi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/highfade/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/highfade/)*

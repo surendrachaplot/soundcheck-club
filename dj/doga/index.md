@@ -1,6 +1,6 @@
 # Doga
 
-Doga is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
+Doga is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Jasna 1, Warsaw on Sat, 12 Sept 2026.
 
 Doga is a techno and bass artist tracked on soundcheck, with 15 sets logged across Istanbul and Warsaw. Often billed alongside Zero_null, Yaris and Mohji. Next up: Jasna 1, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Doga is a techno and bass artist tracked on soundcheck, with 15 sets logged acro
 
 Zero_null, Yaris, Mohji
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doga/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doga/)*

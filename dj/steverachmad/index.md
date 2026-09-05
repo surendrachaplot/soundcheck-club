@@ -1,6 +1,6 @@
 # Steve Rachmad
 
-Steve Rachmad is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Paal69, Amsterdam on Sat, 5 Sept 2026.
+Steve Rachmad is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Paal69, Amsterdam on Sat, 5 Sept 2026.
 
 Steve Rachmad is a techno and house artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 16 more. Often billed alongside STERAC, Fadi Mohem and Richard Akingbehin. Next up: Paal69, Amsterdam on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Steve Rachmad is a techno and house artist based in Netherlands, tracked on soun
 
 STERAC, Fadi Mohem, Richard Akingbehin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steverachmad/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/steverachmad/)*

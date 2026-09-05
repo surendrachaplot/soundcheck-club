@@ -1,6 +1,6 @@
 # Martyn
 
-Martyn is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Martyn is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Martyn is a techno and bass artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside CCL, EMA (1) and Darwin. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Martyn is a techno and bass artist based in United States of America, tracked on
 
 CCL, EMA (1), Darwin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*

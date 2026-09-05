@@ -1,6 +1,6 @@
-# DOWN2TECHNO: Every Wednesday at Le Red Room
+# DOWN2TECHNO [Every Wednesday] at Le Red Room
 
-DOWN2TECHNO: Every Wednesday at Le Red Room on Wed 30 Sept, Montreal. 2 acts on the bill: Pinch (CA) and POM (1). Techno. Preview the line-up and save it on soundcheck.
+DOWN2TECHNO [Every Wednesday] at Le Red Room on Wed 30 Sept, Montreal. 2 acts on the bill: Pinch (CA) and POM (1). Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

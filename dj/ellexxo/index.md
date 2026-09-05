@@ -1,6 +1,6 @@
 # elle xxo
 
-elle xxo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 19 Sept 2026.
+elle xxo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 19 Sept 2026.
 
 elle xxo is a techno and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Newyorkcity. Often billed alongside Crush Club, Aleska and Cowgrrrl. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ elle xxo is a techno and house artist based in United States of America, tracked
 
 Crush Club, Aleska, Cowgrrrl
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellexxo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellexxo/)*

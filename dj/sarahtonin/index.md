@@ -1,6 +1,6 @@
 # Sarahtonin
 
-Sarahtonin is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Fox and Firkin, London on Fri, 9 Oct 2026.
+Sarahtonin is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Fox and Firkin, London on Fri, 9 Oct 2026.
 
 Sarahtonin is a house and disco artist tracked on soundcheck, with 75 sets logged across Austin, Berlin, Bristol and Glasgow and 5 more. Often billed alongside Bill Brewster, Frank Broughton and Ariane V. Next up: The Fox and Firkin, London on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Sarahtonin is a house and disco artist tracked on soundcheck, with 75 sets logge
 
 Bill Brewster, Frank Broughton, Ariane V
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahtonin/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahtonin/)*

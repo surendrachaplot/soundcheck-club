@@ -1,6 +1,6 @@
 # ABSOLUTE.
 
-ABSOLUTE. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, London on Fri, 2 Oct 2026.
+ABSOLUTE. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, London on Fri, 2 Oct 2026.
 
 ABSOLUTE. is a house and techno artist tracked on soundcheck, with 51 sets logged across Amsterdam, Bali, Barcelona and Brighton and 13 more. Often billed alongside Bimini, Ferdiyei and Bella Claxton. Next up: TBA, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ ABSOLUTE. is a house and techno artist tracked on soundcheck, with 51 sets logge
 
 Bimini, Ferdiyei, Bella Claxton
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/absolute/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/absolute/)*

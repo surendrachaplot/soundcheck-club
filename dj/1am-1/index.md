@@ -1,6 +1,6 @@
 # 1 AM (1)
 
-1 AM (1) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Panke Social, Sheffield on Sat, 12 Sept 2026.
+1 AM (1) is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Panke Social, Sheffield on Sat, 12 Sept 2026.
 
 1 AM (1) is a tech house and techno artist tracked on soundcheck, with 42 sets logged across Detroit, Krakow, London and Sheffield and 2 more. Often billed alongside Nadezh No, outta_8 and Aetha. Next up: Panke Social, Sheffield on Sat 12 Sept.
 
@@ -25,4 +25,4 @@
 
 Nadezh No, outta_8, Aetha
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1am-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1am-1/)*

@@ -1,6 +1,6 @@
 # Blayde
 
-Blayde is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
+Blayde is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
 
 Blayde is a techno and trance artist tracked on soundcheck, with 41 sets logged across Berlin, Budapest, Cologne and Dusseldorf and 4 more. Often billed alongside KLING&KLANG, Amøn and DJ TIPSTER. Next up: Lokschuppen Berlin, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Blayde is a techno and trance artist tracked on soundcheck, with 41 sets logged 
 
 KLING&KLANG, Amøn, DJ TIPSTER
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blayde/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blayde/)*

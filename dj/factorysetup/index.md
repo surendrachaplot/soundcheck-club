@@ -1,6 +1,6 @@
 # Factory Setup
 
-Factory Setup is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Mexico City on Sun, 13 Sept 2026.
+Factory Setup is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Mexico City on Sun, 13 Sept 2026.
 
 Factory Setup is a house and electronica artist based in Mexico, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Madrid and Mexicocity. Often billed alongside Alo, Astroboii and Francia Oropeza. Next up: TBA, Mexicocity on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Factory Setup is a house and electronica artist based in Mexico, tracked on soun
 
 Alo, Astroboii, Francia Oropeza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/factorysetup/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/factorysetup/)*

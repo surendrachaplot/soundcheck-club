@@ -1,6 +1,6 @@
 # Sin:port
 
-Sin:port is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ritter Butzke, Berlin on Sat, 12 Sept 2026.
+Sin:port is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Ritter Butzke, Berlin on Sat, 12 Sept 2026.
 
 Sin:port is a techno and house artist tracked on soundcheck, with 130 sets logged across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Ritter Butzke, Berlin on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Sin:port is a techno and house artist tracked on soundcheck, with 130 sets logge
 
 Maurice Mino, Leon Licht, Sabura
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*

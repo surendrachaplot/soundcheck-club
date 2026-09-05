@@ -1,6 +1,6 @@
 # Jean Claude Ades
 
-Jean Claude Ades is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Scorpios, Mykonos on Wed, 9 Sept 2026.
+Jean Claude Ades is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Scorpios, Mykonos on Wed, 9 Sept 2026.
 
 Jean Claude Ades is a tech house and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Athens, Ibiza, Lisbon and Mykonos and 1 more. Often billed alongside MoBlack, Tripolism and WhoMadeWho. Next up: Scorpios, Mykonos on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ Jean Claude Ades is a tech house and house artist based in Germany, tracked on s
 
 MoBlack, Tripolism, WhoMadeWho
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanclaudeades/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanclaudeades/)*

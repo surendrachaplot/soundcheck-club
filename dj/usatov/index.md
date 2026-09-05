@@ -1,8 +1,8 @@
 # Usatov
 
-Usatov is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Oliva, Amsterdam on Sun, 25 Oct 2026.
+Usatov is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Oliva, Amsterdam on Sun, 25 Oct 2026.
 
-Usatov is a progressive house and house artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam and Hamburg. Often billed alongside Natx, DJ Pulu and Ertug Karakas. Next up: Oliva, Amsterdam on Sun 25 Oct.
+Usatov is a progressive house and house artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Amsterdam and Hamburg. Often billed alongside Natx, Patrick Krause and DJ Pulu. Next up: Oliva, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Usatov is a progressive house and house artist based in Netherlands, tracked on 
 
 ## Shares bills with
 
-Natx, DJ Pulu, Ertug Karakas
+Natx, Patrick Krause, DJ Pulu
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/usatov/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/usatov/)*

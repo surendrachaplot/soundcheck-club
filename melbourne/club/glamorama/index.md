@@ -1,14 +1,13 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Interval - Dan Newman [UK] + Ryan Maloney" on Fri, 4 Sept 2026.
+Glamorama is a music venue in Melbourne with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "ÖPEN HAÜS #007 ft DJ JNETT" on Sat, 5 Sept 2026.
 
-Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming nights, with line-ups including BETHANY (1), CAGED, Dan Newman and Deaf Toucan and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
+Glamorama is a music venue in Melbourne listed on soundcheck. 8 upcoming nights, with line-ups including Deaf Toucan, DJ JNETT, Eddie Richards and Elias Mazian and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Interval - Dan Newman [UK] + Ryan Maloney | BETHANY (1), CAGED, Dan Newman, Ryan Maloney |
 | Sat, 5 Sept 2026 | ÖPEN HAÜS #007 ft DJ JNETT | DJ JNETT, Max Hammur |
 | Sat, 5 Sept 2026 | HAUSWiFE + Twice As Nice at Glamorama Saturdays | HAUSWiFE |
 | Fri, 11 Sept 2026 | Interval - Deaf Toucan | Deaf Toucan |
@@ -22,4 +21,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming nights,
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

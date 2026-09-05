@@ -1,6 +1,6 @@
 # Rasaaq
 
-Rasaaq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Warehouse Location, Boston on Sat, 12 Sept 2026.
+Rasaaq is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Secret Warehouse Location, Boston on Sat, 12 Sept 2026.
 
 Rasaaq is a house and techno artist tracked on soundcheck, with 44 sets logged across Boston, Brussels, Copenhagen and Denver and 4 more. Often billed alongside CHAOUKI, Joe Rizk and CAMILLA. Next up: TBA - Secret Warehouse Location, Boston on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Rasaaq is a house and techno artist tracked on soundcheck, with 44 sets logged a
 
 CHAOUKI, Joe Rizk, CAMILLA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rasaaq/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rasaaq/)*

@@ -1,6 +1,6 @@
 # JDJ (1)
 
-JDJ (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Art School, Glasgow on Wed, 23 Sept 2026.
+JDJ (1) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Art School, Glasgow on Wed, 23 Sept 2026.
 
 JDJ (1) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Edinburgh and Glasgow. Often billed alongside DJ PLANE-SPOTTER, Dance No Evil and Danny Snowden. Next up: The Art School, Glasgow on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ JDJ (1) is a house and tech house artist based in United Kingdom, tracked on sou
 
 DJ PLANE-SPOTTER, Dance No Evil, Danny Snowden
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdj-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jdj-1/)*

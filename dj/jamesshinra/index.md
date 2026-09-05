@@ -1,6 +1,6 @@
 # James Shinra
 
-James Shinra is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
+James Shinra is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
 
 James Shinra is an electro and techno artist tracked on soundcheck, with 15 sets logged across Amsterdam, Bristol, Dublin and London and 5 more. Often billed alongside Alien Communications, Andy Garvey and Anüraa. Next up: Liquid Club, Malta on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ James Shinra is an electro and techno artist tracked on soundcheck, with 15 sets
 
 Alien Communications, Andy Garvey, Anüraa
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesshinra/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesshinra/)*

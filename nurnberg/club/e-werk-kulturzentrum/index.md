@@ -1,6 +1,6 @@
 # E-Werk Kulturzentrum
 
-E-Werk Kulturzentrum is a music venue in Nürnberg with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "HAUS 33 x NACHTSCHICHT" on Sat, 17 Oct 2026.
+E-Werk Kulturzentrum is a music venue in Nürnberg with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "HAUS 33 x NACHTSCHICHT" on Sat, 17 Oct 2026.
 
 E-Werk Kulturzentrum is a music venue in Nurnberg listed on soundcheck. 1 upcoming night, with line-ups including NYRA (DE), ANDATA, DJ Nicelife and Dominique Lamee and 2 more. Browse upcoming dates, start times and who's playing. Fuchsenwiese 1, 91054 Erlangen.
 
@@ -14,4 +14,4 @@ E-Werk Kulturzentrum is a music venue in Nurnberg listed on soundcheck. 1 upcomi
 
 Fuchsenwiese 1, 91054 Erlangen, Nürnberg
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/e-werk-kulturzentrum/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/e-werk-kulturzentrum/)*

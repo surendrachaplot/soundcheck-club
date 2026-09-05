@@ -1,6 +1,6 @@
 # 0dysseus
 
-0dysseus is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location, Berlin on Sun, 6 Sept 2026.
+0dysseus is a Deep House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Secret Location, Berlin on Sun, 6 Sept 2026.
 
 0dysseus is a deep house and techno artist based in Greece, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside DJ Treibsand, Benjamin Freeney and danger soundsystem. Next up: TBA - Secret Location, Berlin on Sun 6 Sept.
 
@@ -26,4 +26,4 @@
 
 DJ Treibsand, Benjamin Freeney, danger soundsystem
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0dysseus/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/0dysseus/)*

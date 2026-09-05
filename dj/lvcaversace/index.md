@@ -1,6 +1,6 @@
 # Lvca Versace
 
-Lvca Versace is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Department 184, Milan on Sat, 12 Sept 2026.
+Lvca Versace is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Department 184, Milan on Sat, 12 Sept 2026.
 
 Lvca Versace is a house and minimal techno artist based in Italy, tracked on soundcheck, with 7 sets logged across Milan. Often billed alongside CRHERZ, Eros Renard and Vicky Montefusco. Next up: Department 184, Milan on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Lvca Versace is a house and minimal techno artist based in Italy, tracked on sou
 
 CRHERZ, Eros Renard, Vicky Montefusco
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lvcaversace/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lvcaversace/)*

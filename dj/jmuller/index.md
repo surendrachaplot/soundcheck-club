@@ -1,6 +1,6 @@
 # J.Müller
 
-J.Müller is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mercato Metropolitano, London on Sat, 12 Sept 2026.
+J.Müller is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mercato Metropolitano, London on Sat, 12 Sept 2026.
 
 J.Müller is an afro house and house artist tracked on soundcheck, with 10 sets logged across London and Tokyo. Often billed alongside Bussa, C4LYPSO and DATGRUVEE. Next up: Mercato Metropolitano, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ J.Müller is an afro house and house artist tracked on soundcheck, with 10 sets 
 
 Bussa, C4LYPSO, DATGRUVEE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jmuller/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jmuller/)*

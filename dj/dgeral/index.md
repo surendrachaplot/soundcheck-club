@@ -1,6 +1,6 @@
 # Dgeral
 
-Dgeral is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at KREUZWERK, Berlin on Fri, 4 Sept 2026.
+Dgeral is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at KREUZWERK, Berlin on Fri, 4 Sept 2026.
 
 Dgeral is a house and techno artist based in Venezuela, tracked on soundcheck, with 79 sets logged across Berlin, Copenhagen, Leipzig and Paris and 1 more. Often billed alongside Sparkly Pony, James Lotion and Baltza. Next up: KREUZWERK, Berlin on Fri 4 Sept.
 
@@ -12,6 +12,7 @@ Dgeral is a house and techno artist based in Venezuela, tracked on soundcheck, w
 
 ## Recently played
 
+- KREUZWERK, Berlin — Fri, 4 Sept 2026
 - Hangaren, Copenhagen — Thu, 27 Aug 2026
 - Byhaven, Copenhagen — Sun, 16 Aug 2026
 - Den Anden Side, Copenhagen — Sat, 15 Aug 2026
@@ -19,10 +20,9 @@ Dgeral is a house and techno artist based in Venezuela, tracked on soundcheck, w
 - Renate, Berlin — Sat, 25 Jul 2026
 - Crack Bellmer, Berlin — Sat, 25 Jul 2026
 - Bulbul Berlin, Berlin — Thu, 23 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Sparkly Pony, James Lotion, Baltza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dgeral/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dgeral/)*

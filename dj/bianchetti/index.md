@@ -1,6 +1,6 @@
 # Bianchetti
 
-Bianchetti is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 50 HERTZ, Amsterdam on Sat, 24 Oct 2026.
+Bianchetti is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 50 HERTZ, Amsterdam on Sat, 24 Oct 2026.
 
 Bianchetti is a house and uk funky artist based in Chile, tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona and Berlin. Often billed alongside DJ Vivona, JP Hernández and TWOEF. Next up: 50 HERTZ, Amsterdam on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Bianchetti is a house and uk funky artist based in Chile, tracked on soundcheck,
 
 DJ Vivona, JP Hernández, TWOEF
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bianchetti/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bianchetti/)*

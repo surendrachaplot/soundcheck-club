@@ -1,20 +1,20 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at fabric, London on Fri, 4 Sept 2026.
+Anaïs is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Drake Hotel, Toronto on Sat, 5 Sept 2026.
 
-Anaïs is a drum & bass and jungle artist tracked on soundcheck, with 54 sets logged across Amsterdam, Brighton, Bristol and Bucharest and 18 more. Often billed alongside Whiney, Degs and P Money. Next up: fabric, London on Fri 4 Sept.
+Anaïs is a drum & bass and jungle artist tracked on soundcheck, with 54 sets logged across Amsterdam, Brighton, Bristol and Bucharest and 18 more. Often billed alongside Whiney, Degs and P Money. Next up: The Drake Hotel, Toronto on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | fabric | London |
 | Sat, 5 Sept 2026 | The Drake Hotel | Toronto |
 | Mon, 21 Sept 2026 | Melkweg | Amsterdam |
 | Sat, 3 Oct 2026 | Club Exil | Vienna |
 
 ## Recently played
 
+- fabric, London — Fri, 4 Sept 2026
 - Ashton Court Estate, Bristol — Sat, 23 May 2026
 - Chinese Laundry, Sydney — Sat, 11 Apr 2026
 - Nottingham Secret Garden, Nottingham — Sat, 14 Mar 2026
@@ -22,10 +22,9 @@ Anaïs is a drum & bass and jungle artist tracked on soundcheck, with 54 sets lo
 - Lofi, Amsterdam — Sat, 28 Feb 2026
 - XOYO, London — Sat, 21 Feb 2026
 - Quarters, Brighton — Fri, 6 Feb 2026
-- Arts Club, Liverpool — Fri, 5 Dec 2025
 
 ## Shares bills with
 
 Whiney, Degs, P Money
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*

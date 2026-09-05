@@ -1,6 +1,6 @@
 # TBA - underground venue/tempelhof
 
-TBA - underground venue/tempelhof is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Berlin:Underground 6//Rigidity " on Sat, 5 Sept 2026.
+TBA - underground venue/tempelhof is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Berlin:Underground 6//Rigidity " on Sat, 5 Sept 2026.
 
 TBA - underground venue/tempelhof is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - underground venue/tempelhof is a music venue in Berlin listed on soundchec
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Berlin:Underground 6//Rigidity  |  |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-underground-venue-tempelhof/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-underground-venue-tempelhof/)*

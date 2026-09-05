@@ -1,6 +1,6 @@
 # NSLZ
 
-NSLZ is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at MODULE, Copenhagen on Fri, 18 Sept 2026.
+NSLZ is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at MODULE, Copenhagen on Fri, 18 Sept 2026.
 
 NSLZ is a trance and techno artist tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Benleh, Feta Felice and Lisek. Next up: MODULE, Copenhagen on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ NSLZ is a trance and techno artist tracked on soundcheck, with 14 sets logged ac
 
 Benleh, Feta Felice, Lisek
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nslz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nslz/)*

@@ -1,6 +1,6 @@
 # Abyss X
 
-Abyss X is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+Abyss X is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
 Abyss X is a club and experimental artist tracked on soundcheck, with 22 sets logged across Athens, Bangkok, Berlin and Houston and 6 more. Often billed alongside REBE, CUNT REMEMBER and Chippy Nonstop. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Abyss X is a club and experimental artist tracked on soundcheck, with 22 sets lo
 
 REBE, CUNT REMEMBER, Chippy Nonstop
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abyssx/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abyssx/)*

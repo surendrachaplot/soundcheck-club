@@ -1,6 +1,6 @@
 # Ryan Diefenbach
 
-Ryan Diefenbach is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Smelteverket, Oslo on Fri, 11 Sept 2026.
+Ryan Diefenbach is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Smelteverket, Oslo on Fri, 11 Sept 2026.
 
 Ryan Diefenbach is a house artist based in Norway, tracked on soundcheck, with 6 sets logged across Copenhagen and Oslo. Often billed alongside Matiago, Pahlm and Argia. Next up: Smelteverket, Oslo on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Ryan Diefenbach is a house artist based in Norway, tracked on soundcheck, with 6
 
 Matiago, Pahlm, Argia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryandiefenbach/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryandiefenbach/)*

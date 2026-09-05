@@ -1,6 +1,6 @@
 # Geto Mark
 
-Geto Mark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Masada, Chicago on Sat, 5 Sept 2026.
+Geto Mark is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Masada, Chicago on Sat, 5 Sept 2026.
 
 Geto Mark is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Chicago. Often billed alongside Karl Almaria, Adorio and Mazi. Next up: Masada, Chicago on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Geto Mark is a house and deep house artist based in United States of America, tr
 
 Karl Almaria, Adorio, Mazi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/getomark/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/getomark/)*

@@ -1,6 +1,6 @@
 # Cipy
 
-Cipy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Macarena Club, Barcelona on Sat, 12 Sept 2026.
+Cipy is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Macarena Club, Barcelona on Sat, 12 Sept 2026.
 
 Cipy is a house and deep house artist tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Copenhagen and Mallorca and 1 more. Often billed alongside Ivan Pugliares, Reezar and ERRANT. Next up: Macarena Club, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Cipy is a house and deep house artist tracked on soundcheck, with 53 sets logged
 
 Ivan Pugliares, Reezar, ERRANT
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cipy/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cipy/)*

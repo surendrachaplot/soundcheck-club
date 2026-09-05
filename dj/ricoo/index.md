@@ -1,6 +1,6 @@
 # Ricoo
 
-Ricoo is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Smolna, Warsaw on Fri, 11 Sept 2026.
+Ricoo is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Smolna, Warsaw on Fri, 11 Sept 2026.
 
 Ricoo is a techno and electronica artist tracked on soundcheck, with 9 sets logged across Berlin, Malta and Warsaw. Often billed alongside Actias, Amnesiac and Claude Degas. Next up: Smolna, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ricoo is a techno and electronica artist tracked on soundcheck, with 9 sets logg
 
 Actias, Amnesiac, Claude Degas
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricoo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricoo/)*

@@ -1,6 +1,6 @@
 # Nic David
 
-Nic David is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Starlane Pizza Bar, London on Sat, 26 Sept 2026.
+Nic David is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Starlane Pizza Bar, London on Sat, 26 Sept 2026.
 
 Nic David is a house and electro artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Barcelona, Hamburg and London. Often billed alongside 3 Minds, Adam Romo and BEGGSY. Next up: Starlane Pizza Bar, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Nic David is a house and electro artist based in United Kingdom, tracked on soun
 
 3 Minds, Adam Romo, BEGGSY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicdavid/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicdavid/)*

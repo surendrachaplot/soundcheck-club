@@ -1,14 +1,13 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 15 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Desert Ghosts" on Fri, 4 Sept 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Klubnacht" on Sat, 5 Sept 2026.
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 15 upcoming nights, with line-ups including Aba Shanti-I, Acronym, Agata and Agata (PL) and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Aba Shanti-I, Acronym, Agata and Agata (PL) and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Desert Ghosts | Edward, Konduku, Lawrence, Sibel, Sibil (1), Tau Car, Thomas Melchior |
 | Sat, 5 Sept 2026 | Klubnacht | Deetron, Gabrielle Kwarteng, Gwenan, Hurdslenk, Josh Caffé, Majdolen, Mareena, Massimiliano Pagliara, Moopie, Reka Zalan, Sanna Mun, Sedef Adasï, Steffi, Stojche, VIL (PT), Zenker Brothers |
 | Fri, 11 Sept 2026 | Laundrette | CC:DISCO!, David Elimelech, Partok, Paul Wolsch, Roi Perez, Sally C, Samira |
 | Sat, 12 Sept 2026 | Klubnacht | Drumcell, Erik Luebs, GIO THELLO, Jennifer Loveless, Jump Source, Kangding Ray, Kikelomo, LOLSNAKE, Mari Sakurai, Perfo, Subb-an, Tama Sumo, Virginia, Wata Igarashi |
@@ -18,9 +17,10 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 | Thu, 24 Sept 2026 | Terenor | Agata, Agata (PL), CUNT REMEMBER, Egregore, Jolly (2), Jolly (FR), Ninon |
 | Fri, 25 Sept 2026 | WSNWG LIVE | Dasha Rush, Megan Leber, Rødhåd, Speedy J, UFO95 |
 | Sat, 26 Sept 2026 | Klubnacht | Auspex, Beste Hira, Bradley Zero, Colin Benders, Fabio Monesi, Jana Falcon, Joline Scheffler, Jorkes, Make A Dance, Marcel Dettmann, Matisa, Patrick Pulsinger, Sam Irl, Tasha, Tripmastaz, UVB, nd_baumecker |
+| Tue, 13 Oct 2026 | Krallice + Rashad Becker | Rashad Becker |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

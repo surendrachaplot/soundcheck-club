@@ -1,13 +1,14 @@
 # Atomic moog
 
-Atomic moog is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
+Atomic moog is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
 
-Atomic moog is a techno and experimental artist tracked on soundcheck, with 14 sets logged across London, Madrid, Nantes and Osaka and 4 more. Often billed alongside Maemm, .VRIL and Aaron J. Next up: Magasins Généraux, Paris on Fri 20 Nov.
+Atomic moog is a techno and experimental artist tracked on soundcheck, with 15 sets logged across London, Madrid, Nantes and Osaka and 4 more. Often billed alongside Maemm, .VRIL and Aaron J. Next up: Lasociaciøn, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Lasociaciøn | Madrid |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
 
@@ -26,4 +27,4 @@ Atomic moog is a techno and experimental artist tracked on soundcheck, with 14 s
 
 Maemm, .VRIL, Aaron J
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atomicmoog/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atomicmoog/)*

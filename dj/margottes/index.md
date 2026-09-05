@@ -1,6 +1,6 @@
 # Margott (ES)
 
-Margott (ES) is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Cadavra, Madrid on Sat, 5 Sept 2026.
+Margott (ES) is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Cadavra, Madrid on Sat, 5 Sept 2026.
 
 Margott (ES) is a house and electronica artist based in Spain, tracked on soundcheck, with 2 sets logged across Madrid. Often billed alongside Baldo, Ethel and Major Mario. Next up: Cadavra, Madrid on Sat 5 Sept.
 
@@ -15,4 +15,4 @@ Margott (ES) is a house and electronica artist based in Spain, tracked on soundc
 
 Baldo, Ethel, Major Mario
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/margottes/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/margottes/)*

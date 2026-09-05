@@ -1,6 +1,6 @@
 # machìna
 
-machìna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at ZENNER, Berlin on Thu, 24 Sept 2026.
+machìna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at ZENNER, Berlin on Thu, 24 Sept 2026.
 
 machìna is a techno and house artist based in South Korea, tracked on soundcheck, with 45 sets logged across Berlin, Brussels, Denver and Kualalumpur and 11 more. Often billed alongside Richie Hawtin, Nicola Cruz and AADJA. Next up: ZENNER, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ machìna is a techno and house artist based in South Korea, tracked on soundchec
 
 Richie Hawtin, Nicola Cruz, AADJA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/machina/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/machina/)*

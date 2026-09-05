@@ -1,6 +1,6 @@
 # DETEST
 
-DETEST is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sky Club, Leipzig on Sat, 28 Nov 2026.
+DETEST is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Sky Club, Leipzig on Sat, 28 Nov 2026.
 
 DETEST is a techno and hardcore artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Frankfurt, Ghent and Leipzig and 4 more. Often billed alongside AMBAM, Bollmann and Ender. Next up: Sky Club, Leipzig on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DETEST is a techno and hardcore artist based in Germany, tracked on soundcheck, 
 
 AMBAM, Bollmann, Ender
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detest/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detest/)*

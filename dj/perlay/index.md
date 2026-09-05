@@ -1,6 +1,6 @@
 # perlay
 
-perlay is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Very Small Club, Budapest on Fri, 11 Sept 2026.
+perlay is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Very Small Club, Budapest on Fri, 11 Sept 2026.
 
 perlay is a house and minimal artist based in Hungary, tracked on soundcheck, with 22 sets logged across Budapest. Often billed alongside Andrija Jäger, JAGER (HU) and Dubtist. Next up: Very Small Club, Budapest on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ perlay is a house and minimal artist based in Hungary, tracked on soundcheck, wi
 
 Andrija Jäger, JAGER (HU), Dubtist
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perlay/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perlay/)*

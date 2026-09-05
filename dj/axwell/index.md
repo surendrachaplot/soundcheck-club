@@ -1,6 +1,6 @@
 # Axwell
 
-Axwell is a Electronica and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Sat, 5 Sept 2026.
+Axwell is a Electronica and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Sat, 5 Sept 2026.
 
 Axwell is an electronica and progressive house artist tracked on soundcheck, with 5 sets logged across Athens, Buenosaires, Miami and Tokyo. Often billed alongside Adam Ten, Innellea and Kaskade. Next up: Olympic Athletic Center of Athens, Athens on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Axwell is an electronica and progressive house artist tracked on soundcheck, wit
 
 Adam Ten, Innellea, Kaskade
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axwell/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axwell/)*

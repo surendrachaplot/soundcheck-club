@@ -1,6 +1,6 @@
 # TILEBOI
 
-TILEBOI is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Vespers Club, London on Sat, 31 Oct 2026.
+TILEBOI is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Vespers Club, London on Sat, 31 Oct 2026.
 
 TILEBOI is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside SIOBHAN., AAKAARA and Balrog. Next up: Vespers Club, London on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ TILEBOI is a techno and electro artist based in United Kingdom, tracked on sound
 
 SIOBHAN., AAKAARA, Balrog
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tileboi/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tileboi/)*

@@ -1,6 +1,6 @@
 # Elias Erium
 
-Elias Erium is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Stereo, Montreal on Sat, 5 Sept 2026.
+Elias Erium is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Stereo, Montreal on Sat, 5 Sept 2026.
 
 Elias Erium is a progressive house and techno artist tracked on soundcheck, with 11 sets logged across Montreal and Toronto. Often billed alongside 8KAYS, Adam Ten and Enamour. Next up: Stereo, Montreal on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Elias Erium is a progressive house and techno artist tracked on soundcheck, with
 
 8KAYS, Adam Ten, Enamour
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliaserium/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliaserium/)*

@@ -1,6 +1,6 @@
 # Kessie
 
-Kessie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TILLATEC, Amsterdam on Sun, 13 Sept 2026.
+Kessie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TILLATEC, Amsterdam on Sun, 13 Sept 2026.
 
 Kessie is a techno and house artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside DAX J, Gareth Wild and Deventi. Next up: TILLATEC, Amsterdam on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Kessie is a techno and house artist based in United Kingdom, tracked on soundche
 
 DAX J, Gareth Wild, Deventi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kessie/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kessie/)*

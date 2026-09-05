@@ -1,6 +1,6 @@
 # Century
 
-Century is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "RITUAL - 10th Birthday Rooftop Party" on Sat, 12 Sept 2026.
+Century is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "RITUAL - 10th Birthday Rooftop Party" on Sat, 12 Sept 2026.
 
 Century is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including HARTY and Jansons. Browse upcoming dates, start times and who's playing. 61-63 Shaftsbury Avenue; Soho; London W1D 6LD; United Kingdom.
 
@@ -14,4 +14,4 @@ Century is a music venue in London listed on soundcheck. 1 upcoming night, with 
 
 61-63 Shaftsbury Avenue; Soho; London W1D 6LD; United Kingdom, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/century/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/century/)*

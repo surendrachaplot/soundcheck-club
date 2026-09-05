@@ -1,6 +1,6 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Mindtrip 5 YEAR ANNIVERSARY w DJ Tree at Nido" on Sat, 5 Sept 2026.
+Nido Marseille is a music venue in Marseille with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Mindtrip 5 YEAR ANNIVERSARY w DJ Tree at Nido" on Sat, 5 Sept 2026.
 
 Nido Marseille is a music venue in Marseille listed on soundcheck. 3 upcoming nights, with line-ups including Clayton Guifford, DJ Tree, Edward and Markus Sommer and 1 more. Browse upcoming dates, start times and who's playing. 20 boulevard fifi turin.
 
@@ -16,4 +16,4 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 3 upcoming ni
 
 20 boulevard fifi turin, Marseille
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

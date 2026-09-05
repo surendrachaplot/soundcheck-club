@@ -1,6 +1,6 @@
 # TBA - Alice Springs
 
-TBA - Alice Springs is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Togetherness: Day Rave with Cooper Cooper" on Sat, 26 Sept 2026.
+TBA - Alice Springs is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Togetherness: Day Rave with Cooper Cooper" on Sat, 26 Sept 2026.
 
 TBA - Alice Springs is a music venue in Melbourne listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Alice Springs is a music venue in Melbourne listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Togetherness: Day Rave with Cooper Cooper |  |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-alice-springs/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-alice-springs/)*

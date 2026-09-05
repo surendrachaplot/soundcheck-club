@@ -1,6 +1,6 @@
 # YAAM Berlin
 
-YAAM Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Noanda Soul Session" on Tue, 8 Sept 2026.
+YAAM Berlin is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Noanda Soul Session" on Tue, 8 Sept 2026.
 
 YAAM Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including DJ BuneKaoJR, N3LYSTAR and SILVASURFER. Browse upcoming dates, start times and who's playing. An der Schillingbrücke 3, 10243 Berlin, Germany.
 
@@ -16,4 +16,4 @@ YAAM Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming nights, 
 
 An der Schillingbrücke 3, 10243 Berlin, Germany, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/yaam-berlin/)*

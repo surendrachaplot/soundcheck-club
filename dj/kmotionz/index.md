@@ -1,6 +1,6 @@
 # K Motionz
 
-K Motionz is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+K Motionz is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 K Motionz is a drum & bass and bass artist tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 27 more. Often billed alongside Hybrid Minds, IC3 and Mozey. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -30,4 +30,4 @@ K Motionz is a drum & bass and bass artist tracked on soundcheck, with 83 sets l
 
 Hybrid Minds, IC3, Mozey
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmotionz/)*

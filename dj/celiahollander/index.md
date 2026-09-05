@@ -1,6 +1,6 @@
 # Celia Hollander
 
-Celia Hollander is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Airliner, Los Angeles on Sat, 19 Sept 2026.
+Celia Hollander is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Airliner, Los Angeles on Sat, 19 Sept 2026.
 
 Celia Hollander is an ambient and experimental artist tracked on soundcheck, with 8 sets logged across Losangeles and Newyorkcity. Often billed alongside Photay, AceMo and Colloboh. Next up: The Airliner, Losangeles on Sat 19 Sept.
 
@@ -24,4 +24,4 @@ Celia Hollander is an ambient and experimental artist tracked on soundcheck, wit
 
 Photay, AceMo, Colloboh
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/celiahollander/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/celiahollander/)*

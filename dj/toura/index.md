@@ -1,6 +1,6 @@
 # Toura
 
-Toura is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Model, Nottingham on Fri, 9 Oct 2026.
+Toura is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Model, Nottingham on Fri, 9 Oct 2026.
 
 Toura is a techno and bass artist tracked on soundcheck, with 21 sets logged across Bristol, London and Nottingham. Often billed alongside M75 (1), MIDRIB and CHAMBER45. Next up: The Model, Nottingham on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Toura is a techno and bass artist tracked on soundcheck, with 21 sets logged acr
 
 M75 (1), MIDRIB, CHAMBER45
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toura/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toura/)*

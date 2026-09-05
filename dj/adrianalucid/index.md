@@ -1,6 +1,6 @@
 # ADRIANA LUCID
 
-ADRIANA LUCID is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Benelux BAR, Amsterdam on Sun, 20 Sept 2026.
+ADRIANA LUCID is a Garage and Grime artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Benelux BAR, Amsterdam on Sun, 20 Sept 2026.
 
 ADRIANA LUCID is a garage and grime artist based in Netherlands, tracked on soundcheck, with 26 sets logged across Amsterdam and Utrecht. Often billed alongside Lola Edo, OG Karin and BASHKKA. Next up: Benelux BAR, Amsterdam on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ ADRIANA LUCID is a garage and grime artist based in Netherlands, tracked on soun
 
 Lola Edo, OG Karin, BASHKKA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalucid/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalucid/)*

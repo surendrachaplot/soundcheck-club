@@ -1,6 +1,6 @@
 # DAN:EZ
 
-DAN:EZ is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 19 Sept 2026.
+DAN:EZ is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Waterhouse Studios, Amsterdam on Sat, 19 Sept 2026.
 
 DAN:EZ is a techno and minimal techno artist tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Alex Sharp, DEVREE and Ides of March. Next up: Waterhouse Studios, Amsterdam on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ DAN:EZ is a techno and minimal techno artist tracked on soundcheck, with 4 sets 
 
 Alex Sharp, DEVREE, Ides of March
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danez/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danez/)*

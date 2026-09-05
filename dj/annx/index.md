@@ -1,6 +1,6 @@
 # ANNX
 
-ANNX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Stollen 134, Dortmund-essen on Fri, 11 Sept 2026.
+ANNX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Stollen 134, Dortmund-essen on Fri, 11 Sept 2026.
 
 ANNX is a techno and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Bangkok, Berlin, Bristol and Brussels and 11 more. Often billed alongside Lora Mipsum, noodle and Anna Wall. Next up: Stollen 134, Dortmund-essen on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ ANNX is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Lora Mipsum, noodle, Anna Wall
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annx/)*

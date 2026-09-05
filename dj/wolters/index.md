@@ -1,6 +1,6 @@
 # WOLTERS
 
-WOLTERS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
+WOLTERS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 5 Sept 2026.
 
 WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 11 more. Often billed alongside Bella Claxton, Kyle Starkey and Ned Bennett. Next up: SISSI'S Amsterdam, Amsterdam on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ WOLTERS is a techno and house artist based in Australia, tracked on soundcheck, 
 
 Bella Claxton, Kyle Starkey, Ned Bennett
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*

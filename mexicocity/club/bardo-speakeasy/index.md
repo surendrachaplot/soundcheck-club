@@ -1,6 +1,6 @@
 # Bardo Speakeasy
 
-Bardo Speakeasy is a music venue in Mexico City with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "NUESTRA SEMANA - Bardo" on Wed, 2 Sept 2026.
+Bardo Speakeasy is a music venue in Mexico City with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "NUESTRA SEMANA - Bardo" on Wed, 2 Sept 2026.
 
 Bardo Speakeasy is a music venue in Mexicocity listed on soundcheck. 2 upcoming nights, with line-ups including D'Leo, Dwight Evan and Modern Sleaze. Browse upcoming dates, start times and who's playing. Av Nuevo León 225-piso 2, Hipódromo Condesa, Cuauhtémoc,, Mexico City, Mexico 06100.
 
@@ -15,4 +15,4 @@ Bardo Speakeasy is a music venue in Mexicocity listed on soundcheck. 2 upcoming 
 
 Av Nuevo León 225-piso 2, Hipódromo Condesa, Cuauhtémoc,, Mexico City, Mexico 06100, Mexico City
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bardo-speakeasy/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bardo-speakeasy/)*

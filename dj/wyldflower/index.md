@@ -1,6 +1,6 @@
 # Wyldflower
 
-Wyldflower is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - XuXu, Austin on Fri, 11 Sept 2026.
+Wyldflower is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - XuXu, Austin on Fri, 11 Sept 2026.
 
 Wyldflower is a house and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Austin and Berlin. Often billed alongside Schithegod, 1morning and 6 SENSE. Next up: TBA - XuXu, Austin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Wyldflower is a house and techno artist based in United States of America, track
 
 Schithegod, 1morning, 6 SENSE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wyldflower/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wyldflower/)*

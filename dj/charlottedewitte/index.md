@@ -1,6 +1,6 @@
 # Charlotte de Witte
 
-Charlotte de Witte is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ex Macello, Milan on Sat, 5 Sept 2026.
+Charlotte de Witte is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Ex Macello, Milan on Sat, 5 Sept 2026.
 
 Charlotte de Witte is a techno and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Enrico Sangiuliano, Adiel and 999999999. Next up: Ex Macello, Milan on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Charlotte de Witte is a techno and house artist tracked on soundcheck, with 138 
 
 Enrico Sangiuliano, Adiel, 999999999
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlottedewitte/)*

@@ -1,6 +1,6 @@
 # Waterhouse Studios
 
-Waterhouse Studios is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Discosabotage & 2lovers afterparty - night time" on Sat, 5 Sept 2026.
+Waterhouse Studios is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Discosabotage & 2lovers afterparty - night time" on Sat, 5 Sept 2026.
 
 Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including ADAM PAPANEK, After Affair, Alex Pastor and Alex Pi and 2 more. Browse upcoming dates, start times and who's playing. Danzigerkade 1, 1013 AP Amsterdam.
 
@@ -22,4 +22,4 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 9 upcomin
 
 Danzigerkade 1, 1013 AP Amsterdam, Amsterdam
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*

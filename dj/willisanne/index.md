@@ -1,6 +1,6 @@
 # Willis Anne
 
-Willis Anne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Willis Anne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
 Willis Anne is a house and techno artist based in France, tracked on soundcheck, with 40 sets logged across Berlin, Melbourne, Osaka and Strasbourg and 2 more. Often billed alongside Kate Miller, Rakhi and DJ Possum. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Willis Anne is a house and techno artist based in France, tracked on soundcheck,
 
 Kate Miller, Rakhi, DJ Possum
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willisanne/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willisanne/)*

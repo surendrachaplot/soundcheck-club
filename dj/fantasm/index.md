@@ -1,14 +1,13 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Carlswerk Victoria, Cologne on Fri, 4 Sept 2026.
+Fantasm is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Wasteland Festival, Cologne on Sat, 5 Sept 2026.
 
-Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Carlswerk Victoria, Cologne on Fri 4 Sept.
+Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: TBA - Wasteland Festival, Cologne on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Carlswerk Victoria | Cologne |
 | Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
 | Sun, 6 Sept 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Sun, 6 Sept 2026 | Palace of Fine Arts | San Francisco/Oakland |
@@ -23,6 +22,7 @@ Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logg
 
 ## Recently played
 
+- Carlswerk Victoria, Cologne — Fri, 4 Sept 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - UNO MALTA, Malta — Fri, 7 Aug 2026
@@ -30,10 +30,9 @@ Fantasm is a techno and hardcore artist tracked on soundcheck, with 78 sets logg
 - Strijkviertel, Utrecht — Sat, 6 Jun 2026
 - Epic Prague, Prague — Sat, 30 May 2026
 - UNO MALTA, Malta — Thu, 21 May 2026
-- Arzenal, Budapest — Fri, 8 May 2026
 
 ## Shares bills with
 
 KLOFAMA, NOVAH, Holy Priest
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

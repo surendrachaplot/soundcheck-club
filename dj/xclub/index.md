@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+X CLUB. is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 X CLUB. is a techno and house artist tracked on soundcheck, with 219 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 62 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -22,6 +22,7 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 219 sets logged
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - Phoxxi Green Area, Hamburg — Sat, 22 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Substation, Seattle — Sat, 8 Aug 2026
@@ -29,10 +30,9 @@ X CLUB. is a techno and house artist tracked on soundcheck, with 219 sets logged
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - Brooklyn Army Terminal, New York City — Fri, 31 Jul 2026
 - La Terrrazza, Barcelona — Sat, 18 Jul 2026
-- Trädgården, Stockholm — Thu, 16 Jul 2026
 
 ## Shares bills with
 
 KETTAMA, DJ Heartstring, VTSS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

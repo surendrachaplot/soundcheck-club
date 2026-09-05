@@ -1,6 +1,6 @@
 # KISA
 
-KISA is a UK Funky and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Fox and Firkin, London on Sat, 12 Sept 2026.
+KISA is a UK Funky and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Fox and Firkin, London on Sat, 12 Sept 2026.
 
 KISA is an uk funky and broken beat artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Leeds, London and Losangeles and 2 more. Often billed alongside Shadeda, Babajide and GRACE... Next up: The Fox and Firkin, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ KISA is an uk funky and broken beat artist based in United Kingdom, tracked on s
 
 Shadeda, Babajide, GRACE..
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kisa/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kisa/)*

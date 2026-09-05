@@ -1,6 +1,6 @@
 # Bar15
 
-Bar15 is a music venue in Stockholm with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Art for Industry" on Fri, 11 Sept 2026.
+Bar15 is a music venue in Stockholm with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Art for Industry" on Fri, 11 Sept 2026.
 
 Bar15 is a music venue in Stockholm listed on soundcheck. 4 upcoming nights, with line-ups including Bogeyman, Coco & Breezy, Davide Dev and Jessie Granqvist and 2 more. Browse upcoming dates, start times and who's playing. DISTRIKTFEM Hallgränd 19 121 62 Johanneshov, Stockholm, Sweden.
 
@@ -17,4 +17,4 @@ Bar15 is a music venue in Stockholm listed on soundcheck. 4 upcoming nights, wit
 
 DISTRIKTFEM Hallgränd 19 121 62 Johanneshov, Stockholm, Sweden, Stockholm
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/bar15/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/bar15/)*

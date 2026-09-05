@@ -1,6 +1,6 @@
 # Andy Farley
 
-Andy Farley is a House and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Beaver Works, Leeds on Sat, 12 Sept 2026.
+Andy Farley is a House and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Beaver Works, Leeds on Sat, 12 Sept 2026.
 
 Andy Farley is a house and industrial artist tracked on soundcheck, with 9 sets logged across Bristol, Leeds and London. Often billed alongside BK, Anahita Shamsaei and Kyle E. Next up: Beaver Works, Leeds on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Andy Farley is a house and industrial artist tracked on soundcheck, with 9 sets 
 
 BK, Anahita Shamsaei, Kyle E
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andyfarley/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andyfarley/)*

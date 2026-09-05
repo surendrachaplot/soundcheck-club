@@ -1,6 +1,6 @@
 # Mille (DE)
 
-Mille (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Südpol, Hamburg on Sat, 5 Sept 2026.
+Mille (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Südpol, Hamburg on Sat, 5 Sept 2026.
 
 Mille (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Hamburg. Often billed alongside MILLE, DJ MILLE and Alec Dienaar. Next up: Südpol, Hamburg on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ Mille (DE) is a house and techno artist based in Germany, tracked on soundcheck,
 
 MILLE, DJ MILLE, Alec Dienaar
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mille--de/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mille--de/)*

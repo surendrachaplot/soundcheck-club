@@ -1,6 +1,6 @@
 # charlois
 
-charlois is a Trance and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Centre Point, Dublin on Sat, 17 Oct 2026.
+charlois is a Trance and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Centre Point, Dublin on Sat, 17 Oct 2026.
 
 charlois is a trance and disco artist based in Ireland, tracked on soundcheck, with 25 sets logged across Dublin. Often billed alongside Máthair, High Fidelity and Jenn Hession. Next up: Centre Point, Dublin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ charlois is a trance and disco artist based in Ireland, tracked on soundcheck, w
 
 Máthair, High Fidelity, Jenn Hession
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlois/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charlois/)*

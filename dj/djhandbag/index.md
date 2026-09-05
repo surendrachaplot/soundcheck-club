@@ -1,6 +1,6 @@
 # Dj handbag
 
-Dj handbag is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 5 Sept 2026.
+Dj handbag is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 5 Sept 2026.
 
 Dj handbag is a house and techno artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Daniel Berj, ADAM MUNNINGS and DJ Hyaluron. Next up: Phantom Bar Berlin, Berlin on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Dj handbag is a house and techno artist tracked on soundcheck, with 79 sets logg
 
 Daniel Berj, ADAM MUNNINGS, DJ Hyaluron
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandbag/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhandbag/)*

@@ -1,6 +1,6 @@
 # Jojo Vice
 
-Jojo Vice is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Goldener Reiter, Munich on Sat, 5 Sept 2026.
+Jojo Vice is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Goldener Reiter, Munich on Sat, 5 Sept 2026.
 
 Jojo Vice is a house and trance artist tracked on soundcheck, with 25 sets logged across Berlin, Leipzig, Munich and Nurnberg and 1 more. Often billed alongside Andi Britz, André Dancekowski and Buzé. Next up: Goldener Reiter, Munich on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Jojo Vice is a house and trance artist tracked on soundcheck, with 25 sets logge
 
 Andi Britz, André Dancekowski, Buzé
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jojovice/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jojovice/)*

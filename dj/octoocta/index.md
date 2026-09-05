@@ -1,6 +1,6 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Octo Octa is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Octo Octa is a house and techno artist tracked on soundcheck, with 201 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 55 more. Often billed alongside Eris Drew, CCL and Fafi Abdel Nour. Next up: The Cause, London on Sat 12 Sept.
 
@@ -36,4 +36,4 @@ Octo Octa is a house and techno artist tracked on soundcheck, with 201 sets logg
 
 Eris Drew, CCL, Fafi Abdel Nour
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

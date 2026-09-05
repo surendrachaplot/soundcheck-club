@@ -1,6 +1,6 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Supergloss is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 Supergloss is a techno and trance artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 208 sets lo
 
 Funk Tribu, Omon Breaker, MALUGI
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

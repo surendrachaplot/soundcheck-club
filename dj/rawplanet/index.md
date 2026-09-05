@@ -1,6 +1,6 @@
 # Raw Planet
 
-Raw Planet is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Refuge, New York City on Mon, 7 Sept 2026.
+Raw Planet is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Refuge, New York City on Mon, 7 Sept 2026.
 
 Raw Planet is a house and tech house artist tracked on soundcheck, with 18 sets logged across Barcelona, Detroit, Newyorkcity and Valencia and 1 more. Often billed alongside Eric Yaz, KenYi and VYNX. Next up: Refuge, Newyorkcity on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Raw Planet is a house and tech house artist tracked on soundcheck, with 18 sets 
 
 Eric Yaz, KenYi, VYNX
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rawplanet/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rawplanet/)*

@@ -1,6 +1,6 @@
 # Fideles
 
-Fideles is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 7 Sept 2026.
+Fideles is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 7 Sept 2026.
 
 Fideles is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 40 more. Often billed alongside Brina Knauss, Miss Monique and Mathame. Next up: Hï Ibiza, Ibiza on Mon 7 Sept.
 
@@ -28,4 +28,4 @@ Fideles is a techno and house artist tracked on soundcheck, with 121 sets logged
 
 Brina Knauss, Miss Monique, Mathame
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*

@@ -1,6 +1,6 @@
 # Sel.6
 
-Sel.6 is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Sel.6 is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Sel.6 is a bass and techno artist tracked on soundcheck, with 53 sets logged across Miami, Newyorkcity and Washingtondc. Often billed alongside Alexx in Chainss, DJ Tamsom and Pressure Point (US). Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Sel.6 is a bass and techno artist tracked on soundcheck, with 53 sets logged acr
 
 Alexx in Chainss, DJ Tamsom, Pressure Point (US)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sel6/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sel6/)*

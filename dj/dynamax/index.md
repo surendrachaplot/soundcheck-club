@@ -1,6 +1,6 @@
 # Dynamax
 
-Dynamax is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
+Dynamax is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
 
 Dynamax is a hardcore and gabber artist based in Japan, tracked on soundcheck, with 9 sets logged across Osaka and Tokyo. Often billed alongside M-Project, Coretex and DJ Shimamura. Next up: Circus Tokyo, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dynamax is a hardcore and gabber artist based in Japan, tracked on soundcheck, w
 
 M-Project, Coretex, DJ Shimamura
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamax/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dynamax/)*

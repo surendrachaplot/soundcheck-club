@@ -1,14 +1,13 @@
 # Mandragora
 
-Mandragora is a Techno and Psytrance artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Those Who Dance, Lisbon on Fri, 4 Sept 2026.
+Mandragora is a Techno and Psytrance artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hard Club, Porto on Sat, 5 Sept 2026.
 
-Mandragora is a techno and psytrance artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Cologne and 15 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Those Who Dance, Lisbon on Fri 4 Sept.
+Mandragora is a techno and psytrance artist tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Brussels and Cologne and 15 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Hard Club, Porto on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Those Who Dance | Lisbon |
 | Sat, 5 Sept 2026 | Hard Club | Porto |
 | Fri, 18 Sept 2026 | Cult Nightclub | Sydney |
 | Sat, 19 Sept 2026 | Bourke Street Courtyard | Melbourne |
@@ -17,6 +16,7 @@ Mandragora is a techno and psytrance artist tracked on soundcheck, with 40 sets 
 
 ## Recently played
 
+- Those Who Dance, Lisbon — Fri, 4 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 19 Jul 2026
 - TBA - DTLA, Los Angeles — Sat, 11 Jul 2026
 - SAGE, Berlin — Sat, 6 Jun 2026
@@ -24,10 +24,9 @@ Mandragora is a techno and psytrance artist tracked on soundcheck, with 40 sets 
 - Cabaret  Aléatoire, Marseille — Sat, 21 Mar 2026
 - Warehouse, Nantes — Fri, 27 Feb 2026
 - Brussels Expo, Brussels — Tue, 30 Dec 2025
-- La Riviera, Madrid — Sat, 20 Dec 2025
 
 ## Shares bills with
 
 Vladimir Cauchemar, Angerfist, DYEN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*

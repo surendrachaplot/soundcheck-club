@@ -1,6 +1,6 @@
 # Sarah Farina
 
-Sarah Farina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Südpol, Hamburg on Sat, 12 Sept 2026.
+Sarah Farina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Südpol, Hamburg on Sat, 12 Sept 2026.
 
 Sarah Farina is a house and techno artist tracked on soundcheck, with 61 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside African Head Charge, Marta De Pascalis and PRAED. Next up: Südpol, Hamburg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sarah Farina is a house and techno artist tracked on soundcheck, with 61 sets lo
 
 African Head Charge, Marta De Pascalis, PRAED
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahfarina/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahfarina/)*

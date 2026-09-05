@@ -1,6 +1,6 @@
 # BOVSKI
 
-BOVSKI is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Wigwam, Dublin on Fri, 11 Sept 2026.
+BOVSKI is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Wigwam, Dublin on Fri, 11 Sept 2026.
 
 BOVSKI is a techno and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Cologne, Dublin and Dusseldorf and 9 more. Often billed alongside A.N.I., Johannes Schuster and Charleen Herzig. Next up: Wigwam, Dublin on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ BOVSKI is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 A.N.I., Johannes Schuster, Charleen Herzig
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*

@@ -1,14 +1,13 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Inner Circle feat. Olau" on Fri, 4 Sept 2026.
+Círculo is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Inner Circle feat. UAV Jammer" on Sat, 5 Sept 2026.
 
-Círculo is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Gabriella Ponce, LeMichael and UAV Jammer. Browse upcoming dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
+Círculo is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including Gabriella Ponce, LeMichael and UAV Jammer. Browse upcoming dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Inner Circle feat. Olau |  |
 | Sat, 5 Sept 2026 | Inner Circle feat. UAV Jammer | UAV Jammer |
 | Thu, 10 Sept 2026 | Inner Circle feat. LeMichael | LeMichael |
 | Fri, 11 Sept 2026 | Inner Circle feat. Gabriella Ponce | Gabriella Ponce |
@@ -18,4 +17,4 @@ Círculo is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, 
 
 Carrer del Rec, 62, 08003, Barcelona, Spain, Barcelona
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*

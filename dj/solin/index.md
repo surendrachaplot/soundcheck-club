@@ -1,18 +1,18 @@
 # Solin
 
-Solin is a Bass and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Smolna, Warsaw on Fri, 4 Sept 2026.
+Solin is a Bass and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 12 Sept 2026.
 
-Solin is a bass and tech house artist based in Poland, tracked on soundcheck, with 11 sets logged across Copenhagen, Krakow and Warsaw. Often billed alongside Adnable, Kaj.O and shhron. Next up: Smolna, Warsaw on Fri 4 Sept.
+Solin is a bass and tech house artist based in Poland, tracked on soundcheck, with 11 sets logged across Copenhagen, Krakow and Warsaw. Often billed alongside Adnable, Kaj.O and shhron. Next up: K-Bar Powiśle, Warsaw on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Smolna | Warsaw |
 | Sat, 12 Sept 2026 | K-Bar Powiśle | Warsaw |
 
 ## Recently played
 
+- Smolna, Warsaw — Fri, 4 Sept 2026
 - Sekta Selekta, Krakow — Fri, 3 Jul 2026
 - Sekta Selekta, Krakow — Fri, 3 Jul 2026
 - Sekta Selekta, Krakow — Fri, 13 Feb 2026
@@ -20,10 +20,9 @@ Solin is a bass and tech house artist based in Poland, tracked on soundcheck, wi
 - underiolo, Warsaw — Fri, 21 Nov 2025
 - STK 47 WAREHOUSE, Krakow — Fri, 13 Jun 2025
 - Sekta Selekta, Krakow — Fri, 21 Mar 2025
-- MODULE, Copenhagen — Fri, 13 Sept 2024
 
 ## Shares bills with
 
 Adnable, Kaj.O, shhron
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solin/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solin/)*

@@ -1,6 +1,6 @@
 # Nikki Kent
 
-Nikki Kent is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 3 Oct 2026.
+Nikki Kent is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Bongo Club, Edinburgh on Sat, 3 Oct 2026.
 
 Nikki Kent is a house and disco artist tracked on soundcheck, with 66 sets logged across Edinburgh and Glasgow. Often billed alongside Ravelston, Hometown Sound and Jacuzzi General. Next up: The Bongo Club, Edinburgh on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Nikki Kent is a house and disco artist tracked on soundcheck, with 66 sets logge
 
 Ravelston, Hometown Sound, Jacuzzi General
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkikent/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkikent/)*

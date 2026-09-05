@@ -1,13 +1,14 @@
 # Never Dull
 
-Never Dull is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Night Tales, London on Sat, 12 Sept 2026.
+Never Dull is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Loo Loo, Mexico City on Sat, 5 Sept 2026.
 
-Never Dull is a house and disco artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside Rich Reason, Boogietraxx and Eliangel. Next up: Night Tales, London on Sat 12 Sept.
+Never Dull is a house and disco artist based in United States of America, tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside Rich Reason, Boogietraxx and Eliangel. Next up: Loo Loo, Mexicocity on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | Loo Loo | Mexico City |
 | Sat, 12 Sept 2026 | Night Tales | London |
 | Fri, 25 Sept 2026 | TBA - 6th St Bridge | Los Angeles |
 
@@ -26,4 +27,4 @@ Never Dull is a house and disco artist based in United States of America, tracke
 
 Rich Reason, Boogietraxx, Eliangel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdull/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdull/)*

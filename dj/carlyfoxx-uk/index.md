@@ -1,6 +1,6 @@
 # Carly Foxx
 
-Carly Foxx is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Carly Foxx is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Carly Foxx is a disco and house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Ibiza, London, Manchester and Melbourne and 2 more. Often billed alongside Daisybelle, Horse Meat Disco and Toby Elliot. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Carly Foxx is a disco and house artist based in United Kingdom, tracked on sound
 
 Daisybelle, Horse Meat Disco, Toby Elliot
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyfoxx-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyfoxx-uk/)*

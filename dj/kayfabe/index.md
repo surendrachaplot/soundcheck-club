@@ -1,8 +1,8 @@
 # Kay Fabe
 
-Kay Fabe is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Model, Nottingham on Sat, 12 Sept 2026.
+Kay Fabe is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Model, Nottingham on Sat, 12 Sept 2026.
 
-Kay Fabe is a techno and house artist tracked on soundcheck, with 17 sets logged across London, Nottingham and Sheffield. Often billed alongside Evil Woman, Joi La Frique and M75 (1). Next up: The Model, Nottingham on Sat 12 Sept.
+Kay Fabe is a techno and house artist tracked on soundcheck, with 18 sets logged across London, Nottingham and Sheffield. Often billed alongside Evil Woman, Joi La Frique and M75 (1). Next up: The Model, Nottingham on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kay Fabe is a techno and house artist tracked on soundcheck, with 17 sets logged
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Model | Nottingham |
 | Fri, 16 Oct 2026 | The Model | Nottingham |
+| Fri, 13 Nov 2026 | Gut Level | Sheffield |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kay Fabe is a techno and house artist tracked on soundcheck, with 17 sets logged
 
 Evil Woman, Joi La Frique, M75 (1)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayfabe/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kayfabe/)*

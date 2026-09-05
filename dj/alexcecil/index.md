@@ -1,6 +1,6 @@
 # Alex Cecil
 
-Alex Cecil is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
+Alex Cecil is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Barracuda in the Grove, Miami on Sat, 12 Sept 2026.
 
 Alex Cecil is a house and deep house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Lisbon, Miami and Newyorkcity and 1 more. Often billed alongside Dude Skywalker, Devon James and Kike Roldan. Next up: Barracuda in the Grove, Miami on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Alex Cecil is a house and deep house artist tracked on soundcheck, with 37 sets 
 
 Dude Skywalker, Devon James, Kike Roldan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcecil/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexcecil/)*

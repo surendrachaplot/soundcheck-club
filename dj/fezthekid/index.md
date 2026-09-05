@@ -1,6 +1,6 @@
 # Fez the Kid
 
-Fez the Kid is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Fez the Kid is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Fez the Kid is a jungle and hardcore artist tracked on soundcheck, with 51 sets logged across Berlin, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside Cheff The Boy, Artificial Red and Betsy Mae. Next up: The Cause, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Fez the Kid is a jungle and hardcore artist tracked on soundcheck, with 51 sets 
 
 Cheff The Boy, Artificial Red, Betsy Mae
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fezthekid/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fezthekid/)*

@@ -1,6 +1,6 @@
 # Danny Parton
 
-Danny Parton is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Obe, Lyon on Fri, 4 Sept 2026.
+Danny Parton is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Obe, Lyon on Fri, 4 Sept 2026.
 
 Danny Parton is a house and disco artist tracked on soundcheck, with 6 sets logged across Lyon and Paris. Often billed alongside Automatic Writing, BIXBITA and Electric Rescue. Next up: Obe, Lyon on Fri 4 Sept.
 
@@ -12,6 +12,7 @@ Danny Parton is a house and disco artist tracked on soundcheck, with 6 sets logg
 
 ## Recently played
 
+- Obe, Lyon — Fri, 4 Sept 2026
 - Kilomètre25, Paris — Thu, 18 Sept 2025
 - Glazart, Paris — Sun, 17 Aug 2025
 - La Marquise, Lyon — Thu, 29 May 2025
@@ -22,4 +23,4 @@ Danny Parton is a house and disco artist tracked on soundcheck, with 6 sets logg
 
 Automatic Writing, BIXBITA, Electric Rescue
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyparton/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyparton/)*

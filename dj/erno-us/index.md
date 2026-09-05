@@ -1,6 +1,6 @@
 # ERNO (US)
 
-ERNO (US) is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TV Lounge, Detroit on Sun, 6 Sept 2026.
+ERNO (US) is a Funk / Soul and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TV Lounge, Detroit on Sun, 6 Sept 2026.
 
 ERNO (US) is a funk / soul and disco artist tracked on soundcheck, with 128 sets logged across Barcelona, Detroit, Losangeles and Washingtondc. Often billed alongside Eastside Jon, John Collins (US) and Ashton Swinton. Next up: TV Lounge, Detroit on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ ERNO (US) is a funk / soul and disco artist tracked on soundcheck, with 128 sets
 
 Eastside Jon, John Collins (US), Ashton Swinton
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erno-us/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erno-us/)*

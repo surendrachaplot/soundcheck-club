@@ -1,6 +1,6 @@
 # Herbalistek
 
-Herbalistek is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at WOMB, Tokyo on Mon, 21 Sept 2026.
+Herbalistek is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at WOMB, Tokyo on Mon, 21 Sept 2026.
 
 Herbalistek is a techno and bass artist based in Japan, tracked on soundcheck, with 38 sets logged across Barcelona, Madrid, Osaka and Tokyo. Often billed alongside comm, Allen Mock and Dayzero. Next up: WOMB, Tokyo on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ Herbalistek is a techno and bass artist based in Japan, tracked on soundcheck, w
 
 comm, Allen Mock, Dayzero
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herbalistek/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herbalistek/)*

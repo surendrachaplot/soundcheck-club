@@ -1,6 +1,6 @@
 # Carla Genus
 
-Carla Genus is a Hip-Hop and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Optimhall, Geneva on Sat, 19 Sept 2026.
+Carla Genus is a Hip-Hop and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Optimhall, Geneva on Sat, 19 Sept 2026.
 
 Carla Genus is a hip-hop and reggaeton artist tracked on soundcheck, with 32 sets logged across Berlin, Geneva, Paris and Turin. Often billed alongside Daddy Chulo, Armel Bizzman and Negdedunn. Next up: Optimhall, Geneva on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Carla Genus is a hip-hop and reggaeton artist tracked on soundcheck, with 32 set
 
 Daddy Chulo, Armel Bizzman, Negdedunn
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlagenus/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlagenus/)*

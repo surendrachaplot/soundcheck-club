@@ -1,6 +1,6 @@
 # Joey Lightbulb
 
-Joey Lightbulb is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Wax Music Lounge, Melbourne on Fri, 11 Sept 2026.
+Joey Lightbulb is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Wax Music Lounge, Melbourne on Fri, 11 Sept 2026.
 
 Joey Lightbulb is a house and disco artist tracked on soundcheck, with 16 sets logged across Melbourne. Often billed alongside Alan Braxe, Amber Ferraro and Anz. Next up: Wax Music Lounge, Melbourne on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Joey Lightbulb is a house and disco artist tracked on soundcheck, with 16 sets l
 
 Alan Braxe, Amber Ferraro, Anz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeylightbulb/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joeylightbulb/)*

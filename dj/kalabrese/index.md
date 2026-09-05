@@ -1,6 +1,6 @@
 # Kalabrese
 
-Kalabrese is a House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Landesmuseum, Zurich on Mon, 31 Aug 2026.
+Kalabrese is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Landesmuseum, Zurich on Mon, 31 Aug 2026.
 
 Kalabrese is a house and electronica artist tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Basel and Berlin and 11 more. Often billed alongside KAYYAK, Alex Dallas and Dejan. Next up: Landesmuseum, Zurich on Mon 31 Aug.
 
@@ -9,7 +9,6 @@ Kalabrese is a house and electronica artist tracked on soundcheck, with 112 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 31 Aug 2026 | Landesmuseum | Zurich |
-| Fri, 4 Sept 2026 | Supermarket | Zurich |
 | Sat, 5 Sept 2026 | TBA - Will got massaged 1 Day before event  | Zurich |
 | Sat, 5 Sept 2026 | TBA | Zurich |
 | Sat, 19 Sept 2026 | Studio Zürich | Zurich |
@@ -18,6 +17,7 @@ Kalabrese is a house and electronica artist tracked on soundcheck, with 112 sets
 
 ## Recently played
 
+- Supermarket, Zurich — Fri, 4 Sept 2026
 - Landesmuseum, Zurich — Mon, 31 Aug 2026
 - Landesmuseum, Zurich — Mon, 17 Aug 2026
 - Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
@@ -25,10 +25,9 @@ Kalabrese is a house and electronica artist tracked on soundcheck, with 112 sets
 - Kauz, Zurich — Fri, 29 May 2026
 - fabric, London — Sun, 24 May 2026
 - fabric, London — Sun, 24 May 2026
-- Supermarket, Zurich — Fri, 22 May 2026
 
 ## Shares bills with
 
 KAYYAK, Alex Dallas, Dejan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kalabrese/)*

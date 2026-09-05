@@ -1,6 +1,6 @@
 # SANA (US)
 
-SANA (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
+SANA (US) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
 SANA (US) is a house and deep house artist tracked on soundcheck, with 9 sets logged across London, Melbourne, Newyorkcity and Tokyo and 1 more. Often billed alongside Good Company Broadcast Group, Joe O and 50Minimals. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ SANA (US) is a house and deep house artist tracked on soundcheck, with 9 sets lo
 
 Good Company Broadcast Group, Joe O, 50Minimals
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sana-us/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sana-us/)*

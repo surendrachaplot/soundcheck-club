@@ -1,14 +1,13 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 27 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Calvin Harris & MK" on Fri, 4 Sept 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 26 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "ANTS" on Sat, 5 Sept 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 27 upcoming nights, with line-ups including Afrojack, Andrea Oliva, Antares and Bassjackers and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 26 upcoming nights, with line-ups including Afrojack, Andrea Oliva, Antares and Bassjackers and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Calvin Harris & MK | Calvin Harris, Marc Kinchen |
 | Sat, 5 Sept 2026 | ANTS | Chelina Manuhutu, Dennis Quin, Franky Rizardo, Raul Rodriguez, Riordan |
 | Sun, 6 Sept 2026 | Swedish House Mafia | Swedish House Mafia |
 | Mon, 7 Sept 2026 | F*** ME I'M FAMOUS! by David Guetta | David Guetta, Oliver Heldens, Paul Reynolds |
@@ -18,9 +17,10 @@ Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 27 upcoming night
 | Sat, 12 Sept 2026 | ANTS | Andrea Oliva, Chelina Manuhutu, Joëlla Jackson, SYREETA |
 | Sun, 13 Sept 2026 | Swedish House Mafia - CLOSING PARTY | Swedish House Mafia |
 | Mon, 14 Sept 2026 | F*** ME I'M FAMOUS! by David Guetta | David Guetta, Miss Monique, Paul Reynolds, Tini Gessler |
+| Wed, 16 Sept 2026 | Tomorrowland and Dimitri Vegas & Like Mike | Blank & Jones |
 
 ## Address
 
 Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain, Ibiza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/ushua-a-ibiza/)*

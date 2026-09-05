@@ -1,6 +1,6 @@
 # E91
 
-E91 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Laska V21, Riga on Fri, 20 Nov 2026.
+E91 is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Laska V21, Riga on Fri, 20 Nov 2026.
 
 E91 is a techno and acid artist tracked on soundcheck, with 26 sets logged across Riga. Often billed alongside aurora222, Queer On Acid and Aizvakardiena. Next up: Laska V21, Riga on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ E91 is a techno and acid artist tracked on soundcheck, with 26 sets logged acros
 
 aurora222, Queer On Acid, Aizvakardiena
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e91/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e91/)*

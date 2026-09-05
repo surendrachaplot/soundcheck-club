@@ -1,6 +1,6 @@
 # Katamina
 
-Katamina is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 131 Mccormack St, Toronto on Sun, 6 Sept 2026.
+Katamina is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 131 Mccormack St, Toronto on Sun, 6 Sept 2026.
 
 Katamina is a techno and hardcore artist based in Canada, tracked on soundcheck, with 54 sets logged across Montreal and Toronto. Often billed alongside Casa Kobrae, Meen Moreen and nastygloss. Next up: 131 Mccormack St, Toronto on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Katamina is a techno and hardcore artist based in Canada, tracked on soundcheck,
 
 Casa Kobrae, Meen Moreen, nastygloss
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katamina/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katamina/)*

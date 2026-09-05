@@ -1,6 +1,6 @@
 # Sean Gonzalez
 
-Sean Gonzalez is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Giri, Berlin on Fri, 11 Sept 2026.
+Sean Gonzalez is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Giri, Berlin on Fri, 11 Sept 2026.
 
 Sean Gonzalez is a house and electro artist based in Bolivia, tracked on soundcheck, with 12 sets logged across Berlin and Newyorkcity. Often billed alongside Juan Diego Drouet, Baroma and Daniel Jaramillo. Next up: Giri, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Sean Gonzalez is a house and electro artist based in Bolivia, tracked on soundch
 
 Juan Diego Drouet, Baroma, Daniel Jaramillo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seangonzalez/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seangonzalez/)*

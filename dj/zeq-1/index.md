@@ -1,6 +1,6 @@
 # ZEQ (1)
 
-ZEQ (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Celeste, Vienna on Fri, 18 Sept 2026.
+ZEQ (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Celeste, Vienna on Fri, 18 Sept 2026.
 
 ZEQ (1) is a techno and trance artist based in Austria, tracked on soundcheck, with 11 sets logged across Vienna. Often billed alongside SUITSIDE, ASCHENBRENNER and COBRA. Next up: Celeste, Vienna on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ ZEQ (1) is a techno and trance artist based in Austria, tracked on soundcheck, w
 
 SUITSIDE, ASCHENBRENNER, COBRA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeq-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeq-1/)*

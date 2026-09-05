@@ -1,6 +1,6 @@
 # OG Militant B
 
-OG Militant B is a House and Dub artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Heavy Sick Zero, Tokyo on Sat, 12 Sept 2026.
+OG Militant B is a House and Dub artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Heavy Sick Zero, Tokyo on Sat, 12 Sept 2026.
 
 OG Militant B is a house and dub artist based in Japan, tracked on soundcheck, with 110 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Lil Mofo, YELLOWUHURU and Aki Dolanikov. Next up: Heavy Sick Zero, Tokyo on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ OG Militant B is a house and dub artist based in Japan, tracked on soundcheck, w
 
 Lil Mofo, YELLOWUHURU, Aki Dolanikov
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogmilitantb/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogmilitantb/)*

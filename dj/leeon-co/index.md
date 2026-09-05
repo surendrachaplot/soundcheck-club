@@ -1,6 +1,6 @@
 # Leeon
 
-Leeon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Chicago on Sat, 19 Sept 2026.
+Leeon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Chicago on Sat, 19 Sept 2026.
 
 Leeon is a techno and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Fais Le Beau, Adi (CO) and Boris. Next up: TBA, Chicago on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Leeon is a techno and house artist tracked on soundcheck, with 37 sets logged ac
 
 Fais Le Beau, Adi (CO), Boris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeon-co/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leeon-co/)*

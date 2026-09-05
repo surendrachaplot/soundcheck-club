@@ -1,6 +1,6 @@
 # ASK:ME
 
-ASK:ME is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Waranga, Stuttgart on Sat, 5 Sept 2026.
+ASK:ME is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Waranga, Stuttgart on Sat, 5 Sept 2026.
 
 ASK:ME is a techno and electro artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Dusseldorf and Frankfurt and 4 more. Often billed alongside Anna Tur, Simina Grigoriu and Felix Kröcher. Next up: Waranga, Stuttgart on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ASK:ME is a techno and electro artist based in Germany, tracked on soundcheck, w
 
 Anna Tur, Simina Grigoriu, Felix Kröcher
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/askme/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/askme/)*

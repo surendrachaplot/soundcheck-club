@@ -1,6 +1,6 @@
 # Jimmy Switch
 
-Jimmy Switch is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
+Jimmy Switch is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
 Jimmy Switch is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London, Malta and Manchester. Often billed alongside Jnr Windross, Boon (UK) and Steven Cee. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Jimmy Switch is a deep house and house artist based in United Kingdom, tracked o
 
 Jnr Windross, Boon (UK), Steven Cee
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyswitch-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmyswitch-uk/)*

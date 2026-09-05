@@ -1,6 +1,6 @@
 # DJ Rap
 
-DJ Rap is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+DJ Rap is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 DJ Rap is a drum & bass and jungle artist tracked on soundcheck, with 36 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 7 more. Often billed alongside Nicky Blackmarket, Ray Keith and DJ Hype. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ DJ Rap is a drum & bass and jungle artist tracked on soundcheck, with 36 sets lo
 
 Nicky Blackmarket, Ray Keith, DJ Hype
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrap/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrap/)*

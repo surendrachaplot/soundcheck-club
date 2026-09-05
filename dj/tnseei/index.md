@@ -1,6 +1,6 @@
 # tnseei
 
-tnseei is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at VENT, Tokyo on Fri, 9 Oct 2026.
+tnseei is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at VENT, Tokyo on Fri, 9 Oct 2026.
 
 tnseei is a techno and house artist based in Japan, tracked on soundcheck, with 75 sets logged across Osaka and Tokyo. Often billed alongside Yui (JP), Kurea and Lynta. Next up: VENT, Tokyo on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ tnseei is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 Yui (JP), Kurea, Lynta
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tnseei/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tnseei/)*

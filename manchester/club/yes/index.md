@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "1-800 GIRLS (DJ)" on Fri, 11 Sept 2026.
+Yes is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "1-800 GIRLS (DJ)" on Fri, 11 Sept 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including 1-800 GIRLS, Akamwave, chlo333e and Digitalism and 2 more. Browse upcoming dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 11 upcoming nights, wit
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

@@ -1,6 +1,6 @@
 # DJ Etta (US)
 
-DJ Etta (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+DJ Etta (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
 DJ Etta (US) is a house and techno artist tracked on soundcheck, with 79 sets logged across Berlin, Chicago, Detroit and London and 2 more. Often billed alongside Blackmoonchild, John Collins (US) and LADYMONIX. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ DJ Etta (US) is a house and techno artist tracked on soundcheck, with 79 sets lo
 
 Blackmoonchild, John Collins (US), LADYMONIX
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djetta-us/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djetta-us/)*

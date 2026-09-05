@@ -1,6 +1,6 @@
 # shimosoma
 
-shimosoma is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at VENT, Tokyo on Sat, 12 Sept 2026.
+shimosoma is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at VENT, Tokyo on Sat, 12 Sept 2026.
 
 shimosoma is a techno and house artist based in Japan, tracked on soundcheck, with 62 sets logged across Tokyo. Often billed alongside Rikuto Shibazaki, Rikuto and Kotaro Shimizu. Next up: VENT, Tokyo on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ shimosoma is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 Rikuto Shibazaki, Rikuto, Kotaro Shimizu
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimosoma/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimosoma/)*

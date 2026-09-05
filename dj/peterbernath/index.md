@@ -1,6 +1,6 @@
 # Peter Bernath
 
-Peter Bernath is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at A38, Budapest on Thu, 17 Sept 2026.
+Peter Bernath is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at A38, Budapest on Thu, 17 Sept 2026.
 
 Peter Bernath is a minimal and house artist based in Hungary, tracked on soundcheck, with 28 sets logged across Budapest. Often billed alongside Erro, Robert Dobak and Toro Lomo. Next up: A38, Budapest on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Peter Bernath is a minimal and house artist based in Hungary, tracked on soundch
 
 Erro, Robert Dobak, Toro Lomo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterbernath/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peterbernath/)*

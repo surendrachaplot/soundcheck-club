@@ -1,6 +1,6 @@
 # ROSA
 
-ROSA is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "10 YEARS OF Klub Verboten x BERLIN" on Sat, 12 Sept 2026.
+ROSA is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "10 YEARS OF Klub Verboten x BERLIN" on Sat, 12 Sept 2026.
 
 ROSA is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Amo (IT), An Chen, DJ Traytex and ELOISA and 2 more. Browse upcoming dates, start times and who's playing. Storkower Str. 121, 10407 Berlin.
 
@@ -16,4 +16,4 @@ ROSA is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with li
 
 Storkower Str. 121, 10407 Berlin, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosa/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosa/)*

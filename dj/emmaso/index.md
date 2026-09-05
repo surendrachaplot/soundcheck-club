@@ -1,6 +1,6 @@
 # Emma Sø
 
-Emma Sø is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hangaren, Copenhagen on Fri, 25 Sept 2026.
+Emma Sø is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Hangaren, Copenhagen on Fri, 25 Sept 2026.
 
 Emma Sø is a house and techno artist based in Denmark, tracked on soundcheck, with 26 sets logged across Copenhagen. Often billed alongside Baime, Aja Gulris and Azpecialguest. Next up: Hangaren, Copenhagen on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Emma Sø is a house and techno artist based in Denmark, tracked on soundcheck, w
 
 Baime, Aja Gulris, Azpecialguest
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaso/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaso/)*

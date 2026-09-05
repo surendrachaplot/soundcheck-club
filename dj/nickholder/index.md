@@ -1,6 +1,6 @@
 # Nick Holder
 
-Nick Holder is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Boogie, Toronto on Sun, 6 Sept 2026.
+Nick Holder is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Boogie, Toronto on Sun, 6 Sept 2026.
 
 Nick Holder is a house and deep house artist based in Canada, tracked on soundcheck, with 26 sets logged across Lyon, Sanfrancisco, Seattle and Toronto. Often billed alongside Tyrone Solomon, Abacus and Jason Palma. Next up: Boogie, Toronto on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Nick Holder is a house and deep house artist based in Canada, tracked on soundch
 
 Tyrone Solomon, Abacus, Jason Palma
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickholder/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickholder/)*

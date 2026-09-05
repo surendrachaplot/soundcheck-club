@@ -1,6 +1,6 @@
 # Angelo Ferreri
 
-Angelo Ferreri is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Eden, Ibiza on Wed, 9 Sept 2026.
+Angelo Ferreri is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Eden, Ibiza on Wed, 9 Sept 2026.
 
 Angelo Ferreri is a house and tech house artist based in Italy, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 8 more. Often billed alongside Hatiras, Vincent Caira and Black Legend. Next up: Eden, Ibiza on Wed 9 Sept.
 
@@ -27,4 +27,4 @@ Angelo Ferreri is a house and tech house artist based in Italy, tracked on sound
 
 Hatiras, Vincent Caira, Black Legend
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angeloferreri/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angeloferreri/)*

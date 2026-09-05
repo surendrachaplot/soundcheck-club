@@ -1,6 +1,6 @@
 # Mike Chidiac
 
-Mike Chidiac is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at NWHR, Montreal on Sat, 26 Sept 2026.
+Mike Chidiac is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at NWHR, Montreal on Sat, 26 Sept 2026.
 
 Mike Chidiac is a techno and progressive house artist based in Canada, tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside Aöcram, MPHS and Mike Larry. Next up: NWHR, Montreal on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mike Chidiac is a techno and progressive house artist based in Canada, tracked o
 
 Aöcram, MPHS, Mike Larry
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikechidiac/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikechidiac/)*

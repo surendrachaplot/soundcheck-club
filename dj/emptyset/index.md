@@ -1,6 +1,6 @@
 # Emptyset
 
-Emptyset is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Studio Koncertowe Polskiego Radia im. Witloda Lutosławskiego, Warsaw on Tue, 15 Sept 2026.
+Emptyset is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Studio Koncertowe Polskiego Radia im. Witloda Lutosławskiego, Warsaw on Tue, 15 Sept 2026.
 
 Emptyset is an experimental and electronica artist tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Bristol and London and 5 more. Often billed alongside Laurel Halo, Lee Gamble and Loraine James. Next up: TBA - Studio Koncertowe Polskiego Radia im. Witloda Lutosławskiego, Warsaw on Tue 15 Sept.
 
@@ -25,4 +25,4 @@ Emptyset is an experimental and electronica artist tracked on soundcheck, with 1
 
 Laurel Halo, Lee Gamble, Loraine James
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emptyset/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emptyset/)*

@@ -1,6 +1,6 @@
 # Solo (3)
 
-Solo (3) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Wharf Chambers, Leeds on Fri, 25 Sept 2026.
+Solo (3) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Wharf Chambers, Leeds on Fri, 25 Sept 2026.
 
 Solo (3) is a jungle and drum & bass artist tracked on soundcheck, with 23 sets logged across Leeds and London. Often billed alongside Diverge, LD50 and Chinese Daughter. Next up: Wharf Chambers, Leeds on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Solo (3) is a jungle and drum & bass artist tracked on soundcheck, with 23 sets 
 
 Diverge, LD50, Chinese Daughter
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solo-3/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solo-3/)*

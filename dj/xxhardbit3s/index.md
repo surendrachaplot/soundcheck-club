@@ -1,6 +1,6 @@
 # XXHARDBIT3S
 
-XXHARDBIT3S is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The High Dive, Detroit on Fri, 25 Sept 2026.
+XXHARDBIT3S is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The High Dive, Detroit on Fri, 25 Sept 2026.
 
 XXHARDBIT3S is a hardcore and gabber artist based in United States of America, tracked on soundcheck, with 51 sets logged across Boston, Denver, Detroit and Montreal and 5 more. Often billed alongside JESSXO, 3mouth and Soo Intoit. Next up: The High Dive, Detroit on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ XXHARDBIT3S is a hardcore and gabber artist based in United States of America, t
 
 JESSXO, 3mouth, Soo Intoit
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*

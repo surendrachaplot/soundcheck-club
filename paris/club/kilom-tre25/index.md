@@ -1,14 +1,13 @@
 # Kilomètre25
 
-Kilomètre25 is a music venue in Paris with 13 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "ØXYL: Charlie Sparks, DURDENHAUER, BARBARA LAGO, SZG & MORE" on Fri, 4 Sept 2026.
+Kilomètre25 is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Organïk: ANXHELA, BLNK, Lolalita, VILAIN & MORE" on Sat, 5 Sept 2026.
 
-Kilomètre25 is a music venue in Paris listed on soundcheck. 13 upcoming nights, with line-ups including NYRA (DE), Airod, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
+Kilomètre25 is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including NYRA (DE), Airod, ANDATA and Angie (FR) and 2 more. Browse upcoming dates, start times and who's playing. 8 Boulevard MacDonald 75019 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | ØXYL: Charlie Sparks, DURDENHAUER, BARBARA LAGO, SZG & MORE | Bárbara Lago, Bérou, Charlie Sparks, DURDENHAUER, SZG |
 | Sat, 5 Sept 2026 | Organïk: ANXHELA, BLNK, Lolalita, VILAIN & MORE | ANXHELA, BLNK, Lolalita, VILAIN |
 | Fri, 11 Sept 2026 | Pygments: Airod, Angèle Cressin, Acidpach, YENKOV, Terminal Trax | Airod, Angie (FR), Cattoni, Terminal Trax, YENKOV |
 | Sat, 12 Sept 2026 | Cookie records: Sophie Lloyd, Kabylie Minogue, UN*DEUX | Audem, Kabylie Minogue, Sophie Lloyd, UN*DEUX |
@@ -18,9 +17,10 @@ Kilomètre25 is a music venue in Paris listed on soundcheck. 13 upcoming nights,
 | Sat, 3 Oct 2026 | 23:59: EARGASM GOD, DBBD, Paralich, AREA ØNE | AREA ØNE, DBBD, EARGASM GOD, Paralich |
 | Sat, 3 Oct 2026 | 23:59 - AREA ØNE, EARGASM GOD, DBBD, Paralich, DJ RATZ, BORDER SISTERS | AREA ØNE, DBBD, EARGASM GOD, Paralich |
 | Fri, 9 Oct 2026 | ØXYL: BYORN, TESTPRESS, NYRA, SIKOTI, MEYEM & MORE | MEYEM, Mando, NYRA (DE), SIKOTI, t e s t p r e s s |
+| Sat, 10 Oct 2026 | Deepsea Grooves: Chez Damier, Mézigue, Vitaline | Chez Damier, Mézigue, R1D1, Vitaline |
 
 ## Address
 
 8 Boulevard MacDonald 75019 Paris, Paris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/kilom-tre25/)*

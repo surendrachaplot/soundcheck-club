@@ -1,6 +1,6 @@
 # IMA:R
 
-IMA:R is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Le Sucre, Lyon on Sat, 5 Sept 2026.
+IMA:R is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Le Sucre, Lyon on Sat, 5 Sept 2026.
 
 IMA:R is a house and techno artist tracked on soundcheck, with 21 sets logged across Lyon, Marseille and Paris. Often billed alongside Koffi, Lumbago and Maelita. Next up: Le Sucre, Lyon on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ IMA:R is a house and techno artist tracked on soundcheck, with 21 sets logged ac
 
 Koffi, Lumbago, Maelita
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imar/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/imar/)*

@@ -1,6 +1,6 @@
 # Reptant
 
-Reptant is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Reptant is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Reptant is an electro and techno artist tracked on soundcheck, with 130 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 35 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: The Cause, London on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Reptant is an electro and techno artist tracked on soundcheck, with 130 sets log
 
 Kia (AU), Miscmeg, Moopie
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*

@@ -1,6 +1,6 @@
 # Nicky B
 
-Nicky B is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Nicky B is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 Nicky B is a drum & bass and jungle artist tracked on soundcheck, with 88 sets logged across Birmingham, Brighton, Bristol and Glasgow and 4 more. Often billed alongside Nicky Blackmarket, IC3 and Kenny Ken. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Nicky B is a drum & bass and jungle artist tracked on soundcheck, with 88 sets l
 
 Nicky Blackmarket, IC3, Kenny Ken
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyb/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyb/)*

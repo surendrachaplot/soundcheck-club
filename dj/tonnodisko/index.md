@@ -1,6 +1,6 @@
 # Tonno Disko
 
-Tonno Disko is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Virage, Paris on Thu, 10 Sept 2026.
+Tonno Disko is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Virage, Paris on Thu, 10 Sept 2026.
 
 Tonno Disko is a house and disco artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 14 more. Often billed alongside Leroy Rey, Kirollus and Laura Meester. Next up: Virage, Paris on Thu 10 Sept.
 
@@ -29,4 +29,4 @@ Tonno Disko is a house and disco artist tracked on soundcheck, with 99 sets logg
 
 Leroy Rey, Kirollus, Laura Meester
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnodisko/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnodisko/)*

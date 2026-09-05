@@ -1,6 +1,6 @@
 # Marianno
 
-Marianno is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location - Infos on our socials , Berlin on Sat, 19 Sept 2026.
+Marianno is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Secret Location - Infos on our socials , Berlin on Sat, 19 Sept 2026.
 
 Marianno is a house and acid artist tracked on soundcheck, with 7 sets logged across Berlin and Brussels. Often billed alongside Rabat, PAK-E and (NOT) XCESS. Next up: TBA - Secret Location - Infos on our socials , Berlin on Sat 19 Sept.
 
@@ -23,4 +23,4 @@ Marianno is a house and acid artist tracked on soundcheck, with 7 sets logged ac
 
 Rabat, PAK-E, (NOT) XCESS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianno/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianno/)*

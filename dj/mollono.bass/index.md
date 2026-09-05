@@ -1,6 +1,6 @@
 # Mollono.Bass
 
-Mollono.Bass is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
+Mollono.Bass is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 12 Sept 2026.
 
 Mollono.Bass is a techno and tech house artist tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 8 more. Often billed alongside LEENI, Danilo Kupfernagel and Katzengold. Next up: Jonny Knüppel, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Mollono.Bass is a techno and tech house artist tracked on soundcheck, with 44 se
 
 LEENI, Danilo Kupfernagel, Katzengold
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollono.bass/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mollono.bass/)*

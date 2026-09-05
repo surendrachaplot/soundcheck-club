@@ -1,6 +1,6 @@
 # Burchhhha
 
-Burchhhha is a Pop and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Muziekgebouw aan t' IJ, Amsterdam on Sat, 3 Oct 2026.
+Burchhhha is a Pop and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Muziekgebouw aan t' IJ, Amsterdam on Sat, 3 Oct 2026.
 
 Burchhhha is a pop and ambient artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam, Berlin and Thehague. Often billed alongside BASHKKA, DJ CENTERFOLD and EVER (2). Next up: Muziekgebouw aan t' IJ, Amsterdam on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Burchhhha is a pop and ambient artist based in Netherlands, tracked on soundchec
 
 BASHKKA, DJ CENTERFOLD, EVER (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/burchhhha/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/burchhhha/)*

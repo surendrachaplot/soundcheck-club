@@ -1,6 +1,6 @@
 # Gōdō
 
-Gōdō is a Club and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 2 Oct 2026.
+Gōdō is a Club and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Les Enfants Brillants, Barcelona on Fri, 2 Oct 2026.
 
 Gōdō is a club and minimal artist tracked on soundcheck, with 14 sets logged across Amsterdam, Bangkok, Barcelona and London and 3 more. Often billed alongside Benny (El Rio Hostel), Mila Morr and Adi. Next up: Les Enfants Brillants, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gōdō is a club and minimal artist tracked on soundcheck, with 14 sets logged a
 
 Benny (El Rio Hostel), Mila Morr, Adi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/godo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/godo/)*

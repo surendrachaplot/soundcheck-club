@@ -1,6 +1,6 @@
 # BRAD WATTS
 
-BRAD WATTS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Zumana Bali, Bali on Sat, 5 Sept 2026.
+BRAD WATTS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Zumana Bali, Bali on Sat, 5 Sept 2026.
 
 BRAD WATTS is a house and deep house artist tracked on soundcheck, with 32 sets logged across Bali, Melbourne and Sydney. Often billed alongside SOHAIL, Rowen Clark and Aidan Bega. Next up: Zumana Bali, Bali on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ BRAD WATTS is a house and deep house artist tracked on soundcheck, with 32 sets 
 
 SOHAIL, Rowen Clark, Aidan Bega
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bradwatts/)*

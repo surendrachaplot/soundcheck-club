@@ -1,6 +1,6 @@
 # Leblanc
 
-Leblanc is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Luz De Gas, Barcelona on Sat, 5 Sept 2026.
+Leblanc is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Luz De Gas, Barcelona on Sat, 5 Sept 2026.
 
 Leblanc is an electronica and house artist based in France, tracked on soundcheck, with 19 sets logged across Athens, Barcelona, Basel and Berlin and 6 more. Often billed alongside Joachim Pastor, Bérou and James de Torres. Next up: Luz De Gas, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Leblanc is an electronica and house artist based in France, tracked on soundchec
 
 Joachim Pastor, Bérou, James de Torres
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leblanc/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leblanc/)*

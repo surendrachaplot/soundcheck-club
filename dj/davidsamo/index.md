@@ -1,6 +1,6 @@
 # David Samó
 
-David Samó is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat, 12 Sept 2026.
+David Samó is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat, 12 Sept 2026.
 
 David Samó is a techno and trance artist tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside DJ Paradox, Thielking and DETOXX. Next up: TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ David Samó is a techno and trance artist tracked on soundcheck, with 11 sets lo
 
 DJ Paradox, Thielking, DETOXX
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidsamo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidsamo/)*

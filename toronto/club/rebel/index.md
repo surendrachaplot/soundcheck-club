@@ -1,6 +1,6 @@
 # Rebel
 
-Rebel is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "KLOUD inside NOIR" on Sat, 12 Sept 2026.
+Rebel is a music venue in Toronto with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "KLOUD inside NOIR" on Sat, 12 Sept 2026.
 
 Rebel is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with line-ups including Carl Cox and KLOUD. Browse upcoming dates, start times and who's playing. 11 Polson Street; Toronto, ON M5A 1A4; Canada.
 
@@ -15,4 +15,4 @@ Rebel is a music venue in Toronto listed on soundcheck. 2 upcoming nights, with 
 
 11 Polson Street; Toronto, ON M5A 1A4; Canada, Toronto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rebel/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rebel/)*

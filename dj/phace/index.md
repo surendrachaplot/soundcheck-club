@@ -1,13 +1,14 @@
 # Phace
 
-Phace is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Black Box, Denver on Sat, 12 Sept 2026.
+Phace is a Drum & Bass and Bass artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sun, 6 Sept 2026.
 
-Phace is a drum & bass and bass artist tracked on soundcheck, with 33 sets logged across Auckland, Berlin, Bristol and Budapest and 16 more. Often billed alongside Misanthrop, Rockwell and Buunshin. Next up: The Black Box, Denver on Sat 12 Sept.
+Phace is a drum & bass and bass artist tracked on soundcheck, with 34 sets logged across Auckland, Berlin, Bristol and Budapest and 17 more. Often billed alongside Misanthrop, Rockwell and Buunshin. Next up: F8 1192 Folsom, Sanfrancisco on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Sept 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sat, 12 Sept 2026 | The Black Box | Denver |
 | Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 
@@ -26,4 +27,4 @@ Phace is a drum & bass and bass artist tracked on soundcheck, with 33 sets logge
 
 Misanthrop, Rockwell, Buunshin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phace/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phace/)*

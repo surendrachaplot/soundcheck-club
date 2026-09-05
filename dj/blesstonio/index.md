@@ -1,6 +1,6 @@
 # BLESSTONIO
 
-BLESSTONIO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Strays, Detroit on Sat, 5 Sept 2026.
+BLESSTONIO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Strays, Detroit on Sat, 5 Sept 2026.
 
 BLESSTONIO is a house and techno artist based in United States of America, tracked on soundcheck, with 57 sets logged across Chicago, Detroit, Mexicocity and Newyorkcity. Often billed alongside CTRLZORA, Kenjiro and Charles Trees. Next up: The Strays, Detroit on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ BLESSTONIO is a house and techno artist based in United States of America, track
 
 CTRLZORA, Kenjiro, Charles Trees
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blesstonio/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blesstonio/)*

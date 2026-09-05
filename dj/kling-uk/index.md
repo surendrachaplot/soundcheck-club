@@ -1,6 +1,6 @@
 # Kling
 
-Kling is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Distillery N17, London on Sat, 5 Sept 2026.
+Kling is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Distillery N17, London on Sat, 5 Sept 2026.
 
 Kling is a techno and psytrance artist tracked on soundcheck, with 36 sets logged across Cologne, London, Paris and Tallinn. Often billed alongside Almeida Moura, Duwat? and Monnay. Next up: Distillery N17, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Kling is a techno and psytrance artist tracked on soundcheck, with 36 sets logge
 
 Almeida Moura, Duwat?, Monnay
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kling-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kling-uk/)*

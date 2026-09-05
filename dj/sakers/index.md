@@ -1,6 +1,6 @@
 # Sakers
 
-Sakers is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Experiment 625, Liverpool on Sat, 19 Sept 2026.
+Sakers is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Experiment 625, Liverpool on Sat, 19 Sept 2026.
 
 Sakers is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Liverpool. Often billed alongside Liv Leslie, Alien Izz and Dj Streaks. Next up: Experiment 625, Liverpool on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Sakers is a house and electronica artist based in United Kingdom, tracked on sou
 
 Liv Leslie, Alien Izz, Dj Streaks
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakers/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sakers/)*

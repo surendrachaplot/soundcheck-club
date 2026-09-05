@@ -1,6 +1,6 @@
 # Juguete
 
-Juguete is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 5 Sept 2026.
+Juguete is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 5 Sept 2026.
 
 Juguete is a club and house artist tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Madrid and Paris and 1 more. Often billed alongside Albal, DISTORT (ES) and Nile Fee. Next up: La Station - Gare des Mines, Paris on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Juguete is a club and house artist tracked on soundcheck, with 53 sets logged ac
 
 Albal, DISTORT (ES), Nile Fee
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juguete/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juguete/)*

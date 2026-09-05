@@ -1,6 +1,6 @@
 # Mantra Bar
 
-Mantra Bar is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "SPCTRM" on Sat, 19 Sept 2026.
+Mantra Bar is a music venue in Kuala Lumpur with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "SPCTRM" on Sat, 19 Sept 2026.
 
 Mantra Bar is a music venue in Kualalumpur listed on soundcheck. 1 upcoming night, with line-ups including 7UFO, Axel Groove, BugzB and Joey G and 2 more. Browse upcoming dates, start times and who's playing. Lot R-E, Bangsar Village 2, 2 Jalan Telawi 1, Bangsar Baru, 59100 Kuala Lumpur.
 
@@ -14,4 +14,4 @@ Mantra Bar is a music venue in Kualalumpur listed on soundcheck. 1 upcoming nigh
 
 Lot R-E, Bangsar Village 2, 2 Jalan Telawi 1, Bangsar Baru, 59100 Kuala Lumpur, Kuala Lumpur
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/mantra-bar/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/mantra-bar/)*

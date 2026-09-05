@@ -1,14 +1,13 @@
 # UFO95
 
-UFO95 is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Macadam, Nantes on Fri, 4 Sept 2026.
+UFO95 is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Flux, Istanbul on Sat, 5 Sept 2026.
 
-UFO95 is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Barcelona and Berlin and 50 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Macadam, Nantes on Fri 4 Sept.
+UFO95 is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Barcelona and Berlin and 50 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Flux, Istanbul on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Macadam | Nantes |
 | Sat, 5 Sept 2026 | Flux | Istanbul |
 | Fri, 18 Sept 2026 | Tresor / Globus | Berlin |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
@@ -17,6 +16,7 @@ UFO95 is a techno and house artist tracked on soundcheck, with 156 sets logged a
 
 ## Recently played
 
+- Macadam, Nantes — Fri, 4 Sept 2026
 - Gaffe, London — Sat, 15 Aug 2026
 - TBA - Los Angeles, Los Angeles — Sat, 1 Aug 2026
 - TBA - Denver, Denver — Fri, 31 Jul 2026
@@ -24,10 +24,9 @@ UFO95 is a techno and house artist tracked on soundcheck, with 156 sets logged a
 - The Lower Level, Boston — Fri, 24 Jul 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Bassiani, Tbilisi — Fri, 3 Jul 2026
-- Razzmatazz, Barcelona — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Hadone, Adriana Lopez, Anetha
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*

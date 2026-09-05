@@ -1,6 +1,6 @@
 # DJ ŌVËRDRĪVÊ
 
-DJ ŌVËRDRĪVÊ is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Humboldthain Club, Berlin on Sat, 5 Sept 2026.
+DJ ŌVËRDRĪVÊ is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Humboldthain Club, Berlin on Sat, 5 Sept 2026.
 
 DJ ŌVËRDRĪVÊ is a trance and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin. Often billed alongside Konsument, DJ Spaßgetränk and DJ Inkompetent. Next up: Humboldthain Club, Berlin on Sat 5 Sept.
 
@@ -21,4 +21,4 @@ DJ ŌVËRDRĪVÊ is a trance and techno artist based in Germany, tracked on soun
 
 Konsument, DJ Spaßgetränk, DJ Inkompetent
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoverdrive-de/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoverdrive-de/)*

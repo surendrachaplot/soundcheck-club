@@ -1,6 +1,6 @@
 # Natsu
 
-Natsu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hafenklang, Hamburg on Fri, 18 Sept 2026.
+Natsu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Hafenklang, Hamburg on Fri, 18 Sept 2026.
 
 Natsu is a house and techno artist tracked on soundcheck, with 25 sets logged across Berlin, Hamburg, Losangeles and Strasbourg and 1 more. Often billed alongside JØSH., Malvadisco and NOIA. Next up: Hafenklang, Hamburg on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Natsu is a house and techno artist tracked on soundcheck, with 25 sets logged ac
 
 JØSH., Malvadisco, NOIA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natsu/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natsu/)*

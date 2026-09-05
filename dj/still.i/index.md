@@ -1,6 +1,6 @@
 # Still.i
 
-Still.i is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tunnel, Milan on Thu, 24 Sept 2026.
+Still.i is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Tunnel, Milan on Thu, 24 Sept 2026.
 
 Still.i is an electronic artist tracked on soundcheck, with 39 sets logged across Milan. Often billed alongside Ivory, DJ Tennis and Guy Gerber. Next up: Tunnel, Milan on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Still.i is an electronic artist tracked on soundcheck, with 39 sets logged acros
 
 Ivory, DJ Tennis, Guy Gerber
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/still.i/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/still.i/)*

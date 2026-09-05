@@ -1,6 +1,6 @@
 # Shai FM
 
-Shai FM is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Shai FM is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
 
 Shai FM is a bass and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Newyorkcity, Philadelphia and Sanfrancisco and 2 more. Often billed alongside DJ Papaya, Mario Cotto and Zillas on Acid. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
 
@@ -15,6 +15,7 @@ Shai FM is a bass and techno artist based in United States of America, tracked o
 
 ## Recently played
 
+- TBA - Camp Tall Timbers, WV, Washington DC — Fri, 4 Sept 2026
 - Bastet, Philadelphia — Fri, 21 Aug 2026
 - The Barbary, Philadelphia — Sat, 27 Jun 2026
 - Warehouse on Watts, Philadelphia — Fri, 8 May 2026
@@ -22,10 +23,9 @@ Shai FM is a bass and techno artist based in United States of America, tracked o
 - F8 1192 Folsom, San Francisco/Oakland — Fri, 10 Apr 2026
 - TBA - Toronto, Toronto — Sat, 28 Mar 2026
 - Podlasie Club, Chicago — Sat, 21 Mar 2026
-- TRANSMISSION DC, Washington DC — Sat, 6 Dec 2025
 
 ## Shares bills with
 
 DJ Papaya, Mario Cotto, Zillas on Acid
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaifm/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaifm/)*

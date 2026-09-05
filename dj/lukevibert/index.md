@@ -1,6 +1,6 @@
 # Luke Vibert
 
-Luke Vibert is a Acid and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hare & Hounds, Birmingham on Fri, 25 Sept 2026.
+Luke Vibert is a Acid and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Hare & Hounds, Birmingham on Fri, 25 Sept 2026.
 
 Luke Vibert is an acid and jungle artist tracked on soundcheck, with 57 sets logged across Amsterdam, Antwerp, Belfast and Berlin and 24 more. Often billed alongside Posthuman, DJ Warp and Nightwave. Next up: Hare & Hounds, Birmingham on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Luke Vibert is an acid and jungle artist tracked on soundcheck, with 57 sets log
 
 Posthuman, DJ Warp, Nightwave
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukevibert/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukevibert/)*

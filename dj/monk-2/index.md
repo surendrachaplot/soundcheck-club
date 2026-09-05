@@ -1,6 +1,6 @@
 # Monk (2)
 
-Monk (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Green Room NYC, New York City on Sat, 5 Sept 2026.
+Monk (2) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Green Room NYC, New York City on Sat, 5 Sept 2026.
 
 Monk (2) is a house and techno artist based in Switzerland, tracked on soundcheck, with 36 sets logged across Boston, Geneva, Miami and Newyorkcity and 1 more. Often billed alongside Armii1n, Choukroun and Zayd. Next up: Green Room NYC, Newyorkcity on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Monk (2) is a house and techno artist based in Switzerland, tracked on soundchec
 
 Armii1n, Choukroun, Zayd
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monk-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monk-2/)*

@@ -1,6 +1,6 @@
 # Body Clinic
 
-Body Clinic is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Last Arch, London on Fri, 18 Sept 2026.
+Body Clinic is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Last Arch, London on Fri, 18 Sept 2026.
 
 Body Clinic is a house and techno artist tracked on soundcheck, with 41 sets logged across Aberdeen, Belfast, Belgrade and Dublin and 6 more. Often billed alongside Wigs, Holly Lester and Sophie (2). Next up: Last Arch, London on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Body Clinic is a house and techno artist tracked on soundcheck, with 41 sets log
 
 Wigs, Holly Lester, Sophie (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bodyclinic/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bodyclinic/)*

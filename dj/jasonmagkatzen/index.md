@@ -1,6 +1,6 @@
 # Jasonmagkatzen
 
-Jasonmagkatzen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Marmorbar, Berlin on Sat, 5 Sept 2026.
+Jasonmagkatzen is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Marmorbar, Berlin on Sat, 5 Sept 2026.
 
 Jasonmagkatzen is a techno and trance artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside futurristic, Skye Simpson and djst4rlight. Next up: Marmorbar, Berlin on Sat 5 Sept.
 
@@ -23,4 +23,4 @@ Jasonmagkatzen is a techno and trance artist tracked on soundcheck, with 7 sets 
 
 futurristic, Skye Simpson, djst4rlight
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonmagkatzen/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonmagkatzen/)*

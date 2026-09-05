@@ -1,6 +1,6 @@
 # Giuseppe Fava
 
-Giuseppe Fava is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Chiostri a Carbonara, Naples on Sat, 5 Sept 2026.
+Giuseppe Fava is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Chiostri a Carbonara, Naples on Sat, 5 Sept 2026.
 
 Giuseppe Fava is a house and disco artist tracked on soundcheck, with 31 sets logged across London, Milan, Naples and Rome and 1 more. Often billed alongside Obbi, ThanksMate and KARLOVE. Next up: Chiostri a Carbonara, Naples on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Giuseppe Fava is a house and disco artist tracked on soundcheck, with 31 sets lo
 
 Obbi, ThanksMate, KARLOVE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppefava/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppefava/)*

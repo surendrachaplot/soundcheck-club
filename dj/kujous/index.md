@@ -1,6 +1,6 @@
 # KUJO (US)
 
-KUJO (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+KUJO (US) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 KUJO (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Miami. Often billed alongside PROLETAR, Spice Crime and Violeta. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ KUJO (US) is a techno and house artist based in United States of America, tracke
 
 PROLETAR, Spice Crime, Violeta
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kujous/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kujous/)*

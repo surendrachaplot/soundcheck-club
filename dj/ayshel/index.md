@@ -1,6 +1,6 @@
 # Ayshel
 
-Ayshel is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Astron Club, Athens on Fri, 11 Sept 2026.
+Ayshel is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Astron Club, Athens on Fri, 11 Sept 2026.
 
 Ayshel is a techno and club artist based in Greece, tracked on soundcheck, with 41 sets logged across Athens and Brussels. Often billed alongside GRETA (GR), FlökosH and KOKETAMC. Next up: Astron Club, Athens on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Ayshel is a techno and club artist based in Greece, tracked on soundcheck, with 
 
 GRETA (GR), FlökosH, KOKETAMC
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayshel/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayshel/)*

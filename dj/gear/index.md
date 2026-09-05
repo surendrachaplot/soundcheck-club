@@ -1,6 +1,6 @@
 # Gear
 
-Gear is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Plano B, Porto on Sat, 5 Sept 2026.
+Gear is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Plano B, Porto on Sat, 5 Sept 2026.
 
 Gear is a house and techno artist based in Portugal, tracked on soundcheck, with 104 sets logged across Copenhagen, Lisbon and Porto. Often billed alongside John-E, Kaesar and Bernardo Vaz. Next up: Plano B, Porto on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Gear is a house and techno artist based in Portugal, tracked on soundcheck, with
 
 John-E, Kaesar, Bernardo Vaz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gear/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gear/)*

@@ -1,6 +1,6 @@
 # Chris NG
 
-Chris NG is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at My Aeon, Melbourne on Sat, 19 Sept 2026.
+Chris NG is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at My Aeon, Melbourne on Sat, 19 Sept 2026.
 
 Chris NG is a house and afro house artist tracked on soundcheck, with 61 sets logged across Melbourne. Often billed alongside Zepherin Saint, Colette and DJ JNETT. Next up: My Aeon, Melbourne on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Chris NG is a house and afro house artist tracked on soundcheck, with 61 sets lo
 
 Zepherin Saint, Colette, DJ JNETT
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisng/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisng/)*

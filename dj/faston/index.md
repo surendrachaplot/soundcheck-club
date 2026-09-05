@@ -1,6 +1,6 @@
 # FASTON
 
-FASTON is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Glove That Fits, London on Sat, 5 Sept 2026.
+FASTON is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Glove That Fits, London on Sat, 5 Sept 2026.
 
 FASTON is a techno and house artist tracked on soundcheck, with 6 sets logged across London. Often billed alongside Klato, Saumac and dj mush. Next up: The Glove That Fits, London on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ FASTON is a techno and house artist tracked on soundcheck, with 6 sets logged ac
 
 Klato, Saumac, dj mush
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faston/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faston/)*

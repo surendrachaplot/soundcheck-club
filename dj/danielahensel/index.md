@@ -1,6 +1,6 @@
 # Daniela Hensel
 
-Daniela Hensel is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
+Daniela Hensel is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
 
 Daniela Hensel is a techno and acid artist tracked on soundcheck, with 48 sets logged across Basel, Berlin, Boston and Cologne and 6 more. Often billed alongside YouSawLaurent, Daniel Boon and Basstronauten. Next up: Schrotty, Cologne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Daniela Hensel is a techno and acid artist tracked on soundcheck, with 48 sets l
 
 YouSawLaurent, Daniel Boon, Basstronauten
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielahensel/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielahensel/)*

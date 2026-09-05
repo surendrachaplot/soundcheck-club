@@ -1,6 +1,6 @@
 # Courtney Bailey
 
-Courtney Bailey is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sameheads, Berlin on Sat, 12 Sept 2026.
+Courtney Bailey is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sameheads, Berlin on Sat, 12 Sept 2026.
 
 Courtney Bailey is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Bali, Berlin and Bucharest and 15 more. Often billed alongside Tornado Wallace, FFAN and Sound Metaphors Djs. Next up: Sameheads, Berlin on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Courtney Bailey is a house and techno artist tracked on soundcheck, with 78 sets
 
 Tornado Wallace, FFAN, Sound Metaphors Djs
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneybailey/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/courtneybailey/)*

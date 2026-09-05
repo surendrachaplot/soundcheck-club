@@ -1,6 +1,6 @@
 # A.M.C.
 
-A.M.C. is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+A.M.C. is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
 A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 22 more. Often billed alongside Phantom, IC3 and Koven. Next up: Sawmills, Bristol on Sat 12 Sept.
 
@@ -32,4 +32,4 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Phantom, IC3, Koven
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*

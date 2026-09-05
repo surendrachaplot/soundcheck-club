@@ -1,6 +1,6 @@
 # Kerstin Eden
 
-Kerstin Eden is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
+Kerstin Eden is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
 
 Kerstin Eden is a techno and progressive house artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Dusseldorf and Nurnberg and 1 more. Often billed alongside Cloudy, Enaly and Gourski. Next up: Schrotty, Cologne on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Kerstin Eden is a techno and progressive house artist tracked on soundcheck, wit
 
 Cloudy, Enaly, Gourski
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerstineden/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerstineden/)*

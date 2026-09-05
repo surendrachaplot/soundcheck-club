@@ -1,6 +1,6 @@
 # SIREN: Cyber City at Paris Bar
 
-SIREN: Cyber City at Paris Bar on Sat 12 Sept, Detroit. 3 acts on the bill: Auntie Chanel, CleoTheeDoll and Seanni B. Techno and Electro. Preview the line-up and save it on soundcheck.
+SIREN: Cyber City at Paris Bar on Sat 12 Sept, Detroit. 4 acts on the bill: Auntie Chanel, CleoTheeDoll, Seanni B and TONIC (3). Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ SIREN: Cyber City at Paris Bar on Sat 12 Sept, Detroit. 3 acts on the bill: Aunt
 - Auntie Chanel
 - CleoTheeDoll
 - Seanni B
+- TONIC (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2515949-siren-cyber-city-at-paris-bar/)*

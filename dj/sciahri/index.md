@@ -1,6 +1,6 @@
 # Sciahri
 
-Sciahri is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 12 Sept 2026.
+Sciahri is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 12 Sept 2026.
 
 Sciahri is a techno and house artist tracked on soundcheck, with 34 sets logged across Athens, Barcelona, Berlin and Leipzig and 11 more. Often billed alongside Wizard K, ARMANDO and Aniaef. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Sciahri is a techno and house artist tracked on soundcheck, with 34 sets logged 
 
 Wizard K, ARMANDO, Aniaef
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*

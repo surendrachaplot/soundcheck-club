@@ -1,6 +1,6 @@
 # Nick Sanfrancisco
 
-Nick Sanfrancisco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at CGM - Club Giovanile Milano, Milan on Sun, 13 Sept 2026.
+Nick Sanfrancisco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at CGM - Club Giovanile Milano, Milan on Sun, 13 Sept 2026.
 
 Nick Sanfrancisco is a house and disco artist tracked on soundcheck, with 9 sets logged across Milan. Often billed alongside Alex De Ponti, ArmaDisco and Fab21100. Next up: CGM - Club Giovanile Milano, Milan on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Nick Sanfrancisco is a house and disco artist tracked on soundcheck, with 9 sets
 
 Alex De Ponti, ArmaDisco, Fab21100
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicksanfrancisco/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicksanfrancisco/)*

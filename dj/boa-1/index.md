@@ -1,6 +1,6 @@
 # BOA (1)
 
-BOA (1) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Liquid Club, Malta on Fri, 18 Sept 2026.
+BOA (1) is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Liquid Club, Malta on Fri, 18 Sept 2026.
 
 BOA (1) is a tech house and house artist tracked on soundcheck, with 14 sets logged across Ibiza, London, Malta and Manchester. Often billed alongside MTRG, Olly Brady and SAM PHONIC. Next up: Liquid Club, Malta on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ BOA (1) is a tech house and house artist tracked on soundcheck, with 14 sets log
 
 MTRG, Olly Brady, SAM PHONIC
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boa-1/)*

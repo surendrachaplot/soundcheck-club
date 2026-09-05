@@ -1,6 +1,6 @@
-# feedbk soft opening weekend - labor day with special guest & Laure at feedbk
+# feedbk - soft opening weekend labor day with special guest & Laure at feedbk
 
-feedbk soft opening weekend - labor day with special guest & Laure on Mon 7 Sept, Newyorkcity. Techno and House. Preview the line-up and save it on soundcheck.
+feedbk - soft opening weekend labor day with special guest & Laure on Mon 7 Sept, Newyorkcity. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

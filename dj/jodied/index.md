@@ -1,6 +1,6 @@
 # Jodie D
 
-Jodie D is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Little Jerry, Toronto on Fri, 2 Oct 2026.
+Jodie D is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Little Jerry, Toronto on Fri, 2 Oct 2026.
 
 Jodie D is a house and disco artist tracked on soundcheck, with 22 sets logged across Montreal and Toronto. Often billed alongside Janina Marie, Kiki LeFreak and Sakiko Nagai. Next up: The Little Jerry, Toronto on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Jodie D is a house and disco artist tracked on soundcheck, with 22 sets logged a
 
 Janina Marie, Kiki LeFreak, Sakiko Nagai
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jodied/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jodied/)*

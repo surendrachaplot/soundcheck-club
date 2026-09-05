@@ -1,6 +1,6 @@
 # Maltesar
 
-Maltesar is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+Maltesar is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 Maltesar is a techno and deep house artist tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside LANA:YEN, Joshua Liebe and Marc Eisenberg. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Maltesar is a techno and deep house artist tracked on soundcheck, with 12 sets l
 
 LANA:YEN, Joshua Liebe, Marc Eisenberg
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maltesar/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maltesar/)*

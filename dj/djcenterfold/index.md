@@ -1,6 +1,6 @@
 # DJ CENTERFOLD
 
-DJ CENTERFOLD is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Saloon, Tokyo on Sat, 5 Sept 2026.
+DJ CENTERFOLD is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Saloon, Tokyo on Sat, 5 Sept 2026.
 
 DJ CENTERFOLD is an experimental and techno artist tracked on soundcheck, with 25 sets logged across Amsterdam and Tokyo. Often billed alongside sudden star, MAYUDEPTH and MUNÉO. Next up: Saloon, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ DJ CENTERFOLD is an experimental and techno artist tracked on soundcheck, with 2
 
 sudden star, MAYUDEPTH, MUNÉO
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcenterfold/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcenterfold/)*

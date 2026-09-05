@@ -1,6 +1,6 @@
 # Guillaume Michaud
 
-Guillaume Michaud is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Stereo, Montreal on Fri, 11 Sept 2026.
+Guillaume Michaud is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Stereo, Montreal on Fri, 11 Sept 2026.
 
 Guillaume Michaud is a house and deep house artist tracked on soundcheck, with 35 sets logged across Montreal and Toronto. Often billed alongside Shirlee, Cirque Cosmic and Nathan Burns. Next up: Stereo, Montreal on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Guillaume Michaud is a house and deep house artist tracked on soundcheck, with 3
 
 Shirlee, Cirque Cosmic, Nathan Burns
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaumemichaud/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guillaumemichaud/)*

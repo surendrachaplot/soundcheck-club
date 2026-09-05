@@ -1,8 +1,8 @@
 # Will Renuart
 
-Will Renuart is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+Will Renuart is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
-Will Renuart is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Austin, Berlin, Detroit and Miami and 3 more. Often billed alongside Terence Tabeau, Danny Daze and Inbal. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
+Will Renuart is a house and techno artist based in United States of America, tracked on soundcheck, with 25 sets logged across Austin, Berlin, Detroit and Miami and 3 more. Often billed alongside Terence Tabeau, Danny Daze and Inbal. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Will Renuart is a house and techno artist based in United States of America, tra
 | Mon, 7 Sept 2026 | 3fifty Terrace | Detroit |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Will Renuart is a house and techno artist based in United States of America, tra
 
 Terence Tabeau, Danny Daze, Inbal
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willrenuart/)*

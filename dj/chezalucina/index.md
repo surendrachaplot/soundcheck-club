@@ -1,6 +1,6 @@
 # CHEZA LUCINA
 
-CHEZA LUCINA is a Club and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Cause, London on Sat, 5 Sept 2026.
+CHEZA LUCINA is a Club and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Cause, London on Sat, 5 Sept 2026.
 
 CHEZA LUCINA is a club and jungle artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Brighton, London, Nottingham and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: The Cause, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ CHEZA LUCINA is a club and jungle artist based in United Kingdom, tracked on sou
 
 THEMPRESS, Princess Xixi, Ivicore
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*

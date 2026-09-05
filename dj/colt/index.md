@@ -1,6 +1,6 @@
 # Colt
 
-Colt is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Monkey Loft, Seattle on Mon, 7 Sept 2026.
+Colt is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Monkey Loft, Seattle on Mon, 7 Sept 2026.
 
 Colt is a deep house and house artist tracked on soundcheck, with 13 sets logged across Detroit, Nashville, Newyorkcity and Seattle. Often billed alongside Carranza, Dexter Colt and Interwave Surfer. Next up: The Monkey Loft, Seattle on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Colt is a deep house and house artist tracked on soundcheck, with 13 sets logged
 
 Carranza, Dexter Colt, Interwave Surfer
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colt/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colt/)*

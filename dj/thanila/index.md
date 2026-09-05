@@ -1,6 +1,6 @@
 # THANILA
 
-THANILA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Nitsa Club, Barcelona on Sat, 12 Sept 2026.
+THANILA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Nitsa Club, Barcelona on Sat, 12 Sept 2026.
 
 THANILA is a techno and house artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside SANTANA, Drazzit and Albal. Next up: Nitsa Club, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ THANILA is a techno and house artist based in Spain, tracked on soundcheck, with
 
 SANTANA, Drazzit, Albal
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thanila/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thanila/)*

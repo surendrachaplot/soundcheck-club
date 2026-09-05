@@ -1,6 +1,6 @@
 # Jeremy Sylvester
 
-Jeremy Sylvester is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Freight Island, Manchester on Sun, 6 Sept 2026.
+Jeremy Sylvester is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Freight Island, Manchester on Sun, 6 Sept 2026.
 
 Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 19 more. Often billed alongside DJ Perception, Lady Passion and Mikey DJ. Next up: Freight Island, Manchester on Sun 6 Sept.
 
@@ -28,4 +28,4 @@ Jeremy Sylvester is a garage and house artist tracked on soundcheck, with 111 se
 
 DJ Perception, Lady Passion, Mikey DJ
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremysylvester/)*

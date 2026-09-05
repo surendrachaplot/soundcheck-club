@@ -1,6 +1,6 @@
 # Skate Park (Parco Lambro)
 
-Skate Park (Parco Lambro) is a music venue in Milan with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Milan Open Air allo Skatepark Parco Lambro with Cream Soundsystem [free party]" on Sat, 19 Sept 2026.
+Skate Park (Parco Lambro) is a music venue in Milan with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Milan Open Air allo Skatepark Parco Lambro with Cream Soundsystem [free party]" on Sat, 19 Sept 2026.
 
 Skate Park (Parco Lambro) is a music venue in Milan listed on soundcheck. 1 upcoming night, with line-ups including Vannelli Bros. Browse upcoming dates, start times and who's playing. Via Crescenzago/via Feltre, 20134, Milano.
 
@@ -14,4 +14,4 @@ Skate Park (Parco Lambro) is a music venue in Milan listed on soundcheck. 1 upco
 
 Via Crescenzago/via Feltre, 20134, Milano, Milan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/skate-park-parco-lambro/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/skate-park-parco-lambro/)*

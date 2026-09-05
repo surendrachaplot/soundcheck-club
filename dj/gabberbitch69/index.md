@@ -1,6 +1,6 @@
 # Gabberbitch69
 
-Gabberbitch69 is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 19 Sept 2026.
+Gabberbitch69 is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 19 Sept 2026.
 
 Gabberbitch69 is a hardcore and techno artist based in United States of America, tracked on soundcheck, with 63 sets logged across Berlin, Copenhagen, Miami and Nashville and 3 more. Often billed alongside Franxx, DJ Land Reform and GET FACE. Next up: TRANSMISSION DC, Washingtondc on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Gabberbitch69 is a hardcore and techno artist based in United States of America,
 
 Franxx, DJ Land Reform, GET FACE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabberbitch69/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabberbitch69/)*

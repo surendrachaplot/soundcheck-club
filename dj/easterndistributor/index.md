@@ -1,6 +1,6 @@
 # Eastern Distributor
 
-Eastern Distributor is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Sydney on Sat, 5 Sept 2026.
+Eastern Distributor is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Sydney on Sat, 5 Sept 2026.
 
 Eastern Distributor is a techno and trance artist tracked on soundcheck, with 32 sets logged across Amsterdam, Berlin, Brisbane and Melbourne and 4 more. Often billed alongside Andy Garvey, Cloudy Ku and Mabel. Next up: TBA, Sydney on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Eastern Distributor is a techno and trance artist tracked on soundcheck, with 32
 
 Andy Garvey, Cloudy Ku, Mabel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/easterndistributor/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/easterndistributor/)*

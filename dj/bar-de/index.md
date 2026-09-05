@@ -1,6 +1,6 @@
 # BAR (DE)
 
-BAR (DE) is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at XOYO Birmingham, Birmingham on Sat, 5 Sept 2026.
+BAR (DE) is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at XOYO Birmingham, Birmingham on Sat, 5 Sept 2026.
 
 BAR (DE) is a tech house and house artist based in Germany, tracked on soundcheck, with 36 sets logged across Athens, Birmingham, London and Marseille and 6 more. Often billed alongside Pau Pérez, Blanch and Paola (1). Next up: XOYO Birmingham, Birmingham on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ BAR (DE) is a tech house and house artist based in Germany, tracked on soundchec
 
 Pau Pérez, Blanch, Paola (1)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bar-de/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bar-de/)*

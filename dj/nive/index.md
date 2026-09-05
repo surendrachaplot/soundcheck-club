@@ -1,6 +1,6 @@
 # Nive
 
-Nive is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sameheads, Berlin on Sat, 19 Sept 2026.
+Nive is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sameheads, Berlin on Sat, 19 Sept 2026.
 
 Nive is a techno and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Dusseldorf and Geneva and 4 more. Often billed alongside Dominik André, Luka (CH) and Rearte. Next up: Sameheads, Berlin on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Nive is a techno and house artist tracked on soundcheck, with 38 sets logged acr
 
 Dominik André, Luka (CH), Rearte
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nive/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nive/)*

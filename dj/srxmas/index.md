@@ -1,6 +1,6 @@
 # srxmas
 
-srxmas is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 10 Sept 2026.
+srxmas is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 10 Sept 2026.
 
 srxmas is a house and electronica artist based in Spain, tracked on soundcheck, with 25 sets logged across Barcelona. Often billed alongside srxmas., Cucut and Tamborero. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ srxmas is a house and electronica artist based in Spain, tracked on soundcheck, 
 
 srxmas., Cucut, Tamborero
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/srxmas/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/srxmas/)*

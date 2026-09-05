@@ -1,6 +1,6 @@
 # Mint Warehouse
 
-Mint Warehouse is a music venue in Leeds with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "GAIA Opening Party @ "The Loft"" on Sat, 12 Sept 2026.
+Mint Warehouse is a music venue in Leeds with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "GAIA Opening Party @ "The Loft"" on Sat, 12 Sept 2026.
 
 Mint Warehouse is a music venue in Leeds listed on soundcheck. 7 upcoming nights, with line-ups including Alec Falconer, Arty (UK), camukg and Captain Wallop and 2 more. Browse upcoming dates, start times and who's playing. Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom.
 
@@ -20,4 +20,4 @@ Mint Warehouse is a music venue in Leeds listed on soundcheck. 7 upcoming nights
 
 Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom, Leeds
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-warehouse/)*

@@ -1,6 +1,6 @@
 # Rafael (IS)
 
-Rafael (IS) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Golden Gate, Berlin on Thu, 10 Sept 2026.
+Rafael (IS) is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Golden Gate, Berlin on Thu, 10 Sept 2026.
 
 Rafael (IS) is a tech house and house artist tracked on soundcheck, with 25 sets logged across Austin, Barcelona, Berlin and Brisbane and 13 more. Often billed alongside Jamie Jones, Afriqua and Daizy. Next up: Golden Gate, Berlin on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Rafael (IS) is a tech house and house artist tracked on soundcheck, with 25 sets
 
 Jamie Jones, Afriqua, Daizy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael-IS/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael-IS/)*

@@ -1,6 +1,6 @@
 # Klub SPATiF
 
-Klub SPATiF is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Cumbia Warszawa pres: Los Baby Jaguars • No Solo Cumbia" on Thu, 17 Sept 2026.
+Klub SPATiF is a music venue in Warsaw with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Cumbia Warszawa pres: Los Baby Jaguars • No Solo Cumbia" on Thu, 17 Sept 2026.
 
 Klub SPATiF is a music venue in Warsaw listed on soundcheck. 1 upcoming night, with line-ups including Cosaco. Browse upcoming dates, start times and who's playing. Al. Ujazdowskie 45, 00-536 Warszawa.
 
@@ -14,4 +14,4 @@ Klub SPATiF is a music venue in Warsaw listed on soundcheck. 1 upcoming night, w
 
 Al. Ujazdowskie 45, 00-536 Warszawa, Warsaw
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-spatif/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-spatif/)*

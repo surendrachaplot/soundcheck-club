@@ -1,6 +1,6 @@
 # Fenrick
 
-Fenrick is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Fenrick is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
 
 Fenrick is a techno and trance artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside EMILIJA, Odymel and Adrian Mills. Next up: Industry City, Newyorkcity on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Fenrick is a techno and trance artist tracked on soundcheck, with 127 sets logge
 
 EMILIJA, Odymel, Adrian Mills
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fenrick/)*

@@ -1,6 +1,6 @@
 # Deherian
 
-Deherian is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at BÒTOXE Club Athens, Athens on Sat, 19 Sept 2026.
+Deherian is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at BÒTOXE Club Athens, Athens on Sat, 19 Sept 2026.
 
 Deherian is a techno and psytrance artist tracked on soundcheck, with 61 sets logged across Athens and Paris. Often billed alongside Tanison, Christian Cambas and Steve Sai. Next up: BÒTOXE Club Athens, Athens on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Deherian is a techno and psytrance artist tracked on soundcheck, with 61 sets lo
 
 Tanison, Christian Cambas, Steve Sai
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deherian/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deherian/)*

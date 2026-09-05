@@ -1,18 +1,18 @@
 # Black Sun Empire
 
-Black Sun Empire is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TivoliVredenburg, Utrecht on Fri, 4 Sept 2026.
+Black Sun Empire is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Gretchen, Berlin on Sat, 14 Nov 2026.
 
-Black Sun Empire is a drum & bass and bass artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Athens and Auckland and 21 more. Often billed alongside Camo & Krooked, Mefjus and Pythius. Next up: TivoliVredenburg, Utrecht on Fri 4 Sept.
+Black Sun Empire is a drum & bass and bass artist tracked on soundcheck, with 56 sets logged across Amsterdam, Antwerp, Athens and Auckland and 21 more. Often billed alongside Camo & Krooked, Mefjus and Pythius. Next up: Gretchen, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TivoliVredenburg | Utrecht |
 | Sat, 14 Nov 2026 | Gretchen | Berlin |
 
 ## Recently played
 
+- TivoliVredenburg, Utrecht — Fri, 4 Sept 2026
 - Hackney Wick Multiple Venues, London — Sat, 1 Aug 2026
 - Le Kilowatt, Paris — Sat, 13 Jun 2026
 - First Club, Riga — Fri, 12 Jun 2026
@@ -20,10 +20,9 @@ Black Sun Empire is a drum & bass and bass artist tracked on soundcheck, with 56
 - Arena Wien, Vienna — Sat, 11 Apr 2026
 - Akvárium Klub, Budapest — Sat, 14 Feb 2026
 - TivoliVredenburg, Utrecht — Fri, 6 Feb 2026
-- Maassilo, Rotterdam — Fri, 30 Jan 2026
 
 ## Shares bills with
 
 Camo & Krooked, Mefjus, Pythius
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blacksunempire/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blacksunempire/)*

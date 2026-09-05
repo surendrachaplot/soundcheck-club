@@ -1,6 +1,6 @@
 # Vatsanah
 
-Vatsanah is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Monokultur, Budapest on Sat, 5 Sept 2026.
+Vatsanah is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Monokultur, Budapest on Sat, 5 Sept 2026.
 
 Vatsanah is a house and downtempo artist tracked on soundcheck, with 69 sets logged across Berlin and Budapest. Often billed alongside Klayman, LAU (6) and SVR101. Next up: Monokultur, Budapest on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Vatsanah is a house and downtempo artist tracked on soundcheck, with 69 sets log
 
 Klayman, LAU (6), SVR101
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vatsanah-hu/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vatsanah-hu/)*

@@ -1,6 +1,6 @@
 # Nabee
 
-Nabee is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 10 Sept 2026.
+Nabee is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 10 Sept 2026.
 
 Nabee is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Edinburgh. Often billed alongside Brynk, FOLIE (UK) and Janverse. Next up: The Bongo Club, Edinburgh on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Nabee is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 Brynk, FOLIE (UK), Janverse
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nabee/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nabee/)*

@@ -1,6 +1,6 @@
 # A.T.E.K
 
-A.T.E.K is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
+A.T.E.K is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mobilat Club, Stuttgart on Sat, 12 Sept 2026.
 
 A.T.E.K is a techno and trance artist tracked on soundcheck, with 5 sets logged across Dusseldorf, Frankfurt and Stuttgart. Often billed alongside CiKi, Formale Bassgestaltung and Kacy. Next up: Mobilat Club, Stuttgart on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ A.T.E.K is a techno and trance artist tracked on soundcheck, with 5 sets logged 
 
 CiKi, Formale Bassgestaltung, Kacy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.t.e.k/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/a.t.e.k/)*

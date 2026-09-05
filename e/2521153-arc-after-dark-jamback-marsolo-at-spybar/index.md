@@ -1,6 +1,6 @@
 # ARC After Dark: Jamback + Marsolo at Spybar
 
-ARC After Dark: Jamback + Marsolo at Spybar on Sun 6 Sept, Chicago. 2 acts on the bill: Jamback and Marsolo. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+ARC After Dark: Jamback + Marsolo at Spybar on Sun 6 Sept, Chicago. 3 acts on the bill: Jamback, Marsolo and Tyson Dias. Tech House and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ ARC After Dark: Jamback + Marsolo at Spybar on Sun 6 Sept, Chicago. 2 acts on th
 
 - Jamback
 - Marsolo
+- Tyson Dias
 
 *Source: [soundcheck](https://soundcheck.club/e/2521153-arc-after-dark-jamback-marsolo-at-spybar/)*

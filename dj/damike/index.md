@@ -1,6 +1,6 @@
 # Da Mike
 
-Da Mike is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Sat, 5 Sept 2026.
+Da Mike is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Sat, 5 Sept 2026.
 
 Da Mike is a tech house and afro house artist based in Greece, tracked on soundcheck, with 28 sets logged across Athens, Ibiza, Mykonos and Paris and 2 more. Often billed alongside Alex Kósh, Aphroditeé and Black Coffee. Next up: Olympic Athletic Center of Athens, Athens on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Da Mike is a tech house and afro house artist based in Greece, tracked on soundc
 
 Alex Kósh, Aphroditeé, Black Coffee
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damike/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damike/)*

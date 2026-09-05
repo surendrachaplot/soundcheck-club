@@ -1,6 +1,6 @@
 # Lymph
 
-Lymph is a Hip-Hop and Club artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 5 Sept 2026.
+Lymph is a Hip-Hop and Club artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Circus Tokyo, Tokyo on Sat, 5 Sept 2026.
 
 Lymph is a hip-hop and club artist tracked on soundcheck, with 6 sets logged across Berlin, Milan and Tokyo. Often billed alongside Avikal, Ferro_5 and MK woop. Next up: Circus Tokyo, Tokyo on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Lymph is a hip-hop and club artist tracked on soundcheck, with 6 sets logged acr
 
 Avikal, Ferro_5, MK woop
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lymph/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lymph/)*

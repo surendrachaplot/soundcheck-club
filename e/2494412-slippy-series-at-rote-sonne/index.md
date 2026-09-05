@@ -1,6 +1,6 @@
 # slippy series at Rote Sonne
 
-slippy series at Rote Sonne on Sat 26 Sept, Munich. 4 acts on the bill: crystal crimez (2), DJ Yugo, ENERGY TAPE and Liroy. Trance and Techno. Preview the line-up and save it on soundcheck.
+slippy series at Rote Sonne on Sat 26 Sept, Munich. 5 acts on the bill: crystal crimez (2), DJ Yugo, ENERGY TAPE and Knallplatten and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ slippy series at Rote Sonne on Sat 26 Sept, Munich. 4 acts on the bill: crystal 
 - crystal crimez (2)
 - DJ Yugo
 - ENERGY TAPE
+- Knallplatten
 - Liroy
 
 *Source: [soundcheck](https://soundcheck.club/e/2494412-slippy-series-at-rote-sonne/)*

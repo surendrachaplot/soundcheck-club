@@ -1,6 +1,6 @@
 # Hito
 
-Hito is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at BAR Inc, Osaka on Fri, 16 Oct 2026.
+Hito is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at BAR Inc, Osaka on Fri, 16 Oct 2026.
 
 Hito is a techno and tech house artist tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Frankfurt and Ibiza and 7 more. Often billed alongside Dub Tiger, Alex Bohemien and Artslaves. Next up: BAR Inc, Osaka on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Hito is a techno and tech house artist tracked on soundcheck, with 45 sets logge
 
 Dub Tiger, Alex Bohemien, Artslaves
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hito/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hito/)*

@@ -1,6 +1,6 @@
 # Josh Dunn
 
-Josh Dunn is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
+Josh Dunn is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
 
 Josh Dunn is a house and ambient artist tracked on soundcheck, with 12 sets logged across Detroit and Newyorkcity. Often billed alongside Ryan Spencer, Kenjiro and MGUN. Next up: MotorCity Wine, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Josh Dunn is a house and ambient artist tracked on soundcheck, with 12 sets logg
 
 Ryan Spencer, Kenjiro, MGUN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdunn/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdunn/)*

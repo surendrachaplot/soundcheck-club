@@ -1,6 +1,6 @@
 # Marcel Vogel
 
-Marcel Vogel is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bricks, London on Sat, 10 Oct 2026.
+Marcel Vogel is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bricks, London on Sat, 10 Oct 2026.
 
 Marcel Vogel is a disco and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 11 more. Often billed alongside Apparel Wax, Delfonic and Luke Solomon. Next up: Bricks, London on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Marcel Vogel is a disco and house artist tracked on soundcheck, with 51 sets log
 
 Apparel Wax, Delfonic, Luke Solomon
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*

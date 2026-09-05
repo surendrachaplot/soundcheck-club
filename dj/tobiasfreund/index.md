@@ -1,6 +1,6 @@
 # Tobias.
 
-Tobias. is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Circolo Amelia, Milan on Sat, 3 Oct 2026.
+Tobias. is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Circolo Amelia, Milan on Sat, 3 Oct 2026.
 
 Tobias. is a techno and experimental artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Konstantin, Edward and Yamour. Next up: Circolo Amelia, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tobias. is a techno and experimental artist tracked on soundcheck, with 51 sets 
 
 Konstantin, Edward, Yamour
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiasfreund/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiasfreund/)*

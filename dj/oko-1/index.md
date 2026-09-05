@@ -1,6 +1,6 @@
 # OKO (1)
 
-OKO (1) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+OKO (1) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 OKO (1) is a drum & bass and jungle artist tracked on soundcheck, with 19 sets logged across Bristol, Cologne, Edinburgh and Ibiza and 5 more. Often billed alongside Diagnostix, Duskee and A Little Sound. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ OKO (1) is a drum & bass and jungle artist tracked on soundcheck, with 19 sets l
 
 Diagnostix, Duskee, A Little Sound
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oko-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oko-1/)*

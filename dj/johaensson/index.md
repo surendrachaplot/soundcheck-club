@@ -1,6 +1,6 @@
 # Johænsson
 
-Johænsson is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
+Johænsson is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Ritter Butzke, Berlin on Fri, 18 Sept 2026.
 
 Johænsson is a techno and trance artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside LASERBOY, Elias Doré and Multifun. Next up: Ritter Butzke, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Johænsson is a techno and trance artist based in Germany, tracked on soundcheck
 
 LASERBOY, Elias Doré, Multifun
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johaensson/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johaensson/)*

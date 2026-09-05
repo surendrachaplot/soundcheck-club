@@ -1,6 +1,6 @@
 # Azo
 
-Azo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
+Azo is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
 
 Azo is a techno and electro artist tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Vera Moro, Fais Le Beau and Kathleen C. Next up: Kompass Klub, Ghent on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Azo is a techno and electro artist tracked on soundcheck, with 88 sets logged ac
 
 Vera Moro, Fais Le Beau, Kathleen C
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azo/)*

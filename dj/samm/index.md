@@ -1,6 +1,6 @@
 # Samm
 
-Samm is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 18 Sept 2026.
+Samm is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hï Ibiza, Ibiza on Fri, 18 Sept 2026.
 
 Samm is a house and afro house artist based in Greece, tracked on soundcheck, with 12 sets logged across Hamburg, Ibiza, London and Losangeles and 3 more. Often billed alongside AJNA, Adriatique and Agoria. Next up: Hï Ibiza, Ibiza on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ Samm is a house and afro house artist based in Greece, tracked on soundcheck, wi
 
 AJNA, Adriatique, Agoria
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samm/)*

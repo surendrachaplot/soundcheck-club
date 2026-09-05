@@ -1,6 +1,6 @@
 # localhost
 
-localhost is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Starlane Pizza Bar, London on Sun, 6 Sept 2026.
+localhost is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Starlane Pizza Bar, London on Sun, 6 Sept 2026.
 
 localhost is a techno and dub techno artist tracked on soundcheck, with 8 sets logged across Hamburg and London. Often billed alongside Big Hands, DB1 and Abraham Parker. Next up: Starlane Pizza Bar, London on Sun 6 Sept.
 
@@ -24,4 +24,4 @@ localhost is a techno and dub techno artist tracked on soundcheck, with 8 sets l
 
 Big Hands, DB1, Abraham Parker
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/localhost/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/localhost/)*

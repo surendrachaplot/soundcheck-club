@@ -1,6 +1,6 @@
 # David Vunk
 
-David Vunk is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at export, Rotterdam on Fri, 11 Sept 2026.
+David Vunk is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at export, Rotterdam on Fri, 11 Sept 2026.
 
 David Vunk is a house and techno artist tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside Marsman, Afra and Anetha. Next up: export, Rotterdam on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ David Vunk is a house and techno artist tracked on soundcheck, with 158 sets log
 
 Marsman, Afra, Anetha
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidvunk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidvunk/)*

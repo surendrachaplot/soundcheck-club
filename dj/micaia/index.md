@@ -1,6 +1,6 @@
 # Micaia
 
-Micaia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ministerium Club, Lisbon on Sat, 5 Sept 2026.
+Micaia is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ministerium Club, Lisbon on Sat, 5 Sept 2026.
 
 Micaia is a house and techno artist tracked on soundcheck, with 23 sets logged across Lisbon, London, Porto and Rotterdam. Often billed alongside Caroline Lethô, DJ Honesty and MURI. Next up: Ministerium Club, Lisbon on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Micaia is a house and techno artist tracked on soundcheck, with 23 sets logged a
 
 Caroline Lethô, DJ Honesty, MURI
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micaia/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/micaia/)*

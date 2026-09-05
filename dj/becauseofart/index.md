@@ -1,6 +1,6 @@
 # Because of Art
 
-Because of Art is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Fibre Penthouse, Leeds on Sat, 19 Sept 2026.
+Because of Art is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Fibre Penthouse, Leeds on Sat, 19 Sept 2026.
 
 Because of Art is a progressive house and deep house artist tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Glasgow and Leeds and 9 more. Often billed alongside Jody Wisternoff, Nicky Elisabeth and Dosem. Next up: The Fibre Penthouse, Leeds on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Because of Art is a progressive house and deep house artist tracked on soundchec
 
 Jody Wisternoff, Nicky Elisabeth, Dosem
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/becauseofart/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/becauseofart/)*

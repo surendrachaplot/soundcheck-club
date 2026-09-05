@@ -1,6 +1,6 @@
 # Sir Free
 
-Sir Free is a Grime artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Cross Club, Prague on Sat, 5 Sept 2026.
+Sir Free is a Grime artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Cross Club, Prague on Sat, 5 Sept 2026.
 
 Sir Free is a grime artist based in Czech Republic, tracked on soundcheck, with 19 sets logged across Prague. Often billed alongside Dj Alyaz, JohnyM and Tereza.Pro. Next up: Cross Club, Prague on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Sir Free is a grime artist based in Czech Republic, tracked on soundcheck, with 
 
 Dj Alyaz, JohnyM, Tereza.Pro
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sirfree/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sirfree/)*

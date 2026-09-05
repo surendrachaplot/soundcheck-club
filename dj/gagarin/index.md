@@ -1,6 +1,6 @@
 # Gagarin
 
-Gagarin is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mastak, Warsaw on Fri, 25 Sept 2026.
+Gagarin is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mastak, Warsaw on Fri, 25 Sept 2026.
 
 Gagarin is a techno artist based in Ukraine, tracked on soundcheck, with 7 sets logged across Berlin and Warsaw. Often billed alongside AilinDeSha*, Abrew and Butwho. Next up: Mastak, Warsaw on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Gagarin is a techno artist based in Ukraine, tracked on soundcheck, with 7 sets 
 
 AilinDeSha*, Abrew, Butwho
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gagarin/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gagarin/)*

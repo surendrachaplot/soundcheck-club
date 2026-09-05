@@ -1,6 +1,6 @@
 # REGOR_
 
-REGOR_ is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at La Terrrazza, Barcelona on Thu, 1 Oct 2026.
+REGOR_ is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at La Terrrazza, Barcelona on Thu, 1 Oct 2026.
 
 REGOR_ is a house and trance artist tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside BOGU (ES), CLANDESTINE (2) and DJ Cobo. Next up: La Terrrazza, Barcelona on Thu 1 Oct.
 
@@ -22,4 +22,4 @@ REGOR_ is a house and trance artist tracked on soundcheck, with 6 sets logged ac
 
 BOGU (ES), CLANDESTINE (2), DJ Cobo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regor_/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regor_/)*

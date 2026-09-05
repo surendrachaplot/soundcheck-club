@@ -1,14 +1,13 @@
 # ELOISA
 
-ELOISA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Sept 2026.
+ELOISA is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Glazart, Paris on Sun, 13 Sept 2026.
 
-ELOISA is a techno and trance artist tracked on soundcheck, with 80 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 6 more. Often billed alongside Carotin, Melanchromie and Alexa Fluor. Next up: Lokschuppen Berlin, Berlin on Fri 4 Sept.
+ELOISA is a techno and trance artist tracked on soundcheck, with 80 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 6 more. Often billed alongside Carotin, Melanchromie and Alexa Fluor. Next up: Glazart, Paris on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Sun, 13 Sept 2026 | Glazart | Paris |
 | Sat, 19 Sept 2026 | ROSA | Berlin |
 | Sat, 24 Oct 2026 | ÆDEN | Berlin |
@@ -17,6 +16,7 @@ ELOISA is a techno and trance artist tracked on soundcheck, with 80 sets logged 
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Fri, 4 Sept 2026
 - ÆDEN, Berlin — Fri, 28 Aug 2026
 - Edelfettwerk, Hamburg — Sun, 23 Aug 2026
 - Rote Sonne, Munich — Sat, 22 Aug 2026
@@ -24,10 +24,9 @@ ELOISA is a techno and trance artist tracked on soundcheck, with 80 sets logged 
 - Tanzhaus West, Frankfurt — Sat, 8 Aug 2026
 - Wilhelm-Külz Park, Leipzig — Sat, 1 Aug 2026
 - ÆDEN, Berlin — Sat, 1 Aug 2026
-- TBA - Peißnitzinsel Halle, Leipzig — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Carotin, Melanchromie, Alexa Fluor
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*

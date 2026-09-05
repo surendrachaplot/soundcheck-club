@@ -1,14 +1,13 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Rabibti à table plays at migas" on Fri, 4 Sept 2026.
+migas, a listening bar is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Nano plays at migas" on Sat, 5 Sept 2026.
 
-migas, a listening bar is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Kat.lysa, Bernhard Hollinger, David August and DJ NOB and 2 more. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
+migas, a listening bar is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including Kat.lysa, Bernhard Hollinger, David August and DJ NOB and 2 more. Browse upcoming dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Rabibti à table plays at migas | Rabibti áTable |
 | Sat, 5 Sept 2026 | Nano plays at migas | NANO |
 | Thu, 10 Sept 2026 | Kat.lysa plays at migas | Kat.lysa |
 | Fri, 11 Sept 2026 | Clément Demonsant plays at migas |  |
@@ -18,9 +17,10 @@ migas, a listening bar is a music venue in Berlin listed on soundcheck. 11 upcom
 | Sat, 19 Sept 2026 | Mulugeta Nerayo plays at migas |  |
 | Thu, 24 Sept 2026 | David August plays at migas | David August |
 | Fri, 25 Sept 2026 | NOB plays at migas | DJ NOB |
+| Sat, 26 Sept 2026 | Kristian Kaltenbach plays at migas |  |
 
 ## Address
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

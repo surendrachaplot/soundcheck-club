@@ -1,14 +1,13 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Raum:95 y Nitrile Affair" on Fri, 4 Sept 2026.
+Doggy Klœb is a music venue in Malaga with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Doggy & Friends: Reisender" on Thu, 10 Sept 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 9 upcoming nights, with line-ups including Arval, Catania, Cavilla and Certain People and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 8 upcoming nights, with line-ups including Arval, Catania, Cavilla and Certain People and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Raum:95 y Nitrile Affair | Nitrile Affair |
 | Thu, 10 Sept 2026 | Doggy & Friends: Reisender | Reisender |
 | Fri, 11 Sept 2026 | Cultura Club: IDA y Radikal Komcept | IDA |
 | Sat, 12 Sept 2026 | Checa: 30 años detras de los platos |  |
@@ -22,4 +21,4 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 9 upcoming nights, 
 
 C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain, Malaga
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/doggy-kl-b/)*

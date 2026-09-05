@@ -1,6 +1,6 @@
 # Syntelman
 
-Syntelman is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 11 Sept 2026.
+Syntelman is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 11 Sept 2026.
 
 Syntelman is an electro and techno artist tracked on soundcheck, with 6 sets logged across Brussels and Bucharest. Often billed alongside Paul Popa, Mianda and Teodor Ghita. Next up: Platforma Wolff, Bucharest on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ Syntelman is an electro and techno artist tracked on soundcheck, with 6 sets log
 
 Paul Popa, Mianda, Teodor Ghita
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syntelman/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syntelman/)*

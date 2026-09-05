@@ -1,6 +1,6 @@
 # .rigid
 
-.rigid is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 13 Sept 2026.
+.rigid is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 13 Sept 2026.
 
 .rigid is a techno and minimal techno artist based in Serbia, tracked on soundcheck, with 10 sets logged across Belgrade. Often billed alongside Impedance, ROPE and Aneri. Next up: Para Klub Beograd, Belgrade on Sun 13 Sept.
 
@@ -25,4 +25,4 @@
 
 Impedance, ROPE, Aneri
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/.rigid/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/.rigid/)*

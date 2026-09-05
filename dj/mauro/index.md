@@ -1,6 +1,6 @@
 # MAURO
 
-MAURO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Odonien, Cologne on Wed, 9 Sept 2026.
+MAURO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Odonien, Cologne on Wed, 9 Sept 2026.
 
 MAURO is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Amsterdam, Berlin, Brussels and Cologne and 3 more. Often billed alongside Th.is Fake, OXOPOHA and Fabu. Next up: Odonien, Cologne on Wed 9 Sept.
 
@@ -27,4 +27,4 @@ MAURO is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Th.is Fake, OXOPOHA, Fabu
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauro/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mauro/)*

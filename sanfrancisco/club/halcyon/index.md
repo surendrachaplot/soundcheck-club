@@ -1,14 +1,13 @@
 # Halcyon
 
-Halcyon is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Adapter" on Fri, 4 Sept 2026.
+Halcyon is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Natalia Roth" on Sat, 5 Sept 2026.
 
-Halcyon is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including Adapter, Anyasa, DXNBY and Natalia Roth. Browse upcoming dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
+Halcyon is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including Anyasa, DXNBY and Natalia Roth. Browse upcoming dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Adapter | Adapter |
 | Sat, 5 Sept 2026 | Natalia Roth | Natalia Roth |
 | Fri, 11 Sept 2026 | BYORN |  |
 | Sat, 12 Sept 2026 | DXNBY | DXNBY |
@@ -21,4 +20,4 @@ Halcyon is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights
 
 314 11th St, San Francisco, California, 94103, San Francisco/Oakland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/halcyon/)*

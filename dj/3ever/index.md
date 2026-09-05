@@ -1,6 +1,6 @@
 # 3ever
 
-3ever is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+3ever is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 3ever is a techno and electro artist based in Slovakia, tracked on soundcheck, with 58 sets logged across Prague. Often billed alongside Nina Farrina, SJ Yellow and yo haan. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -26,4 +26,4 @@
 
 Nina Farrina, SJ Yellow, yo haan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3ever/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3ever/)*

@@ -1,14 +1,13 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 17 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Macadam x TSSRCT • Hadone ~ UFO95 (live) ~ Hanaka" on Fri, 4 Sept 2026.
+Macadam is a music venue in Nantes with 16 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Macadam x MÄR • Viikatory ~ Krijka ~ Deuspy" on Sat, 5 Sept 2026.
 
-Macadam is a music venue in Nantes listed on soundcheck. 17 upcoming nights, with line-ups including A.Fruit, Alex Kassian, BAULSI and Belaria and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
+Macadam is a music venue in Nantes listed on soundcheck. 16 upcoming nights, with line-ups including A.Fruit, Alex Kassian, BAULSI and Belaria and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Macadam x TSSRCT • Hadone ~ UFO95 (live) ~ Hanaka | Hadone, UFO95 |
 | Sat, 5 Sept 2026 | Macadam x MÄR • Viikatory ~ Krijka ~ Deuspy | Krijka, Viikatory |
 | Sun, 6 Sept 2026 | After Goûtez Electronique | Club Devotion, Pauline Gompertz |
 | Thu, 10 Sept 2026 | Macadam x Collectif 360 • Alura ~ Johan |  |
@@ -18,9 +17,10 @@ Macadam is a music venue in Nantes listed on soundcheck. 17 upcoming nights, wit
 | Thu, 17 Sept 2026 | Macadam x Collectif 4AEM • Löwin ~ Drafter B2B DJ Mâchoire |  |
 | Fri, 18 Sept 2026 | Macadam x Distant Waters • Cecilio ~ Innuendo (live) ~ Yola | Cecilio |
 | Sat, 19 Sept 2026 | Macadam • Curses ~ Belaria ~ Sans Sucre | Belaria, Curses |
+| Thu, 24 Sept 2026 | Macadam x Confluence • KOLLER ~ BAULSI | BAULSI, KOLLER |
 
 ## Address
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

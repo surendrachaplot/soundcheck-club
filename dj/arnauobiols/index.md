@@ -1,6 +1,6 @@
 # Arnau Obiols
 
-Arnau Obiols is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Dreamboat Bar & Deli, Barcelona on Sat, 5 Sept 2026.
+Arnau Obiols is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Dreamboat Bar & Deli, Barcelona on Sat, 5 Sept 2026.
 
 Arnau Obiols is a house and electronica artist tracked on soundcheck, with 103 sets logged across Barcelona, Ibiza, London and Madrid. Often billed alongside Cucut, Arnau and Adria (ES). Next up: Dreamboat Bar & Deli, Barcelona on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Arnau Obiols is a house and electronica artist tracked on soundcheck, with 103 s
 
 Cucut, Arnau, Adria (ES)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arnauobiols/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arnauobiols/)*

@@ -1,6 +1,6 @@
 # Coco Boule
 
-Coco Boule is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Side Defects [eXpo night] feat. Unai Trotti, Daura, An-i live" on Fri, 11 Sept 2026.
+Coco Boule is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Side Defects [eXpo night] feat. Unai Trotti, Daura, An-i live" on Fri, 11 Sept 2026.
 
 Coco Boule is a music venue in Berlin listed on soundcheck. 2 upcoming nights, with line-ups including ALBA (3), An-i, Daura and KaltwasserTV and 2 more. Browse upcoming dates, start times and who's playing. Prinzenstraße 85/D-F, 10969 Berlin, Germany.
 
@@ -15,4 +15,4 @@ Coco Boule is a music venue in Berlin listed on soundcheck. 2 upcoming nights, w
 
 Prinzenstraße 85/D-F, 10969 Berlin, Germany, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*

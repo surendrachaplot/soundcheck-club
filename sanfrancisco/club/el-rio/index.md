@@ -1,6 +1,6 @@
 # El Rio
 
-El Rio is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Al Akhbar Arab Jazz Album Debut" on Sat, 5 Sept 2026.
+El Rio is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Al Akhbar Arab Jazz Album Debut" on Sat, 5 Sept 2026.
 
 El Rio is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights, with line-ups including DJ Ari B, GHOST MILK, Jasmine Infiniti and Lonald J. Bandz and 2 more. Browse upcoming dates, start times and who's playing. 3158 Mission St, San Francisco, CA 94110, USA.
 
@@ -19,4 +19,4 @@ El Rio is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights,
 
 3158 Mission St, San Francisco, CA 94110, USA, San Francisco/Oakland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/el-rio/)*

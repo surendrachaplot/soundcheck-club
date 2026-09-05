@@ -1,6 +1,6 @@
 # the butcher bird
 
-the butcher bird is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The System, Sheffield on Fri, 11 Sept 2026.
+the butcher bird is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The System, Sheffield on Fri, 11 Sept 2026.
 
 the butcher bird is a bass and techno artist tracked on soundcheck, with 21 sets logged across London and Sheffield. Often billed alongside MF Ceól, Sway Of The Verses and D.N.S. Next up: The System, Sheffield on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ the butcher bird is a bass and techno artist tracked on soundcheck, with 21 sets
 
 MF Ceól, Sway Of The Verses, D.N.S
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebutcherbird/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebutcherbird/)*

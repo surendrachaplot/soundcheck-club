@@ -1,6 +1,6 @@
 # Funk Hunk
 
-Funk Hunk is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hi Dive, Denver on Fri, 11 Sept 2026.
+Funk Hunk is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Hi Dive, Denver on Fri, 11 Sept 2026.
 
 Funk Hunk is a disco and house artist tracked on soundcheck, with 8 sets logged across Denver. Often billed alongside Dicky Trisco, Hotmood and Shannon von Kelly. Next up: Hi Dive, Denver on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Funk Hunk is a disco and house artist tracked on soundcheck, with 8 sets logged 
 
 Dicky Trisco, Hotmood, Shannon von Kelly
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkhunk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkhunk/)*

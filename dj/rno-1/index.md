@@ -1,6 +1,6 @@
 # RNO (1)
 
-RNO (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+RNO (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 RNO (1) is a techno and house artist tracked on soundcheck, with 49 sets logged across Athens and Mykonos. Often billed alongside 22 (1), Innassi and Liou. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ RNO (1) is a techno and house artist tracked on soundcheck, with 49 sets logged 
 
 22 (1), Innassi, Liou
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rno-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rno-1/)*

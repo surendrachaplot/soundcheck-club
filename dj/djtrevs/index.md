@@ -1,6 +1,6 @@
 # DJ Trevs
 
-DJ Trevs is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Driftwood, San Francisco/Oakland on Fri, 25 Sept 2026.
+DJ Trevs is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Driftwood, San Francisco/Oakland on Fri, 25 Sept 2026.
 
 DJ Trevs is a house and acid artist based in United States of America, tracked on soundcheck, with 11 sets logged across Sanfrancisco. Often billed alongside Beverly Chills, Black Panda and Goddollars. Next up: Driftwood, Sanfrancisco on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ DJ Trevs is a house and acid artist based in United States of America, tracked o
 
 Beverly Chills, Black Panda, Goddollars
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrevs/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtrevs/)*

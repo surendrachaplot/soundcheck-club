@@ -1,14 +1,13 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 27 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Studio Stereo pres. Chez Doc showcase (until 4am)" on Fri, 4 Sept 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 26 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Studio Stereo pres. Jabba Records showcase (until 4am)" on Sat, 5 Sept 2026.
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 27 upcoming nights, with line-ups including A. CASANOVA, Almuedo, Angel Mellado and Baldo and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 26 upcoming nights, with line-ups including A. CASANOVA, Almuedo, Angel Mellado and Baldo and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Studio Stereo pres. Chez Doc showcase (until 4am) | A. CASANOVA, FLEX.cat, Francis99, Funky Shirts MZN, J.Benitez (2), VARAN, VIKk |
 | Sat, 5 Sept 2026 | Studio Stereo pres. Jabba Records showcase (until 4am) | A. CASANOVA, FLEX.cat, Funky Shirts MZN, J.Benitez (2) |
 | Thu, 10 Sept 2026 | Studio Stereo pres. Algoritmo showcase (until 3:30am) | Almuedo, Angel Mellado, srxmas |
 | Fri, 11 Sept 2026 | Studio Stereo x Subwax x Fraise (until 3:30am) | Baldo, Wilba |
@@ -18,5 +17,6 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Sat, 19 Sept 2026 | Studio Stereo x Cyberfunk pres. Manu Oubiña, Lukas (until 3:30am) | Edu C, LUKAS (4), Manu Oubiña |
 | Wed, 23 Sept 2026 | Studio Stereo La Mercè pres. Los Roques x Prblm (until 3:30am) |  |
 | Thu, 24 Sept 2026 | Studio Stereo pres. Gambiarra showcase (until 2:30am) | Jonny Loves House, Konnin, Victor Haas |
+| Fri, 25 Sept 2026 | Studio Stereo x Aadi pres. Pau Perez (until 3:30am) | Billi, Pau Pérez, Silvente, whomadeAB |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

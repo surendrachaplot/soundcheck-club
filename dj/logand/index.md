@@ -1,6 +1,6 @@
 # Logan D
 
-Logan D is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Logan D is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 Logan D is a drum & bass and jungle artist tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 8 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Logan D is a drum & bass and jungle artist tracked on soundcheck, with 44 sets l
 
 Eksman, Harry Shotta, Majistrate
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*

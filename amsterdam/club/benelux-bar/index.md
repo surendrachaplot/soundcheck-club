@@ -1,6 +1,6 @@
 # Benelux BAR
 
-Benelux BAR is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "MOOD & Friends" on Sat, 19 Sept 2026.
+Benelux BAR is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "MOOD & Friends" on Sat, 19 Sept 2026.
 
 Benelux BAR is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including ADRIANA LUCID, Amandla, Aron Friedman and Caim and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 83, 1021 KP Amsterdam, Netherlands.
 
@@ -16,4 +16,4 @@ Benelux BAR is a music venue in Amsterdam listed on soundcheck. 3 upcoming night
 
 Gedempt Hamerkanaal 83, 1021 KP Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/benelux-bar/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/benelux-bar/)*

@@ -1,6 +1,6 @@
 # ODG (1)
 
-ODG (1) is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Vespers Club, London on Fri, 18 Sept 2026.
+ODG (1) is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Vespers Club, London on Fri, 18 Sept 2026.
 
 ODG (1) is an electro and club artist tracked on soundcheck, with 12 sets logged across London, Seoul and Tokyo. Often billed alongside Helica, ultra caro and Aidan Swank. Next up: Vespers Club, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ ODG (1) is an electro and club artist tracked on soundcheck, with 12 sets logged
 
 Helica, ultra caro, Aidan Swank
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odg-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odg-1/)*

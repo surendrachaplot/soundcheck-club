@@ -1,6 +1,6 @@
 # Mike Dunn
 
-Mike Dunn is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Mike Dunn is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Mike Dunn is a house and deep house artist tracked on soundcheck, with 148 sets logged across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside Terry Hunter, Adorio and Gene Hunt. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -14,6 +14,7 @@ Mike Dunn is a house and deep house artist tracked on soundcheck, with 148 sets 
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - Sound Machine, Toronto — Sat, 25 Jul 2026
 - Woodbine Park, Toronto — Sat, 25 Jul 2026
 - Navy Pier, Chicago — Sun, 19 Jul 2026
@@ -21,10 +22,9 @@ Mike Dunn is a house and deep house artist tracked on soundcheck, with 148 sets 
 - Soundbar, Chicago — Sat, 11 Jul 2026
 - Room 43, Chicago — Thu, 9 Jul 2026
 - Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 3 Jul 2026
-- Sound-Bar, Chicago — Thu, 2 Jul 2026
 
 ## Shares bills with
 
 Terry Hunter, Adorio, Gene Hunt
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedunn/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedunn/)*

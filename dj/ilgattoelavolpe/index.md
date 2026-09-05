@@ -1,6 +1,6 @@
 # Ilgattoelavolpe
 
-Ilgattoelavolpe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Location - Vesuvius Area , Naples on Sat, 19 Sept 2026.
+Ilgattoelavolpe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Secret Location - Vesuvius Area , Naples on Sat, 19 Sept 2026.
 
 Ilgattoelavolpe is a techno and house artist tracked on soundcheck, with 19 sets logged across Milan, Naples and Rome. Often billed alongside kaizoku, DE12 and Zama. Next up: TBA - Secret Location - Vesuvius Area , Naples on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ilgattoelavolpe is a techno and house artist tracked on soundcheck, with 19 sets
 
 kaizoku, DE12, Zama
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilgattoelavolpe/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilgattoelavolpe/)*

@@ -1,6 +1,6 @@
 # Mattone
 
-Mattone is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DNA. CLUB, Berlin on Fri, 25 Sept 2026.
+Mattone is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at DNA. CLUB, Berlin on Fri, 25 Sept 2026.
 
 Mattone is a techno and electro artist tracked on soundcheck, with 39 sets logged across Berlin and Istanbul. Often billed alongside FEVZEE, Gabrielle (DE) and MEEMA. Next up: DNA. CLUB, Berlin on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Mattone is a techno and electro artist tracked on soundcheck, with 39 sets logge
 
 FEVZEE, Gabrielle (DE), MEEMA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattone/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattone/)*

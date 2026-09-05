@@ -1,6 +1,6 @@
 # Chris Wheatley
 
-Chris Wheatley is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Djoon, Paris on Fri, 4 Sept 2026.
+Chris Wheatley is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Djoon, Paris on Fri, 4 Sept 2026.
 
 Chris Wheatley is a house and disco artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Bristol, London and Manchester and 1 more. Often billed alongside Rob Coley, LEV (UK) and OriaBela. Next up: Djoon, Paris on Fri 4 Sept.
 
@@ -12,6 +12,7 @@ Chris Wheatley is a house and disco artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- Djoon, Paris — Fri, 4 Sept 2026
 - Two More Years, London — Sat, 29 Aug 2026
 - Cafe 1001, London — Fri, 28 Aug 2026
 - Cafe 1001, London — Sat, 30 May 2026
@@ -19,10 +20,9 @@ Chris Wheatley is a house and disco artist based in United Kingdom, tracked on s
 - Espace Niemeyer, Paris — Sun, 22 Mar 2026
 - Grow, London — Sat, 7 Feb 2026
 - Brixton Storeys, London — Sat, 9 Aug 2025
-- Cafe 1001, London — Sat, 24 May 2025
 
 ## Shares bills with
 
 Rob Coley, LEV (UK), OriaBela
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswheatley/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswheatley/)*

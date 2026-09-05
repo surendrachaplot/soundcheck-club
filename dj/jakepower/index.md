@@ -1,6 +1,6 @@
 # Jake Power
 
-Jake Power is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Emerald Embankment, London on Sat, 14 Nov 2026.
+Jake Power is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Emerald Embankment, London on Sat, 14 Nov 2026.
 
 Jake Power is a garage and house artist tracked on soundcheck, with 12 sets logged across Brighton and London. Often billed alongside AnDD, Chrisy Stebbeds and Sam Supplier. Next up: Emerald Embankment, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jake Power is a garage and house artist tracked on soundcheck, with 12 sets logg
 
 AnDD, Chrisy Stebbeds, Sam Supplier
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakepower/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakepower/)*

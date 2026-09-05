@@ -1,6 +1,6 @@
 # JIYNX
 
-JIYNX is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Jama, Toronto on Fri, 18 Sept 2026.
+JIYNX is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Jama, Toronto on Fri, 18 Sept 2026.
 
 JIYNX is a club and techno artist based in Canada, tracked on soundcheck, with 29 sets logged across Miami and Toronto. Often billed alongside 999ADJ, Ard1n and HVN (1). Next up: The Jama, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ JIYNX is a club and techno artist based in Canada, tracked on soundcheck, with 2
 
 999ADJ, Ard1n, HVN (1)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jiynx/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jiynx/)*

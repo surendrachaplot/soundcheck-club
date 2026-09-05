@@ -1,6 +1,6 @@
 # Nicola Calbi
 
-Nicola Calbi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Terraza Dos Equis, Mexico City on Sun, 6 Sept 2026.
+Nicola Calbi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Terraza Dos Equis, Mexico City on Sun, 6 Sept 2026.
 
 Nicola Calbi is a house and tech house artist tracked on soundcheck, with 16 sets logged across Bali, Bangkok, Barcelona and Kualalumpur and 7 more. Often billed alongside ALX, COCOLY and Cyda. Next up: Terraza Dos Equis, Mexicocity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Nicola Calbi is a house and tech house artist tracked on soundcheck, with 16 set
 
 ALX, COCOLY, Cyda
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacalbi/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacalbi/)*

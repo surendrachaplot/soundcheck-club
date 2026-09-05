@@ -1,6 +1,6 @@
 # papa jazz
 
-papa jazz is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Departamento, Mexico City on Wed, 2 Sept 2026.
+papa jazz is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Departamento, Mexico City on Wed, 2 Sept 2026.
 
 papa jazz is a house and deep house artist based in Canada, tracked on soundcheck, with 96 sets logged across London, Mexicocity, Munich and Newyorkcity. Often billed alongside Rafatel, Barreto and Valeriana. Next up: Departamento, Mexicocity on Wed 2 Sept.
 
@@ -27,4 +27,4 @@ papa jazz is a house and deep house artist based in Canada, tracked on soundchec
 
 Rafatel, Barreto, Valeriana
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papajazz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papajazz/)*

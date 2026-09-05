@@ -1,6 +1,6 @@
 # Splinter (UA)
 
-Splinter (UA) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jasna 1, Warsaw on Fri, 18 Sept 2026.
+Splinter (UA) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Jasna 1, Warsaw on Fri, 18 Sept 2026.
 
 Splinter (UA) is a techno and experimental artist based in Ukraine, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, London and Tallinn and 3 more. Often billed alongside Louwave, Nastia and Stanislav Tolkachev. Next up: Jasna 1, Warsaw on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Splinter (UA) is a techno and experimental artist based in Ukraine, tracked on s
 
 Louwave, Nastia, Stanislav Tolkachev
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/splinter-ua/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/splinter-ua/)*

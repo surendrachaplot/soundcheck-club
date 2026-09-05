@@ -1,6 +1,6 @@
 # Mohi Neja
 
-Mohi Neja is a Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
+Mohi Neja is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
 
 Mohi Neja is a techno artist tracked on soundcheck, with 8 sets logged across Berlin, Budapest and Toronto. Often billed alongside Darren Black, Mar/us and Buday. Next up: KREUZWERK, Berlin on Fri 25 Sept.
 
@@ -24,4 +24,4 @@ Mohi Neja is a techno artist tracked on soundcheck, with 8 sets logged across Be
 
 Darren Black, Mar/us, Buday
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mohineja/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mohineja/)*

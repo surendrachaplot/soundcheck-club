@@ -1,6 +1,6 @@
 # Martini Raw
 
-Martini Raw is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at berlinClub, Madrid on Fri, 11 Sept 2026.
+Martini Raw is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at berlinClub, Madrid on Fri, 11 Sept 2026.
 
 Martini Raw is a house and electro artist based in Spain, tracked on soundcheck, with 65 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside giac., Combaila and Swann. Next up: berlinClub, Madrid on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Martini Raw is a house and electro artist based in Spain, tracked on soundcheck,
 
 giac., Combaila, Swann
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martiniraw/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martiniraw/)*

@@ -1,6 +1,6 @@
 # Girlfriend
 
-Girlfriend is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Honey Street Studio, Manchester on Sat, 12 Sept 2026.
+Girlfriend is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Honey Street Studio, Manchester on Sat, 12 Sept 2026.
 
 Girlfriend is a house and techno artist tracked on soundcheck, with 25 sets logged across Manchester. Often billed alongside caonix, Shelle.y and Baba Sketch. Next up: Honey Street Studio, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Girlfriend is a house and techno artist tracked on soundcheck, with 25 sets logg
 
 caonix, Shelle.y, Baba Sketch
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlfriend/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/girlfriend/)*

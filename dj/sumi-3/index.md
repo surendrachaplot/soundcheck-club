@@ -1,6 +1,6 @@
 # Sumi (3)
 
-Sumi (3) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Sumi (3) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Sumi (3) is a house and techno artist tracked on soundcheck, with 5 sets logged across Berlin, Tbilisi and Vienna. Often billed alongside AGILY, Adam Cooke and Ali (4). Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -21,4 +21,4 @@ Sumi (3) is a house and techno artist tracked on soundcheck, with 5 sets logged 
 
 AGILY, Adam Cooke, Ali (4)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi-3/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi-3/)*

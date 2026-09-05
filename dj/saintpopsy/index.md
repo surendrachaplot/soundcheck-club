@@ -1,6 +1,6 @@
 # Saint Popsy
 
-Saint Popsy is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Cassiopeia, Berlin on Fri, 18 Sept 2026.
+Saint Popsy is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Cassiopeia, Berlin on Fri, 18 Sept 2026.
 
 Saint Popsy is a drum & bass and garage artist tracked on soundcheck, with 9 sets logged across Berlin and Munich. Often billed alongside Kenzura, MixB and ENOME. Next up: Cassiopeia, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Saint Popsy is a drum & bass and garage artist tracked on soundcheck, with 9 set
 
 Kenzura, MixB, ENOME
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpopsy/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpopsy/)*

@@ -1,6 +1,6 @@
 # Acid Kids
 
-Acid Kids is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
+Acid Kids is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
 
 Acid Kids is a tech house and house artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside Sol Edge, Jerome Six and Jason Vilka. Next up: Eutopia Whs, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Acid Kids is a tech house and house artist tracked on soundcheck, with 9 sets lo
 
 Sol Edge, Jerome Six, Jason Vilka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidkids-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidkids-uk/)*

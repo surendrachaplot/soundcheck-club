@@ -1,6 +1,6 @@
 # Hellfish
 
-Hellfish is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
+Hellfish is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Zuiderpark, Rotterdam on Fri, 11 Sept 2026.
 
 Hellfish is a hardcore and gabber artist tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Frankfurt and Ghent and 5 more. Often billed alongside Tripped, The DJ Producer and Thrasher. Next up: Zuiderpark, Rotterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Hellfish is a hardcore and gabber artist tracked on soundcheck, with 11 sets log
 
 Tripped, The DJ Producer, Thrasher
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hellfish/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hellfish/)*

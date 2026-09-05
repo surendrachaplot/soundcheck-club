@@ -1,6 +1,6 @@
 # The Pitt Market
 
-The Pitt Market is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Leithienda Proudly presents - TODD TERRY - (Exclusive 2 Hour Set)" on Sat, 10 Oct 2026.
+The Pitt Market is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Leithienda Proudly presents - TODD TERRY - (Exclusive 2 Hour Set)" on Sat, 10 Oct 2026.
 
 The Pitt Market is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights, with line-ups including DJ Fart in the Club, DJ Kid, Jyoty and Todd Terry. Browse upcoming dates, start times and who's playing. 20 W Shore Rd, Granton, Edinburgh EH5 1QD.
 
@@ -15,4 +15,4 @@ The Pitt Market is a music venue in Edinburgh listed on soundcheck. 2 upcoming n
 
 20 W Shore Rd, Granton, Edinburgh EH5 1QD, Edinburgh
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-pitt-market/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-pitt-market/)*

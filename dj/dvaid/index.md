@@ -1,6 +1,6 @@
 # DVAID
 
-DVAID is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Spook Club, Valencia on Fri, 18 Sept 2026.
+DVAID is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Spook Club, Valencia on Fri, 18 Sept 2026.
 
 DVAID is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam, Basel, Berlin and Brussels and 13 more. Often billed alongside HUMAN ERROR, Adrian Mills and Serafina. Next up: Spook Club, Valencia on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ DVAID is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 HUMAN ERROR, Adrian Mills, Serafina
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dvaid/)*

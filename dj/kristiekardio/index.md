@@ -1,6 +1,6 @@
 # KRISTIE KARDIO
 
-KRISTIE KARDIO is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bike Jesus, Prague on Fri, 9 Oct 2026.
+KRISTIE KARDIO is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bike Jesus, Prague on Fri, 9 Oct 2026.
 
 KRISTIE KARDIO is a techno and tech house artist tracked on soundcheck, with 12 sets logged across Copenhagen, Prague and Vienna. Often billed alongside zazitech, DDK (1) and DIENTE. Next up: Bike Jesus, Prague on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ KRISTIE KARDIO is a techno and tech house artist tracked on soundcheck, with 12 
 
 zazitech, DDK (1), DIENTE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiekardio/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiekardio/)*

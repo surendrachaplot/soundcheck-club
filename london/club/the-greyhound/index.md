@@ -1,6 +1,6 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 17 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Blossom Hill + Pez Invites: Heléna Star & Giulia Tess" on Sat, 5 Sept 2026.
+The Greyhound is a music venue in London with 17 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Blossom Hill + Pez Invites: Heléna Star & Giulia Tess" on Sat, 5 Sept 2026.
 
 The Greyhound is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including Albi & Kego, Alex Wilcox, Blossom Hill and Bobby Mac and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
@@ -23,4 +23,4 @@ The Greyhound is a music venue in London listed on soundcheck. 17 upcoming night
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

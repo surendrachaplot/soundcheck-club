@@ -1,6 +1,6 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Paramita Sound, Detroit on Sat, 5 Sept 2026.
+Marcellus Pittman is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Paramita Sound, Detroit on Sat, 5 Sept 2026.
 
 Marcellus Pittman is a house and techno artist tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside Ash Lauryn, Antal and Dee Diggs. Next up: Paramita Sound, Detroit on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ Marcellus Pittman is a house and techno artist tracked on soundcheck, with 149 s
 
 Ash Lauryn, Antal, Dee Diggs
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*

@@ -1,6 +1,6 @@
 # Chris Stevo
 
-Chris Stevo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sydney Glass Island, Sydney on Mon, 5 Oct 2026.
+Chris Stevo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Sydney Glass Island, Sydney on Mon, 5 Oct 2026.
 
 Chris Stevo is a house and tech house artist based in Australia, tracked on soundcheck, with 16 sets logged across Sydney. Often billed alongside Miliard, A.Well and Alternate State. Next up: Sydney Glass Island, Sydney on Mon 5 Oct.
 
@@ -25,4 +25,4 @@ Chris Stevo is a house and tech house artist based in Australia, tracked on soun
 
 Miliard, A.Well, Alternate State
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstevo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstevo/)*

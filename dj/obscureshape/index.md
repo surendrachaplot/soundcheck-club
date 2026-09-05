@@ -1,14 +1,13 @@
 # Obscure Shape
 
-Obscure Shape is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 4 Sept 2026.
+Obscure Shape is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Secret Warehouse, Paris on Sat, 5 Sept 2026.
 
-Obscure Shape is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside SHDW, Isaiah (NL) and Beau Didier. Next up: RSO.BERLIN, Berlin on Fri 4 Sept.
+Obscure Shape is a techno and house artist tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside SHDW, Isaiah (NL) and Beau Didier. Next up: TBA - Secret Warehouse, Paris on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | RSO.BERLIN | Berlin |
 | Sat, 5 Sept 2026 | TBA - Secret Warehouse | Paris |
 | Thu, 10 Sept 2026 | The Art School | Glasgow |
 | Sat, 12 Sept 2026 | Zenith - Die Kulturhalle | Munich |
@@ -20,6 +19,7 @@ Obscure Shape is a techno and house artist tracked on soundcheck, with 90 sets l
 
 ## Recently played
 
+- RSO.BERLIN, Berlin — Fri, 4 Sept 2026
 - Marienbergpark, Nürnberg — Sat, 29 Aug 2026
 - OST, Berlin — Fri, 28 Aug 2026
 - DNA Club, Munich — Sat, 11 Jul 2026
@@ -27,10 +27,9 @@ Obscure Shape is a techno and house artist tracked on soundcheck, with 90 sets l
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sun, 21 Jun 2026
 - Kilomètre25, Paris — Fri, 19 Jun 2026
 - Else, Berlin — Sun, 7 Jun 2026
-- TBA - Villalgordo del Júcar, Albacete, Madrid — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 SHDW, Isaiah (NL), Beau Didier
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*

@@ -1,6 +1,6 @@
 # Majestic
 
-Majestic is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Night Tales Loft, London on Sat, 5 Sept 2026.
+Majestic is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Night Tales Loft, London on Sat, 5 Sept 2026.
 
 Majestic is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Birmingham, Brighton and Ibiza and 5 more. Often billed alongside Charlotte Van de Peer, Sammy Porter and Beyond Chicago. Next up: Night Tales Loft, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Majestic is a house and tech house artist based in United Kingdom, tracked on so
 
 Charlotte Van de Peer, Sammy Porter, Beyond Chicago
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majestic/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majestic/)*

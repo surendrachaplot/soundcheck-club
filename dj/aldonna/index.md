@@ -1,14 +1,13 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sacré, Paris on Fri, 4 Sept 2026.
+Aldonna is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sneaky Pete's, Edinburgh on Sat, 5 Sept 2026.
 
-Aldonna is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Bali, Berlin and Brisbane and 26 more. Often billed alongside Tjade, D Stone and DAWS. Next up: Sacré, Paris on Fri 4 Sept.
+Aldonna is a house and techno artist tracked on soundcheck, with 131 sets logged across Amsterdam, Bali, Berlin and Brisbane and 26 more. Often billed alongside Tjade, D Stone and DAWS. Next up: Sneaky Pete's, Edinburgh on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Sacré | Paris |
 | Sat, 5 Sept 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 12 Sept 2026 | Lofi | Amsterdam |
 | Fri, 18 Sept 2026 | CLUB RAUM | Amsterdam |
@@ -19,6 +18,7 @@ Aldonna is a house and techno artist tracked on soundcheck, with 131 sets logged
 
 ## Recently played
 
+- Sacré, Paris — Fri, 4 Sept 2026
 - TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
 - BRET, Amsterdam — Fri, 7 Aug 2026
 - Gaffe, London — Sat, 25 Jul 2026
@@ -26,10 +26,9 @@ Aldonna is a house and techno artist tracked on soundcheck, with 131 sets logged
 - nachbar, Amsterdam — Fri, 17 Jul 2026
 - CLUB RAUM, Amsterdam — Fri, 10 Jul 2026
 - Cadavra, Madrid — Sat, 13 Jun 2026
-- Radio Radio, Amsterdam — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Tjade, D Stone, DAWS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

@@ -1,6 +1,6 @@
 # Chamberlain Zhang
 
-Chamberlain Zhang is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Honey's, New York City on Fri, 18 Sept 2026.
+Chamberlain Zhang is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Honey's, New York City on Fri, 18 Sept 2026.
 
 Chamberlain Zhang is a techno and experimental artist tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Maŕa (US), Stealthy and 30000AD. Next up: Honey's, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Chamberlain Zhang is a techno and experimental artist tracked on soundcheck, wit
 
 Maŕa (US), Stealthy, 30000AD
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamberlainzhang/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chamberlainzhang/)*

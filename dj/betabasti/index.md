@@ -1,6 +1,6 @@
 # Beta Basti
 
-Beta Basti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Minimal Bar, Berlin on Wed, 23 Sept 2026.
+Beta Basti is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Minimal Bar, Berlin on Wed, 23 Sept 2026.
 
 Beta Basti is a techno and house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside Sika Akis, DJ Doorkeeper and Nat SuPrise. Next up: Minimal Bar, Berlin on Wed 23 Sept.
 
@@ -25,4 +25,4 @@ Beta Basti is a techno and house artist based in Germany, tracked on soundcheck,
 
 Sika Akis, DJ Doorkeeper, Nat SuPrise
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betabasti/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/betabasti/)*

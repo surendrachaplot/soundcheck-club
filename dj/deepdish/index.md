@@ -1,6 +1,6 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ku Barcelona, Barcelona on Sun, 13 Sept 2026.
+Deep Dish is a House and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Ku Barcelona, Barcelona on Sun, 13 Sept 2026.
 
 Deep Dish is a house and progressive house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Dubfire, Sharam and Eynka. Next up: Ku Barcelona, Barcelona on Sun 13 Sept.
 
@@ -33,4 +33,4 @@ Deep Dish is a house and progressive house artist tracked on soundcheck, with 69
 
 Dubfire, Sharam, Eynka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*

@@ -1,6 +1,6 @@
 # Jimmie
 
-Jimmie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
+Jimmie is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Crack Bellmer, Berlin on Sat, 26 Sept 2026.
 
 Jimmie is a house and techno artist based in Italy, tracked on soundcheck, with 29 sets logged across Berlin and Prague. Often billed alongside Kidcat, zikade and ilbroccolovolante. Next up: Crack Bellmer, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Jimmie is a house and techno artist based in Italy, tracked on soundcheck, with 
 
 Kidcat, zikade, ilbroccolovolante
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmie/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmie/)*

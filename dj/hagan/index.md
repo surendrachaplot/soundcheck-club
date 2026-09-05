@@ -1,6 +1,6 @@
 # Hagan
 
-Hagan is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
+Hagan is a Afro House and Amapiano artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
 
 Hagan is an afro house and amapiano artist tracked on soundcheck, with 44 sets logged across Amsterdam, Birmingham, Brisbane and Bristol and 8 more. Often billed alongside Karen Nyame KG, DJ Polo and Jordss. Next up: Colour Factory, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Hagan is an afro house and amapiano artist tracked on soundcheck, with 44 sets l
 
 Karen Nyame KG, DJ Polo, Jordss
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hagan/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hagan/)*

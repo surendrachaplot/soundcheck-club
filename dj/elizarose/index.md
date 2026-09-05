@@ -1,6 +1,6 @@
 # Eliza Rose
 
-Eliza Rose is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Eliza Rose is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
 Eliza Rose is a house and tech house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 40 more. Often billed alongside Sally C, Dan Shake and TSHA. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
@@ -28,4 +28,4 @@ Eliza Rose is a house and tech house artist tracked on soundcheck, with 141 sets
 
 Sally C, Dan Shake, TSHA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elizarose/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elizarose/)*

@@ -1,6 +1,6 @@
 # Pelanoir
 
-Pelanoir is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 12 Sept 2026.
+Pelanoir is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 12 Sept 2026.
 
 Pelanoir is a house and disco artist tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Rotterdam and Thehague and 1 more. Often billed alongside Kevin Lo, Boogie Mind and Lucas Benjamin. Next up: SISSI'S Amsterdam, Amsterdam on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Pelanoir is a house and disco artist tracked on soundcheck, with 62 sets logged 
 
 Kevin Lo, Boogie Mind, Lucas Benjamin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pelanoir/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pelanoir/)*

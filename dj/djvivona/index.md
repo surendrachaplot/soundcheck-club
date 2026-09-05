@@ -1,6 +1,6 @@
 # DJ Vivona
 
-DJ Vivona is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 50 HERTZ, Amsterdam on Sat, 24 Oct 2026.
+DJ Vivona is a House and UK Funky artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 50 HERTZ, Amsterdam on Sat, 24 Oct 2026.
 
 DJ Vivona is a house and uk funky artist tracked on soundcheck, with 11 sets logged across Amsterdam, Bali, Berlin and Ibiza and 2 more. Often billed alongside Bianchetti, TWOEF and AGELESS. Next up: 50 HERTZ, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Vivona is a house and uk funky artist tracked on soundcheck, with 11 sets log
 
 Bianchetti, TWOEF, AGELESS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvivona/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djvivona/)*

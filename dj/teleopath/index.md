@@ -1,6 +1,6 @@
 # teleopath
 
-teleopath is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Colours Hoxton, London on Sat, 26 Sept 2026.
+teleopath is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Colours Hoxton, London on Sat, 26 Sept 2026.
 
 teleopath is a disco and techno artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Berlin, London and Sheffield. Often billed alongside Tafkanik, S_STEELE and Liam Parsons. Next up: Colours Hoxton, London on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ teleopath is a disco and techno artist based in United Kingdom, tracked on sound
 
 Tafkanik, S_STEELE, Liam Parsons
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teleopath/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/teleopath/)*

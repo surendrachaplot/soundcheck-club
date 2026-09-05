@@ -1,6 +1,6 @@
 # 2NDRA
 
-2NDRA is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
+2NDRA is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
 2NDRA is a techno and acid artist tracked on soundcheck, with 62 sets logged across Lisbon and Prague. Often billed alongside RiVid, Nøteleks and SJ Yellow. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
@@ -27,4 +27,4 @@
 
 RiVid, Nøteleks, SJ Yellow
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndra/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndra/)*

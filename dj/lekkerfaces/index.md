@@ -1,14 +1,13 @@
 # Lekkerfaces
 
-Lekkerfaces is a Hardcore and Gabber artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Warehouse, Nantes on Fri, 4 Sept 2026.
+Lekkerfaces is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bootshaus, Cologne on Fri, 11 Sept 2026.
 
-Lekkerfaces is a hardcore and gabber artist based in Italy, tracked on soundcheck, with 18 sets logged across Antwerp, Cologne, Frankfurt and Glasgow and 4 more. Often billed alongside Pinotello, The Dark Horror and Noxiouz. Next up: Warehouse, Nantes on Fri 4 Sept.
+Lekkerfaces is a hardcore and gabber artist based in Italy, tracked on soundcheck, with 18 sets logged across Antwerp, Cologne, Frankfurt and Glasgow and 4 more. Often billed alongside Pinotello, The Dark Horror and Noxiouz. Next up: Bootshaus, Cologne on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Warehouse | Nantes |
 | Fri, 11 Sept 2026 | Bootshaus | Cologne |
 | Sat, 19 Sept 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Fri, 23 Oct 2026 | Docks | Hamburg |
@@ -16,6 +15,7 @@ Lekkerfaces is a hardcore and gabber artist based in Italy, tracked on soundchec
 
 ## Recently played
 
+- Warehouse, Nantes — Fri, 4 Sept 2026
 - Fabrik, Madrid — Sat, 21 Mar 2026
 - The Classic Grand, Glasgow — Fri, 27 Feb 2026
 - Bootshaus, Cologne — Fri, 19 Dec 2025
@@ -23,10 +23,9 @@ Lekkerfaces is a hardcore and gabber artist based in Italy, tracked on soundchec
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 30 Aug 2025
 - Fabrik, Madrid — Fri, 13 Jun 2025
 - Slay, Glasgow — Sat, 26 Apr 2025
-- Fabrik, Madrid — Sat, 22 Mar 2025
 
 ## Shares bills with
 
 Pinotello, The Dark Horror, Noxiouz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*

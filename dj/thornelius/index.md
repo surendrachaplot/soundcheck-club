@@ -1,6 +1,6 @@
 # thornelius
 
-thornelius is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 12 x 12, Bangkok on Fri, 11 Sept 2026.
+thornelius is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 12 x 12, Bangkok on Fri, 11 Sept 2026.
 
 thornelius is a house and minimal techno artist based in Thailand, tracked on soundcheck, with 13 sets logged across Bangkok. Often billed alongside Gishiyama, Elaheh and IYY (TH). Next up: 12 x 12, Bangkok on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ thornelius is a house and minimal techno artist based in Thailand, tracked on so
 
 Gishiyama, Elaheh, IYY (TH)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thornelius/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thornelius/)*

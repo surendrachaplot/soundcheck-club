@@ -1,6 +1,6 @@
 # Detective Kelly
 
-Detective Kelly is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Aether Club Budapest, Budapest on Fri, 11 Sept 2026.
+Detective Kelly is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Aether Club Budapest, Budapest on Fri, 11 Sept 2026.
 
 Detective Kelly is a techno and trance artist based in Hungary, tracked on soundcheck, with 37 sets logged across Budapest. Often billed alongside Sikztah, KALMIKVCS and Man + Machine. Next up: Aether Club Budapest, Budapest on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Detective Kelly is a techno and trance artist based in Hungary, tracked on sound
 
 Sikztah, KALMIKVCS, Man + Machine
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detectivekelly/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detectivekelly/)*

@@ -1,6 +1,6 @@
 # Cartridge (UK)
 
-Cartridge (UK) is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Stage and Radio, Manchester on Fri, 18 Sept 2026.
+Cartridge (UK) is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Stage and Radio, Manchester on Fri, 18 Sept 2026.
 
 Cartridge (UK) is a dubstep and drum & bass artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Brighton, Bristol, Denver and Leeds and 1 more. Often billed alongside Biome, Rich Reason and T-Man (UK). Next up: Stage and Radio, Manchester on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Cartridge (UK) is a dubstep and drum & bass artist based in United Kingdom, trac
 
 Biome, Rich Reason, T-Man (UK)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cartridgeuk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cartridgeuk/)*

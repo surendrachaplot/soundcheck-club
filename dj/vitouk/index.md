@@ -1,8 +1,8 @@
 # VITO (UK)
 
-VITO (UK) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Ground at Club Space, Miami on Fri, 11 Sept 2026.
+VITO (UK) is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Ground at Club Space, Miami on Fri, 11 Sept 2026.
 
-VITO (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Boston and Bucharest and 13 more. Often billed alongside AJ Christou, Burdi and Harvy Valencia. Next up: The Ground at Club Space, Miami on Fri 11 Sept.
+VITO (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Barcelona, Boston and Bucharest and 13 more. Often billed alongside AJ Christou, Burdi and Harvy Valencia. Next up: The Ground at Club Space, Miami on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ VITO (UK) is a house and tech house artist based in United Kingdom, tracked on s
 | Fri, 11 Sept 2026 | The Ground at Club Space | Miami |
 | Fri, 25 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 26 Sept 2026 | Studio Club Malaga | Malaga |
+| Sat, 3 Oct 2026 | Gallery | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ VITO (UK) is a house and tech house artist based in United Kingdom, tracked on s
 
 AJ Christou, Burdi, Harvy Valencia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*

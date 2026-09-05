@@ -1,6 +1,6 @@
 # fbi (1)
 
-fbi (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 24 Sept 2026.
+fbi (1) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Golden Pudel Club, Hamburg on Thu, 24 Sept 2026.
 
 fbi (1) is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Berlin, Hamburg, Leipzig and Prague. Often billed alongside KVLR, DJ SOURCE and yamagucci42. Next up: Golden Pudel Club, Hamburg on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ fbi (1) is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 KVLR, DJ SOURCE, yamagucci42
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fbi-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fbi-1/)*

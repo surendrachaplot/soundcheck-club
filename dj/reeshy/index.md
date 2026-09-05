@@ -1,6 +1,6 @@
 # Reeshy
 
-Reeshy is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
+Reeshy is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
 
 Reeshy is a house and tech house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Enzo Siragusa, Laidlaw and Julian Anthony. Next up: Starlane Pizza Bar, London on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Reeshy is a house and tech house artist tracked on soundcheck, with 110 sets log
 
 Enzo Siragusa, Laidlaw, Julian Anthony
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reeshy/)*

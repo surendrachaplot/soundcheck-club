@@ -1,6 +1,6 @@
 # Ivan Kyrov
 
-Ivan Kyrov is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Russian House, Melbourne on Sat, 12 Sept 2026.
+Ivan Kyrov is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Russian House, Melbourne on Sat, 12 Sept 2026.
 
 Ivan Kyrov is a techno and house artist based in Australia, tracked on soundcheck, with 14 sets logged across Melbourne, Shenzhen and Sydney. Often billed alongside TimTVL, Steve Pan and promzon. Next up: The Russian House, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ivan Kyrov is a techno and house artist based in Australia, tracked on soundchec
 
 TimTVL, Steve Pan, promzon
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivankyrov/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivankyrov/)*

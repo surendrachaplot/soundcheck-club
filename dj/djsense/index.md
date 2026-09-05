@@ -1,6 +1,6 @@
 # DJ Sense
 
-DJ Sense is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Razzmatazz, Barcelona on Sun, 6 Sept 2026.
+DJ Sense is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Razzmatazz, Barcelona on Sun, 6 Sept 2026.
 
 DJ Sense is a techno and trance artist tracked on soundcheck, with 95 sets logged across Barcelona, Berlin, Copenhagen and Liverpool and 2 more. Often billed alongside Seqta, Generali Minerali and Neon Warrior. Next up: Razzmatazz, Barcelona on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ DJ Sense is a techno and trance artist tracked on soundcheck, with 95 sets logge
 
 Seqta, Generali Minerali, Neon Warrior
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsense/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsense/)*

@@ -1,6 +1,6 @@
 # From the Tropics
 
-From the Tropics is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Radio Nacional, Melbourne on Sat, 12 Sept 2026.
+From the Tropics is a House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Radio Nacional, Melbourne on Sat, 12 Sept 2026.
 
 From the Tropics is a house and afro tech artist based in Australia, tracked on soundcheck, with 9 sets logged across Melbourne. Often billed alongside Roja (2). Next up: Radio Nacional, Melbourne on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ From the Tropics is a house and afro tech artist based in Australia, tracked on 
 
 Roja (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fromthetropics/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fromthetropics/)*

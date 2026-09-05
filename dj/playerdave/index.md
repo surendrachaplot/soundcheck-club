@@ -1,6 +1,6 @@
 # Player Dave
 
-Player Dave is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - PUBLIC PUBLIC, Tokyo on Sat, 5 Sept 2026.
+Player Dave is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - PUBLIC PUBLIC, Tokyo on Sat, 5 Sept 2026.
 
 Player Dave is a bass and garage artist tracked on soundcheck, with 22 sets logged across Chicago, Denver, Detroit and Losangeles and 8 more. Often billed alongside Jacques Greene, Potions and Sara Landry. Next up: TBA - PUBLIC PUBLIC, Tokyo on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Player Dave is a bass and garage artist tracked on soundcheck, with 22 sets logg
 
 Jacques Greene, Potions, Sara Landry
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/playerdave/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/playerdave/)*

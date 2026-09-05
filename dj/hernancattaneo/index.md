@@ -1,6 +1,6 @@
 # Hernan Cattaneo
 
-Hernan Cattaneo is a Progressive House and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 15 Oct 2026.
+Hernan Cattaneo is a Progressive House and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Thu, 15 Oct 2026.
 
 Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, with 138 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Thu 15 Oct.
 
@@ -29,4 +29,4 @@ Hernan Cattaneo is a progressive house and house artist tracked on soundcheck, w
 
 Nick Warren, Graziano Raffa, Simply City
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*

@@ -1,6 +1,6 @@
 # Riva Starr
 
-Riva Starr is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Spy Bar, Stockholm on Sat, 5 Sept 2026.
+Riva Starr is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Spy Bar, Stockholm on Sat, 5 Sept 2026.
 
 Riva Starr is a house and tech house artist tracked on soundcheck, with 79 sets logged across Amsterdam, Austin, Bali and Barcelona and 25 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Spy Bar, Stockholm on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Riva Starr is a house and tech house artist tracked on soundcheck, with 79 sets 
 
 Lowsteppa, Armand Van Helden, Paige Tomlinson
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivastarr/)*

@@ -1,6 +1,6 @@
 # Motel Club
 
-Motel Club is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Madrone Art Bar, San Francisco/Oakland on Sat, 26 Sept 2026.
+Motel Club is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Madrone Art Bar, San Francisco/Oakland on Sat, 26 Sept 2026.
 
 Motel Club is a house and disco artist tracked on soundcheck, with 95 sets logged across Newyorkcity, Sandiego and Sanfrancisco. Often billed alongside Malachi, JKriv and Aaron Dae. Next up: Madrone Art Bar, Sanfrancisco on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Motel Club is a house and disco artist tracked on soundcheck, with 95 sets logge
 
 Malachi, JKriv, Aaron Dae
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motelclub/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/motelclub/)*

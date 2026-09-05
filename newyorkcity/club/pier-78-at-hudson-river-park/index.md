@@ -1,8 +1,8 @@
 # Pier 78 at Hudson River Park
 
-Pier 78 at Hudson River Park is a music venue in New York City with 26 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "R&B on the RIVER - Hip Hop & R&B Boat Party Yacht Cruise NYC" on Sat, 5 Sept 2026.
+Pier 78 at Hudson River Park is a music venue in New York City with 27 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "R&B on the RIVER - Hip Hop & R&B Boat Party Yacht Cruise NYC" on Sat, 5 Sept 2026.
 
-Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundcheck. 26 upcoming nights. Browse upcoming dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
+Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundcheck. 27 upcoming nights. Browse upcoming dates, start times and who's playing. 455 12th Avenue, New York, New York, 10018, United States.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Pier 78 at Hudson River Park is a music venue in Newyorkcity listed on soundchec
 | Sat, 5 Sept 2026 | NYC #1 LATIN & REGGAETON Sunset Yacht Cruise Boat Party |  |
 | Sat, 5 Sept 2026 | NYC Sunset Boat Party: Reggaeton / Hip-Hop / House - Multi-Level Yacht |  |
 | Sat, 5 Sept 2026 | House Music on the Hudson Boat Party Yacht Cruise NYC |  |
-| Sat, 12 Sept 2026 | House Matters: SAM SHURE Sunset Cruise |  |
+| Sat, 5 Sept 2026 | TRINIDAD & TOBAGO Independence Boat Party Yacht Cruise |  |
 
 ## Address
 
 455 12th Avenue, New York, New York, 10018, United States, New York City
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-78-at-hudson-river-park/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pier-78-at-hudson-river-park/)*

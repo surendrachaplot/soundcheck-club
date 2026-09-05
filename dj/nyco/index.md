@@ -1,6 +1,6 @@
 # Nyco (FR)
 
-Nyco (FR) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Nyco (FR) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Nyco (FR) is a techno and hardcore artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Frankfurt and Liverpool and 4 more. Often billed alongside Aphøtic, KARAH and XRTN. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Nyco (FR) is a techno and hardcore artist tracked on soundcheck, with 21 sets lo
 
 Aphøtic, KARAH, XRTN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco/)*

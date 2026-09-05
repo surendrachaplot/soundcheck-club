@@ -1,6 +1,6 @@
 # Cquestt
 
-Cquestt is a Reggaeton and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at High Tide, Los Angeles on Sat, 5 Sept 2026.
+Cquestt is a Reggaeton and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at High Tide, Los Angeles on Sat, 5 Sept 2026.
 
 Cquestt is a reggaeton and club artist based in United States of America, tracked on soundcheck, with 122 sets logged across Chicago, Detroit, London and Losangeles and 7 more. Often billed alongside DINABN, CHRYSALIS and Alxander Ivey. Next up: High Tide, Losangeles on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Cquestt is a reggaeton and club artist based in United States of America, tracke
 
 DINABN, CHRYSALIS, Alxander Ivey
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cquestt/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cquestt/)*

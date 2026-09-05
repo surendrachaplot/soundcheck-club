@@ -1,6 +1,6 @@
 # Feed Me
 
-Feed Me is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Red Room, Vancouver on Sat, 12 Sept 2026.
+Feed Me is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Red Room, Vancouver on Sat, 12 Sept 2026.
 
 Feed Me is a bass and drum & bass artist tracked on soundcheck, with 8 sets logged across Detroit, London, Paris and Sandiego and 3 more. Often billed alongside DREAD MC, Doctor P and Seven Lions. Next up: The Red Room, Vancouver on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Feed Me is a bass and drum & bass artist tracked on soundcheck, with 8 sets logg
 
 DREAD MC, Doctor P, Seven Lions
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feedme/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feedme/)*

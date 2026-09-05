@@ -1,6 +1,6 @@
 # darkmavis
 
-darkmavis is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Index, Dublin on Sat, 5 Sept 2026.
+darkmavis is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Index, Dublin on Sat, 5 Sept 2026.
 
 darkmavis is a trance and techno artist based in Ireland, tracked on soundcheck, with 52 sets logged across Cork, Dublin, Edinburgh and London and 2 more. Often billed alongside JWY (1), Shannen Blessing and DJ-CK. Next up: Index, Dublin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ darkmavis is a trance and techno artist based in Ireland, tracked on soundcheck,
 
 JWY (1), Shannen Blessing, DJ-CK
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmavis/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmavis/)*

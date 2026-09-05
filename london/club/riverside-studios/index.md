@@ -1,6 +1,6 @@
 # Riverside Studios
 
-Riverside Studios is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Pitchblack Mixtapes: Logical Progression (Disc 2) (30th Anniversary)" on Tue, 29 Sept 2026.
+Riverside Studios is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Pitchblack Mixtapes: Logical Progression (Disc 2) (30th Anniversary)" on Tue, 29 Sept 2026.
 
 Riverside Studios is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 101 Queen Caroline St, London W6 9BN.
 
@@ -14,4 +14,4 @@ Riverside Studios is a music venue in London listed on soundcheck. 1 upcoming ni
 
 101 Queen Caroline St, London W6 9BN, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/riverside-studios/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/riverside-studios/)*

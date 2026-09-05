@@ -1,6 +1,6 @@
 # Benji B
 
-Benji B is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at public records, New York City on Sun, 13 Sept 2026.
+Benji B is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at public records, New York City on Sun, 13 Sept 2026.
 
 Benji B is a house and techno artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Detroit and Ibiza and 13 more. Often billed alongside &ME, Dan Shake and Rampa. Next up: public records, Newyorkcity on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Benji B is a house and techno artist based in United Kingdom, tracked on soundch
 
 &ME, Dan Shake, Rampa
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjib/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjib/)*

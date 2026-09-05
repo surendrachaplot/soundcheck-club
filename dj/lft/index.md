@@ -1,6 +1,6 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Barraca, Valencia on Sat, 5 Sept 2026.
+L.F.T. is a Techno and Electro artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Barraca, Valencia on Sat, 5 Sept 2026.
 
 L.F.T. is a techno and electro artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside Festnacht, DJ MELL G and Afra. Next up: Barraca, Valencia on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ L.F.T. is a techno and electro artist tracked on soundcheck, with 112 sets logge
 
 Festnacht, DJ MELL G, Afra
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*

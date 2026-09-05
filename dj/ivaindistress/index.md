@@ -1,6 +1,6 @@
 # ivaindistress
 
-ivaindistress is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Bushwick (Halsey J), DM an artist or host for address, New York City on Sat, 26 Sept 2026.
+ivaindistress is a Club and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Bushwick (Halsey J), DM an artist or host for address, New York City on Sat, 26 Sept 2026.
 
 ivaindistress is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Rainbow Tutu, Berky and DJ Shoe. Next up: TBA - Bushwick (Halsey J), DM an artist or host for address, Newyorkcity on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ ivaindistress is a club and ghetto tech artist based in United States of America
 
 Rainbow Tutu, Berky, DJ Shoe
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaindistress/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaindistress/)*

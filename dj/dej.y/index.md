@@ -1,6 +1,6 @@
 # dej.y
 
-dej.y is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
+dej.y is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
 
 dej.y is a house and techno artist tracked on soundcheck, with 71 sets logged across Detroit, Montreal, Nashville and Newyorkcity. Often billed alongside Kindle, Aboudi Issa and Jesse Cory. Next up: MotorCity Wine, Detroit on Mon 7 Sept.
 
@@ -26,4 +26,4 @@ dej.y is a house and techno artist tracked on soundcheck, with 71 sets logged ac
 
 Kindle, Aboudi Issa, Jesse Cory
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dej.y/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dej.y/)*

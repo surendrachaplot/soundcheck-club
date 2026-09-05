@@ -1,6 +1,6 @@
 # LondonGround
 
-LondonGround is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 5 Sept 2026.
+LondonGround is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sunseabar Beach Club, Barcelona on Sat, 5 Sept 2026.
 
 LondonGround is a house and tech house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 2 more. Often billed alongside De La Swing, Easttown and BizZa. Next up: Sunseabar Beach Club, Barcelona on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ LondonGround is a house and tech house artist tracked on soundcheck, with 37 set
 
 De La Swing, Easttown, BizZa
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/londonground/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/londonground/)*

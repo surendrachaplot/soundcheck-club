@@ -1,6 +1,6 @@
 # Visionobi
 
-Visionobi is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Visionobi is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
 Visionobi is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Auckland, Berlin, Brighton and Bristol and 8 more. Often billed alongside Kyrist, GLXY and Bladerunner. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Visionobi is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 Kyrist, GLXY, Bladerunner
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/visionobi/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/visionobi/)*

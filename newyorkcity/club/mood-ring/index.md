@@ -1,15 +1,13 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 20 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BARRIO BOUNCE, A Budots & SEA Club Night" on Fri, 4 Sept 2026.
+Mood Ring is a music venue in New York City with 18 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "SWEAT SESSION N°9 with J. Albert, Enayet b2b rrao, Apok, and Full Body Stretch" on Sat, 5 Sept 2026.
 
-Mood Ring is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nights, with line-ups including 444 (1), a.gar, AG (1) and AJACENT and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in Newyorkcity listed on soundcheck. 18 upcoming nights, with line-ups including 444 (1), a.gar, AG (1) and AJACENT and 2 more. Browse upcoming dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | BARRIO BOUNCE, A Budots & SEA Club Night | Castillonaire, WILHELMINA, rogue.wav, sebs (2) |
-| Fri, 4 Sept 2026 | Love Language with DJ Fifi & suciopath | suciopath |
 | Sat, 5 Sept 2026 | SWEAT SESSION N°9 with J. Albert, Enayet b2b rrao, Apok, and Full Body Stretch | Apok, Enayet, Full Body Stretch, J. Albert, rrao |
 | Sat, 5 Sept 2026 | Hysteric Hour | Niyx, silkshirt |
 | Sun, 6 Sept 2026 | Hi-Fi presents IankoFJ, YES2HVN, Xalwo (UK), OmarSB |  |
@@ -18,9 +16,11 @@ Mood Ring is a music venue in Newyorkcity listed on soundcheck. 20 upcoming nigh
 | Fri, 11 Sept 2026 | ONEONEONE PRESENTS: PARTY017 | DJ Brandy Melville, Dr. Fruit, Heartbreaker |
 | Fri, 11 Sept 2026 | Natural Disaster vol. II | Caratastrophe |
 | Sat, 12 Sept 2026 | Protein | AG (1), BUNZ, DJ Ant (US), Peregrine (US) |
+| Sat, 12 Sept 2026 | Bottoms Up: Happy Hour | DJanae |
+| Wed, 16 Sept 2026 | DUM DUM DISCO | Dirtyfinger, UMA DJ |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

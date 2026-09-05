@@ -1,6 +1,6 @@
 # The Warfield
 
-The Warfield is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "San Holo" on Sat, 12 Sept 2026.
+The Warfield is a music venue in San Francisco/Oakland with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "San Holo" on Sat, 12 Sept 2026.
 
 The Warfield is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming nights, with line-ups including Ali RQ, Brutalismus 3000, deBasement and Eurohead and 1 more. Browse upcoming dates, start times and who's playing. 982 Market Street; San Francisco, CA 94102; United States.
 
@@ -15,4 +15,4 @@ The Warfield is a music venue in Sanfrancisco listed on soundcheck. 2 upcoming n
 
 982 Market Street; San Francisco, CA 94102; United States, San Francisco/Oakland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-warfield/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-warfield/)*

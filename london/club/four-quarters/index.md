@@ -1,14 +1,13 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "LEVELS" on Fri, 4 Sept 2026.
+Four Quarters is a music venue in London with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Bonks Bingo" on Sun, 6 Sept 2026.
 
-Four Quarters is a music venue in London listed on soundcheck. 7 upcoming nights, with line-ups including Alfie Fraser, Calm Stiege, Cozen (2) and Declan Knapp and 2 more. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
+Four Quarters is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including Alfie Fraser, Calm Stiege, Cozen (2) and Declan Knapp and 2 more. Browse upcoming dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | LEVELS | Equinox (UK) |
 | Sun, 6 Sept 2026 | Bonks Bingo |  |
 | Fri, 11 Sept 2026 | sWARM signals 09: House. Techno. Beyond | Devil's Daughter, DungeonMaster, Helios Manoeuvres, Joe Tyler, StopThoseEvilBastards |
 | Fri, 18 Sept 2026 | dull thud | Jon Hughes, Missile to the Moon, Tom Gillieron |
@@ -20,4 +19,4 @@ Four Quarters is a music venue in London listed on soundcheck. 7 upcoming nights
 
 187 Rye Lane, Peckham, SE15 4TP, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*

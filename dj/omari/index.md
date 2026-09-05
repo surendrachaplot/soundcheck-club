@@ -1,6 +1,6 @@
 # Omari
 
-Omari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ministry Of Sound, London on Sat, 10 Oct 2026.
+Omari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ministry Of Sound, London on Sat, 10 Oct 2026.
 
 Omari is a techno and house artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Bristol and Brussels and 13 more. Often billed alongside Omari King, sqip and Omari Jazz. Next up: Ministry Of Sound, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Omari is a techno and house artist tracked on soundcheck, with 103 sets logged a
 
 Omari King, sqip, Omari Jazz
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omari/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omari/)*

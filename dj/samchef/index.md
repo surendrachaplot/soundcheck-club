@@ -1,6 +1,6 @@
 # SAM CHEF
 
-SAM CHEF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Le Red Room, Montreal on Sun, 6 Sept 2026.
+SAM CHEF is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Le Red Room, Montreal on Sun, 6 Sept 2026.
 
 SAM CHEF is a house and tech house artist tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside Villagomez, BPlease and Walji. Next up: Le Red Room, Montreal on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ SAM CHEF is a house and tech house artist tracked on soundcheck, with 13 sets lo
 
 Villagomez, BPlease, Walji
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samchef/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samchef/)*

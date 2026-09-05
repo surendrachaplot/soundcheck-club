@@ -1,6 +1,6 @@
 # Lossless Wax
 
-Lossless Wax is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Arcana, San Francisco/Oakland on Fri, 11 Sept 2026.
+Lossless Wax is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Arcana, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Lossless Wax is a house and funk / soul artist tracked on soundcheck, with 32 sets logged across Sanfrancisco. Often billed alongside John Glass, Louiv and Coflo. Next up: Arcana, Sanfrancisco on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Lossless Wax is a house and funk / soul artist tracked on soundcheck, with 32 se
 
 John Glass, Louiv, Coflo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/losslesswax/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/losslesswax/)*

@@ -1,14 +1,15 @@
 # Motel Campo
 
-Motel Campo is a music venue in Geneva with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "༄ Proxima x Motel Campo ༄ DJ Nobu + Audrey Danza" on Sat, 5 Sept 2026.
+Motel Campo is a music venue in Geneva with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "༄ Proxima x Motel Campo ༄ DJ Nobu + Audrey Danza" on Sat, 5 Sept 2026.
 
-Motel Campo is a music venue in Geneva listed on soundcheck. 5 upcoming nights, with line-ups including Audrey Danza, Deetron, DJ Nobu and Hirma and 1 more. Browse upcoming dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
+Motel Campo is a music venue in Geneva listed on soundcheck. 6 upcoming nights, with line-ups including Audrey Danza, Deetron, DJ Nobu and Hirma and 1 more. Browse upcoming dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | ༄ Proxima x Motel Campo ༄ DJ Nobu + Audrey Danza | Audrey Danza, DJ Nobu |
+| Sat, 5 Sept 2026 | ༄ Proxima x Motel Campo ༄ | Audrey Danza |
 | Wed, 9 Sept 2026 | Motel ✰ Wamheda, DJAGACIDA, P Nasty & Kay Rubenz |  |
 | Wed, 9 Sept 2026 | Motel ✰ Wamheda, P Nasty, DJAGACIDA & Kay Rubenz |  |
 | Sat, 12 Sept 2026 | Motel ✰ ORFIGYAL | Hirma, ORFIGYAL |
@@ -18,4 +19,4 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 5 upcoming nights, 
 
 Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland, Geneva
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*

@@ -1,6 +1,6 @@
 # Luciid
 
-Luciid is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Luciid is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
 
 Luciid is a techno and industrial artist tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Vendex, Dexphase and Skryption. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
 
@@ -31,4 +31,4 @@ Luciid is a techno and industrial artist tracked on soundcheck, with 113 sets lo
 
 Vendex, Dexphase, Skryption
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*

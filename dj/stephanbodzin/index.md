@@ -1,14 +1,13 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Fri, 4 Sept 2026.
+Stephan Bodzin is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Óbuda Bay, Budapest on Sat, 5 Sept 2026.
 
-Stephan Bodzin is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: Olympic Athletic Center of Athens, Athens on Fri 4 Sept.
+Stephan Bodzin is a techno and house artist tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Luna Semara, Mind Against and Agents Of Time. Next up: Óbuda Bay, Budapest on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Olympic Athletic Center of Athens | Athens |
 | Sat, 5 Sept 2026 | Óbuda Bay | Budapest |
 | Wed, 9 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
@@ -18,6 +17,7 @@ Stephan Bodzin is a techno and house artist tracked on soundcheck, with 108 sets
 
 ## Recently played
 
+- Olympic Athletic Center of Athens, Athens — Fri, 4 Sept 2026
 - TBA - Chacra El Descanso, La Plata, Buenos Aires — Sun, 16 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - Santa Monica Pier, Los Angeles — Sat, 18 Jul 2026
@@ -25,10 +25,9 @@ Stephan Bodzin is a techno and house artist tracked on soundcheck, with 108 sets
 - Seaseaclub Barcelona, Barcelona — Fri, 10 Jul 2026
 - 45hertz, Hamburg — Sat, 4 Jul 2026
 - TBA - THE CARLU , Toronto — Sat, 20 Jun 2026
-- TBA - ONE77 BROOKLYN, New York City — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Luna Semara, Mind Against, Agents Of Time
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*

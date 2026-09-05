@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "DISCOvery Weekender 04 & 05 septembre 2026" on Fri, 4 Sept 2026.
+Djoon is a music venue in Paris with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "DISCOvery Weekender 04 & 05 septembre 2026" on Fri, 4 Sept 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 8 upcoming nights, with line-ups including Afshin, Carole Fe, Chinau and Chris Wheatley and 2 more. Browse upcoming dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -21,4 +21,4 @@ Djoon is a music venue in Paris listed on soundcheck. 8 upcoming nights, with li
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

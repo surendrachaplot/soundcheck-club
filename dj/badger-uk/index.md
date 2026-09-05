@@ -1,6 +1,6 @@
 # Badger (UK)
 
-Badger (UK) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at XOYO, London on Sat, 5 Sept 2026.
+Badger (UK) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at XOYO, London on Sat, 5 Sept 2026.
 
 Badger (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Auckland, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside Arthi, Main Phase and Mandidextrous. Next up: XOYO, London on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Badger (UK) is a garage and bass artist based in United Kingdom, tracked on soun
 
 Arthi, Main Phase, Mandidextrous
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badger-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badger-uk/)*

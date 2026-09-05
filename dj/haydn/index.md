@@ -1,6 +1,6 @@
 # Haydn
 
-Haydn is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
+Haydn is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Fri, 11 Sept 2026.
 
 Haydn is a house and minimal artist tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Denver and Ibiza and 10 more. Often billed alongside tIJN, Annie Errez and Lucas Hulan. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Haydn is a house and minimal artist tracked on soundcheck, with 19 sets logged a
 
 tIJN, Annie Errez, Lucas Hulan
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haydn/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haydn/)*

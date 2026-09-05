@@ -1,6 +1,6 @@
 # Belgrave Music Hall
 
-Belgrave Music Hall is a music venue in Leeds with 17 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Euphoric" on Sat, 5 Sept 2026.
+Belgrave Music Hall is a music venue in Leeds with 17 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Euphoric" on Sat, 5 Sept 2026.
 
 Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 17 upcoming nights, with line-ups including Allen Watts, Bel Cobain, Elder Island and Mykki Blanco and 2 more. Browse upcoming dates, start times and who's playing. 1-1A Cross Belgrave Street, LS2 8JP Leeds.
 
@@ -23,4 +23,4 @@ Belgrave Music Hall is a music venue in Leeds listed on soundcheck. 17 upcoming 
 
 1-1A Cross Belgrave Street, LS2 8JP Leeds, Leeds
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/belgrave-music-hall/)*

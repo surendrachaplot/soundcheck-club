@@ -1,6 +1,6 @@
 # Speed.FM
 
-Speed.FM is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Schuylkill Banks Lawn, Philadelphia on Sun, 13 Sept 2026.
+Speed.FM is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Schuylkill Banks Lawn, Philadelphia on Sun, 13 Sept 2026.
 
 Speed.FM is a techno and club artist based in United States of America, tracked on soundcheck, with 9 sets logged across Philadelphia, Vancouver and Washingtondc. Often billed alongside Obreezy Beats, RESONATE.JPEG and Abby J.. Next up: Schuylkill Banks Lawn, Philadelphia on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Speed.FM is a techno and club artist based in United States of America, tracked 
 
 Obreezy Beats, RESONATE.JPEG, Abby J.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/speed.fm/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/speed.fm/)*

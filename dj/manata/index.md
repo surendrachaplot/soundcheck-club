@@ -1,6 +1,6 @@
 # Manata
 
-Manata is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Rūmu, Lisbon on Wed, 16 Sept 2026.
+Manata is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Rūmu, Lisbon on Wed, 16 Sept 2026.
 
 Manata is a house and techno artist tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Brussels and Bucharest and 8 more. Often billed alongside Samuel Padden, DJ Service and Barbu. Next up: Rūmu, Lisbon on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Manata is a house and techno artist tracked on soundcheck, with 29 sets logged a
 
 Samuel Padden, DJ Service, Barbu
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manata/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manata/)*

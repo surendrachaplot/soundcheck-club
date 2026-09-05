@@ -1,6 +1,6 @@
 # Locke
 
-Locke is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "ZUS Fest" on Sat, 5 Sept 2026.
+Locke is a music venue in Hamburg with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "ZUS Fest" on Sat, 5 Sept 2026.
 
 Locke is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with line-ups including Darimel, Phil Abaddon and tibslc. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
 
@@ -17,4 +17,4 @@ Locke is a music venue in Hamburg listed on soundcheck. 4 upcoming nights, with 
 
 St. Pauli Fischmarkt 27, 20359 Hamburg, Germany, Hamburg
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*

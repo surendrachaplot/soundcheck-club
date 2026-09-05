@@ -1,6 +1,6 @@
 # Jordan Nocturne
 
-Jordan Nocturne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Amnesia Ibiza, Ibiza on Sat, 26 Sept 2026.
+Jordan Nocturne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Amnesia Ibiza, Ibiza on Sat, 26 Sept 2026.
 
 Jordan Nocturne is a house and techno artist tracked on soundcheck, with 75 sets logged across Antwerp, Belfast, Berlin and Brisbane and 17 more. Often billed alongside Timmy Stewart, Marion Hawkes and Danse Intermission. Next up: Amnesia Ibiza, Ibiza on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jordan Nocturne is a house and techno artist tracked on soundcheck, with 75 sets
 
 Timmy Stewart, Marion Hawkes, Danse Intermission
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan-uk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jordan-uk/)*

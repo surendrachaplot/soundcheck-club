@@ -1,6 +1,6 @@
 # tasha.mp4
 
-tasha.mp4 is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Last Arch, London on Sat, 5 Sept 2026.
+tasha.mp4 is a Garage and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Last Arch, London on Sat, 5 Sept 2026.
 
 tasha.mp4 is a garage and techno artist tracked on soundcheck, with 44 sets logged across London. Often billed alongside TRILL (UK), EMROSE and Kitsch. Next up: Last Arch, London on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ tasha.mp4 is a garage and techno artist tracked on soundcheck, with 44 sets logg
 
 TRILL (UK), EMROSE, Kitsch
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*

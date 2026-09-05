@@ -1,6 +1,6 @@
 # DEEP-Z
 
-DEEP-Z is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at H2o6, Riga on Sat, 28 Nov 2026.
+DEEP-Z is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at H2o6, Riga on Sat, 28 Nov 2026.
 
 DEEP-Z is a techno and idm artist tracked on soundcheck, with 5 sets logged across Riga. Often billed alongside Michael Myth, Paul Hnikin and 2B (1). Next up: H2o6, Riga on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ DEEP-Z is a techno and idm artist tracked on soundcheck, with 5 sets logged acro
 
 Michael Myth, Paul Hnikin, 2B (1)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deep-z/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deep-z/)*

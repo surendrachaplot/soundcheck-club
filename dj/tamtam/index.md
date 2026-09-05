@@ -1,6 +1,6 @@
 # TamTam
 
-TamTam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+TamTam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 TamTam is a techno and house artist tracked on soundcheck, with 24 sets logged across Berlin, Leeds, Lisbon and London and 2 more. Often billed alongside Frinda di Lanco, Jonah Considine and Luca Carluccio. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ TamTam is a techno and house artist tracked on soundcheck, with 24 sets logged a
 
 Frinda di Lanco, Jonah Considine, Luca Carluccio
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamtam/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tamtam/)*

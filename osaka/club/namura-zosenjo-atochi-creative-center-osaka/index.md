@@ -1,6 +1,6 @@
 # Namura Zosenjo Atochi / Creative Center Osaka
 
-Namura Zosenjo Atochi / Creative Center Osaka is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "PARADISE CIRCUS" on Mon, 21 Sept 2026.
+Namura Zosenjo Atochi / Creative Center Osaka is a music venue in Osaka with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "PARADISE CIRCUS" on Mon, 21 Sept 2026.
 
 Namura Zosenjo Atochi / Creative Center Osaka is a music venue in Osaka listed on soundcheck. 1 upcoming night, with line-ups including DREAD MC, Flowdan, Grafix and Metrik and 2 more. Browse upcoming dates, start times and who's playing. 4-1-55 Kitakagaya Suminoe-ku, Osaka City 559-0011.
 
@@ -14,4 +14,4 @@ Namura Zosenjo Atochi / Creative Center Osaka is a music venue in Osaka listed o
 
 4-1-55 Kitakagaya Suminoe-ku, Osaka City 559-0011, Osaka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/namura-zosenjo-atochi-creative-center-osaka/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/namura-zosenjo-atochi-creative-center-osaka/)*

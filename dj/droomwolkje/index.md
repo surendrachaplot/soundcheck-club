@@ -1,6 +1,6 @@
 # droomwolkje
 
-droomwolkje is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Chinastraat, Ghent on Fri, 18 Sept 2026.
+droomwolkje is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Chinastraat, Ghent on Fri, 18 Sept 2026.
 
 droomwolkje is a techno and trance artist based in Belgium, tracked on soundcheck, with 23 sets logged across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Lena De Roose, MOKER and Helena Lauwaert. Next up: Chinastraat, Ghent on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ droomwolkje is a techno and trance artist based in Belgium, tracked on soundchec
 
 Lena De Roose, MOKER, Helena Lauwaert
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/droomwolkje/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/droomwolkje/)*

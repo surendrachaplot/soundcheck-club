@@ -1,6 +1,6 @@
 # Demattei
 
-Demattei is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
+Demattei is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
 
 Demattei is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Copenhagen and Ibiza and 2 more. Often billed alongside GINO GENTILI, Javi Garza and Savanna. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Demattei is a progressive house and techno artist based in Argentina, tracked on
 
 GINO GENTILI, Javi Garza, Savanna
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demattei/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demattei/)*

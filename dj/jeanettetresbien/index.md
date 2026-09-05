@@ -1,6 +1,6 @@
 # Jeanette Trèsbien
 
-Jeanette Trèsbien is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
+Jeanette Trèsbien is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Haus der Visionäre, Berlin on Sat, 26 Sept 2026.
 
 Jeanette Trèsbien is an electronic artist tracked on soundcheck, with 7 sets logged across Berlin and Hamburg. Often billed alongside Alma Linda, Antoine Baiser and Elbstrõm. Next up: Haus der Visionäre, Berlin on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Jeanette Trèsbien is an electronic artist tracked on soundcheck, with 7 sets lo
 
 Alma Linda, Antoine Baiser, Elbstrõm
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanettetresbien/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanettetresbien/)*

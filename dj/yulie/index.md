@@ -1,6 +1,6 @@
 # YULIE
 
-YULIE is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT , Barcelona on Sat, 19 Sept 2026.
+YULIE is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT , Barcelona on Sat, 19 Sept 2026.
 
 YULIE is a house and electronica artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona. Often billed alongside INEXXSTABLE, CAPITANA and Jana La Fontaine. Next up: TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT , Barcelona on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ YULIE is a house and electronica artist based in Spain, tracked on soundcheck, w
 
 INEXXSTABLE, CAPITANA, Jana La Fontaine
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yulie/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yulie/)*

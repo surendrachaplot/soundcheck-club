@@ -1,6 +1,6 @@
 # Pinotello
 
-Pinotello is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Pinotello is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
 Pinotello is a hardcore and gabber artist tracked on soundcheck, with 25 sets logged across Antwerp, Barcelona, Berlin and Brussels and 7 more. Often billed alongside The Dark Horror, Lekkerfaces and Major Conspiracy. Next up: Westfalenhallen, Dortmund-essen on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Pinotello is a hardcore and gabber artist tracked on soundcheck, with 25 sets lo
 
 The Dark Horror, Lekkerfaces, Major Conspiracy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinotello/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinotello/)*

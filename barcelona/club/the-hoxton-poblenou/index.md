@@ -1,6 +1,6 @@
 # The Hoxton, Poblenou
 
-The Hoxton, Poblenou is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Electrostad: Free Party with Victor Hugo & Friends" on Fri, 11 Sept 2026.
+The Hoxton, Poblenou is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Electrostad: Free Party with Victor Hugo & Friends" on Fri, 11 Sept 2026.
 
 The Hoxton, Poblenou is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including PINI and Victor Hugo. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Hoxton, Poblenou is a music venue in Barcelona listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Electrostad: Free Party with Victor Hugo & Friends | PINI, Victor Hugo |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/the-hoxton-poblenou/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/the-hoxton-poblenou/)*

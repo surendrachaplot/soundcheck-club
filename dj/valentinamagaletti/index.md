@@ -1,6 +1,6 @@
 # Valentina Magaletti
 
-Valentina Magaletti is a Experimental and Electro artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Valentina Magaletti is a Experimental and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Valentina Magaletti is an experimental and electro artist based in Italy, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside upsammy, Al Wootton and ojoo. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Valentina Magaletti is an experimental and electro artist based in Italy, tracke
 
 upsammy, Al Wootton, ojoo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*

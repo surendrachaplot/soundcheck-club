@@ -1,6 +1,6 @@
 # An Yunbi
 
-An Yunbi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Blank Site, Seoul on Sat, 5 Sept 2026.
+An Yunbi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Blank Site, Seoul on Sat, 5 Sept 2026.
 
 An Yunbi is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Copenhagen, Hamburg and Seoul. Often billed alongside Joon Kwak, High Future and KIMNA. Next up: Blank Site, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ An Yunbi is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Joon Kwak, High Future, KIMNA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anyunbi/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anyunbi/)*

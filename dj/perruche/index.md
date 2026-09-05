@@ -1,6 +1,6 @@
 # Perruche
 
-Perruche is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
+Perruche is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
 
 Perruche is a house and techno artist based in France, tracked on soundcheck, with 25 sets logged across Strasbourg. Often billed alongside STU (FR), Halès and Justine Perry. Next up: Manufacture des Tabacs - Strasbourg, Strasbourg on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Perruche is a house and techno artist based in France, tracked on soundcheck, wi
 
 STU (FR), Halès, Justine Perry
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perruche/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perruche/)*

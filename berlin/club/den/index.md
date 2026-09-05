@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Cuddles: VIRGO SEASON" on Fri, 4 Sept 2026.
+ÆDEN is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Cuddles: VIRGO SEASON" on Fri, 4 Sept 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including Aaron Blau, Acierate, Amor Satyr and August Kind and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

@@ -1,18 +1,18 @@
 # Import Export
 
-Import Export is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "TAXI SALON: CONTAGIOUS + BRUINE + CLÉMENT VERCELLETTO + AUGUSTĖ VICKUNAITĖ + MARTIN BRUGGER" on Fri, 11 Sept 2026.
+Import Export is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "TAXI SALON: CONTAGIOUS + BRUINE + CLÉMENT VERCELLETTO + AUGUSTĖ VICKUNAITĖ + MARTIN BRUGGER" on Fri, 11 Sept 2026.
 
-Import Export is a music venue in Munich listed on soundcheck. 2 upcoming nights, with line-ups including CONTAGIOUS, Gaaston, Rabibti áTable and saHHar. Browse upcoming dates, start times and who's playing. Schwere-Reiter-Str. 2h, 80636 Munich, Germany.
+Import Export is a music venue in Munich listed on soundcheck. 2 upcoming nights, with line-ups including CONTAGIOUS, Gaaston, Mieko Suzuki and Rabibti áTable and 1 more. Browse upcoming dates, start times and who's playing. Schwere-Reiter-Str. 2h, 80636 Munich, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | TAXI SALON: CONTAGIOUS + BRUINE + CLÉMENT VERCELLETTO + AUGUSTĖ VICKUNAITĖ + MARTIN BRUGGER | CONTAGIOUS |
+| Fri, 11 Sept 2026 | TAXI SALON: CONTAGIOUS + BRUINE + CLÉMENT VERCELLETTO + AUGUSTĖ VICKUNAITĖ + MARTIN BRUGGER | CONTAGIOUS, Mieko Suzuki |
 | Sat, 19 Sept 2026 | Rehla رحلة ٢ ·ⵣ· saHHara · سهّارة | Gaaston, Rabibti áTable, saHHar |
 
 ## Address
 
 Schwere-Reiter-Str. 2h, 80636 Munich, Germany, Munich
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*

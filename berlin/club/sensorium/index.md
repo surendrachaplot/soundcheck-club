@@ -1,14 +1,13 @@
 # Sensorium
 
-Sensorium is a music venue in Berlin with 23 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "ETHER" on Fri, 4 Sept 2026.
+Sensorium is a music venue in Berlin with 22 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "SENSO NACHT" on Sat, 5 Sept 2026.
 
-Sensorium is a music venue in Berlin listed on soundcheck. 23 upcoming nights, with line-ups including Bee Lincoln, Blck-Swan, Bouquet and DaSoMaZo and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
+Sensorium is a music venue in Berlin listed on soundcheck. 22 upcoming nights, with line-ups including Bee Lincoln, Blck-Swan, Bouquet and Eleonor Bianchi and 2 more. Browse upcoming dates, start times and who's playing. warschauer platz 18, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | ETHER | DaSoMaZo, Sonse |
 | Sat, 5 Sept 2026 | SENSO NACHT | Blck-Swan, Oussi, Zaphy |
 | Sun, 6 Sept 2026 | TRIG: | Gabi, Loco (IT), Viktor Kampf |
 | Wed, 9 Sept 2026 | TECHNO MITTWOCH | Joana, Kardinal Bertram, MXC, Oliver Kotiużyński, UniKhatu |
@@ -18,9 +17,10 @@ Sensorium is a music venue in Berlin listed on soundcheck. 23 upcoming nights, w
 | Fri, 18 Sept 2026 | ETHER |  |
 | Sat, 19 Sept 2026 | SENSO NACHT | H7 (3), James Cherry, Matthieu Benjamin, Milky Way, Person X, So detroit, UniKhatu |
 | Sun, 20 Sept 2026 | TRIG | Stallo |
+| Wed, 23 Sept 2026 | TECHNO MITTWOCH | Bee Lincoln, Pamela Svart, pink-panther |
 
 ## Address
 
 warschauer platz 18, 10245 Berlin, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sensorium/)*

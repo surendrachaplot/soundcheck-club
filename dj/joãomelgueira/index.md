@@ -1,6 +1,6 @@
 # João Melgueira
 
-João Melgueira is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ministerium Club, Lisbon on Thu, 10 Sept 2026.
+João Melgueira is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Ministerium Club, Lisbon on Thu, 10 Sept 2026.
 
 João Melgueira is a techno and house artist based in Portugal, tracked on soundcheck, with 135 sets logged across Lisbon. Often billed alongside Vitor Domingos, Paixão and FURAVIA. Next up: Ministerium Club, Lisbon on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ João Melgueira is a techno and house artist based in Portugal, tracked on sound
 
 Vitor Domingos, Paixão, FURAVIA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joãomelgueira/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joãomelgueira/)*

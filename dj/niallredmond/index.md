@@ -1,6 +1,6 @@
 # Niall Redmond
 
-Niall Redmond is a House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Pygmalion, Dublin on Sat, 5 Sept 2026.
+Niall Redmond is a House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Pygmalion, Dublin on Sat, 5 Sept 2026.
 
 Niall Redmond is a house artist tracked on soundcheck, with 10 sets logged across Dublin and London. Often billed alongside DJ Deece, Ryan Brasco and Alan Dixon. Next up: Pygmalion, Dublin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Niall Redmond is a house artist tracked on soundcheck, with 10 sets logged acros
 
 DJ Deece, Ryan Brasco, Alan Dixon
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niallredmond/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niallredmond/)*

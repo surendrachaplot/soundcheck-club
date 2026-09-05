@@ -1,6 +1,6 @@
 # Moose
 
-Moose is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Moose is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
 
 Moose is a drum & bass and jungle artist tracked on soundcheck, with 49 sets logged across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Jumping Jack Frost, Funsta and Bryan Gee. Next up: Eutopia Whs, London on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Moose is a drum & bass and jungle artist tracked on soundcheck, with 49 sets log
 
 Jumping Jack Frost, Funsta, Bryan Gee
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moose/)*

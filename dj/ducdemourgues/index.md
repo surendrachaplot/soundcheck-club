@@ -1,6 +1,6 @@
 # Duc de Mourgues
 
-Duc de Mourgues is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Chez Moune, Paris on Fri, 18 Sept 2026.
+Duc de Mourgues is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Chez Moune, Paris on Fri, 18 Sept 2026.
 
 Duc de Mourgues is a tech house and techno artist tracked on soundcheck, with 10 sets logged across Paris. Often billed alongside BenMaster, KEVBER and Agoria. Next up: Chez Moune, Paris on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Duc de Mourgues is a tech house and techno artist tracked on soundcheck, with 10
 
 BenMaster, KEVBER, Agoria
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ducdemourgues/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ducdemourgues/)*

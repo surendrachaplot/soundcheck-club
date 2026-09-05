@@ -1,6 +1,6 @@
 # SEEPS
 
-SEEPS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Little Jerry, Toronto on Fri, 2 Oct 2026.
+SEEPS is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Little Jerry, Toronto on Fri, 2 Oct 2026.
 
 SEEPS is a house and deep house artist tracked on soundcheck, with 62 sets logged across Chicago, Detroit, Losangeles and Newyorkcity and 2 more. Often billed alongside Aaron Paar, DJ Sneak and Ian Llorens. Next up: The Little Jerry, Toronto on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ SEEPS is a house and deep house artist tracked on soundcheck, with 62 sets logge
 
 Aaron Paar, DJ Sneak, Ian Llorens
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seeps/)*

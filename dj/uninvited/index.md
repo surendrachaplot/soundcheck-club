@@ -1,6 +1,6 @@
 # Uninvited
 
-Uninvited is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Sensorium, Berlin on Wed, 14 Oct 2026.
+Uninvited is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Sensorium, Berlin on Wed, 14 Oct 2026.
 
 Uninvited is a tech house and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Amsterdam and Berlin. Often billed alongside Axolot.x, Manrick Stapez and Bastienne. Next up: Sensorium, Berlin on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Uninvited is a tech house and techno artist based in Germany, tracked on soundch
 
 Axolot.x, Manrick Stapez, Bastienne
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uninvited/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/uninvited/)*

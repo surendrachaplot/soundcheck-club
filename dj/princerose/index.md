@@ -1,6 +1,6 @@
 # Prince Rose
 
-Prince Rose is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Club Rawhide, New York City on Sat, 12 Sept 2026.
+Prince Rose is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Club Rawhide, New York City on Sat, 12 Sept 2026.
 
 Prince Rose is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Newyorkcity and Washingtondc. Often billed alongside Gail Force One, PWRPUFF and Joann Fabrixx. Next up: Club Rawhide, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Prince Rose is a house and techno artist based in United States of America, trac
 
 Gail Force One, PWRPUFF, Joann Fabrixx
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princerose/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/princerose/)*

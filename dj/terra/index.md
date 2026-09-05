@@ -1,6 +1,6 @@
 # Terra
 
-Terra is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Socore Factory, Osaka on Tue, 22 Sept 2026.
+Terra is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Socore Factory, Osaka on Tue, 22 Sept 2026.
 
 Terra is a techno and psytrance artist based in Japan, tracked on soundcheck, with 17 sets logged across Berlin, Cologne, London and Losangeles and 5 more. Often billed alongside Infected Mushroom, Ambient Pino and Astrix. Next up: Socore Factory, Osaka on Tue 22 Sept.
 
@@ -26,4 +26,4 @@ Terra is a techno and psytrance artist based in Japan, tracked on soundcheck, wi
 
 Infected Mushroom, Ambient Pino, Astrix
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terra/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terra/)*

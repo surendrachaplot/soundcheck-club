@@ -1,6 +1,6 @@
 # Octoptic
 
-Octoptic is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Fri, 11 Sept 2026.
+Octoptic is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Tresor / Globus, Berlin on Fri, 11 Sept 2026.
 
 Octoptic is a techno and electronica artist tracked on soundcheck, with 80 sets logged across Barcelona, Berlin, London and Mexicocity. Often billed alongside Ranma Entero, Dj Fucci and Bluecommand. Next up: Tresor / Globus, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Octoptic is a techno and electronica artist tracked on soundcheck, with 80 sets 
 
 Ranma Entero, Dj Fucci, Bluecommand
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octoptic/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/octoptic/)*

@@ -1,13 +1,14 @@
 # Vaizini
 
-Vaizini is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at B2 Rīga, Riga on Sun, 6 Sept 2026.
+Vaizini is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at B2 Rīga, Riga on Sat, 5 Sept 2026.
 
-Vaizini is a house and techno artist tracked on soundcheck, with 9 sets logged across Riga. Often billed alongside Mikass, Grisha Nirgov and Hazy Andrew. Next up: B2 Rīga, Riga on Sun 6 Sept.
+Vaizini is a house and techno artist tracked on soundcheck, with 10 sets logged across Riga. Often billed alongside Mikass, Grisha Nirgov and Hazy Andrew. Next up: B2 Rīga, Riga on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Sept 2026 | B2 Rīga | Riga |
 | Sun, 6 Sept 2026 | B2 Rīga | Riga |
 
 ## Recently played
@@ -25,4 +26,4 @@ Vaizini is a house and techno artist tracked on soundcheck, with 9 sets logged a
 
 Mikass, Grisha Nirgov, Hazy Andrew
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaizini/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vaizini/)*

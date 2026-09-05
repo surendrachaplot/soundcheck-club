@@ -1,6 +1,6 @@
 # S FLY
 
-S FLY is a Drum & Bass and Afro House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
+S FLY is a Drum & Bass and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Timber Loft, London on Fri, 25 Sept 2026.
 
 S FLY is a drum & bass and afro house artist tracked on soundcheck, with 39 sets logged across Hongkong, London, Melbourne and Newyorkcity and 2 more. Often billed alongside Beezo, Supa D and Ricky Sahota. Next up: The Timber Loft, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ S FLY is a drum & bass and afro house artist tracked on soundcheck, with 39 sets
 
 Beezo, Supa D, Ricky Sahota
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sfly/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sfly/)*

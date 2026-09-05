@@ -1,6 +1,6 @@
 # Para Klub Beograd
 
-Para Klub Beograd is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "para.normal - Stanislav Tolkachev, Filip Xavi, .Paragon, PTŽC , Emma H, Zana" on Sun, 6 Sept 2026.
+Para Klub Beograd is a music venue in Belgrade with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "para.normal - Stanislav Tolkachev, Filip Xavi, .Paragon, PTŽC , Emma H, Zana" on Sun, 6 Sept 2026.
 
 Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 3 upcoming nights, with line-ups including .Paragon, .rigid, Čevut and Dimi Angelis and 2 more. Browse upcoming dates, start times and who's playing. Cetinjska 15.
 
@@ -16,4 +16,4 @@ Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 3 upcoming 
 
 Cetinjska 15, Belgrade
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*

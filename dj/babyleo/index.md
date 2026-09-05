@@ -1,6 +1,6 @@
 # Baby Leo
 
-Baby Leo is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
+Baby Leo is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
 Baby Leo is a techno and bass artist tracked on soundcheck, with 25 sets logged across Newyorkcity, Portland and Sanfrancisco. Often billed alongside Relaxer, aka-Sol and K Wata. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ Baby Leo is a techno and bass artist tracked on soundcheck, with 25 sets logged 
 
 Relaxer, aka-Sol, K Wata
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyleo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babyleo/)*

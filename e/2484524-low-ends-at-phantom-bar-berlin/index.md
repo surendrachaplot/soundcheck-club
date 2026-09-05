@@ -1,6 +1,6 @@
 # Low Ends at Phantom Bar Berlin
 
-Low Ends at Phantom Bar Berlin on Sat 12 Sept, Berlin. Bass and UK Funky. Preview the line-up and save it on soundcheck.
+Low Ends at Phantom Bar Berlin on Sat 12 Sept, Berlin. House and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

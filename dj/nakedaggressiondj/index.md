@@ -1,6 +1,6 @@
 # NakedAggressionDJ
 
-NakedAggressionDJ is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Vespers Club, London on Sat, 31 Oct 2026.
+NakedAggressionDJ is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Vespers Club, London on Sat, 31 Oct 2026.
 
 NakedAggressionDJ is a club and techno artist tracked on soundcheck, with 9 sets logged across London. Often billed alongside DungeonMaster, New Flesh (2) and AAKAARA. Next up: Vespers Club, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NakedAggressionDJ is a club and techno artist tracked on soundcheck, with 9 sets
 
 DungeonMaster, New Flesh (2), AAKAARA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakedaggressiondj/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakedaggressiondj/)*

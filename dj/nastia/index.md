@@ -1,6 +1,6 @@
 # Nastia
 
-Nastia is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 12 Sept 2026.
+Nastia is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 12 Sept 2026.
 
 Nastia is a techno and house artist tracked on soundcheck, with 163 sets logged across Amsterdam, Athens, Austin and Barcelona and 57 more. Often billed alongside Stef Mendesidis, DJ Bone and The Advent. Next up: Tresor.West, Dortmund-essen on Sat 12 Sept.
 
@@ -33,4 +33,4 @@ Nastia is a techno and house artist tracked on soundcheck, with 163 sets logged 
 
 Stef Mendesidis, DJ Bone, The Advent
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

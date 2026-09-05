@@ -1,6 +1,6 @@
 # Auber Garden
 
-Auber Garden is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "ENTER THE POOL: KOD (Cabanne & Lowris), Ramona Yacef, Crâne de Poule (live), Izzy, Kapman" on Fri, 11 Sept 2026.
+Auber Garden is a music venue in Paris with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "ENTER THE POOL: KOD (Cabanne & Lowris), Ramona Yacef, Crâne de Poule (live), Izzy, Kapman" on Fri, 11 Sept 2026.
 
 Auber Garden is a music venue in Paris listed on soundcheck. 3 upcoming nights, with line-ups including ABI (FR), Automatic Writing, Cabanne and Calabasa and 2 more. Browse upcoming dates, start times and who's playing. 210 Av. des Magasins Généraux, 93300 Aubervilliers, France.
 
@@ -16,4 +16,4 @@ Auber Garden is a music venue in Paris listed on soundcheck. 3 upcoming nights, 
 
 210 Av. des Magasins Généraux, 93300 Aubervilliers, France, Paris
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/auber-garden/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/auber-garden/)*

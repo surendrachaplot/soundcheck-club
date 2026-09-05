@@ -1,6 +1,6 @@
 # Xenia Reaper
 
-Xenia Reaper is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Paloma, Berlin on Sat, 5 Sept 2026.
+Xenia Reaper is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Paloma, Berlin on Sat, 5 Sept 2026.
 
 Xenia Reaper is an experimental and ambient artist tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Cologne and Glasgow and 3 more. Often billed alongside CYBERMISSION, Conna Haraway and ex wiish. Next up: Paloma, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Xenia Reaper is an experimental and ambient artist tracked on soundcheck, with 2
 
 CYBERMISSION, Conna Haraway, ex wiish
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xeniareaper/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xeniareaper/)*

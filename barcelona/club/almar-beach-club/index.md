@@ -1,14 +1,13 @@
 # Almar Beach Club
 
-Almar Beach Club is a music venue in Barcelona with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Cadence" on Fri, 4 Sept 2026.
+Almar Beach Club is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "FREE BEACH PARTY OPEN AIR - SOCIAL LAB SUMMER EDITION" on Sat, 5 Sept 2026.
 
-Almar Beach Club is a music venue in Barcelona listed on soundcheck. 7 upcoming nights, with line-ups including Alessio Panasiti, Basement Scene, Breezy S and Civaro and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
+Almar Beach Club is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Alessio Panasiti, Basement Scene, Breezy S and Civaro and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Cadence | Franz (AR), GUS PICCO, Oversant, SANIRR, Santi Gonzalez, Weedo |
 | Sat, 5 Sept 2026 | FREE BEACH PARTY OPEN AIR - SOCIAL LAB SUMMER EDITION | DC81, DJ SOFÍDIA, Mganz, juliboe |
 | Fri, 11 Sept 2026 | FREE BEACH PARTY _ ANK 6 YEARS ANNIVERSARY | Basement Scene, Breezy S, Civaro, Djoan, Elwei, GONGULL, Good Nelson, Miguel Silva, Popsky, Roberta.Mikeila, Saulo Pisa |
 | Sat, 12 Sept 2026 | FREE BEACH PARTY: ¿Why So Serious? Summer Closing Party 2026 (Deep House, Melodic House) | HAY:LI, Pj Winterman |
@@ -20,4 +19,4 @@ Almar Beach Club is a music venue in Barcelona listed on soundcheck. 7 upcoming 
 
 Carrer de Dolores Ibarruri Pasionaria, 08930 Sant Adrià de Besòs, Barcelona, Barcelona
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/almar-beach-club/)*

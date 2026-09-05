@@ -1,6 +1,6 @@
 # Valac
 
-Valac is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Terraza Dos Equis, Mexico City on Sun, 6 Sept 2026.
+Valac is a Techno and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Terraza Dos Equis, Mexico City on Sun, 6 Sept 2026.
 
 Valac is a techno and reggaeton artist tracked on soundcheck, with 36 sets logged across Lisbon and Mexicocity. Often billed alongside Deenia, Mel Cajiga and kopo. Next up: Terraza Dos Equis, Mexicocity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Valac is a techno and reggaeton artist tracked on soundcheck, with 36 sets logge
 
 Deenia, Mel Cajiga, kopo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valac/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valac/)*

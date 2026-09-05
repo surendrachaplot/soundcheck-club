@@ -1,6 +1,6 @@
 # Green River Haze
 
-Green River Haze is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Detroit on Sat, 19 Sept 2026.
+Green River Haze is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Detroit on Sat, 19 Sept 2026.
 
 Green River Haze is an electro and techno artist based in United States of America, tracked on soundcheck, with 53 sets logged across Detroit, Lisbon, Mexicocity and Newyorkcity and 1 more. Often billed alongside 2Lanes, Ashton Swinton and sts (US). Next up: TBA, Detroit on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Green River Haze is an electro and techno artist based in United States of Ameri
 
 2Lanes, Ashton Swinton, sts (US)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/greenriverhaze/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/greenriverhaze/)*

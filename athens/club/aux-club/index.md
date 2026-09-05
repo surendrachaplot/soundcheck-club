@@ -1,6 +1,6 @@
 # AUX Club
 
-AUX Club is a music venue in Athens with 8 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "aux: clubnight" on Fri, 11 Sept 2026.
+AUX Club is a music venue in Athens with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "aux: clubnight" on Fri, 11 Sept 2026.
 
 AUX Club is a music venue in Athens listed on soundcheck. 8 upcoming nights, with line-ups including a.metz, Adam Des, Alma Libre and Archangel (2) and 2 more. Browse upcoming dates, start times and who's playing. Agiou Orous 15, Athina 104 47, Greece.
 
@@ -21,4 +21,4 @@ AUX Club is a music venue in Athens listed on soundcheck. 8 upcoming nights, wit
 
 Agiou Orous 15, Athina 104 47, Greece, Athens
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/aux-club/)*

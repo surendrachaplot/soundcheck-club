@@ -1,6 +1,6 @@
 # Antal
 
-Antal is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
+Antal is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
 
 Antal is a house and disco artist tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Hunee, Kléo and Coco Maria. Next up: DC-10, Ibiza on Mon 7 Sept.
 
@@ -33,4 +33,4 @@ Antal is a house and disco artist tracked on soundcheck, with 150 sets logged ac
 
 Hunee, Kléo, Coco Maria
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antal/)*

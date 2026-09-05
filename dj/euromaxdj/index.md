@@ -1,6 +1,6 @@
 # EUROMAX DJ
 
-EUROMAX DJ is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 26 Sept 2026.
+EUROMAX DJ is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 26 Sept 2026.
 
 EUROMAX DJ is a trance and house artist based in France, tracked on soundcheck, with 5 sets logged across Strasbourg. Often billed alongside Itaho, Pacôme Orzi and 1client. Next up: Karmen Camina, Strasbourg on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ EUROMAX DJ is a trance and house artist based in France, tracked on soundcheck, 
 
 Itaho, Pacôme Orzi, 1client
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/euromaxdj/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/euromaxdj/)*

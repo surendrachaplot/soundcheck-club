@@ -1,6 +1,6 @@
 # Jake Moree
 
-Jake Moree is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Moon Club, Bristol on Sat, 3 Oct 2026.
+Jake Moree is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Moon Club, Bristol on Sat, 3 Oct 2026.
 
 Jake Moree is an electro and electronica artist tracked on soundcheck, with 10 sets logged across Bristol. Often billed alongside rasel h, Eksish and Harry McCanna. Next up: Moon Club, Bristol on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jake Moree is an electro and electronica artist tracked on soundcheck, with 10 s
 
 rasel h, Eksish, Harry McCanna
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemoree/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemoree/)*

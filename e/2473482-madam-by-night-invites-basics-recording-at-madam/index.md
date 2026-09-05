@@ -1,6 +1,6 @@
 # Madam by Night invites: Basics Recording at Madam
 
-Madam by Night invites: Basics Recording on Sat 5 Sept, Amsterdam. 3 acts on the bill: Heritage Listed, Le Hutin and Mona Bone. House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: Basics Recording on Sat 5 Sept, Amsterdam. 4 acts on the bill: da Graca Brothers, Heritage Listed, Le Hutin and Mona Bone. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Madam by Night invites: Basics Recording on Sat 5 Sept, Amsterdam. 3 acts on the
 
 ## Line-up
 
+- da Graca Brothers
 - Heritage Listed
 - Le Hutin
 - Mona Bone

@@ -1,14 +1,13 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 18 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Aura with ÜBERKIKZ & Alarico" on Fri, 4 Sept 2026.
+Odonien is a music venue in Cologne with 17 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Der Dritte Raum - LIVE (TREIBSTOFF KLUB & WIR SCHWESTERN) Odonien" on Sat, 5 Sept 2026.
 
-Odonien is a music venue in Cologne listed on soundcheck. 18 upcoming nights, with line-ups including Aio, Alarico, An On Bast and Bergen and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
+Odonien is a music venue in Cologne listed on soundcheck. 17 upcoming nights, with line-ups including Aio, An On Bast, Bergen and Chris Schwarzwälder and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Aura with ÜBERKIKZ & Alarico | Alarico, Prossowski, Szunflower, Tschatsching, ÜBERKIKZ |
 | Sat, 5 Sept 2026 | Der Dritte Raum - LIVE (TREIBSTOFF KLUB & WIR SCHWESTERN) Odonien | Der Dritte Raum, EPHIE, Elisen, Eszter, ISABELL (1), Leolo Lozone, Pfeiffer |
 | Sat, 5 Sept 2026 | Der Dritte Raum - LIVE (TREIBSTOFF KLUB & WIR SCHWESTERN) Odonien | ANNA, Der Dritte Raum, EPHIE, Elisen, Eszter, ISABELL (1), Leolo Lozone, Pfeiffer |
 | Sat, 5 Sept 2026 | Der Dritte Raum - LIVE (TREIBSTOFF KLUB & WIR SCHWESTERN) Odonien | ANNA, Der Dritte Raum, EPHIE, Elisen, Eszter, ISABELL (1), Leolo Lozone, Pfeiffer |
@@ -18,9 +17,10 @@ Odonien is a music venue in Cologne listed on soundcheck. 18 upcoming nights, wi
 | Wed, 16 Sept 2026 | #MITTWOCHENENDE in Odonien |  |
 | Sat, 19 Sept 2026 | Bosburcht Festival x Odonien Records | ELIF, Fab Massimo, Mimi Love, Mor Elian, Partok |
 | Sun, 20 Sept 2026 | Odonien DAY FESTIVAL by KLEUNGEL KLUBNACHT | DJ SODBRENNEN, FLACCO, SERA (2), mae.ly |
+| Wed, 23 Sept 2026 | #MITTWOCHENENDE in Odonien |  |
 
 ## Address
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

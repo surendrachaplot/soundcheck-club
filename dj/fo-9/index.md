@@ -1,6 +1,6 @@
 # Fo (9)
 
-Fo (9) is a electronic artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Fo (9) is a electronic artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Fo (9) is an electronic artist tracked on soundcheck, with 7 sets logged across Athens. Often billed alongside VRGN, Adam Des and Bakerman. Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -24,4 +24,4 @@ Fo (9) is an electronic artist tracked on soundcheck, with 7 sets logged across 
 
 VRGN, Adam Des, Bakerman
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fo-9/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fo-9/)*

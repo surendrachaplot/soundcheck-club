@@ -1,6 +1,6 @@
 # House Bar Muse
 
-House Bar Muse is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "BEYOND the underground house music party" on Sat, 5 Sept 2026.
+House Bar Muse is a music venue in Osaka with 5 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "BEYOND the underground house music party" on Sat, 5 Sept 2026.
 
 House Bar Muse is a music venue in Osaka listed on soundcheck. 5 upcoming nights, with line-ups including coolsurf, mocca* and Nanako Yamane. Browse upcoming dates, start times and who's playing. 6-2-14 Nishitenma, Kita-ku, Osaka-shi, Osaka, 530-0047 Japan.
 
@@ -18,4 +18,4 @@ House Bar Muse is a music venue in Osaka listed on soundcheck. 5 upcoming nights
 
 6-2-14 Nishitenma, Kita-ku, Osaka-shi, Osaka, 530-0047 Japan, Osaka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/house-bar-muse/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/house-bar-muse/)*

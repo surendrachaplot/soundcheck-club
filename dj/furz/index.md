@@ -1,6 +1,6 @@
 # Furz
 
-Furz is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at La Terrrazza, Barcelona on Sat, 5 Sept 2026.
+Furz is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at La Terrrazza, Barcelona on Sat, 5 Sept 2026.
 
 Furz is a house and electro artist based in Argentina, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin and Buenosaires. Often billed alongside Flor Coto, Guile and Kim Bruun. Next up: La Terrrazza, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Furz is a house and electro artist based in Argentina, tracked on soundcheck, wi
 
 Flor Coto, Guile, Kim Bruun
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/furz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/furz/)*

@@ -1,6 +1,6 @@
 # lowfek
 
-lowfek is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Baggen, Copenhagen on Sat, 12 Sept 2026.
+lowfek is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Baggen, Copenhagen on Sat, 12 Sept 2026.
 
 lowfek is a techno and house artist based in Argentina, tracked on soundcheck, with 16 sets logged across Copenhagen. Often billed alongside Tomás Cebrero, Adrat and Dudd. Next up: Baggen, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ lowfek is a techno and house artist based in Argentina, tracked on soundcheck, w
 
 Tomás Cebrero, Adrat, Dudd
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowfek/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lowfek/)*

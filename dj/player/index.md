@@ -1,6 +1,6 @@
 # Player
 
-Player is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Vinyl Whistle, Leeds on Fri, 9 Oct 2026.
+Player is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Vinyl Whistle, Leeds on Fri, 9 Oct 2026.
 
 Player is a techno and house artist tracked on soundcheck, with 11 sets logged across Belfast, Berlin, Dublin and Galway and 5 more. Often billed alongside Erik Burka, Andy Barton and Arkane. Next up: The Vinyl Whistle, Leeds on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Player is a techno and house artist tracked on soundcheck, with 11 sets logged a
 
 Erik Burka, Andy Barton, Arkane
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/player/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/player/)*

@@ -1,6 +1,6 @@
 # DNG (1)
 
-DNG (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Numm, Tokyo on Sat, 26 Sept 2026.
+DNG (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Numm, Tokyo on Sat, 26 Sept 2026.
 
 DNG (1) is a house and techno artist tracked on soundcheck, with 124 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Nari (2), KOTSU and Lomax. Next up: Numm, Tokyo on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ DNG (1) is a house and techno artist tracked on soundcheck, with 124 sets logged
 
 Nari (2), KOTSU, Lomax
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dng-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dng-1/)*

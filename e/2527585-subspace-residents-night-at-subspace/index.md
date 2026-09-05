@@ -1,6 +1,6 @@
 # Subspace Residents Night at Subspace
 
-Subspace Residents Night on Fri 11 Sept, Denver. 2 acts on the bill: Deciprocal and Warmcore. Techno and Electro. Preview the line-up and save it on soundcheck.
+Subspace Residents Night on Fri 11 Sept, Denver. 3 acts on the bill: Deciprocal, Silent Observer and Warmcore. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Subspace Residents Night on Fri 11 Sept, Denver. 2 acts on the bill: Deciprocal 
 ## Line-up
 
 - Deciprocal
+- Silent Observer
 - Warmcore
 
 *Source: [soundcheck](https://soundcheck.club/e/2527585-subspace-residents-night-at-subspace/)*

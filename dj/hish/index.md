@@ -1,6 +1,6 @@
 # Hish
 
-Hish is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Starlane Pizza Bar, London on Fri, 25 Sept 2026.
+Hish is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Starlane Pizza Bar, London on Fri, 25 Sept 2026.
 
 Hish is a house and minimal artist tracked on soundcheck, with 12 sets logged across London, Manchester and Tokyo. Often billed alongside Ells, Stefan Andrei and Andrea Giudice. Next up: Starlane Pizza Bar, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Hish is a house and minimal artist tracked on soundcheck, with 12 sets logged ac
 
 Ells, Stefan Andrei, Andrea Giudice
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hish/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hish/)*

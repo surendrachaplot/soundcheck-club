@@ -1,6 +1,6 @@
 # Liou
 
-Liou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Liou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
 
 Liou is a house and techno artist based in Greece, tracked on soundcheck, with 65 sets logged across Athens, Berlin and Krakow. Often billed alongside DjGus, Nausicaä and 22 (1). Next up: B side Athens, Athens on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Liou is a house and techno artist based in Greece, tracked on soundcheck, with 6
 
 DjGus, Nausicaä, 22 (1)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liou/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liou/)*

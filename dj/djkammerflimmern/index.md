@@ -1,6 +1,6 @@
 # DJ KAMMERFLIMMERN
 
-DJ KAMMERFLIMMERN is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at elipamanoke, Leipzig on Sat, 12 Sept 2026.
+DJ KAMMERFLIMMERN is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at elipamanoke, Leipzig on Sat, 12 Sept 2026.
 
 DJ KAMMERFLIMMERN is a trance and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Leipzig. Often billed alongside Richie Rollin, Scrappy Coco and David Ghetto. Next up: elipamanoke, Leipzig on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ DJ KAMMERFLIMMERN is a trance and techno artist based in Germany, tracked on sou
 
 Richie Rollin, Scrappy Coco, David Ghetto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkammerflimmern/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkammerflimmern/)*

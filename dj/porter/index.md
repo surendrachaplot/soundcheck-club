@@ -1,6 +1,6 @@
 # Porter
 
-Porter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bike Jesus, Prague on Sat, 5 Sept 2026.
+Porter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bike Jesus, Prague on Sat, 5 Sept 2026.
 
 Porter is a techno and house artist tracked on soundcheck, with 13 sets logged across Berlin and Prague. Often billed alongside Caren Callas, Flo Pirke and Lewin Paul. Next up: Bike Jesus, Prague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Porter is a techno and house artist tracked on soundcheck, with 13 sets logged a
 
 Caren Callas, Flo Pirke, Lewin Paul
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/porter/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/porter/)*

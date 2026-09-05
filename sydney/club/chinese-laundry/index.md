@@ -1,14 +1,13 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Chinese Laundry Invites Prizefight & Ed Kent [ALL NIGHT LONG] + OVERDRIVE MAG TAKEOVER" on Fri, 4 Sept 2026.
+Chinese Laundry is a music venue in Sydney with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Chinese Laundry Invites Danny Rankin [UK] + OFF THE MAP TAKEOVER" on Sat, 5 Sept 2026.
 
-Chinese Laundry is a music venue in Sydney listed on soundcheck. 9 upcoming nights, with line-ups including AMMARA, Amotik, bradeazy and C.FRIM and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
+Chinese Laundry is a music venue in Sydney listed on soundcheck. 8 upcoming nights, with line-ups including AMMARA, Amotik, bradeazy and C.FRIM and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Chinese Laundry Invites Prizefight & Ed Kent [ALL NIGHT LONG] + OVERDRIVE MAG TAKEOVER | Ed Kent, Love, Jess, Prizefight |
 | Sat, 5 Sept 2026 | Chinese Laundry Invites Danny Rankin [UK] + OFF THE MAP TAKEOVER | Danny Rankin, Klein Rietje |
 | Fri, 11 Sept 2026 | Chinese Laundry Invites C.FRIM + MIRASIA | C.FRIM, MIRASIA |
 | Sat, 12 Sept 2026 | Chinese Laundry Invites PEOPLE'S PARTY [FULL VENUE TAKEOVER] |  |
@@ -22,4 +21,4 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 9 upcoming nigh
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

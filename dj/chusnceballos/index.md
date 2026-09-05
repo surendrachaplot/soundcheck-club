@@ -1,6 +1,6 @@
 # Chus & Ceballos
 
-Chus & Ceballos is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fabrik, Madrid on Sat, 5 Sept 2026.
+Chus & Ceballos is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Fabrik, Madrid on Sat, 5 Sept 2026.
 
 Chus & Ceballos are a house and tech house duo based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona, Boston, Chicago and Denver and 10 more. Often billed alongside Amal Nemer, Ben Arsenal and Claptone. Next up: Fabrik, Madrid on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Chus & Ceballos are a house and tech house duo based in Spain, tracked on soundc
 
 Amal Nemer, Ben Arsenal, Claptone
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*

@@ -1,6 +1,6 @@
 # Faciendo Soundsystem
 
-Faciendo Soundsystem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Stade Fontainieu, Marseille on Sat, 19 Sept 2026.
+Faciendo Soundsystem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Stade Fontainieu, Marseille on Sat, 19 Sept 2026.
 
 Faciendo Soundsystem is a house and techno artist tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Bucharest and London and 4 more. Often billed alongside Desyn, Tom Morgan and Rama NYC. Next up: Stade Fontainieu, Marseille on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Faciendo Soundsystem is a house and techno artist tracked on soundcheck, with 24
 
 Desyn, Tom Morgan, Rama NYC
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faciendosoundsystem/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faciendosoundsystem/)*

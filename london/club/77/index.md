@@ -1,14 +1,13 @@
 # 77
 
-77 is a music venue in London with 12 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "FullHouse: Saint Lukez" on Fri, 4 Sept 2026.
+77 is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "77: Darius Syrossian" on Sat, 5 Sept 2026.
 
-77 is a music venue in London listed on soundcheck. 12 upcoming nights, with line-ups including AfroKillerz, AliTR, BADBOX and Cinar and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AfroKillerz, AliTR, BADBOX and Cinar and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | FullHouse: Saint Lukez | FLORA THA EXPLORA, Guy Williams, Saint Lukez |
 | Sat, 5 Sept 2026 | 77: Darius Syrossian | Darius Syrossian, Lola So |
 | Fri, 11 Sept 2026 | FullHouse Closing Party: Viot | Viot |
 | Sat, 12 Sept 2026 | 77: Zakes Bantwini | Zakes Bantwini |
@@ -18,9 +17,10 @@
 | Sat, 3 Oct 2026 | Kronologik Rekords presents: BADBOX & Friends | AfroKillerz, BADBOX, Tinovcc |
 | Fri, 9 Oct 2026 | 77: Novak & Vidojean | Novak |
 | Sat, 17 Oct 2026 | Lone Collective x 77 present: Sasson | Cinar, Gabe K (1), Sasson, Yoel Telyaz |
+| Sat, 24 Oct 2026 | Pyra x Residents presents: A House on Fire II @ 77 |  |
 
 ## Address
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

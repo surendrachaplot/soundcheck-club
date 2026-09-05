@@ -1,6 +1,6 @@
 # Moraitov
 
-Moraitov is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Matrez - Warehouse, Belgrade on Sat, 12 Sept 2026.
+Moraitov is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Matrez - Warehouse, Belgrade on Sat, 12 Sept 2026.
 
 Moraitov is a techno and industrial artist based in North Macedonia, tracked on soundcheck, with 6 sets logged across Belgrade. Often billed alongside ACOR, Stameni and Razzor. Next up: Matrez - Warehouse, Belgrade on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Moraitov is a techno and industrial artist based in North Macedonia, tracked on 
 
 ACOR, Stameni, Razzor
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moraitov/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moraitov/)*

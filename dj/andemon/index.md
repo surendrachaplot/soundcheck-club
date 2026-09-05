@@ -1,6 +1,6 @@
 # Andemon
 
-Andemon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
+Andemon is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Slakthuset, Stockholm on Sat, 19 Sept 2026.
 
 Andemon is a techno and house artist based in Sweden, tracked on soundcheck, with 18 sets logged across Berlin and Stockholm. Often billed alongside Harami, Psykoterapi and BOYCA. Next up: Slakthuset, Stockholm on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Andemon is a techno and house artist based in Sweden, tracked on soundcheck, wit
 
 Harami, Psykoterapi, BOYCA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andemon/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andemon/)*

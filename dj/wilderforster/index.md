@@ -1,6 +1,6 @@
 # wilder förster
 
-wilder förster is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Marmorbar, Berlin on Sat, 5 Sept 2026.
+wilder förster is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Marmorbar, Berlin on Sat, 5 Sept 2026.
 
 wilder förster is a techno and trance artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Quolcat, MIMI404 and Trippyverse. Next up: Marmorbar, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ wilder förster is a techno and trance artist tracked on soundcheck, with 10 set
 
 Quolcat, MIMI404, Trippyverse
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderforster/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderforster/)*

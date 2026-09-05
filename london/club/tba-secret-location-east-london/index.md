@@ -1,8 +1,8 @@
-# TBA - Secret location, East London
+# TBA - Secret Location East London
 
-TBA - Secret location, East London is a music venue in London with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "RYE LANEZ BOAT PARTY" on Fri, 25 Sept 2026.
+TBA - Secret Location East London is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "RYE LANEZ BOAT PARTY" on Fri, 25 Sept 2026.
 
-TBA - Secret location, East London is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location East London is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -10,4 +10,4 @@ TBA - Secret location, East London is a music venue in London listed on soundche
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | RYE LANEZ BOAT PARTY |  |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location-east-london/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location-east-london/)*

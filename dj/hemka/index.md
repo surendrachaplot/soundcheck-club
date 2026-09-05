@@ -1,6 +1,6 @@
 # Hemka
 
-Hemka is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
+Hemka is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
 
 Hemka is a techno and minimal techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Boston and Budapest and 15 more. Often billed alongside SHDW, Regent and Stef Mendesidis. Next up: Tresor / Globus, Berlin on Fri 4 Sept.
 
@@ -16,6 +16,7 @@ Hemka is a techno and minimal techno artist tracked on soundcheck, with 46 sets 
 
 ## Recently played
 
+- Tresor / Globus, Berlin — Fri, 4 Sept 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - essaim, Paris — Fri, 3 Jul 2026
@@ -23,10 +24,9 @@ Hemka is a techno and minimal techno artist tracked on soundcheck, with 46 sets 
 - RSO.BERLIN, Berlin — Sat, 30 May 2026
 - La Machine Du Moulin Rouge, Paris — Sat, 4 Apr 2026
 - TILLATEC, Amsterdam — Sat, 14 Feb 2026
-- ÆDEN, Berlin — Sat, 13 Dec 2025
 
 ## Shares bills with
 
 SHDW, Regent, Stef Mendesidis
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hemka/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hemka/)*

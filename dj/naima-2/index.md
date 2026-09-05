@@ -1,6 +1,6 @@
 # Naima (2)
 
-Naima (2) is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at BARDO, Milan on Sat, 5 Sept 2026.
+Naima (2) is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at BARDO, Milan on Sat, 5 Sept 2026.
 
 Naima (2) is an electro and electronica artist based in Italy, tracked on soundcheck, with 9 sets logged across Berlin, Milan, Rome and Turin. Often billed alongside Stella Fiore, ARIHA and Dean Denali. Next up: BARDO, Milan on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Naima (2) is an electro and electronica artist based in Italy, tracked on soundc
 
 Stella Fiore, ARIHA, Dean Denali
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naima-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naima-2/)*

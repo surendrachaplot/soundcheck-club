@@ -1,6 +1,6 @@
 # Samm (BE)
 
-Samm (BE) is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Samm (BE) is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 Samm (BE) is a house and afro house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside AJNA, ARODES and Alex Wann. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Samm (BE) is a house and afro house artist tracked on soundcheck, with 59 sets l
 
 AJNA, ARODES, Alex Wann
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*

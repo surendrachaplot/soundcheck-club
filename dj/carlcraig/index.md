@@ -1,6 +1,6 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 19 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Carl Craig is a House and Techno artist with 19 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Carl Craig is a house and techno artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -23,6 +23,7 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 271 sets log
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - Gewölbe, Cologne — Sat, 22 Aug 2026
 - Flash, Washington DC — Sat, 15 Aug 2026
 - Under the K Bridge, New York City — Sat, 15 Aug 2026
@@ -30,10 +31,9 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 271 sets log
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
 - Chinois Ibiza, Ibiza — Thu, 30 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Almar Beach Club, Barcelona — Sun, 26 Jul 2026
 
 ## Shares bills with
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

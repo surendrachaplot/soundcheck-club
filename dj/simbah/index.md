@@ -1,6 +1,6 @@
 # SIMBAH
 
-SIMBAH is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Z Maruyama, Tokyo on Sat, 5 Sept 2026.
+SIMBAH is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Z Maruyama, Tokyo on Sat, 5 Sept 2026.
 
 SIMBAH is a house and tech house artist tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside CLESENT, ANDY DEDE and B (379). Next up: Z Maruyama, Tokyo on Sat 5 Sept.
 
@@ -20,4 +20,4 @@ SIMBAH is a house and tech house artist tracked on soundcheck, with 4 sets logge
 
 CLESENT, ANDY DEDE, B (379)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simbah/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simbah/)*

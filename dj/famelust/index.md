@@ -1,6 +1,6 @@
 # FAME LUST
 
-FAME LUST is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Warehouse on Watts, Philadelphia on Fri, 11 Sept 2026.
+FAME LUST is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Warehouse on Watts, Philadelphia on Fri, 11 Sept 2026.
 
 FAME LUST is an ebm and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Philadelphia. Often billed alongside DJ Baby Berlin and Outergrace. Next up: Warehouse on Watts, Philadelphia on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ FAME LUST is an ebm and techno artist based in United States of America, tracked
 
 DJ Baby Berlin, Outergrace
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/famelust/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/famelust/)*

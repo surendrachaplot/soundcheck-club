@@ -1,6 +1,6 @@
 # Komedia Brighton
 
-Komedia Brighton is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Crushed: 3rd Bday Party" on Fri, 25 Sept 2026.
+Komedia Brighton is a music venue in Brighton with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Crushed: 3rd Bday Party" on Fri, 25 Sept 2026.
 
 Komedia Brighton is a music venue in Brighton listed on soundcheck. 1 upcoming night, with line-ups including Areola Grande Latte. Browse upcoming dates, start times and who's playing. 44-47 Gardner St, Brighton BN1 1UN, UK.
 
@@ -14,4 +14,4 @@ Komedia Brighton is a music venue in Brighton listed on soundcheck. 1 upcoming n
 
 44-47 Gardner St, Brighton BN1 1UN, UK, Brighton
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/komedia-brighton/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/komedia-brighton/)*

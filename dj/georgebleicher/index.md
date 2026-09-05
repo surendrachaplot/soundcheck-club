@@ -1,6 +1,6 @@
 # George Bleicher
 
-George Bleicher is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Palais, Munich on Sat, 5 Sept 2026.
+George Bleicher is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Palais, Munich on Sat, 5 Sept 2026.
 
 George Bleicher is a techno and tech house artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin and Munich. Often billed alongside Sandra Gold, Stan Starry and Dj Sonic. Next up: Palais, Munich on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ George Bleicher is a techno and tech house artist based in Germany, tracked on s
 
 Sandra Gold, Stan Starry, Dj Sonic
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebleicher/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgebleicher/)*

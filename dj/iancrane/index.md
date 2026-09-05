@@ -1,6 +1,6 @@
 # Ian Crane
 
-Ian Crane is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
+Ian Crane is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at BASEMENT, New York City on Sat, 5 Sept 2026.
 
 Ian Crane is a house and techno artist based in United States of America, tracked on soundcheck, with 39 sets logged across Newyorkcity. Often billed alongside Meilgaarden, LYDO and The Carry Nation. Next up: BASEMENT, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Ian Crane is a house and techno artist based in United States of America, tracke
 
 Meilgaarden, LYDO, The Carry Nation
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrane/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrane/)*

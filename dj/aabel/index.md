@@ -1,6 +1,6 @@
 # AABEL
 
-AABEL is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+AABEL is a Afro House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 AABEL is an afro house and deep house artist based in United States of America, tracked on soundcheck, with 18 sets logged across London and Miami. Often billed alongside Cami di Marzo, Pezlo MD and SIEGEL (2). Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ AABEL is an afro house and deep house artist based in United States of America, 
 
 Cami di Marzo, Pezlo MD, SIEGEL (2)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aabel/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aabel/)*

@@ -1,6 +1,6 @@
 # Fatzo
 
-Fatzo is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Fatzo is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
 Fatzo is a house and tech house artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Fatzo is a house and tech house artist tracked on soundcheck, with 133 sets logg
 
 Oden, Armand Van Helden, Danny Howard
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatzo/)*

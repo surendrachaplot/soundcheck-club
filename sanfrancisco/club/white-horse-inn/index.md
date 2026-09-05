@@ -1,6 +1,6 @@
 # White Horse Inn
 
-White Horse Inn is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Club Yearn x Five Finger Disco feat. Bored Lord" on Sat, 12 Sept 2026.
+White Horse Inn is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Club Yearn x Five Finger Disco feat. Bored Lord" on Sat, 12 Sept 2026.
 
 White Horse Inn is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Bored Lord and Charles Hawthorne. Browse upcoming dates, start times and who's playing. 6551 Telegraph Ave, Oakland, CA 94609.
 
@@ -14,4 +14,4 @@ White Horse Inn is a music venue in Sanfrancisco listed on soundcheck. 1 upcomin
 
 6551 Telegraph Ave, Oakland, CA 94609, San Francisco/Oakland
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/white-horse-inn/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/white-horse-inn/)*

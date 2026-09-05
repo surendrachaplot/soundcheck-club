@@ -1,6 +1,6 @@
 # ALEX REV
 
-ALEX REV is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - mile ex, Montreal on Sat, 12 Sept 2026.
+ALEX REV is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - mile ex, Montreal on Sat, 12 Sept 2026.
 
 ALEX REV is a techno and trance artist based in Canada, tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside Char.l.n, Babaganouschka and Special K (CA). Next up: TBA - mile ex, Montreal on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ ALEX REV is a techno and trance artist based in Canada, tracked on soundcheck, w
 
 Char.l.n, Babaganouschka, Special K (CA)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrev/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrev/)*

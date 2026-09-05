@@ -1,6 +1,6 @@
 # Voltmar
 
-Voltmar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Salon des Amateurs, Düsseldorf on Fri, 25 Sept 2026.
+Voltmar is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Salon des Amateurs, Düsseldorf on Fri, 25 Sept 2026.
 
 Voltmar is a house and techno artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Berlin, Cologne and Dusseldorf. Often billed alongside Lars Eidinger, Etane and Die Wilde Jagd. Next up: Salon des Amateurs, Dusseldorf on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Voltmar is a house and techno artist based in United Kingdom, tracked on soundch
 
 Lars Eidinger, Etane, Die Wilde Jagd
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volt.mar/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/volt.mar/)*

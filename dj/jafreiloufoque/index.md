@@ -1,6 +1,6 @@
 # JaFrei Loufoque
 
-JaFrei Loufoque is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bredouille, Berlin on Sat, 5 Sept 2026.
+JaFrei Loufoque is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bredouille, Berlin on Sat, 5 Sept 2026.
 
 JaFrei Loufoque is a house and deep house artist based in Germany, tracked on soundcheck, with 29 sets logged across Berlin. Often billed alongside Phat Beat, Max Nytram and Hit Beat. Next up: Bredouille, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ JaFrei Loufoque is a house and deep house artist based in Germany, tracked on so
 
 Phat Beat, Max Nytram, Hit Beat
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jafreiloufoque/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jafreiloufoque/)*

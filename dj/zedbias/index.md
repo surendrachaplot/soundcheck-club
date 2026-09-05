@@ -1,6 +1,6 @@
 # Zed Bias
 
-Zed Bias is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at M.O.T, London on Sat, 19 Sept 2026.
+Zed Bias is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at M.O.T, London on Sat, 19 Sept 2026.
 
 Zed Bias is a garage and house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 11 more. Often billed alongside Chunky, Bakey and Chimpo. Next up: M.O.T, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Zed Bias is a garage and house artist based in United Kingdom, tracked on soundc
 
 Chunky, Bakey, Chimpo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zedbias/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zedbias/)*

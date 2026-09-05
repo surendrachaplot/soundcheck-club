@@ -1,6 +1,6 @@
 # SHDW
 
-SHDW is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
+SHDW is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Junkyard Dortmund, Dortmund-essen on Sat, 5 Sept 2026.
 
 SHDW is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: Junkyard Dortmund, Dortmund-essen on Sat 5 Sept.
 
@@ -36,4 +36,4 @@ SHDW is a techno and house artist tracked on soundcheck, with 203 sets logged ac
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

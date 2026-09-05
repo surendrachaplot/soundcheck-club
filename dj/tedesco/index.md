@@ -1,6 +1,6 @@
 # TEDESCO
 
-TEDESCO is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
+TEDESCO is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
 
 TEDESCO is a techno and club artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Twang. Next up: Hackney Bridge, London on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ TEDESCO is a techno and club artist tracked on soundcheck, with 122 sets logged 
 
 JONE OF ARX, Ivicore, Twang
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*

@@ -1,6 +1,6 @@
 # BioTec -official-
 
-BioTec -official- is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 5 Sept 2026.
+BioTec -official- is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 5 Sept 2026.
 
 BioTec -official- is a techno and tech house artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside NIKO INCRAVALLE, Bisk and Ben Green. Next up: Der Weiße Hase, Berlin on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ BioTec -official- is a techno and tech house artist based in Germany, tracked on
 
 NIKO INCRAVALLE, Bisk, Ben Green
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biotec-official-/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biotec-official-/)*

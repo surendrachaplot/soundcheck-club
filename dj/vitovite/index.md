@@ -1,6 +1,6 @@
 # VITØ VITE
 
-VITØ VITE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+VITØ VITE is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 VITØ VITE is a techno and tech house artist tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Marc Eisenberg, gegenfegen and smeik. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ VITØ VITE is a techno and tech house artist tracked on soundcheck, with 9 sets 
 
 Marc Eisenberg, gegenfegen, smeik
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vitovite/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vitovite/)*

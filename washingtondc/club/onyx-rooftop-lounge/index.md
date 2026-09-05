@@ -1,6 +1,6 @@
 # Onyx Rooftop Lounge
 
-Onyx Rooftop Lounge is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Bewitched Bar Fest 2026 - Halloween Special • Dupont Circle, Washington DC" on Sat, 31 Oct 2026.
+Onyx Rooftop Lounge is a music venue in Washington DC with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Bewitched Bar Fest 2026 - Halloween Special • Dupont Circle, Washington DC" on Sat, 31 Oct 2026.
 
 Onyx Rooftop Lounge is a music venue in Washingtondc listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 1815 M St NW, Washington, DC 20036.
 
@@ -14,4 +14,4 @@ Onyx Rooftop Lounge is a music venue in Washingtondc listed on soundcheck. 1 upc
 
 1815 M St NW, Washington, DC 20036, Washington DC
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/onyx-rooftop-lounge/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/onyx-rooftop-lounge/)*

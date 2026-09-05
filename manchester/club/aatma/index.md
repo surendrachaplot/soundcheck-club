@@ -1,6 +1,6 @@
 # Aatma
 
-Aatma is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Cirque De Crule" on Fri, 18 Sept 2026.
+Aatma is a music venue in Manchester with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Cirque De Crule" on Fri, 18 Sept 2026.
 
 Aatma is a music venue in Manchester listed on soundcheck. 2 upcoming nights, with line-ups including FOULMOUTH, Kazek, RaFFski and skywalka. Browse upcoming dates, start times and who's playing. 1st Floor, 14-16 Faraday St, Manchester M1 1BE.
 
@@ -15,4 +15,4 @@ Aatma is a music venue in Manchester listed on soundcheck. 2 upcoming nights, wi
 
 1st Floor, 14-16 Faraday St, Manchester M1 1BE, Manchester
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/aatma/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/aatma/)*

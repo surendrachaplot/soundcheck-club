@@ -1,6 +1,6 @@
 # Bowlcut
 
-Bowlcut is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Marquee Moon, London on Sat, 26 Sept 2026.
+Bowlcut is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Marquee Moon, London on Sat, 26 Sept 2026.
 
 Bowlcut is a disco and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Edinburgh, London and Seoul. Often billed alongside Alfaz, Zak Miller and ARLYSS. Next up: The Marquee Moon, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Bowlcut is a disco and house artist based in United Kingdom, tracked on soundche
 
 Alfaz, Zak Miller, ARLYSS
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bowlcut/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bowlcut/)*

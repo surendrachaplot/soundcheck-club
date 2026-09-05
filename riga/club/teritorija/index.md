@@ -1,14 +1,13 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 14 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "COSMO RAVE: HYPNOSES" on Fri, 4 Sept 2026.
+Teritorija is a music venue in Riga with 13 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Vinyl Pressure" on Sat, 5 Sept 2026.
 
-Teritorija is a music venue in Riga listed on soundcheck. 14 upcoming nights, with line-ups including Aniri Chan, ARRISHA, B2BBASS and DENOVA and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
+Teritorija is a music venue in Riga listed on soundcheck. 13 upcoming nights, with line-ups including Aniri Chan, ARRISHA, B2BBASS and DENOVA and 2 more. Browse upcoming dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | COSMO RAVE: HYPNOSES | Golden Habit, Ikss, UZAY |
 | Sat, 5 Sept 2026 | Vinyl Pressure | Esoniq, UZAY |
 | Fri, 11 Sept 2026 | Aniri Chan // VLAD PHANGAN | Aniri Chan, VLAD PHANGAN |
 | Sat, 12 Sept 2026 | LETRIX // ARRISHA | ARRISHA, LETRIX |
@@ -18,9 +17,10 @@ Teritorija is a music venue in Riga listed on soundcheck. 14 upcoming nights, wi
 | Sat, 19 Sept 2026 | BASS SLAUGHTER session 6 (ANGEL'S SECRET) | B2BBASS, XSYNC19, excels, keyshawty |
 | Fri, 25 Sept 2026 | Mike Discoid // Pulss | Mike Discoid, Pulss |
 | Sat, 26 Sept 2026 | Kat Kat Tat | Kat Kat Tat |
+| Fri, 9 Oct 2026 | COSMO RAVE: AROUND THE WORLD |  |
 
 ## Address
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

@@ -1,6 +1,6 @@
 # NIMAHA
 
-NIMAHA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Well Studios, Vancouver on Sat, 19 Sept 2026.
+NIMAHA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Well Studios, Vancouver on Sat, 19 Sept 2026.
 
 NIMAHA is a techno and hardcore artist tracked on soundcheck, with 26 sets logged across Vancouver. Often billed alongside The Nu Po, Behrad Tehrani and Marist. Next up: The Well Studios, Vancouver on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ NIMAHA is a techno and hardcore artist tracked on soundcheck, with 26 sets logge
 
 The Nu Po, Behrad Tehrani, Marist
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nimaha/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nimaha/)*

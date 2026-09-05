@@ -1,6 +1,6 @@
 # La Belle Angele
 
-La Belle Angele is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "10 YEARS OF NUTS: FRESHERS SPECIAL" on Fri, 11 Sept 2026.
+La Belle Angele is a music venue in Edinburgh with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "10 YEARS OF NUTS: FRESHERS SPECIAL" on Fri, 11 Sept 2026.
 
 La Belle Angele is a music venue in Edinburgh listed on soundcheck. 2 upcoming nights, with line-ups including cara hegarty, Fërb, OFFGRID and RuDi and 1 more. Browse upcoming dates, start times and who's playing. 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom.
 
@@ -15,4 +15,4 @@ La Belle Angele is a music venue in Edinburgh listed on soundcheck. 2 upcoming n
 
 11 Hasties Close, Edinburgh, EH1 1HJ, Scotland, United Kingdom, Edinburgh
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/la-belle-angele/)*

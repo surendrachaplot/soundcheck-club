@@ -1,6 +1,6 @@
 # k means
 
-k means is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
+k means is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
 
 k means is a techno and experimental artist based in Sweden, tracked on soundcheck, with 101 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 19 more. Often billed alongside i-sha, Batu and Jon K. Next up: Bermondsey Triangle, London on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ k means is a techno and experimental artist based in Sweden, tracked on soundche
 
 i-sha, Batu, Jon K
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*

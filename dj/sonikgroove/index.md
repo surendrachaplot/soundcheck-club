@@ -1,6 +1,6 @@
 # SonikGroove
 
-SonikGroove is a Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Born 2B Music Bar, Barcelona on Sat, 5 Sept 2026.
+SonikGroove is a Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Born 2B Music Bar, Barcelona on Sat, 5 Sept 2026.
 
 SonikGroove is an electronica artist tracked on soundcheck, with 9 sets logged across Amsterdam and Barcelona. Often billed alongside Better Late, Black Bombo and Carla Valenti. Next up: Born 2B Music Bar, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ SonikGroove is an electronica artist tracked on soundcheck, with 9 sets logged a
 
 Better Late, Black Bombo, Carla Valenti
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonikgroove/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonikgroove/)*

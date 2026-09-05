@@ -1,6 +1,6 @@
 # Queenie
 
-Queenie is a House and Grime artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Salon Daomé, Montreal on Fri, 25 Sept 2026.
+Queenie is a House and Grime artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Salon Daomé, Montreal on Fri, 25 Sept 2026.
 
 Queenie is a house and grime artist tracked on soundcheck, with 14 sets logged across Brighton, London, Mexicocity and Montreal and 1 more. Often billed alongside Ikävä Pii, Manga Saint Hilare and Novelist. Next up: Salon Daomé, Montreal on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Queenie is a house and grime artist tracked on soundcheck, with 14 sets logged a
 
 Ikävä Pii, Manga Saint Hilare, Novelist
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queenie/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queenie/)*

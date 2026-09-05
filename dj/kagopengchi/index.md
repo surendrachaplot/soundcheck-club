@@ -1,6 +1,6 @@
 # Kago Pengchi
 
-Kago Pengchi is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Lion Super Club, Seoul on Sat, 5 Sept 2026.
+Kago Pengchi is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Lion Super Club, Seoul on Sat, 5 Sept 2026.
 
 Kago Pengchi is a trance and progressive house artist based in South Korea, tracked on soundcheck, with 9 sets logged across Seoul. Often billed alongside Casepeat, Kataploks and M42 (1). Next up: Lion Super Club, Seoul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Kago Pengchi is a trance and progressive house artist based in South Korea, trac
 
 Casepeat, Kataploks, M42 (1)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kagopengchi/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kagopengchi/)*

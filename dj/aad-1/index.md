@@ -1,6 +1,6 @@
 # AAD (1)
 
-AAD (1) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at M7 Club, Barcelona on Sat, 5 Sept 2026.
+AAD (1) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at M7 Club, Barcelona on Sat, 5 Sept 2026.
 
 AAD (1) is a techno and electronica artist tracked on soundcheck, with 13 sets logged across Amsterdam and Barcelona. Often billed alongside DD.MATTS, EUPHORIX.bcn and Adviro. Next up: M7 Club, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ AAD (1) is a techno and electronica artist tracked on soundcheck, with 13 sets l
 
 DD.MATTS, EUPHORIX.bcn, Adviro
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aad-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aad-1/)*

@@ -1,6 +1,6 @@
 # Russ Yallop
 
-Russ Yallop is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
+Russ Yallop is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Eutopia Whs, London on Sat, 26 Sept 2026.
 
 Russ Yallop is a deep house and house artist tracked on soundcheck, with 8 sets logged across Brighton and London. Often billed alongside Alexis Raphael, Lui Florez and Neviks. Next up: Eutopia Whs, London on Sat 26 Sept.
 
@@ -24,4 +24,4 @@ Russ Yallop is a deep house and house artist tracked on soundcheck, with 8 sets 
 
 Alexis Raphael, Lui Florez, Neviks
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/russyallop/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/russyallop/)*

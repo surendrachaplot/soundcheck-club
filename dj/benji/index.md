@@ -1,6 +1,6 @@
 # Benji
 
-Benji is a House and Club artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Yan Gastro, Istanbul on Sat, 5 Sept 2026.
+Benji is a House and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Yan Gastro, Istanbul on Sat, 5 Sept 2026.
 
 Benji is a house and club artist tracked on soundcheck, with 9 sets logged across Amsterdam, Cologne, Istanbul and Mexicocity. Often billed alongside Alexander Koning, Dave Leatherman and Erick E. Next up: Yan Gastro, Istanbul on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Benji is a house and club artist tracked on soundcheck, with 9 sets logged acros
 
 Alexander Koning, Dave Leatherman, Erick E
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benji/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benji/)*

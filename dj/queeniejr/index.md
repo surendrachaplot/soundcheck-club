@@ -1,6 +1,6 @@
 # Queenie Jr
 
-Queenie Jr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Bar Datcha, Montreal on Sat, 5 Sept 2026.
+Queenie Jr is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bar Datcha, Montreal on Sat, 5 Sept 2026.
 
 Queenie Jr is a house and techno artist tracked on soundcheck, with 43 sets logged across Berlin and Montreal. Often billed alongside Flleur, Nathan Burns and Jean Pascal Groove. Next up: Bar Datcha, Montreal on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Queenie Jr is a house and techno artist tracked on soundcheck, with 43 sets logg
 
 Flleur, Nathan Burns, Jean Pascal Groove
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queeniejr/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queeniejr/)*

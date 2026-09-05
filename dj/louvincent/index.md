@@ -1,6 +1,6 @@
 # Lou Vincent
 
-Lou Vincent is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Greyhound, London on Sat, 5 Sept 2026.
+Lou Vincent is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Greyhound, London on Sat, 5 Sept 2026.
 
 Lou Vincent is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin and London. Often billed alongside Blossom Hill, DJ NORTHERN and Frank and Geoff. Next up: The Greyhound, London on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Lou Vincent is a house and electronica artist based in United Kingdom, tracked o
 
 Blossom Hill, DJ NORTHERN, Frank and Geoff
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louvincent/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/louvincent/)*

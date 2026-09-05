@@ -1,6 +1,6 @@
 # Irazu
 
-Irazu is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
+Irazu is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Tresor / Globus, Berlin on Fri, 30 Oct 2026.
 
 Irazu is a techno and industrial artist based in Spain, tracked on soundcheck, with 53 sets logged across Barcelona, Berlin, Madrid and Porto and 1 more. Often billed alongside Neurite, TKNS and HCOR. Next up: Tresor / Globus, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Irazu is a techno and industrial artist based in Spain, tracked on soundcheck, w
 
 Neurite, TKNS, HCOR
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irazu/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/irazu/)*

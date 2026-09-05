@@ -1,6 +1,6 @@
 # Hertz 헤르츠 meets: Matthew Dexter (Space÷Division, CH) at Hertz
 
-Hertz 헤르츠 meets: Matthew Dexter (Space÷Division, CH) on Sat 5 Sept, Seoul. 3 acts on the bill: Jesse You, Jimin and Matthew Dexter. Minimal and Acid. Preview the line-up and save it on soundcheck.
+Hertz 헤르츠 meets: Matthew Dexter (Space÷Division, CH) on Sat 5 Sept, Seoul. 3 acts on the bill: Jesse You, Jimin and Matthew Dexter. Acid and Minimal. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

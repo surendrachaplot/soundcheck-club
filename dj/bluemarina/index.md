@@ -1,6 +1,6 @@
 # Bluemarina
 
-Bluemarina is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
+Bluemarina is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
 
 Bluemarina is an experimental and techno artist tracked on soundcheck, with 26 sets logged across Milan, Naples, Rome and Turin. Often billed alongside Ettore Corsi, Gattonero and Hugo Sanchez. Next up: THE MAGICK BAR, Rome on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Bluemarina is an experimental and techno artist tracked on soundcheck, with 26 s
 
 Ettore Corsi, Gattonero, Hugo Sanchez
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemarina/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemarina/)*

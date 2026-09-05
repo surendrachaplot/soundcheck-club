@@ -1,6 +1,6 @@
 # Chinese Daughter
 
-Chinese Daughter is a Jungle and Garage artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Chinese Daughter is a Jungle and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Chinese Daughter is a jungle and garage artist tracked on soundcheck, with 109 sets logged across Amsterdam, Auckland, Brighton and Bristol and 14 more. Often billed alongside Benton (UK), Loefah and Darkstepper. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Chinese Daughter is a jungle and garage artist tracked on soundcheck, with 109 s
 
 Benton (UK), Loefah, Darkstepper
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinesedaughter/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinesedaughter/)*

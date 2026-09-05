@@ -1,6 +1,6 @@
 # Wig-Wam
 
-Wig-Wam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Good Room, New York City on Thu, 10 Sept 2026.
+Wig-Wam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Good Room, New York City on Thu, 10 Sept 2026.
 
 Wig-Wam is a techno and house artist tracked on soundcheck, with 30 sets logged across Newyorkcity. Often billed alongside Day Cart, Devoye and IMOGEN. Next up: Good Room, Newyorkcity on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Wig-Wam is a techno and house artist tracked on soundcheck, with 30 sets logged 
 
 Day Cart, Devoye, IMOGEN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wig-wam/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wig-wam/)*

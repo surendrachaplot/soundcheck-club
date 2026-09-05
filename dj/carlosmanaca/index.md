@@ -1,6 +1,6 @@
 # Carlos Manaça
 
-Carlos Manaça is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
+Carlos Manaça is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Wiggle Room, Toronto on Sat, 26 Sept 2026.
 
 Carlos Manaça is a tech house and techno artist based in Portugal, tracked on soundcheck, with 25 sets logged across Lisbon, Porto and Toronto. Often billed alongside Dub Tiger, Dexx and Sandro Martins. Next up: Wiggle Room, Toronto on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Carlos Manaça is a tech house and techno artist based in Portugal, tracked on s
 
 Dub Tiger, Dexx, Sandro Martins
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosmanaca/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosmanaca/)*

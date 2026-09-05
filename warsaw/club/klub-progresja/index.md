@@ -1,6 +1,6 @@
 # Klub Progresja
 
-Klub Progresja is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "AMPERS&ONE" on Wed, 16 Sept 2026.
+Klub Progresja is a music venue in Warsaw with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "AMPERS&ONE" on Wed, 16 Sept 2026.
 
 Klub Progresja is a music venue in Warsaw listed on soundcheck. 4 upcoming nights, with line-ups including ERNST (UA), Evil Activities, HI-LO and Józef Keuner and 2 more. Browse upcoming dates, start times and who's playing. Fort Wola 22, 01-258 Warszawa.
 
@@ -17,4 +17,4 @@ Klub Progresja is a music venue in Warsaw listed on soundcheck. 4 upcoming night
 
 Fort Wola 22, 01-258 Warszawa, Warsaw
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-progresja/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-progresja/)*

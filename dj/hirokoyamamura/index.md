@@ -1,6 +1,6 @@
 # Hiroko Yamamura
 
-Hiroko Yamamura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Hiroko Yamamura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Hiroko Yamamura is a techno and house artist tracked on soundcheck, with 153 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -14,6 +14,7 @@ Hiroko Yamamura is a techno and house artist tracked on soundcheck, with 153 set
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - Bassiani, Tbilisi — Sat, 15 Aug 2026
 - Burgess Park, London — Sat, 1 Aug 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
@@ -21,10 +22,9 @@ Hiroko Yamamura is a techno and house artist tracked on soundcheck, with 153 set
 - Den Anden Side, Copenhagen — Sat, 27 Jun 2026
 - Seaseaclub Barcelona, Barcelona — Thu, 18 Jun 2026
 - Cafeteria, Toronto — Sat, 13 Jun 2026
-- smartbar, Chicago — Fri, 29 May 2026
 
 ## Shares bills with
 
 Seth Troxler, Carl Craig, DJ Heather
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*

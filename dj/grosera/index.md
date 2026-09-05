@@ -1,6 +1,6 @@
 # Grosera
 
-Grosera is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Forum Bielefeld, Bielefeld on Sat, 12 Sept 2026.
+Grosera is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Forum Bielefeld, Bielefeld on Sat, 12 Sept 2026.
 
 Grosera is a techno and house artist based in Colombia, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Bielefeld and Boston and 5 more. Often billed alongside Paàl, Inverse Element and Ketzaal. Next up: Forum Bielefeld, Bielefeld on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Grosera is a techno and house artist based in Colombia, tracked on soundcheck, w
 
 Paàl, Inverse Element, Ketzaal
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grosera/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grosera/)*

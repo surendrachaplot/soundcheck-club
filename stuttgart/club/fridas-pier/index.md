@@ -1,14 +1,13 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 16 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "5 JAHRE Fridas Pier - DAY 01" on Fri, 4 Sept 2026.
+Fridas Pier is a music venue in Stuttgart with 15 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "5 JAHRE Fridas Pier - DAY 02" on Sat, 5 Sept 2026.
 
-Fridas Pier is a music venue in Stuttgart listed on soundcheck. 16 upcoming nights, with line-ups including A.D.H.S., Alex Kassian, Analog Crystal and Andreas Henneberg and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
+Fridas Pier is a music venue in Stuttgart listed on soundcheck. 15 upcoming nights, with line-ups including Alex Kassian, Analog Crystal, Andreas Henneberg and Andre Winter and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | 5 JAHRE Fridas Pier - DAY 01 | A.D.H.S., Bjørnson, DIXI, Joyhauser, Louv, Nick Hurton, Schrotthagen |
 | Sat, 5 Sept 2026 | 5 JAHRE Fridas Pier - DAY 02 | Analog Crystal, Andreas Henneberg, DIEGÖ, ELIF, Gregor Tresher, Karotte, Kollektiv Turmstrasse, Marius Lehnert, Masedia, Mela Q, Miss Evoice, Recondite |
 | Fri, 11 Sept 2026 | PLUR day to night | LARTEK, Lukas Meunier, Nicolas Binder, the Therapy |
 | Sat, 12 Sept 2026 | PANOPTICUM HERBSTIVAL AFTERSHOW | Felix Lindner, Roman Antonov, Sabura, Thilo Who, sayuara |
@@ -18,9 +17,10 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 16 upcoming nigh
 | Sat, 26 Sept 2026 | KATER SHOWCASE | Claudius, DIEGÖ, Femcat, Mimi Love, Miss Evoice, Pauli Pocket, Sven Dohse |
 | Fri, 9 Oct 2026 | LAKEWAVE pres. Teenage Mutants | Bjørnson, Nika (2), Sayuri (1), Teenage Mutants |
 | Fri, 16 Oct 2026 | WYLDHEARTS | BabaBass3000, DjRundfunk, Nachtwasser, SUITSIDE |
+| Sat, 17 Oct 2026 | Ritter Butzke X Herz&Seele | Prismode, Solee, Solvane, Super Flu, Wanda Wild |
 
 ## Address
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

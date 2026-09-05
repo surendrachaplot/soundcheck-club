@@ -1,6 +1,6 @@
 # Bestrawa
 
-Bestrawa is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Culture Box, Copenhagen on Fri, 30 Oct 2026.
+Bestrawa is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Culture Box, Copenhagen on Fri, 30 Oct 2026.
 
 Bestrawa is a techno and trance artist tracked on soundcheck, with 13 sets logged across Copenhagen and Newyorkcity. Often billed alongside FA999, Kardinal Bertram and DJ 2LATE. Next up: Culture Box, Copenhagen on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bestrawa is a techno and trance artist tracked on soundcheck, with 13 sets logge
 
 FA999, Kardinal Bertram, DJ 2LATE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bestrawa/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bestrawa/)*

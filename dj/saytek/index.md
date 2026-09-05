@@ -1,6 +1,6 @@
 # Saytek
 
-Saytek is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at M.O.T, London on Thu, 17 Sept 2026.
+Saytek is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at M.O.T, London on Thu, 17 Sept 2026.
 
 Saytek is a techno and house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 12 more. Often billed alongside Rene Oldenburg, Somaphon and Dr. Motte. Next up: M.O.T, London on Thu 17 Sept.
 
@@ -27,4 +27,4 @@ Saytek is a techno and house artist based in United Kingdom, tracked on soundche
 
 Rene Oldenburg, Somaphon, Dr. Motte
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saytek/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saytek/)*

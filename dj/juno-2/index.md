@@ -1,6 +1,6 @@
 # Juno (NY)
 
-Juno (NY) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Podlasie Club, Chicago on Fri, 11 Sept 2026.
+Juno (NY) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Podlasie Club, Chicago on Fri, 11 Sept 2026.
 
 Juno (NY) is a techno and house artist tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Chicago and Cologne and 4 more. Often billed alongside LINDA (US), KYRUH and 1morning. Next up: Podlasie Club, Chicago on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Juno (NY) is a techno and house artist tracked on soundcheck, with 35 sets logge
 
 LINDA (US), KYRUH, 1morning
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*

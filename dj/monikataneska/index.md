@@ -1,6 +1,6 @@
 # Monika Taneska
 
-Monika Taneska is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Strange Brew, Bristol on Fri, 25 Sept 2026.
+Monika Taneska is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Strange Brew, Bristol on Fri, 25 Sept 2026.
 
 Monika Taneska is a techno and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Bristol and London. Often billed alongside Forever, A For Alpha and Ollie Kirk. Next up: Strange Brew, Bristol on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Monika Taneska is a techno and house artist based in United Kingdom, tracked on 
 
 Forever, A For Alpha, Ollie Kirk
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monikataneska/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/monikataneska/)*

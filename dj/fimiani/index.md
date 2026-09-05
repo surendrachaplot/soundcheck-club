@@ -1,6 +1,6 @@
 # FIMIANI
 
-FIMIANI is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Jaeger, Oslo on Fri, 11 Sept 2026.
+FIMIANI is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Jaeger, Oslo on Fri, 11 Sept 2026.
 
 FIMIANI is a house and italo disco artist tracked on soundcheck, with 38 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Kapote, Sam Ruffillo and Stump Valley. Next up: Jaeger, Oslo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ FIMIANI is a house and italo disco artist tracked on soundcheck, with 38 sets lo
 
 Kapote, Sam Ruffillo, Stump Valley
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fimiani/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fimiani/)*

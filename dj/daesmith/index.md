@@ -1,6 +1,6 @@
 # Daesmith
 
-Daesmith is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
+Daesmith is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
 
 Daesmith is a house and progressive house artist based in Hungary, tracked on soundcheck, with 9 sets logged across Amsterdam, Budapest and Zurich. Often billed alongside Kostya Outta, Peter Makto and AANN. Next up: The Flying Dutchman Café, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Daesmith is a house and progressive house artist based in Hungary, tracked on so
 
 Kostya Outta, Peter Makto, AANN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daesmith/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daesmith/)*

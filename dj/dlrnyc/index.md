@@ -1,13 +1,14 @@
 # DLR (nyc)
 
-DLR (nyc) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+DLR (nyc) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Outer Heaven, New York City on Sat, 26 Sept 2026.
 
-DLR (nyc) is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Newyorkcity. Often billed alongside Armii1n, Choukroun and Kenia. Next up: TBA - East Williamsburg, Newyorkcity on Sat 31 Oct.
+DLR (nyc) is a house and techno artist based in United States of America, tracked on soundcheck, with 36 sets logged across Newyorkcity. Often billed alongside Armii1n, Choukroun and Kenia. Next up: Outer Heaven, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Outer Heaven | New York City |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ DLR (nyc) is a house and techno artist based in United States of America, tracke
 
 Armii1n, Choukroun, Kenia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlrnyc/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlrnyc/)*

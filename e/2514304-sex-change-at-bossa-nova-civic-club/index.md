@@ -1,6 +1,6 @@
 # SEX CHANGE at Bossa Nova Civic Club
 
-SEX CHANGE at Bossa Nova Civic Club on Sat 19 Sept, Newyorkcity. 2 acts on the bill: BLAIZE and SEXINCHURCH. Techno and Club. Preview the line-up and save it on soundcheck.
+SEX CHANGE at Bossa Nova Civic Club on Sat 19 Sept, Newyorkcity. 5 acts on the bill: ASL Princess, BLAIZE, kuntress and Mr. Bitch and 1 more. Techno and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,10 @@ SEX CHANGE at Bossa Nova Civic Club on Sat 19 Sept, Newyorkcity. 2 acts on the b
 
 ## Line-up
 
+- ASL Princess
 - BLAIZE
+- kuntress
+- Mr. Bitch
 - SEXINCHURCH
 
 *Source: [soundcheck](https://soundcheck.club/e/2514304-sex-change-at-bossa-nova-civic-club/)*

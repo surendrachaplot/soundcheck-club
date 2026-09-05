@@ -1,6 +1,6 @@
 # Kaytranada
 
-Kaytranada is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
+Kaytranada is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at FS., Tokyo on Fri, 25 Sept 2026.
 
 Kaytranada is a house and r&b artist tracked on soundcheck, with 63 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 25 more. Often billed alongside Justice, Disclosure and SG Lewis. Next up: FS., Tokyo on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Kaytranada is a house and r&b artist tracked on soundcheck, with 63 sets logged 
 
 Justice, Disclosure, SG Lewis
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*

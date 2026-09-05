@@ -1,19 +1,19 @@
 # RenzNiro
 
-RenzNiro is a Experimental and Grime artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mayhem, Copenhagen on Fri, 4 Sept 2026.
+RenzNiro is a Experimental and Grime artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at 8MM, Berlin on Thu, 10 Sept 2026.
 
-RenzNiro is an experimental and grime artist tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Copenhagen and London and 3 more. Often billed alongside Ship Sket, iced lattina and Adele Tondu. Next up: Mayhem, Copenhagen on Fri 4 Sept.
+RenzNiro is an experimental and grime artist tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Copenhagen and London and 3 more. Often billed alongside Ship Sket, iced lattina and Adele Tondu. Next up: 8MM, Berlin on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Mayhem | Copenhagen |
 | Thu, 10 Sept 2026 | 8MM | Berlin |
 | Wed, 23 Sept 2026 | The Greyhound | London |
 
 ## Recently played
 
+- Mayhem, Copenhagen — Fri, 4 Sept 2026
 - The Golden Lion, Manchester — Sat, 1 Aug 2026
 - The White Hotel, Manchester — Mon, 6 Jul 2026
 - Ormside Projects, London — Thu, 2 Jul 2026
@@ -21,10 +21,9 @@ RenzNiro is an experimental and grime artist tracked on soundcheck, with 18 sets
 - renae, Manchester — Sat, 21 Mar 2026
 - Ormside Projects, London — Thu, 27 Nov 2025
 - The Stoller Hall, Manchester — Fri, 21 Nov 2025
-- Cafe OTO, London — Tue, 2 Sept 2025
 
 ## Shares bills with
 
 Ship Sket, iced lattina, Adele Tondu
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renzniro/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renzniro/)*

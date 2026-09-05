@@ -1,6 +1,6 @@
 # IZA (6)
 
-IZA (6) is a Drum & Bass and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Cassiopeia, Berlin on Fri, 18 Sept 2026.
+IZA (6) is a Drum & Bass and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Cassiopeia, Berlin on Fri, 18 Sept 2026.
 
 IZA (6) is a drum & bass and hardcore artist tracked on soundcheck, with 6 sets logged across Berlin and Copenhagen. Often billed alongside Upzet, Anna Hoeber and Aynaet. Next up: Cassiopeia, Berlin on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ IZA (6) is a drum & bass and hardcore artist tracked on soundcheck, with 6 sets 
 
 Upzet, Anna Hoeber, Aynaet
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-6/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-6/)*

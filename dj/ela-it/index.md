@@ -1,6 +1,6 @@
 # E L A
 
-E L A is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
+E L A is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Panke, Berlin on Thu, 24 Sept 2026.
 
 E L A is a techno and ambient artist tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Lyon and Madrid and 4 more. Often billed alongside Biocym, Luca Scarpa and Philip Kylberg. Next up: Panke, Berlin on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ E L A is a techno and ambient artist tracked on soundcheck, with 14 sets logged 
 
 Biocym, Luca Scarpa, Philip Kylberg
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ela-it/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ela-it/)*

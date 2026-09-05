@@ -1,6 +1,6 @@
 # Crazy Sonic
 
-Crazy Sonic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Macarena Club, Barcelona on Fri, 11 Sept 2026.
+Crazy Sonic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Macarena Club, Barcelona on Fri, 11 Sept 2026.
 
 Crazy Sonic is a techno and house artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Stuttgart and Vienna. Often billed alongside Albin Brezlan, DANBERG and Relinquo. Next up: Macarena Club, Barcelona on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Crazy Sonic is a techno and house artist tracked on soundcheck, with 41 sets log
 
 Albin Brezlan, DANBERG, Relinquo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazysonic/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazysonic/)*

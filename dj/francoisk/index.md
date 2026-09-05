@@ -1,6 +1,6 @@
 # Francois K
 
-Francois K is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Locust Grove, New York City on Sat, 5 Sept 2026.
+Francois K is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Locust Grove, New York City on Sat, 5 Sept 2026.
 
 Francois K is a house and disco artist based in United States of America, tracked on soundcheck, with 114 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Joe Claussell, Danny Krivit and Body & Soul. Next up: Locust Grove, Newyorkcity on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Francois K is a house and disco artist based in United States of America, tracke
 
 Joe Claussell, Danny Krivit, Body & Soul
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*

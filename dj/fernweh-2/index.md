@@ -1,6 +1,6 @@
 # Fernweh (2)
 
-Fernweh (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Gallery, London on Fri, 30 Oct 2026.
+Fernweh (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Gallery, London on Fri, 30 Oct 2026.
 
 Fernweh (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 12 sets logged across London. Often billed alongside Alythia Kwan, MARIUS SEBASTIAN and MEAKIN. Next up: Gallery, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Fernweh (2) is a techno and trance artist based in Germany, tracked on soundchec
 
 Alythia Kwan, MARIUS SEBASTIAN, MEAKIN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernweh-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fernweh-2/)*

@@ -1,6 +1,6 @@
 # SOULFULTIZ
 
-SOULFULTIZ is a Amapiano and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Commune, Liverpool on Fri, 2 Oct 2026.
+SOULFULTIZ is a Amapiano and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Commune, Liverpool on Fri, 2 Oct 2026.
 
 SOULFULTIZ is an amapiano and afrobeats artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Liverpool. Often billed alongside Amber Rose, yeahitsrenee and Dance for Plants. Next up: Commune, Liverpool on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SOULFULTIZ is an amapiano and afrobeats artist based in United Kingdom, tracked 
 
 Amber Rose, yeahitsrenee, Dance for Plants
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfultiz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfultiz/)*

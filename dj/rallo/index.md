@@ -1,6 +1,6 @@
 # Rallo
 
-Rallo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
+Rallo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
 
 Rallo is a techno and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Cologne, Frankfurt and Munich. Often billed alongside Avocado, Dave Dinger and Leon Licht. Next up: Tanzhaus West, Frankfurt on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Rallo is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Avocado, Dave Dinger, Leon Licht
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rallo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rallo/)*

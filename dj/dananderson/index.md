@@ -1,6 +1,6 @@
 # Dan Anderson
 
-Dan Anderson is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
+Dan Anderson is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Starlane Pizza Bar, London on Sat, 5 Sept 2026.
 
 Dan Anderson is a techno and tech house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Curby, IZZY (UK) and Mitch Barclay. Next up: Starlane Pizza Bar, London on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Dan Anderson is a techno and tech house artist based in United Kingdom, tracked 
 
 Curby, IZZY (UK), Mitch Barclay
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dananderson/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dananderson/)*

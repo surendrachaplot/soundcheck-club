@@ -1,6 +1,6 @@
 # HIKARU
 
-HIKARU is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Solfa, Tokyo on Mon, 21 Sept 2026.
+HIKARU is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Solfa, Tokyo on Mon, 21 Sept 2026.
 
 HIKARU is a house and hip-hop artist tracked on soundcheck, with 71 sets logged across Kyoto, Losangeles and Tokyo. Often billed alongside MICO, nosuke and LoversOnly. Next up: Solfa, Tokyo on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ HIKARU is a house and hip-hop artist tracked on soundcheck, with 71 sets logged 
 
 MICO, nosuke, LoversOnly
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hikaru/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hikaru/)*

@@ -1,15 +1,14 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 23 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Madam by Night invites: VELVET" on Fri, 4 Sept 2026.
+Madam is a music venue in Amsterdam with 22 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Madam by Night invites: Basics Recording" on Sat, 5 Sept 2026.
 
-Madam is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, with line-ups including Aline Rocha, andela, Artslaves and BIG-T and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
+Madam is a music venue in Amsterdam listed on soundcheck. 22 upcoming nights, with line-ups including Aline Rocha, andela, Artslaves and BIG-T and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Madam by Night invites: VELVET | Lidia Lo, Sanne Dammers, Tania Moon |
-| Sat, 5 Sept 2026 | Madam by Night invites: Basics Recording | Heritage Listed, Le Hutin, Mona Bone |
+| Sat, 5 Sept 2026 | Madam by Night invites: Basics Recording | Heritage Listed, Le Hutin, Mona Bone, da Graca Brothers |
 | Fri, 11 Sept 2026 | Madam by Night invites: Dirk Schot b2b Alan Luna b2b Mike van Duuren | Dirk Schot |
 | Sat, 12 Sept 2026 | Madam by Night invites: WE ARE ICONYC | Nico Morano |
 | Fri, 18 Sept 2026 | Madam by Night invites: Silven invites | Chris Di Perri, PERFECT TIMING, Silven |
@@ -18,9 +17,10 @@ Madam is a music venue in Amsterdam listed on soundcheck. 23 upcoming nights, wi
 | Sat, 26 Sept 2026 | Madam by Night invites: Guerrilla | Nitefield |
 | Fri, 2 Oct 2026 | Madam by Night invites: LABELS. presents: Unnamed & Unknown | Gino Da Koda, Sanne Dammers |
 | Sat, 3 Oct 2026 | Madam by Night invites: Sooze | BIG-T, Midas Field, TA AM, Yoffi |
+| Fri, 9 Oct 2026 | Madam by Night invites: RED 87 b2b Project 89 (all night) | Project89 |
 
 ## Address
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

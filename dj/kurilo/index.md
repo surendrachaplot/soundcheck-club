@@ -1,6 +1,6 @@
 # Kurilo
 
-Kurilo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at H0L0, New York City on Sat, 5 Sept 2026.
+Kurilo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at H0L0, New York City on Sat, 5 Sept 2026.
 
 Kurilo is a house and techno artist tracked on soundcheck, with 118 sets logged across Berlin, Boston, Detroit and Losangeles and 7 more. Often billed alongside J. Richards, Mazko A and CAMILLA. Next up: H0L0, Newyorkcity on Sat 5 Sept.
 
@@ -29,4 +29,4 @@ Kurilo is a house and techno artist tracked on soundcheck, with 118 sets logged 
 
 J. Richards, Mazko A, CAMILLA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*

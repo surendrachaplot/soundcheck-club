@@ -1,6 +1,6 @@
 # Kaikaina
 
-Kaikaina is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at export, Rotterdam on Sat, 19 Sept 2026.
+Kaikaina is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at export, Rotterdam on Sat, 19 Sept 2026.
 
 Kaikaina is a techno and ghetto tech artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Rotterdam and Thehague. Often billed alongside CyberFairy777, DAMN DANIEL and Seven Angels. Next up: export, Rotterdam on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Kaikaina is a techno and ghetto tech artist based in Netherlands, tracked on sou
 
 CyberFairy777, DAMN DANIEL, Seven Angels
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikaina/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikaina/)*

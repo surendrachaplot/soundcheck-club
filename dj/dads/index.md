@@ -1,6 +1,6 @@
 # DADs
 
-DADs is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Little Buildings, Newcastle on Fri, 11 Sept 2026.
+DADs is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Little Buildings, Newcastle on Fri, 11 Sept 2026.
 
 DADs is a bass and garage artist tracked on soundcheck, with 18 sets logged across London and Newcastle. Often billed alongside Alousea, Aveun and CRWLY. Next up: Little Buildings, Newcastle on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DADs is a bass and garage artist tracked on soundcheck, with 18 sets logged acro
 
 Alousea, Aveun, CRWLY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dads/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dads/)*

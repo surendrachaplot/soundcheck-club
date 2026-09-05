@@ -1,6 +1,6 @@
 # Angelo Cortines
 
-Angelo Cortines is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Switch Bar, Barcelona on Sat, 5 Sept 2026.
+Angelo Cortines is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Switch Bar, Barcelona on Sat, 5 Sept 2026.
 
 Angelo Cortines is a house and electro artist tracked on soundcheck, with 37 sets logged across Barcelona. Often billed alongside Zedlav, max brachais and Alice Youngling. Next up: Switch Bar, Barcelona on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Angelo Cortines is a house and electro artist tracked on soundcheck, with 37 set
 
 Zedlav, max brachais, Alice Youngling
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelocortines/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelocortines/)*

@@ -1,6 +1,6 @@
 # Baalti
 
-Baalti is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Colour Factory, London on Sat, 5 Sept 2026.
+Baalti is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Colour Factory, London on Sat, 5 Sept 2026.
 
 Baalti is a house and bass artist tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Berlin and Brisbane and 19 more. Often billed alongside Seb Wildblood, Tom VR and Ahadadream. Next up: Colour Factory, London on Sat 5 Sept.
 
@@ -28,4 +28,4 @@ Baalti is a house and bass artist tracked on soundcheck, with 59 sets logged acr
 
 Seb Wildblood, Tom VR, Ahadadream
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baalti/)*

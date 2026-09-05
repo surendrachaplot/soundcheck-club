@@ -1,6 +1,6 @@
 # Vincent Lemieux
 
-Vincent Lemieux is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Le Bar Baby, Montreal on Sun, 6 Sept 2026.
+Vincent Lemieux is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Le Bar Baby, Montreal on Sun, 6 Sept 2026.
 
 Vincent Lemieux is a house and techno artist tracked on soundcheck, with 52 sets logged across Berlin, Boston, Detroit and Istanbul and 9 more. Often billed alongside Flabbergast, Guillaume & The Coutu Dumonts and Ohm Hourani. Next up: Le Bar Baby, Montreal on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Vincent Lemieux is a house and techno artist tracked on soundcheck, with 52 sets
 
 Flabbergast, Guillaume & The Coutu Dumonts, Ohm Hourani
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentlemieux/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentlemieux/)*

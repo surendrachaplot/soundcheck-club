@@ -1,6 +1,6 @@
 # Dru Ruiz
 
-Dru Ruiz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+Dru Ruiz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
 Dru Ruiz is a techno and house artist tracked on soundcheck, with 143 sets logged across Chicago, Detroit, Newyorkcity and Washingtondc. Often billed alongside DJ Hyperactive, Garrison XR and Augustus Williams. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Dru Ruiz is a techno and house artist tracked on soundcheck, with 143 sets logge
 
 DJ Hyperactive, Garrison XR, Augustus Williams
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/druruiz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/druruiz/)*

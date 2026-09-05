@@ -1,6 +1,6 @@
 # Roni Amitai
 
-Roni Amitai is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
+Roni Amitai is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Kater, Berlin on Fri, 11 Sept 2026.
 
 Roni Amitai is a house and techno artist tracked on soundcheck, with 21 sets logged across Berlin, Detroit, London and Losangeles and 2 more. Often billed alongside Casimir von Oettingen, Hilu and Coco. Next up: Kater, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Roni Amitai is a house and techno artist tracked on soundcheck, with 21 sets log
 
 Casimir von Oettingen, Hilu, Coco
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roniamitai/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roniamitai/)*

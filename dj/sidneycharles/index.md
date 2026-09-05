@@ -1,6 +1,6 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Sidney Charles is a House and Tech House artist with 18 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Sidney Charles is a house and tech house artist tracked on soundcheck, with 217 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and L.P. Rhythm. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -9,7 +9,6 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 217 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Fri, 4 Sept 2026 | Floyd | Miami |
 | Sun, 6 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | fabric | London |
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
@@ -20,20 +19,21 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 217 
 | Sun, 27 Sept 2026 | 528 Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
+| Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
+- Floyd, Miami — Fri, 4 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - [UNVRS], Ibiza — Wed, 26 Aug 2026
 - Amnesia Ibiza, Ibiza — Thu, 20 Aug 2026
 - Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
 - Amnesia Ibiza, Ibiza — Sun, 9 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Son Fusteret, Mallorca — Sat, 1 Aug 2026
-- Amnesia Ibiza, Ibiza — Thu, 30 Jul 2026
 
 ## Shares bills with
 
 Prunk, ALISHA, L.P. Rhythm
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

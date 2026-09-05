@@ -1,6 +1,6 @@
 # ESTER.
 
-ESTER. is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 5 Sept 2026.
+ESTER. is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ankali & Planeta Za, Prague on Sat, 5 Sept 2026.
 
 ESTER. is a techno and ebm artist tracked on soundcheck, with 25 sets logged across Brussels, Budapest, Paris and Prague and 2 more. Often billed alongside Raphael Kosmos, Trauma (CZ) and AVHD. Next up: Ankali & Planeta Za, Prague on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ ESTER. is a techno and ebm artist tracked on soundcheck, with 25 sets logged acr
 
 Raphael Kosmos, Trauma (CZ), AVHD
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ester-it/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ester-it/)*

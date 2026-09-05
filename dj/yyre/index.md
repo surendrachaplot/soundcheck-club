@@ -1,8 +1,8 @@
 # Yyre
 
-Yyre is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at The Bag Factory, Manchester on Sat, 12 Sept 2026.
+Yyre is a Jungle and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Bag Factory, Manchester on Sat, 12 Sept 2026.
 
-Yyre is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside FKA Hardcore, Princess Elf Bar and FOULMOUTH. Next up: The Bag Factory, Manchester on Sat 12 Sept.
+Yyre is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside FKA Hardcore, Princess Elf Bar and FOULMOUTH. Next up: The Bag Factory, Manchester on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Yyre is a jungle and hardcore artist based in United Kingdom, tracked on soundch
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Bag Factory | Manchester |
 | Fri, 18 Sept 2026 | Plot 22 | Sheffield |
+| Sat, 26 Sept 2026 | Gut Level | Sheffield |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Yyre is a jungle and hardcore artist based in United Kingdom, tracked on soundch
 
 FKA Hardcore, Princess Elf Bar, FOULMOUTH
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yyre/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yyre/)*

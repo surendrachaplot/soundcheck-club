@@ -1,6 +1,6 @@
 # Schacke
 
-Schacke is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA - Secret Warehouse, Paris on Sat, 5 Sept 2026.
+Schacke is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Secret Warehouse, Paris on Sat, 5 Sept 2026.
 
 Schacke is a techno and trance artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: TBA - Secret Warehouse, Paris on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Schacke is a techno and trance artist tracked on soundcheck, with 186 sets logge
 
 Peachlyfe, Vixen, Mohajer
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*

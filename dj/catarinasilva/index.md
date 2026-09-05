@@ -1,6 +1,6 @@
 # Catarina Silva
 
-Catarina Silva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at 5A, Lisbon on Sat, 5 Sept 2026.
+Catarina Silva is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 5A, Lisbon on Sat, 5 Sept 2026.
 
 Catarina Silva is a techno and house artist based in Portugal, tracked on soundcheck, with 58 sets logged across Berlin, Lisbon, Porto and Washingtondc. Often billed alongside MARRØN, Amulador and Brusca. Next up: 5A, Lisbon on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Catarina Silva is a techno and house artist based in Portugal, tracked on soundc
 
 MARRØN, Amulador, Brusca
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catarinasilva/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catarinasilva/)*

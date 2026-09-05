@@ -1,14 +1,13 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at FOLD, London on Fri, 4 Sept 2026.
+Rene Wise is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Open Ground, Wuppertal on Sat, 12 Sept 2026.
 
-Rene Wise is a techno and house artist tracked on soundcheck, with 246 sets logged across Amsterdam, Athens, Austin and Barcelona and 71 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: FOLD, London on Fri 4 Sept.
+Rene Wise is a techno and house artist tracked on soundcheck, with 246 sets logged across Amsterdam, Athens, Austin and Barcelona and 71 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: Open Ground, Wuppertal on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | FOLD | London |
 | Sat, 12 Sept 2026 | Open Ground | Wuppertal |
 | Fri, 18 Sept 2026 | essaim | Paris |
 | Sat, 19 Sept 2026 | SMUT Athens | Athens |
@@ -20,9 +19,11 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 246 sets logg
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
+| Fri, 30 Oct 2026 | Flash | Washington DC |
 
 ## Recently played
 
+- FOLD, London — Fri, 4 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam — Fri, 7 Aug 2026
@@ -30,10 +31,9 @@ Rene Wise is a techno and house artist tracked on soundcheck, with 246 sets logg
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - RADION, Amsterdam — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Blasha & Allatt, MARRØN, Ogazón
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

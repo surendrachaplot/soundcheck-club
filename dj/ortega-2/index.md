@@ -1,6 +1,6 @@
 # Ortega (2)
 
-Ortega (2) is a Electro and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Barebone, Dublin on Sat, 12 Sept 2026.
+Ortega (2) is a Electro and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Barebone, Dublin on Sat, 12 Sept 2026.
 
 Ortega (2) is an electro and baile funk artist tracked on soundcheck, with 23 sets logged across Dublin, Galway, Geneva and Lyon and 1 more. Often billed alongside Noisy Chilli, E l ö and Kontronatura. Next up: Barebone, Dublin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ortega (2) is an electro and baile funk artist tracked on soundcheck, with 23 se
 
 Noisy Chilli, E l ö, Kontronatura
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ortega-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ortega-2/)*

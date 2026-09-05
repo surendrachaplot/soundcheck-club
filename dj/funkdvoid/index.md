@@ -1,6 +1,6 @@
 # Funk D'Void
 
-Funk D'Void is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 12 Sept 2026.
+Funk D'Void is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 12 Sept 2026.
 
 Funk D'Void is a house and techno artist tracked on soundcheck, with 68 sets logged across Bali, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Paul Loraine, Ralph Session and Alex Clavijo. Next up: 528 Ibiza, Ibiza on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Funk D'Void is a house and techno artist tracked on soundcheck, with 68 sets log
 
 Paul Loraine, Ralph Session, Alex Clavijo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkdvoid/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkdvoid/)*

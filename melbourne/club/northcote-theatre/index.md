@@ -1,6 +1,6 @@
 # Northcote Theatre
 
-Northcote Theatre is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Bloom" on Sat, 19 Sept 2026.
+Northcote Theatre is a music venue in Melbourne with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Bloom" on Sat, 19 Sept 2026.
 
 Northcote Theatre is a music venue in Melbourne listed on soundcheck. 3 upcoming nights, with line-ups including FAF (1), fumi (DE), Kerri Chandler and Zjoso. Browse upcoming dates, start times and who's playing. 216 High St, Northcote VIC 3070, Australia.
 
@@ -16,4 +16,4 @@ Northcote Theatre is a music venue in Melbourne listed on soundcheck. 3 upcoming
 
 216 High St, Northcote VIC 3070, Australia, Melbourne
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*

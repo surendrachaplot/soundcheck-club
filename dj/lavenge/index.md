@@ -1,6 +1,6 @@
 # Lavenge
 
-Lavenge is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Dusty Vinyl, Los Angeles on Fri, 18 Sept 2026.
+Lavenge is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Dusty Vinyl, Los Angeles on Fri, 18 Sept 2026.
 
 Lavenge is a house and tech house artist based in United States of America, tracked on soundcheck, with 126 sets logged across Losangeles and Mexicocity. Often billed alongside Max Rush, BLANC MAMBA and Tamara Lanza. Next up: Dusty Vinyl, Losangeles on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Lavenge is a house and tech house artist based in United States of America, trac
 
 Max Rush, BLANC MAMBA, Tamara Lanza
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavenge/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lavenge/)*

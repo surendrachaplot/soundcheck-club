@@ -1,6 +1,6 @@
 # essi
 
-essi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Xanadu, New York City on Sat, 5 Sept 2026.
+essi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Xanadu, New York City on Sat, 5 Sept 2026.
 
 essi is a techno and house artist based in Belgium, tracked on soundcheck, with 21 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside AliA, seja (1) and DJ Rino. Next up: Xanadu, Newyorkcity on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ essi is a techno and house artist based in Belgium, tracked on soundcheck, with 
 
 AliA, seja (1), DJ Rino
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/essi/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/essi/)*

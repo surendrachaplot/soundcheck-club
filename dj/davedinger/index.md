@@ -1,6 +1,6 @@
 # Dave Dinger
 
-Dave Dinger is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
+Dave Dinger is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
 
 Dave Dinger is a techno and house artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside Avocado, Leon Licht and Rallo. Next up: Tanzhaus West, Frankfurt on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ Dave Dinger is a techno and house artist based in Germany, tracked on soundcheck
 
 Avocado, Leon Licht, Rallo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davedinger/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davedinger/)*

@@ -1,6 +1,6 @@
 # ALEXIS DE LA ROSA
 
-ALEXIS DE LA ROSA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Club Rawhide, New York City on Sat, 12 Sept 2026.
+ALEXIS DE LA ROSA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Club Rawhide, New York City on Sat, 12 Sept 2026.
 
 ALEXIS DE LA ROSA is a house and techno artist based in United States of America, tracked on soundcheck, with 63 sets logged across Mexicocity and Newyorkcity. Often billed alongside Sterling Juan Diaz, MORENXXX and Leonce. Next up: Club Rawhide, Newyorkcity on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ ALEXIS DE LA ROSA is a house and techno artist based in United States of America
 
 Sterling Juan Diaz, MORENXXX, Leonce
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisdelarosa/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexisdelarosa/)*

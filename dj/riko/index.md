@@ -1,6 +1,6 @@
 # Riko
 
-Riko is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Koara, Tokyo on Sat, 5 Sept 2026.
+Riko is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Koara, Tokyo on Sat, 5 Sept 2026.
 
 Riko is a house and disco artist based in Italy, tracked on soundcheck, with 6 sets logged across Kyoto, London, Saopaulo and Tokyo. Often billed alongside DJ Shota Funada, Rina Sakai and TKS1T. Next up: Koara, Tokyo on Sat 5 Sept.
 
@@ -22,4 +22,4 @@ Riko is a house and disco artist based in Italy, tracked on soundcheck, with 6 s
 
 DJ Shota Funada, Rina Sakai, TKS1T
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riko/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riko/)*

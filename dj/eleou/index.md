@@ -1,6 +1,6 @@
 # Eleou
 
-Eleou is a IDM and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at MAD Radio NYC, New York City on Sun, 6 Sept 2026.
+Eleou is a IDM and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at MAD Radio NYC, New York City on Sun, 6 Sept 2026.
 
 Eleou is an idm and house artist based in United States of America, tracked on soundcheck, with 29 sets logged across Athens, Barcelona, Brussels and Miami and 3 more. Often billed alongside True Vine, Bort and Ostara. Next up: MAD Radio NYC, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Eleou is an idm and house artist based in United States of America, tracked on s
 
 True Vine, Bort, Ostara
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleou/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleou/)*

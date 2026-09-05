@@ -1,6 +1,6 @@
 # Remy Unger
 
-Remy Unger is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Strandpaviljoen De Staat, The Hague on Sat, 26 Sept 2026.
+Remy Unger is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Strandpaviljoen De Staat, The Hague on Sat, 26 Sept 2026.
 
 Remy Unger is a techno and acid artist based in Netherlands, tracked on soundcheck, with 53 sets logged across Amsterdam, Ghent, Rotterdam and Thehague and 1 more. Often billed alongside Alexander Koning, Lucien Foort and Erick E. Next up: Strandpaviljoen De Staat, Thehague on Sat 26 Sept.
 
@@ -27,4 +27,4 @@ Remy Unger is a techno and acid artist based in Netherlands, tracked on soundche
 
 Alexander Koning, Lucien Foort, Erick E
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remyunger/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/remyunger/)*

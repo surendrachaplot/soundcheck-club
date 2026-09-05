@@ -1,6 +1,6 @@
 # Marsolo
 
-Marsolo is a House and Tech House artist with 20 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Marsolo is a House and Tech House artist with 19 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Marsolo is a house and tech house artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 36 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -9,7 +9,6 @@ Marsolo is a house and tech house artist tracked on soundcheck, with 160 sets lo
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Fri, 4 Sept 2026 | StereoBar | Montreal |
 | Sat, 5 Sept 2026 | TBA - Warehouse | Denver |
 | Sun, 6 Sept 2026 | Spybar | Chicago |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
@@ -20,20 +19,21 @@ Marsolo is a house and tech house artist tracked on soundcheck, with 160 sets lo
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 9 Oct 2026 | Mint XL | Leeds |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
+| Fri, 16 Oct 2026 | Elsewhere | New York City |
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
+- StereoBar, Montreal — Fri, 4 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Hï Ibiza, Ibiza — Sat, 22 Aug 2026
 - Magazine Open–Air, London — Sat, 15 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
-- Colorado Charlie, The Hague — Sat, 8 Aug 2026
-- Pacha Ibiza, Ibiza — Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Jamback, Josh Baker, L.P. Rhythm
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*

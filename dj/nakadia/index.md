@@ -1,18 +1,18 @@
 # Nakadia
 
-Nakadia is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at KitKatClub, Berlin on Fri, 4 Sept 2026.
+Nakadia is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
-Nakadia is a techno and tech house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Bali and 28 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: KitKatClub, Berlin on Fri 4 Sept.
+Nakadia is a techno and tech house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Bali and 28 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | KitKatClub | Berlin |
 | Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
 
 ## Recently played
 
+- KitKatClub, Berlin — Fri, 4 Sept 2026
 - TBA, Amsterdam — Sat, 29 Aug 2026
 - TBA - Straße des 17. Juni & Großer Stern, Berlin — Sat, 15 Aug 2026
 - Columbiahalle, Berlin — Sat, 15 Aug 2026
@@ -20,10 +20,9 @@ Nakadia is a techno and tech house artist tracked on soundcheck, with 84 sets lo
 - KitKatClub, Berlin — Fri, 1 May 2026
 - The Iron Fairies Kuala Lumpur, Kuala Lumpur — Sat, 18 Apr 2026
 - CÉ LA VI, Singapore — Sat, 11 Apr 2026
-- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sun, 5 Apr 2026
 
 ## Shares bills with
 
 Dr. Motte, Dub Tiger, James Taylor (AU)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*

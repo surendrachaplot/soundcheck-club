@@ -1,6 +1,6 @@
 # Mozey
 
-Mozey is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Mozey is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Mozey is a drum & bass and jungle artist tracked on soundcheck, with 94 sets logged across Amsterdam, Auckland, Birmingham and Boston and 27 more. Often billed alongside Kanine, Hedex and Hybrid Minds. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -27,4 +27,4 @@ Mozey is a drum & bass and jungle artist tracked on soundcheck, with 94 sets log
 
 Kanine, Hedex, Hybrid Minds
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*

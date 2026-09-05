@@ -1,18 +1,18 @@
 # White Aura
 
-White Aura is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Fuchs2, Prague on Fri, 4 Sept 2026.
+White Aura is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mystic Skatepark, Prague on Sat, 5 Sept 2026.
 
-White Aura is a techno and ambient artist based in Greece, tracked on soundcheck, with 9 sets logged across Athens and Prague. Often billed alongside Misha Jaru, aláya and MARRØN. Next up: Fuchs2, Prague on Fri 4 Sept.
+White Aura is a techno and ambient artist based in Greece, tracked on soundcheck, with 9 sets logged across Athens and Prague. Often billed alongside Misha Jaru, aláya and MARRØN. Next up: Mystic Skatepark, Prague on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Fuchs2 | Prague |
 | Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
 
 ## Recently played
 
+- Fuchs2, Prague — Fri, 4 Sept 2026
 - Ankali & Planeta Za, Prague — Sat, 24 Jan 2026
 - Twist Bar, Prague — Thu, 23 Oct 2025
 - Ankali & Planeta Za, Prague — Fri, 28 Feb 2025
@@ -25,4 +25,4 @@ White Aura is a techno and ambient artist based in Greece, tracked on soundcheck
 
 Misha Jaru, aláya, MARRØN
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whiteaura/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whiteaura/)*

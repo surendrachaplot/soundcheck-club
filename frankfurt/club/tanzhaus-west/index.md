@@ -1,6 +1,6 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 6 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "COLOURS with Kaufmann - Petrified Phoenix Showcase - Day & Night" on Sat, 5 Sept 2026.
+Tanzhaus West is a music venue in Frankfurt with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "COLOURS with Kaufmann - Petrified Phoenix Showcase - Day & Night" on Sat, 5 Sept 2026.
 
 Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 6 upcoming nights, with line-ups including Andrale, assena, Avocado and Bait and Switch and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
@@ -19,4 +19,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 6 upcoming nig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

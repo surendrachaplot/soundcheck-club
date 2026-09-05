@@ -1,6 +1,6 @@
 # Arnaud Is Dancing
 
-Arnaud Is Dancing is a Trance and Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Les Ateliers du Dahu, Nantes on Fri, 25 Sept 2026.
+Arnaud Is Dancing is a Trance and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Les Ateliers du Dahu, Nantes on Fri, 25 Sept 2026.
 
 Arnaud Is Dancing is a trance and bass artist based in France, tracked on soundcheck, with 37 sets logged across Barcelona, Basel, Berlin and Krakow and 2 more. Often billed alongside Gaya (FR), matilda (2) and Selected Dream Memories. Next up: Les Ateliers du Dahu, Nantes on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Arnaud Is Dancing is a trance and bass artist based in France, tracked on soundc
 
 Gaya (FR), matilda (2), Selected Dream Memories
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudisdancing/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arnaudisdancing/)*

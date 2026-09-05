@@ -1,6 +1,6 @@
 # Los Depressos
 
-Los Depressos is a music venue in New York City with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Sofar Sounds presents: Tesiptah 'Golos Morya' Release Show" on Sat, 5 Sept 2026.
+Los Depressos is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Sofar Sounds presents: Tesiptah 'Golos Morya' Release Show" on Sat, 5 Sept 2026.
 
 Los Depressos is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night, with line-ups including AYEGY. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Los Depressos is a music venue in Newyorkcity listed on soundcheck. 1 upcoming n
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Sofar Sounds presents: Tesiptah 'Golos Morya' Release Show | AYEGY |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/los-depressos/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/los-depressos/)*

@@ -1,6 +1,6 @@
 # salute
 
-salute is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+salute is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 salute is a house and techno artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Auckland and Austin and 54 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -20,6 +20,7 @@ salute is a house and techno artist tracked on soundcheck, with 183 sets logged 
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
 - The Concourse Project, Austin — Fri, 31 Jul 2026
 - [UNVRS], Ibiza — Thu, 16 Jul 2026
@@ -27,10 +28,9 @@ salute is a house and techno artist tracked on soundcheck, with 183 sets logged 
 - Else, Berlin — Sat, 27 Jun 2026
 - OLT Rivierenhof, Antwerp — Sat, 20 Jun 2026
 - Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
-- Zuiderpark, The Hague — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 DJ BORING, Eliza Rose, HAAi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

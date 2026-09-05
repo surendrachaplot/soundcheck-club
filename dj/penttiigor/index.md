@@ -1,6 +1,6 @@
 # Pentti Igor
 
-Pentti Igor is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Golden Gate, Berlin on Fri, 11 Sept 2026.
+Pentti Igor is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Golden Gate, Berlin on Fri, 11 Sept 2026.
 
 Pentti Igor is a house and techno artist based in Finland, tracked on soundcheck, with 26 sets logged across Athens, Barcelona, Berlin and Copenhagen and 1 more. Often billed alongside TINDRA, Manfred and 7 Levels. Next up: Golden Gate, Berlin on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Pentti Igor is a house and techno artist based in Finland, tracked on soundcheck
 
 TINDRA, Manfred, 7 Levels
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/penttiigor/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/penttiigor/)*

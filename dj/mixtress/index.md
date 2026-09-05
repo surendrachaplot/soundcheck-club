@@ -1,6 +1,6 @@
 # mixtress
 
-mixtress is a Jungle and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at radial, London on Sun, 6 Sept 2026.
+mixtress is a Jungle and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at radial, London on Sun, 6 Sept 2026.
 
 mixtress is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 124 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Ell Murphy, Bakey and Breaka. Next up: radial, London on Sun 6 Sept.
 
@@ -30,4 +30,4 @@ mixtress is a jungle and bass artist based in United Kingdom, tracked on soundch
 
 Ell Murphy, Bakey, Breaka
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixtress/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixtress/)*

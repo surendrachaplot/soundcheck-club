@@ -1,6 +1,6 @@
 # Erozion
 
-Erozion is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The Monkey Loft, Seattle on Mon, 7 Sept 2026.
+Erozion is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Monkey Loft, Seattle on Mon, 7 Sept 2026.
 
 Erozion is a house and deep house artist tracked on soundcheck, with 11 sets logged across Seattle. Often billed alongside Shaun Whitcher, Interwave Surfer and Austin R. Next up: The Monkey Loft, Seattle on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ Erozion is a house and deep house artist tracked on soundcheck, with 11 sets log
 
 Shaun Whitcher, Interwave Surfer, Austin R
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erozion/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erozion/)*

@@ -1,6 +1,6 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 15 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "♦️ DVOTION ♦️" on Tue, 15 Sept 2026.
+The Warehouse is a music venue in Leeds with 15 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "♦️ DVOTION ♦️" on Tue, 15 Sept 2026.
 
 The Warehouse is a music venue in Leeds listed on soundcheck. 15 upcoming nights, with line-ups including ATRIP, Ben Hemsley, Benwal and Big Ang and 2 more. Browse upcoming dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 15 upcoming nights
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

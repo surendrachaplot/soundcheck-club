@@ -1,6 +1,6 @@
 # Juanjo Martin
 
-Juanjo Martin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Plaza de Toros de Toledo, Madrid on Sat, 12 Sept 2026.
+Juanjo Martin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Plaza de Toros de Toledo, Madrid on Sat, 12 Sept 2026.
 
 Juanjo Martin is a house and techno artist tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Ibiza and Madrid and 1 more. Often billed alongside J.Louis, Rebeka Brown and Paco Maroto. Next up: Plaza de Toros de Toledo, Madrid on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Juanjo Martin is a house and techno artist tracked on soundcheck, with 9 sets lo
 
 J.Louis, Rebeka Brown, Paco Maroto
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanjomartin/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juanjomartin/)*

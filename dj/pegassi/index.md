@@ -1,6 +1,6 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Pegassi is a Techno and Trance artist with 17 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Pegassi is a techno and trance artist tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Helena Lauwaert, Anetha and Odymel. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -23,6 +23,7 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 170 sets logge
 
 ## Recently played
 
+- Union Park, Chicago — Fri, 4 Sept 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
@@ -30,10 +31,9 @@ Pegassi is a techno and trance artist tracked on soundcheck, with 170 sets logge
 - Exchange LA, Los Angeles — Sat, 1 Aug 2026
 - 1015 Folsom, San Francisco/Oakland — Fri, 31 Jul 2026
 - MS Artville, Hamburg — Sat, 18 Jul 2026
-- Mdlr, Singapore — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Helena Lauwaert, Anetha, Odymel
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

@@ -1,6 +1,6 @@
 # Stimming
 
-Stimming is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
+Stimming is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
 
 Stimming is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Basel, Berlin and Budapest and 17 more. Often billed alongside Arutani, Caleesi and Sarah Kreis. Next up: Holdenweid, Basel on Fri 4 Sept.
 
@@ -13,6 +13,7 @@ Stimming is a techno and house artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
+- Holdenweid, Basel — Fri, 4 Sept 2026
 - Kauz, Zurich — Fri, 29 May 2026
 - Uebel & Gefährlich, Hamburg — Sat, 20 Dec 2025
 - Kauz, Zurich — Sat, 13 Dec 2025
@@ -20,10 +21,9 @@ Stimming is a techno and house artist based in Germany, tracked on soundcheck, w
 - Studio1111, Berlin — Thu, 4 Dec 2025
 - Klangtherapie, Nürnberg — Thu, 31 Jul 2025
 - Fridas Pier, Stuttgart — Fri, 6 Jun 2025
-- Corsica Studios, London — Sat, 31 May 2025
 
 ## Shares bills with
 
 Arutani, Caleesi, Sarah Kreis
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stimming/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stimming/)*

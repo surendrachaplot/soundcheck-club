@@ -1,14 +1,13 @@
 # Ritter Butzke
 
-Ritter Butzke is a music venue in Berlin with 26 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Deeportament Community with Nico Morano (Open Air & Indoor) - Free entry until 7 PM" on Fri, 4 Sept 2026.
+Ritter Butzke is a music venue in Berlin with 25 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Giorgia Angiuli Live (Open Air) - free entry until 7pm" on Sat, 5 Sept 2026.
 
-Ritter Butzke is a music venue in Berlin listed on soundcheck. 26 upcoming nights, with line-ups including Aimé You, Aio, Alan Fitzpatrick and Aracil and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
+Ritter Butzke is a music venue in Berlin listed on soundcheck. 25 upcoming nights, with line-ups including Aimé You, Aio, Alan Fitzpatrick and Aracil and 2 more. Browse upcoming dates, start times and who's playing. Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Deeportament Community with Nico Morano (Open Air & Indoor) - Free entry until 7 PM | Bøgen, Eva Kim, Misha Svirid, Nico Morano, Stefan Muchte, Syntonos, TONI, Vlad Yaki |
 | Sat, 5 Sept 2026 | Giorgia Angiuli Live (Open Air) - free entry until 7pm | BOHO, Ele Luz, Giorgia Angiuli, Gunnar Stiller |
 | Sat, 5 Sept 2026 | Sascha Braemer | MPathy, Sascha Braemer |
 | Fri, 11 Sept 2026 | Unison with Nonchalance, DJ Sonnenbrand, JÄMO, Bambi-S, Oliviero | Bambi-S, CLARA, CLARA (FR), DJ Sonnenbrand, JÄMO, Malthès, Oliviero, TRC, TRC (3), Yasmin Gardezi |
@@ -18,9 +17,10 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 26 upcoming night
 | Sat, 26 Sept 2026 | SommerSafari | Christopher Kono, DJ Tragik, Das Amt, Dominik Eulberg, Format B, Kris Tin, Moonbootica, Wimpy |
 | Fri, 2 Oct 2026 | Keep My Letters with Guy J | Francesco Rizzi, Guy J, Hyunji-A, Tantum |
 | Sat, 3 Oct 2026 | Conrad Taylor | Conrad Taylor, Sylvie Maziarz |
+| Sat, 3 Oct 2026 | Yubik | Danca, Michael Ritter, Yubik |
 
 ## Address
 
 Ritterstrasse 26; Kreuzberg; 10969 Berlin; Germany, Berlin
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ritter-butzke/)*

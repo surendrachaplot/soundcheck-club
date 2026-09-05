@@ -1,14 +1,13 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 16 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "City Hall pres. VOID at SECRET ROOM || TECHNO SET I FREE PASS" on Fri, 4 Sept 2026.
+City Hall is a music venue in Barcelona with 15 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "City Hall pres. METODI by AQV x PÜR society x ERASER" on Sat, 5 Sept 2026.
 
-City Hall is a music venue in Barcelona listed on soundcheck. 16 upcoming nights, with line-ups including ALTRAX, Benja Millan, BRU ON and Cristian Varela and 2 more. Browse upcoming dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
+City Hall is a music venue in Barcelona listed on soundcheck. 15 upcoming nights, with line-ups including ALTRAX, Benja Millan, BRU ON and Cristian Varela and 2 more. Browse upcoming dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | City Hall pres. VOID at SECRET ROOM // TECHNO SET I FREE PASS | SZABØ |
 | Sat, 5 Sept 2026 | City Hall pres. METODI by AQV x PÜR society x ERASER | BRU ON, Benja Millan, Fat-P, Gastón quibel, Giuliano, METODI |
 | Tue, 8 Sept 2026 | City Hall pres. BOILER ROOM · DOWNLOAD YOUR FREE PASS |  |
 | Tue, 8 Sept 2026 | MABEMUSIK · SECRET ROOM · SALA 2 · HOUSE / TECH HOUSE I GET FREE PASS |  |
@@ -18,9 +17,10 @@ City Hall is a music venue in Barcelona listed on soundcheck. 16 upcoming nights
 | Sat, 12 Sept 2026 | City Hall pres. WE LOVE FRENCH TEKNO II TEKNO · ACID · TRIBE · MENTAL II DOWNLOAD FREE PASS | DIL KASHMIR |
 | Tue, 15 Sept 2026 | NALGÓTIKA at SECRET ROOM · DOWNLOAD YOUR FREE PASS |  |
 | Wed, 16 Sept 2026 | City Hall pres. NØVAROOM // Wednesday // DOWNLOAD YOUR FREE PASS | MOTORGROOVE |
+| Wed, 16 Sept 2026 | KØVA BCN at SECRET ROOM // Wednesday // DOWNLOAD YOUR FREE PASS | Jasmine Sihenne |
 
 ## Address
 
 Rambla de Catalunya, 4; 08007 Barcelona; Spain, Barcelona
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*

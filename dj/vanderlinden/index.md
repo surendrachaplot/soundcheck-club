@@ -1,6 +1,6 @@
 # Vanderlinden
 
-Vanderlinden is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Outline, Mexico City on Thu, 3 Sept 2026.
+Vanderlinden is a Reggaeton and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Outline, Mexico City on Thu, 3 Sept 2026.
 
 Vanderlinden is a reggaeton and electronica artist tracked on soundcheck, with 8 sets logged across Mexicocity. Often billed alongside ADAKEO, Avant-Garde Institute and Awa (uwu). Next up: Outline, Mexicocity on Thu 3 Sept.
 
@@ -25,4 +25,4 @@ Vanderlinden is a reggaeton and electronica artist tracked on soundcheck, with 8
 
 ADAKEO, Avant-Garde Institute, Awa (uwu)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderlinden/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderlinden/)*

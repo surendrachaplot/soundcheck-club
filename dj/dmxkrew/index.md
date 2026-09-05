@@ -1,6 +1,6 @@
 # DMX Krew
 
-DMX Krew is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 31 Oct 2026.
+DMX Krew is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 31 Oct 2026.
 
 DMX Krew is an electro and house artist tracked on soundcheck, with 93 sets logged across Amsterdam, Athens, Bali and Barcelona and 25 more. Often billed alongside Alien Communications, Andre King and DVDE. Next up: Vittoria Wharf Studio, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DMX Krew is an electro and house artist tracked on soundcheck, with 93 sets logg
 
 Alien Communications, Andre King, DVDE
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*

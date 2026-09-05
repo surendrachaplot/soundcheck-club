@@ -1,6 +1,6 @@
 # Moderna
 
-Moderna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
+Moderna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Kater, Berlin on Sat, 26 Sept 2026.
 
 Moderna is a techno and house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Berlin, Krakow, Leipzig and Losangeles and 11 more. Often billed alongside Eli Escobar, G I N A and Daisy O'Dell. Next up: Kater, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Moderna is a techno and house artist based in United States of America, tracked 
 
 Eli Escobar, G I N A, Daisy O'Dell
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moderna/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moderna/)*

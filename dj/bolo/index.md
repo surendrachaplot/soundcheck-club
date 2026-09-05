@@ -1,6 +1,6 @@
 # bolo
 
-bolo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 19 Sept 2026.
+bolo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 19 Sept 2026.
 
 bolo is a techno and house artist tracked on soundcheck, with 46 sets logged across Austin, Losangeles, Nashville and Newyorkcity and 1 more. Often billed alongside Abrew, Kobayashkn and PayoYayo. Next up: K-Bar Powiśle, Warsaw on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ bolo is a techno and house artist tracked on soundcheck, with 46 sets logged acr
 
 Abrew, Kobayashkn, PayoYayo
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*

@@ -1,6 +1,6 @@
 # DJ Brandy Melville
 
-DJ Brandy Melville is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Mood Ring, New York City on Fri, 11 Sept 2026.
+DJ Brandy Melville is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mood Ring, New York City on Fri, 11 Sept 2026.
 
 DJ Brandy Melville is a techno and tech house artist tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside Heartbreaker, zzzplz and Fefe. Next up: Mood Ring, Newyorkcity on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DJ Brandy Melville is a techno and tech house artist tracked on soundcheck, with
 
 Heartbreaker, zzzplz, Fefe
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrandymelville/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djbrandymelville/)*

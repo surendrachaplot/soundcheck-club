@@ -1,6 +1,6 @@
 # cassandrah
 
-cassandrah is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Unit 58, London on Fri, 11 Sept 2026.
+cassandrah is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Unit 58, London on Fri, 11 Sept 2026.
 
 cassandrah is a techno and industrial artist tracked on soundcheck, with 34 sets logged across Antwerp, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Rian Wood, La Penderie Noire and PARAPHER. Next up: Unit 58, London on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ cassandrah is a techno and industrial artist tracked on soundcheck, with 34 sets
 
 Rian Wood, La Penderie Noire, PARAPHER
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*

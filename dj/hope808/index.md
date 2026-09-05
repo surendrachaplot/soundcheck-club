@@ -1,6 +1,6 @@
 # Hope 808
 
-Hope 808 is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Mood Ring, New York City on Wed, 9 Sept 2026.
+Hope 808 is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Mood Ring, New York City on Wed, 9 Sept 2026.
 
 Hope 808 is a house and disco artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity. Often billed alongside James Juke, Misha Savage and Tasheff. Next up: Mood Ring, Newyorkcity on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ Hope 808 is a house and disco artist based in United States of America, tracked 
 
 James Juke, Misha Savage, Tasheff
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hope808/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hope808/)*

@@ -1,6 +1,6 @@
 # Axel Blanc
 
-Axel Blanc is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kilomètre25, Paris on Fri, 25 Sept 2026.
+Axel Blanc is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Kilomètre25, Paris on Fri, 25 Sept 2026.
 
 Axel Blanc is a house and techno artist based in France, tracked on soundcheck, with 31 sets logged across Berlin, Copenhagen, Dublin and Hamburg and 2 more. Often billed alongside P errine, CallBackSami and A.Pringle. Next up: Kilomètre25, Paris on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Axel Blanc is a house and techno artist based in France, tracked on soundcheck, 
 
 P errine, CallBackSami, A.Pringle
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axelblanc/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axelblanc/)*

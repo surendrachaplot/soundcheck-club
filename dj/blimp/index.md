@@ -1,6 +1,6 @@
 # Blimp
 
-Blimp is a Noise and Pop artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hen's Teeth, Dublin on Sat, 17 Oct 2026.
+Blimp is a Noise and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Hen's Teeth, Dublin on Sat, 17 Oct 2026.
 
 Blimp is a noise and pop artist tracked on soundcheck, with 10 sets logged across Chicago, Dublin, Newyorkcity and Sandiego and 1 more. Often billed alongside Boysinblush, J. Copes and Jaggy. Next up: Hen's Teeth, Dublin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Blimp is a noise and pop artist tracked on soundcheck, with 10 sets logged acros
 
 Boysinblush, J. Copes, Jaggy
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blimp/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blimp/)*

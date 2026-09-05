@@ -1,6 +1,6 @@
 # Shaun Banger Scott
 
-Shaun Banger Scott is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Society Leeds, Leeds on Sat, 19 Sept 2026.
+Shaun Banger Scott is a Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Society Leeds, Leeds on Sat, 19 Sept 2026.
 
 Shaun Banger Scott is a bass and garage artist tracked on soundcheck, with 10 sets logged across Leeds, Manchester and Sheffield. Often billed alongside Nastee Boi, Jamie Duggan and Big Ang. Next up: Society Leeds, Leeds on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Shaun Banger Scott is a bass and garage artist tracked on soundcheck, with 10 se
 
 Nastee Boi, Jamie Duggan, Big Ang
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunbangerscott/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunbangerscott/)*

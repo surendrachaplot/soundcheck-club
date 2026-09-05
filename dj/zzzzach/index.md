@@ -1,14 +1,15 @@
 # zzzzach
 
-zzzzach is a Club and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Le Bain, New York City on Sun, 6 Sept 2026.
+zzzzach is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Le Bain, New York City on Sun, 6 Sept 2026.
 
-zzzzach is a club and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside BABEITSPURR, CHRYSALIS and DJ Fat Frog. Next up: Le Bain, Newyorkcity on Sun 6 Sept.
+zzzzach is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside kuntress, Adelaide (1) and BABEITSPURR. Next up: Le Bain, Newyorkcity on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Le Bain | New York City |
+| Fri, 18 Sept 2026 | Hart Bar | New York City |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ zzzzach is a club and house artist based in United States of America, tracked on
 
 ## Shares bills with
 
-BABEITSPURR, CHRYSALIS, DJ Fat Frog
+kuntress, Adelaide (1), BABEITSPURR
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*

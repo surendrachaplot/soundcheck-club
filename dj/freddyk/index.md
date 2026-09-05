@@ -1,14 +1,13 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Open Ground, Wuppertal on Fri, 4 Sept 2026.
+Freddy K is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Fvtvr, Paris on Sat, 5 Sept 2026.
 
-Freddy K is a techno and house artist tracked on soundcheck, with 276 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Blasha & Allatt, Alarico and Chlär. Next up: Open Ground, Wuppertal on Fri 4 Sept.
+Freddy K is a techno and house artist tracked on soundcheck, with 276 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Blasha & Allatt, Alarico and Chlär. Next up: Fvtvr, Paris on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Open Ground | Wuppertal |
 | Sat, 5 Sept 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | TBA - Secret Location | Toronto |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
@@ -20,9 +19,11 @@ Freddy K is a techno and house artist tracked on soundcheck, with 276 sets logge
 | Fri, 16 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sat, 17 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
+| Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 
 ## Recently played
 
+- Open Ground, Wuppertal — Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 25 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
@@ -30,10 +31,9 @@ Freddy K is a techno and house artist tracked on soundcheck, with 276 sets logge
 - Else, Berlin — Sat, 1 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - The Yard, Manchester — Sat, 25 Jul 2026
-- Forte Antenne, Rome — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Alarico, Chlär
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

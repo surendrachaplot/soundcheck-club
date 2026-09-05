@@ -1,6 +1,6 @@
 # Ele Luz
 
-Ele Luz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Ritter Butzke, Berlin on Sat, 5 Sept 2026.
+Ele Luz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Ritter Butzke, Berlin on Sat, 5 Sept 2026.
 
 Ele Luz is a techno and house artist tracked on soundcheck, with 120 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 7 more. Often billed alongside Horst Haller, Leon Licht and Maurice Mino. Next up: Ritter Butzke, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Ele Luz is a techno and house artist tracked on soundcheck, with 120 sets logged
 
 Horst Haller, Leon Licht, Maurice Mino
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*

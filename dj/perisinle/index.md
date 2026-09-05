@@ -1,6 +1,6 @@
 # PERISinLE
 
-PERISinLE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA, Leipzig on Sat, 17 Oct 2026.
+PERISinLE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Leipzig on Sat, 17 Oct 2026.
 
 PERISinLE is a house and tech house artist tracked on soundcheck, with 25 sets logged across Leipzig and Munich. Often billed alongside catchycrew, Martin Young and Chris Manura. Next up: TBA, Leipzig on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ PERISinLE is a house and tech house artist tracked on soundcheck, with 25 sets l
 
 catchycrew, Martin Young, Chris Manura
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perisinle/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perisinle/)*

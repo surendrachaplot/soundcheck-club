@@ -1,6 +1,6 @@
 # Darien J
 
-Darien J is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Volks, Brighton on Fri, 18 Sept 2026.
+Darien J is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Volks, Brighton on Fri, 18 Sept 2026.
 
 Darien J is a techno and deep house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam, Brighton and London. Often billed alongside AKIVA, Acid Carbon and AllDis. Next up: Volks, Brighton on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ Darien J is a techno and deep house artist based in United Kingdom, tracked on s
 
 AKIVA, Acid Carbon, AllDis
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darienj/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darienj/)*

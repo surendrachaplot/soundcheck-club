@@ -1,6 +1,6 @@
 # KLOUD - Montréal at Newspeak
 
-KLOUD - Montréal at Newspeak on Fri 11 Sept, Montreal. 1 act on the bill: KLOUD. Techno and Electro. Preview the line-up and save it on soundcheck.
+KLOUD - Montréal at Newspeak on Fri 11 Sept, Montreal. 2 acts on the bill: DZYTHIA and KLOUD. Techno and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KLOUD - Montréal at Newspeak on Fri 11 Sept, Montreal. 1 act on the bill: KLOUD
 
 ## Line-up
 
+- DZYTHIA
 - KLOUD
 
 *Source: [soundcheck](https://soundcheck.club/e/2494635-kloud-montr-al-at-newspeak/)*

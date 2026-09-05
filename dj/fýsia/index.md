@@ -1,6 +1,6 @@
 # fýsia
 
-fýsia is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Enter Shibuya, Tokyo on Thu, 24 Sept 2026.
+fýsia is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Enter Shibuya, Tokyo on Thu, 24 Sept 2026.
 
 fýsia is a techno and minimal techno artist based in Japan, tracked on soundcheck, with 6 sets logged across Osaka and Tokyo. Often billed alongside HSC (1), Holdyourcat and OSHALEY. Next up: Enter Shibuya, Tokyo on Thu 24 Sept.
 
@@ -22,4 +22,4 @@ fýsia is a techno and minimal techno artist based in Japan, tracked on soundche
 
 HSC (1), Holdyourcat, OSHALEY
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fýsia/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fýsia/)*

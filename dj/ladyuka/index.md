@@ -1,6 +1,6 @@
 # LADY $UKA
 
-LADY $UKA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 5 Sept 2026.
+LADY $UKA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Phantom Bar Berlin, Berlin on Sat, 5 Sept 2026.
 
 LADY $UKA is a house and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin. Often billed alongside Dj handbag, Neyzen and gredeson. Next up: Phantom Bar Berlin, Berlin on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ LADY $UKA is a house and techno artist based in Germany, tracked on soundcheck, 
 
 Dj handbag, Neyzen, gredeson
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyuka/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyuka/)*

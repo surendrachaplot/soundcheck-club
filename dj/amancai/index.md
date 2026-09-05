@@ -1,6 +1,6 @@
 # Amancai
 
-Amancai is a Latin Bass and Jazz artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
+Amancai is a Latin Bass and Jazz artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
 
 Amancai is a latin bass and jazz artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside Cal Jader, Bushbby and Jamz Supernova. Next up: Colour Factory, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Amancai is a latin bass and jazz artist based in United Kingdom, tracked on soun
 
 Cal Jader, Bushbby, Jamz Supernova
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amancai/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amancai/)*

@@ -1,6 +1,6 @@
 # Fusion
 
-Fusion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 18 Sept 2026.
+Fusion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Fusion is a techno and house artist tracked on soundcheck, with 13 sets logged across Bangkok, Birmingham, Cologne and Edinburgh and 3 more. Often billed alongside DJ M3, Kara (UK) and Neev. Next up: Monarch, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Fusion is a techno and house artist tracked on soundcheck, with 13 sets logged a
 
 DJ M3, Kara (UK), Neev
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fusion/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fusion/)*

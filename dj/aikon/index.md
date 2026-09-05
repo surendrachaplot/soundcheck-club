@@ -1,6 +1,6 @@
 # AIKON
 
-AIKON is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Food Hall Browary, Warsaw on Fri, 11 Sept 2026.
+AIKON is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Food Hall Browary, Warsaw on Fri, 11 Sept 2026.
 
 AIKON is a house and afro house artist tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona, Copenhagen and Malaga and 2 more. Often billed alongside Antonsson, Claptone and Cris-H. Next up: Food Hall Browary, Warsaw on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ AIKON is a house and afro house artist tracked on soundcheck, with 6 sets logged
 
 Antonsson, Claptone, Cris-H
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aikon/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aikon/)*

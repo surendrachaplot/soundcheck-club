@@ -1,6 +1,6 @@
 # 2QUID
 
-2QUID is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Hope House, Leeds on Sat, 3 Oct 2026.
+2QUID is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Hope House, Leeds on Sat, 3 Oct 2026.
 
 2QUID is a jungle and drum & bass artist tracked on soundcheck, with 35 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 2 more. Often billed alongside Janaway, Phia500 and Samurai Breaks. Next up: Hope House, Leeds on Sat 3 Oct.
 
@@ -25,4 +25,4 @@
 
 Janaway, Phia500, Samurai Breaks
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2quid/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2quid/)*

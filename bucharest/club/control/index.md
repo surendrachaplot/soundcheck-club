@@ -1,16 +1,16 @@
 # control
 
-control is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "ctrl x King4King present: 𓆩𝙁𝙇𝙀𝙓𝙊𝙍𝙄𝘼𝙏𝙄𝙊𝙉𓆪" on Fri, 4 Sept 2026.
+control is a music venue in Bucharest with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Odotte, b0b & sEmoa" on Sat, 5 Sept 2026.
 
-control is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, with line-ups including AEREA, DAR DISKU, dragosh (RO) and Greg Downey and 1 more. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
+control is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, with line-ups including AEREA, Andreea Veder, DAR DISKU and dragosh (RO) and 2 more. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | ctrl x King4King present: 𓆩𝙁𝙇𝙀𝙓𝙊𝙍𝙄𝘼𝙏𝙄𝙊𝙉𓆪 |  |
 | Sat, 5 Sept 2026 | Odotte, b0b & sEmoa |  |
 | Fri, 11 Sept 2026 | ctrl x ICHIGO: Roger Rabbit with Shan Selby [USA], Sătănel |  |
+| Fri, 11 Sept 2026 | Walk the Night with Italo Deviance [IT], Moss Farai, Andreea Veder & Claudia | Andreea Veder, Italo Deviance, Moss Farai |
 | Fri, 25 Sept 2026 | AEREA [DE/ES] [LIVE] | AEREA |
 | Fri, 23 Oct 2026 | System Olympia [UK] | System Olympia |
 | Fri, 30 Oct 2026 | DAR DISKU [BH/UK] | DAR DISKU |
@@ -20,4 +20,4 @@ control is a music venue in Bucharest listed on soundcheck. 7 upcoming nights, w
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

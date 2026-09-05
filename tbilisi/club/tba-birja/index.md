@@ -1,6 +1,6 @@
 # TBA - BIRJA² 
 
-TBA - BIRJA²  is a music venue in Tbilisi with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "Momentum 004" on Sat, 19 Sept 2026.
+TBA - BIRJA²  is a music venue in Tbilisi with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Momentum 004" on Sat, 19 Sept 2026.
 
 TBA - BIRJA²  is a music venue in Tbilisi listed on soundcheck. 1 upcoming night, with line-ups including Morteza Minouei and Pavo seifi. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - BIRJA²  is a music venue in Tbilisi listed on soundcheck. 1 upcoming nigh
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Momentum 004 | Morteza Minouei, Pavo seifi |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/tba-birja/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/tba-birja/)*

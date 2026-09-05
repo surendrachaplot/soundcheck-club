@@ -1,6 +1,6 @@
 # ESC (5)
 
-ESC (5) is a Garage and Bass artist with 6 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at ark (Melb), Melbourne on Sat, 5 Sept 2026.
+ESC (5) is a Garage and Bass artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at ark (Melb), Melbourne on Sat, 5 Sept 2026.
 
 ESC (5) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Antwerp, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Bakey, Dr Dubplate and Prozak (IRL). Next up: ark (Melb), Melbourne on Sat 5 Sept.
 
@@ -30,4 +30,4 @@ ESC (5) is a garage and bass artist based in United Kingdom, tracked on soundche
 
 Bakey, Dr Dubplate, Prozak (IRL)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*

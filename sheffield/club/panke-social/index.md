@@ -1,6 +1,6 @@
 # Panke Social
 
-Panke Social is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Gambo FM presents ' Urban Foot Patrol '" on Sat, 12 Sept 2026.
+Panke Social is a music venue in Sheffield with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Gambo FM presents ' Urban Foot Patrol '" on Sat, 12 Sept 2026.
 
 Panke Social is a music venue in Sheffield listed on soundcheck. 4 upcoming nights, with line-ups including 1 AM (1), DJ S (UK), Special Guest (US) and Winston Hazel. Browse upcoming dates, start times and who's playing. 16 Exchange street, Sheffield, S25TR.
 
@@ -17,4 +17,4 @@ Panke Social is a music venue in Sheffield listed on soundcheck. 4 upcoming nigh
 
 16 Exchange street, Sheffield, S25TR, Sheffield
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/panke-social/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/panke-social/)*

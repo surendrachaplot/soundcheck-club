@@ -1,6 +1,6 @@
 # Patchwork
 
-Patchwork is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 12 Sept 2026.
+Patchwork is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 12 Sept 2026.
 
 Patchwork is a house and disco artist based in United States of America, tracked on soundcheck, with 17 sets logged across Boston. Often billed alongside Private Dancer, Rasaaq and Wiersma. Next up: American Legion Marsh Post #442, Boston on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Patchwork is a house and disco artist based in United States of America, tracked
 
 Private Dancer, Rasaaq, Wiersma
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patchwork/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patchwork/)*

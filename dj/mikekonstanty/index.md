@@ -1,6 +1,6 @@
 # Mike Konstanty
 
-Mike Konstanty is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Food Hall Browary, Warsaw on Fri, 11 Sept 2026.
+Mike Konstanty is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Food Hall Browary, Warsaw on Fri, 11 Sept 2026.
 
 Mike Konstanty is an afro house and house artist based in Poland, tracked on soundcheck, with 17 sets logged across Tallinn and Warsaw. Often billed alongside Kuvau, Angelo Mike and Konca. Next up: Food Hall Browary, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Mike Konstanty is an afro house and house artist based in Poland, tracked on sou
 
 Kuvau, Angelo Mike, Konca
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekonstanty/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikekonstanty/)*

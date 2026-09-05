@@ -1,6 +1,6 @@
 # AGY3NA
 
-AGY3NA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Südpol, Hamburg on Fri, 11 Sept 2026.
+AGY3NA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Südpol, Hamburg on Fri, 11 Sept 2026.
 
 AGY3NA is a house and techno artist tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Ogazón, BASHKKA and Gabrielle Kwarteng. Next up: Südpol, Hamburg on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ AGY3NA is a house and techno artist tracked on soundcheck, with 82 sets logged a
 
 Ogazón, BASHKKA, Gabrielle Kwarteng
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agy3na/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agy3na/)*

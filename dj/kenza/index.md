@@ -1,6 +1,6 @@
 # KENZA
 
-KENZA is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Kater, Berlin on Fri, 16 Oct 2026.
+KENZA is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Kater, Berlin on Fri, 16 Oct 2026.
 
 KENZA is a house and garage artist tracked on soundcheck, with 27 sets logged across Berlin, Budapest and London. Often billed alongside DJ NORTHERN, Immy and Triqi. Next up: Kater, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ KENZA is a house and garage artist tracked on soundcheck, with 27 sets logged ac
 
 DJ NORTHERN, Immy, Triqi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenza/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kenza/)*

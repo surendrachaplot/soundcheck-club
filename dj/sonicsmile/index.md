@@ -1,6 +1,6 @@
 # Sonic Smile
 
-Sonic Smile is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 11 Sept 2026.
+Sonic Smile is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 11 Sept 2026.
 
 Sonic Smile is a techno and house artist tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside tuzuRa, WAKA XINXI and Nono THING. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Sonic Smile is a techno and house artist tracked on soundcheck, with 10 sets log
 
 tuzuRa, WAKA XINXI, Nono THING
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicsmile/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicsmile/)*

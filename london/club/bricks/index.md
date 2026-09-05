@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 10 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Standard Records presents: B.Love" on Sat, 5 Sept 2026.
+Bricks is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Standard Records presents: B.Love" on Sat, 5 Sept 2026.
 
 Bricks is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Adela, AHARDS, AVANTIME and B.Love and 2 more. Browse upcoming dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -23,4 +23,4 @@ Bricks is a music venue in London listed on soundcheck. 10 upcoming nights, with
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

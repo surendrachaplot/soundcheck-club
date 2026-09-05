@@ -1,6 +1,6 @@
 # Modebaku
 
-Modebaku is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Starlane Pizza Bar, London on Sun, 20 Sept 2026.
+Modebaku is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Starlane Pizza Bar, London on Sun, 20 Sept 2026.
 
 Modebaku is a house and minimal techno artist tracked on soundcheck, with 16 sets logged across Berlin, Brighton, London and Riga and 1 more. Often billed alongside D I N, Davide Decay and LUUD. Next up: Starlane Pizza Bar, London on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Modebaku is a house and minimal techno artist tracked on soundcheck, with 16 set
 
 D I N, Davide Decay, LUUD
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modebaku/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modebaku/)*

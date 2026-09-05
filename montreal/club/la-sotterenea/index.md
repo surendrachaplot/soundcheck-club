@@ -1,6 +1,6 @@
 # La Sotterenea
 
-La Sotterenea is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Fri, 4 Sept 2026; the next is "muramur" on Sun, 20 Sept 2026.
+La Sotterenea is a music venue in Montreal with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "muramur" on Sun, 20 Sept 2026.
 
 La Sotterenea is a music venue in Montreal listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 4848 Saint Laurent, Montréal, QC H2T 1R6, Canada.
 
@@ -14,4 +14,4 @@ La Sotterenea is a music venue in Montreal listed on soundcheck. 1 upcoming nigh
 
 4848 Saint Laurent, Montréal, QC H2T 1R6, Canada, Montreal
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-sotterenea/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/la-sotterenea/)*

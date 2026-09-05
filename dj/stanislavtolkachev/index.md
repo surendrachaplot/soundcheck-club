@@ -1,6 +1,6 @@
 # Stanislav Tolkachev
 
-Stanislav Tolkachev is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 6 Sept 2026.
+Stanislav Tolkachev is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 6 Sept 2026.
 
 Stanislav Tolkachev is a techno and electro artist tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Katya Milch, Nastia and Louwave. Next up: Para Klub Beograd, Belgrade on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ Stanislav Tolkachev is a techno and electro artist tracked on soundcheck, with 6
 
 Katya Milch, Nastia, Louwave
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*

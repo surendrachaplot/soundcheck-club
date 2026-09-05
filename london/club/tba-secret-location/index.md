@@ -1,14 +1,13 @@
-# TBA - Secret Location
+# TBA - SECRET LOCATION
 
-TBA - Secret Location is a music venue in London with 49 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "EXPERIENCE + FUTURE 666 (90% SOLD OUT) " on Fri, 4 Sept 2026.
+TBA - SECRET LOCATION is a music venue in London with 48 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "SCHNELLER AUSM KELLER" on Sat, 5 Sept 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 49 upcoming nights, with line-ups including 0dysseus, 7038634357, DJ JUANNY and Atlantic Energy and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - SECRET LOCATION is a music venue in London listed on soundcheck. 48 upcoming nights, with line-ups including 0dysseus, 7038634357, DJ JUANNY and Atlantic Energy and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | EXPERIENCE + FUTURE 666 (90% SOLD OUT)  | Single Grind, future.666 |
 | Sat, 5 Sept 2026 | SCHNELLER AUSM KELLER |  |
 | Sat, 5 Sept 2026 | ¿QUE ONDA? 1 Year Anniversary  | BLOODHOUND (3) |
 | Sat, 5 Sept 2026 | Sound Advice After Hours W/ Spraoi Mor | Conor Schmtz, Marion Hawkes, Spraoi Mór |
@@ -18,5 +17,6 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 49 upcomi
 | Sat, 5 Sept 2026 | One final - Beach Rave (Secret Loc) |  |
 | Sun, 6 Sept 2026 | VvoovV: Day Party | 0dysseus, Benjamin Freeney, Cez (1), Laura Garrido |
 | Fri, 11 Sept 2026 | Buttheads Label Party with Luisa, Marlon Clark, Shjva, Temple Rat (live) and Martin Gilleshøj | Luisa, Marlon Clark, Martin Gilleshøj, Shjva, Temple Rat |
+| Fri, 11 Sept 2026 | Missed Calls | Bconscious, Fading Franz, Luke Shirwin, b̶e̶n̶e̶ |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

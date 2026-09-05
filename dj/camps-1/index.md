@@ -1,6 +1,6 @@
 # Camps (1)
 
-Camps (1) is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Absenta del Raval, Barcelona on Sat, 5 Sept 2026.
+Camps (1) is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Absenta del Raval, Barcelona on Sat, 5 Sept 2026.
 
 Camps (1) is an electro and house artist based in Spain, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside Catalina Biet, DJ Senc and Enzo Leep. Next up: Absenta del Raval, Barcelona on Sat 5 Sept.
 
@@ -15,4 +15,4 @@ Camps (1) is an electro and house artist based in Spain, tracked on soundcheck, 
 
 Catalina Biet, DJ Senc, Enzo Leep
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camps-1/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camps-1/)*

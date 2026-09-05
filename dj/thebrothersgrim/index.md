@@ -1,6 +1,6 @@
 # The Brothers Grim
 
-The Brothers Grim is a electronic artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 11 Sept 2026.
+The Brothers Grim is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 The Brothers Grim is an electronic artist based in Spain, tracked on soundcheck, with 11 sets logged across Ibiza and London. Often billed alongside Jeremy Weeks, Man Power and Coyote. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ The Brothers Grim is an electronic artist based in Spain, tracked on soundcheck,
 
 Jeremy Weeks, Man Power, Coyote
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrothersgrim/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrothersgrim/)*

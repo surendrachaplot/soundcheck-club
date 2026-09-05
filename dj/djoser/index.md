@@ -1,6 +1,6 @@
 # Djoser
 
-Djoser is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 5 Sept 2026.
+Djoser is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TRANSMISSION DC, Washington DC on Sat, 5 Sept 2026.
 
 Djoser is a techno and bass artist based in Egypt, tracked on soundcheck, with 24 sets logged across Amsterdam, Newyorkcity and Washingtondc. Often billed alongside Jett, kabir. and Pouty's Rage. Next up: TRANSMISSION DC, Washingtondc on Sat 5 Sept.
 
@@ -26,4 +26,4 @@ Djoser is a techno and bass artist based in Egypt, tracked on soundcheck, with 2
 
 Jett, kabir., Pouty's Rage
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoser/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djoser/)*

@@ -1,6 +1,6 @@
 # Tara Clerkin Trio
 
-Tara Clerkin Trio is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at ALICE, Copenhagen on Sat, 12 Sept 2026.
+Tara Clerkin Trio is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at ALICE, Copenhagen on Sat, 12 Sept 2026.
 
 Tara Clerkin Trio is an ambient and experimental artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Copenhagen, Manchester and Oslo. Next up: ALICE, Copenhagen on Sat 12 Sept.
 
@@ -15,4 +15,4 @@ Tara Clerkin Trio is an ambient and experimental artist based in United Kingdom,
 
 - Blå, Oslo — Sat, 15 Aug 2026
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taraclerkintrio/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taraclerkintrio/)*

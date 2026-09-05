@@ -1,6 +1,6 @@
 # Nadia Ksaiba
 
-Nadia Ksaiba is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
+Nadia Ksaiba is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
 Nadia Ksaiba is a house and disco artist tracked on soundcheck, with 30 sets logged across London and Manchester. Often billed alongside Dan Beaumont, Bill Brewster and Macca.. Next up: Night Tales Loft, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Nadia Ksaiba is a house and disco artist tracked on soundcheck, with 30 sets log
 
 Dan Beaumont, Bill Brewster, Macca.
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiaksaiba/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiaksaiba/)*

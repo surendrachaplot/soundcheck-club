@@ -1,6 +1,6 @@
 # Refracted
 
-Refracted is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Gare Porto, Porto on Sat, 19 Sept 2026.
+Refracted is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Gare Porto, Porto on Sat, 19 Sept 2026.
 
 Refracted is a techno and electronica artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and London and 6 more. Often billed alongside Ario, Marco Shuttle and Laura BCR. Next up: Gare Porto, Porto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Refracted is a techno and electronica artist tracked on soundcheck, with 40 sets
 
 Ario, Marco Shuttle, Laura BCR
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/refracted/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/refracted/)*

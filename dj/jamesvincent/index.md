@@ -1,6 +1,6 @@
 # James Vincent
 
-James Vincent is a Deep House and Disco artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA -  45th Lake Shore Drive, Chicago on Sat, 5 Sept 2026.
+James Vincent is a Deep House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA -  45th Lake Shore Drive, Chicago on Sat, 5 Sept 2026.
 
 James Vincent is a deep house and disco artist tracked on soundcheck, with 70 sets logged across Chicago, Detroit and Lisbon. Often billed alongside Cordell Johnson, Lorenzo Dewberry and CTRLZORA. Next up: TBA -  45th Lake Shore Drive, Chicago on Sat 5 Sept.
 
@@ -27,4 +27,4 @@ James Vincent is a deep house and disco artist tracked on soundcheck, with 70 se
 
 Cordell Johnson, Lorenzo Dewberry, CTRLZORA
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesvincent/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesvincent/)*

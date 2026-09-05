@@ -1,6 +1,6 @@
 # KETCH
 
-KETCH is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at HHV.de Store, Berlin on Thu, 10 Sept 2026.
+KETCH is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at HHV.de Store, Berlin on Thu, 10 Sept 2026.
 
 KETCH is a techno and minimal techno artist tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Brussels and Bucharest and 18 more. Often billed alongside MZR, Barbosa and Ylia (UK). Next up: HHV.de Store, Berlin on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ KETCH is a techno and minimal techno artist tracked on soundcheck, with 55 sets 
 
 MZR, Barbosa, Ylia (UK)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*

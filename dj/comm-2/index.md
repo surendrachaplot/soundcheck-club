@@ -1,6 +1,6 @@
 # comm
 
-comm is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
+comm is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri, 11 Sept 2026.
 
 comm is a techno and bass artist based in Japan, tracked on soundcheck, with 48 sets logged across Barcelona, Hongkong, Madrid and Osaka and 1 more. Often billed alongside Herbalistek, LØST and AMG SAIMURA (TECHVANE). Next up: TBA -    Kodamanomori Camp Ground, Nagano, Tokyo on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ comm is a techno and bass artist based in Japan, tracked on soundcheck, with 48 
 
 Herbalistek, LØST, AMG SAIMURA (TECHVANE)
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comm-2/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/comm-2/)*

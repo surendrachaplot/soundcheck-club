@@ -1,14 +1,13 @@
 # The System
 
-The System is a music venue in Sheffield with 13 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Speed For Lovers, Solid State & Nigel Fischer" on Fri, 4 Sept 2026.
+The System is a music venue in Sheffield with 12 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Seleucid Soundsystem: 3rd Birthday" on Sat, 5 Sept 2026.
 
-The System is a music venue in Sheffield listed on soundcheck. 13 upcoming nights, with line-ups including Ashley Holmes, Babs (3), Joi La Frique and Kacper Pieta and 2 more. Browse upcoming dates, start times and who's playing.
+The System is a music venue in Sheffield listed on soundcheck. 12 upcoming nights, with line-ups including Ashley Holmes, Babs (3), Joi La Frique and Kacper Pieta and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Speed For Lovers, Solid State & Nigel Fischer |  |
 | Sat, 5 Sept 2026 | Seleucid Soundsystem: 3rd Birthday | Murder He Wrote, Nio-B |
 | Fri, 11 Sept 2026 | Sleazy Peelers (01) - Soft Launch | Babs (3), Joi La Frique, Paniolo, the butcher bird, wilf B |
 | Sat, 12 Sept 2026 | Good Housekeeping |  |
@@ -18,5 +17,6 @@ The System is a music venue in Sheffield listed on soundcheck. 13 upcoming night
 | Sun, 27 Sept 2026 | Milestones with Lubi Jovanovic & Nathan Dodsworth |  |
 | Fri, 2 Oct 2026 | GRASSROOTS 018 - Steel Rocker Solo Session |  |
 | Sat, 3 Oct 2026 | Apricot Ballroom (October) | Joi La Frique, Nonna Fab |
+| Thu, 22 Oct 2026 | Sound Service Station: Cambodian Music with KomKom |  |
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

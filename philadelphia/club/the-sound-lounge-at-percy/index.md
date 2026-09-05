@@ -1,6 +1,6 @@
 # The Sound Lounge at Percy
 
-The Sound Lounge at Percy is a music venue in Philadelphia with 9 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Spatial Awareness - Gay Felony" on Thu, 10 Sept 2026.
+The Sound Lounge at Percy is a music venue in Philadelphia with 9 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Spatial Awareness - Gay Felony" on Thu, 10 Sept 2026.
 
 The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 9 upcoming nights, with line-ups including Doll.Redacted, Gay Felony, Haruomi Hosono and Mario Cotto and 1 more. Browse upcoming dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
 
@@ -22,4 +22,4 @@ The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck.
 
 1700 N Front Street, Philadelphia, PA. 19122, Philadelphia
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*

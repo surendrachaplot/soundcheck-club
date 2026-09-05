@@ -1,6 +1,6 @@
 # atalaya
 
-atalaya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at The DBA, Manchester on Sat, 5 Sept 2026.
+atalaya is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The DBA, Manchester on Sat, 5 Sept 2026.
 
 atalaya is a house and techno artist based in Spain, tracked on soundcheck, with 60 sets logged across Manchester. Often billed alongside Kuriboh, Qoqnut and Atiké. Next up: The DBA, Manchester on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ atalaya is a house and techno artist based in Spain, tracked on soundcheck, with
 
 Kuriboh, Qoqnut, Atiké
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atalaya/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atalaya/)*

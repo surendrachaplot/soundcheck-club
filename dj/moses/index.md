@@ -1,6 +1,6 @@
 # Moses
 
-Moses is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Spkrbox, Detroit on Sat, 5 Sept 2026.
+Moses is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Spkrbox, Detroit on Sat, 5 Sept 2026.
 
 Moses is a house and techno artist based in Portugal, tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Buenosaires and Detroit and 11 more. Often billed alongside Konstantin, Mira and Nuno Carneiro. Next up: Spkrbox, Detroit on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Moses is a house and techno artist based in Portugal, tracked on soundcheck, wit
 
 Konstantin, Mira, Nuno Carneiro
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moses/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moses/)*

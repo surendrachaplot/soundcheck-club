@@ -1,8 +1,8 @@
 # Fumiya Tanaka
 
-Fumiya Tanaka is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Phonox, London on Sat, 5 Sept 2026.
+Fumiya Tanaka is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Phonox, London on Sat, 5 Sept 2026.
 
-Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 30 more. Often billed alongside Samuel Deep, Doudou MD and Laidlaw. Next up: Phonox, London on Sat 5 Sept.
+Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 30 more. Often billed alongside Samuel Deep, Doudou MD and Laidlaw. Next up: Phonox, London on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 126 sets 
 | Sat, 21 Nov 2026 | Moon Club | Bristol |
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
 | Sat, 28 Nov 2026 | The Loft | Manchester |
+| Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Fumiya Tanaka is a house and techno artist tracked on soundcheck, with 126 sets 
 
 Samuel Deep, Doudou MD, Laidlaw
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*

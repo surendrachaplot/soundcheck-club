@@ -1,14 +1,13 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Fri, 4 Sept 2026, next at Home The Venue, Sydney on Fri, 4 Sept 2026.
+Mika Heggemann is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Melbourne on Sat, 5 Sept 2026.
 
-Mika Heggemann is a techno and trance artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Home The Venue, Sydney on Fri 4 Sept.
+Mika Heggemann is a techno and trance artist tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 31 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: TBA, Melbourne on Sat 5 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Home The Venue | Sydney |
 | Sat, 5 Sept 2026 | TBA | Melbourne |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
 | Fri, 18 Sept 2026 | Bootshaus | Cologne |
@@ -20,6 +19,7 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 164 set
 
 ## Recently played
 
+- Home The Venue, Sydney — Fri, 4 Sept 2026
 - Colorado Charlie, The Hague — Sun, 30 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
@@ -27,10 +27,9 @@ Mika Heggemann is a techno and trance artist tracked on soundcheck, with 164 set
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Studio Club Malaga, Malaga — Fri, 7 Aug 2026
 - Beton-T, Utrecht — Sat, 1 Aug 2026
-- BASIS, Utrecht — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

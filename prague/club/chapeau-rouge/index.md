@@ -1,6 +1,6 @@
 # Chapeau Rouge
 
-Chapeau Rouge is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Fri, 4 Sept 2026; the next is "Neighbourhood w/Lumiere - [FREE ENTRY]" on Fri, 11 Sept 2026.
+Chapeau Rouge is a music venue in Prague with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Neighbourhood w/Lumiere - [FREE ENTRY]" on Fri, 11 Sept 2026.
 
 Chapeau Rouge is a music venue in Prague listed on soundcheck. 4 upcoming nights, with line-ups including Daniel Neighbour, DJ Lumiere, Hasky (SK) and Makepeace and 1 more. Browse upcoming dates, start times and who's playing. Jakubska 2, 110 00 Praha 1, Czech Republic.
 
@@ -17,4 +17,4 @@ Chapeau Rouge is a music venue in Prague listed on soundcheck. 4 upcoming nights
 
 Jakubska 2, 110 00 Praha 1, Czech Republic, Prague
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/chapeau-rouge/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/chapeau-rouge/)*

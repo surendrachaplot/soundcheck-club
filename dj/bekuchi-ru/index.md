@@ -1,6 +1,6 @@
 # Bekuchi
 
-Bekuchi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Fri, 4 Sept 2026, next at Left Bank, Tbilisi on Sat, 5 Sept 2026.
+Bekuchi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Left Bank, Tbilisi on Sat, 5 Sept 2026.
 
 Bekuchi is a house and techno artist tracked on soundcheck, with 97 sets logged across Berlin, Paris, Prague and Tbilisi and 1 more. Often billed alongside Tomma, Kraumur and Mancho. Next up: Left Bank, Tbilisi on Sat 5 Sept.
 
@@ -25,4 +25,4 @@ Bekuchi is a house and techno artist tracked on soundcheck, with 97 sets logged 
 
 Tomma, Kraumur, Mancho
 
-*Updated Fri, 4 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bekuchi-ru/)*
+*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bekuchi-ru/)*
