@@ -1,18 +1,17 @@
 # Ampere Düsseldorf
 
-Ampere Düsseldorf is a music venue in Düsseldorf with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Systematic pres. Marc Romboy All Night Long" on Sat, 5 Sept 2026.
+Ampere Düsseldorf is a music venue in Düsseldorf with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "penrose rebirth" on Sat, 24 Oct 2026.
 
-Ampere Düsseldorf is a music venue in Dusseldorf listed on soundcheck. 2 upcoming nights, with line-ups including Marc Romboy. Browse upcoming dates, start times and who's playing. Ronsdorfer Straße 134, 40233 Düsseldorf.
+Ampere Düsseldorf is a music venue in Dusseldorf listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Ronsdorfer Straße 134, 40233 Düsseldorf.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Systematic pres. Marc Romboy All Night Long | Marc Romboy |
 | Sat, 24 Oct 2026 | penrose rebirth |  |
 
 ## Address
 
 Ronsdorfer Straße 134, 40233 Düsseldorf, Düsseldorf
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/ampere-d-sseldorf/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/ampere-d-sseldorf/)*

@@ -1,6 +1,6 @@
 # Linska - Montréal at Newspeak
 
-Linska - Montréal at Newspeak on Sat 19 Sept, Montreal. 1 act on the bill: Linska. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Linska - Montréal at Newspeak on Sat 19 Sept, Montreal. 2 acts on the bill: Linska and Shirlee. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Linska - Montréal at Newspeak on Sat 19 Sept, Montreal. 1 act on the bill: Lins
 ## Line-up
 
 - Linska
+- Shirlee
 
 *Source: [soundcheck](https://soundcheck.club/e/2485972-linska-montr-al-at-newspeak/)*

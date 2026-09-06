@@ -1,6 +1,6 @@
 # Jamie Jones Paradise at [UNVRS]
 
-Jamie Jones Paradise at [UNVRS] on Wed 9 Sept, Ibiza. 9 acts on the bill: FLORENTIA, Jamie Jones, Jordan Peak and Murphy's Law and 5 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Jamie Jones Paradise at [UNVRS] on Wed 9 Sept, Ibiza. 12 acts on the bill: FIRZA, FLORENTIA, Jamie Jones and Jordan Peak and 8 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,14 +10,17 @@ Jamie Jones Paradise at [UNVRS] on Wed 9 Sept, Ibiza. 9 acts on the bill: FLOREN
 
 ## Line-up
 
+- FIRZA
 - FLORENTIA
 - Jamie Jones
 - Jordan Peak
 - Murphy's Law
 - Nicole Moudaber
+- Obskur
 - Rich NXT
 - Rossi
 - Sosa
+- ViTo
 - wAFF
 
 *Source: [soundcheck](https://soundcheck.club/e/2365368-jamie-jones-paradise-at-unvrs/)*

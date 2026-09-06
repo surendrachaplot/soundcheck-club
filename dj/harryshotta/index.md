@@ -1,14 +1,13 @@
 # Harry Shotta
 
-Harry Shotta is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Harry Shotta is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
-Harry Shotta is a drum & bass and jungle artist tracked on soundcheck, with 53 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 6 more. Often billed alongside IC3, Logan D and Eksman. Next up: Eutopia Whs, London on Sat 5 Sept.
+Harry Shotta is a drum & bass and jungle artist tracked on soundcheck, with 54 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 6 more. Often billed alongside IC3, Logan D and Eksman. Next up: Sawmills, Bristol on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Eutopia Whs | London |
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
 | Sat, 26 Sept 2026 | Fire | London |
 | Sat, 14 Nov 2026 | Albert Hall | Manchester |
@@ -16,9 +15,11 @@ Harry Shotta is a drum & bass and jungle artist tracked on soundcheck, with 53 s
 | Fri, 20 Nov 2026 | The Dome | Liverpool |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 27 Nov 2026 | FORGE | Sheffield |
+| Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
+- Eutopia Whs, London — Sat, 5 Sept 2026
 - Brixton Jamm, London — Sat, 1 Aug 2026
 - M.O.T, London — Sat, 11 Jul 2026
 - 93 Feet East, London — Fri, 29 May 2026
@@ -26,10 +27,9 @@ Harry Shotta is a drum & bass and jungle artist tracked on soundcheck, with 53 s
 - Melkweg, Amsterdam — Fri, 24 Apr 2026
 - The TBA - The Bulldog Palace, Melkweg Black Dog, Het Sieraad, Amsterdam — Fri, 24 Apr 2026
 - Brixton Jamm, London — Sat, 11 Apr 2026
-- EartH, London — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 IC3, Logan D, Eksman
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harryshotta/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harryshotta/)*

@@ -1,6 +1,6 @@
 # smeik
 
-smeik is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+smeik is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 smeik is a techno and deep house artist tracked on soundcheck, with 22 sets logged across Berlin. Often billed alongside Marc Eisenberg, Better Call Paul and Einfach Taffo. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ smeik is a techno and deep house artist tracked on soundcheck, with 22 sets logg
 
 Marc Eisenberg, Better Call Paul, Einfach Taffo
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smeik/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smeik/)*

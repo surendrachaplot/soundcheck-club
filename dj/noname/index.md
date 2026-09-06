@@ -1,18 +1,18 @@
 # NoName
 
-NoName is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Renate, Berlin on Sat, 5 Sept 2026.
+NoName is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at block., Dublin on Sat, 26 Sept 2026.
 
-NoName is a techno and house artist tracked on soundcheck, with 15 sets logged across Antwerp, Barcelona, Berlin and Buenosaires and 4 more. Often billed alongside ABSL, Aalia Iraki and Alain Gertrand. Next up: Renate, Berlin on Sat 5 Sept.
+NoName is a techno and house artist tracked on soundcheck, with 15 sets logged across Antwerp, Barcelona, Berlin and Buenosaires and 4 more. Often billed alongside ABSL, Aalia Iraki and Alain Gertrand. Next up: block., Dublin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Renate | Berlin |
 | Sat, 26 Sept 2026 | block. | Dublin |
 
 ## Recently played
 
+- Renate, Berlin — Sat, 5 Sept 2026
 - Lokschuppen Berlin, Berlin — Sat, 6 Jun 2026
 - City Hall, Barcelona — Sat, 16 May 2026
 - Club Vaag, Antwerp — Thu, 14 May 2026
@@ -20,10 +20,9 @@ NoName is a techno and house artist tracked on soundcheck, with 15 sets logged a
 - Domaine National de Saint-Cloud, Paris — Wed, 20 Aug 2025
 - Kampnagel, Hamburg — Wed, 13 Aug 2025
 - TBA - Auditorio Recoleta, Recoleta, Buenos Aires — Sat, 24 May 2025
-- TBA - Club Araoz, Palermo, Buenos Aires — Fri, 18 Apr 2025
 
 ## Shares bills with
 
 ABSL, Aalia Iraki, Alain Gertrand
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noname/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/noname/)*

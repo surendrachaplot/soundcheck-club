@@ -1,14 +1,15 @@
 # Mafille
 
-Mafille is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Badaboum, Paris on Fri, 18 Sept 2026.
+Mafille is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Badaboum, Paris on Fri, 18 Sept 2026.
 
-Mafille is a bass and techno artist based in France, tracked on soundcheck, with 14 sets logged across Istanbul, London, Marseille and Nantes and 1 more. Often billed alongside BabyB, Shfoosja and Akira (Buntai). Next up: Badaboum, Paris on Fri 18 Sept.
+Mafille is a bass and techno artist based in France, tracked on soundcheck, with 15 sets logged across Istanbul, London, Marseille and Nantes and 1 more. Often billed alongside BabyB, Shfoosja and Akira (Buntai). Next up: Badaboum, Paris on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Badaboum | Paris |
+| Fri, 2 Oct 2026 | Point Ephémère | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mafille is a bass and techno artist based in France, tracked on soundcheck, with
 
 BabyB, Shfoosja, Akira (Buntai)
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mafille/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mafille/)*

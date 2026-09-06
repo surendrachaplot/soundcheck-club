@@ -1,8 +1,8 @@
 # Tola
 
-Tola is a music venue in London with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Parallel Sounds - Day Into Night Terrace Party in Peckham" on Fri, 11 Sept 2026.
+Tola is a music venue in London with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Parallel Sounds - Day Into Night Terrace Party in Peckham" on Fri, 11 Sept 2026.
 
-Tola is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including 1KY (1), Ali Velmi, Buddy. (2) and Corvair and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
+Tola is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including 1KY (1), Ali Velmi, Buddy. (2) and Corvair and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Tola is a music venue in London listed on soundcheck. 8 upcoming nights, with li
 | Sat, 19 Sept 2026 | Frogwork: Day and Night Special | Corvair, Donut, Jiminy Watts, M'Lover, Touré |
 | Fri, 25 Sept 2026 | The Wonky House presents: Straight On 'til Morning | 1KY (1), Harmony, Harry Mason, Josh Wickers, ZAZA C |
 | Sat, 26 Sept 2026 | Riddim Division: Summer Send Off - Lineup TBA | Ali Velmi, Klose One |
+| Sat, 3 Oct 2026 | LO MID HI: Return to Tola - V3 | ERRANT, Eleonora Cairati, Eys (1), Ryan Henry |
 | Fri, 16 Oct 2026 | JAZZ TO JUNGLE | ELshus, Half-Life, karishma |
 | Fri, 30 Oct 2026 | Groove27 presents: Día de los Muertos |  |
 | Sat, 31 Oct 2026 | one:2 eight presents: LE CIRQUE CLANDESTIN | Not From Concentrate |
@@ -21,4 +22,4 @@ Tola is a music venue in London listed on soundcheck. 8 upcoming nights, with li
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

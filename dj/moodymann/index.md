@@ -1,6 +1,6 @@
 # Moodymann
 
-Moodymann is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Moodymann is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Moodymann is a house and techno artist tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Bali and 36 more. Often billed alongside Carl Craig, DJ Holographic and Flo Real. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -9,7 +9,6 @@ Moodymann is a house and techno artist tracked on soundcheck, with 162 sets logg
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Sat, 5 Sept 2026 | smartbar | Chicago |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sun, 20 Sept 2026 | Umoya | Naples |
 | Sat, 26 Sept 2026 | 314 Scholes | New York City |
@@ -20,9 +19,11 @@ Moodymann is a house and techno artist tracked on soundcheck, with 162 sets logg
 | Fri, 16 Oct 2026 | The Bernard Shaw | Dublin |
 | Sat, 17 Oct 2026 | Sub Club | Glasgow |
 | Sat, 24 Oct 2026 | Phono Lake | Amsterdam |
+| Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 
 ## Recently played
 
+- smartbar, Chicago — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - TBA, Singapore — Sat, 22 Aug 2026
 - Potato Head Beach Club, Bali — Fri, 21 Aug 2026
@@ -30,10 +31,9 @@ Moodymann is a house and techno artist tracked on soundcheck, with 162 sets logg
 - ZIK Zeit ist Knapp, Berlin — Sun, 9 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 7 Aug 2026
 - Superior Ingredients, New York City — Fri, 17 Jul 2026
-- TBA - 416 Morse St NE, Washington, DC 20002, Washington DC — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Carl Craig, DJ Holographic, Flo Real
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymann/)*

@@ -1,13 +1,13 @@
-# TBA - XuXa - 6910 Shirley Avenue, Unit I
+# TBA - XuXa 6910 Shirley Avenue, Unit I
 
-TBA - XuXa - 6910 Shirley Avenue, Unit I is a music venue in Austin with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "XuXa presents: Schi The God & Brett Johnson" on Sat, 5 Sept 2026.
+TBA - XuXa 6910 Shirley Avenue, Unit I is a music venue in Austin with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Might Be Magic Second Saturdays at Neon Grotto" on Sat, 12 Sept 2026.
 
-TBA - XuXa - 6910 Shirley Avenue, Unit I is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including Brett Johnson and Schithegod. Browse upcoming dates, start times and who's playing.
+TBA - XuXa 6910 Shirley Avenue, Unit I is a music venue in Austin listed on soundcheck. 1 upcoming night, with line-ups including Brother Pate, Leo Janeiro and Marcus Lott. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | XuXa presents: Schi The God & Brett Johnson | Brett Johnson, Schithegod |
+| Sat, 12 Sept 2026 | Might Be Magic Second Saturdays at Neon Grotto | Brother Pate, Leo Janeiro, Marcus Lott |
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-xuxa-6910-shirley-avenue-unit-i/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/tba-xuxa-6910-shirley-avenue-unit-i/)*

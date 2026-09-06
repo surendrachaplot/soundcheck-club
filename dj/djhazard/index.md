@@ -1,20 +1,20 @@
 # DJ Hazard
 
-DJ Hazard is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+DJ Hazard is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Volks, Brighton on Sat, 12 Sept 2026.
 
-DJ Hazard is a drum & bass and jungle artist tracked on soundcheck, with 38 sets logged across Bangkok, Belfast, Birmingham and Brighton and 11 more. Often billed alongside DJ Hype, IC3 and Dillinja. Next up: Eutopia Whs, London on Sat 5 Sept.
+DJ Hazard is a drum & bass and jungle artist tracked on soundcheck, with 38 sets logged across Bangkok, Belfast, Birmingham and Brighton and 11 more. Often billed alongside DJ Hype, IC3 and Dillinja. Next up: Volks, Brighton on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Eutopia Whs | London |
 | Sat, 12 Sept 2026 | Volks | Brighton |
 | Thu, 5 Nov 2026 | Expirat Halele Carol | Bucharest |
 | Fri, 20 Nov 2026 | Sidney & Matilda | Sheffield |
 
 ## Recently played
 
+- Eutopia Whs, London — Sat, 5 Sept 2026
 - Phonox, London — Fri, 4 Sept 2026
 - Edelfettwerk, Hamburg — Sat, 30 May 2026
 - The Prospect Building, Bristol — Sat, 14 Feb 2026
@@ -22,10 +22,9 @@ DJ Hazard is a drum & bass and jungle artist tracked on soundcheck, with 38 sets
 - TBA - Jungle Jam BKK, 5 (Floor 2) Soi Sukhumvit 11, Bangkok, Bangkok — Sat, 10 Jan 2026
 - TBA - Footscray, Melbourne — Sat, 3 Jan 2026
 - Chinese Laundry, Sydney — Sat, 27 Dec 2025
-- Hootananny Brixton, London — Sat, 15 Nov 2025
 
 ## Shares bills with
 
 DJ Hype, IC3, Dillinja
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*

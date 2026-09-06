@@ -1,14 +1,13 @@
 # MARIEEEA
 
-MARIEEEA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at DSTRKT Club Berlin, Berlin on Fri, 4 Sept 2026.
+MARIEEEA is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at E1, London on Fri, 11 Sept 2026.
 
-MARIEEEA is a techno and trance artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Brighton and Bucharest and 5 more. Often billed alongside Sohtech, DEBBIE (IT) and Elle Rêve. Next up: DSTRKT Club Berlin, Berlin on Fri 4 Sept.
+MARIEEEA is a techno and trance artist tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Brighton and Bucharest and 5 more. Often billed alongside Sohtech, DEBBIE (IT) and Elle Rêve. Next up: E1, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | DSTRKT Club Berlin | Berlin |
 | Fri, 11 Sept 2026 | E1 | London |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 
@@ -27,4 +26,4 @@ MARIEEEA is a techno and trance artist tracked on soundcheck, with 41 sets logge
 
 Sohtech, DEBBIE (IT), Elle Rêve
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marieeea/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marieeea/)*

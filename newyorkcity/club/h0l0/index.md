@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "ReSolute Labor Day 2026" on Sat, 5 Sept 2026.
+H0L0 is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "ReSolute Labor Day 2026" on Sat, 5 Sept 2026.
 
 H0L0 is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Amelia Holt, Anane, Armii1n and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -8,7 +8,7 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | ReSolute Labor Day 2026 | Armii1n, CAMILLA, Dylan Payne, J. Richards, Kurilo, Max Sprauer, Monile, Ryan King, Shvili, Zayd |
+| Sat, 5 Sept 2026 | ReSolute Labor Day 2026 | Armii1n, CAMILLA, Craig Richards, Dylan Payne, Gabriel Rai, J. Richards, Kurilo, Max Sprauer, Monile, Ryan King, Shvili, Zayd |
 | Fri, 11 Sept 2026 | ABOV FLINTA* NYC | Erika, Shyboi, Volvox |
 | Sat, 12 Sept 2026 | ReSolute presents: MUSCLECARS All-Night Long | MUSCLECARS |
 | Fri, 18 Sept 2026 | ReSolute x Aionia: Secret Guest - Lena Willikens + more TBA | Athena, Honey Bun, Lena Willikens, Mona Matsuoka |
@@ -23,4 +23,4 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

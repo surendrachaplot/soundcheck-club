@@ -1,8 +1,8 @@
 # AMMARA
 
-AMMARA is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
+AMMARA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
 
-AMMARA is a techno and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 19 more. Often billed alongside Ben Hemsley, Danny Howard and Andhim. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
+AMMARA is a techno and house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Belfast, Berlin and Birmingham and 19 more. Often billed alongside Ben Hemsley, Danny Howard and Andhim. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ AMMARA is a techno and house artist tracked on soundcheck, with 60 sets logged a
 | Thu, 24 Sept 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Fri, 25 Sept 2026 | Maitland Showground | Sydney |
 | Fri, 25 Sept 2026 | Chinese Laundry | Sydney |
+| Fri, 4 Dec 2026 | SWG3 | Glasgow |
+| Fri, 4 Dec 2026 | SWG3 | Glasgow |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ AMMARA is a techno and house artist tracked on soundcheck, with 60 sets logged a
 
 Ben Hemsley, Danny Howard, Andhim
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ammara/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ammara/)*

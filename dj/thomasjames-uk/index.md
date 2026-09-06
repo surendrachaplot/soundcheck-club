@@ -1,19 +1,19 @@
 # Thomas + James
 
-Thomas + James is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Jupiter Artland, Edinburgh on Sat, 5 Sept 2026.
+Thomas + James is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Berkeley Suite, Glasgow on Tue, 15 Sept 2026.
 
-Thomas + James are a house and techno duo based in United Kingdom, tracked on soundcheck, with 40 sets logged across Dundee, Edinburgh, Glasgow and Newcastle. Often billed alongside Iris Pertegaz, Lee Brown and McCart. Next up: Jupiter Artland, Edinburgh on Sat 5 Sept.
+Thomas + James are a house and techno duo based in United Kingdom, tracked on soundcheck, with 40 sets logged across Dundee, Edinburgh, Glasgow and Newcastle. Often billed alongside Iris Pertegaz, Lee Brown and McCart. Next up: The Berkeley Suite, Glasgow on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Jupiter Artland | Edinburgh |
 | Tue, 15 Sept 2026 | The Berkeley Suite | Glasgow |
 | Wed, 16 Sept 2026 | The Berkeley Suite | Glasgow |
 
 ## Recently played
 
+- Jupiter Artland, Edinburgh — Sat, 5 Sept 2026
 - La Cheetah Club, Glasgow — Thu, 3 Sept 2026
 - Ouseburn Garden, Newcastle — Sat, 25 Jul 2026
 - The Liquid Room, Edinburgh — Sat, 16 May 2026
@@ -21,10 +21,9 @@ Thomas + James are a house and techno duo based in United Kingdom, tracked on so
 - La Cheetah Club, Glasgow — Thu, 2 Apr 2026
 - The Liquid Room, Edinburgh — Sat, 28 Mar 2026
 - La Cheetah Club, Glasgow — Sat, 14 Mar 2026
-- Cabaret Voltaire, Edinburgh — Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Iris Pertegaz, Lee Brown, McCart
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-uk/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-uk/)*

@@ -1,6 +1,6 @@
 # Blaark
 
-Blaark is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
+Blaark is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
 
 Blaark is a techno and electronica artist tracked on soundcheck, with 15 sets logged across Barcelona and Madrid. Often billed alongside MÄEM, Audiolux and Lowsystem. Next up: Lasociaciøn, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Blaark is a techno and electronica artist tracked on soundcheck, with 15 sets lo
 
 MÄEM, Audiolux, Lowsystem
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blaark/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blaark/)*

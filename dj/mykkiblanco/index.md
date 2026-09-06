@@ -1,14 +1,13 @@
 # Mykki Blanco
 
-Mykki Blanco is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at THE MAGICK BAR, Rome on Sat, 5 Sept 2026.
+Mykki Blanco is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at ALICE, Copenhagen on Wed, 14 Oct 2026.
 
-Mykki Blanco is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Basel, Berlin, Bristol and Brussels and 14 more. Often billed alongside COBRAH, Olof Dreijer and 2ManyDJs. Next up: THE MAGICK BAR, Rome on Sat 5 Sept.
+Mykki Blanco is a house and techno artist based in United States of America, tracked on soundcheck, with 30 sets logged across Basel, Berlin, Bristol and Brussels and 14 more. Often billed alongside COBRAH, Olof Dreijer and 2ManyDJs. Next up: ALICE, Copenhagen on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | THE MAGICK BAR | Rome |
 | Wed, 14 Oct 2026 | ALICE | Copenhagen |
 | Wed, 28 Oct 2026 | Beursschouwburg | Brussels |
 | Wed, 4 Nov 2026 | Belgrave Music Hall | Leeds |
@@ -16,6 +15,7 @@ Mykki Blanco is a house and techno artist based in United States of America, tra
 
 ## Recently played
 
+- THE MAGICK BAR, Rome — Sat, 5 Sept 2026
 - Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
 - The Standard, Brussels, Brussels — Wed, 13 May 2026
 - YuYu Cine Club, Mexico City — Sat, 14 Mar 2026
@@ -23,10 +23,9 @@ Mykki Blanco is a house and techno artist based in United States of America, tra
 - Rhiz, Vienna — Sat, 6 Dec 2025
 - Q Club, Milan — Fri, 7 Nov 2025
 - World Headquarters, Newcastle — Fri, 25 Jul 2025
-- Kaschemme Basel, Basel — Fri, 16 May 2025
 
 ## Shares bills with
 
 COBRAH, Olof Dreijer, 2ManyDJs
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykkiblanco/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykkiblanco/)*

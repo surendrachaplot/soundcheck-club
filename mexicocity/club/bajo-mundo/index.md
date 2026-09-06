@@ -1,18 +1,17 @@
 # Bajo Mundo
 
-Bajo Mundo is a music venue in Mexico City with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Puraclicka All Stars" on Sat, 5 Sept 2026.
+Bajo Mundo is a music venue in Mexico City with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "UMBRAL (halloween edition)" on Sat, 24 Oct 2026.
 
-Bajo Mundo is a music venue in Mexicocity listed on soundcheck. 2 upcoming nights, with line-ups including Finoh. Browse upcoming dates, start times and who's playing. Saltillo 129, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX.
+Bajo Mundo is a music venue in Mexicocity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Saltillo 129, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Puraclicka All Stars | Finoh |
 | Sat, 24 Oct 2026 | UMBRAL (halloween edition) |  |
 
 ## Address
 
 Saltillo 129, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico City
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bajo-mundo/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/bajo-mundo/)*

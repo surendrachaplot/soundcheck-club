@@ -1,14 +1,13 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "United Sounds" on Sat, 5 Sept 2026.
+Beaver Works is a music venue in Leeds with 7 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Encoded & Hi Oktane: Let's Get Vicious" on Sat, 12 Sept 2026.
 
-Beaver Works is a music venue in Leeds listed on soundcheck. 8 upcoming nights, with line-ups including ad*n, Andy Farley, Bakey and Blackeye MC and 2 more. Browse upcoming dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
+Beaver Works is a music venue in Leeds listed on soundcheck. 7 upcoming nights, with line-ups including ad*n, Andy Farley, Bakey and Blackeye MC and 2 more. Browse upcoming dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | United Sounds | Ebz, Jae Depz, SUBVISIONS |
 | Sat, 12 Sept 2026 | Encoded & Hi Oktane: Let's Get Vicious | Andy Farley, Frank Farrell |
 | Fri, 25 Sept 2026 | Cirque Du Soul: Leeds // Back To Beaver Works | Greenhouse, KABOCANA, Mylania, PR!MAL (2), Petz, Ramone, ad*n, camukg, whoswill |
 | Sat, 3 Oct 2026 | SUBDUB - 28TH BIRTHDAY / RUPTURE 20 / DEEP MEDI 20 / DUB SIRENS | Blackeye MC, Chad Dubz, Commodo, Decibella, Double O, Formella, Goth-Trad, Iration Steppas, Ital Power, Jack Sparrow, LOTU (UK), Lotus Phaze, MYNA, Mantra, Nio-B, Pinch, SGT Pokes, Silkie, Tim Reaper |
@@ -21,4 +20,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 8 upcoming nights, 
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

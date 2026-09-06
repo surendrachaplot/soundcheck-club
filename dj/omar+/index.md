@@ -1,14 +1,13 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Spybar, Chicago on Sat, 5 Sept 2026.
+Omar+ is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Colorado Charlie, The Hague on Fri, 25 Sept 2026.
 
-Omar+ is a house and tech house artist tracked on soundcheck, with 72 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 28 more. Often billed alongside Obskur, Joss Dean and Max Dean. Next up: Spybar, Chicago on Sat 5 Sept.
+Omar+ is a house and tech house artist tracked on soundcheck, with 72 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 28 more. Often billed alongside Obskur, Joss Dean and Max Dean. Next up: Colorado Charlie, Thehague on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Spybar | Chicago |
 | Fri, 25 Sept 2026 | Colorado Charlie | The Hague |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | DRUMSHEDS | London |
@@ -19,6 +18,7 @@ Omar+ is a house and tech house artist tracked on soundcheck, with 72 sets logge
 
 ## Recently played
 
+- Spybar, Chicago — Sat, 5 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles — Sun, 2 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
@@ -26,10 +26,9 @@ Omar+ is a house and tech house artist tracked on soundcheck, with 72 sets logge
 - Art Club, Houston — Fri, 24 Jul 2026
 - DC-10, Ibiza — Mon, 20 Jul 2026
 - Tiger Yard, Cardiff — Sat, 11 Jul 2026
-- Stadshaven Brouwerij, Rotterdam — Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Obskur, Joss Dean, Max Dean
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

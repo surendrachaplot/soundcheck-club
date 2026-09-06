@@ -1,6 +1,6 @@
 # Stojche
 
-Stojche is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
+Stojche is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
 
 Stojche is a techno and dub techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside SHDW, Anika Kunst and Phara. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Sept.
 
@@ -13,6 +13,7 @@ Stojche is a techno and dub techno artist tracked on soundcheck, with 60 sets lo
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin — Sat, 5 Sept 2026
 - Les Enfants Brillants, Barcelona — Thu, 13 Aug 2026
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Lofi, Amsterdam — Sat, 2 May 2026
@@ -20,10 +21,9 @@ Stojche is a techno and dub techno artist tracked on soundcheck, with 60 sets lo
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Apr 2026
 - FOLD, London — Fri, 24 Apr 2026
 - essaim, Paris — Fri, 10 Apr 2026
-- Ankali & Planeta Za, Prague — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 SHDW, Anika Kunst, Phara
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*

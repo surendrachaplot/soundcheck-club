@@ -1,6 +1,6 @@
 # Acid Pauli
 
-Acid Pauli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
+Acid Pauli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
 
 Acid Pauli is a house and techno artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Viken Arman, Damian Lazarus and Jonathan Kaspar. Next up: Holdenweid, Basel on Fri 4 Sept.
 
@@ -25,4 +25,4 @@ Acid Pauli is a house and techno artist tracked on soundcheck, with 97 sets logg
 
 Viken Arman, Damian Lazarus, Jonathan Kaspar
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpauli/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpauli/)*

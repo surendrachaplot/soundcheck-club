@@ -1,14 +1,13 @@
 # Mira
 
-Mira is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Airport Düsseldorf, Düsseldorf on Sat, 5 Sept 2026.
+Mira is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
-Mira is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Austin and Bangkok and 39 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Airport Düsseldorf, Dusseldorf on Sat 5 Sept.
+Mira is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Austin and Bangkok and 39 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Airport Düsseldorf | Düsseldorf |
 | Sat, 12 Sept 2026 | Northern Lights Lounge | Detroit |
 | Fri, 25 Sept 2026 | Hangaren | Copenhagen |
 | Sat, 26 Sept 2026 | Kater | Berlin |
@@ -19,6 +18,7 @@ Mira is a house and techno artist tracked on soundcheck, with 191 sets logged ac
 
 ## Recently played
 
+- Airport Düsseldorf, Düsseldorf — Sat, 5 Sept 2026
 - Kater, Berlin — Fri, 21 Aug 2026
 - Piedicavallo, Turin — Fri, 21 Aug 2026
 - Knockdown Center, New York City — Sat, 15 Aug 2026
@@ -26,10 +26,9 @@ Mira is a house and techno artist tracked on soundcheck, with 191 sets logged ac
 - Silencio, Paris — Fri, 24 Jul 2026
 - Bikini Beach, Cologne — Fri, 17 Jul 2026
 - Chinois Ibiza, Ibiza — Sun, 12 Jul 2026
-- Kater, Berlin — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Chris Schwarzwälder, Britta Arnold, Caleesi
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*

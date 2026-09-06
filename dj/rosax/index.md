@@ -1,0 +1,22 @@
+# Rosax
+
+Rosax is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Talk to Me, Melbourne on Fri, 23 Oct 2026.
+
+Rosax is a techno and house artist based in Australia, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside Ed Kent, HAUSWiFE and Hasvat Informant. Next up: Talk to Me, Melbourne on Fri 23 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 23 Oct 2026 | Talk to Me | Melbourne |
+
+## Recently played
+
+- Solace, Melbourne — Fri, 14 Aug 2026
+- New Guernica, Melbourne — Thu, 30 Jul 2026
+
+## Shares bills with
+
+Ed Kent, HAUSWiFE, Hasvat Informant
+
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosax/)*

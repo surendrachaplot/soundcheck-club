@@ -1,14 +1,15 @@
 # CHIKA
 
-CHIKA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Z Maruyama, Tokyo on Fri, 18 Sept 2026.
+CHIKA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Z Maruyama, Tokyo on Fri, 18 Sept 2026.
 
-CHIKA is a techno and industrial artist tracked on soundcheck, with 100 sets logged across Berlin, Marseille, Milan and Osaka and 2 more. Often billed alongside YOXIKI, DALJAE and YURI VALEN. Next up: Z Maruyama, Tokyo on Fri 18 Sept.
+CHIKA is a techno and industrial artist tracked on soundcheck, with 101 sets logged across Berlin, Marseille, Milan and Osaka and 2 more. Often billed alongside YOXIKI, DALJAE and YURI VALEN. Next up: Z Maruyama, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Z Maruyama | Tokyo |
+| Sat, 19 Sept 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CHIKA is a techno and industrial artist tracked on soundcheck, with 100 sets log
 
 YOXIKI, DALJAE, YURI VALEN
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chika/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chika/)*

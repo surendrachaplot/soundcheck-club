@@ -1,15 +1,13 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Flava Beach, Naples on Sat, 5 Sept 2026.
+Adam Beyer is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 9 Sept 2026.
 
-Adam Beyer is a techno and tech house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: Flava Beach, Naples on Sat 5 Sept.
+Adam Beyer is a techno and tech house artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: Amnesia Ibiza, Ibiza on Wed 9 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Flava Beach | Naples |
-| Sat, 5 Sept 2026 | Flava Beach | Naples |
 | Wed, 9 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 16 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Thu, 24 Sept 2026 | Hï Ibiza | Ibiza |
@@ -19,17 +17,17 @@ Adam Beyer is a techno and tech house artist tracked on soundcheck, with 184 set
 
 ## Recently played
 
+- Flava Beach, Naples — Sat, 5 Sept 2026
+- Flava Beach, Naples — Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza — Wed, 2 Sept 2026
 - Amnesia Ibiza, Ibiza — Wed, 26 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 19 Aug 2026
 - Tapada da Ajuda, Lisbon — Sat, 15 Aug 2026
 - Medusa Beach, Valencia — Thu, 13 Aug 2026
 - Amnesia Ibiza, Ibiza — Wed, 12 Aug 2026
-- Zürichsee, Zurich — Sat, 8 Aug 2026
-- X-Tra, Zurich — Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Eric Prydz, Bart Skils, Patrick Topping
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*

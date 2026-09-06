@@ -1,6 +1,6 @@
 # Francisco Allendes
 
-Francisco Allendes is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at PKL Boston, Boston on Sun, 6 Sept 2026.
+Francisco Allendes is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at PKL Boston, Boston on Sun, 6 Sept 2026.
 
 Francisco Allendes is a tech house and house artist tracked on soundcheck, with 60 sets logged across Amsterdam, Austin, Barcelona and Boston and 13 more. Often billed alongside Raul Rodriguez, Andrea Oliva and Chelina Manuhutu. Next up: PKL Boston, Boston on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Francisco Allendes is a tech house and house artist tracked on soundcheck, with 
 
 Raul Rodriguez, Andrea Oliva, Chelina Manuhutu
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoallendes/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoallendes/)*

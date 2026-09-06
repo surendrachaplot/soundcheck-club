@@ -1,6 +1,6 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 11 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Sword II at Quarry" on Thu, 10 Sept 2026.
+Quarry is a music venue in Liverpool with 11 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Sword II at Quarry" on Thu, 10 Sept 2026.
 
 Quarry is a music venue in Liverpool listed on soundcheck. 11 upcoming nights, with line-ups including Flora Yin-Wong, Grey Streak, Heka and Roscoe Fox. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
@@ -23,4 +23,4 @@ Quarry is a music venue in Liverpool listed on soundcheck. 11 upcoming nights, w
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

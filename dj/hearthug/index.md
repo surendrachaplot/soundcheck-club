@@ -1,8 +1,8 @@
 # HearThug
 
-HearThug is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 12 Sept 2026.
+HearThug is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 12 Sept 2026.
 
-HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Ouseburn Garden, Newcastle on Sat 12 Sept.
+HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Ouseburn Garden, Newcastle on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, 
 | Sat, 19 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 25 Sept 2026 | 93 Feet East | London |
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
+| Sat, 31 Oct 2026 | Barraca | Valencia |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, 
 
 Occibel, IAMBP, Alyhas
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

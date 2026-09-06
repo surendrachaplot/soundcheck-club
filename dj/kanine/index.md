@@ -1,8 +1,8 @@
 # Kanine
 
-Kanine is a Drum & Bass and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Kanine is a Drum & Bass and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
-Kanine is a drum & bass and house artist tracked on soundcheck, with 91 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 38 more. Often billed alongside Mozey, Bou (UK) and Disrupta. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Kanine is a drum & bass and house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 38 more. Often billed alongside Mozey, Bou (UK) and Disrupta. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Kanine is a drum & bass and house artist tracked on soundcheck, with 91 sets log
 | Mon, 5 Oct 2026 | The Ivy | Sydney |
 | Sat, 10 Oct 2026 | Turbinenhalle | Oberhausen |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
+| Sat, 14 Nov 2026 | Melkweg | Amsterdam |
 | Fri, 27 Nov 2026 | A38 | Budapest |
 
 ## Recently played
@@ -31,4 +32,4 @@ Kanine is a drum & bass and house artist tracked on soundcheck, with 91 sets log
 
 Mozey, Bou (UK), Disrupta
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanine/)*

@@ -1,6 +1,6 @@
 # zeemann.
 
-zeemann. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Bsmt 254, Toronto on Thu, 17 Sept 2026.
+zeemann. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Bsmt 254, Toronto on Thu, 17 Sept 2026.
 
 zeemann. is a techno and house artist tracked on soundcheck, with 4 sets logged across Toronto. Often billed alongside Faiyaz, ADB (CA) and AUTUL. Next up: Bsmt 254, Toronto on Thu 17 Sept.
 
@@ -20,4 +20,4 @@ zeemann. is a techno and house artist tracked on soundcheck, with 4 sets logged 
 
 Faiyaz, ADB (CA), AUTUL
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeemann-ca/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zeemann-ca/)*

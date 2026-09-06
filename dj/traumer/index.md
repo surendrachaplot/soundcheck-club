@@ -1,6 +1,6 @@
 # Traumer
 
-Traumer is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Traumer is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Traumer is a house and techno artist tracked on soundcheck, with 308 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Enzo Siragusa, Shonky and Apollonia. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -9,7 +9,6 @@ Traumer is a house and techno artist tracked on soundcheck, with 308 sets logged
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Sat, 5 Sept 2026 | Descent | Boston |
 | Sun, 6 Sept 2026 | Jolene Downtown Miami | Miami |
 | Mon, 7 Sept 2026 | Radius | Chicago |
 | Fri, 11 Sept 2026 | Pacha Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Traumer is a house and techno artist tracked on soundcheck, with 308 sets logged
 | Sat, 26 Sept 2026 | Postkantine | Basel |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 3 Oct 2026 | The Nest | Nottingham |
+| Tue, 6 Oct 2026 | Hï Ibiza | Ibiza |
 
 ## Recently played
 
+- Descent, Boston — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - H0L0, New York City — Fri, 4 Sept 2026
 - [UNVRS], Ibiza — Wed, 2 Sept 2026
@@ -30,10 +31,9 @@ Traumer is a house and techno artist tracked on soundcheck, with 308 sets logged
 - Maya Beach Experience, Naples — Sat, 29 Aug 2026
 - Santanna Mykonos, Mykonos — Fri, 21 Aug 2026
 - Amnesia Ibiza, Ibiza — Tue, 18 Aug 2026
-- West Street, Glasgow — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Shonky, Apollonia
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

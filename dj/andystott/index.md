@@ -1,14 +1,15 @@
 # Andy Stott
 
-Andy Stott is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Ground at Club Space, Miami on Fri, 2 Oct 2026.
+Andy Stott is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Ground at Club Space, Miami on Fri, 2 Oct 2026.
 
-Andy Stott is an experimental and electronica artist tracked on soundcheck, with 25 sets logged across Athens, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Demdike Stare, Debit and The Bug. Next up: The Ground at Club Space, Miami on Fri 2 Oct.
+Andy Stott is an experimental and electronica artist tracked on soundcheck, with 26 sets logged across Athens, Austin, Barcelona and Berlin and 16 more. Often billed alongside Debit, Demdike Stare and The Bug. Next up: The Ground at Club Space, Miami on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Ground at Club Space | Miami |
+| Fri, 9 Oct 2026 | Kingdom Nightclub | Austin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Andy Stott is an experimental and electronica artist tracked on soundcheck, with
 
 ## Shares bills with
 
-Demdike Stare, Debit, The Bug
+Debit, Demdike Stare, The Bug
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andystott/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andystott/)*

@@ -1,14 +1,13 @@
 # Josiane
 
-Josiane is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Gestrandet An Der Jannowitzbrücke, Berlin on Sat, 5 Sept 2026.
+Josiane is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Südpol, Hamburg on Fri, 11 Sept 2026.
 
-Josiane is a house and techno artist tracked on soundcheck, with 119 sets logged across Berlin, Cologne, Dortmund-essen and Dusseldorf and 2 more. Often billed alongside Lena Brecht, LeVe and Mad Shivers. Next up: Gestrandet An Der Jannowitzbrücke, Berlin on Sat 5 Sept.
+Josiane is a house and techno artist tracked on soundcheck, with 119 sets logged across Berlin, Cologne, Dortmund-essen and Dusseldorf and 2 more. Often billed alongside Lena Brecht, LeVe and Mad Shivers. Next up: Südpol, Hamburg on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Gestrandet An Der Jannowitzbrücke | Berlin |
 | Fri, 11 Sept 2026 | Südpol | Hamburg |
 | Fri, 11 Sept 2026 | OXI | Berlin |
 | Sat, 12 Sept 2026 | Südpol | Hamburg |
@@ -17,6 +16,7 @@ Josiane is a house and techno artist tracked on soundcheck, with 119 sets logged
 
 ## Recently played
 
+- Gestrandet An Der Jannowitzbrücke, Berlin — Sat, 5 Sept 2026
 - KREUZWERK, Berlin — Sun, 30 Aug 2026
 - Kater, Berlin — Sat, 1 Aug 2026
 - Tempelhof Airport, Berlin — Sat, 1 Aug 2026
@@ -24,10 +24,9 @@ Josiane is a house and techno artist tracked on soundcheck, with 119 sets logged
 - Gestrandet An Der Jannowitzbrücke, Berlin — Sat, 4 Jul 2026
 - Crack Bellmer, Berlin — Sat, 4 Jul 2026
 - KREUZWERK, Berlin — Fri, 3 Jul 2026
-- Giri, Berlin — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Lena Brecht, LeVe, Mad Shivers
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josiane/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josiane/)*

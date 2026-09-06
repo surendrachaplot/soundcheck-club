@@ -1,14 +1,13 @@
 # DJ Rap
 
-DJ Rap is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+DJ Rap is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
-DJ Rap is a drum & bass and jungle artist tracked on soundcheck, with 36 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 7 more. Often billed alongside Nicky Blackmarket, Ray Keith and DJ Hype. Next up: Eutopia Whs, London on Sat 5 Sept.
+DJ Rap is a drum & bass and jungle artist tracked on soundcheck, with 36 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 7 more. Often billed alongside Nicky Blackmarket, Ray Keith and DJ Hype. Next up: Studio 338, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Eutopia Whs | London |
 | Sat, 26 Sept 2026 | Studio 338 | London |
 | Sat, 3 Oct 2026 | NOWHERE | Manchester |
 | Sat, 14 Nov 2026 | Outernet Live | London |
@@ -16,6 +15,7 @@ DJ Rap is a drum & bass and jungle artist tracked on soundcheck, with 36 sets lo
 
 ## Recently played
 
+- Eutopia Whs, London — Sat, 5 Sept 2026
 - The Social, London — Sat, 29 Aug 2026
 - Bowlers Exhibition Centre, Manchester — Sat, 2 May 2026
 - The Fox and Firkin, London — Sat, 4 Apr 2026
@@ -23,10 +23,9 @@ DJ Rap is a drum & bass and jungle artist tracked on soundcheck, with 36 sets lo
 - Electric Brixton, London — Sat, 17 Jan 2026
 - Corsica Studios, London — Fri, 31 Oct 2025
 - Phoenix Hotel, San Francisco/Oakland — Fri, 15 Aug 2025
-- Melkweg, Amsterdam — Mon, 4 Aug 2025
 
 ## Shares bills with
 
 Nicky Blackmarket, Ray Keith, DJ Hype
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrap/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djrap/)*

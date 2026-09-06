@@ -1,6 +1,6 @@
 # IDEMI
 
-IDEMI is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+IDEMI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 IDEMI is a house and techno artist tracked on soundcheck, with 21 sets logged across Aberdeen, Amsterdam, Austin and Brisbane and 13 more. Often billed alongside Marsolo, Chris Stassy and DJ Gigola. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -9,13 +9,13 @@ IDEMI is a house and techno artist tracked on soundcheck, with 21 sets logged ac
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Sat, 5 Sept 2026 | StereoBar | Montreal |
 | Wed, 21 Oct 2026 | GASHOUDER | Amsterdam |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 
 ## Recently played
 
+- StereoBar, Montreal — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Radius, Chicago — Fri, 4 Sept 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
@@ -23,10 +23,9 @@ IDEMI is a house and techno artist tracked on soundcheck, with 21 sets logged ac
 - Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
 - Tigres de la Noche, Washington DC — Fri, 26 Jun 2026
 - SILO, New York City — Sat, 20 Jun 2026
-- Coda, Toronto — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Marsolo, Chris Stassy, DJ Gigola
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*

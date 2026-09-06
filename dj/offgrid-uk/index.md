@@ -1,14 +1,15 @@
 # OFFGRID
 
-OFFGRID is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at La Belle Angele, Edinburgh on Fri, 11 Sept 2026.
+OFFGRID is a Techno and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at La Belle Angele, Edinburgh on Fri, 11 Sept 2026.
 
-OFFGRID is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Edinburgh. Often billed alongside Ryan Murphy (2), cara hegarty and BORLEY. Next up: La Belle Angele, Edinburgh on Fri 11 Sept.
+OFFGRID is a techno and garage artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Edinburgh. Often billed alongside Ryan Murphy (2), cara hegarty and BORLEY. Next up: La Belle Angele, Edinburgh on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | La Belle Angele | Edinburgh |
+| Fri, 25 Sept 2026 | The Mash House | Edinburgh |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ OFFGRID is a techno and garage artist based in United Kingdom, tracked on soundc
 
 Ryan Murphy (2), cara hegarty, BORLEY
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/offgrid-uk/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/offgrid-uk/)*

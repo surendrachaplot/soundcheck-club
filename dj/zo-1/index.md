@@ -1,13 +1,14 @@
 # ZÖ (1)
 
-ZÖ (1) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Der Weiße Hase, Berlin on Tue, 29 Sept 2026.
+ZÖ (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Der Weiße Hase, Berlin on Fri, 25 Sept 2026.
 
-ZÖ (1) is a trance and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Cologne and Leipzig. Often billed alongside KERT (DE), Klangpusch and Lisatrix. Next up: Der Weiße Hase, Berlin on Tue 29 Sept.
+ZÖ (1) is a techno and trance artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Cologne and Leipzig. Often billed alongside KERT (DE), Klangpusch and Lisatrix. Next up: Der Weiße Hase, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Der Weiße Hase | Berlin |
 | Tue, 29 Sept 2026 | Der Weiße Hase | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ ZÖ (1) is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 KERT (DE), Klangpusch, Lisatrix
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zo-1/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zo-1/)*

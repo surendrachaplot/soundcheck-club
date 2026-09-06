@@ -1,18 +1,18 @@
 # HAUSWiFE
 
-HAUSWiFE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Glamorama, Melbourne on Sat, 5 Sept 2026.
+HAUSWiFE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Max Watt's, Melbourne on Thu, 24 Sept 2026.
 
-HAUSWiFE is a house and techno artist tracked on soundcheck, with 116 sets logged across Bangkok, Bristol, Melbourne and Sanfrancisco and 1 more. Often billed alongside Mitch Tonta, JOVE and Joey Coco. Next up: Glamorama, Melbourne on Sat 5 Sept.
+HAUSWiFE is a house and techno artist tracked on soundcheck, with 116 sets logged across Bangkok, Bristol, Melbourne and Sanfrancisco and 1 more. Often billed alongside Mitch Tonta, JOVE and Joey Coco. Next up: Max Watt's, Melbourne on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Glamorama | Melbourne |
 | Thu, 24 Sept 2026 | Max Watt's | Melbourne |
 
 ## Recently played
 
+- Glamorama, Melbourne — Sat, 5 Sept 2026
 - New Guernica, Melbourne — Thu, 30 Jul 2026
 - New Guernica, Melbourne — Thu, 23 Jul 2026
 - Glamorama, Melbourne — Sat, 11 Jul 2026
@@ -20,10 +20,9 @@ HAUSWiFE is a house and techno artist tracked on soundcheck, with 116 sets logge
 - Glamorama, Melbourne — Sat, 13 Jun 2026
 - New Guernica, Melbourne — Thu, 11 Jun 2026
 - New Guernica, Melbourne — Sat, 30 May 2026
-- The Night Cat, Melbourne — Fri, 8 May 2026
 
 ## Shares bills with
 
 Mitch Tonta, JOVE, Joey Coco
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hauswife/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hauswife/)*

@@ -1,14 +1,15 @@
 # Lomax
 
-Lomax is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Circus Osaka, Osaka on Thu, 10 Sept 2026.
+Lomax is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Circus Osaka, Osaka on Thu, 10 Sept 2026.
 
-Lomax is a house and techno artist tracked on soundcheck, with 146 sets logged across Amsterdam, Kyoto, Leeds and London and 2 more. Often billed alongside Stones Taro, kitapon and droove. Next up: Circus Osaka, Osaka on Thu 10 Sept.
+Lomax is a house and techno artist tracked on soundcheck, with 147 sets logged across Amsterdam, Kyoto, Leeds and London and 2 more. Often billed alongside Stones Taro, kitapon and droove. Next up: Circus Osaka, Osaka on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Circus Osaka | Osaka |
+| Sat, 17 Oct 2026 | West Harlem | Kyoto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lomax is a house and techno artist tracked on soundcheck, with 146 sets logged a
 
 Stones Taro, kitapon, droove
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lomax/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lomax/)*

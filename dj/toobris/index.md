@@ -1,14 +1,13 @@
 # Toobris
 
-Toobris is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Wigwam, Dublin on Sat, 5 Sept 2026.
+Toobris is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Hidden, Manchester on Sat, 12 Sept 2026.
 
-Toobris is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: Wigwam, Dublin on Sat 5 Sept.
+Toobris is a techno and house artist tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: Hidden, Manchester on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Wigwam | Dublin |
 | Sat, 12 Sept 2026 | Hidden | Manchester |
 | Sat, 19 Sept 2026 | Lofi | Amsterdam |
 | Sat, 19 Sept 2026 | DETROIT CLUB | Barcelona |
@@ -18,6 +17,7 @@ Toobris is a techno and house artist tracked on soundcheck, with 55 sets logged 
 
 ## Recently played
 
+- Wigwam, Dublin — Sat, 5 Sept 2026
 - Open Ground, Wuppertal — Fri, 4 Sept 2026
 - Rote Sonne, Munich — Fri, 14 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
@@ -25,10 +25,9 @@ Toobris is a techno and house artist tracked on soundcheck, with 55 sets logged 
 - RADION, Amsterdam — Sat, 25 Jul 2026
 - arkaoda Berlin, Berlin — Wed, 22 Jul 2026
 - NWHR, Montreal — Sat, 18 Jul 2026
-- public records, New York City — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Freddy K, Alarico, Ignez
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toobris/)*

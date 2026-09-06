@@ -1,6 +1,6 @@
 # Free Party with Lay.Dee Strange b2b Roxy, Antiquis Anima, Upzet, Nerv, Modulatos, Ektoside at Void Club
 
-Free Party with Lay.Dee Strange b2b Roxy, Antiquis Anima, Upzet, Nerv, Modulatos, Ektoside at Void Club on Sat 26 Sept, Berlin. 7 acts on the bill: Antiquis Anima, Ektoside, Kimby and Lay.Dee Strange and 3 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Free Party with Lay.Dee Strange b2b Roxy, Antiquis Anima, Upzet, Nerv, Modulatos, Ektoside at Void Club on Sat 26 Sept, Berlin. 8 acts on the bill: Antiquis Anima, Bäggy, Ektoside and Kimby and 4 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Free Party with Lay.Dee Strange b2b Roxy, Antiquis Anima, Upzet, Nerv, Modulatos
 ## Line-up
 
 - Antiquis Anima
+- Bäggy
 - Ektoside
 - Kimby
 - Lay.Dee Strange

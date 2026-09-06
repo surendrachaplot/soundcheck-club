@@ -1,8 +1,8 @@
 # Bloom
 
-Bloom is a House and Grime artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Bloom is a House and Grime artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
-Bloom is a house and grime artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Bangkok and Belfast and 5 more. Often billed alongside ELIF, Giantsiam and Kamma. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
+Bloom is a house and grime artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Antwerp, Bangkok and Belfast and 5 more. Often billed alongside DIØN, ELIF and Giantsiam. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Bloom is a house and grime artist based in United Kingdom, tracked on soundcheck
 
 ## Shares bills with
 
-ELIF, Giantsiam, Kamma
+DIØN, ELIF, Giantsiam
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloom/)*

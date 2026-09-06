@@ -1,18 +1,18 @@
 # Orson Sinaka
 
-Orson Sinaka is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Village Underground Barcelona, Barcelona on Sat, 5 Sept 2026.
+Orson Sinaka is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Cadavra, Madrid on Fri, 18 Sept 2026.
 
-Orson Sinaka is a house and tech house artist tracked on soundcheck, with 19 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Cortazar, Almuedo and Hugo Martinez. Next up: Village Underground Barcelona, Barcelona on Sat 5 Sept.
+Orson Sinaka is a house and tech house artist tracked on soundcheck, with 19 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside Cortazar, Almuedo and Hugo Martinez. Next up: Cadavra, Madrid on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Village Underground Barcelona | Barcelona |
 | Fri, 18 Sept 2026 | Cadavra | Madrid |
 
 ## Recently played
 
+- Village Underground Barcelona, Barcelona — Sat, 5 Sept 2026
 - Soundbaths, Madrid — Sat, 9 May 2026
 - Gilda Club, Madrid — Thu, 5 Feb 2026
 - Araña Club, Madrid — Sat, 8 Nov 2025
@@ -20,10 +20,9 @@ Orson Sinaka is a house and tech house artist tracked on soundcheck, with 19 set
 - Goya Social Club, Madrid — Sat, 12 Apr 2025
 - Goya Social Club, Madrid — Sat, 12 Apr 2025
 - Goya Social Club, Madrid — Sat, 1 Mar 2025
-- Goya Social Club, Madrid — Thu, 27 Feb 2025
 
 ## Shares bills with
 
 Cortazar, Almuedo, Hugo Martinez
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orsonsinaka/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/orsonsinaka/)*

@@ -1,14 +1,13 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Fvtvr, Paris on Sat, 5 Sept 2026.
+Freddy K is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 18 Sept 2026.
 
-Freddy K is a techno and house artist tracked on soundcheck, with 276 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Blasha & Allatt, Alarico and Chlär. Next up: Fvtvr, Paris on Sat 5 Sept.
+Freddy K is a techno and house artist tracked on soundcheck, with 277 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: TBA - Secret Location, Toronto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | TBA - Secret Location | Toronto |
 | Sat, 19 Sept 2026 | BASEMENT | New York City |
 | Sat, 26 Sept 2026 | Tapada da Ajuda | Lisbon |
@@ -20,9 +19,11 @@ Freddy K is a techno and house artist tracked on soundcheck, with 276 sets logge
 | Sat, 17 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Sun, 25 Oct 2026 | RADION | Amsterdam |
 
 ## Recently played
 
+- Fvtvr, Paris — Sat, 5 Sept 2026
 - Open Ground, Wuppertal — Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 25 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
@@ -30,10 +31,9 @@ Freddy K is a techno and house artist tracked on soundcheck, with 276 sets logge
 - FOLD, London — Fri, 7 Aug 2026
 - Else, Berlin — Sat, 1 Aug 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
-- The Yard, Manchester — Sat, 25 Jul 2026
 
 ## Shares bills with
 
-Blasha & Allatt, Alarico, Chlär
+Blasha & Allatt, Chlär, Alarico
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

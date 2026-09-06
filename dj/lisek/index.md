@@ -1,6 +1,6 @@
 # Lisek
 
-Lisek is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
+Lisek is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
 
 Lisek is a techno and trance artist tracked on soundcheck, with 56 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside DJ Sweedee, Sober At The Disco and CH4YN. Next up: Lokschuppen Berlin, Berlin on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Lisek is a techno and trance artist tracked on soundcheck, with 56 sets logged a
 
 DJ Sweedee, Sober At The Disco, CH4YN
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisek/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisek/)*

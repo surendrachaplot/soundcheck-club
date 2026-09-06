@@ -1,6 +1,6 @@
 # Paraçek
 
-Paraçek is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 25 Sept 2026.
+Paraçek is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at RSO.BERLIN, Berlin on Fri, 25 Sept 2026.
 
 Paraçek is a techno and trance artist tracked on soundcheck, with 153 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside A.N.I., KLING&KLANG and DJ WASSERFALL. Next up: RSO.BERLIN, Berlin on Fri 25 Sept.
 
@@ -30,4 +30,4 @@ Paraçek is a techno and trance artist tracked on soundcheck, with 153 sets logg
 
 A.N.I., KLING&KLANG, DJ WASSERFALL
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*

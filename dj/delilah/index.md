@@ -1,14 +1,13 @@
 # Delilah
 
-Delilah is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Milandia Greifensee, Zurich on Sat, 5 Sept 2026.
+Delilah is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-Delilah is a house and tech house artist tracked on soundcheck, with 37 sets logged across Berlin, Bristol, Brussels and Dublin and 6 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: Milandia Greifensee, Zurich on Sat 5 Sept.
+Delilah is a house and tech house artist tracked on soundcheck, with 37 sets logged across Berlin, Bristol, Brussels and Dublin and 6 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Milandia Greifensee | Zurich |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
@@ -17,6 +16,7 @@ Delilah is a house and tech house artist tracked on soundcheck, with 37 sets log
 
 ## Recently played
 
+- Milandia Greifensee, Zurich — Sat, 5 Sept 2026
 - Hï Ibiza, Ibiza — Tue, 1 Sept 2026
 - [UNVRS], Ibiza — Wed, 26 Aug 2026
 - Old Royal Naval College, London — Sun, 16 Aug 2026
@@ -24,10 +24,9 @@ Delilah is a house and tech house artist tracked on soundcheck, with 37 sets log
 - Heaton Park, Manchester — Sat, 20 Jun 2026
 - The Grand Social, Dublin — Sat, 30 May 2026
 - Irish Museum of Modern Art, Dublin — Sat, 30 May 2026
-- Ashton Court Estate, Bristol — Sat, 23 May 2026
 
 ## Shares bills with
 
 MiNNA, Rossi, Sidney Charles
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/delilah/)*

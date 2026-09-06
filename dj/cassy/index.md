@@ -1,14 +1,13 @@
 # Cassy
 
-Cassy is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sophie Festival, Malaga on Sat, 5 Sept 2026.
+Cassy is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
-Cassy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 165 sets logged across Amsterdam, Bali, Barcelona and Berlin and 44 more. Often billed alongside Carlos Valdes, Anja Schneider and Chris Stassy. Next up: Sophie Festival, Malaga on Sat 5 Sept.
+Cassy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 165 sets logged across Amsterdam, Bali, Barcelona and Berlin and 44 more. Often billed alongside Carlos Valdes, Anja Schneider and Chris Stassy. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Sophie Festival | Malaga |
 | Sat, 12 Sept 2026 | RSO.BERLIN | Berlin |
 | Wed, 23 Sept 2026 | 528 Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | Nowadays | New York City |
@@ -21,6 +20,7 @@ Cassy is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
+- Sophie Festival, Malaga — Sat, 5 Sept 2026
 - Pikes Ibiza, Ibiza — Thu, 27 Aug 2026
 - Kater, Berlin — Fri, 21 Aug 2026
 - Kelvedon Hall, London — Fri, 14 Aug 2026
@@ -28,10 +28,9 @@ Cassy is a house and techno artist based in United Kingdom, tracked on soundchec
 - Platforma Wolff, Bucharest — Fri, 24 Jul 2026
 - Sonnenraum, Berlin — Sat, 18 Jul 2026
 - Fvtvr, Paris — Fri, 3 Jul 2026
-- THE MAGICK BAR, Rome — Wed, 17 Jun 2026
 
 ## Shares bills with
 
 Carlos Valdes, Anja Schneider, Chris Stassy
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*

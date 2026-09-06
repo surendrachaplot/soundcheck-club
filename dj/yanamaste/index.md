@@ -1,15 +1,13 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 22 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Gate Milano, Milan on Sat, 5 Sept 2026.
+Yanamaste is a Techno and House artist with 22 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 6 Sept 2026.
 
-Yanamaste is a techno and house artist tracked on soundcheck, with 223 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Gate Milano, Milan on Sat 5 Sept.
+Yanamaste is a techno and house artist tracked on soundcheck, with 225 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Amnesia Ibiza, Ibiza on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Gate Milano | Milan |
-| Sat, 5 Sept 2026 | Mystic Skatepark | Prague |
 | Sun, 6 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Schrotty | Cologne |
 | Sat, 12 Sept 2026 | Else | Berlin |
@@ -20,20 +18,22 @@ Yanamaste is a techno and house artist tracked on soundcheck, with 223 sets logg
 | Fri, 18 Sept 2026 | EXIL | Zurich |
 | Sat, 19 Sept 2026 | Q35 WAREHOUSE | Turin |
 | Tue, 29 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
+| Sat, 3 Oct 2026 | Klein Phönix | Istanbul |
 
 ## Recently played
 
+- Gate Milano, Milan — Sat, 5 Sept 2026
+- Mystic Skatepark, Prague — Sat, 5 Sept 2026
 - Studio Club Malaga, Malaga — Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 30 Aug 2026
 - Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
 - RSO.BERLIN, Berlin — Thu, 13 Aug 2026
 - Amnesia Ibiza, Ibiza — Sun, 9 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- Amnesia Ibiza, Ibiza — Tue, 28 Jul 2026
-- Rebstockpark, Frankfurt — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

@@ -1,14 +1,13 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bricks, London on Sat, 5 Sept 2026.
+B.Love is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
 
-B.Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 14 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: Bricks, London on Sat 5 Sept.
+B.Love is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 14 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: UNO MALTA, Malta on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Bricks | London |
 | Thu, 17 Sept 2026 | UNO MALTA | Malta |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Fri, 25 Sept 2026 | Outer Heaven | New York City |
@@ -20,6 +19,7 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
+- Bricks, London — Sat, 5 Sept 2026
 - The Fox and Firkin, London — Sat, 1 Aug 2026
 - Gaffe, London — Sat, 25 Jul 2026
 - Studio Stereo, Barcelona — Fri, 17 Jul 2026
@@ -27,10 +27,9 @@ B.Love is a house and tech house artist based in United Kingdom, tracked on soun
 - Distrikt, Leeds — Sat, 27 Jun 2026
 - Cabaret Voltaire, Edinburgh — Fri, 26 Jun 2026
 - High Lights - Barking Park, London — Sat, 30 May 2026
-- The Cause, London — Sat, 30 May 2026
 
 ## Shares bills with
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

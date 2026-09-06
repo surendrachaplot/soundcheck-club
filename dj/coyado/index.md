@@ -1,6 +1,6 @@
 # Coyado
 
-Coyado is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at telos.haus, New York City on Sun, 6 Sept 2026.
+Coyado is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at telos.haus, New York City on Sun, 6 Sept 2026.
 
 Coyado is a techno and club artist based in United States of America, tracked on soundcheck, with 39 sets logged across Newyorkcity, Philadelphia and Sydney. Often billed alongside Heartbreaker, Josh Steers and Sevyn Love. Next up: telos.haus, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Coyado is a techno and club artist based in United States of America, tracked on
 
 Heartbreaker, Josh Steers, Sevyn Love
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coyado/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/coyado/)*

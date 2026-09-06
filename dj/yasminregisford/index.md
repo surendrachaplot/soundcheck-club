@@ -1,6 +1,6 @@
 # Yasmin Regisford
 
-Yasmin Regisford is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Z-Bau, Nürnberg on Sat, 26 Sept 2026.
+Yasmin Regisford is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Z-Bau, Nürnberg on Sat, 26 Sept 2026.
 
 Yasmin Regisford is a techno and trance artist based in France, tracked on soundcheck, with 68 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 21 more. Often billed alongside 25EMEHEURE, Carla Schmitt and PRADA2000. Next up: Z-Bau, Nurnberg on Sat 26 Sept.
 
@@ -29,4 +29,4 @@ Yasmin Regisford is a techno and trance artist based in France, tracked on sound
 
 25EMEHEURE, Carla Schmitt, PRADA2000
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yasminregisford/)*

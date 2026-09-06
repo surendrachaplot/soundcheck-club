@@ -1,6 +1,6 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 6 Sept 2026.
+Gaskin is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 6 Sept 2026.
 
 Gaskin is a house and tech house artist tracked on soundcheck, with 183 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Los Angeles State Historic Park, Losangeles on Sun 6 Sept.
 
@@ -36,4 +36,4 @@ Gaskin is a house and tech house artist tracked on soundcheck, with 183 sets log
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

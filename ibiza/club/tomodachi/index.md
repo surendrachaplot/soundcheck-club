@@ -1,14 +1,13 @@
 # Tomodachi
 
-Tomodachi is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Tomodachi w/ Petre Inspirescu" on Sat, 5 Sept 2026.
+Tomodachi is a music venue in Ibiza with 16 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Real Gang w/ Cristi Cons" on Tue, 8 Sept 2026.
 
-Tomodachi is a music venue in Ibiza listed on soundcheck. 17 upcoming nights. Browse upcoming dates, start times and who's playing. Carrer de Pere FrancÃ¨s, 07800 Eivissa, Illes Balears, Spain.
+Tomodachi is a music venue in Ibiza listed on soundcheck. 16 upcoming nights. Browse upcoming dates, start times and who's playing. Carrer de Pere FrancÃ¨s, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Tomodachi w/ Petre Inspirescu |  |
 | Tue, 8 Sept 2026 | Real Gang w/ Cristi Cons |  |
 | Wed, 9 Sept 2026 | Tomodachi x FUEL w/ DR BANANA |  |
 | Fri, 11 Sept 2026 | Tomodachi w/ Real Gang Soundsystem ALL NIGHT LONG |  |
@@ -18,9 +17,10 @@ Tomodachi is a music venue in Ibiza listed on soundcheck. 17 upcoming nights. Br
 | Sat, 19 Sept 2026 | Tomodachi w/ TOMOKI TAMURA |  |
 | Tue, 22 Sept 2026 | Real Gang w/ SIBIL |  |
 | Fri, 25 Sept 2026 | Tomodachi w/ Cabanne |  |
+| Sat, 26 Sept 2026 | Tomodachi w/ Ion Ludwig (LIVE) |  |
 
 ## Address
 
 Carrer de Pere FrancÃ¨s, 07800 Eivissa, Illes Balears, Spain, Ibiza
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tomodachi/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/tomodachi/)*

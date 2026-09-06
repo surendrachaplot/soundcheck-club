@@ -1,15 +1,13 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bassiani, Tbilisi on Fri, 4 Sept 2026.
+Doudou MD is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
 
-Doudou MD is a house and techno artist tracked on soundcheck, with 216 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: Bassiani, Tbilisi on Fri 4 Sept.
+Doudou MD is a house and techno artist tracked on soundcheck, with 216 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: Fvtvr, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Bassiani | Tbilisi |
-| Sat, 5 Sept 2026 | Night Tales | London |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | Shelter Amsterdam | Amsterdam |
@@ -20,6 +18,7 @@ Doudou MD is a house and techno artist tracked on soundcheck, with 216 sets logg
 
 ## Recently played
 
+- Night Tales, London — Sat, 5 Sept 2026
 - Bassiani, Tbilisi — Fri, 4 Sept 2026
 - Radio Radio, Amsterdam — Fri, 14 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 8 Aug 2026
@@ -27,10 +26,9 @@ Doudou MD is a house and techno artist tracked on soundcheck, with 216 sets logg
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - ISOamsterdam, Amsterdam — Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Gaffe, London — Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Samuel Deep, DJ Senc, Fumiya Tanaka
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*

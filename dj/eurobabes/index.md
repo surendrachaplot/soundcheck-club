@@ -1,6 +1,6 @@
 # EUROBABES
 
-EUROBABES is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
+EUROBABES is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
 
 EUROBABES is a trance and techno artist tracked on soundcheck, with 36 sets logged across Berlin, Leipzig and Vienna. Often billed alongside Pavelo Promillo, BBetriebswirt and DJ Buona Sara. Next up: Kater, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ EUROBABES is a trance and techno artist tracked on soundcheck, with 36 sets logg
 
 Pavelo Promillo, BBetriebswirt, DJ Buona Sara
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eurobabes/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eurobabes/)*

@@ -1,15 +1,13 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and Ambient artist with 11 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Europa Boat, Budapest on Sat, 5 Sept 2026.
+Claudio PRC is a Techno and Ambient artist with 9 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Jasna 1, Warsaw on Fri, 11 Sept 2026.
 
-Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck, with 155 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Europa Boat, Budapest on Sat 5 Sept.
+Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck, with 155 sets logged across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Jasna 1, Warsaw on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Europa Boat | Budapest |
-| Sat, 5 Sept 2026 | The Bassement | Madrid |
 | Fri, 11 Sept 2026 | Jasna 1 | Warsaw |
 | Fri, 18 Sept 2026 | Paradiso | Amsterdam |
 | Sat, 3 Oct 2026 | Onyx (E1) | London |
@@ -22,6 +20,7 @@ Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck
 
 ## Recently played
 
+- Europa Boat, Budapest — Sat, 5 Sept 2026
 - Trädgården, Stockholm — Fri, 4 Sept 2026
 - De Fik Garden, Amsterdam — Sun, 30 Aug 2026
 - Club der Visionaere, Berlin — Wed, 12 Aug 2026
@@ -29,10 +28,9 @@ Claudio PRC is a techno and ambient artist based in Italy, tracked on soundcheck
 - public records, New York City — Fri, 24 Jul 2026
 - The Bassement, Madrid — Sat, 4 Jul 2026
 - LA Rítmica Club, Valencia — Fri, 3 Jul 2026
-- Tresor / Globus, Berlin — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Isabel Soto, Luigi Tozzi, Adriana Lopez
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*

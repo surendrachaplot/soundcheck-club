@@ -1,8 +1,8 @@
 # TC
 
-TC is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+TC is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
-TC is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Bristol, Budapest and Glasgow and 5 more. Often billed alongside Jakes, Carasel and Danny Byrd. Next up: Sawmills, Bristol on Sat 12 Sept.
+TC is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Bristol, Budapest and Glasgow and 5 more. Often billed alongside Jakes, Carasel and Danny Byrd. Next up: Sawmills, Bristol on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TC is a drum & bass and jungle artist based in United Kingdom, tracked on soundc
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
 | Sat, 28 Nov 2026 | Westhafen | Leipzig |
+| Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ TC is a drum & bass and jungle artist based in United Kingdom, tracked on soundc
 
 Jakes, Carasel, Danny Byrd
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tc/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tc/)*

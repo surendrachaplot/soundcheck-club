@@ -1,6 +1,6 @@
 # Tino Machauer
 
-Tino Machauer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at RADION, Amsterdam on Sat, 26 Sept 2026.
+Tino Machauer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at RADION, Amsterdam on Sat, 26 Sept 2026.
 
 Tino Machauer is a techno and house artist tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Basel and Berlin and 9 more. Often billed alongside lex_shockwerk, slin and MATRIX3K. Next up: RADION, Amsterdam on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Tino Machauer is a techno and house artist tracked on soundcheck, with 40 sets l
 
 lex_shockwerk, slin, MATRIX3K
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinomachauer/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinomachauer/)*

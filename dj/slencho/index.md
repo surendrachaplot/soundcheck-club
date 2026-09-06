@@ -1,18 +1,18 @@
 # Slencho
 
-Slencho is a Drum & Bass and Electronica artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Basing House, London on Sat, 5 Sept 2026.
+Slencho is a Drum & Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Planet Wax, London on Thu, 17 Sept 2026.
 
-Slencho is a drum & bass and electronica artist based in Australia, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Cellar (2), Misura and choose1. Next up: Basing House, London on Sat 5 Sept.
+Slencho is a drum & bass and electronica artist based in Australia, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Cellar (2), Misura and choose1. Next up: Planet Wax, London on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Basing House | London |
 | Thu, 17 Sept 2026 | Planet Wax | London |
 
 ## Recently played
 
+- Basing House, London — Sat, 5 Sept 2026
 - Bread and Butter, London — Sat, 18 Jul 2026
 - Rolling Stock, London — Fri, 15 May 2026
 - The Star Of Kings, London — Sat, 25 Apr 2026
@@ -25,4 +25,4 @@ Slencho is a drum & bass and electronica artist based in Australia, tracked on s
 
 Cellar (2), Misura, choose1
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slencho/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slencho/)*

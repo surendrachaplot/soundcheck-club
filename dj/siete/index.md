@@ -1,6 +1,6 @@
 # SIETE
 
-SIETE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Sultan Room, New York City on Sun, 6 Sept 2026.
+SIETE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Sultan Room, New York City on Sun, 6 Sept 2026.
 
 SIETE is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Barcelona, Losangeles, Mexicocity and Milan and 4 more. Often billed alongside Siete Catorce, CUERPOS and Coyado. Next up: The Sultan Room, Newyorkcity on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ SIETE is a techno and house artist based in United States of America, tracked on
 
 Siete Catorce, CUERPOS, Coyado
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siete/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siete/)*

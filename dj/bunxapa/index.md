@@ -1,14 +1,15 @@
 # Bun Xapa
 
-Bun Xapa is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
+Bun Xapa is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
-Bun Xapa is an afro house and house artist tracked on soundcheck, with 38 sets logged across Amsterdam, Athens, Berlin and Brussels and 13 more. Often billed alongside DJ BREYTH, Rancido and Enoo Napa. Next up: Afas Live, Amsterdam on Sat 24 Oct.
+Bun Xapa is an afro house and afro tech artist tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Athens and Berlin and 14 more. Often billed alongside Rancido, DJ BREYTH and Van Zand. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
+| Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Bun Xapa is an afro house and house artist tracked on soundcheck, with 38 sets l
 
 ## Shares bills with
 
-DJ BREYTH, Rancido, Enoo Napa
+Rancido, DJ BREYTH, Van Zand
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bunxapa/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bunxapa/)*

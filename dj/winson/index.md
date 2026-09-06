@@ -1,14 +1,13 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 11 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Wasteland Festival, Cologne on Sat, 5 Sept 2026.
+Winson is a Techno and Deep House artist with 10 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 11 Sept 2026.
 
-Winson is a techno and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: TBA - Wasteland Festival, Cologne on Sat 5 Sept.
+Winson is a techno and deep house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Basel and Brussels and 28 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: 131 Mccormack St, Toronto on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - Wasteland Festival | Cologne |
 | Fri, 11 Sept 2026 | 131 Mccormack St | Toronto |
 | Sat, 12 Sept 2026 | Knockdown Center | New York City |
 | Fri, 18 Sept 2026 | Radius | Chicago |
@@ -22,6 +21,7 @@ Winson is a techno and deep house artist tracked on soundcheck, with 73 sets log
 
 ## Recently played
 
+- TBA - Wasteland Festival, Cologne — Sat, 5 Sept 2026
 - Echostage, Washington DC — Fri, 4 Sept 2026
 - Echostage, Washington DC — Fri, 4 Sept 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
@@ -29,10 +29,9 @@ Winson is a techno and deep house artist tracked on soundcheck, with 73 sets log
 - Amnesia Ibiza, Ibiza — Mon, 17 Aug 2026
 - UNO MALTA, Malta — Fri, 31 Jul 2026
 - Eden, Ibiza — Tue, 21 Jul 2026
-- Arzenal, Budapest — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 KUKO, KLOFAMA, KARAH
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

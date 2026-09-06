@@ -1,8 +1,8 @@
 # MELLA MARA
 
-MELLA MARA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
+MELLA MARA is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
 
-MELLA MARA is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and Ibiza. Often billed alongside Pilar Jordan, kattastrophe and rundom. Next up: TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat 19 Sept.
+MELLA MARA is a house and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin and Ibiza. Often billed alongside Pilar Jordan, kattastrophe and rundom. Next up: TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MELLA MARA is a house and techno artist based in Germany, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TBA - Passion Cat Catamaran Ibiza - San Antonio | Ibiza |
 | Thu, 8 Oct 2026 | Klunkerkranich | Berlin |
+| Thu, 22 Oct 2026 | Nicholas Groente & Fruit | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MELLA MARA is a house and techno artist based in Germany, tracked on soundcheck,
 
 Pilar Jordan, kattastrophe, rundom
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mellamara/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mellamara/)*

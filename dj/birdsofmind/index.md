@@ -1,6 +1,6 @@
 # Birds of Mind
 
-Birds of Mind is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Audio Club, Geneva on Fri, 18 Sept 2026.
+Birds of Mind is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Audio Club, Geneva on Fri, 18 Sept 2026.
 
 Birds of Mind is a deep house and house artist tracked on soundcheck, with 67 sets logged across Athens, Barcelona, Geneva and Ibiza and 15 more. Often billed alongside Parallelle, Colyn and Bedouin. Next up: Audio Club, Geneva on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Birds of Mind is a deep house and house artist tracked on soundcheck, with 67 se
 
 Parallelle, Colyn, Bedouin
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsofmind/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsofmind/)*

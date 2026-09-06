@@ -1,8 +1,8 @@
 # Arthur (US)
 
-Arthur (US) is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Nowadays, New York City on Sat, 24 Oct 2026.
+Arthur (US) is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Nowadays, New York City on Sat, 24 Oct 2026.
 
-Arthur (US) is a bass and dub artist based in United States of America, tracked on soundcheck, with 5 sets logged across Berlin, London and Newyorkcity. Often billed alongside AceMoMA, Actress and Aho Ssan. Next up: Nowadays, Newyorkcity on Sat 24 Oct.
+Arthur (US) is a bass and dub artist based in United States of America, tracked on soundcheck, with 5 sets logged across Berlin, London and Newyorkcity. Often billed alongside Arthur (DE), AceMoMA and Actress. Next up: Nowadays, Newyorkcity on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Arthur (US) is a bass and dub artist based in United States of America, tracked 
 
 ## Shares bills with
 
-AceMoMA, Actress, Aho Ssan
+Arthur (DE), AceMoMA, Actress
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurus/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurus/)*

@@ -1,14 +1,14 @@
 # Late London
 
-Late London is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 618 DC, Washington DC on Sun, 6 Sept 2026.
+Late London is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, Washington DC on Sun, 6 Sept 2026.
 
-Late London is a house and tech house artist tracked on soundcheck, with 28 sets logged across Miami and Washingtondc. Often billed alongside Fátima, J. Park and Jackie Hollander. Next up: 618 DC, Washingtondc on Sun 6 Sept.
+Late London is a house and tech house artist tracked on soundcheck, with 28 sets logged across Miami and Washingtondc. Often billed alongside Fátima, J. Park and Jackie Hollander. Next up: TBA, Washingtondc on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | 618 DC | Washington DC |
+| Sun, 6 Sept 2026 | TBA | Washington DC |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Late London is a house and tech house artist tracked on soundcheck, with 28 sets
 
 Fátima, J. Park, Jackie Hollander
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latelondon/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/latelondon/)*

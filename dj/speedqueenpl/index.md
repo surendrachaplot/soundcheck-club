@@ -1,18 +1,21 @@
 # SPEEDQUEEN (PL)
 
-SPEEDQUEEN (PL) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Liquid Club, Malta on Sat, 5 Sept 2026.
+SPEEDQUEEN (PL) is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Liquid Club, Malta on Fri, 18 Sept 2026.
 
-SPEEDQUEEN (PL) is a techno and acid artist based in Poland, tracked on soundcheck, with 2 sets logged across Malta. Often billed alongside Tntna, Dicentra and Eaub. Next up: Liquid Club, Malta on Sat 5 Sept.
+SPEEDQUEEN (PL) is a techno and acid artist based in Poland, tracked on soundcheck, with 2 sets logged across Malta. Often billed alongside Tntna, Dicentra and Eaub. Next up: Liquid Club, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Liquid Club | Malta |
 | Fri, 18 Sept 2026 | Liquid Club | Malta |
+
+## Recently played
+
+- Liquid Club, Malta — Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Tntna, Dicentra, Eaub
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/speedqueenpl/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/speedqueenpl/)*

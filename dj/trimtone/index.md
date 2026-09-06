@@ -1,19 +1,19 @@
 # Trimtone
 
-Trimtone is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - THE STRAY, HARROGATE, Leeds on Sat, 5 Sept 2026.
+Trimtone is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Thu, 22 Oct 2026.
 
-Trimtone is a house and club artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Chicago, Ibiza and Leeds and 6 more. Often billed alongside David Penn, Marshall Jefferson and Sam Divine. Next up: TBA - THE STRAY, HARROGATE, Leeds on Sat 5 Sept.
+Trimtone is a house and club artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Chicago, Ibiza and Leeds and 6 more. Often billed alongside David Penn, Marshall Jefferson and Sam Divine. Next up: Grand Café Heineken Hoek, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - THE STRAY, HARROGATE | Leeds |
 | Thu, 22 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 | Sat, 24 Oct 2026 | Arts Club | Liverpool |
 
 ## Recently played
 
+- TBA - THE STRAY, HARROGATE, Leeds — Sat, 5 Sept 2026
 - Steelyard Kelham, Sheffield — Sun, 24 May 2026
 - Mint Warehouse, Leeds — Sat, 13 Dec 2025
 - TBA - THE STRAY, HARROGATE, Leeds — Sat, 6 Sept 2025
@@ -21,10 +21,9 @@ Trimtone is a house and club artist based in United Kingdom, tracked on soundche
 - 528 Ibiza, Ibiza — Sat, 12 Jul 2025
 - FORGE, Sheffield — Sun, 25 May 2025
 - Ministry Of Sound, London — Thu, 15 May 2025
-- The Yard, Manchester — Sun, 4 May 2025
 
 ## Shares bills with
 
 David Penn, Marshall Jefferson, Sam Divine
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trimtone/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trimtone/)*

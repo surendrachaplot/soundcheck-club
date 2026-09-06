@@ -1,6 +1,6 @@
 # AMORAL
 
-AMORAL is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Palais, London on Sat, 12 Sept 2026.
+AMORAL is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Palais, London on Sat, 12 Sept 2026.
 
 AMORAL is a techno and house artist tracked on soundcheck, with 161 sets logged across Amsterdam, Athens, Barcelona and Berlin and 35 more. Often billed alongside MARRØN, Rene Wise and Beste Hira. Next up: Palais, London on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ AMORAL is a techno and house artist tracked on soundcheck, with 161 sets logged 
 
 MARRØN, Rene Wise, Beste Hira
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*

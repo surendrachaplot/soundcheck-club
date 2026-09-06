@@ -1,6 +1,6 @@
 # Gyusco
 
-Gyusco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Stoked&stoned, Seoul on Sun, 6 Sept 2026.
+Gyusco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Stoked&stoned, Seoul on Sun, 6 Sept 2026.
 
 Gyusco is a house and disco artist based in South Korea, tracked on soundcheck, with 302 sets logged across Seoul and Tokyo. Often billed alongside Youngseok, JNS and Airbear. Next up: Stoked&stoned, Seoul on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Gyusco is a house and disco artist based in South Korea, tracked on soundcheck, 
 
 Youngseok, JNS, Airbear
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gyusco/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gyusco/)*

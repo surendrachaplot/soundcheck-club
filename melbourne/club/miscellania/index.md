@@ -1,14 +1,13 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Concert A feat. Aaliyah Salem, Mirasia, Brown Suga Princess, Mikalah Watego + more" on Sat, 5 Sept 2026.
+Miscellania is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Misc pres. Kia (all night long)" on Fri, 11 Sept 2026.
 
-Miscellania is a music venue in Melbourne listed on soundcheck. 6 upcoming nights, with line-ups including Aaliyah Salem, ANAHITA, bbsanii and Brown Suga Princess and 2 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
+Miscellania is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including GLOW (KR), Kia (AU), Mayari (2) and RattyAtty and 1 more. Browse upcoming dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Concert A feat. Aaliyah Salem, Mirasia, Brown Suga Princess, Mikalah Watego + more | ANAHITA, Aaliyah Salem, Brown Suga Princess, MIRASIA, Mikalah Watego, bbsanii |
 | Fri, 11 Sept 2026 | Misc pres. Kia (all night long) | Kia (AU) |
 | Sat, 12 Sept 2026 | Music in Exile presents Rainbow Chan & Shewita | Mayari (2) |
 | Sat, 12 Sept 2026 | Kerfew Presents: VEIL | RattyAtty |
@@ -19,4 +18,4 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 6 upcoming night
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

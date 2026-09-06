@@ -1,6 +1,6 @@
 # August Kind
 
-August Kind is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Der Weiße Hase, Berlin on Tue, 15 Sept 2026.
+August Kind is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Der Weiße Hase, Berlin on Tue, 15 Sept 2026.
 
 August Kind is a techno and trance artist based in Germany, tracked on soundcheck, with 69 sets logged across Berlin, Budapest and Munich. Often billed alongside Deltapeak, bbymeister and jeanska. Next up: Der Weiße Hase, Berlin on Tue 15 Sept.
 
@@ -27,4 +27,4 @@ August Kind is a techno and trance artist based in Germany, tracked on soundchec
 
 Deltapeak, bbymeister, jeanska
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/augustkind/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/augustkind/)*

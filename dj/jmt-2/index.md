@@ -1,6 +1,6 @@
 # JMT (2)
 
-JMT (2) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Level Two Bar & Rooftop, Detroit on Sun, 6 Sept 2026.
+JMT (2) is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Level Two Bar & Rooftop, Detroit on Sun, 6 Sept 2026.
 
 JMT (2) is a house and techno artist based in United States of America, tracked on soundcheck, with 76 sets logged across Chicago, Denver, Detroit and Glasgow and 1 more. Often billed alongside Fullbodydurag, Disc Jockey George and Duck Trash. Next up: Level Two Bar & Rooftop, Detroit on Sun 6 Sept.
 
@@ -30,4 +30,4 @@ JMT (2) is a house and techno artist based in United States of America, tracked 
 
 Fullbodydurag, Disc Jockey George, Duck Trash
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jmt-2/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jmt-2/)*

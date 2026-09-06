@@ -1,8 +1,8 @@
 # Ada
 
-Ada is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at gART.n, Berlin on Sun, 6 Sept 2026.
+Ada is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at gART.n, Berlin on Sun, 6 Sept 2026.
 
-Ada is a house and techno artist based in Germany, tracked on soundcheck, with 33 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Michael Mayer, Robag Wruhme and DJ Koze. Next up: gART.n, Berlin on Sun 6 Sept.
+Ada is a house and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Michael Mayer, Robag Wruhme and DJ Koze. Next up: gART.n, Berlin on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ada is a house and techno artist based in Germany, tracked on soundcheck, with 3
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | gART.n | Berlin |
 | Fri, 25 Sept 2026 | fi | Cologne |
+| Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ada is a house and techno artist based in Germany, tracked on soundcheck, with 3
 
 Michael Mayer, Robag Wruhme, DJ Koze
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ada/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ada/)*

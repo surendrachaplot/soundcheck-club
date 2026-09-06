@@ -1,6 +1,6 @@
 # David Silver
 
-David Silver is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at OXI, Berlin on Sat, 5 Sept 2026.
+David Silver is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at OXI, Berlin on Sat, 5 Sept 2026.
 
 David Silver is a house and disco artist based in Germany, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 3 more. Often billed alongside Luca Olivotto, Eva Crystaltips and Nephews. Next up: OXI, Berlin on Sat 5 Sept.
 
@@ -12,6 +12,7 @@ David Silver is a house and disco artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
+- OXI, Berlin — Sat, 5 Sept 2026
 - Jonny Knüppel, Berlin — Sat, 30 May 2026
 - OXI, Berlin — Fri, 1 May 2026
 - Sama, Tbilisi — Fri, 12 Dec 2025
@@ -19,10 +20,9 @@ David Silver is a house and disco artist based in Germany, tracked on soundcheck
 - TBA, Barcelona — Sat, 25 Oct 2025
 - TBA, Barcelona — Fri, 24 Oct 2025
 - Renate, Berlin — Thu, 28 Aug 2025
-- Südpol, Hamburg — Sat, 26 Jul 2025
 
 ## Shares bills with
 
 Luca Olivotto, Eva Crystaltips, Nephews
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidsilver/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidsilver/)*

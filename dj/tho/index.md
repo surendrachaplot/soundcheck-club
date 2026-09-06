@@ -1,18 +1,18 @@
 # Tho
 
-Tho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Old Blue Last, London on Sat, 5 Sept 2026.
+Tho is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-Tho is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Boston and Bristol and 14 more. Often billed alongside Loren Heer, DJ Senc and DMC.. Next up: The Old Blue Last, London on Sat 5 Sept.
+Tho is a house and techno artist tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Boston and Bristol and 14 more. Often billed alongside Loren Heer, DJ Senc and DMC.. Next up: TBA, Sanfrancisco on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | The Old Blue Last | London |
 | Fri, 30 Oct 2026 | TBA | San Francisco/Oakland |
 
 ## Recently played
 
+- The Old Blue Last, London — Sat, 5 Sept 2026
 - Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
 - TBA - Barco Principe do Tejo, Lisbon — Sat, 16 May 2026
 - FOLD, London — Sat, 25 Apr 2026
@@ -20,10 +20,9 @@ Tho is a house and techno artist tracked on soundcheck, with 57 sets logged acro
 - NUMBER 90 LONDON, London — Fri, 19 Dec 2025
 - The Lion and Lamb, London — Thu, 6 Nov 2025
 - TBA - Art Club - Av. Etienne Rabattu, 13480 Cabriès, Marseille — Fri, 31 Oct 2025
-- Hoppetosse, Berlin — Fri, 3 Oct 2025
 
 ## Shares bills with
 
 Loren Heer, DJ Senc, DMC.
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tho/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tho/)*

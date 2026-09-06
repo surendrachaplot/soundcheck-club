@@ -1,14 +1,13 @@
 # Kander
 
-Kander is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Spook Club, Valencia on Sat, 5 Sept 2026.
+Kander is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat, 26 Sept 2026.
 
-Kander is a techno and trance artist tracked on soundcheck, with 139 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 44 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: Spook Club, Valencia on Sat 5 Sept.
+Kander is a techno and trance artist tracked on soundcheck, with 139 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 44 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: TBA - Fohrstraat, 9000 Gent, België, Ghent on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Spook Club | Valencia |
 | Sat, 26 Sept 2026 | TBA - Fohrstraat, 9000 Gent, België | Ghent |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
@@ -16,6 +15,7 @@ Kander is a techno and trance artist tracked on soundcheck, with 139 sets logged
 
 ## Recently played
 
+- Spook Club, Valencia — Sat, 5 Sept 2026
 - Hangaren, Copenhagen — Sat, 15 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 1 Aug 2026
 - Eden, Ibiza — Tue, 28 Jul 2026
@@ -23,10 +23,9 @@ Kander is a techno and trance artist tracked on soundcheck, with 139 sets logged
 - Fabrik, Madrid — Sat, 11 Jul 2026
 - Lehmann Club, Stuttgart — Fri, 26 Jun 2026
 - Kilomètre25, Paris — Fri, 12 Jun 2026
-- Arzenal, Budapest — Fri, 29 May 2026
 
 ## Shares bills with
 
 Azyr, Faster Horses, SIKOTI
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*

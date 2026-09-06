@@ -1,6 +1,6 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Liquid Room, Edinburgh on Sat, 19 Sept 2026.
+Papa Nugs is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Liquid Room, Edinburgh on Sat, 19 Sept 2026.
 
 Papa Nugs is a house and techno artist tracked on soundcheck, with 160 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 24 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: The Liquid Room, Edinburgh on Sat 19 Sept.
 
@@ -32,4 +32,4 @@ Papa Nugs is a house and techno artist tracked on soundcheck, with 160 sets logg
 
 A For Alpha, KT, DJ ADHD
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*

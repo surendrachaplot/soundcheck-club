@@ -1,14 +1,13 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Dune Park, Buenos Aires on Fri, 4 Sept 2026.
+Julian Anthony is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Julian Anthony is a house and tech house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside Laidlaw, Voigtmann and Samuel Deep. Next up: Dune Park, Buenosaires on Fri 4 Sept.
+Julian Anthony is a house and tech house artist tracked on soundcheck, with 155 sets logged across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside Laidlaw, Voigtmann and Samuel Deep. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Dune Park | Buenos Aires |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 17 Oct 2026 | 11 Bromley Street | Birmingham |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
@@ -33,4 +32,4 @@ Julian Anthony is a house and tech house artist tracked on soundcheck, with 155 
 
 Laidlaw, Voigtmann, Samuel Deep
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

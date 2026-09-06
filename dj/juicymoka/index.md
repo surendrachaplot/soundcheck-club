@@ -1,6 +1,6 @@
 # JUICYMOKA
 
-JUICYMOKA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Prisma, Berlin on Thu, 17 Sept 2026.
+JUICYMOKA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Prisma, Berlin on Thu, 17 Sept 2026.
 
 JUICYMOKA is a techno and hardcore artist based in France, tracked on soundcheck, with 10 sets logged across Berlin, Geneva and Paris. Often billed alongside ALL1SØN, Charlotte Lion and Domovnika. Next up: Prisma, Berlin on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ JUICYMOKA is a techno and hardcore artist based in France, tracked on soundcheck
 
 ALL1SØN, Charlotte Lion, Domovnika
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juicymoka/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juicymoka/)*

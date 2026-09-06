@@ -1,6 +1,6 @@
 # Christopher Foor
 
-Christopher Foor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
+Christopher Foor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 3 Oct 2026.
 
 Christopher Foor is a house and techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across Miami and Sanfrancisco. Often billed alongside 2dahlia, Alexx in Chainss and RMNA. Next up: F8 1192 Folsom, Sanfrancisco on Sat 3 Oct.
 
@@ -23,4 +23,4 @@ Christopher Foor is a house and techno artist based in United States of America,
 
 2dahlia, Alexx in Chainss, RMNA
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherfoor/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherfoor/)*

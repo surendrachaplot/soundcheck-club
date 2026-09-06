@@ -1,6 +1,6 @@
 # LonSkii
 
-LonSkii is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Amnesia, Bangkok on Fri, 11 Sept 2026.
+LonSkii is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia, Bangkok on Fri, 11 Sept 2026.
 
 LonSkii is a techno and hardcore artist based in Thailand, tracked on soundcheck, with 65 sets logged across Bangkok, Osaka, Seoul and Shenzhen and 1 more. Often billed alongside Sam Laxton, André Pillar and The Rocketman. Next up: Amnesia, Bangkok on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ LonSkii is a techno and hardcore artist based in Thailand, tracked on soundcheck
 
 Sam Laxton, André Pillar, The Rocketman
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lonskii/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lonskii/)*

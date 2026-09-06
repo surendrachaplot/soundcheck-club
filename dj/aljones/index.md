@@ -1,18 +1,18 @@
 # Al Jones
 
-Al Jones is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at MIDNIGHT EAST, Tokyo on Sat, 5 Sept 2026.
+Al Jones is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Mitsuki, Tokyo on Fri, 11 Sept 2026.
 
-Al Jones is a house and techno artist based in Italy, tracked on soundcheck, with 81 sets logged across Bangkok, Hongkong, Kyoto and Losangeles and 4 more. Often billed alongside Fujiko, Frankie $ and kids eating bbq. Next up: MIDNIGHT EAST, Tokyo on Sat 5 Sept.
+Al Jones is a house and techno artist based in Italy, tracked on soundcheck, with 81 sets logged across Bangkok, Hongkong, Kyoto and Losangeles and 4 more. Often billed alongside Fujiko, Frankie $ and kids eating bbq. Next up: Mitsuki, Tokyo on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | MIDNIGHT EAST | Tokyo |
 | Fri, 11 Sept 2026 | Mitsuki | Tokyo |
 
 ## Recently played
 
+- MIDNIGHT EAST, Tokyo — Sat, 5 Sept 2026
 - Oath, Tokyo — Fri, 21 Aug 2026
 - Oath, Tokyo — Sat, 4 Jul 2026
 - WOMB, Tokyo — Fri, 19 Jun 2026
@@ -20,10 +20,9 @@ Al Jones is a house and techno artist based in Italy, tracked on soundcheck, wit
 - Sunday Sunday, Mexico City — Sun, 26 Apr 2026
 - Oath, Tokyo — Fri, 10 Apr 2026
 - Solfa, Tokyo — Sat, 28 Mar 2026
-- Oath, Tokyo — Fri, 20 Mar 2026
 
 ## Shares bills with
 
 Fujiko, Frankie $, kids eating bbq
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aljones/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aljones/)*

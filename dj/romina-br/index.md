@@ -1,6 +1,6 @@
 # Romina (BR)
 
-Romina (BR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at D-EDGE, Sao Paulo on Sun, 6 Sept 2026.
+Romina (BR) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at D-EDGE, Sao Paulo on Sun, 6 Sept 2026.
 
 Romina (BR) is a house and techno artist based in Brazil, tracked on soundcheck, with 12 sets logged across Saopaulo. Often billed alongside nat consentino, Another Dudx and Avante. Next up: D-EDGE, Saopaulo on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Romina (BR) is a house and techno artist based in Brazil, tracked on soundcheck,
 
 nat consentino, Another Dudx, Avante
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romina-br/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romina-br/)*

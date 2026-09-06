@@ -1,19 +1,19 @@
 # Old as Funk
 
-Old as Funk is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Ministry Of Sound, London on Sat, 5 Sept 2026.
+Old as Funk is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Old as Funk is a disco and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, London, Paris and Saopaulo. Often billed alongside Dan Cluskey, Bustin' Loose and Poppi. Next up: Ministry Of Sound, London on Sat 5 Sept.
+Old as Funk is a disco and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, London, Paris and Saopaulo. Often billed alongside Dan Cluskey, Bustin' Loose and Poppi. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Ministry Of Sound | London |
 | Fri, 23 Oct 2026 | Art''otel Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
 
+- Ministry Of Sound, London — Sat, 5 Sept 2026
 - Madam, Amsterdam — Fri, 10 Jul 2026
 - XOYO, London — Sat, 4 Jul 2026
 - Metropolis, London — Sat, 30 May 2026
@@ -21,10 +21,9 @@ Old as Funk is a disco and house artist based in United Kingdom, tracked on soun
 - Ministry Of Sound, London — Sat, 21 Feb 2026
 - Metropolis, London — Sat, 6 Dec 2025
 - The Book Club, London — Wed, 17 Sept 2025
-- Le Pop-Up du Label, Paris — Fri, 5 Sept 2025
 
 ## Shares bills with
 
 Dan Cluskey, Bustin' Loose, Poppi
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldasfunk/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldasfunk/)*

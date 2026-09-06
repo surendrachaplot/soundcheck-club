@@ -1,6 +1,6 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Asa-Hachi" on Sun, 6 Sept 2026.
+Aoyama Hachi is a music venue in Tokyo with 15 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Asa-Hachi" on Sun, 6 Sept 2026.
 
 Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 15 upcoming nights, with line-ups including Anri (2), DJ Shibata, EIJI and Fox (US) and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
@@ -23,4 +23,4 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 15 upcoming nights,
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

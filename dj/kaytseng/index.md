@@ -1,6 +1,6 @@
 # Kaytseng
 
-Kaytseng is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bassiani, Tbilisi on Sat, 5 Sept 2026.
+Kaytseng is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Bassiani, Tbilisi on Sat, 5 Sept 2026.
 
 Kaytseng is a techno and trance artist based in Taiwan, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Basel and Berlin and 7 more. Often billed alongside Qi (ARM), AYIM and Cloudy Ku. Next up: Bassiani, Tbilisi on Sat 5 Sept.
 
@@ -13,6 +13,7 @@ Kaytseng is a techno and trance artist based in Taiwan, tracked on soundcheck, w
 
 ## Recently played
 
+- Bassiani, Tbilisi — Sat, 5 Sept 2026
 - Gaffe, London — Fri, 21 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Thu, 23 Apr 2026
 - Tempio del Futuro Perduto, Milan — Fri, 21 Nov 2025
@@ -20,10 +21,9 @@ Kaytseng is a techno and trance artist based in Taiwan, tracked on soundcheck, w
 - De Fik Garden, Amsterdam — Fri, 24 Oct 2025
 - Bassiani, Tbilisi — Sat, 6 Sept 2025
 - Blue Velvet, Berlin — Fri, 25 Jul 2025
-- MODULE, Copenhagen — Sat, 10 May 2025
 
 ## Shares bills with
 
 Qi (ARM), AYIM, Cloudy Ku
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytseng/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytseng/)*

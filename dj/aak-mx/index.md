@@ -1,6 +1,6 @@
 # AAK (MX)
 
-AAK (MX) is a Dancehall and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Departamento, Mexico City on Wed, 2 Sept 2026.
+AAK (MX) is a Dancehall and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Departamento, Mexico City on Wed, 2 Sept 2026.
 
 AAK (MX) is a dancehall and deep house artist tracked on soundcheck, with 5 sets logged across Mexicocity. Often billed alongside Juan Soto, Artee and BOMBO. Next up: Departamento, Mexicocity on Wed 2 Sept.
 
@@ -9,7 +9,6 @@ AAK (MX) is a dancehall and deep house artist tracked on soundcheck, with 5 sets
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 2 Sept 2026 | Departamento | Mexico City |
-| Wed, 2 Sept 2026 | ROCA HIFI | Mexico City |
 
 ## Recently played
 
@@ -23,4 +22,4 @@ AAK (MX) is a dancehall and deep house artist tracked on soundcheck, with 5 sets
 
 Juan Soto, Artee, BOMBO
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aak-mx/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aak-mx/)*

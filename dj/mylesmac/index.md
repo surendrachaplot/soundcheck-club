@@ -1,6 +1,6 @@
 # Myles Mac
 
-Myles Mac is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Nowadays, New York City on Sun, 6 Sept 2026.
+Myles Mac is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Nowadays, New York City on Sun, 6 Sept 2026.
 
 Myles Mac is a house and techno artist tracked on soundcheck, with 80 sets logged across Berlin, Copenhagen, London and Losangeles and 5 more. Often billed alongside DJ Possum, Andy Hart and Bex. Next up: Nowadays, Newyorkcity on Sun 6 Sept.
 
@@ -28,4 +28,4 @@ Myles Mac is a house and techno artist tracked on soundcheck, with 80 sets logge
 
 DJ Possum, Andy Hart, Bex
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*

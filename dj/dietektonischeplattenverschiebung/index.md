@@ -1,6 +1,6 @@
 # Die Tektonische Plattenverschiebung
 
-Die Tektonische Plattenverschiebung is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Senatore, Munich on Sat, 12 Sept 2026.
+Die Tektonische Plattenverschiebung is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Senatore, Munich on Sat, 12 Sept 2026.
 
 Die Tektonische Plattenverschiebung is an electro and techno artist tracked on soundcheck, with 34 sets logged across Munich. Often billed alongside DJ FM & DJ FREUND, Safahs and ANXA. Next up: Senatore, Munich on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Die Tektonische Plattenverschiebung is an electro and techno artist tracked on s
 
 DJ FM & DJ FREUND, Safahs, ANXA
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dietektonischeplattenverschiebung/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dietektonischeplattenverschiebung/)*

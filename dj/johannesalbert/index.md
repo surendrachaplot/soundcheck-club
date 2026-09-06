@@ -1,6 +1,6 @@
 # Johannes Albert
 
-Johannes Albert is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at OXI, Berlin on Sat, 5 Sept 2026.
+Johannes Albert is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at OXI, Berlin on Sat, 5 Sept 2026.
 
 Johannes Albert is a house and techno artist tracked on soundcheck, with 95 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 12 more. Often billed alongside Iron Curtis, Ady Toledano and Leon Licht. Next up: OXI, Berlin on Sat 5 Sept.
 
@@ -12,6 +12,7 @@ Johannes Albert is a house and techno artist tracked on soundcheck, with 95 sets
 
 ## Recently played
 
+- OXI, Berlin — Sat, 5 Sept 2026
 - Kater, Berlin — Fri, 21 Aug 2026
 - The Horse & Groom, London — Sat, 1 Aug 2026
 - Club der Visionaere, Berlin — Wed, 29 Jul 2026
@@ -19,10 +20,9 @@ Johannes Albert is a house and techno artist tracked on soundcheck, with 95 sets
 - MONKEY LOVE, Warsaw — Fri, 17 Jul 2026
 - Sunday Sunday, Mexico City — Sun, 12 Jul 2026
 - Orbita Bar, Mexico City — Fri, 3 Jul 2026
-- fi, Cologne — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Iron Curtis, Ady Toledano, Leon Licht
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesalbert/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesalbert/)*

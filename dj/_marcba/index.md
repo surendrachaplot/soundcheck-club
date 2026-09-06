@@ -1,18 +1,18 @@
 # _MARCBA
 
-_MARCBA is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 5 Sept 2026.
+_MARCBA is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Hola Club Sitges (Cala Vallcarca), Barcelona on Sat, 12 Sept 2026.
 
-_MARCBA is a house and minimal artist tracked on soundcheck, with 32 sets logged across Barcelona. Often billed alongside FLEX.cat, Ion Pananides and Alex Pott. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 5 Sept.
+_MARCBA is a house and minimal artist tracked on soundcheck, with 32 sets logged across Barcelona. Often billed alongside FLEX.cat, Ion Pananides and Alex Pott. Next up: Hola Club Sitges (Cala Vallcarca), Barcelona on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 | Sat, 12 Sept 2026 | Hola Club Sitges (Cala Vallcarca) | Barcelona |
 
 ## Recently played
 
+- Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 5 Sept 2026
 - TBA - secret location, Barcelona — Sat, 18 Jul 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Tue, 23 Jun 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 13 Jun 2026
@@ -20,10 +20,9 @@ _MARCBA is a house and minimal artist tracked on soundcheck, with 32 sets logged
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sun, 31 May 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 30 May 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sun, 24 May 2026
-- Hola Club Sitges (Cala Vallcarca), Barcelona — Sun, 26 Apr 2026
 
 ## Shares bills with
 
 FLEX.cat, Ion Pananides, Alex Pott
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/_marcba/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/_marcba/)*

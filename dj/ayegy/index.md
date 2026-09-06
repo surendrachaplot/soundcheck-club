@@ -1,18 +1,18 @@
 # AYEGY
 
-AYEGY is a Electronica and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Los Depressos, New York City on Sat, 5 Sept 2026.
+AYEGY is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Ormside Projects, London on Fri, 18 Sept 2026.
 
-AYEGY is an electronica and techno artist tracked on soundcheck, with 9 sets logged across London, Losangeles, Newyorkcity and Toronto. Often billed alongside Boysinblush, Patch+ and Cold Hippie. Next up: Los Depressos, Newyorkcity on Sat 5 Sept.
+AYEGY is an electronica and techno artist tracked on soundcheck, with 9 sets logged across London, Losangeles, Newyorkcity and Toronto. Often billed alongside Boysinblush, Patch+ and Cold Hippie. Next up: Ormside Projects, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Los Depressos | New York City |
 | Fri, 18 Sept 2026 | Ormside Projects | London |
 
 ## Recently played
 
+- Los Depressos, New York City — Sat, 5 Sept 2026
 - Cafeteria, Toronto — Fri, 22 Aug 2025
 - Earthly Delights, New York City — Tue, 1 Jul 2025
 - The Broadway, New York City — Sat, 12 Apr 2025
@@ -25,4 +25,4 @@ AYEGY is an electronica and techno artist tracked on soundcheck, with 9 sets log
 
 Boysinblush, Patch+, Cold Hippie
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayegy/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayegy/)*

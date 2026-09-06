@@ -1,6 +1,6 @@
 # Cio (Spezialmaterial)
 
-Cio (Spezialmaterial) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Will got massaged 1 Day before event , Zurich on Sat, 5 Sept 2026.
+Cio (Spezialmaterial) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Will got massaged 1 Day before event , Zurich on Sat, 5 Sept 2026.
 
 Cio (Spezialmaterial) is a techno and electro artist based in Switzerland, tracked on soundcheck, with 5 sets logged across Manchester and Zurich. Often billed alongside Kalabrese, Princess P and Leo Gretener. Next up: TBA - Will got massaged 1 Day before event , Zurich on Sat 5 Sept.
 
@@ -14,6 +14,8 @@ Cio (Spezialmaterial) is a techno and electro artist based in Switzerland, track
 
 ## Recently played
 
+- TBA - Will got massaged 1 Day before event , Zurich — Sat, 5 Sept 2026
+- TBA, Zurich — Sat, 5 Sept 2026
 - The Golden Lion, Manchester — Fri, 21 Nov 2025
 - Zentralwäscherei, Zurich — Sun, 23 Mar 2025
 
@@ -21,4 +23,4 @@ Cio (Spezialmaterial) is a techno and electro artist based in Switzerland, track
 
 Kalabrese, Princess P, Leo Gretener
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciospezialmaterial/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciospezialmaterial/)*

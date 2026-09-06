@@ -1,14 +1,13 @@
 # Timnah
 
-Timnah is a Techno and Ambient artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at LAUT, Barcelona on Sat, 5 Sept 2026.
+Timnah is a Techno and Ambient artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Gaffe, London on Fri, 18 Sept 2026.
 
-Timnah is a techno and ambient artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: LAUT, Barcelona on Sat 5 Sept.
+Timnah is a techno and ambient artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: Gaffe, London on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | LAUT | Barcelona |
 | Fri, 18 Sept 2026 | Gaffe | London |
 | Fri, 18 Sept 2026 | Shunter | Rotterdam |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -17,6 +16,7 @@ Timnah is a techno and ambient artist tracked on soundcheck, with 52 sets logged
 
 ## Recently played
 
+- LAUT, Barcelona — Sat, 5 Sept 2026
 - Nowadays, New York City — Sat, 1 Aug 2026
 - TBA - Sarthe, Paris — Fri, 24 Jul 2026
 - Marble Bar, Detroit — Fri, 22 May 2026
@@ -24,10 +24,9 @@ Timnah is a techno and ambient artist tracked on soundcheck, with 52 sets logged
 - Kuppel, Basel — Sat, 18 Apr 2026
 - Lofi, Amsterdam — Sun, 5 Apr 2026
 - Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona — Thu, 12 Mar 2026
-- Garage Noord, Amsterdam — Sat, 10 Jan 2026
 
 ## Shares bills with
 
 Agonis, Garçon, Patrick Russell
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*

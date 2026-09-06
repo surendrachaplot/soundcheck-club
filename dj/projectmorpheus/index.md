@@ -1,6 +1,6 @@
 # Project Morpheus
 
-Project Morpheus is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Nether Club, Bucharest on Sat, 26 Sept 2026.
+Project Morpheus is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Nether Club, Bucharest on Sat, 26 Sept 2026.
 
 Project Morpheus is a hardcore and techno artist based in Romania, tracked on soundcheck, with 13 sets logged across Bucharest. Often billed alongside Neotroxian, Dalek and Meiremax. Next up: Nether Club, Bucharest on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Project Morpheus is a hardcore and techno artist based in Romania, tracked on so
 
 Neotroxian, Dalek, Meiremax
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/projectmorpheus/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/projectmorpheus/)*

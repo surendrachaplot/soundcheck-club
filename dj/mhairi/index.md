@@ -1,8 +1,8 @@
 # Mha iri
 
-Mha iri is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Groove, Buenos Aires on Sat, 12 Sept 2026.
+Mha iri is a Techno and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Groove, Buenos Aires on Sat, 12 Sept 2026.
 
-Mha iri is a techno and tech house artist tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: Groove, Buenosaires on Sat 12 Sept.
+Mha iri is a techno and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside Eli Brown, Joyhauser and Lilly Palmer. Next up: Groove, Buenosaires on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ Mha iri is a techno and tech house artist tracked on soundcheck, with 105 sets l
 | Sat, 10 Oct 2026 | Uebel & Gefährlich | Hamburg |
 | Thu, 12 Nov 2026 | Noto Philadelphia | Philadelphia |
 | Sat, 14 Nov 2026 | House of Yes | New York City |
+| Fri, 4 Dec 2026 | SWG3 | Glasgow |
+| Fri, 4 Dec 2026 | SWG3 | Glasgow |
 
 ## Recently played
 
@@ -30,4 +32,4 @@ Mha iri is a techno and tech house artist tracked on soundcheck, with 105 sets l
 
 Eli Brown, Joyhauser, Lilly Palmer
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*

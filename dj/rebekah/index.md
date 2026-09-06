@@ -1,13 +1,15 @@
 # Rebekah
 
-Rebekah is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at BASIS, Utrecht on Sat, 17 Oct 2026.
+Rebekah is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Joule, Osaka on Sat, 19 Sept 2026.
 
-Rebekah is a techno and hardcore artist tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Basel and 56 more. Often billed alongside SNTS, AnD and DYEN. Next up: BASIS, Utrecht on Sat 17 Oct.
+Rebekah is a techno and hardcore artist tracked on soundcheck, with 160 sets logged across Amsterdam, Austin, Barcelona and Basel and 58 more. Often billed alongside SNTS, AnD and DYEN. Next up: Joule, Osaka on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | Joule | Osaka |
+| Sun, 20 Sept 2026 | ZEROTOKYO | Tokyo |
 | Sat, 17 Oct 2026 | BASIS | Utrecht |
 | Fri, 20 Nov 2026 | Wigwam | Dublin |
 
@@ -26,4 +28,4 @@ Rebekah is a techno and hardcore artist tracked on soundcheck, with 158 sets log
 
 SNTS, AnD, DYEN
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*

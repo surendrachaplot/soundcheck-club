@@ -1,6 +1,6 @@
 # Hope House
 
-Hope House is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "DADDIES DANCE" on Sat, 19 Sept 2026.
+Hope House is a music venue in Leeds with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "DADDIES DANCE" on Sat, 19 Sept 2026.
 
 Hope House is a music venue in Leeds listed on soundcheck. 9 upcoming nights, with line-ups including 2QUID, Ana K Miller, BOSSdaddy and Carl H and 2 more. Browse upcoming dates, start times and who's playing. 65 Mabgate Hope House LS9 7DR.
 
@@ -22,4 +22,4 @@ Hope House is a music venue in Leeds listed on soundcheck. 9 upcoming nights, wi
 
 65 Mabgate Hope House LS9 7DR, Leeds
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hope-house/)*

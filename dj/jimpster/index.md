@@ -1,14 +1,13 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Tokonoma Club, Frankfurt on Sat, 5 Sept 2026.
+Jimpster is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Fox and Firkin, London on Sat, 12 Sept 2026.
 
-Jimpster is a house and deep house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Brighton and Budapest and 31 more. Often billed alongside Neil Pierce, Sy Sez and Anton Tumas. Next up: Tokonoma Club, Frankfurt on Sat 5 Sept.
+Jimpster is a house and deep house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Brighton and Budapest and 31 more. Often billed alongside Neil Pierce, Sy Sez and Anton Tumas. Next up: The Fox and Firkin, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Tokonoma Club | Frankfurt |
 | Sat, 12 Sept 2026 | The Fox and Firkin | London |
 | Thu, 24 Sept 2026 | UNO MALTA | Malta |
 | Sat, 10 Oct 2026 | The Yard | Manchester |
@@ -17,6 +16,7 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 84 sets lo
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt — Sat, 5 Sept 2026
 - 618 DC, Washington DC — Fri, 31 Jul 2026
 - TBA - address sent to all ticket holders , London — Thu, 23 Jul 2026
 - smartbar, Chicago — Sun, 19 Jul 2026
@@ -24,10 +24,9 @@ Jimpster is a house and deep house artist tracked on soundcheck, with 84 sets lo
 - Bastet, Philadelphia — Sat, 11 Jul 2026
 - MAD Radio NYC, New York City — Fri, 10 Jul 2026
 - La Paloma, Barcelona — Fri, 26 Jun 2026
-- 93 Feet East, London — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Neil Pierce, Sy Sez, Anton Tumas
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

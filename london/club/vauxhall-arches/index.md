@@ -1,6 +1,6 @@
 # Vauxhall Arches
 
-Vauxhall Arches is a music venue in London with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "PIXELATE Creepypasta" on Fri, 16 Oct 2026.
+Vauxhall Arches is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "PIXELATE Creepypasta London " on Fri, 16 Oct 2026.
 
 Vauxhall Arches is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Compulsive Leia, Desiludildo, Hixxy and jaytaylor. Browse upcoming dates, start times and who's playing. South Lambeth Road, Vauxhall, London SW8 1RT, United Kingdom.
 
@@ -8,10 +8,10 @@ Vauxhall Arches is a music venue in London listed on soundcheck. 1 upcoming nigh
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | PIXELATE Creepypasta | Compulsive Leia, Desiludildo, Hixxy, jaytaylor |
+| Fri, 16 Oct 2026 | PIXELATE Creepypasta London  | Compulsive Leia, Desiludildo, Hixxy, jaytaylor |
 
 ## Address
 
 South Lambeth Road, Vauxhall, London SW8 1RT, United Kingdom, London
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/vauxhall-arches/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/vauxhall-arches/)*

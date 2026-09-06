@@ -1,6 +1,6 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Woodstock'69, Amsterdam on Sun, 6 Sept 2026.
+Jimi Jules is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Woodstock'69, Amsterdam on Sun, 6 Sept 2026.
 
 Jimi Jules is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Dixon, Âme and Trikk. Next up: Woodstock'69, Amsterdam on Sun 6 Sept.
 
@@ -32,4 +32,4 @@ Jimi Jules is a house and techno artist tracked on soundcheck, with 191 sets log
 
 Dixon, Âme, Trikk
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

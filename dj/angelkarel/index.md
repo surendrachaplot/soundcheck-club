@@ -1,18 +1,18 @@
 # Angel Karel
 
-Angel Karel is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Cabaret  Aléatoire, Marseille on Sat, 5 Sept 2026.
+Angel Karel is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, Lyon on Fri, 18 Sept 2026.
 
-Angel Karel is a techno and industrial artist based in France, tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Cologne and Geneva and 14 more. Often billed alongside Vinka Wydro, LiXaa and Aida Arko. Next up: Cabaret  Aléatoire, Marseille on Sat 5 Sept.
+Angel Karel is a techno and industrial artist based in France, tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Cologne and Geneva and 14 more. Often billed alongside Vinka Wydro, LiXaa and Aida Arko. Next up: TBA, Lyon on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Cabaret  Aléatoire | Marseille |
 | Fri, 18 Sept 2026 | TBA | Lyon |
 
 ## Recently played
 
+- Cabaret  Aléatoire, Marseille — Sat, 5 Sept 2026
 - Ministerium Club, Lisbon — Thu, 3 Sept 2026
 - Lokschuppen Berlin, Berlin — Sat, 11 Jul 2026
 - Sensorium, Berlin — Fri, 24 Apr 2026
@@ -20,10 +20,9 @@ Angel Karel is a techno and industrial artist based in France, tracked on soundc
 - POP Club, Marseille — Fri, 27 Mar 2026
 - POP Club, Marseille — Fri, 27 Feb 2026
 - T7 Paris, Paris — Sat, 7 Feb 2026
-- TBA - 32 Rue Robert Witchitz, 94200 Ivry-sur-Seine, France, Paris — Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Vinka Wydro, LiXaa, Aida Arko
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelkarel/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/angelkarel/)*

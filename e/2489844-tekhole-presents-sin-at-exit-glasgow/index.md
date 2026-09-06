@@ -1,6 +1,6 @@
 # Tekhole presents: SIN at EXIT Glasgow
 
-Tekhole presents: SIN at EXIT Glasgow on Fri 18 Sept, Glasgow. 8 acts on the bill: Buckfast Barbie, C Frame, Maveen and Moina Moin and 4 more. Electro and Gqom. Preview the line-up and save it on soundcheck.
+Tekhole presents: SIN at EXIT Glasgow on Fri 18 Sept, Glasgow. 9 acts on the bill: Buckfast Barbie, C Frame, Maveen and Moina Moin and 5 more. Electro and Gqom. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ Tekhole presents: SIN at EXIT Glasgow on Fri 18 Sept, Glasgow. 8 acts on the bil
 - North Star
 - Salam Kitty
 - saparilla
+- SOFSOF
 - Tekhole
 
 *Source: [soundcheck](https://soundcheck.club/e/2489844-tekhole-presents-sin-at-exit-glasgow/)*

@@ -1,6 +1,6 @@
 # Audio Units
 
-Audio Units is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Glazart, Paris on Sun, 6 Sept 2026.
+Audio Units is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Glazart, Paris on Sun, 6 Sept 2026.
 
 Audio Units is a techno and trance artist tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Berlin and Milan and 3 more. Often billed alongside 7e, Anna Haleta and BORGBORG. Next up: Glazart, Paris on Sun 6 Sept.
 
@@ -24,4 +24,4 @@ Audio Units is a techno and trance artist tracked on soundcheck, with 8 sets log
 
 7e, Anna Haleta, BORGBORG
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audiounits/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audiounits/)*

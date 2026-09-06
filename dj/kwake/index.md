@@ -1,14 +1,15 @@
 # KWAKE
 
-KWAKE is a Techno and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at FORGE, Sheffield on Fri, 2 Oct 2026.
+KWAKE is a Jungle and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at FORGE, Sheffield on Fri, 2 Oct 2026.
 
-KWAKE is a techno and jungle artist tracked on soundcheck, with 15 sets logged across Leeds, London and Sheffield. Often billed alongside 4am Kru, Hames and La Rumba. Next up: FORGE, Sheffield on Fri 2 Oct.
+KWAKE is a jungle and techno artist tracked on soundcheck, with 16 sets logged across Leeds, London and Sheffield. Often billed alongside 4am Kru, Charla Green and Hames. Next up: FORGE, Sheffield on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | FORGE | Sheffield |
+| Fri, 4 Dec 2026 | FORGE | Sheffield |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ KWAKE is a techno and jungle artist tracked on soundcheck, with 15 sets logged a
 
 ## Shares bills with
 
-4am Kru, Hames, La Rumba
+4am Kru, Charla Green, Hames
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kwake/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kwake/)*

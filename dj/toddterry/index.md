@@ -1,14 +1,13 @@
 # Todd Terry
 
-Todd Terry is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - THE STRAY, HARROGATE, Leeds on Sat, 5 Sept 2026.
+Todd Terry is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Freeze HiFi, Liverpool on Wed, 16 Sept 2026.
 
-Todd Terry is a house and disco artist tracked on soundcheck, with 149 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: TBA - THE STRAY, HARROGATE, Leeds on Sat 5 Sept.
+Todd Terry is a house and disco artist tracked on soundcheck, with 149 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Freeze HiFi, Liverpool on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - THE STRAY, HARROGATE | Leeds |
 | Wed, 16 Sept 2026 | Freeze HiFi | Liverpool |
 | Fri, 18 Sept 2026 | The Fox and Firkin | London |
 | Sat, 19 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -23,6 +22,7 @@ Todd Terry is a house and disco artist tracked on soundcheck, with 149 sets logg
 
 ## Recently played
 
+- TBA - THE STRAY, HARROGATE, Leeds — Sat, 5 Sept 2026
 - Paragon, New York City — Sat, 29 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 21 Aug 2026
 - Freeze HiFi, Liverpool — Wed, 19 Aug 2026
@@ -30,10 +30,9 @@ Todd Terry is a house and disco artist tracked on soundcheck, with 149 sets logg
 - Amnesia Ibiza, Ibiza — Fri, 31 Jul 2026
 - BLITZ, Munich — Fri, 31 Jul 2026
 - O Beach, Ibiza — Thu, 23 Jul 2026
-- Amnesia Ibiza, Ibiza — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

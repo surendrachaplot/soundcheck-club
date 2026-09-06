@@ -1,8 +1,8 @@
 # Anetha
 
-Anetha is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+Anetha is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-Anetha is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside Mac Declos, VEL (MA) and DJ Gigola. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+Anetha is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside Mac Declos, VEL (MA) and DJ Gigola. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Anetha is a techno and house artist tracked on soundcheck, with 203 sets logged 
 | Thu, 19 Nov 2026 | Flash | Washington DC |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 4 Dec 2026 | MFCC Arena | Malta |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Anetha is a techno and house artist tracked on soundcheck, with 203 sets logged 
 
 Mac Declos, VEL (MA), DJ Gigola
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

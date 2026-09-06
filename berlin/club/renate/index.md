@@ -1,14 +1,13 @@
 # Renate
 
-Renate is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Renate Klubnacht + Open Air (Free Entry) with Threads of Liberation x Zenith x Black.is" on Sat, 5 Sept 2026.
+Renate is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Renate Free Market by Transient from Ukraine" on Sun, 6 Sept 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including 80HDJ, Aalia Iraki, ābnamā and Adam Cooke and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including 80HDJ, ābnamā, Adam Cooke and AGILY and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Threads of Liberation x Zenith x Black.is | Aalia Iraki, Alain Gertrand, BAY-BUSH-KA, Baba T, KVLR, Lea Czychy, Moehecan, Mython, NoName, ODERA, SOLE DOSI, Schicktanz, Shanda, Ukãi Ndame |
 | Sun, 6 Sept 2026 | Renate Free Market by Transient from Ukraine | Ann Mysochka, Loves_kills, Mark Gill, Rina Katen, nuarrrrr |
 | Thu, 10 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Solace Space | Asa Tate, Cashper, Cathal, Fhionn, Slowfoam |
 | Thu, 10 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Solace Space | Asa Tate, Cashper, Cathal, Der Opium Queen, Fhionn, Slowfoam |
@@ -16,11 +15,12 @@ Renate is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with
 | Fri, 18 Sept 2026 | SENSUS w/ DJ Fuckoff, P.Vanillaboy, PAU and many more | Brauer, Carl Hang, DJ Buona Sara, DJ Fuckoff, DJ Fucks Himself, FORTUNATA, Josi Miller (2), Katta Lana, Lenny Fuck, P.Vanillaboy, PAU (6), Penglord, Perra Inmunda |
 | Sat, 19 Sept 2026 | Silly Little Sunday Club | 80HDJ, Camilla Rae, Reinartz, Robot Girlfriend, Vitling |
 | Sat, 19 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Tecnica x Foggy x Silly Little Sunday Club |  |
-| Sat, 26 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) |  |
+| Fri, 25 Sept 2026 | Renate Klubnacht x Haram Night | Amowia, SXCL, saHHar |
+| Sat, 26 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) | BBYG, Cowper, DJ CHICHI, Hanna Baertig, Infamous Ali, sleeptwitch |
 | Sat, 3 Oct 2026 | Renate Free Open Air (TDC) + Klubnacht with Fairies & Fluid Vision |  |
 
 ## Address
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

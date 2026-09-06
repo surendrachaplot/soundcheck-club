@@ -1,18 +1,18 @@
 # Jetski
 
-Jetski is a Hardcore and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Rough Trade Liverpool, Liverpool on Sat, 5 Sept 2026.
+Jetski is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Lost Art Shop, Liverpool on Sat, 21 Nov 2026.
 
-Jetski is a hardcore and jungle artist tracked on soundcheck, with 8 sets logged across Bristol, Edinburgh, Leeds and Liverpool and 2 more. Often billed alongside Zubz, DJ Soyboi and DROMEK. Next up: Rough Trade Liverpool, Liverpool on Sat 5 Sept.
+Jetski is a hardcore and jungle artist tracked on soundcheck, with 8 sets logged across Bristol, Edinburgh, Leeds and Liverpool and 2 more. Often billed alongside Zubz, DJ Soyboi and DROMEK. Next up: Lost Art Shop, Liverpool on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Rough Trade Liverpool | Liverpool |
 | Sat, 21 Nov 2026 | Lost Art Shop | Liverpool |
 
 ## Recently played
 
+- Rough Trade Liverpool, Liverpool — Sat, 5 Sept 2026
 - Sneaky Pete's, Edinburgh — Thu, 5 Sept 2024
 - The Glove That Fits, London — Fri, 3 May 2024
 - Sidney & Matilda, Sheffield — Sat, 3 Feb 2024
@@ -24,4 +24,4 @@ Jetski is a hardcore and jungle artist tracked on soundcheck, with 8 sets logged
 
 Zubz, DJ Soyboi, DROMEK
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jetski/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jetski/)*

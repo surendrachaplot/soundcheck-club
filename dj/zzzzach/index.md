@@ -1,6 +1,6 @@
 # zzzzach
 
-zzzzach is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Le Bain, New York City on Sun, 6 Sept 2026.
+zzzzach is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Le Bain, New York City on Sun, 6 Sept 2026.
 
 zzzzach is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit, Losangeles and Newyorkcity. Often billed alongside kuntress, Adelaide (1) and BABEITSPURR. Next up: Le Bain, Newyorkcity on Sun 6 Sept.
 
@@ -24,4 +24,4 @@ zzzzach is a club and ghetto tech artist based in United States of America, trac
 
 kuntress, Adelaide (1), BABEITSPURR
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*

@@ -1,6 +1,6 @@
 # bbecks
 
-bbecks is a Techno and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at FOLD, London on Sat, 5 Sept 2026.
+bbecks is a Techno and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at FOLD, London on Sat, 5 Sept 2026.
 
 bbecks is a techno and broken beat artist tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, London and Milan. Often billed alongside Voicedrone, Alba Heidari and Anahita Shamsaei. Next up: FOLD, London on Sat 5 Sept.
 
@@ -13,6 +13,7 @@ bbecks is a techno and broken beat artist tracked on soundcheck, with 21 sets lo
 
 ## Recently played
 
+- FOLD, London — Sat, 5 Sept 2026
 - Bar Dancing Multipla, Amsterdam — Fri, 26 Jun 2026
 - The Glove That Fits, London — Sun, 14 Jun 2026
 - FOLD, London — Fri, 12 Jun 2026
@@ -20,10 +21,9 @@ bbecks is a techno and broken beat artist tracked on soundcheck, with 21 sets lo
 - Levenslang Amsterdam, Amsterdam — Sat, 21 Mar 2026
 - Masada, Milan — Sat, 14 Feb 2026
 - The Glove That Fits, London — Fri, 5 Dec 2025
-- Distillery N17, London — Sat, 8 Nov 2025
 
 ## Shares bills with
 
 Voicedrone, Alba Heidari, Anahita Shamsaei
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbecks/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbecks/)*

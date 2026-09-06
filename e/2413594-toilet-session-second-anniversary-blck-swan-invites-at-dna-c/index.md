@@ -1,6 +1,6 @@
 # TOILET SESSION SECOND ANNIVERSARY: BLCK SWAN INVITES at DNA. CLUB
 
-TOILET SESSION SECOND ANNIVERSARY: BLCK SWAN INVITES at DNA. CLUB on Sat 26 Sept, Berlin. 7 acts on the bill: Alex Friday, Blck-Swan, Conntex and Davide Santoro and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+TOILET SESSION SECOND ANNIVERSARY: BLCK SWAN INVITES at DNA. CLUB on Sat 26 Sept, Berlin. 9 acts on the bill: Alex Friday, BELLAHONEYBB, Blck-Swan and Conntex and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,13 @@ TOILET SESSION SECOND ANNIVERSARY: BLCK SWAN INVITES at DNA. CLUB on Sat 26 Sept
 ## Line-up
 
 - Alex Friday
+- BELLAHONEYBB
 - Blck-Swan
 - Conntex
 - Davide Santoro
 - DJ KILLING
 - Gigi Galante
+- LUV.DELUXE
 - Pablo Espinal
 
 *Source: [soundcheck](https://soundcheck.club/e/2413594-toilet-session-second-anniversary-blck-swan-invites-at-dna-c/)*

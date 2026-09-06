@@ -1,18 +1,18 @@
 # CITYTRONIX
 
-CITYTRONIX is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Steel Yard, London on Sat, 5 Sept 2026.
+CITYTRONIX is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
 
-CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Brighton, London, Manchester and Munich. Often billed alongside nohexcode, Modlar and KAVARI. Next up: The Steel Yard, London on Sat 5 Sept.
+CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Brighton, London, Manchester and Munich. Often billed alongside nohexcode, Modlar and KAVARI. Next up: Algha's Plantroom, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | The Steel Yard | London |
 | Sat, 12 Sept 2026 | Algha's Plantroom | London |
 
 ## Recently played
 
+- The Steel Yard, London — Sat, 5 Sept 2026
 - The Glove That Fits, London — Thu, 3 Sept 2026
 - Sui Generis, London — Sat, 22 Aug 2026
 - Colour Factory, London — Fri, 7 Aug 2026
@@ -20,10 +20,9 @@ CITYTRONIX is a techno and trance artist based in United Kingdom, tracked on sou
 - Starlane Pizza Bar, London — Sun, 19 Jul 2026
 - Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
 - Vespers Club, London — Sat, 2 May 2026
-- TBA - secret, London — Sat, 18 Apr 2026
 
 ## Shares bills with
 
 nohexcode, Modlar, KAVARI
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citytronix/)*

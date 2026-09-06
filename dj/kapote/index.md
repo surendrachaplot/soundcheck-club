@@ -1,22 +1,23 @@
 # Kapote
 
-Kapote is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at LoHi, New York City on Sat, 5 Sept 2026.
+Kapote is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Klub Werkstatt, Copenhagen on Fri, 11 Sept 2026.
 
-Kapote is a house and disco artist tracked on soundcheck, with 221 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Cody Currie. Next up: LoHi, Newyorkcity on Sat 5 Sept.
+Kapote is a house and disco artist tracked on soundcheck, with 222 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Sam Ruffillo, Gee Lane and Cody Currie. Next up: Klub Werkstatt, Copenhagen on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | LoHi | New York City |
 | Fri, 11 Sept 2026 | Klub Werkstatt | Copenhagen |
 | Sat, 12 Sept 2026 | Rex Club | Paris |
+| Sat, 19 Sept 2026 | Apollo Club Milano | Milan |
 | Sat, 10 Oct 2026 | Bar15 | Stockholm |
 | Fri, 6 Nov 2026 | Studio1111 | Berlin |
 | Sat, 21 Nov 2026 | Aahhh Rooftop | Munich |
 
 ## Recently played
 
+- LoHi, New York City — Sat, 5 Sept 2026
 - Studio1111, Berlin — Fri, 4 Sept 2026
 - The Jazz Cafe, London — Sat, 22 Aug 2026
 - Bahnwärter Thiel, Munich — Fri, 21 Aug 2026
@@ -24,10 +25,9 @@ Kapote is a house and disco artist tracked on soundcheck, with 221 sets logged a
 - TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
 - Cabaret  Aléatoire, Marseille — Sat, 18 Jul 2026
 - LIVE EVIL, Munich — Fri, 17 Jul 2026
-- Parc de la Trinitat, Barcelona — Sun, 12 Jul 2026
 
 ## Shares bills with
 
 Sam Ruffillo, Gee Lane, Cody Currie
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kapote/)*

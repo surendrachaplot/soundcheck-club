@@ -1,6 +1,6 @@
 # LETRIX
 
-LETRIX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Teritorija, Riga on Sat, 12 Sept 2026.
+LETRIX is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Teritorija, Riga on Sat, 12 Sept 2026.
 
 LETRIX is a techno and house artist based in Latvia, tracked on soundcheck, with 7 sets logged across Riga. Often billed alongside DV8 (LV), Kapusta and Kelvin. Next up: Teritorija, Riga on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ LETRIX is a techno and house artist based in Latvia, tracked on soundcheck, with
 
 DV8 (LV), Kapusta, Kelvin
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/letrix/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/letrix/)*

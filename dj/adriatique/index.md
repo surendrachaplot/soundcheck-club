@@ -1,14 +1,13 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Dolder Wellenbad, Zurich on Sat, 5 Sept 2026.
+Adriatique is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at [UNVRS], Ibiza on Thu, 17 Sept 2026.
 
-Adriatique is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Mind Against, Colyn and Âme. Next up: Dolder Wellenbad, Zurich on Sat 5 Sept.
+Adriatique is a techno and house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Mind Against, Colyn and Âme. Next up: [UNVRS], Ibiza on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Dolder Wellenbad | Zurich |
 | Thu, 17 Sept 2026 | [UNVRS] | Ibiza |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
 | Fri, 18 Sept 2026 | IFEMA | Madrid |
@@ -21,6 +20,7 @@ Adriatique is a techno and house artist tracked on soundcheck, with 154 sets log
 
 ## Recently played
 
+- Dolder Wellenbad, Zurich — Sat, 5 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Fri, 28 Aug 2026
 - Old Royal Naval College, London — Sat, 8 Aug 2026
 - fabric, London — Sat, 8 Aug 2026
@@ -28,10 +28,9 @@ Adriatique is a techno and house artist tracked on soundcheck, with 154 sets log
 - Brooklyn Storehouse, New York City — Sat, 18 Jul 2026
 - Union Park, Chicago — Fri, 17 Jul 2026
 - TBA - Château de Maisons, Paris — Sat, 4 Jul 2026
-- Petra, Rome — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Mind Against, Colyn, Âme
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

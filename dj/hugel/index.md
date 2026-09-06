@@ -1,14 +1,13 @@
 # Hugel
 
-Hugel is a House and Afro House artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Echostage, Washington DC on Sat, 5 Sept 2026.
+Hugel is a House and Afro House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 10 Sept 2026.
 
-Hugel is a house and afro house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Auckland and Austin and 33 more. Often billed alongside Miss Monique, Dombresky and Eran Hersh. Next up: Echostage, Washingtondc on Sat 5 Sept.
+Hugel is a house and afro house artist tracked on soundcheck, with 135 sets logged across Amsterdam, Athens, Auckland and Austin and 33 more. Often billed alongside Miss Monique, Dombresky and Eran Hersh. Next up: Hï Ibiza, Ibiza on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Echostage | Washington DC |
 | Thu, 10 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 13 Sept 2026 | Navy Pier | Chicago |
 | Thu, 17 Sept 2026 | Hï Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Hugel is a house and afro house artist tracked on soundcheck, with 135 sets logg
 
 ## Recently played
 
+- Echostage, Washington DC — Sat, 5 Sept 2026
 - Hï Ibiza, Ibiza — Thu, 3 Sept 2026
 - TBA -  Fort Manoel, Malta — Sat, 29 Aug 2026
 - TBA - Malta, Malta — Sat, 29 Aug 2026
@@ -27,10 +27,9 @@ Hugel is a house and afro house artist tracked on soundcheck, with 135 sets logg
 - Hï Ibiza, Ibiza — Thu, 20 Aug 2026
 - Hï Ibiza, Ibiza — Thu, 13 Aug 2026
 - Medusa Beach, Valencia — Thu, 13 Aug 2026
-- Hï Ibiza, Ibiza — Thu, 6 Aug 2026
 
 ## Shares bills with
 
 Miss Monique, Dombresky, Eran Hersh
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*

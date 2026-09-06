@@ -1,6 +1,6 @@
 # Bikini Body
 
-Bikini Body is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Paradise Palms, Edinburgh on Sun, 6 Sept 2026.
+Bikini Body is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Paradise Palms, Edinburgh on Sun, 6 Sept 2026.
 
 Bikini Body is an experimental and electronica artist tracked on soundcheck, with 12 sets logged across Barcelona, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Optimo (Espacio), Erol Alkan and Factory Floor. Next up: Paradise Palms, Edinburgh on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Bikini Body is an experimental and electronica artist tracked on soundcheck, wit
 
 Optimo (Espacio), Erol Alkan, Factory Floor
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bikinibody/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bikinibody/)*

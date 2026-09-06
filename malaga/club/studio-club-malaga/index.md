@@ -1,14 +1,13 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 10 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Studio Club Invites: Binh - Skatman - Tal Fussman" on Sat, 5 Sept 2026.
+Studio Club Malaga is a music venue in Malaga with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Studio Club Invites: Alba Franch - Nyra - Arcfilter" on Fri, 11 Sept 2026.
 
-Studio Club Malaga is a music venue in Malaga listed on soundcheck. 10 upcoming nights, with line-ups including 6EJOU, Alba Franch, Alinka and Âme and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
+Studio Club Malaga is a music venue in Malaga listed on soundcheck. 9 upcoming nights, with line-ups including 6EJOU, Alba Franch, Alinka and Âme and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Studio Club Invites: Binh - Skatman - Tal Fussman | Binh, Skatman, Tal Fussman |
 | Fri, 11 Sept 2026 | Studio Club Invites: Alba Franch - Nyra - Arcfilter | Alba Franch, Arcfilter, Nyra |
 | Sat, 12 Sept 2026 | Studio Club Invites: Octave One LIVE | DJ Holographic, Felipe Bravo, Octave One |
 | Fri, 18 Sept 2026 | Studio Club Invites: HANAA aka La Penderie Noire | La Penderie Noire |
@@ -23,4 +22,4 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 10 upcoming 
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

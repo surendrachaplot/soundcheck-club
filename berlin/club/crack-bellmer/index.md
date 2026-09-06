@@ -1,14 +1,13 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "San Loqal" on Sat, 5 Sept 2026.
+Crack Bellmer is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 9 Sept 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including 0dysseus, ADVAN, Ahni and Azadi and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including 0dysseus, ADVAN, Ahni and Azadi and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | San Loqal | Ahni, BB. angel, DJ Fiona, OatMilk |
 | Wed, 9 Sept 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 | Thu, 10 Sept 2026 | Thursday Service by Pulse Friction | 0dysseus, Caldii, Dr. Sud, Luminick, Roots., dOctOr doms |
 | Fri, 11 Sept 2026 | Tales of Dakno: The Berlin Story | BILLY, Mario Ignacio, Stella Fiore |
@@ -18,9 +17,10 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 21 upcoming night
 | Fri, 18 Sept 2026 | Fulmen Phantasia | El Fulminador, Utopyk Jones |
 | Sat, 19 Sept 2026 | Modular Circuit x Taranau | Berfu, Dshanna, Eira, Julez (live), Reanna Peris |
 | Wed, 23 Sept 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
+| Sat, 26 Sept 2026 | PLAYGROUND | Easy K, Luna Martinez, R4F4, Suzanne Dolmancé |
 
 ## Address
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

@@ -1,19 +1,19 @@
 # STASIC
 
-STASIC is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at ://about blank, Berlin on Sat, 5 Sept 2026.
+STASIC is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Lokschuppen Berlin, Berlin on Tue, 15 Sept 2026.
 
-STASIC is a techno and electro artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Bokaric, SIUL (1) and DEN!SE. Next up: ://about blank, Berlin on Sat 5 Sept.
+STASIC is a techno and electro artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Bokaric, SIUL (1) and DEN!SE. Next up: Lokschuppen Berlin, Berlin on Tue 15 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | ://about blank | Berlin |
 | Tue, 15 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 16 Oct 2026 | ://about blank | Berlin |
 
 ## Recently played
 
+- ://about blank, Berlin — Sat, 5 Sept 2026
 - ://about blank, Berlin — Tue, 7 Jul 2026
 - ://about blank, Berlin — Sat, 4 Jul 2026
 - ://about blank, Berlin — Fri, 3 Jul 2026
@@ -21,10 +21,9 @@ STASIC is a techno and electro artist based in Germany, tracked on soundcheck, w
 - ://about blank, Berlin — Fri, 24 Apr 2026
 - ://about blank, Berlin — Sat, 4 Apr 2026
 - ://about blank, Berlin — Tue, 16 Sept 2025
-- ://about blank, Berlin — Fri, 29 Aug 2025
 
 ## Shares bills with
 
 Bokaric, SIUL (1), DEN!SE
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stasic/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stasic/)*

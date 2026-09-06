@@ -1,14 +1,13 @@
 # Sacré
 
-Sacré is a music venue in Paris with 12 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Sacré présente: Tjade & Vickies" on Sat, 5 Sept 2026.
+Sacré is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Sacré présente: Justin Jay & OLYN TWO" on Fri, 11 Sept 2026.
 
-Sacré is a music venue in Paris listed on soundcheck. 12 upcoming nights, with line-ups including Bag Raiders, Basile de Suresnes, Bridge (NY) and Contrecoeur and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
+Sacré is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including Bag Raiders, Basile de Suresnes, Bridge (NY) and Contrecoeur and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Sacré présente: Tjade & Vickies | Tjade, Vickies |
 | Fri, 11 Sept 2026 | Sacré présente: Justin Jay & OLYN TWO | Justin Jay, OLYN TWO |
 | Sat, 12 Sept 2026 | Sacré présente: The Disco Express | Crystal Touch, Magnolia, Monsieur Van Pratt |
 | Fri, 18 Sept 2026 | Sacré présente: Frappé Takeover with Irfane, Basile de Suresnes & Ten Fingerz | Basile de Suresnes, Irfane, Ten Fingerz |
@@ -18,9 +17,10 @@ Sacré is a music venue in Paris listed on soundcheck. 12 upcoming nights, with 
 | Fri, 2 Oct 2026 | Sacré présente: Italo Deviance & Funky Express | Italo Deviance |
 | Sat, 3 Oct 2026 | Sacré présente: Bag Raiders & Dessins Nuls Animés | Bag Raiders |
 | Fri, 9 Oct 2026 | Sacré présente: 49th & the Main + Contrecoeur | Contrecoeur |
+| Fri, 6 Nov 2026 | Dusky présent Signals Tour | Dusky |
 
 ## Address
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

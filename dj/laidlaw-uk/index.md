@@ -1,14 +1,13 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Ouseburn Garden, Newcastle on Sat, 5 Sept 2026.
+Laidlaw is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Fvtvr, Paris on Sat, 12 Sept 2026.
 
-Laidlaw is a house and tech house artist tracked on soundcheck, with 195 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Ouseburn Garden, Newcastle on Sat 5 Sept.
+Laidlaw is a house and tech house artist tracked on soundcheck, with 195 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 33 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Fvtvr, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Ouseburn Garden | Newcastle |
 | Sat, 12 Sept 2026 | Fvtvr | Paris |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Tue, 22 Sept 2026 | Hï Ibiza | Ibiza |
@@ -23,6 +22,7 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 195 sets lo
 
 ## Recently played
 
+- Ouseburn Garden, Newcastle — Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza — Thu, 3 Sept 2026
 - The Nest, Nottingham — Sun, 30 Aug 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
@@ -30,10 +30,9 @@ Laidlaw is a house and tech house artist tracked on soundcheck, with 195 sets lo
 - Crate Brewery, London — Sat, 22 Aug 2026
 - NUMBER 90 LONDON, London — Sat, 22 Aug 2026
 - 528 Ibiza, Ibiza — Sun, 16 Aug 2026
-- Shelter Amsterdam, Amsterdam — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Dr Banana, Julian Anthony
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laidlaw-uk/)*

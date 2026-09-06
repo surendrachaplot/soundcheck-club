@@ -1,19 +1,19 @@
 # Grant Nelson
 
-Grant Nelson is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - THE STRAY, HARROGATE, Leeds on Sat, 5 Sept 2026.
+Grant Nelson is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
-Grant Nelson is a house and garage artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Brighton and Dublin and 10 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: TBA - THE STRAY, HARROGATE, Leeds on Sat 5 Sept.
+Grant Nelson is a house and garage artist tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Brighton and Dublin and 10 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: Studio 338, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - THE STRAY, HARROGATE | Leeds |
 | Sat, 26 Sept 2026 | Studio 338 | London |
 | Sat, 26 Sept 2026 | The Yard | Manchester |
 
 ## Recently played
 
+- TBA - THE STRAY, HARROGATE, Leeds — Sat, 5 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Cova Santa, Ibiza — Tue, 18 Aug 2026
 - The Racket Space, Dublin — Fri, 12 Jun 2026
@@ -21,10 +21,9 @@ Grant Nelson is a house and garage artist tracked on soundcheck, with 34 sets lo
 - Bricks, London — Sat, 23 May 2026
 - Oculist, Brighton — Thu, 21 May 2026
 - fabric, London — Sat, 18 Apr 2026
-- Studio 338, London — Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Matt Jam Lamont, Steve Taylor, Trimtone
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*

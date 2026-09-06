@@ -1,14 +1,13 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Crime with Two Dots" on Sat, 5 Sept 2026.
+Turbina is a music venue in Budapest with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "ROOTZ — SEASON OPENING" on Fri, 11 Sept 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 7 upcoming nights, with line-ups including Akác, AllaDerivaLontano, Arash Ete and Atashi and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 6 upcoming nights, with line-ups including Akác, AllaDerivaLontano, Arash Ete and Atashi and 2 more. Browse upcoming dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Crime with Two Dots | CRIME, Rovizz, THIRD 2HIFT, Two Dots (FR) |
 | Fri, 11 Sept 2026 | ROOTZ — SEASON OPENING | AllaDerivaLontano, Atashi, Bencsama, Cvrdwell |
 | Sat, 19 Sept 2026 | ꧁ ༺ DEAD END season opening with ninnidslvx, Paralich ༻ ꧂ | NINNIDSLVX, Paralich |
 | Fri, 25 Sept 2026 | 5 Years of Memphis x The Balance with Fabe (Fashion Show) | Arash Ete, CRB, Fabe, Kiqo, Kiuz, Melody RA+RE, Stark (2), U-Seph, schraeder |
@@ -20,4 +19,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 7 upcoming nights, wi
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

@@ -1,6 +1,6 @@
 # Robbie Doherty
 
-Robbie Doherty is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 6 Sept 2026.
+Robbie Doherty is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Los Angeles State Historic Park, Los Angeles on Sun, 6 Sept 2026.
 
 Robbie Doherty is a house and tech house artist tracked on soundcheck, with 157 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Prunk, Dennis Quin and Jamback. Next up: Los Angeles State Historic Park, Losangeles on Sun 6 Sept.
 
@@ -31,4 +31,4 @@ Robbie Doherty is a house and tech house artist tracked on soundcheck, with 157 
 
 Prunk, Dennis Quin, Jamback
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robbiedoherty/)*

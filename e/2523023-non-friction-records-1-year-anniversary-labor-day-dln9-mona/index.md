@@ -1,6 +1,6 @@
-# Non Friction Records 1 Year Anniversary Labor Day DLN9 - Mona Matsuoka, Matt FX, Joopiter at Dead Letter No. 9
+# Non-Friction Records 1 Year Anniversary Labor Day DLN9 - Mona Matsuoka, Matt FX, Joopiter at Dead Letter No. 9
 
-Non Friction Records 1 Year Anniversary Labor Day DLN9 - Mona Matsuoka, Matt FX, Joopiter at Dead Letter No. 9 on Sun 6 Sept, Newyorkcity. 5 acts on the bill: Baby Prince, Joopiter, Matt FX and Mona Matsuoka and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Non-Friction Records 1 Year Anniversary Labor Day DLN9 - Mona Matsuoka, Matt FX, Joopiter at Dead Letter No. 9 on Sun 6 Sept, Newyorkcity. 5 acts on the bill: Baby Prince, Joopiter, Matt FX and Mona Matsuoka and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

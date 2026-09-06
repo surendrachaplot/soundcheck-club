@@ -1,6 +1,6 @@
 # Buck Wilson
 
-Buck Wilson is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Club Six, San Francisco/Oakland on Thu, 24 Sept 2026.
+Buck Wilson is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Club Six, San Francisco/Oakland on Thu, 24 Sept 2026.
 
 Buck Wilson is a tech house and deep house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Sanfrancisco. Often billed alongside Golem (US), Discnogirl and QUETZAL. Next up: Club Six, Sanfrancisco on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Buck Wilson is a tech house and deep house artist based in United States of Amer
 
 Golem (US), Discnogirl, QUETZAL
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buckwilson/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buckwilson/)*

@@ -1,8 +1,8 @@
 # Vladimir Cauchemar
 
-Vladimir Cauchemar is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
+Vladimir Cauchemar is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Grand Parc Miribel Jonage, Lyon on Sat, 12 Sept 2026.
 
-Vladimir Cauchemar is a techno and electro artist tracked on soundcheck, with 39 sets logged across Barcelona, Brussels, Geneva and Ghent and 8 more. Often billed alongside billx, LESSSS and Mandragora. Next up: TBA - Grand Parc Miribel Jonage, Lyon on Sat 12 Sept.
+Vladimir Cauchemar is a techno and electro artist tracked on soundcheck, with 40 sets logged across Barcelona, Brussels, Geneva and Ghent and 8 more. Often billed alongside billx, LESSSS and Mandragora. Next up: TBA - Grand Parc Miribel Jonage, Lyon on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Vladimir Cauchemar is a techno and electro artist tracked on soundcheck, with 39
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | TBA - Grand Parc Miribel Jonage | Lyon |
 | Fri, 30 Oct 2026 | Warehouse | Nantes |
+| Fri, 4 Dec 2026 | Phantom, Paris | Paris |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Vladimir Cauchemar is a techno and electro artist tracked on soundcheck, with 39
 
 billx, LESSSS, Mandragora
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimircauchemar/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimircauchemar/)*

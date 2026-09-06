@@ -1,6 +1,6 @@
 # Ponyo
 
-Ponyo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
+Ponyo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
 
 Ponyo is a techno and trance artist tracked on soundcheck, with 21 sets logged across Berlin, Copenhagen and Paris. Often billed alongside Whattis, HIỀN ĐIÊN and CUNT REMEMBER. Next up: Point Ephémère, Paris on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Ponyo is a techno and trance artist tracked on soundcheck, with 21 sets logged a
 
 Whattis, HIỀN ĐIÊN, CUNT REMEMBER
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ponyo/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ponyo/)*

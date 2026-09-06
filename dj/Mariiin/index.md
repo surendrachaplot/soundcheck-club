@@ -1,14 +1,13 @@
 # Mariiin
 
-Mariiin is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hoppetosse, Berlin on Fri, 4 Sept 2026.
+Mariiin is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Rex Club, Paris on Fri, 11 Sept 2026.
 
-Mariiin is a techno and electro artist tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Bobby., Jos and Binh. Next up: Hoppetosse, Berlin on Fri 4 Sept.
+Mariiin is a techno and electro artist tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Bobby., Jos and Binh. Next up: Rex Club, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Hoppetosse | Berlin |
 | Fri, 11 Sept 2026 | Rex Club | Paris |
 | Sat, 17 Oct 2026 | Ouseburn Garden | Newcastle |
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |
@@ -28,4 +27,4 @@ Mariiin is a techno and electro artist tracked on soundcheck, with 91 sets logge
 
 Bobby., Jos, Binh
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*

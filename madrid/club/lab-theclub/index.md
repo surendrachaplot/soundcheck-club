@@ -1,15 +1,13 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 15 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Cristian Varela (All Night Long)" on Sat, 5 Sept 2026.
+LAB theCLUB is a music venue in Madrid with 13 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Paul Van Dyk en Madrid" on Fri, 11 Sept 2026.
 
-LAB theCLUB is a music venue in Madrid listed on soundcheck. 15 upcoming nights, with line-ups including Adam Beyer, Claptone, Cristian Varela and Crusy and 2 more. Browse upcoming dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
+LAB theCLUB is a music venue in Madrid listed on soundcheck. 13 upcoming nights, with line-ups including Adam Beyer, Claptone, Crusy and Hot Since 82 and 2 more. Browse upcoming dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Cristian Varela (All Night Long) | Cristian Varela |
-| Sat, 5 Sept 2026 | LaTarde by Jesús Elices |  |
 | Fri, 11 Sept 2026 | Paul Van Dyk en Madrid | Paul Van Dyk |
 | Sat, 12 Sept 2026 | Tardeo Madriz – Volvimos Pa' Madriz |  |
 | Sat, 12 Sept 2026 | THE OMEN |  |
@@ -18,9 +16,11 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 15 upcoming nights,
 | Sat, 3 Oct 2026 | Space of Sound with Hot Since 82, Crusy | Crusy, Hot Since 82 |
 | Fri, 9 Oct 2026 | BRNT with Adam Beyer | Adam Beyer |
 | Sat, 10 Oct 2026 | Bachatta Techno Factory – 35 Aniversario |  |
+| Fri, 16 Oct 2026 | LAB theClub pres Reinier Zonneveld live | Reinier Zonneveld |
+| Fri, 30 Oct 2026 | BRNT with Mathame | Mathame |
 
 ## Address
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

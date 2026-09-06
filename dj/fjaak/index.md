@@ -1,6 +1,6 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sub Club, Glasgow on Fri, 11 Sept 2026.
+FJAAK is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Sub Club, Glasgow on Fri, 11 Sept 2026.
 
 FJAAK is a techno and house artist tracked on soundcheck, with 259 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Elli Acula, Anna Z. and Daria Kolosova. Next up: Sub Club, Glasgow on Fri 11 Sept.
 
@@ -36,4 +36,4 @@ FJAAK is a techno and house artist tracked on soundcheck, with 259 sets logged a
 
 Elli Acula, Anna Z., Daria Kolosova
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

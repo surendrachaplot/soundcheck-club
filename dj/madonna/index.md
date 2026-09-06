@@ -1,6 +1,6 @@
 # Madonna
 
-Madonna is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Birdhouse, Vancouver on Fri, 11 Sept 2026.
+Madonna is a Pop and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Birdhouse, Vancouver on Fri, 11 Sept 2026.
 
 Madonna is a pop and club artist tracked on soundcheck, with 7 sets logged across London, Melbourne, Sydney and Utrecht and 1 more. Often billed alongside Kylie Minogue, Andy C and BLUR. Next up: The Birdhouse, Vancouver on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Madonna is a pop and club artist tracked on soundcheck, with 7 sets logged acros
 
 Kylie Minogue, Andy C, BLUR
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madonna/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madonna/)*

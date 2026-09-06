@@ -1,8 +1,8 @@
 # Guy J
 
-Guy J is a Progressive House and House artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
+Guy J is a Progressive House and House artist with 10 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Guy J is a progressive house and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Athens and Auckland and 34 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: 528 Ibiza, Ibiza on Thu 1 Oct.
+Guy J is a progressive house and house artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Auckland and 34 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: 528 Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Guy J is a progressive house and house artist tracked on soundcheck, with 128 se
 | Sat, 7 Nov 2026 | Digital | Newcastle |
 | Sat, 21 Nov 2026 | Culture Box | Copenhagen |
 | Sat, 28 Nov 2026 | TBA - Autodromo de Buenos Aires, Villa Lugano | Buenos Aires |
+| Fri, 4 Dec 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 
@@ -33,4 +34,4 @@ Guy J is a progressive house and house artist tracked on soundcheck, with 128 se
 
 Guy Mantzur, Sahar Z, Khen
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*

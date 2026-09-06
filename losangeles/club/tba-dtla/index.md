@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 13 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "CLOSER x TYF present MOONDANCE" on Sun, 6 Sept 2026.
+TBA - DTLA is a music venue in Los Angeles with 13 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "CLOSER x TYF present MOONDANCE with Rello" on Sun, 6 Sept 2026.
 
 TBA - DTLA is a music venue in Losangeles listed on soundcheck. 13 upcoming nights, with line-ups including 6 SENSE, Barbara Boeing, BC Rydah and Brick (US) and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -8,7 +8,7 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 13 upcoming nigh
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | CLOSER x TYF present MOONDANCE |  |
+| Sun, 6 Sept 2026 | CLOSER x TYF present MOONDANCE with Rello | Rello |
 | Fri, 11 Sept 2026 | PULP: EVOLUTION (RAVE + ART GALLERY) | BC Rydah |
 | Sat, 12 Sept 2026 | CLOSER presents THERMAL with Vladimir Dubyshkin | JAQ.XS, Lake Hills, Vladimir Dubyshkin |
 | Sat, 12 Sept 2026 | Capsule x Groove Inc | CHOíCE, Chemtrail Johnny, Hazy, Jason-Douglas, Mario Liberti, Mikeb |
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Losangeles listed on soundcheck. 13 upcoming nigh
 | Fri, 2 Oct 2026 | Toy Tonics Jam - Los Angeles | Barbara Boeing, Cody Currie, Xica Soul |
 | Fri, 9 Oct 2026 | IN BETWEEN: Roman Flügel & Josh Caffé | Josh Caffé, Roman Flügel |
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

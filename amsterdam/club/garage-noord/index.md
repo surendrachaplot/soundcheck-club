@@ -1,14 +1,13 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "PERREO31" on Sat, 5 Sept 2026.
+Garage Noord is a music venue in Amsterdam with 3 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "NTS Amsterdam" on Sun, 20 Sept 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 4 upcoming nights, with line-ups including 42nd Avenue, Akua, amil raja and Andy (NL) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 3 upcoming nights, with line-ups including 42nd Avenue, Akua, amil raja and Andy (NL) and 2 more. Browse upcoming dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | PERREO31 |  |
 | Sun, 20 Sept 2026 | NTS Amsterdam | DJ Shahmaran, Himera, Jespfur, Mankiyan, Rotational, Rozaly, Toff Youth, amil raja, dare balogun |
 | Thu, 22 Oct 2026 | Interfering Grounds x Futura Artists | Budino, Camille Maria, Crisp Sandwich, Lena Willikens, Rosa, upsammy |
 | Sun, 25 Oct 2026 | The Final Stretch | 42nd Avenue, Akua, Andy (NL), Angel D'lite, Bennet (DE), Caim, Children of Valis, Crinkhoff, DJ Rino, ESTRELLA, Eversines, Gene On Earth, Iggy P, Lo Ds, Lola Haro, Marie K (1), Matthew Neequaye, Mattie, Moxie, Nathan Homan, Nicolas Lutz, Noizar, Pieter Jansen, RDS, Tsepo, livwutang, tINI |
@@ -17,4 +16,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 4 upcoming nigh
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

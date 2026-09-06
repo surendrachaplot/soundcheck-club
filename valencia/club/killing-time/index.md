@@ -1,6 +1,6 @@
 # Killing Time
 
-Killing Time is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "Roots 'n' Future: STICKY HI FI" on Thu, 10 Sept 2026.
+Killing Time is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Roots 'n' Future: STICKY HI FI" on Thu, 10 Sept 2026.
 
 Killing Time is a music venue in Valencia listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Doctor Sumsi, 21 (Ruzafa), Valencia.
 
@@ -14,4 +14,4 @@ Killing Time is a music venue in Valencia listed on soundcheck. 1 upcoming night
 
 Doctor Sumsi, 21 (Ruzafa), Valencia, Valencia
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/killing-time/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/killing-time/)*

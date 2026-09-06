@@ -1,18 +1,18 @@
 # John Everett
 
-John Everett is a House and Rio Funk artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Green Room NYC, New York City on Sat, 5 Sept 2026.
+John Everett is a House and Rio Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Outer Heaven, New York City on Fri, 9 Oct 2026.
 
-John Everett is a house and rio funk artist tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Armii1n, Choukroun and Monk (2). Next up: Green Room NYC, Newyorkcity on Sat 5 Sept.
+John Everett is a house and rio funk artist tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Armii1n, Choukroun and Monk (2). Next up: Outer Heaven, Newyorkcity on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Green Room NYC | New York City |
 | Fri, 9 Oct 2026 | Outer Heaven | New York City |
 
 ## Recently played
 
+- Green Room NYC, New York City — Sat, 5 Sept 2026
 - Apollo Studio, New York City — Fri, 21 Aug 2026
 - Outer Heaven, New York City — Fri, 5 Jun 2026
 - Outer Heaven, New York City — Sat, 23 May 2026
@@ -25,4 +25,4 @@ John Everett is a house and rio funk artist tracked on soundcheck, with 9 sets l
 
 Armii1n, Choukroun, Monk (2)
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johneverett/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johneverett/)*

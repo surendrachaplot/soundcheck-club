@@ -1,6 +1,6 @@
 # Cassa Cristano
 
-Cassa Cristano is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 25 Sept 2026.
+Cassa Cristano is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 25 Sept 2026.
 
 Cassa Cristano is a techno and trance artist tracked on soundcheck, with 83 sets logged across Cologne, Frankfurt and Nurnberg. Often billed alongside Klang der Nacht, Mantraa and Mario Angelo. Next up: Airport Würzburg, Nurnberg on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Cassa Cristano is a techno and trance artist tracked on soundcheck, with 83 sets
 
 Klang der Nacht, Mantraa, Mario Angelo
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassacristano/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassacristano/)*

@@ -1,6 +1,6 @@
 # Kamaida
 
-Kamaida is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at DeTour, Tokyo on Sun, 13 Sept 2026.
+Kamaida is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at DeTour, Tokyo on Sun, 13 Sept 2026.
 
 Kamaida is a techno and house artist tracked on soundcheck, with 20 sets logged across Tokyo. Often billed alongside ksd6700, COSMOGANG and Krankent. Next up: DeTour, Tokyo on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Kamaida is a techno and house artist tracked on soundcheck, with 20 sets logged 
 
 ksd6700, COSMOGANG, Krankent
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamaida/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kamaida/)*

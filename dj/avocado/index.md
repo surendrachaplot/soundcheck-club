@@ -1,8 +1,8 @@
 # Avocado
 
-Avocado is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
+Avocado is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Tanzhaus West, Frankfurt on Sat, 5 Sept 2026.
 
-Avocado is a techno and house artist tracked on soundcheck, with 88 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 6 more. Often billed alongside Dave Dinger, Rachel Raw and Leon Licht. Next up: Tanzhaus West, Frankfurt on Sat 5 Sept.
+Avocado is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside Dave Dinger, Rachel Raw and Leon Licht. Next up: Tanzhaus West, Frankfurt on Sat 5 Sept.
 
 ## Upcoming shows
 
@@ -10,9 +10,11 @@ Avocado is a techno and house artist tracked on soundcheck, with 88 sets logged 
 | --- | --- | --- |
 | Sat, 5 Sept 2026 | Tanzhaus West | Frankfurt |
 | Fri, 18 Sept 2026 | Kater | Berlin |
+| Fri, 23 Oct 2026 | Ruby Emma Hotel & Bar | Amsterdam |
 
 ## Recently played
 
+- Tanzhaus West, Frankfurt — Sat, 5 Sept 2026
 - Odonien, Cologne — Sat, 29 Aug 2026
 - Fundbureau, Hamburg — Fri, 28 Aug 2026
 - Klangtherapie, Nürnberg — Thu, 6 Aug 2026
@@ -20,10 +22,9 @@ Avocado is a techno and house artist tracked on soundcheck, with 88 sets logged 
 - Burning Beach, Nürnberg — Fri, 19 Jun 2026
 - Renate, Berlin — Sat, 13 Jun 2026
 - Kater, Berlin — Fri, 29 May 2026
-- Odonien, Cologne — Sun, 24 May 2026
 
 ## Shares bills with
 
 Dave Dinger, Rachel Raw, Leon Licht
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avocado/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/avocado/)*

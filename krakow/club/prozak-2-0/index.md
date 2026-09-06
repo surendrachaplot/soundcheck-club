@@ -1,15 +1,13 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 9 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "PROZAK ON THE ROOF: SEASON FINALE with JÄGERMEISTER" on Sat, 5 Sept 2026.
+Prozak 2.0 is a music venue in Krakow with 7 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "NO SLEEP ROOM" on Wed, 9 Sept 2026.
 
-Prozak 2.0 is a music venue in Krakow listed on soundcheck. 9 upcoming nights, with line-ups including Bliss Kiss, Kuriozum, naked relaxing and Truant. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
+Prozak 2.0 is a music venue in Krakow listed on soundcheck. 7 upcoming nights, with line-ups including Bliss Kiss and Kuriozum. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | PROZAK ON THE ROOF: SEASON FINALE with JÄGERMEISTER | Kuriozum, Truant, naked relaxing |
-| Sat, 5 Sept 2026 | PROZAK ON THE ROOF: AFTERHOURS | Kuriozum, Truant, naked relaxing |
 | Wed, 9 Sept 2026 | NO SLEEP ROOM |  |
 | Fri, 11 Sept 2026 | AUSTRALIA WITH LOVE |  |
 | Sat, 12 Sept 2026 | STATE OF LOVE |  |
@@ -22,4 +20,4 @@ Prozak 2.0 is a music venue in Krakow listed on soundcheck. 9 upcoming nights, w
 
 plac Dominikański 6, 33-332 Kraków, Poland, Krakow
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*

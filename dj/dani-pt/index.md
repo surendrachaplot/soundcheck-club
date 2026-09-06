@@ -1,14 +1,13 @@
 # Da Ni
 
-Da Ni is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Gare Porto, Porto on Fri, 4 Sept 2026.
+Da Ni is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Plano B, Porto on Thu, 10 Sept 2026.
 
-Da Ni is a techno and house artist based in Portugal, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 4 more. Often billed alongside Nuno Carneiro, Serginho and Andy Caz. Next up: Gare Porto, Porto on Fri 4 Sept.
+Da Ni is a techno and house artist based in Portugal, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 4 more. Often billed alongside Nuno Carneiro, Serginho and Andy Caz. Next up: Plano B, Porto on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Gare Porto | Porto |
 | Thu, 10 Sept 2026 | Plano B | Porto |
 
 ## Recently played
@@ -26,4 +25,4 @@ Da Ni is a techno and house artist based in Portugal, tracked on soundcheck, wit
 
 Nuno Carneiro, Serginho, Andy Caz
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dani-pt/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dani-pt/)*

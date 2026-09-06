@@ -1,6 +1,6 @@
 # Malthès
 
-Malthès is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ritter Butzke, Berlin on Fri, 11 Sept 2026.
+Malthès is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Ritter Butzke, Berlin on Fri, 11 Sept 2026.
 
 Malthès is a house and deep house artist tracked on soundcheck, with 4 sets logged across Berlin and Paris. Often billed alongside Aurèl, Bambi-S and CJ Schneider. Next up: Ritter Butzke, Berlin on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Malthès is a house and deep house artist tracked on soundcheck, with 4 sets log
 
 Aurèl, Bambi-S, CJ Schneider
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malthes/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malthes/)*

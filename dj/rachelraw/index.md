@@ -1,13 +1,14 @@
 # Rachel Raw
 
-Rachel Raw is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
+Rachel Raw is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Ruby Emma Hotel & Bar, Amsterdam on Fri, 23 Oct 2026.
 
-Rachel Raw is a techno and tech house artist tracked on soundcheck, with 55 sets logged across Berlin, Cologne, Copenhagen and Dusseldorf and 5 more. Often billed alongside Avocado, DJ Jordan and Dave Dinger. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
+Rachel Raw is a techno and tech house artist tracked on soundcheck, with 56 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Avocado, DJ Jordan and Dave Dinger. Next up: Ruby Emma Hotel & Bar, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Ruby Emma Hotel & Bar | Amsterdam |
 | Sat, 7 Nov 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rachel Raw is a techno and tech house artist tracked on soundcheck, with 55 sets
 
 Avocado, DJ Jordan, Dave Dinger
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelraw/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelraw/)*

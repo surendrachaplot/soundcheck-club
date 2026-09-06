@@ -1,6 +1,6 @@
-# PIXELATE CREEPYPASTA MANCHESTER at Gorilla
+# PIXELATE Creepypasta Manchester at Gorilla
 
-PIXELATE CREEPYPASTA MANCHESTER at Gorilla on Sat 24 Oct, Manchester. 6 acts on the bill: alterum, Compulsive Leia, D-Luc-D and MetAteM and 2 more. Preview the line-up and save it on soundcheck.
+PIXELATE Creepypasta Manchester at Gorilla on Sat 24 Oct, Manchester. 6 acts on the bill: alterum, Compulsive Leia, D-Luc-D and MetAteM and 2 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

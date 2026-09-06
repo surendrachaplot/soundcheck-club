@@ -1,26 +1,26 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "15 Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid" on Fri, 4 Sept 2026.
+M-BIA is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Bleib deinen Linientreu vs. Mega 90er Rave" on Fri, 11 Sept 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Anime, Deadly Guns, DJ Jordan and Holy Priest and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Deadly Guns, DJ Jordan, Holy Priest and Karamustan and 2 more. Browse upcoming dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | 15 Y EFN • Anime • Unicorn on K. • Eycer • Koksberg • FabiTekk • Phiesi • District Red • Morbid | Anime, Laser, Tanz Unter Freunden, Techno Frühstück, Technokool, Tekk, Tekk DJ'z, Unicorn on Ketamine |
-| Sat, 5 Sept 2026 | INTOXICATION Summer Special | Johan (PT) |
 | Fri, 11 Sept 2026 | Bleib deinen Linientreu vs. Mega 90er Rave | DJ Jordan, Shorty |
 | Sat, 12 Sept 2026 | INCEPTION with Phantom - 2 FLOORS - GOA & TECHNO | Momentune, Phantom, SAOX, Tronic |
 | Fri, 18 Sept 2026 | Sanctus Harder Styles [Remzcore is back] | Deadly Guns, Refl3ction, Remzcore |
+| Fri, 25 Sept 2026 | VYBE / HARDTRANCE & HARDBOUNCE / TICKETS 5€ | MØABEAT, Popsen, TECHSIA, mølly (on molly) |
 | Sat, 26 Sept 2026 | Tropical Nomads presents: Technology (Nano Rec.) & ARAM (Believe Lab) |  |
 | Sat, 3 Oct 2026 | PsyLab Unity [Psytrance Rave] |  |
 | Fri, 9 Oct 2026 | SHØCC pres. Karamustan | Holy Priest, Karamustan |
 | Fri, 16 Oct 2026 | Bassquake by Vero |  |
 | Sat, 24 Oct 2026 | Goanautika w./ Bliss |  |
+| Fri, 30 Oct 2026 | Nyctophilia | NYXEA, SON!CA |
 
 ## Address
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

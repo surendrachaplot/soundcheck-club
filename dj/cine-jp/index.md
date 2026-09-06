@@ -1,13 +1,14 @@
 # Cine
 
-Cine is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Void Hall, Berlin on Fri, 11 Sept 2026.
+Cine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The V, Osaka on Wed, 9 Sept 2026.
 
-Cine is a house and techno artist based in Japan, tracked on soundcheck, with 140 sets logged across Berlin, Hamburg and Osaka. Often billed alongside RICHKID, HSC (1) and Nao Nomura. Next up: Void Hall, Berlin on Fri 11 Sept.
+Cine is a house and techno artist based in Japan, tracked on soundcheck, with 141 sets logged across Berlin, Hamburg and Osaka. Often billed alongside RICHKID, HSC (1) and Nao Nomura. Next up: The V, Osaka on Wed 9 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 9 Sept 2026 | The V | Osaka |
 | Fri, 11 Sept 2026 | Void Hall | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cine is a house and techno artist based in Japan, tracked on soundcheck, with 14
 
 RICHKID, HSC (1), Nao Nomura
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cine-jp/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cine-jp/)*

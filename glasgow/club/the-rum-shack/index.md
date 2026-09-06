@@ -1,14 +1,13 @@
 # The Rum Shack
 
-The Rum Shack is a music venue in Glasgow with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "World of Twist with DAR DISKU: Birthday Special | Global Grooves" on Sat, 5 Sept 2026.
+The Rum Shack is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Sonica Social: Konx-om-Pax DJ Set" on Fri, 25 Sept 2026.
 
-The Rum Shack is a music venue in Glasgow listed on soundcheck. 3 upcoming nights, with line-ups including DAR DISKU. Browse upcoming dates, start times and who's playing. 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom.
+The Rum Shack is a music venue in Glasgow listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | World of Twist with DAR DISKU: Birthday Special / Global Grooves | DAR DISKU |
 | Fri, 25 Sept 2026 | Sonica Social: Konx-om-Pax DJ Set |  |
 | Sat, 26 Sept 2026 | Glasgow Reggae Club presents Rocking Vibrations |  |
 
@@ -16,4 +15,4 @@ The Rum Shack is a music venue in Glasgow listed on soundcheck. 3 upcoming night
 
 657-659 Pollokshaws Road, Glasgow, G41 2AB, Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-rum-shack/)*

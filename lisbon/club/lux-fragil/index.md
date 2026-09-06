@@ -1,14 +1,13 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 10 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Fantastic Man, Raphael Carrau, Inês Duarte, HNRQ, NVNO" on Sat, 5 Sept 2026.
+Lux Fragil is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Ilektronik Sangeet" on Thu, 10 Sept 2026.
 
-Lux Fragil is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, with line-ups including A Guy Called Gerald, Andros, Beno and Cormac and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
+Lux Fragil is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, with line-ups including A Guy Called Gerald, Andros, Beno and Cormac and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Fantastic Man, Raphael Carrau, Inês Duarte, HNRQ, NVNO | Fantastic Man, HNRQ (2), Inês Duarte, Nadezda, Raphael Carrau |
 | Thu, 10 Sept 2026 | Ilektronik Sangeet | Khalil Suleman |
 | Fri, 11 Sept 2026 | James Monro, Rui Vargas, Markov, Nicolle Velcro | Andros, John Woods, Markov (cult), Nicolle Velcro, Rui Vargas |
 | Sat, 12 Sept 2026 | Jonathan Kaspar, Switchdance, HNRQ, Inês Duarte, Varela | Fabich, HNRQ (2), Inês Duarte, Jonathan Kaspar, Juju Manju, Moulin, Switchdance, Varela |
@@ -23,4 +22,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 10 upcoming nights, 
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

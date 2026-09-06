@@ -1,15 +1,14 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Locklead is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Locklead is a house and tech house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stassy and East End Dubs. Next up: Union Park, Chicago on Fri 4 Sept.
+Locklead is a house and tech house artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, Chris Stassy and East End Dubs. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Sat, 5 Sept 2026 | Echostage | Washington DC |
 | Sun, 13 Sept 2026 | BRET | Amsterdam |
 | Sun, 13 Sept 2026 | BRET | Amsterdam |
 | Sun, 13 Sept 2026 | BRET | Amsterdam |
@@ -19,10 +18,12 @@ Locklead is a house and tech house artist tracked on soundcheck, with 190 sets l
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
+| Sat, 31 Oct 2026 | TESTBED | Leeds |
 | Fri, 13 Nov 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
 
+- Echostage, Washington DC — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Cova Santa, Ibiza — Tue, 1 Sept 2026
 - Mint Warehouse, Leeds — Sun, 30 Aug 2026
@@ -30,10 +31,9 @@ Locklead is a house and tech house artist tracked on soundcheck, with 190 sets l
 - Custom House Square, Belfast — Fri, 14 Aug 2026
 - The Limelight, Belfast — Fri, 14 Aug 2026
 - Burgess Park, London — Sun, 9 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Marsolo, Chris Stassy, East End Dubs
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

@@ -1,14 +1,13 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "BOUND45" on Sat, 5 Sept 2026.
+Time is the new space is a music venue in Rotterdam with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "RIPA NA TULIPA (LIVE SAMBA)" on Thu, 10 Sept 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 7 upcoming nights, with line-ups including AHIL, Human Space Machine, Leon and Lotus (2) and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 6 upcoming nights, with line-ups including AHIL, Human Space Machine, Leon and Lotus (2) and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | BOUND45 |  |
 | Thu, 10 Sept 2026 | RIPA NA TULIPA (LIVE SAMBA) |  |
 | Fri, 11 Sept 2026 | STANDARD DEVIATION X SAYYAD STATION |  |
 | Sat, 12 Sept 2026 | TWOFOLD | Oceanic, Pureistix |
@@ -20,4 +19,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 7 upco
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

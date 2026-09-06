@@ -1,14 +1,13 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 11 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Fuse presents: Hadone curates with Nørbak & Tauceti" on Sat, 5 Sept 2026.
+Fuse is a music venue in Brussels with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Fuse presents: 2HOT2PLAY & ALT8" on Fri, 11 Sept 2026.
 
-Fuse is a music venue in Brussels listed on soundcheck. 11 upcoming nights, with line-ups including 2HOT2PLAY, ALT8, Altinbas and Andy C and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
+Fuse is a music venue in Brussels listed on soundcheck. 10 upcoming nights, with line-ups including 2HOT2PLAY, ALT8, Altinbas and Andy C and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Fuse presents: Hadone curates with Nørbak & Tauceti | Hadone, Nørbak, Tauceti (FR) |
 | Fri, 11 Sept 2026 | Fuse presents: 2HOT2PLAY & ALT8 | 2HOT2PLAY, ALT8, ATARAXY, Maëlle |
 | Sat, 12 Sept 2026 | Fuse presents: Andy C | Andy C, Bredren |
 | Fri, 18 Sept 2026 | Fuse presents: SESH with Clara Cuvé & PETERBLUE | Clara Cuvé, Holiness, JEKKAMAÏ, PETERBLUE |
@@ -18,9 +17,10 @@ Fuse is a music venue in Brussels listed on soundcheck. 11 upcoming nights, with
 | Fri, 9 Oct 2026 | Fuse presents: Fenrick (all night long) & Riana Holley (all night long) | Fenrick, Riana Holley |
 | Sat, 10 Oct 2026 | Fuse presents: ÜBERKIKZ (all night long) & Altered Circuits with Curses | Curses, Innershades, ÜBERKIKZ |
 | Sat, 31 Oct 2026 | Fuse presents: Silva Bumpa | Silva Bumpa |
+| Sat, 14 Nov 2026 | Fuse presents: 20YRS Klockworks with Ben Klock, DVS1 & Steve Rachmad aka STERAC (house set) | Altinbas, Ben Klock, DVS1, Newa, STERAC, She The DJ, Steve Rachmad, Zouzibabe |
 
 ## Address
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

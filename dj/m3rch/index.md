@@ -1,6 +1,6 @@
 # M3RCH
 
-M3RCH is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+M3RCH is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 M3RCH is a house and electro artist based in United States of America, tracked on soundcheck, with 4 sets logged across Chicago and Newyorkcity. Often billed alongside 999999999, ANNA and Adrian Mills. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -21,4 +21,4 @@ M3RCH is a house and electro artist based in United States of America, tracked o
 
 999999999, ANNA, Adrian Mills
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m3rch/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m3rch/)*

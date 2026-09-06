@@ -1,6 +1,6 @@
 # Palais
 
-Palais is a music venue in London with 18 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Palais: ISAbella (All Night Long)" on Sat, 5 Sept 2026.
+Palais is a music venue in London with 18 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Palais: TSHA & DJ Holographic" on Fri, 11 Sept 2026.
 
 Palais is a music venue in London listed on soundcheck. 18 upcoming nights, with line-ups including Alex Kassian, AMORAL, Andy Garvey and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -8,7 +8,6 @@ Palais is a music venue in London listed on soundcheck. 18 upcoming nights, with
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Palais: ISAbella (All Night Long) | DJ Storm, ISAbella, Silva Snipa, VXRGO |
 | Fri, 11 Sept 2026 | Palais: TSHA & DJ Holographic | DJ Holographic, TSHA |
 | Sat, 12 Sept 2026 | Palais: JakoJako, AMORAL & Tasha | AMORAL, JakoJako, Tasha |
 | Fri, 18 Sept 2026 | Origins: Sally C, Eclair Fifi & Cáit | Cáit, Eclair Fifi, Sally C |
@@ -18,9 +17,10 @@ Palais is a music venue in London listed on soundcheck. 18 upcoming nights, with
 | Sat, 26 Sept 2026 | Palais: Moonlighting (All Night Long) | Leanne Wright, MarshmeLLo, Zakia |
 | Fri, 2 Oct 2026 | Palais: Kode9, Introspekt & DJ Spinn | DJ Spinn, Introspekt, Kode9 |
 | Sat, 3 Oct 2026 | Palais x Nous'klaer Audio: Andy Garvey, Daisy Moon & Mattias El Mansouri b2b Oberman | Andy Garvey, Daisy Moon, Mattias El Mansouri, Oberman |
+| Fri, 9 Oct 2026 | Origins x Small Talk: Alex Kassian & Sinéad | Alex Kassian, Sinéad |
 
 ## Address
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

@@ -1,14 +1,13 @@
 # Tangent Gallery
 
-Tangent Gallery is a music venue in Detroit with 9 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Flashback" on Fri, 4 Sept 2026.
+Tangent Gallery is a music venue in Detroit with 8 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Industrial Detroit - BEIGE, Kenjiro, Kirill, Deadlines" on Fri, 11 Sept 2026.
 
-Tangent Gallery is a music venue in Detroit listed on soundcheck. 9 upcoming nights, with line-ups including The AM/AMX, Afra, Auntie Chanel and BEIGE and 2 more. Browse upcoming dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
+Tangent Gallery is a music venue in Detroit listed on soundcheck. 8 upcoming nights, with line-ups including The AM/AMX, Afra, Auntie Chanel and BEIGE and 2 more. Browse upcoming dates, start times and who's playing. 715 E Milwaukee St, Detroit, MI 48202.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Flashback |  |
 | Fri, 11 Sept 2026 | Industrial Detroit - BEIGE, Kenjiro, Kirill, Deadlines | BEIGE, Kenjiro |
 | Fri, 18 Sept 2026 | CORRUPTION: Remix Wars | Remnant |
 | Sat, 26 Sept 2026 | SHDW (Mutual Rytm) & Redax (Urban Pulse) Extended Sets | Redax, SHDW |
@@ -22,4 +21,4 @@ Tangent Gallery is a music venue in Detroit listed on soundcheck. 9 upcoming nig
 
 715 E Milwaukee St, Detroit, MI 48202, Detroit
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tangent-gallery/)*

@@ -1,6 +1,6 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Else, Berlin on Sun, 6 Sept 2026.
+Byron Yeates is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Else, Berlin on Sun, 6 Sept 2026.
 
 Byron Yeates is a house and techno artist tracked on soundcheck, with 188 sets logged across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside THC, DHC and Angel D'lite. Next up: Else, Berlin on Sun 6 Sept.
 
@@ -27,4 +27,4 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 188 sets l
 
 THC, DHC, Angel D'lite
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byronyeates/)*

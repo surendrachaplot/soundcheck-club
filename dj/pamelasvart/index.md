@@ -1,6 +1,6 @@
 # Pamela Svart
 
-Pamela Svart is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sensorium, Berlin on Wed, 23 Sept 2026.
+Pamela Svart is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Sensorium, Berlin on Wed, 23 Sept 2026.
 
 Pamela Svart is a techno and trance artist based in Chile, tracked on soundcheck, with 33 sets logged across Berlin, Copenhagen and Nurnberg. Often billed alongside GLIA, Bconscious and Daniela Fuzz. Next up: Sensorium, Berlin on Wed 23 Sept.
 
@@ -26,4 +26,4 @@ Pamela Svart is a techno and trance artist based in Chile, tracked on soundcheck
 
 GLIA, Bconscious, Daniela Fuzz
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pamelasvart/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pamelasvart/)*

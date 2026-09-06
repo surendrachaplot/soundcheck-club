@@ -1,26 +1,26 @@
 # Der Weiße Hase
 
-Der Weiße Hase is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "HOLE / Nu Trance - Acid - Techno" on Sat, 5 Sept 2026.
+Der Weiße Hase is a music venue in Berlin with 18 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*]" on Tue, 8 Sept 2026.
 
-Der Weiße Hase is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including andré wiese, Ari Denaro, August Kind and bbymeister and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
+Der Weiße Hase is a music venue in Berlin listed on soundcheck. 18 upcoming nights, with line-ups including Ari Denaro, August Kind, bbymeister and Bisk and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str 99, 10245 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | HOLE / Nu Trance - Acid - Techno | Ari Denaro, BioTec -official-, Bisk, Epicx, NIKO INCRAVALLE, andré wiese |
 | Tue, 8 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | Cat Vermillion, Daniel Boon, Johnny Allwess |
 | Thu, 10 Sept 2026 | Straff / Thursday Techno / free Entry until midnight | DAV3, Wiebe Roose |
 | Fri, 11 Sept 2026 | Trance Rebellion | DJ Schieferkiefer, Daora, Emma (8), Fabian Fischbach, MØABEAT |
 | Sat, 12 Sept 2026 | Die Lust am Feiern |  |
 | Tue, 15 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | August Kind, Erebos, MARRE |
+| Thu, 17 Sept 2026 | STRAFF / Thursday techno | Emma (8), TechNovaBader |
+| Fri, 18 Sept 2026 | Fem-All / Techno | Dydaa Forne, Mia Mangata, Miss Unleashed, Nat SuPrise, Schwirri, Sika Akis |
+| Sat, 19 Sept 2026 | r:nøcturn | Bisk, Don Tom, Hardy Hard, JayKosy, Marvel Gold, NIKO INCRAVALLE, Paal12, Sam Meier, rndr |
 | Tue, 22 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | TechNovaBader |
-| Tue, 29 Sept 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden [free entry until midnight*] | Felix Reichelt, Klangpusch, ZÖ (1) |
-| Sat, 3 Oct 2026 | Dämonenball |  |
-| Tue, 6 Oct 2026 | Smash & HART ◢◤ Tuesday Rave & Open Air Garden | DAZA, Tom Marten |
+| Thu, 24 Sept 2026 | STRAFF / Thursday Techno | Ari Denaro, Epicx |
 
 ## Address
 
 Revaler Str 99, 10245 Berlin, Berlin
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/der-wei-e-hase/)*

@@ -1,6 +1,6 @@
 # Mischa Beton
 
-Mischa Beton is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Tresor / Globus, Berlin on Wed, 14 Oct 2026.
+Mischa Beton is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Tresor / Globus, Berlin on Wed, 14 Oct 2026.
 
 Mischa Beton is a techno and hardcore artist based in Austria, tracked on soundcheck, with 32 sets logged across Berlin, Vienna and Zurich. Often billed alongside Gydah, Caniche and Gerald VDH. Next up: Tresor / Globus, Berlin on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Mischa Beton is a techno and hardcore artist based in Austria, tracked on soundc
 
 Gydah, Caniche, Gerald VDH
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mischabeton/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mischabeton/)*

@@ -1,6 +1,6 @@
 # The International Rooftop Party at The MED Terrace
 
-The International Rooftop Party at The MED Terrace on Sun 13 Sept, Tokyo. 5 acts on the bill: AY (10), Keigo (JP), KURIOS(JP) and Onacity and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+The International Rooftop Party at The MED Terrace on Sun 13 Sept, Tokyo. 6 acts on the bill: AY (10), Keigo (JP), KURIOS(JP) and Onacity and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ The International Rooftop Party at The MED Terrace on Sun 13 Sept, Tokyo. 5 acts
 - Keigo (JP)
 - KURIOS(JP)
 - Onacity
+- Stev3NN
 - TAKUTO (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2529495-the-international-rooftop-party-at-the-med-terrace/)*

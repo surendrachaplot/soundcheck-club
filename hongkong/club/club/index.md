@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "宀 Invites DJ Yazi (Future Terror, Tokyo) [All Night Long]" on Sat, 5 Sept 2026.
+宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Wada Yosuke (Cowboy Family, Tokyo) B2B Sunsiaré (宀, Hong Kong)" on Fri, 11 Sept 2026.
 
 宀 Club is a music venue in Hongkong listed on soundcheck. 18 upcoming nights, with line-ups including 69DB, Andy-S, A Strange Wedding and Carl H and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -8,7 +8,6 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | 宀 Invites DJ Yazi (Future Terror, Tokyo) [All Night Long] | DJ Yazi |
 | Fri, 11 Sept 2026 | Wada Yosuke (Cowboy Family, Tokyo) B2B Sunsiaré (宀, Hong Kong) | Sunsiaré, Wada Yosuke |
 | Sat, 12 Sept 2026 | LMNL_DSTRKT: A Strange Wedding, Konnection & Faxtory | A Strange Wedding, Faxtory, Konnection |
 | Fri, 18 Sept 2026 | Entropy 熵 with Mogano (Arboretum, Berlin) + Marco Yu (TRI) + Nanogram (Entropy 熵) | MarcoYu, Mogano, Nanogram |
@@ -18,9 +17,10 @@
 | Fri, 2 Oct 2026 | Reach x Mango Season with Pocari Sweaty (Mango Season, Taipei) + Andy-S (Reach, Hong Kong) | Andy-S, Pocari Sweaty |
 | Sat, 3 Oct 2026 | 宀 Invites Dr. Nishimura (悪魔の沼, Tokyo) + Yadin Moha (Zagareet, Hong Kong) | Dr. Nishimura, Yadin Moha |
 | Fri, 9 Oct 2026 | Darkmetaz with 69DB (Spiral Tribe, London) [LIVE] | 69DB |
+| Sat, 10 Oct 2026 | VG+ with Carl H (Animals on Psychedelics, Cleethorpes) + maxi.milian (VG+, Hong Kong) | Carl H, maxi.milian |
 
 ## Address
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

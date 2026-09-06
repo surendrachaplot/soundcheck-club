@@ -1,8 +1,8 @@
 # Richard Gregory
 
-Richard Gregory is a Trance and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Gaffe, London on Sun, 6 Sept 2026.
+Richard Gregory is a Trance and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Gaffe, London on Sun, 6 Sept 2026.
 
-Richard Gregory is a trance and tech house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Bristol and Ghent and 5 more. Often billed alongside Lora Mipsum, Carl H and Inner Zone. Next up: Gaffe, London on Sun 6 Sept.
+Richard Gregory is a trance and tech house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Amsterdam, Berlin, Bristol and Ghent and 5 more. Often billed alongside Carl H, Lora Mipsum and Inner Zone. Next up: Gaffe, London on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Richard Gregory is a trance and tech house artist based in United Kingdom, track
 | --- | --- | --- |
 | Sun, 6 Sept 2026 | Gaffe | London |
 | Sat, 3 Oct 2026 | FOLD | London |
+| Fri, 4 Dec 2026 | Cobalt Studios | Newcastle |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Richard Gregory is a trance and tech house artist based in United Kingdom, track
 
 ## Shares bills with
 
-Lora Mipsum, Carl H, Inner Zone
+Carl H, Lora Mipsum, Inner Zone
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richardgregory/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richardgregory/)*

@@ -1,6 +1,6 @@
 # Patience
 
-Patience is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Level 8 DTLA, Los Angeles on Sun, 6 Sept 2026.
+Patience is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Level 8 DTLA, Los Angeles on Sun, 6 Sept 2026.
 
 Patience is a house and disco artist tracked on soundcheck, with 8 sets logged across Losangeles, Montreal and Paris. Often billed alongside Tamara Lanza, Casmalia and DJ Thatz. Next up: Level 8 DTLA, Losangeles on Sun 6 Sept.
 
@@ -24,4 +24,4 @@ Patience is a house and disco artist tracked on soundcheck, with 8 sets logged a
 
 Tamara Lanza, Casmalia, DJ Thatz
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patience/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patience/)*

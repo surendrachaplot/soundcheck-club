@@ -1,6 +1,6 @@
 # Einfach Taffo
 
-Einfach Taffo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+Einfach Taffo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 Einfach Taffo is a techno and tech house artist tracked on soundcheck, with 17 sets logged across Berlin. Often billed alongside Marc Eisenberg, V (NYC) and smeik. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Einfach Taffo is a techno and tech house artist tracked on soundcheck, with 17 s
 
 Marc Eisenberg, V (NYC), smeik
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/einfachtaffo/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/einfachtaffo/)*

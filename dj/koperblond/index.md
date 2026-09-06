@@ -1,6 +1,6 @@
 # Koperblond
 
-Koperblond is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at BASIS, Utrecht on Sat, 19 Sept 2026.
+Koperblond is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at BASIS, Utrecht on Sat, 19 Sept 2026.
 
 Koperblond is a house and techno artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside DJ Chuckie, Merel Helderman and Pelanoir. Next up: BASIS, Utrecht on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Koperblond is a house and techno artist based in Netherlands, tracked on soundch
 
 DJ Chuckie, Merel Helderman, Pelanoir
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koperblond/)*

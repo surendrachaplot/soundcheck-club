@@ -1,8 +1,8 @@
 # Oldboy
 
-Oldboy is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at fabric, London on Sun, 6 Sept 2026.
+Oldboy is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at fabric, London on Sun, 6 Sept 2026.
 
-Oldboy is a garage and house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Athens, Birmingham and Brighton and 17 more. Often billed alongside DJ Cosworth, Prozak (IRL) and Silva Bumpa. Next up: fabric, London on Sun 6 Sept.
+Oldboy is a garage and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Birmingham and Brighton and 17 more. Often billed alongside DJ Cosworth, Prozak (IRL) and Silva Bumpa. Next up: fabric, London on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Oldboy is a garage and house artist tracked on soundcheck, with 52 sets logged a
 | Thu, 17 Sept 2026 | The Bongo Club | Edinburgh |
 | Sat, 26 Sept 2026 | Kapsule | Liverpool |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
+| Fri, 4 Dec 2026 | Digital | Newcastle |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Oldboy is a garage and house artist tracked on soundcheck, with 52 sets logged a
 
 DJ Cosworth, Prozak (IRL), Silva Bumpa
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

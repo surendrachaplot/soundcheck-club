@@ -1,6 +1,6 @@
 # Anna Ullrich
 
-Anna Ullrich is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Gleis19, Vienna on Sun, 6 Sept 2026.
+Anna Ullrich is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Gleis19, Vienna on Sun, 6 Sept 2026.
 
 Anna Ullrich is a trance and techno artist tracked on soundcheck, with 51 sets logged across Berlin, Hamburg, Milan and Munich and 2 more. Often billed alongside Who is ela¿, Dimitrios (2) and KAROLINA. Next up: Gleis19, Vienna on Sun 6 Sept.
 
@@ -30,4 +30,4 @@ Anna Ullrich is a trance and techno artist tracked on soundcheck, with 51 sets l
 
 Who is ela¿, Dimitrios (2), KAROLINA
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*

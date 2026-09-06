@@ -1,6 +1,6 @@
 # Tyson Dias
 
-Tyson Dias is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Spybar, Chicago on Sun, 6 Sept 2026.
+Tyson Dias is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Spybar, Chicago on Sun, 6 Sept 2026.
 
 Tyson Dias is a house and minimal artist based in United States of America, tracked on soundcheck, with 35 sets logged across Chicago, Detroit and Newyorkcity. Often billed alongside Mantas Steles, Gino (DET) and Hiroko Yamamura. Next up: Spybar, Chicago on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Tyson Dias is a house and minimal artist based in United States of America, trac
 
 Mantas Steles, Gino (DET), Hiroko Yamamura
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tysondias/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tysondias/)*

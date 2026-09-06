@@ -1,14 +1,13 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Uto-Staffel, Zurich on Sat, 5 Sept 2026.
+Shanti Celeste is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 10 Sept 2026.
 
-Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Uto-Staffel, Zurich on Sat 5 Sept.
+Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 54 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Amnesia Ibiza, Ibiza on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Uto-Staffel | Zurich |
 | Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
@@ -20,9 +19,11 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 17 Oct 2026 | TBA - East Williamsburg | New York City |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
+| Sat, 24 Oct 2026 | KOKO | London |
 
 ## Recently played
 
+- Uto-Staffel, Zurich — Sat, 5 Sept 2026
 - Southwark Park, London — Sun, 30 Aug 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
@@ -30,10 +31,9 @@ Shanti Celeste is a house and techno artist tracked on soundcheck, with 214 sets
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - 528 Ibiza, Ibiza — Tue, 28 Jul 2026
 - TBA, Glasgow — Fri, 24 Jul 2026
-- Sub Club, Glasgow — Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Peach, Saoirse, Ogazón
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

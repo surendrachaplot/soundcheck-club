@@ -1,6 +1,6 @@
 # Atilla Ural
 
-Atilla Ural is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - East Williamsburg, New York City on Sun, 6 Sept 2026.
+Atilla Ural is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - East Williamsburg, New York City on Sun, 6 Sept 2026.
 
 Atilla Ural is a house and techno artist based in Turkey, tracked on soundcheck, with 37 sets logged across Newyorkcity. Often billed alongside Deo'jorge, Anna Collecta and Van Der Laan. Next up: TBA - East Williamsburg, Newyorkcity on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Atilla Ural is a house and techno artist based in Turkey, tracked on soundcheck,
 
 Deo'jorge, Anna Collecta, Van Der Laan
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atillaural/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atillaural/)*

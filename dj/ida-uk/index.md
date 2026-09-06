@@ -1,14 +1,15 @@
 # IDA
 
-IDA is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Doggy Klœb, Malaga on Fri, 11 Sept 2026.
+IDA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Doggy Klœb, Malaga on Fri, 11 Sept 2026.
 
-IDA is a techno and electro artist tracked on soundcheck, with 13 sets logged across Berlin, Edinburgh, Glasgow and London and 3 more. Often billed alongside Giordano, AANN and ARA-U. Next up: Doggy Klœb, Malaga on Fri 11 Sept.
+IDA is a techno and house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Edinburgh and Glasgow and 4 more. Often billed alongside Giordano, AANN and ALISHA. Next up: Doggy Klœb, Malaga on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Doggy Klœb | Malaga |
+| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ IDA is a techno and electro artist tracked on soundcheck, with 13 sets logged ac
 
 ## Shares bills with
 
-Giordano, AANN, ARA-U
+Giordano, AANN, ALISHA
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-uk/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-uk/)*

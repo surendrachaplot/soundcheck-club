@@ -1,6 +1,6 @@
 # Alex Culross
 
-Alex Culross is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Alex Culross is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Alex Culross is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Dundee, Edinburgh, Glasgow and Ibiza and 4 more. Often billed alongside Charlie Kennedy, Alexandria and Eldon (1). Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Alex Culross is a tech house and house artist based in United Kingdom, tracked o
 
 Charlie Kennedy, Alexandria, Eldon (1)
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexculross/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexculross/)*

@@ -1,6 +1,6 @@
 # SAMM DU
 
-SAMM DU is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Empress of Canada, Polson Pier, Toronto on Fri, 18 Sept 2026.
+SAMM DU is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Empress of Canada, Polson Pier, Toronto on Fri, 18 Sept 2026.
 
 SAMM DU is a house and tech house artist tracked on soundcheck, with 39 sets logged across Toronto. Often billed alongside CRISTI:ANA, PRSIS10S and Tomb Raver. Next up: Empress of Canada, Polson Pier, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ SAMM DU is a house and tech house artist tracked on soundcheck, with 39 sets log
 
 CRISTI:ANA, PRSIS10S, Tomb Raver
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammdu/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammdu/)*

@@ -1,8 +1,8 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 5 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Gourski & FRIENDS presents JUSTIN HAWKES & Manta" on Fri, 11 Sept 2026.
+Helios37 is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Gourski & FRIENDS presents JUSTIN HAWKES & Manta" on Fri, 11 Sept 2026.
 
-Helios37 is a music venue in Cologne listed on soundcheck. 5 upcoming nights, with line-ups including Bensonius, DJ Discostoff, DJ SODBRENNEN and Felix Kröcher and 2 more. Browse upcoming dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
+Helios37 is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including Bensonius, DJ Discostoff, DJ SODBRENNEN and Felix Kröcher and 2 more. Browse upcoming dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
 ## What's on
 
@@ -13,9 +13,10 @@ Helios37 is a music venue in Cologne listed on soundcheck. 5 upcoming nights, wi
 | Sat, 31 Oct 2026 | ELECTRONIC HALLOWEEN by Helios37 |  |
 | Sat, 7 Nov 2026 | Voicians Invites: MUZZ | Jon Void, Voicians |
 | Fri, 20 Nov 2026 | (sold out) SCHRANZ is BACK Köln with Felix Kröcher | Felix Kröcher |
+| Fri, 27 Nov 2026 | King Kong Kicks • Indie Pop & Hypes + Peinlo Pop Party • Helios37 • Köln |  |
 
 ## Address
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

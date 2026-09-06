@@ -1,13 +1,14 @@
 # Domovnika
 
-Domovnika is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Prisma, Berlin on Thu, 17 Sept 2026.
+Domovnika is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at OST, Berlin on Sat, 12 Sept 2026.
 
-Domovnika is a techno and house artist tracked on soundcheck, with 33 sets logged across Berlin, Madrid and Prague. Often billed alongside KÜRÜF, Tina von Kugler and 10961. Next up: Prisma, Berlin on Thu 17 Sept.
+Domovnika is a techno and house artist tracked on soundcheck, with 34 sets logged across Berlin, Madrid and Prague. Often billed alongside KÜRÜF, Tina von Kugler and 10961. Next up: OST, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | OST | Berlin |
 | Thu, 17 Sept 2026 | Prisma | Berlin |
 | Tue, 29 Sept 2026 | Prisma | Berlin |
 
@@ -26,4 +27,4 @@ Domovnika is a techno and house artist tracked on soundcheck, with 33 sets logge
 
 KÜRÜF, Tina von Kugler, 10961
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domovnika/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/domovnika/)*

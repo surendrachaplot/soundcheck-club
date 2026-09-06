@@ -1,6 +1,6 @@
 # WHITE OFF
 
-WHITE OFF is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Monza Boschetti Reali , Milan on Sun, 6 Sept 2026.
+WHITE OFF is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Monza Boschetti Reali , Milan on Sun, 6 Sept 2026.
 
 WHITE OFF is a house and tech house artist based in Italy, tracked on soundcheck, with 2 sets logged across Milan. Often billed alongside Archie Hamilton, Davide Squillace and Proudly People. Next up: TBA - Monza Boschetti Reali , Milan on Sun 6 Sept.
 
@@ -15,4 +15,4 @@ WHITE OFF is a house and tech house artist based in Italy, tracked on soundcheck
 
 Archie Hamilton, Davide Squillace, Proudly People
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whiteoff/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/whiteoff/)*

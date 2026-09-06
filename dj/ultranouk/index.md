@@ -1,6 +1,6 @@
 # ULTRANÖUK
 
-ULTRANÖUK is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Glazart, Paris on Sun, 13 Sept 2026.
+ULTRANÖUK is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Glazart, Paris on Sun, 13 Sept 2026.
 
 ULTRANÖUK is a techno artist tracked on soundcheck, with 5 sets logged across Paris. Often billed alongside Apéro Notturno, Bérou and Colapso. Next up: Glazart, Paris on Sun 13 Sept.
 
@@ -21,4 +21,4 @@ ULTRANÖUK is a techno artist tracked on soundcheck, with 5 sets logged across P
 
 Apéro Notturno, Bérou, Colapso
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranouk/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranouk/)*

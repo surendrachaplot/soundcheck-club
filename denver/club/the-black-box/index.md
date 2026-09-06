@@ -1,6 +1,6 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 12 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "The Black Box presents: Speedtek & Combine" on Sat, 5 Sept 2026.
+The Black Box is a music venue in Denver with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "The Black Box & Recon present: Phace" on Sat, 12 Sept 2026.
 
 The Black Box is a music venue in Denver listed on soundcheck. 12 upcoming nights, with line-ups including Daedelus, Daxta, DJ Paypal and Eichenbaum and 2 more. Browse upcoming dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
@@ -8,7 +8,6 @@ The Black Box is a music venue in Denver listed on soundcheck. 12 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | The Black Box presents: Speedtek & Combine |  |
 | Sat, 12 Sept 2026 | The Black Box & Recon present: Phace | Phace |
 | Sat, 19 Sept 2026 | The Black Box presents: DJ Paypal | DJ Paypal |
 | Thu, 24 Sept 2026 | The Black Box presents: Mefjus | Daxta, Mefjus |
@@ -16,6 +15,7 @@ The Black Box is a music venue in Denver listed on soundcheck. 12 upcoming night
 | Sat, 26 Sept 2026 | Spektral Groove: Underground Live Forever | Eichenbaum, Paul Thomas |
 | Tue, 29 Sept 2026 | Sub.mission Electronic Tuesdays: D:Form |  |
 | Fri, 2 Oct 2026 | Sub.mission presents: Sir Spyro | Sir Spyro |
+| Fri, 9 Oct 2026 | Sub.mission presents: Numa Crew X Plastician | Plastician |
 | Sat, 10 Oct 2026 | Recon 23 Year Anniversary | Etch, Poisonfrog, Quartz (2), Sinistarr |
 | Sat, 31 Oct 2026 | Sub.mission presents: Monty & Apparition | Monty |
 
@@ -23,4 +23,4 @@ The Black Box is a music venue in Denver listed on soundcheck. 12 upcoming night
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

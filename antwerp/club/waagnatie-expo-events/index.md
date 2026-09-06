@@ -1,17 +1,17 @@
 # Waagnatie Expo & Events
 
-Waagnatie Expo & Events is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Sat, 5 Sept 2026; the next is "ZAZU Indoor Festival Belgium" on Sat, 28 Nov 2026.
+Waagnatie Expo & Events is a music venue in Antwerp with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "ZAZU Indoor Festival Belgium" on Sat, 28 Nov 2026.
 
-Waagnatie Expo & Events is a music venue in Antwerp listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rijnkaai 150, 2000 Antwerpen.
+Waagnatie Expo & Events is a music venue in Antwerp listed on soundcheck. 1 upcoming night, with line-ups including Alex Wann, Andrea Oliva, Bun Xapa and Caiiro and 2 more. Browse upcoming dates, start times and who's playing. Rijnkaai 150, 2000 Antwerpen.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | ZAZU Indoor Festival Belgium |  |
+| Sat, 28 Nov 2026 | ZAZU Indoor Festival Belgium | Alex Wann, Andrea Oliva, Bun Xapa, Caiiro, HotLap, Major League Djz, Marten Lou, Maxi Meraki, Rancido, Romy Janssen, Shimza, Tjondoo, Van Zand, Vanco |
 
 ## Address
 
 Rijnkaai 150, 2000 Antwerpen, Antwerp
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/waagnatie-expo-events/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/waagnatie-expo-events/)*

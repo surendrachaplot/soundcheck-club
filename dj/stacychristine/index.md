@@ -1,20 +1,20 @@
 # Stacy Christine
 
-Stacy Christine is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 5 Sept 2026.
+Stacy Christine is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Akbar, Los Angeles on Sun, 6 Sept 2026.
 
-Stacy Christine is a house and disco artist tracked on soundcheck, with 121 sets logged across Barcelona, Detroit, London and Losangeles and 4 more. Often billed alongside Bears In Space, Perfect Lovers and Heidi Lawden. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 5 Sept.
+Stacy Christine is a house and disco artist tracked on soundcheck, with 121 sets logged across Barcelona, Detroit, London and Losangeles and 4 more. Often billed alongside Bears In Space, Perfect Lovers and Heidi Lawden. Next up: Akbar, Losangeles on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sun, 6 Sept 2026 | Akbar | Los Angeles |
 | Thu, 10 Sept 2026 | General Lee's Cocktail House | Los Angeles |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played
 
+- TBA - Downtown Los Angeles, Los Angeles — Sat, 5 Sept 2026
 - Club Tee Gee, Los Angeles — Thu, 3 Sept 2026
 - Akbar, Los Angeles — Sun, 9 Aug 2026
 - The Bridge, Los Angeles — Sat, 18 Jul 2026
@@ -22,10 +22,9 @@ Stacy Christine is a house and disco artist tracked on soundcheck, with 121 sets
 - Akbar, Los Angeles — Sun, 14 Jun 2026
 - Palihotel Hollywood, Los Angeles — Sun, 7 Jun 2026
 - TBA - DTLA, Los Angeles — Sat, 6 Jun 2026
-- Club Tee Gee, Los Angeles — Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Bears In Space, Perfect Lovers, Heidi Lawden
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*

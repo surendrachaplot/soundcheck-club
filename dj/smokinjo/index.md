@@ -1,6 +1,6 @@
 # Smokin Jo
 
-Smokin Jo is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at XOYO, London on Sat, 5 Sept 2026.
+Smokin Jo is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at XOYO, London on Sat, 5 Sept 2026.
 
 Smokin Jo is a house and disco artist tracked on soundcheck, with 54 sets logged across Amsterdam, Bali, Brighton and Edinburgh and 8 more. Often billed alongside Melon Bomb, Melvo Baptiste and Eats Everything. Next up: XOYO, London on Sat 5 Sept.
 
@@ -15,6 +15,7 @@ Smokin Jo is a house and disco artist tracked on soundcheck, with 54 sets logged
 
 ## Recently played
 
+- XOYO, London — Sat, 5 Sept 2026
 - Chinois Ibiza, Ibiza — Mon, 24 Aug 2026
 - Queen Elizabeth Olympic Park, London — Sat, 11 Jul 2026
 - Chinois Ibiza, Ibiza — Mon, 15 Jun 2026
@@ -22,10 +23,9 @@ Smokin Jo is a house and disco artist tracked on soundcheck, with 54 sets logged
 - The Timber Loft, London — Sun, 17 May 2026
 - Studio 338, London — Fri, 3 Apr 2026
 - XOYO, London — Sat, 15 Nov 2025
-- Under The Arches, Leeds — Sat, 1 Nov 2025
 
 ## Shares bills with
 
 Melon Bomb, Melvo Baptiste, Eats Everything
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smokinjo/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smokinjo/)*

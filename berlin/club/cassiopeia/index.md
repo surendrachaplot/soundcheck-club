@@ -1,6 +1,6 @@
 # Cassiopeia
 
-Cassiopeia is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "BASSIOPEIA Drum & Bass with Primate (BE), T-Lex (UK), Lora, Ivana and many more" on Fri, 18 Sept 2026.
+Cassiopeia is a music venue in Berlin with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "BASSIOPEIA Drum & Bass with Primate (BE), T-Lex (UK), Lora, Ivana and many more" on Fri, 18 Sept 2026.
 
 Cassiopeia is a music venue in Berlin listed on soundcheck. 5 upcoming nights, with line-ups including MARIA FM, ENOME, Ethera and Ivana_dnb and 2 more. Browse upcoming dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -12,10 +12,10 @@ Cassiopeia is a music venue in Berlin listed on soundcheck. 5 upcoming nights, w
 | Sat, 19 Sept 2026 | Twisted Trees Festival |  |
 | Sat, 26 Sept 2026 | Bambule (All Time Favourites, Urban, Underground) | PADERKID, TraumaMia |
 | Sun, 11 Oct 2026 | Crunch Fest Berlin: Sonic Death, Shaemless, Mud Grief, Dusk Saffron, Etsamoe, slowraw |  |
-| Fri, 20 Nov 2026 | CHB COLLECTIVE - PARTY |  |
+| Fri, 20 Nov 2026 | CHB COLLECTIVE - FEVER DREAM |  |
 
 ## Address
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cassiopeia/)*

@@ -1,6 +1,6 @@
 # John Loveless
 
-John Loveless is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
+John Loveless is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
 
 John Loveless is a house and techno artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Berlin, Dublin, Leeds and London and 2 more. Often billed alongside Daniel Avery, Gramrcy and DJ City. Next up: Kater, Berlin on Sat 5 Sept.
 
@@ -13,6 +13,7 @@ John Loveless is a house and techno artist based in United Kingdom, tracked on s
 
 ## Recently played
 
+- Kater, Berlin — Sat, 5 Sept 2026
 - Renate, Berlin — Sat, 4 Jul 2026
 - Renate, Berlin — Fri, 5 Jun 2026
 - Crack Bellmer, Berlin — Fri, 24 Apr 2026
@@ -20,10 +21,9 @@ John Loveless is a house and techno artist based in United Kingdom, tracked on s
 - arkaoda Berlin, Berlin — Fri, 21 Nov 2025
 - Bar Neun, Berlin — Fri, 24 Oct 2025
 - Hope House, Leeds — Sat, 18 Oct 2025
-- Hang Dai Chinese, Dublin — Fri, 29 Aug 2025
 
 ## Shares bills with
 
 Daniel Avery, Gramrcy, DJ City
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnloveless/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnloveless/)*

@@ -1,13 +1,14 @@
 # Photek
 
-Photek is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Racket Space, Dublin on Fri, 13 Nov 2026.
+Photek is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Lakota, Bristol on Fri, 23 Oct 2026.
 
-Photek is a drum & bass and jungle artist tracked on soundcheck, with 20 sets logged across Antwerp, Berlin, Boston and Chicago and 10 more. Often billed alongside Goldie, Ant TC1 and Diverge. Next up: The Racket Space, Dublin on Fri 13 Nov.
+Photek is a drum & bass and jungle artist tracked on soundcheck, with 21 sets logged across Antwerp, Berlin, Boston and Bristol and 11 more. Often billed alongside Goldie, Ant TC1 and Diverge. Next up: Lakota, Bristol on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Lakota | Bristol |
 | Fri, 13 Nov 2026 | The Racket Space | Dublin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Photek is a drum & bass and jungle artist tracked on soundcheck, with 20 sets lo
 
 Goldie, Ant TC1, Diverge
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/photek/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/photek/)*

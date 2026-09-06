@@ -1,6 +1,6 @@
 # ZXNX
 
-ZXNX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 19 Sept 2026.
+ZXNX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at D-EDGE, Sao Paulo on Sat, 19 Sept 2026.
 
 ZXNX is a house and techno artist tracked on soundcheck, with 5 sets logged across Saopaulo. Often billed alongside BALDACCI, Analu and Beto Chuquer. Next up: D-EDGE, Saopaulo on Sat 19 Sept.
 
@@ -21,4 +21,4 @@ ZXNX is a house and techno artist tracked on soundcheck, with 5 sets logged acro
 
 BALDACCI, Analu, Beto Chuquer
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zxnx/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zxnx/)*

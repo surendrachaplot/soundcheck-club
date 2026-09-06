@@ -1,14 +1,13 @@
 # &ME
 
-&ME is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Amsterdamse Bos, Amsterdam on Sat, 5 Sept 2026.
+&ME is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-&ME is a house and techno artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Rampa, Adam Port and Sossa. Next up: Amsterdamse Bos, Amsterdam on Sat 5 Sept.
+&ME is a house and techno artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Rampa, Adam Port and Sossa. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Amsterdamse Bos | Amsterdam |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 11 Sept 2026 | Valby Parken | Copenhagen |
 | Sat, 12 Sept 2026 | Madrid Caja Mágica | Madrid |
@@ -17,6 +16,7 @@
 
 ## Recently played
 
+- Amsterdamse Bos, Amsterdam — Sat, 5 Sept 2026
 - DC-10, Ibiza — Mon, 17 Aug 2026
 - Finsbury Park, London — Sun, 9 Aug 2026
 - Galopprennbahn, Munich — Sat, 1 Aug 2026
@@ -24,10 +24,9 @@
 - Scorpios, Mykonos — Sat, 18 Jul 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Fri, 3 Jul 2026
 - TBA, Athens — Sat, 27 Jun 2026
-- Club Partenopeo, Naples — Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Rampa, Adam Port, Sossa
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*

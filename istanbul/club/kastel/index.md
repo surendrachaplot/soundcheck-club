@@ -1,14 +1,13 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 10 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Kastel #KLUBNIGHTSERIES: Raxon" on Sat, 5 Sept 2026.
+Kastel is a music venue in Istanbul with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Kastel x RAVIN PRESENTS: ANIL VARDARELI + AMIR RN + EREN YZB b2b ORKUN GURSELOGLU + many more" on Wed, 9 Sept 2026.
 
-Kastel is a music venue in Istanbul listed on soundcheck. 10 upcoming nights, with line-ups including Benny Benassi, FAITH, Marino Canal and Oliver Huntemann and 2 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
+Kastel is a music venue in Istanbul listed on soundcheck. 9 upcoming nights, with line-ups including Benny Benassi, FAITH, Marino Canal and Oliver Huntemann and 2 more. Browse upcoming dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Kastel #KLUBNIGHTSERIES: Raxon | OZBEK, Raxon, Ymir |
 | Wed, 9 Sept 2026 | Kastel x RAVIN PRESENTS: ANIL VARDARELI + AMIR RN + EREN YZB b2b ORKUN GURSELOGLU + many more |  |
 | Fri, 11 Sept 2026 | Kastel: PEOPLE LIKE US (ALL NIGHT LONG) + ROOFTOP LAST DANCE — CHAPTER I | People Like Us (3) |
 | Sat, 12 Sept 2026 | Kastel ROOFTOP LAST DANCE CHAPTER II | FAITH, Volkan Gunduz |
@@ -23,4 +22,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 10 upcoming nights, wi
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

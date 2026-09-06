@@ -1,6 +1,6 @@
 # ADULT.
 
-ADULT. is a Post-Punk and Experimental artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Black Cat, Washington DC on Wed, 11 Nov 2026.
+ADULT. is a Post-Punk and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Black Cat, Washington DC on Wed, 11 Nov 2026.
 
 ADULT. is a post-punk and experimental artist tracked on soundcheck, with 13 sets logged across Berlin, Detroit, Frankfurt and Glasgow and 5 more. Often billed alongside Nick Dagher, Todd Osborn and 2Lanes. Next up: Black Cat, Washingtondc on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ ADULT. is a post-punk and experimental artist tracked on soundcheck, with 13 set
 
 Nick Dagher, Todd Osborn, 2Lanes
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adult-us/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adult-us/)*

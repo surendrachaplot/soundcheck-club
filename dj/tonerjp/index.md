@@ -1,6 +1,6 @@
 # Toner(JP)
 
-Toner(JP) is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at WOMB, Tokyo on Mon, 21 Sept 2026.
+Toner(JP) is a Techno and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at WOMB, Tokyo on Mon, 21 Sept 2026.
 
 Toner(JP) is a techno and ambient artist based in Japan, tracked on soundcheck, with 43 sets logged across Seoul and Tokyo. Often billed alongside Atsushi Maeda, Lynne and OCCA. Next up: WOMB, Tokyo on Mon 21 Sept.
 
@@ -26,4 +26,4 @@ Toner(JP) is a techno and ambient artist based in Japan, tracked on soundcheck, 
 
 Atsushi Maeda, Lynne, OCCA
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonerjp/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonerjp/)*

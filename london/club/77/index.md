@@ -1,6 +1,6 @@
 # 77
 
-77 is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "77: Darius Syrossian" on Sat, 5 Sept 2026.
+77 is a music venue in London with 11 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "FullHouse Closing Party: Viot" on Fri, 11 Sept 2026.
 
 77 is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including AfroKillerz, AliTR, BADBOX and Cinar and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
@@ -8,10 +8,10 @@
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | 77: Darius Syrossian | Darius Syrossian, Lola So |
 | Fri, 11 Sept 2026 | FullHouse Closing Party: Viot | Viot |
 | Sat, 12 Sept 2026 | 77: Zakes Bantwini | Zakes Bantwini |
 | Thu, 17 Sept 2026 | No Permission x MAX&Co. — London Fashion Week Edition | REMIXIA, Wolfram |
+| Fri, 18 Sept 2026 | ETA |  |
 | Sat, 19 Sept 2026 | 77: DEB FA | DUO (UK), Duo, Kidflo |
 | Sat, 26 Sept 2026 | 77: Vanco | Vanco |
 | Sat, 3 Oct 2026 | Kronologik Rekords presents: BADBOX & Friends | AfroKillerz, BADBOX, Tinovcc |
@@ -23,4 +23,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

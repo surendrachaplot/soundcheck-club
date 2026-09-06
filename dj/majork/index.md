@@ -1,8 +1,8 @@
 # Major K
 
-Major K is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
+Major K is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat, 19 Sept 2026.
 
-Major K is a tech house and techno artist based in Belgium, tracked on soundcheck, with 15 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Judoc, Jana Vitiligo and Munay. Next up: TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat 19 Sept.
+Major K is a tech house and house artist based in Belgium, tracked on soundcheck, with 16 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 3 more. Often billed alongside Judoc, Jana Vitiligo and Munay. Next up: TBA - Passion Cat Catamaran Ibiza - San Antonio, Ibiza on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Major K is a tech house and techno artist based in Belgium, tracked on soundchec
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | TBA - Passion Cat Catamaran Ibiza - San Antonio | Ibiza |
 | Sat, 3 Oct 2026 | 93 Feet East | London |
+| Wed, 21 Oct 2026 | Nicholas Groente & Fruit | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Major K is a tech house and techno artist based in Belgium, tracked on soundchec
 
 Judoc, Jana Vitiligo, Munay
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majork/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majork/)*

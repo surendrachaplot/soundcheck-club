@@ -1,14 +1,13 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 15 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Bootshaus Sommerfest " on Sat, 5 Sept 2026.
+Bootshaus is a music venue in Cologne with 14 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Blacklist & Inurfase pres. ZAAGSTEP by Dr Donk" on Fri, 11 Sept 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming nights, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 14 upcoming nights, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Afem Syko and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Bootshaus Sommerfest  | Atzendent, Jon Void, Maxcherry |
 | Fri, 11 Sept 2026 | Blacklist & Inurfase pres. ZAAGSTEP by Dr Donk | Dr Donk, Lekkerfaces, Yoshiko |
 | Fri, 18 Sept 2026 | Polyamor Bootshaus with davyboi, PRADA2000, Mika Heggemann & many more | Alba Franch, Cleopard2000, Elotrance, Mika Heggemann, PRADA2000, SATYS FYRE, Trancemaster Krause, davyboi, t e s t p r e s s |
 | Fri, 18 Sept 2026 | polyamor | Alba Franch, Cleopard2000, Elotrance, HiTMiLØW, Justin Tinderdate, Mika Heggemann, PRADA2000, SATYS FYRE, Trancemaster Krause, davyboi |
@@ -18,9 +17,10 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming nights, 
 | Fri, 9 Oct 2026 | CHROME COLOGNE | OGUZ |
 | Fri, 16 Oct 2026 | Chris Stassy pres. by Bootshaus | Chris Stassy |
 | Sat, 17 Oct 2026 | Cosmic Gate pres by Bootshaus & Senses | Cosmic Gate, Yotto |
+| Fri, 23 Oct 2026 | AFFENKÄFIG RULES // Bootshaus KÖLN |  |
 
 ## Address
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

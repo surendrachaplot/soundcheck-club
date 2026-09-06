@@ -1,18 +1,18 @@
 # J. Albert
 
-J. Albert is a Ambient and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Mood Ring, New York City on Sat, 5 Sept 2026.
+J. Albert is a Ambient and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
-J. Albert is an ambient and house artist tracked on soundcheck, with 12 sets logged across Denver, Losangeles, Newyorkcity and Philadelphia and 1 more. Often billed alongside Duneska, Physical Therapy and ex wiish. Next up: Mood Ring, Newyorkcity on Sat 5 Sept.
+J. Albert is an ambient and house artist tracked on soundcheck, with 12 sets logged across Denver, Losangeles, Newyorkcity and Philadelphia and 1 more. Often billed alongside Duneska, Physical Therapy and ex wiish. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Mood Ring | New York City |
 | Fri, 25 Sept 2026 | Elsewhere | New York City |
 
 ## Recently played
 
+- Mood Ring, New York City — Sat, 5 Sept 2026
 - Nowadays, New York City — Thu, 16 Oct 2025
 - Sleepwalk, New York City — Tue, 19 Nov 2024
 - TBA - East Williamsburg Rave Corridor, New York City — Sat, 6 Jul 2024
@@ -20,10 +20,9 @@ J. Albert is an ambient and house artist tracked on soundcheck, with 12 sets log
 - In Sheep's Clothing HQ, Los Angeles — Sat, 12 Aug 2023
 - TBA - Los Angeles, Los Angeles — Fri, 11 Aug 2023
 - The Owl Room, Washington DC — Fri, 4 Aug 2023
-- Good Room, New York City — Fri, 14 Jul 2023
 
 ## Shares bills with
 
 Duneska, Physical Therapy, ex wiish
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jalbert/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jalbert/)*

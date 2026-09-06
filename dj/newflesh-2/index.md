@@ -1,6 +1,6 @@
 # New Flesh (2)
 
-New Flesh (2) is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at radial, London on Sat, 19 Sept 2026.
+New Flesh (2) is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at radial, London on Sat, 19 Sept 2026.
 
 New Flesh (2) is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London. Often billed alongside Toni S, AAKAARA and NakedAggressionDJ. Next up: radial, London on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ New Flesh (2) is an experimental and techno artist based in United Kingdom, trac
 
 Toni S, AAKAARA, NakedAggressionDJ
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*

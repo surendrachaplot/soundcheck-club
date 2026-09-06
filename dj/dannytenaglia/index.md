@@ -1,14 +1,13 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Knockdown Center, New York City on Sat, 5 Sept 2026.
+Danny Tenaglia is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Depot Mayfield, Manchester on Sat, 26 Sept 2026.
 
-Danny Tenaglia is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Auckland, Austin and Barcelona and 25 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: Knockdown Center, Newyorkcity on Sat 5 Sept.
+Danny Tenaglia is a house and techno artist tracked on soundcheck, with 106 sets logged across Amsterdam, Auckland, Austin and Barcelona and 25 more. Often billed alongside Brandon Block, DJ Chus and Darren Emerson. Next up: Depot Mayfield, Manchester on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Knockdown Center | New York City |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Fri, 2 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 17 Oct 2026 | TBA - Ciudad Universitaria, Belgrano | Buenos Aires |
@@ -16,6 +15,7 @@ Danny Tenaglia is a house and techno artist tracked on soundcheck, with 106 sets
 
 ## Recently played
 
+- Knockdown Center, New York City — Sat, 5 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 30 Aug 2026
 - Belmont Veterans Memorial Pier, Los Angeles — Sun, 16 Aug 2026
 - The Timber Yard, Melbourne — Sat, 25 Jul 2026
@@ -23,10 +23,9 @@ Danny Tenaglia is a house and techno artist tracked on soundcheck, with 106 sets
 - Queens Wharf, Auckland — Fri, 17 Jul 2026
 - TBA - Shed 10, Auckland — Fri, 17 Jul 2026
 - Floyd, Miami — Sun, 5 Jul 2026
-- Loo Loo, Mexico City — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Brandon Block, DJ Chus, Darren Emerson
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

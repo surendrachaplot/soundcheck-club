@@ -1,6 +1,6 @@
 # Stupid Child
 
-Stupid Child is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 19 Sept 2026.
+Stupid Child is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at La Rotonde Stalingrad, Paris on Sat, 19 Sept 2026.
 
 Stupid Child is a trance and house artist tracked on soundcheck, with 17 sets logged across Paris. Often billed alongside NairLess, Gaspero and Hardrock Striker. Next up: La Rotonde Stalingrad, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Stupid Child is a trance and house artist tracked on soundcheck, with 17 sets lo
 
 NairLess, Gaspero, Hardrock Striker
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stupidchild/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stupidchild/)*

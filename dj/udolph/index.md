@@ -1,6 +1,6 @@
 # Udolph
 
-Udolph is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at John Doe, Amsterdam on Sun, 25 Oct 2026.
+Udolph is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at John Doe, Amsterdam on Sun, 25 Oct 2026.
 
 Udolph is a techno and electronica artist based in Argentina, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin and Buenosaires. Often billed alongside Milena Adamis, Dist and Farceb. Next up: John Doe, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Udolph is a techno and electronica artist based in Argentina, tracked on soundch
 
 Milena Adamis, Dist, Farceb
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/udolph/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/udolph/)*

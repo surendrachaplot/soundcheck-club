@@ -1,6 +1,6 @@
 # Jaap Ligthart
 
-Jaap Ligthart is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Veronica Schip, Amsterdam on Sun, 25 Oct 2026.
+Jaap Ligthart is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Veronica Schip, Amsterdam on Sun, 25 Oct 2026.
 
 Jaap Ligthart is a progressive house and house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Budapest, Copenhagen and Lisbon and 2 more. Often billed alongside Jochem Hamerling, Cris-H and Hady Tarek. Next up: Veronica Schip, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Jaap Ligthart is a progressive house and house artist tracked on soundcheck, wit
 
 Jochem Hamerling, Cris-H, Hady Tarek
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaapligthart/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaapligthart/)*

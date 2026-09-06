@@ -1,6 +1,6 @@
 # Armin van Buuren
 
-Armin van Buuren is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at [UNVRS], Ibiza on Mon, 7 Sept 2026.
+Armin van Buuren is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at [UNVRS], Ibiza on Mon, 7 Sept 2026.
 
 Armin van Buuren is a trance and techno artist tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Barcelona and Bristol and 23 more. Often billed alongside Miss Monique, Maddix and Amy Wiles. Next up: [UNVRS], Ibiza on Mon 7 Sept.
 
@@ -32,4 +32,4 @@ Armin van Buuren is a trance and techno artist tracked on soundcheck, with 68 se
 
 Miss Monique, Maddix, Amy Wiles
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*

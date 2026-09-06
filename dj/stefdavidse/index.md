@@ -1,15 +1,13 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Whitehouse, The Hague on Sat, 5 Sept 2026.
+Stef Davidse is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at 528 Ibiza, Ibiza on Fri, 18 Sept 2026.
 
-Stef Davidse is a house and tech house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 15 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Whitehouse, Thehague on Sat 5 Sept.
+Stef Davidse is a house and tech house artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Birmingham and Cardiff and 15 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: 528 Ibiza, Ibiza on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Whitehouse | The Hague |
-| Sat, 5 Sept 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 18 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | Distrikt | Leeds |
@@ -21,17 +19,17 @@ Stef Davidse is a house and tech house artist tracked on soundcheck, with 97 set
 
 ## Recently played
 
+- Whitehouse, The Hague — Sat, 5 Sept 2026
+- SISSI'S Amsterdam, Amsterdam — Sat, 5 Sept 2026
 - [UNVRS], Ibiza — Wed, 19 Aug 2026
 - Thuishaven, Amsterdam — Sun, 16 Aug 2026
 - Lab11, Birmingham — Sat, 8 Aug 2026
 - Oranjepark, Rotterdam — Sat, 25 Jul 2026
 - Het Sieraad, Amsterdam — Sat, 25 Jul 2026
 - Colorado Charlie, The Hague — Fri, 26 Jun 2026
-- Atlantic Club, Barcelona — Fri, 19 Jun 2026
-- Steelyard Kelham, Sheffield — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Ryan Resso, Chopper (UK), FINKY
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*

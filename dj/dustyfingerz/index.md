@@ -1,6 +1,6 @@
 # Dusty FingerZ
 
-Dusty FingerZ is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Salon Badin, Montreal on Sat, 19 Sept 2026.
+Dusty FingerZ is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Salon Badin, Montreal on Sat, 19 Sept 2026.
 
 Dusty FingerZ is a disco and funk / soul artist based in Lebanon, tracked on soundcheck, with 21 sets logged across Detroit and Montreal. Often billed alongside Bendito, Darone Sassounian and Jeremy Giros. Next up: Salon Badin, Montreal on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Dusty FingerZ is a disco and funk / soul artist based in Lebanon, tracked on sou
 
 Bendito, Darone Sassounian, Jeremy Giros
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustyfingerz/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dustyfingerz/)*

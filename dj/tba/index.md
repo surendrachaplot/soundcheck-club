@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a Techno and House artist with 20 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Barcelona on Sat, 12 Sept 2026.
+TBA is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, Barcelona on Sat, 12 Sept 2026.
 
-TBA is a techno and house artist tracked on soundcheck, with 254 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: TBA, Barcelona on Sat 12 Sept.
+TBA is a techno and house artist tracked on soundcheck, with 255 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 42 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: TBA, Barcelona on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ TBA is a techno and house artist tracked on soundcheck, with 254 sets logged acr
 | Sat, 12 Sept 2026 | TBA | Barcelona |
 | Thu, 17 Sept 2026 | Phonox | London |
 | Sat, 19 Sept 2026 | DETROIT CLUB | Barcelona |
+| Mon, 21 Sept 2026 | Koenji Cave | Tokyo |
 | Thu, 24 Sept 2026 | Phonox | London |
 | Fri, 25 Sept 2026 | DNA. CLUB | Berlin |
 | Fri, 25 Sept 2026 | Slakthuset | Stockholm |
@@ -19,7 +20,6 @@ TBA is a techno and house artist tracked on soundcheck, with 254 sets logged acr
 | Sat, 26 Sept 2026 | Giri | Berlin |
 | Thu, 1 Oct 2026 | Phonox | London |
 | Sat, 10 Oct 2026 | Electric Ballroom | London |
-| Sun, 11 Oct 2026 | Mondo Open Air | Madrid |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ TBA is a techno and house artist tracked on soundcheck, with 254 sets logged acr
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

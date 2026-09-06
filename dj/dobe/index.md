@@ -1,6 +1,6 @@
 # DOBE
 
-DOBE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
+DOBE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Amsterdam Club Train, Amsterdam on Sat, 24 Oct 2026.
 
 DOBE is a techno and house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 24 more. Often billed alongside AMARE, Human Rias and Nepø. Next up: Amsterdam Club Train, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DOBE is a techno and house artist tracked on soundcheck, with 76 sets logged acr
 
 AMARE, Human Rias, Nepø
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dobe/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dobe/)*

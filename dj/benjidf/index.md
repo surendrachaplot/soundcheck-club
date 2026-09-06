@@ -1,6 +1,6 @@
 # Benji DF
 
-Benji DF is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
+Benji DF is a Disco and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
 
 Benji DF is a disco and italo disco artist based in Germany, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Houston and Thehague. Often billed alongside Intergalactic Gary, Lazercat and Loud E. Next up: Kater, Berlin on Sat 5 Sept.
 
@@ -12,6 +12,7 @@ Benji DF is a disco and italo disco artist based in Germany, tracked on soundche
 
 ## Recently played
 
+- Kater, Berlin — Sat, 5 Sept 2026
 - Sameheads, Berlin — Sat, 6 Jun 2026
 - Sameheads, Berlin — Sat, 23 May 2026
 - Inter-City, The Hague — Thu, 14 May 2026
@@ -19,10 +20,9 @@ Benji DF is a disco and italo disco artist based in Germany, tracked on soundche
 - Paloma, Berlin — Sat, 31 Jan 2026
 - Sameheads, Berlin — Wed, 31 Dec 2025
 - Renate, Berlin — Sat, 22 Nov 2025
-- Kater, Berlin — Fri, 10 Oct 2025
 
 ## Shares bills with
 
 Intergalactic Gary, Lazercat, Loud E
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjidf/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjidf/)*

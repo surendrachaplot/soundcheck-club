@@ -1,6 +1,6 @@
 # donwella
 
-donwella is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Grow, London on Sat, 26 Sept 2026.
+donwella is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Grow, London on Sat, 26 Sept 2026.
 
 donwella is a disco and house artist tracked on soundcheck, with 18 sets logged across London. Often billed alongside Rufus (UK), Haseeb Iqbal and James Massiah. Next up: Grow, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ donwella is a disco and house artist tracked on soundcheck, with 18 sets logged 
 
 Rufus (UK), Haseeb Iqbal, James Massiah
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donwella/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donwella/)*

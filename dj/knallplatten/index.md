@@ -1,6 +1,6 @@
 # Knallplatten
 
-Knallplatten is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Rote Sonne, Munich on Sat, 26 Sept 2026.
+Knallplatten is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Rote Sonne, Munich on Sat, 26 Sept 2026.
 
 Knallplatten is a trance and techno artist tracked on soundcheck, with 32 sets logged across Berlin and Munich. Often billed alongside Linz (Grell), Amøn and Dudelburschen. Next up: Rote Sonne, Munich on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Knallplatten is a trance and techno artist tracked on soundcheck, with 32 sets l
 
 Linz (Grell), Amøn, Dudelburschen
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knallplatten/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knallplatten/)*

@@ -1,14 +1,13 @@
 # Sebastien Leger
 
-Sebastien Leger is a House and Progressive House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at KOKO, London on Sat, 5 Sept 2026.
+Sebastien Leger is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at YoYo - Palais de Tokyo, Paris on Sat, 19 Sept 2026.
 
-Sebastien Leger is a house and progressive house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: KOKO, London on Sat 5 Sept.
+Sebastien Leger is a house and progressive house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 34 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: YoYo - Palais de Tokyo, Paris on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | KOKO | London |
 | Sat, 19 Sept 2026 | YoYo - Palais de Tokyo | Paris |
 | Fri, 2 Oct 2026 | Knockdown Center | New York City |
 | Fri, 9 Oct 2026 | Club Vaag | Antwerp |
@@ -17,6 +16,7 @@ Sebastien Leger is a house and progressive house artist tracked on soundcheck, w
 
 ## Recently played
 
+- KOKO, London — Sat, 5 Sept 2026
 - Grand Quai du Port de Montreal, Montreal — Sat, 15 Aug 2026
 - Coda, Toronto — Fri, 14 Aug 2026
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
@@ -24,10 +24,9 @@ Sebastien Leger is a house and progressive house artist tracked on soundcheck, w
 - Unveiled, New York City — Fri, 19 Jun 2026
 - Unveiled, New York City — Fri, 19 Jun 2026
 - Ku Barcelona, Barcelona — Thu, 18 Jun 2026
-- Ku Barcelona, Barcelona — Tue, 16 Jun 2026
 
 ## Shares bills with
 
 Roy Rosenfeld, Tim Green, Khen
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*

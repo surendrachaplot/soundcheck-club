@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 13 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Crème GRDN + Afterhour" on Sat, 5 Sept 2026.
+Distillery is a music venue in Leipzig with 13 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Crème GRDN + Afterhour" on Sat, 5 Sept 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 13 upcoming nights, with line-ups including Alexia (2), ali e., Bärtaub and Bephål and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 13 upcoming nights,
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

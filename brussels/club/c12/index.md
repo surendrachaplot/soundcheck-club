@@ -1,14 +1,13 @@
 # C12
 
-C12 is a music venue in Brussels with 9 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "707 Takeover l 002" on Sat, 5 Sept 2026.
+C12 is a music venue in Brussels with 8 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Los Ninos: Pop&Disco Cheap&Chic" on Fri, 11 Sept 2026.
 
-C12 is a music venue in Brussels listed on soundcheck. 9 upcoming nights, with line-ups including AAguilAA, Afonso Peixoto, Answer Code Request and Basic Feelings (2) and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
+C12 is a music venue in Brussels listed on soundcheck. 8 upcoming nights, with line-ups including AAguilAA, Afonso Peixoto, Basic Feelings (2) and CEM and 2 more. Browse upcoming dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | 707 Takeover l 002 | Answer Code Request, Herton, Ponygirl, Rafael Munoz, Ôneyra |
 | Fri, 11 Sept 2026 | Los Ninos: Pop&Disco Cheap&Chic | Afonso Peixoto, The Stress |
 | Sat, 19 Sept 2026 | C12 x PRNCPTL with LOLSNAKE, VINVAR, Egna | Egna, LOLSNAKE, VINVAR |
 | Fri, 25 Sept 2026 | UNFACED with ECZODIA, Jacidorex, Protokseed, VILAIN | ECZODIA, Heavora, Jacidorex, Protokseed, VILAIN |
@@ -22,4 +21,4 @@ C12 is a music venue in Brussels listed on soundcheck. 9 upcoming nights, with l
 
 116 rue Marché aux Herbes 1000 Brussels, Brussels
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*

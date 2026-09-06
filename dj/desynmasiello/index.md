@@ -1,6 +1,6 @@
 # Desyn
 
-Desyn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Stade Fontainieu, Marseille on Sat, 19 Sept 2026.
+Desyn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Stade Fontainieu, Marseille on Sat, 19 Sept 2026.
 
 Desyn is a house and techno artist tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Tom Morgan, Faciendo Soundsystem and Rama NYC. Next up: Stade Fontainieu, Marseille on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Desyn is a house and techno artist tracked on soundcheck, with 103 sets logged a
 
 Tom Morgan, Faciendo Soundsystem, Rama NYC
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desynmasiello/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/desynmasiello/)*

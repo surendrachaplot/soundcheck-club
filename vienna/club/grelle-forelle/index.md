@@ -1,14 +1,13 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "MIXED with Alba Franch & Amøn" on Sat, 5 Sept 2026.
+Grelle Forelle is a music venue in Vienna with 7 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "SCHRANZ is BACK with Felix Kröcher -  < Grelle Forelle - Vienna" on Fri, 11 Sept 2026.
 
-Grelle Forelle is a music venue in Vienna listed on soundcheck. 8 upcoming nights, with line-ups including Alba Franch, Amøn, Andy Catana and ASCHENBRENNER and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
+Grelle Forelle is a music venue in Vienna listed on soundcheck. 7 upcoming nights, with line-ups including Andy Catana, Brent Honey, Calyx and Canelle Doublekick and 2 more. Browse upcoming dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | MIXED with Alba Franch & Amøn | ASCHENBRENNER, Alba Franch, Amøn, SUITSIDE |
 | Fri, 11 Sept 2026 | SCHRANZ is BACK with Felix Kröcher -  < Grelle Forelle - Vienna | Felix Kröcher |
 | Sat, 12 Sept 2026 | MAHLWERK: Justin Jay, Brent Honey & Canelle Doublekick | Brent Honey, Canelle Doublekick, DJ PARKVERBOT, GOLDI (AT), Justin Jay, Kat Ze, Max Wagner, WO.IZZY, Wal_Halla, maro |
 | Fri, 18 Sept 2026 | FISH MARKET - Lacchesi | Gerald VDH, Lacchesi, Swiver, Violetta (1) |
@@ -21,4 +20,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 8 upcoming night
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

@@ -1,14 +1,13 @@
 # TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA)
 
-TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA) is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "NAACH x SOUNDWAVE present Simon Vuarambon & Volen Sentir" on Sat, 5 Sept 2026.
+TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA) is a music venue in Los Angeles with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "SOUNDWAVE PRESENTS KIDZ DEEZ DAZE" on Sat, 12 Sept 2026.
 
-TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA) is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Simon Vuarambon and Volen Sentir. Browse upcoming dates, start times and who's playing.
+TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA) is a music venue in Losangeles listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | NAACH x SOUNDWAVE present Simon Vuarambon & Volen Sentir | Simon Vuarambon, Volen Sentir |
 | Sat, 12 Sept 2026 | SOUNDWAVE PRESENTS KIDZ DEEZ DAZE |  |
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-community-berlin-11819-sherman-way-north-hollywood-ca-91605-usa/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-community-berlin-11819-sherman-way-north-hollywood-ca-91605-usa/)*

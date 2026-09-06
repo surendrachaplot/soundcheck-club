@@ -1,13 +1,14 @@
 # Syca
 
-Syca is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Astoria, Turin on Fri, 16 Oct 2026.
+Syca is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Astoria, Turin on Fri, 18 Sept 2026.
 
-Syca is a techno and trance artist based in Italy, tracked on soundcheck, with 15 sets logged across Turin. Often billed alongside Teeo, Aberra and Allegretti. Next up: Astoria, Turin on Fri 16 Oct.
+Syca is a techno and trance artist based in Italy, tracked on soundcheck, with 16 sets logged across Turin. Often billed alongside Allegretti, Teeo and Aberra. Next up: Astoria, Turin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Astoria | Turin |
 | Fri, 16 Oct 2026 | Astoria | Turin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Syca is a techno and trance artist based in Italy, tracked on soundcheck, with 1
 
 ## Shares bills with
 
-Teeo, Aberra, Allegretti
+Allegretti, Teeo, Aberra
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syca/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syca/)*

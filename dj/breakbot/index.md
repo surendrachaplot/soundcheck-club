@@ -1,6 +1,6 @@
 # Breakbot
 
-Breakbot is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Audio Club, Geneva on Sat, 5 Sept 2026.
+Breakbot is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Audio Club, Geneva on Sat, 5 Sept 2026.
 
 Breakbot is a house and disco artist based in France, tracked on soundcheck, with 73 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 25 more. Often billed alongside Irfane, Busy P and Myd. Next up: Audio Club, Geneva on Sat 5 Sept.
 
@@ -14,6 +14,7 @@ Breakbot is a house and disco artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
+- Audio Club, Geneva — Sat, 5 Sept 2026
 - Pacha Ibiza, Ibiza — Thu, 6 Aug 2026
 - Rumore Nightclub Capri, Naples — Fri, 31 Jul 2026
 - TBA - Hôtel Amour Paris, Paris — Sun, 21 Jun 2026
@@ -21,10 +22,9 @@ Breakbot is a house and disco artist based in France, tracked on soundcheck, wit
 - The Cause, London — Fri, 6 Mar 2026
 - La Bellevilloise, Paris — Sat, 28 Feb 2026
 - The Ivy, Sydney — Sat, 24 Jan 2026
-- Ms Collins, Melbourne — Fri, 23 Jan 2026
 
 ## Shares bills with
 
 Irfane, Busy P, Myd
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/breakbot/)*

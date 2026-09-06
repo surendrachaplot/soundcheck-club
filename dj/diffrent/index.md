@@ -1,14 +1,13 @@
 # Diffrent
 
-Diffrent is a House and Garage artist with 10 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Preston Warehouse, Melbourne on Sat, 5 Sept 2026.
+Diffrent is a House and Garage artist with 9 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Ivy, Sydney on Sun, 6 Sept 2026.
 
-Diffrent is a house and garage artist tracked on soundcheck, with 133 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Kyle Starkey, Faster Horses and SAIDAH. Next up: Preston Warehouse, Melbourne on Sat 5 Sept.
+Diffrent is a house and garage artist tracked on soundcheck, with 133 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Kyle Starkey, Faster Horses and SAIDAH. Next up: The Ivy, Sydney on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Preston Warehouse | Melbourne |
 | Sun, 6 Sept 2026 | The Ivy | Sydney |
 | Fri, 2 Oct 2026 | NX Newcastle | Newcastle |
 | Fri, 2 Oct 2026 | NX Newcastle | Newcastle |
@@ -21,6 +20,7 @@ Diffrent is a house and garage artist tracked on soundcheck, with 133 sets logge
 
 ## Recently played
 
+- Preston Warehouse, Melbourne — Sat, 5 Sept 2026
 - Tuinen van West, Amsterdam — Sat, 29 Aug 2026
 - Night Tales, London — Thu, 27 Aug 2026
 - Amnesia Ibiza, Ibiza — Mon, 24 Aug 2026
@@ -28,10 +28,9 @@ Diffrent is a house and garage artist tracked on soundcheck, with 133 sets logge
 - Else, Berlin — Sun, 16 Aug 2026
 - Thompsons Garage, Belfast — Sat, 8 Aug 2026
 - Paléo Festival, Geneva — Tue, 21 Jul 2026
-- Club Phoenix - Gianpula Village, Malta — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Kyle Starkey, Faster Horses, SAIDAH
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*

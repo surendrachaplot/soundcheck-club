@@ -1,6 +1,6 @@
 # Meeks
 
-Meeks is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 20 Sept 2026.
+Meeks is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 20 Sept 2026.
 
 Meeks is a house and minimal artist tracked on soundcheck, with 5 sets logged across Antwerp, Barcelona and London. Often billed alongside ACAPULCO, AJNA and Aili. Next up: Almar Beach Club, Barcelona on Sun 20 Sept.
 
@@ -21,4 +21,4 @@ Meeks is a house and minimal artist tracked on soundcheck, with 5 sets logged ac
 
 ACAPULCO, AJNA, Aili
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meeks/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/meeks/)*

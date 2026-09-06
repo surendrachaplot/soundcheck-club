@@ -1,6 +1,6 @@
 # Joton
 
-Joton is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Sigma, Ibiza on Fri, 9 Oct 2026.
+Joton is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Sigma, Ibiza on Fri, 9 Oct 2026.
 
 Joton is a techno and electro artist based in Spain, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Alexandre Laeddis, Esterne Moog and Hector MAD. Next up: Sigma, Ibiza on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Joton is a techno and electro artist based in Spain, tracked on soundcheck, with
 
 Alexandre Laeddis, Esterne Moog, Hector MAD
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joton/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joton/)*

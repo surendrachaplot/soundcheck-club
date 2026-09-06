@@ -1,6 +1,6 @@
 # Lucy Snake
 
-Lucy Snake is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Fri, 11 Sept 2026.
+Lucy Snake is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Le Chapiteau - Marseille, Marseille on Fri, 11 Sept 2026.
 
 Lucy Snake is a techno and house artist based in Argentina, tracked on soundcheck, with 15 sets logged across Berlin, Buenosaires, Lisbon and Madrid and 1 more. Often billed alongside Dub Tiger, Cellow and Alex Pereira. Next up: Le Chapiteau - Marseille, Marseille on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Lucy Snake is a techno and house artist based in Argentina, tracked on soundchec
 
 Dub Tiger, Cellow, Alex Pereira
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucysnake/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucysnake/)*

@@ -1,6 +1,6 @@
 # frndj
 
-frndj is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Aoyama Hachi, Tokyo on Sat, 19 Sept 2026.
+frndj is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Aoyama Hachi, Tokyo on Sat, 19 Sept 2026.
 
 frndj is a techno and house artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside Peter Bruno, FLEDtokyo and PortaL(JP). Next up: Aoyama Hachi, Tokyo on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ frndj is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 Peter Bruno, FLEDtokyo, PortaL(JP)
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frndj/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frndj/)*

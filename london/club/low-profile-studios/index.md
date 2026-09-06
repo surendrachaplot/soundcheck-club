@@ -1,6 +1,6 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 10 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Das Booty" on Sat, 5 Sept 2026.
+Low Profile Studios is a music venue in London with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Slags on Sea - FLINTA Focussed Rave by Slagland" on Sat, 19 Sept 2026.
 
 Low Profile Studios is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Jive Talk, Kris Baha, Leaches and LVRA and 2 more. Browse upcoming dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
@@ -8,8 +8,8 @@ Low Profile Studios is a music venue in London listed on soundcheck. 10 upcoming
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Das Booty |  |
 | Sat, 19 Sept 2026 | Slags on Sea - FLINTA Focussed Rave by Slagland | Shirley Temper |
+| Fri, 25 Sept 2026 | Club Arcano III |  |
 | Sat, 26 Sept 2026 | EMAREUK & Saga Sonica PRESENT Yazzus & Kris Baha | Kris Baha, Leaches, Ununu, Yazzus |
 | Sat, 3 Oct 2026 | Plant The Seed presents Jive Talk | Jive Talk, PuppyFat |
 | Fri, 9 Oct 2026 | I Am An Alien 3 |  |
@@ -23,4 +23,4 @@ Low Profile Studios is a music venue in London listed on soundcheck. 10 upcoming
 
 94 Vale Rd, Harringay Warehouse District, London N4 1PT, London
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*

@@ -1,8 +1,8 @@
 # Danny Byrd
 
-Danny Byrd is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Watsons EQ, Sydney on Sat, 3 Oct 2026.
+Danny Byrd is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Watsons EQ, Sydney on Sat, 3 Oct 2026.
 
-Danny Byrd is a drum & bass and jungle artist tracked on soundcheck, with 36 sets logged across Amsterdam, Auckland, Birmingham and Brisbane and 12 more. Often billed alongside DJ SS, Bladerunner and Navigator. Next up: Watsons EQ, Sydney on Sat 3 Oct.
+Danny Byrd is a drum & bass and jungle artist tracked on soundcheck, with 37 sets logged across Amsterdam, Auckland, Birmingham and Brisbane and 12 more. Often billed alongside DJ SS, Bladerunner and Carasel. Next up: Watsons EQ, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Danny Byrd is a drum & bass and jungle artist tracked on soundcheck, with 36 set
 | Sat, 3 Oct 2026 | Watsons EQ | Sydney |
 | Fri, 16 Oct 2026 | Studio the Venue | Auckland |
 | Fri, 13 Nov 2026 | Sidney & Matilda | Sheffield |
+| Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Danny Byrd is a drum & bass and jungle artist tracked on soundcheck, with 36 set
 
 ## Shares bills with
 
-DJ SS, Bladerunner, Navigator
+DJ SS, Bladerunner, Carasel
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybyrd/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybyrd/)*

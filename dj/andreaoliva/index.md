@@ -1,14 +1,13 @@
 # Andrea Oliva
 
-Andrea Oliva is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Klein Phönix, Istanbul on Sat, 5 Sept 2026.
+Andrea Oliva is a Tech House and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 7 Sept 2026.
 
-Andrea Oliva is a tech house and house artist tracked on soundcheck, with 201 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: Klein Phönix, Istanbul on Sat 5 Sept.
+Andrea Oliva is a tech house and house artist tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 27 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: Hï Ibiza, Ibiza on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Klein Phönix | Istanbul |
 | Mon, 7 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Mon, 14 Sept 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Andrea Oliva is a tech house and house artist tracked on soundcheck, with 201 se
 | Mon, 5 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Lula Club | Madrid |
 | Sat, 10 Oct 2026 | Ushuaïa Ibiza | Ibiza |
+| Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 
 ## Recently played
 
+- Klein Phönix, Istanbul — Sat, 5 Sept 2026
 - Hï Ibiza, Ibiza — Mon, 31 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 24 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 17 Aug 2026
@@ -30,10 +31,9 @@ Andrea Oliva is a tech house and house artist tracked on soundcheck, with 201 se
 - Hï Ibiza, Ibiza — Mon, 10 Aug 2026
 - Zürichsee, Zurich — Sat, 8 Aug 2026
 - Hï Ibiza, Ibiza — Mon, 3 Aug 2026
-- Hï Ibiza, Ibiza — Mon, 27 Jul 2026
 
 ## Shares bills with
 
 Raul Rodriguez, Nic Fanciulli, ARODES
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*

@@ -1,14 +1,13 @@
 # Toshiyuki Goto
 
-Toshiyuki Goto is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at DJ Bar Bridge, Tokyo on Sat, 5 Sept 2026.
+Toshiyuki Goto is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Tue, 8 Sept 2026.
 
-Toshiyuki Goto is a house and techno artist based in Japan, tracked on soundcheck, with 350 sets logged across Seoul and Tokyo. Often billed alongside Eitetsu Takamiya, Kengo and DJ SHIKISAI. Next up: DJ Bar Bridge, Tokyo on Sat 5 Sept.
+Toshiyuki Goto is a house and techno artist based in Japan, tracked on soundcheck, with 350 sets logged across Seoul and Tokyo. Often billed alongside Eitetsu Takamiya, Kengo and DJ SHIKISAI. Next up: DJ Bar Bridge Shinjuku, Tokyo on Tue 8 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | DJ Bar Bridge | Tokyo |
 | Tue, 8 Sept 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Tue, 15 Sept 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Sat, 19 Sept 2026 | DJ Bar Bridge | Tokyo |
@@ -22,6 +21,7 @@ Toshiyuki Goto is a house and techno artist based in Japan, tracked on soundchec
 
 ## Recently played
 
+- DJ Bar Bridge, Tokyo — Sat, 5 Sept 2026
 - DJ Bar Bridge Shinjuku, Tokyo — Tue, 1 Sept 2026
 - DJ Bar Bridge, Tokyo — Sat, 29 Aug 2026
 - DJ Bar Bridge, Tokyo — Sat, 22 Aug 2026
@@ -29,10 +29,9 @@ Toshiyuki Goto is a house and techno artist based in Japan, tracked on soundchec
 - DJ Bar Bridge, Tokyo — Sat, 15 Aug 2026
 - DJ Bar Bridge Shinjuku, Tokyo — Tue, 11 Aug 2026
 - DJ Bar Bridge Shinjuku, Tokyo — Tue, 4 Aug 2026
-- DJ Bar Bridge, Tokyo — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Eitetsu Takamiya, Kengo, DJ SHIKISAI
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toshiyukigoto/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toshiyukigoto/)*

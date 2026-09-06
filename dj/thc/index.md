@@ -1,6 +1,6 @@
 # THC
 
-THC is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at KREUZWERK, Berlin on Sat, 5 Sept 2026.
+THC is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at KREUZWERK, Berlin on Sat, 5 Sept 2026.
 
 THC is a house and techno artist tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: KREUZWERK, Berlin on Sat 5 Sept.
 
@@ -16,6 +16,7 @@ THC is a house and techno artist tracked on soundcheck, with 203 sets logged acr
 
 ## Recently played
 
+- KREUZWERK, Berlin — Sat, 5 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 22 Aug 2026
 - Trädgården, Stockholm — Fri, 14 Aug 2026
 - Paradiso, Amsterdam — Sat, 8 Aug 2026
@@ -23,10 +24,9 @@ THC is a house and techno artist tracked on soundcheck, with 203 sets logged acr
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
 - Nowadays, New York City — Sat, 11 Jul 2026
 - M.O.T, London — Sat, 4 Jul 2026
-- FOUND, Berlin — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 DHC, S-candalo, Byron Yeates
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*

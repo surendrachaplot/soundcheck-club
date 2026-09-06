@@ -1,14 +1,13 @@
 # Kawun
 
-Kawun is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 4 Sept 2026.
+Kawun is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Culture Box, Copenhagen on Fri, 18 Sept 2026.
 
-Kawun is a house and techno artist based in Denmark, tracked on soundcheck, with 69 sets logged across Copenhagen, London and Paris. Often billed alongside Prom Night, David Garset and Harrison Heat. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 4 Sept.
+Kawun is a house and techno artist based in Denmark, tracked on soundcheck, with 69 sets logged across Copenhagen, London and Paris. Often billed alongside Prom Night, David Garset and Harrison Heat. Next up: Culture Box, Copenhagen on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 | Fri, 18 Sept 2026 | Culture Box | Copenhagen |
 
 ## Recently played
@@ -26,4 +25,4 @@ Kawun is a house and techno artist based in Denmark, tracked on soundcheck, with
 
 Prom Night, David Garset, Harrison Heat
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kawun/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kawun/)*

@@ -1,8 +1,8 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 10 Sept 2026.
+Job de Jong is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 10 Sept 2026.
 
-Job de Jong is a house and tech house artist tracked on soundcheck, with 166 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Amnesia Ibiza, Ibiza on Thu 10 Sept.
+Job de Jong is a house and tech house artist tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 22 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: Amnesia Ibiza, Ibiza on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Job de Jong is a house and tech house artist tracked on soundcheck, with 166 set
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
+| Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Fri, 18 Sept 2026 | 528 Ibiza | Ibiza |
 | Tue, 22 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 26 Sept 2026 | Colorado Charlie | The Hague |
@@ -19,7 +20,6 @@ Job de Jong is a house and tech house artist tracked on soundcheck, with 166 set
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Job de Jong is a house and tech house artist tracked on soundcheck, with 166 set
 
 Dennis Quin, Prunk, M-High
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

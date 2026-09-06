@@ -1,6 +1,6 @@
 # PEACHY
 
-PEACHY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Club House at Gianpula Village, Malta on Sat, 3 Oct 2026.
+PEACHY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Club House at Gianpula Village, Malta on Sat, 3 Oct 2026.
 
 PEACHY is a techno and trance artist based in Malta, tracked on soundcheck, with 8 sets logged across Malta. Often billed alongside Idealist (2), INVERTED (MT) and Naomi Baldacchino. Next up: The Club House at Gianpula Village, Malta on Sat 3 Oct.
 
@@ -24,4 +24,4 @@ PEACHY is a techno and trance artist based in Malta, tracked on soundcheck, with
 
 Idealist (2), INVERTED (MT), Naomi Baldacchino
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peachy/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peachy/)*

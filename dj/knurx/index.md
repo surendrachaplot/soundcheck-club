@@ -1,6 +1,6 @@
 # Knurx
 
-Knurx is a Hard Drum and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Brasserie de la Mule, Brussels on Fri, 25 Sept 2026.
+Knurx is a Hard Drum and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Brasserie de la Mule, Brussels on Fri, 25 Sept 2026.
 
 Knurx is a hard drum and bass artist tracked on soundcheck, with 4 sets logged across Brussels. Often billed alongside DJ Gerard, Shypurian and EliseThere. Next up: Brasserie de la Mule, Brussels on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Knurx is a hard drum and bass artist tracked on soundcheck, with 4 sets logged a
 
 DJ Gerard, Shypurian, EliseThere
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knurx/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/knurx/)*

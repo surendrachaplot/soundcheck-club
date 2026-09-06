@@ -1,6 +1,6 @@
 # Richy Ahmed
 
-Richy Ahmed is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Etoile Club, Milan on Sat, 12 Sept 2026.
+Richy Ahmed is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Etoile Club, Milan on Sat, 12 Sept 2026.
 
 Richy Ahmed is a tech house and house artist tracked on soundcheck, with 141 sets logged across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside Jamie Jones, ALISHA and wAFF. Next up: Etoile Club, Milan on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Richy Ahmed is a tech house and house artist tracked on soundcheck, with 141 set
 
 Jamie Jones, ALISHA, wAFF
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*

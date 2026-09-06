@@ -1,0 +1,27 @@
+# Command Control
+
+Command Control is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Cause, London on Fri, 6 Nov 2026.
+
+Command Control is a techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London and Manchester. Often billed alongside Anika Kunst, Arkane and Atibo. Next up: The Cause, London on Fri 6 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 6 Nov 2026 | The Cause | London |
+
+## Recently played
+
+- Honey Street Studio, Manchester — Sat, 8 Aug 2026
+- Corsica Studios, London — Sun, 1 Feb 2026
+- The DBA, Manchester — Sat, 23 Aug 2025
+- TBA - Venue Emailed to Ticket Holders on the day, London — Sat, 28 Jun 2025
+- The DBA, Manchester — Wed, 1 Jan 2025
+- Aaja Basement, London — Wed, 6 Nov 2024
+- Avalon Cafe Bermondsey, London — Fri, 19 Apr 2024
+
+## Shares bills with
+
+Anika Kunst, Arkane, Atibo
+
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/commandcontrol/)*

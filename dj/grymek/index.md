@@ -1,6 +1,6 @@
 # Grymek
 
-Grymek is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Noce KRK, Krakow on Sat, 12 Sept 2026.
+Grymek is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Noce KRK, Krakow on Sat, 12 Sept 2026.
 
 Grymek is a techno and psytrance artist tracked on soundcheck, with 13 sets logged across Krakow. Often billed alongside A.C., 2LAV and Firefly. Next up: Noce KRK, Krakow on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Grymek is a techno and psytrance artist tracked on soundcheck, with 13 sets logg
 
 A.C., 2LAV, Firefly
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grymek/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grymek/)*

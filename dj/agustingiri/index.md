@@ -1,20 +1,20 @@
 # Agustin Giri
 
-Agustin Giri is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - AMK Club, Almagro, Buenos Aires on Sat, 5 Sept 2026.
+Agustin Giri is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Crobar Club, Palermo, Buenos Aires on Fri, 18 Sept 2026.
 
-Agustin Giri is a techno and electronica artist tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Buenosaires and Paris. Often billed alongside Gespona, Last Men On Earth and Agents Of Time. Next up: TBA - AMK Club, Almagro, Buenosaires on Sat 5 Sept.
+Agustin Giri is a techno and electronica artist tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Buenosaires and Paris. Often billed alongside Gespona, Last Men On Earth and Agents Of Time. Next up: TBA - Crobar Club, Palermo, Buenosaires on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - AMK Club, Almagro | Buenos Aires |
 | Fri, 18 Sept 2026 | TBA - Crobar Club, Palermo | Buenos Aires |
 | Fri, 18 Sept 2026 | Crobar - Buenos Aires | Buenos Aires |
 | Fri, 9 Oct 2026 | Kater | Berlin |
 
 ## Recently played
 
+- TBA - AMK Club, Almagro, Buenos Aires — Sat, 5 Sept 2026
 - Silencio, Paris — Sat, 4 Jul 2026
 - Birgit, Berlin — Fri, 26 Jun 2026
 - G Spot Club, Barcelona — Sat, 20 Jun 2026
@@ -22,10 +22,9 @@ Agustin Giri is a techno and electronica artist tracked on soundcheck, with 23 s
 - TBA - Casa Blanca Tango, Balcarce 638, caba, Buenos Aires — Sat, 18 Apr 2026
 - TBA - AMK Club, Almagro, Buenos Aires — Sun, 15 Feb 2026
 - TBA - Parque de la Ciudad, Villa Soldati, Buenos Aires — Sat, 14 Feb 2026
-- TBA - BNN, Costanera, Buenos Aires — Thu, 20 Nov 2025
 
 ## Shares bills with
 
 Gespona, Last Men On Earth, Agents Of Time
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustingiri/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/agustingiri/)*

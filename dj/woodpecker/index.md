@@ -1,6 +1,6 @@
 # WOODPECKER
 
-WOODPECKER is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Fusion Club, Munster on Sat, 26 Sept 2026.
+WOODPECKER is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Fusion Club, Munster on Sat, 26 Sept 2026.
 
 WOODPECKER is a techno and drum & bass artist tracked on soundcheck, with 4 sets logged across Dusseldorf, Munster and Paris. Often billed alongside Brain Impact, CARTON and DJ.11R. Next up: Fusion Club, Munster on Sat 26 Sept.
 
@@ -20,4 +20,4 @@ WOODPECKER is a techno and drum & bass artist tracked on soundcheck, with 4 sets
 
 Brain Impact, CARTON, DJ.11R
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woodpecker/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/woodpecker/)*

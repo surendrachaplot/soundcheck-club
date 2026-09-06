@@ -1,14 +1,14 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - THE STRAY, HARROGATE, Leeds on Sat, 5 Sept 2026.
+Sam Divine is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Joshua Brooks, Manchester on Fri, 11 Sept 2026.
 
-Sam Divine is a house and tech house artist tracked on soundcheck, with 168 sets logged across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Low Steppa, Arielle Free and Rio Tashan. Next up: TBA - THE STRAY, HARROGATE, Leeds on Sat 5 Sept.
+Sam Divine is a house and tech house artist tracked on soundcheck, with 170 sets logged across Amsterdam, Auckland, Bali and Barcelona and 38 more. Often billed alongside Low Steppa, Arielle Free and Rio Tashan. Next up: Joshua Brooks, Manchester on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - THE STRAY, HARROGATE | Leeds |
+| Fri, 11 Sept 2026 | Joshua Brooks | Manchester |
 | Sat, 19 Sept 2026 | DRUMSHEDS | London |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | Chinois Ibiza | Ibiza |
@@ -18,9 +18,11 @@ Sam Divine is a house and tech house artist tracked on soundcheck, with 168 sets
 | Sat, 24 Oct 2026 | Arts Club | Liverpool |
 | Sat, 7 Nov 2026 | 1720 | Los Angeles |
 | Sat, 28 Nov 2026 | The Mothership | Auckland |
+| Fri, 4 Dec 2026 | Savaya Bali | Bali |
 
 ## Recently played
 
+- TBA - THE STRAY, HARROGATE, Leeds — Sat, 5 Sept 2026
 - Chinois Ibiza, Ibiza — Thu, 3 Sept 2026
 - [UNVRS], Ibiza — Sat, 8 Aug 2026
 - Chinois Ibiza, Ibiza — Thu, 23 Jul 2026
@@ -28,10 +30,9 @@ Sam Divine is a house and tech house artist tracked on soundcheck, with 168 sets
 - La Terrrazza, Barcelona — Sat, 11 Jul 2026
 - Chinois Ibiza, Ibiza — Thu, 9 Jul 2026
 - Sublim, Malaga — Sun, 28 Jun 2026
-- Audio Club, Geneva — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Low Steppa, Arielle Free, Rio Tashan
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*

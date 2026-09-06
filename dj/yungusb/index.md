@@ -1,6 +1,6 @@
 # yungusb
 
-yungusb is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Warsaw on Sat, 5 Sept 2026.
+yungusb is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, Warsaw on Sat, 5 Sept 2026.
 
 yungusb is a techno and bass artist tracked on soundcheck, with 5 sets logged across Krakow and Warsaw. Often billed alongside Claude Degas, meltemi and muravvsk. Next up: TBA, Warsaw on Sat 5 Sept.
 
@@ -12,6 +12,7 @@ yungusb is a techno and bass artist tracked on soundcheck, with 5 sets logged ac
 
 ## Recently played
 
+- TBA, Warsaw — Sat, 5 Sept 2026
 - Karma Crew Warsaw, Warsaw — Fri, 30 Jan 2026
 - Luzztro, Warsaw — Fri, 4 Jul 2025
 - VVOSK RECORDS, Warsaw — Fri, 6 Jun 2025
@@ -21,4 +22,4 @@ yungusb is a techno and bass artist tracked on soundcheck, with 5 sets logged ac
 
 Claude Degas, meltemi, muravvsk
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yungusb/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yungusb/)*

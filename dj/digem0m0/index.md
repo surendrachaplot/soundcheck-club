@@ -1,6 +1,6 @@
 # Digé m0m0
 
-Digé m0m0 is a Broken Beat and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Le Zeralda, Paris on Sun, 13 Sept 2026.
+Digé m0m0 is a Broken Beat and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Le Zeralda, Paris on Sun, 13 Sept 2026.
 
 Digé m0m0 is a broken beat and breakbeat artist tracked on soundcheck, with 10 sets logged across Barcelona, Leipzig, Paris and Strasbourg. Often billed alongside AMAYO, Blanca Brusci and Camille Doe. Next up: Le Zeralda, Paris on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Digé m0m0 is a broken beat and breakbeat artist tracked on soundcheck, with 10 
 
 AMAYO, Blanca Brusci, Camille Doe
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digem0m0/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digem0m0/)*

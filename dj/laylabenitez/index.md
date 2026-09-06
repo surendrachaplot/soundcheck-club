@@ -1,6 +1,6 @@
 # Layla Benitez
 
-Layla Benitez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Ciudad Del Rock, Madrid on Sat, 26 Sept 2026.
+Layla Benitez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Ciudad Del Rock, Madrid on Sat, 26 Sept 2026.
 
 Layla Benitez is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Athens, Austin and Bali and 31 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: Ciudad Del Rock, Madrid on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Layla Benitez is a techno and house artist tracked on soundcheck, with 156 sets 
 
 CamelPhat, Adriatique, Max Stern
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*

@@ -1,6 +1,6 @@
 # Dari-A
 
-Dari-A is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Steel Yard, London on Fri, 25 Sept 2026.
+Dari-A is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Steel Yard, London on Fri, 25 Sept 2026.
 
 Dari-A is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across London. Often billed alongside Altayef, Lavie Au Soleil and AVANTIME. Next up: The Steel Yard, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Dari-A is a deep house and house artist based in United Kingdom, tracked on soun
 
 Altayef, Lavie Au Soleil, AVANTIME
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dari-a/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dari-a/)*

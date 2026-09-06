@@ -1,14 +1,13 @@
 # Darius Syrossian
 
-Darius Syrossian is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at 77, London on Sat, 5 Sept 2026.
+Darius Syrossian is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Cova Santa, Ibiza on Tue, 8 Sept 2026.
 
-Darius Syrossian is a house and tech house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: 77, London on Sat 5 Sept.
+Darius Syrossian is a house and tech house artist tracked on soundcheck, with 195 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: Cova Santa, Ibiza on Tue 8 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | 77 | London |
 | Tue, 8 Sept 2026 | Cova Santa | Ibiza |
 | Fri, 11 Sept 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
 | Sat, 12 Sept 2026 | Amnesia Milano | Milan |
@@ -23,6 +22,7 @@ Darius Syrossian is a house and tech house artist tracked on soundcheck, with 19
 
 ## Recently played
 
+- 77, London — Sat, 5 Sept 2026
 - Chinois Ibiza, Ibiza — Thu, 27 Aug 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 22 Aug 2026
 - Chinois Ibiza, Ibiza — Thu, 13 Aug 2026
@@ -30,10 +30,9 @@ Darius Syrossian is a house and tech house artist tracked on soundcheck, with 19
 - ZT Hotel Villa Olimpica, Barcelona — Sat, 20 Jun 2026
 - TBA - Multiple Venues, Malta — Thu, 18 Jun 2026
 - Atlantic Club, Barcelona — Thu, 18 Jun 2026
-- [UNVRS], Ibiza — Wed, 17 Jun 2026
 
 ## Shares bills with
 
 Olive F, Prunk, GW Harrison
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariussyrossian/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dariussyrossian/)*

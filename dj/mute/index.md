@@ -1,14 +1,13 @@
 # Mute
 
-Mute is a Tech House and Jazz artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Manufacture des Tabacs - Strasbourg, Strasbourg on Thu, 3 Sept 2026.
+Mute is a Tech House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Sensorium, Berlin on Sun, 27 Sept 2026.
 
-Mute is a tech house and jazz artist tracked on soundcheck, with 5 sets logged across Berlin, London, Strasbourg and Tbilisi. Often billed alongside 1client, CARLI (UK) and DJ Milk. Next up: Manufacture des Tabacs - Strasbourg, Strasbourg on Thu 3 Sept.
+Mute is a tech house and jazz artist tracked on soundcheck, with 5 sets logged across Berlin, London, Strasbourg and Tbilisi. Often billed alongside 1client, CARLI (UK) and DJ Milk. Next up: Sensorium, Berlin on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | Manufacture des Tabacs - Strasbourg | Strasbourg |
 | Sun, 27 Sept 2026 | Sensorium | Berlin |
 
 ## Recently played
@@ -22,4 +21,4 @@ Mute is a tech house and jazz artist tracked on soundcheck, with 5 sets logged a
 
 1client, CARLI (UK), DJ Milk
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mute/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mute/)*

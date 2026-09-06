@@ -1,6 +1,6 @@
 # H15 Scene & Studio
 
-H15 Scene & Studio is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "All Dayer with special guest Kip Analog & Enrique Domenech (Esp)" on Sun, 6 Sept 2026.
+H15 Scene & Studio is a music venue in Copenhagen with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "All Dayer with special guest Kip Analog & Enrique Domenech (Esp)" on Sun, 6 Sept 2026.
 
 H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 5 upcoming nights, with line-ups including Daniel Kaarill, DBADJO, Fergus Murphy and Kip Analog and 2 more. Browse upcoming dates, start times and who's playing. Halmtorvet 15, 1715, Copenhagen.
 
@@ -18,4 +18,4 @@ H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 5 upcomi
 
 Halmtorvet 15, 1715, Copenhagen, Copenhagen
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/h15-scene-studio/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/h15-scene-studio/)*

@@ -1,19 +1,19 @@
 # kuntress
 
-kuntress is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Crybaby, San Francisco/Oakland on Sat, 5 Sept 2026.
+kuntress is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Hart Bar, New York City on Fri, 18 Sept 2026.
 
-kuntress is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin, Detroit, Losangeles and Newyorkcity and 1 more. Often billed alongside zzzzach, ALTÉGO and ARCHANGEL (US). Next up: Crybaby, Sanfrancisco on Sat 5 Sept.
+kuntress is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin, Detroit, Losangeles and Newyorkcity and 1 more. Often billed alongside zzzzach, ALTÉGO and ARCHANGEL (US). Next up: Hart Bar, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Crybaby | San Francisco/Oakland |
 | Fri, 18 Sept 2026 | Hart Bar | New York City |
 | Sat, 19 Sept 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
+- Crybaby, San Francisco/Oakland — Sat, 5 Sept 2026
 - Kingdom Nightclub, Austin — Thu, 20 Aug 2026
 - The Eagle of Detroit, Detroit — Sat, 18 Jul 2026
 - The Chocolate Factory, New York City — Sat, 27 Jun 2026
@@ -26,4 +26,4 @@ kuntress is a club and ghetto tech artist based in United States of America, tra
 
 zzzzach, ALTÉGO, ARCHANGEL (US)
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*

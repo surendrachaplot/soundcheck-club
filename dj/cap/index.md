@@ -1,20 +1,20 @@
 # Cap
 
-Cap is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Night Tales, London on Sat, 5 Sept 2026.
+Cap is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
-Cap is a house and minimal artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Dan Andrei, Doudou MD and Rhadoo. Next up: Night Tales, London on Sat 5 Sept.
+Cap is a house and minimal artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Dan Andrei, Doudou MD and Rhadoo. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Night Tales | London |
 | Fri, 18 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | Sophie Festival | Malaga |
 | Sat, 26 Sept 2026 | Distrikt | Leeds |
 
 ## Recently played
 
+- Night Tales, London — Sat, 5 Sept 2026
 - Supermarket, Zurich — Sat, 29 Aug 2026
 - Platforma Wolff, Bucharest — Sat, 1 Aug 2026
 - Shelter Amsterdam, Amsterdam — Sat, 11 Jul 2026
@@ -22,10 +22,9 @@ Cap is a house and minimal artist tracked on soundcheck, with 154 sets logged ac
 - Club Guesthouse, Bucharest — Sat, 27 Jun 2026
 - Almar Beach Club, Barcelona — Fri, 19 Jun 2026
 - Seaseaclub Barcelona, Barcelona — Wed, 17 Jun 2026
-- The Lion and Lamb, London — Sun, 31 May 2026
 
 ## Shares bills with
 
 Dan Andrei, Doudou MD, Rhadoo
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*

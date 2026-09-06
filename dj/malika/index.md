@@ -1,14 +1,15 @@
 # Malika
 
-Malika is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Green Room NYC, New York City on Fri, 18 Sept 2026.
+Malika is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Green Room NYC, New York City on Fri, 18 Sept 2026.
 
-Malika is a house and techno artist tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil (1). Next up: Green Room NYC, Newyorkcity on Fri 18 Sept.
+Malika is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil (1). Next up: Green Room NYC, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | Green Room NYC | New York City |
+| Sat, 31 Oct 2026 | NOWHERE | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Malika is a house and techno artist tracked on soundcheck, with 46 sets logged a
 
 Hamish & Toby, Adi (CO), Sibil (1)
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*

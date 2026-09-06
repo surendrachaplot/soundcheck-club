@@ -1,18 +1,18 @@
 # m4tsch1
 
-m4tsch1 is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 5 Sept 2026.
+m4tsch1 is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Lokschuppen Berlin, Berlin on Fri, 25 Sept 2026.
 
-m4tsch1 is a hardcore and trance artist tracked on soundcheck, with 41 sets logged across Berlin, Leipzig and Zurich. Often billed alongside FLUCC, Osiris (2) and LØUS. Next up: Lokschuppen Berlin, Berlin on Sat 5 Sept.
+m4tsch1 is a hardcore and trance artist tracked on soundcheck, with 41 sets logged across Berlin, Leipzig and Zurich. Often billed alongside FLUCC, Osiris (2) and LØUS. Next up: Lokschuppen Berlin, Berlin on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 25 Sept 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
+- Lokschuppen Berlin, Berlin — Sat, 5 Sept 2026
 - OXI, Berlin — Sat, 8 Aug 2026
 - Provitreff, Zurich — Sat, 18 Jul 2026
 - Lark, Berlin — Fri, 12 Jun 2026
@@ -20,10 +20,9 @@ m4tsch1 is a hardcore and trance artist tracked on soundcheck, with 41 sets logg
 - Humboldthain Club, Berlin — Fri, 22 May 2026
 - Humboldthain Club, Berlin — Sun, 5 Apr 2026
 - Lokschuppen Berlin, Berlin — Sat, 4 Apr 2026
-- Lokschuppen Berlin, Berlin — Sat, 28 Mar 2026
 
 ## Shares bills with
 
 FLUCC, Osiris (2), LØUS
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m4tsch1/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m4tsch1/)*

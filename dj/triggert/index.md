@@ -1,18 +1,18 @@
 # Trigger T
 
-Trigger T is a Club and Afrobeats artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Else, Berlin on Sat, 5 Sept 2026.
+Trigger T is a Club and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Cherry on Top, Ganghoferstr 10, Berlin on Sun, 6 Sept 2026.
 
-Trigger T is a club and afrobeats artist tracked on soundcheck, with 9 sets logged across Berlin and Cologne. Often billed alongside Haus of Ralph, Meg10 and N3LYSTAR. Next up: Else, Berlin on Sat 5 Sept.
+Trigger T is a club and afrobeats artist tracked on soundcheck, with 9 sets logged across Berlin and Cologne. Often billed alongside Haus of Ralph, Meg10 and N3LYSTAR. Next up: TBA - Cherry on Top, Ganghoferstr 10, Berlin on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Else | Berlin |
 | Sun, 6 Sept 2026 | TBA - Cherry on Top, Ganghoferstr 10 | Berlin |
 
 ## Recently played
 
+- Else, Berlin — Sat, 5 Sept 2026
 - OXI, Berlin — Fri, 31 Jul 2026
 - OXI, Berlin — Sun, 26 Jul 2026
 - JAKI, Cologne — Fri, 12 Jun 2026
@@ -25,4 +25,4 @@ Trigger T is a club and afrobeats artist tracked on soundcheck, with 9 sets logg
 
 Haus of Ralph, Meg10, N3LYSTAR
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/triggert/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/triggert/)*

@@ -1,6 +1,6 @@
 # Visages
 
-Visages is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Visages is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
 
 Visages is a drum & bass and dubstep artist tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Basel and Brighton and 18 more. Often billed alongside Monty, Alix Perez and SP:MC. Next up: UNO MALTA, Malta on Thu 3 Sept.
 
@@ -26,4 +26,4 @@ Visages is a drum & bass and dubstep artist tracked on soundcheck, with 33 sets 
 
 Monty, Alix Perez, SP:MC
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/visages/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/visages/)*

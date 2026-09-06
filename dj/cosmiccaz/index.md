@@ -1,6 +1,6 @@
 # Cosmic Caz
 
-Cosmic Caz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
+Cosmic Caz is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Hackney Bridge, London on Sun, 6 Sept 2026.
 
 Cosmic Caz is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Brighton, Dublin, Kyoto and London and 3 more. Often billed alongside Melati, MileZ and TEDESCO. Next up: Hackney Bridge, London on Sun 6 Sept.
 
@@ -26,4 +26,4 @@ Cosmic Caz is a techno and trance artist based in United Kingdom, tracked on sou
 
 Melati, MileZ, TEDESCO
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccaz/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmiccaz/)*

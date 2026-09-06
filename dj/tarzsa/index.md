@@ -1,14 +1,15 @@
 # Tarzsa
 
-Tarzsa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at DRUMSHEDS, London on Fri, 13 Nov 2026.
+Tarzsa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at DRUMSHEDS, London on Fri, 13 Nov 2026.
 
-Tarzsa is a house and techno artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 19 more. Often billed alongside Bradley Zero, Dan Shake and Joy Orbison. Next up: DRUMSHEDS, London on Fri 13 Nov.
+Tarzsa is a house and techno artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 19 more. Often billed alongside Bradley Zero, Dan Shake and Joy Orbison. Next up: DRUMSHEDS, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | DRUMSHEDS | London |
+| Fri, 4 Dec 2026 | Headrow House | Leeds |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Tarzsa is a house and techno artist based in United Kingdom, tracked on soundche
 
 Bradley Zero, Dan Shake, Joy Orbison
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzsa/)*

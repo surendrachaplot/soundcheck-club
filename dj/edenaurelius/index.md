@@ -1,6 +1,6 @@
 # Eden Aurelius
 
-Eden Aurelius is a Techno and Ambient artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
+Eden Aurelius is a Techno and Ambient artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, Chicago on Fri, 4 Sept 2026.
 
 Eden Aurelius is a techno and ambient artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago, Lisbon, Newyorkcity and Philadelphia. Often billed alongside Marihito, 320 (1) and Doula. Next up: TBA, Chicago on Fri 4 Sept.
 
@@ -9,7 +9,6 @@ Eden Aurelius is a techno and ambient artist based in United States of America, 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | TBA | Chicago |
-| Sat, 5 Sept 2026 | Podlasie Club | Chicago |
 | Sun, 6 Sept 2026 | TBA - Premises | Chicago |
 | Sun, 6 Sept 2026 | Guild Row | Chicago |
 | Thu, 10 Sept 2026 | Camp Kennybrook | New York City |
@@ -18,6 +17,7 @@ Eden Aurelius is a techno and ambient artist based in United States of America, 
 
 ## Recently played
 
+- Podlasie Club, Chicago — Sat, 5 Sept 2026
 - TBA, Chicago — Fri, 4 Sept 2026
 - Pageant, New York City — Sat, 22 Aug 2026
 - TBA, New York City — Sat, 11 Jul 2026
@@ -25,10 +25,9 @@ Eden Aurelius is a techno and ambient artist based in United States of America, 
 - public records, New York City — Sat, 18 Apr 2026
 - public records, New York City — Fri, 27 Mar 2026
 - H0L0, New York City — Fri, 6 Mar 2026
-- Reforesters Laboratory, New York City — Sat, 21 Feb 2026
 
 ## Shares bills with
 
 Marihito, 320 (1), Doula
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edenaurelius/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/edenaurelius/)*

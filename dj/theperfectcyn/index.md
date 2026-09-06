@@ -1,6 +1,6 @@
 # The Perfect Cyn
 
-The Perfect Cyn is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The Sonder Bar, Portland on Sun, 6 Sept 2026.
+The Perfect Cyn is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Sonder Bar, Portland on Sun, 6 Sept 2026.
 
 The Perfect Cyn is a house and breakbeat artist tracked on soundcheck, with 4 sets logged across Portland. Often billed alongside Centrikal, 8maos and Bartek Industries. Next up: The Sonder Bar, Portland on Sun 6 Sept.
 
@@ -20,4 +20,4 @@ The Perfect Cyn is a house and breakbeat artist tracked on soundcheck, with 4 se
 
 Centrikal, 8maos, Bartek Industries
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theperfectcyn/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theperfectcyn/)*

@@ -1,8 +1,8 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Palace of Fine Arts, San Francisco/Oakland on Sun, 6 Sept 2026.
+NOVAH is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Palace of Fine Arts, San Francisco/Oakland on Sun, 6 Sept 2026.
 
-NOVAH is a techno and trance artist tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Cloudy, Nico Moreno and Alignment. Next up: Palace of Fine Arts, Sanfrancisco on Sun 6 Sept.
+NOVAH is a techno and trance artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Cloudy, Nico Moreno and Alignment. Next up: Palace of Fine Arts, Sanfrancisco on Sun 6 Sept.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ NOVAH is a techno and trance artist tracked on soundcheck, with 168 sets logged 
 
 Cloudy, Nico Moreno, Alignment
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

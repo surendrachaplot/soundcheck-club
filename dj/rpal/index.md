@@ -1,14 +1,15 @@
 # rPal
 
-rPal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Arc Space, Nottingham on Sat, 26 Sept 2026.
+rPal is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Arc Space, Nottingham on Sat, 26 Sept 2026.
 
-rPal is a house and techno artist tracked on soundcheck, with 23 sets logged across Nottingham. Often billed alongside Mush Love (UK), Brad Bradley and James Tristan. Next up: Arc Space, Nottingham on Sat 26 Sept.
+rPal is a house and techno artist tracked on soundcheck, with 24 sets logged across Nottingham. Often billed alongside Mush Love (UK), Brad Bradley and James Tristan. Next up: Arc Space, Nottingham on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Arc Space | Nottingham |
+| Sat, 3 Oct 2026 | Movers | Nottingham |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ rPal is a house and techno artist tracked on soundcheck, with 23 sets logged acr
 
 Mush Love (UK), Brad Bradley, James Tristan
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rpal/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rpal/)*

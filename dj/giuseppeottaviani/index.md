@@ -1,14 +1,16 @@
 # Giuseppe Ottaviani
 
-Giuseppe Ottaviani is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Óbuda Bay, Budapest on Sat, 10 Oct 2026.
+Giuseppe Ottaviani is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Óbuda Bay, Budapest on Sat, 10 Oct 2026.
 
-Giuseppe Ottaviani is a trance and techno artist tracked on soundcheck, with 45 sets logged across Budapest, Buenosaires, Glasgow and Houston and 23 more. Often billed alongside Billy Gillies, Amy Wiles and Ferry Corsten. Next up: Óbuda Bay, Budapest on Sat 10 Oct.
+Giuseppe Ottaviani is a trance and techno artist tracked on soundcheck, with 47 sets logged across Budapest, Buenosaires, Glasgow and Houston and 23 more. Often billed alongside Billy Gillies, Amy Wiles and Ferry Corsten. Next up: Óbuda Bay, Budapest on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Óbuda Bay | Budapest |
+| Fri, 4 Dec 2026 | SWG3 | Glasgow |
+| Fri, 4 Dec 2026 | SWG3 | Glasgow |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Giuseppe Ottaviani is a trance and techno artist tracked on soundcheck, with 45 
 
 Billy Gillies, Amy Wiles, Ferry Corsten
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppeottaviani/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppeottaviani/)*

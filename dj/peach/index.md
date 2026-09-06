@@ -1,14 +1,13 @@
 # Peach
 
-Peach is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Uto-Staffel, Zurich on Sat, 5 Sept 2026.
+Peach is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 10 Sept 2026.
 
-Peach is a house and techno artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 53 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Uto-Staffel, Zurich on Sat 5 Sept.
+Peach is a house and techno artist tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 53 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Amnesia Ibiza, Ibiza on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Uto-Staffel | Zurich |
 | Thu, 10 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | The Berkeley Suite | Glasgow |
 | Sat, 19 Sept 2026 | Gut Level | Sheffield |
@@ -22,6 +21,7 @@ Peach is a house and techno artist tracked on soundcheck, with 210 sets logged a
 
 ## Recently played
 
+- Uto-Staffel, Zurich — Sat, 5 Sept 2026
 - Karmen Camina, Strasbourg — Fri, 4 Sept 2026
 - Gaffe, London — Sun, 30 Aug 2026
 - Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
@@ -29,10 +29,9 @@ Peach is a house and techno artist tracked on soundcheck, with 210 sets logged a
 - 528 Ibiza, Ibiza — Tue, 28 Jul 2026
 - Boston Manor Park, London — Sat, 25 Jul 2026
 - fabric, London — Sat, 25 Jul 2026
-- TBA, Copenhagen — Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

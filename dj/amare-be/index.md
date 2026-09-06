@@ -1,8 +1,8 @@
 # AMARE
 
-AMARE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Charlatan, Ghent on Sat, 26 Sept 2026.
+AMARE is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Charlatan, Ghent on Sat, 26 Sept 2026.
 
-AMARE is a techno and house artist based in Belgium, tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Dirty Doering, Doreen Van Steen and DOBE. Next up: Charlatan, Ghent on Sat 26 Sept.
+AMARE is a techno and house artist based in Belgium, tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Dirty Doering, Doreen Van Steen and DOBE. Next up: Charlatan, Ghent on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ AMARE is a techno and house artist based in Belgium, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Charlatan | Ghent |
 | Sat, 26 Sept 2026 | Charlatan | Ghent |
+| Sat, 26 Sept 2026 | Buda BXL | Brussels |
+| Fri, 23 Oct 2026 | Nicholas Groente & Fruit | Amsterdam |
 | Sat, 24 Oct 2026 | Amsterdam Club Train | Amsterdam |
 
 ## Recently played
@@ -27,4 +29,4 @@ AMARE is a techno and house artist based in Belgium, tracked on soundcheck, with
 
 Dirty Doering, Doreen Van Steen, DOBE
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amare-be/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amare-be/)*

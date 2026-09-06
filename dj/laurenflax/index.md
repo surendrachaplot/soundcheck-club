@@ -1,6 +1,6 @@
 # Lauren Flax
 
-Lauren Flax is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+Lauren Flax is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
 Lauren Flax is a techno and house artist based in United States of America, tracked on soundcheck, with 163 sets logged across Amsterdam, Birmingham, Boston and Chicago and 15 more. Often billed alongside Mike Servito, Shaun J. Wright and Justin Cudmore. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
@@ -32,4 +32,4 @@ Lauren Flax is a techno and house artist based in United States of America, trac
 
 Mike Servito, Shaun J. Wright, Justin Cudmore
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenflax/)*

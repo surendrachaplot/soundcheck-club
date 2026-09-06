@@ -1,14 +1,13 @@
 # Audio SF
 
-Audio SF is a music venue in San Francisco/Oakland with 16 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Borgeous" on Sat, 5 Sept 2026.
+Audio SF is a music venue in San Francisco/Oakland with 15 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Daft Disko: San Francisco" on Sun, 6 Sept 2026.
 
-Audio SF is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming nights, with line-ups including Azzecca, Baauer, Madota and Rinzen. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
+Audio SF is a music venue in Sanfrancisco listed on soundcheck. 15 upcoming nights, with line-ups including Azzecca, Baauer, Madota and Rinzen. Browse upcoming dates, start times and who's playing. 316 11th St; San Francisco CA 94103; United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Borgeous |  |
 | Sun, 6 Sept 2026 | Daft Disko: San Francisco |  |
 | Fri, 11 Sept 2026 | Ezequiel Arias |  |
 | Sat, 12 Sept 2026 | JOSHWA |  |
@@ -18,9 +17,10 @@ Audio SF is a music venue in Sanfrancisco listed on soundcheck. 16 upcoming nigh
 | Fri, 2 Oct 2026 | Madota | Madota |
 | Fri, 9 Oct 2026 | Baauer | Baauer |
 | Sat, 10 Oct 2026 | Kyle Watson |  |
+| Fri, 16 Oct 2026 | JUNO |  |
 
 ## Address
 
 316 11th St; San Francisco CA 94103; United States, San Francisco/Oakland
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/audio-sf/)*

@@ -1,6 +1,6 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 11 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "ELYSIUM SUMMER CLOSING with Neon Graveyard + Technokool" on Sat, 5 Sept 2026.
+Arzenal is a music venue in Budapest with 11 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Nachtwerk Pres. TOXIC MACHINERY 3HRS EXTENDED" on Fri, 11 Sept 2026.
 
 Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, with line-ups including ädene, AEREA, AESZTETIK and Cloudy and 2 more. Browse upcoming dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
@@ -8,8 +8,7 @@ Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | ELYSIUM SUMMER CLOSING with Neon Graveyard + Technokool | Neon Graveyard, Technokool |
-| Fri, 11 Sept 2026 | Nachtwerk Pres. TOXIC MACHINERY 3HRS EXTENDED |  |
+| Fri, 11 Sept 2026 | Nachtwerk Pres. TOXIC MACHINERY 3HRS EXTENDED | Jauri |
 | Sat, 12 Sept 2026 | FUSIONZ pres SCULLY (SCO) - HARDTECHNO | Johanna Bozai, Kamafaka, ädene |
 | Fri, 18 Sept 2026 | TKWT invites: AEREA live | AEREA, Cvrdwell, Daniel Moritz, Detective Kelly, THIRD 2HIFT |
 | Sat, 19 Sept 2026 | Arzenal pres.: Onlynumbers & SPEEDLIMITER | Onlynumbers |
@@ -18,9 +17,10 @@ Arzenal is a music venue in Budapest listed on soundcheck. 11 upcoming nights, w
 | Fri, 16 Oct 2026 | Nachtwerk XXL Pres: USH I FUMI I CEEJAY I BLURREDMOVEMENT | FUMI |
 | Sat, 7 Nov 2026 | Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Tarkan | AESZTETIK, Kabay, Leskus, MAHA, Parallx, THIRD 2HIFT, Tarkan |
 | Sat, 14 Nov 2026 | Paralich ALL NIGHT LONG DEAD END FREE/INGYENES Arzenal | Paralich, Valenthin |
+| Fri, 27 Nov 2026 | NRG Budapest - Arzenál | Jezza & Jod, KLOFAMA, Vieze Asbak, Winson, Yoshiko |
 
 ## Address
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

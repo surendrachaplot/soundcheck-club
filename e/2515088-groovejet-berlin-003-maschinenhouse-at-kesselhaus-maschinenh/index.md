@@ -1,6 +1,6 @@
 # GrooveJet Berlin 003 - Maschinenhouse at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin
 
-GrooveJet Berlin 003 - Maschinenhouse at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin on Sat 26 Sept, Berlin. 2 acts on the bill: B. Clarke and NeZoomie. House and Disco. Preview the line-up and save it on soundcheck.
+GrooveJet Berlin 003 - Maschinenhouse at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin on Sat 26 Sept, Berlin. 4 acts on the bill: B. Clarke, Cleo Grooves, NeZoomie and Pat. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ GrooveJet Berlin 003 - Maschinenhouse at Kesselhaus & Maschinenhaus Kulturbrauer
 ## Line-up
 
 - B. Clarke
+- Cleo Grooves
 - NeZoomie
+- Pat
 
 *Source: [soundcheck](https://soundcheck.club/e/2515088-groovejet-berlin-003-maschinenhouse-at-kesselhaus-maschinenh/)*

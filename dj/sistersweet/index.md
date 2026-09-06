@@ -1,6 +1,6 @@
 # SisterSweet
 
-SisterSweet is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+SisterSweet is a Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
 
 SisterSweet is a progressive house artist tracked on soundcheck, with 4 sets logged across Amsterdam and Barcelona. Often billed alongside Alísha, Bryan Wolf Ear and Forty Cats. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ SisterSweet is a progressive house artist tracked on soundcheck, with 4 sets log
 
 Alísha, Bryan Wolf Ear, Forty Cats
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistersweet/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sistersweet/)*

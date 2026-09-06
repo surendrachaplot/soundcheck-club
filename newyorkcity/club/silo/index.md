@@ -1,6 +1,6 @@
 # SILO
 
-SILO is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Nifra" on Sat, 5 Sept 2026.
+SILO is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Ginja" on Sun, 6 Sept 2026.
 
 SILO is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including Amiti, Anyasa, Baauer and Bag Raiders and 2 more. Browse upcoming dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
@@ -8,7 +8,6 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, w
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Nifra |  |
 | Sun, 6 Sept 2026 | Ginja |  |
 | Tue, 8 Sept 2026 | Open Decks with STEEN & CLUB MASSIVE | STEEN |
 | Wed, 9 Sept 2026 | Open Decks with STEEN and lotus | STEEN |
@@ -18,9 +17,10 @@ SILO is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, w
 | Tue, 15 Sept 2026 | Open Decks with STEEN & Rhythm Cartel | STEEN |
 | Wed, 16 Sept 2026 | Open Decks with STEEN and SilkyBlack | STEEN |
 | Thu, 17 Sept 2026 | Techno Thursday [Melodic2Hard] (Main Room Event, Free with RSVP) | Bruce Wayne (US) |
+| Fri, 18 Sept 2026 | Machine Thirst: Bollmann / Firebunny | Bollmann, Firebunny |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

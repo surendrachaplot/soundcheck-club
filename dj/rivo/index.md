@@ -1,6 +1,6 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 10 Sept 2026.
+Rivo is a House and Afro House artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Hï Ibiza, Ibiza on Thu, 10 Sept 2026.
 
 Rivo is a house and afro house artist tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside Eric Prydz, Bender and Argy. Next up: Hï Ibiza, Ibiza on Thu 10 Sept.
 
@@ -29,4 +29,4 @@ Rivo is a house and afro house artist tracked on soundcheck, with 59 sets logged
 
 Eric Prydz, Bender, Argy
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*

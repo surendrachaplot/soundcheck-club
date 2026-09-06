@@ -1,18 +1,18 @@
 # Funky Shirts MZN
 
-Funky Shirts MZN is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 5 Sept 2026.
+Funky Shirts MZN is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 13 Sept 2026.
 
-Funky Shirts MZN is a house and electro artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona and Madrid. Often billed alongside Kömm, NBU (1) and Crislor. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 5 Sept.
+Funky Shirts MZN is a house and electro artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona and Madrid. Often billed alongside Kömm, NBU (1) and Crislor. Next up: Almar Beach Club, Barcelona on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sun, 13 Sept 2026 | Almar Beach Club | Barcelona |
 
 ## Recently played
 
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 5 Sept 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Fri, 4 Sept 2026
 - Studio Stereo, Barcelona — Sat, 11 Jul 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona — Sun, 10 May 2026
@@ -20,10 +20,9 @@ Funky Shirts MZN is a house and electro artist based in Spain, tracked on soundc
 - TBA, Barcelona — Sat, 7 Mar 2026
 - TBA, Barcelona — Fri, 13 Feb 2026
 - TBA - secret record store (city center), Barcelona — Thu, 1 Jan 2026
-- G Spot Club, Barcelona — Sat, 22 Nov 2025
 
 ## Shares bills with
 
 Kömm, NBU (1), Crislor
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkyshirtsmzn/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkyshirtsmzn/)*

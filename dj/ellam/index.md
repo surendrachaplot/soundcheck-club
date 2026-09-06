@@ -1,6 +1,6 @@
 # Ellam
 
-Ellam is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Colorado Charlie, The Hague on Sun, 13 Sept 2026.
+Ellam is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Colorado Charlie, The Hague on Sun, 13 Sept 2026.
 
 Ellam is a house and minimal artist tracked on soundcheck, with 38 sets logged across Amsterdam, Birmingham, Bristol and Cardiff and 9 more. Often billed alongside Gaskin, Ellia Jaya and L.P. Rhythm. Next up: Colorado Charlie, Thehague on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Ellam is a house and minimal artist tracked on soundcheck, with 38 sets logged a
 
 Gaskin, Ellia Jaya, L.P. Rhythm
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellam/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellam/)*

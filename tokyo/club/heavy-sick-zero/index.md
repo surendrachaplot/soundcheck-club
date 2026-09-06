@@ -1,6 +1,6 @@
 # Heavy Sick Zero
 
-Heavy Sick Zero is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Euphoria" on Sun, 6 Sept 2026.
+Heavy Sick Zero is a music venue in Tokyo with 8 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Euphoria" on Sun, 6 Sept 2026.
 
 Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 8 upcoming nights, with line-ups including BASiRiNO, Element (3), Hinode and HOBOBRAZIL and 2 more. Browse upcoming dates, start times and who's playing. 5-41-8, Nakano-ku Nakano, Tokyo.
 
@@ -21,4 +21,4 @@ Heavy Sick Zero is a music venue in Tokyo listed on soundcheck. 8 upcoming night
 
 5-41-8, Nakano-ku Nakano, Tokyo, Tokyo
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/heavy-sick-zero/)*

@@ -1,6 +1,6 @@
 # Amanda Simpson
 
-Amanda Simpson is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Outer Heaven, New York City on Sat, 12 Sept 2026.
+Amanda Simpson is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Outer Heaven, New York City on Sat, 12 Sept 2026.
 
 Amanda Simpson is a house and afro house artist tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside Jack Mulqueen, ASMOT and Adana Twins. Next up: Outer Heaven, Newyorkcity on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Amanda Simpson is a house and afro house artist tracked on soundcheck, with 9 se
 
 Jack Mulqueen, ASMOT, Adana Twins
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amandasimpson/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amandasimpson/)*

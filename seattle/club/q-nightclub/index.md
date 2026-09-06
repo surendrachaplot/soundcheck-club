@@ -1,6 +1,6 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 16 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "MADVKTM - AMALGAMATION TOUR" on Fri, 11 Sept 2026.
+Q Nightclub is a music venue in Seattle with 16 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "MADVKTM - AMALGAMATION TOUR" on Fri, 11 Sept 2026.
 
 Q Nightclub is a music venue in Seattle listed on soundcheck. 16 upcoming nights, with line-ups including Arlo, Biscits, Krewella and Kyle Watson and 2 more. Browse upcoming dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
@@ -23,4 +23,4 @@ Q Nightclub is a music venue in Seattle listed on soundcheck. 16 upcoming nights
 
 1426 Broadway, Seattle, WA., Seattle
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*

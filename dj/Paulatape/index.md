@@ -1,14 +1,13 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 5 Sept 2026.
+Paula Tape is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at public records, New York City on Sat, 12 Sept 2026.
 
-Paula Tape is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Athens, Bali and Bangkok and 48 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: 528 Ibiza, Ibiza on Sat 5 Sept.
+Paula Tape is a house and techno artist tracked on soundcheck, with 159 sets logged across Amsterdam, Athens, Bali and Bangkok and 48 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: public records, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | public records | New York City |
 | Sun, 13 Sept 2026 | smartbar | Chicago |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
@@ -18,6 +17,7 @@ Paula Tape is a house and techno artist tracked on soundcheck, with 159 sets log
 
 ## Recently played
 
+- 528 Ibiza, Ibiza — Sat, 5 Sept 2026
 - The White Hotel, Manchester — Fri, 4 Sept 2026
 - Rex Club, Paris — Fri, 28 Aug 2026
 - TBA - Villa di Fiorano - Via di Fioranello 18, Rome — Sun, 2 Aug 2026
@@ -25,10 +25,9 @@ Paula Tape is a house and techno artist tracked on soundcheck, with 159 sets log
 - Jaeger, Oslo — Fri, 3 Jul 2026
 - NUMBER 90 LONDON, London — Thu, 2 Jul 2026
 - Le Maillon, Strasbourg — Sat, 27 Jun 2026
-- TBA - Strasbourg various venues, Strasbourg — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Avalon Emerson, Bonobo, Bradley Zero
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

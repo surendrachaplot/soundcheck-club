@@ -1,14 +1,13 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 10 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Traum Summer Trip: Oko Stellar & TORI ANN" on Sat, 5 Sept 2026.
+TRAUM is a music venue in Antwerp with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Season Opening: Marco Bailey, CJ Bolland, Phemia" on Sat, 19 Sept 2026.
 
-TRAUM is a music venue in Antwerp listed on soundcheck. 10 upcoming nights, with line-ups including Arter, Bevan, bullet tooth and Cameo Blush and 2 more. Browse upcoming dates, start times and who's playing.
+TRAUM is a music venue in Antwerp listed on soundcheck. 9 upcoming nights, with line-ups including Arter, Bevan, bullet tooth and Cameo Blush and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Traum Summer Trip: Oko Stellar & TORI ANN | Oko Stellar, TORI ANN |
 | Sat, 19 Sept 2026 | Season Opening: Marco Bailey, CJ Bolland, Phemia | CJ Bolland, Marco Bailey, Phemia |
 | Fri, 25 Sept 2026 | Traum Nacht: Y U QT, Lauravioli, NC | Lauravioli, Y U QT |
 | Sat, 26 Sept 2026 | Café d'Anvers Reunion: Jaydee, Sven Van Hees, Steve Cop, Latte | Steve Cop |
@@ -19,4 +18,4 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 10 upcoming nights, with
 | Fri, 16 Oct 2026 | 9 Years of Soulful Sessions with Palms Trax | Bevan, EG (1), Lil Lawaw, Palms Trax, Zouzibabe |
 | Sat, 28 Nov 2026 | Traum Nacht: Ellen Allien, Clara D, Phemia | Clara D, Ellen Allien, Phemia |
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

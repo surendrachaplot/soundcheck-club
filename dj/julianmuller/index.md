@@ -1,6 +1,6 @@
 # Julian Muller
 
-Julian Muller is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Virage, Paris on Sat, 12 Sept 2026.
+Julian Muller is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Virage, Paris on Sat, 12 Sept 2026.
 
 Julian Muller is a techno and trance artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 29 more. Often billed alongside Frederic., CAIVA and MRD (NO). Next up: Virage, Paris on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Julian Muller is a techno and trance artist tracked on soundcheck, with 110 sets
 
 Frederic., CAIVA, MRD (NO)
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmuller/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmuller/)*

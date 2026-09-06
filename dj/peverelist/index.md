@@ -1,6 +1,6 @@
 # Peverelist
 
-Peverelist is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at The White Hotel, Manchester on Fri, 6 Nov 2026.
+Peverelist is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The White Hotel, Manchester on Fri, 6 Nov 2026.
 
 Peverelist is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside Hodge, Livity Sound and Abena. Next up: The White Hotel, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Peverelist is a techno and bass artist based in United Kingdom, tracked on sound
 
 Hodge, Livity Sound, Abena
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*

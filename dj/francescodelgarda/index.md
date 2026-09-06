@@ -1,6 +1,6 @@
 # Francesco Del Garda
 
-Francesco Del Garda is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Francesco Del Garda is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Francesco Del Garda is a house and techno artist tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -36,4 +36,4 @@ Francesco Del Garda is a house and techno artist tracked on soundcheck, with 215
 
 Christian AB, Craig Richards, Quest (IT)
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*

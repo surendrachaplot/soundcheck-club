@@ -16,7 +16,7 @@ Polyamor x SILIKON at Lokschuppen Berlin on Fri 20 Nov, Berlin. 10 acts on the b
 - ELOISA
 - Elotrance
 - M4RY
-- The Muffin Man
+- TheMuffinMan
 - VIVI909
 - Vivienna
 - ZAHNATZIN

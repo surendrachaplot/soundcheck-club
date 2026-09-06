@@ -1,6 +1,6 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 9 Sept 2026.
+Artbat is a Techno and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 9 Sept 2026.
 
 Artbat is a techno and progressive house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Amnesia Ibiza, Ibiza on Wed 9 Sept.
 
@@ -29,4 +29,4 @@ Artbat is a techno and progressive house artist tracked on soundcheck, with 121 
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

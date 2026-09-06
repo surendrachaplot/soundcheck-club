@@ -1,6 +1,6 @@
 # Annie
 
-Annie is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Mia Mao, Paris on Sat, 12 Sept 2026.
+Annie is a Techno and Dub artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Mia Mao, Paris on Sat, 12 Sept 2026.
 
 Annie is a techno and dub artist based in Norway, tracked on soundcheck, with 5 sets logged across Hamburg, Ibiza, Melbourne and Paris and 1 more. Often billed alongside ANDOW, Amygdala and Andres Campo. Next up: Mia Mao, Paris on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Annie is a techno and dub artist based in Norway, tracked on soundcheck, with 5 
 
 ANDOW, Amygdala, Andres Campo
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annie/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annie/)*

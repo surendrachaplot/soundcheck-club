@@ -1,16 +1,13 @@
 # export
 
-export is a music venue in Rotterdam with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Krackfree 10 Years" on Sat, 5 Sept 2026.
+export is a music venue in Rotterdam with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "David Vunk 50 YRS" on Fri, 11 Sept 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, with line-ups including Afra, Bukkha, David Vunk and DIEDE and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 5 upcoming nights, with line-ups including Afra, David Vunk, DIEDE and DJ Westfa and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Krackfree 10 Years |  |
-| Sat, 5 Sept 2026 | Krackfree Soundsystem 10year Anniversary Event - Rotterdam | Bukkha, Hebbe, Helmond Lang, Kessler, V.I.V.E.K. |
-| Sat, 5 Sept 2026 | Krackfree 10 year anniversary | Fleck, Hebbe, Helmond Lang, Kessler, V.I.V.E.K. |
 | Fri, 11 Sept 2026 | David Vunk 50 YRS | David Vunk, Legowelt, Marsman |
 | Sat, 12 Sept 2026 | Align | DIEDE, DJ Westfa, Jackie Ong, Joya Astou, RÆZA |
 | Sat, 19 Sept 2026 | Kaikaina, Locus Error, Rosati | Kaikaina, Locus Error, Rosati |
@@ -21,4 +18,4 @@ export is a music venue in Rotterdam listed on soundcheck. 8 upcoming nights, wi
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

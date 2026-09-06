@@ -1,15 +1,13 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 18 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Alarico & Yanamaste" on Sat, 5 Sept 2026.
+Gate Milano is a music venue in Milan with 17 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "PLASMA: CLTX & Vendex" on Fri, 11 Sept 2026.
 
-Gate Milano is a music venue in Milan listed on soundcheck. 18 upcoming nights, with line-ups including Alarico, Alex Akashi, ANKKH and ANNĒ and 2 more. Browse upcoming dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
+Gate Milano is a music venue in Milan listed on soundcheck. 17 upcoming nights, with line-ups including Alex Akashi, ANKKH, ANNĒ and Ben Eidani and 2 more. Browse upcoming dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Alarico & Yanamaste | Alarico, NOXATRA, Yanamaste |
-| Sat, 5 Sept 2026 | ROHFORM by MANTIKORE | GLADJEE, HEMPTOTE, Pura Solenne |
 | Fri, 11 Sept 2026 | PLASMA: CLTX & Vendex | ANKKH, CLTX, Vendex |
 | Fri, 18 Sept 2026 | Biscotto: BLANKA & Quelza | BLANKA, Quelza, Yas Reven |
 | Sat, 19 Sept 2026 | Novocaine+ presents BIRDS | Ben Eidani, Flaiv Đarkø |
@@ -18,9 +16,11 @@ Gate Milano is a music venue in Milan listed on soundcheck. 18 upcoming nights, 
 | Sat, 3 Oct 2026 | SCHRANZ MOVEMENT: O.B.I | Dstm, O.B.I. (DE) |
 | Fri, 9 Oct 2026 | ØTTA & Pegassi | Pegassi, RESA UTOPICA, ØTTA |
 | Fri, 9 Oct 2026 | ØTTA & Pegassi | Pegassi, RESA UTOPICA, ØTTA |
+| Fri, 16 Oct 2026 | Nikolina & KNTRLVRLST | KNTRLVRLST, PACKAPUNCH909 |
+| Fri, 23 Oct 2026 | Ueberrest & In Verruf | In Verruf, Ueberrest |
 
 ## Address
 
 Via Valtellina, 21, 20159 Milano MI, Milan
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*

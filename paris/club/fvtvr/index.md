@@ -1,14 +1,13 @@
 # Fvtvr
 
-Fvtvr is a music venue in Paris with 10 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Fvtvr INVITES KEY VINYL: Freddy K EXTENDED SET, Beste Hira" on Sat, 5 Sept 2026.
+Fvtvr is a music venue in Paris with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Fvtvr X KALT: DVS1, Philippa Pacho, CHILL" on Fri, 11 Sept 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with line-ups including Aline Brooklyn, ABI (FR), abs8lute and Adrien Calvet and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+Fvtvr is a music venue in Paris listed on soundcheck. 9 upcoming nights, with line-ups including Aline Brooklyn, ABI (FR), abs8lute and Adrien Calvet and 2 more. Browse upcoming dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Fvtvr INVITES KEY VINYL: Freddy K EXTENDED SET, Beste Hira | Beste Hira, Freddy K |
 | Fri, 11 Sept 2026 | Fvtvr X KALT: DVS1, Philippa Pacho, CHILL | Chill (FR), DVS1, Philippa Pacho |
 | Sat, 12 Sept 2026 | Yoyaku x SlapFunk Paris 24 hour Marathon | A.M. Project, DJ Senc, Doudou MD, Dr. Rubinstein, Dyed Soundorom, Ellen Allien, Garrett David, Krol, Labouts, Laidlaw, Lea Occhi, Margaret Dygas, Mari.te, Samuel Deep, Satoshi Tomiie, Sonja Moonear, Woddd, Zeina |
 | Sat, 12 Sept 2026 | Transgenik | BAUGRUPPE90, Luke Hovey, TOXIMAMI |
@@ -23,4 +22,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 10 upcoming nights, with l
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

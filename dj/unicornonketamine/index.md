@@ -1,14 +1,13 @@
 # Unicorn on Ketamine
 
-Unicorn on Ketamine is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at M-BIA, Berlin on Fri, 4 Sept 2026.
+Unicorn on Ketamine is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at City Hall, Barcelona on Thu, 10 Sept 2026.
 
-Unicorn on Ketamine is a hardcore and techno artist tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Brussels and Budapest and 7 more. Often billed alongside Angerfist, The Dark Horror and billx. Next up: M-BIA, Berlin on Fri 4 Sept.
+Unicorn on Ketamine is a hardcore and techno artist tracked on soundcheck, with 13 sets logged across Barcelona, Berlin, Brussels and Budapest and 7 more. Often billed alongside Angerfist, The Dark Horror and billx. Next up: City Hall, Barcelona on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | M-BIA | Berlin |
 | Thu, 10 Sept 2026 | City Hall | Barcelona |
 | Sat, 19 Sept 2026 | Fabrik | Madrid |
 
@@ -27,4 +26,4 @@ Unicorn on Ketamine is a hardcore and techno artist tracked on soundcheck, with 
 
 Angerfist, The Dark Horror, billx
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unicornonketamine/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/unicornonketamine/)*

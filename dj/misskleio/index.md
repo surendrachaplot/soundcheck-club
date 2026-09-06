@@ -1,6 +1,6 @@
 # Miss Kleio
 
-Miss Kleio is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at The Piston, Toronto on Thu, 10 Sept 2026.
+Miss Kleio is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Piston, Toronto on Thu, 10 Sept 2026.
 
 Miss Kleio is a techno and house artist tracked on soundcheck, with 72 sets logged across Toronto. Often billed alongside Zola (TRM), Jackie Spade and Kika (4). Next up: The Piston, Toronto on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Miss Kleio is a techno and house artist tracked on soundcheck, with 72 sets logg
 
 Zola (TRM), Jackie Spade, Kika (4)
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misskleio/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misskleio/)*

@@ -1,6 +1,6 @@
 # jewelry
 
-jewelry is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Sameheads, Berlin on Sat, 26 Sept 2026.
+jewelry is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Sameheads, Berlin on Sat, 26 Sept 2026.
 
 jewelry is a house and techno artist tracked on soundcheck, with 43 sets logged across Berlin, Brussels, Leipzig and Munich and 1 more. Often billed alongside Miss Take, SAM (9) and OLIV. Next up: Sameheads, Berlin on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ jewelry is a house and techno artist tracked on soundcheck, with 43 sets logged 
 
 Miss Take, SAM (9), OLIV
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelry/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelry/)*

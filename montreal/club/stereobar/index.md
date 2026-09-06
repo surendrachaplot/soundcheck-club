@@ -1,14 +1,13 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 11 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "IDEMI - Shirlee" on Sat, 5 Sept 2026.
+StereoBar is a music venue in Montreal with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "LBD: Monitors (All Night Long)" on Sun, 6 Sept 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 11 upcoming nights, with line-ups including Brian Cuta, Claude VonStroke, Colmee and Deneb and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 10 upcoming nights, with line-ups including Brian Cuta, Claude VonStroke, Colmee and Deneb and 2 more. Browse upcoming dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | IDEMI - Shirlee | IDEMI, Shirlee |
 | Sun, 6 Sept 2026 | LBD: Monitors (All Night Long) | Monitors |
 | Fri, 11 Sept 2026 | Opposite Direktion (All Night Long) | Opposite Direktion |
 | Sat, 12 Sept 2026 | Hicky & Kalo (All Night Long) | Hicky & Kalo |
@@ -18,9 +17,10 @@ StereoBar is a music venue in Montreal listed on soundcheck. 11 upcoming nights,
 | Sun, 20 Sept 2026 | LBD: Napo Lugo - Colmee b2b Freeman | Colmee, Freeman, Napo Lugo |
 | Fri, 25 Sept 2026 | Eli Escobar - Laurence Matte | Eli Escobar, Laurence Matte |
 | Sat, 26 Sept 2026 | Rodriguez Jr. - Sölbo | Rodriguez Jr., Sölbo |
+| Sun, 27 Sept 2026 | LBD: ROUDY (All Night Long) | ROUDY |
 
 ## Address
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

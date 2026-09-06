@@ -1,15 +1,13 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 19 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "BOOTLEG 002" on Sat, 5 Sept 2026.
+The DBA is a music venue in Manchester with 17 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Rising by HØL" on Thu, 10 Sept 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 19 upcoming nights, with line-ups including 4STR0, Aerbreak, atalaya and b.lo and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 17 upcoming nights, with line-ups including Aerbreak, b.lo, BMOL and Breaka and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | BOOTLEG 002 | Jess Rose, Karlie Marx, Maracuya, Qoqnut, atalaya |
-| Sat, 5 Sept 2026 | HOTLINE // GARDEN DAY PARTY | 4STR0, Danny Roach, Deventi, Jase Jeffery, Kabel, djcd |
 | Thu, 10 Sept 2026 | Rising by HØL | Fussey, Phæke, Rúadh, soulframe |
 | Fri, 11 Sept 2026 | Scarlett O'Malley at The DBA: Bad Intentions x All Kinds of Things | Gary Spesh, Layson, Marlon Baleci, Scarlett O'Malley |
 | Sat, 12 Sept 2026 | Babemaxxx: The Final Climaxxx | BMOL, MYOHMY, Pacemaker, e-kitty, gwlucas |
@@ -18,9 +16,11 @@ The DBA is a music venue in Manchester listed on soundcheck. 19 upcoming nights,
 | Sun, 27 Sept 2026 | BENT - SUN:SET | Esmé, Tony Neptune, WeeDot |
 | Sat, 3 Oct 2026 | DAT_URA 003 W/ ENNIO, Deventi, Ossou Erratic, Kuriboh & KOSO | Deventi, ENNIO, KOSO, Kuriboh, Ossou Erratic |
 | Thu, 8 Oct 2026 | the slag do: back 2 skool | FOULMOUTH |
+| Fri, 9 Oct 2026 | GASH / lεsboᵉlεctro εdition | Lapalace |
+| Sat, 10 Oct 2026 | Oneforty x Neu Snd: Enrica Falqui & Penelope | Enrica Falqui, Penelope (2) |
 
 ## Address
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

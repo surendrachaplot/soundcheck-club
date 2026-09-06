@@ -1,18 +1,18 @@
 # Mazzacles
 
-Mazzacles is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Club 77, Sydney on Sat, 5 Sept 2026.
+Mazzacles is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
 
-Mazzacles is a house and techno artist tracked on soundcheck, with 76 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Kato, Reenie and Simon Caldwell. Next up: Club 77, Sydney on Sat 5 Sept.
+Mazzacles is a house and techno artist tracked on soundcheck, with 76 sets logged across Berlin, Melbourne and Sydney. Often billed alongside Kato, Reenie and Simon Caldwell. Next up: Carriageworks, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Club 77 | Sydney |
 | Sat, 3 Oct 2026 | Carriageworks | Sydney |
 
 ## Recently played
 
+- Club 77, Sydney — Sat, 5 Sept 2026
 - TBA, Sydney — Sat, 15 Aug 2026
 - Club 77, Sydney — Sat, 1 Aug 2026
 - TBA, Sydney — Sat, 27 Jun 2026
@@ -20,10 +20,9 @@ Mazzacles is a house and techno artist tracked on soundcheck, with 76 sets logge
 - Second Story Studios, Melbourne — Sun, 5 Apr 2026
 - Our Friend's Farm, Melbourne — Fri, 3 Apr 2026
 - Club 77, Sydney — Thu, 2 Apr 2026
-- Club 77, Sydney — Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Kato, Reenie, Simon Caldwell
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzacles/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzacles/)*

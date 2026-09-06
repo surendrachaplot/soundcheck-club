@@ -1,21 +1,22 @@
 # Nicky Blackmarket
 
-Nicky Blackmarket is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Eutopia Whs, London on Sat, 5 Sept 2026.
+Nicky Blackmarket is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Studio 338, London on Sat, 26 Sept 2026.
 
-Nicky Blackmarket is a drum & bass and jungle artist tracked on soundcheck, with 138 sets logged across Amsterdam, Bangkok, Berlin and Birmingham and 10 more. Often billed alongside Nicky B, Kenny Ken and Ray Keith. Next up: Eutopia Whs, London on Sat 5 Sept.
+Nicky Blackmarket is a drum & bass and jungle artist tracked on soundcheck, with 139 sets logged across Amsterdam, Bangkok, Berlin and Birmingham and 10 more. Often billed alongside Nicky B, Kenny Ken and Ray Keith. Next up: Studio 338, London on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Eutopia Whs | London |
 | Sat, 26 Sept 2026 | Studio 338 | London |
 | Sat, 3 Oct 2026 | NOWHERE | Manchester |
 | Sat, 31 Oct 2026 | Fire & Lightbox | London |
 | Sat, 14 Nov 2026 | Outernet Live | London |
+| Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
+- Eutopia Whs, London — Sat, 5 Sept 2026
 - Planet Wax, London — Thu, 3 Sept 2026
 - Brixton Jamm, London — Fri, 14 Aug 2026
 - The Clock Factory, Bristol — Fri, 3 Jul 2026
@@ -23,10 +24,9 @@ Nicky Blackmarket is a drum & bass and jungle artist tracked on soundcheck, with
 - The Cause, London — Sun, 14 Jun 2026
 - Club Makossa, London — Fri, 5 Jun 2026
 - fabric, London — Sat, 30 May 2026
-- 93 Feet East, London — Fri, 29 May 2026
 
 ## Shares bills with
 
 Nicky B, Kenny Ken, Ray Keith
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyblackmarket/)*

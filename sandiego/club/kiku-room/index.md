@@ -1,6 +1,6 @@
 # Kiku Room
 
-Kiku Room is a music venue in San Diego with 3 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Heavy Deeds presents: Axel Boman and Kornél Kovács" on Sun, 6 Sept 2026.
+Kiku Room is a music venue in San Diego with 3 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Heavy Deeds presents: Axel Boman and Kornél Kovács" on Sun, 6 Sept 2026.
 
 Kiku Room is a music venue in Sandiego listed on soundcheck. 3 upcoming nights, with line-ups including Axel Boman, Boys Don't Disco, CJ Posada and Kornél Kovács and 2 more. Browse upcoming dates, start times and who's playing. 2812 Kettner Blvd, San Diego, CA 92101, USA.
 
@@ -16,4 +16,4 @@ Kiku Room is a music venue in Sandiego listed on soundcheck. 3 upcoming nights, 
 
 2812 Kettner Blvd, San Diego, CA 92101, USA, San Diego
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/kiku-room/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/kiku-room/)*

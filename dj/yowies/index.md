@@ -1,6 +1,6 @@
 # Yowies
 
-Yowies is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Solace, Melbourne on Thu, 24 Sept 2026.
+Yowies is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Solace, Melbourne on Thu, 24 Sept 2026.
 
 Yowies is a house and tech house artist based in Australia, tracked on soundcheck, with 11 sets logged across Melbourne. Often billed alongside Ango (AU), 925 (AU) and A.Well. Next up: Solace, Melbourne on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Yowies is a house and tech house artist based in Australia, tracked on soundchec
 
 Ango (AU), 925 (AU), A.Well
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yowies/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yowies/)*

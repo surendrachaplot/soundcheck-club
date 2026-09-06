@@ -1,20 +1,20 @@
 # Terry Francis
 
-Terry Francis is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at People's Leisure Club, Edinburgh on Sat, 5 Sept 2026.
+Terry Francis is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at 93 Feet East, London on Sun, 27 Sept 2026.
 
-Terry Francis is a house and tech house artist tracked on soundcheck, with 61 sets logged across Aberdeen, Berlin, Birmingham and Brighton and 8 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: People's Leisure Club, Edinburgh on Sat 5 Sept.
+Terry Francis is a house and tech house artist tracked on soundcheck, with 61 sets logged across Aberdeen, Berlin, Birmingham and Brighton and 8 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: 93 Feet East, London on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | People's Leisure Club | Edinburgh |
 | Sun, 27 Sept 2026 | 93 Feet East | London |
 | Fri, 2 Oct 2026 | Eiger Studios | Leeds |
 | Sat, 31 Oct 2026 | Gaffe | London |
 
 ## Recently played
 
+- People's Leisure Club, Edinburgh — Sat, 5 Sept 2026
 - Piccadilly Central, Manchester — Fri, 4 Sept 2026
 - The View From The Shard, London — Fri, 21 Aug 2026
 - Gaffe, London — Sun, 19 Jul 2026
@@ -22,10 +22,9 @@ Terry Francis is a house and tech house artist tracked on soundcheck, with 61 se
 - The Cuckoo Club, London — Fri, 26 Jun 2026
 - TBA - The Drop inn Digbeth, Birmingham — Sat, 30 May 2026
 - Last Arch, London — Sun, 24 May 2026
-- Distrikt, Leeds — Sun, 24 May 2026
 
 ## Shares bills with
 
 3 Minds, Eddie Richards, Jake Beautyman
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*

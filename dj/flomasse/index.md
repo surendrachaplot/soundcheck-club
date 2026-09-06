@@ -1,6 +1,6 @@
 # Flo Massé
 
-Flo Massé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Stereo, Montreal on Sat, 12 Sept 2026.
+Flo Massé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Stereo, Montreal on Sat, 12 Sept 2026.
 
 Flo Massé is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside Jolly (FR), DJ Gamba and P.O (1). Next up: Stereo, Montreal on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Flo Massé is a house and techno artist tracked on soundcheck, with 115 sets log
 
 Jolly (FR), DJ Gamba, P.O (1)
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*

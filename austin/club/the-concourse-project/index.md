@@ -1,14 +1,13 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 31 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "WhoMadeWho (Hybrid DJ Set)" on Sat, 5 Sept 2026.
+The Concourse Project is a music venue in Austin with 30 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Alignment + PETERBLUE" on Sun, 6 Sept 2026.
 
-The Concourse Project is a music venue in Austin listed on soundcheck. 31 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
+The Concourse Project is a music venue in Austin listed on soundcheck. 30 upcoming nights, with line-ups including 1tbsp, Above & Beyond, Adam Port and Adam Sellouk and 2 more. Browse upcoming dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | WhoMadeWho (Hybrid DJ Set) | WhoMadeWho |
 | Sun, 6 Sept 2026 | Alignment + PETERBLUE | Alignment, PETERBLUE |
 | Sat, 12 Sept 2026 | LSR/CITY X by Gareth Emery | Gareth Emery |
 | Sat, 12 Sept 2026 | Natte Visstick (The Hangar) |  |
@@ -18,9 +17,10 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 31 upcomi
 | Sat, 19 Sept 2026 | OMNOM + Kamino | Kamino |
 | Fri, 25 Sept 2026 | Rescheduled to 9/25: Deorro pres Botas Y Rave (Outdoors) | Deorro |
 | Fri, 25 Sept 2026 | Ben Sterling (Open to Close) | Ben Sterling |
+| Sat, 26 Sept 2026 | Eli Brown (Outdoors) | Eli Brown, Kasia, Kasia (OFC), Marie Vaunt |
 
 ## Address
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

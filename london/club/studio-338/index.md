@@ -1,14 +1,13 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 11 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Summer Outdoor Garage Festival - Studio 338 London" on Sat, 5 Sept 2026.
+Studio 338 is a music venue in London with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "DanceOnArrival: Summer Closing Festival W/ Disciples, Tre Reynolds, Jamie Fielding + MORE" on Sat, 12 Sept 2026.
 
-Studio 338 is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Alex P, Anil Aras, ASHOJU and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
+Studio 338 is a music venue in London listed on soundcheck. 10 upcoming nights, with line-ups including Alex P, Anil Aras, ASHOJU and Billy Daniel Bunter and 2 more. Browse upcoming dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Summer Outdoor Garage Festival - Studio 338 London |  |
 | Sat, 12 Sept 2026 | DanceOnArrival: Summer Closing Festival W/ Disciples, Tre Reynolds, Jamie Fielding + MORE | Anil Aras, Boss Priester, Disciples, Hidde van Wee, Jamie Fielding, Smokey Bubblin' B, Tre Reynolds |
 | Sun, 13 Sept 2026 | Summer Garden Party / Part 2 | DJ IC, Supa D, Tippa |
 | Sun, 20 Sept 2026 | THE OFFICIAL LONDON FRESHERS MOVING IN PARTY - LONDON FRESHERS WEEK 2026 |  |
@@ -18,9 +17,10 @@ Studio 338 is a music venue in London listed on soundcheck. 11 upcoming nights, 
 | Fri, 2 Oct 2026 | F*CK ME IT'S FRESHERS LONDON - THE BIGGEST FRESHERS EVENT IN THE UK |  |
 | Sun, 4 Oct 2026 | The Official Karan Aujla Concert After Party - Studio 338 |  |
 | Sat, 31 Oct 2026 | Release Halloween - Ida Engberg, Bontan, Matthias Tanzmann, Nick Curly  + more | ASHOJU, Bontan, Chicks Luv Us, FLORENTIA, Forge (UK), Ida Engberg, Matthias Tanzmann, Nick Curly |
+| Sat, 7 Nov 2026 | IllumiNaughty: 20 Years Of Chaos, with Vini Vici & More | DELTA LABS, Kling, Miss Lightbeam, Multiverse, Psibindi |
 
 ## Address
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

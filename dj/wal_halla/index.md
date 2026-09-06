@@ -1,14 +1,15 @@
 # Wal_Halla
 
-Wal_Halla is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
+Wal_Halla is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Grelle Forelle, Vienna on Sat, 12 Sept 2026.
 
-Wal_Halla is a techno and trance artist based in Austria, tracked on soundcheck, with 17 sets logged across Vienna. Often billed alongside MELIMEKO, Ainhoa G and Artemuse. Next up: Grelle Forelle, Vienna on Sat 12 Sept.
+Wal_Halla is a techno and trance artist based in Austria, tracked on soundcheck, with 18 sets logged across Vienna. Often billed alongside MELIMEKO, Ele Luz and Ainhoa G. Next up: Grelle Forelle, Vienna on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Grelle Forelle | Vienna |
+| Fri, 2 Oct 2026 | FLUCC | Vienna |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Wal_Halla is a techno and trance artist based in Austria, tracked on soundcheck,
 
 ## Shares bills with
 
-MELIMEKO, Ainhoa G, Artemuse
+MELIMEKO, Ele Luz, Ainhoa G
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wal_halla/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wal_halla/)*

@@ -1,15 +1,13 @@
 # BØĘRY
 
-BØĘRY is a Techno and Hardcore artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Strantwerpen, Antwerp on Sat, 5 Sept 2026.
+BØĘRY is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
-BØĘRY is a techno and hardcore artist tracked on soundcheck, with 23 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 10 more. Often billed alongside BLNK, TiTi and IOSIO. Next up: Strantwerpen, Antwerp on Sat 5 Sept.
+BØĘRY is a techno and hardcore artist tracked on soundcheck, with 23 sets logged across Amsterdam, Antwerp, Berlin and Bristol and 10 more. Often billed alongside BLNK, TiTi and IOSIO. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Strantwerpen | Antwerp |
-| Sat, 5 Sept 2026 | Strantwerpen | Antwerp |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Sat, 19 Sept 2026 | Airport Würzburg | Nürnberg |
 | Sat, 10 Oct 2026 | Maassilo | Rotterdam |
@@ -20,17 +18,17 @@ BØĘRY is a techno and hardcore artist tracked on soundcheck, with 23 sets logg
 
 ## Recently played
 
+- Strantwerpen, Antwerp — Sat, 5 Sept 2026
+- Strantwerpen, Antwerp — Sat, 5 Sept 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Maassilo, Rotterdam — Sat, 29 Aug 2026
 - Ministerium Club, Lisbon — Thu, 6 Aug 2026
 - Kilomètre25, Paris — Sat, 25 Jul 2026
 - Schrotty, Cologne — Fri, 24 Jul 2026
 - Essigfabrik, Cologne — Sat, 18 Jul 2026
-- Garage Klub, Antwerp — Sat, 27 Jun 2026
-- Mirano, Brussels — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 BLNK, TiTi, IOSIO
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*

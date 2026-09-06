@@ -1,8 +1,8 @@
 # LOSTBOYJAY
 
-LOSTBOYJAY is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Elsewhere, New York City on Sat, 26 Sept 2026.
+LOSTBOYJAY is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Elsewhere, New York City on Sat, 26 Sept 2026.
 
-LOSTBOYJAY is a house and deep house artist tracked on soundcheck, with 19 sets logged across Austin, Brisbane, Chicago and Denver and 9 more. Often billed alongside Andrew Pololos, Armand Van Helden and Benny Benassi. Next up: Elsewhere, Newyorkcity on Sat 26 Sept.
+LOSTBOYJAY is a house and deep house artist tracked on soundcheck, with 20 sets logged across Austin, Brisbane, Chicago and Denver and 9 more. Often billed alongside Andrew Pololos, Armand Van Helden and Benny Benassi. Next up: Elsewhere, Newyorkcity on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LOSTBOYJAY is a house and deep house artist tracked on soundcheck, with 19 sets 
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Elsewhere | New York City |
 | Fri, 9 Oct 2026 | Twenty Two | Dublin |
+| Sat, 21 Nov 2026 | Wigwam | Dublin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ LOSTBOYJAY is a house and deep house artist tracked on soundcheck, with 19 sets 
 
 Andrew Pololos, Armand Van Helden, Benny Benassi
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboyjay/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboyjay/)*

@@ -1,14 +1,15 @@
 # King Chuga
 
-King Chuga is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Sidney & Matilda, Sheffield on Fri, 16 Oct 2026.
+King Chuga is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Sidney & Matilda, Sheffield on Fri, 16 Oct 2026.
 
-King Chuga is a jungle and drum & bass artist tracked on soundcheck, with 21 sets logged across London and Sheffield. Often billed alongside Charla Green, Tommy Badman and Dead Man's Chest. Next up: Sidney & Matilda, Sheffield on Fri 16 Oct.
+King Chuga is a jungle and drum & bass artist tracked on soundcheck, with 22 sets logged across London and Sheffield. Often billed alongside Charla Green, Equinox (UK) and Kid Lib. Next up: Sidney & Matilda, Sheffield on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Sidney & Matilda | Sheffield |
+| Fri, 4 Dec 2026 | FORGE | Sheffield |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ King Chuga is a jungle and drum & bass artist tracked on soundcheck, with 21 set
 
 ## Shares bills with
 
-Charla Green, Tommy Badman, Dead Man's Chest
+Charla Green, Equinox (UK), Kid Lib
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingchuga/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingchuga/)*

@@ -1,6 +1,6 @@
 # Robert Roman
 
-Robert Roman is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Stardust Garage, Austin on Fri, 18 Sept 2026.
+Robert Roman is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Stardust Garage, Austin on Fri, 18 Sept 2026.
 
 Robert Roman is a house and minimal artist based in United States of America, tracked on soundcheck, with 49 sets logged across Amsterdam, Athens, Austin and Berlin and 8 more. Often billed alongside Brett Johnson, CHKLTE and Jacques-André. Next up: Stardust Garage, Austin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Robert Roman is a house and minimal artist based in United States of America, tr
 
 Brett Johnson, CHKLTE, Jacques-André
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertroman/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertroman/)*

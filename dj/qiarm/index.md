@@ -1,6 +1,6 @@
 # Qi (ARM)
 
-Qi (ARM) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Bassiani, Tbilisi on Sat, 5 Sept 2026.
+Qi (ARM) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Bassiani, Tbilisi on Sat, 5 Sept 2026.
 
 Qi (ARM) is an electronic artist tracked on soundcheck, with 6 sets logged across Berlin, Copenhagen and Tbilisi. Often billed alongside Kaytseng, Korl and AWHM. Next up: Bassiani, Tbilisi on Sat 5 Sept.
 
@@ -13,6 +13,7 @@ Qi (ARM) is an electronic artist tracked on soundcheck, with 6 sets logged acros
 
 ## Recently played
 
+- Bassiani, Tbilisi — Sat, 5 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Thu, 23 Apr 2026
 - Bassiani, Tbilisi — Sat, 6 Sept 2025
 - Berghain | Panorama Bar | Säule, Berlin — Thu, 9 May 2024
@@ -22,4 +23,4 @@ Qi (ARM) is an electronic artist tracked on soundcheck, with 6 sets logged acros
 
 Kaytseng, Korl, AWHM
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qiarm/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/qiarm/)*

@@ -1,6 +1,6 @@
 # Kimby
 
-Kimby is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Void Club, Berlin on Sat, 26 Sept 2026.
+Kimby is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Void Club, Berlin on Sat, 26 Sept 2026.
 
 Kimby is a techno and drum & bass artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Ektoside, LOUPING and Lay.Dee Strange. Next up: Void Club, Berlin on Sat 26 Sept.
 
@@ -22,4 +22,4 @@ Kimby is a techno and drum & bass artist tracked on soundcheck, with 6 sets logg
 
 Ektoside, LOUPING, Lay.Dee Strange
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimby/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimby/)*

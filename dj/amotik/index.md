@@ -1,6 +1,6 @@
 # Amotik
 
-Amotik is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Masada, Milan on Sat, 19 Sept 2026.
+Amotik is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Masada, Milan on Sat, 19 Sept 2026.
 
 Amotik is a techno and house artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 38 more. Often billed alongside Lea Occhi, Olivia Mendez and Answer Code Request. Next up: Masada, Milan on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Amotik is a techno and house artist tracked on soundcheck, with 121 sets logged 
 
 Lea Occhi, Olivia Mendez, Answer Code Request
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*

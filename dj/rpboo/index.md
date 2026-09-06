@@ -1,14 +1,13 @@
 # RP Boo
 
-RP Boo is a Footwork and Techno artist with 5 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Tresor / Globus, Berlin on Fri, 4 Sept 2026.
+RP Boo is a Footwork and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Elsewhere, New York City on Fri, 25 Sept 2026.
 
-RP Boo is a footwork and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 27 more. Often billed alongside DJ Spinn, Crystallmess and Introspekt. Next up: Tresor / Globus, Berlin on Fri 4 Sept.
+RP Boo is a footwork and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 27 more. Often billed alongside DJ Spinn, Crystallmess and Introspekt. Next up: Elsewhere, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Tresor / Globus | Berlin |
 | Fri, 25 Sept 2026 | Elsewhere | New York City |
 | Sat, 26 Sept 2026 | Podlasie Club | Chicago |
 | Sat, 24 Oct 2026 | The White Hotel | Manchester |
@@ -29,4 +28,4 @@ RP Boo is a footwork and techno artist based in United States of America, tracke
 
 DJ Spinn, Crystallmess, Introspekt
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*

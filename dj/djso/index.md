@@ -1,6 +1,6 @@
 # DJ SO
 
-DJ SO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Traffic, Tokyo on Tue, 22 Sept 2026.
+DJ SO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Traffic, Tokyo on Tue, 22 Sept 2026.
 
 DJ SO is a techno and house artist tracked on soundcheck, with 81 sets logged across Amsterdam, Barcelona, Berlin and Kyoto and 12 more. Often billed alongside DJ Sodeyama, Kim.Qna and Yo Nishijima. Next up: Traffic, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ DJ SO is a techno and house artist tracked on soundcheck, with 81 sets logged ac
 
 DJ Sodeyama, Kim.Qna, Yo Nishijima
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*

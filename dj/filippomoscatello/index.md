@@ -1,18 +1,18 @@
 # Filippo Moscatello
 
-Filippo Moscatello is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Centro Italia Prenzlauer Berg, Berlin on Sat, 5 Sept 2026.
+Filippo Moscatello is a Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Paloma, Berlin on Sat, 26 Sept 2026.
 
-Filippo Moscatello is a disco and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Finn Johannsen, Acid Washed and Sasse. Next up: Centro Italia Prenzlauer Berg, Berlin on Sat 5 Sept.
+Filippo Moscatello is a disco and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Finn Johannsen, Acid Washed and Sasse. Next up: Paloma, Berlin on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Centro Italia Prenzlauer Berg | Berlin |
 | Sat, 26 Sept 2026 | Paloma | Berlin |
 
 ## Recently played
 
+- Centro Italia Prenzlauer Berg, Berlin — Sat, 5 Sept 2026
 - Paloma, Berlin — Sat, 2 May 2026
 - Paloma, Berlin — Sat, 25 Apr 2026
 - Paloma, Berlin — Sat, 21 Feb 2026
@@ -20,10 +20,9 @@ Filippo Moscatello is a disco and techno artist based in Germany, tracked on sou
 - Kante Nkln, Berlin — Sun, 14 Sept 2025
 - Paloma, Berlin — Sat, 13 Sept 2025
 - Paloma, Berlin — Sat, 12 Apr 2025
-- Paloma, Berlin — Sat, 22 Feb 2025
 
 ## Shares bills with
 
 Finn Johannsen, Acid Washed, Sasse
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filippomoscatello/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filippomoscatello/)*

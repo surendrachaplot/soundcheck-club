@@ -1,14 +1,13 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 7 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "BASTET presents: Black Rave Culture, DJ Love || Ohlei, DJ Shango" on Sat, 5 Sept 2026.
+Bastet is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "SHADOWPLAY [goth/darkwave/industrial]" on Fri, 11 Sept 2026.
 
-Bastet is a music venue in Philadelphia listed on soundcheck. 7 upcoming nights, with line-ups including Amal, Black Rave Culture, DJ Matpat and DJ Reezey and 2 more. Browse upcoming dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
+Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming nights, with line-ups including DJ Matpat, DJ Reezey, DJ Sega and DJ Sylo and 2 more. Browse upcoming dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | BASTET presents: Black Rave Culture, DJ Love // Ohlei, DJ Shango | Amal, Black Rave Culture, James Bangura, Nativesun, Ohlei |
 | Fri, 11 Sept 2026 | SHADOWPLAY [goth/darkwave/industrial] | G I N A |
 | Sat, 12 Sept 2026 | bwc sounds: Cosmic Rhythms Afterparty | DJ Sylo, Joshua Lang, Playr1 |
 | Sat, 19 Sept 2026 | El Bait Baitkum: Juana, has.san, Vicenta, Firestone | Firestone, Juana, Vicenta, has.san |
@@ -20,4 +19,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 7 upcoming nights,
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

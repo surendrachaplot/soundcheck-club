@@ -1,6 +1,6 @@
 # IZA (2)
 
-IZA (2) is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
+IZA (2) is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
 
 IZA (2) is a progressive house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Brussels, Hamburg and Leipzig and 1 more. Often billed alongside Momo, Soft Bites and AALIYAH. Next up: Südpol, Hamburg on Fri 4 Sept.
 
@@ -9,10 +9,10 @@ IZA (2) is a progressive house and techno artist based in Germany, tracked on so
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Südpol | Hamburg |
-| Sat, 5 Sept 2026 | Südpol | Hamburg |
 
 ## Recently played
 
+- Südpol, Hamburg — Sat, 5 Sept 2026
 - Südpol, Hamburg — Fri, 4 Sept 2026
 - Void Club, Berlin — Fri, 14 Aug 2026
 - Lavallée, Brussels — Fri, 10 Jul 2026
@@ -24,4 +24,4 @@ IZA (2) is a progressive house and techno artist based in Germany, tracked on so
 
 Momo, Soft Bites, AALIYAH
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-2/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-2/)*

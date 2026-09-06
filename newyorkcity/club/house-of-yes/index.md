@@ -1,6 +1,6 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Glitterbox: Dam Swindle, Mike Dunn, Cosmo, Dennis Free, Mesa, Nikita Green" on Sat, 5 Sept 2026.
+House of Yes is a music venue in New York City with 14 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "VIRGO RISING: Jasmine Infiniti, cry$cross, Bodegaparty" on Fri, 11 Sept 2026.
 
 House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming nights, with line-ups including Alistair, Aluna, Bella Mutino and Bodegaparty and 2 more. Browse upcoming dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
@@ -8,7 +8,6 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Glitterbox: Dam Swindle, Mike Dunn, Cosmo, Dennis Free, Mesa, Nikita Green | Cosmo, Dam Swindle, Dennis Free, Mike Dunn, Nikita Green |
 | Fri, 11 Sept 2026 | VIRGO RISING: Jasmine Infiniti, cry$cross, Bodegaparty | Bodegaparty, Jasmine Infiniti, cry$cross |
 | Sat, 19 Sept 2026 | Sonic Ceremony: Echonomist & OVEOUS | Echonomist, OVEOUS |
 | Fri, 25 Sept 2026 | Midnight Groove: Kellie Allen, Madota & More | Kellie Allen, Madota, OBA+FLIP |
@@ -18,9 +17,10 @@ House of Yes is a music venue in Newyorkcity listed on soundcheck. 14 upcoming n
 | Sat, 3 Oct 2026 | RAW CUTS X House of Yes: DJ Minx | Bella Mutino, Bridge (NY), DJ Minx, EREZ.JPG, JMT (2), Mac Briggs, Willy Gorgon |
 | Sat, 10 Oct 2026 | LIBRA RISING: Aluna, Darling Cool, Niara Sterling | Aluna, Darling Cool, Niara Sterling |
 | Fri, 16 Oct 2026 | Fleetmac Wood | Fleetmac Wood |
+| Sat, 17 Oct 2026 | House of Yes x I Feel present Time & Space: Kino Todo | Kino Todo |
 
 ## Address
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

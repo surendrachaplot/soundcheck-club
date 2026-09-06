@@ -1,15 +1,13 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 12 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Wannda Circus Closing / Bahnwärter Edition" on Sat, 5 Sept 2026.
+Bahnwärter Thiel is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Bahnwärter Thiel Live & Open Air mit Christian Löffler" on Sun, 6 Sept 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 12 upcoming nights, with line-ups including 9LALEY, ACE [DE], Alicea and antyo and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 10 upcoming nights, with line-ups including 9LALEY, ACE [DE], Alicea and antyo and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Wannda Circus Closing / Bahnwärter Edition | Cottí Larje, Käthe & Haes, Nhii, VIVI (DE), vivi |
-| Sat, 5 Sept 2026 | Vegan Beats - Das erste vegane Festival Süddeutschlands |  |
 | Sun, 6 Sept 2026 | Bahnwärter Thiel Live & Open Air mit Christian Löffler |  |
 | Thu, 10 Sept 2026 | 135+ mit Unikat & Halligalli.with.friends | ACE [DE], FFZG, MXML_VWRRT |
 | Fri, 11 Sept 2026 | Freitag mit Pauli Pocket / Bahnwärter Thiel | Emel White, Moritz Butschek, Pauli Pocket, Silvi Knallt |
@@ -18,9 +16,11 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 12 upcoming n
 | Fri, 18 Sept 2026 | 135+ – Eurotrance – Open Air & Club | Cosy (2), DJ PERIODT, Danilo Filipe, Pablo Minuit, TECHNORA, snoritz, subcutan |
 | Sat, 19 Sept 2026 | Koraĵo Summer Closing | Moritz Minoa, Palastica, sayuara |
 | Thu, 24 Sept 2026 | 135+ mit Klangfarben Kollektiv & Secret Trance Frequencies | 9LALEY, Alicea, Arkinice, antyo, loumo |
+| Fri, 25 Sept 2026 | Isarbass Eulentreff | Lena Brysch, Mhan Solo |
+| Sat, 26 Sept 2026 | Praerie Festival im Bahnwärter Thiel | Martin Ka, Maurice Mino, Sin:port |
 
 ## Address
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*

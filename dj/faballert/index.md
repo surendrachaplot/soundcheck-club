@@ -1,6 +1,6 @@
 # FAballert
 
-FAballert is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Flakturm Humboldthain, Berlin on Fri, 11 Sept 2026.
+FAballert is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Flakturm Humboldthain, Berlin on Fri, 11 Sept 2026.
 
 FAballert is a techno and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin. Often billed alongside Dr.Waumiau, Armaville and F O R E S I G H T. Next up: TBA - Flakturm Humboldthain, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ FAballert is a techno and trance artist based in Germany, tracked on soundcheck,
 
 Dr.Waumiau, Armaville, F O R E S I G H T
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faballert/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faballert/)*

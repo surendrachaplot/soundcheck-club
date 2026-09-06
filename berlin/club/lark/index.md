@@ -1,6 +1,6 @@
 # Lark
 
-Lark is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "AN(8)X festival 2026: Love Village, Special Mooncake Club Night" on Fri, 25 Sept 2026.
+Lark is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "AN(8)X festival 2026: Love Village, Special Mooncake Club Night" on Fri, 25 Sept 2026.
 
 Lark is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Bulma Brief, CHRANDY, dj latinchat and Doctora Amor and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
@@ -21,4 +21,4 @@ Lark is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with li
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

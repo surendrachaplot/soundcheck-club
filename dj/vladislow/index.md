@@ -1,6 +1,6 @@
 # Vladislow
 
-Vladislow is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at TBA -  47.414841, 19.310285, Budapest on Sat, 5 Sept 2026.
+Vladislow is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA -  47.414841, 19.310285, Budapest on Sat, 5 Sept 2026.
 
 Vladislow is a techno and minimal artist tracked on soundcheck, with 9 sets logged across Budapest. Often billed alongside Cvrdwell, Andrija Jäger and Dorota. Next up: TBA -  47.414841, 19.310285, Budapest on Sat 5 Sept.
 
@@ -12,6 +12,7 @@ Vladislow is a techno and minimal artist tracked on soundcheck, with 9 sets logg
 
 ## Recently played
 
+- TBA -  47.414841, 19.310285, Budapest — Sat, 5 Sept 2026
 - Turbina, Budapest — Wed, 31 Dec 2025
 - TBA, Budapest — Fri, 10 Oct 2025
 - Turbina, Budapest — Thu, 2 Oct 2025
@@ -19,10 +20,9 @@ Vladislow is a techno and minimal artist tracked on soundcheck, with 9 sets logg
 - Turbina, Budapest — Tue, 31 Dec 2024
 - Fabrika, Budapest — Fri, 22 Nov 2024
 - Gólya Presszó, Budapest — Fri, 10 May 2024
-- Turbina, Budapest — Fri, 12 Apr 2024
 
 ## Shares bills with
 
 Cvrdwell, Andrija Jäger, Dorota
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladislow/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladislow/)*

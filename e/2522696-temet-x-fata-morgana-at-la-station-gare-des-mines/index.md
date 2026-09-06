@@ -1,6 +1,6 @@
 # TEMET X FATA MORGANA at La Station - Gare des Mines
 
-TEMET X FATA MORGANA at La Station - Gare des Mines on Sat 3 Oct, Paris. 7 acts on the bill: Amnesia Scanner, Elvira, k means and Less-O and 3 more. Preview the line-up and save it on soundcheck.
+TEMET X FATA MORGANA at La Station - Gare des Mines on Sat 3 Oct, Paris. 8 acts on the bill: Amnesia Scanner, Elvira, k means and Less-O and 4 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ TEMET X FATA MORGANA at La Station - Gare des Mines on Sat 3 Oct, Paris. 7 acts 
 - k means
 - Less-O
 - Rosa Pistola
+- rxdazn
 - Simo Cell
 - Tamada
 

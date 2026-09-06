@@ -1,6 +1,6 @@
 # Electroluxx Block Party: Purple Disco Machine, RuPaul + more at The Midway
 
-Electroluxx Block Party: Purple Disco Machine, RuPaul + more at The Midway on Sat 5 Sept, Sanfrancisco. 7 acts on the bill: DJ Holographic, JLittle, Kilo and LITANY and 3 more. House. Preview the line-up and save it on soundcheck.
+Electroluxx Block Party: Purple Disco Machine, RuPaul + more at The Midway on Sat 5 Sept, Sanfrancisco. 8 acts on the bill: DJ Holographic, JLittle, Kilo and LITANY and 4 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Electroluxx Block Party: Purple Disco Machine, RuPaul + more at The Midway on Sa
 - JLittle
 - Kilo
 - LITANY
+- Lyja
 - nina sol
 - Purple Disco Machine
 - Twunkerbell

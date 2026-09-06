@@ -1,14 +1,13 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Jackson Walker Lewis (FCUKERS), Prince Josh & Milch" on Sat, 5 Sept 2026.
+Cafeteria is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Jawani 4eva - Toronto" on Sat, 12 Sept 2026.
 
-Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming nights, with line-ups including FCUKERS, Gremlinz, Indie Sleaze and Jackson Walker Lewis and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
+Cafeteria is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Gremlinz, Indie Sleaze, KAVARI and Need For Mirrors and 2 more. Browse upcoming dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Jackson Walker Lewis (FCUKERS), Prince Josh & Milch | FCUKERS, Jackson Walker Lewis, Milch (1), Prince Josh |
 | Sat, 12 Sept 2026 | Jawani 4eva - Toronto |  |
 | Fri, 18 Sept 2026 | unimmune: KAVARI | KAVARI, Outback |
 | Thu, 24 Sept 2026 | Kontravoid with Buzz Kull |  |
@@ -19,4 +18,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming nights, w
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

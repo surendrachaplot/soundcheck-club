@@ -1,14 +1,15 @@
 # Saphe
 
-Saphe is a Electro and Pop artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Elsewhere, New York City on Sat, 12 Sept 2026.
+Saphe is a Electro and Pop artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Elsewhere, New York City on Sat, 12 Sept 2026.
 
-Saphe is an electro and pop artist based in United States of America, tracked on soundcheck, with 40 sets logged across Berlin, Chicago, Detroit and London and 5 more. Often billed alongside MNSA, Nadim Maghzal and Wake Island. Next up: Elsewhere, Newyorkcity on Sat 12 Sept.
+Saphe is an electro and pop artist based in United States of America, tracked on soundcheck, with 41 sets logged across Berlin, Chicago, Detroit and London and 5 more. Often billed alongside MNSA, Nadim Maghzal and Wake Island. Next up: Elsewhere, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Elsewhere | New York City |
+| Sat, 19 Sept 2026 | Panke | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Saphe is an electro and pop artist based in United States of America, tracked on
 
 MNSA, Nadim Maghzal, Wake Island
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saphe/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saphe/)*

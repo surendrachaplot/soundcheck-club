@@ -1,6 +1,6 @@
 # ReSolute Labor Day 2026 at H0L0
 
-ReSolute Labor Day 2026 at H0L0 on Sat 5 Sept, Newyorkcity. 10 acts on the bill: Armii1n, CAMILLA, Dylan Payne and J. Richards and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
+ReSolute Labor Day 2026 at H0L0 on Sat 5 Sept, Newyorkcity. 12 acts on the bill: Armii1n, CAMILLA, Craig Richards and Dylan Payne and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ ReSolute Labor Day 2026 at H0L0 on Sat 5 Sept, Newyorkcity. 10 acts on the bill:
 
 - Armii1n
 - CAMILLA
+- Craig Richards
 - Dylan Payne
+- Gabriel Rai
 - J. Richards
 - Kurilo
 - Max Sprauer

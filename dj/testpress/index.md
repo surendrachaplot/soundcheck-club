@@ -1,8 +1,8 @@
 # t e s t p r e s s
 
-t e s t p r e s s is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
+t e s t p r e s s is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Sept 2026.
 
-t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 109 sets logged across Aberdeen, Amsterdam, Antwerp and Basel and 28 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: Lokschuppen Berlin, Berlin on Sat 12 Sept.
+t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 111 sets logged across Aberdeen, Amsterdam, Antwerp and Basel and 28 more. Often billed alongside Trancemaster Krause, Cleopard2000 and Céleste. Next up: Lokschuppen Berlin, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 109 
 | Fri, 25 Sept 2026 | The Warehouse | Leeds |
 | Sat, 3 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 9 Oct 2026 | Kilomètre25 | Paris |
+| Fri, 4 Dec 2026 | SWG3 | Glasgow |
+| Fri, 4 Dec 2026 | SWG3 | Glasgow |
 
 ## Recently played
 
@@ -30,4 +32,4 @@ t e s t p r e s s is a techno and trance artist tracked on soundcheck, with 109 
 
 Trancemaster Krause, Cleopard2000, Céleste
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/testpress/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/testpress/)*

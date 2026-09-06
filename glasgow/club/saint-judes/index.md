@@ -1,15 +1,13 @@
 # Saint Judes
 
-Saint Judes is a music venue in Glasgow with 4 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "I Am A Raver: LUGZY - Nanna Makina" on Sat, 5 Sept 2026.
+Saint Judes is a music venue in Glasgow with 2 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "I Am A Raver Over 30s" on Sat, 12 Sept 2026.
 
-Saint Judes is a music venue in Glasgow listed on soundcheck. 4 upcoming nights, with line-ups including DJ Zitkus, Lugzy and Nanna Makina. Browse upcoming dates, start times and who's playing. 190 Bath Street; Glasgow, G2 4HG; Scotland.
+Saint Judes is a music venue in Glasgow listed on soundcheck. 2 upcoming nights, with line-ups including DJ Zitkus. Browse upcoming dates, start times and who's playing. 190 Bath Street; Glasgow, G2 4HG; Scotland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | I Am A Raver: LUGZY - Nanna Makina | Lugzy, Nanna Makina |
-| Sat, 5 Sept 2026 | Archaos & Vickies Anthems |  |
 | Sat, 12 Sept 2026 | I Am A Raver Over 30s | DJ Zitkus |
 | Sat, 31 Oct 2026 | I Am A Raver Baby: Halloween | DJ Zitkus |
 
@@ -17,4 +15,4 @@ Saint Judes is a music venue in Glasgow listed on soundcheck. 4 upcoming nights,
 
 190 Bath Street; Glasgow, G2 4HG; Scotland, Glasgow
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*

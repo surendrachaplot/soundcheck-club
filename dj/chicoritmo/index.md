@@ -1,6 +1,6 @@
 # chicoritmo
 
-chicoritmo is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Departamento, Mexico City on Wed, 2 Sept 2026.
+chicoritmo is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Departamento, Mexico City on Wed, 2 Sept 2026.
 
 chicoritmo is a deep house and house artist tracked on soundcheck, with 4 sets logged across Mexicocity. Often billed alongside A Call To The Past, AAK (MX) and Alena Vox. Next up: Departamento, Mexicocity on Wed 2 Sept.
 
@@ -21,4 +21,4 @@ chicoritmo is a deep house and house artist tracked on soundcheck, with 4 sets l
 
 A Call To The Past, AAK (MX), Alena Vox
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicoritmo/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chicoritmo/)*

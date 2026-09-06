@@ -1,6 +1,6 @@
 # okadada
 
-okadada is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Heavy Sick Zero, Tokyo on Sat, 12 Sept 2026.
+okadada is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Heavy Sick Zero, Tokyo on Sat, 12 Sept 2026.
 
 okadada is a house and techno artist tracked on soundcheck, with 164 sets logged across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside FELINE (JP), Licaxxx and Sekitova. Next up: Heavy Sick Zero, Tokyo on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ okadada is a house and techno artist tracked on soundcheck, with 164 sets logged
 
 FELINE (JP), Licaxxx, Sekitova
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okadada/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okadada/)*

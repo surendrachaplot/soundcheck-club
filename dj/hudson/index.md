@@ -1,14 +1,15 @@
 # Hudson
 
-Hudson is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
+Hudson is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 12 Sept 2026.
 
-Hudson is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Detroit and Tbilisi. Often billed alongside Gio Shengelia, Hatsvali and Ash Scholem. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
+Hudson is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Detroit and Tbilisi. Often billed alongside Gio Shengelia, Hatsvali and Pasha. Next up: Northern Lights Lounge, Detroit on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Northern Lights Lounge | Detroit |
+| Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Hudson is a techno and electro artist based in United Kingdom, tracked on soundc
 
 ## Shares bills with
 
-Gio Shengelia, Hatsvali, Ash Scholem
+Gio Shengelia, Hatsvali, Pasha
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hudson/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hudson/)*

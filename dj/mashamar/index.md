@@ -1,14 +1,13 @@
 # Masha Mar
 
-Masha Mar is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at TBA - Downtown Los Angeles, Los Angeles on Sat, 5 Sept 2026.
+Masha Mar is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Fri, 11 Sept 2026.
 
-Masha Mar is a house and techno artist tracked on soundcheck, with 155 sets logged across Athens, Belgrade, Berlin and Denver and 14 more. Often billed alongside Heidi Lawden, Masha and Stacy Christine. Next up: TBA - Downtown Los Angeles, Losangeles on Sat 5 Sept.
+Masha Mar is a house and techno artist tracked on soundcheck, with 155 sets logged across Athens, Belgrade, Berlin and Denver and 14 more. Often billed alongside Heidi Lawden, Masha and Stacy Christine. Next up: TBA - Open Air: Downtown Los Angeles, Losangeles on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Fri, 11 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 | Fri, 18 Sept 2026 | District 7 | Los Angeles |
 | Sat, 19 Sept 2026 | Gin Ling Way, Chinatown | Los Angeles |
@@ -19,6 +18,7 @@ Masha Mar is a house and techno artist tracked on soundcheck, with 155 sets logg
 
 ## Recently played
 
+- TBA - Downtown Los Angeles, Los Angeles — Sat, 5 Sept 2026
 - Sneaky Pete's, Edinburgh — Fri, 28 Aug 2026
 - KOKO, London — Fri, 14 Aug 2026
 - The Bridge, Los Angeles — Sat, 8 Aug 2026
@@ -26,10 +26,9 @@ Masha Mar is a house and techno artist tracked on soundcheck, with 155 sets logg
 - Romantica, Stuttgart — Fri, 3 Jul 2026
 - KREUZWERK, Berlin — Sat, 27 Jun 2026
 - The Bridge, Los Angeles — Sat, 20 Jun 2026
-- Gateway Mendocino, San Francisco/Oakland — Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Heidi Lawden, Masha, Stacy Christine
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mashamar/)*

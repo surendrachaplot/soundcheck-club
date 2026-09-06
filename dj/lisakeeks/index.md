@@ -1,6 +1,6 @@
 # LISAKEEKS
 
-LISAKEEKS is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
+LISAKEEKS is a Hip-Hop and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Queen Elizabeth Olympic Park, London on Sat, 12 Sept 2026.
 
 LISAKEEKS is a hip-hop and club artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Glasgow and London. Often billed alongside BABY JACKZ, DotTV and TEBI TV. Next up: Queen Elizabeth Olympic Park, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ LISAKEEKS is a hip-hop and club artist based in United Kingdom, tracked on sound
 
 BABY JACKZ, DotTV, TEBI TV
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakeeks/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisakeeks/)*

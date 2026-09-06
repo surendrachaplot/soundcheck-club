@@ -1,15 +1,13 @@
 # ANNĒ
 
-ANNĒ is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at KMSKA, Antwerp on Sat, 5 Sept 2026.
+ANNĒ is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at essaim, Paris on Fri, 11 Sept 2026.
 
-ANNĒ is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: KMSKA, Antwerp on Sat 5 Sept.
+ANNĒ is a techno and house artist tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside SHDW, Sol Ortega and Alarico. Next up: essaim, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | KMSKA | Antwerp |
-| Sat, 5 Sept 2026 | Junkyard Dortmund | Dortmund-essen |
 | Fri, 11 Sept 2026 | essaim | Paris |
 | Sat, 12 Sept 2026 | TILLATEC | Amsterdam |
 | Sun, 13 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -20,20 +18,22 @@ ANNĒ is a techno and house artist tracked on soundcheck, with 183 sets logged a
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
+| Fri, 6 Nov 2026 | Bunker | Turin |
+| Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played
 
+- KMSKA, Antwerp — Sat, 5 Sept 2026
+- Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 25 Aug 2026
 - Palais, London — Sat, 22 Aug 2026
 - Yamamori Tengu, Dublin — Fri, 21 Aug 2026
 - Kømplex Lisbon, Lisbon — Sat, 15 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Hangaren, Copenhagen — Fri, 24 Jul 2026
-- Circle Park, Brussels — Sat, 4 Jul 2026
-- Sloterpark, Amsterdam — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 SHDW, Sol Ortega, Alarico
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anne/)*

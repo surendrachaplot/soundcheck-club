@@ -1,8 +1,8 @@
 # Nicky Elisabeth
 
-Nicky Elisabeth is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Colorado Charlie, The Hague on Sat, 12 Sept 2026.
+Nicky Elisabeth is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Colorado Charlie, The Hague on Sat, 12 Sept 2026.
 
-Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Jody Wisternoff and Rezident. Next up: Colorado Charlie, Thehague on Sat 12 Sept.
+Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 86 sets logged across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Jody Wisternoff and Rezident. Next up: Colorado Charlie, Thehague on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 85 sets
 | Fri, 16 Oct 2026 | Vittoria Wharf Studio | London |
 | Thu, 22 Oct 2026 | Paradiso | Amsterdam |
 | Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Fri, 4 Dec 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Nicky Elisabeth is a techno and house artist tracked on soundcheck, with 85 sets
 
 CRi, Jody Wisternoff, Rezident
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*

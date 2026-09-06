@@ -1,6 +1,6 @@
 # Acolyte
 
-Acolyte is a Experimental and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Summerhall, Edinburgh on Sun, 6 Sept 2026.
+Acolyte is a Experimental and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Summerhall, Edinburgh on Sun, 6 Sept 2026.
 
 Acolyte is an experimental and drum & bass artist tracked on soundcheck, with 12 sets logged across Edinburgh and London. Often billed alongside CATLADY, Kaizah and Zeph Miles. Next up: Summerhall, Edinburgh on Sun 6 Sept.
 
@@ -25,4 +25,4 @@ Acolyte is an experimental and drum & bass artist tracked on soundcheck, with 12
 
 CATLADY, Kaizah, Zeph Miles
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acolyte/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acolyte/)*

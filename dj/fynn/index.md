@@ -1,14 +1,13 @@
 # FYNN
 
-FYNN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Birgit, Berlin on Fri, 4 Sept 2026.
+FYNN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Herr Kauzig, Leipzig on Sat, 26 Sept 2026.
 
-FYNN is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Leipzig, Manchester and Munich and 1 more. Often billed alongside Thomas Lizzara, MARC WERNER and Lexer. Next up: Birgit, Berlin on Fri 4 Sept.
+FYNN is a techno and house artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Leipzig, Manchester and Munich and 1 more. Often billed alongside Thomas Lizzara, MARC WERNER and Lexer. Next up: TBA - Herr Kauzig, Leipzig on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Birgit | Berlin |
 | Sat, 26 Sept 2026 | TBA - Herr Kauzig | Leipzig |
 
 ## Recently played
@@ -26,4 +25,4 @@ FYNN is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 Thomas Lizzara, MARC WERNER, Lexer
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fynn/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fynn/)*

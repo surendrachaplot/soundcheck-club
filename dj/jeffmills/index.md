@@ -1,14 +1,13 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Under the K Bridge, New York City on Sat, 5 Sept 2026.
+Jeff Mills is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
-Jeff Mills is a techno and house artist tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Under the K Bridge, Newyorkcity on Sat 5 Sept.
+Jeff Mills is a techno and house artist tracked on soundcheck, with 180 sets logged across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: Bunker, Turin on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Under the K Bridge | New York City |
 | Sat, 12 Sept 2026 | Bunker | Turin |
 | Sun, 20 Sept 2026 | Vrachon Theater | Athens |
 | Sun, 27 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -16,9 +15,11 @@ Jeff Mills is a techno and house artist tracked on soundcheck, with 179 sets log
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 31 Oct 2026 | Mondo Open Air | Madrid |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
+| Fri, 4 Dec 2026 | MFCC Arena | Malta |
 
 ## Recently played
 
+- Under the K Bridge, New York City — Sat, 5 Sept 2026
 - MTELUS, Montreal — Fri, 28 Aug 2026
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
 - Flava Beach, Naples — Sat, 15 Aug 2026
@@ -26,10 +27,9 @@ Jeff Mills is a techno and house artist tracked on soundcheck, with 179 sets log
 - Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
 - Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
 - Boston Manor Park, London — Sat, 25 Jul 2026
-- fabric, London — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 DVS1, Marcel Dettmann, Helena Hauff
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

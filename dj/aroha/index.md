@@ -1,6 +1,6 @@
 # AROHA
 
-AROHA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Howler, Melbourne on Sun, 13 Sept 2026.
+AROHA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Howler, Melbourne on Sun, 13 Sept 2026.
 
 AROHA is a house and techno artist based in New Zealand, tracked on soundcheck, with 12 sets logged across Auckland, London, Melbourne and Singapore and 1 more. Often billed alongside Mike Callander, Harvey Sutherland and Out Of Sorts. Next up: Howler, Melbourne on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ AROHA is a house and techno artist based in New Zealand, tracked on soundcheck, 
 
 Mike Callander, Harvey Sutherland, Out Of Sorts
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aroha/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aroha/)*

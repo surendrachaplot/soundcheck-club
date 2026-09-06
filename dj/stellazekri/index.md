@@ -1,6 +1,6 @@
 # Stella Zekri
 
-Stella Zekri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Tresor / Globus, Berlin on Sat, 5 Sept 2026.
+Stella Zekri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Tresor / Globus, Berlin on Sat, 5 Sept 2026.
 
 Stella Zekri is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Camilla Rae, 131bpm and BASHKKA. Next up: Tresor / Globus, Berlin on Sat 5 Sept.
 
@@ -15,6 +15,7 @@ Stella Zekri is a house and techno artist tracked on soundcheck, with 182 sets l
 
 ## Recently played
 
+- Tresor / Globus, Berlin — Sat, 5 Sept 2026
 - Südpol, Hamburg — Fri, 14 Aug 2026
 - Else, Berlin — Sat, 8 Aug 2026
 - The Cause, London — Sat, 25 Jul 2026
@@ -22,10 +23,9 @@ Stella Zekri is a house and techno artist tracked on soundcheck, with 182 sets l
 - Minimüzikhol, Istanbul — Fri, 17 Jul 2026
 - NAR, Utrecht — Sat, 20 Jun 2026
 - Haus der Visionäre, Berlin — Sun, 7 Jun 2026
-- La Rotonde Stalingrad, Paris — Fri, 29 May 2026
 
 ## Shares bills with
 
 Camilla Rae, 131bpm, BASHKKA
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellazekri/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stellazekri/)*

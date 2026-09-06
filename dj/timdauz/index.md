@@ -1,6 +1,6 @@
 # Tim Dauz
 
-Tim Dauz is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Le Bain, New York City on Thu, 24 Sept 2026.
+Tim Dauz is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Le Bain, New York City on Thu, 24 Sept 2026.
 
 Tim Dauz is a deep house and tech house artist tracked on soundcheck, with 22 sets logged across Newyorkcity. Often billed alongside Vans, RICK E and TORSK. Next up: Le Bain, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Tim Dauz is a deep house and tech house artist tracked on soundcheck, with 22 se
 
 Vans, RICK E, TORSK
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timdauz/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timdauz/)*

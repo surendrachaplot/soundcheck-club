@@ -1,14 +1,13 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 24 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "NT's Loft: Todd Edwards Weekender with Monki & Majestic " on Sat, 5 Sept 2026.
+Night Tales Loft is a music venue in London with 23 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "NT's Loft: Somewhere Soul (All Night Long)" on Fri, 11 Sept 2026.
 
-Night Tales Loft is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including Anunaku, babyschön, Bridge (NY) and Budino and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
+Night Tales Loft is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including Anunaku, babyschön, Bridge (NY) and Budino and 2 more. Browse upcoming dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | NT's Loft: Todd Edwards Weekender with Monki & Majestic  | Majestic, Monki, Todd Edwards |
 | Fri, 11 Sept 2026 | NT's Loft: Somewhere Soul (All Night Long) |  |
 | Fri, 11 Sept 2026 | SOULFUEL: House, Disco, Funk & Soul |  |
 | Fri, 11 Sept 2026 | SOULFUEL: Somewhere Soul - House, Disco, Funk, Soul |  |
@@ -18,9 +17,10 @@ Night Tales Loft is a music venue in London listed on soundcheck. 24 upcoming ni
 | Fri, 25 Sept 2026 | NT's Loft: Tonno Disko & Friends | Jamie 3:26, Leroy Rey, Tonno Disko |
 | Sat, 26 Sept 2026 | Origins: Club Angel + more | Club Angel |
 | Fri, 2 Oct 2026 | NT's Loft: n4tee, ELOQ, DAISY | DAISY, ELOQ, ESC (5), n4tee |
+| Sat, 3 Oct 2026 | NT's Loft: John Tejada & De La Reef | De La Reef, John Tejada |
 
 ## Address
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*

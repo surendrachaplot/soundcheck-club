@@ -1,14 +1,14 @@
 # SPCL.K
 
-SPCL.K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at 618 DC, Washington DC on Sun, 6 Sept 2026.
+SPCL.K is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, Washington DC on Sun, 6 Sept 2026.
 
-SPCL.K is a house and techno artist based in United States of America, tracked on soundcheck, with 117 sets logged across Austin, Detroit, Miami and Newyorkcity and 2 more. Often billed alongside Eric Yaz, Cassia and Neko Berg. Next up: 618 DC, Washingtondc on Sun 6 Sept.
+SPCL.K is a house and techno artist based in United States of America, tracked on soundcheck, with 117 sets logged across Austin, Detroit, Miami and Newyorkcity and 2 more. Often billed alongside Eric Yaz, Cassia and Neko Berg. Next up: TBA, Washingtondc on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | 618 DC | Washington DC |
+| Sun, 6 Sept 2026 | TBA | Washington DC |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ SPCL.K is a house and techno artist based in United States of America, tracked o
 
 Eric Yaz, Cassia, Neko Berg
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spcl.k/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spcl.k/)*

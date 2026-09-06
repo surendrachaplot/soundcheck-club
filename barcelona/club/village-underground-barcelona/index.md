@@ -1,14 +1,13 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 6 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "The Ghost + Heels&Souls + PolK (Groove Grill)" on Sat, 5 Sept 2026.
+Village Underground Barcelona is a music venue in Barcelona with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "[Open air- Warehouse] MIRADOR & PERROS" on Sat, 12 Sept 2026.
 
-Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 6 upcoming nights, with line-ups including Albal, Alex Picone, Anah and C.ru.z and 2 more. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
+Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming nights, with line-ups including Albal, Alex Picone, Anah and C.ru.z and 2 more. Browse upcoming dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | The Ghost + Heels&Souls + PolK (Groove Grill) | Cortazar, Heels & Souls, Orson Sinaka, Pol K, The Ghost |
 | Sat, 12 Sept 2026 | [Open air- Warehouse] MIRADOR & PERROS | Alex Picone, Anah, Heather (ES), Nurias, Perro Jimbo, VARAN, VIKk |
 | Sat, 19 Sept 2026 | ESCANDALO Day & Night (12hrs) | Albal, HEDDA, VOID/DIVO, Wigs |
 | Sat, 26 Sept 2026 | Haus of Welcome Invites: | Floyd Lavine, Richard Creams |
@@ -19,4 +18,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

@@ -1,14 +1,13 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 18 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "PIKES PRESENTS AT 528 WITH Hunee b2b Erol Alkan b2b Luke Una" on Sat, 5 Sept 2026.
+528 Ibiza is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO" on Tue, 8 Sept 2026.
 
-528 Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming nights, with line-ups including Kepler, Paula Tape, ALEXANDER M and Alex M.O.R.P.H. and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
+528 Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming nights, with line-ups including Kepler, ALEXANDER M, Alex M.O.R.P.H. and Aly & Fila and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | PIKES PRESENTS AT 528 WITH Hunee b2b Erol Alkan b2b Luke Una | CC:DISCO!, Claudio Ricci, Defex, Elisa Elisa, Erol Alkan, Forest (PL), Hunee, Luca Averna, Luke Una, Paula Tape |
 | Tue, 8 Sept 2026 | PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO | Bushwacka!, Ceri, Cici, Forest (PL), Groove Armada, Mia Lypso, Prosumer, TEED |
 | Sat, 12 Sept 2026 | PIKES PRESENTS AT 528 WITH Kruder & Dorfmeister | Defex, Funk D'Void, George FitzGerald, Kruder & Dorfmeister, TSODOR |
 | Sun, 13 Sept 2026 | NEXUP with Max Dean | Max Dean |
@@ -18,9 +17,10 @@
 | Sun, 20 Sept 2026 | KALUKI IBIZA | Jamie Fielding, Kitty Hall, Pirate Copy, Ranger Trucco, Tommy Phillips |
 | Tue, 22 Sept 2026 | PIKES PRESENTS AT 528 WITH Hot Chip | Crazy P, Forest (PL), Hot Chip, Justin Robertson, Samsön, Santacreu, Zlata |
 | Wed, 23 Sept 2026 | Cocoon 528 Ibiza | Cassy, Cesar Vinzent, DJ Hell, Franziska Berns, Julya Karma, Marie Montexier, Richie Hawtin, Sublee, Sven Vath, Victoria Arena |
+| Thu, 24 Sept 2026 | SHINE IBIZA | Alex M.O.R.P.H., Aly & Fila, Ciaran McAuley, Edele Andaya, Paul Van Dyk, Seb Fontaine, Stephen Kirkwood |
 
 ## Address
 
 Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain, Ibiza
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*

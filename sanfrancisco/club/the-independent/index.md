@@ -1,6 +1,6 @@
 # The Independent
 
-The Independent is a music venue in San Francisco/Oakland with 11 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Rules" on Thu, 10 Sept 2026.
+The Independent is a music venue in San Francisco/Oakland with 11 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Rules" on Thu, 10 Sept 2026.
 
 The Independent is a music venue in Sanfrancisco listed on soundcheck. 11 upcoming nights, with line-ups including Arlo, BL3SS, Cut Chemist and Daniel Avery and 2 more. Browse upcoming dates, start times and who's playing. 628 Divisadero Street, San Francisco, CA, United States.
 
@@ -23,4 +23,4 @@ The Independent is a music venue in Sanfrancisco listed on soundcheck. 11 upcomi
 
 628 Divisadero Street, San Francisco, CA, United States, San Francisco/Oakland
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*

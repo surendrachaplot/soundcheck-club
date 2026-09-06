@@ -1,6 +1,6 @@
 # Sneaker
 
-Sneaker is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Sameheads, Berlin on Fri, 18 Sept 2026.
+Sneaker is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Sameheads, Berlin on Fri, 18 Sept 2026.
 
 Sneaker is a house and acid artist tracked on soundcheck, with 32 sets logged across Austin, Berlin, Bucharest and Chicago and 11 more. Often billed alongside Joshua Cordova, Scott Zacharias and Traxx. Next up: Sameheads, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Sneaker is a house and acid artist tracked on soundcheck, with 32 sets logged ac
 
 Joshua Cordova, Scott Zacharias, Traxx
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sneaker/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sneaker/)*

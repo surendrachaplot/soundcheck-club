@@ -1,14 +1,13 @@
 # Erick E
 
-Erick E is a House and Acid artist with 9 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Paal69, Amsterdam on Fri, 4 Sept 2026.
+Erick E is a House and Acid artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
-Erick E is a house and acid artist based in Netherlands, tracked on soundcheck, with 62 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Paal69, Amsterdam on Fri 4 Sept.
+Erick E is a house and acid artist based in Netherlands, tracked on soundcheck, with 62 sets logged across Amsterdam, Rotterdam, Thehague and Utrecht. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Paal69 | Amsterdam |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 | Sun, 13 Sept 2026 | Millers Beach | The Hague |
 | Sat, 3 Oct 2026 | Ijland | Amsterdam |
@@ -33,4 +32,4 @@ Erick E is a house and acid artist based in Netherlands, tracked on soundcheck, 
 
 ROOG, Alexander Koning, Lucien Foort
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*

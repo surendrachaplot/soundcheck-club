@@ -1,19 +1,19 @@
 # Max Watts
 
-Max Watts is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Tigris, Detroit on Sat, 5 Sept 2026.
+Max Watts is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Moondog Cafe, Detroit on Fri, 11 Sept 2026.
 
-Max Watts is a techno and house artist tracked on soundcheck, with 101 sets logged across Berlin, Chicago, Detroit and London and 9 more. Often billed alongside Sugar (4), Miguel Cisne and MGUN. Next up: Tigris, Detroit on Sat 5 Sept.
+Max Watts is a techno and house artist tracked on soundcheck, with 101 sets logged across Berlin, Chicago, Detroit and London and 9 more. Often billed alongside Sugar (4), Miguel Cisne and MGUN. Next up: Moondog Cafe, Detroit on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Tigris | Detroit |
 | Fri, 11 Sept 2026 | Moondog Cafe | Detroit |
 | Thu, 17 Sept 2026 | Trans-Pecos | New York City |
 
 ## Recently played
 
+- Tigris, Detroit — Sat, 5 Sept 2026
 - 314 Scholes, New York City — Fri, 21 Aug 2026
 - Northern Lights Lounge, Detroit — Sat, 6 Jun 2026
 - Tangent Gallery, Detroit — Mon, 25 May 2026
@@ -21,10 +21,9 @@ Max Watts is a techno and house artist tracked on soundcheck, with 101 sets logg
 - Tangent Gallery, Detroit — Sat, 23 May 2026
 - Tangent Gallery, Detroit — Thu, 21 May 2026
 - Knockdown Center, New York City — Thu, 14 May 2026
-- Random Sample, Nashville — Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Sugar (4), Miguel Cisne, MGUN
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwatts/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwatts/)*

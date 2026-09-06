@@ -1,14 +1,13 @@
 # Ōdiobā
 
-Ōdiobā is a music venue in Manchester with 11 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Ōdiobā: A Late Night Party In A Loft" on Sat, 5 Sept 2026.
+Ōdiobā is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Ōdiobā: Paul East, Open Your Ears" on Sun, 6 Sept 2026.
 
-Ōdiobā is a music venue in Manchester listed on soundcheck. 11 upcoming nights, with line-ups including Abby Harris and Sharayda. Browse upcoming dates, start times and who's playing. 26 Lower Hillgate, Stockport SK1 1JE.
+Ōdiobā is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Abby Harris and Sharayda. Browse upcoming dates, start times and who's playing. 26 Lower Hillgate, Stockport SK1 1JE.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Ōdiobā: A Late Night Party In A Loft |  |
 | Sun, 6 Sept 2026 | Ōdiobā: Paul East, Open Your Ears |  |
 | Wed, 9 Sept 2026 | Ōdiobā: Open Decks |  |
 | Fri, 11 Sept 2026 | Ōdiobā: Old Pal |  |
@@ -18,9 +17,10 @@
 | Fri, 18 Sept 2026 | Ōdiobā: Abby Harris | Abby Harris |
 | Sat, 19 Sept 2026 | Ōdiobā: A Late Night Party In A Loft |  |
 | Sun, 20 Sept 2026 | Ōdiobā: Passing Element |  |
+| Fri, 25 Sept 2026 | Ōdiobā: Sharayda | Sharayda |
 
 ## Address
 
 26 Lower Hillgate, Stockport SK1 1JE, Manchester
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/diob/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/diob/)*

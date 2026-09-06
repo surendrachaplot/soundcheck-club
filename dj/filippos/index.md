@@ -1,19 +1,19 @@
 # Filippos
 
-Filippos is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Olympic Athletic Center of Athens, Athens on Sat, 5 Sept 2026.
+Filippos is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Grande Bounty, Athens on Sun, 13 Sept 2026.
 
-Filippos is a house and disco artist based in Greece, tracked on soundcheck, with 8 sets logged across Athens and Istanbul. Often billed alongside MÅNGATA, Bedouin and Orkun Bozdemir. Next up: Olympic Athletic Center of Athens, Athens on Sat 5 Sept.
+Filippos is a house and disco artist based in Greece, tracked on soundcheck, with 8 sets logged across Athens and Istanbul. Often billed alongside MÅNGATA, Bedouin and Orkun Bozdemir. Next up: Grande Bounty, Athens on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Olympic Athletic Center of Athens | Athens |
 | Sun, 13 Sept 2026 | Grande Bounty | Athens |
 | Sun, 20 Sept 2026 | TBA | Athens |
 
 ## Recently played
 
+- Olympic Athletic Center of Athens, Athens — Sat, 5 Sept 2026
 - Burger Disco Club, Athens — Sun, 23 Nov 2025
 - Universe Athens, Athens — Sat, 12 Apr 2025
 - Zed Athens, Athens — Sat, 1 Feb 2025
@@ -24,4 +24,4 @@ Filippos is a house and disco artist based in Greece, tracked on soundcheck, wit
 
 MÅNGATA, Bedouin, Orkun Bozdemir
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filippos/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filippos/)*

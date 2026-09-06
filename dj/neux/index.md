@@ -1,8 +1,8 @@
 # NEUX
 
-NEUX is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
+NEUX is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
 
-NEUX is a techno and electro artist tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: KHIDI, Tbilisi on Fri 11 Sept.
+NEUX is a techno and electro artist tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: KHIDI, Tbilisi on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NEUX is a techno and electro artist tracked on soundcheck, with 72 sets logged a
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | KHIDI | Tbilisi |
 | Sat, 19 Sept 2026 | E1 | London |
+| Fri, 4 Dec 2026 | MFCC Arena | Malta |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ NEUX is a techno and electro artist tracked on soundcheck, with 72 sets logged a
 
 Ben Klock, Sevda, Vulkanski
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*

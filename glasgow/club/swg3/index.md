@@ -1,8 +1,8 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 25 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "NIGHTVISION Presents: Funk Tribu" on Fri, 18 Sept 2026.
+SWG3 is a music venue in Glasgow with 27 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "NIGHTVISION Presents: Funk Tribu" on Fri, 18 Sept 2026.
 
-SWG3 is a music venue in Glasgow listed on soundcheck. 25 upcoming nights, with line-ups including Above & Beyond, Alexandria, Archie Hamilton and AXION and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+SWG3 is a music venue in Glasgow listed on soundcheck. 27 upcoming nights, with line-ups including Above & Beyond, Alexandria, AMMARA and Archie Hamilton and 2 more. Browse upcoming dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 
@@ -23,4 +23,4 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 25 upcoming nights, with 
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

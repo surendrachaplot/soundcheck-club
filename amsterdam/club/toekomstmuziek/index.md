@@ -1,6 +1,6 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Sat, 5 Sept 2026; the next is "Føler x LINKD x Toekomstmuziek minifestival" on Sat, 5 Sept 2026.
+Toekomstmuziek is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Omnibus w/ Bruno Schmidt" on Fri, 11 Sept 2026.
 
 Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Alex Breitling, ALLKNIGHT, Alycia Bezgo and Amøn and 2 more. Browse upcoming dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
@@ -8,10 +8,10 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 15 upcoming n
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Føler x LINKD x Toekomstmuziek minifestival | AUTOFLOWER, Michel de Hey |
 | Fri, 11 Sept 2026 | Omnibus w/ Bruno Schmidt | Bruno Schmidt, Combined Type |
 | Fri, 11 Sept 2026 | The Pink Room | Initials, Karmon, Peak w/ Vic, Vanell, Zagur |
 | Sat, 12 Sept 2026 | Ritual |  |
+| Fri, 25 Sept 2026 | INCIDENCE REVIVAL EDITION W/ SANZU, MOMAY, LOWER & MORE |  |
 | Sat, 26 Sept 2026 | Sandunga Clubnight | Lidia Lo, Niklas Becher, UriBlanch |
 | Fri, 2 Oct 2026 | UNTIED | Drabes, LIKE61, Meestro |
 | Fri, 9 Oct 2026 | VOLTEX w/ Lex Eco, Aimi, Kategia b2b Taylor Taylor | Lex Eco, Taylor Taylor |
@@ -23,4 +23,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 15 upcoming n
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

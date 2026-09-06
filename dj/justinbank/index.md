@@ -1,6 +1,6 @@
 # Justin Bank
 
-Justin Bank is a Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Frame, Dublin on Sat, 26 Sept 2026.
+Justin Bank is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Frame, Dublin on Sat, 26 Sept 2026.
 
 Justin Bank is a techno artist tracked on soundcheck, with 7 sets logged across Dublin. Often billed alongside Billy Gillies, Chris Flannigan and Derv. Next up: Frame, Dublin on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Justin Bank is a techno artist tracked on soundcheck, with 7 sets logged across 
 
 Billy Gillies, Chris Flannigan, Derv
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinbank/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinbank/)*

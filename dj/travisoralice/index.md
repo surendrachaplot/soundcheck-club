@@ -1,6 +1,6 @@
 # Travis or Alice
 
-Travis or Alice is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sat, 5 Sept 2026, next at Club der Visionaere, Berlin on Fri, 18 Sept 2026.
+Travis or Alice is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Club der Visionaere, Berlin on Fri, 18 Sept 2026.
 
 Travis or Alice is a house and techno artist based in Ukraine, tracked on soundcheck, with 31 sets logged across Berlin, London and Warsaw. Often billed alongside Adelina, Frozilla and Habitat Shaking. Next up: Club der Visionaere, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Travis or Alice is a house and techno artist based in Ukraine, tracked on soundc
 
 Adelina, Frozilla, Habitat Shaking
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/travisoralice/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/travisoralice/)*

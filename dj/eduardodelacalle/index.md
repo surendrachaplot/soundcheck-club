@@ -1,19 +1,20 @@
 # Eduardo de la Calle
 
-Eduardo de la Calle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sat, 5 Sept 2026, next at Signal, New York City on Sat, 5 Sept 2026.
+Eduardo de la Calle is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Flash, Washington DC on Sun, 6 Sept 2026.
 
-Eduardo de la Calle is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Boston and Brussels and 19 more. Often billed alongside Cosmo (KR), Edward and Konstantin. Next up: Signal, Newyorkcity on Sat 5 Sept.
+Eduardo de la Calle is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Boston and Brussels and 20 more. Often billed alongside Cosmo (KR), Konstantin and Map.ache. Next up: Flash, Washingtondc on Sun 6 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Signal | New York City |
 | Sun, 6 Sept 2026 | Flash | Washington DC |
+| Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 
+- Signal, New York City — Sat, 5 Sept 2026
 - Else, Berlin — Fri, 4 Sept 2026
 - Funke, Ghent — Fri, 21 Aug 2026
 - TBA - La Louverie, Paris — Thu, 13 Aug 2026
@@ -21,10 +22,9 @@ Eduardo de la Calle is a techno and house artist tracked on soundcheck, with 48 
 - Lx Factory, Lisbon — Thu, 6 Aug 2026
 - RSO.BERLIN, Berlin — Sat, 11 Jul 2026
 - DURO, Milan — Fri, 19 Jun 2026
-- TBA - East Williamsburg, New York City — Sat, 30 May 2026
 
 ## Shares bills with
 
-Cosmo (KR), Edward, Konstantin
+Cosmo (KR), Konstantin, Map.ache
 
-*Updated Sat, 5 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*
+*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*
