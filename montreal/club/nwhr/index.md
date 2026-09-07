@@ -1,14 +1,13 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Speakeasy" on Sun, 6 Sept 2026.
+NWHR is a music venue in Montreal with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "NWHR invites Moti // Vie Vausage // Julian Vasquez" on Fri, 11 Sept 2026.
 
-NWHR is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with line-ups including Boomy, Brian Cuta, Kris Tin and Manolow and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
+NWHR is a music venue in Montreal listed on soundcheck. 5 upcoming nights, with line-ups including Boomy, Brian Cuta, Kris Tin and Manolow and 2 more. Browse upcoming dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Speakeasy |  |
 | Fri, 11 Sept 2026 | NWHR invites Moti // Vie Vausage // Julian Vasquez | Moti (CR), Vie Sauvage |
 | Sat, 12 Sept 2026 | NWHR invites Kris Tin // Manolow // MISTINGO | Kris Tin, MISTINGO, Manolow |
 | Fri, 18 Sept 2026 | NWHR invites Axel // Boomy // Racil | Boomy, Racil |
@@ -19,4 +18,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 6 upcoming nights, with 
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

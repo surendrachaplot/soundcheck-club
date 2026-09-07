@@ -1,14 +1,13 @@
 # Kidcat
 
-Kidcat is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Pleasure Patterns, Berlin on Sat, 5 Sept 2026.
+Kidcat is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at OXI, Berlin on Sat, 19 Sept 2026.
 
-Kidcat is a techno and progressive house artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: Pleasure Patterns, Berlin on Sat 5 Sept.
+Kidcat is a techno and progressive house artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: OXI, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Pleasure Patterns | Berlin |
 | Sat, 19 Sept 2026 | OXI | Berlin |
 | Thu, 29 Oct 2026 | TORTE BAR | Berlin |
 
@@ -27,4 +26,4 @@ Kidcat is a techno and progressive house artist based in Germany, tracked on sou
 
 ilbroccolovolante, Jimmie, zikade
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*

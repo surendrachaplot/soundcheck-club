@@ -1,6 +1,6 @@
 # Giorgia Angiuli
 
-Giorgia Angiuli is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at E1, London on Fri, 23 Oct 2026.
+Giorgia Angiuli is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at E1, London on Fri, 23 Oct 2026.
 
 Giorgia Angiuli is a techno and tech house artist tracked on soundcheck, with 67 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Lino Fuso, Cambric and Indira Paganotto. Next up: E1, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Giorgia Angiuli is a techno and tech house artist tracked on soundcheck, with 67
 
 Lino Fuso, Cambric, Indira Paganotto
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*

@@ -1,6 +1,6 @@
 # The Mash House
 
-The Mash House is a music venue in Edinburgh with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Arcadia IV: Freshers Special" on Thu, 17 Sept 2026.
+The Mash House is a music venue in Edinburgh with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Arcadia IV: Freshers Special" on Thu, 17 Sept 2026.
 
 The Mash House is a music venue in Edinburgh listed on soundcheck. 5 upcoming nights, with line-ups including YVI, CLEAR UK, Dan Jakson and DJP (1) and 2 more. Browse upcoming dates, start times and who's playing. 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom.
 
@@ -18,4 +18,4 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 5 upcoming ni
 
 37 Guthrie Street, Edinburgh, EH1 1JQ, Scotland, United Kingdom, Edinburgh
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-mash-house/)*

@@ -1,6 +1,6 @@
 # THNTS
 
-THNTS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at ://about blank, Berlin on Sat, 17 Oct 2026.
+THNTS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at ://about blank, Berlin on Sat, 17 Oct 2026.
 
 THNTS is a techno and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin, Leipzig, London and Tbilisi. Often billed alongside Reka Zalan, Rodmin and Hang Aoki. Next up: ://about blank, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ THNTS is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Reka Zalan, Rodmin, Hang Aoki
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thnts/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thnts/)*

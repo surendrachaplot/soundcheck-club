@@ -1,6 +1,6 @@
 # Takao
 
-Takao is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at WWW, Tokyo on Thu, 17 Sept 2026.
+Takao is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at WWW, Tokyo on Thu, 17 Sept 2026.
 
 Takao is an electronica and experimental artist tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside Tasho Ishi, meweta and shinnosukeohira. Next up: WWW, Tokyo on Thu 17 Sept.
 
@@ -18,4 +18,4 @@ Takao is an electronica and experimental artist tracked on soundcheck, with 2 se
 
 Tasho Ishi, meweta, shinnosukeohira
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takao/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takao/)*

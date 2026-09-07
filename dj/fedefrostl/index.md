@@ -1,8 +1,8 @@
 # Fede Frostl
 
-Fede Frostl is a Progressive House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Kramladen, Vienna on Sat, 12 Sept 2026.
+Fede Frostl is a Progressive House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Kramladen, Vienna on Sat, 12 Sept 2026.
 
-Fede Frostl is a progressive house and electronica artist tracked on soundcheck, with 96 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 3 more. Often billed alongside Edictum, Noe Bortolussi and Daniel Darkhofer. Next up: Kramladen, Vienna on Sat 12 Sept.
+Fede Frostl is a progressive house and electronica artist tracked on soundcheck, with 97 sets logged across Amsterdam, Barcelona, Budapest and Buenosaires and 3 more. Often billed alongside Edictum, Noe Bortolussi and Daniel Darkhofer. Next up: Kramladen, Vienna on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Fede Frostl is a progressive house and electronica artist tracked on soundcheck,
 | Sat, 26 Sept 2026 | Kassa Boat | Budapest |
 | Fri, 2 Oct 2026 | Jaz in the City | Vienna |
 | Sat, 21 Nov 2026 | Jaz in the City | Vienna |
+| Sat, 5 Dec 2026 | Jaz in the City | Vienna |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Fede Frostl is a progressive house and electronica artist tracked on soundcheck,
 
 Edictum, Noe Bortolussi, Daniel Darkhofer
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefrostl/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fedefrostl/)*

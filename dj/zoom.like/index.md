@@ -1,6 +1,6 @@
 # Zoom.Like
 
-Zoom.Like is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Lost Weekend, Munich on Sat, 12 Sept 2026.
+Zoom.Like is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Lost Weekend, Munich on Sat, 12 Sept 2026.
 
 Zoom.Like is a house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Frankfurt and Munich. Often billed alongside ASK:ME, Alfred Heinrichs and Alignment. Next up: Lost Weekend, Munich on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Zoom.Like is a house artist based in Germany, tracked on soundcheck, with 7 sets
 
 ASK:ME, Alfred Heinrichs, Alignment
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoom.like/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zoom.like/)*

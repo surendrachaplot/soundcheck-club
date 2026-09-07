@@ -1,14 +1,13 @@
 # Bryan Gee
 
-Bryan Gee is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Bryan Gee is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
-Bryan Gee is a drum & bass and jungle artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 19 more. Often billed alongside Dillinja, IC3 and Jumping Jack Frost. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Bryan Gee is a drum & bass and jungle artist tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 19 more. Often billed alongside Dillinja, IC3 and Jumping Jack Frost. Next up: Sawmills, Bristol on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
 | Fri, 9 Oct 2026 | The Bongo Club | Edinburgh |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
@@ -29,4 +28,4 @@ Bryan Gee is a drum & bass and jungle artist tracked on soundcheck, with 103 set
 
 Dillinja, IC3, Jumping Jack Frost
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bryangee/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bryangee/)*

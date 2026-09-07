@@ -1,6 +1,6 @@
 # Cuba (PT)
 
-Cuba (PT) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Switch, Porto on Fri, 25 Sept 2026.
+Cuba (PT) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Switch, Porto on Fri, 25 Sept 2026.
 
 Cuba (PT) is a house and techno artist tracked on soundcheck, with 53 sets logged across Hamburg, Lisbon, Mexicocity and Porto. Often billed alongside Miguel Nery, Jean Mauj and Klin Klop. Next up: Switch, Porto on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Cuba (PT) is a house and techno artist tracked on soundcheck, with 53 sets logge
 
 Miguel Nery, Jean Mauj, Klin Klop
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba-pt/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba-pt/)*

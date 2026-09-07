@@ -1,13 +1,14 @@
 # Luca Lozano
 
-Luca Lozano is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Outer Heaven, New York City on Sat, 19 Sept 2026.
+Luca Lozano is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Outer Heaven, New York City on Fri, 18 Sept 2026.
 
-Luca Lozano is a house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 38 more. Often billed alongside Mr. Ho, Mogwaa and Omega III. Next up: Outer Heaven, Newyorkcity on Sat 19 Sept.
+Luca Lozano is a house and techno artist tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 38 more. Often billed alongside Mr. Ho, Mogwaa and Omega III. Next up: Outer Heaven, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Outer Heaven | New York City |
 | Sat, 19 Sept 2026 | Outer Heaven | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Luca Lozano is a house and techno artist tracked on soundcheck, with 101 sets lo
 
 Mr. Ho, Mogwaa, Omega III
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalozano/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalozano/)*

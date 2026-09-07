@@ -1,6 +1,6 @@
 # GNRØ
 
-GNRØ is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Sala Groove, Madrid on Sat, 3 Oct 2026.
+GNRØ is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sala Groove, Madrid on Sat, 3 Oct 2026.
 
 GNRØ is a techno and hardcore artist tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Dusseldorf and 6 more. Often billed alongside Gaston Zani, CESAR ALMENA and Fhiga. Next up: Sala Groove, Madrid on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ GNRØ is a techno and hardcore artist tracked on soundcheck, with 25 sets logged
 
 Gaston Zani, CESAR ALMENA, Fhiga
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gnro/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gnro/)*

@@ -1,6 +1,6 @@
 # Celeste
 
-Celeste is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "KRACHKLUB" on Fri, 18 Sept 2026.
+Celeste is a music venue in Vienna with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "KRACHKLUB" on Fri, 18 Sept 2026.
 
 Celeste is a music venue in Vienna listed on soundcheck. 1 upcoming night, with line-ups including COBRA, WO.IZZY and ZEQ (1). Browse upcoming dates, start times and who's playing. Hamburgerstrasse 18, 1050 Vienna; Austria.
 
@@ -14,4 +14,4 @@ Celeste is a music venue in Vienna listed on soundcheck. 1 upcoming night, with 
 
 Hamburgerstrasse 18, 1050 Vienna; Austria, Vienna
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*

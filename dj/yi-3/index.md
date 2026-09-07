@@ -1,6 +1,6 @@
 # Yi (3)
 
-Yi (3) is a House and New Wave artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 18 Sept 2026.
+Yi (3) is a House and New Wave artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 18 Sept 2026.
 
 Yi (3) is a house and new wave artist tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside Adam Trace, Amber Ferraro and Emil LP. Next up: Angel Music Bar, Melbourne on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Yi (3) is a house and new wave artist tracked on soundcheck, with 3 sets logged 
 
 Adam Trace, Amber Ferraro, Emil LP
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yi-3/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yi-3/)*

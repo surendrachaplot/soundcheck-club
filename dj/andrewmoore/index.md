@@ -1,6 +1,6 @@
 # Andrew Moore
 
-Andrew Moore is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
+Andrew Moore is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
 
 Andrew Moore is a techno and house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Bangkok, Berlin, Cologne and Glasgow and 6 more. Often billed alongside PLATTER, Echoes Of October and Inverse Element. Next up: KREUZWERK, Berlin on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Andrew Moore is a techno and house artist based in United Kingdom, tracked on so
 
 PLATTER, Echoes Of October, Inverse Element
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewmoore/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewmoore/)*

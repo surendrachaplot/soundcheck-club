@@ -1,6 +1,6 @@
 # VIZANO
 
-VIZANO is a Deep House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Secret Location, London on Sat, 10 Oct 2026.
+VIZANO is a Deep House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Secret Location, London on Sat, 10 Oct 2026.
 
 VIZANO is a deep house and afro tech artist tracked on soundcheck, with 3 sets logged across Ibiza and London. Often billed alongside Alay, Amu (1) and GiZ. Next up: Secret Location, London on Sat 10 Oct.
 
@@ -19,4 +19,4 @@ VIZANO is a deep house and afro tech artist tracked on soundcheck, with 3 sets l
 
 Alay, Amu (1), GiZ
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vizano/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vizano/)*

@@ -1,8 +1,8 @@
-# TheMuffinMan
+# The Muffin Man
 
-TheMuffinMan is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
+The Muffin Man is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
 
-TheMuffinMan is a techno and trance artist based in Italy, tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Athens and Basel and 25 more. Often billed alongside Funk Tribu, JOKESONYOU and TEDESCO. Next up: OXI, Berlin on Sat 12 Sept.
+The Muffin Man is a techno and trance artist based in Italy, tracked on soundcheck, with 83 sets logged across Amsterdam, Antwerp, Athens and Basel and 25 more. Often billed alongside Funk Tribu, JOKESONYOU and TEDESCO. Next up: OXI, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ TheMuffinMan is a techno and trance artist based in Italy, tracked on soundcheck
 
 Funk Tribu, JOKESONYOU, TEDESCO
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themuffinman/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themuffinman/)*

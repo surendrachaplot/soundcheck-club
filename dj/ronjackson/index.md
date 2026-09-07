@@ -1,6 +1,6 @@
 # Ron Jackson
 
-Ron Jackson is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Ron Jackson is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
 Ron Jackson is a techno and house artist tracked on soundcheck, with 10 sets logged across Bangkok and Washingtondc. Often billed alongside Associate, Juana and JADE CAO. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washingtondc on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Ron Jackson is a techno and house artist tracked on soundcheck, with 10 sets log
 
 Associate, Juana, JADE CAO
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronjackson/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronjackson/)*

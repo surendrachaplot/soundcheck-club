@@ -1,6 +1,6 @@
 # Alejandro Mosso
 
-Alejandro Mosso is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Alejandro Mosso is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Alejandro Mosso is an electronica and house artist based in Argentina, tracked on soundcheck, with 15 sets logged across Barcelona, Berlin, Geneva and Ibiza and 1 more. Often billed alongside Benjamin Fehr, Lenny Mailleau and Mad Dim. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Alejandro Mosso is an electronica and house artist based in Argentina, tracked o
 
 Benjamin Fehr, Lenny Mailleau, Mad Dim
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandromosso/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandromosso/)*

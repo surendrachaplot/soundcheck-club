@@ -1,6 +1,6 @@
 # Moxes
 
-Moxes is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
+Moxes is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
 
 Moxes is a house and tech house artist tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Dusseldorf and Ibiza and 3 more. Often billed alongside Emvae, Essy and Kyra Khaldi. Next up: Het Rijk van de Keizer, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Moxes is a house and tech house artist tracked on soundcheck, with 62 sets logge
 
 Emvae, Essy, Kyra Khaldi
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*

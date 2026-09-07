@@ -1,6 +1,6 @@
 # Holger Hecler
 
-Holger Hecler is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Lux Fragil, Lisbon on Thu, 17 Sept 2026.
+Holger Hecler is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Lux Fragil, Lisbon on Thu, 17 Sept 2026.
 
 Holger Hecler is a deep house and house artist tracked on soundcheck, with 21 sets logged across Berlin, Hamburg, Lisbon and Saopaulo. Often billed alongside impropper, Mâhfoud and Miro (PT). Next up: Lux Fragil, Lisbon on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Holger Hecler is a deep house and house artist tracked on soundcheck, with 21 se
 
 impropper, Mâhfoud, Miro (PT)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holgerhecler/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/holgerhecler/)*

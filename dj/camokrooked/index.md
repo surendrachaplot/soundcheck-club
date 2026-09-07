@@ -1,19 +1,19 @@
 # Camo & Krooked
 
-Camo & Krooked is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Camo & Krooked is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Eatons Hill Hotel and Function Centre, Brisbane on Sat, 26 Sept 2026.
 
-Camo & Krooked are a drum & bass and jungle duo tracked on soundcheck, with 75 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Camo & Krooked are a drum & bass and jungle duo tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Mefjus, Disrupta and Kanine. Next up: Eatons Hill Hotel and Function Centre, Brisbane on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 26 Sept 2026 | Eatons Hill Hotel and Function Centre | Brisbane |
 | Sat, 3 Oct 2026 | The Trusts Stadium | Auckland |
 | Mon, 5 Oct 2026 | The Ivy | Sydney |
 | Fri, 9 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 30 Oct 2026 | Ministry Of Sound | London |
+| Sat, 5 Dec 2026 | La Riviera | Madrid |
 
 ## Recently played
 
@@ -30,4 +30,4 @@ Camo & Krooked are a drum & bass and jungle duo tracked on soundcheck, with 75 s
 
 Mefjus, Disrupta, Kanine
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*

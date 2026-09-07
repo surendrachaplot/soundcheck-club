@@ -1,6 +1,6 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 14 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "R&R by SHERELLE - The Carpet Shop" on Thu, 10 Sept 2026.
+The Carpet Shop is a music venue in London with 14 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "R&R by SHERELLE - The Carpet Shop" on Thu, 10 Sept 2026.
 
 The Carpet Shop is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including 2xAA, Alexander Nut, Cleveland Watkiss and Curses and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 14 upcoming nig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

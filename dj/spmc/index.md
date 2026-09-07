@@ -1,14 +1,13 @@
 # SP:MC
 
-SP:MC is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+SP:MC is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Colour Factory, London on Fri, 11 Sept 2026.
 
-SP:MC is a drum & bass and jungle artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Auckland and Basel and 22 more. Often billed alongside Skeptical, Alix Perez and Breakage. Next up: UNO MALTA, Malta on Thu 3 Sept.
+SP:MC is a drum & bass and jungle artist tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Auckland and Basel and 22 more. Often billed alongside Skeptical, Alix Perez and Breakage. Next up: Colour Factory, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Fri, 11 Sept 2026 | Colour Factory | London |
 | Fri, 25 Sept 2026 | EartH | London |
 | Fri, 2 Oct 2026 | The Loom | San Francisco/Oakland |
@@ -30,4 +29,4 @@ SP:MC is a drum & bass and jungle artist tracked on soundcheck, with 153 sets lo
 
 Skeptical, Alix Perez, Breakage
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spmc/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spmc/)*

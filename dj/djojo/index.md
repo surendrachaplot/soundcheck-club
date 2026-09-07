@@ -1,6 +1,6 @@
 # DJ ojo
 
-DJ ojo is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Secret Location Neukolln, Berlin on Fri, 18 Sept 2026.
+DJ ojo is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Secret Location Neukolln, Berlin on Fri, 18 Sept 2026.
 
 DJ ojo is an experimental and bass artist tracked on soundcheck, with 21 sets logged across Berlin, London and Manchester. Often billed alongside Sam Purcell, k means and Alicia (UK). Next up: TBA - Secret Location Neukolln, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ DJ ojo is an experimental and bass artist tracked on soundcheck, with 21 sets lo
 
 Sam Purcell, k means, Alicia (UK)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djojo/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djojo/)*

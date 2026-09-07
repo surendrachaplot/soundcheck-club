@@ -1,6 +1,6 @@
 # Vibes Glasgow
 
-Vibes Glasgow is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Vibes Presents IMHAPPY 2026 Fresher's week" on Fri, 18 Sept 2026.
+Vibes Glasgow is a music venue in Glasgow with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Vibes Presents IMHAPPY 2026 Fresher's week" on Fri, 18 Sept 2026.
 
 Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 6 upcoming nights, with line-ups including JOKA, Make It Last, Sinner and WŁSN. Browse upcoming dates, start times and who's playing. 239 Sauchiehall Street, Glasgow, G1 3AE.
 
@@ -19,4 +19,4 @@ Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 6 upcoming night
 
 239 Sauchiehall Street, Glasgow, G1 3AE, Glasgow
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibes-glasgow/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibes-glasgow/)*

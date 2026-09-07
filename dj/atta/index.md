@@ -1,6 +1,6 @@
 # ATTA
 
-ATTA is a Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Kater, Berlin on Fri, 23 Oct 2026.
+ATTA is a Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Kater, Berlin on Fri, 23 Oct 2026.
 
 ATTA is a bass and hardcore artist based in Japan, tracked on soundcheck, with 11 sets logged across Berlin, Hamburg, Leeds and Milan and 1 more. Often billed alongside Jeremy Reinhard, Jokka and ALADAG. Next up: Kater, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ ATTA is a bass and hardcore artist based in Japan, tracked on soundcheck, with 1
 
 Jeremy Reinhard, Jokka, ALADAG
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atta/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atta/)*

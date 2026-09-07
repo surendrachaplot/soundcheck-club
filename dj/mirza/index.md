@@ -1,6 +1,6 @@
 # MIRZA
 
-MIRZA is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at H0L0, New York City on Sat, 19 Sept 2026.
+MIRZA is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at H0L0, New York City on Sat, 19 Sept 2026.
 
 MIRZA is a disco and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Hamburg, London and Munich and 3 more. Often billed alongside Track Advisor, Arjun Shah and Willy Soul. Next up: H0L0, Newyorkcity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ MIRZA is a disco and house artist based in United Kingdom, tracked on soundcheck
 
 Track Advisor, Arjun Shah, Willy Soul
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirza/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirza/)*

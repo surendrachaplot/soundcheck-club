@@ -1,6 +1,6 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "DX Afterparty: Veseli" on Sat, 12 Sept 2026.
+The Grand Social is a music venue in Dublin with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "DX Afterparty: Veseli" on Sat, 12 Sept 2026.
 
 The Grand Social is a music venue in Dublin listed on soundcheck. 5 upcoming nights, with line-ups including Nialler9. Browse upcoming dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
@@ -18,4 +18,4 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 5 upcoming nig
 
 35 Lower Liffey Street, Dublin, Ireland, Dublin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*

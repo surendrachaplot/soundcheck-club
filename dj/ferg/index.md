@@ -1,6 +1,6 @@
 # Ferg
 
-Ferg is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at DURO, Milan on Fri, 18 Sept 2026.
+Ferg is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at DURO, Milan on Fri, 18 Sept 2026.
 
 Ferg is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Barcelona, Cardiff, Ibiza and Leeds and 4 more. Often billed alongside Brennan, Brennan (2) and James Andrew. Next up: DURO, Milan on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Ferg is a house and tech house artist based in United Kingdom, tracked on soundc
 
 Brennan, Brennan (2), James Andrew
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferg/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferg/)*

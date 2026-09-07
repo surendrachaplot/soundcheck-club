@@ -1,6 +1,6 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Foreningen For Elektronisk Musikk pres. Kasper Marott (DK) / SS: Frie Arealer" on Fri, 11 Sept 2026.
+The Villa is a music venue in Oslo with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Foreningen For Elektronisk Musikk pres. Kasper Marott (DK) / SS: Frie Arealer" on Fri, 11 Sept 2026.
 
 The Villa is a music venue in Oslo listed on soundcheck. 9 upcoming nights, with line-ups including Aydin Imani, Bjørn Torske, Daichi Wada and Decoder and 2 more. Browse upcoming dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
@@ -22,4 +22,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 9 upcoming nights, with
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

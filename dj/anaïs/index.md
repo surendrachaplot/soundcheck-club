@@ -1,8 +1,8 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Melkweg, Amsterdam on Mon, 21 Sept 2026.
+Anaïs is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Melkweg, Amsterdam on Mon, 21 Sept 2026.
 
-Anaïs is a drum & bass and jungle artist tracked on soundcheck, with 54 sets logged across Amsterdam, Brighton, Bristol and Bucharest and 18 more. Often billed alongside Whiney, Degs and P Money. Next up: Melkweg, Amsterdam on Mon 21 Sept.
+Anaïs is a drum & bass and jungle artist tracked on soundcheck, with 55 sets logged across Amsterdam, Brighton, Bristol and Bucharest and 18 more. Often billed alongside Whiney, Degs and P Money. Next up: Melkweg, Amsterdam on Mon 21 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Anaïs is a drum & bass and jungle artist tracked on soundcheck, with 54 sets lo
 | --- | --- | --- |
 | Mon, 21 Sept 2026 | Melkweg | Amsterdam |
 | Sat, 3 Oct 2026 | Club Exil | Vienna |
+| Sat, 5 Dec 2026 | The Nest | Nottingham |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Anaïs is a drum & bass and jungle artist tracked on soundcheck, with 54 sets lo
 
 Whiney, Degs, P Money
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*

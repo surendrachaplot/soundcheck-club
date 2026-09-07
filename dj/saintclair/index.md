@@ -1,6 +1,6 @@
 # Saint Clair
 
-Saint Clair is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Jupiter Disco, New York City on Wed, 9 Sept 2026.
+Saint Clair is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Jupiter Disco, New York City on Wed, 9 Sept 2026.
 
 Saint Clair is a techno and ebm artist tracked on soundcheck, with 7 sets logged across Newyorkcity and Paris. Often billed alongside Theppie, Aiver and Clit.hub. Next up: Jupiter Disco, Newyorkcity on Wed 9 Sept.
 
@@ -23,4 +23,4 @@ Saint Clair is a techno and ebm artist tracked on soundcheck, with 7 sets logged
 
 Theppie, Aiver, Clit.hub
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintclair/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saintclair/)*

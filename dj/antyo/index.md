@@ -1,6 +1,6 @@
 # antyo
 
-antyo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Rote Sonne, Munich on Sat, 19 Sept 2026.
+antyo is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Rote Sonne, Munich on Sat, 19 Sept 2026.
 
 antyo is a techno and trance artist tracked on soundcheck, with 34 sets logged across Berlin and Munich. Often billed alongside Terzenbreaker, LOOMINAS and danuschek. Next up: Rote Sonne, Munich on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ antyo is a techno and trance artist tracked on soundcheck, with 34 sets logged a
 
 Terzenbreaker, LOOMINAS, danuschek
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antyo/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antyo/)*

@@ -1,14 +1,13 @@
 # BIIANCO
 
-BIIANCO is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+BIIANCO is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Echostage, Washington DC on Fri, 11 Sept 2026.
 
-BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Basel and Berlin and 32 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Industry City, Newyorkcity on Sat 5 Sept.
+BIIANCO is a techno and house artist based in United States of America, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Basel and Berlin and 32 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Echostage, Washingtondc on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Industry City | New York City |
 | Fri, 11 Sept 2026 | Echostage | Washington DC |
 | Fri, 25 Sept 2026 | Bootshaus | Cologne |
 | Fri, 16 Oct 2026 | BASIS | Utrecht |
@@ -31,4 +30,4 @@ BIIANCO is a techno and house artist based in United States of America, tracked 
 
 Fenrick, Adrian Mills, EMILIJA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

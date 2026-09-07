@@ -1,6 +1,6 @@
 # What?
 
-What? is a R&B and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+What? is a R&B and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
 What? is a r&b and electronica artist based in Ukraine, tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside SOCIAL VLAD, KALI. and Sergey Chernyshov. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
@@ -20,4 +20,4 @@ What? is a r&b and electronica artist based in Ukraine, tracked on soundcheck, w
 
 SOCIAL VLAD, KALI., Sergey Chernyshov
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/what-de/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/what-de/)*

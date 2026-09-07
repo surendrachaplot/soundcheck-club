@@ -1,6 +1,6 @@
 # Jentzen
 
-Jentzen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Jentzen is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Jentzen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Amsterdam, Bristol, Glasgow and Ibiza and 6 more. Often billed alongside Josh Baker, Local Dub and Paddy Lee. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Jentzen is a house and tech house artist based in United Kingdom, tracked on sou
 
 Josh Baker, Local Dub, Paddy Lee
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jentzen/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jentzen/)*

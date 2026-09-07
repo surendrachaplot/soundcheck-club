@@ -1,6 +1,6 @@
 # Blood of Aza
 
-Blood of Aza is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Portugal Madeira Club, Sydney on Fri, 2 Oct 2026.
+Blood of Aza is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Portugal Madeira Club, Sydney on Fri, 2 Oct 2026.
 
 Blood of Aza is an experimental and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Mvcoko, KAVARI and SISSY MISFIT. Next up: Portugal Madeira Club, Sydney on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Blood of Aza is an experimental and techno artist tracked on soundcheck, with 77
 
 Mvcoko, KAVARI, SISSY MISFIT
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*

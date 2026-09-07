@@ -1,6 +1,6 @@
 # Rosy Ross
 
-Rosy Ross is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
+Rosy Ross is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Cause, London on Sat, 19 Sept 2026.
 
 Rosy Ross is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across London and Tokyo. Often billed alongside Megan Leo, L KAE F and Stella Z. Next up: The Cause, London on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Rosy Ross is a house and balearic artist based in United Kingdom, tracked on sou
 
 Megan Leo, L KAE F, Stella Z
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosyross/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosyross/)*

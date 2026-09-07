@@ -1,6 +1,6 @@
 # Pfarrersøn
 
-Pfarrersøn is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
+Pfarrersøn is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
 
 Pfarrersøn is a techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Anne-Sophie Selig, Der olle Kramer and Fabian Fischbach. Next up: Humboldthain Club, Berlin on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Pfarrersøn is a techno artist tracked on soundcheck, with 2 sets logged across 
 
 Anne-Sophie Selig, Der olle Kramer, Fabian Fischbach
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pfarrerson/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pfarrerson/)*

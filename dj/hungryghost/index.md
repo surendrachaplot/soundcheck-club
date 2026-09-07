@@ -1,6 +1,6 @@
 # Hungry Ghost
 
-Hungry Ghost is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Grifter Brewing Co., Sydney on Fri, 25 Sept 2026.
+Hungry Ghost is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Grifter Brewing Co., Sydney on Fri, 25 Sept 2026.
 
 Hungry Ghost is a techno and latin bass artist based in Australia, tracked on soundcheck, with 5 sets logged across Sydney. Often billed alongside Bek, Ari Kiko and Bouki. Next up: The Grifter Brewing Co., Sydney on Fri 25 Sept.
 
@@ -21,4 +21,4 @@ Hungry Ghost is a techno and latin bass artist based in Australia, tracked on so
 
 Bek, Ari Kiko, Bouki
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hungryghost/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hungryghost/)*

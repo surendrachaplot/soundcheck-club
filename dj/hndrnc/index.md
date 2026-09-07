@@ -1,6 +1,6 @@
 # HNDRNC
 
-HNDRNC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Good Room, New York City on Thu, 24 Sept 2026.
+HNDRNC is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Good Room, New York City on Thu, 24 Sept 2026.
 
 HNDRNC is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Boston and Newyorkcity. Often billed alongside Erik Braun, skoglund and SANDBAG. Next up: Good Room, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ HNDRNC is a techno and house artist based in United States of America, tracked o
 
 Erik Braun, skoglund, SANDBAG
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hndrnc/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hndrnc/)*

@@ -1,18 +1,17 @@
 # Donau115
 
-Donau115 is a music venue in Berlin with 2 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "L CON + Foundling" on Sun, 6 Sept 2026.
+Donau115 is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Devin Gray Quartet" on Sat, 10 Oct 2026.
 
-Donau115 is a music venue in Berlin listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. Donaustraße 115, 12043 Berlin.
+Donau115 is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Donaustraße 115, 12043 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | L CON + Foundling |  |
 | Sat, 10 Oct 2026 | Devin Gray Quartet |  |
 
 ## Address
 
 Donaustraße 115, 12043 Berlin, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/donau115/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/donau115/)*

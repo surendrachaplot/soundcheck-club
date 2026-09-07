@@ -1,6 +1,6 @@
 # Dr.Sun
 
-Dr.Sun is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at ://about blank, Berlin on Sat, 3 Oct 2026.
+Dr.Sun is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at ://about blank, Berlin on Sat, 3 Oct 2026.
 
 Dr.Sun is an electronic artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside fauler kunde, trixidream and ANDI A.. Next up: ://about blank, Berlin on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ Dr.Sun is an electronic artist tracked on soundcheck, with 3 sets logged across 
 
 fauler kunde, trixidream, ANDI A.
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.sun/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.sun/)*

@@ -1,14 +1,16 @@
 # Dolce Potente
 
-Dolce Potente is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 12 Sept 2026.
+Dolce Potente is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 12 Sept 2026.
 
-Dolce Potente is a techno and club artist based in Italy, tracked on soundcheck, with 63 sets logged across Berlin, Geneva, Milan and Rome. Often billed alongside Industrial Romantico, DRUM THE SYSTEM live and Waldo. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Sept.
+Dolce Potente is a techno and club artist based in Italy, tracked on soundcheck, with 65 sets logged across Berlin, Geneva, Milan and Rome. Often billed alongside DRUM THE SYSTEM live, Industrial Romantico and Waldo. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Tempio del Futuro Perduto | Milan |
+| Sat, 3 Oct 2026 | Tempio del Futuro Perduto | Milan |
+| Sat, 7 Nov 2026 | Tempio del Futuro Perduto | Milan |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Dolce Potente is a techno and club artist based in Italy, tracked on soundcheck,
 
 ## Shares bills with
 
-Industrial Romantico, DRUM THE SYSTEM live, Waldo
+DRUM THE SYSTEM live, Industrial Romantico, Waldo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dolcepotente/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dolcepotente/)*

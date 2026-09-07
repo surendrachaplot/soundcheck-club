@@ -1,6 +1,6 @@
 # The Flexican
 
-The Flexican is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+The Flexican is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 The Flexican is a techno and house artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam. Often billed alongside De Sluwe Vos, Eileen (NL) and JADE SOUL. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ The Flexican is a techno and house artist based in Netherlands, tracked on sound
 
 De Sluwe Vos, Eileen (NL), JADE SOUL
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theflexican/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theflexican/)*

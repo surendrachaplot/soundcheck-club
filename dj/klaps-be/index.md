@@ -1,6 +1,6 @@
 # Klaps
 
-Klaps is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Aria Complex, Malta on Sat, 19 Sept 2026.
+Klaps is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Aria Complex, Malta on Sat, 19 Sept 2026.
 
 Klaps is a techno and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Reinier Zonneveld, Jane Muss and Maharti. Next up: Aria Complex, Malta on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Klaps is a techno and house artist tracked on soundcheck, with 27 sets logged ac
 
 Reinier Zonneveld, Jane Muss, Maharti
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klaps-be/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klaps-be/)*

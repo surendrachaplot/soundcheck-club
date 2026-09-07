@@ -1,6 +1,6 @@
 # IRM: Grace Sands - Free Day Party at Crate Brewery
 
-IRM: Grace Sands - Free Day Party at Crate Brewery on Sat 26 Sept, London. 2 acts on the bill: Grace Sands and Manuol Bone. Deep House. Preview the line-up and save it on soundcheck.
+IRM: Grace Sands - Free Day Party at Crate Brewery on Sat 26 Sept, London. 3 acts on the bill: calan, Grace Sands and Manuol Bone. Deep House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ IRM: Grace Sands - Free Day Party at Crate Brewery on Sat 26 Sept, London. 2 act
 
 ## Line-up
 
+- calan
 - Grace Sands
 - Manuol Bone
 

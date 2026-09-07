@@ -1,14 +1,13 @@
 # UrbnMowgli
 
-UrbnMowgli is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 5 Sept 2026.
+UrbnMowgli is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
-UrbnMowgli is a house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Barcelona, Basel, Berlin and Vienna. Often billed alongside Moodrich, Lai Raw and SKAIN. Next up: Jonny Knüppel, Berlin on Sat 5 Sept.
+UrbnMowgli is a house and techno artist based in Germany, tracked on soundcheck, with 24 sets logged across Barcelona, Basel, Berlin and Vienna. Often billed alongside Moodrich, Lai Raw and SKAIN. Next up: Renate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Jonny Knüppel | Berlin |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ UrbnMowgli is a house and techno artist based in Germany, tracked on soundcheck,
 
 Moodrich, Lai Raw, SKAIN
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/urbnmowgli/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/urbnmowgli/)*

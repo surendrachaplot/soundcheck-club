@@ -1,6 +1,6 @@
 # MELIMEKO
 
-MELIMEKO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at FLUCC, Vienna on Fri, 2 Oct 2026.
+MELIMEKO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at FLUCC, Vienna on Fri, 2 Oct 2026.
 
 MELIMEKO is a techno and trance artist based in Austria, tracked on soundcheck, with 25 sets logged across Vienna. Often billed alongside Wal_Halla, PAUNA and VOLTMARIE. Next up: FLUCC, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ MELIMEKO is a techno and trance artist based in Austria, tracked on soundcheck, 
 
 Wal_Halla, PAUNA, VOLTMARIE
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melimeko/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melimeko/)*

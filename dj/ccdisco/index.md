@@ -1,6 +1,6 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 11 Sept 2026.
+CC:DISCO! is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 11 Sept 2026.
 
 CC:DISCO! is a house and disco artist tracked on soundcheck, with 143 sets logged across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Chima Isaaro, Erol Alkan and Gerd Janson. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ CC:DISCO! is a house and disco artist tracked on soundcheck, with 143 sets logge
 
 Chima Isaaro, Erol Alkan, Gerd Janson
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*

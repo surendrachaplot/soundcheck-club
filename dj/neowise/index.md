@@ -1,6 +1,6 @@
 # Neowise
 
-Neowise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
+Neowise is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Südpol, Hamburg on Fri, 18 Sept 2026.
 
 Neowise is a techno and house artist tracked on soundcheck, with 4 sets logged across Berlin, Hamburg, Nantes and Stuttgart. Often billed alongside Christian Kluge, RSS Disco and 50PHIE. Next up: Südpol, Hamburg on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Neowise is a techno and house artist tracked on soundcheck, with 4 sets logged a
 
 Christian Kluge, RSS Disco, 50PHIE
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neowise/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neowise/)*

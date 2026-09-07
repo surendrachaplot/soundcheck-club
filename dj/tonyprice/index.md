@@ -1,6 +1,6 @@
 # Tony Price
 
-Tony Price is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Bambi's, Toronto on Thu, 17 Sept 2026.
+Tony Price is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bambi's, Toronto on Thu, 17 Sept 2026.
 
 Tony Price is a house and acid artist based in Canada, tracked on soundcheck, with 73 sets logged across Belgrade, Berlin, Detroit and Geneva and 7 more. Often billed alongside Milch (1), Mikey Apples and Invisible City. Next up: Bambi's, Toronto on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Tony Price is a house and acid artist based in Canada, tracked on soundcheck, wi
 
 Milch (1), Mikey Apples, Invisible City
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyprice/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyprice/)*

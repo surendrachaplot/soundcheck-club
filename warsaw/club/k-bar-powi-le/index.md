@@ -1,6 +1,6 @@
 # K-Bar Powiśle
 
-K-Bar Powiśle is a music venue in Warsaw with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "K-Bar invites: Fisherman's Bass Club" on Sat, 12 Sept 2026.
+K-Bar Powiśle is a music venue in Warsaw with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "K-Bar invites: Fisherman's Bass Club" on Sat, 12 Sept 2026.
 
 K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 5 upcoming nights, with line-ups including Abrew, Adnable, Adobo (PL) and anymati and 2 more. Browse upcoming dates, start times and who's playing. aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa.
 
@@ -18,4 +18,4 @@ K-Bar Powiśle is a music venue in Warsaw listed on soundcheck. 5 upcoming night
 
 aleja 3 maja i Leona Kruczkowskiego, 00-380 Warszawa, Warsaw
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/k-bar-powi-le/)*

@@ -1,6 +1,6 @@
 # Galcher Lustwerk
 
-Galcher Lustwerk is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Galcher Lustwerk is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Galcher Lustwerk is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 16 more. Often billed alongside Devoye, Bill Patrick and DJ Fart in the Club. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ Galcher Lustwerk is a house and techno artist tracked on soundcheck, with 56 set
 
 Devoye, Bill Patrick, DJ Fart in the Club
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*

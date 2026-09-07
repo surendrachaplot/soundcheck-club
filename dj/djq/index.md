@@ -1,6 +1,6 @@
 # DJ Q
 
-DJ Q is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Clock Factory, Bristol on Fri, 11 Sept 2026.
+DJ Q is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Clock Factory, Bristol on Fri, 11 Sept 2026.
 
 DJ Q is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 18 more. Often billed alongside Jamie Duggan, Flava D and Chad Harrison. Next up: The Clock Factory, Bristol on Fri 11 Sept.
 
@@ -28,4 +28,4 @@ DJ Q is a garage and bass artist based in United Kingdom, tracked on soundcheck,
 
 Jamie Duggan, Flava D, Chad Harrison
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djq/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djq/)*

@@ -1,6 +1,6 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "BCCO x TRANSITION" on Sat, 12 Sept 2026.
+TILLATEC is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "BCCO x TRANSITION" on Sat, 12 Sept 2026.
 
 TILLATEC is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Justine Perry, Amphia, Andrés Soria and Andy Garvey and 2 more. Browse upcoming dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
@@ -23,4 +23,4 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights,
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

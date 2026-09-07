@@ -1,6 +1,6 @@
 # Luke CVR
 
-Luke CVR is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Solace, Melbourne on Thu, 10 Sept 2026.
+Luke CVR is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Solace, Melbourne on Thu, 10 Sept 2026.
 
 Luke CVR is a house and deep house artist tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside BABY MONET, Charles Moon and Colette. Next up: Solace, Melbourne on Thu 10 Sept.
 
@@ -24,4 +24,4 @@ Luke CVR is a house and deep house artist tracked on soundcheck, with 8 sets log
 
 BABY MONET, Charles Moon, Colette
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukecvr/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukecvr/)*

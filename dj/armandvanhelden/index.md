@@ -1,6 +1,6 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 10 Sept 2026.
+Armand Van Helden is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 10 Sept 2026.
 
 Armand Van Helden is a house and tech house artist tracked on soundcheck, with 107 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Fatzo, Oden and MiNNA. Next up: Pacha Ibiza, Ibiza on Thu 10 Sept.
 
@@ -33,4 +33,4 @@ Armand Van Helden is a house and tech house artist tracked on soundcheck, with 1
 
 Fatzo, Oden, MiNNA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

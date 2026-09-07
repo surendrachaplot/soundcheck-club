@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Sacré présente: Justin Jay & OLYN TWO" on Fri, 11 Sept 2026.
+Sacré is a music venue in Paris with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Sacré présente: Justin Jay & OLYN TWO" on Fri, 11 Sept 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 11 upcoming nights, with line-ups including Bag Raiders, Basile de Suresnes, Bridge (NY) and Contrecoeur and 2 more. Browse upcoming dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 11 upcoming nights, with 
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

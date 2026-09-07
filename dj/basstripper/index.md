@@ -1,14 +1,13 @@
 # Basstripper
 
-Basstripper is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Basstripper is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
-Basstripper is a drum & bass and bass artist based in Belgium, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 22 more. Often billed alongside Hedex, BassLayerz and Camo & Krooked. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Basstripper is a drum & bass and bass artist based in Belgium, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 22 more. Often billed alongside Hedex, BassLayerz and Camo & Krooked. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Fri, 9 Oct 2026 | Quarters | Brighton |
 | Fri, 30 Oct 2026 | Kompass Klub | Ghent |
@@ -31,4 +30,4 @@ Basstripper is a drum & bass and bass artist based in Belgium, tracked on soundc
 
 Hedex, BassLayerz, Camo & Krooked
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basstripper/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basstripper/)*

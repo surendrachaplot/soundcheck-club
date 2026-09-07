@@ -1,14 +1,13 @@
 # Vera Cocina & بار
 
-Vera Cocina & بار is a music venue in Washington DC with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Church On Sunday: JAEL" on Sun, 6 Sept 2026.
+Vera Cocina & بار is a music venue in Washington DC with 8 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Discoteca presents: Gennaro" on Fri, 11 Sept 2026.
 
-Vera Cocina & بار is a music venue in Washingtondc listed on soundcheck. 9 upcoming nights, with line-ups including Amal, Andhim, JAEL and Samantha Loveridge and 1 more. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, USA.
+Vera Cocina & بار is a music venue in Washingtondc listed on soundcheck. 8 upcoming nights, with line-ups including Andhim, Samantha Loveridge and Tripolism. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Church On Sunday: JAEL | Amal, JAEL |
 | Fri, 11 Sept 2026 | Discoteca presents: Gennaro |  |
 | Fri, 18 Sept 2026 | SOLAIRE: ONE YEAR ANNIVERSARY PARTY |  |
 | Fri, 25 Sept 2026 | Achromatic presents: SEA RAE |  |
@@ -22,4 +21,4 @@ Vera Cocina & بار is a music venue in Washingtondc listed on soundcheck. 9 up
 
 2002 Fenwick St NE, Washington, DC 20002, USA, Washington DC
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*

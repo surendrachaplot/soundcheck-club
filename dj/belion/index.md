@@ -1,6 +1,6 @@
 # Be Lion
 
-Be Lion is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Yellow House, Amsterdam on Fri, 11 Sept 2026.
+Be Lion is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Yellow House, Amsterdam on Fri, 11 Sept 2026.
 
 Be Lion is a minimal and house artist tracked on soundcheck, with 9 sets logged across Amsterdam and Ibiza. Often billed alongside Ìngryd Gobbo, Affani and Hris East. Next up: Yellow House, Amsterdam on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Be Lion is a minimal and house artist tracked on soundcheck, with 9 sets logged 
 
 Ìngryd Gobbo, Affani, Hris East
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belion/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belion/)*

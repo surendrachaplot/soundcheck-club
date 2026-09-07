@@ -1,6 +1,6 @@
 # La Machine Du Moulin Rouge
 
-La Machine Du Moulin Rouge is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Panteros666 présente 100% Eurotrance - Paris" on Fri, 11 Sept 2026.
+La Machine Du Moulin Rouge is a music venue in Paris with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Panteros666 présente 100% Eurotrance - Paris" on Fri, 11 Sept 2026.
 
 La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 4 upcoming nights, with line-ups including BETÏSES, Carla Schmitt, FLKN and LUNATIXX and 2 more. Browse upcoming dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
 
@@ -17,4 +17,4 @@ La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 4 upc
 
 90 boulevard de Clichy; 75018; Paris; France, Paris
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*

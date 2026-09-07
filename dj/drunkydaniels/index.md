@@ -1,6 +1,6 @@
 # Drunky Daniels
 
-Drunky Daniels is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 11 Sept 2026.
+Drunky Daniels is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at D-EDGE, Sao Paulo on Fri, 11 Sept 2026.
 
 Drunky Daniels is a house and tech house artist based in Brazil, tracked on soundcheck, with 18 sets logged across Saopaulo. Often billed alongside Adnan Sharif, BAPP and Cactunes. Next up: D-EDGE, Saopaulo on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Drunky Daniels is a house and tech house artist based in Brazil, tracked on soun
 
 Adnan Sharif, BAPP, Cactunes
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drunkydaniels/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drunkydaniels/)*

@@ -1,6 +1,6 @@
 # Julie Desire
 
-Julie Desire is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+Julie Desire is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
 Julie Desire is a techno and house artist tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Julie Desire is a techno and house artist tracked on soundcheck, with 110 sets l
 
 Cheriii, Mars O10C, A-440
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliedesire/)*

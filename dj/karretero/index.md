@@ -1,6 +1,6 @@
 # Karretero
 
-Karretero is a Tech House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 8 Sept 2026.
+Karretero is a Tech House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 8 Sept 2026.
 
 Karretero is a tech house and techno artist based in Spain, tracked on soundcheck, with 47 sets logged across Barcelona, Ibiza, Lisbon and Madrid and 2 more. Often billed alongside Joseph Capriati, Chelina Manuhutu and Vitrie Vitoli. Next up: Amnesia Ibiza, Ibiza on Tue 8 Sept.
 
@@ -29,4 +29,4 @@ Karretero is a tech house and techno artist based in Spain, tracked on soundchec
 
 Joseph Capriati, Chelina Manuhutu, Vitrie Vitoli
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karretero/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karretero/)*

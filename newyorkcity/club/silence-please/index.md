@@ -1,6 +1,6 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Haruomi Hosono: Yours Sincerely" on Tue, 8 Sept 2026.
+Silence Please is a music venue in New York City with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Haruomi Hosono: Yours Sincerely" on Tue, 8 Sept 2026.
 
 Silence Please is a music venue in Newyorkcity listed on soundcheck. 7 upcoming nights, with line-ups including Alex Lustig, Halima, Haruomi Hosono and Kiana. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
@@ -20,4 +20,4 @@ Silence Please is a music venue in Newyorkcity listed on soundcheck. 7 upcoming 
 
 132 Bowery Floor 2, New York, NY 10013, New York City
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*

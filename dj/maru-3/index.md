@@ -1,6 +1,6 @@
 # MARU (3)
 
-MARU (3) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at T2 Shinjuku, Tokyo on Mon, 7 Sept 2026.
+MARU (3) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at T2 Shinjuku, Tokyo on Mon, 7 Sept 2026.
 
 MARU (3) is a techno and hardcore artist based in Japan, tracked on soundcheck, with 11 sets logged across Osaka and Tokyo. Often billed alongside NØEL (JP), BLACK(JP) and SWAGGER. Next up: T2 Shinjuku, Tokyo on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ MARU (3) is a techno and hardcore artist based in Japan, tracked on soundcheck, 
 
 NØEL (JP), BLACK(JP), SWAGGER
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maru-3/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maru-3/)*

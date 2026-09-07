@@ -1,6 +1,6 @@
 # dj miss
 
-dj miss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Jama, Toronto on Sat, 19 Sept 2026.
+dj miss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Jama, Toronto on Sat, 19 Sept 2026.
 
 dj miss is a techno and house artist based in Canada, tracked on soundcheck, with 26 sets logged across Montreal and Toronto. Often billed alongside Hiroki, Kai (TO) and Zellers. Next up: The Jama, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ dj miss is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 Hiroki, Kai (TO), Zellers
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmiss/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmiss/)*

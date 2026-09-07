@@ -1,6 +1,6 @@
 # HUNTER STEEL
 
-HUNTER STEEL is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
+HUNTER STEEL is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
 
 HUNTER STEEL is a techno and gabber artist based in United States of America, tracked on soundcheck, with 6 sets logged across Miami. Often billed alongside Franky De Rey, Dadrev and DomnRob. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ HUNTER STEEL is a techno and gabber artist based in United States of America, tr
 
 Franky De Rey, Dadrev, DomnRob
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huntersteel/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/huntersteel/)*

@@ -1,6 +1,6 @@
 # Jean Pierre
 
-Jean Pierre is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Bridge 48, Barcelona on Thu, 17 Sept 2026.
+Jean Pierre is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bridge 48, Barcelona on Thu, 17 Sept 2026.
 
 Jean Pierre is a tech house and house artist based in United States of America, tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Birmingham and Frankfurt and 19 more. Often billed alongside Jesse Calosso, The Martinez Brothers and Mason Collective. Next up: Bridge 48, Barcelona on Thu 17 Sept.
 
@@ -28,4 +28,4 @@ Jean Pierre is a tech house and house artist based in United States of America, 
 
 Jesse Calosso, The Martinez Brothers, Mason Collective
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpierre/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpierre/)*

@@ -1,8 +1,8 @@
 # 2ManyDJs
 
-2ManyDJs is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Downtown, Los Angeles on Fri, 18 Sept 2026.
+2ManyDJs is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Downtown, Los Angeles on Fri, 18 Sept 2026.
 
-2ManyDJs is a house and techno artist tracked on soundcheck, with 67 sets logged across Antwerp, Athens, Auckland and Barcelona and 28 more. Often billed alongside Erol Alkan, Tiga and Job Jobse. Next up: TBA - Downtown, Losangeles on Fri 18 Sept.
+2ManyDJs is a house and techno artist tracked on soundcheck, with 68 sets logged across Antwerp, Athens, Auckland and Barcelona and 28 more. Often billed alongside Erol Alkan, Tiga and Job Jobse. Next up: TBA - Downtown, Losangeles on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@
 | Fri, 25 Sept 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 9 Oct 2026 | Palladium | Geneva |
 | Sat, 10 Oct 2026 | DRUMSHEDS | London |
+| Thu, 15 Oct 2026 | Rex Club | Paris |
 | Sat, 24 Oct 2026 | Garage Klub | Antwerp |
 | Sun, 25 Oct 2026 | Vicar Street | Dublin |
 
@@ -30,4 +31,4 @@
 
 Erol Alkan, Tiga, Job Jobse
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*

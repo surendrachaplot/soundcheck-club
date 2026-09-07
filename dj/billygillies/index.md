@@ -1,8 +1,8 @@
 # Billy Gillies
 
-Billy Gillies is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 23 Sept 2026.
+Billy Gillies is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Amnesia Ibiza, Ibiza on Wed, 23 Sept 2026.
 
-Billy Gillies is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Cork, Denver, Dublin and Edinburgh and 19 more. Often billed alongside Giuseppe Ottaviani, Amy Wiles and Ferry Corsten. Next up: Amnesia Ibiza, Ibiza on Wed 23 Sept.
+Billy Gillies is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Cork, Denver, Dublin and Edinburgh and 20 more. Often billed alongside Giuseppe Ottaviani, Amy Wiles and Ferry Corsten. Next up: Amnesia Ibiza, Ibiza on Wed 23 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Billy Gillies is a trance and techno artist based in United Kingdom, tracked on 
 | --- | --- | --- |
 | Wed, 23 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
+| Sat, 5 Dec 2026 | Warsaw | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Billy Gillies is a trance and techno artist based in United Kingdom, tracked on 
 
 Giuseppe Ottaviani, Amy Wiles, Ferry Corsten
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billygillies/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billygillies/)*

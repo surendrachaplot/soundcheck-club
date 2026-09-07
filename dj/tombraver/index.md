@@ -1,6 +1,6 @@
 # Tomb Raver
 
-Tomb Raver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Empress of Canada, Polson Pier, Toronto on Fri, 18 Sept 2026.
+Tomb Raver is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Empress of Canada, Polson Pier, Toronto on Fri, 18 Sept 2026.
 
 Tomb Raver is a techno and house artist tracked on soundcheck, with 24 sets logged across Toronto. Often billed alongside SAMM DU, rahi4ever and Burnii. Next up: Empress of Canada, Polson Pier, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Tomb Raver is a techno and house artist tracked on soundcheck, with 24 sets logg
 
 SAMM DU, rahi4ever, Burnii
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tombraver/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tombraver/)*

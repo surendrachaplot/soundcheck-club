@@ -1,6 +1,6 @@
 # Funky Gong
 
-Funky Gong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Koenji Cave, Tokyo on Mon, 21 Sept 2026.
+Funky Gong is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Koenji Cave, Tokyo on Mon, 21 Sept 2026.
 
 Funky Gong is a techno and house artist based in Japan, tracked on soundcheck, with 64 sets logged across Osaka and Tokyo. Often billed alongside RYOHEI, Do Shock Booze and PUSTER. Next up: Koenji Cave, Tokyo on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Funky Gong is a techno and house artist based in Japan, tracked on soundcheck, w
 
 RYOHEI, Do Shock Booze, PUSTER
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkygong/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkygong/)*

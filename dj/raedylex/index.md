@@ -1,6 +1,6 @@
 # RAEDY LEX
 
-RAEDY LEX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Elektricity, Detroit on Sat, 7 Nov 2026.
+RAEDY LEX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Elektricity, Detroit on Sat, 7 Nov 2026.
 
 RAEDY LEX is a house and techno artist tracked on soundcheck, with 50 sets logged across Detroit and Sanfrancisco. Often billed alongside Dantiez, Disc Jockey George and Drop Catch. Next up: Elektricity, Detroit on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ RAEDY LEX is a house and techno artist tracked on soundcheck, with 50 sets logge
 
 Dantiez, Disc Jockey George, Drop Catch
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raedylex/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raedylex/)*

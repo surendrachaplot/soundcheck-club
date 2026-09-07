@@ -1,6 +1,6 @@
 # s.talbot
 
-s.talbot is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Bar Datcha, Montreal on Fri, 18 Sept 2026.
+s.talbot is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bar Datcha, Montreal on Fri, 18 Sept 2026.
 
 s.talbot is a techno and electro artist based in Belgium, tracked on soundcheck, with 28 sets logged across Montreal. Often billed alongside esme (US), Lilaiza and Miette. Next up: Bar Datcha, Montreal on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ s.talbot is a techno and electro artist based in Belgium, tracked on soundcheck,
 
 esme (US), Lilaiza, Miette
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.talbot/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s.talbot/)*

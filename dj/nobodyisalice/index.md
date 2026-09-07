@@ -1,6 +1,6 @@
 # NOBODYISALICE
 
-NOBODYISALICE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Re-Clubbing Basement, Barcelona on Sat, 12 Sept 2026.
+NOBODYISALICE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Re-Clubbing Basement, Barcelona on Sat, 12 Sept 2026.
 
 NOBODYISALICE is a house and techno artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona. Often billed alongside XipNoize, Gabo Oliveira and Lauriee. Next up: Re-Clubbing Basement, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ NOBODYISALICE is a house and techno artist based in Spain, tracked on soundcheck
 
 XipNoize, Gabo Oliveira, Lauriee
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nobodyisalice/)*

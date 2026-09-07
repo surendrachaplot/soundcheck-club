@@ -1,6 +1,6 @@
 # saylem celeste
 
-saylem celeste is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
+saylem celeste is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at MotorCity Wine, Detroit on Mon, 7 Sept 2026.
 
 saylem celeste is a techno and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across Detroit. Often billed alongside Shigeto, Kenjiro and Turtle Bugg. Next up: MotorCity Wine, Detroit on Mon 7 Sept.
 
@@ -25,4 +25,4 @@ saylem celeste is a techno and house artist based in United States of America, t
 
 Shigeto, Kenjiro, Turtle Bugg
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saylemceleste/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saylemceleste/)*

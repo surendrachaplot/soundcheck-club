@@ -1,6 +1,6 @@
 # Nu
 
-Nu is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Triangle, Osaka on Tue, 22 Sept 2026.
+Nu is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Triangle, Osaka on Tue, 22 Sept 2026.
 
 Nu is a techno and hip-hop artist tracked on soundcheck, with 3 sets logged across Istanbul, Osaka and Tokyo. Often billed alongside Casper (FIN), DJ :-) and Danjo. Next up: Triangle, Osaka on Tue 22 Sept.
 
@@ -19,4 +19,4 @@ Nu is a techno and hip-hop artist tracked on soundcheck, with 3 sets logged acro
 
 Casper (FIN), DJ :-), Danjo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nu/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nu/)*

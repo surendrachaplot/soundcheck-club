@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "XTRUDE w/ Alexander Kowalski, Justine Perry, Philippa Pacho, Benjamin Damage and BADSISTA" on Sat, 5 Sept 2026.
+RSO.BERLIN is a music venue in Berlin with 19 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "The Third Room w/ .VRIL live, Ahmet Sisman, Dasha Rush, Ehua b2b Felix Fleer" on Fri, 11 Sept 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including 2HOT2PLAY, Justine Perry, NYRA (DE) and AEREA and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming nights, with line-ups including 2HOT2PLAY, NYRA (DE), AEREA and AgainstMe and 2 more. Browse upcoming dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | XTRUDE w/ Alexander Kowalski, Justine Perry, Philippa Pacho, Benjamin Damage and BADSISTA | Alexander Kowalski, BADSISTA, Benjamin Damage, Blue Hour, DINA, HEDDA, Justine Perry, Mademoisel, Philippa Pacho, Procombo, RONI, VEL (MA), Ø [Phase] |
 | Fri, 11 Sept 2026 | The Third Room w/ .VRIL live, Ahmet Sisman, Dasha Rush, Ehua b2b Felix Fleer | .VRIL, Ahmet Sisman, Dasha Rush, Ehua, Felix Fleer |
 | Sat, 12 Sept 2026 | Home Again Festival - 10 Years | Andra, Blame Anthony, Butterhands, Cassy, Chris Stassy, DJ Split, Dan Ghenacia, Disguised, Dj Norma, Eris Drew, GOME, Greta Spark, Home Again Soundsystem, LIA, Lobster (NL), Manuel Fischer, Mara Menace, Marsch, Meggy, Power Squad, Quest, Quest (IT), Robert Owens, Robin RB, Rosa Red, Ryan Elliott, Solomun, TSHA, Thabo, Thalo Santana, Tiago Oudman, Vera, ferrari rot, hawi |
 | Fri, 18 Sept 2026 | KHIDI NIGHT w/ Ancient Methods, Boston 168 live, Liza Rivs and Vulkanski | Ancient Methods, Boston 168, Liza Rivs, Vulkanski |
@@ -18,9 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 20 upcoming nights, 
 | Fri, 2 Oct 2026 | X-IZE w/ Dr. Rubinstein, Omon Breaker, Schwefelgelb live and Supergloss | Dr. Rubinstein, Omon Breaker, Schwefelgelb, Supergloss |
 | Sat, 3 Oct 2026 | XTRUDE x Space Trax w/ ANNĒ, SHDW, JKS, Rebecca Delle Piane, L-3P live, FILTH.y | ANNĒ, AYIM, Exos, FILTH.y, Frank Heise, Félicie, JKS, MXV (1), Maōh, Mefteh, Ness, Philipp Drube, Rebecca Delle Piane, SHDW, Sioc |
 | Fri, 9 Oct 2026 | Radiance w/ BLUME, Delta Rain, Human Space Machine, Luigi Tozzi live | BLUME, Human Space Machine, Luigi Tozzi |
+| Sat, 10 Oct 2026 | WE ARE NOT ALONE | ALI3N, Cleric, Ellen Allien, Introversion, Mama Snake, Metaraph, OLHA, Sarah Sommers, Stephanie Sykes |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

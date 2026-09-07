@@ -1,6 +1,6 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "THE DEVIL IS BACK2BACK w/ 1993 [ RÄV / IT ], NTHR, Thomas Rob, Gheordu, TIA, NIKITA" on Fri, 11 Sept 2026.
+Nether Club is a music venue in Bucharest with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "THE DEVIL IS BACK2BACK w/ 1993 [ RÄV / IT ], NTHR, Thomas Rob, Gheordu, TIA, NIKITA" on Fri, 11 Sept 2026.
 
 Nether Club is a music venue in Bucharest listed on soundcheck. 6 upcoming nights, with line-ups including 1993, CARMEN (RO), ALISTARM and AMEDEUS and 2 more. Browse upcoming dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
@@ -19,4 +19,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 6 upcoming night
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

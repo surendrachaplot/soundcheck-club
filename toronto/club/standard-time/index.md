@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Art Metropole Afterparty with Juliana Huxtable and 999ADJ" on Thu, 10 Sept 2026.
+Standard Time is a music venue in Toronto with 10 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Art Metropole Afterparty with Juliana Huxtable and 999ADJ" on Thu, 10 Sept 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 10 upcoming nights, with line-ups including 999ADJ, CCL, Ciel and Dusky and 2 more. Browse upcoming dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 10 upcoming nigh
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

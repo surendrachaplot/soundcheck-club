@@ -1,6 +1,6 @@
 # The Cross
 
-The Cross is a music venue in London with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "REHAB_LDN" on Sat, 12 Sept 2026.
+The Cross is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "REHAB_LDN" on Sat, 12 Sept 2026.
 
 The Cross is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including AOB, Ashleigh De-Niro, Davide Del Vecchio and Dj Armi and 2 more. Browse upcoming dates, start times and who's playing. The Cross, 2-4, Wharfdale Rd, N1 9RY.
 
@@ -18,4 +18,4 @@ The Cross is a music venue in London listed on soundcheck. 5 upcoming nights, wi
 
 The Cross, 2-4, Wharfdale Rd, N1 9RY, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*

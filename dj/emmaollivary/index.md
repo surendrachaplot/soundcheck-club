@@ -1,6 +1,6 @@
 # Emma Ollivary
 
-Emma Ollivary is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Virage, Paris on Sat, 19 Sept 2026.
+Emma Ollivary is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Virage, Paris on Sat, 19 Sept 2026.
 
 Emma Ollivary is a techno and acid artist tracked on soundcheck, with 9 sets logged across Bangkok, London, Nantes and Paris. Often billed alongside uphoria, Cassie Raptor and AISHA. Next up: Virage, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Emma Ollivary is a techno and acid artist tracked on soundcheck, with 9 sets log
 
 uphoria, Cassie Raptor, AISHA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaollivary/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmaollivary/)*

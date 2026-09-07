@@ -1,14 +1,13 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "MÁS X PRIMAL INSTINCT" on Sat, 5 Sept 2026.
+KREUZWERK is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Power Dance Club 24hours" on Sat, 12 Sept 2026.
 
-KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming nights, with line-ups including 131bpm, Aaron Blau, ADAM MUNNINGS and Alírio and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
+KREUZWERK is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including 131bpm, Aaron Blau, ADAM MUNNINGS and Alírio and 2 more. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | MÁS X PRIMAL INSTINCT | Amphia, Chlär, Connor Wall, Debbie, JKS, KONZ, MarcelDune, RayRay, THC, TONI BA, VINVAR |
 | Sat, 12 Sept 2026 | Power Dance Club 24hours | Aaron Blau, CEM, Carly Zeng, Chris Cruse, Cromby, Dirty Daddy Don, ISAbella, Justin Cudmore, Kiddy Smile, Luigi Di Venere, Maria Politi, Nene H, Stathis (GR), Tom Peters |
 | Fri, 18 Sept 2026 | ABOV - FLINTA* | Franziska Lindholz, Hyperaktivist, Volvox |
 | Sat, 19 Sept 2026 | tracey | 131bpm, ADAM MUNNINGS, Alírio, Bleach, DJ Petite, Deepa, Dj handbag, EROS IN FURS, House Of Grace, Ixa (2), Jonathan Apelbaum, Kristina, Maze DJ, Nancy Nutter, Shadysnack, Sherø, TWIENA, Teecra, ketia |
@@ -23,4 +22,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 10 upcoming nights, w
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

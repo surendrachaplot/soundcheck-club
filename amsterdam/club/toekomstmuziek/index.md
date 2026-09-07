@@ -1,6 +1,6 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Omnibus w/ Bruno Schmidt" on Fri, 11 Sept 2026.
+Toekomstmuziek is a music venue in Amsterdam with 15 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Omnibus w/ Bruno Schmidt" on Fri, 11 Sept 2026.
 
 Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 15 upcoming nights, with line-ups including Alex Breitling, ALLKNIGHT, Alycia Bezgo and Amøn and 2 more. Browse upcoming dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
@@ -23,4 +23,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 15 upcoming n
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

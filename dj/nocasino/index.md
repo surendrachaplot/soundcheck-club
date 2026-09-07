@@ -1,6 +1,6 @@
 # NOCASINO
 
-NOCASINO is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at KEYBAR, New York City on Sat, 26 Sept 2026.
+NOCASINO is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at KEYBAR, New York City on Sat, 26 Sept 2026.
 
 NOCASINO is a house and disco artist based in United States of America, tracked on soundcheck, with 5 sets logged across Detroit, Newyorkcity and Washingtondc. Often billed alongside DJ Shoe, Drop Catch and Eddie Logix. Next up: KEYBAR, Newyorkcity on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ NOCASINO is a house and disco artist based in United States of America, tracked 
 
 DJ Shoe, Drop Catch, Eddie Logix
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocasino/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nocasino/)*

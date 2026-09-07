@@ -1,6 +1,6 @@
 # Neutrix
 
-Neutrix is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
+Neutrix is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA, Sydney on Sat, 19 Sept 2026.
 
 Neutrix is a bass and drum & bass artist tracked on soundcheck, with 4 sets logged across Sydney. Often billed alongside Deverence, Hotel 84 and Jopea. Next up: TBA, Sydney on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Neutrix is a bass and drum & bass artist tracked on soundcheck, with 4 sets logg
 
 Deverence, Hotel 84, Jopea
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neutrix/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neutrix/)*

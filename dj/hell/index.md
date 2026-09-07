@@ -1,6 +1,6 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Metropol, Berlin on Thu, 10 Sept 2026.
+DJ Hell is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Metropol, Berlin on Thu, 10 Sept 2026.
 
 DJ Hell is a techno and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Binh, Helena Hauff and Paty Vapor. Next up: Metropol, Berlin on Thu 10 Sept.
 
@@ -35,4 +35,4 @@ DJ Hell is a techno and house artist tracked on soundcheck, with 128 sets logged
 
 Binh, Helena Hauff, Paty Vapor
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*

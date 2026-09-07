@@ -1,6 +1,6 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO" on Tue, 8 Sept 2026.
+528 Ibiza is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO" on Tue, 8 Sept 2026.
 
 528 Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming nights, with line-ups including Kepler, ALEXANDER M, Alex M.O.R.P.H. and Aly & Fila and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
@@ -23,4 +23,4 @@
 
 Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain, Ibiza
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*

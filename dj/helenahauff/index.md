@@ -1,6 +1,6 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Helena Hauff is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Helena Hauff is a techno and house artist based in Germany, tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Athens and Auckland and 67 more. Often billed alongside Ben UFO, DVS1 and Job Jobse. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -35,4 +35,4 @@ Helena Hauff is a techno and house artist based in Germany, tracked on soundchec
 
 Ben UFO, DVS1, Job Jobse
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

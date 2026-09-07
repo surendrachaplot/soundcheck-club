@@ -1,6 +1,6 @@
 # Moodman
 
-Moodman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at BAR Inc, Osaka on Fri, 11 Sept 2026.
+Moodman is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at BAR Inc, Osaka on Fri, 11 Sept 2026.
 
 Moodman is a house and techno artist based in Japan, tracked on soundcheck, with 117 sets logged across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside Toshiyuki Goto, Celter and FELINE (JP). Next up: BAR Inc, Osaka on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Moodman is a house and techno artist based in Japan, tracked on soundcheck, with
 
 Toshiyuki Goto, Celter, FELINE (JP)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodman/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodman/)*

@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "CONTAGIOUS - BEING album release concert" on Wed, 9 Sept 2026.
+Panke is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "CONTAGIOUS - BEING album release concert" on Wed, 9 Sept 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including AGILITÄT, Alex Wilcox, BBBBBBB and Catnapp and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -23,4 +23,4 @@ Panke is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with 
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

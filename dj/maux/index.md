@@ -1,6 +1,6 @@
 # maux
 
-maux is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Jolene Downtown Miami, Miami on Thu, 17 Sept 2026.
+maux is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Jolene Downtown Miami, Miami on Thu, 17 Sept 2026.
 
 maux is a tech house and techno artist tracked on soundcheck, with 4 sets logged across Miami. Often billed alongside Uncle Jei, //DLM and Ale Acosta. Next up: Jolene Downtown Miami, Miami on Thu 17 Sept.
 
@@ -20,4 +20,4 @@ maux is a tech house and techno artist tracked on soundcheck, with 4 sets logged
 
 Uncle Jei, //DLM, Ale Acosta
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maux/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maux/)*

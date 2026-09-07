@@ -1,6 +1,6 @@
 # Tom Peters
 
-Tom Peters is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at HHV.de Store, Berlin on Thu, 10 Sept 2026.
+Tom Peters is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at HHV.de Store, Berlin on Thu, 10 Sept 2026.
 
 Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 101 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: HHV.de Store, Berlin on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ Tom Peters is a techno and house artist based in Germany, tracked on soundcheck,
 
 B-VERS, Bertolt Meyer, Primal State
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*

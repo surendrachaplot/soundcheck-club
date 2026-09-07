@@ -1,6 +1,6 @@
 # Anyma
 
-Anyma is a Techno and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Anyma is a Techno and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Anyma is a techno and progressive house artist tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Brussels and Budapest and 17 more. Often billed alongside Kevin de Vries, Tale Of Us and Chris Avantgarde. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -9,7 +9,6 @@ Anyma is a techno and progressive house artist tracked on soundcheck, with 64 se
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Sun, 6 Sept 2026 | Radius | Chicago |
 | Tue, 8 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 12 Sept 2026 | Atakoy Marina Arena | Istanbul |
 | Tue, 15 Sept 2026 | [UNVRS] | Ibiza |
@@ -19,6 +18,7 @@ Anyma is a techno and progressive house artist tracked on soundcheck, with 64 se
 
 ## Recently played
 
+- Radius, Chicago — Sun, 6 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - [UNVRS], Ibiza — Tue, 1 Sept 2026
 - [UNVRS], Ibiza — Tue, 25 Aug 2026
@@ -26,10 +26,9 @@ Anyma is a techno and progressive house artist tracked on soundcheck, with 64 se
 - [UNVRS], Ibiza — Tue, 11 Aug 2026
 - [UNVRS], Ibiza — Tue, 4 Aug 2026
 - [UNVRS], Ibiza — Tue, 28 Jul 2026
-- Pacha Ibiza, Ibiza — Sun, 26 Jul 2026
 
 ## Shares bills with
 
 Kevin de Vries, Tale Of Us, Chris Avantgarde
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anyma/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anyma/)*

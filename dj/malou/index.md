@@ -1,6 +1,6 @@
 # maloU
 
-maloU is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+maloU is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 maloU is a house and electro artist tracked on soundcheck, with 3 sets logged across Amsterdam, Ibiza and Utrecht. Often billed alongside ALISHA, Ays (NL) and BLANKA. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ maloU is a house and electro artist tracked on soundcheck, with 3 sets logged ac
 
 ALISHA, Ays (NL), BLANKA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malou/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malou/)*

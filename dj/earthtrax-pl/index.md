@@ -1,14 +1,13 @@
 # Earth Trax
 
-Earth Trax is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Holdenweid, Basel on Fri, 4 Sept 2026.
+Earth Trax is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Jasna 1, Warsaw on Sat, 26 Sept 2026.
 
-Earth Trax is a club and techno artist tracked on soundcheck, with 11 sets logged across Basel, Berlin, Krakow and Warsaw. Often billed alongside daisy cutter, Nadezh No and Olivia. Next up: Holdenweid, Basel on Fri 4 Sept.
+Earth Trax is a club and techno artist tracked on soundcheck, with 11 sets logged across Basel, Berlin, Krakow and Warsaw. Often billed alongside daisy cutter, Nadezh No and Olivia. Next up: Jasna 1, Warsaw on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Holdenweid | Basel |
 | Sat, 26 Sept 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
@@ -26,4 +25,4 @@ Earth Trax is a club and techno artist tracked on soundcheck, with 11 sets logge
 
 daisy cutter, Nadezh No, Olivia
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/earthtrax-pl/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/earthtrax-pl/)*

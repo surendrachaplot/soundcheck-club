@@ -1,14 +1,13 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 13 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Torax: James Ruskin, Jin Synth, Imox, Queixal, DJ Sense, acidheaven, servei" on Sun, 6 Sept 2026.
+Razzmatazz is a music venue in Barcelona with 12 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "RAZZCLUBS: GЯEG + Dj Fucci + BADSISTA + Josey Rebelle" on Fri, 11 Sept 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming nights, with line-ups including acidheaven, Ana Alves, Antiribeiro and Art of Fighters and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 12 upcoming nights, with line-ups including Ana Alves, Antiribeiro, Art of Fighters and BADSISTA and 2 more. Browse upcoming dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Torax: James Ruskin, Jin Synth, Imox, Queixal, DJ Sense, acidheaven, servei | DJ Sense, Imox, James Ruskin, Jin Synth, Queixal, acidheaven, servei |
 | Fri, 11 Sept 2026 | RAZZCLUBS: GЯEG + Dj Fucci + BADSISTA + Josey Rebelle | BADSISTA, Dj Fucci, Josey Rebelle, Lechuga Zafiro, Sushinigami |
 | Sat, 12 Sept 2026 | RAZZCLUBS:Disobey Sound System:El WiWi + Virtual Flavor + Ø [Phase] Live + Nastia Reigel | Ana Alves, Doltz, Laima Adelaide, Mod.1, Nastia Reigel, Virtual Flavor, Ø [Phase] |
 | Fri, 18 Sept 2026 | FSTVL B & FUEGO presentan XTNDED | BADSISTA, ENGALANAN, Sofy Suars |
@@ -18,9 +17,10 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming night
 | Sat, 26 Sept 2026 | Fat Freddy's Drop - Barcelona | Fat Freddys Drop |
 | Sat, 26 Sept 2026 | RAZZCLUBS: BMT: Mala + Skalah Powered Greenlight Sound System + Nørbak + Sandrien | Bassywax, Connie, DJ2D2, Feral, HEDDA, ILAYRUNI, JAZ IMSKY, MIA FLAW, Mala, Nørbak, PethbUri, Sandrien, Sylvia (ES), radd |
 | Sun, 27 Sept 2026 | Fat Freddy's Drop - Barcelona (2) | Fat Freddys Drop |
+| Sun, 1 Nov 2026 | Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) | Art of Fighters, Lady Dammage, Pinotello, Revenja, Samuel Moriero (2), Vortek's |
 
 ## Address
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

@@ -1,14 +1,13 @@
 # Cris-H
 
-Cris-H is a Progressive House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Senang - Hoek van Holland, The Hague on Sat, 5 Sept 2026.
+Cris-H is a Progressive House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Zum Barbarossa, Amsterdam on Wed, 21 Oct 2026.
 
-Cris-H is a progressive house and deep house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Paul Sparkes, Prismode and Solvane. Next up: Senang - Hoek van Holland, Thehague on Sat 5 Sept.
+Cris-H is a progressive house and deep house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Paul Sparkes, Prismode and Solvane. Next up: Zum Barbarossa, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Senang - Hoek van Holland | The Hague |
 | Wed, 21 Oct 2026 | Zum Barbarossa | Amsterdam |
 | Thu, 22 Oct 2026 | Onder Hans | Amsterdam |
 | Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
@@ -30,4 +29,4 @@ Cris-H is a progressive house and deep house artist tracked on soundcheck, with 
 
 Paul Sparkes, Prismode, Solvane
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cris-h/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cris-h/)*

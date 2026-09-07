@@ -1,6 +1,6 @@
 # DJ Perception
 
-DJ Perception is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Moon Club, Bristol on Thu, 24 Sept 2026.
+DJ Perception is a Garage and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Moon Club, Bristol on Thu, 24 Sept 2026.
 
 DJ Perception is a garage and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Berlin, Birmingham and Bristol and 13 more. Often billed alongside Lady Passion, Jeremy Sylvester and Harry Luda. Next up: Moon Club, Bristol on Thu 24 Sept.
 
@@ -28,4 +28,4 @@ DJ Perception is a garage and house artist tracked on soundcheck, with 82 sets l
 
 Lady Passion, Jeremy Sylvester, Harry Luda
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djperception/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djperception/)*

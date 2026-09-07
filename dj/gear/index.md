@@ -1,6 +1,6 @@
 # Gear
 
-Gear is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Harbour Music Shelter, Lisbon on Sun, 20 Sept 2026.
+Gear is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Harbour Music Shelter, Lisbon on Sun, 20 Sept 2026.
 
 Gear is a house and techno artist based in Portugal, tracked on soundcheck, with 104 sets logged across Copenhagen, Lisbon and Porto. Often billed alongside John-E, Kaesar and Bernardo Vaz. Next up: Harbour Music Shelter, Lisbon on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Gear is a house and techno artist based in Portugal, tracked on soundcheck, with
 
 John-E, Kaesar, Bernardo Vaz
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gear/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gear/)*

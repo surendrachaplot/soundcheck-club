@@ -1,6 +1,6 @@
 # Eugeniu Arny
 
-Eugeniu Arny is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at U9, London on Sat, 3 Oct 2026.
+Eugeniu Arny is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at U9, London on Sat, 3 Oct 2026.
 
 Eugeniu Arny is a techno and house artist tracked on soundcheck, with 10 sets logged across London. Often billed alongside Duwat?, Diana Loredana and Folek. Next up: U9, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Eugeniu Arny is a techno and house artist tracked on soundcheck, with 10 sets lo
 
 Duwat?, Diana Loredana, Folek
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eugeniuarny/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eugeniuarny/)*

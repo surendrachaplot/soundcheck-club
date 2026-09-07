@@ -1,6 +1,6 @@
 # First kiss
 
-First kiss is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 25 Sept 2026.
+First kiss is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 25 Sept 2026.
 
 First kiss is a trance and house artist based in Ukraine, tracked on soundcheck, with 2 sets logged across Riga. Often billed alongside E91, Grisha Nirgov and Hannah Holland. Next up: Kaņepes Kultūras Centrs, Riga on Fri 25 Sept.
 
@@ -15,4 +15,4 @@ First kiss is a trance and house artist based in Ukraine, tracked on soundcheck,
 
 E91, Grisha Nirgov, Hannah Holland
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/firstkiss/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/firstkiss/)*

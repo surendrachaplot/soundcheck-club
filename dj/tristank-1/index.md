@@ -1,6 +1,6 @@
 # Tristan K (1)
 
-Tristan K (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Odonien, Cologne on Wed, 9 Sept 2026.
+Tristan K (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Odonien, Cologne on Wed, 9 Sept 2026.
 
 Tristan K (1) is a techno and trance artist based in Germany, tracked on soundcheck, with 5 sets logged across Cologne. Often billed alongside MARRED, anyka and B!B!. Next up: Odonien, Cologne on Wed 9 Sept.
 
@@ -21,4 +21,4 @@ Tristan K (1) is a techno and trance artist based in Germany, tracked on soundch
 
 MARRED, anyka, B!B!
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristank-1/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristank-1/)*

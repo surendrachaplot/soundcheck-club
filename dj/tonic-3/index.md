@@ -1,6 +1,6 @@
 # TONIC (3)
 
-TONIC (3) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Paris Bar, Detroit on Sat, 12 Sept 2026.
+TONIC (3) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Paris Bar, Detroit on Sat, 12 Sept 2026.
 
 TONIC (3) is a techno and club artist tracked on soundcheck, with 3 sets logged across Detroit. Often billed alongside jamea., we1sman and AK (US). Next up: Paris Bar, Detroit on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ TONIC (3) is a techno and club artist tracked on soundcheck, with 3 sets logged 
 
 jamea., we1sman, AK (US)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonic-3/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonic-3/)*

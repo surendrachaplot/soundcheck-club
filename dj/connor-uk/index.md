@@ -1,6 +1,6 @@
 # Connor (UK)
 
-Connor (UK) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The White Hotel, Manchester on Thu, 1 Oct 2026.
+Connor (UK) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The White Hotel, Manchester on Thu, 1 Oct 2026.
 
 Connor (UK) is a techno and house artist tracked on soundcheck, with 30 sets logged across Berlin, Liverpool, London and Manchester and 2 more. Often billed alongside Deventi, quarter ohm and Rosie (UK). Next up: The White Hotel, Manchester on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Connor (UK) is a techno and house artist tracked on soundcheck, with 30 sets log
 
 Deventi, quarter ohm, Rosie (UK)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connor-uk/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/connor-uk/)*

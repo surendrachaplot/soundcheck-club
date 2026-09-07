@@ -1,6 +1,6 @@
 # TONA (2)
 
-TONA (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Rote Sonne, Munich on Fri, 18 Sept 2026.
+TONA (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Rote Sonne, Munich on Fri, 18 Sept 2026.
 
 TONA (2) is a techno and house artist tracked on soundcheck, with 5 sets logged across Munich. Often billed alongside Kasper (5), Sofiia Zoloto and 3LEEZA. Next up: Rote Sonne, Munich on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ TONA (2) is a techno and house artist tracked on soundcheck, with 5 sets logged 
 
 Kasper (5), Sofiia Zoloto, 3LEEZA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tona-2/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tona-2/)*

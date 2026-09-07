@@ -1,6 +1,6 @@
 # alvar.
 
-alvar. is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Spook Club, Valencia on Fri, 9 Oct 2026.
+alvar. is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Spook Club, Valencia on Fri, 9 Oct 2026.
 
 alvar. is a house and afro house artist tracked on soundcheck, with 5 sets logged across Valencia. Often billed alongside Fes Bondat, Gurrex and Clemente (ES). Next up: Spook Club, Valencia on Fri 9 Oct.
 
@@ -21,4 +21,4 @@ alvar. is a house and afro house artist tracked on soundcheck, with 5 sets logge
 
 Fes Bondat, Gurrex, Clemente (ES)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alvar./)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alvar./)*

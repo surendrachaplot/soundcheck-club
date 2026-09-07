@@ -1,6 +1,6 @@
 # THELMA
 
-THELMA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+THELMA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
 THELMA is a techno and house artist tracked on soundcheck, with 96 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 34 more. Often billed alongside Faster Horses, Skin On Skin and Helena Lauwaert. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ THELMA is a techno and house artist tracked on soundcheck, with 96 sets logged a
 
 Faster Horses, Skin On Skin, Helena Lauwaert
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*

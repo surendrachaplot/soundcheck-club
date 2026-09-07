@@ -1,6 +1,6 @@
 # JRD
 
-JRD is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Le Red Room, Montreal on Wed, 9 Sept 2026.
+JRD is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Le Red Room, Montreal on Wed, 9 Sept 2026.
 
 JRD is a techno and electro artist tracked on soundcheck, with 4 sets logged across Antwerp, Glasgow and Montreal. Often billed alongside 7AZ (1), Aegis and Anthony Rother. Next up: Le Red Room, Montreal on Wed 9 Sept.
 
@@ -20,4 +20,4 @@ JRD is a techno and electro artist tracked on soundcheck, with 4 sets logged acr
 
 7AZ (1), Aegis, Anthony Rother
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jrd/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jrd/)*

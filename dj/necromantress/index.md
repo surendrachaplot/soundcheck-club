@@ -1,6 +1,6 @@
 # NECROMANTRESS
 
-NECROMANTRESS is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
+NECROMANTRESS is a Club and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 NECROMANTRESS is a club and trance artist based in United States of America, tracked on soundcheck, with 2 sets logged across Sanfrancisco. Often billed alongside 2dahlia, Arreola Grande and Del (4). Next up: TBA - email histrionixxsf@gmail.com day of event, Sanfrancisco on Sun 27 Sept.
 
@@ -18,4 +18,4 @@ NECROMANTRESS is a club and trance artist based in United States of America, tra
 
 2dahlia, Arreola Grande, Del (4)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/necromantress/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/necromantress/)*

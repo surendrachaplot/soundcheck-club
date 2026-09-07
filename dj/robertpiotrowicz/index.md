@@ -1,6 +1,6 @@
 # Robert Piotrowicz
 
-Robert Piotrowicz is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Wed, 25 Nov 2026.
+Robert Piotrowicz is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Wed, 25 Nov 2026.
 
 Robert Piotrowicz is an experimental and electronica artist tracked on soundcheck, with 12 sets logged across Berlin, Krakow, Mexicocity and Osaka and 3 more. Often billed alongside Jacek Sienkiewicz, Rashad Becker and Koichi Shimizu. Next up: Berghain | Panorama Bar | Säule, Berlin on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Robert Piotrowicz is an experimental and electronica artist tracked on soundchec
 
 Jacek Sienkiewicz, Rashad Becker, Koichi Shimizu
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertpiotrowicz/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertpiotrowicz/)*

@@ -1,6 +1,6 @@
 # Koenji Cave
 
-Koenji Cave is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Koenji Cave presents - Elven Dance - Vol.34" on Fri, 11 Sept 2026.
+Koenji Cave is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Koenji Cave presents - Elven Dance - Vol.34" on Fri, 11 Sept 2026.
 
 Koenji Cave is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including BERLINER KINDL, Bones, CATRONICA and CyberMoripy and 2 more. Browse upcoming dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
@@ -20,4 +20,4 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, w
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*

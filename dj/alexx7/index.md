@@ -1,6 +1,6 @@
 # ALEXX7
 
-ALEXX7 is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at ESC, Montreal on Fri, 11 Sept 2026.
+ALEXX7 is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at ESC, Montreal on Fri, 11 Sept 2026.
 
 ALEXX7 is a hardcore and techno artist based in Canada, tracked on soundcheck, with 1 set logged across Montreal. Often billed alongside fangsie and the bald girl. Next up: ESC, Montreal on Fri 11 Sept.
 
@@ -14,4 +14,4 @@ ALEXX7 is a hardcore and techno artist based in Canada, tracked on soundcheck, w
 
 fangsie, the bald girl
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexx7/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexx7/)*

@@ -1,6 +1,6 @@
 # ATEQ
 
-ATEQ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Bassiani, Tbilisi on Fri, 11 Sept 2026.
+ATEQ is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bassiani, Tbilisi on Fri, 11 Sept 2026.
 
 ATEQ is a techno and house artist tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Berlin and Cologne and 13 more. Often billed alongside ORION (IT), skyra and Hamatsuki. Next up: Bassiani, Tbilisi on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ ATEQ is a techno and house artist tracked on soundcheck, with 51 sets logged acr
 
 ORION (IT), skyra, Hamatsuki
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*

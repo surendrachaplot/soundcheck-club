@@ -1,6 +1,6 @@
 # ARKNGL
 
-ARKNGL is a Jungle and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Planet Wax, London on Thu, 10 Sept 2026.
+ARKNGL is a Jungle and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Planet Wax, London on Thu, 10 Sept 2026.
 
 ARKNGL is a jungle and club artist tracked on soundcheck, with 12 sets logged across London. Often billed alongside BBSHKALES, SALD3E and XT1ANA. Next up: Planet Wax, London on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ ARKNGL is a jungle and club artist tracked on soundcheck, with 12 sets logged ac
 
 BBSHKALES, SALD3E, XT1ANA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arkngl/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arkngl/)*

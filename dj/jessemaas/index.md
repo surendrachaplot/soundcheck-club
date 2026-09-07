@@ -1,6 +1,6 @@
 # Jesse Maas
 
-Jesse Maas is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Toffler, Rotterdam on Sat, 19 Sept 2026.
+Jesse Maas is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Toffler, Rotterdam on Sat, 19 Sept 2026.
 
 Jesse Maas is a house and tech house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Auckland, Barcelona and Dublin and 11 more. Often billed alongside Benny Rodrigues, Boss Priester and Dennis Quin. Next up: Toffler, Rotterdam on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Jesse Maas is a house and tech house artist tracked on soundcheck, with 75 sets 
 
 Benny Rodrigues, Boss Priester, Dennis Quin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessemaas/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jessemaas/)*

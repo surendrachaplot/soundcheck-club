@@ -1,6 +1,6 @@
 # Satori
 
-Satori is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Scorpios, Mykonos on Thu, 17 Sept 2026.
+Satori is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Scorpios, Mykonos on Thu, 17 Sept 2026.
 
 Satori is a house and techno artist based in Netherlands, tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside Sorä, Cera Khin and Dixon. Next up: Scorpios, Mykonos on Thu 17 Sept.
 
@@ -29,4 +29,4 @@ Satori is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 Sorä, Cera Khin, Dixon
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/satori/)*

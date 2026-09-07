@@ -1,6 +1,6 @@
 # Warrego Valles at Triangle
 
-Warrego Valles at Triangle on Fri 25 Sept, Osaka. 3 acts on the bill: Ascalypso, Warrego Valles and WÖNDER GIRL. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Warrego Valles at Triangle on Fri 25 Sept, Osaka. 4 acts on the bill: _goodbyeforever_, Ascalypso, Warrego Valles and WÖNDER GIRL. Electro and Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Warrego Valles at Triangle on Fri 25 Sept, Osaka. 3 acts on the bill: Ascalypso,
 
 ## Line-up
 
+- _goodbyeforever_
 - Ascalypso
 - Warrego Valles
 - WÖNDER GIRL

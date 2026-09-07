@@ -1,8 +1,8 @@
 # Hyperrealist Dreamer
 
-Hyperrealist Dreamer is a Tech House and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Sensorium, Berlin on Fri, 11 Sept 2026.
+Hyperrealist Dreamer is a Drum & Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sensorium, Berlin on Fri, 11 Sept 2026.
 
-Hyperrealist Dreamer is a tech house and ambient artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Bouquet, Ivana_dnb and MixB. Next up: Sensorium, Berlin on Fri 11 Sept.
+Hyperrealist Dreamer is a drum & bass and ambient artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Bouquet, Ivana_dnb and MixB. Next up: Sensorium, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Hyperrealist Dreamer is a tech house and ambient artist tracked on soundcheck, w
 
 Bouquet, Ivana_dnb, MixB
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperrealistdreamer/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperrealistdreamer/)*

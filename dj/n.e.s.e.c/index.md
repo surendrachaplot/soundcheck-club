@@ -1,6 +1,6 @@
 # n.e.s.e.c
 
-n.e.s.e.c is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Parque del Tránsito, Toledo, Madrid on Fri, 11 Sept 2026.
+n.e.s.e.c is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Parque del Tránsito, Toledo, Madrid on Fri, 11 Sept 2026.
 
 n.e.s.e.c is a house and techno artist tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside System Efe, Yoikol and Fernanda Arrau. Next up: Parque del Tránsito, Toledo, Madrid on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ n.e.s.e.c is a house and techno artist tracked on soundcheck, with 6 sets logged
 
 System Efe, Yoikol, Fernanda Arrau
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n.e.s.e.c/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/n.e.s.e.c/)*

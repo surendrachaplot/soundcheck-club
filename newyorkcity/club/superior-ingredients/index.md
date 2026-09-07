@@ -1,14 +1,13 @@
 # Superior Ingredients
 
-Superior Ingredients is a music venue in New York City with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Laidback Luke w. Tommie Sunshine, Junior Sanchez & Guests" on Sun, 6 Sept 2026.
+Superior Ingredients is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Boris Classics - open X close (ROOFTOP)" on Mon, 7 Sept 2026.
 
-Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 10 upcoming nights, with line-ups including ALT8, Collin Oliver, Cosmic Gate and Ford Scott and 2 more. Browse upcoming dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
+Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including ALT8, Collin Oliver, Cosmic Gate and Ford Scott and 2 more. Browse upcoming dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Laidback Luke w. Tommie Sunshine, Junior Sanchez & Guests | Junior Sanchez, Laidback Luke, Sarindipity, Tommie Sunshine |
 | Mon, 7 Sept 2026 | Boris Classics - open X close (ROOFTOP) |  |
 | Sat, 12 Sept 2026 | Yellow Claw presents: Euro Trash on the Roof 9/12 |  |
 | Sat, 12 Sept 2026 | Superior Ingredients 9/12: Yellow Claw in THE ROOM | Yellow Claw |
@@ -23,4 +22,4 @@ Superior Ingredients is a music venue in Newyorkcity listed on soundcheck. 10 up
 
 74 Wythe Avenue, Brooklyn, NY 11249, New York City
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*

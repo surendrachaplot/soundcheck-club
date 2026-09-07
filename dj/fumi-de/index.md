@@ -1,6 +1,6 @@
 # fumi (DE)
 
-fumi (DE) is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+fumi (DE) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 fumi (DE) is a techno and trance artist tracked on soundcheck, with 133 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 37 more. Often billed alongside Serafina, Adrian Mills and Cloudy. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -9,14 +9,13 @@ fumi (DE) is a techno and trance artist tracked on soundcheck, with 133 sets log
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Sat, 5 Sept 2026 | Industry City | New York City |
-| Sun, 6 Sept 2026 | Factory Town | Miami |
 | Sat, 19 Sept 2026 | RSO.BERLIN | Berlin |
 | Sun, 25 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 21 Nov 2026 | Northcote Theatre | Melbourne |
 
 ## Recently played
 
+- Factory Town, Miami — Sun, 6 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Flash, Washington DC — Fri, 4 Sept 2026
@@ -24,10 +23,9 @@ fumi (DE) is a techno and trance artist tracked on soundcheck, with 133 sets log
 - Odonien, Cologne — Fri, 24 Jul 2026
 - Else, Berlin — Sun, 5 Jul 2026
 - TBA - TANZ INSEL OPEN AIR, Nürnberg — Sat, 27 Jun 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Serafina, Adrian Mills, Cloudy
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*

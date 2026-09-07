@@ -1,6 +1,6 @@
 # Nina Farrina
 
-Nina Farrina is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Fuchs2, Prague on Fri, 11 Sept 2026.
+Nina Farrina is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Fuchs2, Prague on Fri, 11 Sept 2026.
 
 Nina Farrina is a techno and experimental artist tracked on soundcheck, with 137 sets logged across Berlin, Brussels, Budapest and Copenhagen and 11 more. Often billed alongside 3ever, SJ Yellow and tmk (CZ). Next up: Fuchs2, Prague on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Nina Farrina is a techno and experimental artist tracked on soundcheck, with 137
 
 3ever, SJ Yellow, tmk (CZ)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninafarrina/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninafarrina/)*

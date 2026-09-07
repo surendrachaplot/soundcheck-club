@@ -1,6 +1,6 @@
 # Core
 
-Core is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "BCM XXII con Mina Galán, Revan y Baby Pantera" on Sat, 12 Sept 2026.
+Core is a music venue in Madrid with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "BCM XXII con Mina Galán, Revan y Baby Pantera" on Sat, 12 Sept 2026.
 
 Core is a music venue in Madrid listed on soundcheck. 1 upcoming night, with line-ups including Baby Pantera, Mina Galán and Revan. Browse upcoming dates, start times and who's playing. Madrid, 28013, Calle de Tetuán, 27, España.
 
@@ -14,4 +14,4 @@ Core is a music venue in Madrid listed on soundcheck. 1 upcoming night, with lin
 
 Madrid, 28013, Calle de Tetuán, 27, España, Madrid
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*

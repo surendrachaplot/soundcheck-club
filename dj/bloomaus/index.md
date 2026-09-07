@@ -1,6 +1,6 @@
 # Bloom (AUS)
 
-Bloom (AUS) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Bloom (AUS) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Bloom (AUS) is a techno and house artist tracked on soundcheck, with 4 sets logged across Amsterdam and London. Often billed alongside Jamie de Rooy, Labyrinthine and ALISHA. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Bloom (AUS) is a techno and house artist tracked on soundcheck, with 4 sets logg
 
 Jamie de Rooy, Labyrinthine, ALISHA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloomaus/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bloomaus/)*

@@ -1,14 +1,13 @@
 # Skeptical
 
-Skeptical is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Skeptical is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
-Skeptical is a drum & bass and jungle artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Auckland and Basel and 26 more. Often billed alongside SP:MC, MC GQ and Breakage. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Skeptical is a drum & bass and jungle artist tracked on soundcheck, with 70 sets logged across Amsterdam, Antwerp, Auckland and Basel and 26 more. Often billed alongside SP:MC, MC GQ and Breakage. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 | Thu, 3 Dec 2026 | Expirat Halele Carol | Bucharest |
 
@@ -27,4 +26,4 @@ Skeptical is a drum & bass and jungle artist tracked on soundcheck, with 70 sets
 
 SP:MC, MC GQ, Breakage
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptical/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptical/)*

@@ -1,6 +1,6 @@
 # Mah'Mood
 
-Mah'Mood is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Canal 54, Geneva on Fri, 11 Sept 2026.
+Mah'Mood is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Canal 54, Geneva on Fri, 11 Sept 2026.
 
 Mah'Mood is an electro and house artist tracked on soundcheck, with 7 sets logged across Geneva. Often billed alongside Dam Swindle, Earl Jeffers and Mark Seven. Next up: Canal 54, Geneva on Fri 11 Sept.
 
@@ -23,4 +23,4 @@ Mah'Mood is an electro and house artist tracked on soundcheck, with 7 sets logge
 
 Dam Swindle, Earl Jeffers, Mark Seven
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmood-sw/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmood-sw/)*

@@ -1,6 +1,6 @@
 # CHARLES-EDDY
 
-CHARLES-EDDY is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Cellar, Sydney on Sat, 26 Sept 2026.
+CHARLES-EDDY is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Cellar, Sydney on Sat, 26 Sept 2026.
 
 CHARLES-EDDY is a house and deep house artist based in France, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Melbourne and Sydney and 1 more. Often billed alongside DJ JNETT, Oscar de Lima and Ed Kent. Next up: The Cellar, Sydney on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ CHARLES-EDDY is a house and deep house artist based in France, tracked on soundc
 
 DJ JNETT, Oscar de Lima, Ed Kent
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charles-eddy/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/charles-eddy/)*

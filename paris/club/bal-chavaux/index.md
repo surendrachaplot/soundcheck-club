@@ -1,6 +1,6 @@
 # Bal Chavaux
 
-Bal Chavaux is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Tribal Sound System by MISANTROPICAL & Couvre x Chefs" on Sat, 26 Sept 2026.
+Bal Chavaux is a music venue in Paris with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Tribal Sound System by MISANTROPICAL & Couvre x Chefs" on Sat, 26 Sept 2026.
 
 Bal Chavaux is a music venue in Paris listed on soundcheck. 2 upcoming nights, with line-ups including acideplastique, Aloka, b3bz and Bile Noire and 2 more. Browse upcoming dates, start times and who's playing. 1 Av. de la Résistance, 93100 Montreuil.
 
@@ -15,4 +15,4 @@ Bal Chavaux is a music venue in Paris listed on soundcheck. 2 upcoming nights, w
 
 1 Av. de la Résistance, 93100 Montreuil, Paris
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*

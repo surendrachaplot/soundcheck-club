@@ -1,6 +1,6 @@
 # Kevin Saunderson
 
-Kevin Saunderson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Ministerium Club, Lisbon on Fri, 25 Sept 2026.
+Kevin Saunderson is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Ministerium Club, Lisbon on Fri, 25 Sept 2026.
 
 Kevin Saunderson is a techno and house artist tracked on soundcheck, with 118 sets logged across Amsterdam, Barcelona, Berlin and Buenosaires and 33 more. Often billed alongside The Saunderson Brothers, Carl Craig and DJ Holographic. Next up: Ministerium Club, Lisbon on Fri 25 Sept.
 
@@ -35,4 +35,4 @@ Kevin Saunderson is a techno and house artist tracked on soundcheck, with 118 se
 
 The Saunderson Brothers, Carl Craig, DJ Holographic
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinsaunderson/)*

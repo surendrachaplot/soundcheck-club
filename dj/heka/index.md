@@ -1,6 +1,6 @@
 # Heka
 
-Heka is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Quarry, Liverpool on Thu, 29 Oct 2026.
+Heka is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Quarry, Liverpool on Thu, 29 Oct 2026.
 
 Heka is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Berlin, Bristol and Liverpool. Often billed alongside Aidan, CSILLA and Clovis. Next up: Quarry, Liverpool on Thu 29 Oct.
 
@@ -19,4 +19,4 @@ Heka is an experimental and techno artist based in United Kingdom, tracked on so
 
 Aidan, CSILLA, Clovis
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heka/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/heka/)*

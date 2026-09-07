@@ -1,6 +1,6 @@
 # Helsloot
 
-Helsloot is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Brooklyn Paramount, New York City on Sat, 26 Sept 2026.
+Helsloot is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Brooklyn Paramount, New York City on Sat, 26 Sept 2026.
 
 Helsloot is a techno and progressive house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Austin, Berlin and Bristol and 18 more. Often billed alongside Tinlicker, Hollt and Mees Salomé. Next up: Brooklyn Paramount, Newyorkcity on Sat 26 Sept.
 
@@ -28,4 +28,4 @@ Helsloot is a techno and progressive house artist tracked on soundcheck, with 47
 
 Tinlicker, Hollt, Mees Salomé
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helsloot/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helsloot/)*

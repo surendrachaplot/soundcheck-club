@@ -1,6 +1,6 @@
 # Franz Scala
 
-Franz Scala is a Italo Disco and House artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Melt Underground, Buenos Aires on Fri, 11 Sept 2026.
+Franz Scala is a Italo Disco and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Melt Underground, Buenos Aires on Fri, 11 Sept 2026.
 
 Franz Scala is an italo disco and house artist tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 26 more. Often billed alongside Fabrizio Mammarella, Giulia Gutterer and Paty Vapor. Next up: Melt Underground, Buenosaires on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Franz Scala is an italo disco and house artist tracked on soundcheck, with 167 s
 
 Fabrizio Mammarella, Giulia Gutterer, Paty Vapor
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*

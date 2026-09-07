@@ -1,6 +1,6 @@
 # YOJIBERI
 
-YOJIBERI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Akhnaton, Amsterdam on Fri, 11 Sept 2026.
+YOJIBERI is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Akhnaton, Amsterdam on Fri, 11 Sept 2026.
 
 YOJIBERI is a techno and house artist based in Netherlands, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside issagirl, Eylon and GATTOMUSiC. Next up: Akhnaton, Amsterdam on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ YOJIBERI is a techno and house artist based in Netherlands, tracked on soundchec
 
 issagirl, Eylon, GATTOMUSiC
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yojiberi/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yojiberi/)*

@@ -1,6 +1,6 @@
 # Max Sinàl
 
-Max Sinàl is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
+Max Sinàl is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Glove That Fits, London on Sat, 12 Sept 2026.
 
 Max Sinàl is a deep house and house artist tracked on soundcheck, with 32 sets logged across Amsterdam, Brighton and London. Often billed alongside Mr James, LEV (UK) and Elliot Schooling. Next up: The Glove That Fits, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Max Sinàl is a deep house and house artist tracked on soundcheck, with 32 sets 
 
 Mr James, LEV (UK), Elliot Schooling
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsinal/)*

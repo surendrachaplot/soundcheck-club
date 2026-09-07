@@ -1,6 +1,6 @@
 # myst milano.
 
-myst milano. is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Jama, Toronto on Sat, 19 Sept 2026.
+myst milano. is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Jama, Toronto on Sat, 19 Sept 2026.
 
 myst milano. is a club and baile funk artist based in Canada, tracked on soundcheck, with 42 sets logged across Brussels, Montreal and Toronto. Often billed alongside Ard1n, Litney and HVN (1). Next up: The Jama, Toronto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ myst milano. is a club and baile funk artist based in Canada, tracked on soundch
 
 Ard1n, Litney, HVN (1)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mystmilano./)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mystmilano./)*

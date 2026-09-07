@@ -1,6 +1,6 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Nomagie Community Event" on Fri, 11 Sept 2026.
+Marmorbar is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Nomagie Community Event" on Fri, 11 Sept 2026.
 
 Marmorbar is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including Border Diva, Dj handbag, DJILF and ENNIO and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
@@ -17,4 +17,4 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 4 upcoming nights, wi
 
 Vor dem Schlesischen Tor 3  10997 Berlin, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*

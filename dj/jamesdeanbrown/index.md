@@ -1,6 +1,6 @@
 # James Dean Brown
 
-James Dean Brown is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+James Dean Brown is a Minimal Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 James Dean Brown is a minimal techno and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Frankfurt, Geneva and Paris and 1 more. Often billed alongside Sammy Dee, Argenis Brito and Chica Paula. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ James Dean Brown is a minimal techno and house artist based in Germany, tracked 
 
 Sammy Dee, Argenis Brito, Chica Paula
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdeanbrown/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdeanbrown/)*

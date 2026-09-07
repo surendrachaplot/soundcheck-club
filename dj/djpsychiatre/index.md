@@ -1,6 +1,6 @@
 # DJ Psychiatre
 
-DJ Psychiatre is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Le Bateau Phare, Paris on Fri, 23 Oct 2026.
+DJ Psychiatre is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Le Bateau Phare, Paris on Fri, 23 Oct 2026.
 
 DJ Psychiatre is an electro and house artist tracked on soundcheck, with 5 sets logged across Paris. Often billed alongside Ams (FR), Cosmonection and Kx9000. Next up: Le Bateau Phare, Paris on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ DJ Psychiatre is an electro and house artist tracked on soundcheck, with 5 sets 
 
 Ams (FR), Cosmonection, Kx9000
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpsychiatre/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpsychiatre/)*

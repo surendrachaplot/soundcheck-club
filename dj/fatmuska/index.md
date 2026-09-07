@@ -1,6 +1,6 @@
 # fatmuska
 
-fatmuska is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
+fatmuska is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
 
 fatmuska is a techno and house artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Hamburg and Leipzig. Often billed alongside DJ Purpur, ELLI B and tamarawrx3. Next up: Distillery, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ fatmuska is a techno and house artist based in Germany, tracked on soundcheck, w
 
 DJ Purpur, ELLI B, tamarawrx3
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatmuska/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatmuska/)*

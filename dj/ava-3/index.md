@@ -1,14 +1,13 @@
 # AVA (3)
 
-AVA (3) is a Tech House and Electro artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Sawmills, Bristol on Sat, 5 Sept 2026.
+AVA (3) is a Tech House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Love Inn, Bristol on Fri, 11 Sept 2026.
 
-AVA (3) is a tech house and electro artist tracked on soundcheck, with 7 sets logged across Bristol, London and Southampton. Often billed alongside Azumei, DASHY and IZZIT. Next up: Sawmills, Bristol on Sat 5 Sept.
+AVA (3) is a tech house and electro artist tracked on soundcheck, with 7 sets logged across Bristol, London and Southampton. Often billed alongside Azumei, DASHY and IZZIT. Next up: The Love Inn, Bristol on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Sawmills | Bristol |
 | Fri, 11 Sept 2026 | The Love Inn | Bristol |
 
 ## Recently played
@@ -24,4 +23,4 @@ AVA (3) is a tech house and electro artist tracked on soundcheck, with 7 sets lo
 
 Azumei, DASHY, IZZIT
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ava-3/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ava-3/)*

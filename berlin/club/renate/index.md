@@ -1,14 +1,13 @@
 # Renate
 
-Renate is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Renate Free Market by Transient from Ukraine" on Sun, 6 Sept 2026.
+Renate is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Renate Klubnacht + Open Air (Free Entry) with Solace Space" on Thu, 10 Sept 2026.
 
-Renate is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including 80HDJ, ābnamā, Adam Cooke and AGILY and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
+Renate is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including 80HDJ, ābnamā, Adam Cooke and AGILY and 2 more. Browse upcoming dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Renate Free Market by Transient from Ukraine | Ann Mysochka, Loves_kills, Mark Gill, Rina Katen, nuarrrrr |
 | Thu, 10 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Solace Space | Asa Tate, Cashper, Cathal, Fhionn, Slowfoam |
 | Thu, 10 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) with Solace Space | Asa Tate, Cashper, Cathal, Der Opium Queen, Fhionn, Slowfoam |
 | Fri, 11 Sept 2026 | Happy 19th Birthday Renate 7 Floors, 66 Hours w/ Angel D'lite, Stenny, Mary Lake, Daniel Avery | AGILY, Adam Cooke, Ali (4), Alison Swing, Amy Dabbs, Ana Selina, Angel D'lite, Bell Towers, Big Leg, Black Mirror Park, Camilla Rae, Carly Zeng, Cheriii, Crille & Tamalt, DJ CHICHI, DJ Life, DJ Pete, Dana Ruh, Daniel (UK), Daniel Avery, David Fogarty, Dornika, Eternal Soup, Faited, Felix Cornelsen, Frinda di Lanco, Gwen Wayne, Handmade, Hendrik Stein, Immy, JM Moser, Johanna Elias, John Loveless, Lara Fein, Luca Elsi, Lush Lab, MASCHA, Madalba, Mara Menace, Mark Gill, Mary Lake, NIKITA (2), Nadia Wise, Nikita T, Obelix, Organza, Overthink 71, Psyked, Punani, Rafush, Richii, Robin Flux, Rosa Kante, Sansibar, Stenny, Sumi (3), Tam Tam, TamTam, Tangela, Triqi, Tzena, UrbnMowgli, VEB Elektrokunst, Vio PRG, degen, elliephunk, lisa tba, sin serif, sumi, ābnamā |
@@ -18,9 +17,10 @@ Renate is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with
 | Fri, 25 Sept 2026 | Renate Klubnacht x Haram Night | Amowia, SXCL, saHHar |
 | Sat, 26 Sept 2026 | Renate Klubnacht + Open Air (Free Entry) | BBYG, Cowper, DJ CHICHI, Hanna Baertig, Infamous Ali, sleeptwitch |
 | Sat, 3 Oct 2026 | Renate Free Open Air (TDC) + Klubnacht with Fairies & Fluid Vision |  |
+| Fri, 16 Oct 2026 | 13 YRS Rebellion der Träumer* |  |
 
 ## Address
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

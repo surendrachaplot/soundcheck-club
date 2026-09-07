@@ -1,6 +1,6 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Dance Therapy with DJs Mark Turner and Karl Roscoe" on Fri, 18 Sept 2026.
+The Golden Lion is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Dance Therapy with DJs Mark Turner and Karl Roscoe" on Fri, 18 Sept 2026.
 
 The Golden Lion is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Alex Dallas, Bakey, CHÉ WAX and Chunky and 2 more. Browse upcoming dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
@@ -23,4 +23,4 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 10 upcoming
 
 Fielden Square, Todmorden, OL14 6LZ, United Kingdom, Manchester
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*

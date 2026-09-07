@@ -1,6 +1,6 @@
 # La Gravière
 
-La Gravière is a music venue in Geneva with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "[OH MY GOD FLOWERZ] Flowerz · Abi2spee · Malefi · C.Sugvr · Neya · Dem Gyalzzz · Bony Fly" on Wed, 9 Sept 2026.
+La Gravière is a music venue in Geneva with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "[OH MY GOD FLOWERZ] Flowerz · Abi2spee · Malefi · C.Sugvr · Neya · Dem Gyalzzz · Bony Fly" on Wed, 9 Sept 2026.
 
 La Gravière is a music venue in Geneva listed on soundcheck. 6 upcoming nights, with line-ups including BJF, Bony Fly, Imsobaby and Mina and 1 more. Browse upcoming dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
 
@@ -19,4 +19,4 @@ La Gravière is a music venue in Geneva listed on soundcheck. 6 upcoming nights,
 
 Chemin de la Gravière 9, 1227 Genève, Switzerland, Geneva
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*

@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+1morning is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 1morning is a techno and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Akua, DJ Stingray 313 and Regal86. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -29,4 +29,4 @@
 
 Akua, DJ Stingray 313, Regal86
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

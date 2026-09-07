@@ -1,6 +1,6 @@
 # Rosie Ama
 
-Rosie Ama is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Social, London on Fri, 9 Oct 2026.
+Rosie Ama is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Social, London on Fri, 9 Oct 2026.
 
 Rosie Ama is a house and balearic artist tracked on soundcheck, with 31 sets logged across Bristol, Leeds, London and Madrid and 2 more. Often billed alongside Matt Cowell, Ally Tropical and Harry James. Next up: The Social, London on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Rosie Ama is a house and balearic artist tracked on soundcheck, with 31 sets log
 
 Matt Cowell, Ally Tropical, Harry James
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosieama/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rosieama/)*

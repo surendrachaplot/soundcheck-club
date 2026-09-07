@@ -1,14 +1,13 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 7 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "WHITE NIGHTS OPEN DECKS" on Sun, 6 Sept 2026.
+B2 Rīga is a music venue in Riga with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "PIXEL VOL 2" on Sat, 12 Sept 2026.
 
-B2 Rīga is a music venue in Riga listed on soundcheck. 7 upcoming nights, with line-ups including Aistelele, DEEP DISTRICT, Diego Krause and D I N and 2 more. Browse upcoming dates, start times and who's playing. Bruņinieku iela 2, Rīga.
+B2 Rīga is a music venue in Riga listed on soundcheck. 6 upcoming nights, with line-ups including Aistelele, DEEP DISTRICT, Diego Krause and D I N and 2 more. Browse upcoming dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | WHITE NIGHTS OPEN DECKS | Vaizini |
 | Sat, 12 Sept 2026 | PIXEL VOL 2 | Hele, RAF [ LT ], Sorsa |
 | Fri, 18 Sept 2026 | HOIST 005 | Aistelele, Mikass |
 | Fri, 25 Sept 2026 | I Do Believe | Mario Moretti, Raivo |
@@ -20,4 +19,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 7 upcoming nights, with 
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

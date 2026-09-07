@@ -1,6 +1,6 @@
 # Tektite: Corran, Harry Jackson + residents (£3.50 TIX) at The Bongo Club
 
-Tektite: Corran, Harry Jackson + residents (£3.50 TIX) at The Bongo Club on Fri 18 Sept, Edinburgh. 4 acts on the bill: Corran, FOLIE (UK), Harry Jackson and Rodent. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Tektite: Corran, Harry Jackson + residents (£3.50 TIX) at The Bongo Club on Fri 18 Sept, Edinburgh. 4 acts on the bill: Corran, FOLIE (UK), Harry Jackson and Rodent. Drum & Bass and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

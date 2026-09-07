@@ -1,6 +1,6 @@
 # Em-J
 
-Em-J is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Siwilai Radical Club, Bangkok on Sat, 19 Sept 2026.
+Em-J is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Siwilai Radical Club, Bangkok on Sat, 19 Sept 2026.
 
 Em-J is a techno and garage artist tracked on soundcheck, with 44 sets logged across Bangkok. Often billed alongside GUNI, Accidental District and Wot?. Next up: Siwilai Radical Club, Bangkok on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Em-J is a techno and garage artist tracked on soundcheck, with 44 sets logged ac
 
 GUNI, Accidental District, Wot?
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/em-j/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/em-j/)*

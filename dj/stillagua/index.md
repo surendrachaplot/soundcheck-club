@@ -1,6 +1,6 @@
 # Still Agua
 
-Still Agua is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at OHM, Berlin on Fri, 11 Sept 2026.
+Still Agua is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at OHM, Berlin on Fri, 11 Sept 2026.
 
 Still Agua is a breakbeat and house artist tracked on soundcheck, with 2 sets logged across Berlin and Rome. Often billed alongside Courtesy, Eric D. Clark and I U S. Next up: OHM, Berlin on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Still Agua is a breakbeat and house artist tracked on soundcheck, with 2 sets lo
 
 Courtesy, Eric D. Clark, I U S
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stillagua/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stillagua/)*

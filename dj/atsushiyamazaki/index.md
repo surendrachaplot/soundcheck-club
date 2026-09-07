@@ -1,6 +1,6 @@
 # Atsushi Yamazaki
 
-Atsushi Yamazaki is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Azumaya, Tokyo on Thu, 24 Sept 2026.
+Atsushi Yamazaki is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Azumaya, Tokyo on Thu, 24 Sept 2026.
 
 Atsushi Yamazaki is a disco and house artist based in United Kingdom, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside CHIDA. Next up: Azumaya, Tokyo on Thu 24 Sept.
 
@@ -14,4 +14,4 @@ Atsushi Yamazaki is a disco and house artist based in United Kingdom, tracked on
 
 CHIDA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atsushiyamazaki/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atsushiyamazaki/)*

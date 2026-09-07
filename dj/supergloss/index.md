@@ -1,15 +1,13 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Supergloss is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Avalon Hollywood, Los Angeles on Sat, 12 Sept 2026.
 
-Supergloss is a techno and trance artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Industry City, Newyorkcity on Sat 5 Sept.
+Supergloss is a techno and trance artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: Avalon Hollywood, Losangeles on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Industry City | New York City |
-| Sun, 6 Sept 2026 | Factory Town | Miami |
 | Sat, 12 Sept 2026 | Avalon Hollywood | Los Angeles |
 | Sun, 13 Sept 2026 | 888 Garage | San Francisco/Oakland |
 | Sat, 19 Sept 2026 | FOLD | London |
@@ -20,9 +18,12 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 208 sets lo
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
+| Sat, 31 Oct 2026 | Fabrik | Madrid |
+| Fri, 6 Nov 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- Factory Town, Miami — Sun, 6 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
 - Industry City, New York City — Sat, 5 Sept 2026
 - fi, Cologne — Sat, 15 Aug 2026
@@ -30,10 +31,9 @@ Supergloss is a techno and trance artist tracked on soundcheck, with 208 sets lo
 - Lofi, Amsterdam — Fri, 7 Aug 2026
 - Boston Manor Park, London — Sun, 2 Aug 2026
 - Studio Club Malaga, Malaga — Fri, 31 Jul 2026
-- Mondo, Madrid — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Funk Tribu, Omon Breaker, MALUGI
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

@@ -1,14 +1,13 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at H0L0, New York City on Sat, 5 Sept 2026.
+Max Sprauer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Dolphin, Philadelphia on Sat, 12 Sept 2026.
 
-Max Sprauer is a house and techno artist tracked on soundcheck, with 105 sets logged across Berlin, Boston, Brussels and Chicago and 10 more. Often billed alongside Shvili, Rama NYC and CAMILLA. Next up: H0L0, Newyorkcity on Sat 5 Sept.
+Max Sprauer is a house and techno artist tracked on soundcheck, with 105 sets logged across Berlin, Boston, Brussels and Chicago and 10 more. Often billed alongside Shvili, Rama NYC and CAMILLA. Next up: The Dolphin, Philadelphia on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | H0L0 | New York City |
 | Sat, 12 Sept 2026 | The Dolphin | Philadelphia |
 | Sat, 19 Sept 2026 | Secret Location | London |
 
@@ -27,4 +26,4 @@ Max Sprauer is a house and techno artist tracked on soundcheck, with 105 sets lo
 
 Shvili, Rama NYC, CAMILLA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

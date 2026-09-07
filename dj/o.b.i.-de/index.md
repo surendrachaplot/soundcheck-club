@@ -1,14 +1,13 @@
 # O.B.I. (DE)
 
-O.B.I. (DE) is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+O.B.I. (DE) is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Circuit de Barcelona - Catalunya, Barcelona on Fri, 11 Sept 2026.
 
-O.B.I. (DE) is a techno and industrial artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 26 more. Often billed alongside Svetec, Johannes Schuster and TANJA MIJU. Next up: Industry City, Newyorkcity on Sat 5 Sept.
+O.B.I. (DE) is a techno and industrial artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 26 more. Often billed alongside Svetec, Johannes Schuster and TANJA MIJU. Next up: Circuit de Barcelona - Catalunya, Barcelona on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Industry City | New York City |
 | Fri, 11 Sept 2026 | Circuit de Barcelona - Catalunya | Barcelona |
 | Sat, 3 Oct 2026 | Gate Milano | Milan |
 | Fri, 30 Oct 2026 | Airport Würzburg | Nürnberg |
@@ -28,4 +27,4 @@ O.B.I. (DE) is a techno and industrial artist tracked on soundcheck, with 70 set
 
 Svetec, Johannes Schuster, TANJA MIJU
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*

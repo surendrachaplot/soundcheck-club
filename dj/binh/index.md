@@ -1,6 +1,6 @@
 # Binh
 
-Binh is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Binh is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Binh is a techno and house artist tracked on soundcheck, with 199 sets logged across Amsterdam, Austin, Bali and Bangkok and 43 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -36,4 +36,4 @@ Binh is a techno and house artist tracked on soundcheck, with 199 sets logged ac
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

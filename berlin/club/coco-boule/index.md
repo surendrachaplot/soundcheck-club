@@ -1,6 +1,6 @@
 # Coco Boule
 
-Coco Boule is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "(lip) service edt. 14" on Thu, 10 Sept 2026.
+Coco Boule is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "(lip) service edt. 14" on Thu, 10 Sept 2026.
 
 Coco Boule is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including ALBA (3), Alírio, An-i and Daura and 2 more. Browse upcoming dates, start times and who's playing. Prinzenstraße 85/D-F, 10969 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Coco Boule is a music venue in Berlin listed on soundcheck. 3 upcoming nights, w
 
 Prinzenstraße 85/D-F, 10969 Berlin, Germany, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/coco-boule/)*

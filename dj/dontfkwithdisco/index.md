@@ -1,6 +1,6 @@
 # Don't F**k with Disco
 
-Don't F**k with Disco is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Un.Titled Studio, Manchester on Sat, 12 Sept 2026.
+Don't F**k with Disco is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Un.Titled Studio, Manchester on Sat, 12 Sept 2026.
 
 Don't F**k with Disco is a house and disco artist tracked on soundcheck, with 20 sets logged across Birmingham, Bristol, Ibiza and Liverpool and 2 more. Often billed alongside Cj Cooper, Daisybelle and M'Lover. Next up: Un.Titled Studio, Manchester on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Don't F**k with Disco is a house and disco artist tracked on soundcheck, with 20
 
 Cj Cooper, Daisybelle, M'Lover
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dontfkwithdisco/)*

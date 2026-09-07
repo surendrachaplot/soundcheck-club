@@ -1,6 +1,6 @@
 # SNKLS
 
-SNKLS is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Brasserie de la Mule, Brussels on Fri, 25 Sept 2026.
+SNKLS is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Brasserie de la Mule, Brussels on Fri, 25 Sept 2026.
 
 SNKLS is an electronic artist tracked on soundcheck, with 2 sets logged across Brussels and Lyon. Often billed alongside EliseThere, Flore and Knurx. Next up: Brasserie de la Mule, Brussels on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ SNKLS is an electronic artist tracked on soundcheck, with 2 sets logged across B
 
 EliseThere, Flore, Knurx
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snkls/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/snkls/)*

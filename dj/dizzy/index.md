@@ -1,6 +1,6 @@
 # Dizzy
 
-Dizzy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Tresor / Globus, Berlin on Mon, 7 Sept 2026.
+Dizzy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Tresor / Globus, Berlin on Mon, 7 Sept 2026.
 
 Dizzy is a techno and house artist based in Italy, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Lisbon and London and 6 more. Often billed alongside Pabie, Dario Lem and Brasi. Next up: Tresor / Globus, Berlin on Mon 7 Sept.
 
@@ -28,4 +28,4 @@ Dizzy is a techno and house artist based in Italy, tracked on soundcheck, with 3
 
 Pabie, Dario Lem, Brasi
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*

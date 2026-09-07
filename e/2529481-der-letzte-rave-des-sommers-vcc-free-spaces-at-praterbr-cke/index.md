@@ -1,6 +1,6 @@
 # Der letzte Rave des Sommers – VCC Free Spaces at Praterbrücke
 
-Der letzte Rave des Sommers – VCC Free Spaces at Praterbrücke on Fri 25 Sept, Vienna. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Der letzte Rave des Sommers – VCC Free Spaces at Praterbrücke on Fri 25 Sept, Vienna. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

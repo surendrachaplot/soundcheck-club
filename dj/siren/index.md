@@ -1,6 +1,6 @@
 # Siren
 
-Siren is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Society Clubhouse, Toronto on Sun, 27 Sept 2026.
+Siren is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Society Clubhouse, Toronto on Sun, 27 Sept 2026.
 
 Siren is a drum & bass and house artist tracked on soundcheck, with 25 sets logged across Auckland, Cologne, Denver and Hamburg and 8 more. Often billed alongside Hybrid Minds, CHASE and Futurebound. Next up: Society Clubhouse, Toronto on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ Siren is a drum & bass and house artist tracked on soundcheck, with 25 sets logg
 
 Hybrid Minds, CHASE, Futurebound
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siren/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/siren/)*

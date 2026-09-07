@@ -1,6 +1,6 @@
 # Norman Jay
 
-Norman Jay is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Brixton Jamm, London on Sat, 26 Sept 2026.
+Norman Jay is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Brixton Jamm, London on Sat, 26 Sept 2026.
 
 Norman Jay is a disco and house artist tracked on soundcheck, with 52 sets logged across Birmingham, Brighton, Bristol and Edinburgh and 7 more. Often billed alongside Rob Alldritt, Si Kurrage and Mr Shiver. Next up: Brixton Jamm, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Norman Jay is a disco and house artist tracked on soundcheck, with 52 sets logge
 
 Rob Alldritt, Si Kurrage, Mr Shiver
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/normanjay/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/normanjay/)*

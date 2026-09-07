@@ -1,6 +1,6 @@
 # LYDO
 
-LYDO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+LYDO is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 LYDO is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Berlin, Boston and Brussels and 17 more. Often billed alongside Matas, BASHKKA and D.Dan. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ LYDO is a techno and house artist tracked on soundcheck, with 122 sets logged ac
 
 Matas, BASHKKA, D.Dan
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*

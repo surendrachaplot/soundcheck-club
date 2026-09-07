@@ -1,6 +1,6 @@
 # Okgwa
 
-Okgwa is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Oude Kerk, Amsterdam on Thu, 22 Oct 2026.
+Okgwa is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Oude Kerk, Amsterdam on Thu, 22 Oct 2026.
 
 Okgwa is an ambient and techno artist tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin, Hamburg and Rotterdam. Often billed alongside Brent Jacko, Buttechno and Space Drum Meditation. Next up: Oude Kerk, Amsterdam on Thu 22 Oct.
 
@@ -21,4 +21,4 @@ Okgwa is an ambient and techno artist tracked on soundcheck, with 5 sets logged 
 
 Brent Jacko, Buttechno, Space Drum Meditation
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okgwa/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okgwa/)*

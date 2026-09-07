@@ -1,6 +1,6 @@
 # Sinca
 
-Sinca is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Sinca is a Deep House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
 Sinca is a deep house and house artist tracked on soundcheck, with 50 sets logged across Amsterdam, Basel, Berlin and Denver and 11 more. Often billed alongside ELIF, Lee Burridge and Dosem. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
@@ -27,4 +27,4 @@ Sinca is a deep house and house artist tracked on soundcheck, with 50 sets logge
 
 ELIF, Lee Burridge, Dosem
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinca/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinca/)*

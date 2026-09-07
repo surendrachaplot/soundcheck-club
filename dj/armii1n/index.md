@@ -1,14 +1,13 @@
 # Armii1n
 
-Armii1n is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at H0L0, New York City on Sat, 5 Sept 2026.
+Armii1n is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Moondog Hifi, New York City on Mon, 7 Sept 2026.
 
-Armii1n is a house and techno artist tracked on soundcheck, with 129 sets logged across Miami and Newyorkcity. Often billed alongside Choukroun, Zayd and Monk (2). Next up: H0L0, Newyorkcity on Sat 5 Sept.
+Armii1n is a house and techno artist tracked on soundcheck, with 129 sets logged across Miami and Newyorkcity. Often billed alongside Choukroun, Zayd and Monk (2). Next up: Moondog Hifi, Newyorkcity on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | H0L0 | New York City |
 | Mon, 7 Sept 2026 | Moondog Hifi | New York City |
 | Fri, 18 Sept 2026 | Green Room NYC | New York City |
 | Sat, 19 Sept 2026 | H0L0 | New York City |
@@ -31,4 +30,4 @@ Armii1n is a house and techno artist tracked on soundcheck, with 129 sets logged
 
 Choukroun, Zayd, Monk (2)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*

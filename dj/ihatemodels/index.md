@@ -1,6 +1,6 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+I Hate Models is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 I Hate Models is a techno and house artist tracked on soundcheck, with 273 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 72 more. Often billed alongside 999999999, Nico Moreno and DYEN. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ I Hate Models is a techno and house artist tracked on soundcheck, with 273 sets 
 
 999999999, Nico Moreno, DYEN
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*

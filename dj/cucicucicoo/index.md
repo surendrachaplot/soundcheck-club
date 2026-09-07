@@ -1,6 +1,6 @@
 # cuci cuci coo
 
-cuci cuci coo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at renae, Manchester on Fri, 25 Sept 2026.
+cuci cuci coo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at renae, Manchester on Fri, 25 Sept 2026.
 
 cuci cuci coo is a techno and house artist tracked on soundcheck, with 6 sets logged across Manchester. Often billed alongside Andriy K., Archypness and colell. Next up: renae, Manchester on Fri 25 Sept.
 
@@ -22,4 +22,4 @@ cuci cuci coo is a techno and house artist tracked on soundcheck, with 6 sets lo
 
 Andriy K., Archypness, colell
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicucicoo/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicucicoo/)*

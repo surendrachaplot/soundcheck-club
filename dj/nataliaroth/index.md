@@ -1,6 +1,6 @@
 # Natalia Roth
 
-Natalia Roth is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Natalia Roth is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Natalia Roth is a house and tech house artist tracked on soundcheck, with 139 sets logged across Amsterdam, Barcelona, Boston and Chicago and 15 more. Often billed alongside Ms. Mada, Danyelino and Jamie Jones. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Natalia Roth is a house and tech house artist tracked on soundcheck, with 139 se
 
 Ms. Mada, Danyelino, Jamie Jones
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliaroth/)*

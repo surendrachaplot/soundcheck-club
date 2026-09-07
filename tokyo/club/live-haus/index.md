@@ -1,6 +1,6 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "『Live Haus 6year ANNIVERSARY SPECIAL 松田CHABE岳ニ 7hours』" on Tue, 8 Sept 2026.
+Live Haus is a music venue in Tokyo with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "『Live Haus 6year ANNIVERSARY SPECIAL 松田CHABE岳ニ 7hours』" on Tue, 8 Sept 2026.
 
 Live Haus is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, with line-ups including 1TA (1), 7e, EIJI and eijin and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
@@ -22,4 +22,4 @@ Live Haus is a music venue in Tokyo listed on soundcheck. 9 upcoming nights, wit
 
 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*

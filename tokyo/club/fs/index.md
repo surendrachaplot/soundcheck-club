@@ -1,6 +1,6 @@
 # FS.
 
-FS. is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "DOT" on Fri, 18 Sept 2026.
+FS. is a music venue in Tokyo with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "DOT" on Fri, 18 Sept 2026.
 
 FS. is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line-ups including Cashmere Cat, Conducta, Dam Swindle and Dance and 2 more. Browse upcoming dates, start times and who's playing. Pearl Building B1F 3-15-5 Shibuya, Shibuya-ku, Tokyo 150-0002 Japan.
 
@@ -16,4 +16,4 @@ FS. is a music venue in Tokyo listed on soundcheck. 3 upcoming nights, with line
 
 Pearl Building B1F 3-15-5 Shibuya, Shibuya-ku, Tokyo 150-0002 Japan, Tokyo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/fs/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/fs/)*

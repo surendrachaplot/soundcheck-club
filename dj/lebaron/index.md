@@ -1,6 +1,6 @@
 # Lebaron
 
-Lebaron is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Cherry Beach, Toronto on Mon, 7 Sept 2026.
+Lebaron is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Cherry Beach, Toronto on Mon, 7 Sept 2026.
 
 Lebaron is a house and techno artist tracked on soundcheck, with 2 sets logged across Montreal and Toronto. Often billed alongside Arsen, Felix Da Housecat and Kiki LeFreak. Next up: Cherry Beach, Toronto on Mon 7 Sept.
 
@@ -18,4 +18,4 @@ Lebaron is a house and techno artist tracked on soundcheck, with 2 sets logged a
 
 Arsen, Felix Da Housecat, Kiki LeFreak
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lebaron/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lebaron/)*

@@ -1,14 +1,13 @@
 # Else
 
-Else is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "HEISSS I Open Air & Indoor" on Sun, 6 Sept 2026.
+Else is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "BCCO" on Fri, 11 Sept 2026.
 
-Else is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Amanda Mussi, BAUGRUPPE90, Byron Yeates and Carly Zeng and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
+Else is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Amanda Mussi, BAUGRUPPE90, charli/e and Cirkle and 2 more. Browse upcoming dates, start times and who's playing. An den Treptowers 10, 12435 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | HEISSS I Open Air & Indoor | Byron Yeates, Carly Zeng, MATHILDA (2), Mac Declos, N.R.M, Pablo Bozzi, Patient (MT), SELESSA T., Vincent Neumann |
 | Fri, 11 Sept 2026 | BCCO | DJ Cringey, DJ Hyperdrive, HiTMiLØW, Noise Mafia, PETERBLUE, TOXIMAMI |
 | Sat, 12 Sept 2026 | Else x OPUS pres. Yanamaste (All Day Long) | Amanda Mussi, Danté, Flug, Kim She, NASTYA NVRSLP, Sept, Yanamaste |
 | Sun, 13 Sept 2026 | Else: Open Air & Indoor |  |
@@ -22,4 +21,4 @@ Else is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with li
 
 An den Treptowers 10, 12435 Berlin, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/else/)*

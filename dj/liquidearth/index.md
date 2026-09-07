@@ -1,6 +1,6 @@
 # Liquid Earth
 
-Liquid Earth is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Oven Club, Valencia on Fri, 11 Sept 2026.
+Liquid Earth is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Oven Club, Valencia on Fri, 11 Sept 2026.
 
 Liquid Earth is a house and techno artist tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 49 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: Oven Club, Valencia on Fri 11 Sept.
 
@@ -30,4 +30,4 @@ Liquid Earth is a house and techno artist tracked on soundcheck, with 182 sets l
 
 Mari.te, tINI, Hamish & Toby
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidearth/)*

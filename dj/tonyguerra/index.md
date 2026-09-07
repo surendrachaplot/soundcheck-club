@@ -1,6 +1,6 @@
 # Tony Guerra
 
-Tony Guerra is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 11 Sept 2026.
+Tony Guerra is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 11 Sept 2026.
 
 Tony Guerra is a tech house and house artist tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Barcelona and Boston and 8 more. Often billed alongside Mason Collective, Raul Ortiz and CESAR ALMENA. Next up: Seaseaclub Barcelona, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Tony Guerra is a tech house and house artist tracked on soundcheck, with 45 sets
 
 Mason Collective, Raul Ortiz, CESAR ALMENA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyguerra/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyguerra/)*

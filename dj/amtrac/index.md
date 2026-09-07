@@ -1,8 +1,8 @@
 # Amtrac
 
-Amtrac is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Amtrac is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
-Amtrac is a house and deep house artist tracked on soundcheck, with 66 sets logged across Austin, Chicago, Denver and Detroit and 18 more. Often billed alongside Totally Enormous Extinct Dinosaurs, Tourist and CRi. Next up: UNO MALTA, Malta on Thu 8 Oct.
+Amtrac is a house and deep house artist tracked on soundcheck, with 67 sets logged across Austin, Chicago, Denver and Detroit and 18 more. Often billed alongside Totally Enormous Extinct Dinosaurs, Tourist and CRi. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Amtrac is a house and deep house artist tracked on soundcheck, with 66 sets logg
 | Sat, 24 Oct 2026 | Ministry Of Sound | London |
 | Thu, 19 Nov 2026 | Process PDX | Portland |
 | Sat, 21 Nov 2026 | Fortune Sound Club | Vancouver |
+| Sat, 5 Dec 2026 | Kingdom Nightclub | Austin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Amtrac is a house and deep house artist tracked on soundcheck, with 66 sets logg
 
 Totally Enormous Extinct Dinosaurs, Tourist, CRi
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amtrac/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amtrac/)*

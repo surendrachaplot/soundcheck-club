@@ -1,6 +1,6 @@
 # Plume
 
-Plume is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Titan Xyphos Complex, Lyon on Fri, 25 Sept 2026.
+Plume is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Titan Xyphos Complex, Lyon on Fri, 25 Sept 2026.
 
 Plume is a techno and hardcore artist tracked on soundcheck, with 2 sets logged across Lyon. Often billed alongside Glaskeen, Lady Dammage and uphoria. Next up: Titan Xyphos Complex, Lyon on Fri 25 Sept.
 
@@ -18,4 +18,4 @@ Plume is a techno and hardcore artist tracked on soundcheck, with 2 sets logged 
 
 Glaskeen, Lady Dammage, uphoria
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plume/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/plume/)*

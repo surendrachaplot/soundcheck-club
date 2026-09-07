@@ -1,6 +1,6 @@
 # Justin Martin
 
-Justin Martin is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Spin, San Diego on Sat, 12 Sept 2026.
+Justin Martin is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Spin, San Diego on Sat, 12 Sept 2026.
 
 Justin Martin is a house and tech house artist tracked on soundcheck, with 84 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside MNTRA, Ardalan and Mikey Lion. Next up: Spin, Sandiego on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Justin Martin is a house and tech house artist tracked on soundcheck, with 84 se
 
 MNTRA, Ardalan, Mikey Lion
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justinmartin/)*

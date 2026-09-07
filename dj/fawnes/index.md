@@ -1,6 +1,6 @@
 # fawnes
 
-fawnes is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Sneaky Pete's, Edinburgh on Wed, 9 Sept 2026.
+fawnes is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sneaky Pete's, Edinburgh on Wed, 9 Sept 2026.
 
 fawnes is a house and disco artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Edinburgh. Often billed alongside Buckfast Barbie, DV60 and Humza. Next up: Sneaky Pete's, Edinburgh on Wed 9 Sept.
 
@@ -19,4 +19,4 @@ fawnes is a house and disco artist based in United Kingdom, tracked on soundchec
 
 Buckfast Barbie, DV60, Humza
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fawnes/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fawnes/)*

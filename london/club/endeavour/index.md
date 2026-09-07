@@ -1,6 +1,6 @@
 # Endeavour
 
-Endeavour is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "[CANCELLED] HYPERCUSSIVE: 001" on Fri, 18 Sept 2026.
+Endeavour is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "[CANCELLED] HYPERCUSSIVE: 001" on Fri, 18 Sept 2026.
 
 Endeavour is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Biscuit Boy, limi, MF Ceól and Olive Juice and 2 more. Browse upcoming dates, start times and who's playing. 39 Deptford Broadway, London, SE8 4PQ.
 
@@ -14,4 +14,4 @@ Endeavour is a music venue in London listed on soundcheck. 1 upcoming night, wit
 
 39 Deptford Broadway, London, SE8 4PQ, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/endeavour/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/endeavour/)*

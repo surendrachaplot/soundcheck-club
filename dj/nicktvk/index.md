@@ -1,6 +1,6 @@
 # Nick TVK
 
-Nick TVK is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 11 Sept 2026.
+Nick TVK is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 11 Sept 2026.
 
 Nick TVK is a techno and progressive house artist tracked on soundcheck, with 4 sets logged across Berlin. Often billed alongside BARTi, KLATTE and Laura Sí. Next up: Jonny Knüppel, Berlin on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Nick TVK is a techno and progressive house artist tracked on soundcheck, with 4 
 
 BARTi, KLATTE, Laura Sí
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicktvk/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicktvk/)*

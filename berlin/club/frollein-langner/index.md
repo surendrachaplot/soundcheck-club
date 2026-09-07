@@ -1,6 +1,6 @@
 # Frollein Langner
 
-Frollein Langner is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Jesko Braun + Dow & Honeyman live" on Mon, 14 Sept 2026.
+Frollein Langner is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Jesko Braun + Dow & Honeyman live" on Mon, 14 Sept 2026.
 
 Frollein Langner is a music venue in Berlin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Weisestraße 34, 12049 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Frollein Langner is a music venue in Berlin listed on soundcheck. 1 upcoming nig
 
 Weisestraße 34, 12049 Berlin, Germany, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frollein-langner/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/frollein-langner/)*

@@ -1,6 +1,6 @@
 # LEV (UK)
 
-LEV (UK) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 11 Sept 2026.
+LEV (UK) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 11 Sept 2026.
 
 LEV (UK) is a house and disco artist tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Bristol and Edinburgh and 6 more. Often billed alongside Faro, Aroop Roy and MiNNA. Next up: Amnesia Ibiza, Ibiza on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ LEV (UK) is a house and disco artist tracked on soundcheck, with 88 sets logged 
 
 Faro, Aroop Roy, MiNNA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*

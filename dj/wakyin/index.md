@@ -1,6 +1,6 @@
 # Wakyin
 
-Wakyin is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at KOKO, London on Fri, 11 Sept 2026.
+Wakyin is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at KOKO, London on Fri, 11 Sept 2026.
 
 Wakyin is an electronic artist based in United States of America, tracked on soundcheck, with 3 sets logged across Austin and London. Often billed alongside Gordo and Saachi. Next up: KOKO, London on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Wakyin is an electronic artist based in United States of America, tracked on sou
 
 Gordo, Saachi
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wakyin/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wakyin/)*

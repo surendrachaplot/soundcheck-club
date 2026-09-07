@@ -1,6 +1,6 @@
 # MetAteM
 
-MetAteM is a Electro and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Gorilla, Manchester on Sat, 24 Oct 2026.
+MetAteM is a Electro and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Gorilla, Manchester on Sat, 24 Oct 2026.
 
 MetAteM is an electro and gabber artist tracked on soundcheck, with 2 sets logged across Birmingham and Manchester. Often billed alongside Compulsive Leia, D-Luc-D and LUNAx3. Next up: Gorilla, Manchester on Sat 24 Oct.
 
@@ -18,4 +18,4 @@ MetAteM is an electro and gabber artist tracked on soundcheck, with 2 sets logge
 
 Compulsive Leia, D-Luc-D, LUNAx3
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metatem/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metatem/)*

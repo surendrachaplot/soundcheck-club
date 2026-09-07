@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 22 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Frost Children (DJ SET)" on Sun, 6 Sept 2026.
+Yamamori Tengu is a music venue in Dublin with 21 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - First Show" on Thu, 10 Sept 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 22 upcoming nights, with line-ups including 2manycolours, A For Alpha, Ambit and angel tabris and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 21 upcoming nights, with line-ups including A For Alpha, Ambit, angel tabris and Benson and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Frost Children (DJ SET) | 2manycolours, Frost Children |
 | Thu, 10 Sept 2026 | Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - First Show |  |
 | Thu, 10 Sept 2026 | Tengu Jazz: Michael Buckley presents The Great Quintets of Jazz with Ryan Quigley - Second Show |  |
 | Fri, 11 Sept 2026 | Club Comfort presents: JD REID | JD. REID, Roo Honeychild, Selky |
@@ -18,9 +17,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 22 upcoming nigh
 | Sat, 19 Sept 2026 | Melodic 15: Jeremy Olander (3hr Set) | Gavin Rochford, Jeremy Olander |
 | Thu, 24 Sept 2026 | UCDJS present: Back To Basics |  |
 | Fri, 25 Sept 2026 | Tengu presents: Prozak's Residency with Lorcan Kelly b2b DIEBYVEG + Benson | Benson, DIEBYVEG, Lorcan Kelly, Prozak (IRL) |
+| Sat, 26 Sept 2026 | Tengu presents: Sonja Moonear | Dufi, Dufi (2), Sonja Moonear |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

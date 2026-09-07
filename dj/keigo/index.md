@@ -1,6 +1,6 @@
 # Keigo
 
-Keigo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 12 Sept 2026.
+Keigo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 12 Sept 2026.
 
 Keigo is a house and techno artist tracked on soundcheck, with 62 sets logged across Osaka and Tokyo. Often billed alongside 3rill, TAISHI IWAMI and Onométro. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Keigo is a house and techno artist tracked on soundcheck, with 62 sets logged ac
 
 3rill, TAISHI IWAMI, Onométro
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keigo/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keigo/)*

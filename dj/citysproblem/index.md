@@ -1,6 +1,6 @@
 # CITYSPROBLEM
 
-CITYSPROBLEM is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Dolphin, Philadelphia on Sat, 26 Sept 2026.
+CITYSPROBLEM is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Dolphin, Philadelphia on Sat, 26 Sept 2026.
 
 CITYSPROBLEM is a trance and techno artist based in United States of America, tracked on soundcheck, with 14 sets logged across Boston, Leeds, London and Manchester and 2 more. Often billed alongside moistbreezy, Princess Elf Bar and DJ Try (US). Next up: The Dolphin, Philadelphia on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ CITYSPROBLEM is a trance and techno artist based in United States of America, tr
 
 moistbreezy, Princess Elf Bar, DJ Try (US)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citysproblem/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/citysproblem/)*

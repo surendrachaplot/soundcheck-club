@@ -1,14 +1,13 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 17 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "The All Black Everything Kiki Ball" on Sun, 6 Sept 2026.
+La Station - Gare des Mines is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "HYPERCORE 3: WELCOME TO THE HYPERVERSE" on Fri, 11 Sept 2026.
 
-La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 17 upcoming nights, with line-ups including Amnesia Scanner, Brodinski, cfds and Claude Murder and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
+La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including Amnesia Scanner, Brodinski, cfds and Claude Murder and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | The All Black Everything Kiki Ball |  |
 | Fri, 11 Sept 2026 | HYPERCORE 3: WELCOME TO THE HYPERVERSE |  |
 | Fri, 11 Sept 2026 | HYPERCORE 3: WELCOME TO THE HYPERVERSE |  |
 | Fri, 11 Sept 2026 | HYPERCORE 3: WELCOME TO THE HYPERVERSE |  |
@@ -18,9 +17,10 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 17 u
 | Fri, 18 Sept 2026 | Station Electronique — Lauren Duffus, Nexus, Brodinskinski b2b ninafterdark + more | Brodinski, Lauren Duffus, iced lattina, ninafterdark, vendredear |
 | Sat, 19 Sept 2026 | AÏE DES MINES (Nord + Sud) THE LAST DANCE |  |
 | Sat, 26 Sept 2026 | EDGING |  |
+| Thu, 1 Oct 2026 | Paris Electronic Week x La Station |  |
 
 ## Address
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

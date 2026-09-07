@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Resonance" on Sat, 12 Sept 2026.
+DETROIT CLUB is a music venue in Barcelona with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Resonance" on Sat, 12 Sept 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 9 upcoming nights, with line-ups including Casanøva, INH3LL, JOANNA DARK and Kleyver Reyes and 2 more. Browse upcoming dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -22,4 +22,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 9 upcoming nigh
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

@@ -1,6 +1,6 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 18 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "VERSUS PRESENTS - TRÏÏSS ALL NIGHT LONG" on Mon, 7 Sept 2026.
+Liquid Club is a music venue in Malta with 18 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "VERSUS PRESENTS - TRÏÏSS ALL NIGHT LONG" on Mon, 7 Sept 2026.
 
 Liquid Club is a music venue in Malta listed on soundcheck. 18 upcoming nights, with line-ups including BOA (1), Chopper, Eaub and FIASKA and 2 more. Browse upcoming dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
@@ -23,4 +23,4 @@ Liquid Club is a music venue in Malta listed on soundcheck. 18 upcoming nights, 
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

@@ -1,6 +1,6 @@
 # BMG
 
-BMG is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+BMG is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
 BMG is a techno and electro artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Bristol and Chicago and 14 more. Often billed alongside Erika, Mike Servito and Derek Plaslaiko. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
@@ -28,4 +28,4 @@ BMG is a techno and electro artist based in United States of America, tracked on
 
 Erika, Mike Servito, Derek Plaslaiko
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bmg/)*

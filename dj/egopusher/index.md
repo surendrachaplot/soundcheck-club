@@ -1,6 +1,6 @@
 # Egopusher
 
-Egopusher is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
+Egopusher is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
 
 Egopusher is an electronic artist tracked on soundcheck, with 2 sets logged across Berlin and Hamburg. Often billed alongside Anika, Bendik Giske and Dustin Zahn. Next up: Funkhaus Berlin, Berlin on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ Egopusher is an electronic artist tracked on soundcheck, with 2 sets logged acro
 
 Anika, Bendik Giske, Dustin Zahn
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egopusher/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/egopusher/)*

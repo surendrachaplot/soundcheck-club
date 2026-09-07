@@ -1,6 +1,6 @@
 # Waveratio 618
 
-Waveratio 618 is a Deep House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 12 Sept 2026.
+Waveratio 618 is a Deep House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 12 Sept 2026.
 
 Waveratio 618 is a deep house and breakbeat artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside Nico Etorena, ildec and Bouch. Next up: 303 Audiophile Bar, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Waveratio 618 is a deep house and breakbeat artist based in Spain, tracked on so
 
 Nico Etorena, ildec, Bouch
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waveratio618/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waveratio618/)*

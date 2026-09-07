@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Golden Record NYC x Vin.yl x WEBEO present Kai Alce, Ryan Crosson, Monile" on Fri, 11 Sept 2026.
+Green Room NYC is a music venue in New York City with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Golden Record NYC x Vin.yl x WEBEO present Kai Alce, Ryan Crosson, Monile" on Fri, 11 Sept 2026.
 
 Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming nights, with line-ups including ABEILLE, Andrés Dyer, Armii1n and Borbón and 2 more. Browse upcoming dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -9,7 +9,7 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming 
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Golden Record NYC x Vin.yl x WEBEO present Kai Alce, Ryan Crosson, Monile | Borbón, CAÑITA, Diegoo, Kai Alce, Mario Polanco, Monile, Omer Mil, Ryan Crosson |
-| Sat, 12 Sept 2026 | Golden Record NYC x trommel present PLO Man, Dana Ruh (LIVE), Dan Andrei | Andrés Dyer, Dan Andrei, Dana Ruh, Emsho, MaNu (UK), PLO Man |
+| Sat, 12 Sept 2026 | Golden Record NYC x trommel present PLO Man, Dana Ruh (LIVE), Dan Andrei | Andrés Dyer, Dan Andrei, Dana Ruh, Emsho, Jamie Jones, MaNu (UK), PLO Man |
 | Sun, 13 Sept 2026 | Love from the Sun: Deon Jamar, Specter, JADALAREIGN | Deon Jamar, JADALAREIGN, Specter |
 | Fri, 18 Sept 2026 | Golden Record NYC x pregame present Malika, Liquid Earth | Armii1n, DLR, Daizy, LIMBIC, Liquid Earth, Malika, Max Web |
 | Sun, 20 Sept 2026 | This is the Way x Golden Record NYC x Nomads Sunday Surprise Cookout | Gui Machado, Momo Trosman, Zayd Turk |
@@ -22,4 +22,4 @@ Green Room NYC is a music venue in Newyorkcity listed on soundcheck. 9 upcoming 
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

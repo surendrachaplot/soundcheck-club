@@ -1,6 +1,6 @@
 # The AM/AMX
 
-The AM/AMX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at public records, New York City on Fri, 4 Sept 2026.
+The AM/AMX is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at public records, New York City on Fri, 4 Sept 2026.
 
 The AM/AMX is a techno and house artist tracked on soundcheck, with 84 sets logged across Berlin, Chicago, Detroit and Losangeles and 3 more. Often billed alongside Ash Lauryn, Isaac Prieto and Blackmoonchild. Next up: public records, Newyorkcity on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ The AM/AMX is a techno and house artist tracked on soundcheck, with 84 sets logg
 
 Ash Lauryn, Isaac Prieto, Blackmoonchild
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/AMX/)*

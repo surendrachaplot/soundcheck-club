@@ -1,6 +1,6 @@
 # Malo Z
 
-Malo Z is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Trix, Antwerp on Sat, 10 Oct 2026.
+Malo Z is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Trix, Antwerp on Sat, 10 Oct 2026.
 
 Malo Z is a house and techno artist based in Belgium, tracked on soundcheck, with 33 sets logged across Antwerp, Athens, Brussels and Ghent. Often billed alongside Violently Happy, DJ Rino and Dana Montana. Next up: Trix, Antwerp on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Malo Z is a house and techno artist based in Belgium, tracked on soundcheck, wit
 
 Violently Happy, DJ Rino, Dana Montana
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maloz/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maloz/)*

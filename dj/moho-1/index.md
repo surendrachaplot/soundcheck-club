@@ -1,6 +1,6 @@
 # MOHO (1)
 
-MOHO (1) is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Cakeshop, Seoul on Fri, 18 Sept 2026.
+MOHO (1) is a Club and Pop artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Cakeshop, Seoul on Fri, 18 Sept 2026.
 
 MOHO (1) is a club and pop artist based in South Korea, tracked on soundcheck, with 3 sets logged across Seoul. Often billed alongside O.od, rue (3) and DAEGARI. Next up: Cakeshop, Seoul on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ MOHO (1) is a club and pop artist based in South Korea, tracked on soundcheck, w
 
 O.od, rue (3), DAEGARI
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moho-1/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moho-1/)*

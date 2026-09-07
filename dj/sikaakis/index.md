@@ -1,6 +1,6 @@
 # Sika Akis
 
-Sika Akis is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Radost FX, Prague on Sat, 12 Sept 2026.
+Sika Akis is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Radost FX, Prague on Sat, 12 Sept 2026.
 
 Sika Akis is a techno and tech house artist based in Germany, tracked on soundcheck, with 99 sets logged across Berlin and Prague. Often billed alongside Nat SuPrise, Kaminka Merel and Felidae. Next up: Radost FX, Prague on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Sika Akis is a techno and tech house artist based in Germany, tracked on soundch
 
 Nat SuPrise, Kaminka Merel, Felidae
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sikaakis/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sikaakis/)*

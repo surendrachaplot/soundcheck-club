@@ -1,6 +1,6 @@
 # Gus McKinna
 
-Gus McKinna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Bourke Street Courtyard, Melbourne on Thu, 24 Sept 2026.
+Gus McKinna is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bourke Street Courtyard, Melbourne on Thu, 24 Sept 2026.
 
 Gus McKinna is a techno and house artist based in Australia, tracked on soundcheck, with 83 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Ejeckt, Four To Eight and Billy Currie. Next up: Bourke Street Courtyard, Melbourne on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Gus McKinna is a techno and house artist based in Australia, tracked on soundche
 
 Ejeckt, Four To Eight, Billy Currie
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gusmckinna/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gusmckinna/)*

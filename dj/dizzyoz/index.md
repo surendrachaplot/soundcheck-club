@@ -1,6 +1,6 @@
 # Dizzy Oz
 
-Dizzy Oz is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at elipamanoke, Leipzig on Wed, 16 Sept 2026.
+Dizzy Oz is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at elipamanoke, Leipzig on Wed, 16 Sept 2026.
 
 Dizzy Oz is a techno artist tracked on soundcheck, with 2 sets logged across Leipzig. Often billed alongside SLANY and mrjs.ddk. Next up: elipamanoke, Leipzig on Wed 16 Sept.
 
@@ -18,4 +18,4 @@ Dizzy Oz is a techno artist tracked on soundcheck, with 2 sets logged across Lei
 
 SLANY, mrjs.ddk
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzyoz/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzyoz/)*

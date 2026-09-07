@@ -1,6 +1,6 @@
 # Dicky Trisco
 
-Dicky Trisco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Hi Dive, Denver on Fri, 11 Sept 2026.
+Dicky Trisco is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Hi Dive, Denver on Fri, 11 Sept 2026.
 
 Dicky Trisco is a disco and house artist tracked on soundcheck, with 62 sets logged across Aberdeen, Bangkok, Barcelona and Denver and 12 more. Often billed alongside Natasha Kitty Katt, Lisa Loud and Irena Stanisic. Next up: Hi Dive, Denver on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Dicky Trisco is a disco and house artist tracked on soundcheck, with 62 sets log
 
 Natasha Kitty Katt, Lisa Loud, Irena Stanisic
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dickytrisco/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dickytrisco/)*

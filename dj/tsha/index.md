@@ -1,6 +1,6 @@
 # TSHA
 
-TSHA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Pacha Ibiza, Ibiza on Mon, 7 Sept 2026.
+TSHA is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Pacha Ibiza, Ibiza on Mon, 7 Sept 2026.
 
 TSHA is a house and techno artist tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Austin and Bali and 49 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: Pacha Ibiza, Ibiza on Mon 7 Sept.
 
@@ -31,4 +31,4 @@ TSHA is a house and techno artist tracked on soundcheck, with 184 sets logged ac
 
 Eliza Rose, Honey Dijon, Seth Troxler
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsha/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsha/)*

@@ -1,6 +1,6 @@
 # BAY-BUSH-KA
 
-BAY-BUSH-KA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Honey Street Studio, Manchester on Fri, 23 Oct 2026.
+BAY-BUSH-KA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Honey Street Studio, Manchester on Fri, 23 Oct 2026.
 
 BAY-BUSH-KA is a house and techno artist tracked on soundcheck, with 41 sets logged across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Will Druid, Elianne and ChaRita. Next up: Honey Street Studio, Manchester on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ BAY-BUSH-KA is a house and techno artist tracked on soundcheck, with 41 sets log
 
 Will Druid, Elianne, ChaRita
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bay-bush-ka/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bay-bush-ka/)*

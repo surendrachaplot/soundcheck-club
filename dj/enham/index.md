@@ -1,6 +1,6 @@
 # Enham
 
-Enham is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Virage, Paris on Sat, 19 Sept 2026.
+Enham is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Virage, Paris on Sat, 19 Sept 2026.
 
 Enham is a techno and industrial artist tracked on soundcheck, with 31 sets logged across Lisbon, Lyon, Nantes and Paris. Often billed alongside Jacidorex, AISHA and AnD. Next up: Virage, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Enham is a techno and industrial artist tracked on soundcheck, with 31 sets logg
 
 Jacidorex, AISHA, AnD
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enham/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enham/)*

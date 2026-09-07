@@ -1,6 +1,6 @@
 # Cleo (AU)
 
-Cleo (AU) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Point Ephémère, Paris on Fri, 2 Oct 2026.
+Cleo (AU) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Point Ephémère, Paris on Fri, 2 Oct 2026.
 
 Cleo (AU) is a house and techno artist based in Australia, tracked on soundcheck, with 26 sets logged across Berlin, Lyon, Paris and Sydney and 1 more. Often billed alongside CLEO, Barry Can't Swim and Jayda G. Next up: Point Ephémère, Paris on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Cleo (AU) is a house and techno artist based in Australia, tracked on soundcheck
 
 CLEO, Barry Can't Swim, Jayda G
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo-au/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cleo-au/)*

@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "SKIN OUT: Labor Day Parade After Party" on Mon, 7 Sept 2026.
+Paragon is a music venue in New York City with 12 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "SKIN OUT: Labor Day Parade After Party" on Mon, 7 Sept 2026.
 
 Paragon is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights, with line-ups including Anna Eberg, Annie Lew, ARCHANGEL (US) and Arielle Lana and 2 more. Browse upcoming dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -23,4 +23,4 @@ Paragon is a music venue in Newyorkcity listed on soundcheck. 12 upcoming nights
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

@@ -1,6 +1,6 @@
 # Jamz Supernova
 
-Jamz Supernova is a House and Funk / Soul artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
+Jamz Supernova is a House and Funk / Soul artist with 8 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Colour Factory, London on Thu, 17 Sept 2026.
 
 Jamz Supernova is a house and funk / soul artist tracked on soundcheck, with 101 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Tash LC, Ezra Collective and Gilles Peterson. Next up: Colour Factory, London on Thu 17 Sept.
 
@@ -32,4 +32,4 @@ Jamz Supernova is a house and funk / soul artist tracked on soundcheck, with 101
 
 Tash LC, Ezra Collective, Gilles Peterson
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamzsupernova/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamzsupernova/)*

@@ -1,8 +1,8 @@
 # Plano B
 
-Plano B is a music venue in Porto with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "NIGHTSHIFT - Wailers & Da Ni" on Thu, 10 Sept 2026.
+Plano B is a music venue in Porto with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "NIGHTSHIFT - Wailers & Da Ni" on Thu, 10 Sept 2026.
 
-Plano B is a music venue in Porto listed on soundcheck. 12 upcoming nights, with line-ups including Da Ni, H.Baukloh, Joao Semedo and John Talabot and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
+Plano B is a music venue in Porto listed on soundcheck. 13 upcoming nights, with line-ups including Da Ni, H.Baukloh, Joao Semedo and John Talabot and 2 more. Browse upcoming dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
 ## What's on
 
@@ -23,4 +23,4 @@ Plano B is a music venue in Porto listed on soundcheck. 12 upcoming nights, with
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

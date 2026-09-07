@@ -1,6 +1,6 @@
 # Kristian Sunflower
 
-Kristian Sunflower is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Cherry Beach, Toronto on Mon, 7 Sept 2026.
+Kristian Sunflower is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Cherry Beach, Toronto on Mon, 7 Sept 2026.
 
 Kristian Sunflower is a techno and bass artist tracked on soundcheck, with 2 sets logged across Toronto. Often billed alongside Aphotik, Arsen and Jonah K. Next up: Cherry Beach, Toronto on Mon 7 Sept.
 
@@ -18,4 +18,4 @@ Kristian Sunflower is a techno and bass artist tracked on soundcheck, with 2 set
 
 Aphotik, Arsen, Jonah K
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiansunflower/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiansunflower/)*

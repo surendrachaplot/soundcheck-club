@@ -1,6 +1,6 @@
 # Hall
 
-Hall is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "HELLINN - CROSS BORDER EDITION" on Fri, 11 Sept 2026.
+Hall is a music venue in Tallinn with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "HELLINN - CROSS BORDER EDITION" on Fri, 11 Sept 2026.
 
 Hall is a music venue in Tallinn listed on soundcheck. 2 upcoming nights, with line-ups including ANNDRA, Discolisko, In Furcht and Jori Samarin and 2 more. Browse upcoming dates, start times and who's playing. Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia.
 
@@ -15,4 +15,4 @@ Hall is a music venue in Tallinn listed on soundcheck. 2 upcoming nights, with l
 
 Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia, Tallinn
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*

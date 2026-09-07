@@ -1,6 +1,6 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "ANII / Aurora & Mane Maid / ULDΛLL / Vibecast: AriOn / ROPO" on Fri, 11 Sept 2026.
+Culture Box is a music venue in Copenhagen with 18 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "ANII / Aurora & Mane Maid / ULDΛLL / Vibecast: AriOn / ROPO" on Fri, 11 Sept 2026.
 
 Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nights, with line-ups including ADAPT (DK), Aerocell, Aio and Aja Gulris and 2 more. Browse upcoming dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
@@ -23,4 +23,4 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming nig
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

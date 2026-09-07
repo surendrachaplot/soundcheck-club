@@ -1,6 +1,6 @@
 # Daksh
 
-Daksh is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Sneaky Pete's, Edinburgh on Thu, 17 Sept 2026.
+Daksh is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sneaky Pete's, Edinburgh on Thu, 17 Sept 2026.
 
 Daksh is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Edinburgh, Glasgow and London. Often billed alongside Joe PG, Lucky Dip and Smiff. Next up: Sneaky Pete's, Edinburgh on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Daksh is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 Joe PG, Lucky Dip, Smiff
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daksh/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daksh/)*

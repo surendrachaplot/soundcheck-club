@@ -1,6 +1,6 @@
 # Locke
 
-Locke is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Best Life with shumshum" on Sun, 13 Sept 2026.
+Locke is a music venue in Hamburg with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Best Life with shumshum" on Sun, 13 Sept 2026.
 
 Locke is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with line-ups including Darimel and Phil Abaddon. Browse upcoming dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Locke is a music venue in Hamburg listed on soundcheck. 3 upcoming nights, with 
 
 St. Pauli Fischmarkt 27, 20359 Hamburg, Germany, Hamburg
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*

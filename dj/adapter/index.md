@@ -1,6 +1,6 @@
 # Adapter
 
-Adapter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Adapter is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
 Adapter is a house and tech house artist based in Italy, tracked on soundcheck, with 10 sets logged across Amsterdam, Ibiza, Melbourne and Miami and 6 more. Often billed alongside Miss Monique, Anthony Attalla and Benson. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Adapter is a house and tech house artist based in Italy, tracked on soundcheck, 
 
 Miss Monique, Anthony Attalla, Benson
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adapter/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adapter/)*

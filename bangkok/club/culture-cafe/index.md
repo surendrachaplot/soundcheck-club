@@ -1,6 +1,6 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 38 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "G2G House'n'Techno Music Collective presents; Giantsiam" on Sun, 6 Sept 2026.
+Culture Cafe is a music venue in Bangkok with 38 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Monday Night: Minimal&Techno Vinyl Sessions by plazdj" on Mon, 7 Sept 2026.
 
 Culture Cafe is a music venue in Bangkok listed on soundcheck. 38 upcoming nights, with line-ups including Damon Rider, DJ Krit Morton, djmoca and Giantsiam and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
@@ -8,7 +8,6 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 38 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Mon, 7 Sept 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 | Tue, 8 Sept 2026 | Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew | MOODYBOOM |
 | Wed, 9 Sept 2026 | WEDNESDAY MINIMAL HOUSE'n'TECHNO 'VINYL SESSIONS' presents; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) | plazdj |
@@ -18,9 +17,10 @@ Culture Cafe is a music venue in Bangkok listed on soundcheck. 38 upcoming night
 | Sun, 13 Sept 2026 | G2G House'n'Techno Music Collective presents; Giantsiam | Giantsiam |
 | Mon, 14 Sept 2026 | Monday Night: Minimal&Techno Vinyl Sessions by plazdj | plazdj |
 | Tue, 15 Sept 2026 | Bangkok Vinyl Minimal&Techno Sessions with MOODYBOOM / Highwire crew | MOODYBOOM |
+| Wed, 16 Sept 2026 | WEDNESDAY MINIMAL HOUSE'n'TECHNO 'VINYL SESSIONS' presents; plazdj (Strictly Vi‬‬‬‬‬‬‬‬‬nyl) | plazdj |
 
 ## Address
 
 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok, Bangkok
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/culture-cafe/)*

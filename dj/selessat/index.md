@@ -1,19 +1,18 @@
 # SELESSA T.
 
-SELESSA T. is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at OXI, Berlin on Sat, 5 Sept 2026.
+SELESSA T. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
-SELESSA T. is a house and techno artist tracked on soundcheck, with 75 sets logged across Berlin and Hamburg. Often billed alongside Otal, Elie Bukassa and Viénce. Next up: OXI, Berlin on Sat 5 Sept.
+SELESSA T. is a house and techno artist tracked on soundcheck, with 75 sets logged across Berlin and Hamburg. Often billed alongside Otal, Elie Bukassa and Viénce. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | OXI | Berlin |
-| Sun, 6 Sept 2026 | Else | Berlin |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- Else, Berlin — Sun, 6 Sept 2026
 - OXI, Berlin — Sat, 5 Sept 2026
 - Coco Boule, Berlin — Sat, 22 Aug 2026
 - Hoppetosse, Berlin — Fri, 21 Aug 2026
@@ -21,10 +20,9 @@ SELESSA T. is a house and techno artist tracked on soundcheck, with 75 sets logg
 - Crack Bellmer, Berlin — Fri, 7 Aug 2026
 - Atelier Rooftop, Berlin — Sat, 1 Aug 2026
 - Renate, Berlin — Sat, 18 Jul 2026
-- Kater, Berlin — Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Otal, Elie Bukassa, Viénce
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selessat/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selessat/)*

@@ -1,6 +1,6 @@
 # fi
 
-fi is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "fi Garten x Langer Tag x Karotte & Komm raven & Myzel" on Sat, 12 Sept 2026.
+fi is a music venue in Cologne with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "fi Garten x Langer Tag x Karotte & Komm raven & Myzel" on Sat, 12 Sept 2026.
 
 fi is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with line-ups including Ada, alleira, Arninho and Chlär and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
@@ -19,4 +19,4 @@ fi is a music venue in Cologne listed on soundcheck. 6 upcoming nights, with lin
 
 Widdersdorfer Straße 246, 50825 Köln, Deutschland, Cologne
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/fi/)*

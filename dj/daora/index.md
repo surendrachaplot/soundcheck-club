@@ -1,6 +1,6 @@
 # Daora
 
-Daora is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Der Weiße Hase, Berlin on Fri, 11 Sept 2026.
+Daora is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Der Weiße Hase, Berlin on Fri, 11 Sept 2026.
 
 Daora is a techno and psytrance artist tracked on soundcheck, with 94 sets logged across Berlin. Often billed alongside Gerrit X, Momentune and monervo. Next up: Der Weiße Hase, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Daora is a techno and psytrance artist tracked on soundcheck, with 94 sets logge
 
 Gerrit X, Momentune, monervo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daora/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daora/)*

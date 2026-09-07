@@ -1,6 +1,6 @@
 # Sauna Social Club
 
-Sauna Social Club is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Ambient Sauna • seed with Colombian Drone Mafia & ray" on Fri, 11 Sept 2026.
+Sauna Social Club is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Ambient Sauna • seed with Colombian Drone Mafia & ray" on Fri, 11 Sept 2026.
 
 Sauna Social Club is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Colombian Drone Mafia, dan nicholls and Dan Thorman. Browse upcoming dates, start times and who's playing. Railway Arch 842 Brayards Road, Peckham, SE15 2AG.
 
@@ -16,4 +16,4 @@ Sauna Social Club is a music venue in London listed on soundcheck. 3 upcoming ni
 
 Railway Arch 842 Brayards Road, Peckham, SE15 2AG, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/sauna-social-club/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/sauna-social-club/)*

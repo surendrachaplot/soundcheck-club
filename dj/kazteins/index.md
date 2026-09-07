@@ -1,14 +1,13 @@
 # Kazteins
 
-Kazteins is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at B side Athens, Athens on Thu, 3 Sept 2026.
+Kazteins is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Astron Club, Athens on Fri, 9 Oct 2026.
 
-Kazteins is an electro and techno artist tracked on soundcheck, with 26 sets logged across Athens and Berlin. Often billed alongside Datalogs, IMPVLSIV and Maaantz. Next up: B side Athens, Athens on Thu 3 Sept.
+Kazteins is an electro and techno artist tracked on soundcheck, with 26 sets logged across Athens and Berlin. Often billed alongside Datalogs, IMPVLSIV and Maaantz. Next up: Astron Club, Athens on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | B side Athens | Athens |
 | Fri, 9 Oct 2026 | Astron Club | Athens |
 
 ## Recently played
@@ -26,4 +25,4 @@ Kazteins is an electro and techno artist tracked on soundcheck, with 26 sets log
 
 Datalogs, IMPVLSIV, Maaantz
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kazteins/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kazteins/)*

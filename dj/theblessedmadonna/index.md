@@ -1,8 +1,8 @@
 # The Blessed Madonna
 
-The Blessed Madonna is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+The Blessed Madonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-The Blessed Madonna is a house and techno artist tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside Honey Dijon, Mochakk and HAAi. Next up: Union Park, Chicago on Fri 4 Sept.
+The Blessed Madonna is a house and techno artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Austin and Bali and 40 more. Often billed alongside Honey Dijon, Mochakk and HAAi. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ The Blessed Madonna is a house and techno artist tracked on soundcheck, with 137
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 31 Oct 2026 | Phantom, Paris | Paris |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
+| Sat, 5 Dec 2026 | Plano B | Porto |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ The Blessed Madonna is a house and techno artist tracked on soundcheck, with 137
 
 Honey Dijon, Mochakk, HAAi
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theblessedmadonna/)*

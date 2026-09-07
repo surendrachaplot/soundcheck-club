@@ -1,6 +1,6 @@
 # Cezaire
 
-Cezaire is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at ZeyZey, Miami on Fri, 11 Sept 2026.
+Cezaire is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at ZeyZey, Miami on Fri, 11 Sept 2026.
 
 Cezaire is a house and disco artist tracked on soundcheck, with 47 sets logged across Amsterdam, Austin, Barcelona and Brussels and 13 more. Often billed alongside Darius (FR), Kartell and Didi Han. Next up: ZeyZey, Miami on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Cezaire is a house and disco artist tracked on soundcheck, with 47 sets logged a
 
 Darius (FR), Kartell, Didi Han
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cezaire/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cezaire/)*

@@ -1,6 +1,6 @@
 # Kingsizebed
 
-Kingsizebed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 12 Sept 2026.
+Kingsizebed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 12 Sept 2026.
 
 Kingsizebed is a house and techno artist based in Italy, tracked on soundcheck, with 55 sets logged across Athens, Berlin, Brussels and Geneva and 2 more. Often billed alongside Aaron Blau, R.ocks and 131bpm. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kingsizebed is a house and techno artist based in Italy, tracked on soundcheck, 
 
 Aaron Blau, R.ocks, 131bpm
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsizebed-it/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsizebed-it/)*

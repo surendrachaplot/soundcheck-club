@@ -1,6 +1,6 @@
 # Emilio
 
-Emilio is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Timber Loft, London on Sun, 13 Sept 2026.
+Emilio is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Timber Loft, London on Sun, 13 Sept 2026.
 
 Emilio is a techno and industrial artist based in Norway, tracked on soundcheck, with 41 sets logged across Barcelona, Berlin, Brussels and Budapest and 6 more. Often billed alongside EVE (1), LØST and Monk000. Next up: The Timber Loft, London on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Emilio is a techno and industrial artist based in Norway, tracked on soundcheck,
 
 EVE (1), LØST, Monk000
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio/)*

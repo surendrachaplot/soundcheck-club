@@ -1,6 +1,6 @@
 # Fatty M
 
-Fatty M is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Altenburg 1964, Prague on Fri, 25 Sept 2026.
+Fatty M is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Altenburg 1964, Prague on Fri, 25 Sept 2026.
 
 Fatty M is a techno and house artist based in Czech Republic, tracked on soundcheck, with 61 sets logged across Prague. Often billed alongside S.Tian, Teresi and Raketa95. Next up: Altenburg 1964, Prague on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Fatty M is a techno and house artist based in Czech Republic, tracked on soundch
 
 S.Tian, Teresi, Raketa95
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattym/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fattym/)*

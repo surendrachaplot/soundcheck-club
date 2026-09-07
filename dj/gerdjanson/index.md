@@ -1,6 +1,6 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Karmakoma, Belgrade on Fri, 11 Sept 2026.
+Gerd Janson is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Karmakoma, Belgrade on Fri, 11 Sept 2026.
 
 Gerd Janson is a house and techno artist tracked on soundcheck, with 296 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Marcel Dettmann, DJ Tennis and Âme. Next up: Karmakoma, Belgrade on Fri 11 Sept.
 
@@ -33,4 +33,4 @@ Gerd Janson is a house and techno artist tracked on soundcheck, with 296 sets lo
 
 Marcel Dettmann, DJ Tennis, Âme
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

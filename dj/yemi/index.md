@@ -1,6 +1,6 @@
 # Yemi
 
-Yemi is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Club Up, Amsterdam on Wed, 21 Oct 2026.
+Yemi is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Club Up, Amsterdam on Wed, 21 Oct 2026.
 
 Yemi is a garage and house artist tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Leeds and Manchester and 1 more. Often billed alongside maniac&me, DJ Randall and Elli.on. Next up: Club Up, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Yemi is a garage and house artist tracked on soundcheck, with 24 sets logged acr
 
 maniac&me, DJ Randall, Elli.on
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yemi/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yemi/)*

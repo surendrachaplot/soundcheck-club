@@ -1,6 +1,6 @@
 # Gasteig
 
-Gasteig is a music venue in Munich with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "friends. THE FACE" on Sat, 12 Sept 2026.
+Gasteig is a music venue in Munich with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "friends. THE FACE" on Sat, 12 Sept 2026.
 
 Gasteig is a music venue in Munich listed on soundcheck. 1 upcoming night, with line-ups including Alice Mary, Artur Bredo, MAURO and Static Bloom (DE) and 2 more. Browse upcoming dates, start times and who's playing. Rosenheimer Str. 5, 81667 München, Germany.
 
@@ -14,4 +14,4 @@ Gasteig is a music venue in Munich listed on soundcheck. 1 upcoming night, with 
 
 Rosenheimer Str. 5, 81667 München, Germany, Munich
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/gasteig/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/gasteig/)*

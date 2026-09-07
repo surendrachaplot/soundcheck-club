@@ -1,6 +1,6 @@
 # Saqib
 
-Saqib is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Monkey Loft, Seattle on Thu, 10 Sept 2026.
+Saqib is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Monkey Loft, Seattle on Thu, 10 Sept 2026.
 
 Saqib is a house and deep house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Boston, Losangeles and Miami and 6 more. Often billed alongside Nhii, FRANZIV and Francesca Lombardo. Next up: The Monkey Loft, Seattle on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Saqib is a house and deep house artist based in United States of America, tracke
 
 Nhii, FRANZIV, Francesca Lombardo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saqib/)*

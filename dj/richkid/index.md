@@ -1,6 +1,6 @@
 # RICHKID
 
-RICHKID is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The V, Osaka on Wed, 9 Sept 2026.
+RICHKID is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The V, Osaka on Wed, 9 Sept 2026.
 
 RICHKID is a house and techno artist based in Japan, tracked on soundcheck, with 35 sets logged across Osaka and Tokyo. Often billed alongside Cine, DMITRI ABSINTHE and Nao Nomura. Next up: The V, Osaka on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ RICHKID is a house and techno artist based in Japan, tracked on soundcheck, with
 
 Cine, DMITRI ABSINTHE, Nao Nomura
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richkid/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richkid/)*

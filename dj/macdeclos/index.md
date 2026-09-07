@@ -1,14 +1,13 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Else, Berlin on Sun, 6 Sept 2026.
+Mac Declos is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Club Vaag, Antwerp on Fri, 11 Sept 2026.
 
-Mac Declos is a techno and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Anetha, Lacchesi and Blasha & Allatt. Next up: Else, Berlin on Sun 6 Sept.
+Mac Declos is a techno and house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Anetha, Lacchesi and Blasha & Allatt. Next up: Club Vaag, Antwerp on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Else | Berlin |
 | Fri, 11 Sept 2026 | Club Vaag | Antwerp |
 | Fri, 11 Sept 2026 | Zoo | Geneva |
 | Fri, 25 Sept 2026 | 131 Mccormack St | Toronto |
@@ -17,9 +16,11 @@ Mac Declos is a techno and house artist tracked on soundcheck, with 185 sets log
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Fri, 23 Oct 2026 | Wigwam | Dublin |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
+| Sat, 5 Dec 2026 | KALT | Strasbourg |
 
 ## Recently played
 
+- Else, Berlin — Sun, 6 Sept 2026
 - essaim, Paris — Sat, 5 Sept 2026
 - INPUT High Fidelity Dance Club, Barcelona — Sat, 15 Aug 2026
 - Gianpula Village, Malta — Wed, 12 Aug 2026
@@ -27,10 +28,9 @@ Mac Declos is a techno and house artist tracked on soundcheck, with 185 sets log
 - BRET, Amsterdam — Sun, 2 Aug 2026
 - EXIL, Zurich — Fri, 31 Jul 2026
 - Fuse, Brussels — Sat, 11 Jul 2026
-- Flux, Istanbul — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Anetha, Lacchesi, Blasha & Allatt
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

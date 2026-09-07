@@ -1,6 +1,6 @@
 # Lula Club
 
-Lula Club is a music venue in Madrid with 23 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Opening Party - RACE WEEKEND" on Thu, 10 Sept 2026.
+Lula Club is a music venue in Madrid with 23 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Opening Party - RACE WEEKEND" on Thu, 10 Sept 2026.
 
 Lula Club is a music venue in Madrid listed on soundcheck. 23 upcoming nights, with line-ups including AARON SEVILLA, Adam Ten, AJNA and Andrea Oliva and 2 more. Browse upcoming dates, start times and who's playing. Gran Via 54.
 
@@ -23,4 +23,4 @@ Lula Club is a music venue in Madrid listed on soundcheck. 23 upcoming nights, w
 
 Gran Via 54, Madrid
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lula-club/)*

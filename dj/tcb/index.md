@@ -1,6 +1,6 @@
 # TCB
 
-TCB is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Volks, Brighton on Sat, 3 Oct 2026.
+TCB is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Volks, Brighton on Sat, 3 Oct 2026.
 
 TCB is a drum & bass and jungle artist tracked on soundcheck, with 4 sets logged across Brighton, London and Washingtondc. Often billed alongside Business As Usual, Ill Truth and Rider Shafique. Next up: Volks, Brighton on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ TCB is a drum & bass and jungle artist tracked on soundcheck, with 4 sets logged
 
 Business As Usual, Ill Truth, Rider Shafique
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tcb/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tcb/)*

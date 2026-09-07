@@ -1,6 +1,6 @@
 # deep creep
 
-deep creep is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+deep creep is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 deep creep is a techno and house artist based in United States of America, tracked on soundcheck, with 104 sets logged across Auckland, Berlin, Brisbane and Brussels and 12 more. Often billed alongside Amelia Holt, Aurora Halal and DJ Fart in the Club. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -29,4 +29,4 @@ deep creep is a techno and house artist based in United States of America, track
 
 Amelia Holt, Aurora Halal, DJ Fart in the Club
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*

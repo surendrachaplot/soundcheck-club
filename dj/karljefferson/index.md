@@ -1,6 +1,6 @@
 # Karl Jefferson
 
-Karl Jefferson is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Folies Pigalle, Paris on Sat, 12 Sept 2026.
+Karl Jefferson is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Folies Pigalle, Paris on Sat, 12 Sept 2026.
 
 Karl Jefferson is a tech house and house artist tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside Duc de Mourgues, F.E.X and Julio Red. Next up: Folies Pigalle, Paris on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Karl Jefferson is a tech house and house artist tracked on soundcheck, with 2 se
 
 Duc de Mourgues, F.E.X, Julio Red
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karljefferson/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karljefferson/)*

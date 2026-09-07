@@ -1,6 +1,6 @@
 # Lobo (DE)
 
-Lobo (DE) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, Berlin on Fri, 11 Sept 2026.
+Lobo (DE) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA, Berlin on Fri, 11 Sept 2026.
 
 Lobo (DE) is a house and disco artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin and Madrid. Often billed alongside Domhof, anna G and Monsai. Next up: TBA, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Lobo (DE) is a house and disco artist based in Germany, tracked on soundcheck, w
 
 Domhof, anna G, Monsai
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lobo-de/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lobo-de/)*

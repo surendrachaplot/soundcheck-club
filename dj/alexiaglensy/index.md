@@ -1,6 +1,6 @@
 # Alexia Glensy
 
-Alexia Glensy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
+Alexia Glensy is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bunker, Turin on Sat, 12 Sept 2026.
 
 Alexia Glensy is a house and techno artist tracked on soundcheck, with 164 sets logged across Amsterdam, Barcelona, Berlin and Boston and 33 more. Often billed alongside Alex Dima, Gabbs and Christian AB. Next up: Bunker, Turin on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Alexia Glensy is a house and techno artist tracked on soundcheck, with 164 sets 
 
 Alex Dima, Gabbs, Christian AB
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*

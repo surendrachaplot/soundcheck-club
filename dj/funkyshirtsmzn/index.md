@@ -1,6 +1,6 @@
 # Funky Shirts MZN
 
-Funky Shirts MZN is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 13 Sept 2026.
+Funky Shirts MZN is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Almar Beach Club, Barcelona on Sun, 13 Sept 2026.
 
 Funky Shirts MZN is a house and electro artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona and Madrid. Often billed alongside Kömm, NBU (1) and Crislor. Next up: Almar Beach Club, Barcelona on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ Funky Shirts MZN is a house and electro artist based in Spain, tracked on soundc
 
 Kömm, NBU (1), Crislor
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkyshirtsmzn/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/funkyshirtsmzn/)*

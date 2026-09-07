@@ -1,6 +1,6 @@
 # Beatrice M.
 
-Beatrice M. is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
+Beatrice M. is a Dubstep and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Cause, London on Sat, 12 Sept 2026.
 
 Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 121 sets logged across Amsterdam, Berlin, Brighton and Bristol and 26 more. Often billed alongside Tim Reaper, EMA (1) and Mia Koden. Next up: The Cause, London on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Beatrice M. is a dubstep and bass artist tracked on soundcheck, with 121 sets lo
 
 Tim Reaper, EMA (1), Mia Koden
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*

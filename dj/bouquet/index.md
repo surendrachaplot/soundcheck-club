@@ -1,8 +1,8 @@
 # Bouquet
 
-Bouquet is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Sensorium, Berlin on Fri, 11 Sept 2026.
+Bouquet is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sensorium, Berlin on Fri, 11 Sept 2026.
 
-Bouquet is a tech house and techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Axxi Oma, Hyperrealist Dreamer and Ivana_dnb. Next up: Sensorium, Berlin on Fri 11 Sept.
+Bouquet is a drum & bass and techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Axxi Oma, Hyperrealist Dreamer and Ivana_dnb. Next up: Sensorium, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ Bouquet is a tech house and techno artist tracked on soundcheck, with 2 sets log
 
 Axxi Oma, Hyperrealist Dreamer, Ivana_dnb
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouquet/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bouquet/)*

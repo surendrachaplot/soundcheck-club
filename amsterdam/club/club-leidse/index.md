@@ -1,6 +1,6 @@
 # Club Leidse
 
-Club Leidse is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "LEIDSE AMSTERDAM: Old School R&B • Hip Hop • Latin • Caribbean vibes" on Fri, 11 Sept 2026.
+Club Leidse is a music venue in Amsterdam with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "LEIDSE AMSTERDAM: Old School R&B • Hip Hop • Latin • Caribbean vibes" on Fri, 11 Sept 2026.
 
 Club Leidse is a music venue in Amsterdam listed on soundcheck. 5 upcoming nights, with line-ups including Oscar Osorio and Rishi Romero. Browse upcoming dates, start times and who's playing. Kleine-Gartmanplantsoen 11-H 1017 RP Amsterdam.
 
@@ -18,4 +18,4 @@ Club Leidse is a music venue in Amsterdam listed on soundcheck. 5 upcoming night
 
 Kleine-Gartmanplantsoen 11-H 1017 RP Amsterdam, Amsterdam
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-leidse/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-leidse/)*

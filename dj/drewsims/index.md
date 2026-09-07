@@ -1,6 +1,6 @@
 # Drew Sims
 
-Drew Sims is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Drew Sims is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Drew Sims is a trance and techno artist tracked on soundcheck, with 3 sets logged across Amsterdam and Utrecht. Often billed alongside 22 Interns, ALISHA and Ays (NL). Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Drew Sims is a trance and techno artist tracked on soundcheck, with 3 sets logge
 
 22 Interns, ALISHA, Ays (NL)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drewsims/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drewsims/)*

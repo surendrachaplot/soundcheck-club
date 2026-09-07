@@ -1,6 +1,6 @@
 # basic chanel
 
-basic chanel is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Ormside Projects, London on Fri, 11 Sept 2026.
+basic chanel is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Ormside Projects, London on Fri, 11 Sept 2026.
 
 basic chanel is a techno and dub techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Brussels and London and 1 more. Often billed alongside Allecto, Cam Joon and Ehua. Next up: Ormside Projects, London on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ basic chanel is a techno and dub techno artist tracked on soundcheck, with 39 se
 
 Allecto, Cam Joon, Ehua
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*

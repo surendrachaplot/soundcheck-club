@@ -1,6 +1,6 @@
 # SNDR_Xone
 
-SNDR_Xone is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at FLUCC, Vienna on Sat, 26 Sept 2026.
+SNDR_Xone is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at FLUCC, Vienna on Sat, 26 Sept 2026.
 
 SNDR_Xone is a techno and tech house artist tracked on soundcheck, with 17 sets logged across Vienna. Often billed alongside Tatjana Sünder, Fabian Hofer (2) and Kay Barton. Next up: FLUCC, Vienna on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ SNDR_Xone is a techno and tech house artist tracked on soundcheck, with 17 sets 
 
 Tatjana Sünder, Fabian Hofer (2), Kay Barton
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sndr_xone/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sndr_xone/)*

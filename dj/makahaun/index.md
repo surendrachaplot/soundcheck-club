@@ -1,6 +1,6 @@
 # makahaun
 
-makahaun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at elipamanoke, Leipzig on Fri, 11 Sept 2026.
+makahaun is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at elipamanoke, Leipzig on Fri, 11 Sept 2026.
 
 makahaun is a techno and house artist tracked on soundcheck, with 15 sets logged across Berlin, Cologne, Dortmund-essen and Dusseldorf and 2 more. Often billed alongside Anuli, Rostøm and Dychromatic. Next up: elipamanoke, Leipzig on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ makahaun is a techno and house artist tracked on soundcheck, with 15 sets logged
 
 Anuli, Rostøm, Dychromatic
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*

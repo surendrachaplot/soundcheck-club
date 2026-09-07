@@ -1,6 +1,6 @@
 # Deselecta
 
-Deselecta is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Croft, Bristol on Sat, 26 Sept 2026.
+Deselecta is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Croft, Bristol on Sat, 26 Sept 2026.
 
 Deselecta is a jungle and drum & bass artist tracked on soundcheck, with 67 sets logged across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Sleazebag. Next up: The Croft, Bristol on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Deselecta is a jungle and drum & bass artist tracked on soundcheck, with 67 sets
 
 Krash Dubs, 50CAL, Sleazebag
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deselecta/)*

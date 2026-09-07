@@ -1,6 +1,6 @@
 # TRC (3)
 
-TRC (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Ritter Butzke, Berlin on Fri, 11 Sept 2026.
+TRC (3) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Ritter Butzke, Berlin on Fri, 11 Sept 2026.
 
 TRC (3) is a techno and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside JÄMO, TRC and Bambi-S. Next up: Ritter Butzke, Berlin on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ TRC (3) is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 JÄMO, TRC, Bambi-S
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trc-3/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trc-3/)*

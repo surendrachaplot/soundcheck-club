@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "BLAUES STÜNDCHEN w. Jack's Teller" on Tue, 8 Sept 2026.
+Klunkerkranich is a music venue in Berlin with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "BLAUES STÜNDCHEN w. Jack's Teller" on Tue, 8 Sept 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 6 upcoming nights, with line-ups including BECKSHAM, CATAWR, cee_ohh and Dela Nesto and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -19,4 +19,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 6 upcoming night
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

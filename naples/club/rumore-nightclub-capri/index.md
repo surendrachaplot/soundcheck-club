@@ -1,6 +1,6 @@
 # Rumore Nightclub Capri
 
-Rumore Nightclub Capri is a music venue in Naples with 3 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Rumore Season 26 Party N°43 W/ Eddie Megraoui & Francis Latombe" on Sat, 12 Sept 2026.
+Rumore Nightclub Capri is a music venue in Naples with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Rumore Season 26 Party N°43 W/ Eddie Megraoui & Francis Latombe" on Sat, 12 Sept 2026.
 
 Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 3 upcoming nights, with line-ups including Céline, Pascal Moscheni and Vadim Svoboda. Browse upcoming dates, start times and who's playing. Via Roma 71, 80073, Capri, Italy.
 
@@ -16,4 +16,4 @@ Rumore Nightclub Capri is a music venue in Naples listed on soundcheck. 3 upcomi
 
 Via Roma 71, 80073, Capri, Italy, Naples
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rumore-nightclub-capri/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rumore-nightclub-capri/)*

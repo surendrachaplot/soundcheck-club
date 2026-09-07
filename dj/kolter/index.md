@@ -1,14 +1,13 @@
 # Kolter
 
-Kolter is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Thuishaven, Amsterdam on Sun, 6 Sept 2026.
+Kolter is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Palmerstown House Estate, Dublin on Fri, 11 Sept 2026.
 
-Kolter is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Bali, Barcelona and Basel and 40 more. Often billed alongside East End Dubs, Jamback and M-High. Next up: Thuishaven, Amsterdam on Sun 6 Sept.
+Kolter is a house and tech house artist tracked on soundcheck, with 154 sets logged across Amsterdam, Bali, Barcelona and Basel and 40 more. Often billed alongside East End Dubs, Jamback and M-High. Next up: Palmerstown House Estate, Dublin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Thuishaven | Amsterdam |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Fri, 11 Sept 2026 | Index | Dublin |
 | Sun, 20 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -17,6 +16,7 @@ Kolter is a house and tech house artist tracked on soundcheck, with 154 sets log
 
 ## Recently played
 
+- Thuishaven, Amsterdam — Sun, 6 Sept 2026
 - Kelvedon Hall, London — Sat, 29 Aug 2026
 - [UNVRS], Ibiza — Wed, 26 Aug 2026
 - Hï Ibiza, Ibiza — Tue, 11 Aug 2026
@@ -24,10 +24,9 @@ Kolter is a house and tech house artist tracked on soundcheck, with 154 sets log
 - Amnesia Ibiza, Ibiza — Thu, 23 Jul 2026
 - Club Space Miami, Miami — Sat, 4 Jul 2026
 - Audio SF, San Francisco/Oakland — Fri, 26 Jun 2026
-- Document, Bristol — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 East End Dubs, Jamback, M-High
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*

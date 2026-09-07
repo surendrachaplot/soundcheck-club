@@ -1,6 +1,6 @@
 # Felix Dickinson
 
-Felix Dickinson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 18 Sept 2026.
+Felix Dickinson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Felix Dickinson is a house and techno artist tracked on soundcheck, with 47 sets logged across Athens, Belgrade, Berlin and Brighton and 13 more. Often billed alongside Dave Harvey, Chez de Milo and Ellie Stokes. Next up: Monarch, Sanfrancisco on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Felix Dickinson is a house and techno artist tracked on soundcheck, with 47 sets
 
 Dave Harvey, Chez de Milo, Ellie Stokes
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdickinson/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdickinson/)*

@@ -1,6 +1,6 @@
 # Synchronometry
 
-Synchronometry is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 12 Sept 2026.
+Synchronometry is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at DNA Lounge, San Francisco/Oakland on Sat, 12 Sept 2026.
 
 Synchronometry is a techno and psytrance artist based in United States of America, tracked on soundcheck, with 3 sets logged across Losangeles and Sanfrancisco. Often billed alongside Andrew S., Crescendoll and Demek. Next up: DNA Lounge, Sanfrancisco on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Synchronometry is a techno and psytrance artist based in United States of Americ
 
 Andrew S., Crescendoll, Demek
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/synchronometry/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/synchronometry/)*

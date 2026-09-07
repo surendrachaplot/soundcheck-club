@@ -1,6 +1,6 @@
 # The Luna Groovas
 
-The Luna Groovas is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Concept Haus, Manchester on Sat, 21 Nov 2026.
+The Luna Groovas is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Concept Haus, Manchester on Sat, 21 Nov 2026.
 
 The Luna Groovas is a disco and house artist tracked on soundcheck, with 6 sets logged across Leeds, Manchester and Newcastle. Often billed alongside Sam Pratt, AVIAX and A Little Bit Orange. Next up: Concept Haus, Manchester on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ The Luna Groovas is a disco and house artist tracked on soundcheck, with 6 sets 
 
 Sam Pratt, AVIAX, A Little Bit Orange
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelunagroovas/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelunagroovas/)*

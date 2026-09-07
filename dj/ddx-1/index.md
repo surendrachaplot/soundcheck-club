@@ -1,6 +1,6 @@
 # DDX (1)
 
-DDX (1) is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Odonien, Cologne on Wed, 9 Sept 2026.
+DDX (1) is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Odonien, Cologne on Wed, 9 Sept 2026.
 
 DDX (1) is a techno and drum & bass artist based in United States of America, tracked on soundcheck, with 4 sets logged across Cologne and Miami. Often billed alongside Diana Franco, Mila Gama and DomnRob. Next up: Odonien, Cologne on Wed 9 Sept.
 
@@ -20,4 +20,4 @@ DDX (1) is a techno and drum & bass artist based in United States of America, tr
 
 Diana Franco, Mila Gama, DomnRob
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddx-1/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddx-1/)*

@@ -1,6 +1,6 @@
 # Kelvin 373
 
-Kelvin 373 is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Gorilla, Manchester on Thu, 22 Oct 2026.
+Kelvin 373 is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Gorilla, Manchester on Thu, 22 Oct 2026.
 
 Kelvin 373 is a drum & bass and jungle artist tracked on soundcheck, with 44 sets logged across Amsterdam, Birmingham, Bristol and Cardiff and 8 more. Often billed alongside Aries, Kelvin and Crossy. Next up: Gorilla, Manchester on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Kelvin 373 is a drum & bass and jungle artist tracked on soundcheck, with 44 set
 
 Aries, Kelvin, Crossy
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin373/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin373/)*

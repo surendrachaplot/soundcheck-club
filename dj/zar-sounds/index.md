@@ -1,6 +1,6 @@
 # Zar.
 
-Zar. is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Notting Hill Arts Club, London on Fri, 25 Sept 2026.
+Zar. is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Notting Hill Arts Club, London on Fri, 25 Sept 2026.
 
 Zar. is a drum & bass and jungle artist tracked on soundcheck, with 58 sets logged across Berlin, Birmingham, Brighton and Bristol and 10 more. Often billed alongside Verbz, Channell and EVABEE. Next up: Notting Hill Arts Club, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Zar. is a drum & bass and jungle artist tracked on soundcheck, with 58 sets logg
 
 Verbz, Channell, EVABEE
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zar-sounds/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zar-sounds/)*

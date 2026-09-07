@@ -1,6 +1,6 @@
 # Azaleh
 
-Azaleh is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Basing House, London on Thu, 15 Oct 2026.
+Azaleh is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Basing House, London on Thu, 15 Oct 2026.
 
 Azaleh is a bass and jungle artist tracked on soundcheck, with 6 sets logged across Amsterdam, Leipzig, London and Zurich. Often billed alongside Faro Alip, RARRI and Collé. Next up: Basing House, London on Thu 15 Oct.
 
@@ -22,4 +22,4 @@ Azaleh is a bass and jungle artist tracked on soundcheck, with 6 sets logged acr
 
 Faro Alip, RARRI, Collé
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azaleh/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azaleh/)*

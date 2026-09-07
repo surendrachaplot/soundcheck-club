@@ -1,6 +1,6 @@
 # FILTHY RICH
 
-FILTHY RICH is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Mint Warehouse, Leeds on Sat, 26 Sept 2026.
+FILTHY RICH is a Drum & Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Mint Warehouse, Leeds on Sat, 26 Sept 2026.
 
 FILTHY RICH is a drum & bass and electro artist tracked on soundcheck, with 3 sets logged across Edinburgh, Leeds and Seattle. Often billed alongside DJ Trace, M.O.B and Prolifix. Next up: Mint Warehouse, Leeds on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ FILTHY RICH is a drum & bass and electro artist tracked on soundcheck, with 3 se
 
 DJ Trace, M.O.B, Prolifix
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filthyrich-us/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filthyrich-us/)*

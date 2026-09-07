@@ -1,14 +1,13 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Klubkneipe x Sunset Grooves" on Sun, 6 Sept 2026.
+Prisma is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Klubkneipe x Tuesday Ritual - Stand Up Comedy Night" on Tue, 8 Sept 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Agustin Mendez, Alex Iso, Ayham and Carl Conrad and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Agustin Mendez, Alex Iso, Ayham and Carl Conrad and 2 more. Browse upcoming dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Klubkneipe x Sunset Grooves | NAIR (IN) |
 | Tue, 8 Sept 2026 | Klubkneipe x Tuesday Ritual - Stand Up Comedy Night | Agustin Mendez, Levandream, Mati Amoretti |
 | Thu, 10 Sept 2026 | Sssmile Afterhour | Ayham, Carl Conrad, Kalimanda |
 | Fri, 11 Sept 2026 | Mindscape - BEYOND THE LOOKING GLASS | Alex Iso, Crimson Lake, Moni von Pisani |
@@ -18,9 +17,10 @@ Prisma is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with
 | Sun, 20 Sept 2026 | Klubkneipe x Dance Salon |  |
 | Tue, 22 Sept 2026 | Klubkneipe x Tuesday Ritual - Move Like No One Is Watching – Workshop | k.meower, peak2soon |
 | Thu, 24 Sept 2026 | Sssmile Afterhour | KÜRÜF, The Shredder |
+| Sun, 27 Sept 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi |
 
 ## Address
 
 Brückenstraße 1, 10179 Berlin, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/prisma/)*

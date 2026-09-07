@@ -1,6 +1,6 @@
 # Expensive KVR
 
-Expensive KVR is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Ampere, Antwerp on Sat, 10 Oct 2026.
+Expensive KVR is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Ampere, Antwerp on Sat, 10 Oct 2026.
 
 Expensive KVR is a drum & bass and bass artist based in Belgium, tracked on soundcheck, with 9 sets logged across Antwerp, Brussels and Ghent. Often billed alongside Hiraeth, Frontline (BE) and Cellarman. Next up: Ampere, Antwerp on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Expensive KVR is a drum & bass and bass artist based in Belgium, tracked on soun
 
 Hiraeth, Frontline (BE), Cellarman
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/expensivekvr/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/expensivekvr/)*

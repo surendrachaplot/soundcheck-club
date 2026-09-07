@@ -1,6 +1,6 @@
 # Hello Sasy
 
-Hello Sasy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Rote Sonne, Munich on Sat, 19 Sept 2026.
+Hello Sasy is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Rote Sonne, Munich on Sat, 19 Sept 2026.
 
 Hello Sasy is a techno and trance artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Penglord, BBetriebswirt and P.Vanillaboy. Next up: Rote Sonne, Munich on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Hello Sasy is a techno and trance artist tracked on soundcheck, with 106 sets lo
 
 Penglord, BBetriebswirt, P.Vanillaboy
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hellosasy/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hellosasy/)*

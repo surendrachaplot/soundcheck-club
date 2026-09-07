@@ -1,6 +1,6 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Glücks-Modus" on Fri, 11 Sept 2026.
+Beate Uwe is a music venue in Berlin with 17 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Glücks-Modus" on Fri, 11 Sept 2026.
 
 Beate Uwe is a music venue in Berlin listed on soundcheck. 17 upcoming nights, with line-ups including AKA AKA, Alexander Arpeggio, ALXJ and anahï and 2 more. Browse upcoming dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
@@ -23,4 +23,4 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 17 upcoming nights, w
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

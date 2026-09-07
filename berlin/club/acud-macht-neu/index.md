@@ -1,14 +1,13 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 4 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "RAVE-LIFE 1" on Sun, 6 Sept 2026.
+Acud Macht NEU is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "BOUNCE UP" on Fri, 11 Sept 2026.
 
-Acud Macht NEU is a music venue in Berlin listed on soundcheck. 4 upcoming nights, with line-ups including DJ GHEPARD, DJ Hristos, griefeater and LEYA and 2 more. Browse upcoming dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
+Acud Macht NEU is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including LEYA and Testbild. Browse upcoming dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | RAVE-LIFE 1 | DJ GHEPARD, DJ Hristos, Simoncello, griefeater, lokik |
 | Fri, 11 Sept 2026 | BOUNCE UP |  |
 | Sat, 26 Sept 2026 | Letzte Welle #5 | Testbild |
 | Sat, 3 Oct 2026 | LEYA / Berlin Concert | LEYA |
@@ -17,4 +16,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 4 upcoming night
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

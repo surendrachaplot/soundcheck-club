@@ -1,6 +1,6 @@
 # Bacho
 
-Bacho is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Bacho is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Bacho is a techno and afro house artist tracked on soundcheck, with 9 sets logged across Tbilisi. Often billed alongside Tomma, Parna and Bekuchi. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Bacho is a techno and afro house artist tracked on soundcheck, with 9 sets logge
 
 Tomma, Parna, Bekuchi
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bacho/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bacho/)*

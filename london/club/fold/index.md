@@ -1,14 +1,13 @@
 # FOLD
 
-FOLD is a music venue in London with 27 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "FOLD presents Bassiani (EXTENDED)" on Sat, 5 Sept 2026.
+FOLD is a music venue in London with 26 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "XTD - 012 - Barac" on Fri, 11 Sept 2026.
 
-FOLD is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including aalice, Alba Heidari, Alicia (UK) and Anabel Arroyo and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 26 upcoming nights, with line-ups including aalice, Alicia (UK), Anabel Arroyo and Andre Zimmer and 2 more. Browse upcoming dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | FOLD presents Bassiani (EXTENDED) | Alba Heidari, Anabel Arroyo, HVL, Haruka, James Newmarch, Ndrx, Newa, Voicedrone, Zitto, Zurkin, bbecks |
 | Fri, 11 Sept 2026 | XTD - 012 - Barac | Barac, Cem Ozden, Harry McCanna, Zya (1) |
 | Sat, 12 Sept 2026 | FOLD presents METAXY001 (EXTENDED) | ANDRØMEDA, BLANKA, Chami, Gloria Rose, Lockhart, Mona Sage, Nørbak, SALOME |
 | Sun, 13 Sept 2026 | UNFOLD CXXXI |  |
@@ -18,9 +17,10 @@ FOLD is a music venue in London listed on soundcheck. 27 upcoming nights, with l
 | Fri, 25 Sept 2026 | AVA London: Optimo, Special Guest, Swoose, Holly Lester, Body Clinic and JWY | Body Clinic, Holly Lester, JWY (1), Optimo (Espacio), Swoose |
 | Sat, 26 Sept 2026 | Cartulis // Summer Closing | Borja S, Elias Sternin, Junki Inoue, Marco Passarani, Unai Trotti, Vass, Z@p |
 | Sat, 26 Sept 2026 | Tribelife at FOLD [Steam Room] Michelle Manetti, Rebecca Gough, TIMANTI,  | Michelle Manetti, Rebecca Gough, TIMANTI |
+| Sun, 27 Sept 2026 | UNFOLD CXXXII |  |
 
 ## Address
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

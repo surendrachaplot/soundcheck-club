@@ -1,6 +1,6 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Josh Baker is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 Josh Baker is a house and tech house artist tracked on soundcheck, with 228 sets logged across Aberdeen, Amsterdam, Austin and Bali and 52 more. Often billed alongside Max Dean, Rossi and Prospa. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -36,4 +36,4 @@ Josh Baker is a house and tech house artist tracked on soundcheck, with 228 sets
 
 Max Dean, Rossi, Prospa
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

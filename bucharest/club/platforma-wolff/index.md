@@ -1,6 +1,6 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "PW • JUAAN, Mianda, Syntelman" on Fri, 11 Sept 2026.
+Platforma Wolff is a music venue in Bucharest with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "PW • JUAAN, Mianda, Syntelman" on Fri, 11 Sept 2026.
 
 Platforma Wolff is a music venue in Bucharest listed on soundcheck. 6 upcoming nights, with line-ups including Andrei Ciubuc, Cristi Cons, Dana Ruh and Giammarco Orsini and 2 more. Browse upcoming dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
@@ -19,4 +19,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 6 upcoming n
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

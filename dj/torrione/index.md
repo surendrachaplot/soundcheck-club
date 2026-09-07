@@ -1,18 +1,18 @@
 # Torrione
 
-Torrione is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at INPUT High Fidelity Dance Club, Barcelona on Sun, 6 Sept 2026.
+Torrione is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Lula Club, Madrid on Sat, 31 Oct 2026.
 
-Torrione is a house and tech house artist tracked on soundcheck, with 94 sets logged across Barcelona, Madrid and Warsaw. Often billed alongside Maik Miroux, Body-O and Victor Carré. Next up: INPUT High Fidelity Dance Club, Barcelona on Sun 6 Sept.
+Torrione is a house and tech house artist tracked on soundcheck, with 94 sets logged across Barcelona, Madrid and Warsaw. Often billed alongside Maik Miroux, Body-O and Victor Carré. Next up: Lula Club, Madrid on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 31 Oct 2026 | Lula Club | Madrid |
 
 ## Recently played
 
+- INPUT High Fidelity Dance Club, Barcelona — Sun, 6 Sept 2026
 - Lula Club, Madrid — Thu, 3 Sept 2026
 - Lula Club, Madrid — Thu, 30 Jul 2026
 - Lula Club, Madrid — Sat, 25 Jul 2026
@@ -20,10 +20,9 @@ Torrione is a house and tech house artist tracked on soundcheck, with 94 sets lo
 - Lula Club, Madrid — Thu, 23 Jul 2026
 - Lula Club, Madrid — Sun, 19 Jul 2026
 - Lula Club, Madrid — Thu, 16 Jul 2026
-- Lula Club, Madrid — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Maik Miroux, Body-O, Victor Carré
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torrione/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torrione/)*

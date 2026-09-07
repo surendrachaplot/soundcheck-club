@@ -1,18 +1,17 @@
 # Ace Hotel & Swim Club Athens
 
-Ace Hotel & Swim Club Athens is a music venue in Athens with 2 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Dj Bakerman - Ace Hotel Athens Poolside" on Sun, 6 Sept 2026.
+Ace Hotel & Swim Club Athens is a music venue in Athens with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "SUNSET SERIES: Satori" on Fri, 18 Sept 2026.
 
-Ace Hotel & Swim Club Athens is a music venue in Athens listed on soundcheck. 2 upcoming nights, with line-ups including Bakerman and Satori. Browse upcoming dates, start times and who's playing. Artemisiou 1, Glifada 166 75, Greece.
+Ace Hotel & Swim Club Athens is a music venue in Athens listed on soundcheck. 1 upcoming night, with line-ups including Satori. Browse upcoming dates, start times and who's playing. Artemisiou 1, Glifada 166 75, Greece.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Dj Bakerman - Ace Hotel Athens Poolside | Bakerman |
 | Fri, 18 Sept 2026 | SUNSET SERIES: Satori | Satori |
 
 ## Address
 
 Artemisiou 1, Glifada 166 75, Greece, Athens
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/ace-hotel-swim-club-athens/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/ace-hotel-swim-club-athens/)*

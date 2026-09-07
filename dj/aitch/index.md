@@ -1,14 +1,13 @@
 # aitch
 
-aitch is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 5 Sept 2026.
+aitch is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Haus73, Hamburg on Sat, 19 Sept 2026.
 
-aitch is a techno and house artist tracked on soundcheck, with 46 sets logged across Antwerp, Berlin, Hamburg and Leipzig and 2 more. Often billed alongside ALICE XLS, Memorycardio and Eluzid. Next up: Jonny Knüppel, Berlin on Sat 5 Sept.
+aitch is a techno and house artist tracked on soundcheck, with 46 sets logged across Antwerp, Berlin, Hamburg and Leipzig and 2 more. Often billed alongside ALICE XLS, Memorycardio and Eluzid. Next up: Haus73, Hamburg on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Jonny Knüppel | Berlin |
 | Sat, 19 Sept 2026 | Haus73 | Hamburg |
 
 ## Recently played
@@ -26,4 +25,4 @@ aitch is a techno and house artist tracked on soundcheck, with 46 sets logged ac
 
 ALICE XLS, Memorycardio, Eluzid
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aitch/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aitch/)*

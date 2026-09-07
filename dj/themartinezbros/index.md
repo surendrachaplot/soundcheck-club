@@ -1,6 +1,6 @@
 # The Martinez Brothers
 
-The Martinez Brothers is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Refuge, New York City on Sat, 12 Sept 2026.
+The Martinez Brothers is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Refuge, New York City on Sat, 12 Sept 2026.
 
 The Martinez Brothers is a tech house and house artist tracked on soundcheck, with 185 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: Refuge, Newyorkcity on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ The Martinez Brothers is a tech house and house artist tracked on soundcheck, wi
 
 Paco Osuna, Seth Troxler, Jamie Jones
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*

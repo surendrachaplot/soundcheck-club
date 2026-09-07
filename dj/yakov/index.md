@@ -1,6 +1,6 @@
 # Yakov
 
-Yakov is a Tech House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Minimal Bar, Berlin on Sun, 11 Oct 2026.
+Yakov is a Tech House and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Minimal Bar, Berlin on Sun, 11 Oct 2026.
 
 Yakov is a tech house and jazz artist tracked on soundcheck, with 41 sets logged across Belgrade, Berlin and Newyorkcity. Often billed alongside Ateş Sönmez, doug. and 11:68PM. Next up: Minimal Bar, Berlin on Sun 11 Oct.
 
@@ -25,4 +25,4 @@ Yakov is a tech house and jazz artist tracked on soundcheck, with 41 sets logged
 
 Ateş Sönmez, doug., 11:68PM
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yakov/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yakov/)*

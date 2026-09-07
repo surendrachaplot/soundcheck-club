@@ -1,6 +1,6 @@
 # Bob Diesel
 
-Bob Diesel is a House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 12 Sept 2026.
+Bob Diesel is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at American Legion Marsh Post #442, Boston on Sat, 12 Sept 2026.
 
 Bob Diesel is a house artist tracked on soundcheck, with 2 sets logged across Boston and Newyorkcity. Often billed alongside Colored Craig, Dee Diggs and Patchwork. Next up: American Legion Marsh Post #442, Boston on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Bob Diesel is a house artist tracked on soundcheck, with 2 sets logged across Bo
 
 Colored Craig, Dee Diggs, Patchwork
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobdiesel-us/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bobdiesel-us/)*

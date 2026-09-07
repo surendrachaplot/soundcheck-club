@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 4 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Apgrade Weekend September 2026" on Fri, 11 Sept 2026.
+Karmakoma is a music venue in Belgrade with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Apgrade Weekend September 2026" on Fri, 11 Sept 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 4 upcoming nights, with line-ups including Ciel, Feloneezy, Gerd Janson and Joe Claussell and 2 more. Browse upcoming dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -17,4 +17,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 4 upcoming nights, 
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

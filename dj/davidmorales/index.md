@@ -1,16 +1,13 @@
 # David Morales
 
-David Morales is a House and Disco artist with 12 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Refuge, New York City on Sat, 5 Sept 2026.
+David Morales is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Pikes Ibiza, Ibiza on Wed, 16 Sept 2026.
 
-David Morales is a house and disco artist tracked on soundcheck, with 193 sets logged across Athens, Bangkok, Basel and Belgrade and 38 more. Often billed alongside Melvo Baptiste, Louie Vega and Todd Terry. Next up: Refuge, Newyorkcity on Sat 5 Sept.
+David Morales is a house and disco artist tracked on soundcheck, with 193 sets logged across Athens, Bangkok, Basel and Belgrade and 38 more. Often billed alongside Melvo Baptiste, Louie Vega and Todd Terry. Next up: Pikes Ibiza, Ibiza on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Refuge | New York City |
-| Sun, 6 Sept 2026 | Refuge | New York City |
-| Sun, 6 Sept 2026 | Refuge | New York City |
 | Wed, 16 Sept 2026 | Pikes Ibiza | Ibiza |
 | Sat, 19 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Wed, 30 Sept 2026 | Pikes Ibiza | Ibiza |
@@ -23,17 +20,17 @@ David Morales is a house and disco artist tracked on soundcheck, with 193 sets l
 
 ## Recently played
 
+- Refuge, New York City — Sun, 6 Sept 2026
+- Refuge, New York City — Sun, 6 Sept 2026
 - Refuge, New York City — Sat, 5 Sept 2026
 - Refuge, New York City — Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza — Fri, 4 Sept 2026
 - Pikes Ibiza, Ibiza — Wed, 2 Sept 2026
 - Pikes Ibiza, Ibiza — Wed, 26 Aug 2026
 - Cavo Paradiso, Mykonos — Fri, 21 Aug 2026
-- Bolivar Beach Bar, Athens — Thu, 20 Aug 2026
-- Pikes Ibiza, Ibiza — Wed, 19 Aug 2026
 
 ## Shares bills with
 
 Melvo Baptiste, Louie Vega, Todd Terry
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*

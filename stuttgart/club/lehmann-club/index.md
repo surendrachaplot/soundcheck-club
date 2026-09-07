@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Trancemaster Krause (ALL NIGHT LONG)" on Fri, 11 Sept 2026.
+Lehmann Club is a music venue in Stuttgart with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Trancemaster Krause (ALL NIGHT LONG)" on Fri, 11 Sept 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 5 upcoming nights, with line-ups including CALLUSH, dasstudach, GAAAS and IGDA and 2 more. Browse upcoming dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -18,4 +18,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 5 upcoming nigh
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

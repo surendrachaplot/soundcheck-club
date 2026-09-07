@@ -1,8 +1,8 @@
 # KALT
 
-KALT is a music venue in Strasbourg with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Steve Rachmad" on Sat, 12 Sept 2026.
+KALT is a music venue in Strasbourg with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Steve Rachmad" on Sat, 12 Sept 2026.
 
-KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming nights, with line-ups including 6EJOU, Alarico, Alex Kassian and Alphy and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
+KALT is a music venue in Strasbourg listed on soundcheck. 13 upcoming nights, with line-ups including 6EJOU, Alarico, Alex Kassian and Alphy and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue la Fayette, Strasbourg, France.
 
 ## What's on
 
@@ -23,4 +23,4 @@ KALT is a music venue in Strasbourg listed on soundcheck. 12 upcoming nights, wi
 
 1 Rue la Fayette, Strasbourg, France, Strasbourg
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/kalt/)*

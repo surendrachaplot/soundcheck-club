@@ -1,6 +1,6 @@
 # Simonotron
 
-Simonotron is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Biscuit Factory, Edinburgh on Fri, 30 Oct 2026.
+Simonotron is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Biscuit Factory, Edinburgh on Fri, 30 Oct 2026.
 
 Simonotron is a house and disco artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Edinburgh and Glasgow. Often billed alongside Marie Davidson, Accident Machine and Cormac. Next up: The Biscuit Factory, Edinburgh on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Simonotron is a house and disco artist based in United Kingdom, tracked on sound
 
 Marie Davidson, Accident Machine, Cormac
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonotron/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonotron/)*

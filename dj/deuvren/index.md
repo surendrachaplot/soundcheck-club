@@ -1,6 +1,6 @@
 # Deuvren
 
-Deuvren is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at John Doe, Amsterdam on Tue, 8 Sept 2026.
+Deuvren is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at John Doe, Amsterdam on Tue, 8 Sept 2026.
 
 Deuvren is a techno and industrial artist tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside inKKiss, AndrewsFox and NELLIE. Next up: John Doe, Amsterdam on Tue 8 Sept.
 
@@ -19,4 +19,4 @@ Deuvren is a techno and industrial artist tracked on soundcheck, with 3 sets log
 
 inKKiss, AndrewsFox, NELLIE
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deuvren/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deuvren/)*

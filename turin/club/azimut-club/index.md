@@ -1,8 +1,8 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 13 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "PARAMIDA hosted by EAR\WAX opening night" on Sat, 19 Sept 2026.
+Azimut Club is a music venue in Turin with 14 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "PARAMIDA hosted by EAR\WAX opening night" on Sat, 19 Sept 2026.
 
-Azimut Club is a music venue in Turin listed on soundcheck. 13 upcoming nights, with line-ups including Audrey Danza, BASHKKA, dj sweet6teen and Dukwa and 2 more. Browse upcoming dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
+Azimut Club is a music venue in Turin listed on soundcheck. 14 upcoming nights, with line-ups including Audrey Danza, BASHKKA, BLANKA and dj sweet6teen and 2 more. Browse upcoming dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Azimut Club is a music venue in Turin listed on soundcheck. 13 upcoming nights, 
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

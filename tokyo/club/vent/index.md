@@ -1,6 +1,6 @@
 # VENT
 
-VENT is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Solar" on Fri, 11 Sept 2026.
+VENT is a music venue in Tokyo with 18 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Solar" on Fri, 11 Sept 2026.
 
 VENT is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with line-ups including 1-DRINK (2), 5ive, Akey and AKIRAM EN and 2 more. Browse upcoming dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -23,4 +23,4 @@ VENT is a music venue in Tokyo listed on soundcheck. 18 upcoming nights, with li
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

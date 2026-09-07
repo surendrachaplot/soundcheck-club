@@ -1,6 +1,6 @@
 # Babies R Stupid
 
-Babies R Stupid is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Bsmt 254, Toronto on Fri, 4 Dec 2026.
+Babies R Stupid is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bsmt 254, Toronto on Fri, 4 Dec 2026.
 
 Babies R Stupid is a techno and electro artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Chicago, Detroit and Portland and 3 more. Often billed alongside OMO (US), Seanni B and YxFF. Next up: Bsmt 254, Toronto on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Babies R Stupid is a techno and electro artist based in United States of America
 
 OMO (US), Seanni B, YxFF
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babiesrstupid/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babiesrstupid/)*

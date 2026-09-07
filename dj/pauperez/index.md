@@ -1,6 +1,6 @@
 # Pau Pérez
 
-Pau Pérez is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 25 Sept 2026.
+Pau Pérez is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 25 Sept 2026.
 
 Pau Pérez is a house and tech house artist tracked on soundcheck, with 113 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 6 more. Often billed alongside Sueezo, Pin and Blanch. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Pau Pérez is a house and tech house artist tracked on soundcheck, with 113 sets
 
 Sueezo, Pin, Blanch
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauperez/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauperez/)*

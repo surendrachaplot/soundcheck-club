@@ -1,6 +1,6 @@
 # Flow
 
-Flow is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Madre, Valencia on Sat, 19 Sept 2026.
+Flow is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Madre, Valencia on Sat, 19 Sept 2026.
 
 Flow is a house and techno artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Berlin, Melbourne, Osaka and Valencia. Often billed alongside Flowing, CAITY WATSON and Ingy. Next up: Madre, Valencia on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Flow is a house and techno artist based in Netherlands, tracked on soundcheck, w
 
 Flowing, CAITY WATSON, Ingy
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flow/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flow/)*

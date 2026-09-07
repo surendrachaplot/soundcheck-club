@@ -1,6 +1,6 @@
 # DJ HOT
 
-DJ HOT is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Goldener Reiter, Munich on Sat, 12 Sept 2026.
+DJ HOT is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Goldener Reiter, Munich on Sat, 12 Sept 2026.
 
 DJ HOT is a house and hip-hop artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin, Cologne, Mexicocity and Munich. Often billed alongside iamluie, CHUBBS and Philipp Lüers. Next up: Goldener Reiter, Munich on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ DJ HOT is a house and hip-hop artist based in Germany, tracked on soundcheck, wi
 
 iamluie, CHUBBS, Philipp Lüers
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhot/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhot/)*

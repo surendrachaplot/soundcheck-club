@@ -1,6 +1,6 @@
 # Miss Kittin
 
-Miss Kittin is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 12 Sept 2026.
+Miss Kittin is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Karmen Camina, Strasbourg on Sat, 12 Sept 2026.
 
 Miss Kittin is a techno and electro artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside The Hacker, BASHKKA and JakoJako. Next up: Karmen Camina, Strasbourg on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Miss Kittin is a techno and electro artist tracked on soundcheck, with 97 sets l
 
 The Hacker, BASHKKA, JakoJako
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*

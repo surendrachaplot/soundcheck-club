@@ -1,6 +1,6 @@
 # T78
 
-T78 is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Groove, Buenos Aires on Sat, 12 Sept 2026.
+T78 is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Groove, Buenos Aires on Sat, 12 Sept 2026.
 
 T78 is a techno and acid artist tracked on soundcheck, with 91 sets logged across Amsterdam, Athens, Austin and Barcelona and 34 more. Often billed alongside Aphøtic, BIIA and Basswell. Next up: Groove, Buenosaires on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ T78 is a techno and acid artist tracked on soundcheck, with 91 sets logged acros
 
 Aphøtic, BIIA, Basswell
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*

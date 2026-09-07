@@ -1,6 +1,6 @@
 # Alder
 
-Alder is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Computer Love #1" on Fri, 2 Oct 2026.
+Alder is a music venue in Sheffield with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Computer Love #1" on Fri, 2 Oct 2026.
 
 Alder is a music venue in Sheffield listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. unit 111, Percy Street, Sheffield, S3 8BT.
 
@@ -15,4 +15,4 @@ Alder is a music venue in Sheffield listed on soundcheck. 2 upcoming nights. Bro
 
 unit 111, Percy Street, Sheffield, S3 8BT, Sheffield
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/alder/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/alder/)*

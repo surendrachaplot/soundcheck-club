@@ -1,6 +1,6 @@
 # ADAM Berlin at Metropol
 
-ADAM Berlin at Metropol on Thu 10 Sept, Berlin. 6 acts on the bill: Arson Fire, DJ Hell, Estée Louder and Goat Spokesperson and 2 more. Techno and EBM. Preview the line-up and save it on soundcheck.
+ADAM Berlin at Metropol on Thu 10 Sept, Berlin. 6 acts on the bill: Arson Fire, DJ Hell, Estée Louder and Goat Spokesperson and 2 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

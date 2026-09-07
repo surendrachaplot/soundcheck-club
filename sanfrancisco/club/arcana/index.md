@@ -1,14 +1,13 @@
 # Arcana
 
-Arcana is a music venue in San Francisco/Oakland with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Lose Yourself w/Albion Street Music & Monoclick" on Sun, 6 Sept 2026.
+Arcana is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Lossless Wax + COMBSY PROJECTION MAPPING" on Fri, 11 Sept 2026.
 
-Arcana is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights, with line-ups including Albion Street Music, Lossless Wax, Monoclick and Travie Bobbito and 1 more. Browse upcoming dates, start times and who's playing. 2512 Mission St, San Francisco.
+Arcana is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including Lossless Wax, Travie Bobbito and WOCKIE. Browse upcoming dates, start times and who's playing. 2512 Mission St, San Francisco.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Lose Yourself w/Albion Street Music & Monoclick | Albion Street Music, Monoclick |
 | Fri, 11 Sept 2026 | Lossless Wax + COMBSY PROJECTION MAPPING | Lossless Wax |
 | Sat, 12 Sept 2026 | SKIN CONTACT -- LOVE SUPREME | Travie Bobbito |
 | Fri, 18 Sept 2026 | SIP & SPIN |  |
@@ -19,4 +18,4 @@ Arcana is a music venue in Sanfrancisco listed on soundcheck. 6 upcoming nights,
 
 2512 Mission St, San Francisco, San Francisco/Oakland
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*

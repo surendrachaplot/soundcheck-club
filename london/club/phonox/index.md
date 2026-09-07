@@ -1,6 +1,6 @@
 # Phonox
 
-Phonox is a music venue in London with 36 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Insomnia London: Launch at Phonox" on Thu, 10 Sept 2026.
+Phonox is a music venue in London with 36 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Insomnia London: Launch at Phonox" on Thu, 10 Sept 2026.
 
 Phonox is a music venue in London listed on soundcheck. 36 upcoming nights, with line-ups including Alan Fitzpatrick, Alba Heidari, Amaliah and amil raja and 2 more. Browse upcoming dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
@@ -23,4 +23,4 @@ Phonox is a music venue in London listed on soundcheck. 36 upcoming nights, with
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

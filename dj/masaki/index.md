@@ -1,6 +1,6 @@
 # Masaki
 
-Masaki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Tue, 22 Sept 2026.
+Masaki is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Tue, 22 Sept 2026.
 
 Masaki is a house and techno artist tracked on soundcheck, with 10 sets logged across Tokyo. Often billed alongside Anri, Kojiro and Yamariki. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ Masaki is a house and techno artist tracked on soundcheck, with 10 sets logged a
 
 Anri, Kojiro, Yamariki
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masaki/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masaki/)*

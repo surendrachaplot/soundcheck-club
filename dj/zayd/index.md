@@ -1,14 +1,14 @@
 # Zayd
 
-Zayd is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at H0L0, New York City on Sat, 5 Sept 2026.
+Zayd is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Outer Heaven, New York City on Thu, 17 Sept 2026.
 
-Zayd is a house and techno artist based in Lebanon, tracked on soundcheck, with 34 sets logged across Newyorkcity and Sandiego. Often billed alongside Armii1n, Choukroun and Monk (2). Next up: H0L0, Newyorkcity on Sat 5 Sept.
+Zayd is a house and techno artist based in Lebanon, tracked on soundcheck, with 35 sets logged across Newyorkcity and Sandiego. Often billed alongside Armii1n, Choukroun and Monk (2). Next up: Outer Heaven, Newyorkcity on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | H0L0 | New York City |
+| Thu, 17 Sept 2026 | Outer Heaven | New York City |
 | Fri, 18 Sept 2026 | Outer Heaven | New York City |
 | Fri, 9 Oct 2026 | Outer Heaven | New York City |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
@@ -28,4 +28,4 @@ Zayd is a house and techno artist based in Lebanon, tracked on soundcheck, with 
 
 Armii1n, Choukroun, Monk (2)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zayd/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zayd/)*

@@ -1,6 +1,6 @@
 # Colin Benders
 
-Colin Benders is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Barraca, Valencia on Sat, 19 Sept 2026.
+Colin Benders is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Barraca, Valencia on Sat, 19 Sept 2026.
 
 Colin Benders is a techno and house artist based in Netherlands, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside Speedy J, Dasha Rush and Ben Klock. Next up: Barraca, Valencia on Sat 19 Sept.
 
@@ -33,4 +33,4 @@ Colin Benders is a techno and house artist based in Netherlands, tracked on soun
 
 Speedy J, Dasha Rush, Ben Klock
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*

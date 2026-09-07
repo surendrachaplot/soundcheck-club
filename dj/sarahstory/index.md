@@ -1,6 +1,6 @@
 # Sarah Story
 
-Sarah Story is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at IDRA, Manchester on Sat, 26 Sept 2026.
+Sarah Story is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at IDRA, Manchester on Sat, 26 Sept 2026.
 
 Sarah Story is a house and techno artist based in United Kingdom, tracked on soundcheck, with 91 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 25 more. Often billed alongside Arielle Free, Danny Howard and Eats Everything. Next up: IDRA, Manchester on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ Sarah Story is a house and techno artist based in United Kingdom, tracked on sou
 
 Arielle Free, Danny Howard, Eats Everything
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahstory/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahstory/)*

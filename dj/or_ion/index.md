@@ -1,6 +1,6 @@
 # Or_ion
 
-Or_ion is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
+Or_ion is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at KREUZWERK, Berlin on Fri, 25 Sept 2026.
 
 Or_ion is a techno and baile funk artist tracked on soundcheck, with 7 sets logged across Berlin, Leipzig and Paris. Often billed alongside Kiar Oscuro, Butch2Bitch and CLEO. Next up: KREUZWERK, Berlin on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ Or_ion is a techno and baile funk artist tracked on soundcheck, with 7 sets logg
 
 Kiar Oscuro, Butch2Bitch, CLEO
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/or_ion/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/or_ion/)*

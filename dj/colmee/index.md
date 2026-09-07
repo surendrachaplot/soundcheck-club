@@ -1,6 +1,6 @@
 # Colmee
 
-Colmee is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at StereoBar, Montreal on Sun, 20 Sept 2026.
+Colmee is a Funk / Soul and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at StereoBar, Montreal on Sun, 20 Sept 2026.
 
 Colmee is a funk / soul and house artist based in Canada, tracked on soundcheck, with 5 sets logged across Montreal. Often billed alongside FREEEMAN, DUZA and Freeman. Next up: StereoBar, Montreal on Sun 20 Sept.
 
@@ -21,4 +21,4 @@ Colmee is a funk / soul and house artist based in Canada, tracked on soundcheck,
 
 FREEEMAN, DUZA, Freeman
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colmee/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colmee/)*

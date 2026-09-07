@@ -1,6 +1,6 @@
 # Queen Saba
 
-Queen Saba is a Acid and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at PIP Den Haag, The Hague on Sat, 19 Sept 2026.
+Queen Saba is a Acid and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at PIP Den Haag, The Hague on Sat, 19 Sept 2026.
 
 Queen Saba is an acid and italo disco artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Thehague and Utrecht. Often billed alongside Doppelgang, Afra and 42nd Avenue. Next up: PIP Den Haag, Thehague on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Queen Saba is an acid and italo disco artist based in Netherlands, tracked on so
 
 Doppelgang, Afra, 42nd Avenue
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queensaba/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/queensaba/)*

@@ -1,6 +1,6 @@
 # Rhiavas
 
-Rhiavas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 12 Sept 2026.
+Rhiavas is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Vittoria Wharf Studio, London on Sat, 12 Sept 2026.
 
 Rhiavas is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London. Often billed alongside FLORA THA EXPLORA, DRIA and Duo. Next up: Vittoria Wharf Studio, London on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Rhiavas is a house and tech house artist based in United Kingdom, tracked on sou
 
 FLORA THA EXPLORA, DRIA, Duo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhiavas/)*

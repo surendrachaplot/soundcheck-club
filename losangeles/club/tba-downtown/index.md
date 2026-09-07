@@ -1,6 +1,6 @@
 # TBA - Downtown
 
-TBA - Downtown is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "SIGNAL: Nita Aviance // S4M23 // Sevyn // Mez Monty" on Fri, 11 Sept 2026.
+TBA - Downtown is a music venue in Los Angeles with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "SIGNAL: Nita Aviance // S4M23 // Sevyn // Mez Monty" on Fri, 11 Sept 2026.
 
 TBA - Downtown is a music venue in Losangeles listed on soundcheck. 5 upcoming nights, with line-ups including 2ManyDJs, 88 MPH, Act of Rage and Akanbi and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ TBA - Downtown is a music venue in Losangeles listed on soundcheck. 5 upcoming n
 | Sat, 19 Sept 2026 | CSW - Andy Martin [3hr], OK EG [live], sysk | Andy Martin, OK EG, sysk |
 | Sat, 3 Oct 2026 | CSW Open Air: DjRUM [4hr], Mark Ernestus [3hr], Akanbi b2b The Large [Double set] | Akanbi, DjRUM, Mark Ernestus, The Large |
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown/)*

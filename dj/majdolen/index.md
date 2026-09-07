@@ -1,14 +1,13 @@
 # Majdolen
 
-Majdolen is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
+Majdolen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at OXI, Berlin on Tue, 29 Sept 2026.
 
-Majdolen is a techno and house artist based in Germany, tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Berlin and Budapest and 4 more. Often billed alongside Dirty Daddy Don, Khloe and Luigi Di Venere. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Sept.
+Majdolen is a techno and house artist based in Germany, tracked on soundcheck, with 55 sets logged across Amsterdam, Athens, Berlin and Budapest and 4 more. Often billed alongside Dirty Daddy Don, Khloe and Luigi Di Venere. Next up: OXI, Berlin on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Tue, 29 Sept 2026 | OXI | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Majdolen is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Dirty Daddy Don, Khloe, Luigi Di Venere
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*

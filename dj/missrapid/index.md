@@ -1,6 +1,6 @@
 # Miss Rapid
 
-Miss Rapid is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Artheater, Cologne on Sat, 12 Sept 2026.
+Miss Rapid is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Artheater, Cologne on Sat, 12 Sept 2026.
 
 Miss Rapid is a trance and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Cologne. Often billed alongside Anuuk, Aw508 and BOLZ. Next up: Artheater, Cologne on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Miss Rapid is a trance and techno artist based in Germany, tracked on soundcheck
 
 Anuuk, Aw508, BOLZ
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missrapid/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missrapid/)*

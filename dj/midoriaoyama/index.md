@@ -1,6 +1,6 @@
 # Midori Aoyama
 
-Midori Aoyama is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Club Metro, Kyoto on Sat, 19 Sept 2026.
+Midori Aoyama is a House and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Club Metro, Kyoto on Sat, 19 Sept 2026.
 
 Midori Aoyama is a house and jazz artist tracked on soundcheck, with 43 sets logged across Kyoto, Melbourne, Osaka and Seoul and 2 more. Often billed alongside AMANE, FU (JP) and MINAMI. Next up: Club Metro, Kyoto on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Midori Aoyama is a house and jazz artist tracked on soundcheck, with 43 sets log
 
 AMANE, FU (JP), MINAMI
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midoriaoyama/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/midoriaoyama/)*

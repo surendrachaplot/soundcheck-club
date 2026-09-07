@@ -1,6 +1,6 @@
 # jjjacob
 
-jjjacob is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Mayhem, Copenhagen on Fri, 18 Sept 2026.
+jjjacob is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Mayhem, Copenhagen on Fri, 18 Sept 2026.
 
 jjjacob is an experimental and techno artist based in Denmark, tracked on soundcheck, with 9 sets logged across Copenhagen, London, Melbourne and Paris. Often billed alongside Amelia Holt, BABii and Dudde. Next up: Mayhem, Copenhagen on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ jjjacob is an experimental and techno artist based in Denmark, tracked on soundc
 
 Amelia Holt, BABii, Dudde
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjacob/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jjjacob/)*

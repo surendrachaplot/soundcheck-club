@@ -1,6 +1,6 @@
 # Münch
 
-Münch is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Masada, Milan on Sat, 12 Sept 2026.
+Münch is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Masada, Milan on Sat, 12 Sept 2026.
 
 Münch is a techno and electronica artist based in Italy, tracked on soundcheck, with 33 sets logged across Berlin, Brussels, Milan and Porto and 1 more. Often billed alongside Outburst Knobs, Viels and Dixie. Next up: Masada, Milan on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Münch is a techno and electronica artist based in Italy, tracked on soundcheck,
 
 Outburst Knobs, Viels, Dixie
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munch/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munch/)*

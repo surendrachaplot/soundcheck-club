@@ -1,6 +1,6 @@
 # Art of Tones
 
-Art of Tones is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 19 Sept 2026.
+Art of Tones is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 19 Sept 2026.
 
 Art of Tones is a house and disco artist based in France, tracked on soundcheck, with 14 sets logged across Barcelona, London, Madrid and Marseille and 6 more. Often billed alongside Basile de Suresnes, Ten Fingerz and BAB MUSIQUE. Next up: Cabaret Sauvage, Paris on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Art of Tones is a house and disco artist based in France, tracked on soundcheck,
 
 Basile de Suresnes, Ten Fingerz, BAB MUSIQUE
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artoftones/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artoftones/)*

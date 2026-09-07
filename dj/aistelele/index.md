@@ -1,6 +1,6 @@
 # Aistelele
 
-Aistelele is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at B2 Rīga, Riga on Fri, 18 Sept 2026.
+Aistelele is a House and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at B2 Rīga, Riga on Fri, 18 Sept 2026.
 
 Aistelele is a house and italo disco artist based in Lithuania, tracked on soundcheck, with 1 set logged across Riga. Often billed alongside Mikass. Next up: B2 Rīga, Riga on Fri 18 Sept.
 
@@ -14,4 +14,4 @@ Aistelele is a house and italo disco artist based in Lithuania, tracked on sound
 
 Mikass
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aistelele/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aistelele/)*

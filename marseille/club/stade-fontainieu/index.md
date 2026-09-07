@@ -1,6 +1,6 @@
 # Stade Fontainieu
 
-Stade Fontainieu is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Kumquat prés. Le Château de Ma Mère – Chap IV. (Closing)" on Sat, 19 Sept 2026.
+Stade Fontainieu is a music venue in Marseille with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Kumquat prés. Le Château de Ma Mère – Chap IV. (Closing)" on Sat, 19 Sept 2026.
 
 Stade Fontainieu is a music venue in Marseille listed on soundcheck. 1 upcoming night, with line-ups including Burchan Acar, Desyn, Faciendo Soundsystem and Keras and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Stade Fontainieu is a music venue in Marseille listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Kumquat prés. Le Château de Ma Mère – Chap IV. (Closing) | Burchan Acar, Desyn, Faciendo Soundsystem, Keras, Rama NYC, Rowan, Tom Morgan, Tommy Pickles |
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/stade-fontainieu/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/stade-fontainieu/)*

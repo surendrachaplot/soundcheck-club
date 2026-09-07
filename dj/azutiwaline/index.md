@@ -1,14 +1,13 @@
 # Azu Tiwaline
 
-Azu Tiwaline is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - LFO.exp, Madrid on Sat, 5 Sept 2026.
+Azu Tiwaline is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Ormside Projects, London on Fri, 11 Sept 2026.
 
-Azu Tiwaline is a techno and bass artist based in France, tracked on soundcheck, with 99 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 35 more. Often billed alongside DJ Plead, upsammy and CCL. Next up: TBA - LFO.exp, Madrid on Sat 5 Sept.
+Azu Tiwaline is a techno and bass artist based in France, tracked on soundcheck, with 99 sets logged across Amsterdam, Bangkok, Barcelona and Basel and 35 more. Often billed alongside DJ Plead, upsammy and CCL. Next up: Ormside Projects, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | TBA - LFO.exp | Madrid |
 | Fri, 11 Sept 2026 | Ormside Projects | London |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 
@@ -27,4 +26,4 @@ Azu Tiwaline is a techno and bass artist based in France, tracked on soundcheck,
 
 DJ Plead, upsammy, CCL
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azutiwaline/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/azutiwaline/)*

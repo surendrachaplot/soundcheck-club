@@ -1,6 +1,6 @@
 # Oliver SCH
 
-Oliver SCH is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Very Small Club, Budapest on Fri, 25 Sept 2026.
+Oliver SCH is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Very Small Club, Budapest on Fri, 25 Sept 2026.
 
 Oliver SCH is a house and minimal artist tracked on soundcheck, with 23 sets logged across Budapest. Often billed alongside Electric Boutique, Andrija Jäger and Acsa. Next up: Very Small Club, Budapest on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Oliver SCH is a house and minimal artist tracked on soundcheck, with 23 sets log
 
 Electric Boutique, Andrija Jäger, Acsa
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversch/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversch/)*

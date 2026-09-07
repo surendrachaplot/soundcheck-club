@@ -1,6 +1,6 @@
 # MARCHANTE
 
-MARCHANTE is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Airliner, Los Angeles on Sat, 12 Sept 2026.
+MARCHANTE is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Airliner, Los Angeles on Sat, 12 Sept 2026.
 
 MARCHANTE is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 6 sets logged across Losangeles and Sandiego. Often billed alongside DJ Kita, Pretty R1cky and Banoffee. Next up: The Airliner, Losangeles on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ MARCHANTE is a club and hip-hop artist based in United States of America, tracke
 
 DJ Kita, Pretty R1cky, Banoffee
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marchante/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marchante/)*

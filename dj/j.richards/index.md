@@ -1,14 +1,13 @@
 # J. Richards
 
-J. Richards is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at H0L0, New York City on Sat, 5 Sept 2026.
+J. Richards is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Hotel Butterfly, Rome on Thu, 10 Sept 2026.
 
-J. Richards is a house and techno artist based in United States of America, tracked on soundcheck, with 102 sets logged across Amsterdam, Berlin, Detroit and Ibiza and 9 more. Often billed alongside Kurilo, Gian-Paul and Vivian Wang. Next up: H0L0, Newyorkcity on Sat 5 Sept.
+J. Richards is a house and techno artist based in United States of America, tracked on soundcheck, with 102 sets logged across Amsterdam, Berlin, Detroit and Ibiza and 9 more. Often billed alongside Kurilo, Gian-Paul and Vivian Wang. Next up: Hotel Butterfly, Rome on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | H0L0 | New York City |
 | Thu, 10 Sept 2026 | Hotel Butterfly | Rome |
 | Sat, 19 Sept 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Signal | New York City |
@@ -28,4 +27,4 @@ J. Richards is a house and techno artist based in United States of America, trac
 
 Kurilo, Gian-Paul, Vivian Wang
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*

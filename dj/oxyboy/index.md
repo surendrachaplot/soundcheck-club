@@ -1,6 +1,6 @@
 # OXYBOY
 
-OXYBOY is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Siwilai Radical Club, Bangkok on Sat, 19 Sept 2026.
+OXYBOY is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Siwilai Radical Club, Bangkok on Sat, 19 Sept 2026.
 
 OXYBOY is a club and bass artist based in Thailand, tracked on soundcheck, with 20 sets logged across Bangkok. Often billed alongside JWP., Genji and .g (TH). Next up: Siwilai Radical Club, Bangkok on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ OXYBOY is a club and bass artist based in Thailand, tracked on soundcheck, with 
 
 JWP., Genji, .g (TH)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oxyboy/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oxyboy/)*

@@ -1,6 +1,6 @@
 # UFO95
 
-UFO95 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
+UFO95 is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
 
 UFO95 is a techno and house artist tracked on soundcheck, with 156 sets logged across Amsterdam, Austin, Barcelona and Berlin and 50 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Tresor / Globus, Berlin on Fri 18 Sept.
 
@@ -28,4 +28,4 @@ UFO95 is a techno and house artist tracked on soundcheck, with 156 sets logged a
 
 Hadone, Adriana Lopez, Anetha
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo95/)*

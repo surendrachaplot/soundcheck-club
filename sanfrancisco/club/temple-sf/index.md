@@ -1,14 +1,13 @@
 # Temple SF
 
-Temple SF is a music venue in San Francisco/Oakland with 8 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "PERREO SAN FRANCISCO - LABOR DAY SUNDAY" on Sun, 6 Sept 2026.
+Temple SF is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "A HIPHOP & R&B FRIDAY w/J ESPINOSA" on Fri, 11 Sept 2026.
 
-Temple SF is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nights, with line-ups including Double B and TBA. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
+Temple SF is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including TBA. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | PERREO SAN FRANCISCO - LABOR DAY SUNDAY | Double B |
 | Fri, 11 Sept 2026 | A HIPHOP & R&B FRIDAY w/J ESPINOSA |  |
 | Sat, 12 Sept 2026 | DJ BAYAREAKEV at LVL55 - Hiphop Room Saturdays |  |
 | Sat, 12 Sept 2026 | PERREO SAN FRANCISCO - INDEPENDENCE WKND! Reggaeton Hiphop Edm |  |
@@ -21,4 +20,4 @@ Temple SF is a music venue in Sanfrancisco listed on soundcheck. 8 upcoming nigh
 
 540 Howard St., San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*

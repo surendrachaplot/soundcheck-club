@@ -1,6 +1,6 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Polychrome x Doka Studio with Faited - Tanzverbot" on Fri, 11 Sept 2026.
+Doka is a music venue in Amsterdam with 17 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Polychrome x Doka Studio with Faited - Tanzverbot" on Fri, 11 Sept 2026.
 
 Doka is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, with line-ups including Antal, Anz, babyschön and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Doka is a music venue in Amsterdam listed on soundcheck. 17 upcoming nights, wit
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

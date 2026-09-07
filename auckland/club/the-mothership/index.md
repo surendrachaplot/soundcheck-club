@@ -1,6 +1,6 @@
 # The Mothership
 
-The Mothership is a music venue in Auckland with 7 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "HOMO HOUSE" on Sat, 12 Sept 2026.
+The Mothership is a music venue in Auckland with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "HOMO HOUSE" on Sat, 12 Sept 2026.
 
 The Mothership is a music venue in Auckland listed on soundcheck. 7 upcoming nights, with line-ups including Cam Harris, Eddie Richards, Gorge and Isaac Denny and 2 more. Browse upcoming dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
 
@@ -20,4 +20,4 @@ The Mothership is a music venue in Auckland listed on soundcheck. 7 upcoming nig
 
 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand, Auckland
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*

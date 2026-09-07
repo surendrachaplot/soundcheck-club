@@ -1,6 +1,6 @@
 # Vallas Martins
 
-Vallas Martins is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at D-EDGE, Sao Paulo on Thu, 17 Sept 2026.
+Vallas Martins is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at D-EDGE, Sao Paulo on Thu, 17 Sept 2026.
 
 Vallas Martins is a techno and house artist tracked on soundcheck, with 18 sets logged across Buenosaires and Saopaulo. Often billed alongside Lost my Keys, Anders (BR) and Flip Devonian. Next up: D-EDGE, Saopaulo on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Vallas Martins is a techno and house artist tracked on soundcheck, with 18 sets 
 
 Lost my Keys, Anders (BR), Flip Devonian
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vallasmartins/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vallasmartins/)*

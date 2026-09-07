@@ -1,14 +1,13 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 7 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Black Asteroid (US) × Risa Taniguchi — TOKYO ROOFTOP TECHNO | YODO GROOVE" on Sun, 6 Sept 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "PALMERA — TOKYO ROOFTOP TECH HOUSE / OPEN AIR & SUNSET" on Sat, 12 Sept 2026.
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 7 upcoming nights, with line-ups including TATSUYA, Black Asteroid, CHIKA and DJ 34 and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 6 upcoming nights, with line-ups including TATSUYA, CHIKA, DJ 34 and Ëmbyrblume and 2 more. Browse upcoming dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Black Asteroid (US) × Risa Taniguchi — TOKYO ROOFTOP TECHNO / YODO GROOVE | Black Asteroid, MAREAM, Ririko, Risa Taniguchi, YURI VALEN |
 | Sat, 12 Sept 2026 | PALMERA — TOKYO ROOFTOP TECH HOUSE / OPEN AIR & SUNSET | Keigo, Nosh, TATSUYA |
 | Sun, 13 Sept 2026 | DANCEDEVICE meets velfarre PLANET LOVE | Ko Kimura, Q'hey, YOSHIMASA |
 | Sat, 19 Sept 2026 | SKY MUSIC JOURNEY × EN:JOIN / WEEK:EN at YODO GROOVE | CHIKA, PUSTER, Rena |
@@ -20,4 +19,4 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan, Tokyo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yodo-groove-yodobashi-ikebukuro/)*

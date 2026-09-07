@@ -1,6 +1,6 @@
 # Skatman
 
-Skatman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at OHM, Berlin on Sat, 19 Sept 2026.
+Skatman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at OHM, Berlin on Sat, 19 Sept 2026.
 
 Skatman is a house and techno artist tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Ede, JAMIIE and Tal Fussman. Next up: OHM, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Skatman is a house and techno artist tracked on soundcheck, with 61 sets logged 
 
 Ede, JAMIIE, Tal Fussman
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skatman/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skatman/)*

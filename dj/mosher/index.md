@@ -1,6 +1,6 @@
 # Mosher
 
-Mosher is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 18 Sept 2026.
+Mosher is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Fridas Pier, Stuttgart on Fri, 18 Sept 2026.
 
 Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Buenosaires and Mexicocity and 1 more. Often billed alongside Sebastian Mora, Patrick Scuro and Basstronauten. Next up: Fridas Pier, Stuttgart on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Mosher is a techno and acid artist based in Argentina, tracked on soundcheck, wi
 
 Sebastian Mora, Patrick Scuro, Basstronauten
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mosher/)*

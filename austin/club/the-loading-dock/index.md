@@ -1,6 +1,6 @@
 # The Loading Dock
 
-The Loading Dock is a music venue in Austin with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "BRINGING SEXY BACK" on Sat, 3 Oct 2026.
+The Loading Dock is a music venue in Austin with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "BRINGING SEXY BACK" on Sat, 3 Oct 2026.
 
 The Loading Dock is a music venue in Austin listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 6910 shirley ave, Austin, TX 78752, USA.
 
@@ -14,4 +14,4 @@ The Loading Dock is a music venue in Austin listed on soundcheck. 1 upcoming nig
 
 6910 shirley ave, Austin, TX 78752, USA, Austin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-loading-dock/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-loading-dock/)*

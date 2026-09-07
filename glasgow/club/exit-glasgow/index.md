@@ -1,6 +1,6 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "ARIAS" on Fri, 11 Sept 2026.
+EXIT Glasgow is a music venue in Glasgow with 12 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "ARIAS" on Fri, 11 Sept 2026.
 
 EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 12 upcoming nights, with line-ups including 3SBAT, Angel Negrin, Bake and Buckfast Barbie and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
@@ -23,4 +23,4 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 12 upcoming night
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

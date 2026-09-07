@@ -1,6 +1,6 @@
 # Iced Misto
 
-Iced Misto is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Bsmt 254, Toronto on Sat, 19 Sept 2026.
+Iced Misto is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bsmt 254, Toronto on Sat, 19 Sept 2026.
 
 Iced Misto is a house and funk / soul artist tracked on soundcheck, with 63 sets logged across Toronto. Often billed alongside Yogi, Jason Palma and Jay NuFunk. Next up: Bsmt 254, Toronto on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Iced Misto is a house and funk / soul artist tracked on soundcheck, with 63 sets
 
 Yogi, Jason Palma, Jay NuFunk
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icedmisto/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/icedmisto/)*

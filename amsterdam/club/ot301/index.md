@@ -1,6 +1,6 @@
 # OT301
 
-OT301 is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Alteration vol. 6" on Fri, 11 Sept 2026.
+OT301 is a music venue in Amsterdam with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Alteration vol. 6" on Fri, 11 Sept 2026.
 
 OT301 is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, with line-ups including Aili, Anton Quasi, baby ganoush and Bardo (1) and 2 more. Browse upcoming dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ OT301 is a music venue in Amsterdam listed on soundcheck. 13 upcoming nights, wi
 
 Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*

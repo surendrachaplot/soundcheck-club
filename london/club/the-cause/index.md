@@ -1,8 +1,8 @@
 # The Cause
 
-The Cause is a music venue in London with 23 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Waterworks Extended 2026" on Sat, 12 Sept 2026.
+The Cause is a music venue in London with 24 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Waterworks Extended 2026" on Sat, 12 Sept 2026.
 
-The Cause is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including 4000 Hz, KT, Aba Shanti-I and Adiel and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
+The Cause is a music venue in London listed on soundcheck. 24 upcoming nights, with line-ups including 4000 Hz, KT, Aba Shanti-I and Adiel and 2 more. Browse upcoming dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 23 upcoming nights, w
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

@@ -1,6 +1,6 @@
 # Vittorio Di Mango
 
-Vittorio Di Mango is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Q Club, Milan on Fri, 18 Sept 2026.
+Vittorio Di Mango is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Q Club, Milan on Fri, 18 Sept 2026.
 
 Vittorio Di Mango is a techno and house artist based in Italy, tracked on soundcheck, with 30 sets logged across Milan. Often billed alongside MISERIA, Re Pigi and ARMANDO. Next up: Q Club, Milan on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Vittorio Di Mango is a techno and house artist based in Italy, tracked on soundc
 
 MISERIA, Re Pigi, ARMANDO
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vittoriodimango/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vittoriodimango/)*

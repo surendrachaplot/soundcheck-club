@@ -1,6 +1,6 @@
 # Dj Hiro
 
-Dj Hiro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Dirty Rabbit Hidden Bar, Bangkok on Fri, 11 Sept 2026.
+Dj Hiro is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Dirty Rabbit Hidden Bar, Bangkok on Fri, 11 Sept 2026.
 
 Dj Hiro is a house and techno artist based in Japan, tracked on soundcheck, with 43 sets logged across Bangkok, Kyoto, Osaka and Tokyo. Often billed alongside OPTIKZ, DJ JURI and MASANORI MORITA. Next up: Dirty Rabbit Hidden Bar, Bangkok on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Dj Hiro is a house and techno artist based in Japan, tracked on soundcheck, with
 
 OPTIKZ, DJ JURI, MASANORI MORITA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhiro/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djhiro/)*

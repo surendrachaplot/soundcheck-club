@@ -1,6 +1,6 @@
 # Selassie TBC
 
-Selassie TBC is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
+Selassie TBC is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Night Tales Loft, London on Sat, 12 Sept 2026.
 
 Selassie TBC is a house and club artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Berlin, Bristol, London and Malaga. Often billed alongside Donut, Mr. Redley and Leanne Wright. Next up: Night Tales Loft, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Selassie TBC is a house and club artist based in United Kingdom, tracked on soun
 
 Donut, Mr. Redley, Leanne Wright
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*

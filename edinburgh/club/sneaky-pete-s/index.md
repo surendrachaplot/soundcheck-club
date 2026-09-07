@@ -1,14 +1,13 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 32 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Postal: Clean Up Birthday Party" on Sun, 6 Sept 2026.
+Sneaky Pete's is a music venue in Edinburgh with 31 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "RARE Club // Georj + Mixfits" on Tue, 8 Sept 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming nights, with line-ups including Alexis Taylor, Auramatic, BORLEY and Buckfast Barbie and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 31 upcoming nights, with line-ups including Alexis Taylor, Auramatic, BORLEY and Buckfast Barbie and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Postal: Clean Up Birthday Party | Clean Up Crew (2) |
 | Tue, 8 Sept 2026 | RARE Club // Georj + Mixfits | Georj, Georj (2), Mixfits (2) |
 | Wed, 9 Sept 2026 | ☆ Sneaks All Stars ☆ | Buckfast Barbie, DV60, Humza, Sweet Philly, fawnes, m1 (1), miira |
 | Thu, 10 Sept 2026 | Refracta & Pals | Refracta |
@@ -18,9 +17,10 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming ni
 | Mon, 14 Sept 2026 | Konversion: Lisa The Beauty Queen (live singing set), Roché, SINN3R | SINN3R |
 | Wed, 16 Sept 2026 | Borley Room: Auramatic | Auramatic, BORLEY, Phoebe Roper, cara hegarty |
 | Thu, 17 Sept 2026 | membrane with Daksh | Daksh |
+| Sat, 19 Sept 2026 | Popular Music: Alexis Taylor (Hot Chip) DJ Set | Alexis Taylor, Nick from Sneaks |
 
 ## Address
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

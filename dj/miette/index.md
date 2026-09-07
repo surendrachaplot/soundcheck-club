@@ -1,6 +1,6 @@
 # Miette
 
-Miette is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at NWHR, Montreal on Sat, 26 Sept 2026.
+Miette is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at NWHR, Montreal on Sat, 26 Sept 2026.
 
 Miette is a techno and experimental artist based in Canada, tracked on soundcheck, with 14 sets logged across Montreal. Often billed alongside Sloppy, s.talbot and Safia Nihil. Next up: NWHR, Montreal on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Miette is a techno and experimental artist based in Canada, tracked on soundchec
 
 Sloppy, s.talbot, Safia Nihil
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miette/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/miette/)*

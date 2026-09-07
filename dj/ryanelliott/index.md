@@ -1,8 +1,8 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 8 Sept 2026.
+Ryan Elliott is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 8 Sept 2026.
 
-Ryan Elliott is a house and techno artist tracked on soundcheck, with 243 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 57 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Amnesia Ibiza, Ibiza on Tue 8 Sept.
+Ryan Elliott is a house and techno artist tracked on soundcheck, with 244 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 57 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Amnesia Ibiza, Ibiza on Tue 8 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 243 sets l
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 31 Oct 2026 | TBA | Liverpool |
 | Sat, 31 Oct 2026 | Distrikt | Leeds |
+| Sat, 5 Dec 2026 | fabric | London |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Ryan Elliott is a house and techno artist tracked on soundcheck, with 243 sets l
 
 Ogazón, Christian AB, PARAMIDA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanelliott/)*

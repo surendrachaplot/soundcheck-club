@@ -1,6 +1,6 @@
 # flirty800
 
-flirty800 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at El Cid, Los Angeles on Sat, 26 Sept 2026.
+flirty800 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at El Cid, Los Angeles on Sat, 26 Sept 2026.
 
 flirty800 is a techno and house artist based in United States of America, tracked on soundcheck, with 52 sets logged across Barcelona, Chicago, London and Losangeles and 4 more. Often billed alongside DJ USA, DJ Thank You and Word of Command. Next up: El Cid, Losangeles on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ flirty800 is a techno and house artist based in United States of America, tracke
 
 DJ USA, DJ Thank You, Word of Command
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flirty800/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flirty800/)*

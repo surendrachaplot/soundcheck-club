@@ -1,6 +1,6 @@
 # Dobao
 
-Dobao is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 10 Sept 2026.
+Dobao is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Thu, 10 Sept 2026.
 
 Dobao is a house and disco artist tracked on soundcheck, with 34 sets logged across Buenosaires, Madrid, Mexicocity and Miami and 2 more. Often billed alongside Pabels, Harari and JUNA. Next up: TBA - Tokyo Club, Costanera, Buenosaires on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Dobao is a house and disco artist tracked on soundcheck, with 34 sets logged acr
 
 Pabels, Harari, JUNA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dobao/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dobao/)*

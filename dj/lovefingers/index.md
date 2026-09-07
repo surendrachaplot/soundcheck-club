@@ -1,18 +1,18 @@
 # Lovefingers
 
-Lovefingers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Akbar, Los Angeles on Sun, 6 Sept 2026.
+Lovefingers is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Fri, 9 Oct 2026.
 
-Lovefingers is a house and disco artist based in United States of America, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bali and Bangkok and 23 more. Often billed alongside Heidi Lawden, Bears In Space and Stacy Christine. Next up: Akbar, Losangeles on Sun 6 Sept.
+Lovefingers is a house and disco artist based in United States of America, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Bali and Bangkok and 23 more. Often billed alongside Heidi Lawden, Bears In Space and Stacy Christine. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Akbar | Los Angeles |
 | Fri, 9 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
 ## Recently played
 
+- Akbar, Los Angeles — Sun, 6 Sept 2026
 - The Bridge, Los Angeles — Sat, 8 Aug 2026
 - Ocean Artworks, Vancouver — Sat, 9 May 2026
 - Ocean Artworks, Vancouver — Fri, 8 May 2026
@@ -20,10 +20,9 @@ Lovefingers is a house and disco artist based in United States of America, track
 - public records, New York City — Sat, 2 May 2026
 - TBA, Los Angeles — Fri, 1 May 2026
 - TBA - 701 Mission St, Third and Fourth Streets, San Francisco, CA 94103, San Francisco/Oakland — Sun, 19 Apr 2026
-- Apotheke, Los Angeles — Fri, 3 Apr 2026
 
 ## Shares bills with
 
 Heidi Lawden, Bears In Space, Stacy Christine
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefingers/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefingers/)*

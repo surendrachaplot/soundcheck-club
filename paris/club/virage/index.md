@@ -1,6 +1,6 @@
 # Virage
 
-Virage is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Le Virage du Mercredi Closing All Stars" on Wed, 9 Sept 2026.
+Virage is a music venue in Paris with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Le Virage du Mercredi Closing All Stars" on Wed, 9 Sept 2026.
 
 Virage is a music venue in Paris listed on soundcheck. 7 upcoming nights, with line-ups including Alex Quillard, Bande de Filles, Bérou and Blaame and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
@@ -20,4 +20,4 @@ Virage is a music venue in Paris listed on soundcheck. 7 upcoming nights, with l
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

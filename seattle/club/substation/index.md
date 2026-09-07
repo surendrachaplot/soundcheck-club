@@ -1,6 +1,6 @@
 # Substation
 
-Substation is a music venue in Seattle with 34 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Routine: ATRIP B2B DJ BORING" on Thu, 10 Sept 2026.
+Substation is a music venue in Seattle with 34 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Routine: ATRIP B2B DJ BORING" on Thu, 10 Sept 2026.
 
 Substation is a music venue in Seattle listed on soundcheck. 34 upcoming nights, with line-ups including AEREA, alexia.f, Anish Kumar and ATRIP and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
@@ -23,4 +23,4 @@ Substation is a music venue in Seattle listed on soundcheck. 34 upcoming nights,
 
 645 NW 45th St, Seattle WA 98107, Seattle
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/substation/)*

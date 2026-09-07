@@ -1,6 +1,6 @@
 # Uebel & Gefährlich
 
-Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "VER pres. davyboi, Charleen Herzig, DJ Pinky Promise,  MOVE TO GROOVE COLLECTIVE uvm" on Fri, 11 Sept 2026.
+Uebel & Gefährlich is a music venue in Hamburg with 12 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "VER pres. davyboi, Charleen Herzig, DJ Pinky Promise,  MOVE TO GROOVE COLLECTIVE uvm" on Fri, 11 Sept 2026.
 
 Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcoming nights, with line-ups including AEREA, Aiden (DE), Alignment and BNZN and 2 more. Browse upcoming dates, start times and who's playing. Feldstrasse 66; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Uebel & Gefährlich is a music venue in Hamburg listed on soundcheck. 12 upcomin
 
 Feldstrasse 66; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/uebel-gef-hrlich/)*

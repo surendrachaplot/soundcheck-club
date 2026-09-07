@@ -1,6 +1,6 @@
 # Saachi
 
-Saachi is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at KOKO, London on Fri, 11 Sept 2026.
+Saachi is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at KOKO, London on Fri, 11 Sept 2026.
 
 Saachi is a garage and bass artist tracked on soundcheck, with 8 sets logged across Bristol, Edinburgh and London. Often billed alongside Riva, Yung Singh and AceMoMA. Next up: KOKO, London on Fri 11 Sept.
 
@@ -24,4 +24,4 @@ Saachi is a garage and bass artist tracked on soundcheck, with 8 sets logged acr
 
 Riva, Yung Singh, AceMoMA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saachi/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saachi/)*

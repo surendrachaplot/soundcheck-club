@@ -1,6 +1,6 @@
 # Internal Observer
 
-Internal Observer is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Mastak, Warsaw on Sat, 12 Sept 2026.
+Internal Observer is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Mastak, Warsaw on Sat, 12 Sept 2026.
 
 Internal Observer is a techno and electronica artist based in Poland, tracked on soundcheck, with 3 sets logged across Warsaw. Often billed alongside Nightfall and Slowmode. Next up: Mastak, Warsaw on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Internal Observer is a techno and electronica artist based in Poland, tracked on
 
 Nightfall, Slowmode
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/internalobserver/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/internalobserver/)*

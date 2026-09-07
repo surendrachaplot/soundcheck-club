@@ -1,6 +1,6 @@
 # Frank Sonic
 
-Frank Sonic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Odonien, Cologne on Fri, 25 Sept 2026.
+Frank Sonic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Odonien, Cologne on Fri, 25 Sept 2026.
 
 Frank Sonic is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Cologne and Dusseldorf. Often billed alongside Drumcomplex, Marc Romboy and L-ex. Next up: Odonien, Cologne on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Frank Sonic is a techno and house artist based in Germany, tracked on soundcheck
 
 Drumcomplex, Marc Romboy, L-ex
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franksonic/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franksonic/)*

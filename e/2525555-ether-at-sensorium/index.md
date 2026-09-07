@@ -1,6 +1,6 @@
 # ETHER at Sensorium
 
-ETHER at Sensorium on Fri 11 Sept, Berlin. 5 acts on the bill: Bouquet, Hyperrealist Dreamer, Ivana_dnb and MixB and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ETHER at Sensorium on Fri 11 Sept, Berlin. 5 acts on the bill: Bouquet, Hyperrealist Dreamer, Ivana_dnb and MixB and 1 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

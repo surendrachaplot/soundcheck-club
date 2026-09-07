@@ -1,6 +1,6 @@
 # Jade Seatle
 
-Jade Seatle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at La Cheetah Club, Glasgow on Thu, 24 Sept 2026.
+Jade Seatle is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at La Cheetah Club, Glasgow on Thu, 24 Sept 2026.
 
 Jade Seatle is a house and techno artist tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 9 more. Often billed alongside Jane Fitz, NIGHT MOVES and DJ Rino. Next up: La Cheetah Club, Glasgow on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Jade Seatle is a house and techno artist tracked on soundcheck, with 49 sets log
 
 Jane Fitz, NIGHT MOVES, DJ Rino
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeseatle/)*

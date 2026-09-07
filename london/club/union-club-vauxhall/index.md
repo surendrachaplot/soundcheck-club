@@ -1,14 +1,13 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 20 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Orbit Sunday night / Monday morning after party" on Sun, 6 Sept 2026.
+Union Club, Vauxhall is a music venue in London with 19 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "DESIRE - Weekly Thursday After Party - SPECIAL GUEST" on Thu, 10 Sept 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 20 upcoming nights, with line-ups including AiMii, Cristian Ebasta, Dhez and Duwat? and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 19 upcoming nights, with line-ups including Cristian Ebasta, Dhez, Duwat? and Elisa Nau. and 2 more. Browse upcoming dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Orbit Sunday night / Monday morning after party | AiMii, Loora, Thomas Galbardi, YOSHI KANOU, Yukari |
 | Thu, 10 Sept 2026 | DESIRE - Weekly Thursday After Party - SPECIAL GUEST | Dhez, Duwat?, Elisa Nau., Simone Sim |
 | Fri, 11 Sept 2026 | FOX IN THE BOX AFTERPARTY (OPEN UNTIL 10AM) | Enrico Chirchiello |
 | Sat, 12 Sept 2026 | VANITY afterhours from 1am till 10am feat. Paul Heron (DTPM @ Fabric / LA DEMENCE)  | Cristian Ebasta, Francesco Poggi, Paul Heron |
@@ -18,9 +17,10 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 20 upcomin
 | Fri, 18 Sept 2026 | AFTERPARTY AT FOX IN THE BOX (OPEN UNTILL 10AM) | Cristian Ebasta, Enrico Chirchiello, Rimbano |
 | Sun, 20 Sept 2026 | Orbit Sunday night / Monday morning after party | Thomas Galbardi |
 | Thu, 24 Sept 2026 | DESIRE - Weekly Thursday After Party - GIANNI TRANCHINA | Dhez, Duwat?, Elisa Nau., Simone Sim |
+| Fri, 25 Sept 2026 | FOX IN THE BOX AFTER PARTY (OPEN UNTIL 10AM) | Enrico Chirchiello, PERILOUS P |
 
 ## Address
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

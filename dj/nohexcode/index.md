@@ -1,6 +1,6 @@
 # nohexcode
 
-nohexcode is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
+nohexcode is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Algha's Plantroom, London on Sat, 12 Sept 2026.
 
 nohexcode is a techno and acid artist tracked on soundcheck, with 29 sets logged across Berlin, Brighton and London. Often billed alongside CITYTRONIX, Noah Tauber and Modlar. Next up: Algha's Plantroom, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ nohexcode is a techno and acid artist tracked on soundcheck, with 29 sets logged
 
 CITYTRONIX, Noah Tauber, Modlar
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nohexcode/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nohexcode/)*

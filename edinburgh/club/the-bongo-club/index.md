@@ -1,8 +1,8 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 23 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "CandyFlip x Contrabass: Circadian" on Thu, 10 Sept 2026.
+The Bongo Club is a music venue in Edinburgh with 24 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "CandyFlip x Contrabass: Circadian" on Thu, 10 Sept 2026.
 
-The Bongo Club is a music venue in Edinburgh listed on soundcheck. 23 upcoming nights, with line-ups including YVI, Anikonik, Becca Egan and Bryan Gee and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
+The Bongo Club is a music venue in Edinburgh listed on soundcheck. 24 upcoming nights, with line-ups including YVI, Anikonik, Becca Egan and Bryan Gee and 2 more. Browse upcoming dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 23 upcoming n
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

@@ -1,6 +1,6 @@
 # DJ Heartstring
 
-DJ Heartstring is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+DJ Heartstring is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 DJ Heartstring is a techno and trance artist tracked on soundcheck, with 219 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 64 more. Often billed alongside MALUGI, Partiboi69 and KETTAMA. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -9,7 +9,6 @@ DJ Heartstring is a techno and trance artist tracked on soundcheck, with 219 set
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Sat, 5 Sept 2026 | TBA | Miami |
 | Fri, 11 Sept 2026 | Palmerstown House Estate | Dublin |
 | Sat, 19 Sept 2026 | Else | Berlin |
 | Sat, 10 Oct 2026 | Palladium | Geneva |
@@ -35,4 +34,4 @@ DJ Heartstring is a techno and trance artist tracked on soundcheck, with 219 set
 
 MALUGI, Partiboi69, KETTAMA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*

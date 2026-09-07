@@ -1,6 +1,6 @@
 # Positive_Con
 
-Positive_Con is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Rowans Tenpin Bowl, London on Thu, 17 Sept 2026.
+Positive_Con is a Drum & Bass and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Rowans Tenpin Bowl, London on Thu, 17 Sept 2026.
 
 Positive_Con is a drum & bass and garage artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside tasha.mp4, Faded Society and Gem Precious. Next up: Rowans Tenpin Bowl, London on Thu 17 Sept.
 
@@ -25,4 +25,4 @@ Positive_Con is a drum & bass and garage artist tracked on soundcheck, with 11 s
 
 tasha.mp4, Faded Society, Gem Precious
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/positive_con/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/positive_con/)*

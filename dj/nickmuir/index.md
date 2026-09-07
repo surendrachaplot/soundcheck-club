@@ -1,6 +1,6 @@
 # Nick Muir
 
-Nick Muir is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Complejo Los Leones, Carlos Keen, Buenos Aires on Sat, 12 Sept 2026.
+Nick Muir is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Complejo Los Leones, Carlos Keen, Buenos Aires on Sat, 12 Sept 2026.
 
 Nick Muir is a progressive house and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Bristol, Buenosaires and Glasgow and 2 more. Often billed alongside Industry Standard, Grant McKay and Elliot Moriarty. Next up: TBA - Complejo Los Leones, Carlos Keen, Buenosaires on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Nick Muir is a progressive house and techno artist based in United Kingdom, trac
 
 Industry Standard, Grant McKay, Elliot Moriarty
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmuir/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmuir/)*

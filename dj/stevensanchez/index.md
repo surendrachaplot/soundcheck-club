@@ -1,6 +1,6 @@
 # Steven Sanchez
 
-Steven Sanchez is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Cercle des Bains, Geneva on Fri, 18 Sept 2026.
+Steven Sanchez is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Cercle des Bains, Geneva on Fri, 18 Sept 2026.
 
 Steven Sanchez is a deep house and minimal artist tracked on soundcheck, with 3 sets logged across Geneva and Losangeles. Often billed alongside Casper (FIN). Next up: Cercle des Bains, Geneva on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Steven Sanchez is a deep house and minimal artist tracked on soundcheck, with 3 
 
 Casper (FIN)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevensanchez/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevensanchez/)*

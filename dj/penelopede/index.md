@@ -1,6 +1,6 @@
 # PENELOPE (DE)
 
-PENELOPE (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
+PENELOPE (DE) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
 
 PENELOPE (DE) is a techno and trance artist tracked on soundcheck, with 37 sets logged across Amsterdam, Frankfurt, Hamburg and Toronto and 1 more. Often billed alongside Kacy, The Belgian Stallion and CiKi. Next up: Gateway Gardens Ocean Club, Frankfurt on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ PENELOPE (DE) is a techno and trance artist tracked on soundcheck, with 37 sets 
 
 Kacy, The Belgian Stallion, CiKi
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/penelopede/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/penelopede/)*

@@ -1,6 +1,6 @@
 # Rowans Tenpin Bowl
 
-Rowans Tenpin Bowl is a music venue in London with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Fish56 Free indoor London Pop Up " on Thu, 17 Sept 2026.
+Rowans Tenpin Bowl is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Fish56 Free indoor London Pop Up " on Thu, 17 Sept 2026.
 
 Rowans Tenpin Bowl is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Fish56Octagon, Gem Precious, Positive_Con and Sharpson and 1 more. Browse upcoming dates, start times and who's playing. 10 Stroud Green Road, Finsbury Park, London N4 2DF.
 
@@ -14,4 +14,4 @@ Rowans Tenpin Bowl is a music venue in London listed on soundcheck. 1 upcoming n
 
 10 Stroud Green Road, Finsbury Park, London N4 2DF, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/rowans-tenpin-bowl/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/rowans-tenpin-bowl/)*

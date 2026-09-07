@@ -1,6 +1,6 @@
 # Solfa
 
-Solfa is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "OUTSIDER" on Thu, 10 Sept 2026.
+Solfa is a music venue in Tokyo with 10 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "OUTSIDER" on Thu, 10 Sept 2026.
 
 Solfa is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with line-ups including S280F, AMANE, ARISA and Dazzle Drums and 2 more. Browse upcoming dates, start times and who's playing. 1-20-5 Aobadai, Meguro-ku, Tokyo, 156-0041, Japan.
 
@@ -23,4 +23,4 @@ Solfa is a music venue in Tokyo listed on soundcheck. 10 upcoming nights, with l
 
 1-20-5 Aobadai, Meguro-ku, Tokyo, 156-0041, Japan, Tokyo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/solfa/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/solfa/)*

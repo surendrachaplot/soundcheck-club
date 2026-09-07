@@ -1,6 +1,6 @@
 # GAIVEU
 
-GAIVEU is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 19 Sept 2026.
+GAIVEU is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Tapada da Ajuda, Lisbon on Sat, 19 Sept 2026.
 
 GAIVEU is a techno and acid artist tracked on soundcheck, with 47 sets logged across Berlin, Brussels, Lisbon and Porto. Often billed alongside Ornella, Anastasiya Ty and Madson Carpenter. Next up: Tapada da Ajuda, Lisbon on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ GAIVEU is a techno and acid artist tracked on soundcheck, with 47 sets logged ac
 
 Ornella, Anastasiya Ty, Madson Carpenter
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiveu/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiveu/)*

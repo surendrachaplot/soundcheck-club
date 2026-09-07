@@ -1,6 +1,6 @@
 # CC Blooms
 
-CC Blooms is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Thorny: The Initiation " on Sat, 12 Sept 2026.
+CC Blooms is a music venue in Edinburgh with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Thorny: The Initiation " on Sat, 12 Sept 2026.
 
 CC Blooms is a music venue in Edinburgh listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ CC Blooms is a music venue in Edinburgh listed on soundcheck. 1 upcoming night. 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Thorny: The Initiation  |  |
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cc-blooms/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cc-blooms/)*

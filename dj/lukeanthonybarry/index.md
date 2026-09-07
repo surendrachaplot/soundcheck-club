@@ -1,6 +1,6 @@
 # lukeanthonybarry
 
-lukeanthonybarry is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
+lukeanthonybarry is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA, Toronto on Fri, 11 Sept 2026.
 
 lukeanthonybarry is a house and minimal techno artist based in Canada, tracked on soundcheck, with 2 sets logged across Toronto. Often billed alongside Amelia Holt, Blkvirgo and Critter. Next up: TBA, Toronto on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ lukeanthonybarry is a house and minimal techno artist based in Canada, tracked o
 
 Amelia Holt, Blkvirgo, Critter
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeanthonybarry/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeanthonybarry/)*

@@ -1,14 +1,13 @@
 # Conrad Taylor
 
-Conrad Taylor is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Conrad Taylor is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Ritter Butzke, Berlin on Sat, 3 Oct 2026.
 
-Conrad Taylor is a techno and house artist tracked on soundcheck, with 19 sets logged across Austin, Berlin, Newyorkcity and Paris and 4 more. Often billed alongside Flash Gea, Adrian Mills and BIIANCO. Next up: Industry City, Newyorkcity on Sat 5 Sept.
+Conrad Taylor is a techno and house artist tracked on soundcheck, with 19 sets logged across Austin, Berlin, Newyorkcity and Paris and 4 more. Often billed alongside Flash Gea, Adrian Mills and BIIANCO. Next up: Ritter Butzke, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Industry City | New York City |
 | Sat, 3 Oct 2026 | Ritter Butzke | Berlin |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
@@ -27,4 +26,4 @@ Conrad Taylor is a techno and house artist tracked on soundcheck, with 19 sets l
 
 Flash Gea, Adrian Mills, BIIANCO
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conradtaylor/)*

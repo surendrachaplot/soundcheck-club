@@ -1,6 +1,6 @@
 # Papol
 
-Papol is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Cadavra, Madrid on Fri, 25 Sept 2026.
+Papol is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Cadavra, Madrid on Fri, 25 Sept 2026.
 
 Papol is a house and techno artist tracked on soundcheck, with 20 sets logged across Madrid. Often billed alongside Babu, Cesc (ES) and Avo (ES). Next up: Cadavra, Madrid on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Papol is a house and techno artist tracked on soundcheck, with 20 sets logged ac
 
 Babu, Cesc (ES), Avo (ES)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papol/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/papol/)*

@@ -1,6 +1,6 @@
 # Carmen Electro
 
-Carmen Electro is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
+Carmen Electro is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 19 Sept 2026.
 
 Carmen Electro is a techno and house artist tracked on soundcheck, with 157 sets logged across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: RSO.BERLIN, Berlin on Sat 19 Sept.
 
@@ -29,4 +29,4 @@ Carmen Electro is a techno and house artist tracked on soundcheck, with 157 sets
 
 slin, Frederic., Laure Croft
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenelectro/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenelectro/)*

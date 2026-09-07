@@ -1,6 +1,6 @@
 # Kyle Walker
 
-Kyle Walker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at PKL Boston, Boston on Sat, 12 Sept 2026.
+Kyle Walker is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at PKL Boston, Boston on Sat, 12 Sept 2026.
 
 Kyle Walker is a house and tech house artist tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Boston and Chicago and 12 more. Often billed alongside Carlita, Chesster and Eli Brown. Next up: PKL Boston, Boston on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Kyle Walker is a house and tech house artist tracked on soundcheck, with 52 sets
 
 Carlita, Chesster, Eli Brown
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewalker/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewalker/)*

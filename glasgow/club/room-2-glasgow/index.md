@@ -1,8 +1,8 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "ABRUPT presents LESSSS + more" on Fri, 11 Sept 2026.
+Room 2 Glasgow is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "ABRUPT presents LESSSS + more" on Fri, 11 Sept 2026.
 
-Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 12 upcoming nights, with line-ups including Girls of the Internet, Jalo, KIRSTY and LESSSS and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
+Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including Girls of the Internet, Jalo, KIRSTY and LESSSS and 2 more. Browse upcoming dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 12 upcoming nig
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

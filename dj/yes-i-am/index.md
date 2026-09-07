@@ -1,6 +1,6 @@
 # Yes-I-Am
 
-Yes-I-Am is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Off The Square, Manchester on Thu, 24 Sept 2026.
+Yes-I-Am is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Off The Square, Manchester on Thu, 24 Sept 2026.
 
 Yes-I-Am is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Manchester. Often billed alongside Indeva, BR-Z and Sebred. Next up: Off The Square, Manchester on Thu 24 Sept.
 
@@ -18,4 +18,4 @@ Yes-I-Am is a jungle and bass artist based in United Kingdom, tracked on soundch
 
 Indeva, BR-Z, Sebred
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yes-i-am/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yes-i-am/)*

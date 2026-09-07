@@ -1,6 +1,6 @@
 # BLNK
 
-BLNK is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Essigfabrik, Cologne on Sat, 12 Sept 2026.
+BLNK is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Essigfabrik, Cologne on Sat, 12 Sept 2026.
 
 BLNK is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 18 more. Often billed alongside TiTi, LIEKS and KRUELTY. Next up: Essigfabrik, Cologne on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ BLNK is a techno and industrial artist based in Netherlands, tracked on soundche
 
 TiTi, LIEKS, KRUELTY
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*

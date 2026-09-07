@@ -1,6 +1,6 @@
 # chouhal
 
-chouhal is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 27 Sept 2026.
+chouhal is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Rooftop at Gianpula Village, Malta on Sun, 27 Sept 2026.
 
 chouhal is a techno and trance artist based in Malta, tracked on soundcheck, with 27 sets logged across Malta. Often billed alongside Damz, Dicentra and Gordon Flash. Next up: The Rooftop at Gianpula Village, Malta on Sun 27 Sept.
 
@@ -26,4 +26,4 @@ chouhal is a techno and trance artist based in Malta, tracked on soundcheck, wit
 
 Damz, Dicentra, Gordon Flash
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chouhal/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chouhal/)*

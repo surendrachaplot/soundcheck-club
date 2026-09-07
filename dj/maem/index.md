@@ -1,6 +1,6 @@
 # MÄEM
 
-MÄEM is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
+MÄEM is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
 
 MÄEM is a techno and electronica artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona and Madrid. Often billed alongside Blaark, Lowsystem and Audiolux. Next up: Lasociaciøn, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ MÄEM is a techno and electronica artist based in Spain, tracked on soundcheck, 
 
 Blaark, Lowsystem, Audiolux
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maem/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maem/)*

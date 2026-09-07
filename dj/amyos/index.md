@@ -1,6 +1,6 @@
 # Amy Os
 
-Amy Os is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Amy Os is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Amy Os is a house and tech house artist tracked on soundcheck, with 22 sets logged across Ibiza, Leeds, London and Manchester. Often billed alongside Ben Rau, Benji King and Duncan Thomas. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Amy Os is a house and tech house artist tracked on soundcheck, with 22 sets logg
 
 Ben Rau, Benji King, Duncan Thomas
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amyos/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amyos/)*

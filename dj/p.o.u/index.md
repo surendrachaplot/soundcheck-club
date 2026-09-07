@@ -1,8 +1,8 @@
 # P.O.U
 
-P.O.U is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Ministry Of Sound, London on Fri, 25 Sept 2026.
+P.O.U is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Ministry Of Sound, London on Fri, 25 Sept 2026.
 
-P.O.U is a techno and tech house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Dublin, Geneva and Ibiza and 2 more. Often billed alongside Ginchy, Desyfer and Nathassia. Next up: Ministry Of Sound, London on Fri 25 Sept.
+P.O.U is a techno and tech house artist tracked on soundcheck, with 28 sets logged across Amsterdam, Dublin, Geneva and Ibiza and 2 more. Often billed alongside Ginchy, Desyfer and Nathassia. Next up: Ministry Of Sound, London on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ P.O.U is a techno and tech house artist tracked on soundcheck, with 27 sets logg
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Ministry Of Sound | London |
 | Fri, 9 Oct 2026 | DRUMSHEDS | London |
+| Fri, 23 Oct 2026 | Eighty-Four Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ P.O.U is a techno and tech house artist tracked on soundcheck, with 27 sets logg
 
 Ginchy, Desyfer, Nathassia
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*

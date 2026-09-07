@@ -1,14 +1,13 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Sept 2026.
+Massimiliano Pagliara is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Open Air: Downtown Los Angeles, Los Angeles on Fri, 11 Sept 2026.
 
-Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 237 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Sept.
+Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 237 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: TBA - Open Air: Downtown Los Angeles, Losangeles on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 11 Sept 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 | Sat, 12 Sept 2026 | TBA | Portland |
 | Thu, 17 Sept 2026 | Jolene Downtown Miami | Miami |
@@ -32,4 +31,4 @@ Massimiliano Pagliara is a house and techno artist tracked on soundcheck, with 2
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

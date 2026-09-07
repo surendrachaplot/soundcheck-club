@@ -1,6 +1,6 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 9 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Sala Independance Club, Madrid on Tue, 8 Sept 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 9 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Sala Independance Club, Madrid on Tue, 8 Sept 2026.
 
 Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Auckland and Austin and 41 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Sala Independance Club, Madrid on Tue 8 Sept.
 
@@ -33,4 +33,4 @@ Sina Bathaie is a downtempo and deep house artist tracked on soundcheck, with 92
 
 DJ Joeski, Facundo Mohrr, Kora (CA)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinabathaie/)*

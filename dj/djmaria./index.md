@@ -1,6 +1,6 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+DJ MARIA. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
 DJ MARIA. is a techno and trance artist tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside DJ Yazi, DJ Nobu and Haruka. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
@@ -31,4 +31,4 @@ DJ MARIA. is a techno and trance artist tracked on soundcheck, with 144 sets log
 
 DJ Yazi, DJ Nobu, Haruka
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*

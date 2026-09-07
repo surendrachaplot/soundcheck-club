@@ -1,6 +1,6 @@
 # LevyM
 
-LevyM is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at CÉ LA VI, London on Sat, 3 Oct 2026.
+LevyM is a Afro House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at CÉ LA VI, London on Sat, 3 Oct 2026.
 
 LevyM is an afro house and afro tech artist tracked on soundcheck, with 41 sets logged across Amsterdam, Ibiza, London and Madrid and 1 more. Often billed alongside Philou Louzolo, Rancido and DJEFF. Next up: CÉ LA VI, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ LevyM is an afro house and afro tech artist tracked on soundcheck, with 41 sets 
 
 Philou Louzolo, Rancido, DJEFF
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levym/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/levym/)*

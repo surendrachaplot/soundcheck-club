@@ -1,6 +1,6 @@
 # Varøsian
 
-Varøsian is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Sigma, Ibiza on Fri, 25 Sept 2026.
+Varøsian is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Sigma, Ibiza on Fri, 25 Sept 2026.
 
 Varøsian is a techno and trance artist tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Bucharest and Ibiza and 2 more. Often billed alongside Maul, Marcelo Demarco and FAUST (1). Next up: Sigma, Ibiza on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Varøsian is a techno and trance artist tracked on soundcheck, with 25 sets logg
 
 Maul, Marcelo Demarco, FAUST (1)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varosian/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/varosian/)*

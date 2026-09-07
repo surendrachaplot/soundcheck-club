@@ -1,8 +1,8 @@
 # John Digweed
 
-John Digweed is a Progressive House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Malkin Bowl, Vancouver on Sat, 12 Sept 2026.
+John Digweed is a Progressive House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Malkin Bowl, Vancouver on Sat, 12 Sept 2026.
 
-John Digweed is a progressive house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: Malkin Bowl, Vancouver on Sat 12 Sept.
+John Digweed is a progressive house and techno artist tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Sasha, Nick Warren and Sasha & John Digweed. Next up: Malkin Bowl, Vancouver on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ John Digweed is a progressive house and techno artist tracked on soundcheck, wit
 | Sat, 26 Sept 2026 | BERHTA | Washington DC |
 | Fri, 2 Oct 2026 | Frontón Bucareli | Mexico City |
 | Sat, 7 Nov 2026 | WestWeelde | Amsterdam |
+| Sat, 5 Dec 2026 | The Roundhouse | London |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ John Digweed is a progressive house and techno artist tracked on soundcheck, wit
 
 Sasha, Nick Warren, Sasha & John Digweed
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/digweed/)*

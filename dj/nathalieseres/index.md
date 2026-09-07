@@ -1,6 +1,6 @@
 # Nathalie Seres
 
-Nathalie Seres is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Blank Site, Seoul on Fri, 11 Sept 2026.
+Nathalie Seres is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Blank Site, Seoul on Fri, 11 Sept 2026.
 
 Nathalie Seres is a house and techno artist based in Germany, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Steffi, DJ Senc and Adiel. Next up: Blank Site, Seoul on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Nathalie Seres is a house and techno artist based in Germany, tracked on soundch
 
 Steffi, DJ Senc, Adiel
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*

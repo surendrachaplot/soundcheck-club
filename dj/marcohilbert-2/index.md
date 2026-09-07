@@ -1,6 +1,6 @@
 # Marco Hilbert (2)
 
-Marco Hilbert (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Gewölbe, Cologne on Fri, 2 Oct 2026.
+Marco Hilbert (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Gewölbe, Cologne on Fri, 2 Oct 2026.
 
 Marco Hilbert (2) is a techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Cologne. Often billed alongside Annemalie, BLANKA and Elisen. Next up: Gewölbe, Cologne on Fri 2 Oct.
 
@@ -19,4 +19,4 @@ Marco Hilbert (2) is a techno artist based in Germany, tracked on soundcheck, wi
 
 Annemalie, BLANKA, Elisen
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcohilbert-2/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcohilbert-2/)*

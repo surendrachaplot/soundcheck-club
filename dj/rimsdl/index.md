@@ -1,6 +1,6 @@
 # Rim SDL
 
-Rim SDL is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Bazart, Montreal on Fri, 11 Sept 2026.
+Rim SDL is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bazart, Montreal on Fri, 11 Sept 2026.
 
 Rim SDL is an electronic artist based in Canada, tracked on soundcheck, with 2 sets logged across Montreal. Often billed alongside Ekitwanda, Koppi and MoBlack. Next up: Bazart, Montreal on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Rim SDL is an electronic artist based in Canada, tracked on soundcheck, with 2 s
 
 Ekitwanda, Koppi, MoBlack
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rimsdl/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rimsdl/)*

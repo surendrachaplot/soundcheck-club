@@ -1,6 +1,6 @@
 # Sportsdyke
 
-Sportsdyke is a Acid and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Gorilla, Manchester on Sat, 24 Oct 2026.
+Sportsdyke is a Acid and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Gorilla, Manchester on Sat, 24 Oct 2026.
 
 Sportsdyke is an acid and tech house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Manchester and Sheffield. Often billed alongside Compulsive Leia, D-Luc-D and HausKlown. Next up: Gorilla, Manchester on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ Sportsdyke is an acid and tech house artist based in United Kingdom, tracked on 
 
 Compulsive Leia, D-Luc-D, HausKlown
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sportsdyke/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sportsdyke/)*

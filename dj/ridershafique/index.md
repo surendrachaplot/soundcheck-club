@@ -1,6 +1,6 @@
 # Rider Shafique
 
-Rider Shafique is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Volks, Brighton on Sat, 3 Oct 2026.
+Rider Shafique is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Volks, Brighton on Sat, 3 Oct 2026.
 
 Rider Shafique is a drum & bass and bass artist tracked on soundcheck, with 26 sets logged across Amsterdam, Brighton, Bristol and Bucharest and 6 more. Often billed alongside Business As Usual, Breakage and DLR. Next up: Volks, Brighton on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Rider Shafique is a drum & bass and bass artist tracked on soundcheck, with 26 s
 
 Business As Usual, Breakage, DLR
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ridershafique/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ridershafique/)*

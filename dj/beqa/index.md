@@ -1,14 +1,13 @@
 # BEQA
 
-BEQA is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Südpol, Hamburg on Fri, 4 Sept 2026.
+BEQA is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Oven Club, Valencia on Fri, 18 Sept 2026.
 
-BEQA is a house and trance artist tracked on soundcheck, with 47 sets logged across Berlin, Hamburg, Tbilisi and Valencia. Often billed alongside SUMO, IKAKO and Rati. Next up: Südpol, Hamburg on Fri 4 Sept.
+BEQA is a house and trance artist tracked on soundcheck, with 47 sets logged across Berlin, Hamburg, Tbilisi and Valencia. Often billed alongside SUMO, IKAKO and Rati. Next up: Oven Club, Valencia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Südpol | Hamburg |
 | Fri, 18 Sept 2026 | Oven Club | Valencia |
 
 ## Recently played
@@ -26,4 +25,4 @@ BEQA is a house and trance artist tracked on soundcheck, with 47 sets logged acr
 
 SUMO, IKAKO, Rati
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beqa/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beqa/)*

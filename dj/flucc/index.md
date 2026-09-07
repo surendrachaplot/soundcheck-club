@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Mia Mao, Paris on Fri, 25 Sept 2026.
+FLUCC is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Mia Mao, Paris on Fri, 25 Sept 2026.
 
 FLUCC is a techno and hardcore artist based in Germany, tracked on soundcheck, with 61 sets logged across Antwerp, Barcelona, Berlin and Edinburgh and 10 more. Often billed alongside LØUS, Olmatri and Der Schaffner. Next up: Mia Mao, Paris on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ FLUCC is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 LØUS, Olmatri, Der Schaffner
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flucc/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flucc/)*

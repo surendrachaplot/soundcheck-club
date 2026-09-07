@@ -1,6 +1,6 @@
 # Hadone
 
-Hadone is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
+Hadone is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Tresor / Globus, Berlin on Fri, 18 Sept 2026.
 
 Hadone is a techno and house artist tracked on soundcheck, with 166 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside UFO95, Chlär and DC Salas. Next up: Tresor / Globus, Berlin on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Hadone is a techno and house artist tracked on soundcheck, with 166 sets logged 
 
 UFO95, Chlär, DC Salas
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*

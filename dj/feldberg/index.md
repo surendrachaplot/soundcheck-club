@@ -1,6 +1,6 @@
 # Feldberg
 
-Feldberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Corleone, Munich on Fri, 18 Sept 2026.
+Feldberg is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Corleone, Munich on Fri, 18 Sept 2026.
 
 Feldberg is a techno and house artist tracked on soundcheck, with 6 sets logged across Basel, Munich and Zurich. Often billed alongside Aries, mogli (2) and Neverglass. Next up: Corleone, Munich on Fri 18 Sept.
 
@@ -22,4 +22,4 @@ Feldberg is a techno and house artist tracked on soundcheck, with 6 sets logged 
 
 Aries, mogli (2), Neverglass
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feldberg/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/feldberg/)*

@@ -1,6 +1,6 @@
 # mu”he
 
-mu”he is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+mu”he is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
 mu”he is a techno and house artist tracked on soundcheck, with 45 sets logged across Bangkok, Berlin, Leipzig and Milan and 5 more. Often billed alongside Mark Shephard, DJ TOOL and Satomicus. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ mu”he is a techno and house artist tracked on soundcheck, with 45 sets logged 
 
 Mark Shephard, DJ TOOL, Satomicus
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muhe/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muhe/)*

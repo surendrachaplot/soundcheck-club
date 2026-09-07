@@ -1,14 +1,13 @@
 # Système
 
-Système is a music venue in Montreal with 14 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "La Rama x Système Sunday" on Sun, 6 Sept 2026.
+Système is a music venue in Montreal with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Haitian Vinyl Night (Montreal Edition)" on Thu, 10 Sept 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 14 upcoming nights, with line-ups including Anabasine, Aram, Barbara Boeing and CMD and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 13 upcoming nights, with line-ups including Anabasine, Barbara Boeing, CMD and CUERPOS and 2 more. Browse upcoming dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | La Rama x Système Sunday | Aram, DJ Dial-on, THe LYONZ, Vasimolo |
 | Thu, 10 Sept 2026 | Haitian Vinyl Night (Montreal Edition) | GrandHuit |
 | Fri, 11 Sept 2026 | CUERPOS QUÉ PASÓ? EP Release Party | CUERPOS, Jordan Gardner, Juju le Moko |
 | Sat, 12 Sept 2026 | moodswings | CMD, Emil Paquin, Honeydrip, somebody3lse |
@@ -18,9 +17,10 @@ Système is a music venue in Montreal listed on soundcheck. 14 upcoming nights, 
 | Fri, 18 Sept 2026 | Greenbeam ++  | DJ Frog, Excalibur, SnP 500 |
 | Sat, 19 Sept 2026 | DéCaDANSE: celebrating Michael Terzian's 30 yrs behind the turntables | DJ Michael Terzian, Don Barbarino |
 | Sun, 20 Sept 2026 | Give It To 'Em Release Party | Kridelka |
+| Thu, 24 Sept 2026 | Système Soundsystem |  |
 
 ## Address
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

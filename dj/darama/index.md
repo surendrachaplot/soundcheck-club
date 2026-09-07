@@ -1,6 +1,6 @@
 # Darama
 
-Darama is a Breakbeat and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at radial, London on Sun, 27 Sept 2026.
+Darama is a Breakbeat and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at radial, London on Sun, 27 Sept 2026.
 
 Darama is a breakbeat and afro house artist tracked on soundcheck, with 17 sets logged across Bristol, Dublin, London and Manchester. Often billed alongside yourboykiran, Chande and Izzi. Next up: radial, London on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Darama is a breakbeat and afro house artist tracked on soundcheck, with 17 sets 
 
 yourboykiran, Chande, Izzi
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darama/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/darama/)*

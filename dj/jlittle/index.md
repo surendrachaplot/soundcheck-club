@@ -1,14 +1,14 @@
 # JLittle
 
-JLittle is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Midway, San Francisco/Oakland on Sat, 5 Sept 2026.
+JLittle is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Madarae San Francisco, San Francisco/Oakland on Sat, 12 Sept 2026.
 
-JLittle is a tech house and house artist tracked on soundcheck, with 22 sets logged across Sanfrancisco. Often billed alongside Nem (1), AMPRS&ND and Beverly Chills. Next up: The Midway, Sanfrancisco on Sat 5 Sept.
+JLittle is a tech house and house artist tracked on soundcheck, with 23 sets logged across Sanfrancisco. Often billed alongside Nem (1), AMPRS&ND and Beverly Chills. Next up: Madarae San Francisco, Sanfrancisco on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | The Midway | San Francisco/Oakland |
+| Sat, 12 Sept 2026 | Madarae San Francisco | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ JLittle is a tech house and house artist tracked on soundcheck, with 22 sets log
 
 Nem (1), AMPRS&ND, Beverly Chills
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jlittle/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jlittle/)*

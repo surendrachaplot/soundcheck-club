@@ -1,6 +1,6 @@
 # Selunia
 
-Selunia is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Odonien, Cologne on Wed, 9 Sept 2026.
+Selunia is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Odonien, Cologne on Wed, 9 Sept 2026.
 
 Selunia is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Nurnberg and Stuttgart. Often billed alongside MAURO, 4NOUK and ANDATA. Next up: Odonien, Cologne on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ Selunia is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 MAURO, 4NOUK, ANDATA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selunia/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selunia/)*

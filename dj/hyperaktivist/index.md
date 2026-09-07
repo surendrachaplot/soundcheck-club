@@ -1,6 +1,6 @@
 # Hyperaktivist
 
-Hyperaktivist is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Parco Argelati, Milan on Sun, 13 Sept 2026.
+Hyperaktivist is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Parco Argelati, Milan on Sun, 13 Sept 2026.
 
 Hyperaktivist is a techno and house artist tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside DJ TOOL, Yazzus and D.Dan. Next up: Parco Argelati, Milan on Sun 13 Sept.
 
@@ -29,4 +29,4 @@ Hyperaktivist is a techno and house artist tracked on soundcheck, with 177 sets 
 
 DJ TOOL, Yazzus, D.Dan
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperaktivist/)*

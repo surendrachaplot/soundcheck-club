@@ -1,6 +1,6 @@
 # SOTTOH
 
-SOTTOH is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Fuchs2, Prague on Sat, 19 Sept 2026.
+SOTTOH is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Fuchs2, Prague on Sat, 19 Sept 2026.
 
 SOTTOH is a house and garage artist tracked on soundcheck, with 19 sets logged across Paris and Prague. Often billed alongside Lea Occhi, COCKO and Corbeille Dallas. Next up: Fuchs2, Prague on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ SOTTOH is a house and garage artist tracked on soundcheck, with 19 sets logged a
 
 Lea Occhi, COCKO, Corbeille Dallas
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sottoh/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sottoh/)*

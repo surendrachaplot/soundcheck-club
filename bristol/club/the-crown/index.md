@@ -1,6 +1,6 @@
 # The Crown
 
-The Crown is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Phased Thursdays: Lockerz, Basscat, Wrighty, Farmer, Max Renn" on Thu, 17 Sept 2026.
+The Crown is a music venue in Bristol with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Phased Thursdays: Lockerz, Basscat, Wrighty, Farmer, Max Renn" on Thu, 17 Sept 2026.
 
 The Crown is a music venue in Bristol listed on soundcheck. 2 upcoming nights. Browse upcoming dates, start times and who's playing. 10, All Saints Lane, Bristol. BS1 1JH.
 
@@ -15,4 +15,4 @@ The Crown is a music venue in Bristol listed on soundcheck. 2 upcoming nights. B
 
 10, All Saints Lane, Bristol. BS1 1JH, Bristol
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-crown/)*

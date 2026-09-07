@@ -1,8 +1,8 @@
 # Movers
 
-Movers is a music venue in Nottingham with 20 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Jazz & Soul: Pete Barnacle (Live) & DJs" on Fri, 11 Sept 2026.
+Movers is a music venue in Nottingham with 21 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Jazz & Soul: Pete Barnacle (Live) & DJs" on Fri, 11 Sept 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 20 upcoming nights, with line-ups including Alien Communications, Auramatic, Charles Webster and Felix Dickinson and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 21 upcoming nights, with line-ups including Alien Communications, Auramatic, Charles Webster and Felix Dickinson and 2 more. Browse upcoming dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 20 upcoming nights, 
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

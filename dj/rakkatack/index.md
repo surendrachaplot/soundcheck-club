@@ -1,6 +1,6 @@
 # RAKKATACK
 
-RAKKATACK is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at John Doe, Amsterdam on Wed, 9 Sept 2026.
+RAKKATACK is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at John Doe, Amsterdam on Wed, 9 Sept 2026.
 
 RAKKATACK is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam, Dublin, London and Rotterdam and 1 more. Often billed alongside DJ Dobrel, Fraulein Z and TanzMan. Next up: John Doe, Amsterdam on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ RAKKATACK is a techno and tech house artist based in Netherlands, tracked on sou
 
 DJ Dobrel, Fraulein Z, TanzMan
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rakkatack/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rakkatack/)*

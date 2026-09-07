@@ -1,6 +1,6 @@
 # Markov (cult)
 
-Markov (cult) is a Minimal Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Lux Fragil, Lisbon on Fri, 11 Sept 2026.
+Markov (cult) is a Minimal Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Lux Fragil, Lisbon on Fri, 11 Sept 2026.
 
 Markov (cult) is a minimal techno and deep house artist based in Portugal, tracked on soundcheck, with 32 sets logged across Budapest and Lisbon. Often billed alongside Eric Furtado, Kristina (2) and Nicolle Velcro. Next up: Lux Fragil, Lisbon on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Markov (cult) is a minimal techno and deep house artist based in Portugal, track
 
 Eric Furtado, Kristina (2), Nicolle Velcro
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markovbr/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markovbr/)*

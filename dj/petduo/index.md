@@ -1,14 +1,13 @@
 # PETDuo
 
-PETDuo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+PETDuo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sensorium, Berlin on Wed, 21 Oct 2026.
 
-PETDuo is a techno and tech house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside OGUZ, Viktor Kampf and Basswell. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
+PETDuo is a techno and tech house artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 17 more. Often billed alongside OGUZ, Viktor Kampf and Basswell. Next up: Sensorium, Berlin on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Parc de la Serra de Mollerussa (Lérida) | Barcelona |
 | Wed, 21 Oct 2026 | Sensorium | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ PETDuo is a techno and tech house artist tracked on soundcheck, with 88 sets log
 
 OGUZ, Viktor Kampf, Basswell
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petduo/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petduo/)*

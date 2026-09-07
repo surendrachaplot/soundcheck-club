@@ -1,14 +1,13 @@
 # Carl H
 
-Carl H is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Gaffe, London on Sun, 6 Sept 2026.
+Carl H is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Les Enfants Brillants, Barcelona on Sat, 12 Sept 2026.
 
-Carl H is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 37 more. Often billed alongside So-Fi, DJ TEETH and Jane Fitz. Next up: Gaffe, London on Sun 6 Sept.
+Carl H is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 37 more. Often billed alongside So-Fi, DJ TEETH and Jane Fitz. Next up: Les Enfants Brillants, Barcelona on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Gaffe | London |
 | Sat, 12 Sept 2026 | Les Enfants Brillants | Barcelona |
 | Fri, 9 Oct 2026 | Mitsuki | Tokyo |
 | Sat, 10 Oct 2026 | 宀 Club | Hong Kong |
@@ -17,6 +16,7 @@ Carl H is a techno and house artist tracked on soundcheck, with 122 sets logged 
 
 ## Recently played
 
+- Gaffe, London — Sun, 6 Sept 2026
 - Invisible Wind Factory, Liverpool — Sat, 1 Aug 2026
 - TBA, Mexico City — Sat, 18 Jul 2026
 - TBA - Secret Location, Sheffield — Fri, 10 Jul 2026
@@ -24,10 +24,9 @@ Carl H is a techno and house artist tracked on soundcheck, with 122 sets logged 
 - Gaffe, London — Sat, 20 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 12 Jun 2026
 - Signal, New York City — Fri, 5 Jun 2026
-- The Jama, Toronto — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 So-Fi, DJ TEETH, Jane Fitz
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*

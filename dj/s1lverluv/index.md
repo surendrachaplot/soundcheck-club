@@ -1,6 +1,6 @@
 # S1LVERLUV
 
-S1LVERLUV is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Luka, Seoul on Fri, 11 Sept 2026.
+S1LVERLUV is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Luka, Seoul on Fri, 11 Sept 2026.
 
 S1LVERLUV is a techno and hardcore artist based in France, tracked on soundcheck, with 11 sets logged across Seoul. Often billed alongside D.E.F, Rivako and PONGPONG. Next up: Luka, Seoul on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ S1LVERLUV is a techno and hardcore artist based in France, tracked on soundcheck
 
 D.E.F, Rivako, PONGPONG
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s1lverluv/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s1lverluv/)*

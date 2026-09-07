@@ -1,6 +1,6 @@
 # Alba Franch
 
-Alba Franch is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 11 Sept 2026.
+Alba Franch is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Studio Club Malaga, Malaga on Fri, 11 Sept 2026.
 
 Alba Franch is a techno and trance artist tracked on soundcheck, with 144 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside davyboi, Gerardo Niva and Cleopard2000. Next up: Studio Club Malaga, Malaga on Fri 11 Sept.
 
@@ -32,4 +32,4 @@ Alba Franch is a techno and trance artist tracked on soundcheck, with 144 sets l
 
 davyboi, Gerardo Niva, Cleopard2000
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albafranch/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albafranch/)*

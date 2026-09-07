@@ -1,6 +1,6 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+Danny Daze is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
 
 Danny Daze is a house and techno artist tracked on soundcheck, with 160 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Will Renuart, Jonny From Space and Nick León. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
 
@@ -32,4 +32,4 @@ Danny Daze is a house and techno artist tracked on soundcheck, with 160 sets log
 
 Will Renuart, Jonny From Space, Nick León
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "between x LEEF" on Wed, 9 Sept 2026.
+elipamanoke is a music venue in Leipzig with 10 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "between x LEEF" on Wed, 9 Sept 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming nights, with line-ups including :MUMM, adamoandiamo, Aender and Aio and 2 more. Browse upcoming dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -23,4 +23,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 10 upcoming nights
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

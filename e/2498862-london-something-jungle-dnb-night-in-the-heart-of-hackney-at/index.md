@@ -1,6 +1,6 @@
 # London Something: Jungle DnB night in the Heart of Hackney at EartH
 
-London Something: Jungle DnB night in the Heart of Hackney at EartH on Fri 25 Sept, London. 5 acts on the bill: Decibella, DJ Ron, Double O and Shabba and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+London Something: Jungle DnB night in the Heart of Hackney at EartH on Fri 25 Sept, London. 5 acts on the bill: Decibella, DJRon, Double O and Shabba and 1 more. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ London Something: Jungle DnB night in the Heart of Hackney at EartH on Fri 25 Se
 ## Line-up
 
 - Decibella
-- DJ Ron
+- DJRon
 - Double O
 - Shabba
 - SP:MC

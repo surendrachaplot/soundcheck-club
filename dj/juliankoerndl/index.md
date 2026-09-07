@@ -1,6 +1,6 @@
 # Julian Koerndl
 
-Julian Koerndl is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Pracht, Frankfurt on Sat, 12 Sept 2026.
+Julian Koerndl is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Pracht, Frankfurt on Sat, 12 Sept 2026.
 
 Julian Koerndl is a progressive house and techno artist tracked on soundcheck, with 11 sets logged across Berlin, Frankfurt, Malaga and Milan and 2 more. Often billed alongside Severin Su, Esin and Jonas Thoma. Next up: Pracht, Frankfurt on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Julian Koerndl is a progressive house and techno artist tracked on soundcheck, w
 
 Severin Su, Esin, Jonas Thoma
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliankoerndl/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juliankoerndl/)*

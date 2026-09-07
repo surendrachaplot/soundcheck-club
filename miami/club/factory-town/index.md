@@ -1,14 +1,13 @@
 # Factory Town
 
-Factory Town is a music venue in Miami with 12 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Sara Landry" on Sun, 6 Sept 2026.
+Factory Town is a music venue in Miami with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Kaskade ORIGIN //" on Fri, 18 Sept 2026.
 
-Factory Town is a music venue in Miami listed on soundcheck. 12 upcoming nights, with line-ups including 1991 (UK), Berrakka, Alarico and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
+Factory Town is a music venue in Miami listed on soundcheck. 11 upcoming nights, with line-ups including 1991 (UK), Berrakka, Alarico and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Sara Landry | Mischluft, Sara Landry, Serafina, Supergloss, fumi (DE), hhunter |
 | Fri, 18 Sept 2026 | Kaskade ORIGIN // | Kaskade |
 | Sat, 19 Sept 2026 | it's murph |  |
 | Sat, 19 Sept 2026 | Snow Strippers | Eera, Snow Strippers |
@@ -18,9 +17,10 @@ Factory Town is a music venue in Miami listed on soundcheck. 12 upcoming nights,
 | Fri, 9 Oct 2026 | WORSHIP NORTH AMERICA 2026 | 1991 (UK), Culture Shock, Dimension, Sub Focus |
 | Sat, 10 Oct 2026 | Armin van Buuren presents The Orb | Armin van Buuren, Funk Tribu |
 | Fri, 30 Oct 2026 | Hocus Pocus 2026  | ALISHA, ANNĒ, ATRIP, Alarico, Apollonia, Arina Krondeva, Azzecca, Baauer, Berrakka, Bushbaby, Caleb Jackson, Cami di Marzo, Cassian, Chase & Status, ChaseWest, Chloé Caillet, Chlär, Cole Knight, Conducta, DAX J, DJ BORING, DJ Seinfeld, Danny Daze, Darco, Effy, Elad, Eli Escobar, Eric Prydz, Franky Rizardo, Generous B, Gorgon City, Hudson Mohawke, Inbal, Indira Paganotto, Jamie Jones, Jayda G, Jean Pierre, Jordan Brando, Joseph Capriati, Julya Karma, Kerri Chandler, Kevin Saunderson, Kiddo, Layton Giordani, MALUGI, Mall Grab, Marcel Dettmann, Marco Strous, Marte, Mary Droppinz, Matthew Dear, Meduza, Monoky (2), Nicole Gallamini, Nora En Pure, Prospa, Purple Disco Machine, Quest, RAJE, RSquared, Rooléh, SIEGEL (2), SLAMM, Salomé Le Chat, Seth Troxler, Shir Miya, Sinopoli, Skream, Sol Ortega, Somewhen, Souls Departed, Special Request, The Chronics, Todd Edwards, Vitess, Will Renuart, William Kiss, X CLUB., X-Coast, Yamagucci, Yanamaste, camoufly, salute, slugg, Âme |
+| Fri, 13 Nov 2026 | UNREAL |  |
 
 ## Address
 
 4800 NW 37th Ave Miami, FL 33142, USA, Miami
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*

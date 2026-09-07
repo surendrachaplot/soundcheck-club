@@ -1,6 +1,6 @@
 # Kana Hishiya
 
-Kana Hishiya is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 10 Sept 2026.
+Kana Hishiya is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles on Thu, 10 Sept 2026.
 
 Kana Hishiya is a house and techno artist based in Japan, tracked on soundcheck, with 55 sets logged across Detroit, Losangeles, Newyorkcity and Sandiego and 2 more. Often billed alongside Artur (US), H.U.D.L and Krane. Next up: TBA - Location Link in Bio on Instagram @recollectunderground, Losangeles on Thu 10 Sept.
 
@@ -27,4 +27,4 @@ Kana Hishiya is a house and techno artist based in Japan, tracked on soundcheck,
 
 Artur (US), H.U.D.L, Krane
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanahishiya/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanahishiya/)*

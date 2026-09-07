@@ -1,6 +1,6 @@
 # Dear Darling
 
-Dear Darling is a music venue in London with 3 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "SALO & Friends in Mayfair" on Fri, 11 Sept 2026.
+Dear Darling is a music venue in London with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "SALO & Friends in Mayfair" on Fri, 11 Sept 2026.
 
 Dear Darling is a music venue in London listed on soundcheck. 3 upcoming nights, with line-ups including Abrahamsson and Arian Saravi. Browse upcoming dates, start times and who's playing. 91 Jermyn St, St. James’s, London SW1Y 6JB.
 
@@ -16,4 +16,4 @@ Dear Darling is a music venue in London listed on soundcheck. 3 upcoming nights,
 
 91 Jermyn St, St. James’s, London SW1Y 6JB, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dear-darling/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dear-darling/)*

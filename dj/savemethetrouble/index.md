@@ -1,6 +1,6 @@
 # Save Me The Trouble
 
-Save Me The Trouble is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Solfa, Tokyo on Fri, 11 Sept 2026.
+Save Me The Trouble is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Solfa, Tokyo on Fri, 11 Sept 2026.
 
 Save Me The Trouble is an experimental and bass artist based in Japan, tracked on soundcheck, with 2 sets logged across Tokyo. Often billed alongside Ginji, ITSUKI and MOOTOE. Next up: Solfa, Tokyo on Fri 11 Sept.
 
@@ -18,4 +18,4 @@ Save Me The Trouble is an experimental and bass artist based in Japan, tracked o
 
 Ginji, ITSUKI, MOOTOE
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savemethetrouble/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/savemethetrouble/)*

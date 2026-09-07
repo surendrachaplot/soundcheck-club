@@ -1,6 +1,6 @@
 # Espai Salvadiscos
 
-Espai Salvadiscos is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Canela en Surco with Tom Kutsche" on Sat, 12 Sept 2026.
+Espai Salvadiscos is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Canela en Surco with Tom Kutsche" on Sat, 12 Sept 2026.
 
 Espai Salvadiscos is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Breixo Martinez and Tom Kutsche. Browse upcoming dates, start times and who's playing. Plaça de Santa Madrona, 4, 08004 Barcelona, Spain.
 
@@ -15,4 +15,4 @@ Espai Salvadiscos is a music venue in Barcelona listed on soundcheck. 2 upcoming
 
 Plaça de Santa Madrona, 4, 08004 Barcelona, Spain, Barcelona
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/espai-salvadiscos/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/espai-salvadiscos/)*

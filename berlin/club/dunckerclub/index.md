@@ -1,14 +1,13 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Dark Market" on Sun, 6 Sept 2026.
+Dunckerclub is a music venue in Berlin with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Dark Monday" on Mon, 7 Sept 2026.
 
-Dunckerclub is a music venue in Berlin listed on soundcheck. 8 upcoming nights. Browse upcoming dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
+Dunckerclub is a music venue in Berlin listed on soundcheck. 7 upcoming nights. Browse upcoming dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Dark Market |  |
 | Mon, 7 Sept 2026 | Dark Monday |  |
 | Fri, 11 Sept 2026 | Time Machine by DJ Luidor |  |
 | Sat, 12 Sept 2026 | Independent Tanzmusik |  |
@@ -21,4 +20,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 8 upcoming nights. 
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

@@ -1,14 +1,13 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 23 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Color:inc presents Pantone vol.3" on Sun, 6 Sept 2026.
+Forestlimit is a music venue in Tokyo with 22 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "'DUB名人'" on Tue, 8 Sept 2026.
 
-Forestlimit is a music venue in Tokyo listed on soundcheck. 23 upcoming nights, with line-ups including Acidclank, Aki Dolanikov, ANiIIIIiiiKii and ast midori and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
+Forestlimit is a music venue in Tokyo listed on soundcheck. 22 upcoming nights, with line-ups including Acidclank, Aki Dolanikov, ANiIIIIiiiKii and ast midori and 2 more. Browse upcoming dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Color:inc presents Pantone vol.3 |  |
 | Tue, 8 Sept 2026 | 'DUB名人' |  |
 | Wed, 9 Sept 2026 | 【99 M/A/S/S/A/C/R/E】 | Hue Ray, KYLE MIKASA |
 | Fri, 11 Sept 2026 | -Need to Control- |  |
@@ -18,9 +17,10 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 23 upcoming nights, 
 | Thu, 17 Sept 2026 | 【MITOHO SESSIONS】 |  |
 | Fri, 18 Sept 2026 | 'Rumble#49' |  |
 | Sun, 20 Sept 2026 | BAND | kotakunisaki |
+| Sun, 20 Sept 2026 | PPL | Yuto Takei, ast midori, kotakunisaki, meweta |
 
 ## Address
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

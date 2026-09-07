@@ -1,14 +1,13 @@
 # Paul Traeumer
 
-Paul Traeumer is a Downtempo and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 5 Sept 2026.
+Paul Traeumer is a Downtempo and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Nocturna, Ibiza on Wed, 16 Sept 2026.
 
-Paul Traeumer is a downtempo and house artist tracked on soundcheck, with 19 sets logged across Berlin, Budapest, Copenhagen and Ibiza and 3 more. Often billed alongside Mila Stern, Mula and Pulli & Chomba. Next up: Jonny Knüppel, Berlin on Sat 5 Sept.
+Paul Traeumer is a downtempo and house artist tracked on soundcheck, with 19 sets logged across Berlin, Budapest, Copenhagen and Ibiza and 3 more. Often billed alongside Mila Stern, Mula and Pulli & Chomba. Next up: Nocturna, Ibiza on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Jonny Knüppel | Berlin |
 | Wed, 16 Sept 2026 | Nocturna | Ibiza |
 | Thu, 24 Sept 2026 | Kassa Boat | Budapest |
 
@@ -27,4 +26,4 @@ Paul Traeumer is a downtempo and house artist tracked on soundcheck, with 19 set
 
 Mila Stern, Mula, Pulli & Chomba
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paultraeumer/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paultraeumer/)*

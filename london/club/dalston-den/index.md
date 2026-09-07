@@ -1,6 +1,6 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 11 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "COME DANCE WITH US" on Thu, 10 Sept 2026.
+Dalston Den is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "COME DANCE WITH US" on Thu, 10 Sept 2026.
 
 Dalston Den is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including 22Cheeky, AAKAARA, Das ist Vas and Engineer (Live) and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
 
@@ -23,4 +23,4 @@ Dalston Den is a music venue in London listed on soundcheck. 11 upcoming nights,
 
 91-93 Kingsland High Street, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

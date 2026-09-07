@@ -1,6 +1,6 @@
 # MIRASIA
 
-MIRASIA is a Club and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Chinese Laundry, Sydney on Fri, 11 Sept 2026.
+MIRASIA is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Chinese Laundry, Sydney on Fri, 11 Sept 2026.
 
 MIRASIA is a club and house artist tracked on soundcheck, with 48 sets logged across Auckland, Berlin, Brisbane and Geneva and 3 more. Often billed alongside C.FRIM, Brown Suga Princess and HALF QUEEN. Next up: Chinese Laundry, Sydney on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ MIRASIA is a club and house artist tracked on soundcheck, with 48 sets logged ac
 
 C.FRIM, Brown Suga Princess, HALF QUEEN
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirasia/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mirasia/)*

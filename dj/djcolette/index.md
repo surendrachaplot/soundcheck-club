@@ -1,6 +1,6 @@
 # DJ Colette
 
-DJ Colette is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+DJ Colette is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
 DJ Colette is a house and deep house artist tracked on soundcheck, with 73 sets logged across Chicago, Detroit, Losangeles and Melbourne and 10 more. Often billed alongside DJ Heather, Pete Moss and Bear Who?. Next up: Union Park, Chicago on Fri 4 Sept.
 
@@ -27,4 +27,4 @@ DJ Colette is a house and deep house artist tracked on soundcheck, with 73 sets 
 
 DJ Heather, Pete Moss, Bear Who?
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*

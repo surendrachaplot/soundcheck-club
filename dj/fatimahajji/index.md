@@ -1,6 +1,6 @@
 # Fatima Hajji
 
-Fatima Hajji is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 11 Sept 2026.
+Fatima Hajji is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Fatima Hajji is a techno and house artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Austin and Barcelona and 58 more. Often billed alongside Alignment, Shlømo and Trym. Next up: Public Works, Sanfrancisco on Fri 11 Sept.
 
@@ -32,4 +32,4 @@ Fatima Hajji is a techno and house artist tracked on soundcheck, with 191 sets l
 
 Alignment, Shlømo, Trym
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*

@@ -1,14 +1,13 @@
 # Larry Ababio
 
-Larry Ababio is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Lab11, Birmingham on Sat, 5 Sept 2026.
+Larry Ababio is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
-Larry Ababio is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Birmingham, Malta and Manchester. Often billed alongside Boon (UK), Steven Cee and Dusky. Next up: Lab11, Birmingham on Sat 5 Sept.
+Larry Ababio is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Birmingham, Malta and Manchester. Often billed alongside Boon (UK), Steven Cee and Dusky. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Lab11 | Birmingham |
 | Thu, 24 Sept 2026 | UNO MALTA | Malta |
 
 ## Recently played
@@ -20,4 +19,4 @@ Larry Ababio is a deep house and house artist based in United Kingdom, tracked o
 
 Boon (UK), Steven Cee, Dusky
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larryababio/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/larryababio/)*

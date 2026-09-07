@@ -1,6 +1,6 @@
 # Rubberax
 
-Rubberax is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Mikropol, Berlin on Sat, 3 Oct 2026.
+Rubberax is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Mikropol, Berlin on Sat, 3 Oct 2026.
 
 Rubberax is a techno and house artist based in France, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Leipzig and London and 1 more. Often billed alongside CLEO, KEROSENE (ZA) and ALAN JOE. Next up: Mikropol, Berlin on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Rubberax is a techno and house artist based in France, tracked on soundcheck, wi
 
 CLEO, KEROSENE (ZA), ALAN JOE
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubberax/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubberax/)*

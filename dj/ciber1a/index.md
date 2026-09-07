@@ -1,6 +1,6 @@
 # CIBER1A
 
-CIBER1A is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Sala Rossa, La, Montreal on Fri, 18 Sept 2026.
+CIBER1A is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sala Rossa, La, Montreal on Fri, 18 Sept 2026.
 
 CIBER1A is a techno and experimental artist tracked on soundcheck, with 14 sets logged across Montreal, Tokyo and Toronto. Often billed alongside INDUSTRIALTHROTTLING, MIASALAV and URA. Next up: Sala Rossa, La, Montreal on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ CIBER1A is a techno and experimental artist tracked on soundcheck, with 14 sets 
 
 INDUSTRIALTHROTTLING, MIASALAV, URA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciber1a/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ciber1a/)*

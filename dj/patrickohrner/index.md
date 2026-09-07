@@ -1,6 +1,6 @@
 # Patrick Ohrner
 
-Patrick Ohrner is a Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Pacha, Munich on Fri, 11 Sept 2026.
+Patrick Ohrner is a Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Pacha, Munich on Fri, 11 Sept 2026.
 
 Patrick Ohrner is an electro artist tracked on soundcheck, with 4 sets logged across Frankfurt and Munich. Often billed alongside Tonio Barrientos, AJNA and Archie Hamilton. Next up: Pacha, Munich on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Patrick Ohrner is an electro artist tracked on soundcheck, with 4 sets logged ac
 
 Tonio Barrientos, AJNA, Archie Hamilton
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickohrner/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickohrner/)*

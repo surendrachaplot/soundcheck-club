@@ -1,8 +1,8 @@
 # Scape One
 
-Scape One is a Acid and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, Chicago on Fri, 2 Oct 2026.
+Scape One is a Acid and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA, Chicago on Fri, 2 Oct 2026.
 
-Scape One is an acid and ambient artist tracked on soundcheck, with 6 sets logged across Chicago. Often billed alongside m50 and Aguila. Next up: TBA, Chicago on Fri 2 Oct.
+Scape One is an acid and ambient artist tracked on soundcheck, with 6 sets logged across Chicago. Often billed alongside m50, Aguila and B-Pushr. Next up: TBA, Chicago on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Scape One is an acid and ambient artist tracked on soundcheck, with 6 sets logge
 
 ## Shares bills with
 
-m50, Aguila
+m50, Aguila, B-Pushr
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scapeone/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scapeone/)*

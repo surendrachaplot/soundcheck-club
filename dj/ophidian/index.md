@@ -1,14 +1,13 @@
 # Ophidian
 
-Ophidian is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat, 5 Sept 2026.
+Ophidian is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Space Nightclub, Sydney on Wed, 11 Nov 2026.
 
-Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Drokz, Anime and Korsakoff. Next up: Parc de la Serra de Mollerussa (Lérida), Barcelona on Sat 5 Sept.
+Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Drokz, Anime and Korsakoff. Next up: Space Nightclub, Sydney on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Parc de la Serra de Mollerussa (Lérida) | Barcelona |
 | Wed, 11 Nov 2026 | Space Nightclub | Sydney |
 
 ## Recently played
@@ -26,4 +25,4 @@ Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundc
 
 Drokz, Anime, Korsakoff
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ophidian/)*

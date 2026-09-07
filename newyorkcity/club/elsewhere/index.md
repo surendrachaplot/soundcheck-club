@@ -1,14 +1,13 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 34 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Paraíso Fest: Caribbean Experience (Hall) / Plant Bass (Zone One + Loft)" on Sun, 6 Sept 2026.
+Elsewhere is a music venue in New York City with 33 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "FEVER MAX - Labor Day Afterhours " on Mon, 7 Sept 2026.
 
-Elsewhere is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in Newyorkcity listed on soundcheck. 33 upcoming nights, with line-ups including 6 SENSE, 999ADJ, Aanandi and AEREA and 2 more. Browse upcoming dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Paraíso Fest: Caribbean Experience (Hall) / Plant Bass (Zone One + Loft) |  |
 | Mon, 7 Sept 2026 | FEVER MAX - Labor Day Afterhours  |  |
 | Mon, 7 Sept 2026 | FEVER MAX - Labor Day Afterhours | Kevin Aviance |
 | Fri, 11 Sept 2026 | Satin Jackets, YSHESO | Satin Jackets |
@@ -18,9 +17,10 @@ Elsewhere is a music venue in Newyorkcity listed on soundcheck. 34 upcoming nigh
 | Fri, 18 Sept 2026 | Dublon, Arianna Danae | Arianna Danae, Dublon |
 | Fri, 18 Sept 2026 | SAZONAO with WOOF, GEERELIS, WAHGWAN TWON + Coco Maria | Coco Maria |
 | Sat, 19 Sept 2026 | Zack Fox presents: UWAY - DJ Godfather, Jubilee, EQUISS, Black Noi$e + more | 999ADJ, Amal, Amarji King, Angel (GR), Aumnï, Chinnamasta, Clit.hub, Elysian (1), Kilopatrah Jones, Miss Parker, Nativesun, Yesterdayneverhappened, Zack Fox |
+| Sun, 20 Sept 2026 | NYC RAVE GIRLS: 3-YEAR ANNIVERSARY, Perel (Hybrid Set), Ksenyeah b2b Mangui | Ksenyeah, Manguito, Perel |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

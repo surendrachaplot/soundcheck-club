@@ -1,6 +1,6 @@
 # Nesa Azadikhah
 
-Nesa Azadikhah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Virage, Paris on Fri, 11 Sept 2026.
+Nesa Azadikhah is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Virage, Paris on Fri, 11 Sept 2026.
 
 Nesa Azadikhah is a techno and house artist tracked on soundcheck, with 61 sets logged across Berlin, Brussels, Chicago and Copenhagen and 10 more. Often billed alongside Sina XX, Acid Arab and Deena Abdelwahed. Next up: Virage, Paris on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Nesa Azadikhah is a techno and house artist tracked on soundcheck, with 61 sets 
 
 Sina XX, Acid Arab, Deena Abdelwahed
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nesaazadikhah/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nesaazadikhah/)*

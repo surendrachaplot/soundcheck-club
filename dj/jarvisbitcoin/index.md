@@ -1,6 +1,6 @@
 # Jarvis Bitcoin
 
-Jarvis Bitcoin is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Distillery N17, London on Fri, 25 Sept 2026.
+Jarvis Bitcoin is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Distillery N17, London on Fri, 25 Sept 2026.
 
 Jarvis Bitcoin is a techno and club artist tracked on soundcheck, with 11 sets logged across London and Manchester. Often billed alongside JARVIS, DJ Mummy and Ship Sket. Next up: Distillery N17, London on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Jarvis Bitcoin is a techno and club artist tracked on soundcheck, with 11 sets l
 
 JARVIS, DJ Mummy, Ship Sket
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jarvisbitcoin/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jarvisbitcoin/)*

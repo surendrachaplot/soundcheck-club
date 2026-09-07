@@ -1,6 +1,6 @@
 # X-Pert Pir
 
-X-Pert Pir is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at M.O.T, London on Thu, 22 Oct 2026.
+X-Pert Pir is a Dubstep and Grime artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at M.O.T, London on Thu, 22 Oct 2026.
 
 X-Pert Pir is a dubstep and grime artist tracked on soundcheck, with 8 sets logged across London. Often billed alongside MIDRIB, Arnav and CESKA. Next up: M.O.T, London on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ X-Pert Pir is a dubstep and grime artist tracked on soundcheck, with 8 sets logg
 
 MIDRIB, Arnav, CESKA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/x-pertpir/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/x-pertpir/)*

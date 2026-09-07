@@ -1,6 +1,6 @@
 # Afonso Peixoto
 
-Afonso Peixoto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at C12, Brussels on Fri, 11 Sept 2026.
+Afonso Peixoto is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at C12, Brussels on Fri, 11 Sept 2026.
 
 Afonso Peixoto is a techno and house artist based in Portugal, tracked on soundcheck, with 40 sets logged across Berlin, Brussels and Lisbon. Often billed alongside Yizhaq, Varela and AAguilAA. Next up: C12, Brussels on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Afonso Peixoto is a techno and house artist based in Portugal, tracked on soundc
 
 Yizhaq, Varela, AAguilAA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afonsopeixoto/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/afonsopeixoto/)*

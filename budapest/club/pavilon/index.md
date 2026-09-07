@@ -1,6 +1,6 @@
 # Pavilon
 
-Pavilon is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Amass Sole" on Wed, 9 Sept 2026.
+Pavilon is a music venue in Budapest with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Amass Sole" on Wed, 9 Sept 2026.
 
 Pavilon is a music venue in Budapest listed on soundcheck. 1 upcoming night, with line-ups including Betas. Browse upcoming dates, start times and who's playing. Nehru part Budapest, Hungary 1093.
 
@@ -14,4 +14,4 @@ Pavilon is a music venue in Budapest listed on soundcheck. 1 upcoming night, wit
 
 Nehru part Budapest, Hungary 1093, Budapest
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pavilon/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/pavilon/)*

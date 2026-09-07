@@ -1,6 +1,6 @@
 # Jump
 
-Jump is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "140Tokyo" on Sat, 26 Sept 2026.
+Jump is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "140Tokyo" on Sat, 26 Sept 2026.
 
 Jump is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including MOOTOE. Browse upcoming dates, start times and who's playing. 10-1 Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan.
 
@@ -14,4 +14,4 @@ Jump is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line
 
 10-1 Udagawacho, Shibuya-ku, Tokyo, 150-0042 Japan, Tokyo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/jump/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/jump/)*

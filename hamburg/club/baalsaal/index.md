@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 14 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Groove / Steven Shade (Berlin) & SVPERCELL (Hamburg)" on Fri, 11 Sept 2026.
+Baalsaal is a music venue in Hamburg with 14 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Groove / Steven Shade (Berlin) & SVPERCELL (Hamburg)" on Fri, 11 Sept 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 14 upcoming nights, with line-ups including BAUER (DE), rodmor, ROOB and Steven Shade and 1 more. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 14 upcoming nights, w
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

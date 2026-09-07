@@ -21,7 +21,7 @@ SIN VERGÜENZA [OPEN AIR + INDOOR] hosted by SHOKI at OXI on Sat 12 Sept, Berlin
 - PvssyDivx
 - SHOKI287
 - STEYA
-- TheMuffinMan
+- The Muffin Man
 - Vivienna
 
 *Source: [soundcheck](https://soundcheck.club/e/2512705-sin-verg-enza-open-air-indoor-hosted-by-shoki-at-oxi/)*

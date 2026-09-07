@@ -1,14 +1,13 @@
 # Joshwa
 
-Joshwa is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Club Vinyl, Denver on Sun, 6 Sept 2026.
+Joshwa is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
-Joshwa is a tech house and house artist tracked on soundcheck, with 82 sets logged across Boston, Chicago, Copenhagen and Denver and 26 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: Club Vinyl, Denver on Sun 6 Sept.
+Joshwa is a tech house and house artist tracked on soundcheck, with 82 sets logged across Boston, Chicago, Copenhagen and Denver and 26 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Club Vinyl | Denver |
 | Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Fri, 25 Sept 2026 | Pygmalion | Dublin |
 | Sat, 17 Oct 2026 | XOYO | London |
@@ -17,6 +16,7 @@ Joshwa is a tech house and house artist tracked on soundcheck, with 82 sets logg
 
 ## Recently played
 
+- Club Vinyl, Denver — Sun, 6 Sept 2026
 - SWG3, Glasgow — Fri, 28 Aug 2026
 - The Barbary, Philadelphia — Sat, 22 Aug 2026
 - Prysm Nightclub, Chicago — Sat, 15 Aug 2026
@@ -24,10 +24,9 @@ Joshwa is a tech house and house artist tracked on soundcheck, with 82 sets logg
 - fabric, London — Sat, 11 Jul 2026
 - [UNVRS], Ibiza — Wed, 1 Jul 2026
 - [UNVRS], Ibiza — Thu, 18 Jun 2026
-- Night We Met, Nashville — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*

@@ -1,6 +1,6 @@
 # Maggie Tra
 
-Maggie Tra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA, Sydney on Mon, 21 Sept 2026.
+Maggie Tra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA, Sydney on Mon, 21 Sept 2026.
 
 Maggie Tra is a house and techno artist tracked on soundcheck, with 36 sets logged across Bangkok, Melbourne, Sydney and Utrecht. Often billed alongside Nadia Sandiego, Xanthe and Kimi Hendrix. Next up: TBA, Sydney on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ Maggie Tra is a house and techno artist tracked on soundcheck, with 36 sets logg
 
 Nadia Sandiego, Xanthe, Kimi Hendrix
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maggietra/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maggietra/)*

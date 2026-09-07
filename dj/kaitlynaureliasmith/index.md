@@ -1,6 +1,6 @@
 # Kaitlyn Aurelia Smith
 
-Kaitlyn Aurelia Smith is a Electro and Ambient artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
+Kaitlyn Aurelia Smith is a Electro and Ambient artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Funkhaus Berlin, Berlin on Sat, 10 Oct 2026.
 
 Kaitlyn Aurelia Smith is an electro and ambient artist based in United States of America, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Bristol and Brussels and 11 more. Often billed alongside Aurora Halal, Ben UFO and Erika de Casier. Next up: Funkhaus Berlin, Berlin on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Kaitlyn Aurelia Smith is an electro and ambient artist based in United States of
 
 Aurora Halal, Ben UFO, Erika de Casier
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitlynaureliasmith/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaitlynaureliasmith/)*

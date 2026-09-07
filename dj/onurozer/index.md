@@ -1,6 +1,6 @@
 # Onur Özer
 
-Onur Özer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Kapsule, Liverpool on Sat, 12 Sept 2026.
+Onur Özer is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Kapsule, Liverpool on Sat, 12 Sept 2026.
 
 Onur Özer is a techno and house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Christian AB, Francesco Del Garda and Quest (IT). Next up: Kapsule, Liverpool on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Onur Özer is a techno and house artist tracked on soundcheck, with 112 sets log
 
 Christian AB, Francesco Del Garda, Quest (IT)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onurozer/)*

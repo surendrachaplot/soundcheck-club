@@ -1,14 +1,13 @@
 # David Löhlein
 
-David Löhlein is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+David Löhlein is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Refuge, New York City on Mon, 7 Sept 2026.
 
-David Löhlein is a techno and trance artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside Raphael Dincsoy, Rove Ranger and AHURA. Next up: Industry City, Newyorkcity on Sat 5 Sept.
+David Löhlein is a techno and trance artist tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside Raphael Dincsoy, Rove Ranger and AHURA. Next up: Refuge, Newyorkcity on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Industry City | New York City |
 | Mon, 7 Sept 2026 | Refuge | New York City |
 | Fri, 11 Sept 2026 | Echostage | Washington DC |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
@@ -28,4 +27,4 @@ David Löhlein is a techno and trance artist tracked on soundcheck, with 147 set
 
 Raphael Dincsoy, Rove Ranger, AHURA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*

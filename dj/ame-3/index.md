@@ -1,6 +1,6 @@
 # AME (JP)
 
-AME (JP) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at DeTour, Tokyo on Fri, 11 Sept 2026.
+AME (JP) is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at DeTour, Tokyo on Fri, 11 Sept 2026.
 
 AME (JP) is a techno and acid artist based in Japan, tracked on soundcheck, with 19 sets logged across Barcelona and Tokyo. Often billed alongside YURI VALEN, YOXIKI and DALJAE. Next up: DeTour, Tokyo on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ AME (JP) is a techno and acid artist based in Japan, tracked on soundcheck, with
 
 YURI VALEN, YOXIKI, DALJAE
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ame-3/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ame-3/)*

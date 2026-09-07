@@ -1,13 +1,14 @@
 # ODD
 
-ODD is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Mystical Forest at outskirts of Selangor, Kuala Lumpur on Fri, 23 Oct 2026.
+ODD is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Aoyama Hachi, Tokyo on Fri, 18 Sept 2026.
 
-ODD is a techno and house artist tracked on soundcheck, with 23 sets logged across Kualalumpur, Tokyo and Vienna. Often billed alongside Katz 25, Daisuke Pak and KOGO. Next up: TBA - Mystical Forest at outskirts of Selangor, Kualalumpur on Fri 23 Oct.
+ODD is a techno and house artist tracked on soundcheck, with 24 sets logged across Kualalumpur, Tokyo and Vienna. Often billed alongside Katz 25, Daisuke Pak and KOGO. Next up: Aoyama Hachi, Tokyo on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Aoyama Hachi | Tokyo |
 | Fri, 23 Oct 2026 | TBA - Mystical Forest at outskirts of Selangor | Kuala Lumpur |
 
 ## Recently played
@@ -25,4 +26,4 @@ ODD is a techno and house artist tracked on soundcheck, with 23 sets logged acro
 
 Katz 25, Daisuke Pak, KOGO
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odd/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/odd/)*

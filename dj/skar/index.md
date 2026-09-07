@@ -1,6 +1,6 @@
 # Skar
 
-Skar is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Refuge, New York City on Mon, 7 Sept 2026.
+Skar is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Refuge, New York City on Mon, 7 Sept 2026.
 
 Skar is a techno and acid artist tracked on soundcheck, with 3 sets logged across Barcelona and Newyorkcity. Often billed alongside 6EJOU, Architects Of Adversity and Asharpmusic. Next up: Refuge, Newyorkcity on Mon 7 Sept.
 
@@ -19,4 +19,4 @@ Skar is a techno and acid artist tracked on soundcheck, with 3 sets logged acros
 
 6EJOU, Architects Of Adversity, Asharpmusic
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skar/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/skar/)*

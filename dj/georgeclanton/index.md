@@ -1,6 +1,6 @@
 # George Clanton
 
-George Clanton is a Vaporwave and Electro artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Black Cat, Washington DC on Sat, 7 Nov 2026.
+George Clanton is a Vaporwave and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Black Cat, Washington DC on Sat, 7 Nov 2026.
 
 George Clanton is a vaporwave and electro artist tracked on soundcheck, with 10 sets logged across Brussels, Chicago, Losangeles and Miami and 5 more. Often billed alongside Frost Children, Beverly Chills and C.FRIM. Next up: Black Cat, Washingtondc on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ George Clanton is a vaporwave and electro artist tracked on soundcheck, with 10 
 
 Frost Children, Beverly Chills, C.FRIM
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeclanton/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgeclanton/)*

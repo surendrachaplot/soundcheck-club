@@ -1,14 +1,13 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 5 Sept 2026.
+Philippa Pacho is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Fvtvr, Paris on Fri, 11 Sept 2026.
 
-Philippa Pacho is a techno and house artist tracked on soundcheck, with 220 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 55 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: RSO.BERLIN, Berlin on Sat 5 Sept.
+Philippa Pacho is a techno and house artist tracked on soundcheck, with 220 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 55 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Fvtvr, Paris on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | RSO.BERLIN | Berlin |
 | Fri, 11 Sept 2026 | Fvtvr | Paris |
 | Sat, 19 Sept 2026 | Circolo Amelia | Milan |
 | Tue, 22 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -35,4 +34,4 @@ Philippa Pacho is a techno and house artist tracked on soundcheck, with 220 sets
 
 Blue Hour, Fadi Mohem, Freddy K
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

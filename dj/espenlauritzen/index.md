@@ -1,6 +1,6 @@
 # Espen Lauritzen
 
-Espen Lauritzen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Faust, Seoul on Sat, 12 Sept 2026.
+Espen Lauritzen is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Faust, Seoul on Sat, 12 Sept 2026.
 
 Espen Lauritzen is a techno and house artist tracked on soundcheck, with 8 sets logged across Barcelona, Berlin, Oslo and Riga and 3 more. Often billed alongside Alejandro Franco, Aloka and Ana Alves. Next up: Faust, Seoul on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Espen Lauritzen is a techno and house artist tracked on soundcheck, with 8 sets 
 
 Alejandro Franco, Aloka, Ana Alves
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/espenlauritzen/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/espenlauritzen/)*

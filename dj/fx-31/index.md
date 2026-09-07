@@ -1,6 +1,6 @@
 # FX-31
 
-FX-31 is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Grelle Forelle, Vienna on Sat, 26 Sept 2026.
+FX-31 is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Grelle Forelle, Vienna on Sat, 26 Sept 2026.
 
 FX-31 is a techno and disco artist based in Austria, tracked on soundcheck, with 23 sets logged across Berlin, Leipzig and Vienna. Often billed alongside KAROLINA, NESS T and KRAWALLBARBIE. Next up: Grelle Forelle, Vienna on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ FX-31 is a techno and disco artist based in Austria, tracked on soundcheck, with
 
 KAROLINA, NESS T, KRAWALLBARBIE
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fx-31/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fx-31/)*

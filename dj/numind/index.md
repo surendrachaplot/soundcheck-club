@@ -1,14 +1,15 @@
 # nümind
 
-nümind is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Basing House, London on Sat, 12 Sept 2026.
+nümind is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Basing House, London on Sat, 12 Sept 2026.
 
-nümind is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Dublin, Ibiza and London. Often billed alongside Kyau & Albert, C-systems and Agnelli & Nelson. Next up: Basing House, London on Sat 12 Sept.
+nümind is a trance and progressive house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Dublin, Ibiza and London. Often billed alongside Kyau & Albert, C-systems and Darren Tate. Next up: Basing House, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Basing House | London |
+| Sat, 5 Dec 2026 | 93 Feet East | London |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ nümind is a trance and progressive house artist based in United Kingdom, tracke
 
 ## Shares bills with
 
-Kyau & Albert, C-systems, Agnelli & Nelson
+Kyau & Albert, C-systems, Darren Tate
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/numind/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/numind/)*

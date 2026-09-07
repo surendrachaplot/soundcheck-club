@@ -1,6 +1,6 @@
 # JJ (Rebloom)
 
-JJ (Rebloom) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+JJ (Rebloom) is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
 JJ (Rebloom) is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Berlin, London and Tokyo. Often billed alongside Jay Galligan, Ario and DJ Morita. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ JJ (Rebloom) is a techno and experimental artist based in United Kingdom, tracke
 
 Jay Galligan, Ario, DJ Morita
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jjrebloom/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jjrebloom/)*

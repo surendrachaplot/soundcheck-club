@@ -1,14 +1,13 @@
 # Technimatic
 
-Technimatic is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at UNO MALTA, Malta on Thu, 3 Sept 2026.
+Technimatic is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Club Exil, Vienna on Sat, 3 Oct 2026.
 
-Technimatic is a drum & bass and jungle artist tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Auckland and Bali and 16 more. Often billed alongside Camo & Krooked, LowQui and Monrroe. Next up: UNO MALTA, Malta on Thu 3 Sept.
+Technimatic is a drum & bass and jungle artist tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Auckland and Bali and 16 more. Often billed alongside Camo & Krooked, LowQui and Monrroe. Next up: Club Exil, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 3 Sept 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Club Exil | Vienna |
 
 ## Recently played
@@ -26,4 +25,4 @@ Technimatic is a drum & bass and jungle artist tracked on soundcheck, with 40 se
 
 Camo & Krooked, LowQui, Monrroe
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/technimatic-uk/)*

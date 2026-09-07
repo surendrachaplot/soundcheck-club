@@ -1,6 +1,6 @@
 # Clara D
 
-Clara D is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Société des arts technologiques, Montreal on Fri, 18 Sept 2026.
+Clara D is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Société des arts technologiques, Montreal on Fri, 18 Sept 2026.
 
 Clara D is a techno and house artist tracked on soundcheck, with 57 sets logged across Antwerp, Berlin, Brussels and Ghent and 4 more. Often billed alongside Askkin, Initial Code and Azo. Next up: Société des arts technologiques, Montreal on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Clara D is a techno and house artist tracked on soundcheck, with 57 sets logged 
 
 Askkin, Initial Code, Azo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarad/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clarad/)*

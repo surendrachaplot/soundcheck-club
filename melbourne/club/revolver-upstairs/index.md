@@ -1,15 +1,13 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 17 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "REVOLVER BANDROOM: DAFT WEEKND — presents ROBOTS. NEON. DISCO. EUPHORIA" on Sat, 5 Sept 2026.
+Revolver Upstairs is a music venue in Melbourne with 15 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Tilt Shift Wednesdays" on Wed, 9 Sept 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 17 upcoming nights, with line-ups including Alex Wann, ANNIE KEZ, bbsanii and Bby Cass and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 15 upcoming nights, with line-ups including Alex Wann, ANNIE KEZ, bbsanii and Bby Cass and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | REVOLVER BANDROOM: DAFT WEEKND — presents ROBOTS. NEON. DISCO. EUPHORIA |  |
-| Sun, 6 Sept 2026 | Joss Dean (UK) - Winter Series pres. by Thick As Thieves | Ben Silver, Boogs, Cooper James, Joss Dean, KELLY TEE, Mixed Methods, Spacey Space |
 | Wed, 9 Sept 2026 | Tilt Shift Wednesdays |  |
 | Fri, 11 Sept 2026 | REVOLVER BANDROOM: Union Heights presents Viliani & Kibbz — Double Album Launch |  |
 | Fri, 11 Sept 2026 | Rolê x Revolver Fridays | Bby Cass, Livia, Mike Callander, Paz |
@@ -18,9 +16,11 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 17 upcomin
 | Wed, 16 Sept 2026 | Tilt Shift Wednesdays — 99 PRBLMZ Takeover |  |
 | Fri, 18 Sept 2026 | Clôture presents — Caleb Jay [LIVE] + Guests | CHARBINKS, Caleb Jay, Lisa May, Max Glyde |
 | Wed, 23 Sept 2026 | Tilt Shift Wednesdays — Proponent Records Takeover | Common Tribe, Eric Stark |
+| Thu, 24 Sept 2026 | REVOLVER BANDROOM: hide & seek |  |
+| Fri, 25 Sept 2026 | Transenergy x Revolver Fridays | Davi Bangma, Mike Callander, Sophie Forrest, bbsanii, randals dad |
 
 ## Address
 
 229 Chapel St, Prahran VIC 3181, Australia, Melbourne
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/revolver-upstairs/)*

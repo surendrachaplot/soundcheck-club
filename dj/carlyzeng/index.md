@@ -1,20 +1,20 @@
 # Carly Zeng
 
-Carly Zeng is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Else, Berlin on Sun, 6 Sept 2026.
+Carly Zeng is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
-Carly Zeng is a techno and house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Berlin, Brussels and Chicago and 12 more. Often billed alongside Cryptofauna, Ariel Zetina and marum. Next up: Else, Berlin on Sun 6 Sept.
+Carly Zeng is a techno and house artist tracked on soundcheck, with 134 sets logged across Amsterdam, Berlin, Brussels and Chicago and 12 more. Often billed alongside Cryptofauna, Ariel Zetina and marum. Next up: Renate, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Else | Berlin |
 | Fri, 11 Sept 2026 | Renate | Berlin |
 | Sat, 12 Sept 2026 | KREUZWERK | Berlin |
 | Sun, 18 Oct 2026 | Fitzroy | Berlin |
 
 ## Recently played
 
+- Else, Berlin — Sun, 6 Sept 2026
 - TILLATEC, Amsterdam — Fri, 21 Aug 2026
 - KREUZWERK, Berlin — Sun, 2 Aug 2026
 - RSO.BERLIN, Berlin — Fri, 24 Jul 2026
@@ -22,10 +22,9 @@ Carly Zeng is a techno and house artist tracked on soundcheck, with 134 sets log
 - Nowadays, New York City — Sat, 11 Jul 2026
 - Lincoln Factory, Detroit — Fri, 10 Jul 2026
 - KREUZWERK, Berlin — Sat, 27 Jun 2026
-- Jonny Knüppel, Berlin — Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Cryptofauna, Ariel Zetina, marum
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*

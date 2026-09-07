@@ -1,6 +1,6 @@
 # Pink Id
 
-Pink Id is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at City Hall, Barcelona on Tue, 15 Sept 2026.
+Pink Id is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at City Hall, Barcelona on Tue, 15 Sept 2026.
 
 Pink Id is a techno artist tracked on soundcheck, with 5 sets logged across Barcelona. Often billed alongside Atari Stacey. Next up: City Hall, Barcelona on Tue 15 Sept.
 
@@ -21,4 +21,4 @@ Pink Id is a techno artist tracked on soundcheck, with 5 sets logged across Barc
 
 Atari Stacey
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkid/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinkid/)*

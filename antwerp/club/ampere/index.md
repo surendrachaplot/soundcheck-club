@@ -1,6 +1,6 @@
 # Ampere
 
-Ampere is a music venue in Antwerp with 3 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Bed By 10" on Sat, 19 Sept 2026.
+Ampere is a music venue in Antwerp with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Bed By 10" on Sat, 19 Sept 2026.
 
 Ampere is a music venue in Antwerp listed on soundcheck. 3 upcoming nights, with line-ups including DRS, Expensive KVR, Hiraeth and LSB. Browse upcoming dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
 
@@ -16,4 +16,4 @@ Ampere is a music venue in Antwerp listed on soundcheck. 3 upcoming nights, with
 
 Simonsstraat 21, 2018 Antwerp, BE, Antwerp
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/ampere/)*

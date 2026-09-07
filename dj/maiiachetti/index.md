@@ -1,6 +1,6 @@
 # Mai iachetti
 
-Mai iachetti is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
+Mai iachetti is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
 
 Mai iachetti is a house and tech house artist tracked on soundcheck, with 127 sets logged across Boston, Buenosaires, Chicago and Denver and 8 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: TBA - Tokyo Club, Costanera, Buenosaires on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Mai iachetti is a house and tech house artist tracked on soundcheck, with 127 se
 
 Danyelino, Ms. Mada, Natalia Roth
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*

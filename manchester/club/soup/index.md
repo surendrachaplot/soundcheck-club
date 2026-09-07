@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Grey Lantern presents: Ak'chamel" on Mon, 7 Sept 2026.
+Soup is a music venue in Manchester with 14 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Grey Lantern presents: Ak'chamel / Speculum Bunny" on Mon, 7 Sept 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 14 upcoming nights, with line-ups including Abby Harris, ASIAN BRAT, Bugs Groove and Coel Haines and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -8,7 +8,7 @@ Soup is a music venue in Manchester listed on soundcheck. 14 upcoming nights, wi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | Grey Lantern presents: Ak'chamel |  |
+| Mon, 7 Sept 2026 | Grey Lantern presents: Ak'chamel / Speculum Bunny |  |
 | Fri, 11 Sept 2026 | Big Squeeze Soul |  |
 | Fri, 18 Sept 2026 | No Boundaries presents: Coflo | Coflo, Danandout, Hen K, Marley Reid |
 | Sat, 19 Sept 2026 | Ost presents Simo Cell (TemeT), Analog-1 (Furthur Electronix / meandyou / MCMLXV) & Bugs Groove | Bugs Groove, JS Zeiter, Simo Cell |
@@ -23,4 +23,4 @@ Soup is a music venue in Manchester listed on soundcheck. 14 upcoming nights, wi
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

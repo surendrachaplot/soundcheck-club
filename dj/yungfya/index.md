@@ -1,6 +1,6 @@
 # yungfya
 
-yungfya is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+yungfya is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 yungfya is a bass and house artist tracked on soundcheck, with 87 sets logged across Barcelona, Berlin, Brighton and Cologne and 8 more. Often billed alongside Dangermami, Punani and Formella. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ yungfya is a bass and house artist tracked on soundcheck, with 87 sets logged ac
 
 Dangermami, Punani, Formella
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yungfya/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yungfya/)*

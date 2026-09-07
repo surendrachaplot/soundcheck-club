@@ -1,6 +1,6 @@
 # EVES DJ
 
-EVES DJ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TOC Hostel, Barcelona on Fri, 18 Sept 2026.
+EVES DJ is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TOC Hostel, Barcelona on Fri, 18 Sept 2026.
 
 EVES DJ is a tech house and house artist based in Spain, tracked on soundcheck, with 40 sets logged across Barcelona and Berlin. Often billed alongside MøønkiZa, DAZA and Daniel Aguilar (2). Next up: TOC Hostel, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ EVES DJ is a tech house and house artist based in Spain, tracked on soundcheck, 
 
 MøønkiZa, DAZA, Daniel Aguilar (2)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evesdj/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evesdj/)*

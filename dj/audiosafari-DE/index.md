@@ -1,6 +1,6 @@
 # Audiosafari (DE)
 
-Audiosafari (DE) is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Pracht, Frankfurt on Thu, 10 Sept 2026.
+Audiosafari (DE) is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Pracht, Frankfurt on Thu, 10 Sept 2026.
 
 Audiosafari (DE) is a deep house and afro house artist tracked on soundcheck, with 8 sets logged across Frankfurt. Often billed alongside Maex, Black Loops and Claptone. Next up: Pracht, Frankfurt on Thu 10 Sept.
 
@@ -24,4 +24,4 @@ Audiosafari (DE) is a deep house and afro house artist tracked on soundcheck, wi
 
 Maex, Black Loops, Claptone
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audiosafari-DE/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audiosafari-DE/)*

@@ -1,6 +1,6 @@
 # Marius Lehnert
 
-Marius Lehnert is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Culture Box, Copenhagen on Sat, 12 Sept 2026.
+Marius Lehnert is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Culture Box, Copenhagen on Sat, 12 Sept 2026.
 
 Marius Lehnert is a house and techno artist based in Germany, tracked on soundcheck, with 86 sets logged across Berlin, Copenhagen, Frankfurt and Istanbul and 4 more. Often billed alongside Alexander Maier, Dejago and Dominik Eulberg. Next up: Culture Box, Copenhagen on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Marius Lehnert is a house and techno artist based in Germany, tracked on soundch
 
 Alexander Maier, Dejago, Dominik Eulberg
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariuslehnert/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mariuslehnert/)*

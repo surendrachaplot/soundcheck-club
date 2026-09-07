@@ -1,14 +1,13 @@
 # Telephones
 
-Telephones is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Kater, Berlin on Sat, 5 Sept 2026.
+Telephones is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bambi's, Toronto on Thu, 17 Sept 2026.
 
-Telephones is a house and techno artist based in Norway, tracked on soundcheck, with 69 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside DJ Fett Burger, Tornado Wallace and DJ Aficionado. Next up: Kater, Berlin on Sat 5 Sept.
+Telephones is a house and techno artist based in Norway, tracked on soundcheck, with 69 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside DJ Fett Burger, Tornado Wallace and DJ Aficionado. Next up: Bambi's, Toronto on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Kater | Berlin |
 | Thu, 17 Sept 2026 | Bambi's | Toronto |
 | Sat, 26 Sept 2026 | TBA | Vancouver |
 | Sat, 10 Oct 2026 | Abbotsford Convent | Melbourne |
@@ -29,4 +28,4 @@ Telephones is a house and techno artist based in Norway, tracked on soundcheck, 
 
 DJ Fett Burger, Tornado Wallace, DJ Aficionado
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*

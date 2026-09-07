@@ -1,6 +1,6 @@
 # Kid Lib
 
-Kid Lib is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at FORGE, Sheffield on Fri, 4 Dec 2026.
+Kid Lib is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at FORGE, Sheffield on Fri, 4 Dec 2026.
 
 Kid Lib is a jungle and drum & bass artist tracked on soundcheck, with 13 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Charla Green, Equinox (UK) and Hughesee. Next up: FORGE, Sheffield on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Kid Lib is a jungle and drum & bass artist tracked on soundcheck, with 13 sets l
 
 Charla Green, Equinox (UK), Hughesee
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidlib/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidlib/)*

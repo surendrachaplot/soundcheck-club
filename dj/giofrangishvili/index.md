@@ -1,6 +1,6 @@
 # Gio Frangishvili
 
-Gio Frangishvili is a electronic artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Gio Frangishvili is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Gio Frangishvili is an electronic artist tracked on soundcheck, with 14 sets logged across Tbilisi. Often billed alongside Giorgi Devadze, Bero and Generali Minerali. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Gio Frangishvili is an electronic artist tracked on soundcheck, with 14 sets log
 
 Giorgi Devadze, Bero, Generali Minerali
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giofrangishvili/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giofrangishvili/)*

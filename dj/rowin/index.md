@@ -1,6 +1,6 @@
 # ROWIN
 
-ROWIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+ROWIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 ROWIN is a techno and house artist based in Netherlands, tracked on soundcheck, with 2 sets logged across Amsterdam and Cologne. Often billed alongside ALISHA, Ays (NL) and BLANKA. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -18,4 +18,4 @@ ROWIN is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 ALISHA, Ays (NL), BLANKA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rowin/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rowin/)*

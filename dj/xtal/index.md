@@ -1,6 +1,6 @@
 # XTAL
 
-XTAL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at WOMB, Tokyo on Wed, 9 Sept 2026.
+XTAL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at WOMB, Tokyo on Wed, 9 Sept 2026.
 
 XTAL is a house and techno artist tracked on soundcheck, with 17 sets logged across Seoul and Tokyo. Often billed alongside AMANE, U-T and Gonno. Next up: WOMB, Tokyo on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ XTAL is a house and techno artist tracked on soundcheck, with 17 sets logged acr
 
 AMANE, U-T, Gonno
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xtal/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xtal/)*

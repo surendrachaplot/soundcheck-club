@@ -1,6 +1,6 @@
 # SBCSLY
 
-SBCSLY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at REJS, Warsaw on Sat, 26 Sept 2026.
+SBCSLY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at REJS, Warsaw on Sat, 26 Sept 2026.
 
 SBCSLY is a techno and house artist based in Poland, tracked on soundcheck, with 2 sets logged across Warsaw. Often billed alongside Lyor Kalt, Butwho and SYS.END. Next up: REJS, Warsaw on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ SBCSLY is a techno and house artist based in Poland, tracked on soundcheck, with
 
 Lyor Kalt, Butwho, SYS.END
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sbcsly/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sbcsly/)*

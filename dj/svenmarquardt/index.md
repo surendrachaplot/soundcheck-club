@@ -1,6 +1,6 @@
 # Sven Marquardt
 
-Sven Marquardt is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Platte.Berlin, Berlin on Fri, 11 Sept 2026.
+Sven Marquardt is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Platte.Berlin, Berlin on Fri, 11 Sept 2026.
 
 Sven Marquardt is a techno and acid artist tracked on soundcheck, with 9 sets logged across Berlin, Istanbul, Montreal and Rome and 1 more. Often billed alongside Measure Divide, Budino and Circumscums. Next up: Platte.Berlin, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Sven Marquardt is a techno and acid artist tracked on soundcheck, with 9 sets lo
 
 Measure Divide, Budino, Circumscums
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenmarquardt/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svenmarquardt/)*

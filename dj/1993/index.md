@@ -1,6 +1,6 @@
 # 1993
 
-1993 is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Nether Club, Bucharest on Fri, 11 Sept 2026.
+1993 is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Nether Club, Bucharest on Fri, 11 Sept 2026.
 
 1993 is a techno and hardcore artist tracked on soundcheck, with 2 sets logged across Bucharest. Often billed alongside Gheordu, NTHR and RÄV. Next up: Nether Club, Bucharest on Fri 11 Sept.
 
@@ -18,4 +18,4 @@
 
 Gheordu, NTHR, RÄV
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1993/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1993/)*

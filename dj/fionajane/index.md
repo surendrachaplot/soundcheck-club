@@ -1,6 +1,6 @@
 # Fiona Jane
 
-Fiona Jane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Danger Danger, New York City on Wed, 9 Sept 2026.
+Fiona Jane is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Danger Danger, New York City on Wed, 9 Sept 2026.
 
 Fiona Jane is a house and techno artist tracked on soundcheck, with 5 sets logged across Copenhagen, Lisbon, London and Newyorkcity and 1 more. Often billed alongside DEIAN, DESIREE (RSA) and Ewan Pearson. Next up: Danger Danger, Newyorkcity on Wed 9 Sept.
 
@@ -21,4 +21,4 @@ Fiona Jane is a house and techno artist tracked on soundcheck, with 5 sets logge
 
 DEIAN, DESIREE (RSA), Ewan Pearson
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fionajane/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fionajane/)*

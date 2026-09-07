@@ -1,8 +1,8 @@
 # Cassy
 
-Cassy is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
+Cassy is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 12 Sept 2026.
 
-Cassy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 165 sets logged across Amsterdam, Bali, Barcelona and Berlin and 44 more. Often billed alongside Carlos Valdes, Anja Schneider and Chris Stassy. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
+Cassy is a house and techno artist based in United Kingdom, tracked on soundcheck, with 166 sets logged across Amsterdam, Bali, Barcelona and Berlin and 44 more. Often billed alongside Carlos Valdes, Anja Schneider and Ben Klock. Next up: RSO.BERLIN, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Cassy is a house and techno artist based in United Kingdom, tracked on soundchec
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
+| Sat, 5 Dec 2026 | fabric | London |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ Cassy is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ## Shares bills with
 
-Carlos Valdes, Anja Schneider, Chris Stassy
+Carlos Valdes, Anja Schneider, Ben Klock
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*

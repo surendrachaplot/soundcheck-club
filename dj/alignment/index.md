@@ -1,14 +1,13 @@
 # Alignment
 
-Alignment is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at The Concourse Project, Austin on Sun, 6 Sept 2026.
+Alignment is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
-Alignment is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: The Concourse Project, Austin on Sun 6 Sept.
+Alignment is a techno and house artist tracked on soundcheck, with 217 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | The Concourse Project | Austin |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Fri, 18 Sept 2026 | Garage Klub | Antwerp |
 | Sat, 19 Sept 2026 | Uebel & Gefährlich | Hamburg |
@@ -19,6 +18,7 @@ Alignment is a techno and house artist tracked on soundcheck, with 217 sets logg
 
 ## Recently played
 
+- The Concourse Project, Austin — Sun, 6 Sept 2026
 - TBA - Wasteland Festival, Cologne — Sat, 5 Sept 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
@@ -26,10 +26,9 @@ Alignment is a techno and house artist tracked on soundcheck, with 217 sets logg
 - Flava Beach, Naples — Sat, 18 Jul 2026
 - Audiodrome, Turin — Sat, 4 Jul 2026
 - Parco Dora, Turin — Fri, 3 Jul 2026
-- Aria Complex, Malta — Mon, 29 Jun 2026
 
 ## Shares bills with
 
 Shlømo, Basswell, DYEN
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*

@@ -1,6 +1,6 @@
 # Lost Weekend
 
-Lost Weekend is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "ROOM13 Coffee Rave" on Sat, 12 Sept 2026.
+Lost Weekend is a music venue in Munich with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "ROOM13 Coffee Rave" on Sat, 12 Sept 2026.
 
 Lost Weekend is a music venue in Munich listed on soundcheck. 2 upcoming nights, with line-ups including Zoom.Like. Browse upcoming dates, start times and who's playing. Schellingstraße 3, 80779 München.
 
@@ -15,4 +15,4 @@ Lost Weekend is a music venue in Munich listed on soundcheck. 2 upcoming nights,
 
 Schellingstraße 3, 80779 München, Munich
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lost-weekend/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lost-weekend/)*

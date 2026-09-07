@@ -1,8 +1,8 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 54 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Fergie presents: Vinyl Sessions (All Night Long)" on Fri, 11 Sept 2026.
+The Jazz Cafe is a music venue in London with 56 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Fergie presents: Vinyl Sessions (All Night Long)" on Fri, 11 Sept 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 54 upcoming nights, with line-ups including A Guy Called Gerald, AMANDA SZE, AMARI and ASIAN BRAT and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 56 upcoming nights, with line-ups including A Guy Called Gerald, AMANDA SZE, AMARI and ASIAN BRAT and 2 more. Browse upcoming dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 54 upcoming night
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

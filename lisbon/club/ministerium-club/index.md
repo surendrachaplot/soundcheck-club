@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Riktus with João Lagrima De Ouro, Dibison, GADDAM, Anibal" on Thu, 10 Sept 2026.
+Ministerium Club is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Riktus with João Lagrima De Ouro, Dibison, GADDAM, Anibal" on Thu, 10 Sept 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including aalice, ANÍBAL, Client and Dibison and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -20,4 +20,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 7 upcoming nig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

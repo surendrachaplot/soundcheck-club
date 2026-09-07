@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 27 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "HOLIDAY ORDERS" on Sun, 6 Sept 2026.
+BAR Inc is a music venue in Osaka with 26 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "WEEKDAY ORDERS" on Mon, 7 Sept 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 27 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Big Animal Theory and Bloody Cheeki $odz and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 26 upcoming nights, with line-ups including ANCHIN, AOKI takamasa, Big Animal Theory and Bloody Cheeki $odz and 2 more. Browse upcoming dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | HOLIDAY ORDERS |  |
 | Mon, 7 Sept 2026 | WEEKDAY ORDERS |  |
 | Tue, 8 Sept 2026 | WEEKDAY ORDERS |  |
 | Wed, 9 Sept 2026 | WEEKDAY ORDERS | GAKUTO(TOKYO), Ko Yang (JP), Lvca |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 27 upcoming nights, with
 | Sun, 13 Sept 2026 | HOLIDAY ORDERS | DJ SPOT, Federico Molinari, Tomoya Furukawa |
 | Mon, 14 Sept 2026 | WEEKDAY ORDERS |  |
 | Tue, 15 Sept 2026 | WEEKDAY ORDERS |  |
+| Wed, 16 Sept 2026 | WEEKDAY ORDERS | DJ Monchan |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

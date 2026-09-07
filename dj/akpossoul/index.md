@@ -1,6 +1,6 @@
 # Akpossoul
 
-Akpossoul is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Blue Room, Montreal on Thu, 10 Sept 2026.
+Akpossoul is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Blue Room, Montreal on Thu, 10 Sept 2026.
 
 Akpossoul is an afro house and house artist based in France, tracked on soundcheck, with 26 sets logged across Geneva, Lyon and Montreal. Often billed alongside Don Barbarino, MLLE CEE and AKAntu. Next up: Blue Room, Montreal on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Akpossoul is an afro house and house artist based in France, tracked on soundche
 
 Don Barbarino, MLLE CEE, AKAntu
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akpossoul/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akpossoul/)*

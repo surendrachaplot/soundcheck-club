@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Anatomy presents: Marcel Fengler (IMF, Berghain), AMX, Henry Brooks, DJ Sphinx, Redax & More" on Fri, 11 Sept 2026.
+Northern Lights Lounge is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Anatomy presents: Marcel Fengler (IMF, Berghain), AMX, Henry Brooks, DJ Sphinx, Redax & More" on Fri, 11 Sept 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 5 upcoming nights, with line-ups including The AM/AMX, Brent Shay, DJ Assault and DJ Candor and 2 more. Browse upcoming dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -18,4 +18,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 5 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

@@ -1,8 +1,8 @@
 # Roza Terenzi
 
-Roza Terenzi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
+Roza Terenzi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Camp Kennybrook, New York City on Thu, 10 Sept 2026.
 
-Roza Terenzi is a techno and house artist tracked on soundcheck, with 203 sets logged across Amsterdam, Athens, Auckland and Austin and 52 more. Often billed alongside ISAbella, D. Tiffany and THC. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
+Roza Terenzi is a techno and house artist tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Auckland and Austin and 52 more. Often billed alongside ISAbella, D. Tiffany and THC. Next up: Camp Kennybrook, Newyorkcity on Thu 10 Sept.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Roza Terenzi is a techno and house artist tracked on soundcheck, with 203 sets l
 | Fri, 9 Oct 2026 | Fvtvr | Paris |
 | Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 31 Oct 2026 | FOLD | London |
+| Sat, 5 Dec 2026 | TBA | Los Angeles |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Roza Terenzi is a techno and house artist tracked on soundcheck, with 203 sets l
 
 ISAbella, D. Tiffany, THC
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaterenzi/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaterenzi/)*

@@ -1,6 +1,6 @@
 # Moody Mehran
 
-Moody Mehran is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Atelier Rooftop, Berlin on Fri, 25 Sept 2026.
+Moody Mehran is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Atelier Rooftop, Berlin on Fri, 25 Sept 2026.
 
 Moody Mehran is a house and techno artist tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Bali and Berlin and 10 more. Often billed alongside Lucky Done Gone, Tjade and Kyra Khaldi. Next up: Atelier Rooftop, Berlin on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Moody Mehran is a house and techno artist tracked on soundcheck, with 148 sets l
 
 Lucky Done Gone, Tjade, Kyra Khaldi
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymehran/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymehran/)*

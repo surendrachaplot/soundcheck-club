@@ -1,6 +1,6 @@
 # Nala (UK)
 
-Nala (UK) is a Breakbeat and Garage artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Nala (UK) is a Breakbeat and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Nala (UK) is a breakbeat and garage artist tracked on soundcheck, with 4 sets logged across Amsterdam, Liverpool and Manchester. Often billed alongside ALISHA, Ays (NL) and BLANKA. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ Nala (UK) is a breakbeat and garage artist tracked on soundcheck, with 4 sets lo
 
 ALISHA, Ays (NL), BLANKA
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nalauk/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nalauk/)*

@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 6 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "ctrl x ICHIGO: Roger Rabbit with Shan Selby [USA], Sătănel" on Fri, 11 Sept 2026.
+control is a music venue in Bucharest with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "ctrl x ICHIGO: Roger Rabbit with Shan Selby [USA], Sătănel" on Fri, 11 Sept 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 6 upcoming nights, with line-ups including AEREA, Andreea Veder, DAR DISKU and dragosh (RO) and 2 more. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -19,4 +19,4 @@ control is a music venue in Bucharest listed on soundcheck. 6 upcoming nights, w
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

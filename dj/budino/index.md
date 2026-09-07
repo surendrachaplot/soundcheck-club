@@ -1,14 +1,13 @@
 # Budino
 
-Budino is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Good Room, New York City on Sun, 6 Sept 2026.
+Budino is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Sept 2026.
 
-Budino is a house and techno artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Gabrielle Kwarteng, Massimiliano Pagliara and Cormac. Next up: Good Room, Newyorkcity on Sun 6 Sept.
+Budino is a house and techno artist tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Gabrielle Kwarteng, Massimiliano Pagliara and Cormac. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Good Room | New York City |
 | Sat, 19 Sept 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 3 Oct 2026 | Quinta do Miratejo | Lisbon |
 | Fri, 9 Oct 2026 | Shelter Amsterdam | Amsterdam |
@@ -21,6 +20,7 @@ Budino is a house and techno artist tracked on soundcheck, with 154 sets logged 
 
 ## Recently played
 
+- Good Room, New York City — Sun, 6 Sept 2026
 - Cabaret Sauvage, Paris — Sat, 22 Aug 2026
 - Buda BXL, Brussels — Sat, 8 Aug 2026
 - Ferropolis, Leipzig — Fri, 17 Jul 2026
@@ -28,10 +28,9 @@ Budino is a house and techno artist tracked on soundcheck, with 154 sets logged 
 - Karmakoma, Belgrade — Fri, 26 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 13 Jun 2026
 - Nitsa Club, Barcelona — Fri, 12 Jun 2026
-- Good Room, New York City — Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Gabrielle Kwarteng, Massimiliano Pagliara, Cormac
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*

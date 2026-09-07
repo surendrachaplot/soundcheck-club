@@ -1,6 +1,6 @@
 # Vergano
 
-Vergano is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Volks, Brighton on Sat, 21 Nov 2026.
+Vergano is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Volks, Brighton on Sat, 21 Nov 2026.
 
 Vergano is a drum & bass and jungle artist tracked on soundcheck, with 6 sets logged across Brighton. Often billed alongside Mantra, Blackeye MC and Double O. Next up: Volks, Brighton on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Vergano is a drum & bass and jungle artist tracked on soundcheck, with 6 sets lo
 
 Mantra, Blackeye MC, Double O
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vergano/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vergano/)*

@@ -1,6 +1,6 @@
 # Marc Eisenberg
 
-Marc Eisenberg is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+Marc Eisenberg is a Techno and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
 Marc Eisenberg is a techno and deep house artist tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside V (NYC), Einfach Taffo and smeik. Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Marc Eisenberg is a techno and deep house artist tracked on soundcheck, with 19 
 
 V (NYC), Einfach Taffo, smeik
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceisenberg/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marceisenberg/)*

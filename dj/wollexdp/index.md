@@ -1,6 +1,6 @@
 # WolleXDP
 
-WolleXDP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
+WolleXDP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Jonny Knüppel, Berlin on Fri, 18 Sept 2026.
 
 WolleXDP is a techno and house artist tracked on soundcheck, with 14 sets logged across Berlin and Leipzig. Often billed alongside Tanith, Der Würfler and DJ Jauche. Next up: Jonny Knüppel, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ WolleXDP is a techno and house artist tracked on soundcheck, with 14 sets logged
 
 Tanith, Der Würfler, DJ Jauche
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wollexdp/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wollexdp/)*

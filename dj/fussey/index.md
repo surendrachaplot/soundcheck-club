@@ -1,6 +1,6 @@
 # Fussey
 
-Fussey is a Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The DBA, Manchester on Thu, 10 Sept 2026.
+Fussey is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The DBA, Manchester on Thu, 10 Sept 2026.
 
 Fussey is a techno artist tracked on soundcheck, with 9 sets logged across Bucharest, Leeds, Manchester and Prague. Often billed alongside Maul, Varøsian and Cyprusian. Next up: The DBA, Manchester on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Fussey is a techno artist tracked on soundcheck, with 9 sets logged across Bucha
 
 Maul, Varøsian, Cyprusian
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fussey/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fussey/)*

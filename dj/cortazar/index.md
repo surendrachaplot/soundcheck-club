@@ -1,6 +1,6 @@
 # Cortazar
 
-Cortazar is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Cadavra, Madrid on Fri, 18 Sept 2026.
+Cortazar is a Tech House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Cadavra, Madrid on Fri, 18 Sept 2026.
 
 Cortazar is a tech house and progressive house artist tracked on soundcheck, with 15 sets logged across Barcelona, Madrid and Mexicocity. Often billed alongside Orson Sinaka, Almuedo and Natural Goofy. Next up: Cadavra, Madrid on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Cortazar is a tech house and progressive house artist tracked on soundcheck, wit
 
 Orson Sinaka, Almuedo, Natural Goofy
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cortazar/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cortazar/)*

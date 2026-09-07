@@ -1,6 +1,6 @@
 # Pavo seifi
 
-Pavo seifi is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - BIRJA² , Tbilisi on Sat, 19 Sept 2026.
+Pavo seifi is a Electro and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - BIRJA² , Tbilisi on Sat, 19 Sept 2026.
 
 Pavo seifi is an electro and minimal artist tracked on soundcheck, with 2 sets logged across Bali and Tbilisi. Often billed alongside Morteza Minouei. Next up: TBA - BIRJA² , Tbilisi on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Pavo seifi is an electro and minimal artist tracked on soundcheck, with 2 sets l
 
 Morteza Minouei
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pavoseifi/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pavoseifi/)*

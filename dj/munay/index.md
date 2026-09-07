@@ -1,6 +1,6 @@
 # Munay
 
-Munay is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Onder Hans, Amsterdam on Thu, 1 Oct 2026.
+Munay is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Onder Hans, Amsterdam on Thu, 1 Oct 2026.
 
 Munay is a house and deep house artist based in Netherlands, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona and London. Often billed alongside Judoc, Julien Simmons and Major K. Next up: Onder Hans, Amsterdam on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Munay is a house and deep house artist based in Netherlands, tracked on soundche
 
 Judoc, Julien Simmons, Major K
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munay/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/munay/)*

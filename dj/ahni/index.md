@@ -1,6 +1,6 @@
 # Ahni
 
-Ahni is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Neukölln Secret Location, Berlin on Fri, 11 Sept 2026.
+Ahni is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Neukölln Secret Location, Berlin on Fri, 11 Sept 2026.
 
 Ahni is a house and tech house artist based in Australia, tracked on soundcheck, with 31 sets logged across Berlin. Often billed alongside Manta, Inga Sama and materia hache. Next up: TBA - Neukölln Secret Location, Berlin on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Ahni is a house and tech house artist based in Australia, tracked on soundcheck,
 
 Manta, Inga Sama, materia hache
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahni/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahni/)*

@@ -1,6 +1,6 @@
 # CatLadyHi
 
-CatLadyHi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Dead Letter No. 9, New York City on Thu, 24 Sept 2026.
+CatLadyHi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Dead Letter No. 9, New York City on Thu, 24 Sept 2026.
 
 CatLadyHi is a house and tech house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Newyorkcity. Often billed alongside Miss Hazard, Beltran and Eric Modz. Next up: Dead Letter No. 9, Newyorkcity on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ CatLadyHi is a house and tech house artist based in United States of America, tr
 
 Miss Hazard, Beltran, Eric Modz
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/catladyhi/)*

@@ -1,6 +1,6 @@
 # Arnau Obiols
 
-Arnau Obiols is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
+Arnau Obiols is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Nitsa Club, Barcelona on Sat, 19 Sept 2026.
 
 Arnau Obiols is a house and electronica artist tracked on soundcheck, with 103 sets logged across Barcelona, Ibiza, London and Madrid. Often billed alongside Cucut, Arnau and Adria (ES). Next up: Nitsa Club, Barcelona on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Arnau Obiols is a house and electronica artist tracked on soundcheck, with 103 s
 
 Cucut, Arnau, Adria (ES)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arnauobiols/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arnauobiols/)*

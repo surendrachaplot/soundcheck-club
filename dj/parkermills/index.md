@@ -1,6 +1,6 @@
 # Parker Mills
 
-Parker Mills is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The Monkey Loft, Seattle on Fri, 18 Sept 2026.
+Parker Mills is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Monkey Loft, Seattle on Fri, 18 Sept 2026.
 
 Parker Mills is a house and techno artist tracked on soundcheck, with 18 sets logged across Seattle and Washingtondc. Often billed alongside Avignon, Christine Michelle and Eliogold. Next up: The Monkey Loft, Seattle on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Parker Mills is a house and techno artist tracked on soundcheck, with 18 sets lo
 
 Avignon, Christine Michelle, Eliogold
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parkermills/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parkermills/)*

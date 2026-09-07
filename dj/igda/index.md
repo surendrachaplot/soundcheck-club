@@ -1,6 +1,6 @@
 # IGDA
 
-IGDA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat, 12 Sept 2026.
+IGDA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat, 12 Sept 2026.
 
 IGDA is a techno and trance artist tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 17 more. Often billed alongside NOTMYTYPE (2), A.N.I. and Kø:lab. Next up: TBA - New Secret Location - 5 min Walk from S Buckower Chaussee , Berlin on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ IGDA is a techno and trance artist tracked on soundcheck, with 90 sets logged ac
 
 NOTMYTYPE (2), A.N.I., Kø:lab
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/igda/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/igda/)*

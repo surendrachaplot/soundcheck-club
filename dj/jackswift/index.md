@@ -1,14 +1,13 @@
 # Jack Swift
 
-Jack Swift is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Lab11, Birmingham on Sat, 5 Sept 2026.
+Jack Swift is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at UNO MALTA, Malta on Thu, 24 Sept 2026.
 
-Jack Swift is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Birmingham, London, Malta and Manchester. Often billed alongside Boon (UK), Devstar and Steven Cee. Next up: Lab11, Birmingham on Sat 5 Sept.
+Jack Swift is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Birmingham, London, Malta and Manchester. Often billed alongside Boon (UK), Devstar and Steven Cee. Next up: UNO MALTA, Malta on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Lab11 | Birmingham |
 | Thu, 24 Sept 2026 | UNO MALTA | Malta |
 
 ## Recently played
@@ -26,4 +25,4 @@ Jack Swift is a house and deep house artist based in United Kingdom, tracked on 
 
 Boon (UK), Devstar, Steven Cee
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackswift/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackswift/)*

@@ -1,6 +1,6 @@
 # DATSKO
 
-DATSKO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 14 Sept 2026.
+DATSKO is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 14 Sept 2026.
 
 DATSKO is a techno and trance artist tracked on soundcheck, with 75 sets logged across Aberdeen, Amsterdam, Antwerp and Belfast and 24 more. Often billed alongside Black Traffic, blk. and Jezza & Jod. Next up: Amnesia Ibiza, Ibiza on Mon 14 Sept.
 
@@ -26,4 +26,4 @@ DATSKO is a techno and trance artist tracked on soundcheck, with 75 sets logged 
 
 Black Traffic, blk., Jezza & Jod
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*

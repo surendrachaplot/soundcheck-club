@@ -1,14 +1,15 @@
 # Rëgret
 
-Rëgret is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Nakano Heavysick Zero, Tokyo on Sat, 12 Sept 2026.
+Rëgret is a Hardcore and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Nakano Heavysick Zero, Tokyo on Sat, 12 Sept 2026.
 
-Rëgret is a hardcore and gabber artist based in Japan, tracked on soundcheck, with 12 sets logged across Osaka and Tokyo. Often billed alongside kakepon, matres and CH1LL. Next up: Nakano Heavysick Zero, Tokyo on Sat 12 Sept.
+Rëgret is a hardcore and bass artist based in Japan, tracked on soundcheck, with 13 sets logged across Osaka and Tokyo. Often billed alongside kakepon, matres and CH1LL. Next up: Nakano Heavysick Zero, Tokyo on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Nakano Heavysick Zero | Tokyo |
+| Sat, 7 Nov 2026 | clubasia | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rëgret is a hardcore and gabber artist based in Japan, tracked on soundcheck, w
 
 kakepon, matres, CH1LL
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regret/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/regret/)*

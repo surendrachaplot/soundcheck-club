@@ -1,6 +1,6 @@
 # Antrim
 
-Antrim is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Antrim is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Antrim is a progressive house and techno artist tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Buenosaires and Dublin and 7 more. Often billed alongside Nicolas Rada, Kamilo Sanclemente and Marcelo Vasami. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Antrim is a progressive house and techno artist tracked on soundcheck, with 39 s
 
 Nicolas Rada, Kamilo Sanclemente, Marcelo Vasami
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antrim/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antrim/)*

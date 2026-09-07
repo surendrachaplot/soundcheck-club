@@ -1,17 +1,13 @@
-# Make-Out Room
+# Make Out Room
 
-Make-Out Room is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "VINYLISSIMO" on Fri, 11 Sept 2026.
+Make Out Room is a music venue in San Francisco/Oakland with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Paradiso" on Tue, 8 Sept 2026.
 
-Make-Out Room is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Nino Msk. Browse upcoming dates, start times and who's playing. 3225 22nd Street, San Francisco, CA 94110.
+Make Out Room is a music venue in Sanfrancisco listed on soundcheck. 1 upcoming night, with line-ups including Carla Lyn. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | VINYLISSIMO | Nino Msk |
+| Tue, 8 Sept 2026 | Paradiso | Carla Lyn |
 
-## Address
-
-3225 22nd Street, San Francisco, CA 94110, San Francisco/Oakland
-
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/make-out-room/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/make-out-room/)*

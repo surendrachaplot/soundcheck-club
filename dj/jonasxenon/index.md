@@ -1,14 +1,13 @@
 # Jonas Xenon
 
-Jonas Xenon is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Jonny Knüppel, Berlin on Sat, 5 Sept 2026.
+Jonas Xenon is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
 
-Jonas Xenon is a techno and trance artist tracked on soundcheck, with 44 sets logged across Berlin, Dublin, Edinburgh and Newyorkcity and 6 more. Often billed alongside Mython, E2NMN and Perc. Next up: Jonny Knüppel, Berlin on Sat 5 Sept.
+Jonas Xenon is a techno and trance artist tracked on soundcheck, with 44 sets logged across Berlin, Dublin, Edinburgh and Newyorkcity and 6 more. Often billed alongside Mython, E2NMN and Perc. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Jonny Knüppel | Berlin |
 | Fri, 9 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Jonas Xenon is a techno and trance artist tracked on soundcheck, with 44 sets lo
 
 Mython, E2NMN, Perc
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasxenon/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasxenon/)*

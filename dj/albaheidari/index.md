@@ -1,14 +1,13 @@
 # Alba Heidari
 
-Alba Heidari is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at FOLD, London on Sat, 5 Sept 2026.
+Alba Heidari is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Phonox, London on Sat, 19 Sept 2026.
 
-Alba Heidari is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Copenhagen and London and 3 more. Often billed alongside James Newmarch, Voicedrone and Anabel Arroyo. Next up: FOLD, London on Sat 5 Sept.
+Alba Heidari is a techno and house artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Copenhagen and London and 3 more. Often billed alongside James Newmarch, Voicedrone and Anabel Arroyo. Next up: Phonox, London on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | FOLD | London |
 | Sat, 19 Sept 2026 | Phonox | London |
 
 ## Recently played
@@ -26,4 +25,4 @@ Alba Heidari is a techno and house artist tracked on soundcheck, with 49 sets lo
 
 James Newmarch, Voicedrone, Anabel Arroyo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albaheidari/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/albaheidari/)*

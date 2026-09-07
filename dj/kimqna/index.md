@@ -1,6 +1,6 @@
 # Kim.Qna
 
-Kim.Qna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Horn, Bangkok on Sat, 12 Sept 2026.
+Kim.Qna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Horn, Bangkok on Sat, 12 Sept 2026.
 
 Kim.Qna is a techno and house artist tracked on soundcheck, with 181 sets logged across Bangkok, Hongkong, Osaka and Seoul and 2 more. Often billed alongside Zeemen, DJ Funny and Gumi. Next up: Horn, Bangkok on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Kim.Qna is a techno and house artist tracked on soundcheck, with 181 sets logged
 
 Zeemen, DJ Funny, Gumi
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimqna/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimqna/)*

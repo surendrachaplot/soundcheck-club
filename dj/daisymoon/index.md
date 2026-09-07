@@ -1,6 +1,6 @@
 # Daisy Moon
 
-Daisy Moon is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Strange Brew, Bristol on Fri, 11 Sept 2026.
+Daisy Moon is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Strange Brew, Bristol on Fri, 11 Sept 2026.
 
 Daisy Moon is a house and techno artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Berlin, Bristol, Brussels and Glasgow and 7 more. Often billed alongside Shanti Celeste, Golesworthy and Jorg Kuning. Next up: Strange Brew, Bristol on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Daisy Moon is a house and techno artist based in United Kingdom, tracked on soun
 
 Shanti Celeste, Golesworthy, Jorg Kuning
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daisymoon/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daisymoon/)*

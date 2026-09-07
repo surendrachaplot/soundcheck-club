@@ -1,6 +1,6 @@
 # Teranoma Tidepool
 
-Teranoma Tidepool is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Odyssey" on Sun, 20 Sept 2026.
+Teranoma Tidepool is a music venue in Osaka with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Odyssey" on Sun, 20 Sept 2026.
 
 Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 2 upcoming nights, with line-ups including Mercy. and Nanako Yamane. Browse upcoming dates, start times and who's playing. 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F.
 
@@ -15,4 +15,4 @@ Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 2 upcoming nig
 
 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F, Osaka
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/teranoma-tidepool/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/teranoma-tidepool/)*

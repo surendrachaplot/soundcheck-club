@@ -1,6 +1,6 @@
 # Mariano Montori
 
-Mariano Montori is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
+Mariano Montori is a Afro House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
 
 Mariano Montori is an afro house and deep house artist tracked on soundcheck, with 10 sets logged across Barcelona, Copenhagen and Dublin. Often billed alongside Alex Rush, BIØY and Fat-P. Next up: Port Olimpic, Barcelona on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Mariano Montori is an afro house and deep house artist tracked on soundcheck, wi
 
 Alex Rush, BIØY, Fat-P
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomontori/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomontori/)*

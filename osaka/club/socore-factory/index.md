@@ -1,6 +1,6 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 31 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "TRAMHAUS JAPAN TOUR 2026 TONE FLAKES Vol.173" on Tue, 8 Sept 2026.
+Socore Factory is a music venue in Osaka with 31 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "TRAMHAUS JAPAN TOUR 2026 TONE FLAKES Vol.173" on Tue, 8 Sept 2026.
 
 Socore Factory is a music venue in Osaka listed on soundcheck. 31 upcoming nights, with line-ups including Akira, ALUCA, ANCHIN and Century and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
@@ -23,4 +23,4 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 31 upcoming night
 
 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan, Osaka
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/socore-factory/)*

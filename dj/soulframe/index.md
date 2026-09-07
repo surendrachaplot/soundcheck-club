@@ -1,6 +1,6 @@
 # soulframe
 
-soulframe is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at The DBA, Manchester on Thu, 10 Sept 2026.
+soulframe is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The DBA, Manchester on Thu, 10 Sept 2026.
 
 soulframe is a techno and club artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Leeds and Manchester. Often billed alongside Lotus Phaze, IDACARE and PSK (IN). Next up: The DBA, Manchester on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ soulframe is a techno and club artist based in United Kingdom, tracked on soundc
 
 Lotus Phaze, IDACARE, PSK (IN)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulframe/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soulframe/)*

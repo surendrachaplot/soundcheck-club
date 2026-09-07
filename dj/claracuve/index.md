@@ -1,14 +1,13 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Industry City, New York City on Sat, 5 Sept 2026.
+Clara Cuvé is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Roxy, Prague on Fri, 11 Sept 2026.
 
-Clara Cuvé is a techno and house artist tracked on soundcheck, with 233 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Kobosil, 999999999 and I Hate Models. Next up: Industry City, Newyorkcity on Sat 5 Sept.
+Clara Cuvé is a techno and house artist tracked on soundcheck, with 233 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Kobosil, 999999999 and I Hate Models. Next up: Roxy, Prague on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | Industry City | New York City |
 | Fri, 11 Sept 2026 | Roxy | Prague |
 | Fri, 18 Sept 2026 | Fuse | Brussels |
 | Sat, 19 Sept 2026 | Tapada da Ajuda | Lisbon |
@@ -20,6 +19,7 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 233 sets lo
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Fri, 6 Nov 2026 | OST | Berlin |
+| Fri, 4 Dec 2026 | MFCC Arena | Malta |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Clara Cuvé is a techno and house artist tracked on soundcheck, with 233 sets lo
 
 Kobosil, 999999999, I Hate Models
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

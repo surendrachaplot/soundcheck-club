@@ -1,14 +1,13 @@
 # An Chen
 
-An Chen is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at La Cova, Hamburg on Sat, 5 Sept 2026.
+An Chen is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at ROSA, Berlin on Sat, 19 Sept 2026.
 
-An Chen is a techno and industrial artist based in Taiwan, tracked on soundcheck, with 21 sets logged across Berlin, Hamburg, Miami and Munich and 2 more. Often billed alongside Meka, Purdy and ANDRÉS GARCIL. Next up: La Cova, Hamburg on Sat 5 Sept.
+An Chen is a techno and industrial artist based in Taiwan, tracked on soundcheck, with 21 sets logged across Berlin, Hamburg, Miami and Munich and 2 more. Often billed alongside Meka, Purdy and ANDRÉS GARCIL. Next up: ROSA, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Sept 2026 | La Cova | Hamburg |
 | Sat, 19 Sept 2026 | ROSA | Berlin |
 | Fri, 25 Sept 2026 | Rote Sonne | Munich |
 
@@ -27,4 +26,4 @@ An Chen is a techno and industrial artist based in Taiwan, tracked on soundcheck
 
 Meka, Purdy, ANDRÉS GARCIL
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anchen/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anchen/)*

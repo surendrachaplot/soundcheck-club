@@ -1,6 +1,6 @@
 # Ronnie Deelen
 
-Ronnie Deelen is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at St John On Bethnal Green, London on Fri, 25 Sept 2026.
+Ronnie Deelen is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at St John On Bethnal Green, London on Fri, 25 Sept 2026.
 
 Ronnie Deelen is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Kinga Janicka, Simon Mós and AM sin. Next up: St John On Bethnal Green, London on Fri 25 Sept.
 
@@ -20,4 +20,4 @@ Ronnie Deelen is an experimental and ambient artist based in United Kingdom, tra
 
 Kinga Janicka, Simon Mós, AM sin
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronniedeelen/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronniedeelen/)*

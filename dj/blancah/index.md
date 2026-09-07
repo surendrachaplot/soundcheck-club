@@ -1,6 +1,6 @@
 # BLANCAh
 
-BLANCAh is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at TBA - Grand Hall, La Plata, Buenos Aires on Sat, 3 Oct 2026.
+BLANCAh is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Grand Hall, La Plata, Buenos Aires on Sat, 3 Oct 2026.
 
 BLANCAh is a techno and progressive house artist tracked on soundcheck, with 14 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 1 more. Often billed alongside 8KAYS, Acid Asian and Alex Kennon. Next up: TBA - Grand Hall, La Plata, Buenosaires on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ BLANCAh is a techno and progressive house artist tracked on soundcheck, with 14 
 
 8KAYS, Acid Asian, Alex Kennon
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blancah/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blancah/)*

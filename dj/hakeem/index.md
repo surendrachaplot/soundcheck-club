@@ -1,6 +1,6 @@
 # Hakeem
 
-Hakeem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Jolene, Copenhagen on Sat, 12 Sept 2026.
+Hakeem is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Jolene, Copenhagen on Sat, 12 Sept 2026.
 
 Hakeem is a house and techno artist based in United States of America, tracked on soundcheck, with 11 sets logged across Copenhagen and Oslo. Often billed alongside Baime, DJ Nah Care and Gavnlig. Next up: Jolene, Copenhagen on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Hakeem is a house and techno artist based in United States of America, tracked o
 
 Baime, DJ Nah Care, Gavnlig
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hakeem/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hakeem/)*

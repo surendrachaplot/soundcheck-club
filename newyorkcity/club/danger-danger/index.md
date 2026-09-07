@@ -1,6 +1,6 @@
 # Danger Danger
 
-Danger Danger is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Danger Danger presents Fiona Jane + Refrakt (Rsvp Req'd)" on Wed, 9 Sept 2026.
+Danger Danger is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Danger Danger presents Fiona Jane + Refrakt (Rsvp Req'd)" on Wed, 9 Sept 2026.
 
 Danger Danger is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Bachtroy, Fiona Jane, Marjan and Michael Trotter and 2 more. Browse upcoming dates, start times and who's playing. 232 Knickerbocker Ave, New York, 11237.
 
@@ -17,4 +17,4 @@ Danger Danger is a music venue in Newyorkcity listed on soundcheck. 4 upcoming n
 
 232 Knickerbocker Ave, New York, 11237, New York City
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/danger-danger/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/danger-danger/)*

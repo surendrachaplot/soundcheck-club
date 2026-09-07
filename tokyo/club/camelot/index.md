@@ -1,6 +1,6 @@
 # Camelot
 
-Camelot is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Bondage Ball Tokyo" on Sun, 20 Sept 2026.
+Camelot is a music venue in Tokyo with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Bondage Ball Tokyo" on Sun, 20 Sept 2026.
 
 Camelot is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with line-ups including DJ ZiL, EMILIO (3), Jupiter Gatling and SiSeN and 1 more. Browse upcoming dates, start times and who's playing. 1-18-2 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
 
@@ -14,4 +14,4 @@ Camelot is a music venue in Tokyo listed on soundcheck. 1 upcoming night, with l
 
 1-18-2 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan, Tokyo
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/camelot/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/camelot/)*

@@ -1,6 +1,6 @@
 # Grio
 
-Grio is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Kippo: Live at GRIO" on Sat, 19 Sept 2026.
+Grio is a music venue in Vancouver with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Kippo: Live at GRIO" on Sat, 19 Sept 2026.
 
 Grio is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Grio is a music venue in Vancouver listed on soundcheck. 1 upcoming night. Brows
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Kippo: Live at GRIO |  |
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/grio/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/grio/)*

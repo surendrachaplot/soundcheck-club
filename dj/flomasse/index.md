@@ -1,13 +1,14 @@
 # Flo Massé
 
-Flo Massé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Stereo, Montreal on Sat, 12 Sept 2026.
+Flo Massé is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at feedbk, New York City on Mon, 7 Sept 2026.
 
-Flo Massé is a house and techno artist tracked on soundcheck, with 115 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside Jolly (FR), DJ Gamba and P.O (1). Next up: Stereo, Montreal on Sat 12 Sept.
+Flo Massé is a house and techno artist tracked on soundcheck, with 116 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside Jolly (FR), DJ Gamba and P.O (1). Next up: feedbk, Newyorkcity on Mon 7 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 7 Sept 2026 | feedbk | New York City |
 | Sat, 12 Sept 2026 | Stereo | Montreal |
 | Thu, 17 Sept 2026 | 303 Audiophile Bar | Barcelona |
 | Sat, 26 Sept 2026 | Haus der Visionäre | Berlin |
@@ -27,4 +28,4 @@ Flo Massé is a house and techno artist tracked on soundcheck, with 115 sets log
 
 Jolly (FR), DJ Gamba, P.O (1)
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*

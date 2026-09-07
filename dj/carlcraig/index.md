@@ -1,15 +1,14 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Carl Craig is a House and Techno artist with 18 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
 
-Carl Craig is a house and techno artist tracked on soundcheck, with 271 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Union Park, Chicago on Fri 4 Sept.
+Carl Craig is a house and techno artist tracked on soundcheck, with 272 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Union Park, Chicago on Fri 4 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Sept 2026 | Union Park | Chicago |
-| Sun, 6 Sept 2026 | TV Lounge | Detroit |
 | Thu, 10 Sept 2026 | Chinois Ibiza | Ibiza |
 | Fri, 11 Sept 2026 | Silencio | Paris |
 | Sat, 12 Sept 2026 | P.za Ventiquattro Maggio | Milan |
@@ -19,10 +18,12 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 271 sets log
 | Fri, 18 Sept 2026 | FOLD | London |
 | Sat, 19 Sept 2026 | REC Napoli | Naples |
 | Thu, 24 Sept 2026 | Chinois Ibiza | Ibiza |
+| Mon, 28 Sept 2026 | DC-10 | Ibiza |
 | Sat, 3 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 
 ## Recently played
 
+- TV Lounge, Detroit — Sun, 6 Sept 2026
 - smartbar, Chicago — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Gewölbe, Cologne — Sat, 22 Aug 2026
@@ -30,10 +31,9 @@ Carl Craig is a house and techno artist tracked on soundcheck, with 271 sets log
 - Under the K Bridge, New York City — Sat, 15 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 7 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
-- Chinois Ibiza, Ibiza — Thu, 30 Jul 2026
 
 ## Shares bills with
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

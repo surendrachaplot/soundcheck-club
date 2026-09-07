@@ -1,6 +1,6 @@
 # KIM SWIM
 
-KIM SWIM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at UNDERCITY, Seoul on Sat, 19 Sept 2026.
+KIM SWIM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at UNDERCITY, Seoul on Sat, 19 Sept 2026.
 
 KIM SWIM is a techno and trance artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Basel and Berlin and 19 more. Often billed alongside Mika Heggemann, Trancemaster Krause and Alba Franch. Next up: UNDERCITY, Seoul on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ KIM SWIM is a techno and trance artist tracked on soundcheck, with 105 sets logg
 
 Mika Heggemann, Trancemaster Krause, Alba Franch
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimswim/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimswim/)*

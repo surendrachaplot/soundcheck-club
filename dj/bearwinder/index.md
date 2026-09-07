@@ -1,6 +1,6 @@
 # Bear Winder
 
-Bear Winder is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Port of Leith Distillery, Edinburgh on Sat, 12 Sept 2026.
+Bear Winder is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Port of Leith Distillery, Edinburgh on Sat, 12 Sept 2026.
 
 Bear Winder is a house and garage artist tracked on soundcheck, with 41 sets logged across Edinburgh, London, Manchester and Melbourne. Often billed alongside Zak Miller, Jeremy Sylvester and Tiffany Quinn. Next up: Port of Leith Distillery, Edinburgh on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Bear Winder is a house and garage artist tracked on soundcheck, with 41 sets log
 
 Zak Miller, Jeremy Sylvester, Tiffany Quinn
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bearwinder/)*

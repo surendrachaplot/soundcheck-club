@@ -1,6 +1,6 @@
 # max whatever
 
-max whatever is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 10 Oct 2026.
+max whatever is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 10 Oct 2026.
 
 max whatever is a techno and progressive house artist based in Ukraine, tracked on soundcheck, with 25 sets logged across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and fiedorka. Next up: K-Bar Powiśle, Warsaw on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ max whatever is a techno and progressive house artist based in Ukraine, tracked 
 
 Abrew, dj.zamocno, fiedorka
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwhatever/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwhatever/)*

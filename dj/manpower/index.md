@@ -1,8 +1,8 @@
 # Man Power
 
-Man Power is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Sun, 6 Sept 2026, next at Tyneside Cinema, Newcastle on Fri, 18 Sept 2026.
+Man Power is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Tyneside Cinema, Newcastle on Fri, 18 Sept 2026.
 
-Man Power is a house and techno artist tracked on soundcheck, with 98 sets logged across Bali, Bangkok, Barcelona and Belfast and 25 more. Often billed alongside ROSIE, Megan Leo and Ewan McVicar. Next up: Tyneside Cinema, Newcastle on Fri 18 Sept.
+Man Power is a house and techno artist tracked on soundcheck, with 99 sets logged across Bali, Bangkok, Barcelona and Belfast and 25 more. Often billed alongside ROSIE, Megan Leo and Ewan McVicar. Next up: Tyneside Cinema, Newcastle on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Man Power is a house and techno artist tracked on soundcheck, with 98 sets logge
 | Sat, 10 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sun, 11 Oct 2026 | Kiku Room | San Diego |
 | Sat, 31 Oct 2026 | Are You Affiliated | Newcastle |
+| Sat, 5 Dec 2026 | Are You Affiliated | Newcastle |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Man Power is a house and techno artist tracked on soundcheck, with 98 sets logge
 
 ROSIE, Megan Leo, Ewan McVicar
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*

@@ -1,6 +1,6 @@
 # Andrea Burns
 
-Andrea Burns is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Sun, 6 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 12 Sept 2026.
+Andrea Burns is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Warehouse on Watts, Philadelphia on Sat, 12 Sept 2026.
 
 Andrea Burns is a bass and techno artist tracked on soundcheck, with 8 sets logged across Philadelphia and Washingtondc. Often billed alongside Caiya, GorpoPap and Abby J.. Next up: Warehouse on Watts, Philadelphia on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ Andrea Burns is a bass and techno artist tracked on soundcheck, with 8 sets logg
 
 Caiya, GorpoPap, Abby J.
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaburns/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaburns/)*

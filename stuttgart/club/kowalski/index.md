@@ -1,14 +1,13 @@
 # Kowalski
 
-Kowalski is a music venue in Stuttgart with 5 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "WYS¿ X Rhythmé - Kowalski Terrasse - Daydrinking" on Sun, 6 Sept 2026.
+Kowalski is a music venue in Stuttgart with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "HERZ & SEELE w./ Hidden Empire, Milla Lou, Femcat" on Fri, 11 Sept 2026.
 
-Kowalski is a music venue in Stuttgart listed on soundcheck. 5 upcoming nights, with line-ups including Jochen Pash. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
+Kowalski is a music venue in Stuttgart listed on soundcheck. 4 upcoming nights, with line-ups including Jochen Pash. Browse upcoming dates, start times and who's playing. Kriegsbergstr. 28, 70174 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | WYS¿ X Rhythmé - Kowalski Terrasse - Daydrinking |  |
 | Fri, 11 Sept 2026 | HERZ & SEELE w./ Hidden Empire, Milla Lou, Femcat |  |
 | Sat, 12 Sept 2026 | KOWA SAMSTAG • LO LEE • RIMALA |  |
 | Sun, 13 Sept 2026 | SONNTAGS TERRASSE - Asmara & Jochen Pash | Jochen Pash |
@@ -18,4 +17,4 @@ Kowalski is a music venue in Stuttgart listed on soundcheck. 5 upcoming nights, 
 
 Kriegsbergstr. 28, 70174 Stuttgart, Germany, Stuttgart
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/kowalski/)*

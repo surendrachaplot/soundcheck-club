@@ -1,6 +1,6 @@
-# Refractor On Tour London ● 5th Anniversary ● at Gaffe
+# Refractor On Tour: London ● 5th Anniversary ● at Gaffe
 
-Refractor On Tour London ● 5th Anniversary ● at Gaffe on Fri 18 Sept, London. 4 acts on the bill: Feral, Jan Swam, Timnah and TSUNIMAN. Trance and Techno. Preview the line-up and save it on soundcheck.
+Refractor On Tour: London ● 5th Anniversary ● at Gaffe on Fri 18 Sept, London. 4 acts on the bill: Feral, Jan Swam, Timnah and TSUNIMAN. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

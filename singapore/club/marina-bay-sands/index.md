@@ -1,6 +1,6 @@
 # Marina Bay Sands
 
-Marina Bay Sands is a music venue in Singapore with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Health 2.0 Conference Singapore" on Wed, 2 Dec 2026.
+Marina Bay Sands is a music venue in Singapore with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Health 2.0 Conference Singapore" on Wed, 2 Dec 2026.
 
 Marina Bay Sands is a music venue in Singapore listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Marina Bay Sands, Marina Bay Singapore..
 
@@ -14,4 +14,4 @@ Marina Bay Sands is a music venue in Singapore listed on soundcheck. 1 upcoming 
 
 Marina Bay Sands, Marina Bay Singapore., Singapore
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/marina-bay-sands/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/marina-bay-sands/)*

@@ -1,6 +1,6 @@
 # Tempo Rubato
 
-Tempo Rubato is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Abby Sundborn Holding Pattern Launch with Lara" on Mon, 28 Sept 2026.
+Tempo Rubato is a music venue in Melbourne with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Abby Sundborn Holding Pattern Launch with Lara" on Mon, 28 Sept 2026.
 
 Tempo Rubato is a music venue in Melbourne listed on soundcheck. 1 upcoming night, with line-ups including Abby Sundborn. Browse upcoming dates, start times and who's playing. 34 Breese St, Brunswick VIC 3056.
 
@@ -14,4 +14,4 @@ Tempo Rubato is a music venue in Melbourne listed on soundcheck. 1 upcoming nigh
 
 34 Breese St, Brunswick VIC 3056, Melbourne
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tempo-rubato/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tempo-rubato/)*

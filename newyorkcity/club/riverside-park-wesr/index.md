@@ -1,6 +1,6 @@
 # Riverside Park Wesr
 
-Riverside Park Wesr is a music venue in New York City with 1 upcoming night listed on soundcheck as of Sun, 6 Sept 2026; the next is "Rotary Club of Harlem" on Sat, 12 Sept 2026.
+Riverside Park Wesr is a music venue in New York City with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Rotary Club of Harlem" on Sat, 12 Sept 2026.
 
 Riverside Park Wesr is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Riverside Park Wesr is a music venue in Newyorkcity listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Rotary Club of Harlem |  |
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/riverside-park-wesr/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/riverside-park-wesr/)*

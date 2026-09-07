@@ -1,14 +1,13 @@
 # Bahnwärter Thiel
 
-Bahnwärter Thiel is a music venue in Munich with 10 upcoming nights listed on soundcheck as of Sun, 6 Sept 2026; the next is "Bahnwärter Thiel Live & Open Air mit Christian Löffler" on Sun, 6 Sept 2026.
+Bahnwärter Thiel is a music venue in Munich with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "135+ mit Unikat & Halligalli.with.friends" on Thu, 10 Sept 2026.
 
-Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 10 upcoming nights, with line-ups including 9LALEY, ACE [DE], Alicea and antyo and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
+Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 9 upcoming nights, with line-ups including 9LALEY, ACE [DE], Alicea and antyo and 2 more. Browse upcoming dates, start times and who's playing. Tumblingerstraße 29, 80333 München.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sun, 6 Sept 2026 | Bahnwärter Thiel Live & Open Air mit Christian Löffler |  |
 | Thu, 10 Sept 2026 | 135+ mit Unikat & Halligalli.with.friends | ACE [DE], FFZG, MXML_VWRRT |
 | Fri, 11 Sept 2026 | Freitag mit Pauli Pocket / Bahnwärter Thiel | Emel White, Moritz Butschek, Pauli Pocket, Silvi Knallt |
 | Sat, 12 Sept 2026 | Bahnsteig Open Air & Club mit Elisa Elisa | Elisa Elisa, Tala Berg, Wanda Wild |
@@ -23,4 +22,4 @@ Bahnwärter Thiel is a music venue in Munich listed on soundcheck. 10 upcoming n
 
 Tumblingerstraße 29, 80333 München, Munich
 
-*Updated Sun, 6 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
+*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/bahnw-rter-thiel/)*
