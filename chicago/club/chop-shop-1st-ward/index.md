@@ -1,6 +1,6 @@
 # Chop Shop & 1st Ward
 
-Chop Shop & 1st Ward is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Nooriyah + Everywhere Between (DJ Set) + A. Parssi" on Sat, 12 Sept 2026.
+Chop Shop & 1st Ward is a music venue in Chicago with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Nooriyah + Everywhere Between (DJ Set) + A. Parssi" on Sat, 12 Sept 2026.
 
 Chop Shop & 1st Ward is a music venue in Chicago listed on soundcheck. 2 upcoming nights, with line-ups including Alix Perez, HIJINX and Nooriyah. Browse upcoming dates, start times and who's playing. 2033 W North Ave; Chicago; IL 60647; United States.
 
@@ -15,4 +15,4 @@ Chop Shop & 1st Ward is a music venue in Chicago listed on soundcheck. 2 upcomin
 
 2033 W North Ave; Chicago; IL 60647; United States, Chicago
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/chop-shop-1st-ward/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/chop-shop-1st-ward/)*

@@ -1,8 +1,8 @@
 # David Penn
 
-David Penn is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+David Penn is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-David Penn is a house and tech house artist tracked on soundcheck, with 70 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 10 more. Often billed alongside Ferreck Dawn, Low Steppa and Mousse T.. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+David Penn is a house and tech house artist tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Brisbane and Bristol and 10 more. Often billed alongside Ferreck Dawn, Low Steppa and Mousse T.. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ David Penn is a house and tech house artist tracked on soundcheck, with 70 sets 
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Madam | Amsterdam |
 | Sat, 24 Oct 2026 | fabric | London |
+| Sun, 6 Dec 2026 | Felons Barrel Hall | Brisbane |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ David Penn is a house and tech house artist tracked on soundcheck, with 70 sets 
 
 Ferreck Dawn, Low Steppa, Mousse T.
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*

@@ -1,6 +1,6 @@
 # 3en
 
-3en is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Aether Club Budapest, Budapest on Sat, 19 Sept 2026.
+3en is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Aether Club Budapest, Budapest on Sat, 19 Sept 2026.
 
 3en is a techno and ebm artist based in Hungary, tracked on soundcheck, with 43 sets logged across Budapest. Often billed alongside And/Or, AGA2L and Daniel Moritz. Next up: Aether Club Budapest, Budapest on Sat 19 Sept.
 
@@ -25,4 +25,4 @@
 
 And/Or, AGA2L, Daniel Moritz
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3en/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/3en/)*

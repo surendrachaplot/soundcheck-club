@@ -1,6 +1,6 @@
 # ogtrues
 
-ogtrues is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bar15, Stockholm on Fri, 11 Sept 2026.
+ogtrues is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bar15, Stockholm on Fri, 11 Sept 2026.
 
 ogtrues is a techno and house artist tracked on soundcheck, with 66 sets logged across Amsterdam, Berlin, Dusseldorf and Frankfurt and 5 more. Often billed alongside Primal State, BBetriebswirt and Freya K.. Next up: Bar15, Stockholm on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ ogtrues is a techno and house artist tracked on soundcheck, with 66 sets logged 
 
 Primal State, BBetriebswirt, Freya K.
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogtrues/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ogtrues/)*

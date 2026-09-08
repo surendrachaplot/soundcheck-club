@@ -1,6 +1,6 @@
 # IKAKO
 
-IKAKO is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Oven Club, Valencia on Fri, 18 Sept 2026.
+IKAKO is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Oven Club, Valencia on Fri, 18 Sept 2026.
 
 IKAKO is a tech house and house artist tracked on soundcheck, with 42 sets logged across Tbilisi and Valencia. Often billed alongside BEQA, Gio Shengelia and SUMO. Next up: Oven Club, Valencia on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ IKAKO is a tech house and house artist tracked on soundcheck, with 42 sets logge
 
 BEQA, Gio Shengelia, SUMO
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikako/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikako/)*

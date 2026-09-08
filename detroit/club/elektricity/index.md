@@ -1,6 +1,6 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 18 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Disco Dom" on Fri, 11 Sept 2026.
+Elektricity is a music venue in Detroit with 18 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Disco Dom" on Fri, 11 Sept 2026.
 
 Elektricity is a music venue in Detroit listed on soundcheck. 18 upcoming nights, with line-ups including ARCS, Casey Club, Dantiez and DJ MANDY and 2 more. Browse upcoming dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
@@ -23,4 +23,4 @@ Elektricity is a music venue in Detroit listed on soundcheck. 18 upcoming nights
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

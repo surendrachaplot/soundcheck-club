@@ -1,6 +1,6 @@
 # APRS
 
-APRS is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Start.Bahn - Genezarethkirche, Berlin on Thu, 3 Dec 2026.
+APRS is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Start.Bahn - Genezarethkirche, Berlin on Thu, 3 Dec 2026.
 
 APRS is a techno and ambient artist tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Leipzig and Lisbon. Often billed alongside Serenus, Am Nil and Decoder. Next up: Start.Bahn - Genezarethkirche, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ APRS is a techno and ambient artist tracked on soundcheck, with 39 sets logged a
 
 Serenus, Am Nil, Decoder
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aprs/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aprs/)*

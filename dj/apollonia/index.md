@@ -1,6 +1,6 @@
 # Apollonia
 
-Apollonia is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
+Apollonia is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
 
 Apollonia is a house and techno artist tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Austin and Barcelona and 22 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Shonky. Next up: UNO MALTA, Malta on Thu 17 Sept.
 
@@ -31,4 +31,4 @@ Apollonia is a house and techno artist tracked on soundcheck, with 101 sets logg
 
 Dyed Soundorom, Dan Ghenacia, Shonky
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*

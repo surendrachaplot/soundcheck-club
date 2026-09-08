@@ -1,6 +1,6 @@
 # Fleur Shore
 
-Fleur Shore is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Fleur Shore is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Fleur Shore is a house and tech house artist tracked on soundcheck, with 186 sets logged across Amsterdam, Bali, Barcelona and Basel and 40 more. Often billed alongside Archie Hamilton, Jamie Jones and Mason Collective. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Fleur Shore is a house and tech house artist tracked on soundcheck, with 186 set
 
 Archie Hamilton, Jamie Jones, Mason Collective
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*

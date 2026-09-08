@@ -1,6 +1,6 @@
 # ANTO ZAGU
 
-ANTO ZAGU is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Pracht, Frankfurt on Fri, 11 Sept 2026.
+ANTO ZAGU is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Pracht, Frankfurt on Fri, 11 Sept 2026.
 
 ANTO ZAGU is a house and electronica artist tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Buenosaires and Frankfurt and 3 more. Often billed alongside ARVØW, Alev Tav and Argia. Next up: Pracht, Frankfurt on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ ANTO ZAGU is a house and electronica artist tracked on soundcheck, with 11 sets 
 
 ARVØW, Alev Tav, Argia
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*

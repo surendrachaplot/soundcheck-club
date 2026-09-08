@@ -1,6 +1,6 @@
 # Truly Madly
 
-Truly Madly is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Truly Madly is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
 Truly Madly is a house and tech house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Bali, Barcelona and Berlin and 35 more. Often billed alongside Phill de Janeiro, Benji King and Dr Banana. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ Truly Madly is a house and tech house artist tracked on soundcheck, with 146 set
 
 Phill de Janeiro, Benji King, Dr Banana
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*

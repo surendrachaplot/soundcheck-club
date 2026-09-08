@@ -1,8 +1,8 @@
 # La Fabriek
 
-La Fabriek is a music venue in Brussels with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "æther with Sybil, AERAE [live] & STDJ" on Sat, 19 Sept 2026.
+La Fabriek is a music venue in Brussels with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "æther with Sybil, AERAE [live] & STDJ" on Sat, 19 Sept 2026.
 
-La Fabriek is a music venue in Brussels listed on soundcheck. 2 upcoming nights, with line-ups including AERAE, AFRORACK, Arsenal Mikebe and Authentically Plastic and 2 more. Browse upcoming dates, start times and who's playing. Rue de la petite ile 1A, 1070 Brussels, Belgium.
+La Fabriek is a music venue in Brussels listed on soundcheck. 3 upcoming nights, with line-ups including AERAE, AFRORACK, Arsenal Mikebe and Authentically Plastic and 2 more. Browse upcoming dates, start times and who's playing. Rue de la petite ile 1A, 1070 Brussels, Belgium.
 
 ## What's on
 
@@ -10,9 +10,10 @@ La Fabriek is a music venue in Brussels listed on soundcheck. 2 upcoming nights,
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | æther with Sybil, AERAE [live] & STDJ | AERAE, STDJ, Sybil |
 | Fri, 25 Sept 2026 | Nyege Nyege Mirror World Festival | AFRORACK, Arsenal Mikebe, Authentically Plastic, DJ Travella, De Schuurman, Jay Mitta, Kampire, Masaka Masaka, Nsasi, RMBO |
+| Fri, 9 Oct 2026 | BREAXX X Keep Hush | Coki, KŌMA (3), Maliman, PALA10 |
 
 ## Address
 
 Rue de la petite ile 1A, 1070 Brussels, Belgium, Brussels
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-fabriek/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/la-fabriek/)*

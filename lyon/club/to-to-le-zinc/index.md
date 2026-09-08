@@ -1,6 +1,6 @@
 # Toï Toï, Le Zinc
 
-Toï Toï, Le Zinc is a music venue in Lyon with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Au jour le jour, à la nuit la nuit" on Thu, 10 Sept 2026.
+Toï Toï, Le Zinc is a music venue in Lyon with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Au jour le jour, à la nuit la nuit" on Thu, 10 Sept 2026.
 
 Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 6 upcoming nights. Browse upcoming dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
 
@@ -19,4 +19,4 @@ Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 6 upcoming nig
 
 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne, Lyon
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*

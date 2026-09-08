@@ -1,6 +1,6 @@
 # James Massiah
 
-James Massiah is a Dancehall and Experimental artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Night Cat, Melbourne on Thu, 24 Sept 2026.
+James Massiah is a Dancehall and Experimental artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Night Cat, Melbourne on Thu, 24 Sept 2026.
 
 James Massiah is a dancehall and experimental artist tracked on soundcheck, with 98 sets logged across Amsterdam, Belgrade, Berlin and Brisbane and 16 more. Often billed alongside Lord Tusk, Kemarr and Tash LC. Next up: The Night Cat, Melbourne on Thu 24 Sept.
 
@@ -29,4 +29,4 @@ James Massiah is a dancehall and experimental artist tracked on soundcheck, with
 
 Lord Tusk, Kemarr, Tash LC
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesmassiah/)*

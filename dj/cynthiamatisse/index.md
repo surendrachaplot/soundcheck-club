@@ -1,6 +1,6 @@
 # Cynthia Matisse
 
-Cynthia Matisse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Sunny High, Stuttgart on Sat, 12 Sept 2026.
+Cynthia Matisse is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sunny High, Stuttgart on Sat, 12 Sept 2026.
 
 Cynthia Matisse is a techno and house artist tracked on soundcheck, with 15 sets logged across Berlin, Hamburg, Leipzig and Stuttgart. Often billed alongside Submod, Lydmate and MAY/O. Next up: Sunny High, Stuttgart on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Cynthia Matisse is a techno and house artist tracked on soundcheck, with 15 sets
 
 Submod, Lydmate, MAY/O
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*

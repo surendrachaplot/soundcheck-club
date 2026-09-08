@@ -1,6 +1,6 @@
 # Grafix
 
-Grafix is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
+Grafix is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
 
 Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Wilkinson, A Little Sound and BassLayerz. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
 
@@ -28,4 +28,4 @@ Grafix is a drum & bass and bass artist based in United Kingdom, tracked on soun
 
 Wilkinson, A Little Sound, BassLayerz
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*

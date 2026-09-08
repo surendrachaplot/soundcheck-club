@@ -1,6 +1,6 @@
 # Okkyung Lee
 
-Okkyung Lee is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Kantine am Berghain, Berlin on Wed, 28 Oct 2026.
+Okkyung Lee is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Kantine am Berghain, Berlin on Wed, 28 Oct 2026.
 
 Okkyung Lee is an experimental and ambient artist tracked on soundcheck, with 12 sets logged across Berlin, Bristol, Cork and Milan and 4 more. Often billed alongside Gavsborg, MBODJ and Amnesia Scanner. Next up: Kantine am Berghain, Berlin on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Okkyung Lee is an experimental and ambient artist tracked on soundcheck, with 12
 
 Gavsborg, MBODJ, Amnesia Scanner
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okkyunglee/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/okkyunglee/)*

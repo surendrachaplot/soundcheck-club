@@ -1,6 +1,6 @@
 # Klustone
 
-Klustone is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Le Bateau Phare, Paris on Fri, 23 Oct 2026.
+Klustone is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Le Bateau Phare, Paris on Fri, 23 Oct 2026.
 
 Klustone is a house and garage artist tracked on soundcheck, with 2 sets logged across Paris. Often billed alongside DJ Psychiatre, GEE LEE and Shaolin Cowboy. Next up: Le Bateau Phare, Paris on Fri 23 Oct.
 
@@ -18,4 +18,4 @@ Klustone is a house and garage artist tracked on soundcheck, with 2 sets logged 
 
 DJ Psychiatre, GEE LEE, Shaolin Cowboy
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klustone/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klustone/)*

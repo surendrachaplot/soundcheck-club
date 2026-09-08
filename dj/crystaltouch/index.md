@@ -1,6 +1,6 @@
 # Crystal Touch
 
-Crystal Touch is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Sacré, Paris on Sat, 12 Sept 2026.
+Crystal Touch is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sacré, Paris on Sat, 12 Sept 2026.
 
 Crystal Touch is a disco and house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Copenhagen, London and Paris and 1 more. Often billed alongside Bustin' Loose, Tatiana and Magnolia_. Next up: Sacré, Paris on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Crystal Touch is a disco and house artist based in United Kingdom, tracked on so
 
 Bustin' Loose, Tatiana, Magnolia_
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crystaltouch/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crystaltouch/)*

@@ -1,6 +1,6 @@
 # Emerald Theatre London
 
-Emerald Theatre London is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Sun City Day Party - Westend" on Sat, 7 Nov 2026.
+Emerald Theatre London is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Sun City Day Party - Westend" on Sat, 14 Nov 2026.
 
 Emerald Theatre London is a music venue in London listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Emerald Theatre London is a music venue in London listed on soundcheck. 1 upcomi
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Sun City Day Party - Westend |  |
+| Sat, 14 Nov 2026 | Sun City Day Party - Westend |  |
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/emerald-theatre-london/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/emerald-theatre-london/)*

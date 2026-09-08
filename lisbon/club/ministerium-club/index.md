@@ -1,6 +1,6 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Riktus with João Lagrima De Ouro, Dibison, GADDAM, Anibal" on Thu, 10 Sept 2026.
+Ministerium Club is a music venue in Lisbon with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Riktus with João Lagrima De Ouro, Dibison, GADDAM, Anibal" on Thu, 10 Sept 2026.
 
 Ministerium Club is a music venue in Lisbon listed on soundcheck. 7 upcoming nights, with line-ups including aalice, ANÍBAL, Client and Dibison and 2 more. Browse upcoming dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
@@ -10,7 +10,7 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 7 upcoming nig
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Riktus with João Lagrima De Ouro, Dibison, GADDAM, Anibal | ANÍBAL, Dibison, GADDAM, João Lágrima De Ouro, João Melgueira |
 | Thu, 17 Sept 2026 | Riktus - Double Trouble | MakeCatBleed, shoutz |
-| Thu, 24 Sept 2026 | Riktus with Shogun (Usa / Portugal Debut) | Shogun, VLB (1) |
+| Thu, 24 Sept 2026 | Riktus with Shogun (Usa / Portugal Debut) | KICKREY, Madson Carpenter, Pharah, Shogun, VLB (1) |
 | Fri, 25 Sept 2026 | Ministerium Club // Kevin Saunderson | Kevin Saunderson |
 | Sat, 26 Sept 2026 | 1/4 Escuro x Vault Sessions Second Shift | Client, John Wick, Salbany, aalice |
 | Sun, 4 Oct 2026 | Riktus presents: GAIVEU All Night Long #2 | GAIVEU, Golpe, La Vera Notte, TASSERY |
@@ -20,4 +20,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 7 upcoming nig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

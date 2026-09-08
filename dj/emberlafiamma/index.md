@@ -1,6 +1,6 @@
 # Ember LaFiamma
 
-Ember LaFiamma is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 19 Sept 2026.
+Ember LaFiamma is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Northern Lights Lounge, Detroit on Sat, 19 Sept 2026.
 
 Ember LaFiamma is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 29 sets logged across Detroit and Newyorkcity. Often billed alongside we1sman, jamea. and STAKXX. Next up: Northern Lights Lounge, Detroit on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Ember LaFiamma is a techno and ghetto tech artist based in United States of Amer
 
 we1sman, jamea., STAKXX
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emberlafiamma/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emberlafiamma/)*

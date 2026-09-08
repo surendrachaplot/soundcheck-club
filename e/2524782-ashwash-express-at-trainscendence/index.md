@@ -1,6 +1,6 @@
 # Ashwash Express at Trainscendence
 
-Ashwash Express at Trainscendence on Thu 24 Sept, Melbourne. 1 act on the bill: CHARBINKS. House and Deep House. Preview the line-up and save it on soundcheck.
+Ashwash Express at Trainscendence on Thu 24 Sept, Melbourne. 1 act on the bill: CHARBINKS. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Filip Xavi
 
-Filip Xavi is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 27 Sept 2026.
+Filip Xavi is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Para Klub Beograd, Belgrade on Sun, 27 Sept 2026.
 
 Filip Xavi is a techno and electro artist based in Serbia, tracked on soundcheck, with 54 sets logged across Belgrade, Shenzhen and Tokyo. Often billed alongside Lollipop Janosz, Impedance and ROPE. Next up: Para Klub Beograd, Belgrade on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Filip Xavi is a techno and electro artist based in Serbia, tracked on soundcheck
 
 Lollipop Janosz, Impedance, ROPE
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filipxavi/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/filipxavi/)*

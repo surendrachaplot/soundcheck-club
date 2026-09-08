@@ -1,6 +1,6 @@
 # Paradise Palms
 
-Paradise Palms is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Sonic Tonic" on Thu, 17 Sept 2026.
+Paradise Palms is a music venue in Edinburgh with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Sonic Tonic" on Thu, 17 Sept 2026.
 
 Paradise Palms is a music venue in Edinburgh listed on soundcheck. 3 upcoming nights, with line-ups including Dani Sonder and Lara Sinclair. Browse upcoming dates, start times and who's playing. 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom.
 
@@ -16,4 +16,4 @@ Paradise Palms is a music venue in Edinburgh listed on soundcheck. 3 upcoming ni
 
 41 Lothian Street, EH6 6BU, Edinburgh, Scotland, United Kingdom, Edinburgh
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/paradise-palms/)*

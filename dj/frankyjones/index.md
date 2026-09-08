@@ -1,6 +1,6 @@
 # Franky Jones
 
-Franky Jones is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
+Franky Jones is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
 
 Franky Jones is a techno and acid artist based in Belgium, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin and Ghent. Often billed alongside Alexander Koning, Erick E and Remy Unger. Next up: Thuishaven, Amsterdam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Franky Jones is a techno and acid artist based in Belgium, tracked on soundcheck
 
 Alexander Koning, Erick E, Remy Unger
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyjones/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyjones/)*

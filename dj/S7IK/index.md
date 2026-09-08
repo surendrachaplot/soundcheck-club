@@ -1,6 +1,6 @@
 # S7IK
 
-S7IK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Deep End, New York City on Fri, 25 Sept 2026.
+S7IK is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Deep End, New York City on Fri, 25 Sept 2026.
 
 S7IK is a techno and trance artist based in United States of America, tracked on soundcheck, with 23 sets logged across Newyorkcity. Often billed alongside Sam Valle, SHRAY and Aleska. Next up: The Deep End, Newyorkcity on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ S7IK is a techno and trance artist based in United States of America, tracked on
 
 Sam Valle, SHRAY, Aleska
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/S7IK/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/S7IK/)*

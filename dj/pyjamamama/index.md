@@ -1,6 +1,6 @@
 # PyjamaMama
 
-PyjamaMama is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Noce KRK, Krakow on Sat, 12 Sept 2026.
+PyjamaMama is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Noce KRK, Krakow on Sat, 12 Sept 2026.
 
 PyjamaMama is a techno and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Berlin and Krakow. Often billed alongside Dj Sunflash, DJ Spaßgetränk and Westside Bass. Next up: Noce KRK, Krakow on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ PyjamaMama is a techno and house artist based in Germany, tracked on soundcheck,
 
 Dj Sunflash, DJ Spaßgetränk, Westside Bass
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pyjamamama/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pyjamamama/)*

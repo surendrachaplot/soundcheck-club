@@ -1,14 +1,15 @@
 # Gilbo
 
-Gilbo is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sneaky Pete's, Edinburgh on Sun, 13 Sept 2026.
+Gilbo is a Garage and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sneaky Pete's, Edinburgh on Sun, 13 Sept 2026.
 
-Gilbo is a garage and jungle artist based in Poland, tracked on soundcheck, with 60 sets logged across Edinburgh, Glasgow and London. Often billed alongside Texyo, billybawbags and ZO3 (1). Next up: Sneaky Pete's, Edinburgh on Sun 13 Sept.
+Gilbo is a garage and jungle artist based in Poland, tracked on soundcheck, with 61 sets logged across Edinburgh, Glasgow and London. Often billed alongside Texyo, billybawbags and ZO3 (1). Next up: Sneaky Pete's, Edinburgh on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 13 Sept 2026 | Sneaky Pete's | Edinburgh |
+| Thu, 24 Sept 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gilbo is a garage and jungle artist based in Poland, tracked on soundcheck, with
 
 Texyo, billybawbags, ZO3 (1)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbo/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gilbo/)*

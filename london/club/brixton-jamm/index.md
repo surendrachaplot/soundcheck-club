@@ -1,6 +1,6 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Raise the Bar presents: Wrekonize - Edited for Reality UK Tour" on Fri, 11 Sept 2026.
+Brixton Jamm is a music venue in London with 11 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Raise the Bar presents: Wrekonize - Edited for Reality UK Tour" on Fri, 11 Sept 2026.
 
 Brixton Jamm is a music venue in London listed on soundcheck. 11 upcoming nights, with line-ups including Benny Page, CHICCA, Deekline and DJ Millz and 2 more. Browse upcoming dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
@@ -23,4 +23,4 @@ Brixton Jamm is a music venue in London listed on soundcheck. 11 upcoming nights
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

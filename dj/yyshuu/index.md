@@ -1,6 +1,6 @@
 # yyshuu
 
-yyshuu is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Twist Bar, Prague on Sat, 12 Sept 2026.
+yyshuu is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Twist Bar, Prague on Sat, 12 Sept 2026.
 
 yyshuu is a minimal and house artist tracked on soundcheck, with 42 sets logged across Barcelona, Prague, Seoul and Tokyo. Often billed alongside yoshiken, Yos. and Ariaray. Next up: Twist Bar, Prague on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ yyshuu is a minimal and house artist tracked on soundcheck, with 42 sets logged 
 
 yoshiken, Yos., Ariaray
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yyshuu/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yyshuu/)*

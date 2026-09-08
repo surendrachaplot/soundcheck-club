@@ -1,6 +1,6 @@
 # LWANGA
 
-LWANGA is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 12 Sept 2026.
+LWANGA is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Nico's Bar at Hackney Bridge, London on Sat, 12 Sept 2026.
 
 LWANGA is a house and broken beat artist tracked on soundcheck, with 8 sets logged across London and Nottingham. Often billed alongside Steffi Bricks, Blue Soup DJ and Faro. Next up: Nico's Bar at Hackney Bridge, London on Sat 12 Sept.
 
@@ -24,4 +24,4 @@ LWANGA is a house and broken beat artist tracked on soundcheck, with 8 sets logg
 
 Steffi Bricks, Blue Soup DJ, Faro
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lwanga/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lwanga/)*

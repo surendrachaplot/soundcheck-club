@@ -1,6 +1,6 @@
 # ALİN
 
-ALİN is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Dunia, Istanbul on Fri, 11 Sept 2026.
+ALİN is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Dunia, Istanbul on Fri, 11 Sept 2026.
 
 ALİN is a techno and hardcore artist tracked on soundcheck, with 19 sets logged across Istanbul. Often billed alongside dj s1ck s0ck, dj s1s0 and Arda Yazkan. Next up: Dunia, Istanbul on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ ALİN is a techno and hardcore artist tracked on soundcheck, with 19 sets logged
 
 dj s1ck s0ck, dj s1s0, Arda Yazkan
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alin-tk/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alin-tk/)*

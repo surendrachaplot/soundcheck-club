@@ -1,8 +1,8 @@
 # Flava J
 
-Flava J is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Nice N Sleazy, Glasgow on Fri, 18 Sept 2026.
+Flava J is a Afrobeats and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Nice N Sleazy, Glasgow on Fri, 18 Sept 2026.
 
-Flava J is a house and club artist tracked on soundcheck, with 6 sets logged across Glasgow and Osaka. Often billed alongside Babyjaii, David Scott and Dean Munch. Next up: Nice N Sleazy, Glasgow on Fri 18 Sept.
+Flava J is an afrobeats and house artist tracked on soundcheck, with 6 sets logged across Glasgow and Osaka. Often billed alongside Babyjaii, David Scott and Dean Munch. Next up: Nice N Sleazy, Glasgow on Fri 18 Sept.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Flava J is a house and club artist tracked on soundcheck, with 6 sets logged acr
 
 Babyjaii, David Scott, Dean Munch
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flavaj/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flavaj/)*

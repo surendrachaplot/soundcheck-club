@@ -1,6 +1,6 @@
 # Black Asteroid
 
-Black Asteroid is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Refuge, New York City on Fri, 18 Sept 2026.
+Black Asteroid is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Refuge, New York City on Fri, 18 Sept 2026.
 
 Black Asteroid is a techno and industrial artist based in United States of America, tracked on soundcheck, with 22 sets logged across Chicago, Denver, Hongkong and London and 6 more. Often billed alongside Baikamo, Chris Liebing and DJ SIN. Next up: Refuge, Newyorkcity on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Black Asteroid is a techno and industrial artist based in United States of Ameri
 
 Baikamo, Chris Liebing, DJ SIN
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackasteroid/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackasteroid/)*

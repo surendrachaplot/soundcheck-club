@@ -1,6 +1,6 @@
 # Metaraph
 
-Metaraph is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
+Metaraph is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 10 Oct 2026.
 
 Metaraph is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 43 more. Often billed alongside Mar/us, Ellen Allien and Samantha Togni. Next up: RSO.BERLIN, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Metaraph is a techno and house artist tracked on soundcheck, with 150 sets logge
 
 Mar/us, Ellen Allien, Samantha Togni
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*

@@ -1,13 +1,14 @@
 # Maria Nocheydía
 
-Maria Nocheydía is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA, Mexico City on Sun, 13 Sept 2026.
+Maria Nocheydía is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at M.N.Roy, Mexico City on Sat, 12 Sept 2026.
 
-Maria Nocheydía is a house and deep house artist based in Mexico, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Ibiza and Mexicocity. Often billed alongside Barreto, Britta Arnold and Mira. Next up: TBA, Mexicocity on Sun 13 Sept.
+Maria Nocheydía is a house and deep house artist based in Mexico, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Ibiza and Mexicocity. Often billed alongside Barreto, Britta Arnold and Mira. Next up: M.N.Roy, Mexicocity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | M.N.Roy | Mexico City |
 | Sun, 13 Sept 2026 | TBA | Mexico City |
 | Thu, 17 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 
@@ -26,4 +27,4 @@ Maria Nocheydía is a house and deep house artist based in Mexico, tracked on so
 
 Barreto, Britta Arnold, Mira
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianocheydia1/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianocheydia1/)*

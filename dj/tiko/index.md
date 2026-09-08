@@ -1,6 +1,6 @@
 # Tiko
 
-Tiko is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Fusion Club, Munster on Sat, 19 Sept 2026.
+Tiko is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Fusion Club, Munster on Sat, 19 Sept 2026.
 
 Tiko is a techno and club artist based in Germany, tracked on soundcheck, with 4 sets logged across Barcelona, Berlin, Munster and Sydney. Often billed alongside Alexia K., Anna Reusch and DAZA. Next up: Fusion Club, Munster on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Tiko is a techno and club artist based in Germany, tracked on soundcheck, with 4
 
 Alexia K., Anna Reusch, DAZA
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiko/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiko/)*

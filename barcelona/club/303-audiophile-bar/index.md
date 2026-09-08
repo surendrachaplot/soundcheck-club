@@ -1,8 +1,8 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 10 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "DSS! x Love Lunatics at 303" on Thu, 10 Sept 2026.
+303 Audiophile Bar is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "DSS! x Love Lunatics at 303" on Thu, 10 Sept 2026.
 
-303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 10 upcoming nights, with line-ups including 100 faces, _Gabo, Adria (ES) and Angel Mellado and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
+303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 23 upcoming nights, with line-ups including 100 faces, _Gabo, Adria (ES) and Alex Garcia (2) and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
 ## What's on
 
@@ -23,4 +23,4 @@
 
 C/ de Casp, 33B, L'Eixample, 08010 Barcelona, Barcelona
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/303-audiophile-bar/)*

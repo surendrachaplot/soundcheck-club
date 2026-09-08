@@ -1,6 +1,6 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO" on Tue, 8 Sept 2026.
+528 Ibiza is a music venue in Ibiza with 17 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO" on Tue, 8 Sept 2026.
 
 528 Ibiza is a music venue in Ibiza listed on soundcheck. 17 upcoming nights, with line-ups including Kepler, ALEXANDER M, Alex M.O.R.P.H. and Aly & Fila and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Tue, 8 Sept 2026 | PIKES PRESENTS AT 528 X LOVE.HOUSE.DISCO | Bushwacka!, Ceri, Cici, Forest (PL), Groove Armada, Mia Lypso, Prosumer, TEED |
 | Sat, 12 Sept 2026 | PIKES PRESENTS AT 528 WITH Kruder & Dorfmeister | Defex, Funk D'Void, George FitzGerald, Kruder & Dorfmeister, TSODOR |
-| Sun, 13 Sept 2026 | NEXUP with Max Dean | Max Dean |
+| Sun, 13 Sept 2026 | NEXUP with Max Dean | Jamie Fielding, Joss Dean, Max Dean, Wheats |
 | Tue, 15 Sept 2026 | PIKES PRESENTS AT 528 X DETROIT LOVE | Carl Craig, Mirko Loko, Ryan O Gorman |
 | Fri, 18 Sept 2026 | CUE | Chopper (UK), Dennis Quin, Job de Jong, Kepler, Lucas Alexander, Ryan Resso, Stef Davidse |
 | Sat, 19 Sept 2026 | PIKES PRESENTS AT 528 x BUGGED OUT | Andy Baxter, Defex, Federico Grazzini, Felix Da Housecat, Flashbaxx, HAAi, James Lavelle, Milou, Mina |
@@ -23,4 +23,4 @@
 
 Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain, Ibiza
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/528-ibiza/)*

@@ -1,6 +1,6 @@
 # Sami Masmoudi
 
-Sami Masmoudi is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Medellin 65, Mexico City on Sat, 12 Sept 2026.
+Sami Masmoudi is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Medellin 65, Mexico City on Sat, 12 Sept 2026.
 
 Sami Masmoudi is a house and minimal artist tracked on soundcheck, with 32 sets logged across Barcelona and Mexicocity. Often billed alongside Mejia, Bastard Love and Andrey Pushkarev. Next up: Medellin 65, Mexicocity on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Sami Masmoudi is a house and minimal artist tracked on soundcheck, with 32 sets 
 
 Mejia, Bastard Love, Andrey Pushkarev
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samimasmoudi-es/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samimasmoudi-es/)*

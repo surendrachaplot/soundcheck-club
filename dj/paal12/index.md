@@ -1,6 +1,6 @@
 # Paal12
 
-Paal12 is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 19 Sept 2026.
+Paal12 is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Der Weiße Hase, Berlin on Sat, 19 Sept 2026.
 
 Paal12 is a techno artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside JayKosy, Bisk and Don Tom. Next up: Der Weiße Hase, Berlin on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Paal12 is a techno artist tracked on soundcheck, with 2 sets logged across Berli
 
 JayKosy, Bisk, Don Tom
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paal12/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paal12/)*

@@ -1,14 +1,13 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at DC-10, Ibiza on Mon, 7 Sept 2026.
+Sedef Adasï is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at NDSM Docklands, Amsterdam on Sun, 13 Sept 2026.
 
-Sedef Adasï is a techno and house artist tracked on soundcheck, with 277 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: DC-10, Ibiza on Mon 7 Sept.
+Sedef Adasï is a techno and house artist tracked on soundcheck, with 277 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: NDSM Docklands, Amsterdam on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | DC-10 | Ibiza |
 | Sun, 13 Sept 2026 | NDSM Docklands | Amsterdam |
 | Sun, 20 Sept 2026 | Nowadays | New York City |
 | Sat, 26 Sept 2026 | Sub Club | Glasgow |
@@ -23,6 +22,7 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 277 sets l
 
 ## Recently played
 
+- DC-10, Ibiza — Mon, 7 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 5 Sept 2026
 - Southwark Park, London — Sun, 30 Aug 2026
 - Edelfettwerk, Hamburg — Sat, 29 Aug 2026
@@ -30,10 +30,9 @@ Sedef Adasï is a techno and house artist tracked on soundcheck, with 277 sets l
 - Gianpula Village, Malta — Wed, 12 Aug 2026
 - Bassiani, Tbilisi — Fri, 31 Jul 2026
 - Tokonoma Club, Frankfurt — Sat, 18 Jul 2026
-- Fvtvr, Paris — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

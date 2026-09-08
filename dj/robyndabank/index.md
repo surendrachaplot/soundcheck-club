@@ -1,6 +1,6 @@
 # Robyn DaBank
 
-Robyn DaBank is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 9 Sept 2026.
+Robyn DaBank is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 9 Sept 2026.
 
 Robyn DaBank is a techno and club artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Newyorkcity and Washingtondc. Often billed alongside Gagbert, Malcolm XL and Xana 101. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 9 Sept.
 
@@ -27,4 +27,4 @@ Robyn DaBank is a techno and club artist based in United States of America, trac
 
 Gagbert, Malcolm XL, Xana 101
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robyndabank/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robyndabank/)*

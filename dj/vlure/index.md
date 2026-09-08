@@ -1,6 +1,6 @@
 # VLURE
 
-VLURE is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Low Profile Studios, London on Fri, 9 Oct 2026.
+VLURE is a IDM and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Low Profile Studios, London on Fri, 9 Oct 2026.
 
 VLURE is an idm and techno artist tracked on soundcheck, with 3 sets logged across Glasgow and London. Often billed alongside LVRA, Maveen and Neoma. Next up: Low Profile Studios, London on Fri 9 Oct.
 
@@ -19,4 +19,4 @@ VLURE is an idm and techno artist tracked on soundcheck, with 3 sets logged acro
 
 LVRA, Maveen, Neoma
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vlure/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vlure/)*

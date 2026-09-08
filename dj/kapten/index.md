@@ -1,6 +1,6 @@
 # Kapten
 
-Kapten is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Outer Heaven, New York City on Fri, 11 Sept 2026.
+Kapten is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Outer Heaven, New York City on Fri, 11 Sept 2026.
 
 Kapten is a house artist tracked on soundcheck, with 3 sets logged across London and Newyorkcity. Often billed alongside Gabi Musayev, Megan Leo and Pattn. Next up: Outer Heaven, Newyorkcity on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Kapten is a house artist tracked on soundcheck, with 3 sets logged across London
 
 Gabi Musayev, Megan Leo, Pattn
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kapten/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kapten/)*

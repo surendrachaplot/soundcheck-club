@@ -1,6 +1,6 @@
 # Dubpaper
 
-Dubpaper is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Tue, 8 Sept 2026.
+Dubpaper is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Tue, 8 Sept 2026.
 
 Dubpaper is an electronica and techno artist tracked on soundcheck, with 3 sets logged across Ibiza, Madrid and Malaga. Often billed alongside Clint Lee, David Ponziano and ELIF. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Tue 8 Sept.
 
@@ -19,4 +19,4 @@ Dubpaper is an electronica and techno artist tracked on soundcheck, with 3 sets 
 
 Clint Lee, David Ponziano, ELIF
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dubpaper/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dubpaper/)*

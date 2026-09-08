@@ -1,6 +1,6 @@
 # Blossom Hill
 
-Blossom Hill is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at sum.Wine, Berlin on Sun, 20 Sept 2026.
+Blossom Hill is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at sum.Wine, Berlin on Sun, 20 Sept 2026.
 
 Blossom Hill is a house and ambient artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bangkok, Berlin, Copenhagen and London and 4 more. Often billed alongside Seb Wildblood, schulze and ||||||||||||||||||||. Next up: sum.Wine, Berlin on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ Blossom Hill is a house and ambient artist based in United Kingdom, tracked on s
 
 Seb Wildblood, schulze, ||||||||||||||||||||
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blossomhill/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blossomhill/)*

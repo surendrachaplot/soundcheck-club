@@ -1,17 +1,17 @@
 # Lil' Louis
 
-Lil' Louis is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Lil' Louis is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Lil' Louis is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Aiko Inoue, Adiel and Boys Noize. Next up: Union Park, Chicago on Fri 4 Sept.
+Lil' Louis is a house and techno artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Aiko Inoue, Adiel and Boys Noize. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Sat, 17 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Sat, 31 Oct 2026 | Seaseaclub Barcelona | Barcelona |
+| Sun, 6 Dec 2026 | Burger Disco Club | Athens |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ Lil' Louis is a house and techno artist based in United States of America, track
 
 Aiko Inoue, Adiel, Boys Noize
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lil-louis/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lil-louis/)*

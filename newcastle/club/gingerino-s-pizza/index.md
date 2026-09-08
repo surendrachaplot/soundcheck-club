@@ -1,8 +1,8 @@
 # Gingerino's Pizza
 
-Gingerino's Pizza is a music venue in Newcastle with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Public House Hifi presents Make A Dance (M.A.D Records)" on Sat, 19 Sept 2026.
+Gingerino's Pizza is a music venue in Newcastle with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Public House Hifi presents Make A Dance (M.A.D Records)" on Sat, 19 Sept 2026.
 
-Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 5 upcoming nights, with line-ups including Diz Jockey, Make A Dance, Red Rack'em and The Mighty Zaf and 1 more. Browse upcoming dates, start times and who's playing. 8 Stepney Bank, Newcastle upon Tyne NE1 2PW.
+Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 7 upcoming nights, with line-ups including Diz Jockey, Make A Dance, Red Rack'em and The Mighty Zaf and 1 more. Browse upcoming dates, start times and who's playing. 8 Stepney Bank, Newcastle upon Tyne NE1 2PW.
 
 ## What's on
 
@@ -12,10 +12,12 @@ Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 5 upcoming
 | Sat, 26 Sept 2026 | Public House Hifi presents SECRET SPECIAL GUEST |  |
 | Sat, 3 Oct 2026 | Public House Hifi presents Red Rack'em (Bergerac) | Red Rack'em |
 | Sat, 10 Oct 2026 | Public House Hifi presents Diz & Vins (Public House Residents) | Diz Jockey, Vinny Vins |
+| Sat, 17 Oct 2026 | Mercury Prize Fringe Event: Public House Hifi presents Tommy Caulker (World Headquarters)  | Diz Jockey, Vinny Vins |
+| Sat, 17 Oct 2026 | Mercury Prize Fringe Event: Tommy Caulker: A Life in Records (LISTENING SESSION) | Diz Jockey, Vinny Vins |
 | Sat, 31 Oct 2026 | Public House Hifi presents The Might Zaf (Love Vinyl) | The Mighty Zaf |
 
 ## Address
 
 8 Stepney Bank, Newcastle upon Tyne NE1 2PW, Newcastle
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*

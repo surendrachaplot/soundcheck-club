@@ -1,6 +1,6 @@
 # Matthew Herbert
 
-Matthew Herbert is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sala Villanos, Madrid on Fri, 20 Nov 2026.
+Matthew Herbert is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sala Villanos, Madrid on Fri, 20 Nov 2026.
 
 Matthew Herbert is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Jeff Mills, Polygonia and 5ive. Next up: Sala Villanos, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Matthew Herbert is an experimental and electronica artist based in United Kingdo
 
 Jeff Mills, Polygonia, 5ive
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewherbert/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewherbert/)*

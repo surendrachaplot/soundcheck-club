@@ -1,6 +1,6 @@
 # Axel Groove
 
-Axel Groove is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Mantra Bar, Kuala Lumpur on Sat, 19 Sept 2026.
+Axel Groove is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Mantra Bar, Kuala Lumpur on Sat, 19 Sept 2026.
 
 Axel Groove is a house and techno artist tracked on soundcheck, with 53 sets logged across Kualalumpur. Often billed alongside Alam, Roshan and Victor G (MY). Next up: Mantra Bar, Kualalumpur on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Axel Groove is a house and techno artist tracked on soundcheck, with 53 sets log
 
 Alam, Roshan, Victor G (MY)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axelgroove/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axelgroove/)*

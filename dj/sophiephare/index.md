@@ -1,6 +1,6 @@
 # Sophie Phare
 
-Sophie Phare is a Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bassiani, Tbilisi on Sat, 12 Sept 2026.
+Sophie Phare is a Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bassiani, Tbilisi on Sat, 12 Sept 2026.
 
 Sophie Phare is an electro artist tracked on soundcheck, with 80 sets logged across Amsterdam, Athens, Munich and Nurnberg and 7 more. Often billed alongside Ndrx, Kvanchi and Hamatsuki. Next up: Bassiani, Tbilisi on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Sophie Phare is an electro artist tracked on soundcheck, with 80 sets logged acr
 
 Ndrx, Kvanchi, Hamatsuki
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiephare/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiephare/)*

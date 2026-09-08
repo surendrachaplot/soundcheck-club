@@ -1,6 +1,6 @@
 # Playa Soleil Ibiza
 
-Playa Soleil Ibiza is a music venue in Ibiza with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "STELLA BOSSI presents ONE NACHT STAND" on Tue, 8 Sept 2026.
+Playa Soleil Ibiza is a music venue in Ibiza with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "STELLA BOSSI presents ONE NACHT STAND" on Tue, 8 Sept 2026.
 
 Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcoming nights, with line-ups including Charlotte Lion, Defex and STELLA BOSSI. Browse upcoming dates, start times and who's playing. Sant Josep de sa Talaia, Islas Baleares, 07817, Spain.
 
@@ -20,4 +20,4 @@ Playa Soleil Ibiza is a music venue in Ibiza listed on soundcheck. 7 upcoming ni
 
 Sant Josep de sa Talaia, Islas Baleares, 07817, Spain, Ibiza
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/playa-soleil-ibiza/)*

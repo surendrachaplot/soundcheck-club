@@ -1,6 +1,6 @@
 # Liva K
 
-Liva K is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Petra Theater, Athens on Fri, 18 Sept 2026.
+Liva K is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Petra Theater, Athens on Fri, 18 Sept 2026.
 
 Liva K is an afro house and house artist tracked on soundcheck, with 85 sets logged across Amsterdam, Athens, Austin and Basel and 21 more. Often billed alongside Black Coffee, Bedouin and Damian Lazarus. Next up: Petra Theater, Athens on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Liva K is an afro house and house artist tracked on soundcheck, with 85 sets log
 
 Black Coffee, Bedouin, Damian Lazarus
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livak/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/livak/)*

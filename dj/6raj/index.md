@@ -1,6 +1,6 @@
 # 6RAJ
 
-6RAJ is a Afro House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Café Social B Hive, Montreal on Sat, 19 Sept 2026.
+6RAJ is a Afro House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Café Social B Hive, Montreal on Sat, 19 Sept 2026.
 
 6RAJ is an afro house and techno artist tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside Ornery, Ark Nomads and ARGO. Next up: Café Social B Hive, Montreal on Sat 19 Sept.
 
@@ -9,7 +9,7 @@
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Café Social B Hive | Montreal |
-| Thu, 22 Oct 2026 | TBA - Amsterdam, Rokin | Amsterdam |
+| Thu, 22 Oct 2026 | Theater de Richel | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +26,4 @@
 
 Ornery, Ark Nomads, ARGO
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/6raj/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/6raj/)*

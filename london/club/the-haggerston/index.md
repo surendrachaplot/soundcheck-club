@@ -1,6 +1,6 @@
 # The Haggerston
 
-The Haggerston is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "XT1ANA'S 27TH BIRTHDAY BASH" on Fri, 18 Sept 2026.
+The Haggerston is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "XT1ANA'S 27TH BIRTHDAY BASH" on Fri, 18 Sept 2026.
 
 The Haggerston is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including ARKNGL, BBSHKALES, SALD3E and XT1ANA. Browse upcoming dates, start times and who's playing. 438 Kingsland Rd, London, E8 4AA.
 
@@ -14,4 +14,4 @@ The Haggerston is a music venue in London listed on soundcheck. 1 upcoming night
 
 438 Kingsland Rd, London, E8 4AA, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*

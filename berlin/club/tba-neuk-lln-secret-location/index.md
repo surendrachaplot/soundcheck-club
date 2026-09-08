@@ -1,6 +1,6 @@
 # TBA - Neukölln Secret Location
 
-TBA - Neukölln Secret Location is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Zwamp - 2nd edition" on Fri, 11 Sept 2026.
+TBA - Neukölln Secret Location is a music venue in Berlin with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Zwamp - Chapter 2" on Fri, 11 Sept 2026.
 
 TBA - Neukölln Secret Location is a music venue in Berlin listed on soundcheck. 1 upcoming night, with line-ups including Ahni, Inga Sama, LeVe and Mademoisel. Browse upcoming dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - Neukölln Secret Location is a music venue in Berlin listed on soundcheck.
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Zwamp - 2nd edition | Ahni, Inga Sama, LeVe, Mademoisel |
+| Fri, 11 Sept 2026 | Zwamp - Chapter 2 | Ahni, Inga Sama, LeVe, Mademoisel |
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-neuk-lln-secret-location/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-neuk-lln-secret-location/)*

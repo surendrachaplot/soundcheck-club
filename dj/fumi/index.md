@@ -1,6 +1,6 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Rex Club, Paris on Wed, 16 Sept 2026.
+FUMI is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Rex Club, Paris on Wed, 16 Sept 2026.
 
 FUMI is a techno and industrial artist tracked on soundcheck, with 96 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside EVE (1), Monk000 and Adrian Mills. Next up: Rex Club, Paris on Wed 16 Sept.
 
@@ -27,4 +27,4 @@ FUMI is a techno and industrial artist tracked on soundcheck, with 96 sets logge
 
 EVE (1), Monk000, Adrian Mills
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi/)*

@@ -1,8 +1,8 @@
 # Barbara Boeing
 
-Barbara Boeing is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Mindener Straße Unter dem Ostwestfalendamm, Bielefeld on Sat, 19 Sept 2026.
+Barbara Boeing is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Mindener Straße Unter dem Ostwestfalendamm, Bielefeld on Sat, 19 Sept 2026.
 
-Barbara Boeing is a house and disco artist tracked on soundcheck, with 110 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 37 more. Often billed alongside Kapote, Cody Currie and Max NRG Supply. Next up: Mindener Straße Unter dem Ostwestfalendamm, Bielefeld on Sat 19 Sept.
+Barbara Boeing is a house and disco artist tracked on soundcheck, with 111 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 37 more. Often billed alongside Kapote, Cody Currie and Max NRG Supply. Next up: Mindener Straße Unter dem Ostwestfalendamm, Bielefeld on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Barbara Boeing is a house and disco artist tracked on soundcheck, with 110 sets 
 | Sat, 19 Sept 2026 | Mindener Straße Unter dem Ostwestfalendamm | Bielefeld |
 | Fri, 25 Sept 2026 | Système | Montreal |
 | Fri, 2 Oct 2026 | TBA - DTLA | Los Angeles |
+| Fri, 13 Nov 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Barbara Boeing is a house and disco artist tracked on soundcheck, with 110 sets 
 
 Kapote, Cody Currie, Max NRG Supply
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barbaraboeing/)*

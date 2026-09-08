@@ -1,0 +1,13 @@
+# The Highlight Room
+
+The Highlight Room is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "New York Fashion Week Edition" on Fri, 11 Sept 2026.
+
+The Highlight Room is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
+
+## What's on
+
+| Date | Night | Line-up |
+| --- | --- | --- |
+| Fri, 11 Sept 2026 | New York Fashion Week Edition |  |
+
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-highlight-room/)*

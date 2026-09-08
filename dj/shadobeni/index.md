@@ -1,14 +1,15 @@
 # Shadobeni
 
-Shadobeni is a Dancehall and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at fabric, London on Fri, 30 Oct 2026.
+Shadobeni is a Dancehall and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at fabric, London on Fri, 30 Oct 2026.
 
-Shadobeni is a dancehall and afrobeat artist tracked on soundcheck, with 34 sets logged across Glasgow and London. Often billed alongside Darkstepper, Dibs and rára. Next up: fabric, London on Fri 30 Oct.
+Shadobeni is a dancehall and afrobeat artist tracked on soundcheck, with 35 sets logged across Glasgow and London. Often billed alongside Darkstepper, Dibs and rára. Next up: fabric, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | fabric | London |
+| Sat, 5 Dec 2026 | The Lower Third | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Shadobeni is a dancehall and afrobeat artist tracked on soundcheck, with 34 sets
 
 Darkstepper, Dibs, rára
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shadobeni/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shadobeni/)*

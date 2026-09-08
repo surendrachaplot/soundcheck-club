@@ -1,6 +1,6 @@
-# DJ EZ, TS7, RIRIA| Groovebox, Nottingham at The Nest
+# DJ EZ, TS7, RIRIA Groovebox, Nottingham at The Nest
 
-DJ EZ, TS7, RIRIA| Groovebox, Nottingham at The Nest on Sat 17 Oct, Nottingham. 6 acts on the bill: DJ EZ, DJ Q, Jae Depz and RIRIA and 2 more. Garage. Preview the line-up and save it on soundcheck.
+DJ EZ, TS7, RIRIA Groovebox, Nottingham at The Nest on Sat 17 Oct, Nottingham. 6 acts on the bill: DJ EZ, DJ Q, Jae Depz and RIRIA and 2 more. Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

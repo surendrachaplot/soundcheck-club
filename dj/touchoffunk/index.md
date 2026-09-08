@@ -1,6 +1,6 @@
 # Touch Of Funk
 
-Touch Of Funk is a Disco and R&B artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Cafe 1001, London on Mon, 14 Sept 2026.
+Touch Of Funk is a Disco and R&B artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Cafe 1001, London on Mon, 14 Sept 2026.
 
 Touch Of Funk is a disco and r&b artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Manchester. Often billed alongside Beechy and T!SCO. Next up: Cafe 1001, London on Mon 14 Sept.
 
@@ -19,4 +19,4 @@ Touch Of Funk is a disco and r&b artist based in United Kingdom, tracked on soun
 
 Beechy, T!SCO
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/touchoffunk/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/touchoffunk/)*

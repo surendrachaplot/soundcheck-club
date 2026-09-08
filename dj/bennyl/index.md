@@ -1,6 +1,6 @@
 # Benny L
 
-Benny L is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
+Benny L is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
 
 Benny L is a drum & bass and jungle artist tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Auckland and Birmingham and 21 more. Often billed alongside Bladerunner, Carasel and BassLayerz. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Benny L is a drum & bass and jungle artist tracked on soundcheck, with 79 sets l
 
 Bladerunner, Carasel, BassLayerz
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyl/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyl/)*

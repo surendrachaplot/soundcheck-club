@@ -1,6 +1,6 @@
 # Jalo
 
-Jalo is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Chinastraat, Ghent on Fri, 18 Sept 2026.
+Jalo is a Techno and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Chinastraat, Ghent on Fri, 18 Sept 2026.
 
 Jalo is a techno and minimal artist tracked on soundcheck, with 11 sets logged across Amsterdam, Antwerp, Budapest and Ghent and 4 more. Often billed alongside Baban, Jemmi and Merem. Next up: Chinastraat, Ghent on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Jalo is a techno and minimal artist tracked on soundcheck, with 11 sets logged a
 
 Baban, Jemmi, Merem
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jalo/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jalo/)*

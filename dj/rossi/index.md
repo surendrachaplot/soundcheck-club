@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
+Rossi is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
 
 Rossi is a house and tech house artist tracked on soundcheck, with 231 sets logged across Amsterdam, Auckland, Austin and Barcelona and 48 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamie Jones. Next up: [UNVRS], Ibiza on Wed 9 Sept.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist tracked on soundcheck, with 231 sets logg
 
 Josh Baker, Enzo Siragusa, Jamie Jones
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

@@ -1,6 +1,6 @@
 # John Heaven
 
-John Heaven is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 18 Sept 2026.
+John Heaven is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 18 Sept 2026.
 
 John Heaven is an electronica and house artist tracked on soundcheck, with 51 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Nile Fee, Daniel 2000 and Marcelo Pantani. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ John Heaven is an electronica and house artist tracked on soundcheck, with 51 se
 
 Nile Fee, Daniel 2000, Marcelo Pantani
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnheaven/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnheaven/)*

@@ -1,6 +1,6 @@
 # Killoverjoy
 
-Killoverjoy is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Noctis, 87 Rue de Strasbourg, 93200 Saint-Denis, France, Paris on Sat, 12 Sept 2026.
+Killoverjoy is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Noctis, 87 Rue de Strasbourg, 93200 Saint-Denis, France, Paris on Sat, 12 Sept 2026.
 
 Killoverjoy is an electronic artist tracked on soundcheck, with 5 sets logged across Paris. Often billed alongside KAT (1), Sasa and Sasa (FR). Next up: TBA - Noctis, 87 Rue de Strasbourg, 93200 Saint-Denis, France, Paris on Sat 12 Sept.
 
@@ -21,4 +21,4 @@ Killoverjoy is an electronic artist tracked on soundcheck, with 5 sets logged ac
 
 KAT (1), Sasa, Sasa (FR)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killoverjoy/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/killoverjoy/)*

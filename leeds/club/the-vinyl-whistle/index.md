@@ -1,6 +1,6 @@
 # The Vinyl Whistle
 
-The Vinyl Whistle is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Weekday Offender: Hard Dance Pop Up Party" on Sat, 12 Sept 2026.
+The Vinyl Whistle is a music venue in Leeds with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Weekday Offender: Hard Dance Pop Up Party" on Sat, 12 Sept 2026.
 
 The Vinyl Whistle is a music venue in Leeds listed on soundcheck. 3 upcoming nights, with line-ups including Balrog, Player, Skunkrock and SUBVISIONS. Browse upcoming dates, start times and who's playing. 12 Otley Road, Headingley, Leeds LS6 2AD.
 
@@ -16,4 +16,4 @@ The Vinyl Whistle is a music venue in Leeds listed on soundcheck. 3 upcoming nig
 
 12 Otley Road, Headingley, Leeds LS6 2AD, Leeds
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-vinyl-whistle/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-vinyl-whistle/)*

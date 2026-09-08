@@ -1,8 +1,8 @@
 # Maris Shilton
 
-Maris Shilton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 19 Sept 2026.
+Maris Shilton is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 19 Sept 2026.
 
-Maris Shilton is a techno and house artist tracked on soundcheck, with 71 sets logged across Berlin, Frankfurt, Paris and Stockholm and 2 more. Often billed alongside Mara Menace, Jessie Granqvist and Sicion. Next up: TBA - Secret Location, Berlin on Sat 19 Sept.
+Maris Shilton is a techno and house artist tracked on soundcheck, with 71 sets logged across Berlin, Frankfurt, Paris and Stockholm and 2 more. Often billed alongside Mara Menace, Sicion and Jessie Granqvist. Next up: TBA - Secret Location, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Maris Shilton is a techno and house artist tracked on soundcheck, with 71 sets l
 
 ## Shares bills with
 
-Mara Menace, Jessie Granqvist, Sicion
+Mara Menace, Sicion, Jessie Granqvist
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marisshilton/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marisshilton/)*

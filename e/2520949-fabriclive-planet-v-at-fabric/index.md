@@ -1,6 +1,6 @@
-# fabricLIVE: Planet V at fabric
+# FABRICLIVE: Planet V at fabric
 
-fabricLIVE: Planet V on Sat 14 Nov, London. Drum & Bass. Preview the line-up and save it on soundcheck.
+FABRICLIVE: Planet V at fabric on Sat 14 Nov, London. Drum & Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

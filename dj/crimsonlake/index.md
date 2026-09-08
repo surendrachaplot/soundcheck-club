@@ -1,6 +1,6 @@
 # Crimson Lake
 
-Crimson Lake is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Prisma, Berlin on Fri, 11 Sept 2026.
+Crimson Lake is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Prisma, Berlin on Fri, 11 Sept 2026.
 
 Crimson Lake is a disco and house artist tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside DJ Kodah, Jean Frais and nonduality. Next up: Prisma, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Crimson Lake is a disco and house artist tracked on soundcheck, with 28 sets log
 
 DJ Kodah, Jean Frais, nonduality
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crimsonlake/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crimsonlake/)*

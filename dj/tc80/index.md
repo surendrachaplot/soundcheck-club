@@ -1,6 +1,6 @@
 # TC80
 
-TC80 is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Club der Visionaere, Berlin on Fri, 18 Sept 2026.
+TC80 is a House and Ambient artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Club der Visionaere, Berlin on Fri, 18 Sept 2026.
 
 TC80 is a house and ambient artist tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 2 more. Often billed alongside Alice Caroline, Nick (IT) and Alex Picone. Next up: Club der Visionaere, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ TC80 is a house and ambient artist tracked on soundcheck, with 20 sets logged ac
 
 Alice Caroline, Nick (IT), Alex Picone
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tc80/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tc80/)*

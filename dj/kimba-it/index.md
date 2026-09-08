@@ -1,6 +1,6 @@
 # KIMBÄ
 
-KIMBÄ is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Podlasie Club, Chicago on Thu, 24 Sept 2026.
+KIMBÄ is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Podlasie Club, Chicago on Thu, 24 Sept 2026.
 
 KIMBÄ is a techno and industrial artist tracked on soundcheck, with 10 sets logged across Chicago. Often billed alongside Flores Negras, Brenda and Abisai. Next up: Podlasie Club, Chicago on Thu 24 Sept.
 
@@ -26,4 +26,4 @@ KIMBÄ is a techno and industrial artist tracked on soundcheck, with 10 sets log
 
 Flores Negras, Brenda, Abisai
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimba-it/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kimba-it/)*

@@ -1,6 +1,6 @@
 # Koma (1)
 
-Koma (1) is a Latin Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Socore Factory, Osaka on Sat, 26 Sept 2026.
+Koma (1) is a Latin Bass and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Socore Factory, Osaka on Sat, 26 Sept 2026.
 
 Koma (1) is a latin bass and electro artist tracked on soundcheck, with 2 sets logged across Brussels and Osaka. Often billed alongside Catalina, DC Salas and Marie (2). Next up: Socore Factory, Osaka on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Koma (1) is a latin bass and electro artist tracked on soundcheck, with 2 sets l
 
 Catalina, DC Salas, Marie (2)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koma-1/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/koma-1/)*

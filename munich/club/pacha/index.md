@@ -1,6 +1,6 @@
 # Pacha
 
-Pacha is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "FreitagNacht x Casa Loca with Merissa Mahilaa, Felipe de M., CHOOSE WHITE" on Fri, 11 Sept 2026.
+Pacha is a music venue in Munich with 5 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "FreitagNacht x Casa Loca with Merissa Mahilaa, Felipe de M., CHOOSE WHITE" on Fri, 11 Sept 2026.
 
 Pacha is a music venue in Munich listed on soundcheck. 5 upcoming nights, with line-ups including AMÉMÉ, CHOOSE WHITE, Deep Dish and Felipe de M. and 2 more. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -18,4 +18,4 @@ Pacha is a music venue in Munich listed on soundcheck. 5 upcoming nights, with l
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

@@ -1,6 +1,6 @@
 # T & Sugah
 
-T & Sugah is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Woodshop, New York City on Sat, 19 Sept 2026.
+T & Sugah is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Woodshop, New York City on Sat, 19 Sept 2026.
 
 T & Sugah are a drum & bass and jungle duo tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Delta Heavy, Mozey and Pola & Bryson. Next up: The Woodshop, Newyorkcity on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ T & Sugah are a drum & bass and jungle duo tracked on soundcheck, with 48 sets l
 
 Delta Heavy, Mozey, Pola & Bryson
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsugah/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tsugah/)*

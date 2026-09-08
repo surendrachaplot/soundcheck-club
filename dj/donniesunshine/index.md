@@ -1,6 +1,6 @@
 # Donnie Sunshine
 
-Donnie Sunshine is a House and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Electrowerkz, London on Fri, 18 Sept 2026.
+Donnie Sunshine is a House and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Electrowerkz, London on Fri, 18 Sept 2026.
 
 Donnie Sunshine is a house and dancehall artist tracked on soundcheck, with 74 sets logged across London, Manchester and Paris. Often billed alongside Mark-Ashley Dupé, AyChibs and THEMPRESS. Next up: Electrowerkz, London on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Donnie Sunshine is a house and dancehall artist tracked on soundcheck, with 74 s
 
 Mark-Ashley Dupé, AyChibs, THEMPRESS
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donniesunshine/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donniesunshine/)*

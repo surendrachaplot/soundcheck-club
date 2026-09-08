@@ -1,14 +1,13 @@
 # Hidde van Wee
 
-Hidde van Wee is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Cova Santa, Ibiza on Mon, 7 Sept 2026.
+Hidde van Wee is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Studio 338, London on Sat, 12 Sept 2026.
 
-Hidde van Wee is a house and tech house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 12 more. Often billed alongside Boss Priester, Sidney Charles and Benny Rodrigues. Next up: Cova Santa, Ibiza on Mon 7 Sept.
+Hidde van Wee is a house and tech house artist tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Bristol and Dublin and 12 more. Often billed alongside Boss Priester, Sidney Charles and Benny Rodrigues. Next up: Studio 338, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 12 Sept 2026 | Studio 338 | London |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 19 Sept 2026 | SWG3 | Glasgow |
@@ -21,6 +20,7 @@ Hidde van Wee is a house and tech house artist tracked on soundcheck, with 68 se
 
 ## Recently played
 
+- Cova Santa, Ibiza — Mon, 7 Sept 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Toffler, Rotterdam — Fri, 28 Aug 2026
 - XOYO, London — Sat, 15 Aug 2026
@@ -28,10 +28,9 @@ Hidde van Wee is a house and tech house artist tracked on soundcheck, with 68 se
 - Eden, Ibiza — Sun, 2 Aug 2026
 - Het Sieraad, Amsterdam — Fri, 24 Jul 2026
 - Mint Warehouse, Leeds — Sat, 18 Jul 2026
-- Digital, Newcastle — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Boss Priester, Sidney Charles, Benny Rodrigues
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*

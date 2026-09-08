@@ -1,6 +1,6 @@
 # Terra Magra
 
-Terra Magra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
+Terra Magra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Honey's, New York City on Sat, 26 Sept 2026.
 
 Terra Magra is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Newyorkcity. Often billed alongside Iggy Nuclear, Kettle and Rila. Next up: Honey's, Newyorkcity on Sat 26 Sept.
 
@@ -21,4 +21,4 @@ Terra Magra is a house and techno artist based in United States of America, trac
 
 Iggy Nuclear, Kettle, Rila
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terramagra/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terramagra/)*

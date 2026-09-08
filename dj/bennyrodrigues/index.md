@@ -1,8 +1,8 @@
 # Benny Rodrigues
 
-Benny Rodrigues is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
+Benny Rodrigues is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
-Benny Rodrigues is a house and techno artist tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Berlin and Ibiza and 4 more. Often billed alongside Michel de Hey, Prunk and Karim Soliman. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
+Benny Rodrigues is a house and techno artist tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Berlin and Ibiza and 4 more. Often billed alongside Michel de Hey, Prunk and Karim Soliman. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Benny Rodrigues is a house and techno artist tracked on soundcheck, with 197 set
 | Sun, 27 Sept 2026 | Thuishaven | Amsterdam |
 | Sat, 10 Oct 2026 | FOLD | London |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
+| Fri, 23 Oct 2026 | Radio Radio | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
-| Sat, 7 Nov 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Benny Rodrigues is a house and techno artist tracked on soundcheck, with 197 set
 
 Michel de Hey, Prunk, Karim Soliman
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyrodrigues/)*

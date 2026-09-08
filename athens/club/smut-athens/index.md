@@ -1,6 +1,6 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "MUTUAL RYTM x SMUT with SHDW, Lewis Fautzi, Sera J LIVE" on Sat, 12 Sept 2026.
+SMUT Athens is a music venue in Athens with 9 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "MUTUAL RYTM x SMUT with SHDW, Lewis Fautzi, Sera J LIVE" on Sat, 12 Sept 2026.
 
 SMUT Athens is a music venue in Athens listed on soundcheck. 9 upcoming nights, with line-ups including BIDOBEN, Connor Wall, DJ HI-C and DJ Nobu and 2 more. Browse upcoming dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
@@ -22,4 +22,4 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 9 upcoming nights, 
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

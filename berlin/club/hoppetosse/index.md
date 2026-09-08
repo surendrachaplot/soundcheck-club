@@ -1,8 +1,8 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "23 Jahre Betriebsfeier" on Fri, 11 Sept 2026.
+Hoppetosse is a music venue in Berlin with 12 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "23 Jahre Betriebsfeier" on Fri, 11 Sept 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming nights, with line-ups including Alexander Skancke, And.re, Bailey Brown and BODYSHIFT and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 12 upcoming nights, with line-ups including Alexander Skancke, And.re, Bailey Brown and BODYSHIFT and 2 more. Browse upcoming dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming nights, 
 | Sat, 26 Sept 2026 | Quirk: Henriku Birthday Edition | Alexander Skancke, Henriku, Trent Voyage |
 | Sat, 3 Oct 2026 | Yellow Mellow Invites: Legowelt | Legowelt, Purita D, St.Eggs, Stamina (DE), Turk Turkelton |
 | Fri, 9 Oct 2026 | Apricots' Jam |  |
+| Sun, 11 Oct 2026 | Analog meets Digital: Reboot Records x djay Pro | DJ ZBB, Flor Coto, Franz Scala, Robosonic, Szew |
 | Sat, 17 Oct 2026 | Sekt&Brezeln - 4 YEARS ANNIVERSARY |  |
 | Sat, 7 Nov 2026 | Slow Life Showcase | Cecilio, GNMR, Laurine, Rafon (2) |
-| Fri, 27 Nov 2026 | Betriebsfeier | Coco, Empro |
 
 ## Address
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

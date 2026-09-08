@@ -1,6 +1,6 @@
 # T!SCO
 
-T!SCO is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Cafe 1001, London on Mon, 14 Sept 2026.
+T!SCO is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Cafe 1001, London on Mon, 14 Sept 2026.
 
 T!SCO is a disco and house artist tracked on soundcheck, with 21 sets logged across London. Often billed alongside BRUIN (UK), Dan Cluskey and Haruka (UK). Next up: Cafe 1001, London on Mon 14 Sept.
 
@@ -25,4 +25,4 @@ T!SCO is a disco and house artist tracked on soundcheck, with 21 sets logged acr
 
 BRUIN (UK), Dan Cluskey, Haruka (UK)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t!sco/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/t!sco/)*

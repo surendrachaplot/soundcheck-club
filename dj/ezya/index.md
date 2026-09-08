@@ -1,6 +1,6 @@
 # Ezya
 
-Ezya is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Foro Ying, Mexico City on Sat, 31 Oct 2026.
+Ezya is a Reggaeton and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Foro Ying, Mexico City on Sat, 31 Oct 2026.
 
 Ezya is a reggaeton and techno artist based in Mexico, tracked on soundcheck, with 28 sets logged across Mexicocity. Often billed alongside Mensik, fka phaedra and Deenia. Next up: TBA - Foro Ying, Mexicocity on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ezya is a reggaeton and techno artist based in Mexico, tracked on soundcheck, wi
 
 Mensik, fka phaedra, Deenia
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezya/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ezya/)*

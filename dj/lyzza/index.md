@@ -1,6 +1,6 @@
 # LYZZA
 
-LYZZA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 12 Sept 2026.
+LYZZA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Golden Pudel Club, Hamburg on Sat, 12 Sept 2026.
 
 LYZZA is a techno and club artist tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside Chinnamasta, DIORA and ARRA. Next up: Golden Pudel Club, Hamburg on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ LYZZA is a techno and club artist tracked on soundcheck, with 57 sets logged acr
 
 Chinnamasta, DIORA, ARRA
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzza/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzza/)*

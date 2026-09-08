@@ -1,6 +1,6 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 42 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Buttheads Label Party with Luisa, Marlon Clark, Shjva, Temple Rat (live) and Martin Gilleshøj" on Fri, 11 Sept 2026.
+TBA - Secret Location is a music venue in London with 42 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Buttheads Label Party with Luisa, Marlon Clark, Shjva, Temple Rat (live) and Martin Gilleshøj" on Fri, 11 Sept 2026.
 
 TBA - Secret Location is a music venue in London listed on soundcheck. 42 upcoming nights, with line-ups including 7038634357, DJ JUANNY, Atlantic Energy and Auua. and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 42 upcomi
 | Wed, 16 Sept 2026 | Sofar Sounds meets Reeperbahn Festival '26 |  |
 | Thu, 17 Sept 2026 | Good Grief x Protein present: Pavel Milyakov, 7038634357, Rohana, MARBLE RYE, Peregrine | 7038634357, Buttechno, MARBLE RYE, Peregrine (US) |
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

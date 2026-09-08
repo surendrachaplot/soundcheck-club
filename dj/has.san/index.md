@@ -1,6 +1,6 @@
 # has.san
 
-has.san is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bastet, Philadelphia on Sat, 19 Sept 2026.
+has.san is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bastet, Philadelphia on Sat, 19 Sept 2026.
 
 has.san is a techno and house artist based in United States of America, tracked on soundcheck, with 15 sets logged across Philadelphia and Washingtondc. Often billed alongside Juana, Associate and Firestone. Next up: Bastet, Philadelphia on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ has.san is a techno and house artist based in United States of America, tracked 
 
 Juana, Associate, Firestone
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/has.san/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/has.san/)*

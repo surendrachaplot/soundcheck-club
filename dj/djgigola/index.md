@@ -1,14 +1,13 @@
 # DJ Gigola
 
-DJ Gigola is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+DJ Gigola is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Washington DC on Sat, 12 Sept 2026.
 
-DJ Gigola is a techno and house artist tracked on soundcheck, with 242 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside MCR-T, KI/KI and Anetha. Next up: Union Park, Chicago on Fri 4 Sept.
+DJ Gigola is a techno and house artist tracked on soundcheck, with 242 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside MCR-T, KI/KI and Anetha. Next up: TBA, Washingtondc on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 12 Sept 2026 | TBA | Washington DC |
 | Sun, 13 Sept 2026 | Brooklyn Army Terminal | New York City |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
@@ -30,4 +29,4 @@ DJ Gigola is a techno and house artist tracked on soundcheck, with 242 sets logg
 
 MCR-T, KI/KI, Anetha
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*

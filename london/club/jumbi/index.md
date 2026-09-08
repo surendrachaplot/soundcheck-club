@@ -1,6 +1,6 @@
 # Jumbi
 
-Jumbi is a music venue in London with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "DOTWAVNOTWAVE presents: 0RACL3 & Friends" on Thu, 10 Sept 2026.
+Jumbi is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "DOTWAVNOTWAVE presents: 0RACL3 & Friends" on Thu, 10 Sept 2026.
 
 Jumbi is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including 0RACL3, Deepa, Esk (UK) and Pappafunk and 1 more. Browse upcoming dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
 
@@ -19,4 +19,4 @@ Jumbi is a music venue in London listed on soundcheck. 6 upcoming nights, with l
 
 Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*

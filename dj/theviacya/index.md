@@ -1,6 +1,6 @@
 # Theviacya
 
-Theviacya is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Hafenklang, Hamburg on Fri, 11 Sept 2026.
+Theviacya is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Hafenklang, Hamburg on Fri, 11 Sept 2026.
 
 Theviacya is a techno and house artist based in Poland, tracked on soundcheck, with 19 sets logged across Hamburg, Krakow and Warsaw. Often billed alongside ADHARDER, Claude Degas and Francesca. Next up: Hafenklang, Hamburg on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Theviacya is a techno and house artist based in Poland, tracked on soundcheck, w
 
 ADHARDER, Claude Degas, Francesca
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theviacya/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theviacya/)*

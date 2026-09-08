@@ -1,6 +1,6 @@
 # Moretz
 
-Moretz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at OXI, Berlin on Fri, 16 Oct 2026.
+Moretz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at OXI, Berlin on Fri, 16 Oct 2026.
 
 Moretz is a house and techno artist based in Brazil, tracked on soundcheck, with 50 sets logged across Berlin, Leipzig, Lisbon and London and 4 more. Often billed alongside Mark Gill, Delfonic and Kapote. Next up: OXI, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Moretz is a house and techno artist based in Brazil, tracked on soundcheck, with
 
 Mark Gill, Delfonic, Kapote
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moretz/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moretz/)*

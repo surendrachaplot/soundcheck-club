@@ -1,6 +1,6 @@
 # Mattik (UK)
 
-Mattik (UK) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Joshua Brooks, Manchester on Fri, 16 Oct 2026.
+Mattik (UK) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Joshua Brooks, Manchester on Fri, 16 Oct 2026.
 
 Mattik (UK) is a garage and bass artist tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Bangkok and Bristol and 10 more. Often billed alongside Mattik UK, Seb Skint and Rich Reason. Next up: Joshua Brooks, Manchester on Fri 16 Oct.
 
@@ -28,4 +28,4 @@ Mattik (UK) is a garage and bass artist tracked on soundcheck, with 59 sets logg
 
 Mattik UK, Seb Skint, Rich Reason
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattik-uk/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattik-uk/)*

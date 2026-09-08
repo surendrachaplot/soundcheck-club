@@ -1,14 +1,13 @@
 # Club der Visionaere
 
-Club der Visionaere is a music venue in Berlin with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Musek Vol. VI" on Mon, 7 Sept 2026.
+Club der Visionaere is a music venue in Berlin with 8 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "LuckIsOn" on Tue, 8 Sept 2026.
 
-Club der Visionaere is a music venue in Berlin listed on soundcheck. 9 upcoming nights, with line-ups including Samuele Pagliai, Anderson (US), BioN and Clovis and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
+Club der Visionaere is a music venue in Berlin listed on soundcheck. 8 upcoming nights, with line-ups including Samuele Pagliai, Anderson (US), Clovis and Daniele Papini and 2 more. Browse upcoming dates, start times and who's playing. Am Flutgraben 1, 12435 Berlin, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | Musek Vol. VI | BioN, Hamsa |
 | Tue, 8 Sept 2026 | LuckIsOn | Mayell, Tzena |
 | Wed, 9 Sept 2026 | 10 Years of Secret Society at CDV | JOAQUIN LLEDO, Mike Shannon, Thomas Melchior, Volkan Akin |
 | Thu, 10 Sept 2026 | Noisy Glance | Daniele Papini, Topper |
@@ -22,4 +21,4 @@ Club der Visionaere is a music venue in Berlin listed on soundcheck. 9 upcoming 
 
 Am Flutgraben 1, 12435 Berlin, Germany, Berlin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/club-der-visionaere/)*

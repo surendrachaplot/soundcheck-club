@@ -1,6 +1,6 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Juiced Open Air with Shonky" on Fri, 11 Sept 2026.
+Ouseburn Garden is a music venue in Newcastle with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Juiced Open Air with Shonky" on Fri, 11 Sept 2026.
 
 Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming nights, with line-ups including Mariiin, Adam Lance, Alisdair and Bobby O'Donnell and 2 more. Browse upcoming dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
@@ -20,4 +20,4 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming n
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

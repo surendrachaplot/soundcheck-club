@@ -1,6 +1,6 @@
 # Matthew Dear
 
-Matthew Dear is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Hidden Hall, Seattle on Fri, 2 Oct 2026.
+Matthew Dear is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hidden Hall, Seattle on Fri, 2 Oct 2026.
 
 Matthew Dear is a house and techno artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Boston and 14 more. Often billed alongside Juan Maclean, Carl Craig and Trip Report. Next up: Hidden Hall, Seattle on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Matthew Dear is a house and techno artist tracked on soundcheck, with 52 sets lo
 
 Juan Maclean, Carl Craig, Trip Report
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdear/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewdear/)*

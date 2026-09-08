@@ -1,14 +1,15 @@
 # Chus & Ceballos
 
-Chus & Ceballos is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 12 Sept 2026.
+Chus & Ceballos is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 12 Sept 2026.
 
-Chus & Ceballos are a house and tech house duo based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona, Boston, Chicago and Denver and 10 more. Often billed alongside Amal Nemer, Ben Arsenal and Claptone. Next up: Chinois Ibiza, Ibiza on Sat 12 Sept.
+Chus & Ceballos are a house and tech house duo based in Spain, tracked on soundcheck, with 22 sets logged across Barcelona, Boston, Chicago and Denver and 10 more. Often billed alongside Amal Nemer, Ben Arsenal and Claptone. Next up: Chinois Ibiza, Ibiza on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Chinois Ibiza | Ibiza |
+| Sat, 17 Oct 2026 | Halcyon | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | BERHTA | Washington DC |
 
 ## Recently played
@@ -26,4 +27,4 @@ Chus & Ceballos are a house and tech house duo based in Spain, tracked on soundc
 
 Amal Nemer, Ben Arsenal, Claptone
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*

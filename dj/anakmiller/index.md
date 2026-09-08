@@ -1,6 +1,6 @@
 # Ana K Miller
 
-Ana K Miller is a Ambient and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
+Ana K Miller is a Ambient and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
 
 Ana K Miller is an ambient and downtempo artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Edinburgh, Glasgow, Leeds and Manchester. Often billed alongside Slacky [Space Ritual], Anna Vs June and Jan Van Angelopoulos. Next up: Platt Fields Market Garden, Manchester on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Ana K Miller is an ambient and downtempo artist based in United Kingdom, tracked
 
 Slacky [Space Ritual], Anna Vs June, Jan Van Angelopoulos
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anakmiller/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anakmiller/)*

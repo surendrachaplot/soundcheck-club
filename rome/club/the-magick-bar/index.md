@@ -1,6 +1,6 @@
 # THE MAGICK BAR
 
-THE MAGICK BAR is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "THE MAGICK BAR presents: Donato Dozzy, Matisa" on Wed, 9 Sept 2026.
+THE MAGICK BAR is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "THE MAGICK BAR presents: Donato Dozzy, Matisa" on Wed, 9 Sept 2026.
 
 THE MAGICK BAR is a music venue in Rome listed on soundcheck. 4 upcoming nights, with line-ups including Donato Dozzy, Jimmy Siao, Mantis (IT) and Matisa and 2 more. Browse upcoming dates, start times and who's playing. Via Lungotevere Oberdan, 2 Rome, Italy 00195.
 
@@ -17,4 +17,4 @@ THE MAGICK BAR is a music venue in Rome listed on soundcheck. 4 upcoming nights,
 
 Via Lungotevere Oberdan, 2 Rome, Italy 00195, Rome
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/the-magick-bar/)*

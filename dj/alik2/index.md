@@ -1,6 +1,6 @@
 # AliK2
 
-AliK2 is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Le Red Room, Montreal on Tue, 22 Sept 2026.
+AliK2 is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Le Red Room, Montreal on Tue, 22 Sept 2026.
 
 AliK2 is a techno artist tracked on soundcheck, with 7 sets logged across Montreal. Often billed alongside HUMMER, ALEX REV and BPlease. Next up: Le Red Room, Montreal on Tue 22 Sept.
 
@@ -23,4 +23,4 @@ AliK2 is a techno artist tracked on soundcheck, with 7 sets logged across Montre
 
 HUMMER, ALEX REV, BPlease
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alik2/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alik2/)*

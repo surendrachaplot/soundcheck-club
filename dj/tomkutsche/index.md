@@ -1,6 +1,6 @@
 # Tom Kutsche
 
-Tom Kutsche is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Espai Salvadiscos, Barcelona on Sat, 12 Sept 2026.
+Tom Kutsche is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Espai Salvadiscos, Barcelona on Sat, 12 Sept 2026.
 
 Tom Kutsche is a house and disco artist based in Germany, tracked on soundcheck, with 75 sets logged across Barcelona, Berlin, Cologne and Hamburg and 3 more. Often billed alongside Diskohengst, Merlin Monroe and Valentino 45. Next up: Espai Salvadiscos, Barcelona on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Tom Kutsche is a house and disco artist based in Germany, tracked on soundcheck,
 
 Diskohengst, Merlin Monroe, Valentino 45
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomkutsche/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomkutsche/)*

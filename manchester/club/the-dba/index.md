@@ -1,6 +1,6 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 17 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Rising by HØL" on Thu, 10 Sept 2026.
+The DBA is a music venue in Manchester with 17 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Rising by HØL" on Thu, 10 Sept 2026.
 
 The DBA is a music venue in Manchester listed on soundcheck. 17 upcoming nights, with line-ups including Aerbreak, b.lo, BMOL and Breaka and 2 more. Browse upcoming dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
@@ -23,4 +23,4 @@ The DBA is a music venue in Manchester listed on soundcheck. 17 upcoming nights,
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

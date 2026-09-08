@@ -1,6 +1,6 @@
 # FRESH FACES (FREE ENTRY): Mirya, Moni von Pisani, Gerardo Moncada, Nicki Spumante at Bulbul Berlin
 
-FRESH FACES (FREE ENTRY): Mirya, Moni von Pisani, Gerardo Moncada, Nicki Spumante at Bulbul Berlin on Thu 10 Sept, Berlin. 3 acts on the bill: Gerardo Moncada, Moni von Pisani and Nicki Spumante. House and Club. Preview the line-up and save it on soundcheck.
+FRESH FACES (FREE ENTRY): Mirya, Moni von Pisani, Gerardo Moncada, Nicki Spumante at Bulbul Berlin on Thu 10 Sept, Berlin. 4 acts on the bill: Gerardo Moncada, Mirya, Moni von Pisani and Nicki Spumante. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ FRESH FACES (FREE ENTRY): Mirya, Moni von Pisani, Gerardo Moncada, Nicki Spumant
 ## Line-up
 
 - Gerardo Moncada
+- Mirya
 - Moni von Pisani
 - Nicki Spumante
 

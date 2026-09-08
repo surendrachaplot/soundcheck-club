@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "place to be feat. sekko (live)" on Thu, 10 Sept 2026.
+Ikii is a music venue in Berlin with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "place to be feat. sekko (live)" on Thu, 10 Sept 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with line-ups including Alex Jenkin and Ben Kaczor. Browse upcoming dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 3 upcoming nights, with li
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

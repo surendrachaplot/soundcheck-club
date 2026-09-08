@@ -1,6 +1,6 @@
 # Electric Brixton
 
-Electric Brixton is a music venue in London with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "WE Pink: Prison" on Sat, 3 Oct 2026.
+Electric Brixton is a music venue in London with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "WE Pink: Prison" on Sat, 3 Oct 2026.
 
 Electric Brixton is a music venue in London listed on soundcheck. 6 upcoming nights, with line-ups including DJ EZ, Eli Brown, Miss Bashful and The Ragga Twins. Browse upcoming dates, start times and who's playing. Town Hall Parade; Brixton; London SW2 1RJ; United Kingdom.
 
@@ -19,4 +19,4 @@ Electric Brixton is a music venue in London listed on soundcheck. 6 upcoming nig
 
 Town Hall Parade; Brixton; London SW2 1RJ; United Kingdom, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-brixton/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-brixton/)*

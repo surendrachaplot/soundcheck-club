@@ -1,14 +1,15 @@
 # MSG
 
-MSG is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Red Rattler, Sydney on Sat, 12 Sept 2026.
+MSG is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Red Rattler, Sydney on Sat, 12 Sept 2026.
 
-MSG is a techno and club artist based in Australia, tracked on soundcheck, with 17 sets logged across Bristol, Seoul, Sydney and Tokyo. Often billed alongside YONKS, ARTISAH and Alice Burcovich. Next up: The Red Rattler, Sydney on Sat 12 Sept.
+MSG is a techno and club artist based in Australia, tracked on soundcheck, with 18 sets logged across Bristol, Seoul, Sydney and Tokyo. Often billed alongside YONKS, ARTISAH and Alice Burcovich. Next up: The Red Rattler, Sydney on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The Red Rattler | Sydney |
+| Sat, 10 Oct 2026 | The Flinders | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MSG is a techno and club artist based in Australia, tracked on soundcheck, with 
 
 YONKS, ARTISAH, Alice Burcovich
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msg/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/msg/)*

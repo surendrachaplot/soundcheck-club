@@ -1,14 +1,15 @@
 # Fari Mond
 
-Fari Mond is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
+Fari Mond is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hoxton Cabin, London on Fri, 11 Sept 2026.
 
-Fari Mond is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Ceri, Joe Mellors and Benebe. Next up: Hoxton Cabin, London on Fri 11 Sept.
+Fari Mond is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Amsterdam and London. Often billed alongside Ceri, Joe Mellors and ARYA (3). Next up: Hoxton Cabin, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Hoxton Cabin | London |
+| Thu, 22 Oct 2026 | Duke Of Tokyo | Amsterdam |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ Fari Mond is a house and deep house artist based in United Kingdom, tracked on s
 
 ## Shares bills with
 
-Ceri, Joe Mellors, Benebe
+Ceri, Joe Mellors, ARYA (3)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farimond/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farimond/)*

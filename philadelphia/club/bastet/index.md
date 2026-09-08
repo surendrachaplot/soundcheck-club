@@ -1,6 +1,6 @@
 # Bastet
 
-Bastet is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "SHADOWPLAY [goth/darkwave/industrial]" on Fri, 11 Sept 2026.
+Bastet is a music venue in Philadelphia with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "SHADOWPLAY [goth/darkwave/industrial]" on Fri, 11 Sept 2026.
 
 Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming nights, with line-ups including DJ Matpat, DJ Reezey, DJ Sega and DJ Sylo and 2 more. Browse upcoming dates, start times and who's playing. 601 Spring Garden St, Philadelphia PA 19123.
 
@@ -19,4 +19,4 @@ Bastet is a music venue in Philadelphia listed on soundcheck. 6 upcoming nights,
 
 601 Spring Garden St, Philadelphia PA 19123, Philadelphia
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/bastet/)*

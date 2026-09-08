@@ -1,6 +1,6 @@
 # Chinese Laundry
 
-Chinese Laundry is a music venue in Sydney with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Chinese Laundry Invites C.FRIM + MIRASIA" on Fri, 11 Sept 2026.
+Chinese Laundry is a music venue in Sydney with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Chinese Laundry Invites C.FRIM + MIRASIA" on Fri, 11 Sept 2026.
 
 Chinese Laundry is a music venue in Sydney listed on soundcheck. 7 upcoming nights, with line-ups including AMMARA, Amotik, bradeazy and C.FRIM and 2 more. Browse upcoming dates, start times and who's playing. 111 Sussex St; Sydney, NSW 2000; Australia.
 
@@ -20,4 +20,4 @@ Chinese Laundry is a music venue in Sydney listed on soundcheck. 7 upcoming nigh
 
 111 Sussex St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/chinese-laundry/)*

@@ -1,14 +1,13 @@
 # Tiga
 
-Tiga is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Tiga is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
-Tiga is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 38 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: Union Park, Chicago on Fri 4 Sept.
+Tiga is a techno and house artist tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 38 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
 | Sat, 3 Oct 2026 | OCZKI | Warsaw |
 | Fri, 9 Oct 2026 | FOLD | London |
@@ -33,4 +32,4 @@ Tiga is a techno and house artist tracked on soundcheck, with 117 sets logged ac
 
 DJ Holographic, DJ Tennis, KI/KI
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

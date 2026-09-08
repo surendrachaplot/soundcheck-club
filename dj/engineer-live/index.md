@@ -1,6 +1,6 @@
 # Engineer (Live)
 
-Engineer (Live) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Dalston Den, London on Sat, 12 Sept 2026.
+Engineer (Live) is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Dalston Den, London on Sat, 12 Sept 2026.
 
 Engineer (Live) is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across London. Often billed alongside Das ist Vas, VERTEX (2) and AAKAARA. Next up: Dalston Den, London on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Engineer (Live) is a techno and industrial artist based in United Kingdom, track
 
 Das ist Vas, VERTEX (2), AAKAARA
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/engineer-live/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/engineer-live/)*

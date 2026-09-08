@@ -1,6 +1,6 @@
 # The Menendez Brothers
 
-The Menendez Brothers is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Pacha Ibiza, Ibiza on Sat, 12 Sept 2026.
+The Menendez Brothers is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Pacha Ibiza, Ibiza on Sat, 12 Sept 2026.
 
 The Menendez Brothers is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 73 sets logged across Berlin, Bristol, Ibiza and London. Often billed alongside Andrea Oliva, Djammin and Meeshy. Next up: Pacha Ibiza, Ibiza on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ The Menendez Brothers is a house and tech house artist based in United Kingdom, 
 
 Andrea Oliva, Djammin, Meeshy
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themenendezbrothers/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/themenendezbrothers/)*

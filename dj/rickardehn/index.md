@@ -1,6 +1,6 @@
 # Rickard Ehn
 
-Rickard Ehn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at House of Q, Stockholm on Sat, 12 Sept 2026.
+Rickard Ehn is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at House of Q, Stockholm on Sat, 12 Sept 2026.
 
 Rickard Ehn is a techno and house artist tracked on soundcheck, with 3 sets logged across Stockholm. Often billed alongside Axel Hallqvist, Dea (6) and ERIS. Next up: House of Q, Stockholm on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Rickard Ehn is a techno and house artist tracked on soundcheck, with 3 sets logg
 
 Axel Hallqvist, Dea (6), ERIS
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickardehn/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickardehn/)*

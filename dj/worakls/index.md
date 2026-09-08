@@ -1,8 +1,8 @@
 # Worakls
 
-Worakls is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 12 Sept 2026.
+Worakls is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 12 Sept 2026.
 
-Worakls is a techno and progressive house artist tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Basel and Berlin and 27 more. Often billed alongside Aalson, Carina Lawrence and Mees Salomé. Next up: Seaseaclub Barcelona, Barcelona on Sat 12 Sept.
+Worakls is a techno and progressive house artist tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Basel and Berlin and 27 more. Often billed alongside Aalson, Carina Lawrence and Mees Salomé. Next up: Seaseaclub Barcelona, Barcelona on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Worakls is a techno and progressive house artist tracked on soundcheck, with 75 
 | Sat, 12 Sept 2026 | Seaseaclub Barcelona | Barcelona |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 20 Nov 2026 | Ritter Butzke | Berlin |
+| Fri, 4 Dec 2026 | UNLOCKED | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Worakls is a techno and progressive house artist tracked on soundcheck, with 75 
 
 Aalson, Carina Lawrence, Mees Salomé
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*

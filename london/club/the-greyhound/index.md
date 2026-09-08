@@ -1,6 +1,6 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 17 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "BRICKS N' MORTAR" on Thu, 10 Sept 2026.
+The Greyhound is a music venue in London with 17 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "BRICKS N' MORTAR" on Thu, 10 Sept 2026.
 
 The Greyhound is a music venue in London listed on soundcheck. 17 upcoming nights, with line-ups including AJA, Albi & Kego, Alex Wilcox and Bobby Mac and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
@@ -23,4 +23,4 @@ The Greyhound is a music venue in London listed on soundcheck. 17 upcoming night
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

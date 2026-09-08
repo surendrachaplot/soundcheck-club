@@ -1,6 +1,6 @@
 # Nico Tobón
 
-Nico Tobón is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Subspace, Denver on Sat, 19 Sept 2026.
+Nico Tobón is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Subspace, Denver on Sat, 19 Sept 2026.
 
 Nico Tobón is a house and techno artist based in United States of America, tracked on soundcheck, with 37 sets logged across Denver, Mexicocity, Newyorkcity and Portland. Often billed alongside wngdu, Brunson and Diego Andres. Next up: Subspace, Denver on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Nico Tobón is a house and techno artist based in United States of America, trac
 
 wngdu, Brunson, Diego Andres
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicotobon/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicotobon/)*

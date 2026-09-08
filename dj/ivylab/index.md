@@ -1,6 +1,6 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 10 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Lincoln Factory, Detroit on Fri, 11 Sept 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 10 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Lincoln Factory, Detroit on Fri, 11 Sept 2026.
 
 Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 82 sets logged across Antwerp, Auckland, Austin and Berlin and 28 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: Lincoln Factory, Detroit on Fri 11 Sept.
 
@@ -34,4 +34,4 @@ Ivy Lab is a bass and drum & bass artist tracked on soundcheck, with 82 sets log
 
 Kasra, Lake Hills, Jubilee
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

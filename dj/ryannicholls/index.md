@@ -1,6 +1,6 @@
 # Ryan Nicholls
 
-Ryan Nicholls is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 8 Sept 2026.
+Ryan Nicholls is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 8 Sept 2026.
 
 Ryan Nicholls is a house and tech house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 7 more. Often billed alongside Josh Gregg, Ryan Resso and Fleur Shore. Next up: Hï Ibiza, Ibiza on Tue 8 Sept.
 
@@ -28,4 +28,4 @@ Ryan Nicholls is a house and tech house artist tracked on soundcheck, with 29 se
 
 Josh Gregg, Ryan Resso, Fleur Shore
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ryannicholls/)*

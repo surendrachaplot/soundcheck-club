@@ -1,6 +1,6 @@
 # SPILVE RAVE at Spilve Airport
 
-SPILVE RAVE at Spilve Airport on Fri 2 Oct, Riga. 3 acts on the bill: Anabel Arroyo, KAGATE and Ksenia Kamikaza. Techno and Acid. Preview the line-up and save it on soundcheck.
+SPILVE RAVE at Spilve Airport on Fri 2 Oct, Riga. 4 acts on the bill: Anabel Arroyo, Aniri Chan, KAGATE and Ksenia Kamikaza. Techno and Broken Beat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SPILVE RAVE at Spilve Airport on Fri 2 Oct, Riga. 3 acts on the bill: Anabel Arr
 ## Line-up
 
 - Anabel Arroyo
+- Aniri Chan
 - KAGATE
 - Ksenia Kamikaza
 

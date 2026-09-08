@@ -1,6 +1,6 @@
 # Blck-Swan
 
-Blck-Swan is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Sensorium, Berlin on Wed, 16 Sept 2026.
+Blck-Swan is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sensorium, Berlin on Wed, 16 Sept 2026.
 
 Blck-Swan is a techno and tech house artist tracked on soundcheck, with 60 sets logged across Berlin and Milan. Often billed alongside H7 (3), The Kiss and Benua. Next up: Sensorium, Berlin on Wed 16 Sept.
 
@@ -30,4 +30,4 @@ Blck-Swan is a techno and tech house artist tracked on soundcheck, with 60 sets 
 
 H7 (3), The Kiss, Benua
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blck-swan/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blck-swan/)*

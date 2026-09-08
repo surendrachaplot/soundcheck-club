@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Wada Yosuke (Cowboy Family, Tokyo) B2B Sunsiaré (宀, Hong Kong)" on Fri, 11 Sept 2026.
+宀 Club is a music venue in Hong Kong with 18 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Wada Yosuke (Cowboy Family, Tokyo) B2B Sunsiaré (宀, Hong Kong)" on Fri, 11 Sept 2026.
 
 宀 Club is a music venue in Hongkong listed on soundcheck. 18 upcoming nights, with line-ups including 69DB, Andy-S, A Strange Wedding and Carl H and 2 more. Browse upcoming dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

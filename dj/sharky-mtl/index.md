@@ -1,6 +1,6 @@
 # Sharky (MTL)
 
-Sharky (MTL) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Le Livart, Montreal on Sat, 12 Sept 2026.
+Sharky (MTL) is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Le Livart, Montreal on Sat, 12 Sept 2026.
 
 Sharky (MTL) is a techno and hardcore artist based in Canada, tracked on soundcheck, with 6 sets logged across Montreal. Often billed alongside InFiltr and Toltech. Next up: Le Livart, Montreal on Sat 12 Sept.
 
@@ -22,4 +22,4 @@ Sharky (MTL) is a techno and hardcore artist based in Canada, tracked on soundch
 
 InFiltr, Toltech
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharky-mtl/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sharky-mtl/)*

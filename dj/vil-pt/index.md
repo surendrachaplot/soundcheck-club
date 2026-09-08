@@ -1,6 +1,6 @@
 # VIL (PT)
 
-VIL (PT) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
+VIL (PT) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Barragem da Queimadela, Porto on Thu, 10 Sept 2026.
 
 VIL (PT) is a techno and house artist based in Portugal, tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside CRAVO, Temudo and Nørbak. Next up: Barragem da Queimadela, Porto on Thu 10 Sept.
 
@@ -29,4 +29,4 @@ VIL (PT) is a techno and house artist based in Portugal, tracked on soundcheck, 
 
 CRAVO, Temudo, Nørbak
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*

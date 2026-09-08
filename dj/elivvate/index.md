@@ -1,6 +1,6 @@
 # ELIVVATE
 
-ELIVVATE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Deep End, New York City on Fri, 25 Sept 2026.
+ELIVVATE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Deep End, New York City on Fri, 25 Sept 2026.
 
 ELIVVATE is a techno and trance artist based in United States of America, tracked on soundcheck, with 7 sets logged across Newyorkcity and Philadelphia. Often billed alongside Pablo Vitale, a.gar and Amado. Next up: The Deep End, Newyorkcity on Fri 25 Sept.
 
@@ -23,4 +23,4 @@ ELIVVATE is a techno and trance artist based in United States of America, tracke
 
 Pablo Vitale, a.gar, Amado
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elivvate/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elivvate/)*

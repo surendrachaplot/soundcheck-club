@@ -1,6 +1,6 @@
 # Patrick Topping
 
-Patrick Topping is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
+Patrick Topping is a Tech House and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Glen Helen Regional Park, Los Angeles on Sat, 19 Sept 2026.
 
 Patrick Topping is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 171 sets logged across Amsterdam, Austin, Bali and Barcelona and 42 more. Often billed alongside Eric Prydz, Adam Beyer and Dom Dolla. Next up: Glen Helen Regional Park, Losangeles on Sat 19 Sept.
 
@@ -31,4 +31,4 @@ Patrick Topping is a tech house and house artist based in United Kingdom, tracke
 
 Eric Prydz, Adam Beyer, Dom Dolla
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/patricktopping/)*

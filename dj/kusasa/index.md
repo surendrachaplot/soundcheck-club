@@ -1,6 +1,6 @@
 # Kusasa
 
-Kusasa is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The White Hotel, Manchester on Sat, 19 Sept 2026.
+Kusasa is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The White Hotel, Manchester on Sat, 19 Sept 2026.
 
 Kusasa is a house and broken beat artist tracked on soundcheck, with 57 sets logged across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside Moova, Oriki and Obeka. Next up: The White Hotel, Manchester on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Kusasa is a house and broken beat artist tracked on soundcheck, with 57 sets log
 
 Moova, Oriki, Obeka
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kusasa/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kusasa/)*

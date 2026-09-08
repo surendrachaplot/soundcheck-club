@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Vigilante presents: Nu Zau, Amy Jor, Jeny Michelle" on Thu, 10 Sept 2026.
+Signal is a music venue in New York City with 19 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Vigilante presents: Nu Zau, Amy Jor, Jeny Michelle" on Thu, 10 Sept 2026.
 
 Signal is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in Newyorkcity listed on soundcheck. 19 upcoming nights,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

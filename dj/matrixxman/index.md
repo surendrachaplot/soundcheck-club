@@ -1,6 +1,6 @@
 # Matrixxman
 
-Matrixxman is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Horn, Bangkok on Thu, 10 Sept 2026.
+Matrixxman is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Horn, Bangkok on Thu, 10 Sept 2026.
 
 Matrixxman is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 56 more. Often billed alongside Laure Croft, Ellen Allien and Frederic.. Next up: Horn, Bangkok on Thu 10 Sept.
 
@@ -28,4 +28,4 @@ Matrixxman is a techno and house artist tracked on soundcheck, with 169 sets log
 
 Laure Croft, Ellen Allien, Frederic.
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*

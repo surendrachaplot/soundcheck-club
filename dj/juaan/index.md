@@ -1,6 +1,6 @@
 # JUAAN
 
-JUAAN is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 11 Sept 2026.
+JUAAN is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Platforma Wolff, Bucharest on Fri, 11 Sept 2026.
 
 JUAAN is a house and techno artist tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Brussels and Bucharest and 21 more. Often billed alongside Alex Dima, Alexia Glensy and Dyed Soundorom. Next up: Platforma Wolff, Bucharest on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ JUAAN is a house and techno artist tracked on soundcheck, with 65 sets logged ac
 
 Alex Dima, Alexia Glensy, Dyed Soundorom
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juaan/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/juaan/)*

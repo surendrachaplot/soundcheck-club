@@ -1,14 +1,15 @@
 # Civaro
 
-Civaro is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 11 Sept 2026.
+Civaro is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Almar Beach Club, Barcelona on Fri, 11 Sept 2026.
 
-Civaro is a techno and tech house artist based in Chile, tracked on soundcheck, with 33 sets logged across Barcelona. Often billed alongside Miguel Silva, Popsky and Saulo Pisa. Next up: Almar Beach Club, Barcelona on Fri 11 Sept.
+Civaro is a techno and electronica artist based in Chile, tracked on soundcheck, with 34 sets logged across Barcelona. Often billed alongside Miguel Silva, Popsky and Saulo Pisa. Next up: Almar Beach Club, Barcelona on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Almar Beach Club | Barcelona |
+| Fri, 18 Sept 2026 | Almar Beach Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Civaro is a techno and tech house artist based in Chile, tracked on soundcheck, 
 
 Miguel Silva, Popsky, Saulo Pisa
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/civaro/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/civaro/)*

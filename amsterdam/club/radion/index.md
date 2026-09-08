@@ -1,6 +1,6 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 26 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming" on Fri, 11 Sept 2026.
+RADION is a music venue in Amsterdam with 26 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "RADION with Pink Concrete, Cleric, Pooja B, LINDS, Ken-Ming" on Fri, 11 Sept 2026.
 
 RADION is a music venue in Amsterdam listed on soundcheck. 26 upcoming nights, with line-ups including 36framez, 42nd Avenue, Justine Perry and ADHDJ (2) and 2 more. Browse upcoming dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
@@ -23,4 +23,4 @@ RADION is a music venue in Amsterdam listed on soundcheck. 26 upcoming nights, w
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

@@ -1,6 +1,6 @@
 # Flame Jade
 
-Flame Jade is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
+Flame Jade is a Jungle and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at LDN East, London on Sat, 26 Sept 2026.
 
 Flame Jade is a jungle and garage artist tracked on soundcheck, with 7 sets logged across London. Often billed alongside DJ Brockie, DJ SS and Nicky B. Next up: LDN East, London on Sat 26 Sept.
 
@@ -23,4 +23,4 @@ Flame Jade is a jungle and garage artist tracked on soundcheck, with 7 sets logg
 
 DJ Brockie, DJ SS, Nicky B
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flamejade/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flamejade/)*

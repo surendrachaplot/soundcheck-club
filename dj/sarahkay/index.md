@@ -1,6 +1,6 @@
 # Sarah Kay
 
-Sarah Kay is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at ESC, Montreal on Sat, 12 Sept 2026.
+Sarah Kay is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at ESC, Montreal on Sat, 12 Sept 2026.
 
 Sarah Kay is a techno and trance artist tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside ArioVistus, BUYMEFLOVVERS and Char.l.n. Next up: ESC, Montreal on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Sarah Kay is a techno and trance artist tracked on soundcheck, with 9 sets logge
 
 ArioVistus, BUYMEFLOVVERS, Char.l.n
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahkay/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahkay/)*

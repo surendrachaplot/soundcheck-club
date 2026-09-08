@@ -1,14 +1,15 @@
 # Seqta
 
-Seqta is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Left Bank, Tbilisi on Sat, 12 Sept 2026.
+Seqta is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Left Bank, Tbilisi on Sat, 12 Sept 2026.
 
-Seqta is a techno and trance artist based in Germany, tracked on soundcheck, with 140 sets logged across Athens, Berlin, Copenhagen and Nantes and 2 more. Often billed alongside DJ Sense, Generali Minerali and HORNS (1). Next up: Left Bank, Tbilisi on Sat 12 Sept.
+Seqta is a trance and techno artist based in Germany, tracked on soundcheck, with 141 sets logged across Athens, Berlin, Copenhagen and Dublin and 3 more. Often billed alongside DJ Sense, Generali Minerali and HORNS (1). Next up: Left Bank, Tbilisi on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Left Bank | Tbilisi |
+| Fri, 25 Sept 2026 | The Sound House | Dublin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Seqta is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 DJ Sense, Generali Minerali, HORNS (1)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seqta/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seqta/)*

@@ -1,6 +1,6 @@
 # D'Julz
 
-D'Julz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at BRET, Amsterdam on Sat, 12 Sept 2026.
+D'Julz is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at BRET, Amsterdam on Sat, 12 Sept 2026.
 
 D'Julz is a house and minimal artist based in France, tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Alexander Skancke, DJ Senc and Traumer. Next up: BRET, Amsterdam on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ D'Julz is a house and minimal artist based in France, tracked on soundcheck, wit
 
 Alexander Skancke, DJ Senc, Traumer
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*

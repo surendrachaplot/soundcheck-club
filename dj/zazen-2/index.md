@@ -1,6 +1,6 @@
 # ZAZEN (2)
 
-ZAZEN (2) is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Shinjuku Duusraa, Tokyo on Fri, 18 Sept 2026.
+ZAZEN (2) is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Shinjuku Duusraa, Tokyo on Fri, 18 Sept 2026.
 
 ZAZEN (2) is a dubstep and bass artist based in Japan, tracked on soundcheck, with 7 sets logged across Tokyo. Often billed alongside MOOTOE, SYNE. and VECSILLE. Next up: Shinjuku Duusraa, Tokyo on Fri 18 Sept.
 
@@ -23,4 +23,4 @@ ZAZEN (2) is a dubstep and bass artist based in Japan, tracked on soundcheck, wi
 
 MOOTOE, SYNE., VECSILLE
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zazen-2/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zazen-2/)*

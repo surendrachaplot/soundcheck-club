@@ -1,13 +1,14 @@
 # DAY/DEM
 
-DAY/DEM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+DAY/DEM is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bossa Nova Civic Club, New York City on Sun, 27 Sept 2026.
 
-DAY/DEM is a techno and house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Miami and Newyorkcity. Often billed alongside ALEJO (US), Duality (US) and Elias Garcia. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+DAY/DEM is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Miami and Newyorkcity. Often billed alongside ALEJO (US), Duality (US) and Elias Garcia. Next up: Bossa Nova Civic Club, Newyorkcity on Sun 27 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 27 Sept 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ DAY/DEM is a techno and house artist based in United States of America, tracked 
 
 ALEJO (US), Duality (US), Elias Garcia
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daydem/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daydem/)*

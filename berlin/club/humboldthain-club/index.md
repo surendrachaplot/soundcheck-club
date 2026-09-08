@@ -1,8 +1,8 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 20 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Open Decks & Tischtennis" on Tue, 8 Sept 2026.
+Humboldthain Club is a music venue in Berlin with 21 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Open Decks & Tischtennis" on Tue, 8 Sept 2026.
 
-Humboldthain Club is a music venue in Berlin listed on soundcheck. 20 upcoming nights, with line-ups including YOVA, __iwana__, AHAB and Anna Almani and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
+Humboldthain Club is a music venue in Berlin listed on soundcheck. 21 upcoming nights, with line-ups including YOVA, __iwana__, AHAB and Anna Almani and 2 more. Browse upcoming dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 20 upcoming n
 | Tue, 22 Sept 2026 | Open Decks & Tischtennis |  |
 | Fri, 25 Sept 2026 | Lange Nacht der Wissenschaft | Bamela Paywatch, DJ Purpur, Pavelo Promillo, tamarawrx3 |
 | Tue, 29 Sept 2026 | Open Decks & Tischtennis |  |
+| Fri, 2 Oct 2026 | Motus x ragazzi | E.T., Hen K, Nadia Bel Air, Smoothie Operator, e.leptic |
 | Tue, 6 Oct 2026 | Open Decks & Tischtennis |  |
-| Fri, 9 Oct 2026 | STUDIO 69 w/ Egyptian Lover & ARABIAN PRINCE | Cufme, DJ Business (2), Egyptian Lover, Femdelic, HugoXL, PIG (1), Stamina (DE), Wall Ra |
 
 ## Address
 
 Hochstraße 46; 13357 Berlin; Germany, Berlin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/humboldthain-club/)*

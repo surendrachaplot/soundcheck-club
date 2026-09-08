@@ -1,6 +1,6 @@
 # Two More Years
 
-Two More Years is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Flat Earth Disco - House & Disco by the Canal - Free Entry" on Sat, 12 Sept 2026.
+Two More Years is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Flat Earth Disco - House & Disco by the Canal - Free Entry" on Sat, 12 Sept 2026.
 
 Two More Years is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Hannah Wills, Jahmed, Oh See and SILLYRO. Browse upcoming dates, start times and who's playing. 7 Roach Road, Hackney Wick, E3 2PA.
 
@@ -14,4 +14,4 @@ Two More Years is a music venue in London listed on soundcheck. 1 upcoming night
 
 7 Roach Road, Hackney Wick, E3 2PA, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/two-more-years/)*

@@ -1,6 +1,6 @@
 # Zaki
 
-Zaki is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The BBE Store, London on Sat, 26 Sept 2026.
+Zaki is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The BBE Store, London on Sat, 26 Sept 2026.
 
 Zaki is a deep house and disco artist tracked on soundcheck, with 30 sets logged across London. Often billed alongside Manish, Jasmine Alice and Toni C. Next up: The BBE Store, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Zaki is a deep house and disco artist tracked on soundcheck, with 30 sets logged
 
 Manish, Jasmine Alice, Toni C
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaki/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zaki/)*

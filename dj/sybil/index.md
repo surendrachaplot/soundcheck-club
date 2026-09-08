@@ -1,6 +1,6 @@
 # Sybil
 
-Sybil is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at La Fabriek, Brussels on Sat, 19 Sept 2026.
+Sybil is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at La Fabriek, Brussels on Sat, 19 Sept 2026.
 
 Sybil is a techno and trance artist tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside .VRIL, Kia (AU) and Konduku. Next up: La Fabriek, Brussels on Sat 19 Sept.
 
@@ -30,4 +30,4 @@ Sybil is a techno and trance artist tracked on soundcheck, with 131 sets logged 
 
 .VRIL, Kia (AU), Konduku
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*

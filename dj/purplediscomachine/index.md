@@ -1,6 +1,6 @@
 # Purple Disco Machine
 
-Purple Disco Machine is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 10 Sept 2026.
+Purple Disco Machine is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Pacha Ibiza, Ibiza on Thu, 10 Sept 2026.
 
 Purple Disco Machine is a house and disco artist based in Germany, tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside david bay, Dombresky and LP Giobbi. Next up: Pacha Ibiza, Ibiza on Thu 10 Sept.
 
@@ -30,4 +30,4 @@ Purple Disco Machine is a house and disco artist based in Germany, tracked on so
 
 david bay, Dombresky, LP Giobbi
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purplediscomachine/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/purplediscomachine/)*

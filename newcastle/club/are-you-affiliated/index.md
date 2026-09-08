@@ -1,6 +1,6 @@
 # Are You Affiliated
 
-Are You Affiliated is a music venue in Newcastle with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "JIM + Support" on Sat, 3 Oct 2026.
+Are You Affiliated is a music venue in Newcastle with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "JIM + Support" on Sat, 3 Oct 2026.
 
 Are You Affiliated is a music venue in Newcastle listed on soundcheck. 4 upcoming nights, with line-ups including Bradley Zero, Decius, Logan Fisher and Man Power and 1 more. Browse upcoming dates, start times and who's playing. Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ.
 
@@ -17,4 +17,4 @@ Are You Affiliated is a music venue in Newcastle listed on soundcheck. 4 upcomin
 
 Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ, Newcastle
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*

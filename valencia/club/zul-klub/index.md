@@ -1,6 +1,6 @@
 # Zulú Klub
 
-Zulú Klub is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "SKANKING CORNER - HITMAN & FIZA" on Sat, 26 Sept 2026.
+Zulú Klub is a music venue in Valencia with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "SKANKING CORNER - HITMAN & FIZA" on Sat, 26 Sept 2026.
 
 Zulú Klub is a music venue in Valencia listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Avinguda de, C. Benito Pérez Galdós, 39, 46960 Aldaia, Valencia, Spain.
 
@@ -14,4 +14,4 @@ Zulú Klub is a music venue in Valencia listed on soundcheck. 1 upcoming night. 
 
 Avinguda de, C. Benito Pérez Galdós, 39, 46960 Aldaia, Valencia, Spain, Valencia
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/zul-klub/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/zul-klub/)*

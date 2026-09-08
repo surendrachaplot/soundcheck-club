@@ -1,6 +1,6 @@
 # Chris Gerber
 
-Chris Gerber is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Giselle, Düsseldorf on Sat, 26 Sept 2026.
+Chris Gerber is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Giselle, Düsseldorf on Sat, 26 Sept 2026.
 
 Chris Gerber is a house artist tracked on soundcheck, with 2 sets logged across Dusseldorf and Frankfurt. Next up: Giselle, Dusseldorf on Sat 26 Sept.
 
@@ -14,4 +14,4 @@ Chris Gerber is a house artist tracked on soundcheck, with 2 sets logged across 
 
 - Silbergold, Frankfurt — Thu, 29 Aug 2024
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisgerber/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisgerber/)*

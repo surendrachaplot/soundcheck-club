@@ -1,6 +1,6 @@
 # Endurance
 
-Endurance is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at BAR Inc, Osaka on Sun, 27 Sept 2026.
+Endurance is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at BAR Inc, Osaka on Sun, 27 Sept 2026.
 
 Endurance is an ambient and techno artist tracked on soundcheck, with 38 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Loe (JP), AOKI takamasa and Ario. Next up: BAR Inc, Osaka on Sun 27 Sept.
 
@@ -25,4 +25,4 @@ Endurance is an ambient and techno artist tracked on soundcheck, with 38 sets lo
 
 Loe (JP), AOKI takamasa, Ario
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/endurance/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/endurance/)*

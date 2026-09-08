@@ -1,6 +1,6 @@
 # Anthony Mansfield
 
-Anthony Mansfield is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 18 Sept 2026.
+Anthony Mansfield is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Monarch, San Francisco/Oakland on Fri, 18 Sept 2026.
 
 Anthony Mansfield is a house and disco artist based in United States of America, tracked on soundcheck, with 27 sets logged across Losangeles, Newyorkcity and Sanfrancisco. Often billed alongside DJ M3, Galen and Solar. Next up: Monarch, Sanfrancisco on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Anthony Mansfield is a house and disco artist based in United States of America,
 
 DJ M3, Galen, Solar
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonymansfield/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonymansfield/)*

@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "✦encore.une.fois✦ / TUESDAY TECHNO RAVE" on Tue, 8 Sept 2026.
+OXI is a music venue in Berlin with 28 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "✦encore.une.fois✦ / TUESDAY TECHNO RAVE" on Tue, 8 Sept 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with line-ups including Acidalia, Alex Levin, Ana Molina and Annina and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 28 upcoming nights, with li
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

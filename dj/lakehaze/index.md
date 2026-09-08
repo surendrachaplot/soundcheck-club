@@ -1,6 +1,6 @@
 # Lake Haze
 
-Lake Haze is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 19 Sept 2026.
+Lake Haze is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Collect LX Factory, Lisbon on Sat, 19 Sept 2026.
 
 Lake Haze is a techno and electro artist tracked on soundcheck, with 25 sets logged across Berlin, Lisbon, London and Manchester and 3 more. Often billed alongside Catarina Silva, Photonz and dtekk. Next up: Collect LX Factory, Lisbon on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Lake Haze is a techno and electro artist tracked on soundcheck, with 25 sets log
 
 Catarina Silva, Photonz, dtekk
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehaze/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehaze/)*

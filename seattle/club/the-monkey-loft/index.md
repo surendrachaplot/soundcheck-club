@@ -1,14 +1,13 @@
 # The Monkey Loft
 
-The Monkey Loft is a music venue in Seattle with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Oasis presents: Simon Vuarambon - Labor Day + Restless Planet & Grüv in the Loft" on Mon, 7 Sept 2026.
+The Monkey Loft is a music venue in Seattle with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Deck'd Out #13 Season Finale with Saqib (NYC) & Pezzner b2b Open to Close" on Thu, 10 Sept 2026.
 
-The Monkey Loft is a music venue in Seattle listed on soundcheck. 4 upcoming nights, with line-ups including Chance Sands, Colt, David Ardila and Erozion and 2 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
+The Monkey Loft is a music venue in Seattle listed on soundcheck. 3 upcoming nights, with line-ups including Chance Sands, Parker Mills, Pezzner and Saqib and 1 more. Browse upcoming dates, start times and who's playing. 2917 1st Ave So. Seattle WA 98134.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | Oasis presents: Simon Vuarambon - Labor Day + Restless Planet & Grüv in the Loft | Chance Sands, Colt, David Ardila, Erozion, Jono (2), Misha Mir, Simon Vuarambon |
 | Thu, 10 Sept 2026 | Deck'd Out #13 Season Finale with Saqib (NYC) & Pezzner b2b Open to Close | Pezzner, Saqib |
 | Fri, 18 Sept 2026 | Space Yacht Seattle | Chance Sands, Parker Mills, Tony H |
 | Sat, 19 Sept 2026 | THIS! with Kahnti | Pezzner |
@@ -17,4 +16,4 @@ The Monkey Loft is a music venue in Seattle listed on soundcheck. 4 upcoming nig
 
 2917 1st Ave So. Seattle WA 98134, Seattle
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/the-monkey-loft/)*

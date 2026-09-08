@@ -1,6 +1,6 @@
 # Basing House
 
-Basing House is a music venue in London with 23 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Gai Barone at ELYSIUM 2026 - Patchouli Deep" on Fri, 11 Sept 2026.
+Basing House is a music venue in London with 23 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Gai Barone at ELYSIUM 2026 - Patchouli Deep" on Fri, 11 Sept 2026.
 
 Basing House is a music venue in London listed on soundcheck. 23 upcoming nights, with line-ups including AALEX, Adela, Alythia Kwan and Andy Moor and 2 more. Browse upcoming dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
 
@@ -16,11 +16,11 @@ Basing House is a music venue in London listed on soundcheck. 23 upcoming nights
 | Thu, 24 Sept 2026 | YOUR MUM'S HOUSE |  |
 | Thu, 1 Oct 2026 | YOUR MUM'S HOUSE |  |
 | Fri, 2 Oct 2026 | EOTR Launch Party |  |
+| Sat, 3 Oct 2026 | Vinyl Euphoria meets Digital Damage and Launches Psyphoria |  |
 | Sun, 4 Oct 2026 | Absolute Amy - Amy Winehouse Tribute |  |
-| Thu, 8 Oct 2026 | YOUR MUM'S HOUSE |  |
 
 ## Address
 
 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*

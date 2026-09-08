@@ -1,6 +1,6 @@
 # Thomas Herb
 
-Thomas Herb is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Filmtheater Sendlinger Tor, Munich on Fri, 25 Sept 2026.
+Thomas Herb is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Filmtheater Sendlinger Tor, Munich on Fri, 25 Sept 2026.
 
 Thomas Herb is a house and electro artist based in Germany, tracked on soundcheck, with 97 sets logged across Munich and Zurich. Often billed alongside Sonson, Kalabrese and Michael Reinboth. Next up: Filmtheater Sendlinger Tor, Munich on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Thomas Herb is a house and electro artist based in Germany, tracked on soundchec
 
 Sonson, Kalabrese, Michael Reinboth
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasherb/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasherb/)*

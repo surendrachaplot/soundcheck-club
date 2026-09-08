@@ -1,6 +1,6 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 10 Sept 2026.
+D.Dan is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at 1015 Folsom, San Francisco/Oakland on Thu, 10 Sept 2026.
 
 D.Dan is a techno and house artist tracked on soundcheck, with 197 sets logged across Amsterdam, Athens, Austin and Barcelona and 59 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: 1015 Folsom, Sanfrancisco on Thu 10 Sept.
 
@@ -35,4 +35,4 @@ D.Dan is a techno and house artist tracked on soundcheck, with 197 sets logged a
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

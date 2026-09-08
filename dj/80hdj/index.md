@@ -1,6 +1,6 @@
 # 80HDJ
 
-80HDJ is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Renate, Berlin on Sat, 19 Sept 2026.
+80HDJ is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Renate, Berlin on Sat, 19 Sept 2026.
 
 80HDJ is a house and bass artist tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Robot Girlfriend, Vitling and Heath Swedger. Next up: Renate, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@
 
 Robot Girlfriend, Vitling, Heath Swedger
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/80hdj/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/80hdj/)*

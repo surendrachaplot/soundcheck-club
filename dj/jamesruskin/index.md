@@ -1,6 +1,6 @@
 # James Ruskin
 
-James Ruskin is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Strange Brew, Bristol on Fri, 18 Sept 2026.
+James Ruskin is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Strange Brew, Bristol on Fri, 18 Sept 2026.
 
 James Ruskin is a techno and electro artist tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 20 more. Often billed alongside Regis, Cecilia Tosh and Kr!z. Next up: Strange Brew, Bristol on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ James Ruskin is a techno and electro artist tracked on soundcheck, with 59 sets 
 
 Regis, Cecilia Tosh, Kr!z
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesruskin/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesruskin/)*

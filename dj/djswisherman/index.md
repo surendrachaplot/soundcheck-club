@@ -1,6 +1,6 @@
 # DJ SWISHERMAN
 
-DJ SWISHERMAN is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Mondo, Madrid on Thu, 17 Sept 2026.
+DJ SWISHERMAN is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Mondo, Madrid on Thu, 17 Sept 2026.
 
 DJ SWISHERMAN is a techno and house artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside Gerardo Niva, Benwal and EliaHaze. Next up: Mondo, Madrid on Thu 17 Sept.
 
@@ -33,4 +33,4 @@ DJ SWISHERMAN is a techno and house artist tracked on soundcheck, with 122 sets 
 
 Gerardo Niva, Benwal, EliaHaze
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*

@@ -1,6 +1,6 @@
 # Lui Mackay
 
-Lui Mackay is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
+Lui Mackay is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Bongo Club, Edinburgh on Thu, 17 Sept 2026.
 
 Lui Mackay is a house and tech house artist tracked on soundcheck, with 2 sets logged across Edinburgh. Often billed alongside Becca Egan, Delano and Fug (1). Next up: The Bongo Club, Edinburgh on Thu 17 Sept.
 
@@ -18,4 +18,4 @@ Lui Mackay is a house and tech house artist tracked on soundcheck, with 2 sets l
 
 Becca Egan, Delano, Fug (1)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luimackay/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luimackay/)*

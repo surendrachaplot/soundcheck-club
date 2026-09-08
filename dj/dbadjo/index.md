@@ -1,6 +1,6 @@
 # DBADJO
 
-DBADJO is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sat, 10 Oct 2026.
+DBADJO is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at H15 Scene & Studio, Copenhagen on Sat, 10 Oct 2026.
 
 DBADJO is a drum & bass and jungle artist tracked on soundcheck, with 2 sets logged across Copenhagen. Often billed alongside Redemptive, K2T (1) and octavate. Next up: H15 Scene & Studio, Copenhagen on Sat 10 Oct.
 
@@ -18,4 +18,4 @@ DBADJO is a drum & bass and jungle artist tracked on soundcheck, with 2 sets log
 
 Redemptive, K2T (1), octavate
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dbadjo/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dbadjo/)*

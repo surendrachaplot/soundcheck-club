@@ -1,6 +1,6 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "AETHR X Echonomist" on Fri, 11 Sept 2026.
+MODULE is a music venue in Copenhagen with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "AETHR X Echonomist" on Fri, 11 Sept 2026.
 
 MODULE is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, with line-ups including ALADAG, Baime, dj bootymagic and DJ Dopamina and 2 more. Browse upcoming dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
@@ -16,4 +16,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 3 upcoming nights, w
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

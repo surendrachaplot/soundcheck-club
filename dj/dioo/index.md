@@ -1,6 +1,6 @@
 # Dioo
 
-Dioo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Tresor / Globus, Berlin on Wed, 21 Oct 2026.
+Dioo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Tresor / Globus, Berlin on Wed, 21 Oct 2026.
 
 Dioo is a techno and house artist based in Netherlands, tracked on soundcheck, with 4 sets logged across Amsterdam and Berlin. Often billed alongside Aloe, CDJ-666 and I-RO. Next up: Tresor / Globus, Berlin on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Dioo is a techno and house artist based in Netherlands, tracked on soundcheck, w
 
 Aloe, CDJ-666, I-RO
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dioo/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dioo/)*

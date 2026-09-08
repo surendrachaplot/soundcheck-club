@@ -1,15 +1,13 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Damian Lazarus is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at BORIS CLUB, Barcelona on Sat, 19 Sept 2026.
 
-Damian Lazarus is a house and techno artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Black Coffee, Paul Reynolds and Cameron Jack. Next up: Union Park, Chicago on Fri 4 Sept.
+Damian Lazarus is a house and techno artist tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Bali and 33 more. Often billed alongside Black Coffee, Paul Reynolds and Cameron Jack. Next up: BORIS CLUB, Barcelona on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
-| Mon, 7 Sept 2026 | Radius | Chicago |
 | Sat, 19 Sept 2026 | BORIS CLUB | Barcelona |
 | Thu, 24 Sept 2026 | Scorpios | Mykonos |
 | Sat, 26 Sept 2026 | fabric | London |
@@ -21,6 +19,7 @@ Damian Lazarus is a house and techno artist tracked on soundcheck, with 208 sets
 
 ## Recently played
 
+- Radius, Chicago — Mon, 7 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
 - Pacha Ibiza, Ibiza — Fri, 4 Sept 2026
 - Scorpios, Mykonos — Thu, 20 Aug 2026
@@ -28,10 +27,9 @@ Damian Lazarus is a house and techno artist tracked on soundcheck, with 208 sets
 - Amnesia Ibiza, Ibiza — Tue, 28 Jul 2026
 - Club Space Miami, Miami — Sat, 25 Jul 2026
 - Cipriani 42nd St., New York City — Sat, 18 Jul 2026
-- Chinois Ibiza, Ibiza — Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Black Coffee, Paul Reynolds, Cameron Jack
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

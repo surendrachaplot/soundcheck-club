@@ -1,6 +1,6 @@
 # Clint Lee
 
-Clint Lee is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Tue, 8 Sept 2026.
+Clint Lee is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Tue, 8 Sept 2026.
 
 Clint Lee is a house and afro house artist tracked on soundcheck, with 28 sets logged across Ibiza, Istanbul and Mykonos. Often billed alongside Satori, Sorä and ETNA. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Tue 8 Sept.
 
@@ -25,4 +25,4 @@ Clint Lee is a house and afro house artist tracked on soundcheck, with 28 sets l
 
 Satori, Sorä, ETNA
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clintlee/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clintlee/)*

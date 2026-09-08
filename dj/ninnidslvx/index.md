@@ -1,6 +1,6 @@
 # NINNIDSLVX
 
-NINNIDSLVX is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Turbina, Budapest on Sat, 19 Sept 2026.
+NINNIDSLVX is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Turbina, Budapest on Sat, 19 Sept 2026.
 
 NINNIDSLVX is a trance and techno artist based in Italy, tracked on soundcheck, with 2 sets logged across Budapest and Malta. Often billed alongside CHVZ, DOCTOR MÜCKE and EDJM. Next up: Turbina, Budapest on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ NINNIDSLVX is a trance and techno artist based in Italy, tracked on soundcheck, 
 
 CHVZ, DOCTOR MÜCKE, EDJM
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninnidslvx/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninnidslvx/)*

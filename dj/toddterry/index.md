@@ -1,6 +1,6 @@
 # Todd Terry
 
-Todd Terry is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Freeze HiFi, Liverpool on Wed, 16 Sept 2026.
+Todd Terry is a House and Disco artist with 11 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Freeze HiFi, Liverpool on Wed, 16 Sept 2026.
 
 Todd Terry is a house and disco artist tracked on soundcheck, with 149 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Freeze HiFi, Liverpool on Wed 16 Sept.
 
@@ -35,4 +35,4 @@ Todd Terry is a house and disco artist tracked on soundcheck, with 149 sets logg
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

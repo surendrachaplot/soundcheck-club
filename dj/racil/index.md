@@ -1,6 +1,6 @@
 # Racil
 
-Racil is a House and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Blue Room, Montreal on Fri, 11 Sept 2026.
+Racil is a House and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Blue Room, Montreal on Fri, 11 Sept 2026.
 
 Racil is a house and dub techno artist based in Canada, tracked on soundcheck, with 9 sets logged across Montreal. Often billed alongside Jino K, Boomy and Othman. Next up: Blue Room, Montreal on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Racil is a house and dub techno artist based in Canada, tracked on soundcheck, w
 
 Jino K, Boomy, Othman
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/racil/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/racil/)*

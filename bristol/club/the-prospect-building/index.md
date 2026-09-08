@@ -1,6 +1,6 @@
 # The Prospect Building
 
-The Prospect Building is a music venue in Bristol with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Sirat Live AV" on Thu, 24 Sept 2026.
+The Prospect Building is a music venue in Bristol with 9 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Sirat Live AV" on Thu, 24 Sept 2026.
 
 The Prospect Building is a music venue in Bristol listed on soundcheck. 9 upcoming nights, with line-ups including 4am Kru, Above & Beyond, Aries and BØĘRY and 2 more. Browse upcoming dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
 
@@ -22,4 +22,4 @@ The Prospect Building is a music venue in Bristol listed on soundcheck. 9 upcomi
 
 45 Feeder Rd Bristol, BS2 0SE, Bristol
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*

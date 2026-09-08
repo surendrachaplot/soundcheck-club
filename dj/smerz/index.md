@@ -1,6 +1,6 @@
 # Smerz
 
-Smerz is a Pop and Electronica artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Radio/East, Austin on Thu, 10 Sept 2026.
+Smerz is a Pop and Electronica artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Radio/East, Austin on Thu, 10 Sept 2026.
 
 Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, with 43 sets logged across Austin, Berlin, Brisbane and Bristol and 25 more. Often billed alongside Valentina Magaletti, YHWH Nailgun and DjRUM. Next up: Radio/East, Austin on Thu 10 Sept.
 
@@ -29,4 +29,4 @@ Smerz is a pop and electronica artist based in Norway, tracked on soundcheck, wi
 
 Valentina Magaletti, YHWH Nailgun, DjRUM
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*

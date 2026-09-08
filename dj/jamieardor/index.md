@@ -1,6 +1,6 @@
 # Jamie Ardor
 
-Jamie Ardor is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Chippo Hotel, Sydney on Sat, 26 Sept 2026.
+Jamie Ardor is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Chippo Hotel, Sydney on Sat, 26 Sept 2026.
 
 Jamie Ardor is a techno and tech house artist tracked on soundcheck, with 13 sets logged across London and Sydney. Often billed alongside boogielou, Cranio and Eds D1. Next up: The Chippo Hotel, Sydney on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Jamie Ardor is a techno and tech house artist tracked on soundcheck, with 13 set
 
 boogielou, Cranio, Eds D1
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieardor/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieardor/)*

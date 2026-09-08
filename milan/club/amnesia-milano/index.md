@@ -1,6 +1,6 @@
 # Amnesia Milano
 
-Amnesia Milano is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Darius Syrossian b2b Dimmish, Sean Afful b2b Garon" on Sat, 12 Sept 2026.
+Amnesia Milano is a music venue in Milan with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Darius Syrossian b2b Dimmish, Sean Afful b2b Garon" on Sat, 12 Sept 2026.
 
 Amnesia Milano is a music venue in Milan listed on soundcheck. 2 upcoming nights, with line-ups including Bambounou, Darius Syrossian, Dimmish and Sean Afful. Browse upcoming dates, start times and who's playing. Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy.
 
@@ -15,4 +15,4 @@ Amnesia Milano is a music venue in Milan listed on soundcheck. 2 upcoming nights
 
 Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy, Milan
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*

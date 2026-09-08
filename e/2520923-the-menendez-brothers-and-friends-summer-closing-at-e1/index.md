@@ -1,6 +1,6 @@
 # The Menendez Brothers and Friends (Summer Closing) at E1
 
-The Menendez Brothers and Friends (Summer Closing) at E1 on Sat 12 Sept, London. 4 acts on the bill: Dilemma, Majestic, Shimrise and The Menendez Brothers. House and Tech House. Preview the line-up and save it on soundcheck.
+The Menendez Brothers and Friends (Summer Closing) at E1 on Sat 12 Sept, London. 5 acts on the bill: Dilemma, Douvelle19, Majestic and Shimrise and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ The Menendez Brothers and Friends (Summer Closing) at E1 on Sat 12 Sept, London.
 ## Line-up
 
 - Dilemma
+- Douvelle19
 - Majestic
 - Shimrise
 - The Menendez Brothers

@@ -1,6 +1,6 @@
 # Anthony Nero
 
-Anthony Nero is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at KEYBAR, New York City on Fri, 18 Sept 2026.
+Anthony Nero is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at KEYBAR, New York City on Fri, 18 Sept 2026.
 
 Anthony Nero is a house and techno artist tracked on soundcheck, with 3 sets logged across Newyorkcity. Often billed alongside David Tee, MTECH and A$HLEY. Next up: KEYBAR, Newyorkcity on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Anthony Nero is a house and techno artist tracked on soundcheck, with 3 sets log
 
 David Tee, MTECH, A$HLEY
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonynero/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonynero/)*

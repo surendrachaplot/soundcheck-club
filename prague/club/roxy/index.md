@@ -1,6 +1,6 @@
 # Roxy
 
-Roxy is a music venue in Prague with 22 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Clara Cuvé ∞ ROXY Prague" on Fri, 11 Sept 2026.
+Roxy is a music venue in Prague with 22 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Clara Cuvé ∞ ROXY Prague" on Fri, 11 Sept 2026.
 
 Roxy is a music venue in Prague listed on soundcheck. 22 upcoming nights, with line-ups including 1991 (UK), Adam Beyer, Adrian Mills and Agents Of Time and 2 more. Browse upcoming dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
@@ -23,4 +23,4 @@ Roxy is a music venue in Prague listed on soundcheck. 22 upcoming nights, with l
 
 Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic, Prague
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*

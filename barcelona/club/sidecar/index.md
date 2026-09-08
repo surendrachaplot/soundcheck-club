@@ -1,6 +1,6 @@
 # Sidecar
 
-Sidecar is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Electrostad pres: PINI, Victor Hugo & Friends" on Sun, 13 Sept 2026.
+Sidecar is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Electrostad pres: PINI, Victor Hugo & Friends" on Sun, 13 Sept 2026.
 
 Sidecar is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including PINI and Victor Hugo. Browse upcoming dates, start times and who's playing. Plaça Reial, 7; 08002 Barcelona; Spain.
 
@@ -14,4 +14,4 @@ Sidecar is a music venue in Barcelona listed on soundcheck. 1 upcoming night, wi
 
 Plaça Reial, 7; 08002 Barcelona; Spain, Barcelona
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sidecar/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sidecar/)*

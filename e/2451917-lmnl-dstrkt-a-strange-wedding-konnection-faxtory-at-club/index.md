@@ -1,6 +1,6 @@
 # LMNL_DSTRKT: A Strange Wedding, Konnection & Faxtory at 宀 Club
 
-LMNL_DSTRKT: A Strange Wedding, Konnection & Faxtory at 宀 Club on Sat 12 Sept, Hongkong. 3 acts on the bill: A Strange Wedding, Faxtory and Konnection. Trance and Techno. Preview the line-up and save it on soundcheck.
+LMNL_DSTRKT: A Strange Wedding, Konnection & Faxtory at 宀 Club on Sat 12 Sept, Hongkong. 3 acts on the bill: A Strange Wedding, Faxtory and Konnection. Techno and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

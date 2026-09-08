@@ -1,6 +1,6 @@
 # Lossless 001 at Tokyo Sing Song
 
-Lossless 001 at Tokyo Sing Song on Sat 12 Sept, Sydney. 1 act on the bill: Davor. Techno. Preview the line-up and save it on soundcheck.
+Lossless 001 at Tokyo Sing Song on Sat 12 Sept, Sydney. 1 act on the bill: Davor. Trance and Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

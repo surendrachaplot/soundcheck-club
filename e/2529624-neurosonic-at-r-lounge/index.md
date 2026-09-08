@@ -1,6 +1,6 @@
 # neurosonic at R Lounge
 
-neurosonic at R Lounge on Sat 26 Sept, Tokyo. 2 acts on the bill: edge and MAYUDEPTH. Techno. Preview the line-up and save it on soundcheck.
+neurosonic at R Lounge on Sat 26 Sept, Tokyo. 3 acts on the bill: edge, MAYUDEPTH and YAI.. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ neurosonic at R Lounge on Sat 26 Sept, Tokyo. 2 acts on the bill: edge and MAYUD
 
 - edge
 - MAYUDEPTH
+- YAI.
 
 *Source: [soundcheck](https://soundcheck.club/e/2529624-neurosonic-at-r-lounge/)*

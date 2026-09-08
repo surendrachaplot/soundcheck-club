@@ -1,6 +1,6 @@
 # AliTR
 
-AliTR is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at 77, London on Sat, 14 Nov 2026.
+AliTR is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at 77, London on Sat, 14 Nov 2026.
 
 AliTR is a house and afro house artist tracked on soundcheck, with 11 sets logged across Istanbul and London. Often billed alongside Jezza, Yoel Telyaz and Cenk Gursoy. Next up: 77, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ AliTR is a house and afro house artist tracked on soundcheck, with 11 sets logge
 
 Jezza, Yoel Telyaz, Cenk Gursoy
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alitr/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alitr/)*

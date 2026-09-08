@@ -1,6 +1,6 @@
 # DLR
 
-DLR is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Green Room NYC, New York City on Fri, 18 Sept 2026.
+DLR is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Green Room NYC, New York City on Fri, 18 Sept 2026.
 
 DLR is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Amsterdam, Auckland, Berlin and Birmingham and 21 more. Often billed alongside MC Gusto, Gusto and Break. Next up: Green Room NYC, Newyorkcity on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ DLR is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 
 MC Gusto, Gusto, Break
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*

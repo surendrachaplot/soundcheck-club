@@ -1,6 +1,6 @@
 # Tresor meets WIGS at Tresor / Globus
 
-Tresor meets WIGS at Tresor / Globus on Fri 16 Oct, Berlin. 6 acts on the bill: Afra, Cari Lekebusch, CEM3340 and IMOGEN and 2 more. Preview the line-up and save it on soundcheck.
+Tresor meets WIGS at Tresor / Globus on Fri 16 Oct, Berlin. 7 acts on the bill: Afra, Cari Lekebusch, CEM3340 and IMOGEN and 3 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@ Tresor meets WIGS at Tresor / Globus on Fri 16 Oct, Berlin. 6 acts on the bill: 
 - IMOGEN
 - L.F.T.
 - TSUNIMAN
+- VEL (MA)
 
 *Source: [soundcheck](https://soundcheck.club/e/2523470-tresor-meets-wigs-at-tresor-globus/)*

@@ -1,6 +1,6 @@
 # Willow
 
-Willow is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
+Willow is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at UNO MALTA, Malta on Fri, 18 Sept 2026.
 
 Willow is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 27 more. Often billed alongside Lukas Wigflex, Dr Banana and Bobby.. Next up: UNO MALTA, Malta on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Willow is a house and techno artist tracked on soundcheck, with 126 sets logged 
 
 Lukas Wigflex, Dr Banana, Bobby.
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willow/)*

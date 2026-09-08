@@ -1,6 +1,6 @@
 # Ollie Lishman
 
-Ollie Lishman is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Avalon Hollywood, Los Angeles on Sat, 12 Sept 2026.
+Ollie Lishman is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Avalon Hollywood, Los Angeles on Sat, 12 Sept 2026.
 
 Ollie Lishman is a techno and trance artist tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Avalon Hollywood, Losangeles on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ Ollie Lishman is a techno and trance artist tracked on soundcheck, with 129 sets
 
 Bad Boombox, Janis Zielinski, Mischluft
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*

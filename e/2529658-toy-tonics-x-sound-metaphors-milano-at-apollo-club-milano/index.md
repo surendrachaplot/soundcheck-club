@@ -1,6 +1,6 @@
 # Toy Tonics x Sound Metaphors Milano at Apollo Club Milano
 
-Toy Tonics x Sound Metaphors Milano at Apollo Club Milano on Sat 19 Sept, Milan. 2 acts on the bill: Arpy Brown and Kapote. House and Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics x Sound Metaphors Milano at Apollo Club Milano on Sat 19 Sept, Milan. 4 acts on the bill: Arpy Brown, Kapote, Max NRG Supply and Sound Metaphors Djs. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,7 @@ Toy Tonics x Sound Metaphors Milano at Apollo Club Milano on Sat 19 Sept, Milan.
 
 - Arpy Brown
 - Kapote
+- Max NRG Supply
+- Sound Metaphors Djs
 
 *Source: [soundcheck](https://soundcheck.club/e/2529658-toy-tonics-x-sound-metaphors-milano-at-apollo-club-milano/)*

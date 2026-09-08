@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Cakeshop presents: Ship Sket ( Planet Mu/ UK)" on Fri, 11 Sept 2026.
+Cakeshop is a music venue in Seoul with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Cakeshop presents: Ship Sket ( Planet Mu/ UK)" on Fri, 11 Sept 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with line-ups including AEIDA, BAAWLA, ccottonmouth and DDD (2) and 2 more. Browse upcoming dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -20,4 +20,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 7 upcoming nights, with
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

@@ -1,6 +1,6 @@
 # Allan Gardens Conservatory
 
-Allan Gardens Conservatory is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Venus Fest Day 01: PYNE, LAL & Prado Monroe" on Fri, 18 Sept 2026.
+Allan Gardens Conservatory is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Venus Fest Day 01: PYNE, LAL & Prado Monroe" on Fri, 18 Sept 2026.
 
 Allan Gardens Conservatory is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including Emissive, florasystem, Honeydrip and Juliana Huxtable and 2 more. Browse upcoming dates, start times and who's playing. 160 Gerrard St E.
 
@@ -17,4 +17,4 @@ Allan Gardens Conservatory is a music venue in Toronto listed on soundcheck. 4 u
 
 160 Gerrard St E, Toronto
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/allan-gardens-conservatory/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/allan-gardens-conservatory/)*

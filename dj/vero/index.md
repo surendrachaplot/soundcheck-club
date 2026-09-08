@@ -1,6 +1,6 @@
 # Vero
 
-Vero is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
+Vero is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Openluchttheater Amersfoort, Amsterdam on Fri, 18 Sept 2026.
 
 Vero is a techno and house artist tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Leipzig and London and 1 more. Often billed alongside Ninsa, ALISHA and AMBAM. Next up: Openluchttheater Amersfoort, Amsterdam on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Vero is a techno and house artist tracked on soundcheck, with 15 sets logged acr
 
 Ninsa, ALISHA, AMBAM
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*

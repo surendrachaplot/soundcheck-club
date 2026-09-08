@@ -1,6 +1,6 @@
 # Outset
 
-Outset is a music venue in Chicago with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Cult Member" on Sat, 12 Sept 2026.
+Outset is a music venue in Chicago with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Cult Member" on Sat, 12 Sept 2026.
 
 Outset is a music venue in Chicago listed on soundcheck. 7 upcoming nights, with line-ups including Cult Member, uRaNg3L and Vegyn. Browse upcoming dates, start times and who's playing. 1675 N Elston Ave, Chicago, IL 60642.
 
@@ -20,4 +20,4 @@ Outset is a music venue in Chicago listed on soundcheck. 7 upcoming nights, with
 
 1675 N Elston Ave, Chicago, IL 60642, Chicago
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/outset/)*

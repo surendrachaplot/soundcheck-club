@@ -1,6 +1,6 @@
 # sovblkpssy
 
-sovblkpssy is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA, Sydney on Fri, 11 Sept 2026.
+sovblkpssy is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Sydney on Fri, 11 Sept 2026.
 
 sovblkpssy is a club and bass artist based in Australia, tracked on soundcheck, with 29 sets logged across Melbourne and Sydney. Often billed alongside Rydeen (AU), Crescendoll (AU) and Kuya Neil. Next up: TBA, Sydney on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ sovblkpssy is a club and bass artist based in Australia, tracked on soundcheck, 
 
 Rydeen (AU), Crescendoll (AU), Kuya Neil
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sovblkpssy/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sovblkpssy/)*

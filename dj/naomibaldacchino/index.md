@@ -1,13 +1,14 @@
 # Naomi Baldacchino
 
-Naomi Baldacchino is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Tigullio, Malta on Fri, 11 Sept 2026.
+Naomi Baldacchino is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Liquid Club, Malta on Thu, 10 Sept 2026.
 
-Naomi Baldacchino is a techno and hardcore artist based in United Arab Emirates, tracked on soundcheck, with 48 sets logged across Bucharest and Malta. Often billed alongside Kingsmo, A-THØX and Alex Micca. Next up: Tigullio, Malta on Fri 11 Sept.
+Naomi Baldacchino is a techno and hardcore artist based in United Arab Emirates, tracked on soundcheck, with 49 sets logged across Bucharest and Malta. Often billed alongside Kingsmo, A-THØX and Alex Micca. Next up: Liquid Club, Malta on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Liquid Club | Malta |
 | Fri, 11 Sept 2026 | Tigullio | Malta |
 
 ## Recently played
@@ -25,4 +26,4 @@ Naomi Baldacchino is a techno and hardcore artist based in United Arab Emirates,
 
 Kingsmo, A-THØX, Alex Micca
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naomibaldacchino/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/naomibaldacchino/)*

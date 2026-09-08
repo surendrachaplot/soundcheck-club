@@ -1,6 +1,6 @@
 # Ximxim Bar
 
-Ximxim Bar is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "[PIF PARTY VOL.5] MUZIE X PLAY IT FORWARD" on Sat, 12 Sept 2026.
+Ximxim Bar is a music venue in Seoul with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "[PIF PARTY VOL.5] MUZIE X PLAY IT FORWARD" on Sat, 12 Sept 2026.
 
 Ximxim Bar is a music venue in Seoul listed on soundcheck. 2 upcoming nights, with line-ups including Bagagee Viphex13, Casepeat, Deeps and Kago Pengchi and 2 more. Browse upcoming dates, start times and who's playing. 11, Yeonmujang 15-gil, Seongdong-gu, Seoul.
 
@@ -15,4 +15,4 @@ Ximxim Bar is a music venue in Seoul listed on soundcheck. 2 upcoming nights, wi
 
 11, Yeonmujang 15-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ximxim-bar/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/ximxim-bar/)*

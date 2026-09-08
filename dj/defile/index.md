@@ -1,0 +1,28 @@
+# DEFILE
+
+DEFILE is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Gallery, London on Thu, 24 Sept 2026.
+
+DEFILE is a deep house and tech house artist tracked on soundcheck, with 28 sets logged across London and Prague. Often billed alongside Billa Bazz, Giacomo Mei and Umaedo. Next up: Gallery, London on Thu 24 Sept.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 24 Sept 2026 | Gallery | London |
+
+## Recently played
+
+- Gallery, London — Thu, 6 Aug 2026
+- Gallery, London — Thu, 16 Jul 2026
+- XOYO, London — Wed, 8 Jul 2026
+- XOYO, London — Wed, 3 Jun 2026
+- XOYO, London — Wed, 29 Apr 2026
+- XOYO, London — Wed, 11 Mar 2026
+- XOYO, London — Wed, 28 Jan 2026
+- XOYO, London — Thu, 1 Jan 2026
+
+## Shares bills with
+
+Billa Bazz, Giacomo Mei, Umaedo
+
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/defile/)*

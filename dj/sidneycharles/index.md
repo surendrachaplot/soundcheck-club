@@ -1,14 +1,13 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Sidney Charles is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at fabric, London on Fri, 11 Sept 2026.
 
-Sidney Charles is a house and tech house artist tracked on soundcheck, with 217 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and L.P. Rhythm. Next up: Union Park, Chicago on Fri 4 Sept.
+Sidney Charles is a house and tech house artist tracked on soundcheck, with 217 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 39 more. Often billed alongside Prunk, ALISHA and L.P. Rhythm. Next up: fabric, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 11 Sept 2026 | fabric | London |
 | Wed, 16 Sept 2026 | [UNVRS] | Ibiza |
 | Sun, 20 Sept 2026 | TBA - Estadio Nacional, Ezeiza | Buenos Aires |
@@ -20,6 +19,7 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 217 
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 4 Oct 2026 | 528 Ibiza | Ibiza |
+| Fri, 9 Oct 2026 | Digital | Newcastle |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Sidney Charles is a house and tech house artist tracked on soundcheck, with 217 
 
 Prunk, ALISHA, L.P. Rhythm
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

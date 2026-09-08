@@ -1,13 +1,14 @@
 # NVST
 
-NVST is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
+NVST is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Salon des Amateurs, Düsseldorf on Fri, 25 Sept 2026.
 
-NVST is a techno and bass artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside ojoo, Zohar and Mika Oki. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
+NVST is a techno and bass artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside ojoo, Zohar and Mika Oki. Next up: Salon des Amateurs, Dusseldorf on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 25 Sept 2026 | Salon des Amateurs | Düsseldorf |
 | Fri, 2 Oct 2026 | Tresor / Globus | Berlin |
 | Tue, 13 Oct 2026 | TBA | Valencia |
 | Thu, 19 Nov 2026 | Bozar | Brussels |
@@ -27,4 +28,4 @@ NVST is a techno and bass artist tracked on soundcheck, with 126 sets logged acr
 
 ojoo, Zohar, Mika Oki
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nvst/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nvst/)*

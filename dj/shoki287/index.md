@@ -1,6 +1,6 @@
 # SHOKI287
 
-SHOKI287 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
+SHOKI287 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at OXI, Berlin on Sat, 12 Sept 2026.
 
 SHOKI287 is a techno and trance artist tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 22 more. Often billed alongside DJ Cringey, DJ https and Justin Tinderdate. Next up: OXI, Berlin on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ SHOKI287 is a techno and trance artist tracked on soundcheck, with 89 sets logge
 
 DJ Cringey, DJ https, Justin Tinderdate
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*

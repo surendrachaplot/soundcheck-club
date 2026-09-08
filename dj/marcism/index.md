@@ -1,6 +1,6 @@
 # MARCISM
 
-MARCISM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Hive Club, Zurich on Fri, 30 Oct 2026.
+MARCISM is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Hive Club, Zurich on Fri, 30 Oct 2026.
 
 MARCISM is a techno and house artist tracked on soundcheck, with 82 sets logged across Amsterdam, Bangkok, Basel and Berlin and 9 more. Often billed alongside kso12, Megix and Andy Katz. Next up: Hive Club, Zurich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MARCISM is a techno and house artist tracked on soundcheck, with 82 sets logged 
 
 kso12, Megix, Andy Katz
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcism/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcism/)*

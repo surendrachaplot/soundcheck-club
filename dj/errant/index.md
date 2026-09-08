@@ -1,6 +1,6 @@
 # ERRANT
 
-ERRANT is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Tola, London on Sat, 3 Oct 2026.
+ERRANT is a Deep House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Tola, London on Sat, 3 Oct 2026.
 
 ERRANT is a deep house and afro house artist tracked on soundcheck, with 72 sets logged across Barcelona, London and Milan. Often billed alongside Althoff, NIIXII and Jazz K. Next up: Tola, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ ERRANT is a deep house and afro house artist tracked on soundcheck, with 72 sets
 
 Althoff, NIIXII, Jazz K
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/errant/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/errant/)*

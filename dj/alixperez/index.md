@@ -1,6 +1,6 @@
 # Alix Perez
 
-Alix Perez is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Red Room, Vancouver on Sat, 7 Nov 2026.
+Alix Perez is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Red Room, Vancouver on Sat, 7 Nov 2026.
 
 Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 59 sets logged across Antwerp, Auckland, Basel and Berlin and 27 more. Often billed alongside SP:MC, Cesco and Visages. Next up: The Red Room, Vancouver on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Alix Perez is a drum & bass and bass artist tracked on soundcheck, with 59 sets 
 
 SP:MC, Cesco, Visages
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*

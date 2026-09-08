@@ -1,6 +1,6 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Liquicity Family Day 2026" on Sat, 12 Sept 2026.
+Thuishaven is a music venue in Amsterdam with 16 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Liquicity Family Day 2026" on Sat, 12 Sept 2026.
 
 Thuishaven is a music venue in Amsterdam listed on soundcheck. 16 upcoming nights, with line-ups including Kepler, AAT (NL), Abstract Division and Alec Dienaar and 2 more. Browse upcoming dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
@@ -8,7 +8,7 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 16 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 12 Sept 2026 | Liquicity Family Day 2026 | Blooom, Circadian, Kara (UK), Makoto, Method, Seba, Skepsis, Vanity Roxane |
+| Sat, 12 Sept 2026 | Liquicity Family Day 2026 | Blooom, Circadian, Kara (UK), Lexurus, Makoto, Method, Seba, Skepsis, Vanity Roxane |
 | Sun, 13 Sept 2026 | 13 SEP - Thuishaven with MENESIX 10HRS SOLD OUT | Kellie Allen, Lauren Lo Sung, MENESIX |
 | Sun, 20 Sept 2026 | 20 SEP - Thuishaven with ALISHA 10HRS SOLD OUT | ALISHA, Alexandria, Chopper, Jesse Maas, Ryan Resso |
 | Sun, 27 Sept 2026 | 27 SEP - Thuishaven Zomerclosing SOLD OUT | Benny Rodrigues, Boss Priester, CARISTA, Daughter In Law, Marsolo, Merel Helderman, Michel de Hey, Midas Field |
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 16 upcoming night
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

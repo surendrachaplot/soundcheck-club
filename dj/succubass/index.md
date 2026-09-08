@@ -1,14 +1,13 @@
 # Succubass
 
-Succubass is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Succubass is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Out ‘n’ About Treesort, Portland on Thu, 24 Sept 2026.
 
-Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged across Berlin, Chicago, Detroit and London and 8 more. Often billed alongside DJ DEADNAME, Sharlese and DJ Eft. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
+Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged across Berlin, Chicago, Detroit and London and 8 more. Often billed alongside DJ DEADNAME, Sharlese and DJ Eft. Next up: TBA - Out ‘n’ About Treesort, Portland on Thu 24 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 | Thu, 24 Sept 2026 | TBA - Out ‘n’ About Treesort | Portland |
 
 ## Recently played
@@ -26,4 +25,4 @@ Succubass is a techno and bass artist tracked on soundcheck, with 89 sets logged
 
 DJ DEADNAME, Sharlese, DJ Eft
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*

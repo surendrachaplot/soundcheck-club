@@ -1,6 +1,6 @@
 # Tippa
 
-Tippa is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Studio 338, London on Sun, 13 Sept 2026.
+Tippa is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Studio 338, London on Sun, 13 Sept 2026.
 
 Tippa is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across London. Often billed alongside Supa D, Mark Radford and Shenin Amara. Next up: Studio 338, London on Sun 13 Sept.
 
@@ -26,4 +26,4 @@ Tippa is a house and afro house artist based in United Kingdom, tracked on sound
 
 Supa D, Mark Radford, Shenin Amara
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tippa/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tippa/)*

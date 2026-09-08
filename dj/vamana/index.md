@@ -1,6 +1,6 @@
 # Vamana
 
-Vamana is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Le Red Room, Montreal on Wed, 16 Sept 2026.
+Vamana is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Le Red Room, Montreal on Wed, 16 Sept 2026.
 
 Vamana is a techno and trance artist tracked on soundcheck, with 11 sets logged across Montreal. Often billed alongside Meen Moreen, Urubu (1) and BitterCaress. Next up: Le Red Room, Montreal on Wed 16 Sept.
 
@@ -25,4 +25,4 @@ Vamana is a techno and trance artist tracked on soundcheck, with 11 sets logged 
 
 Meen Moreen, Urubu (1), BitterCaress
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vamana/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vamana/)*

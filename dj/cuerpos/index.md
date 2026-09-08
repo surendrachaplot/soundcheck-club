@@ -1,6 +1,6 @@
 # CUERPOS
 
-CUERPOS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bar Datcha, Montreal on Thu, 10 Sept 2026.
+CUERPOS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bar Datcha, Montreal on Thu, 10 Sept 2026.
 
 CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, with 12 sets logged across Montreal and Toronto. Often billed alongside Dj Hermano, Ficilio and Jordan Gardner. Next up: Bar Datcha, Montreal on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 Dj Hermano, Ficilio, Jordan Gardner
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerpos/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerpos/)*

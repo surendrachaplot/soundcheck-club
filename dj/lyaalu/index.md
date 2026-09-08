@@ -1,6 +1,6 @@
 # Ìyáàlù
 
-Ìyáàlù is a UK Funky and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
+Ìyáàlù is a UK Funky and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Colour Factory, London on Sat, 26 Sept 2026.
 
 Ìyáàlù is an uk funky and baile funk artist tracked on soundcheck, with 29 sets logged across London and Manchester. Often billed alongside CXLI, OTDELTA and Bushbby. Next up: Colour Factory, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@
 
 CXLI, OTDELTA, Bushbby
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyaalu/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lyaalu/)*

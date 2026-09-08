@@ -1,6 +1,6 @@
 # kuntress
 
-kuntress is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Hart Bar, New York City on Fri, 18 Sept 2026.
+kuntress is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hart Bar, New York City on Fri, 18 Sept 2026.
 
 kuntress is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin, Detroit, Losangeles and Newyorkcity and 1 more. Often billed alongside zzzzach, ALTÉGO and ARCHANGEL (US). Next up: Hart Bar, Newyorkcity on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ kuntress is a club and ghetto tech artist based in United States of America, tra
 
 zzzzach, ALTÉGO, ARCHANGEL (US)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*

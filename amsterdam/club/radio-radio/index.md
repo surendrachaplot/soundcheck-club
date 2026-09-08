@@ -1,24 +1,25 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 8 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Radio Radio 8Y Anniversary" on Fri, 11 Sept 2026.
+Radio Radio is a music venue in Amsterdam with 9 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Radio Radio 8Y Anniversary" on Fri, 11 Sept 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 8 upcoming nights, with line-ups including Bennet (DE), Berkan V8, Cleo Grooves and Dimitri K and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 9 upcoming nights, with line-ups including Aldonna, Bennet (DE), Benny Rodrigues and Berkan V8 and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | Radio Radio 8Y Anniversary |  |
+| Fri, 11 Sept 2026 | Radio Radio 8Y Anniversary | Aldonna, Cinnaman, DOUG, Dam Swindle, Emvae, Hannecart, Kyra Khaldi, Monty DJ, Moxes, Nino Henning, Retromigration, SAIDAH, Venz |
 | Sat, 12 Sept 2026 | D Stone • Laura Meester • Midas Field | D Stone, Laura Meester, Midas Field |
 | Fri, 18 Sept 2026 | Fantastic Man • Jaimy | Fantastic Man, Jaimy (2) |
 | Sat, 19 Sept 2026 | Ecclipse | Cleo Grooves, Lex Valverde |
 | Sat, 19 Sept 2026 | Dimitri • jannah | Dimitri K, jannah |
 | Fri, 25 Sept 2026 | M-High • Shanne | M-High, Shanne |
 | Sat, 26 Sept 2026 | John Tejada • Monty DJ | John Tejada, Monty DJ |
+| Fri, 23 Oct 2026 | ADE: Baskets x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman | Benny Rodrigues, Laura Meester, Merel Helderman |
 | Sun, 25 Oct 2026 | amore x radio radio / ADE night closing (12h) | Bennet (DE), Berkan V8, Doran, Jasmín, Karina Schneider, Victor (DE) |
 
 ## Address
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

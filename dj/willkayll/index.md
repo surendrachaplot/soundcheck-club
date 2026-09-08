@@ -1,6 +1,6 @@
 # Will Kayll
 
-Will Kayll is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Outer Heaven, New York City on Thu, 10 Sept 2026.
+Will Kayll is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Outer Heaven, New York City on Thu, 10 Sept 2026.
 
 Will Kayll is a house and disco artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Bristol, London and Newyorkcity. Often billed alongside HORN-E, Rude Jude and ALFALFA (UK). Next up: Outer Heaven, Newyorkcity on Thu 10 Sept.
 
@@ -26,4 +26,4 @@ Will Kayll is a house and disco artist based in United Kingdom, tracked on sound
 
 HORN-E, Rude Jude, ALFALFA (UK)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willkayll/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/willkayll/)*

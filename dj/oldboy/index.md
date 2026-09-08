@@ -1,6 +1,6 @@
 # Oldboy
 
-Oldboy is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at BASIS, Utrecht on Fri, 11 Sept 2026.
+Oldboy is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at BASIS, Utrecht on Fri, 11 Sept 2026.
 
 Oldboy is a garage and house artist tracked on soundcheck, with 53 sets logged across Amsterdam, Athens, Birmingham and Brighton and 17 more. Often billed alongside DJ Cosworth, Prozak (IRL) and Silva Bumpa. Next up: BASIS, Utrecht on Fri 11 Sept.
 
@@ -29,4 +29,4 @@ Oldboy is a garage and house artist tracked on soundcheck, with 53 sets logged a
 
 DJ Cosworth, Prozak (IRL), Silva Bumpa
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

@@ -1,8 +1,8 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 27 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Milkshake, Ministry Of Sound - London's Biggest Student Night" on Tue, 8 Sept 2026.
+Ministry Of Sound is a music venue in London with 28 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Milkshake, Ministry Of Sound - London's Biggest Student Night" on Tue, 8 Sept 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 27 upcoming nights, with line-ups including Alastair Lane, Alex Mills, Amtrac and Anderdox and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 28 upcoming nights, with line-ups including Alastair Lane, Alex Mills, Amtrac and Anderdox and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 27 upcoming n
 | Sat, 19 Sept 2026 | Bob Sinclar - 20 YEARS OF WORLD HOLD ON FT. STEVE EDWARDS LIVE | Bob Sinclar |
 | Mon, 21 Sept 2026 | The UV Rave |  |
 | Tue, 22 Sept 2026 | Ministry Of Sound, Milkshake - Official London Freshers Launch PART 2 |  |
-| Fri, 25 Sept 2026 | BLINK: Stylo, P.O.U, JJOY, SOOFNIC, TERRY GOLDEN | P.O.U, Stylo |
+| Thu, 24 Sept 2026 | Take Off UK presents: VIKKSTAR & SPECIAL GUESTS! The Freshers Rave |  |
 
 ## Address
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

@@ -1,6 +1,6 @@
 # Artist Lebo
 
-Artist Lebo is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Headrow House, Leeds on Sat, 19 Sept 2026.
+Artist Lebo is a Amapiano and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Headrow House, Leeds on Sat, 19 Sept 2026.
 
 Artist Lebo is an amapiano and afro house artist tracked on soundcheck, with 24 sets logged across Leeds, London and Manchester. Often billed alongside CLEIDO, DJ TOOTS and DJEFF. Next up: Headrow House, Leeds on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Artist Lebo is an amapiano and afro house artist tracked on soundcheck, with 24 
 
 CLEIDO, DJ TOOTS, DJEFF
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artistlebo/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artistlebo/)*

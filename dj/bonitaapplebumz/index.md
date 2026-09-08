@@ -1,6 +1,6 @@
 # Bonita Applebumz
 
-Bonita Applebumz is a Electro and Footwork artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Bonita Applebumz is a Electro and Footwork artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Bonita Applebumz is an electro and footwork artist based in United States of America, tracked on soundcheck, with 10 sets logged across Miami. Often billed alongside //DLM, Duality (US) and GRUE5OME. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Bonita Applebumz is an electro and footwork artist based in United States of Ame
 
 //DLM, Duality (US), GRUE5OME
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonitaapplebumz/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bonitaapplebumz/)*

@@ -1,6 +1,6 @@
 # Riktus with Shogun (Usa / Portugal Debut) at Ministerium Club
 
-Riktus with Shogun (Usa / Portugal Debut) at Ministerium Club on Thu 24 Sept, Lisbon. 2 acts on the bill: Shogun and VLB (1). Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Riktus with Shogun (Usa / Portugal Debut) at Ministerium Club on Thu 24 Sept, Lisbon. 5 acts on the bill: KICKREY, Madson Carpenter, Pharah and Shogun and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ Riktus with Shogun (Usa / Portugal Debut) at Ministerium Club on Thu 24 Sept, Li
 
 ## Line-up
 
+- KICKREY
+- Madson Carpenter
+- Pharah
 - Shogun
 - VLB (1)
 

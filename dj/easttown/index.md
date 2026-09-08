@@ -1,6 +1,6 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Cova Santa, Ibiza on Tue, 8 Sept 2026.
+Easttown is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Cova Santa, Ibiza on Tue, 8 Sept 2026.
 
 Easttown is a house and tech house artist tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and Franky Rizardo. Next up: Cova Santa, Ibiza on Tue 8 Sept.
 
@@ -31,4 +31,4 @@ Easttown is a house and tech house artist tracked on soundcheck, with 98 sets lo
 
 Rooléh, Joëlla Jackson, Franky Rizardo
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

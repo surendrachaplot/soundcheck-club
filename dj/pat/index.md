@@ -1,6 +1,6 @@
 # Pat
 
-Pat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat, 26 Sept 2026.
+Pat is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat, 26 Sept 2026.
 
 Pat is a house and disco artist based in Ireland, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside Do you know Juno, Tatiana and 3MZY. Next up: Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Pat is a house and disco artist based in Ireland, tracked on soundcheck, with 20
 
 Do you know Juno, Tatiana, 3MZY
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pat/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pat/)*

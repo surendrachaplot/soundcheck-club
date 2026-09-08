@@ -1,6 +1,6 @@
 # Bronsön
 
-Bronsön is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Secret Location, Vancouver on Sat, 12 Sept 2026.
+Bronsön is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Secret Location, Vancouver on Sat, 12 Sept 2026.
 
 Bronsön is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Montreal and Vancouver. Often billed alongside kish, DK PAU and Fizch. Next up: TBA - Secret Location, Vancouver on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Bronsön is a techno and minimal techno artist based in United Kingdom, tracked 
 
 kish, DK PAU, Fizch
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bronson-ca/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bronson-ca/)*

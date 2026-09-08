@@ -1,8 +1,8 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Lux Fragil, Lisbon on Sat, 12 Sept 2026.
+Jonathan Kaspar is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Lux Fragil, Lisbon on Sat, 12 Sept 2026.
 
-Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Robag Wruhme and Chris Schwarzwälder. Next up: Lux Fragil, Lisbon on Sat 12 Sept.
+Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 192 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Mira, Robag Wruhme and Chris Schwarzwälder. Next up: Lux Fragil, Lisbon on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 191 set
 | Fri, 18 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sun, 20 Sept 2026 | Bikini Beach | Cologne |
 | Sat, 26 Sept 2026 | fabric | London |
+| Sat, 26 Sept 2026 | Odonien | Cologne |
 | Sat, 17 Oct 2026 | fi | Cologne |
 | Fri, 23 Oct 2026 | Generator | Amsterdam |
 | Sat, 31 Oct 2026 | Airport Düsseldorf | Düsseldorf |
@@ -31,4 +32,4 @@ Jonathan Kaspar is a house and techno artist tracked on soundcheck, with 191 set
 
 Mira, Robag Wruhme, Chris Schwarzwälder
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

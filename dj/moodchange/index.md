@@ -1,6 +1,6 @@
 # Mood Change
 
-Mood Change is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Private Location, Vancouver on Sat, 10 Oct 2026.
+Mood Change is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Private Location, Vancouver on Sat, 10 Oct 2026.
 
 Mood Change is a techno and bass artist tracked on soundcheck, with 12 sets logged across Toronto and Vancouver. Often billed alongside The Librarian (CA), Max Ulis and INNEZZ. Next up: TBA - Private Location, Vancouver on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Mood Change is a techno and bass artist tracked on soundcheck, with 12 sets logg
 
 The Librarian (CA), Max Ulis, INNEZZ
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodchange/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moodchange/)*

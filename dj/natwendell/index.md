@@ -1,13 +1,14 @@
 # Nat Wendell
 
-Nat Wendell is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at 宀 Club, Hong Kong on Sat, 19 Sept 2026.
+Nat Wendell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Paper, Seoul on Fri, 18 Sept 2026.
 
-Nat Wendell is a house and techno artist tracked on soundcheck, with 77 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 14 more. Often billed alongside Luca Olivotto, Eva Crystaltips and Marie Lung. Next up: 宀 Club, Hongkong on Sat 19 Sept.
+Nat Wendell is a house and techno artist tracked on soundcheck, with 78 sets logged across Amsterdam, Berlin, Brussels and Buenosaires and 15 more. Often billed alongside Luca Olivotto, Eva Crystaltips and Marie Lung. Next up: Paper, Seoul on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Paper | Seoul |
 | Sat, 19 Sept 2026 | 宀 Club | Hong Kong |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nat Wendell is a house and techno artist tracked on soundcheck, with 77 sets log
 
 Luca Olivotto, Eva Crystaltips, Marie Lung
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natwendell/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natwendell/)*

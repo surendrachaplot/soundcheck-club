@@ -1,6 +1,6 @@
 # Bro Hoe
 
-Bro Hoe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA, Portland on Sat, 19 Sept 2026.
+Bro Hoe is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Portland on Sat, 19 Sept 2026.
 
 Bro Hoe is a techno and house artist based in United States of America, tracked on soundcheck, with 4 sets logged across Portland. Often billed alongside Sappho, kraftwitch and ALoSo. Next up: TBA, Portland on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Bro Hoe is a techno and house artist based in United States of America, tracked 
 
 Sappho, kraftwitch, ALoSo
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brohoe/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brohoe/)*

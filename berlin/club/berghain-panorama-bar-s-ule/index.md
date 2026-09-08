@@ -1,6 +1,6 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Laundrette" on Fri, 11 Sept 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Laundrette" on Fri, 11 Sept 2026.
 
 Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Aba Shanti-I, Acronym, Agata and Agata (PL) and 2 more. Browse upcoming dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

@@ -1,13 +1,14 @@
 # howrøng
 
-howrøng is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Padimai Art & Tech Studio, Singapore on Sat, 12 Sept 2026.
+howrøng is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Exit Reality, Singapore on Fri, 11 Sept 2026.
 
-howrøng is a techno and house artist tracked on soundcheck, with 31 sets logged across Kualalumpur, Melbourne and Singapore. Often billed alongside Cloudy Ku, BBANDIT and GODKORINE. Next up: Padimai Art & Tech Studio, Singapore on Sat 12 Sept.
+howrøng is a techno and house artist tracked on soundcheck, with 32 sets logged across Kualalumpur, Melbourne and Singapore. Often billed alongside Cloudy Ku, BBANDIT and GODKORINE. Next up: Exit Reality, Singapore on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Exit Reality | Singapore |
 | Sat, 12 Sept 2026 | Padimai Art & Tech Studio | Singapore |
 
 ## Recently played
@@ -25,4 +26,4 @@ howrøng is a techno and house artist tracked on soundcheck, with 31 sets logged
 
 Cloudy Ku, BBANDIT, GODKORINE
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/howrong/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/howrong/)*

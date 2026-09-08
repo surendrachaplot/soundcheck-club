@@ -1,6 +1,6 @@
 # SOLTERA
 
-SOLTERA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Gold Diggers, Los Angeles on Thu, 10 Sept 2026.
+SOLTERA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Gold Diggers, Los Angeles on Thu, 10 Sept 2026.
 
 SOLTERA is a house and techno artist tracked on soundcheck, with 31 sets logged across Barcelona, Brisbane, Denver and London and 10 more. Often billed alongside 1tbsp, Killian and Bitter Babe. Next up: Gold Diggers, Losangeles on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ SOLTERA is a house and techno artist tracked on soundcheck, with 31 sets logged 
 
 1tbsp, Killian, Bitter Babe
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soltera/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soltera/)*

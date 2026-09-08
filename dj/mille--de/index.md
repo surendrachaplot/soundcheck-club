@@ -1,14 +1,15 @@
 # Mille (DE)
 
-Mille (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Fitzroy, Berlin on Sun, 20 Sept 2026.
+Mille (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Fitzroy, Berlin on Sun, 20 Sept 2026.
 
-Mille (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 5 sets logged across Berlin and Hamburg. Often billed alongside MILLE, DJ MILLE and Alec Dienaar. Next up: Fitzroy, Berlin on Sun 20 Sept.
+Mille (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Dusseldorf and Hamburg. Often billed alongside MILLE, DJ MILLE and Alec Dienaar. Next up: Fitzroy, Berlin on Sun 20 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Fitzroy | Berlin |
+| Sat, 5 Dec 2026 | Giselle | Düsseldorf |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ Mille (DE) is a house and techno artist based in Germany, tracked on soundcheck,
 
 MILLE, DJ MILLE, Alec Dienaar
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mille--de/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mille--de/)*

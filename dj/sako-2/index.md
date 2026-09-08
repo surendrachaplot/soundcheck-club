@@ -1,6 +1,6 @@
 # Sako (2)
 
-Sako (2) is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Sala Rossa, La, Montreal on Fri, 18 Sept 2026.
+Sako (2) is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sala Rossa, La, Montreal on Fri, 18 Sept 2026.
 
 Sako (2) is a techno and electronica artist based in United States of America, tracked on soundcheck, with 11 sets logged across Montreal. Often billed alongside Kiju, MIASALAV and Lis Dalton. Next up: Sala Rossa, La, Montreal on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Sako (2) is a techno and electronica artist based in United States of America, t
 
 Kiju, MIASALAV, Lis Dalton
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sako-2/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sako-2/)*

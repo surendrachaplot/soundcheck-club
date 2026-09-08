@@ -1,8 +1,8 @@
 # fka.m4a
 
-fka.m4a is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
+fka.m4a is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
 
-fka.m4a is a house and techno artist tracked on soundcheck, with 190 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Cormac, Elli Acula and Sedef Adasï. Next up: KitKatClub, Berlin on Fri 11 Sept.
+fka.m4a is a house and techno artist tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Cormac, Elli Acula and Sedef Adasï. Next up: KitKatClub, Berlin on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ fka.m4a is a house and techno artist tracked on soundcheck, with 190 sets logged
 | Fri, 25 Sept 2026 | nachbar | Amsterdam |
 | Sat, 26 Sept 2026 | BASIS | Utrecht |
 | Fri, 2 Oct 2026 | Vittoria Wharf Studio | London |
+| Sun, 6 Dec 2026 | Paloma | Berlin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ fka.m4a is a house and techno artist tracked on soundcheck, with 190 sets logged
 
 Cormac, Elli Acula, Sedef Adasï
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fkam4a/)*

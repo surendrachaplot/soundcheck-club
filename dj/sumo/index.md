@@ -1,6 +1,6 @@
 # SUMO
 
-SUMO is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+SUMO is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 SUMO is a house and trance artist based in Georgia, tracked on soundcheck, with 107 sets logged across Berlin, Hamburg, Lisbon and Stuttgart and 1 more. Often billed alongside BEQA, Gio Shengelia and AudioSpace. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SUMO is a house and trance artist based in Georgia, tracked on soundcheck, with 
 
 BEQA, Gio Shengelia, AudioSpace
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sumo/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sumo/)*

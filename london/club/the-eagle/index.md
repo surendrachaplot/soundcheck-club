@@ -1,6 +1,6 @@
 # The Eagle
 
-The Eagle is a music venue in London with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Handsome (Hilit Kolet)" on Sat, 12 Sept 2026.
+The Eagle is a music venue in London with 5 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Handsome (Hilit Kolet)" on Sat, 12 Sept 2026.
 
 The Eagle is a music venue in London listed on soundcheck. 5 upcoming nights, with line-ups including Giles Smith, Hilit Kolet, Horse Meat Disco and Justin Strauss. Browse upcoming dates, start times and who's playing. 349 Kennington Ln, London SE11 5QY, United Kingdom.
 
@@ -18,4 +18,4 @@ The Eagle is a music venue in London listed on soundcheck. 5 upcoming nights, wi
 
 349 Kennington Ln, London SE11 5QY, United Kingdom, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-eagle/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-eagle/)*

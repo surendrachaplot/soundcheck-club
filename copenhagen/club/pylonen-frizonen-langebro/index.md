@@ -1,13 +1,14 @@
 # Pylonen - Frizonen Langebro
 
-Pylonen - Frizonen Langebro is a music venue in Copenhagen with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Summer Isn't Over Yet - Outdoor Daytime Party at Pylonen - Langebro" on Sun, 13 Sept 2026.
+Pylonen - Frizonen Langebro is a music venue in Copenhagen with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Frikvens Syndikatet presents: Maskefald" on Fri, 11 Sept 2026.
 
-Pylonen - Frizonen Langebro is a music venue in Copenhagen listed on soundcheck. 1 upcoming night, with line-ups including Anastasia Kristensen, Dennis DAFG, Emma Priis and Entree and 1 more. Browse upcoming dates, start times and who's playing.
+Pylonen - Frizonen Langebro is a music venue in Copenhagen listed on soundcheck. 2 upcoming nights, with line-ups including Anastasia Kristensen, Dennis DAFG, Emma Priis and Entree and 1 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | Frikvens Syndikatet presents: Maskefald |  |
 | Sun, 13 Sept 2026 | Summer Isn't Over Yet - Outdoor Daytime Party at Pylonen - Langebro | Anastasia Kristensen, Dennis DAFG, Emma Priis, Entree, Shaan (2) |
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pylonen-frizonen-langebro/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pylonen-frizonen-langebro/)*

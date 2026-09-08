@@ -1,6 +1,6 @@
 # INTO SOLA invites: Daisy Moon at La Cheetah Club
 
-INTO SOLA invites: Daisy Moon at La Cheetah Club on Fri 23 Oct, Glasgow. 3 acts on the bill: Daisy Moon, David Scott and Kyle Scott. House and Electro. Preview the line-up and save it on soundcheck.
+INTO SOLA invites: Daisy Moon at La Cheetah Club on Fri 23 Oct, Glasgow. 3 acts on the bill: Daisy Moon, David Scott and Kyle Scott. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

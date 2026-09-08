@@ -1,6 +1,6 @@
 # FIRZA
 
-FIRZA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
+FIRZA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at [UNVRS], Ibiza on Wed, 9 Sept 2026.
 
 FIRZA is a house and tech house artist tracked on soundcheck, with 26 sets logged across Amsterdam, Birmingham, Brighton and Ibiza and 7 more. Often billed alongside Ryan Resso, FINKY and Stef Davidse. Next up: [UNVRS], Ibiza on Wed 9 Sept.
 
@@ -27,4 +27,4 @@ FIRZA is a house and tech house artist tracked on soundcheck, with 26 sets logge
 
 Ryan Resso, FINKY, Stef Davidse
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*

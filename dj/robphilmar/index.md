@@ -1,6 +1,6 @@
 # Rob Philmar
 
-Rob Philmar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Smoot Standard, Boston on Sat, 19 Sept 2026.
+Rob Philmar is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Smoot Standard, Boston on Sat, 19 Sept 2026.
 
 Rob Philmar is a house and tech house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Boston. Often billed alongside DJ Yee and FRANÇOIS G. Next up: The Smoot Standard, Boston on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ Rob Philmar is a house and tech house artist based in United States of America, 
 
 DJ Yee, FRANÇOIS G
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robphilmar/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robphilmar/)*

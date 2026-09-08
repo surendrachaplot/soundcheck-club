@@ -1,6 +1,6 @@
 # Small Great House 'Garden Closing 2026' (Open Air + Indoor) at OXI
 
-Small Great House 'Garden Closing 2026' (Open Air + Indoor) at OXI on Sat 3 Oct, Berlin. 6 acts on the bill: Lavan, Loves_kills, Meriem S and Retromigration and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
+Small Great House 'Garden Closing 2026' (Open Air + Indoor) at OXI on Sat 3 Oct, Berlin. 13 acts on the bill: Eva Crystaltips, Kat_Es, Lavan and Loves_kills and 9 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,17 @@ Small Great House 'Garden Closing 2026' (Open Air + Indoor) at OXI on Sat 3 Oct,
 
 ## Line-up
 
+- Eva Crystaltips
+- Kat_Es
 - Lavan
 - Loves_kills
+- Luca Olivotto
 - Meriem S
+- Nephews
+- Quadrakey
 - Retromigration
+- Shabi
+- Siggatunez
 - Small Great Things. Soundsystem
 - Valeria
 

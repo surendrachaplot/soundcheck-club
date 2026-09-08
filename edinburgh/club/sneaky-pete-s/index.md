@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 31 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "RARE Club // Georj + Mixfits" on Tue, 8 Sept 2026.
+Sneaky Pete's is a music venue in Edinburgh with 32 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "RARE Club // Georj + Mixfits" on Tue, 8 Sept 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 31 upcoming nights, with line-ups including Alexis Taylor, Auramatic, BORLEY and Buckfast Barbie and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming nights, with line-ups including Alexis Taylor, Auramatic, billybawbags and BORLEY and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 31 upcoming ni
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

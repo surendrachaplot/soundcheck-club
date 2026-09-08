@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Dionys: Hardtechno x Trance/Bounce Rave(2 Floors)" on Fri, 11 Sept 2026.
+Void Club is a music venue in Berlin with 14 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Dionys: Hardtechno x Trance/Bounce Rave(2 Floors)" on Fri, 11 Sept 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming nights, with line-ups including Agem, Alex Xandra, Alienata and alllone and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming nights, w
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

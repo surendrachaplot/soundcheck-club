@@ -1,6 +1,6 @@
 # The Toff in Town
 
-The Toff in Town is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Proto Exotica presents: Cerro – The Infinite Hum" on Fri, 11 Sept 2026.
+The Toff in Town is a music venue in Melbourne with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Proto Exotica presents: Cerro – The Infinite Hum" on Fri, 11 Sept 2026.
 
 The Toff in Town is a music venue in Melbourne listed on soundcheck. 2 upcoming nights, with line-ups including Jack Popper and KAHU. Browse upcoming dates, start times and who's playing. Level 2, Curtain House, 252 Swanston Street, Melbourne.
 
@@ -15,4 +15,4 @@ The Toff in Town is a music venue in Melbourne listed on soundcheck. 2 upcoming 
 
 Level 2, Curtain House, 252 Swanston Street, Melbourne, Melbourne
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-toff-in-town/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-toff-in-town/)*

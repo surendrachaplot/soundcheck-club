@@ -1,6 +1,6 @@
 # DJ Sarah Bonito
 
-DJ Sarah Bonito is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Distillery N17, London on Sat, 3 Oct 2026.
+DJ Sarah Bonito is a Hardcore and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Distillery N17, London on Sat, 3 Oct 2026.
 
 DJ Sarah Bonito is a hardcore and club artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Bristol and Glasgow and 4 more. Often billed alongside Slayphex Twins, PLUSHB4BY and Peggy Viennetta. Next up: Distillery N17, London on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ DJ Sarah Bonito is a hardcore and club artist based in United Kingdom, tracked o
 
 Slayphex Twins, PLUSHB4BY, Peggy Viennetta
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsarahbonito/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsarahbonito/)*

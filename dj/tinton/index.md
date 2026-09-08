@@ -1,13 +1,14 @@
 # TiNTON
 
-TiNTON is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at New Guernica, Melbourne on Fri, 18 Sept 2026.
+TiNTON is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at ark (Melb), Melbourne on Sat, 12 Sept 2026.
 
-TiNTON is a garage and house artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Melbourne. Often billed alongside Acid Safari, Bby Cass and Bekks. Next up: New Guernica, Melbourne on Fri 18 Sept.
+TiNTON is a house and garage artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Melbourne. Often billed alongside Bby Cass, Acid Safari and Aidan Rudd. Next up: ark (Melb), Melbourne on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | ark (Melb) | Melbourne |
 | Fri, 18 Sept 2026 | New Guernica | Melbourne |
 
 ## Recently played
@@ -16,6 +17,6 @@ TiNTON is a garage and house artist based in United Kingdom, tracked on soundche
 
 ## Shares bills with
 
-Acid Safari, Bby Cass, Bekks
+Bby Cass, Acid Safari, Aidan Rudd
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinton/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tinton/)*

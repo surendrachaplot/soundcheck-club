@@ -1,6 +1,6 @@
 # Andrés Soria
 
-Andrés Soria is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TILLATEC, Amsterdam on Sun, 13 Sept 2026.
+Andrés Soria is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TILLATEC, Amsterdam on Sun, 13 Sept 2026.
 
 Andrés Soria is a techno and idm artist based in Spain, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Kessie and SAMA (NL). Next up: TILLATEC, Amsterdam on Sun 13 Sept.
 
@@ -14,4 +14,4 @@ Andrés Soria is a techno and idm artist based in Spain, tracked on soundcheck, 
 
 Kessie, SAMA (NL)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andressoria/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andressoria/)*

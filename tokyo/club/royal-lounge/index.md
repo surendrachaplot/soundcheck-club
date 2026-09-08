@@ -1,15 +1,13 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 14 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Royal Lounge" on Mon, 7 Sept 2026.
+Royal Lounge is a music venue in Tokyo with 12 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "'ROYAL WEDNESDAY' supported by CEBEDE" on Wed, 9 Sept 2026.
 
-Royal Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights, with line-ups including Addiy, Da Yama, junkie babe and Junya and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
+Royal Lounge is a music venue in Tokyo listed on soundcheck. 12 upcoming nights, with line-ups including Addiy, Da Yama, junkie babe and Kijta and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | Royal Lounge | Junya, KAIKAI, SIGNAL (JP), Yume |
-| Mon, 7 Sept 2026 | 'ROYAL MONDAY' |  |
 | Wed, 9 Sept 2026 | 'ROYAL WEDNESDAY' supported by CEBEDE |  |
 | Thu, 10 Sept 2026 | 'Sesiones' | Da Yama, junkie babe |
 | Fri, 11 Sept 2026 | 'ROYAL FLYDAY' Supported by CEBEDE |  |
@@ -18,9 +16,11 @@ Royal Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming nights,
 | Sun, 13 Sept 2026 | 'ROYAL SUNDAY' Supported by CEBEDE |  |
 | Mon, 14 Sept 2026 | 'ROYAL MONDAY' |  |
 | Wed, 16 Sept 2026 | 'ROYAL WEDNESDAY' Supported by CEBEDE |  |
+| Thu, 17 Sept 2026 | 'ROYAL THURSDAY' |  |
+| Sun, 20 Sept 2026 | Wasshoi Re:start - House,Tech house- | Addiy, PUNK N MATRIX, Yamariki |
 
 ## Address
 
 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001, Tokyo
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/royal-lounge/)*

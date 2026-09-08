@@ -1,6 +1,6 @@
 # block.
 
-block. is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Block. Marie Vaunt" on Fri, 11 Sept 2026.
+block. is a music venue in Dublin with 9 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Block. Marie Vaunt" on Fri, 11 Sept 2026.
 
 block. is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with line-ups including ADR (UK), ADR (US), Archie Hamilton and bernie soundmate and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
@@ -22,4 +22,4 @@ block. is a music venue in Dublin listed on soundcheck. 9 upcoming nights, with 
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

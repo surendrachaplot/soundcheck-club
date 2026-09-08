@@ -1,6 +1,6 @@
 # m̶a̶h̶[alias]
 
-m̶a̶h̶[alias] is a Club artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
+m̶a̶h̶[alias] is a Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
 
 m̶a̶h̶[alias] is a club artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside m-onz, Chris Speed Visuals and Nesso. Next up: M.O.T, London on Thu 8 Oct.
 
@@ -18,4 +18,4 @@ m̶a̶h̶[alias] is a club artist tracked on soundcheck, with 2 sets logged acro
 
 m-onz, Chris Speed Visuals, Nesso
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahalias/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahalias/)*

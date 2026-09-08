@@ -1,6 +1,6 @@
 # Jorgium
 
-Jorgium is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Avve, Bangkok on Sat, 12 Sept 2026.
+Jorgium is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Avve, Bangkok on Sat, 12 Sept 2026.
 
 Jorgium is a techno and breakbeat artist based in Thailand, tracked on soundcheck, with 15 sets logged across Bangkok. Often billed alongside x_me, InRemission and POKOLENIE MIKROZAYMOV. Next up: Avve, Bangkok on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Jorgium is a techno and breakbeat artist based in Thailand, tracked on soundchec
 
 x_me, InRemission, POKOLENIE MIKROZAYMOV
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgium/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgium/)*

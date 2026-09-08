@@ -1,6 +1,6 @@
 # CLAESSENS
 
-CLAESSENS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Toffler, Rotterdam on Fri, 25 Sept 2026.
+CLAESSENS is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Toffler, Rotterdam on Fri, 25 Sept 2026.
 
 CLAESSENS is a techno and trance artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, Frankfurt and Rotterdam and 3 more. Often billed alongside Jakob Lesch, Miss Unleashed and RUL3. Next up: Toffler, Rotterdam on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ CLAESSENS is a techno and trance artist based in Netherlands, tracked on soundch
 
 Jakob Lesch, Miss Unleashed, RUL3
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claessens/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/claessens/)*

@@ -1,6 +1,6 @@
 # M.B.I.
 
-M.B.I. is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 12 Sept 2026.
+M.B.I. is a Bass and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at K-Bar Powiśle, Warsaw on Sat, 12 Sept 2026.
 
 M.B.I. is a bass and experimental artist tracked on soundcheck, with 10 sets logged across Warsaw. Often billed alongside Richie Beige, bolo and dd (PL). Next up: K-Bar Powiśle, Warsaw on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ M.B.I. is a bass and experimental artist tracked on soundcheck, with 10 sets log
 
 Richie Beige, bolo, dd (PL)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m.b.i./)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m.b.i./)*

@@ -1,6 +1,6 @@
 # Dune Park
 
-Dune Park is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "CLUB" on Fri, 11 Sept 2026.
+Dune Park is a music venue in Buenos Aires with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Dune Park" on Fri, 11 Sept 2026.
 
 Dune Park is a music venue in Buenosaires listed on soundcheck. 3 upcoming nights, with line-ups including Ariel Rodz, Innexen, Ivy and LAURA CARRENA and 2 more. Browse upcoming dates, start times and who's playing. Araoz 740, Ciudad Autónoma de Buenos Aires, C1414, Argentina.
 
@@ -8,7 +8,7 @@ Dune Park is a music venue in Buenosaires listed on soundcheck. 3 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Fri, 11 Sept 2026 | CLUB |  |
+| Fri, 11 Sept 2026 | Dune Park |  |
 | Sat, 12 Sept 2026 | IDENTIDAD PRIMITIVA | Ariel Rodz, Momo, SOSA (UK) |
 | Sat, 19 Sept 2026 | DVNE PARK LEGACY VOL. XVI | Innexen, Ivy, LAURA CARRENA, Logos |
 
@@ -16,4 +16,4 @@ Dune Park is a music venue in Buenosaires listed on soundcheck. 3 upcoming night
 
 Araoz 740, Ciudad Autónoma de Buenos Aires, C1414, Argentina, Buenos Aires
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/dune-park/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/dune-park/)*

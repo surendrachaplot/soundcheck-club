@@ -1,6 +1,6 @@
 # AVIAX
 
-AVIAX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Concept Haus, Manchester on Sat, 21 Nov 2026.
+AVIAX is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Concept Haus, Manchester on Sat, 21 Nov 2026.
 
 AVIAX is a house and techno artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Leeds, London and Manchester. Often billed alongside Sam Pratt, Seth Chohan and Kinso. Next up: Concept Haus, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ AVIAX is a house and techno artist based in United Kingdom, tracked on soundchec
 
 Sam Pratt, Seth Chohan, Kinso
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aviax/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aviax/)*

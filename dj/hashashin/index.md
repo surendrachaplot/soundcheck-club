@@ -1,6 +1,6 @@
 # Hashashin
 
-Hashashin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Motorista Studio, Toronto on Sat, 12 Sept 2026.
+Hashashin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Motorista Studio, Toronto on Sat, 12 Sept 2026.
 
 Hashashin is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Berlin, Ghent and Paris and 5 more. Often billed alongside François X, BIANKA and Beste Hira. Next up: Motorista Studio, Toronto on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Hashashin is a techno and house artist tracked on soundcheck, with 48 sets logge
 
 François X, BIANKA, Beste Hira
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hashashin/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hashashin/)*

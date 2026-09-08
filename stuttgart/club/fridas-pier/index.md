@@ -1,6 +1,6 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 14 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "PLUR day to night" on Fri, 11 Sept 2026.
+Fridas Pier is a music venue in Stuttgart with 14 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "PLUR day to night" on Fri, 11 Sept 2026.
 
 Fridas Pier is a music venue in Stuttgart listed on soundcheck. 14 upcoming nights, with line-ups including Alex Kassian, Andre Winter, Anna Reusch and Ann Clue and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
@@ -23,4 +23,4 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 14 upcoming nigh
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

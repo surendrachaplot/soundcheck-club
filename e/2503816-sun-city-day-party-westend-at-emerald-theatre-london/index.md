@@ -1,10 +1,10 @@
 # Sun City Day Party - Westend at Emerald Theatre London
 
-Sun City Day Party - Westend at Emerald Theatre London on Sat 7 Nov, London. House and Garage. Preview the line-up and save it on soundcheck.
+Sun City Day Party - Westend at Emerald Theatre London on Sat 14 Nov, London. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 7 Nov 2026 |
+| Date | Sat, 14 Nov 2026 |
 | Venue | Emerald Theatre London |
 | City | London |
 

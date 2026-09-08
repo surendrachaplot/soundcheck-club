@@ -1,6 +1,6 @@
 # Part Time Killer
 
-Part Time Killer is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
+Part Time Killer is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Gateway Gardens Ocean Club, Frankfurt on Fri, 11 Sept 2026.
 
 Part Time Killer is a techno and trance artist tracked on soundcheck, with 163 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Frederic., KLING&KLANG and CAIVA. Next up: Gateway Gardens Ocean Club, Frankfurt on Fri 11 Sept.
 
@@ -33,4 +33,4 @@ Part Time Killer is a techno and trance artist tracked on soundcheck, with 163 s
 
 Frederic., KLING&KLANG, CAIVA
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parttimekiller/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/parttimekiller/)*

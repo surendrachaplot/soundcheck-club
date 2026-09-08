@@ -1,14 +1,13 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at [UNVRS], Ibiza on Mon, 7 Sept 2026.
+Hannah Laing is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 14 Sept 2026.
 
-Hannah Laing is a techno and house artist tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: [UNVRS], Ibiza on Mon 7 Sept.
+Hannah Laing is a techno and house artist tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: Amnesia Ibiza, Ibiza on Mon 14 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | [UNVRS] | Ibiza |
 | Mon, 14 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | TBA | Los Angeles |
 | Wed, 30 Sept 2026 | Ushuaïa Ibiza | Ibiza |
@@ -19,6 +18,7 @@ Hannah Laing is a techno and house artist tracked on soundcheck, with 170 sets l
 
 ## Recently played
 
+- [UNVRS], Ibiza — Mon, 7 Sept 2026
 - OCZKI, Warsaw — Fri, 4 Sept 2026
 - Boucher Road Fields, Belfast — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
@@ -26,10 +26,9 @@ Hannah Laing is a techno and house artist tracked on soundcheck, with 170 sets l
 - BCM, Mallorca — Tue, 25 Aug 2026
 - [UNVRS], Ibiza — Mon, 17 Aug 2026
 - TBA - Straße des 17. Juni & Großer Stern, Berlin — Sat, 15 Aug 2026
-- OST, Berlin — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

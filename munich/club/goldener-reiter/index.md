@@ -1,8 +1,8 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Bonanza Records with papa jazz, Rafatel, Valeriana, sianza" on Fri, 11 Sept 2026.
+Goldener Reiter is a music venue in Munich with 12 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Bonanza Records with papa jazz, Rafatel, Valeriana, sianza" on Fri, 11 Sept 2026.
 
-Goldener Reiter is a music venue in Munich listed on soundcheck. 11 upcoming nights, with line-ups including André Dancekowski, CHUBBS, DJ HOT and julës jay and 2 more. Browse upcoming dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
+Goldener Reiter is a music venue in Munich listed on soundcheck. 12 upcoming nights, with line-ups including André Dancekowski, CHUBBS, DJ Business (2) and DJ HOT and 2 more. Browse upcoming dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 11 upcoming nig
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

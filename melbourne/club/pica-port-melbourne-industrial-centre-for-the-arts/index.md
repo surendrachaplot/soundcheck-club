@@ -1,6 +1,6 @@
 # Pica (Port Melbourne Industrial Centre for the Arts)
 
-Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "240KMH F2F Melbourne" on Thu, 24 Sept 2026.
+Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbourne with 5 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "240KMH F2F Melbourne" on Thu, 24 Sept 2026.
 
 Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbourne listed on soundcheck. 5 upcoming nights, with line-ups including AMMARA, ANXHELA, BYØRN and Catching Flies and 2 more. Browse upcoming dates, start times and who's playing. 1 Woolboard Rd, Port Melbourne VIC 3207.
 
@@ -18,4 +18,4 @@ Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbour
 
 1 Woolboard Rd, Port Melbourne VIC 3207, Melbourne
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/pica-port-melbourne-industrial-centre-for-the-arts/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/pica-port-melbourne-industrial-centre-for-the-arts/)*

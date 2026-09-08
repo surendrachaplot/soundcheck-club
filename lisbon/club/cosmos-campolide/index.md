@@ -1,6 +1,6 @@
 # Cosmos Campolide
 
-Cosmos Campolide is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "[R\F] Festa de apresentação de 'coração de hoje'" on Wed, 9 Sept 2026.
+Cosmos Campolide is a music venue in Lisbon with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "[R\F] Festa de apresentação de 'coração de hoje'" on Wed, 9 Sept 2026.
 
 Cosmos Campolide is a music venue in Lisbon listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Rua Marquês de Fronteira, 163, Lisbon, Portugal.
 
@@ -14,4 +14,4 @@ Cosmos Campolide is a music venue in Lisbon listed on soundcheck. 1 upcoming nig
 
 Rua Marquês de Fronteira, 163, Lisbon, Portugal, Lisbon
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/cosmos-campolide/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/cosmos-campolide/)*

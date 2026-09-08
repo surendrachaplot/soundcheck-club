@@ -1,8 +1,8 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Night Tales, London on Fri, 11 Sept 2026.
+Nick Curly is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Night Tales, London on Fri, 11 Sept 2026.
 
-Nick Curly is a house and tech house artist tracked on soundcheck, with 111 sets logged across Amsterdam, Athens, Auckland and Bali and 38 more. Often billed alongside Easttown, Reboot and Andrew Azara. Next up: Night Tales, London on Fri 11 Sept.
+Nick Curly is a house and tech house artist tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Auckland and Bali and 39 more. Often billed alongside Easttown, Reboot and Andrew Azara. Next up: Night Tales, London on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 111 sets
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 31 Oct 2026 | Studio 338 | London |
+| Sun, 6 Dec 2026 | Felons Barrel Hall | Brisbane |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Nick Curly is a house and tech house artist tracked on soundcheck, with 111 sets
 
 Easttown, Reboot, Andrew Azara
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nickcurly/)*

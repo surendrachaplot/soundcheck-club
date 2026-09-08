@@ -1,6 +1,6 @@
 # MADROSE
 
-MADROSE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Pisco Bar, Kuala Lumpur on Sat, 19 Sept 2026.
+MADROSE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Pisco Bar, Kuala Lumpur on Sat, 19 Sept 2026.
 
 MADROSE is a techno and house artist based in Malaysia, tracked on soundcheck, with 13 sets logged across Kualalumpur. Often billed alongside Alam, Odd (MY) and Biscuit (MY). Next up: Pisco Bar, Kualalumpur on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ MADROSE is a techno and house artist based in Malaysia, tracked on soundcheck, w
 
 Alam, Odd (MY), Biscuit (MY)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madrose/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madrose/)*

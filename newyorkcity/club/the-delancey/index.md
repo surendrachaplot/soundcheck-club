@@ -1,6 +1,6 @@
 # The Delancey
 
-The Delancey is a music venue in New York City with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Demonic Frequencies presents (21+) Techno Set" on Thu, 24 Sept 2026.
+The Delancey is a music venue in New York City with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Demonic Frequencies presents (21+) Techno Set" on Thu, 24 Sept 2026.
 
 The Delancey is a music venue in Newyorkcity listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. 168 Delancey Street; New York, NY 10002; United States.
 
@@ -14,4 +14,4 @@ The Delancey is a music venue in Newyorkcity listed on soundcheck. 1 upcoming ni
 
 168 Delancey Street; New York, NY 10002; United States, New York City
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-delancey/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-delancey/)*

@@ -1,13 +1,14 @@
 # Wheats
 
-Wheats is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at [UNVRS], Ibiza on Wed, 23 Sept 2026.
+Wheats is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at 528 Ibiza, Ibiza on Sun, 13 Sept 2026.
 
-Wheats is a tech house and house artist tracked on soundcheck, with 127 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 26 more. Often billed alongside ALISHA, East End Dubs and wAFF. Next up: [UNVRS], Ibiza on Wed 23 Sept.
+Wheats is a tech house and house artist tracked on soundcheck, with 128 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 26 more. Often billed alongside ALISHA, East End Dubs and wAFF. Next up: 528 Ibiza, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 13 Sept 2026 | 528 Ibiza | Ibiza |
 | Wed, 23 Sept 2026 | [UNVRS] | Ibiza |
 | Sat, 3 Oct 2026 | The Nest | Nottingham |
 | Thu, 12 Nov 2026 | Sub Club | Glasgow |
@@ -27,4 +28,4 @@ Wheats is a tech house and house artist tracked on soundcheck, with 127 sets log
 
 ALISHA, East End Dubs, wAFF
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*

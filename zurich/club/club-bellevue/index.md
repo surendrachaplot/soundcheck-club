@@ -1,8 +1,8 @@
 # Club Bellevue
 
-Club Bellevue is a music venue in Zurich with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "CHEZ CHAMEY" on Sat, 12 Sept 2026.
+Club Bellevue is a music venue in Zurich with 5 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "CHEZ CHAMEY" on Sat, 12 Sept 2026.
 
-Club Bellevue is a music venue in Zurich listed on soundcheck. 4 upcoming nights, with line-ups including GIORGIO (IT), Lukey, MASi and Rocco and 1 more. Browse upcoming dates, start times and who's playing. Rämistrasse 6; 8001, Zürich; Switzerland.
+Club Bellevue is a music venue in Zurich listed on soundcheck. 5 upcoming nights, with line-ups including GIORGIO (IT), Lukey, MASi and Rocco and 1 more. Browse upcoming dates, start times and who's playing. Rämistrasse 6; 8001, Zürich; Switzerland.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Club Bellevue is a music venue in Zurich listed on soundcheck. 4 upcoming nights
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | CHEZ CHAMEY | GIORGIO (IT), MASi, Rocco |
 | Sat, 19 Sept 2026 | LIMA |  |
+| Fri, 2 Oct 2026 | ADULTE: NIGHT OF SENSES - DEEP SOULFUL HOUSE |  |
 | Sat, 3 Oct 2026 | DAYTIMER: DRUM & BASS | Lukey, Tomato (IT) |
 | Sat, 14 Nov 2026 | ME•PATE |  |
 
@@ -17,4 +18,4 @@ Club Bellevue is a music venue in Zurich listed on soundcheck. 4 upcoming nights
 
 Rämistrasse 6; 8001, Zürich; Switzerland, Zurich
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/club-bellevue/)*

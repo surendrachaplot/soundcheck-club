@@ -1,0 +1,28 @@
+# Mark Disc Break
+
+Mark Disc Break is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - The Kabin, Kazimier Garden, Liverpool on Fri, 2 Oct 2026.
+
+Mark Disc Break is a house and disco artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Liverpool and Manchester. Often billed alongside Look Busy Collective, James Greenwood and Yadava. Next up: TBA - The Kabin, Kazimier Garden, Liverpool on Fri 2 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA - The Kabin, Kazimier Garden | Liverpool |
+
+## Recently played
+
+- Eastern Bloc Records, Manchester — Fri, 7 Aug 2026
+- Eastern Bloc Records, Manchester — Fri, 30 Jan 2026
+- Eastern Bloc Records, Manchester — Sat, 11 Oct 2025
+- The New Cross, Manchester — Sat, 26 Jul 2025
+- Piccadilly Central, Manchester — Fri, 6 Jun 2025
+- Ōdiobā, Manchester — Sat, 1 Feb 2025
+- Wilson's Den, Manchester — Sat, 28 Sept 2024
+- Eastern Bloc Records, Manchester — Sat, 13 Jul 2024
+
+## Shares bills with
+
+Look Busy Collective, James Greenwood, Yadava
+
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markdiscbreak/)*

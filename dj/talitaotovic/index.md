@@ -1,6 +1,6 @@
 # Talita Otović
 
-Talita Otović is a Hardcore and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 10 Oct 2026.
+Talita Otović is a Hardcore and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at La Station - Gare des Mines, Paris on Sat, 10 Oct 2026.
 
 Talita Otović is a hardcore and experimental artist based in France, tracked on soundcheck, with 13 sets logged across Brussels, Geneva, Paris and Vienna. Often billed alongside Karlfroye, KimberlaID and Nouminouw. Next up: La Station - Gare des Mines, Paris on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Talita Otović is a hardcore and experimental artist based in France, tracked on
 
 Karlfroye, KimberlaID, Nouminouw
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talitaotovic/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talitaotovic/)*

@@ -1,6 +1,6 @@
 # TAKUTO (2)
 
-TAKUTO (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The MED Terrace, Tokyo on Sun, 13 Sept 2026.
+TAKUTO (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The MED Terrace, Tokyo on Sun, 13 Sept 2026.
 
 TAKUTO (2) is a house and techno artist based in Japan, tracked on soundcheck, with 35 sets logged across Tokyo. Often billed alongside AY (10), O.Goo and DADO. Next up: The MED Terrace, Tokyo on Sun 13 Sept.
 
@@ -25,4 +25,4 @@ TAKUTO (2) is a house and techno artist based in Japan, tracked on soundcheck, w
 
 AY (10), O.Goo, DADO
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takuto-2/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takuto-2/)*

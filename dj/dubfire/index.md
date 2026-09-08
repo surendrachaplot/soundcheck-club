@@ -1,14 +1,13 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Dubfire is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Amnesia Ibiza, Ibiza on Tue, 8 Sept 2026.
 
-Dubfire is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Joseph Capriati, Cristoph and Deep Dish. Next up: Union Park, Chicago on Fri 4 Sept.
+Dubfire is a techno and house artist tracked on soundcheck, with 150 sets logged across Amsterdam, Athens, Austin and Bangkok and 47 more. Often billed alongside Joseph Capriati, Cristoph and Deep Dish. Next up: Amnesia Ibiza, Ibiza on Tue 8 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Tue, 8 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sun, 27 Sept 2026 | Evergreen Brick Works | Toronto |
 | Sat, 17 Oct 2026 | Stereo | Montreal |
@@ -30,4 +29,4 @@ Dubfire is a techno and house artist tracked on soundcheck, with 150 sets logged
 
 Joseph Capriati, Cristoph, Deep Dish
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*

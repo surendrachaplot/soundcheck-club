@@ -1,15 +1,13 @@
 # Kiki LeFreak
 
-Kiki LeFreak is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Cherry Beach, Toronto on Mon, 7 Sept 2026.
+Kiki LeFreak is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Bisou (350 Berkeley), Toronto on Sat, 12 Sept 2026.
 
-Kiki LeFreak is a house and disco artist tracked on soundcheck, with 121 sets logged across Chicago, Detroit, Mexicocity and Toronto. Often billed alongside Vjollca, Iced Misto and Jodie D. Next up: Cherry Beach, Toronto on Mon 7 Sept.
+Kiki LeFreak is a house and disco artist tracked on soundcheck, with 121 sets logged across Chicago, Detroit, Mexicocity and Toronto. Often billed alongside Vjollca, Iced Misto and Jodie D. Next up: TBA - Bisou (350 Berkeley), Toronto on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | Cherry Beach | Toronto |
-| Mon, 7 Sept 2026 | TBA - The Junction Neighbourhood  | Toronto |
 | Sat, 12 Sept 2026 | TBA - Bisou (350 Berkeley) | Toronto |
 | Fri, 18 Sept 2026 | Lee's Palace | Toronto |
 | Sat, 19 Sept 2026 | Bambi's | Toronto |
@@ -17,17 +15,17 @@ Kiki LeFreak is a house and disco artist tracked on soundcheck, with 121 sets lo
 
 ## Recently played
 
+- Cherry Beach, Toronto — Mon, 7 Sept 2026
+- Mooi Space, Toronto — Mon, 7 Sept 2026
 - 1point4hertz, Toronto — Sat, 29 Aug 2026
 - Bambi's, Toronto — Fri, 14 Aug 2026
 - Paradise Grapevine Winery, Toronto — Sat, 1 Aug 2026
 - 1point4hertz, Toronto — Sat, 25 Jul 2026
 - Cafeteria, Toronto — Sat, 11 Jul 2026
 - Paradise Grapevine Winery, Toronto — Fri, 10 Jul 2026
-- 1point4hertz, Toronto — Sat, 27 Jun 2026
-- Vertigo, Toronto — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Vjollca, Iced Misto, Jodie D
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikilefreak/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kikilefreak/)*

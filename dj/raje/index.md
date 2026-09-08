@@ -1,6 +1,6 @@
 # RAJE
 
-RAJE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+RAJE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 RAJE is a house and tech house artist tracked on soundcheck, with 18 sets logged across Leeds, London, Losangeles and Miami. Often billed alongside salameh, slugg and ALISHA. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ RAJE is a house and tech house artist tracked on soundcheck, with 18 sets logged
 
 salameh, slugg, ALISHA
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raje/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raje/)*

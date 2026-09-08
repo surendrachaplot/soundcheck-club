@@ -1,6 +1,6 @@
 # Chez de Milo
 
-Chez de Milo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Strange Brew, Bristol on Fri, 11 Sept 2026.
+Chez de Milo is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Strange Brew, Bristol on Fri, 11 Sept 2026.
 
 Chez de Milo is a house and techno artist tracked on soundcheck, with 127 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: Strange Brew, Bristol on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ Chez de Milo is a house and techno artist tracked on soundcheck, with 127 sets l
 
 Ellie Stokes, Dave Harvey, Ivan Smagghe
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdemilo/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdemilo/)*

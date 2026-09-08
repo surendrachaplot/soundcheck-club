@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Sissi's Friday with Kim April, Anil Aras & Jangala" on Fri, 11 Sept 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 11 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Sissi's Friday with Kim April, Anil Aras & Jangala" on Fri, 11 Sept 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 11 upcoming nights, with line-ups including Anil Aras, Ays (NL), BELLA (NL) and Bertie and 2 more. Browse upcoming dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -23,4 +23,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 11 upcomin
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

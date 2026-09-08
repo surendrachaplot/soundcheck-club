@@ -1,13 +1,14 @@
 # FridaY (DE)
 
-FridaY (DE) is a Bass and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Punctum - Krásovka, Prague on Fri, 25 Sept 2026.
+FridaY (DE) is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Luka, Seoul on Fri, 18 Sept 2026.
 
-FridaY (DE) is a bass and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 8 more. Often billed alongside Dirtie Blonde, H.U.D.L and Quarterdef. Next up: Punctum - Krásovka, Prague on Fri 25 Sept.
+FridaY (DE) is a techno and bass artist based in Germany, tracked on soundcheck, with 42 sets logged across Amsterdam, Berlin, Birmingham and Brighton and 9 more. Often billed alongside Dirtie Blonde, H.U.D.L and Quarterdef. Next up: Luka, Seoul on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Luka | Seoul |
 | Fri, 25 Sept 2026 | Punctum - Krásovka | Prague |
 | Sat, 3 Oct 2026 | Void Club | Berlin |
 
@@ -26,4 +27,4 @@ FridaY (DE) is a bass and house artist based in Germany, tracked on soundcheck, 
 
 Dirtie Blonde, H.U.D.L, Quarterdef
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-de/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/friday-de/)*

@@ -1,6 +1,6 @@
 # Arthur (DE)
 
-Arthur (DE) is a Dub and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Arthur (DE) is a Dub and Dancehall artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Arthur (DE) is a dub and dancehall artist based in Germany, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Denver and Glasgow and 13 more. Often billed alongside Carl Luis, Giouann and Tikiman. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ Arthur (DE) is a dub and dancehall artist based in Germany, tracked on soundchec
 
 Carl Luis, Giouann, Tikiman
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arthur-de/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arthur-de/)*

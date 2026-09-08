@@ -1,6 +1,6 @@
 # ANNDRA
 
-ANNDRA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
+ANNDRA is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Hall, Tallinn on Fri, 11 Sept 2026.
 
 ANNDRA is a techno and industrial artist tracked on soundcheck, with 3 sets logged across Berlin, Riga and Tallinn. Often billed alongside NØSARA, 044 Jaw and ANASI. Next up: Hall, Tallinn on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ ANNDRA is a techno and industrial artist tracked on soundcheck, with 3 sets logg
 
 NØSARA, 044 Jaw, ANASI
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anndra/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anndra/)*

@@ -1,6 +1,6 @@
 # Eskha
 
-Eskha is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Wigwam, Dublin on Fri, 25 Sept 2026.
+Eskha is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Wigwam, Dublin on Fri, 25 Sept 2026.
 
 Eskha is a techno and trance artist tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Brussels and Dublin and 9 more. Often billed alongside 1luu, Aureb and CLTX. Next up: Wigwam, Dublin on Fri 25 Sept.
 
@@ -29,4 +29,4 @@ Eskha is a techno and trance artist tracked on soundcheck, with 49 sets logged a
 
 1luu, Aureb, CLTX
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eskha/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eskha/)*

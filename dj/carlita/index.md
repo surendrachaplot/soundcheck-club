@@ -1,14 +1,13 @@
 # Carlita
 
-Carlita is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Carlita is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-Carlita is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: Union Park, Chicago on Fri 4 Sept.
+Carlita is a house and techno artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
 | Fri, 18 Sept 2026 | TBA | Lisbon |
 | Fri, 25 Sept 2026 | The Church Nightclub | Denver |
@@ -31,4 +30,4 @@ Carlita is a house and techno artist tracked on soundcheck, with 194 sets logged
 
 DJ Tennis, Seth Troxler, Prospa
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*

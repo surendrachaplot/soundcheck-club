@@ -1,6 +1,6 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Yard Vienna, Vienna on Sat, 12 Sept 2026.
+KLOFAMA is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Yard Vienna, Vienna on Sat, 12 Sept 2026.
 
 KLOFAMA is a techno and industrial artist tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 37 more. Often billed alongside KARAH, SLVL and SANTØS. Next up: The Yard Vienna, Vienna on Sat 12 Sept.
 
@@ -31,4 +31,4 @@ KLOFAMA is a techno and industrial artist tracked on soundcheck, with 97 sets lo
 
 KARAH, SLVL, SANTØS
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

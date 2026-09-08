@@ -1,10 +1,10 @@
 # ZORA at EKKO
 
-ZORA at EKKO on Sat 10 Oct, Utrecht. 2 acts on the bill: Bella Hall and Deborah X. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+ZORA at EKKO on Sat 17 Oct, Utrecht. 2 acts on the bill: Bella Hall and Deborah X. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 10 Oct 2026 |
+| Date | Sat, 17 Oct 2026 |
 | Venue | EKKO |
 | City | Utrecht |
 

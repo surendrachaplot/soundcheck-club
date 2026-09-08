@@ -1,6 +1,6 @@
 # Mellowdramatics
 
-Mellowdramatics is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
+Mellowdramatics is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bermondsey Triangle, London on Sat, 26 Sept 2026.
 
 Mellowdramatics is a club and techno artist tracked on soundcheck, with 30 sets logged across Glasgow and London. Often billed alongside John T. Gast, Authentically Plastic and Conrad Pack. Next up: Bermondsey Triangle, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mellowdramatics is a club and techno artist tracked on soundcheck, with 30 sets 
 
 John T. Gast, Authentically Plastic, Conrad Pack
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mellowdramatics/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mellowdramatics/)*

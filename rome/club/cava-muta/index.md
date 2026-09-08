@@ -1,6 +1,6 @@
 # Cava Muta
 
-Cava Muta is a music venue in Rome with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "CROCCANTE & ANGOLO TRIESTE" on Sat, 26 Sept 2026.
+Cava Muta is a music venue in Rome with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "CROCCANTE & ANGOLO TRIESTE" on Sat, 26 Sept 2026.
 
 Cava Muta is a music venue in Rome listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cava Muta is a music venue in Rome listed on soundcheck. 1 upcoming night. Brows
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | CROCCANTE & ANGOLO TRIESTE |  |
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/cava-muta/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/cava-muta/)*

@@ -1,6 +1,6 @@
 # Gazebo DJs
 
-Gazebo DJs is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Greyhound, London on Sat, 26 Sept 2026.
+Gazebo DJs is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Greyhound, London on Sat, 26 Sept 2026.
 
 Gazebo DJs is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Bangkok and London. Often billed alongside datSIM, Brent Burns and Jirus (MELA). Next up: The Greyhound, London on Sat 26 Sept.
 
@@ -19,4 +19,4 @@ Gazebo DJs is a house and balearic artist based in United Kingdom, tracked on so
 
 datSIM, Brent Burns, Jirus (MELA)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gazebodjs/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gazebodjs/)*

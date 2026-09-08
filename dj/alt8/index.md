@@ -1,8 +1,8 @@
 # ALT8
 
-ALT8 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Fuse, Brussels on Fri, 11 Sept 2026.
+ALT8 is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Fuse, Brussels on Fri, 11 Sept 2026.
 
-ALT8 is a techno and trance artist tracked on soundcheck, with 137 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Sara Landry, OGUZ and Stan Christ. Next up: Fuse, Brussels on Fri 11 Sept.
+ALT8 is a techno and trance artist tracked on soundcheck, with 138 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Sara Landry, OGUZ and Stan Christ. Next up: Fuse, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ ALT8 is a techno and trance artist tracked on soundcheck, with 137 sets logged a
 
 ## Recently played
 
+- Quinta Mira Rio, Lisbon — Sun, 6 Sept 2026
 - OST, Berlin — Fri, 4 Sept 2026
 - Kilomètre25, Paris — Fri, 21 Aug 2026
 - TBA - Secret Location, London — Thu, 20 Aug 2026
@@ -24,10 +25,9 @@ ALT8 is a techno and trance artist tracked on soundcheck, with 137 sets logged a
 - BERHTA, Washington DC — Sat, 1 Aug 2026
 - Under the K Bridge, New York City — Fri, 31 Jul 2026
 - BASIS, Utrecht — Sat, 11 Jul 2026
-- Camperdown Country Park, Dundee — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Sara Landry, OGUZ, Stan Christ
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*

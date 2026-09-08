@@ -1,6 +1,6 @@
 # Sera J
 
-Sera J is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at SMUT Athens, Athens on Sat, 12 Sept 2026.
+Sera J is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at SMUT Athens, Athens on Sat, 12 Sept 2026.
 
 Sera J is a techno and house artist based in Greece, tracked on soundcheck, with 30 sets logged across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside ANNĒ, SHDW and Alarico. Next up: SMUT Athens, Athens on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Sera J is a techno and house artist based in Greece, tracked on soundcheck, with
 
 ANNĒ, SHDW, Alarico
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*

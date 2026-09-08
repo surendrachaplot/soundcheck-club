@@ -1,6 +1,6 @@
 # Pixie (US)
 
-Pixie (US) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Cross Club, Prague on Sat, 26 Sept 2026.
+Pixie (US) is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Cross Club, Prague on Sat, 26 Sept 2026.
 
 Pixie (US) is a techno and progressive house artist tracked on soundcheck, with 14 sets logged across Antwerp, Brussels, Budapest and Istanbul and 2 more. Often billed alongside AJNA, AMAR DURGA and Aili. Next up: Cross Club, Prague on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Pixie (US) is a techno and progressive house artist tracked on soundcheck, with 
 
 AJNA, AMAR DURGA, Aili
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixie-us/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixie-us/)*

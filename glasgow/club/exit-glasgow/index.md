@@ -1,8 +1,8 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 12 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "ARIAS" on Fri, 11 Sept 2026.
+EXIT Glasgow is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "ARIAS" on Fri, 11 Sept 2026.
 
-EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 12 upcoming nights, with line-ups including 3SBAT, Angel Negrin, Bake and Buckfast Barbie and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
+EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including 3SBAT, Angel Negrin, Bake and Buckfast Barbie and 2 more. Browse upcoming dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
 ## What's on
 
@@ -17,10 +17,10 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 12 upcoming night
 | Fri, 2 Oct 2026 | Sonica Club - Loma Doom / DEBONAIR | DEBONAIR, Loma Doom |
 | Sat, 3 Oct 2026 | EXIT X KAOS |  |
 | Fri, 9 Oct 2026 | Crucial Roots Soundsystem | Crucial Roots |
-| Sat, 10 Oct 2026 | DON'T FORGET ~ **** **** (Live), ********* (Live), ******, ****** |  |
+| Sat, 10 Oct 2026 | DON'T FORGET ~ Naum Gabo (Live),  Manisdron (Live), Oriana , Elazer | Elazer, Oriana |
 
 ## Address
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

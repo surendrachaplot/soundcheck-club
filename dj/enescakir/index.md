@@ -1,13 +1,14 @@
 # Enes Çakır
 
-Enes Çakır is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Romantica, Stuttgart on Thu, 17 Sept 2026.
+Enes Çakır is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at M.N.Roy, Mexico City on Fri, 11 Sept 2026.
 
-Enes Çakır is a house and techno artist tracked on soundcheck, with 29 sets logged across Athens, Berlin, Brussels and Copenhagen and 3 more. Often billed alongside Samet Gunal, Auggië and Bákayan. Next up: Romantica, Stuttgart on Thu 17 Sept.
+Enes Çakır is a house and techno artist tracked on soundcheck, with 30 sets logged across Athens, Berlin, Brussels and Copenhagen and 4 more. Often billed alongside Samet Gunal, Auggië and Bákayan. Next up: M.N.Roy, Mexicocity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | M.N.Roy | Mexico City |
 | Thu, 17 Sept 2026 | Romantica | Stuttgart |
 
 ## Recently played
@@ -25,4 +26,4 @@ Enes Çakır is a house and techno artist tracked on soundcheck, with 29 sets lo
 
 Samet Gunal, Auggië, Bákayan
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enescakir/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enescakir/)*

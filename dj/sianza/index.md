@@ -1,6 +1,6 @@
 # sianza
 
-sianza is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Goldener Reiter, Munich on Fri, 11 Sept 2026.
+sianza is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Goldener Reiter, Munich on Fri, 11 Sept 2026.
 
 sianza is a house and electronica artist tracked on soundcheck, with 102 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 9 more. Often billed alongside Benjamin Roeder, Bogus Trumper and DJoy. Next up: Goldener Reiter, Munich on Fri 11 Sept.
 
@@ -27,4 +27,4 @@ sianza is a house and electronica artist tracked on soundcheck, with 102 sets lo
 
 Benjamin Roeder, Bogus Trumper, DJoy
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sianza/)*

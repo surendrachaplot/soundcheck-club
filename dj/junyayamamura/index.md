@@ -1,6 +1,6 @@
 # Junya Yamamura
 
-Junya Yamamura is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at VENT, Tokyo on Fri, 2 Oct 2026.
+Junya Yamamura is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at VENT, Tokyo on Fri, 2 Oct 2026.
 
 Junya Yamamura is a techno and house artist tracked on soundcheck, with 24 sets logged across Seoul and Tokyo. Often billed alongside Arao, SAITO and AKIRAM EN. Next up: VENT, Tokyo on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Junya Yamamura is a techno and house artist tracked on soundcheck, with 24 sets 
 
 Arao, SAITO, AKIRAM EN
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junyayamamura/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/junyayamamura/)*

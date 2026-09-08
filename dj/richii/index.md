@@ -1,6 +1,6 @@
 # Richii
 
-Richii is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Richii is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Richii is a house and techno artist based in Japan, tracked on soundcheck, with 64 sets logged across Amsterdam, Berlin, Brussels and Geneva and 10 more. Often billed alongside Luigi Di Venere, Frinda di Lanco and Juan Ramos. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Richii is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 Luigi Di Venere, Frinda di Lanco, Juan Ramos
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richii/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richii/)*

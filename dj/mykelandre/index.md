@@ -1,6 +1,6 @@
 # Mykel Andre
 
-Mykel Andre is a Hip-Hop and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Roar Brewery Bar & Patio, Detroit on Fri, 18 Sept 2026.
+Mykel Andre is a Hip-Hop and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Roar Brewery Bar & Patio, Detroit on Fri, 18 Sept 2026.
 
 Mykel Andre is a hip-hop and broken beat artist tracked on soundcheck, with 3 sets logged across Detroit. Often billed alongside Donna Gardner, JMT (2) and Lo Dazz. Next up: Roar Brewery Bar & Patio, Detroit on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ Mykel Andre is a hip-hop and broken beat artist tracked on soundcheck, with 3 se
 
 Donna Gardner, JMT (2), Lo Dazz
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykelandre/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mykelandre/)*

@@ -1,6 +1,6 @@
 # Tiffany Quinn
 
-Tiffany Quinn is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at fabric, London on Fri, 16 Oct 2026.
+Tiffany Quinn is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at fabric, London on Fri, 16 Oct 2026.
 
 Tiffany Quinn is a house and disco artist tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 4 more. Often billed alongside Maria Hanlon, bangus and Bear Winder. Next up: fabric, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Tiffany Quinn is a house and disco artist tracked on soundcheck, with 80 sets lo
 
 Maria Hanlon, bangus, Bear Winder
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyquinn/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyquinn/)*

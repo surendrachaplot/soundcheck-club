@@ -1,6 +1,6 @@
 # Moulin
 
-Moulin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Lux Fragil, Lisbon on Sat, 12 Sept 2026.
+Moulin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Lux Fragil, Lisbon on Sat, 12 Sept 2026.
 
 Moulin is a house and techno artist tracked on soundcheck, with 51 sets logged across Barcelona, Ibiza, Lisbon and Madrid and 4 more. Often billed alongside Fabich, Chris Gorrie and Calabasa. Next up: Lux Fragil, Lisbon on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Moulin is a house and techno artist tracked on soundcheck, with 51 sets logged a
 
 Fabich, Chris Gorrie, Calabasa
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moulin/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moulin/)*

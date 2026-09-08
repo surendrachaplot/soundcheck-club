@@ -1,6 +1,6 @@
 # Kozee
 
-Kozee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Circus Osaka, Osaka on Sat, 3 Oct 2026.
+Kozee is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Circus Osaka, Osaka on Sat, 3 Oct 2026.
 
 Kozee is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside Nao Nomura, DJ Nobu and DMITRI ABSINTHE. Next up: Circus Osaka, Osaka on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Kozee is a techno and house artist based in United States of America, tracked on
 
 Nao Nomura, DJ Nobu, DMITRI ABSINTHE
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kozee/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kozee/)*

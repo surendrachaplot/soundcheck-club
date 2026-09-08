@@ -1,14 +1,14 @@
 # PACKAPUNCH909
 
-PACKAPUNCH909 is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA, Turin on Sun, 13 Sept 2026.
+PACKAPUNCH909 is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Cacao Torino, Turin on Sun, 13 Sept 2026.
 
-PACKAPUNCH909 is a techno and industrial artist tracked on soundcheck, with 15 sets logged across Milan and Turin. Often billed alongside DJ PIRO, AllaDerivaLontano and Flaiv Đarkø. Next up: TBA, Turin on Sun 13 Sept.
+PACKAPUNCH909 is a techno and industrial artist tracked on soundcheck, with 15 sets logged across Milan and Turin. Often billed alongside DJ PIRO, AllaDerivaLontano and Flaiv Đarkø. Next up: TBA - Cacao Torino, Turin on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 13 Sept 2026 | TBA | Turin |
+| Sun, 13 Sept 2026 | TBA - Cacao Torino | Turin |
 | Fri, 16 Oct 2026 | Gate Milano | Milan |
 
 ## Recently played
@@ -26,4 +26,4 @@ PACKAPUNCH909 is a techno and industrial artist tracked on soundcheck, with 15 s
 
 DJ PIRO, AllaDerivaLontano, Flaiv Đarkø
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/packapunch909/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/packapunch909/)*

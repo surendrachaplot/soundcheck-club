@@ -1,6 +1,6 @@
 # Moon Club
 
-Moon Club is a music venue in Bristol with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "High Canopy w/Radioactive Man, Appleblim, Ben Pest and Second Storey" on Fri, 11 Sept 2026.
+Moon Club is a music venue in Bristol with 13 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "High Canopy w/Radioactive Man, Appleblim, Ben Pest and Second Storey" on Fri, 11 Sept 2026.
 
 Moon Club is a music venue in Bristol listed on soundcheck. 13 upcoming nights, with line-ups including Appleblim, Ben Pest, Cristi Cons and DJ Perception and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York St, St Paul's, Bristol, BS2 8QN.
 
@@ -23,4 +23,4 @@ Moon Club is a music venue in Bristol listed on soundcheck. 13 upcoming nights, 
 
 6 Upper York St, St Paul's, Bristol, BS2 8QN, Bristol
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/moon-club/)*

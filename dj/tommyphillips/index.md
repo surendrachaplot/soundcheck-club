@@ -1,6 +1,6 @@
 # Tommy Phillips
 
-Tommy Phillips is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
+Tommy Phillips is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - KENT COUNTY SHOWGROUND, London on Sat, 12 Sept 2026.
 
 Tommy Phillips is a tech house and house artist tracked on soundcheck, with 64 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: TBA - KENT COUNTY SHOWGROUND, London on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ Tommy Phillips is a tech house and house artist tracked on soundcheck, with 64 s
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

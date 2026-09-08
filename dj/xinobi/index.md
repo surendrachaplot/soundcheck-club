@@ -1,14 +1,15 @@
 # Xinobi
 
-Xinobi is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
+Xinobi is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri, 18 Sept 2026.
 
-Xinobi is a house and deep house artist based in Portugal, tracked on soundcheck, with 66 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 21 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
+Xinobi is a house and deep house artist based in Portugal, tracked on soundcheck, with 67 sets logged across Amsterdam, Bangkok, Barcelona and Brussels and 22 more. Often billed alongside Moullinex, Klin Klop and GPU Panic. Next up: TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal | Porto |
+| Fri, 25 Sept 2026 | Teatro Bellini | Naples |
 | Sun, 4 Oct 2026 | Flash | Washington DC |
 | Fri, 23 Oct 2026 | Culture Box | Copenhagen |
 
@@ -27,4 +28,4 @@ Xinobi is a house and deep house artist based in Portugal, tracked on soundcheck
 
 Moullinex, Klin Klop, GPU Panic
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xinobi/)*

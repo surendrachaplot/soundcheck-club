@@ -1,6 +1,6 @@
 # Paul Mile
 
-Paul Mile is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at PRST, Vienna on Sat, 12 Sept 2026.
+Paul Mile is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at PRST, Vienna on Sat, 12 Sept 2026.
 
 Paul Mile is a techno and trance artist tracked on soundcheck, with 42 sets logged across Berlin and Vienna. Often billed alongside Anni Herzer, BOYOHBOY and BRX (2). Next up: PRST, Vienna on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Paul Mile is a techno and trance artist tracked on soundcheck, with 42 sets logg
 
 Anni Herzer, BOYOHBOY, BRX (2)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmile/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulmile/)*

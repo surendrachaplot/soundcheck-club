@@ -1,6 +1,6 @@
 # Vera Cocina & بار
 
-Vera Cocina & بار is a music venue in Washington DC with 8 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Discoteca presents: Gennaro" on Fri, 11 Sept 2026.
+Vera Cocina & بار is a music venue in Washington DC with 8 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Discoteca presents: Gennaro" on Fri, 11 Sept 2026.
 
 Vera Cocina & بار is a music venue in Washingtondc listed on soundcheck. 8 upcoming nights, with line-ups including Andhim, Samantha Loveridge and Tripolism. Browse upcoming dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, USA.
 
@@ -21,4 +21,4 @@ Vera Cocina & بار is a music venue in Washingtondc listed on soundcheck. 8 up
 
 2002 Fenwick St NE, Washington, DC 20002, USA, Washington DC
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/vera-cocina/)*

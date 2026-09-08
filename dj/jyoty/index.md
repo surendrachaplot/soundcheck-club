@@ -1,14 +1,13 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at 3fifty Terrace, Detroit on Mon, 7 Sept 2026.
+Jyoty is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Nowadays, New York City on Fri, 11 Sept 2026.
 
-Jyoty is a house and techno artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: 3fifty Terrace, Detroit on Mon 7 Sept.
+Jyoty is a house and techno artist tracked on soundcheck, with 136 sets logged across Amsterdam, Athens, Auckland and Bali and 40 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Nowadays, Newyorkcity on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | 3fifty Terrace | Detroit |
 | Fri, 11 Sept 2026 | Nowadays | New York City |
 | Sat, 12 Sept 2026 | Signal | New York City |
 | Fri, 18 Sept 2026 | TBA - DTLA Warehouse | Los Angeles |
@@ -23,6 +22,7 @@ Jyoty is a house and techno artist tracked on soundcheck, with 136 sets logged a
 
 ## Recently played
 
+- 3fifty Terrace, Detroit — Mon, 7 Sept 2026
 - Burgess Park, London — Sat, 15 Aug 2026
 - Burgess Park, London — Sat, 8 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
@@ -30,10 +30,9 @@ Jyoty is a house and techno artist tracked on soundcheck, with 136 sets logged a
 - Fort Vechten, Utrecht — Sat, 25 Jul 2026
 - Nitsa Club, Barcelona — Sat, 4 Jul 2026
 - TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Πεδίον του Άρεως / Pedion Areos, Athens — Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Skrillex, Overmono, Ben UFO
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*

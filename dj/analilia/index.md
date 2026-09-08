@@ -1,6 +1,6 @@
 # Ana Lilia
 
-Ana Lilia is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
+Ana Lilia is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at KitKatClub, Berlin on Fri, 11 Sept 2026.
 
 Ana Lilia is a techno artist based in India, tracked on soundcheck, with 4 sets logged across Berlin, Copenhagen, Losangeles and Seoul. Often billed alongside Alma Negrot, Aron Amor and BAD BEAT. Next up: KitKatClub, Berlin on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ Ana Lilia is a techno artist based in India, tracked on soundcheck, with 4 sets 
 
 Alma Negrot, Aron Amor, BAD BEAT
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/analilia/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/analilia/)*

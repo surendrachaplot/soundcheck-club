@@ -1,6 +1,6 @@
 # Emanuele Esposito
 
-Emanuele Esposito is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
+Emanuele Esposito is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
 
 Emanuele Esposito is a house and afro house artist tracked on soundcheck, with 8 sets logged across Amsterdam, Copenhagen, Ibiza and Istanbul and 3 more. Often billed alongside Gianni Romano, Almared and Aüra. Next up: Bar Twenty Two, Amsterdam on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Emanuele Esposito is a house and afro house artist tracked on soundcheck, with 8
 
 Gianni Romano, Almared, Aüra
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emanueleesposito/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emanueleesposito/)*

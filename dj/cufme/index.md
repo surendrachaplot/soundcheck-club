@@ -1,8 +1,8 @@
 # Cufme
 
-Cufme is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
+Cufme is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
 
-Cufme is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Hamburg and Munich and 2 more. Often billed alongside Bernossi, Penglord and Sophti. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
+Cufme is a techno and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside DJ Business (2), Sophti and Bernossi. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Cufme is a techno and house artist based in Germany, tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Humboldthain Club | Berlin |
 | Sat, 10 Oct 2026 | Garagen | Cologne |
+| Sat, 28 Nov 2026 | MS Stubnitz | Hamburg |
+| Fri, 4 Dec 2026 | elipamanoke | Leipzig |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ Cufme is a techno and house artist based in Germany, tracked on soundcheck, with
 
 ## Shares bills with
 
-Bernossi, Penglord, Sophti
+DJ Business (2), Sophti, Bernossi
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cufme/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cufme/)*

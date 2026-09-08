@@ -1,6 +1,6 @@
 # First Congregational Church of Los Angeles
 
-First Congregational Church of Los Angeles is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Sarah Davachi: The Will of Tongues" on Thu, 10 Sept 2026.
+First Congregational Church of Los Angeles is a music venue in Los Angeles with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Sarah Davachi: The Will of Tongues" on Thu, 10 Sept 2026.
 
 First Congregational Church of Los Angeles is a music venue in Losangeles listed on soundcheck. 2 upcoming nights, with line-ups including Sarah Davachi. Browse upcoming dates, start times and who's playing. 540 South Commonwealth Avenue, Los Angeles, CA 90020, USA.
 
@@ -15,4 +15,4 @@ First Congregational Church of Los Angeles is a music venue in Losangeles listed
 
 540 South Commonwealth Avenue, Los Angeles, CA 90020, USA, Los Angeles
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/first-congregational-church-of-los-angeles/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/first-congregational-church-of-los-angeles/)*

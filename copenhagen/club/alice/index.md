@@ -1,6 +1,6 @@
 # ALICE
 
-ALICE is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Mike Sheridan 'Touch' album release" on Thu, 10 Sept 2026.
+ALICE is a music venue in Copenhagen with 8 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Mike Sheridan 'Touch' album release" on Thu, 10 Sept 2026.
 
 ALICE is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, with line-ups including Laryssa Kim, Mike Sheridan, Mykki Blanco and Safety Trance and 1 more. Browse upcoming dates, start times and who's playing. Nørre Allé 7, 2200 København N, Denmark.
 
@@ -21,4 +21,4 @@ ALICE is a music venue in Copenhagen listed on soundcheck. 8 upcoming nights, wi
 
 Nørre Allé 7, 2200 København N, Denmark, Copenhagen
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*

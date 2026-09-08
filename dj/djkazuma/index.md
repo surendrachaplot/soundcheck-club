@@ -1,6 +1,6 @@
 # DJ KAZUMA
 
-DJ KAZUMA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Club Metro, Kyoto on Sun, 20 Sept 2026.
+DJ KAZUMA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Club Metro, Kyoto on Sun, 20 Sept 2026.
 
 DJ KAZUMA is a techno and house artist tracked on soundcheck, with 31 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, YAMA(JP/OSK) and CHIDA. Next up: Club Metro, Kyoto on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ DJ KAZUMA is a techno and house artist tracked on soundcheck, with 31 sets logge
 
 AOKI takamasa, YAMA(JP/OSK), CHIDA
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkazuma/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djkazuma/)*

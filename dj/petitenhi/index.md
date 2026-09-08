@@ -1,18 +1,18 @@
 # Petite Nhi
 
-Petite Nhi is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Rose, New York City on Mon, 7 Sept 2026.
+Petite Nhi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Deep End, New York City on Fri, 25 Sept 2026.
 
-Petite Nhi is a techno and trance artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside shirlz, DJanae and S7IK. Next up: The Rose, Newyorkcity on Mon 7 Sept.
+Petite Nhi is a techno and trance artist based in United States of America, tracked on soundcheck, with 9 sets logged across Newyorkcity. Often billed alongside shirlz, DJanae and S7IK. Next up: The Deep End, Newyorkcity on Fri 25 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | The Rose | New York City |
 | Fri, 25 Sept 2026 | The Deep End | New York City |
 
 ## Recently played
 
+- The Rose, New York City — Mon, 7 Sept 2026
 - Mood Ring, New York City — Thu, 9 Jul 2026
 - Mood Ring, New York City — Sat, 27 Jun 2026
 - Rebecca's, New York City — Fri, 5 Jun 2026
@@ -25,4 +25,4 @@ Petite Nhi is a techno and trance artist based in United States of America, trac
 
 shirlz, DJanae, S7IK
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petitenhi/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petitenhi/)*

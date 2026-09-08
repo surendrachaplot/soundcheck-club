@@ -1,6 +1,6 @@
 # Hanna Ojanen
 
-Hanna Ojanen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Aoyama Tunnel, Tokyo on Tue, 8 Sept 2026.
+Hanna Ojanen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Aoyama Tunnel, Tokyo on Tue, 8 Sept 2026.
 
 Hanna Ojanen is a house and disco artist tracked on soundcheck, with 7 sets logged across Antwerp, Berlin, Brussels and Ibiza and 2 more. Often billed alongside DTM Funk, Ays (NL) and CC:DISCO!. Next up: Aoyama Tunnel, Tokyo on Tue 8 Sept.
 
@@ -23,4 +23,4 @@ Hanna Ojanen is a house and disco artist tracked on soundcheck, with 7 sets logg
 
 DTM Funk, Ays (NL), CC:DISCO!
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannaojanen/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannaojanen/)*

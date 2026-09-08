@@ -1,6 +1,6 @@
 # La Station - Gare des Mines
 
-La Station - Gare des Mines is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "HYPERCORE 3: WELCOME TO THE HYPERVERSE" on Fri, 11 Sept 2026.
+La Station - Gare des Mines is a music venue in Paris with 16 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "HYPERCORE 3: WELCOME TO THE HYPERVERSE" on Fri, 11 Sept 2026.
 
 La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 16 upcoming nights, with line-ups including Amnesia Scanner, Brodinski, cfds and Claude Murder and 2 more. Browse upcoming dates, start times and who's playing. 29 avenue de la Porte d’Aubervilliers Paris.
 
@@ -23,4 +23,4 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 16 u
 
 29 avenue de la Porte d’Aubervilliers Paris, Paris
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-station-gare-des-mines/)*

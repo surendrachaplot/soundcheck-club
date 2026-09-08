@@ -1,14 +1,13 @@
 # Eshie
 
-Eshie is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Eshie is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at H0L0, New York City on Sat, 19 Sept 2026.
 
-Eshie is a house and disco artist tracked on soundcheck, with 19 sets logged across London, Newyorkcity and Washingtondc. Often billed alongside ATST, Amrisha and Corvair. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
+Eshie is a house and disco artist tracked on soundcheck, with 19 sets logged across London, Newyorkcity and Washingtondc. Often billed alongside ATST, Amrisha and Corvair. Next up: H0L0, Newyorkcity on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 | Sat, 19 Sept 2026 | H0L0 | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Eshie is a house and disco artist tracked on soundcheck, with 19 sets logged acr
 
 ATST, Amrisha, Corvair
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eshie/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eshie/)*

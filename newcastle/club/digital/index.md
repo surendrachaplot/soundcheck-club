@@ -1,6 +1,6 @@
 # Digital
 
-Digital is a music venue in Newcastle with 17 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Dvoid x Khaotic Present: Toxic Machinery, Incult, Damaxy" on Fri, 18 Sept 2026.
+Digital is a music venue in Newcastle with 17 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Dvoid x Khaotic Present: Toxic Machinery, Incult, Damaxy" on Fri, 18 Sept 2026.
 
 Digital is a music venue in Newcastle listed on soundcheck. 17 upcoming nights, with line-ups including Kepler, Andy Whitby, Bushbaby and Conducta and 2 more. Browse upcoming dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
@@ -23,4 +23,4 @@ Digital is a music venue in Newcastle listed on soundcheck. 17 upcoming nights, 
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

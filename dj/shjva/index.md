@@ -1,14 +1,15 @@
 # Shjva
 
-Shjva is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - secret location, Copenhagen on Fri, 11 Sept 2026.
+Shjva is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - secret location, Copenhagen on Fri, 11 Sept 2026.
 
-Shjva is a techno and trance artist tracked on soundcheck, with 80 sets logged across Athens, Berlin, Brussels and Cologne and 15 more. Often billed alongside Samogulov, Plastik (1) and Volodymyr Gnatenko. Next up: TBA - secret location, Copenhagen on Fri 11 Sept.
+Shjva is a techno and trance artist tracked on soundcheck, with 81 sets logged across Athens, Berlin, Brussels and Cologne and 15 more. Often billed alongside Samogulov, Plastik (1) and Volodymyr Gnatenko. Next up: TBA - secret location, Copenhagen on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - secret location | Copenhagen |
+| Sat, 12 Sept 2026 | Sekta Selekta | Krakow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Shjva is a techno and trance artist tracked on soundcheck, with 80 sets logged a
 
 Samogulov, Plastik (1), Volodymyr Gnatenko
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shjva/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shjva/)*

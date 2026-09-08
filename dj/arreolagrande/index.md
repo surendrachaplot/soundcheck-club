@@ -1,6 +1,6 @@
 # Arreola Grande
 
-Arreola Grande is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
+Arreola Grande is a Techno and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - email histrionixxsf@gmail.com day of event, San Francisco/Oakland on Sun, 27 Sept 2026.
 
 Arreola Grande is a techno and latin bass artist based in United States of America, tracked on soundcheck, with 4 sets logged across Sanfrancisco. Often billed alongside 2dahlia, Bored Lord and DJ JUANNY. Next up: TBA - email histrionixxsf@gmail.com day of event, Sanfrancisco on Sun 27 Sept.
 
@@ -20,4 +20,4 @@ Arreola Grande is a techno and latin bass artist based in United States of Ameri
 
 2dahlia, Bored Lord, DJ JUANNY
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arreolagrande/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arreolagrande/)*

@@ -1,6 +1,6 @@
 # Isidor
 
-Isidor is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Nakano Heavysick Zero, Tokyo on Mon, 21 Sept 2026.
+Isidor is a Tech House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Nakano Heavysick Zero, Tokyo on Mon, 21 Sept 2026.
 
 Isidor is a tech house and afro house artist tracked on soundcheck, with 4 sets logged across Belgrade and Tokyo. Often billed alongside Diggie, Hirosson and Ilija Djokovic. Next up: Nakano Heavysick Zero, Tokyo on Mon 21 Sept.
 
@@ -20,4 +20,4 @@ Isidor is a tech house and afro house artist tracked on soundcheck, with 4 sets 
 
 Diggie, Hirosson, Ilija Djokovic
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isidor/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isidor/)*

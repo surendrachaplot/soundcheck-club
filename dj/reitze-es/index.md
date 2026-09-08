@@ -1,14 +1,16 @@
 # Reitze
 
-Reitze is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Hangar48 Club, Madrid on Sat, 19 Sept 2026.
+Reitze is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hangar48 Club, Madrid on Sat, 19 Sept 2026.
 
-Reitze is a techno and hardcore artist based in Spain, tracked on soundcheck, with 240 sets logged across Barcelona, Berlin, Lyon and Madrid and 1 more. Often billed alongside SAINT SINNER, Noot Noot and Dyans. Next up: Hangar48 Club, Madrid on Sat 19 Sept.
+Reitze is a techno and hardcore artist based in Spain, tracked on soundcheck, with 242 sets logged across Barcelona, Berlin, Lyon and Madrid and 1 more. Often billed alongside SAINT SINNER, Noot Noot and Dyans. Next up: Hangar48 Club, Madrid on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Hangar48 Club | Madrid |
+| Sun, 20 Sept 2026 | Skin Club | Madrid |
+| Sun, 27 Sept 2026 | Skin Club | Madrid |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Reitze is a techno and hardcore artist based in Spain, tracked on soundcheck, wi
 
 SAINT SINNER, Noot Noot, Dyans
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reitze-es/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reitze-es/)*

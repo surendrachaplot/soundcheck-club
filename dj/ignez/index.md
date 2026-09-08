@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
+Ignez is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
 
 Ignez is a techno and house artist tracked on soundcheck, with 190 sets logged across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Yanamaste, Inox Traxx and Beste Hira. Next up: KHIDI, Tbilisi on Fri 11 Sept.
 
@@ -36,4 +36,4 @@ Ignez is a techno and house artist tracked on soundcheck, with 190 sets logged a
 
 Yanamaste, Inox Traxx, Beste Hira
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

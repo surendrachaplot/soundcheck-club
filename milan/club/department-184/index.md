@@ -1,6 +1,6 @@
 # Department 184
 
-Department 184 is a music venue in Milan with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Obliq Records Open Air Showcase - @Dept184" on Sat, 12 Sept 2026.
+Department 184 is a music venue in Milan with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Obliq Records Open Air Showcase - @Dept184" on Sat, 12 Sept 2026.
 
 Department 184 is a music venue in Milan listed on soundcheck. 6 upcoming nights, with line-ups including Andrei Ciubuc, Desai, Dusk Poem and Enygma and 2 more. Browse upcoming dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
 
@@ -19,4 +19,4 @@ Department 184 is a music venue in Milan listed on soundcheck. 6 upcoming nights
 
 Via Varesina, 184, 20156 Milano MI, Milan
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*

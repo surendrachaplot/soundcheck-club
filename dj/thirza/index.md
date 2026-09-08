@@ -1,6 +1,6 @@
 # THIRZA
 
-THIRZA is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at M.O.T, London on Fri, 16 Oct 2026.
+THIRZA is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at M.O.T, London on Fri, 16 Oct 2026.
 
 THIRZA is a garage and house artist based in New Zealand, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Hyan (2), Sam Deeley and Flamingo Pier. Next up: M.O.T, London on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ THIRZA is a garage and house artist based in New Zealand, tracked on soundcheck,
 
 Hyan (2), Sam Deeley, Flamingo Pier
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thirza/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thirza/)*

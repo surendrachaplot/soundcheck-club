@@ -1,6 +1,6 @@
 # Humza
 
-Humza is a Club and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sneaky Pete's, Edinburgh on Wed, 9 Sept 2026.
+Humza is a Club and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sneaky Pete's, Edinburgh on Wed, 9 Sept 2026.
 
 Humza is a club and drum & bass artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Edinburgh. Often billed alongside Buckfast Barbie, DV60 and Sweet Philly. Next up: Sneaky Pete's, Edinburgh on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Humza is a club and drum & bass artist based in United Kingdom, tracked on sound
 
 Buckfast Barbie, DV60, Sweet Philly
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humza/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/humza/)*

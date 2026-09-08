@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 8 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "10 anos Paraíso with Scam Dust (Tiago & Shcuro), Salbany, Maria Amor" on Fri, 11 Sept 2026.
+Gare Porto is a music venue in Porto with 8 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "10 anos Paraíso with Scam Dust (Tiago & Shcuro), Salbany, Maria Amor" on Fri, 11 Sept 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 8 upcoming nights, with line-ups including Alfred Czital, Amulador, Ayū (1) and Claudio PRC and 2 more. Browse upcoming dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -21,4 +21,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 8 upcoming nights, wi
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

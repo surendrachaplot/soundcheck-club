@@ -1,6 +1,6 @@
 # Pinch (CA)
 
-Pinch (CA) is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Le Red Room, Montreal on Wed, 30 Sept 2026.
+Pinch (CA) is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Le Red Room, Montreal on Wed, 30 Sept 2026.
 
 Pinch (CA) is a techno and downtempo artist tracked on soundcheck, with 3 sets logged across Montreal. Often billed alongside Bolarinho, Claire and Enfant Maudit. Next up: Le Red Room, Montreal on Wed 30 Sept.
 
@@ -19,4 +19,4 @@ Pinch (CA) is a techno and downtempo artist tracked on soundcheck, with 3 sets l
 
 Bolarinho, Claire, Enfant Maudit
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinchca/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pinchca/)*

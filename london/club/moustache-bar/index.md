@@ -1,6 +1,6 @@
 # Moustache Bar
 
-Moustache Bar is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Queers + Friends: Volume 2" on Fri, 9 Oct 2026.
+Moustache Bar is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Queers + Friends: Volume 2" on Fri, 9 Oct 2026.
 
 Moustache Bar is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Alex Theoklitou and DIGITALSAINT. Browse upcoming dates, start times and who's playing. 58 Stoke Newington Road; Dalston; London N16 7XB; United Kingdom.
 
@@ -14,4 +14,4 @@ Moustache Bar is a music venue in London listed on soundcheck. 1 upcoming night,
 
 58 Stoke Newington Road; Dalston; London N16 7XB; United Kingdom, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/moustache-bar/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/moustache-bar/)*

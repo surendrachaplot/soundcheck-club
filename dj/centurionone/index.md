@@ -1,6 +1,6 @@
 # Centurion One
 
-Centurion One is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
+Centurion One is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
 
 Centurion One is a techno and house artist tracked on soundcheck, with 2 sets logged across Madrid. Often billed alongside Brisa Then, Djen and El Pájaro Negro. Next up: EL SÓTANO, Madrid on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Centurion One is a techno and house artist tracked on soundcheck, with 2 sets lo
 
 Brisa Then, Djen, El Pájaro Negro
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/centurionone/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/centurionone/)*

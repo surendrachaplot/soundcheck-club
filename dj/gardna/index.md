@@ -1,6 +1,6 @@
 # Gardna
 
-Gardna is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
+Gardna is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Outernet Live, London on Sat, 26 Sept 2026.
 
 Gardna is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Athens, Auckland, Bangkok and Brighton and 11 more. Often billed alongside Mozey, Hybrid Minds and Dillinja. Next up: Outernet Live, London on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Gardna is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 Mozey, Hybrid Minds, Dillinja
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gardna/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gardna/)*

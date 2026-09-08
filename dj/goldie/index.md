@@ -1,14 +1,15 @@
 # Goldie
 
-Goldie is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The View From The Shard, London on Sat, 12 Sept 2026.
+Goldie is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The View From The Shard, London on Sat, 12 Sept 2026.
 
-Goldie is a drum & bass and jungle artist tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: The View From The Shard, London on Sat 12 Sept.
+Goldie is a drum & bass and jungle artist tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 52 more. Often billed alongside Ant TC1, Doc Scott and Special Request. Next up: The View From The Shard, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | The View From The Shard | London |
+| Sat, 3 Oct 2026 | RASA | Singapore |
 | Thu, 12 Nov 2026 | Chalk | Brighton |
 
 ## Recently played
@@ -26,4 +27,4 @@ Goldie is a drum & bass and jungle artist tracked on soundcheck, with 159 sets l
 
 Ant TC1, Doc Scott, Special Request
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goldie/)*

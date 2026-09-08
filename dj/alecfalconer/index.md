@@ -1,6 +1,6 @@
 # Alec Falconer
 
-Alec Falconer is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Distillery N17, London on Sat, 12 Sept 2026.
+Alec Falconer is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Distillery N17, London on Sat, 12 Sept 2026.
 
 Alec Falconer is a house and garage artist tracked on soundcheck, with 112 sets logged across Aberdeen, Amsterdam, Barcelona and Berlin and 27 more. Often billed alongside Harry Wills, Dr Banana and Phone Traxxx. Next up: Distillery N17, London on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Alec Falconer is a house and garage artist tracked on soundcheck, with 112 sets 
 
 Harry Wills, Dr Banana, Phone Traxxx
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alecfalconer/)*

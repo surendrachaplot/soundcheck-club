@@ -1,13 +1,14 @@
 # renae
 
-renae is a music venue in Manchester with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Atiké presents - F.U.N. – Freedom, Unity, Noise Vol.4" on Thu, 10 Sept 2026.
+renae is a music venue in Manchester with 10 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "renae: Antoine Kiim" on Tue, 8 Sept 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 9 upcoming nights, with line-ups including Anop, April (UK), ASHTYLR and cuci cuci coo and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 10 upcoming nights, with line-ups including Anop, April (UK), ASHTYLR and cuci cuci coo and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Tue, 8 Sept 2026 | renae: Antoine Kiim |  |
 | Thu, 10 Sept 2026 | Atiké presents - F.U.N. – Freedom, Unity, Noise Vol.4 |  |
 | Fri, 11 Sept 2026 | OFF-VISION presents Gabriel Belabbas | Gabriel Belabbas, j:me |
 | Sat, 12 Sept 2026 | Ton Trax - DY Dance [DAYP:008] Launch Party with Ton Trax, Bay B2B Mica & Joe Roche | Joe Roche, Lashimba, Mica (UK) |
@@ -22,4 +23,4 @@ renae is a music venue in Manchester listed on soundcheck. 9 upcoming nights, wi
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

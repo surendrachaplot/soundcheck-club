@@ -1,6 +1,6 @@
 # LXC
 
-LXC is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
+LXC is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 LXC is a jungle and bass artist tracked on soundcheck, with 3 sets logged across Berlin and Leipzig. Often billed alongside Agem, Dub Isotope and Hovercat. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -19,4 +19,4 @@ LXC is a jungle and bass artist tracked on soundcheck, with 3 sets logged across
 
 Agem, Dub Isotope, Hovercat
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lxc/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lxc/)*

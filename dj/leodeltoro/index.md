@@ -1,6 +1,6 @@
 # Leo Del Toro
 
-Leo Del Toro is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Mad Radio Miami, Miami on Sat, 12 Sept 2026.
+Leo Del Toro is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Mad Radio Miami, Miami on Sat, 12 Sept 2026.
 
 Leo Del Toro is a house and electronica artist based in United States of America, tracked on soundcheck, with 81 sets logged across Barcelona, Mexicocity, Miami and Newyorkcity. Often billed alongside Ale Sab, Atomyard and Israel Sunshine. Next up: Mad Radio Miami, Miami on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Leo Del Toro is a house and electronica artist based in United States of America
 
 Ale Sab, Atomyard, Israel Sunshine
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leodeltoro/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leodeltoro/)*

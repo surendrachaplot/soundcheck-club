@@ -1,6 +1,6 @@
 # Baby Pantera
 
-Baby Pantera is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Core, Madrid on Sat, 12 Sept 2026.
+Baby Pantera is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Core, Madrid on Sat, 12 Sept 2026.
 
 Baby Pantera is a techno and experimental artist tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Bristol and Brussels and 3 more. Often billed alongside Otis (BE), Gideo (ES) and Promesses. Next up: Core, Madrid on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Baby Pantera is a techno and experimental artist tracked on soundcheck, with 29 
 
 Otis (BE), Gideo (ES), Promesses
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babypantera/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babypantera/)*

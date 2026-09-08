@@ -1,8 +1,8 @@
 # Moopie
 
-Moopie is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
+Moopie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at CLUB RAUM, Amsterdam on Fri, 11 Sept 2026.
 
-Moopie is a house and techno artist tracked on soundcheck, with 199 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Kia (AU), Hannah D and Emelyne. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
+Moopie is a house and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Bali, Berlin and Bristol and 18 more. Often billed alongside Kia (AU), Hannah D and Emelyne. Next up: CLUB RAUM, Amsterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Moopie is a house and techno artist tracked on soundcheck, with 199 sets logged 
 | Fri, 11 Sept 2026 | CLUB RAUM | Amsterdam |
 | Sat, 12 Sept 2026 | M.O.T | London |
 | Fri, 18 Sept 2026 | Fort Mifflin | Philadelphia |
+| Fri, 25 Sept 2026 | Smith St Hotel | Melbourne |
 | Sat, 10 Oct 2026 | Nowadays | New York City |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
@@ -31,4 +32,4 @@ Moopie is a house and techno artist tracked on soundcheck, with 199 sets logged 
 
 Kia (AU), Hannah D, Emelyne
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

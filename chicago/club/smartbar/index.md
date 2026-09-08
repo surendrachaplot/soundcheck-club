@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Format presents Grace Dahl - Trovarsi (Live) - Brenda" on Fri, 11 Sept 2026.
+smartbar is a music venue in Chicago with 18 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Format presents Grace Dahl - Trovarsi (Live) - Brenda" on Fri, 11 Sept 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, with line-ups including Paula Tape, Bambounou, Bradley Zero and Brenda and 2 more. Browse upcoming dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming nights, w
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

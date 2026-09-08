@@ -1,6 +1,6 @@
 # Mel Blue
 
-Mel Blue is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+Mel Blue is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
 Mel Blue is an electronica and garage artist based in Australia, tracked on soundcheck, with 4 sets logged across Melbourne and Sydney. Often billed alongside 1tbsp, Antenna (2) and C.FRIM. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
@@ -20,4 +20,4 @@ Mel Blue is an electronica and garage artist based in Australia, tracked on soun
 
 1tbsp, Antenna (2), C.FRIM
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melblue/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/melblue/)*

@@ -1,6 +1,6 @@
 # ISPA
 
-ISPA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Z Maruyama, Tokyo on Mon, 21 Sept 2026.
+ISPA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Z Maruyama, Tokyo on Mon, 21 Sept 2026.
 
 ISPA is a house and techno artist based in Japan, tracked on soundcheck, with 67 sets logged across Tokyo. Often billed alongside Yuta Yamada, GooPer and Amps. Next up: Z Maruyama, Tokyo on Mon 21 Sept.
 
@@ -25,4 +25,4 @@ ISPA is a house and techno artist based in Japan, tracked on soundcheck, with 67
 
 Yuta Yamada, GooPer, Amps
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ispa/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ispa/)*

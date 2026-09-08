@@ -1,6 +1,6 @@
 # Tolga
 
-Tolga is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Outer Heaven, New York City on Thu, 17 Sept 2026.
+Tolga is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Outer Heaven, New York City on Thu, 17 Sept 2026.
 
 Tolga is a house and deep house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Mexicocity, Miami and Newyorkcity. Often billed alongside KOZLOW, Choukroun and Zayd. Next up: Outer Heaven, Newyorkcity on Thu 17 Sept.
 
@@ -26,4 +26,4 @@ Tolga is a house and deep house artist based in United States of America, tracke
 
 KOZLOW, Choukroun, Zayd
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tolga/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tolga/)*

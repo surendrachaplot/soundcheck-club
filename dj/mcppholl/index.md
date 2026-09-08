@@ -1,6 +1,6 @@
 # MC PPholl
 
-MC PPholl is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Timebar, Stockholm on Fri, 11 Sept 2026.
+MC PPholl is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Timebar, Stockholm on Fri, 11 Sept 2026.
 
 MC PPholl is a progressive house and techno artist based in Netherlands, tracked on soundcheck, with 37 sets logged across Amsterdam, Stockholm and Thehague. Often billed alongside Around Us, Francesco Pico and Ras Paulus. Next up: Timebar, Stockholm on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ MC PPholl is a progressive house and techno artist based in Netherlands, tracked
 
 Around Us, Francesco Pico, Ras Paulus
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcppholl/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mcppholl/)*

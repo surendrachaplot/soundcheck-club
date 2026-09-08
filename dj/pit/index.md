@@ -1,6 +1,6 @@
 # Pit
 
-Pit is a Experimental and Breakcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Forestlimit, Tokyo on Mon, 21 Sept 2026.
+Pit is a Experimental and Breakcore artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Forestlimit, Tokyo on Mon, 21 Sept 2026.
 
 Pit is an experimental and breakcore artist based in Germany, tracked on soundcheck, with 5 sets logged across Copenhagen, Milan, Rome and Tokyo. Often billed alongside Al Paino, Amazon and Atoloi. Next up: Forestlimit, Tokyo on Mon 21 Sept.
 
@@ -21,4 +21,4 @@ Pit is an experimental and breakcore artist based in Germany, tracked on soundch
 
 Al Paino, Amazon, Atoloi
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pit/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pit/)*

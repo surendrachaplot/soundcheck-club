@@ -1,8 +1,8 @@
 # Ayham
 
-Ayham is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at ÆDEN, Berlin on Wed, 9 Sept 2026.
+Ayham is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at ÆDEN, Berlin on Wed, 9 Sept 2026.
 
-Ayham is a techno and trance artist based in Germany, tracked on soundcheck, with 39 sets logged across Berlin. Often billed alongside Blck-Swan, H7 (3) and The Camel. Next up: ÆDEN, Berlin on Wed 9 Sept.
+Ayham is a techno and house artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin. Often billed alongside Blck-Swan, H7 (3) and The Camel. Next up: ÆDEN, Berlin on Wed 9 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ayham is a techno and trance artist based in Germany, tracked on soundcheck, wit
 | --- | --- | --- |
 | Wed, 9 Sept 2026 | ÆDEN | Berlin |
 | Thu, 10 Sept 2026 | Prisma | Berlin |
+| Sat, 19 Sept 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ayham is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 Blck-Swan, H7 (3), The Camel
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayham/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayham/)*

@@ -1,14 +1,15 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 10 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
+SAIDAH is a House and Garage artist with 11 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Brussels, Brussels on Fri, 11 Sept 2026.
 
-SAIDAH is a house and garage artist tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 17 more. Often billed alongside Diffrent, Sam Alfred and Silva Bumpa. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
+SAIDAH is a house and garage artist tracked on soundcheck, with 116 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 17 more. Often billed alongside Diffrent, Sam Alfred and Silva Bumpa. Next up: TBA - Brussels, Brussels on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | TBA - Brussels | Brussels |
+| Fri, 11 Sept 2026 | Radio Radio | Amsterdam |
 | Sun, 13 Sept 2026 | Jardins de Joan Brossa | Barcelona |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Sat, 10 Oct 2026 | Escala25 | Lisbon |
@@ -34,4 +35,4 @@ SAIDAH is a house and garage artist tracked on soundcheck, with 115 sets logged 
 
 Diffrent, Sam Alfred, Silva Bumpa
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

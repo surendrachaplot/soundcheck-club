@@ -1,6 +1,6 @@
 # La Otra Wynwood
 
-La Otra Wynwood is a music venue in Miami with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Sarah De Warren" on Fri, 11 Sept 2026.
+La Otra Wynwood is a music venue in Miami with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Sarah De Warren" on Fri, 11 Sept 2026.
 
 La Otra Wynwood is a music venue in Miami listed on soundcheck. 4 upcoming nights. Browse upcoming dates, start times and who's playing. 55 NE 24th Street, Miami, FL 33137.
 
@@ -17,4 +17,4 @@ La Otra Wynwood is a music venue in Miami listed on soundcheck. 4 upcoming night
 
 55 NE 24th Street, Miami, FL 33137, Miami
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/la-otra-wynwood/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/miami/club/la-otra-wynwood/)*

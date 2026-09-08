@@ -1,6 +1,6 @@
 # Maudux
 
-Maudux is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Warehouse, Nantes on Fri, 9 Oct 2026.
+Maudux is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Warehouse, Nantes on Fri, 9 Oct 2026.
 
 Maudux is a techno and trance artist tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Lyon and Nantes and 4 more. Often billed alongside 1luu, BOVSKI and Bitschu Batschu. Next up: Warehouse, Nantes on Fri 9 Oct.
 
@@ -30,4 +30,4 @@ Maudux is a techno and trance artist tracked on soundcheck, with 29 sets logged 
 
 1luu, BOVSKI, Bitschu Batschu
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*

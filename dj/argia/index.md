@@ -1,6 +1,6 @@
 # Argia
 
-Argia is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Dockland, Munster on Sat, 12 Sept 2026.
+Argia is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Dockland, Munster on Sat, 12 Sept 2026.
 
 Argia is a techno and house artist tracked on soundcheck, with 69 sets logged across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside Âme, Alican and Jonathan Kaspar. Next up: Dockland, Munster on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Argia is a techno and house artist tracked on soundcheck, with 69 sets logged ac
 
 Âme, Alican, Jonathan Kaspar
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/argia/)*

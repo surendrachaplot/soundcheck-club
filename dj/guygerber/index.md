@@ -1,6 +1,6 @@
 # Guy Gerber
 
-Guy Gerber is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Volt Club Milano, Milan on Thu, 24 Sept 2026.
+Guy Gerber is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Volt Club Milano, Milan on Thu, 24 Sept 2026.
 
 Guy Gerber is a house and techno artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Bali and 23 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Volt Club Milano, Milan on Thu 24 Sept.
 
@@ -27,4 +27,4 @@ Guy Gerber is a house and techno artist tracked on soundcheck, with 126 sets log
 
 Noncitizens, Saraga, Annicka
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/guygerber/)*

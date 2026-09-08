@@ -1,6 +1,6 @@
 # DZYTHIA
 
-DZYTHIA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Newspeak, Montreal on Fri, 11 Sept 2026.
+DZYTHIA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Newspeak, Montreal on Fri, 11 Sept 2026.
 
 DZYTHIA is a techno and hardcore artist tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside Hurakkan, D.Blavatsky and Meen Moreen. Next up: Newspeak, Montreal on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ DZYTHIA is a techno and hardcore artist tracked on soundcheck, with 13 sets logg
 
 Hurakkan, D.Blavatsky, Meen Moreen
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dzythia/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dzythia/)*

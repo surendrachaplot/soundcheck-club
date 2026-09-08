@@ -1,6 +1,6 @@
 # Last Arch
 
-Last Arch is a music venue in London with 14 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "BASTI // All Night Long" on Thu, 10 Sept 2026.
+Last Arch is a music venue in London with 14 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "BASTI // All Night Long" on Thu, 10 Sept 2026.
 
 Last Arch is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including Archie Holmes, Arts of the Unknown, BASTI(UK) and Body Clinic and 2 more. Browse upcoming dates, start times and who's playing. 392 Wandsworth Road SW84PH (Through the black gates, last arch).
 
@@ -9,7 +9,7 @@ Last Arch is a music venue in London listed on soundcheck. 14 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | BASTI // All Night Long | BASTI(UK) |
-| Fri, 11 Sept 2026 | MindOut Music presents: Goya Gumbani (DJ Set), LILA, Cloud 9, Parvex, SP-303, TMK | LILA (1), Parvex |
+| Fri, 11 Sept 2026 | MindOut Music presents: Goya Gumbani (DJ Set), LILA, Parvex, SP-303, TMK | LILA (1), Parvex |
 | Sat, 12 Sept 2026 | Return2Source presents: Marcia Carr + more | Lou Vincent, Marcia Carr |
 | Fri, 18 Sept 2026 | HIJINX: Body Clinic | Body Clinic |
 | Sat, 19 Sept 2026 | Club Soft with Joseph Wood, Mina, Peroli, GDSMRCY, BLCK Stream | Godsfave, Joseph Wood, Mina, Peroli |
@@ -23,4 +23,4 @@ Last Arch is a music venue in London listed on soundcheck. 14 upcoming nights, w
 
 392 Wandsworth Road SW84PH (Through the black gates, last arch), London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/last-arch/)*

@@ -1,6 +1,6 @@
 # DJ Club x Discability: ALL ACCESS at The Yard
 
-DJ Club x Discability: ALL ACCESS at The Yard on Sat 24 Oct, Manchester. 3 acts on the bill: FAGASH, mamba.exe and SDJ (1). Trance and Bass. Preview the line-up and save it on soundcheck.
+DJ Club x Discability: ALL ACCESS at The Yard on Sat 24 Oct, Manchester. 4 acts on the bill: ANT1 (2), FAGASH, mamba.exe and SDJ (1). Trance and Bass. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ DJ Club x Discability: ALL ACCESS at The Yard on Sat 24 Oct, Manchester. 3 acts 
 
 ## Line-up
 
+- ANT1 (2)
 - FAGASH
 - mamba.exe
 - SDJ (1)

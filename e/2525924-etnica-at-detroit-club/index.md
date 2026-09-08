@@ -1,6 +1,6 @@
 # ETNICA at DETROIT CLUB
 
-ETNICA at DETROIT CLUB on Sat 12 Sept, Barcelona. Techno. Preview the line-up and save it on soundcheck.
+ETNICA at DETROIT CLUB on Sat 12 Sept, Barcelona. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Natasha (VE)
 
-Natasha (VE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at DeTour, Tokyo on Fri, 11 Sept 2026.
+Natasha (VE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at DeTour, Tokyo on Fri, 11 Sept 2026.
 
 Natasha (VE) is a techno and house artist based in Venezuela, tracked on soundcheck, with 3 sets logged across Amsterdam and Tokyo. Often billed alongside AME (JP), Gostoso and LogicBeat. Next up: DeTour, Tokyo on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Natasha (VE) is a techno and house artist based in Venezuela, tracked on soundch
 
 AME (JP), Gostoso, LogicBeat
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natasha-ve/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/natasha-ve/)*

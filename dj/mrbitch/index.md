@@ -1,6 +1,6 @@
 # Mr. Bitch
 
-Mr. Bitch is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 19 Sept 2026.
+Mr. Bitch is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bossa Nova Civic Club, New York City on Sat, 19 Sept 2026.
 
 Mr. Bitch is a techno and club artist tracked on soundcheck, with 27 sets logged across Miami and Newyorkcity. Often billed alongside Pressure Point (US), Lady Narcisse and SATURNSARii. Next up: Bossa Nova Civic Club, Newyorkcity on Sat 19 Sept.
 
@@ -26,4 +26,4 @@ Mr. Bitch is a techno and club artist tracked on soundcheck, with 27 sets logged
 
 Pressure Point (US), Lady Narcisse, SATURNSARii
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrbitch/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrbitch/)*

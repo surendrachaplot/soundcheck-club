@@ -1,6 +1,6 @@
 # Max Gardner
 
-Max Gardner is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Club Six, San Francisco/Oakland on Fri, 11 Sept 2026.
+Max Gardner is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Club Six, San Francisco/Oakland on Fri, 11 Sept 2026.
 
 Max Gardner is a techno and dub techno artist tracked on soundcheck, with 83 sets logged across Amsterdam, Barcelona, Berlin and Boston and 9 more. Often billed alongside Adra, Lindsey Herbert and 9-System. Next up: Club Six, Sanfrancisco on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Max Gardner is a techno and dub techno artist tracked on soundcheck, with 83 set
 
 Adra, Lindsey Herbert, 9-System
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgardner/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgardner/)*

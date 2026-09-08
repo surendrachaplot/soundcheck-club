@@ -1,6 +1,6 @@
 # NEGRACONDA
 
-NEGRACONDA is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Les Halles de Schaerbeek, Brussels on Sat, 26 Sept 2026.
+NEGRACONDA is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Les Halles de Schaerbeek, Brussels on Sat, 26 Sept 2026.
 
 NEGRACONDA is a techno and club artist based in Mexico, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Magnolia Coronado, Bruja Prieta and Dj Fucci. Next up: Les Halles de Schaerbeek, Brussels on Sat 26 Sept.
 
@@ -26,4 +26,4 @@ NEGRACONDA is a techno and club artist based in Mexico, tracked on soundcheck, w
 
 Magnolia Coronado, Bruja Prieta, Dj Fucci
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/negraconda/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/negraconda/)*

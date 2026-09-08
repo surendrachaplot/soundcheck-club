@@ -1,6 +1,6 @@
 # Deciprocal
 
-Deciprocal is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Subspace, Denver on Fri, 11 Sept 2026.
+Deciprocal is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Subspace, Denver on Fri, 11 Sept 2026.
 
 Deciprocal is a techno and ghetto tech artist tracked on soundcheck, with 3 sets logged across Denver. Often billed alongside Brunson, Laru and Numinous. Next up: Subspace, Denver on Fri 11 Sept.
 
@@ -19,4 +19,4 @@ Deciprocal is a techno and ghetto tech artist tracked on soundcheck, with 3 sets
 
 Brunson, Laru, Numinous
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deciprocal/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deciprocal/)*

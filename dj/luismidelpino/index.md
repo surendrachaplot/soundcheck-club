@@ -1,6 +1,6 @@
 # Luismi Delpino
 
-Luismi Delpino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Plaza de Toros de Toledo, Madrid on Sat, 12 Sept 2026.
+Luismi Delpino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Plaza de Toros de Toledo, Madrid on Sat, 12 Sept 2026.
 
 Luismi Delpino is a house and techno artist tracked on soundcheck, with 3 sets logged across Madrid. Often billed alongside Luis MF, System Efe and Yoikol. Next up: Plaza de Toros de Toledo, Madrid on Sat 12 Sept.
 
@@ -19,4 +19,4 @@ Luismi Delpino is a house and techno artist tracked on soundcheck, with 3 sets l
 
 Luis MF, System Efe, Yoikol
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luismidelpino/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luismidelpino/)*

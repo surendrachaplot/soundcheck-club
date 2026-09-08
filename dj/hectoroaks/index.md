@@ -1,14 +1,13 @@
 # Héctor Oaks
 
-Héctor Oaks is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Héctor Oaks is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hï Ibiza, Ibiza on Sun, 13 Sept 2026.
 
-Héctor Oaks is a techno and house artist tracked on soundcheck, with 249 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Union Park, Chicago on Fri 4 Sept.
+Héctor Oaks is a techno and house artist tracked on soundcheck, with 249 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 70 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Hï Ibiza, Ibiza on Sun 13 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sun, 13 Sept 2026 | Hï Ibiza | Ibiza |
 | Sun, 18 Oct 2026 | Q35 WAREHOUSE | Turin |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
@@ -31,4 +30,4 @@ Héctor Oaks is a techno and house artist tracked on soundcheck, with 249 sets l
 
 Patrick Mason, Adiel, Richie Hawtin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*

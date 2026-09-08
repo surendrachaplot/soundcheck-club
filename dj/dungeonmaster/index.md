@@ -1,14 +1,15 @@
 # DungeonMaster
 
-DungeonMaster is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Four Quarters, London on Fri, 11 Sept 2026.
+DungeonMaster is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Four Quarters, London on Fri, 11 Sept 2026.
 
-DungeonMaster is a techno and ebm artist based in Italy, tracked on soundcheck, with 16 sets logged across London. Often billed alongside MUSICKLUNATIC, ALVAZ and Arrosa. Next up: Four Quarters, London on Fri 11 Sept.
+DungeonMaster is a techno and house artist based in Italy, tracked on soundcheck, with 17 sets logged across London. Often billed alongside MUSICKLUNATIC, MAL33T and ALVAZ. Next up: Four Quarters, London on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Four Quarters | London |
+| Sat, 12 Sept 2026 | Two Tribes CAMPFIRE | London |
 | Sat, 17 Oct 2026 | Omeara | London |
 
 ## Recently played
@@ -24,6 +25,6 @@ DungeonMaster is a techno and ebm artist based in Italy, tracked on soundcheck, 
 
 ## Shares bills with
 
-MUSICKLUNATIC, ALVAZ, Arrosa
+MUSICKLUNATIC, MAL33T, ALVAZ
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmaster/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmaster/)*

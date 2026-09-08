@@ -1,14 +1,13 @@
 # Beltran
 
-Beltran is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Beltran is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Lisbon on Fri, 18 Sept 2026.
 
-Beltran is a house and tech house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Amsterdam, Austin, Boston and Buenosaires and 24 more. Often billed alongside Ben Sterling, ChaseWest and KinAhau. Next up: Union Park, Chicago on Fri 4 Sept.
+Beltran is a house and tech house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Amsterdam, Austin, Boston and Buenosaires and 24 more. Often billed alongside Ben Sterling, ChaseWest and KinAhau. Next up: TBA, Lisbon on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 18 Sept 2026 | TBA | Lisbon |
 | Sat, 26 Sept 2026 | TBA - Pier 80 | San Francisco/Oakland |
 | Sun, 11 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
@@ -30,4 +29,4 @@ Beltran is a house and tech house artist based in United States of America, trac
 
 Ben Sterling, ChaseWest, KinAhau
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*

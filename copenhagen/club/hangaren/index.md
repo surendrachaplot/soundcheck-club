@@ -1,8 +1,8 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 16 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Mija, Gusted, DRABER666" on Fri, 11 Sept 2026.
+Hangaren is a music venue in Copenhagen with 17 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Mija, Gusted, DRABER666" on Fri, 11 Sept 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 16 upcoming nights, with line-ups including AELVA K, Afgang, bullet tooth and Cara Elizabeth and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 17 upcoming nights, with line-ups including AELVA K, Afgang, bullet tooth and Cara Elizabeth and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 16 upcoming nights
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

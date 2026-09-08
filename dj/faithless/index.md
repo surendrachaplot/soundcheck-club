@@ -1,6 +1,6 @@
 # Faithless
 
-Faithless is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Faithless is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
 Faithless is a house and trance artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Amsterdam, Bali, Berlin and Brighton and 12 more. Often billed alongside Ana Hagen, Anfisa Letyago and Basement Jaxx. Next up: TBA - Parque de la Ciudad, CABA, Buenosaires on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Faithless is a house and trance artist based in United Kingdom, tracked on sound
 
 Ana Hagen, Anfisa Letyago, Basement Jaxx
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faithless/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faithless/)*

@@ -1,6 +1,6 @@
 # Temple SF
 
-Temple SF is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "A HIPHOP & R&B FRIDAY w/J ESPINOSA" on Fri, 11 Sept 2026.
+Temple SF is a music venue in San Francisco/Oakland with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "A HIPHOP & R&B FRIDAY w/J ESPINOSA" on Fri, 11 Sept 2026.
 
 Temple SF is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nights, with line-ups including TBA. Browse upcoming dates, start times and who's playing. 540 Howard St., San Francisco, CA 94105, United States.
 
@@ -20,4 +20,4 @@ Temple SF is a music venue in Sanfrancisco listed on soundcheck. 7 upcoming nigh
 
 540 Howard St., San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/temple-sf/)*

@@ -1,6 +1,6 @@
 # Thanatos
 
-Thanatos is a Tech House and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Tunnel, Milan on Sat, 12 Sept 2026.
+Thanatos is a Tech House and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Tunnel, Milan on Sat, 12 Sept 2026.
 
 Thanatos is a tech house and experimental artist tracked on soundcheck, with 7 sets logged across Milan and Tokyo. Often billed alongside Groove Daniel, Iga Robotik and Alex Rubia. Next up: Tunnel, Milan on Sat 12 Sept.
 
@@ -23,4 +23,4 @@ Thanatos is a tech house and experimental artist tracked on soundcheck, with 7 s
 
 Groove Daniel, Iga Robotik, Alex Rubia
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thanatos/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thanatos/)*

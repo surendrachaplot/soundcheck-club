@@ -1,8 +1,8 @@
 # Wesley Jay
 
-Wesley Jay is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Fire, London on Sat, 26 Sept 2026.
+Wesley Jay is a Garage and Jungle artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Fire, London on Sat, 26 Sept 2026.
 
-Wesley Jay is a garage and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Manchester. Often billed alongside Bailey (UK), Booker T and Carlos Aries. Next up: Fire, London on Sat 26 Sept.
+Wesley Jay is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London and Manchester. Often billed alongside Bailey (UK), Booker T and Carlos Aries. Next up: Fire, London on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Wesley Jay is a garage and house artist based in United Kingdom, tracked on soun
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | Fire | London |
 | Sat, 26 Sept 2026 | LDN East | London |
+| Sun, 4 Oct 2026 | The Cottons Club - Hoxton | London |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Wesley Jay is a garage and house artist based in United Kingdom, tracked on soun
 
 Bailey (UK), Booker T, Carlos Aries
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleyjay-uk/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleyjay-uk/)*

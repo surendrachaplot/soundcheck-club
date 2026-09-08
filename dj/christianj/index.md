@@ -1,6 +1,6 @@
 # Christian J
 
-Christian J is a Disco and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Jungla London, London on Fri, 2 Oct 2026.
+Christian J is a Disco and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Jungla London, London on Fri, 2 Oct 2026.
 
 Christian J is a disco and progressive house artist tracked on soundcheck, with 17 sets logged across London. Often billed alongside XSPEC, Tris (UK) and Will Flint. Next up: Jungla London, London on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Christian J is a disco and progressive house artist tracked on soundcheck, with 
 
 XSPEC, Tris (UK), Will Flint
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianj/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/christianj/)*

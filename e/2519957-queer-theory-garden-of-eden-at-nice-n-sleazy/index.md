@@ -1,6 +1,6 @@
 # Queer Theory: Garden of Eden at Nice N Sleazy
 
-Queer Theory: Garden of Eden at Nice N Sleazy on Fri 18 Sept, Glasgow. 2 acts on the bill: Flava J and Gabor Matty. House and Disco. Preview the line-up and save it on soundcheck.
+Queer Theory: Garden of Eden at Nice N Sleazy on Fri 18 Sept, Glasgow. 2 acts on the bill: Flava J and Gabor Matty. Pop and Afrobeats. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

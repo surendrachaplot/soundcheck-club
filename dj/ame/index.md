@@ -1,6 +1,6 @@
 # Âme
 
-Âme is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Scorpios, Mykonos on Thu, 10 Sept 2026.
+Âme is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Scorpios, Mykonos on Thu, 10 Sept 2026.
 
 Âme is a techno and house artist tracked on soundcheck, with 353 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Scorpios, Mykonos on Thu 10 Sept.
 
@@ -36,4 +36,4 @@
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

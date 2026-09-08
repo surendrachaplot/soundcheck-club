@@ -1,6 +1,6 @@
 # Dani Rev
 
-Dani Rev is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at ESC, Montreal on Sat, 19 Sept 2026.
+Dani Rev is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at ESC, Montreal on Sat, 19 Sept 2026.
 
 Dani Rev is a hardcore and breakcore artist tracked on soundcheck, with 14 sets logged across Montreal, Newyorkcity, Philadelphia and Sanfrancisco and 1 more. Often billed alongside 99jakes, Lexxy Jax and +nurse+. Next up: ESC, Montreal on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Dani Rev is a hardcore and breakcore artist tracked on soundcheck, with 14 sets 
 
 99jakes, Lexxy Jax, +nurse+
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danirev-us/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danirev-us/)*

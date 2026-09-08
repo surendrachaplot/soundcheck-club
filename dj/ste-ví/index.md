@@ -1,14 +1,13 @@
 # STE-VÍ
 
-STE-VÍ is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at public records, New York City on Fri, 4 Sept 2026.
+STE-VÍ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
-STE-VÍ is a techno and house artist tracked on soundcheck, with 65 sets logged across Berlin, Boston, Cork and Newyorkcity and 2 more. Often billed alongside Secret Raver, Adrian Hex and Junkfile. Next up: public records, Newyorkcity on Fri 4 Sept.
+STE-VÍ is a techno and house artist tracked on soundcheck, with 65 sets logged across Berlin, Boston, Cork and Newyorkcity and 2 more. Often billed alongside Secret Raver, Adrian Hex and Junkfile. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washingtondc on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | public records | New York City |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
 
 ## Recently played
@@ -26,4 +25,4 @@ STE-VÍ is a techno and house artist tracked on soundcheck, with 65 sets logged 
 
 Secret Raver, Adrian Hex, Junkfile
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ste-ví/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ste-ví/)*

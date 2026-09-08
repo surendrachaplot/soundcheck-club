@@ -1,6 +1,6 @@
 # Doll.Redacted
 
-Doll.Redacted is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 17 Sept 2026.
+Doll.Redacted is a Pop and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Sound Lounge at Percy, Philadelphia on Thu, 17 Sept 2026.
 
 Doll.Redacted is a pop and house artist based in United States of America, tracked on soundcheck, with 2 sets logged across Philadelphia. Often billed alongside DJ Xtina. Next up: The Sound Lounge at Percy, Philadelphia on Thu 17 Sept.
 
@@ -18,4 +18,4 @@ Doll.Redacted is a pop and house artist based in United States of America, track
 
 DJ Xtina
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doll.redacted/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doll.redacted/)*

@@ -1,8 +1,8 @@
 # Pete Tong
 
-Pete Tong is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 19 Sept 2026.
+Pete Tong is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 19 Sept 2026.
 
-Pete Tong is a house and techno artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Berlin and Bristol and 12 more. Often billed alongside Jaguar, Airrica and Arielle Free. Next up: Chinois Ibiza, Ibiza on Sat 19 Sept.
+Pete Tong is a house and techno artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Austin, Berlin and Bristol and 13 more. Often billed alongside Jaguar, Airrica and Arielle Free. Next up: Chinois Ibiza, Ibiza on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pete Tong is a house and techno artist based in United Kingdom, tracked on sound
 | --- | --- | --- |
 | Sat, 19 Sept 2026 | Chinois Ibiza | Ibiza |
 | Fri, 25 Sept 2026 | D-EDGE | Sao Paulo |
+| Fri, 6 Nov 2026 | Halcyon | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Pete Tong is a house and techno artist based in United Kingdom, tracked on sound
 
 Jaguar, Airrica, Arielle Free
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*

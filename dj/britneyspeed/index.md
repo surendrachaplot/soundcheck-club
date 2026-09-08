@@ -1,6 +1,6 @@
 # Britney Speed
 
-Britney Speed is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 18 Sept 2026.
+Britney Speed is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Den Anden Side, Copenhagen on Fri, 18 Sept 2026.
 
 Britney Speed is a techno and house artist tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 3 more. Often billed alongside Matriark, Dj Algorythm and DJ Nah Care. Next up: Den Anden Side, Copenhagen on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Britney Speed is a techno and house artist tracked on soundcheck, with 87 sets l
 
 Matriark, Dj Algorythm, DJ Nah Care
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed/)*

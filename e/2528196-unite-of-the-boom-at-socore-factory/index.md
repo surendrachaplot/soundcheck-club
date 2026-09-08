@@ -1,6 +1,6 @@
 # UNITE of The Boom at Socore Factory
 
-UNITE of The Boom at Socore Factory on Sun 25 Oct, Osaka. Afrobeat and Dub. Preview the line-up and save it on soundcheck.
+UNITE of The Boom at Socore Factory on Sun 25 Oct, Osaka. Dub and Afrobeat. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shimza
 
-Shimza is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Reframe Studios Indoors, Los Angeles on Sat, 19 Sept 2026.
+Shimza is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Reframe Studios Indoors, Los Angeles on Sat, 19 Sept 2026.
 
 Shimza is an afro house and house artist tracked on soundcheck, with 146 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Reframe Studios Indoors, Losangeles on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Shimza is an afro house and house artist tracked on soundcheck, with 146 sets lo
 
 ARODES, Andrea Oliva, Mahmut Orhan
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shimza/)*

@@ -1,6 +1,6 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 18 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Escape Club: Lisa Loud" on Sat, 12 Sept 2026.
+Patterns is a music venue in Brighton with 18 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Escape Club: Lisa Loud" on Sat, 12 Sept 2026.
 
 Patterns is a music venue in Brighton listed on soundcheck. 18 upcoming nights, with line-ups including Benji Hedonator, BIKINIWAX (2), Boris and Dusky and 2 more. Browse upcoming dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
@@ -23,4 +23,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 18 upcoming nights, 
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

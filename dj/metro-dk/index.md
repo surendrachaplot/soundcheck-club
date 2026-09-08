@@ -1,6 +1,6 @@
 # Mëtro
 
-Mëtro is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Hangaren, Copenhagen on Fri, 23 Oct 2026.
+Mëtro is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Hangaren, Copenhagen on Fri, 23 Oct 2026.
 
 Mëtro is a techno and trance artist based in Denmark, tracked on soundcheck, with 13 sets logged across Copenhagen and Hamburg. Often billed alongside KAMIKAZEM, Midele and Miss Puppy. Next up: Hangaren, Copenhagen on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mëtro is a techno and trance artist based in Denmark, tracked on soundcheck, wi
 
 KAMIKAZEM, Midele, Miss Puppy
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metro-dk/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metro-dk/)*

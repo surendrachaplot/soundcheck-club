@@ -1,6 +1,6 @@
 # S3PPA
 
-S3PPA is a House and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
+S3PPA is a House and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
 S3PPA is a house and trance artist tracked on soundcheck, with 24 sets logged across Amsterdam, Antwerp, Dublin and Ibiza and 5 more. Often billed alongside Gerardo Niva, DART and NewTone. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
@@ -30,4 +30,4 @@ S3PPA is a house and trance artist tracked on soundcheck, with 24 sets logged ac
 
 Gerardo Niva, DART, NewTone
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ppa/)*

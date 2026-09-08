@@ -1,6 +1,6 @@
 # Ananda (BR)
 
-Ananda (BR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sonora Garden, Sao Paulo on Fri, 20 Nov 2026.
+Ananda (BR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sonora Garden, Sao Paulo on Fri, 20 Nov 2026.
 
 Ananda (BR) is a techno and house artist tracked on soundcheck, with 52 sets logged across Berlin, Brussels, Lisbon and London and 3 more. Often billed alongside Kontronatura, Victin and Alírio. Next up: Sonora Garden, Saopaulo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ananda (BR) is a techno and house artist tracked on soundcheck, with 52 sets log
 
 Kontronatura, Victin, Alírio
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*

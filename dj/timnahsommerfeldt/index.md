@@ -1,6 +1,6 @@
 # Timnah
 
-Timnah is a Techno and Ambient artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Gaffe, London on Fri, 18 Sept 2026.
+Timnah is a Techno and Ambient artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Gaffe, London on Fri, 18 Sept 2026.
 
 Timnah is a techno and ambient artist tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: Gaffe, London on Fri 18 Sept.
 
@@ -29,4 +29,4 @@ Timnah is a techno and ambient artist tracked on soundcheck, with 52 sets logged
 
 Agonis, Garçon, Patrick Russell
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*

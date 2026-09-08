@@ -1,6 +1,6 @@
 # BOOSAY
 
-BOOSAY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Frankhan Selectist, Istanbul on Fri, 18 Sept 2026.
+BOOSAY is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Frankhan Selectist, Istanbul on Fri, 18 Sept 2026.
 
 BOOSAY is a house and techno artist tracked on soundcheck, with 14 sets logged across Istanbul. Often billed alongside undrtow, Borec and MATT.. Next up: Frankhan Selectist, Istanbul on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ BOOSAY is a house and techno artist tracked on soundcheck, with 14 sets logged a
 
 undrtow, Borec, MATT.
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boosay/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boosay/)*

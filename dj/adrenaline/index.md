@@ -1,6 +1,6 @@
 # Adrenaline
 
-Adrenaline is a Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Zero Lounge, Los Angeles on Thu, 17 Sept 2026.
+Adrenaline is a Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Zero Lounge, Los Angeles on Thu, 17 Sept 2026.
 
 Adrenaline is a trance artist based in United States of America, tracked on soundcheck, with 3 sets logged across Losangeles. Often billed alongside Authenticity. Next up: Zero Lounge, Losangeles on Thu 17 Sept.
 
@@ -19,4 +19,4 @@ Adrenaline is a trance artist based in United States of America, tracked on soun
 
 Authenticity
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrenaline/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrenaline/)*

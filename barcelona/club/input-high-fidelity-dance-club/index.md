@@ -1,6 +1,6 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "PRISM Hard pres Azyr" on Thu, 10 Sept 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 23 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "PRISM Hard pres Azyr" on Thu, 10 Sept 2026.
 
 INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 23 upcoming nights, with line-ups including Adiel, ART NO LOGIA, Azyr and Beste Hira and 2 more. Browse upcoming dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

@@ -1,6 +1,6 @@
 # Astrobee
 
-Astrobee is a Jazz and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Astrobee is a Jazz and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Astrobee is a jazz and trance artist based in Georgia, tracked on soundcheck, with 48 sets logged across Tbilisi. Often billed alongside fjaartaf, Generali Minerali and Boyá. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Astrobee is a jazz and trance artist based in Georgia, tracked on soundcheck, wi
 
 fjaartaf, Generali Minerali, Boyá
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrobee/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/astrobee/)*

@@ -1,14 +1,13 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 7 Sept 2026.
+Paige Tomlinson is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Laagravense Plas, Utrecht on Sat, 12 Sept 2026.
 
-Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: Amnesia Ibiza, Ibiza on Mon 7 Sept.
+Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 158 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 34 more. Often billed alongside Prunk, L.P. Rhythm and Gaskin. Next up: Laagravense Plas, Utrecht on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | Amnesia Ibiza | Ibiza |
 | Sat, 12 Sept 2026 | Laagravense Plas | Utrecht |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
 | Mon, 28 Sept 2026 | Amnesia Ibiza | Ibiza |
@@ -22,6 +21,7 @@ Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 158
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Mon, 7 Sept 2026
 - [UNVRS], Ibiza — Mon, 24 Aug 2026
 - Palmerstown House Estate, Dublin — Sun, 2 Aug 2026
 - Index, Dublin — Sun, 2 Aug 2026
@@ -29,10 +29,9 @@ Paige Tomlinson is a house and tech house artist tracked on soundcheck, with 158
 - Silverworks Island, London — Sun, 12 Jul 2026
 - La Terrrazza, Barcelona — Thu, 9 Jul 2026
 - Revolver Upstairs, Melbourne — Sun, 21 Jun 2026
-- Chinese Laundry, Sydney — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Prunk, L.P. Rhythm, Gaskin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

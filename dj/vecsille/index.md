@@ -1,6 +1,6 @@
 # VECSILLE
 
-VECSILLE is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
+VECSILLE is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Odaiba, Tokyo on Tue, 22 Sept 2026.
 
 VECSILLE is a garage and bass artist tracked on soundcheck, with 70 sets logged across Hongkong and Tokyo. Often billed alongside MOOTOE, ATAMI and Ogasawara. Next up: Odaiba, Tokyo on Tue 22 Sept.
 
@@ -25,4 +25,4 @@ VECSILLE is a garage and bass artist tracked on soundcheck, with 70 sets logged 
 
 MOOTOE, ATAMI, Ogasawara
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vecsille/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vecsille/)*

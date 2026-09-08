@@ -1,6 +1,6 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 11 Sept 2026.
+Tomoki Tamura is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Kaņepes Kultūras Centrs, Riga on Fri, 11 Sept 2026.
 
 Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 94 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 25 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Cromby. Next up: Kaņepes Kultūras Centrs, Riga on Fri 11 Sept.
 
@@ -31,4 +31,4 @@ Tomoki Tamura is a house and techno artist based in Germany, tracked on soundche
 
 GARAN GARAN, Satoshi Tomiie, Cromby
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

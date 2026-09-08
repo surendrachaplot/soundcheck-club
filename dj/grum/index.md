@@ -1,6 +1,6 @@
 # Grum
 
-Grum is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Aura Cocina & Bar, New York City on Sun, 20 Sept 2026.
+Grum is a Progressive House and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Aura Cocina & Bar, New York City on Sun, 20 Sept 2026.
 
 Grum is a progressive house and trance artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Chicago, Glasgow, London and Losangeles and 6 more. Often billed alongside Above & Beyond, Leena Punks and Paul Van Dyk. Next up: Aura Cocina & Bar, Newyorkcity on Sun 20 Sept.
 
@@ -26,4 +26,4 @@ Grum is a progressive house and trance artist based in United Kingdom, tracked o
 
 Above & Beyond, Leena Punks, Paul Van Dyk
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grum/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grum/)*

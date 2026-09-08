@@ -1,6 +1,6 @@
 # BCCO x Hot Meal at MUENZE
 
-BCCO x Hot Meal at MUENZE on Sat 28 Nov, Berlin. 13 acts on the bill: Alycia Bezgo, Bad Boombox, David Löhlein and DJ Cringey and 9 more. Preview the line-up and save it on soundcheck.
+BCCO x Hot Meal at MUENZE on Sat 28 Nov, Berlin. 14 acts on the bill: Alycia Bezgo, Bad Boombox, David Löhlein and DJ Cringey and 10 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ BCCO x Hot Meal at MUENZE on Sat 28 Nov, Berlin. 13 acts on the bill: Alycia Bez
 - future.666
 - Gusted
 - Janis Zielinski
+- lizaliza
 - Pōnky
 - SAIKA
 - TOXIMAMI

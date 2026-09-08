@@ -1,6 +1,6 @@
 # Kerima
 
-Kerima is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Tresor.West, Dortmund-essen on Thu, 17 Sept 2026.
+Kerima is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Tresor.West, Dortmund-essen on Thu, 17 Sept 2026.
 
 Kerima is an experimental and idm artist tracked on soundcheck, with 3 sets logged across Cologne, Dortmund-essen and Tokyo. Often billed alongside Berenice Llorens, MIYUU and O/Y. Next up: Tresor.West, Dortmund-essen on Thu 17 Sept.
 
@@ -19,4 +19,4 @@ Kerima is an experimental and idm artist tracked on soundcheck, with 3 sets logg
 
 Berenice Llorens, MIYUU, O/Y
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerima/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kerima/)*

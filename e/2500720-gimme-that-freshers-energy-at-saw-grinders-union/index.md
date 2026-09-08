@@ -1,10 +1,10 @@
 # Gimme That 'Freshers Energy' at Saw Grinders Union
 
-Gimme That 'Freshers Energy' at Saw Grinders Union on Sun 13 Sept, Sheffield. Dancehall and R&B. Preview the line-up and save it on soundcheck.
+Gimme That 'Freshers Energy' at Saw Grinders Union on Sun 27 Sept, Sheffield. Dancehall and R&B. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 13 Sept 2026 |
+| Date | Sun, 27 Sept 2026 |
 | Venue | Saw Grinders Union |
 | City | Sheffield |
 

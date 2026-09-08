@@ -1,6 +1,6 @@
 # djcd
 
-djcd is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
+djcd is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Platt Fields Market Garden, Manchester on Sat, 12 Sept 2026.
 
 djcd is a techno and house artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Liverpool and Manchester. Often billed alongside Identikid, DJ FABRICATION and Cersy. Next up: Platt Fields Market Garden, Manchester on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ djcd is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 Identikid, DJ FABRICATION, Cersy
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcd/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djcd/)*

@@ -1,6 +1,6 @@
-# 'Ak'Chamel (US) / ||ALA|MEDA|| & Noums Dembele (PL/BF) at Avant Art Festival 2026 Warszawa at TR Warszawa
+# Ak'chamel (US) / ||ALA|MEDA|| & Noums Dembele (PL/BF) at Avant Art Festival 2026 Warszawa at TR Warszawa
 
-'Ak'Chamel (US) / ||ALA|MEDA|| & Noums Dembele (PL/BF) at Avant Art Festival 2026 Warszawa at TR Warszawa on Wed 16 Sept, Warsaw. Experimental. Preview the line-up and save it on soundcheck.
+Ak'chamel (US) / ||ALA|MEDA|| & Noums Dembele (PL/BF) at Avant Art Festival 2026 Warszawa at TR Warszawa on Wed 16 Sept, Warsaw. Experimental. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

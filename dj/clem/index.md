@@ -1,6 +1,6 @@
 # Clem
 
-Clem is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Chippo Hotel, Sydney on Sun, 13 Sept 2026.
+Clem is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Chippo Hotel, Sydney on Sun, 13 Sept 2026.
 
 Clem is a house and electro artist based in Switzerland, tracked on soundcheck, with 2 sets logged across Geneva and Sydney. Often billed alongside Ena, Puma and mimetic. Next up: The Chippo Hotel, Sydney on Sun 13 Sept.
 
@@ -18,4 +18,4 @@ Clem is a house and electro artist based in Switzerland, tracked on soundcheck, 
 
 Ena, Puma, mimetic
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clem/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clem/)*

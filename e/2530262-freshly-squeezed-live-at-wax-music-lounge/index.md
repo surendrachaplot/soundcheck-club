@@ -1,10 +1,10 @@
 # FRESHLY SQUEEZED LIVE at Wax Music Lounge
 
-FRESHLY SQUEEZED LIVE at Wax Music Lounge on Thu 5 Nov, Melbourne. Jazz. Preview the line-up and save it on soundcheck.
+FRESHLY SQUEEZED LIVE at Wax Music Lounge on Thu 3 Dec, Melbourne. Jazz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 5 Nov 2026 |
+| Date | Thu, 3 Dec 2026 |
 | Venue | Wax Music Lounge |
 | City | Melbourne |
 

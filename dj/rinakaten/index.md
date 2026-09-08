@@ -1,6 +1,6 @@
 # Rina Katen
 
-Rina Katen is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 18 Sept 2026.
+Rina Katen is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bulbul Berlin, Berlin on Fri, 18 Sept 2026.
 
 Rina Katen is a house and disco artist tracked on soundcheck, with 53 sets logged across Berlin. Often billed alongside justcallmesergio, Loves_kills and Slow PSTL. Next up: Bulbul Berlin, Berlin on Fri 18 Sept.
 
@@ -27,4 +27,4 @@ Rina Katen is a house and disco artist tracked on soundcheck, with 53 sets logge
 
 justcallmesergio, Loves_kills, Slow PSTL
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rinakaten/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rinakaten/)*

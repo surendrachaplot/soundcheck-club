@@ -1,6 +1,6 @@
 # Violet (PT)
 
-Violet (PT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Galeria Zé Dos Bois, Lisbon on Fri, 9 Oct 2026.
+Violet (PT) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Galeria Zé Dos Bois, Lisbon on Fri, 9 Oct 2026.
 
 Violet (PT) is a house and techno artist tracked on soundcheck, with 80 sets logged across Barcelona, Berlin, Copenhagen and Edinburgh and 8 more. Often billed alongside BLEID, marum and Phoebe (1). Next up: Galeria Zé Dos Bois, Lisbon on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Violet (PT) is a house and techno artist tracked on soundcheck, with 80 sets log
 
 BLEID, marum, Phoebe (1)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violet-pt/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/violet-pt/)*

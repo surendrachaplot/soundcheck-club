@@ -1,6 +1,6 @@
 # Sanctus Harder Styles [Remzcore is back] at M-BIA
 
-Sanctus Harder Styles [Remzcore is back] at M-BIA on Fri 18 Sept, Berlin. 3 acts on the bill: Deadly Guns, Refl3ction and Remzcore. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Sanctus Harder Styles [Remzcore is back] at M-BIA on Fri 18 Sept, Berlin. 5 acts on the bill: Deadly Guns, nonock, Popsen and Refl3ction and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Sanctus Harder Styles [Remzcore is back] at M-BIA on Fri 18 Sept, Berlin. 3 acts
 ## Line-up
 
 - Deadly Guns
+- nonock
+- Popsen
 - Refl3ction
 - Remzcore
 

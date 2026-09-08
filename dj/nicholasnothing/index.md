@@ -1,6 +1,6 @@
 # Nicholas Nothing
 
-Nicholas Nothing is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Soleil, Toronto on Sat, 12 Sept 2026.
+Nicholas Nothing is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Soleil, Toronto on Sat, 12 Sept 2026.
 
 Nicholas Nothing is a house and deep house artist tracked on soundcheck, with 22 sets logged across Toronto. Often billed alongside Edan Negrin, Paul Quzz and Carlos Estebban. Next up: Soleil, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Nicholas Nothing is a house and deep house artist tracked on soundcheck, with 22
 
 Edan Negrin, Paul Quzz, Carlos Estebban
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasnothing/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasnothing/)*

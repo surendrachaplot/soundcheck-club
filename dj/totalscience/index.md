@@ -1,6 +1,6 @@
 # Total Science
 
-Total Science is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Lakota, Bristol on Fri, 23 Oct 2026.
+Total Science is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Lakota, Bristol on Fri, 23 Oct 2026.
 
 Total Science is a drum & bass and jungle artist tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Brighton and Bristol and 8 more. Often billed alongside Loxy, Break and Bryan Gee. Next up: Lakota, Bristol on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Total Science is a drum & bass and jungle artist tracked on soundcheck, with 31 
 
 Loxy, Break, Bryan Gee
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/totalscience/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/totalscience/)*

@@ -1,6 +1,6 @@
 # SZETO
 
-SZETO is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at NØMAD, Toronto on Fri, 18 Sept 2026.
+SZETO is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at NØMAD, Toronto on Fri, 18 Sept 2026.
 
 SZETO is a drum & bass and jungle artist tracked on soundcheck, with 20 sets logged across Toronto. Often billed alongside Elixah, Marcus Visionary and Barroness. Next up: NØMAD, Toronto on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ SZETO is a drum & bass and jungle artist tracked on soundcheck, with 20 sets log
 
 Elixah, Marcus Visionary, Barroness
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szeto/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szeto/)*

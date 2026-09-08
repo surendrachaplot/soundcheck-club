@@ -1,13 +1,14 @@
 # Aöcram
 
-Aöcram is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at VENT, Tokyo on Fri, 9 Oct 2026.
+Aöcram is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Horn, Bangkok on Sat, 26 Sept 2026.
 
-Aöcram is a techno and club artist tracked on soundcheck, with 69 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 23 more. Often billed alongside Amulador, Decoder and Hiroko Yamamura. Next up: VENT, Tokyo on Fri 9 Oct.
+Aöcram is a techno and club artist tracked on soundcheck, with 70 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 23 more. Often billed alongside Amulador, Decoder and Hiroko Yamamura. Next up: Horn, Bangkok on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Sept 2026 | Horn | Bangkok |
 | Fri, 9 Oct 2026 | VENT | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Aöcram is a techno and club artist tracked on soundcheck, with 69 sets logged a
 
 Amulador, Decoder, Hiroko Yamamura
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aocram/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aocram/)*

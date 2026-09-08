@@ -1,8 +1,8 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Cabaret Voltaire, Edinburgh on Wed, 16 Sept 2026.
+Crazy P is a Disco and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Cabaret Voltaire, Edinburgh on Wed, 16 Sept 2026.
 
-Crazy P is a disco and house artist tracked on soundcheck, with 131 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and MiNNA. Next up: Cabaret Voltaire, Edinburgh on Wed 16 Sept.
+Crazy P is a disco and house artist tracked on soundcheck, with 132 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 28 more. Often billed alongside DJ Paulette, Luke Una and MiNNA. Next up: Cabaret Voltaire, Edinburgh on Wed 16 Sept.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Crazy P is a disco and house artist tracked on soundcheck, with 131 sets logged 
 | Sat, 19 Sept 2026 | Brick Street | Liverpool |
 | Sat, 19 Sept 2026 | The Hifi Club | Leeds |
 | Tue, 22 Sept 2026 | 528 Ibiza | Ibiza |
+| Fri, 25 Sept 2026 | Charlies Loft | Glasgow |
 | Sat, 10 Oct 2026 | Sala Villanos | Madrid |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 
@@ -30,4 +31,4 @@ Crazy P is a disco and house artist tracked on soundcheck, with 131 sets logged 
 
 DJ Paulette, Luke Una, MiNNA
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*

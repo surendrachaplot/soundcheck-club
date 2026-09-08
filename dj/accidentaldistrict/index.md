@@ -1,6 +1,6 @@
 # Accidental District
 
-Accidental District is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Siwilai Radical Club, Bangkok on Sat, 19 Sept 2026.
+Accidental District is a Techno and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Siwilai Radical Club, Bangkok on Sat, 19 Sept 2026.
 
 Accidental District is a techno and garage artist tracked on soundcheck, with 34 sets logged across Bangkok. Often billed alongside Em-J, Wot? and GUNI. Next up: Siwilai Radical Club, Bangkok on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Accidental District is a techno and garage artist tracked on soundcheck, with 34
 
 Em-J, Wot?, GUNI
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/accidentaldistrict/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/accidentaldistrict/)*

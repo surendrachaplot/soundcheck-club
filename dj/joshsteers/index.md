@@ -1,6 +1,6 @@
 # Josh Steers
 
-Josh Steers is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Chocolate Factory, New York City on Fri, 11 Sept 2026.
+Josh Steers is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Chocolate Factory, New York City on Fri, 11 Sept 2026.
 
 Josh Steers is a house and techno artist based in United States of America, tracked on soundcheck, with 102 sets logged across Detroit, Losangeles, Mexicocity and Newyorkcity and 1 more. Often billed alongside Nita Aviance, Sterling Juan Diaz and Michael Magnan. Next up: The Chocolate Factory, Newyorkcity on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Josh Steers is a house and techno artist based in United States of America, trac
 
 Nita Aviance, Sterling Juan Diaz, Michael Magnan
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshsteers/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshsteers/)*

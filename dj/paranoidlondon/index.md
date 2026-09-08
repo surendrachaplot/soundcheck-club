@@ -1,8 +1,8 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Paranoid London is a Techno and Acid artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
-Paranoid London is a techno and acid artist tracked on soundcheck, with 121 sets logged across Amsterdam, Athens, Barcelona and Belfast and 41 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
+Paranoid London is a techno and acid artist tracked on soundcheck, with 122 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Paranoid London is a techno and acid artist tracked on soundcheck, with 121 sets
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 3 Oct 2026 | New Century Locker | Manchester |
+| Fri, 23 Oct 2026 | TRAUM | Antwerp |
 | Fri, 6 Nov 2026 | Beaver Works | Leeds |
 | Sat, 14 Nov 2026 | Plaza Monumental de Barcelona | Barcelona |
 
@@ -28,4 +29,4 @@ Paranoid London is a techno and acid artist tracked on soundcheck, with 121 sets
 
 Palms Trax, Elena Colombi, FJAAK
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

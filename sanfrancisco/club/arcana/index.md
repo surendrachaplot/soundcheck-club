@@ -1,6 +1,6 @@
 # Arcana
 
-Arcana is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Lossless Wax + COMBSY PROJECTION MAPPING" on Fri, 11 Sept 2026.
+Arcana is a music venue in San Francisco/Oakland with 5 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Lossless Wax + COMBSY PROJECTION MAPPING" on Fri, 11 Sept 2026.
 
 Arcana is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights, with line-ups including Lossless Wax, Travie Bobbito and WOCKIE. Browse upcoming dates, start times and who's playing. 2512 Mission St, San Francisco.
 
@@ -18,4 +18,4 @@ Arcana is a music venue in Sanfrancisco listed on soundcheck. 5 upcoming nights,
 
 2512 Mission St, San Francisco, San Francisco/Oakland
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*

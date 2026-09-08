@@ -1,6 +1,6 @@
 # Conducta
 
-Conducta is a Garage and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at FS., Tokyo on Fri, 18 Sept 2026.
+Conducta is a Garage and House artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at FS., Tokyo on Fri, 18 Sept 2026.
 
 Conducta is a garage and house artist tracked on soundcheck, with 186 sets logged across Aberdeen, Amsterdam, Auckland and Bangkok and 50 more. Often billed alongside Oppidan, Tim Reaper and Todd Edwards. Next up: FS., Tokyo on Fri 18 Sept.
 
@@ -31,4 +31,4 @@ Conducta is a garage and house artist tracked on soundcheck, with 186 sets logge
 
 Oppidan, Tim Reaper, Todd Edwards
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*

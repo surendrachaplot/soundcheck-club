@@ -1,6 +1,6 @@
 # SEMREH
 
-SEMREH is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sigma, Ibiza on Fri, 9 Oct 2026.
+SEMREH is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sigma, Ibiza on Fri, 9 Oct 2026.
 
 SEMREH is a techno and minimal techno artist based in Italy, tracked on soundcheck, with 42 sets logged across Barcelona, Berlin, Ibiza and Malta. Often billed alongside Marcelo Demarco, AntZ (2) and Katnada. Next up: Sigma, Ibiza on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ SEMREH is a techno and minimal techno artist based in Italy, tracked on soundche
 
 Marcelo Demarco, AntZ (2), Katnada
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/semreh/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/semreh/)*

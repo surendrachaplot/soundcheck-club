@@ -1,13 +1,14 @@
 # ecec
 
-ecec is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 11 Sept 2026.
+ecec is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sasazuka Bowl, Tokyo on Thu, 10 Sept 2026.
 
-ecec is a techno and house artist tracked on soundcheck, with 179 sets logged across Osaka, Seoul, Tokyo and Vienna. Often billed alongside JUN INAGAWA, OKAMOTO REIJI and MoEPiKA. Next up: Enter Shibuya, Tokyo on Fri 11 Sept.
+ecec is a techno and house artist tracked on soundcheck, with 180 sets logged across Osaka, Seoul, Tokyo and Vienna. Often billed alongside JUN INAGAWA, OKAMOTO REIJI and MoEPiKA. Next up: Sasazuka Bowl, Tokyo on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Sept 2026 | Sasazuka Bowl | Tokyo |
 | Fri, 11 Sept 2026 | Enter Shibuya | Tokyo |
 | Tue, 22 Sept 2026 | WOMB | Tokyo |
 
@@ -26,4 +27,4 @@ ecec is a techno and house artist tracked on soundcheck, with 179 sets logged ac
 
 JUN INAGAWA, OKAMOTO REIJI, MoEPiKA
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*

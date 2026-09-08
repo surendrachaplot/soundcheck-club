@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE" on Wed, 9 Sept 2026.
+ÆDEN is a music venue in Berlin with 24 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE" on Wed, 9 Sept 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 24 upcoming nights, with line-ups including Acierate, Amor Satyr, August Kind and Ayham and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

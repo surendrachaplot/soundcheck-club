@@ -1,6 +1,6 @@
 # OMBRAR
 
-OMBRAR is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Glazart, Paris on Sun, 20 Sept 2026.
+OMBRAR is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Glazart, Paris on Sun, 20 Sept 2026.
 
 OMBRAR is a techno and industrial artist tracked on soundcheck, with 16 sets logged across Berlin, London, Montreal and Paris. Often billed alongside Labåzuy, BLACK ANTHEM RESTORE and BUYMEFLOVVERS. Next up: Glazart, Paris on Sun 20 Sept.
 
@@ -25,4 +25,4 @@ OMBRAR is a techno and industrial artist tracked on soundcheck, with 16 sets log
 
 Labåzuy, BLACK ANTHEM RESTORE, BUYMEFLOVVERS
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ombrar/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ombrar/)*

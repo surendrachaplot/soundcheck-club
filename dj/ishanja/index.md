@@ -1,6 +1,6 @@
 # Ish Anja
 
-Ish Anja is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Inner North Location, Melbourne on Sat, 12 Sept 2026.
+Ish Anja is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Inner North Location, Melbourne on Sat, 12 Sept 2026.
 
 Ish Anja is a techno and tech house artist tracked on soundcheck, with 21 sets logged across Melbourne. Often billed alongside Etwas, Lisa May and Matteo Freyrie. Next up: TBA - Inner North Location, Melbourne on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Ish Anja is a techno and tech house artist tracked on soundcheck, with 21 sets l
 
 Etwas, Lisa May, Matteo Freyrie
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ishanja/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ishanja/)*

@@ -1,8 +1,8 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "La Beat Soul Club" on Fri, 11 Sept 2026.
+People's Leisure Club is a music venue in Edinburgh with 15 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "La Beat Soul Club" on Fri, 11 Sept 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 13 upcoming nights, with line-ups including Accident Machine, Astro, Auntie Flo and Body Clinic and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 15 upcoming nights, with line-ups including damside, Accident Machine, Astro and Auntie Flo and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 
@@ -16,11 +16,11 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 13 upc
 | Sat, 26 Sept 2026 | Deep Excursions (Daytime): Marcellus Pittman - 4hr Set | Marcellus Pittman, Stephen Rodgers |
 | Wed, 30 Sept 2026 | dirty feeling |  |
 | Thu, 1 Oct 2026 | Not Waiting | Accident Machine, DMG Music |
+| Fri, 2 Oct 2026 | neurosignal: damside, noodle + Telfort | Telfort, damside, noodle |
 | Sat, 3 Oct 2026 | Maniatrix: 'Body Build Rate' Album Launch Party | Maniatrix |
-| Sat, 10 Oct 2026 | Neptune Discs: A Portal to the Unknown — Wigs b2b Body Clinic (DAYTIME) | Astro, Body Clinic, Plastic GRN, Wigs, Wigs |
 
 ## Address
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

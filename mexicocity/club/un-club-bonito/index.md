@@ -1,6 +1,6 @@
 # un club bonito
 
-un club bonito is a music venue in Mexico City with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "CLUB LATINXS X CLUB BONITO" on Sat, 12 Sept 2026.
+un club bonito is a music venue in Mexico City with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "CLUB LATINXS X CLUB BONITO" on Sat, 12 Sept 2026.
 
 un club bonito is a music venue in Mexicocity listed on soundcheck. 2 upcoming nights, with line-ups including AddlyMuff. Browse upcoming dates, start times and who's playing. Nuevo Leon 89.
 
@@ -15,4 +15,4 @@ un club bonito is a music venue in Mexicocity listed on soundcheck. 2 upcoming n
 
 Nuevo Leon 89, Mexico City
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/un-club-bonito/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/un-club-bonito/)*

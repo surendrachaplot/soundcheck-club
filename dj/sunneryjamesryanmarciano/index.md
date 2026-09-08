@@ -1,6 +1,6 @@
 # Sunnery James & Ryan Marciano
 
-Sunnery James & Ryan Marciano is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Pacha, Munich on Fri, 18 Sept 2026.
+Sunnery James & Ryan Marciano is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Pacha, Munich on Fri, 18 Sept 2026.
 
 Sunnery James & Ryan Marciano are a house and progressive house duo based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Austin, Barcelona and Chicago and 9 more. Often billed alongside Robin Schulz, Philou Louzolo and Piero Farho. Next up: Pacha, Munich on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Sunnery James & Ryan Marciano are a house and progressive house duo based in Net
 
 Robin Schulz, Philou Louzolo, Piero Farho
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunneryjamesryanmarciano/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sunneryjamesryanmarciano/)*

@@ -1,6 +1,6 @@
 # batgirl
 
-batgirl is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Next Door Records Two, London on Fri, 18 Sept 2026.
+batgirl is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Next Door Records Two, London on Fri, 18 Sept 2026.
 
 batgirl is a techno and electro artist tracked on soundcheck, with 17 sets logged across Brighton and London. Often billed alongside Ruby SD, Jacob Trip and Jiminy Watts. Next up: Next Door Records Two, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ batgirl is a techno and electro artist tracked on soundcheck, with 17 sets logge
 
 Ruby SD, Jacob Trip, Jiminy Watts
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/batgirl/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/batgirl/)*

@@ -1,6 +1,6 @@
 # FAROUT
 
-FAROUT is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 25 Sept 2026.
+FAROUT is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Airport Würzburg, Nürnberg on Fri, 25 Sept 2026.
 
 FAROUT is a techno and trance artist based in Germany, tracked on soundcheck, with 25 sets logged across Nurnberg. Often billed alongside Cassa Cristano, Mantraa and LILLIVEE. Next up: Airport Würzburg, Nurnberg on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ FAROUT is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 Cassa Cristano, Mantraa, LILLIVEE
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farout/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/farout/)*

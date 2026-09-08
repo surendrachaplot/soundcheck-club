@@ -1,6 +1,6 @@
 # BBYG
 
-BBYG is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
+BBYG is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Renate, Berlin on Sat, 26 Sept 2026.
 
 BBYG is a house and techno artist tracked on soundcheck, with 24 sets logged across Berlin, London and Vienna. Often billed alongside DJ CHICHI, Keex and chichi. Next up: Renate, Berlin on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ BBYG is a house and techno artist tracked on soundcheck, with 24 sets logged acr
 
 DJ CHICHI, Keex, chichi
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyg/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyg/)*

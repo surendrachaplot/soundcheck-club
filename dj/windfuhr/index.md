@@ -1,6 +1,6 @@
 # WINDFUHR
 
-WINDFUHR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 19 Sept 2026.
+WINDFUHR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Q35 WAREHOUSE, Turin on Sat, 19 Sept 2026.
 
 WINDFUHR is a techno and house artist tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Berlin and Hamburg and 14 more. Often billed alongside Hitam, Angioma and Phil Berg. Next up: Q35 WAREHOUSE, Turin on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ WINDFUHR is a techno and house artist tracked on soundcheck, with 57 sets logged
 
 Hitam, Angioma, Phil Berg
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/windfuhr/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/windfuhr/)*

@@ -1,6 +1,6 @@
 # Collapsed Dimention Agent
 
-Collapsed Dimention Agent is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
+Collapsed Dimention Agent is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat, 12 Sept 2026.
 
 Collapsed Dimention Agent is a techno and electronica artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Sergey Chernyshov, Abyss X and Alphonsine Koh. Next up: TBA - Warschauer Pl. 18, 10245 Berlin, Berlin on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ Collapsed Dimention Agent is a techno and electronica artist tracked on soundche
 
 Sergey Chernyshov, Abyss X, Alphonsine Koh
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/collapseddimentionagent/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/collapseddimentionagent/)*

@@ -1,6 +1,6 @@
 # Champagne Mirrors
 
-Champagne Mirrors is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Podlasie Club, Chicago on Wed, 16 Sept 2026.
+Champagne Mirrors is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Podlasie Club, Chicago on Wed, 16 Sept 2026.
 
 Champagne Mirrors is an electronica and experimental artist tracked on soundcheck, with 2 sets logged across Chicago. Often billed alongside Beau Wanzer and Mina Mills. Next up: Podlasie Club, Chicago on Wed 16 Sept.
 
@@ -18,4 +18,4 @@ Champagne Mirrors is an electronica and experimental artist tracked on soundchec
 
 Beau Wanzer, Mina Mills
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/champagnemirrors-us/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/champagnemirrors-us/)*

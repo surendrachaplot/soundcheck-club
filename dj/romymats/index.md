@@ -1,14 +1,15 @@
 # Romy Mats
 
-Romy Mats is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Enter Shibuya, Tokyo on Wed, 9 Sept 2026.
+Romy Mats is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Enter Shibuya, Tokyo on Wed, 9 Sept 2026.
 
-Romy Mats is a techno and house artist tracked on soundcheck, with 149 sets logged across Hongkong, Kyoto, Seoul and Shenzhen and 1 more. Often billed alongside Romy, Albino Sound and Pine. Next up: Enter Shibuya, Tokyo on Wed 9 Sept.
+Romy Mats is a techno and house artist tracked on soundcheck, with 150 sets logged across Hongkong, Kyoto, Seoul and Shenzhen and 1 more. Often billed alongside Romy, Albino Sound and Pine. Next up: Enter Shibuya, Tokyo on Wed 9 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 9 Sept 2026 | Enter Shibuya | Tokyo |
+| Thu, 17 Sept 2026 | Mitsuki | Tokyo |
 | Fri, 2 Oct 2026 | Saloon | Tokyo |
 | Sat, 31 Oct 2026 | Saloon | Tokyo |
 
@@ -27,4 +28,4 @@ Romy Mats is a techno and house artist tracked on soundcheck, with 149 sets logg
 
 Romy, Albino Sound, Pine
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romymats/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/romymats/)*

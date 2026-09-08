@@ -1,6 +1,6 @@
 # hanaphora
 
-hanaphora is a Progressive House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
+hanaphora is a Progressive House and Club artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
 
 hanaphora is a progressive house and club artist tracked on soundcheck, with 4 sets logged across London. Often billed alongside m-onz, Obscenity State and Tyger Blue. Next up: M.O.T, London on Thu 8 Oct.
 
@@ -20,4 +20,4 @@ hanaphora is a progressive house and club artist tracked on soundcheck, with 4 s
 
 m-onz, Obscenity State, Tyger Blue
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaphora/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaphora/)*

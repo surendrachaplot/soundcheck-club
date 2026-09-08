@@ -1,6 +1,6 @@
 # Mike.D
 
-Mike.D is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at House of Vans CDMX, Mexico City on Sat, 5 Dec 2026.
+Mike.D is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at House of Vans CDMX, Mexico City on Sat, 5 Dec 2026.
 
 Mike.D is a minimal and house artist based in Mexico, tracked on soundcheck, with 9 sets logged across Austin and Mexicocity. Often billed alongside Sonoma, Andrey Pushkarev and Angel Mosteiro. Next up: House of Vans CDMX, Mexicocity on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mike.D is a minimal and house artist based in Mexico, tracked on soundcheck, wit
 
 Sonoma, Andrey Pushkarev, Angel Mosteiro
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mike.d/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mike.d/)*

@@ -1,6 +1,6 @@
 # Retronika
 
-Retronika is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Savage Labs, Miami on Thu, 10 Sept 2026.
+Retronika is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Savage Labs, Miami on Thu, 10 Sept 2026.
 
 Retronika is an electro and house artist based in Uruguay, tracked on soundcheck, with 17 sets logged across Miami. Often billed alongside San Dee, Blame (EC) and Ostara. Next up: Savage Labs, Miami on Thu 10 Sept.
 
@@ -25,4 +25,4 @@ Retronika is an electro and house artist based in Uruguay, tracked on soundcheck
 
 San Dee, Blame (EC), Ostara
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/retronika/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/retronika/)*

@@ -1,14 +1,15 @@
 # PIG (1)
 
-PIG (1) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
+PIG (1) is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Humboldthain Club, Berlin on Fri, 9 Oct 2026.
 
-PIG (1) is a techno and bass artist tracked on soundcheck, with 2 sets logged across Berlin and Nurnberg. Often billed alongside Cufme, DJ Business (2) and Egyptian Lover. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
+PIG (1) is a bass and techno artist tracked on soundcheck, with 3 sets logged across Berlin, Leipzig and Nurnberg. Often billed alongside Cufme, DJ Business (2) and Wall Ra. Next up: Humboldthain Club, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Humboldthain Club | Berlin |
+| Fri, 4 Dec 2026 | elipamanoke | Leipzig |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ PIG (1) is a techno and bass artist tracked on soundcheck, with 2 sets logged ac
 
 ## Shares bills with
 
-Cufme, DJ Business (2), Egyptian Lover
+Cufme, DJ Business (2), Wall Ra
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pig-1/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pig-1/)*

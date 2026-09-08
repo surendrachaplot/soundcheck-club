@@ -1,14 +1,13 @@
 # Ultra Naté
 
-Ultra Naté is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Camp Tall Timbers, WV, Washington DC on Fri, 4 Sept 2026.
+Ultra Naté is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Paragon, New York City on Fri, 23 Oct 2026.
 
-Ultra Naté is a house and disco artist based in United States of America, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Denver and 13 more. Often billed alongside DJ Spen, Derrick Carter and Rissa Garcia. Next up: TBA - Camp Tall Timbers, WV, Washingtondc on Fri 4 Sept.
+Ultra Naté is a house and disco artist based in United States of America, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Denver and 13 more. Often billed alongside DJ Spen, Derrick Carter and Rissa Garcia. Next up: Paragon, Newyorkcity on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | TBA - Camp Tall Timbers, WV | Washington DC |
 | Fri, 23 Oct 2026 | Paragon | New York City |
 | Sun, 22 Nov 2026 | Oxford Art Factory | Sydney |
 
@@ -27,4 +26,4 @@ Ultra Naté is a house and disco artist based in United States of America, track
 
 DJ Spen, Derrick Carter, Rissa Garcia
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*

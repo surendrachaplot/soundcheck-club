@@ -1,6 +1,6 @@
 # Solarstone
 
-Solarstone is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Hidden, Manchester on Sat, 12 Sept 2026.
+Solarstone is a Trance and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hidden, Manchester on Sat, 12 Sept 2026.
 
 Solarstone is a trance and progressive house artist tracked on soundcheck, with 21 sets logged across Amsterdam, Chicago, London and Losangeles and 10 more. Often billed alongside Billy Gillies, Amy Wiles and Ferry Corsten. Next up: Hidden, Manchester on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ Solarstone is a trance and progressive house artist tracked on soundcheck, with 
 
 Billy Gillies, Amy Wiles, Ferry Corsten
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solarstone/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/solarstone/)*

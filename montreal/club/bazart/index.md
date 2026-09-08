@@ -1,6 +1,6 @@
 # Bazart
 
-Bazart is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "MoBlack, Rim SDL, Mezz" on Fri, 11 Sept 2026.
+Bazart is a music venue in Montreal with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "MoBlack, Rim SDL, Mezz" on Fri, 11 Sept 2026.
 
 Bazart is a music venue in Montreal listed on soundcheck. 4 upcoming nights, with line-ups including Antdot, BARON (FR), MoBlack and Rim SDL and 1 more. Browse upcoming dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 1W4.
 
@@ -17,4 +17,4 @@ Bazart is a music venue in Montreal listed on soundcheck. 4 upcoming nights, wit
 
 950 Ottawa St, Montreal, Quebec H3C 1W4, Montreal
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bazart/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bazart/)*

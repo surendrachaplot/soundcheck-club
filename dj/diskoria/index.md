@@ -1,6 +1,6 @@
 # Diskoria
 
-Diskoria is a Jazz and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Klymax Discotheque, Bali on Sat, 19 Sept 2026.
+Diskoria is a Jazz and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Klymax Discotheque, Bali on Sat, 19 Sept 2026.
 
 Diskoria is a jazz and techno artist tracked on soundcheck, with 4 sets logged across Bali, Kualalumpur and Tokyo. Often billed alongside DITA (ID), DNOPF and Dea Barandana. Next up: Klymax Discotheque, Bali on Sat 19 Sept.
 
@@ -20,4 +20,4 @@ Diskoria is a jazz and techno artist tracked on soundcheck, with 4 sets logged a
 
 DITA (ID), DNOPF, Dea Barandana
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoria/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diskoria/)*

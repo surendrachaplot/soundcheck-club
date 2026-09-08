@@ -1,14 +1,15 @@
 # Stump Valley
 
-Stump Valley is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Klub Werkstatt, Copenhagen on Fri, 11 Sept 2026.
+Stump Valley is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Klub Werkstatt, Copenhagen on Fri, 11 Sept 2026.
 
-Stump Valley is a house and disco artist tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: Klub Werkstatt, Copenhagen on Fri 11 Sept.
+Stump Valley is a house and disco artist tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Kapote, Sam Ruffillo and Max NRG Supply. Next up: Klub Werkstatt, Copenhagen on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | Klub Werkstatt | Copenhagen |
+| Fri, 2 Oct 2026 | La Paloma | Barcelona |
 | Sat, 10 Oct 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 
 ## Recently played
@@ -26,4 +27,4 @@ Stump Valley is a house and disco artist tracked on soundcheck, with 72 sets log
 
 Kapote, Sam Ruffillo, Max NRG Supply
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stumpvalley/)*

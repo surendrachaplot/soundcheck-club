@@ -1,8 +1,8 @@
 # Distillery N17
 
-Distillery N17 is a music venue in London with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "CHARJE X P0RTAL: EQUUS DIVINE" on Fri, 11 Sept 2026.
+Distillery N17 is a music venue in London with 14 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "CHARJE X P0RTAL: EQUUS DIVINE" on Fri, 11 Sept 2026.
 
-Distillery N17 is a music venue in London listed on soundcheck. 13 upcoming nights, with line-ups including 69DB, Acerbic, Acid Steve and Adam Pits and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
+Distillery N17 is a music venue in London listed on soundcheck. 14 upcoming nights, with line-ups including 69DB, Acerbic, Acid Steve and Adam Pits and 2 more. Browse upcoming dates, start times and who's playing. Unit 25, Millmead Industrial Estate.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Distillery N17 is a music venue in London listed on soundcheck. 13 upcoming nigh
 | Fri, 25 Sept 2026 | Hartronika | Engineer (Live), Jarvis Bitcoin, Johana, LIZAZA, SIIIO, Tina Technotic, Yukari |
 | Sat, 26 Sept 2026 | INFERNO: The Red Summer |  |
 | Sat, 3 Oct 2026 | SAD | DJ Sarah Bonito, Dougal, Hang The DJs, Peggy Viennetta, Sharkey (1), Slayphex Twins |
+| Fri, 9 Oct 2026 | Uhaul Dyke Rave: Take The Wheel | BAMBI (UK), Sazzle |
 | Fri, 16 Oct 2026 | DHR & Capeesh: Adam Pits, Adrien Calvet & Aquamarine | Adam Pits, Adrien Calvet, Aquamarine, Oolong, Phin (UK) |
 | Sat, 17 Oct 2026 | Astral Circus vs The R.A.V.E. Institution | DoubKore, Ebru Al, FlibbertiGibbet, JourneyOM, Nikki S, frieda (IT) |
-| Fri, 23 Oct 2026 | Get A Grip |  |
 
 ## Address
 
 Unit 25, Millmead Industrial Estate, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/distillery-n17/)*

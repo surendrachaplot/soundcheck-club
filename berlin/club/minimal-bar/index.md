@@ -1,6 +1,6 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 76 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "manic.monday mit Keyvan" on Mon, 7 Sept 2026.
+Minimal Bar is a music venue in Berlin with 76 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "go.play mit Gaamer" on Tue, 8 Sept 2026.
 
 Minimal Bar is a music venue in Berlin listed on soundcheck. 76 upcoming nights, with line-ups including Andi de Luxe, Beshy, Beta Basti and Bin Okin and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
@@ -8,7 +8,6 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 76 upcoming nights,
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | manic.monday mit Keyvan | Keyvan |
 | Tue, 8 Sept 2026 | go.play mit Gaamer | Gaamer |
 | Wed, 9 Sept 2026 | mittendrin mit Fineberg | Fineberg |
 | Thu, 10 Sept 2026 | electronic.thursday mit halfaneagle |  |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 76 upcoming nights,
 | Mon, 14 Sept 2026 | manic.monday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 | Tue, 15 Sept 2026 | go.play mit Keyvan | Keyvan |
 | Wed, 16 Sept 2026 | mittendrin mit Jago K | Jago K., Sciarada |
+| Thu, 17 Sept 2026 | electronic.thursday mit Man-L & freunde | Man-L |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

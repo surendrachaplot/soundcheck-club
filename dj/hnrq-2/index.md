@@ -1,6 +1,6 @@
 # HNRQ (2)
 
-HNRQ (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Lux Fragil, Lisbon on Sat, 12 Sept 2026.
+HNRQ (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Lux Fragil, Lisbon on Sat, 12 Sept 2026.
 
 HNRQ (2) is a techno and house artist based in Portugal, tracked on soundcheck, with 62 sets logged across Lisbon and Porto. Often billed alongside Rui Vargas, Inês Duarte and Varela. Next up: Lux Fragil, Lisbon on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ HNRQ (2) is a techno and house artist based in Portugal, tracked on soundcheck, 
 
 Rui Vargas, Inês Duarte, Varela
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hnrq-2/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hnrq-2/)*

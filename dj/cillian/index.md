@@ -1,6 +1,6 @@
 # Cillian
 
-Cillian is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
+Cillian is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at KHIDI, Tbilisi on Fri, 11 Sept 2026.
 
 Cillian is a trance and techno artist based in Georgia, tracked on soundcheck, with 22 sets logged across Strasbourg and Tbilisi. Often billed alongside Puritan, 00rt and Boyd Schidt. Next up: KHIDI, Tbilisi on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Cillian is a trance and techno artist based in Georgia, tracked on soundcheck, w
 
 Puritan, 00rt, Boyd Schidt
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cillian/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cillian/)*

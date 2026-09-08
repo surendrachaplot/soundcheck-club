@@ -1,6 +1,6 @@
 # Elderbrook
 
-Elderbrook is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Lion Super Club, Seoul on Fri, 11 Sept 2026.
+Elderbrook is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Lion Super Club, Seoul on Fri, 11 Sept 2026.
 
 Elderbrook is a house and electro artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Austin, Bali, Barcelona and Basel and 33 more. Often billed alongside Cassian, Eli Brown and Boys Noize. Next up: Lion Super Club, Seoul on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Elderbrook is a house and electro artist based in United Kingdom, tracked on sou
 
 Cassian, Eli Brown, Boys Noize
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elderbrook/)*

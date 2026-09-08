@@ -1,6 +1,6 @@
 # Anuuk
 
-Anuuk is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 3 Oct 2026.
+Anuuk is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 3 Oct 2026.
 
 Anuuk is a techno and trance artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside DonChoppa, SEKTOR69 and Kø:lab. Next up: Lokschuppen Berlin, Berlin on Sat 3 Oct.
 
@@ -29,4 +29,4 @@ Anuuk is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 DonChoppa, SEKTOR69, Kø:lab
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anuuk/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anuuk/)*

@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "ABOV FLINTA* NYC" on Fri, 11 Sept 2026.
+H0L0 is a music venue in New York City with 11 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "ABOV FLINTA* NYC" on Fri, 11 Sept 2026.
 
 H0L0 is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, with line-ups including Amelia Holt, Anane, Armii1n and Aurora Halal and 2 more. Browse upcoming dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -9,7 +9,7 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, w
 | Date | Night | Line-up |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | ABOV FLINTA* NYC | Erika, Shyboi, Volvox |
-| Sat, 12 Sept 2026 | ReSolute presents: MUSCLECARS All-Night Long | MUSCLECARS |
+| Sat, 12 Sept 2026 | ReSolute presents: MUSCLECARS All-Night Long | Jeremy Giros, MUSCLECARS, Sevyn |
 | Fri, 18 Sept 2026 | ReSolute x Aionia: Secret Guest - Lena Willikens + more TBA | Athena, Honey Bun, Lena Willikens, Mona Matsuoka |
 | Sat, 19 Sept 2026 | ReSolute x Disco Tehran | Armii1n, Eshie, MIRZA, Salar Ansari, Willy Soul, ራሄል (Rachel) |
 | Sat, 26 Sept 2026 | ReSolute x Yoyaku | Chez Damier, Garrett David, Gulp, Kian OK, Lis Sarroca, Maksim, Mari.te, Mike Servito, Rachel Noon, Satoshi Tomiie, Vincent Lemieux, Yamour, limbic sis |
@@ -23,4 +23,4 @@ H0L0 is a music venue in Newyorkcity listed on soundcheck. 11 upcoming nights, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

@@ -1,6 +1,6 @@
 # Dean Bryce
 
-Dean Bryce is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
+Dean Bryce is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Haus der Visionäre, Berlin on Fri, 11 Sept 2026.
 
 Dean Bryce is a house and funk / soul artist tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Leeds and London and 3 more. Often billed alongside Charlie Dark, Chinese Daughter and Jon K. Next up: Haus der Visionäre, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Dean Bryce is a house and funk / soul artist tracked on soundcheck, with 36 sets
 
 Charlie Dark, Chinese Daughter, Jon K
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanbryce/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deanbryce/)*

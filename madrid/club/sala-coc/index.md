@@ -1,6 +1,6 @@
 # Sala Cocó
 
-Sala Cocó is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "HYBRID: Riana Holley" on Sat, 12 Sept 2026.
+Sala Cocó is a music venue in Madrid with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "HYBRID: Riana Holley" on Sat, 12 Sept 2026.
 
 Sala Cocó is a music venue in Madrid listed on soundcheck. 3 upcoming nights, with line-ups including BTFL, KITAE, M.I.XX.I and Riana Holley. Browse upcoming dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
 
@@ -16,4 +16,4 @@ Sala Cocó is a music venue in Madrid listed on soundcheck. 3 upcoming nights, w
 
 Calle Alcalá 20, 28014 Madrid, Spain, Madrid
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*

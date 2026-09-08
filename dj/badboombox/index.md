@@ -1,14 +1,13 @@
 # Bad Boombox
 
-Bad Boombox is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Bad Boombox is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Echostage, Washington DC on Fri, 11 Sept 2026.
 
-Bad Boombox is a techno and trance artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Union Park, Chicago on Fri 4 Sept.
+Bad Boombox is a techno and trance artist tracked on soundcheck, with 205 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Echostage, Washingtondc on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 11 Sept 2026 | Echostage | Washington DC |
 | Sat, 12 Sept 2026 | Avalon Hollywood | Los Angeles |
 | Sun, 13 Sept 2026 | 888 Garage | San Francisco/Oakland |
@@ -34,4 +33,4 @@ Bad Boombox is a techno and trance artist tracked on soundcheck, with 205 sets l
 
 Mischluft, Janis Zielinski, Ollie Lishman
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*

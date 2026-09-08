@@ -1,8 +1,8 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Gallery Pres: O'Flynn" on Sat, 12 Sept 2026.
+The Night Cat is a music venue in Melbourne with 14 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Gallery Pres: O'Flynn" on Sat, 12 Sept 2026.
 
-The Night Cat is a music venue in Melbourne listed on soundcheck. 13 upcoming nights, with line-ups including Alan Fitzpatrick, Chris Luno, Glen S and Gravagerz and 2 more. Browse upcoming dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
+The Night Cat is a music venue in Melbourne listed on soundcheck. 14 upcoming nights, with line-ups including Alan Fitzpatrick, Chris Luno, Dam Swindle and dozie (uk) and 2 more. Browse upcoming dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
 ## What's on
 
@@ -17,10 +17,10 @@ The Night Cat is a music venue in Melbourne listed on soundcheck. 13 upcoming ni
 | Sat, 10 Oct 2026 | Alan Fitzpatrick — MELBOURNE | Alan Fitzpatrick |
 | Fri, 16 Oct 2026 | Tribe Soundsystem & clipp.art present Rich Medina (USA) | Rich Medina, Zepherin Saint |
 | Sat, 24 Oct 2026 | Soul Wun - MELBOURNE - The Night Cat | Soul Wun |
-| Fri, 6 Nov 2026 | Gravagerz | Gravagerz |
+| Mon, 2 Nov 2026 | Dam Swindle (Heist Recordings, NL) | Dam Swindle, dozie (uk) |
 
 ## Address
 
 137-141 Johnston St, Fitzroy VIC 3065, Australia, Melbourne
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*

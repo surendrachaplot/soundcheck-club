@@ -1,6 +1,6 @@
 # JAEL
 
-JAEL is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at White Owl Social Club, Portland on Fri, 11 Sept 2026.
+JAEL is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at White Owl Social Club, Portland on Fri, 11 Sept 2026.
 
 JAEL is a house and bass artist tracked on soundcheck, with 93 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 35 more. Often billed alongside p-rallel, Fafi Abdel Nour and Jerrau. Next up: White Owl Social Club, Portland on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ JAEL is a house and bass artist tracked on soundcheck, with 93 sets logged acros
 
 p-rallel, Fafi Abdel Nour, Jerrau
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jael-nl/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jael-nl/)*

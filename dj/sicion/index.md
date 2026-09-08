@@ -1,13 +1,14 @@
 # Sicion
 
-Sicion is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at ÆDEN, Berlin on Thu, 1 Oct 2026.
+Sicion is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Secret Location, Berlin on Sat, 19 Sept 2026.
 
-Sicion is a techno and house artist tracked on soundcheck, with 47 sets logged across Amsterdam, Bali, Berlin and Brussels and 9 more. Often billed alongside Maris Shilton, KUSS and Mara Menace. Next up: ÆDEN, Berlin on Thu 1 Oct.
+Sicion is a techno and house artist tracked on soundcheck, with 48 sets logged across Amsterdam, Bali, Berlin and Brussels and 9 more. Often billed alongside Maris Shilton, Mara Menace and KUSS. Next up: TBA - Secret Location, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Sept 2026 | TBA - Secret Location | Berlin |
 | Thu, 1 Oct 2026 | ÆDEN | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Sicion is a techno and house artist tracked on soundcheck, with 47 sets logged a
 
 ## Shares bills with
 
-Maris Shilton, KUSS, Mara Menace
+Maris Shilton, Mara Menace, KUSS
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sicion/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sicion/)*

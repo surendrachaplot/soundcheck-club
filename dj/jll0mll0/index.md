@@ -1,6 +1,6 @@
 # Jll0Mll0
 
-Jll0Mll0 is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Portugal Madeira Club, Sydney on Fri, 2 Oct 2026.
+Jll0Mll0 is a Experimental and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Portugal Madeira Club, Sydney on Fri, 2 Oct 2026.
 
 Jll0Mll0 is an experimental and hardcore artist tracked on soundcheck, with 2 sets logged across Sydney. Often billed alongside Scariestgirlintheworld, Alice 4Ever and Blood of Aza. Next up: Portugal Madeira Club, Sydney on Fri 2 Oct.
 
@@ -18,4 +18,4 @@ Jll0Mll0 is an experimental and hardcore artist tracked on soundcheck, with 2 se
 
 Scariestgirlintheworld, Alice 4Ever, Blood of Aza
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jll0mll0/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jll0mll0/)*

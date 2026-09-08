@@ -1,8 +1,8 @@
 # Pixie Dust
 
-Pixie Dust is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Void Club, Berlin on Sat, 12 Sept 2026.
+Pixie Dust is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Void Club, Berlin on Sat, 12 Sept 2026.
 
-Pixie Dust is a techno and trance artist based in United States of America, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Morelia, Amøn and YËDM. Next up: Void Club, Berlin on Sat 12 Sept.
+Pixie Dust is a techno and trance artist based in United States of America, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Morelia, Amøn and YËDM. Next up: Void Club, Berlin on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pixie Dust is a techno and trance artist based in United States of America, trac
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Void Club | Berlin |
 | Fri, 25 Sept 2026 | Bootshaus | Cologne |
+| Fri, 2 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 24 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 
@@ -28,4 +29,4 @@ Pixie Dust is a techno and trance artist based in United States of America, trac
 
 Morelia, Amøn, YËDM
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixiedust/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pixiedust/)*

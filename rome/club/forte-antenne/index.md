@@ -1,6 +1,6 @@
 # Forte Antenne
 
-Forte Antenne is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "BCCO x Rebel Rebel ROME" on Fri, 11 Sept 2026.
+Forte Antenne is a music venue in Rome with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "BCCO x Rebel Rebel ROME" on Fri, 11 Sept 2026.
 
 Forte Antenne is a music venue in Rome listed on soundcheck. 4 upcoming nights, with line-ups including 000vda, Adiel, Dixon and fivequestionmarks and 2 more. Browse upcoming dates, start times and who's playing. Via del Forte Antenne, 12, 00199 Roma RM, Italy.
 
@@ -17,4 +17,4 @@ Forte Antenne is a music venue in Rome listed on soundcheck. 4 upcoming nights, 
 
 Via del Forte Antenne, 12, 00199 Roma RM, Italy, Rome
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*

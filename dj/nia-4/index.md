@@ -1,6 +1,6 @@
 # NIA (4)
 
-NIA (4) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Artheater, Cologne on Fri, 2 Oct 2026.
+NIA (4) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Artheater, Cologne on Fri, 2 Oct 2026.
 
 NIA (4) is a trance and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Cologne, Leipzig and Munich. Often billed alongside Amøn, Benleh and CARGO (DE). Next up: Artheater, Cologne on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ NIA (4) is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 Amøn, Benleh, CARGO (DE)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nia-4/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nia-4/)*

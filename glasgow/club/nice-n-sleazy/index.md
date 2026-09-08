@@ -1,8 +1,8 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "NIGHTSHIFT: Aidan Rei, Bnji, Shedcat, SMK" on Fri, 11 Sept 2026.
+Nice N Sleazy is a music venue in Glasgow with 14 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "NIGHTSHIFT: Aidan Rei, Bnji, Shedcat, SMK" on Fri, 11 Sept 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 13 upcoming nights, with line-ups including Angel Negrin, Casual Look, Corran and EL PADRE and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 14 upcoming nights, with line-ups including Angel Negrin, Casual Look, Corran and EL PADRE and 2 more. Browse upcoming dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
@@ -11,16 +11,16 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 13 upcoming nigh
 | Fri, 11 Sept 2026 | NIGHTSHIFT: Aidan Rei, Bnji, Shedcat, SMK | SMK (1), Shedcat |
 | Sat, 12 Sept 2026 | Bass Injection: presents - Local Frequency [DRUM & BASS] |  |
 | Sun, 13 Sept 2026 | PORTAL - Techno Journey | EL PADRE, Jay Cluss, SA:FIR |
+| Thu, 17 Sept 2026 | The 909 Society presents: BadBeat |  |
 | Fri, 18 Sept 2026 | Queer Theory: Garden of Eden | Flava J, Gabor Matty |
 | Sat, 19 Sept 2026 | Gunk w/- Scissor Salad, Alice Austin & PASO | Corran, Marky Marbles, PASO, Temple Sniper, Yuzo |
 | Sun, 20 Sept 2026 | Life Imitates Art: Live in Glasgow with DJ Lucas, Papo2oo4, Subjxct 5 |  |
 | Mon, 21 Sept 2026 | Possibly Jamie: Did It All For You |  |
 | Sat, 26 Sept 2026 | <3<3 Y2K NITE - CASUAL LOOK B2B PEARL NECKLACE <3<3 | Casual Look |
 | Thu, 1 Oct 2026 | Clear The Room presents: House & Garage |  |
-| Sat, 3 Oct 2026 | Techno Culture |  |
 
 ## Address
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

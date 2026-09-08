@@ -1,6 +1,6 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 25 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Studio Stereo pres. Algoritmo showcase" on Thu, 10 Sept 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 25 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Studio Stereo pres. Algoritmo showcase" on Thu, 10 Sept 2026.
 
 TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 25 upcoming nights, with line-ups including 3 Minds, Almuedo, Angel Mellado and Baldo and 2 more. Browse upcoming dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Fri, 25 Sept 2026 | Studio Stereo x Aadi pres. Pau Perez | Billi, Pau Pérez, Silvente, whomadeAB |
 | Sat, 26 Sept 2026 | Studio Stereo x OGE x Giralda pres. Enzo Leep | Camps (1), DJ Senc, Enzo Leep, Haydn, Hessa, Onfank, Rome (IT) |
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "CMD+JAZMINE, Nyah Cami, Saintclair" on Wed, 9 Sept 2026.
+Jupiter Disco is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "CMD+JAZMINE, Nyah Cami, Saintclair" on Wed, 9 Sept 2026.
 
 Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including ALI IRL, Brutal Twink, Caire and chicas over rice and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in Newyorkcity listed on soundcheck. 16 upcoming 
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

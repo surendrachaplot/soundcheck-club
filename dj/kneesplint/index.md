@@ -1,6 +1,6 @@
 # kneesplint
 
-kneesplint is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at ESC, Montreal on Sat, 19 Sept 2026.
+kneesplint is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at ESC, Montreal on Sat, 19 Sept 2026.
 
 kneesplint is a club and hardcore artist based in Canada, tracked on soundcheck, with 2 sets logged across Montreal. Often billed alongside the bald girl, Ard1n and Dani Rev. Next up: ESC, Montreal on Sat 19 Sept.
 
@@ -18,4 +18,4 @@ kneesplint is a club and hardcore artist based in Canada, tracked on soundcheck,
 
 the bald girl, Ard1n, Dani Rev
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kneesplint/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kneesplint/)*

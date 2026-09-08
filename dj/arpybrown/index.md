@@ -1,6 +1,6 @@
 # Arpy Brown
 
-Arpy Brown is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Apollo Club Milano, Milan on Sat, 19 Sept 2026.
+Arpy Brown is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Apollo Club Milano, Milan on Sat, 19 Sept 2026.
 
 Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 19 more. Often billed alongside Kapote, Gee Lane and Cody Currie. Next up: Apollo Club Milano, Milan on Sat 19 Sept.
 
@@ -27,4 +27,4 @@ Arpy Brown is a house and disco artist based in Germany, tracked on soundcheck, 
 
 Kapote, Gee Lane, Cody Currie
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*

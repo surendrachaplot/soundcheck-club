@@ -1,6 +1,6 @@
 # WaRoho Masquerade at The Shed at Sw19
 
-WaRoho Masquerade at The Shed at Sw19 on Sat 12 Sept, London. House and Club. Preview the line-up and save it on soundcheck.
+WaRoho Masquerade at The Shed at Sw19 on Sat 12 Sept, London. House and Garage. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "CLUBLARM" on Sat, 12 Sept 2026.
+Lasociaciøn is a music venue in Madrid with 8 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "CLUBLARM" on Sat, 12 Sept 2026.
 
 Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming nights, with line-ups including ADRI.G, Angelo Stasi, Atomic moog and Audiolux and 2 more. Browse upcoming dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
@@ -21,4 +21,4 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming nights,
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

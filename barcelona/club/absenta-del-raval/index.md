@@ -1,17 +1,18 @@
 # Absenta del Raval
 
-Absenta del Raval is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Groove Supreme *001" on Wed, 16 Sept 2026.
+Absenta del Raval is a music venue in Barcelona with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "NIGHTSHIFT" on Sat, 12 Sept 2026.
 
-Absenta del Raval is a music venue in Barcelona listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Plaça del Pes de la Palla, 5, 08001 Barcelona, España.
+Absenta del Raval is a music venue in Barcelona listed on soundcheck. 2 upcoming nights, with line-ups including Edu Cianci. Browse upcoming dates, start times and who's playing. Plaça del Pes de la Palla, 5, 08001 Barcelona, España.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Wed, 16 Sept 2026 | Groove Supreme *001 |  |
+| Sat, 12 Sept 2026 | NIGHTSHIFT |  |
+| Wed, 16 Sept 2026 | Groove Supreme *001 | Edu Cianci |
 
 ## Address
 
 Plaça del Pes de la Palla, 5, 08001 Barcelona, España, Barcelona
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/absenta-del-raval/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/absenta-del-raval/)*

@@ -1,6 +1,6 @@
 # Labüsch-Bar, Winterthur
 
-Labüsch-Bar, Winterthur is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Open Mic" on Thu, 17 Sept 2026.
+Labüsch-Bar, Winterthur is a music venue in Zurich with 2 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Open Mic" on Thu, 17 Sept 2026.
 
 Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 2 upcoming nights, with line-ups including Polo (DE). Browse upcoming dates, start times and who's playing. Zur Kesselschmiede 27, 8400 Winterthur, Switzerland.
 
@@ -15,4 +15,4 @@ Labüsch-Bar, Winterthur is a music venue in Zurich listed on soundcheck. 2 upco
 
 Zur Kesselschmiede 27, 8400 Winterthur, Switzerland, Zurich
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/lab-sch-bar-winterthur/)*

@@ -1,14 +1,13 @@
 # Green Velvet
 
-Green Velvet is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Green Velvet is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Level 1 @ Cannonball Arts, Seattle on Fri, 18 Sept 2026.
 
-Green Velvet is a house and techno artist tracked on soundcheck, with 110 sets logged across Austin, Boston, Buenosaires and Chicago and 22 more. Often billed alongside Patrick Topping, Layton Giordani and Dom Dolla. Next up: Union Park, Chicago on Fri 4 Sept.
+Green Velvet is a house and techno artist tracked on soundcheck, with 110 sets logged across Austin, Boston, Buenosaires and Chicago and 22 more. Often billed alongside Patrick Topping, Layton Giordani and Dom Dolla. Next up: Level 1 @ Cannonball Arts, Seattle on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Fri, 18 Sept 2026 | Level 1 @ Cannonball Arts | Seattle |
 | Sat, 19 Sept 2026 | Glen Helen Regional Park | Los Angeles |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
@@ -31,4 +30,4 @@ Green Velvet is a house and techno artist tracked on soundcheck, with 110 sets l
 
 Patrick Topping, Layton Giordani, Dom Dolla
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/greenvelvet/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/greenvelvet/)*

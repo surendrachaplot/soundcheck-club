@@ -1,8 +1,8 @@
 # Aeroplane
 
-Aeroplane is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Colour Factory, London on Sat, 7 Nov 2026.
+Aeroplane is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Colour Factory, London on Sat, 7 Nov 2026.
 
-Aeroplane is a disco and house artist tracked on soundcheck, with 2 sets logged across London and Mexicocity. Often billed alongside Alex Metric and Jaaw. Next up: Colour Factory, London on Sat 7 Nov.
+Aeroplane is a disco and house artist tracked on soundcheck, with 2 sets logged across London and Mexicocity. Often billed alongside Alex Metric, Alexander Robotnick and Breakbot. Next up: Colour Factory, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,6 @@ Aeroplane is a disco and house artist tracked on soundcheck, with 2 sets logged 
 
 ## Shares bills with
 
-Alex Metric, Jaaw
+Alex Metric, Alexander Robotnick, Breakbot
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aeroplane/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aeroplane/)*

@@ -1,6 +1,6 @@
 # Kiko
 
-Kiko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at MTW, Frankfurt on Fri, 2 Oct 2026.
+Kiko is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at MTW, Frankfurt on Fri, 2 Oct 2026.
 
 Kiko is a house and techno artist based in France, tracked on soundcheck, with 24 sets logged across Amsterdam, Athens, Berlin and Frankfurt and 9 more. Often billed alongside Darin Epsilon, La Forêt and Miss Monique. Next up: MTW, Frankfurt on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Kiko is a house and techno artist based in France, tracked on soundcheck, with 2
 
 Darin Epsilon, La Forêt, Miss Monique
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko/)*

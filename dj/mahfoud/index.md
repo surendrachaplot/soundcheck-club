@@ -1,6 +1,6 @@
 # Mâhfoud
 
-Mâhfoud is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Lux Fragil, Lisbon on Sat, 26 Sept 2026.
+Mâhfoud is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Lux Fragil, Lisbon on Sat, 26 Sept 2026.
 
 Mâhfoud is a house and techno artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Lisbon and Stockholm. Often billed alongside impropper, Parallelle and Holger Hecler. Next up: Lux Fragil, Lisbon on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Mâhfoud is a house and techno artist based in Netherlands, tracked on soundchec
 
 impropper, Parallelle, Holger Hecler
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahfoud/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mahfoud/)*

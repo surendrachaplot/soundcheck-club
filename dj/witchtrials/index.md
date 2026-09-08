@@ -1,13 +1,14 @@
 # Witch Trials
 
-Witch Trials is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Radial, London on Fri, 2 Oct 2026.
+Witch Trials is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Phonica Records, London on Thu, 17 Sept 2026.
 
-Witch Trials is a techno and club artist based in Ireland, tracked on soundcheck, with 7 sets logged across Berlin and London. Often billed alongside Sub Basics, Anna Kost and DJ PERIODT. Next up: Radial, London on Fri 2 Oct.
+Witch Trials is a techno and house artist based in Ireland, tracked on soundcheck, with 8 sets logged across Berlin and London. Often billed alongside Sub Basics, Anna Kost and DJ PERIODT. Next up: Phonica Records, London on Thu 17 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 17 Sept 2026 | Phonica Records | London |
 | Fri, 2 Oct 2026 | Radial | London |
 
 ## Recently played
@@ -23,4 +24,4 @@ Witch Trials is a techno and club artist based in Ireland, tracked on soundcheck
 
 Sub Basics, Anna Kost, DJ PERIODT
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/witchtrials/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/witchtrials/)*

@@ -1,6 +1,6 @@
 # Dee James
 
-Dee James is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Buda BXL, Brussels on Sat, 26 Sept 2026.
+Dee James is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Buda BXL, Brussels on Sat, 26 Sept 2026.
 
 Dee James is a house and techno artist tracked on soundcheck, with 2 sets logged across Brussels and London. Often billed alongside 2 Bad Mice, AMARE and Ben Jammin. Next up: Buda BXL, Brussels on Sat 26 Sept.
 
@@ -18,4 +18,4 @@ Dee James is a house and techno artist tracked on soundcheck, with 2 sets logged
 
 2 Bad Mice, AMARE, Ben Jammin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dee_james/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dee_james/)*

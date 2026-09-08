@@ -1,8 +1,8 @@
 # SMG (UK)
 
-SMG (UK) is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
+SMG (UK) is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sawmills, Bristol on Sat, 12 Sept 2026.
 
-SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 10 sets logged across Bristol, London, Madrid and Malta and 4 more. Often billed alongside Waeys, Calyx and Skantia. Next up: Sawmills, Bristol on Sat 12 Sept.
+SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 11 sets logged across Bristol, Leipzig, London and Madrid and 5 more. Often billed alongside Waeys, Calyx and Skantia. Next up: Sawmills, Bristol on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 10 sets 
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Sawmills | Bristol |
 | Sat, 19 Sept 2026 | Grelle Forelle | Vienna |
+| Fri, 2 Oct 2026 | Distillery | Leipzig |
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 
@@ -26,4 +27,4 @@ SMG (UK) is a drum & bass and jungle artist tracked on soundcheck, with 10 sets 
 
 Waeys, Calyx, Skantia
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/smguk/)*

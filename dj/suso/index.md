@@ -1,6 +1,6 @@
 # SUSØ
 
-SUSØ is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
+SUSØ is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Port Olimpic, Barcelona on Fri, 11 Sept 2026.
 
 SUSØ is a house and afro house artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Fat-P, Giuliano and Eze k. Next up: Port Olimpic, Barcelona on Fri 11 Sept.
 
@@ -22,4 +22,4 @@ SUSØ is a house and afro house artist based in Spain, tracked on soundcheck, wi
 
 Fat-P, Giuliano, Eze k
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suso/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suso/)*

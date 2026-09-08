@@ -1,6 +1,6 @@
 # Hekato
 
-Hekato is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
+Hekato is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 19 Sept 2026.
 
 Hekato is a techno and house artist tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Hamburg and Krakow and 2 more. Often billed alongside Jin-Su, Mislaw and Lucyd. Next up: Lokschuppen Berlin, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ Hekato is a techno and house artist tracked on soundcheck, with 37 sets logged a
 
 Jin-Su, Mislaw, Lucyd
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hekato/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hekato/)*

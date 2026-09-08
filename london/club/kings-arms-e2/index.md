@@ -1,8 +1,8 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Kings Turntable: The CUSP & Jimmy Martin [12.09.2026]" on Sat, 12 Sept 2026.
+Kings Arms E2 is a music venue in London with 16 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Kings Turntable: The CUSP & Jimmy Martin [12.09.2026]" on Sat, 12 Sept 2026.
 
-Kings Arms E2 is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Foshay, NOYB and Nunonunonuno. Browse upcoming dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
+Kings Arms E2 is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including DJ Migz, Foshay, NOYB and Nunonunonuno. Browse upcoming dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 9 upcoming nights
 | Sat, 3 Oct 2026 | Kings Turntable: Foshay [03.10.26] | Foshay |
 | Sun, 4 Oct 2026 | Vinyl Open Decks with George Kerr [04.10.26] |  |
 | Sat, 10 Oct 2026 | Kings Turntable [10.10.26] |  |
+| Sun, 11 Oct 2026 | Kings Turntable: Gordon Wedderburn [11.10.26] |  |
 
 ## Address
 
 11A Buckfast St, London, E2 6EY, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*

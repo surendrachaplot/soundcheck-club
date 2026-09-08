@@ -1,6 +1,6 @@
 # MAD Radio NYC
 
-MAD Radio NYC is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "LEFOU'S SWING" on Wed, 9 Sept 2026.
+MAD Radio NYC is a music venue in New York City with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "LEFOU'S SWING" on Wed, 9 Sept 2026.
 
 MAD Radio NYC is a music venue in Newyorkcity listed on soundcheck. 4 upcoming nights, with line-ups including Auphoria, Ben Wild, Latas and Manny Ward and 1 more. Browse upcoming dates, start times and who's playing. 395 WYTHE AVE, BROOKLYN, NEW YORK.
 
@@ -17,4 +17,4 @@ MAD Radio NYC is a music venue in Newyorkcity listed on soundcheck. 4 upcoming n
 
 395 WYTHE AVE, BROOKLYN, NEW YORK, New York City
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*

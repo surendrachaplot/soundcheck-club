@@ -1,13 +1,14 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "HOUSE OF GOLD" on Fri, 11 Sept 2026.
+Unter Deck is a music venue in Munich with 7 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Isarbass im Unter Deck" on Wed, 9 Sept 2026.
 
-Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming nights, with line-ups including David Franz, Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and Käthe & Haes and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
+Unter Deck is a music venue in Munich listed on soundcheck. 7 upcoming nights, with line-ups including David Franz, Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and Käthe & Haes and 2 more. Browse upcoming dates, start times and who's playing. Oberanger 26, 80331 München.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Wed, 9 Sept 2026 | Isarbass im Unter Deck |  |
 | Fri, 11 Sept 2026 | HOUSE OF GOLD | David Franz, Käthe & Haes, Max Lessig |
 | Wed, 16 Sept 2026 | Electroamore im Unter Deck | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Safahs |
 | Tue, 6 Oct 2026 | Tuesday in Love: DJ FREUND all night long | DJ FM & DJ FREUND |
@@ -19,4 +20,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 6 upcoming nights, w
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

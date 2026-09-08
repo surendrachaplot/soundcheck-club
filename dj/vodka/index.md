@@ -1,6 +1,6 @@
 # Vodka
 
-Vodka is a Drum & Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 12 Sept 2026.
+Vodka is a Drum & Bass and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Geary Avenue Warehouse Project, Toronto on Sat, 12 Sept 2026.
 
 Vodka is a drum & bass and hip-hop artist based in Canada, tracked on soundcheck, with 9 sets logged across Toronto. Often billed alongside Mrii, Angelphroot and Dargan. Next up: Geary Avenue Warehouse Project, Toronto on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Vodka is a drum & bass and hip-hop artist based in Canada, tracked on soundcheck
 
 Mrii, Angelphroot, Dargan
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vodka/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vodka/)*

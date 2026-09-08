@@ -1,6 +1,6 @@
 # mogli (2)
 
-mogli (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Corleone, Munich on Fri, 18 Sept 2026.
+mogli (2) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Corleone, Munich on Fri, 18 Sept 2026.
 
 mogli (2) is a tech house and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Cologne and Munich. Often billed alongside Aries, Feldberg and Neverglass. Next up: Corleone, Munich on Fri 18 Sept.
 
@@ -20,4 +20,4 @@ mogli (2) is a tech house and house artist based in Germany, tracked on soundche
 
 Aries, Feldberg, Neverglass
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mogli-2/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mogli-2/)*

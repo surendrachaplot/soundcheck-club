@@ -1,6 +1,6 @@
 # Nymphostar
 
-Nymphostar is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Paragon, New York City on Sat, 12 Sept 2026.
+Nymphostar is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Paragon, New York City on Sat, 12 Sept 2026.
 
 Nymphostar is a techno and club artist tracked on soundcheck, with 32 sets logged across Newyorkcity and Washingtondc. Often billed alongside jo_sway, &more and Xana 101. Next up: Paragon, Newyorkcity on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Nymphostar is a techno and club artist tracked on soundcheck, with 32 sets logge
 
 jo_sway, &more, Xana 101
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nymphostar/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nymphostar/)*

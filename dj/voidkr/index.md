@@ -1,6 +1,6 @@
 # VOID (KR)
 
-VOID (KR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Blank Site, Seoul on Sat, 19 Sept 2026.
+VOID (KR) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Blank Site, Seoul on Sat, 19 Sept 2026.
 
 VOID (KR) is a techno and house artist based in South Korea, tracked on soundcheck, with 42 sets logged across Berlin, Ibiza, Seoul and Tokyo. Often billed alongside HASLA, R.I.M and Kim.Qna. Next up: Blank Site, Seoul on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ VOID (KR) is a techno and house artist based in South Korea, tracked on soundche
 
 HASLA, R.I.M, Kim.Qna
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voidkr/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/voidkr/)*

@@ -1,6 +1,6 @@
 # Live at St Giles
 
-Live at St Giles is a music venue in London with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Dave Bixby, live in London" on Sun, 20 Sept 2026.
+Live at St Giles is a music venue in London with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Dave Bixby, live in London" on Sun, 20 Sept 2026.
 
 Live at St Giles is a music venue in London listed on soundcheck. 1 upcoming night, with line-ups including Zakia. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Live at St Giles is a music venue in London listed on soundcheck. 1 upcoming nig
 | --- | --- | --- |
 | Sun, 20 Sept 2026 | Dave Bixby, live in London | Zakia |
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/live-at-st-giles/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/live-at-st-giles/)*

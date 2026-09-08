@@ -1,6 +1,6 @@
 # Billy Mason
 
-Billy Mason is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Ijland, Amsterdam on Sat, 3 Oct 2026.
+Billy Mason is a House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Ijland, Amsterdam on Sat, 3 Oct 2026.
 
 Billy Mason is a house artist based in Netherlands, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Brian S. and Erick E. Next up: Ijland, Amsterdam on Sat 3 Oct.
 
@@ -14,4 +14,4 @@ Billy Mason is a house artist based in Netherlands, tracked on soundcheck, with 
 
 Brian S., Erick E
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billymason/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/billymason/)*

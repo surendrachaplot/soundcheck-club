@@ -1,8 +1,8 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 14 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "#MITTWOCHENENDE in Odonien" on Wed, 9 Sept 2026.
+Odonien is a music venue in Cologne with 15 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "#MITTWOCHENENDE in Odonien" on Wed, 9 Sept 2026.
 
-Odonien is a music venue in Cologne listed on soundcheck. 14 upcoming nights, with line-ups including Aio, An On Bast, Bergen and Chris Schwarzwälder and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
+Odonien is a music venue in Cologne listed on soundcheck. 15 upcoming nights, with line-ups including Aio, An On Bast, Bergen and Chris Schwarzwälder and 2 more. Browse upcoming dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Odonien is a music venue in Cologne listed on soundcheck. 14 upcoming nights, wi
 | Wed, 23 Sept 2026 | #MITTWOCHENENDE in Odonien |  |
 | Fri, 25 Sept 2026 | Systematic Cologne | An On Bast, Drumcomplex, Frank Sonic, Marc Romboy, Robert Babicz |
 | Sat, 26 Sept 2026 | Lichtblick in Odonien - 3 Clubs 1 Rave |  |
-| Wed, 30 Sept 2026 | #MITTWOCHENENDE in Odonien |  |
+| Sat, 26 Sept 2026 | Odonien Open Air x Dominik Eulberg & Jonathan Kaspar | Dominik Eulberg, Jonathan Kaspar |
 
 ## Address
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

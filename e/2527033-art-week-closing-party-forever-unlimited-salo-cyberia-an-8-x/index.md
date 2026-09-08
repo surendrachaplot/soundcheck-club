@@ -1,6 +1,6 @@
 # Art Week Closing Party - forever unlimited, salo, CYBERIA & an(8)x at TBA - Warschauer Pl. 18, 10245 Berlin
 
-Art Week Closing Party - forever unlimited, salo, CYBERIA & an(8)x at TBA - Warschauer Pl. 18, 10245 Berlin on Sat 12 Sept, Berlin. 22 acts on the bill: Abyss X, Alphonsine Koh, BERLIN and Ceili and 18 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Art Week Closing Party - forever unlimited, salo, CYBERIA & an(8)x at TBA - Warschauer Pl. 18, 10245 Berlin on Sat 12 Sept, Berlin. 23 acts on the bill: Abyss X, Alphonsine Koh, BERLIN and Ceili and 19 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,6 +21,7 @@ Art Week Closing Party - forever unlimited, salo, CYBERIA & an(8)x at TBA - Wars
 - kjjabber
 - KOPI O
 - LIL RISK
+- Lü (Luis Küffner)
 - Midnight Climax
 - mu”he
 - Namzanil

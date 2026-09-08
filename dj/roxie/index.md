@@ -1,6 +1,6 @@
 # Roxie
 
-Roxie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at CÉ LA VI, London on Sat, 3 Oct 2026.
+Roxie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at CÉ LA VI, London on Sat, 3 Oct 2026.
 
 Roxie is a techno and house artist tracked on soundcheck, with 25 sets logged across London. Often billed alongside Roxie Li, Innerstice and Redfreya. Next up: CÉ LA VI, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Roxie is a techno and house artist tracked on soundcheck, with 25 sets logged ac
 
 Roxie Li, Innerstice, Redfreya
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxie/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxie/)*

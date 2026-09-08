@@ -1,8 +1,8 @@
 # Victor Ruiz
 
-Victor Ruiz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Lofi, Amsterdam on Fri, 25 Sept 2026.
+Victor Ruiz is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Lofi, Amsterdam on Fri, 25 Sept 2026.
 
-Victor Ruiz is a techno and trance artist tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Bali and Bangkok and 39 more. Often billed alongside Bart Skils, Alex Stein and Sama' Abdulhadi. Next up: Lofi, Amsterdam on Fri 25 Sept.
+Victor Ruiz is a techno and trance artist tracked on soundcheck, with 101 sets logged across Amsterdam, Austin, Bali and Bangkok and 39 more. Often billed alongside Bart Skils, Alex Stein and Sama' Abdulhadi. Next up: Lofi, Amsterdam on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Victor Ruiz is a techno and trance artist tracked on soundcheck, with 100 sets l
 | --- | --- | --- |
 | Fri, 25 Sept 2026 | Lofi | Amsterdam |
 | Sat, 10 Oct 2026 | Kassa Boat | Budapest |
+| Fri, 23 Oct 2026 | Halcyon | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
@@ -27,4 +28,4 @@ Victor Ruiz is a techno and trance artist tracked on soundcheck, with 100 sets l
 
 Bart Skils, Alex Stein, Sama' Abdulhadi
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victorruiz/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/victorruiz/)*

@@ -1,6 +1,6 @@
 # buktuu
 
-buktuu is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Void Club, Berlin on Sat, 19 Sept 2026.
+buktuu is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Void Club, Berlin on Sat, 19 Sept 2026.
 
 buktuu is a drum & bass and techno artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside Upzet, Bäggy and Dino S. Next up: Void Club, Berlin on Sat 19 Sept.
 
@@ -19,4 +19,4 @@ buktuu is a drum & bass and techno artist based in Germany, tracked on soundchec
 
 Upzet, Bäggy, Dino S
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buktuu/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/buktuu/)*

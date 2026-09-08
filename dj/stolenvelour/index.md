@@ -1,6 +1,6 @@
 # Stolen Velour
 
-Stolen Velour is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Vespers Club, London on Fri, 25 Sept 2026.
+Stolen Velour is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Vespers Club, London on Fri, 25 Sept 2026.
 
 Stolen Velour is a club and bass artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Berlin, Bristol, Brussels and Glasgow and 7 more. Often billed alongside Princess Elf Bar, Aria SL and AYDJ. Next up: Vespers Club, London on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Stolen Velour is a club and bass artist based in United Kingdom, tracked on soun
 
 Princess Elf Bar, Aria SL, AYDJ
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stolenvelour/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stolenvelour/)*

@@ -1,14 +1,13 @@
 # ZiMMT
 
-ZiMMT is a music venue in Leipzig with 11 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "AV- Labor (Workshop Blender)" on Mon, 7 Sept 2026.
+ZiMMT is a music venue in Leipzig with 12 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Deufels Küche Pop-up Küche im ZiMMT" on Wed, 16 Sept 2026.
 
-ZiMMT is a music venue in Leipzig listed on soundcheck. 11 upcoming nights. Browse upcoming dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
+ZiMMT is a music venue in Leipzig listed on soundcheck. 12 upcoming nights. Browse upcoming dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | AV- Labor (Workshop Blender) |  |
 | Wed, 16 Sept 2026 | Deufels Küche Pop-up Küche im ZiMMT |  |
 | Mon, 21 Sept 2026 | AV-Labor (Workshop Fieldrecordings und DYI Sampling Techniken) |  |
 | Wed, 23 Sept 2026 | RAUM+KLANG 2026 Konferenz für Spatial Audio & immersive Medien |  |
@@ -18,9 +17,10 @@ ZiMMT is a music venue in Leipzig listed on soundcheck. 11 upcoming nights. Brow
 | Sat, 3 Oct 2026 | Ich bin mir selber fremd geworden (immersive Performance) |  |
 | Sun, 4 Oct 2026 | Ich bin mir selber fremd geworden (immersive Performance) |  |
 | Mon, 5 Oct 2026 | AV- Labor (Workshop Fashion Design Software Clo3D) |  |
+| Thu, 8 Oct 2026 | SWIM N°4 immersive Klanginstallation von Christina Kubisch |  |
 
 ## Address
 
 Torgauer Str. 80, 04318 Leipzig, Germany, Leipzig
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*

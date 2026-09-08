@@ -1,6 +1,6 @@
 # Sticky Dub
 
-Sticky Dub is a Broken Beat and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 25 Sept 2026.
+Sticky Dub is a Broken Beat and House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at 24 Kitchen Street, Liverpool on Fri, 25 Sept 2026.
 
 Sticky Dub is a broken beat and house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, Brighton, Bristol and Leeds and 4 more. Often billed alongside Alexander Nut, Saige Sounds and Beat Detective. Next up: 24 Kitchen Street, Liverpool on Fri 25 Sept.
 
@@ -27,4 +27,4 @@ Sticky Dub is a broken beat and house artist based in United Kingdom, tracked on
 
 Alexander Nut, Saige Sounds, Beat Detective
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stickydub/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stickydub/)*

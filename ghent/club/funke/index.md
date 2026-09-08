@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a music venue in Ghent with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Funke_Phase Four with Lobster" on Fri, 11 Sept 2026.
+Funke is a music venue in Ghent with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Funke_Phase Four with Lobster" on Fri, 11 Sept 2026.
 
 Funke is a music venue in Ghent listed on soundcheck. 3 upcoming nights, with line-ups including BLANKA, Formwandler, Lefto Early Bird and Lobster (NL) and 2 more. Browse upcoming dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
@@ -16,4 +16,4 @@ Funke is a music venue in Ghent listed on soundcheck. 3 upcoming nights, with li
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

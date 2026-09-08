@@ -1,6 +1,6 @@
 # slugg
 
-slugg is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+slugg is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 slugg is a tech house and house artist tracked on soundcheck, with 84 sets logged across Austin, Boston, Chicago and Denver and 11 more. Often billed alongside Lousy Lover, Ms. Mada and ChaseWest. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ slugg is a tech house and house artist tracked on soundcheck, with 84 sets logge
 
 Lousy Lover, Ms. Mada, ChaseWest
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*

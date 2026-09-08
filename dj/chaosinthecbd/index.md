@@ -1,14 +1,13 @@
 # Chaos In The CBD
 
-Chaos In The CBD is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Chaos In The CBD is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at 528 Ibiza, Ibiza on Tue, 29 Sept 2026.
 
-Chaos In The CBD is a house and techno artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Auckland and Bali and 55 more. Often billed alongside Sally C, Seth Troxler and Ben UFO. Next up: Union Park, Chicago on Fri 4 Sept.
+Chaos In The CBD is a house and techno artist tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Auckland and Bali and 55 more. Often billed alongside Sally C, Seth Troxler and Ben UFO. Next up: 528 Ibiza, Ibiza on Tue 29 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Tue, 29 Sept 2026 | 528 Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | UMI | Brussels |
 | Sun, 11 Oct 2026 | Les Enfants Brillants | Barcelona |
@@ -29,4 +28,4 @@ Chaos In The CBD is a house and techno artist tracked on soundcheck, with 209 se
 
 Sally C, Seth Troxler, Ben UFO
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*

@@ -1,14 +1,15 @@
 # Baliology
 
-Baliology is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
+Baliology is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
 
-Baliology is a deep house and progressive house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Yvo J, DJ Ruby and Emi Galvan. Next up: Veronica Schip, Amsterdam on Fri 23 Oct.
+Baliology is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Yvo J, DJ Ruby and NOIYSE PROJECT. Next up: Veronica Schip, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Veronica Schip | Amsterdam |
+| Sat, 24 Oct 2026 | Akhnaton | Amsterdam |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Baliology is a deep house and progressive house artist based in Netherlands, tra
 
 ## Shares bills with
 
-Yvo J, DJ Ruby, Emi Galvan
+Yvo J, DJ Ruby, NOIYSE PROJECT
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baliology/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baliology/)*

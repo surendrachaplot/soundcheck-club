@@ -1,6 +1,6 @@
 # NYRA (DE)
 
-NYRA (DE) is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - TERMINAL SABADELL, Barcelona on Thu, 10 Sept 2026.
+NYRA (DE) is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - TERMINAL SABADELL, Barcelona on Thu, 10 Sept 2026.
 
 NYRA (DE) is a techno and trance artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside davyboi, Bruno Brero and Cara Elizabeth. Next up: TBA - TERMINAL SABADELL, Barcelona on Thu 10 Sept.
 
@@ -30,4 +30,4 @@ NYRA (DE) is a techno and trance artist based in Germany, tracked on soundcheck,
 
 davyboi, Bruno Brero, Cara Elizabeth
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*

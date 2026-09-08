@@ -1,6 +1,6 @@
 # Lorenzo Mancino
 
-Lorenzo Mancino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA, Hamburg on Sat, 31 Oct 2026.
+Lorenzo Mancino is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA, Hamburg on Sat, 31 Oct 2026.
 
 Lorenzo Mancino is a house and techno artist tracked on soundcheck, with 3 sets logged across Berlin and Hamburg. Often billed alongside AKIIM, Cryptofauna and DE.fine. Next up: TBA, Hamburg on Sat 31 Oct.
 
@@ -19,4 +19,4 @@ Lorenzo Mancino is a house and techno artist tracked on soundcheck, with 3 sets 
 
 AKIIM, Cryptofauna, DE.fine
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzomancino/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzomancino/)*

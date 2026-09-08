@@ -1,6 +1,6 @@
 # B2BEATCHES
 
-B2BEATCHES is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Œlgarten, Berlin on Sun, 13 Sept 2026.
+B2BEATCHES is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Œlgarten, Berlin on Sun, 13 Sept 2026.
 
 B2BEATCHES is an electro and house artist tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside BENGALA, DJ AYA and DJ Fuckoff. Next up: Œlgarten, Berlin on Sun 13 Sept.
 
@@ -19,4 +19,4 @@ B2BEATCHES is an electro and house artist tracked on soundcheck, with 3 sets log
 
 BENGALA, DJ AYA, DJ Fuckoff
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b2beatches/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b2beatches/)*

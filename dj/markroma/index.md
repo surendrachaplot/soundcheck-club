@@ -1,6 +1,6 @@
 # Mark Roma
 
-Mark Roma is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Mark Roma is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Mark Roma is a techno and trance artist tracked on soundcheck, with 8 sets logged across Amsterdam, Cologne and London. Often billed alongside Fernweh (2), MEAKIN and Alythia Kwan. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Mark Roma is a techno and trance artist tracked on soundcheck, with 8 sets logge
 
 Fernweh (2), MEAKIN, Alythia Kwan
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markroma/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markroma/)*

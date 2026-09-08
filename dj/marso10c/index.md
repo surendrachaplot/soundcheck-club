@@ -1,8 +1,8 @@
 # Mars O10C
 
-Mars O10C is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Le Trabendo, Paris on Sat, 12 Sept 2026.
+Mars O10C is a Techno and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Le Trabendo, Paris on Sat, 12 Sept 2026.
 
-Mars O10C is a progressive house and techno artist tracked on soundcheck, with 53 sets logged across Berlin, Brussels, Leipzig and London and 4 more. Often billed alongside Julie Desire, Jolly (FR) and A-440. Next up: Le Trabendo, Paris on Sat 12 Sept.
+Mars O10C is a techno and progressive house artist tracked on soundcheck, with 54 sets logged across Berlin, Brussels, Leipzig and London and 4 more. Often billed alongside Julie Desire, Jolly (FR) and A-440. Next up: Le Trabendo, Paris on Sat 12 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mars O10C is a progressive house and techno artist tracked on soundcheck, with 5
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Le Trabendo | Paris |
 | Fri, 2 Oct 2026 | Macadam | Nantes |
+| Sat, 31 Oct 2026 | essaim | Paris |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mars O10C is a progressive house and techno artist tracked on soundcheck, with 5
 
 Julie Desire, Jolly (FR), A-440
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marso10c/)*

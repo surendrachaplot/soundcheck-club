@@ -1,6 +1,6 @@
 # DJ Sega
 
-DJ Sega is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Bastet, Philadelphia on Fri, 25 Sept 2026.
+DJ Sega is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Bastet, Philadelphia on Fri, 25 Sept 2026.
 
 DJ Sega is a club and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Newyorkcity, Philadelphia and Washingtondc. Often billed alongside Traps N Trees, DJ Reezey and low iron. Next up: Bastet, Philadelphia on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ DJ Sega is a club and techno artist based in United States of America, tracked o
 
 Traps N Trees, DJ Reezey, low iron
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsega/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsega/)*

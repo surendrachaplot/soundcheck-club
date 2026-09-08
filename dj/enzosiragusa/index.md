@@ -1,6 +1,6 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
+Enzo Siragusa is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at UNO MALTA, Malta on Thu, 17 Sept 2026.
 
 Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Austin, Bali and Barcelona and 41 more. Often billed alongside Laidlaw, Traumer and Josh Baker. Next up: UNO MALTA, Malta on Thu 17 Sept.
 
@@ -32,4 +32,4 @@ Enzo Siragusa is a house and tech house artist tracked on soundcheck, with 194 s
 
 Laidlaw, Traumer, Josh Baker
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

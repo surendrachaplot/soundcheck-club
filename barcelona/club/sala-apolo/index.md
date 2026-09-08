@@ -1,17 +1,20 @@
 # Sala Apolo
 
-Sala Apolo is a music venue in Barcelona with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Digitalism - Barcelona" on Sat, 31 Oct 2026.
+Sala Apolo is a music venue in Barcelona with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Apologia X Latin Arab Club: Soumeya + Angela Blackburn + La Louuve + Arrebo.lab" on Sat, 12 Sept 2026.
 
-Sala Apolo is a music venue in Barcelona listed on soundcheck. 1 upcoming night, with line-ups including Digitalism. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
+Sala Apolo is a music venue in Barcelona listed on soundcheck. 4 upcoming nights, with line-ups including ASHTATTZ, Digitalism, EYRA and Miramizu and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
+| Sat, 12 Sept 2026 | Apologia X Latin Arab Club: Soumeya + Angela Blackburn + La Louuve + Arrebo.lab |  |
+| Sat, 19 Sept 2026 | Apologia X TAKHNIS: ASHTATTZ + Yazmina Gasolina + Salma Zahore + Tanios AK + Daena.Zem | ASHTATTZ, Yazmina Gasolina |
+| Sat, 26 Sept 2026 | Apologia X POLYGLOT: Miramizu + EYRA + MUCK | EYRA, MUCK, Miramizu |
 | Sat, 31 Oct 2026 | Digitalism - Barcelona | Digitalism |
 
 ## Address
 
 Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain, Barcelona
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*

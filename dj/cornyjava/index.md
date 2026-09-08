@@ -1,6 +1,6 @@
 # Cornyjava
 
-Cornyjava is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
+Cornyjava is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
 
 Cornyjava is a tech house and techno artist tracked on soundcheck, with 10 sets logged across Hamburg. Often billed alongside F!NN, Limpid and EXPLICIT. Next up: Fabrique im Gängeviertel, Hamburg on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Cornyjava is a tech house and techno artist tracked on soundcheck, with 10 sets 
 
 F!NN, Limpid, EXPLICIT
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cornyjava/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cornyjava/)*

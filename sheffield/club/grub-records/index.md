@@ -1,8 +1,8 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Steel Frequencies" on Thu, 10 Sept 2026.
+Grub Records is a music venue in Sheffield with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Steel Frequencies" on Thu, 10 Sept 2026.
 
-Grub Records is a music venue in Sheffield listed on soundcheck. 5 upcoming nights, with line-ups including Hames, Holon._ and sleepsang. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
+Grub Records is a music venue in Sheffield listed on soundcheck. 6 upcoming nights, with line-ups including Hames, Holon._ and sleepsang. Browse upcoming dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 5 upcoming nigh
 | Thu, 10 Sept 2026 | Steel Frequencies |  |
 | Fri, 11 Sept 2026 | Side5tep x Hames - sleepsang - Holon | Hames, Holon._, sleepsang |
 | Sat, 12 Sept 2026 | RSI_01 |  |
+| Fri, 18 Sept 2026 | The Soft Drop |  |
 | Fri, 25 Sept 2026 | MCS |  |
 | Sat, 26 Sept 2026 | Polyphonic Pop-Up |  |
 
@@ -18,4 +19,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 5 upcoming nigh
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

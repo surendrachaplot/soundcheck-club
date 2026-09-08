@@ -1,6 +1,6 @@
 # Contours
 
-Contours is a Deep House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Eastern Bloc Records, Manchester on Thu, 24 Sept 2026.
+Contours is a Deep House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Eastern Bloc Records, Manchester on Thu, 24 Sept 2026.
 
 Contours is a deep house and broken beat artist tracked on soundcheck, with 23 sets logged across Bristol, Manchester, Newcastle and Sheffield. Often billed alongside Yadava, King Kit and Admin. Next up: Eastern Bloc Records, Manchester on Thu 24 Sept.
 
@@ -25,4 +25,4 @@ Contours is a deep house and broken beat artist tracked on soundcheck, with 23 s
 
 Yadava, King Kit, Admin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/contours/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/contours/)*

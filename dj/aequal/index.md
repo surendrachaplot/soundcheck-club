@@ -1,6 +1,6 @@
 # ÆQUAL
 
-ÆQUAL is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 26 Sept 2026.
+ÆQUAL is a electronic artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Tempio del Futuro Perduto, Milan on Sat, 26 Sept 2026.
 
 ÆQUAL is an electronic artist based in Italy, tracked on soundcheck, with 3 sets logged across Milan. Often billed alongside Acidalia, Alimac and Elisa Bee. Next up: Tempio del Futuro Perduto, Milan on Sat 26 Sept.
 
@@ -19,4 +19,4 @@
 
 Acidalia, Alimac, Elisa Bee
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aequal/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aequal/)*

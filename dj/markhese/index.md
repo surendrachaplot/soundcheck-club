@@ -1,6 +1,6 @@
 # Markhese
 
-Markhese is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Nicholas Groente & Fruit, Amsterdam on Wed, 21 Oct 2026.
+Markhese is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Nicholas Groente & Fruit, Amsterdam on Wed, 21 Oct 2026.
 
 Markhese is a house and tech house artist tracked on soundcheck, with 3 sets logged across Amsterdam and Singapore. Often billed alongside DJ Kay, Doreen Van Steen and Fein Cerra. Next up: Nicholas Groente & Fruit, Amsterdam on Wed 21 Oct.
 
@@ -19,4 +19,4 @@ Markhese is a house and tech house artist tracked on soundcheck, with 3 sets log
 
 DJ Kay, Doreen Van Steen, Fein Cerra
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markhese/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markhese/)*

@@ -1,6 +1,6 @@
 # EIJI
 
-EIJI is a Drum & Bass and Jungle artist with 12 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Shibuya OTO, Tokyo on Sat, 12 Sept 2026.
+EIJI is a Drum & Bass and Jungle artist with 12 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Shibuya OTO, Tokyo on Sat, 12 Sept 2026.
 
 EIJI is a drum & bass and jungle artist based in Japan, tracked on soundcheck, with 13 sets logged across Melbourne and Tokyo. Often billed alongside vinylDJ Eiji Takehana, Kenta Tominaga and Hironobu Jyounai. Next up: Shibuya OTO, Tokyo on Sat 12 Sept.
 
@@ -29,4 +29,4 @@ EIJI is a drum & bass and jungle artist based in Japan, tracked on soundcheck, w
 
 vinylDJ Eiji Takehana, Kenta Tominaga, Hironobu Jyounai
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eiji/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eiji/)*

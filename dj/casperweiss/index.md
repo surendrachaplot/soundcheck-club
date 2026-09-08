@@ -1,13 +1,14 @@
 # Casper Weiss
 
-Casper Weiss is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA, Warsaw on Fri, 18 Sept 2026.
+Casper Weiss is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Smolna, Warsaw on Wed, 16 Sept 2026.
 
-Casper Weiss is a techno and trance artist tracked on soundcheck, with 3 sets logged across Warsaw. Often billed alongside Claude Degas, Józef Keuner and Medzz. Next up: TBA, Warsaw on Fri 18 Sept.
+Casper Weiss is a house and techno artist tracked on soundcheck, with 4 sets logged across Warsaw. Often billed alongside Claude Degas, Józef Keuner and Medzz. Next up: Smolna, Warsaw on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 16 Sept 2026 | Smolna | Warsaw |
 | Fri, 18 Sept 2026 | TBA | Warsaw |
 
 ## Recently played
@@ -19,4 +20,4 @@ Casper Weiss is a techno and trance artist tracked on soundcheck, with 3 sets lo
 
 Claude Degas, Józef Keuner, Medzz
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casperweiss/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/casperweiss/)*

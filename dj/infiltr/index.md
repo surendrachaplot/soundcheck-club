@@ -1,6 +1,6 @@
 # InFiltr
 
-InFiltr is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Le Livart, Montreal on Sat, 12 Sept 2026.
+InFiltr is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Le Livart, Montreal on Sat, 12 Sept 2026.
 
 InFiltr is a techno and acid artist tracked on soundcheck, with 25 sets logged across Montreal. Often billed alongside Daroach, Claudel and Sharky (MTL). Next up: Le Livart, Montreal on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ InFiltr is a techno and acid artist tracked on soundcheck, with 25 sets logged a
 
 Daroach, Claudel, Sharky (MTL)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infiltr/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/infiltr/)*

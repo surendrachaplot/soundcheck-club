@@ -1,6 +1,6 @@
 # WILDERÍCH
 
-WILDERÍCH is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
+WILDERÍCH is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu, 24 Sept 2026.
 
 WILDERÍCH is a techno and trance artist tracked on soundcheck, with 88 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Thu 24 Sept.
 
@@ -28,4 +28,4 @@ WILDERÍCH is a techno and trance artist tracked on soundcheck, with 88 sets log
 
 zwilling., Serafina, Adrian Mills
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*

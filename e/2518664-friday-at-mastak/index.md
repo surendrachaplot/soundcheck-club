@@ -1,6 +1,6 @@
 # Friday at Mastak
 
-Friday at Mastak on Fri 25 Sept, Warsaw. 5 acts on the bill: AilinDeSha*, FM (PL), Gagarin and Maria Pozhar and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Friday at Mastak on Fri 25 Sept, Warsaw. 6 acts on the bill: AilinDeSha*, Alex Kosta, FM (PL) and Gagarin and 2 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Friday at Mastak on Fri 25 Sept, Warsaw. 5 acts on the bill: AilinDeSha*, FM (PL
 ## Line-up
 
 - AilinDeSha*
+- Alex Kosta
 - FM (PL)
 - Gagarin
 - Maria Pozhar

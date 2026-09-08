@@ -1,6 +1,6 @@
 # Arton (CZ)
 
-Arton (CZ) is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 25 Sept 2026.
+Arton (CZ) is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 25 Sept 2026.
 
 Arton (CZ) is a techno and downtempo artist tracked on soundcheck, with 11 sets logged across Prague. Often billed alongside Axis Alpha, Eva Falt and ka.za. Next up: Ankali & Planeta Za, Prague on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Arton (CZ) is a techno and downtempo artist tracked on soundcheck, with 11 sets 
 
 Axis Alpha, Eva Falt, ka.za
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artoncz/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/artoncz/)*

@@ -1,14 +1,15 @@
 # Anna Tur
 
-Anna Tur is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 16 Sept 2026.
+Anna Tur is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Wed, 16 Sept 2026.
 
-Anna Tur is a techno and house artist based in Spain, tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside STELLA BOSSI, ASK:ME and Carl Cox. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 16 Sept.
+Anna Tur is a techno and house artist based in Spain, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside STELLA BOSSI, ASK:ME and Carl Cox. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Wed 16 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 16 Sept 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Thu, 24 Sept 2026 | Gallery | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Anna Tur is a techno and house artist based in Spain, tracked on soundcheck, wit
 
 STELLA BOSSI, ASK:ME, Carl Cox
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annatur/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annatur/)*

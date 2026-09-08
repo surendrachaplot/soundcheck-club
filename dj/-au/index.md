@@ -1,14 +1,15 @@
 # <777>
 
-<777> is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Flinders, Sydney on Fri, 18 Sept 2026.
+<777> is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Flinders, Sydney on Fri, 18 Sept 2026.
 
-<777> is a techno and industrial artist based in Colombia, tracked on soundcheck, with 10 sets logged across Sydney. Often billed alongside DBS (1), Sam I Am and ARTISAH. Next up: The Flinders, Sydney on Fri 18 Sept.
+<777> is a techno and industrial artist based in Colombia, tracked on soundcheck, with 11 sets logged across Sydney. Often billed alongside DBS (1), Sam I Am and ARTISAH. Next up: The Flinders, Sydney on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 18 Sept 2026 | The Flinders | Sydney |
+| Sat, 7 Nov 2026 | The Flinders | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 DBS (1), Sam I Am, ARTISAH
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/-au/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/-au/)*

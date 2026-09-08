@@ -1,8 +1,8 @@
 # Bleach
 
-Bleach is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
+Bleach is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at KREUZWERK, Berlin on Sat, 19 Sept 2026.
 
-Bleach is a techno and industrial artist tracked on soundcheck, with 41 sets logged across Auckland, Belgrade, Berlin and Bristol and 3 more. Often billed alongside ADAM MUNNINGS, Dj handbag and JUNN GULDUR. Next up: KREUZWERK, Berlin on Sat 19 Sept.
+Bleach is a techno and industrial artist tracked on soundcheck, with 42 sets logged across Auckland, Belgrade, Berlin and Bristol and 3 more. Often billed alongside ADAM MUNNINGS, Dj handbag and JUNN GULDUR. Next up: KREUZWERK, Berlin on Sat 19 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bleach is a techno and industrial artist tracked on soundcheck, with 41 sets log
 | Sat, 19 Sept 2026 | KREUZWERK | Berlin |
 | Fri, 25 Sept 2026 | Heave Festival | Madrid |
 | Fri, 2 Oct 2026 | The Flinders | Sydney |
+| Sat, 24 Oct 2026 | The Flinders | Sydney |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Bleach is a techno and industrial artist tracked on soundcheck, with 41 sets log
 
 ADAM MUNNINGS, Dj handbag, JUNN GULDUR
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach-es/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bleach-es/)*

@@ -1,6 +1,6 @@
 # dubble
 
-dubble is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "ephemeris record shop opening" on Thu, 10 Sept 2026.
+dubble is a music venue in Amsterdam with 6 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "ephemeris record shop opening" on Thu, 10 Sept 2026.
 
 dubble is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, with line-ups including DJ Klapsalon, Lena Rigel, MALLAURY and Marijn S and 2 more. Browse upcoming dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
 
@@ -19,4 +19,4 @@ dubble is a music venue in Amsterdam listed on soundcheck. 6 upcoming nights, wi
 
 Bilderdijkstraat 46H, Amsterdam, 1052NB, Amsterdam
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*

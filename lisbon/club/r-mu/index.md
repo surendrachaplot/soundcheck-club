@@ -1,6 +1,6 @@
 # Rūmu
 
-Rūmu is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "ROOM: Carpet & Friends with Mike Morales, Nuno di Rosso" on Wed, 9 Sept 2026.
+Rūmu is a music venue in Lisbon with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "ROOM: Carpet & Friends with Mike Morales, Nuno di Rosso" on Wed, 9 Sept 2026.
 
 Rūmu is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with line-ups including Barbu, Boyá, C4STRO and Jorge Caiado and 2 more. Browse upcoming dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
 
@@ -17,4 +17,4 @@ Rūmu is a music venue in Lisbon listed on soundcheck. 4 upcoming nights, with l
 
 R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal, Lisbon
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*

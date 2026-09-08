@@ -1,14 +1,15 @@
 # Jonesy Wales
 
-Jonesy Wales is a Baile Funk and Afrobeats artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Sugar Loaf, Bristol on Fri, 11 Sept 2026.
+Jonesy Wales is a Afrobeats and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Sugar Loaf, Bristol on Fri, 11 Sept 2026.
 
-Jonesy Wales is a baile funk and afrobeats artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Bristol. Often billed alongside Charlie Stoic, Atki2 and Dub Boy. Next up: The Sugar Loaf, Bristol on Fri 11 Sept.
+Jonesy Wales is an afrobeats and baile funk artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Bristol. Often billed alongside Charlie Stoic, Atki2 and Dub Boy. Next up: The Sugar Loaf, Bristol on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Sept 2026 | The Sugar Loaf | Bristol |
+| Sat, 26 Sept 2026 | The Jam Jar | Bristol |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jonesy Wales is a baile funk and afrobeats artist based in United Kingdom, track
 
 Charlie Stoic, Atki2, Dub Boy
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonesywales/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonesywales/)*

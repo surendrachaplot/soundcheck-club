@@ -1,13 +1,14 @@
 # RaVix
 
-RaVix is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
+RaVix is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Promenaden Eck, Berlin on Fri, 18 Sept 2026.
 
-RaVix is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Bélavie, EVYA and 2shy2cue. Next up: ://about blank, Berlin on Fri 30 Oct.
+RaVix is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Bélavie, EVYA and L.OST. Next up: Promenaden Eck, Berlin on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Sept 2026 | Promenaden Eck | Berlin |
 | Fri, 30 Oct 2026 | ://about blank | Berlin |
 
 ## Recently played
@@ -20,6 +21,6 @@ RaVix is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Bélavie, EVYA, 2shy2cue
+Bélavie, EVYA, L.OST
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ravix-2/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ravix-2/)*

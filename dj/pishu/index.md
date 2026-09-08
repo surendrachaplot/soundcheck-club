@@ -1,6 +1,6 @@
 # PISHU
 
-PISHU is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Blank Site, Seoul on Sat, 12 Sept 2026.
+PISHU is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Blank Site, Seoul on Sat, 12 Sept 2026.
 
 PISHU is a breakbeat and bass artist tracked on soundcheck, with 2 sets logged across Seoul. Often billed alongside Moon Ki, 7ip7o3 and ACHANORI. Next up: Blank Site, Seoul on Sat 12 Sept.
 
@@ -18,4 +18,4 @@ PISHU is a breakbeat and bass artist tracked on soundcheck, with 2 sets logged a
 
 Moon Ki, 7ip7o3, ACHANORI
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pishu/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pishu/)*

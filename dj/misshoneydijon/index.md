@@ -1,14 +1,13 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+Honey Dijon is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
-Honey Dijon is a house and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and Chris Stassy. Next up: Union Park, Chicago on Fri 4 Sept.
+Honey Dijon is a house and techno artist tracked on soundcheck, with 200 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 42 more. Often billed alongside Chloé Caillet, Mochakk and Chris Stassy. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 12 Sept 2026 | Auditorium Parco della Musica | Rome |
 | Sat, 26 Sept 2026 | Depot Mayfield | Manchester |
 | Sun, 27 Sept 2026 | Ex Base Nato | Naples |
@@ -32,4 +31,4 @@ Honey Dijon is a house and techno artist tracked on soundcheck, with 200 sets lo
 
 Chloé Caillet, Mochakk, Chris Stassy
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

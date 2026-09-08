@@ -1,6 +1,6 @@
 # Scarlett (ohgodscarlett)
 
-Scarlett (ohgodscarlett) is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bal Chavaux, Paris on Sat, 26 Sept 2026.
+Scarlett (ohgodscarlett) is a Club and Dembow artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bal Chavaux, Paris on Sat, 26 Sept 2026.
 
 Scarlett (ohgodscarlett) is a club and dembow artist based in France, tracked on soundcheck, with 16 sets logged across Lyon and Paris. Often billed alongside BJF, Philou CxC and Jeune Gaou. Next up: Bal Chavaux, Paris on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Scarlett (ohgodscarlett) is a club and dembow artist based in France, tracked on
 
 BJF, Philou CxC, Jeune Gaou
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettohgodscarlett/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scarlettohgodscarlett/)*

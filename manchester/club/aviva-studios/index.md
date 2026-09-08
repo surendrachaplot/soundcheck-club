@@ -1,6 +1,6 @@
 # Aviva Studios
 
-Aviva Studios is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Chris Stussy presents USS (Manchester)" on Sat, 10 Oct 2026.
+Aviva Studios is a music venue in Manchester with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Chris Stassy presents USS (Manchester)" on Sat, 10 Oct 2026.
 
 Aviva Studios is a music venue in Manchester listed on soundcheck. 1 upcoming night. Browse upcoming dates, start times and who's playing. Aviva Studios, Water St, Manchester M3 4JQ.
 
@@ -8,10 +8,10 @@ Aviva Studios is a music venue in Manchester listed on soundcheck. 1 upcoming ni
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | Chris Stussy presents USS (Manchester) |  |
+| Sat, 10 Oct 2026 | Chris Stassy presents USS (Manchester) |  |
 
 ## Address
 
 Aviva Studios, Water St, Manchester M3 4JQ, Manchester
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/aviva-studios/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/aviva-studios/)*

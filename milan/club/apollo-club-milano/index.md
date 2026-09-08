@@ -1,8 +1,8 @@
 # Apollo Club Milano
 
-Apollo Club Milano is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Sala Radio Opening Party" on Fri, 11 Sept 2026.
+Apollo Club Milano is a music venue in Milan with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Sala Radio Opening Party" on Fri, 11 Sept 2026.
 
-Apollo Club Milano is a music venue in Milan listed on soundcheck. 4 upcoming nights, with line-ups including Arpy Brown, Kapote, Larry Masmero and Milangeles. Browse upcoming dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
+Apollo Club Milano is a music venue in Milan listed on soundcheck. 4 upcoming nights, with line-ups including Arpy Brown, Kapote, Larry Masmero and Max NRG Supply and 2 more. Browse upcoming dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
 
 ## What's on
 
@@ -11,10 +11,10 @@ Apollo Club Milano is a music venue in Milan listed on soundcheck. 4 upcoming ni
 | Fri, 11 Sept 2026 | Sala Radio Opening Party |  |
 | Sat, 12 Sept 2026 | Larry & Friends at Apollo Club | Larry Masmero |
 | Sat, 12 Sept 2026 | DOUBLE & Milangeles present JUST FOR FUN | Milangeles |
-| Sat, 19 Sept 2026 | Toy Tonics x Sound Metaphors Milano | Arpy Brown, Kapote |
+| Sat, 19 Sept 2026 | Toy Tonics x Sound Metaphors Milano | Arpy Brown, Kapote, Max NRG Supply, Sound Metaphors Djs |
 
 ## Address
 
 via Giosuè Borsi, 9, 20143, Milan, Milan
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*

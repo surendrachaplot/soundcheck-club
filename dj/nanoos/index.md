@@ -1,19 +1,19 @@
 # Nanoos
 
-Nanoos is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Montrose Beach, Chicago on Mon, 7 Sept 2026.
+Nanoos is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Webster Hall, New York City on Fri, 18 Sept 2026.
 
-Nanoos is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 84 sets logged across Berlin, Chicago, Detroit and Edinburgh and 17 more. Often billed alongside Dj Nico, Nadim Maghzal and Cquestt. Next up: Montrose Beach, Chicago on Mon 7 Sept.
+Nanoos is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 84 sets logged across Berlin, Chicago, Detroit and Edinburgh and 17 more. Often billed alongside Dj Nico, Nadim Maghzal and Cquestt. Next up: Webster Hall, Newyorkcity on Fri 18 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | Montrose Beach | Chicago |
 | Fri, 18 Sept 2026 | Webster Hall | New York City |
 | Sat, 26 Sept 2026 | TBA - Wicker Park | Chicago |
 
 ## Recently played
 
+- Montrose Beach, Chicago — Mon, 7 Sept 2026
 - Whistler, Chicago — Fri, 4 Sept 2026
 - Vera Cocina & بار, Washington DC — Fri, 28 Aug 2026
 - The Salt Shed, Chicago — Sun, 23 Aug 2026
@@ -21,10 +21,9 @@ Nanoos is a club and ghetto tech artist based in United States of America, track
 - TBA, Seattle — Sat, 8 Aug 2026
 - Podlasie Club, Chicago — Fri, 7 Aug 2026
 - OXI, Berlin — Sun, 26 Jul 2026
-- Badehaus Berlin, Berlin — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Dj Nico, Nadim Maghzal, Cquestt
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*

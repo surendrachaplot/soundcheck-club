@@ -1,6 +1,6 @@
 # HENGE at REC Ellen Allien, Jesooria, Emmef at REC Napoli
 
-HENGE at REC Ellen Allien, Jesooria, Emmef at REC Napoli on Sat 3 Oct, Naples. 2 acts on the bill: Ellen Allien and Jesooria. Preview the line-up and save it on soundcheck.
+HENGE at REC Ellen Allien, Jesooria, Emmef at REC Napoli on Sat 3 Oct, Naples. 3 acts on the bill: Ellen Allien, Emmef and Jesooria. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ HENGE at REC Ellen Allien, Jesooria, Emmef at REC Napoli on Sat 3 Oct, Naples. 2
 ## Line-up
 
 - Ellen Allien
+- Emmef
 - Jesooria
 
 *Source: [soundcheck](https://soundcheck.club/e/2528499-henge-at-rec-ellen-allien-jesooria-emmef-at-rec-napoli/)*

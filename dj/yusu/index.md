@@ -1,6 +1,6 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
+Yu Su is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Auditorium Parco della Musica, Rome on Sat, 12 Sept 2026.
 
 Yu Su is a house and techno artist tracked on soundcheck, with 148 sets logged across Amsterdam, Austin, Bali and Barcelona and 45 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: Auditorium Parco della Musica, Rome on Sat 12 Sept.
 
@@ -36,4 +36,4 @@ Yu Su is a house and techno artist tracked on soundcheck, with 148 sets logged a
 
 Leon Vynehall, DJ Python, Paula Tape
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

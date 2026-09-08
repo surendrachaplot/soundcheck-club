@@ -1,6 +1,6 @@
 # Manuel Falardeau
 
-Manuel Falardeau is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bar Datcha, Montreal on Sat, 26 Sept 2026.
+Manuel Falardeau is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bar Datcha, Montreal on Sat, 26 Sept 2026.
 
 Manuel Falardeau is a house and deep house artist tracked on soundcheck, with 43 sets logged across Montreal. Often billed alongside Latour, DUZA and Lex Ferenda. Next up: Bar Datcha, Montreal on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Manuel Falardeau is a house and deep house artist tracked on soundcheck, with 43
 
 Latour, DUZA, Lex Ferenda
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfalardeau/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfalardeau/)*

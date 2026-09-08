@@ -1,6 +1,6 @@
 # Emmanuel Jal
 
-Emmanuel Jal is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Fitz Club, Madrid on Fri, 25 Sept 2026.
+Emmanuel Jal is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Fitz Club, Madrid on Fri, 25 Sept 2026.
 
 Emmanuel Jal is an afro house and house artist based in South Sudan, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Enzo Siffredi, ADIOS AYER and AJNA. Next up: Fitz Club, Madrid on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Emmanuel Jal is an afro house and house artist based in South Sudan, tracked on 
 
 Enzo Siffredi, ADIOS AYER, AJNA
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanueljal/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanueljal/)*

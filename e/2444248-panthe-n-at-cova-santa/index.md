@@ -1,6 +1,6 @@
 # Pantheøn at Cova Santa
 
-Pantheøn at Cova Santa on Sun 13 Sept, Ibiza. 2 acts on the bill: Mr. Belt & Wezol and Sem Jacobs. Preview the line-up and save it on soundcheck.
+Pantheøn at Cova Santa on Sun 13 Sept, Ibiza. 4 acts on the bill: Jan, Mr. Belt & Wezol, Paul Darey and Sem Jacobs. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Pantheøn at Cova Santa on Sun 13 Sept, Ibiza. 2 acts on the bill: Mr. Belt & We
 
 ## Line-up
 
+- Jan
 - Mr. Belt & Wezol
+- Paul Darey
 - Sem Jacobs
 
 *Source: [soundcheck](https://soundcheck.club/e/2444248-panthe-n-at-cova-santa/)*

@@ -1,14 +1,13 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "DETROIT'S VERY OWN: DJ MARATHON B2B DJ CARTER (LABOR DAY)" on Mon, 7 Sept 2026.
+Big Pink is a music venue in Detroit with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "SLEAZE PLZ: AN INDIE SLEAZE PARTY (INTERNETBOY, CAM STACEY B2B NAUGHTA)" on Fri, 11 Sept 2026.
 
-Big Pink is a music venue in Detroit listed on soundcheck. 5 upcoming nights, with line-ups including Botez and Dean Turnley. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
+Big Pink is a music venue in Detroit listed on soundcheck. 4 upcoming nights, with line-ups including Botez and Dean Turnley. Browse upcoming dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | DETROIT'S VERY OWN: DJ MARATHON B2B DJ CARTER (LABOR DAY) |  |
 | Fri, 11 Sept 2026 | SLEAZE PLZ: AN INDIE SLEAZE PARTY (INTERNETBOY, CAM STACEY B2B NAUGHTA) |  |
 | Sat, 12 Sept 2026 | HIPHOP NIGHT: DJ JINZO & DJ SELFIE (CLUB BANGERS ALL NIGHT) |  |
 | Sat, 19 Sept 2026 | CARTOONS & STEREO VOL. 2: A SKATEBOARDING + MUSIC FESTIVAL |  |
@@ -18,4 +17,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 5 upcoming nights, wi
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

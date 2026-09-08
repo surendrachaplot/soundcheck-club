@@ -1,6 +1,6 @@
 # VTSS
 
-VTSS is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
+VTSS is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Waterfront Park in San Diego, San Diego on Sat, 26 Sept 2026.
 
 VTSS is a techno and house artist tracked on soundcheck, with 181 sets logged across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Boys Noize, I Hate Models and Patrick Mason. Next up: Waterfront Park in San Diego, Sandiego on Sat 26 Sept.
 
@@ -34,4 +34,4 @@ VTSS is a techno and house artist tracked on soundcheck, with 181 sets logged ac
 
 Boys Noize, I Hate Models, Patrick Mason
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

@@ -1,6 +1,6 @@
 # 3oz Dive Club
 
-3oz Dive Club is a music venue in San Diego with 4 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Pacome & Liana (Amores Ibiza), Julian Ortega, Gav & BK" on Sat, 12 Sept 2026.
+3oz Dive Club is a music venue in San Diego with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Pacome & Liana (Amores Ibiza), Julian Ortega, Gav & BK" on Sat, 12 Sept 2026.
 
 3oz Dive Club is a music venue in Sandiego listed on soundcheck. 4 upcoming nights, with line-ups including Andër, Degs, Jennifer Loveless and Julian Ortega and 2 more. Browse upcoming dates, start times and who's playing. 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA.
 
@@ -17,4 +17,4 @@
 
 1060 Garnet Avenue, Pacific Beach, San Diego, CA 92109, USA, San Diego
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/3oz-dive-club/)*

@@ -1,6 +1,6 @@
 # Deventi
 
-Deventi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Honey Street Studio, Manchester on Sat, 12 Sept 2026.
+Deventi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Honey Street Studio, Manchester on Sat, 12 Sept 2026.
 
 Deventi is a techno and house artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside Connor (UK), Egui and Danny Roach. Next up: Honey Street Studio, Manchester on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Deventi is a techno and house artist based in United Kingdom, tracked on soundch
 
 Connor (UK), Egui, Danny Roach
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deventi/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deventi/)*

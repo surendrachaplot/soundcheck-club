@@ -1,6 +1,6 @@
 # Cubby
 
-Cubby is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Cubby is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Cubby is a techno and experimental artist based in United States of America, tracked on soundcheck, with 34 sets logged across Philadelphia. Often billed alongside Cyrus (PHL), cubby.com and ADAB. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Cubby is a techno and experimental artist based in United States of America, tra
 
 Cyrus (PHL), cubby.com, ADAB
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cubby/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cubby/)*

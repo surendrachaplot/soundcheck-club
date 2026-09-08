@@ -1,6 +1,6 @@
 # Ann Mysochka
 
-Ann Mysochka is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Paloma, Berlin on Sat, 12 Sept 2026.
+Ann Mysochka is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Paloma, Berlin on Sat, 12 Sept 2026.
 
 Ann Mysochka is a bass and breakbeat artist tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Lyon and Marseille and 2 more. Often billed alongside Habitat Shaking, Terikon and Udda. Next up: Paloma, Berlin on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Ann Mysochka is a bass and breakbeat artist tracked on soundcheck, with 21 sets 
 
 Habitat Shaking, Terikon, Udda
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annmysochka/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annmysochka/)*

@@ -1,6 +1,6 @@
 # Mhan Solo
 
-Mhan Solo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 25 Sept 2026.
+Mhan Solo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bahnwärter Thiel, Munich on Fri, 25 Sept 2026.
 
 Mhan Solo is a techno and house artist based in Germany, tracked on soundcheck, with 16 sets logged across Leipzig and Munich. Often billed alongside Anna Lazer, P1RELLI and back2beanie. Next up: Bahnwärter Thiel, Munich on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Mhan Solo is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Anna Lazer, P1RELLI, back2beanie
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mhansolo/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mhansolo/)*

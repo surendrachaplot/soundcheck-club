@@ -1,6 +1,6 @@
 # Cuartero
 
-Cuartero is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Palacio de la Reconquista, Microcentro, Buenos Aires on Fri, 25 Sept 2026.
+Cuartero is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Palacio de la Reconquista, Microcentro, Buenos Aires on Fri, 25 Sept 2026.
 
 Cuartero is a tech house and house artist tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Buenosaires and Ibiza and 12 more. Often billed alongside East End Dubs, Manda Moor and Prunk. Next up: TBA - Palacio de la Reconquista, Microcentro, Buenosaires on Fri 25 Sept.
 
@@ -25,4 +25,4 @@ Cuartero is a tech house and house artist tracked on soundcheck, with 99 sets lo
 
 East End Dubs, Manda Moor, Prunk
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuartero/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuartero/)*

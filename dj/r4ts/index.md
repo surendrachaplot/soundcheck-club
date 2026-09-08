@@ -1,6 +1,6 @@
 # R4TS
 
-R4TS is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Story Toronto, Toronto on Fri, 18 Sept 2026.
+R4TS is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Story Toronto, Toronto on Fri, 18 Sept 2026.
 
 R4TS is a techno and hardcore artist based in Canada, tracked on soundcheck, with 26 sets logged across Toronto. Often billed alongside KILL 9 1, MVCHE and Maul (2). Next up: Story Toronto, Toronto on Fri 18 Sept.
 
@@ -26,4 +26,4 @@ R4TS is a techno and hardcore artist based in Canada, tracked on soundcheck, wit
 
 KILL 9 1, MVCHE, Maul (2)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r4ts/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/r4ts/)*

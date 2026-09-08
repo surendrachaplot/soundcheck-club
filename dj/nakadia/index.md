@@ -1,6 +1,6 @@
 # Nakadia
 
-Nakadia is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+Nakadia is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
 Nakadia is a techno and tech house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Athens and Bali and 28 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nakadia is a techno and tech house artist tracked on soundcheck, with 84 sets lo
 
 Dr. Motte, Dub Tiger, James Taylor (AU)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*

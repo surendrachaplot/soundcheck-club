@@ -1,6 +1,6 @@
 # Refrakt
 
-Refrakt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Danger Danger, New York City on Wed, 9 Sept 2026.
+Refrakt is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Danger Danger, New York City on Wed, 9 Sept 2026.
 
 Refrakt is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside Chillosophy, Dorian Flagrant and Eliezer. Next up: Danger Danger, Newyorkcity on Wed 9 Sept.
 
@@ -25,4 +25,4 @@ Refrakt is a house and techno artist based in United States of America, tracked 
 
 Chillosophy, Dorian Flagrant, Eliezer
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/refrakt/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/refrakt/)*

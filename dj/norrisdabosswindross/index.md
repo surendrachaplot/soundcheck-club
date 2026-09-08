@@ -1,6 +1,6 @@
 # Norris Da Boss Windross
 
-Norris Da Boss Windross is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Night Tales, London on Sat, 14 Nov 2026.
+Norris Da Boss Windross is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Night Tales, London on Sat, 14 Nov 2026.
 
 Norris Da Boss Windross is a house and garage artist tracked on soundcheck, with 20 sets logged across London. Often billed alongside MC Creed, DJ Listener and MC DT. Next up: Night Tales, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Norris Da Boss Windross is a house and garage artist tracked on soundcheck, with
 
 MC Creed, DJ Listener, MC DT
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norrisdabosswindross/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norrisdabosswindross/)*

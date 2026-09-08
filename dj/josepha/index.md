@@ -1,13 +1,14 @@
 # Josepha
 
-Josepha is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Fvtvr, Paris on Fri, 6 Nov 2026.
+Josepha is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at 303 Audiophile Bar, Barcelona on Sat, 31 Oct 2026.
 
-Josepha is a house and deep house artist tracked on soundcheck, with 3 sets logged across Barcelona, Berlin and Paris. Often billed alongside ABI (FR), Aline Brooklyn and Automatic Writing. Next up: Fvtvr, Paris on Fri 6 Nov.
+Josepha is a house and deep house artist tracked on soundcheck, with 4 sets logged across Barcelona, Berlin and Paris. Often billed alongside ABI (FR), Aline Brooklyn and Automatic Writing. Next up: 303 Audiophile Bar, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | 303 Audiophile Bar | Barcelona |
 | Fri, 6 Nov 2026 | Fvtvr | Paris |
 
 ## Recently played
@@ -19,4 +20,4 @@ Josepha is a house and deep house artist tracked on soundcheck, with 3 sets logg
 
 ABI (FR), Aline Brooklyn, Automatic Writing
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josepha/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/josepha/)*

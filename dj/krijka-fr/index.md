@@ -1,6 +1,6 @@
 # Krijka
 
-Krijka is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at DURO, Milan on Sat, 17 Oct 2026.
+Krijka is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at DURO, Milan on Sat, 17 Oct 2026.
 
 Krijka is a techno and tech house artist tracked on soundcheck, with 144 sets logged across Bangkok, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Mihak, Lyumin and Oho.. Next up: DURO, Milan on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Krijka is a techno and tech house artist tracked on soundcheck, with 144 sets lo
 
 Mihak, Lyumin, Oho.
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krijka-fr/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/krijka-fr/)*

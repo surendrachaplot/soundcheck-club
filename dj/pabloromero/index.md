@@ -1,6 +1,6 @@
 # Pablo Romero
 
-Pablo Romero is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Outer Heaven, New York City on Wed, 9 Sept 2026.
+Pablo Romero is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Outer Heaven, New York City on Wed, 9 Sept 2026.
 
 Pablo Romero is a house and techno artist based in United States of America, tracked on soundcheck, with 127 sets logged across Amsterdam, Boston, Frankfurt and London and 6 more. Often billed alongside Daniel Dutts, mink and Jean-Paul. Next up: Outer Heaven, Newyorkcity on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ Pablo Romero is a house and techno artist based in United States of America, tra
 
 Daniel Dutts, mink, Jean-Paul
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*

@@ -1,6 +1,6 @@
 # Metrik
 
-Metrik is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
+Metrik is a Drum & Bass and Bass artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon, 21 Sept 2026.
 
 Metrik is a drum & bass and bass artist tracked on soundcheck, with 54 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 19 more. Often billed alongside Camo & Krooked, Degs and P Money. Next up: Namura Zosenjo Atochi / Creative Center Osaka, Osaka on Mon 21 Sept.
 
@@ -30,4 +30,4 @@ Metrik is a drum & bass and bass artist tracked on soundcheck, with 54 sets logg
 
 Camo & Krooked, Degs, P Money
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*

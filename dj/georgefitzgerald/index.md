@@ -1,6 +1,6 @@
 # George FitzGerald
 
-George FitzGerald is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 12 Sept 2026.
+George FitzGerald is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at 528 Ibiza, Ibiza on Sat, 12 Sept 2026.
 
 George FitzGerald is a house and techno artist tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Lil Silva, Fold and Scuba. Next up: 528 Ibiza, Ibiza on Sat 12 Sept.
 
@@ -27,4 +27,4 @@ George FitzGerald is a house and techno artist tracked on soundcheck, with 48 se
 
 Lil Silva, Fold, Scuba
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*

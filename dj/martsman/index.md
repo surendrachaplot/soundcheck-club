@@ -1,6 +1,6 @@
 # Martsman
 
-Martsman is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
+Martsman is a Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 Martsman is a bass and jungle artist tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Agem, Babe Gorgeous and Bassdee. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -18,4 +18,4 @@ Martsman is a bass and jungle artist tracked on soundcheck, with 2 sets logged a
 
 Agem, Babe Gorgeous, Bassdee
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martsman/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/martsman/)*

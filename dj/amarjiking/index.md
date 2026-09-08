@@ -1,6 +1,6 @@
 # Amarji King
 
-Amarji King is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Pamela Club, Paris on Fri, 11 Sept 2026.
+Amarji King is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Pamela Club, Paris on Fri, 11 Sept 2026.
 
 Amarji King is a club and techno artist tracked on soundcheck, with 49 sets logged across Austin, Chicago, Detroit and Houston and 8 more. Often billed alongside HYPERFEMME, BLAIZE and ARCHANGEL (US). Next up: Pamela Club, Paris on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Amarji King is a club and techno artist tracked on soundcheck, with 49 sets logg
 
 HYPERFEMME, BLAIZE, ARCHANGEL (US)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*

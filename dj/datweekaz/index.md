@@ -1,6 +1,6 @@
 # Da Tweekaz
 
-Da Tweekaz is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
+Da Tweekaz is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
 
 Da Tweekaz is a club and techno artist tracked on soundcheck, with 23 sets logged across Amsterdam, Brussels, Frankfurt and Glasgow and 10 more. Often billed alongside Angerfist, Yeyo and Coone. Next up: Chicago Social Club, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Da Tweekaz is a club and techno artist tracked on soundcheck, with 23 sets logge
 
 Angerfist, Yeyo, Coone
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datweekaz/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/datweekaz/)*

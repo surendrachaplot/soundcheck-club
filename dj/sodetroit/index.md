@@ -1,6 +1,6 @@
 # So detroit
 
-So detroit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sensorium, Berlin on Sat, 19 Sept 2026.
+So detroit is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sensorium, Berlin on Sat, 19 Sept 2026.
 
 So detroit is a house and techno artist tracked on soundcheck, with 15 sets logged across Berlin and Tbilisi. Often billed alongside Meyra, Sevda and Toke (GE). Next up: Sensorium, Berlin on Sat 19 Sept.
 
@@ -25,4 +25,4 @@ So detroit is a house and techno artist tracked on soundcheck, with 15 sets logg
 
 Meyra, Sevda, Toke (GE)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sodetroit/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sodetroit/)*

@@ -1,6 +1,6 @@
 # Herr Krank
 
-Herr Krank is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Herr Krank is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
 Herr Krank is a house and techno artist tracked on soundcheck, with 56 sets logged across Amsterdam, Bali, Barcelona and Berlin and 15 more. Often billed alongside Deborah Aime La Bagarre, Emma B and Baccus. Next up: Fvtvr, Paris on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Herr Krank is a house and techno artist tracked on soundcheck, with 56 sets logg
 
 Deborah Aime La Bagarre, Emma B, Baccus
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herrkrank/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/herrkrank/)*

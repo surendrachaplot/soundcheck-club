@@ -1,6 +1,6 @@
 # Posthuman
 
-Posthuman is a Acid and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Hare & Hounds, Birmingham on Fri, 25 Sept 2026.
+Posthuman is a Acid and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hare & Hounds, Birmingham on Fri, 25 Sept 2026.
 
 Posthuman is an acid and techno artist tracked on soundcheck, with 75 sets logged across Bangkok, Birmingham, Bristol and Chicago and 10 more. Often billed alongside Luke Vibert, Nightwave and Jon Dasilva. Next up: Hare & Hounds, Birmingham on Fri 25 Sept.
 
@@ -28,4 +28,4 @@ Posthuman is an acid and techno artist tracked on soundcheck, with 75 sets logge
 
 Luke Vibert, Nightwave, Jon Dasilva
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/posthuman/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/posthuman/)*

@@ -1,8 +1,8 @@
 # FM (PL)
 
-FM (PL) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Mastak, Warsaw on Fri, 25 Sept 2026.
+FM (PL) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Mastak, Warsaw on Fri, 25 Sept 2026.
 
-FM (PL) is a techno and house artist tracked on soundcheck, with 5 sets logged across Krakow, Newyorkcity and Warsaw. Often billed alongside 4\4, AilinDeSha* and Envy. Next up: Mastak, Warsaw on Fri 25 Sept.
+FM (PL) is a techno and house artist tracked on soundcheck, with 5 sets logged across Krakow, Newyorkcity and Warsaw. Often billed alongside 4\4, AilinDeSha* and Alex Kosta. Next up: Mastak, Warsaw on Fri 25 Sept.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ FM (PL) is a techno and house artist tracked on soundcheck, with 5 sets logged a
 
 ## Shares bills with
 
-4\4, AilinDeSha*, Envy
+4\4, AilinDeSha*, Alex Kosta
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fmpl/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fmpl/)*

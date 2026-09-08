@@ -1,6 +1,6 @@
 # Gabe K (1)
 
-Gabe K (1) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at 77, London on Sat, 17 Oct 2026.
+Gabe K (1) is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at 77, London on Sat, 17 Oct 2026.
 
 Gabe K (1) is a house and afro house artist tracked on soundcheck, with 2 sets logged across London. Often billed alongside Yoel Telyaz, Cinar and Sasson. Next up: 77, London on Sat 17 Oct.
 
@@ -18,4 +18,4 @@ Gabe K (1) is a house and afro house artist tracked on soundcheck, with 2 sets l
 
 Yoel Telyaz, Cinar, Sasson
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabek-1/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gabek-1/)*

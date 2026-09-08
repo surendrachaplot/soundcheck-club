@@ -1,6 +1,6 @@
 # Popper Cherry
 
-Popper Cherry is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Oh Yeah Centre, Belfast on Sat, 31 Oct 2026.
+Popper Cherry is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Oh Yeah Centre, Belfast on Sat, 31 Oct 2026.
 
 Popper Cherry is a trance and house artist tracked on soundcheck, with 13 sets logged across Belfast, Dublin, Glasgow and London. Often billed alongside Katiee.eem, T4T B2B and Dr. Berry. Next up: The Oh Yeah Centre, Belfast on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Popper Cherry is a trance and house artist tracked on soundcheck, with 13 sets l
 
 Katiee.eem, T4T B2B, Dr. Berry
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poppercherry/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/poppercherry/)*

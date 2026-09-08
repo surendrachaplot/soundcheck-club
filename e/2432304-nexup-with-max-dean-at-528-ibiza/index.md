@@ -1,6 +1,6 @@
 # NEXUP with Max Dean at 528 Ibiza
 
-NEXUP with Max Dean at 528 Ibiza on Sun 13 Sept, Ibiza. 1 act on the bill: Max Dean. House and Tech House. Preview the line-up and save it on soundcheck.
+NEXUP with Max Dean at 528 Ibiza on Sun 13 Sept, Ibiza. 4 acts on the bill: Jamie Fielding, Joss Dean, Max Dean and Wheats. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ NEXUP with Max Dean at 528 Ibiza on Sun 13 Sept, Ibiza. 1 act on the bill: Max D
 
 ## Line-up
 
+- Jamie Fielding
+- Joss Dean
 - Max Dean
+- Wheats
 
 *Source: [soundcheck](https://soundcheck.club/e/2432304-nexup-with-max-dean-at-528-ibiza/)*

@@ -1,6 +1,6 @@
 # Elias Nuit (2)
 
-Elias Nuit (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Golden Flamingo, Berlin on Sat, 12 Sept 2026.
+Elias Nuit (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Golden Flamingo, Berlin on Sat, 12 Sept 2026.
 
 Elias Nuit (2) is a techno and trance artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside bbymeister, Blame the Booker and Calcifer. Next up: Golden Flamingo, Berlin on Sat 12 Sept.
 
@@ -26,4 +26,4 @@ Elias Nuit (2) is a techno and trance artist based in Germany, tracked on soundc
 
 bbymeister, Blame the Booker, Calcifer
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasnuit-2/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasnuit-2/)*

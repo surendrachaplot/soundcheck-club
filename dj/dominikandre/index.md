@@ -1,6 +1,6 @@
 # Dominik André
 
-Dominik André is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Hidden Sounds, London on Fri, 16 Oct 2026.
+Dominik André is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Hidden Sounds, London on Fri, 16 Oct 2026.
 
 Dominik André is a house and electronica artist tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Dusseldorf and Kyoto and 5 more. Often billed alongside Nive, Courtney Bailey and Sound Metaphors Djs. Next up: Hidden Sounds, London on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Dominik André is a house and electronica artist tracked on soundcheck, with 33 
 
 Nive, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikandre/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dominikandre/)*

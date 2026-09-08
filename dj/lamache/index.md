@@ -1,6 +1,6 @@
 # Lamache
 
-Lamache is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Hertz, Seoul on Sat, 12 Sept 2026.
+Lamache is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Hertz, Seoul on Sat, 12 Sept 2026.
 
 Lamache is a house and techno artist tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 35 more. Often billed alongside Aline Umber, Automatic Writing and Aline Brooklyn. Next up: Hertz, Seoul on Sat 12 Sept.
 
@@ -28,4 +28,4 @@ Lamache is a house and techno artist tracked on soundcheck, with 112 sets logged
 
 Aline Umber, Automatic Writing, Aline Brooklyn
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*

@@ -1,6 +1,6 @@
 # Johanna Elias
 
-Johanna Elias is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
+Johanna Elias is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Renate, Berlin on Fri, 11 Sept 2026.
 
 Johanna Elias is a house and techno artist tracked on soundcheck, with 28 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside Kallaloo, Big Leg and Crille & Tamalt. Next up: Renate, Berlin on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Johanna Elias is a house and techno artist tracked on soundcheck, with 28 sets l
 
 Kallaloo, Big Leg, Crille & Tamalt
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannaelias/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannaelias/)*

@@ -1,6 +1,6 @@
 # neumoniia
 
-neumoniia is a Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Spook Club, Valencia on Fri, 18 Sept 2026.
+neumoniia is a Electronica artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Spook Club, Valencia on Fri, 18 Sept 2026.
 
 neumoniia is an electronica artist tracked on soundcheck, with 11 sets logged across Madrid and Valencia. Often billed alongside Alba Franch, Ben Derris and CORTI (ES). Next up: Spook Club, Valencia on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ neumoniia is an electronica artist tracked on soundcheck, with 11 sets logged ac
 
 Alba Franch, Ben Derris, CORTI (ES)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neumoniia/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neumoniia/)*

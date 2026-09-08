@@ -1,6 +1,6 @@
 # Cambric
 
-Cambric is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at John Doe, Amsterdam on Sun, 25 Oct 2026.
+Cambric is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at John Doe, Amsterdam on Sun, 25 Oct 2026.
 
 Cambric is a techno and tech house artist based in Spain, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Lisbon and Naples and 1 more. Often billed alongside Lino Fuso, Alex Sharp and Carlos Pérez. Next up: John Doe, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Cambric is a techno and tech house artist based in Spain, tracked on soundcheck,
 
 Lino Fuso, Alex Sharp, Carlos Pérez
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cambric/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cambric/)*

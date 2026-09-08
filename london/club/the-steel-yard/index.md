@@ -1,6 +1,6 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 16 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Habibis y Azizams: A Middle Eastern / SWANA RAVE (CENTRAL LDN)" on Fri, 11 Sept 2026.
+The Steel Yard is a music venue in London with 16 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Habibis y Azizams: A Middle Eastern / SWANA RAVE (CENTRAL LDN)" on Fri, 11 Sept 2026.
 
 The Steel Yard is a music venue in London listed on soundcheck. 16 upcoming nights, with line-ups including AVANTIME, Bassface, Beezo and Crossy and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
@@ -23,4 +23,4 @@ The Steel Yard is a music venue in London listed on soundcheck. 16 upcoming nigh
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

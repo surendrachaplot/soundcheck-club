@@ -1,13 +1,14 @@
 # LI-YU
 
-LI-YU is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Cova Santa, Ibiza on Tue, 15 Sept 2026.
+LI-YU is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - ECHO, Groot Handelsgebouw | Weena 687, Rotterdam, Rotterdam on Fri, 11 Sept 2026.
 
-LI-YU is a house and deep house artist tracked on soundcheck, with 29 sets logged across Amsterdam, Ibiza, London and Rotterdam and 1 more. Often billed alongside Ben Diggins, LIMA (NL) and select motion. Next up: Cova Santa, Ibiza on Tue 15 Sept.
+LI-YU is a deep house and house artist tracked on soundcheck, with 30 sets logged across Amsterdam, Ibiza, London and Rotterdam and 1 more. Often billed alongside Ben Diggins, LIMA (NL) and select motion. Next up: TBA - ECHO, Groot Handelsgebouw | Weena 687, Rotterdam, Rotterdam on Fri 11 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Sept 2026 | TBA - ECHO, Groot Handelsgebouw / Weena 687, Rotterdam | Rotterdam |
 | Tue, 15 Sept 2026 | Cova Santa | Ibiza |
 | Sat, 26 Sept 2026 | Colorado Charlie | The Hague |
 | Sat, 10 Oct 2026 | Toffler | Rotterdam |
@@ -27,4 +28,4 @@ LI-YU is a house and deep house artist tracked on soundcheck, with 29 sets logge
 
 Ben Diggins, LIMA (NL), select motion
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/li-yu/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/li-yu/)*

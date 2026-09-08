@@ -1,6 +1,6 @@
 # Georgie Riot
 
-Georgie Riot is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
+Georgie Riot is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
 
 Georgie Riot is a drum & bass and jungle artist tracked on soundcheck, with 18 sets logged across Amsterdam, Auckland, Barcelona and Bristol and 10 more. Often billed alongside Anaïs, Benny L and Benny Page. Next up: Sala Dresden, Barcelona on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Georgie Riot is a drum & bass and jungle artist tracked on soundcheck, with 18 s
 
 Anaïs, Benny L, Benny Page
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieriot/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/georgieriot/)*

@@ -1,6 +1,6 @@
 # Rhys Fulber
 
-Rhys Fulber is a Industrial and EBM artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Jama, Toronto on Fri, 25 Sept 2026.
+Rhys Fulber is a Industrial and EBM artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Jama, Toronto on Fri, 25 Sept 2026.
 
 Rhys Fulber is an industrial and ebm artist tracked on soundcheck, with 10 sets logged across Athens, Berlin, Detroit and Losangeles and 3 more. Often billed alongside Blush Response, Philipp Strobel and Ancient Methods. Next up: The Jama, Toronto on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Rhys Fulber is an industrial and ebm artist tracked on soundcheck, with 10 sets 
 
 Blush Response, Philipp Strobel, Ancient Methods
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhysfulber/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rhysfulber/)*

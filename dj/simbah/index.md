@@ -1,6 +1,6 @@
 # SIMBAH
 
-SIMBAH is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at WOMB, Tokyo on Fri, 11 Sept 2026.
+SIMBAH is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at WOMB, Tokyo on Fri, 11 Sept 2026.
 
 SIMBAH is a house and tech house artist tracked on soundcheck, with 4 sets logged across Tokyo. Often billed alongside CLESENT, ANDY DEDE and B (379). Next up: WOMB, Tokyo on Fri 11 Sept.
 
@@ -20,4 +20,4 @@ SIMBAH is a house and tech house artist tracked on soundcheck, with 4 sets logge
 
 CLESENT, ANDY DEDE, B (379)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simbah/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simbah/)*

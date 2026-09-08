@@ -1,6 +1,6 @@
 # M.Vertigo
 
-M.Vertigo is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Parco Argelati, Milan on Sun, 13 Sept 2026.
+M.Vertigo is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Parco Argelati, Milan on Sun, 13 Sept 2026.
 
 M.Vertigo is a techno artist based in Italy, tracked on soundcheck, with 4 sets logged across Milan. Often billed alongside Münich, Diamantha and AllaDerivaLontano. Next up: Parco Argelati, Milan on Sun 13 Sept.
 
@@ -20,4 +20,4 @@ M.Vertigo is a techno artist based in Italy, tracked on soundcheck, with 4 sets 
 
 Münich, Diamantha, AllaDerivaLontano
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m.vertigo/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m.vertigo/)*

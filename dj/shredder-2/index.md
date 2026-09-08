@@ -1,6 +1,6 @@
 # Shredder (2)
 
-Shredder (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at John Doe, Amsterdam on Wed, 9 Sept 2026.
+Shredder (2) is a Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at John Doe, Amsterdam on Wed, 9 Sept 2026.
 
 Shredder (2) is a techno artist tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside Aztlan Zidonia, BVNNII and Hannes Knef. Next up: John Doe, Amsterdam on Wed 9 Sept.
 
@@ -20,4 +20,4 @@ Shredder (2) is a techno artist tracked on soundcheck, with 4 sets logged across
 
 Aztlan Zidonia, BVNNII, Hannes Knef
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shredder-2/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shredder-2/)*

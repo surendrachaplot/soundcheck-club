@@ -1,6 +1,6 @@
 # MURI
 
-MURI is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Carmo Rooftop, Lisbon on Fri, 11 Sept 2026.
+MURI is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Carmo Rooftop, Lisbon on Fri, 11 Sept 2026.
 
 MURI is a house and minimal artist tracked on soundcheck, with 106 sets logged across Amsterdam, Barcelona, Dublin and Lisbon and 2 more. Often billed alongside Lou de Melo, Better Call Karll and Kee_ko. Next up: Carmo Rooftop, Lisbon on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ MURI is a house and minimal artist tracked on soundcheck, with 106 sets logged a
 
 Lou de Melo, Better Call Karll, Kee_ko
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muri-pt/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muri-pt/)*

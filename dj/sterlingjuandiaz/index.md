@@ -1,14 +1,15 @@
 # Sterling Juan Diaz
 
-Sterling Juan Diaz is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Signal, New York City on Sat, 12 Sept 2026.
+Sterling Juan Diaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Signal, New York City on Sat, 12 Sept 2026.
 
-Sterling Juan Diaz is a house and techno artist tracked on soundcheck, with 123 sets logged across Berlin, Chicago, Leipzig and Losangeles and 5 more. Often billed alongside Sekucci, ALEXIS DE LA ROSA and Josh Steers. Next up: Signal, Newyorkcity on Sat 12 Sept.
+Sterling Juan Diaz is a house and techno artist tracked on soundcheck, with 124 sets logged across Berlin, Chicago, Leipzig and Losangeles and 5 more. Often billed alongside Sekucci, ALEXIS DE LA ROSA and Josh Steers. Next up: Signal, Newyorkcity on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Signal | New York City |
+| Fri, 25 Sept 2026 | TBA - LOCATION EMAILED TO TICKETHOLDERS | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sterling Juan Diaz is a house and techno artist tracked on soundcheck, with 123 
 
 Sekucci, ALEXIS DE LA ROSA, Josh Steers
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*

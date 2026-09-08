@@ -1,14 +1,13 @@
 # OGUZ
 
-OGUZ is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Union Park, Chicago on Fri, 4 Sept 2026.
+OGUZ is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Kralingse Bos, Rotterdam on Sat, 12 Sept 2026.
 
-OGUZ is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Basswell, DYEN and Nico Moreno. Next up: Union Park, Chicago on Fri 4 Sept.
+OGUZ is a techno and house artist tracked on soundcheck, with 194 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Basswell, DYEN and Nico Moreno. Next up: Kralingse Bos, Rotterdam on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Sept 2026 | Union Park | Chicago |
 | Sat, 12 Sept 2026 | Kralingse Bos | Rotterdam |
 | Sat, 19 Sept 2026 | Sky Club | Leipzig |
 | Fri, 25 Sept 2026 | OST | Berlin |
@@ -29,4 +28,4 @@ OGUZ is a techno and house artist tracked on soundcheck, with 194 sets logged ac
 
 Basswell, DYEN, Nico Moreno
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*

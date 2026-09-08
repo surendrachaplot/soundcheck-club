@@ -1,6 +1,6 @@
 # Cantina Social
 
-Cantina Social is a music venue in Athens with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Salvi k & Nikolas Gale" on Sat, 12 Sept 2026.
+Cantina Social is a music venue in Athens with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Salvi k & Nikolas Gale" on Sat, 12 Sept 2026.
 
 Cantina Social is a music venue in Athens listed on soundcheck. 1 upcoming night, with line-ups including Nikolas Gale and Salvi k. Browse upcoming dates, start times and who's playing. Leokoriou 6-8, Athens 10554, Greece.
 
@@ -14,4 +14,4 @@ Cantina Social is a music venue in Athens listed on soundcheck. 1 upcoming night
 
 Leokoriou 6-8, Athens 10554, Greece, Athens
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/cantina-social/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/cantina-social/)*

@@ -1,6 +1,6 @@
 # Budapest Park
 
-Budapest Park is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Erasmus X Spontan with Janett, LAVKY, Stoa, Ratkay ⏾ Nights of Budapest Park" on Wed, 9 Sept 2026.
+Budapest Park is a music venue in Budapest with 5 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Erasmus X Spontan with Janett, LAVKY, Stoa, Ratkay ⏾ Nights of Budapest Park" on Wed, 9 Sept 2026.
 
 Budapest Park is a music venue in Budapest listed on soundcheck. 5 upcoming nights, with line-ups including ädene, Âme, Kamafaka and LAVKY and 2 more. Browse upcoming dates, start times and who's playing. 1095 Budapest, Fábián Juli tér 1..
 
@@ -18,4 +18,4 @@ Budapest Park is a music venue in Budapest listed on soundcheck. 5 upcoming nigh
 
 1095 Budapest, Fábián Juli tér 1., Budapest
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/budapest-park/)*

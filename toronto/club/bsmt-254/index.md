@@ -1,14 +1,13 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 5 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "MORE NOISE PLEASE PRESENTS: MANIC MONDAY" on Mon, 7 Sept 2026.
+Bsmt 254 is a music venue in Toronto with 4 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "OVERDRIVE" on Thu, 17 Sept 2026.
 
-Bsmt 254 is a music venue in Toronto listed on soundcheck. 5 upcoming nights, with line-ups including Babies R Stupid, heavymetal., Iced Misto and Jason Palma and 2 more. Browse upcoming dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
+Bsmt 254 is a music venue in Toronto listed on soundcheck. 4 upcoming nights, with line-ups including Babies R Stupid, heavymetal., Iced Misto and Jason Palma and 2 more. Browse upcoming dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | MORE NOISE PLEASE PRESENTS: MANIC MONDAY | Pursuit Grooves |
 | Thu, 17 Sept 2026 | OVERDRIVE | Vadim Khan, heavymetal., zeemann. |
 | Fri, 18 Sept 2026 | INNER CITY DANCE 15 YEAR ANNIVERSARY |  |
 | Sat, 19 Sept 2026 | Heartbeat Ft. Jason Palma, Iced Misto, and Timber | Iced Misto, Jason Palma |
@@ -18,4 +17,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 5 upcoming nights, wi
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

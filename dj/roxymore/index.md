@@ -1,6 +1,6 @@
 # rRoxymore
 
-rRoxymore is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
+rRoxymore is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Point Ephémère, Paris on Wed, 30 Sept 2026.
 
 rRoxymore is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside DJ Plead, CCL and Josey Rebelle. Next up: Point Ephémère, Paris on Wed 30 Sept.
 
@@ -26,4 +26,4 @@ rRoxymore is a techno and house artist tracked on soundcheck, with 89 sets logge
 
 DJ Plead, CCL, Josey Rebelle
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymore/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymore/)*

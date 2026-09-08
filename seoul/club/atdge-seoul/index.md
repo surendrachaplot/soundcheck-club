@@ -1,6 +1,6 @@
 # Atdge Seoul
 
-Atdge Seoul is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Easy, Hogi" on Wed, 9 Sept 2026.
+Atdge Seoul is a music venue in Seoul with 3 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Easy, Hogi" on Wed, 9 Sept 2026.
 
 Atdge Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming nights, with line-ups including BABY DON’T CRY, cuprum, m.bience and PhaseLead. Browse upcoming dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
 
@@ -16,4 +16,4 @@ Atdge Seoul is a music venue in Seoul listed on soundcheck. 3 upcoming nights, w
 
 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*

@@ -1,6 +1,6 @@
 # Mr Purple presents: Wavcrash at Mr. Purple
 
-Mr Purple presents: Wavcrash at Mr. Purple on Sat 12 Sept, Newyorkcity. Tech House. Preview the line-up and save it on soundcheck.
+Mr Purple presents: Wavcrash at Mr. Purple on Sat 12 Sept, Newyorkcity. House and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

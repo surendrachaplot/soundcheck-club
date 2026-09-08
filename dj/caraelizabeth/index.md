@@ -1,6 +1,6 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Artheater, Cologne on Sat, 19 Sept 2026.
+Cara Elizabeth is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Artheater, Cologne on Sat, 19 Sept 2026.
 
 Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Kø:lab, Part Time Killer and SEKTOR69. Next up: Artheater, Cologne on Sat 19 Sept.
 
@@ -28,4 +28,4 @@ Cara Elizabeth is a techno and trance artist tracked on soundcheck, with 138 set
 
 Kø:lab, Part Time Killer, SEKTOR69
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*

@@ -1,6 +1,6 @@
 # DJ G1NA R.
 
-DJ G1NA R. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
+DJ G1NA R. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Distillery, Leipzig on Sat, 26 Sept 2026.
 
 DJ G1NA R. is a house and techno artist tracked on soundcheck, with 23 sets logged across Berlin, Cologne and Leipzig. Often billed alongside mp.ulle, MIDNXGHT and DJ SOFTICE. Next up: Distillery, Leipzig on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ DJ G1NA R. is a house and techno artist tracked on soundcheck, with 23 sets logg
 
 mp.ulle, MIDNXGHT, DJ SOFTICE
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djg1nar./)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djg1nar./)*

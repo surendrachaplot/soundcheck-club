@@ -1,6 +1,6 @@
 # Johanna Bozai
 
-Johanna Bozai is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Arzenal, Budapest on Sat, 12 Sept 2026.
+Johanna Bozai is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Arzenal, Budapest on Sat, 12 Sept 2026.
 
 Johanna Bozai is a techno and trance artist tracked on soundcheck, with 19 sets logged across Budapest. Often billed alongside ädene, Akác and KALMIKVCS. Next up: Arzenal, Budapest on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Johanna Bozai is a techno and trance artist tracked on soundcheck, with 19 sets 
 
 ädene, Akác, KALMIKVCS
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannabozai/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johannabozai/)*

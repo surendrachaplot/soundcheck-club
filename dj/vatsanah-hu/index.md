@@ -1,14 +1,15 @@
 # Vatsanah
 
-Vatsanah is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Pontoon Budapest, Budapest on Thu, 10 Sept 2026.
+Vatsanah is a House and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Pontoon Budapest, Budapest on Thu, 10 Sept 2026.
 
-Vatsanah is a house and downtempo artist tracked on soundcheck, with 69 sets logged across Berlin and Budapest. Often billed alongside Klayman, LAU (6) and SVR101. Next up: Pontoon Budapest, Budapest on Thu 10 Sept.
+Vatsanah is a house and downtempo artist tracked on soundcheck, with 70 sets logged across Berlin and Budapest. Often billed alongside Klayman, LAU (6) and SVR101. Next up: Pontoon Budapest, Budapest on Thu 10 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Sept 2026 | Pontoon Budapest | Budapest |
+| Wed, 16 Sept 2026 | Gozo Listening Bar | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Vatsanah is a house and downtempo artist tracked on soundcheck, with 69 sets log
 
 Klayman, LAU (6), SVR101
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vatsanah-hu/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vatsanah-hu/)*

@@ -1,6 +1,6 @@
 # Circumscums
 
-Circumscums is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
+Circumscums is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at 131 Mccormack St, Toronto on Fri, 25 Sept 2026.
 
 Circumscums is a techno and minimal techno artist based in Canada, tracked on soundcheck, with 32 sets logged across Barcelona, Detroit, Losangeles and Toronto. Often billed alongside Measure Divide, DVS1 and Geneva (2). Next up: 131 Mccormack St, Toronto on Fri 25 Sept.
 
@@ -26,4 +26,4 @@ Circumscums is a techno and minimal techno artist based in Canada, tracked on so
 
 Measure Divide, DVS1, Geneva (2)
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/circumscums/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/circumscums/)*

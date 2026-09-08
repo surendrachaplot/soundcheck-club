@@ -1,6 +1,6 @@
 # DJ Marcelle
 
-DJ Marcelle is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Vaux-Hall, Brussels on Sun, 20 Sept 2026.
+DJ Marcelle is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Vaux-Hall, Brussels on Sun, 20 Sept 2026.
 
 DJ Marcelle is an experimental and electronica artist based in Netherlands, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 33 more. Often billed alongside DjRUM, ojoo and Mala. Next up: Vaux-Hall, Brussels on Sun 20 Sept.
 
@@ -27,4 +27,4 @@ DJ Marcelle is an experimental and electronica artist based in Netherlands, trac
 
 DjRUM, ojoo, Mala
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*

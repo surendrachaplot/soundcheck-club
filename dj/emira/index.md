@@ -1,6 +1,6 @@
 # EMIRA
 
-EMIRA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at ÆDEN, Berlin on Wed, 9 Sept 2026.
+EMIRA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at ÆDEN, Berlin on Wed, 9 Sept 2026.
 
 EMIRA is a techno and house artist based in Tunisia, tracked on soundcheck, with 40 sets logged across Berlin, Milan and Prague. Often billed alongside The Camel, VNVK and Tiem. Next up: ÆDEN, Berlin on Wed 9 Sept.
 
@@ -26,4 +26,4 @@ EMIRA is a techno and house artist based in Tunisia, tracked on soundcheck, with
 
 The Camel, VNVK, Tiem
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emira/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emira/)*

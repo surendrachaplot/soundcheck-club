@@ -1,6 +1,6 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Fridays at 77 x Love Message: Kate Doherty, Milkpaste" on Fri, 11 Sept 2026.
+Club 77 is a music venue in Sydney with 13 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Fridays at 77 x Love Message: Kate Doherty, Milkpaste" on Fri, 11 Sept 2026.
 
 Club 77 is a music venue in Sydney listed on soundcheck. 13 upcoming nights, with line-ups including Ciara, Daniel Lupica, Deepchild and Disruptive Pattern Material and 2 more. Browse upcoming dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 13 upcoming nights, wit
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

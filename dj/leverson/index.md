@@ -1,6 +1,6 @@
 # leverson
 
-leverson is a Hip-Hop and R&B artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Peckham Arches, London on Thu, 1 Oct 2026.
+leverson is a Hip-Hop and R&B artist with 5 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Peckham Arches, London on Thu, 1 Oct 2026.
 
 leverson is a hip-hop and r&b artist tracked on soundcheck, with 176 sets logged across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Peckham Arches, London on Thu 1 Oct.
 
@@ -29,4 +29,4 @@ leverson is a hip-hop and r&b artist tracked on soundcheck, with 176 sets logged
 
 Signorina, Omari King, Omari
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

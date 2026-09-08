@@ -1,6 +1,6 @@
 # Black Circle
 
-Black Circle is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bricks, London on Fri, 18 Sept 2026.
+Black Circle is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bricks, London on Fri, 18 Sept 2026.
 
 Black Circle is a house and tech house artist based in Switzerland, tracked on soundcheck, with 28 sets logged across Chicago, Frankfurt, Ibiza and Istanbul and 12 more. Often billed alongside 1TWO, Airrica and Avangart Tabldot. Next up: Bricks, London on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Black Circle is a house and tech house artist based in Switzerland, tracked on s
 
 1TWO, Airrica, Avangart Tabldot
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcircle/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcircle/)*

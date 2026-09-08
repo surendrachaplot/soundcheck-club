@@ -1,14 +1,13 @@
 # Refuge
 
-Refuge is a music venue in New York City with 17 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Refuge ÄGAPĒ Festival Afterparty" on Mon, 7 Sept 2026.
+Refuge is a music venue in New York City with 16 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Refuge Thursday with Vanjee" on Thu, 10 Sept 2026.
 
-Refuge is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights, with line-ups including Ahadadream, Akua, A-Trak and Black Asteroid and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
+Refuge is a music venue in Newyorkcity listed on soundcheck. 16 upcoming nights, with line-ups including Ahadadream, Akua, A-Trak and Black Asteroid and 2 more. Browse upcoming dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Mon, 7 Sept 2026 | Refuge ÄGAPĒ Festival Afterparty | David Löhlein, Julia Govor, Raw Planet, Skar, future.666 |
 | Thu, 10 Sept 2026 | Refuge Thursday with Vanjee | Vanjee |
 | Fri, 11 Sept 2026 | Refuge Friday: Gorje Hewek + Volen Sentir |  |
 | Sat, 12 Sept 2026 | Refuge Saturday Daytime with Rodriguez Jr. (Live), Igor Vicente, Mashrik | Igor Vicente, Mashrik, Rodriguez Jr. |
@@ -18,9 +17,10 @@ Refuge is a music venue in Newyorkcity listed on soundcheck. 17 upcoming nights,
 | Sat, 19 Sept 2026 | Refuge Saturday Daytime: Ahadadream + Coffintexts | Ahadadream, Coffintexts |
 | Sat, 19 Sept 2026 | Refuge Saturday: Special Guest TBA |  |
 | Sun, 20 Sept 2026 | Refuge Sunday Sunrise: Serge Devant | Serge Devant |
+| Fri, 25 Sept 2026 | Refuge Friday: Deep Dish (Open to Close) | Deep Dish, Lost Desert, Lovecraft |
 
 ## Address
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

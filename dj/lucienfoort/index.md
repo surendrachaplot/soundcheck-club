@@ -1,6 +1,6 @@
 # Lucien Foort
 
-Lucien Foort is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at Sundara Club, Ibiza on Tue, 8 Sept 2026.
+Lucien Foort is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Sundara Club, Ibiza on Tue, 8 Sept 2026.
 
 Lucien Foort is a house and acid artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Ibiza, Rotterdam and Utrecht. Often billed alongside Alexander Koning, Erick E and ROOG. Next up: Sundara Club, Ibiza on Tue 8 Sept.
 
@@ -27,4 +27,4 @@ Lucien Foort is a house and acid artist based in Netherlands, tracked on soundch
 
 Alexander Koning, Erick E, ROOG
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucienfoort/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lucienfoort/)*

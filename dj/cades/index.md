@@ -1,6 +1,6 @@
 # Cades
 
-Cades is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 30 Sept 2026.
+Cades is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Bossa Nova Civic Club, New York City on Wed, 30 Sept 2026.
 
 Cades is a techno and dubstep artist tracked on soundcheck, with 18 sets logged across Newyorkcity. Often billed alongside Elly DJ, Eva Loveless and Kamran Sadeghi. Next up: Bossa Nova Civic Club, Newyorkcity on Wed 30 Sept.
 
@@ -25,4 +25,4 @@ Cades is a techno and dubstep artist tracked on soundcheck, with 18 sets logged 
 
 Elly DJ, Eva Loveless, Kamran Sadeghi
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cades/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cades/)*

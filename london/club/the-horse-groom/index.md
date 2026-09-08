@@ -1,8 +1,8 @@
 # The Horse & Groom
 
-The Horse & Groom is a music venue in London with 8 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Spread Love all dayer with special guest Lascelle Gordon" on Sat, 12 Sept 2026.
+The Horse & Groom is a music venue in London with 9 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Spread Love all dayer with special guest Lascelle Gordon" on Sat, 12 Sept 2026.
 
-The Horse & Groom is a music venue in London listed on soundcheck. 8 upcoming nights, with line-ups including Dode, Lil Meesh, Malcolm WeLove and Mark Osborne and 2 more. Browse upcoming dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
+The Horse & Groom is a music venue in London listed on soundcheck. 9 upcoming nights, with line-ups including Dode, Lil Meesh, Malcolm WeLove and Mark Osborne and 2 more. Browse upcoming dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
 
 ## What's on
 
@@ -16,9 +16,10 @@ The Horse & Groom is a music venue in London listed on soundcheck. 8 upcoming ni
 | Sat, 17 Oct 2026 | Unique Rhythm free party | Mark Osborne |
 | Sat, 24 Oct 2026 | Lil Meesh & Friends free party | Lil Meesh, Malcolm WeLove, Mikey DJ |
 | Fri, 30 Oct 2026 | Spinimana's Spun House | Spinimana |
+| Sat, 14 Nov 2026 | House Sensation | MzTrix |
 
 ## Address
 
 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom, London
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*

@@ -1,6 +1,6 @@
 # FEIERAMT 4 YEARS ANNIVERSARY at TBA - Secret Location
 
-FEIERAMT 4 YEARS ANNIVERSARY at TBA - Secret Location on Sat 19 Sept, Berlin. 2 acts on the bill: Maris Shilton and ogtrues. Techno and House. Preview the line-up and save it on soundcheck.
+FEIERAMT 4 YEARS ANNIVERSARY at TBA - Secret Location on Sat 19 Sept, Berlin. 7 acts on the bill: Ayham, Dog on Acid, Mara Menace and Maris Shilton and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,12 @@ FEIERAMT 4 YEARS ANNIVERSARY at TBA - Secret Location on Sat 19 Sept, Berlin. 2 
 
 ## Line-up
 
+- Ayham
+- Dog on Acid
+- Mara Menace
 - Maris Shilton
 - ogtrues
+- Sicion
+- Vilchezz
 
 *Source: [soundcheck](https://soundcheck.club/e/2527914-feieramt-4-years-anniversary-at-tba-secret-location/)*

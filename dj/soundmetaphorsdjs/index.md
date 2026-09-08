@@ -1,8 +1,8 @@
 # Sound Metaphors Djs
 
-Sound Metaphors Djs is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
+Sound Metaphors Djs is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - Secret Location near Jannowitzbrücke, Berlin on Thu, 17 Sept 2026.
 
-Sound Metaphors Djs is a house and disco artist tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Castro Moore, David Fogarty and Alicia Carrera. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Thu 17 Sept.
+Sound Metaphors Djs is a house and disco artist tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Castro Moore, David Fogarty and Alicia Carrera. Next up: TBA - Secret Location near Jannowitzbrücke, Berlin on Thu 17 Sept.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sound Metaphors Djs is a house and disco artist tracked on soundcheck, with 126 
 | --- | --- | --- |
 | Thu, 17 Sept 2026 | TBA - Secret Location near Jannowitzbrücke | Berlin |
 | Fri, 18 Sept 2026 | Openluchttheater Amersfoort | Amsterdam |
+| Sat, 19 Sept 2026 | Apollo Club Milano | Milan |
 | Fri, 9 Oct 2026 | OXI | Berlin |
 | Fri, 23 Oct 2026 | Het Dorp | Amsterdam |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -29,4 +30,4 @@ Sound Metaphors Djs is a house and disco artist tracked on soundcheck, with 126 
 
 Castro Moore, David Fogarty, Alicia Carrera
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soundmetaphorsdjs/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/soundmetaphorsdjs/)*

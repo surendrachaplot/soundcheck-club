@@ -1,6 +1,6 @@
 # Said Dami
 
-Said Dami is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at The Cellar, Sydney on Sat, 26 Sept 2026.
+Said Dami is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at The Cellar, Sydney on Sat, 26 Sept 2026.
 
 Said Dami is a house and deep house artist based in Australia, tracked on soundcheck, with 35 sets logged across Melbourne and Sydney. Often billed alongside Oscar de Lima, Callyy and CA LOU. Next up: The Cellar, Sydney on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Said Dami is a house and deep house artist based in Australia, tracked on soundc
 
 Oscar de Lima, Callyy, CA LOU
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saiddami/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saiddami/)*

@@ -1,14 +1,15 @@
 # SILLYRO
 
-SILLYRO is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Two More Years, London on Sat, 12 Sept 2026.
+SILLYRO is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at Two More Years, London on Sat, 12 Sept 2026.
 
-SILLYRO is a house and garage artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Amy Os, Beaton and Chey Selecta. Next up: Two More Years, London on Sat 12 Sept.
+SILLYRO is a disco and house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Amy Os, Beaton and Chey Selecta. Next up: Two More Years, London on Sat 12 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Sept 2026 | Two More Years | London |
+| Sat, 19 Sept 2026 | TBA - FLIP DOG (OLD STREET) | London |
 
 ## Recently played
 
@@ -20,4 +21,4 @@ SILLYRO is a house and garage artist based in United Kingdom, tracked on soundch
 
 Amy Os, Beaton, Chey Selecta
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sillyro/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sillyro/)*

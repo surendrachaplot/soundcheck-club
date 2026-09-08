@@ -1,6 +1,6 @@
 # Manny Ward
 
-Manny Ward is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 7 Sept 2026, next at The Chocolate Factory, New York City on Fri, 11 Sept 2026.
+Manny Ward is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Tue, 8 Sept 2026, next at The Chocolate Factory, New York City on Fri, 11 Sept 2026.
 
 Manny Ward is a house and techno artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Montreal, Newyorkcity and Philadelphia. Often billed alongside Peter Napoli, borali and Alain Lopez. Next up: The Chocolate Factory, Newyorkcity on Fri 11 Sept.
 
@@ -26,4 +26,4 @@ Manny Ward is a house and techno artist based in United States of America, track
 
 Peter Napoli, borali, Alain Lopez
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mannyward/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mannyward/)*

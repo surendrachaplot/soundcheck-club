@@ -1,6 +1,6 @@
 # Scott (Afterhours.)
 
-Scott (Afterhours.) is a Minimal Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at B-SIDE, Warsaw on Fri, 11 Sept 2026.
+Scott (Afterhours.) is a Minimal Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at B-SIDE, Warsaw on Fri, 11 Sept 2026.
 
 Scott (Afterhours.) is a minimal techno and minimal artist tracked on soundcheck, with 22 sets logged across Berlin, Dundee, Edinburgh and Lisbon and 5 more. Often billed alongside Sonho, BAYNE and Is Kill. Next up: B-SIDE, Warsaw on Fri 11 Sept.
 
@@ -25,4 +25,4 @@ Scott (Afterhours.) is a minimal techno and minimal artist tracked on soundcheck
 
 Sonho, BAYNE, Is Kill
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottafterhours./)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/scottafterhours./)*

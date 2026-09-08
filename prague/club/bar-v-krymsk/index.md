@@ -1,6 +1,6 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 25 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "John Le Bon" on Thu, 10 Sept 2026.
+Bar v Krymský is a music venue in Prague with 25 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "John Le Bon" on Thu, 10 Sept 2026.
 
 Bar v Krymský is a music venue in Prague listed on soundcheck. 25 upcoming nights, with line-ups including Cubik, Diome, Dj Wash! and Eva Falt and 2 more. Browse upcoming dates, start times and who's playing. Krymská 21, Praha.
 
@@ -23,4 +23,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 25 upcoming nigh
 
 Krymská 21, Praha, Prague
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

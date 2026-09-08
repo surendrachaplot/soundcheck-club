@@ -1,6 +1,6 @@
 # Liza Aikin
 
-Liza Aikin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Tunnel, Milan on Sat, 12 Sept 2026.
+Liza Aikin is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Tunnel, Milan on Sat, 12 Sept 2026.
 
 Liza Aikin is a techno and house artist based in Germany, tracked on soundcheck, with 56 sets logged across Barcelona, Berlin, Edinburgh and Glasgow and 9 more. Often billed alongside DAHRAXT, Hurtado and Ksenia Kamikaza. Next up: Tunnel, Milan on Sat 12 Sept.
 
@@ -25,4 +25,4 @@ Liza Aikin is a techno and house artist based in Germany, tracked on soundcheck,
 
 DAHRAXT, Hurtado, Ksenia Kamikaza
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaaikin/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaaikin/)*

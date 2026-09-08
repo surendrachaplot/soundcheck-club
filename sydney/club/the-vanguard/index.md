@@ -1,6 +1,6 @@
 # The Vanguard
 
-The Vanguard is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Mon, 7 Sept 2026; the next is "Birdsnake - Live (Birdsnake (Live), Bria, Kos)" on Fri, 18 Sept 2026.
+The Vanguard is a music venue in Sydney with 1 upcoming night listed on soundcheck as of Tue, 8 Sept 2026; the next is "Birdsnake - Live (Birdsnake (Live), Bria, Kos)" on Fri, 18 Sept 2026.
 
 The Vanguard is a music venue in Sydney listed on soundcheck. 1 upcoming night, with line-ups including Bria. Browse upcoming dates, start times and who's playing. 42 King St; Newtown, NSW 2042; Australia.
 
@@ -14,4 +14,4 @@ The Vanguard is a music venue in Sydney listed on soundcheck. 1 upcoming night, 
 
 42 King St; Newtown, NSW 2042; Australia, Sydney
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-vanguard/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-vanguard/)*

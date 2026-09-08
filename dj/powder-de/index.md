@@ -1,6 +1,6 @@
 # Powder (DE)
 
-Powder (DE) is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
+Powder (DE) is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Fort Mifflin, Philadelphia on Fri, 18 Sept 2026.
 
 Powder (DE) is an electronica and techno artist tracked on soundcheck, with 5 sets logged across Bali, Philadelphia, Sydney and Vienna. Often billed alongside Avalon Emerson, DJ Papaya and DJ Python. Next up: Fort Mifflin, Philadelphia on Fri 18 Sept.
 
@@ -21,4 +21,4 @@ Powder (DE) is an electronica and techno artist tracked on soundcheck, with 5 se
 
 Avalon Emerson, DJ Papaya, DJ Python
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/powder-de/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/powder-de/)*

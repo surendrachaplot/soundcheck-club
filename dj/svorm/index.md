@@ -1,6 +1,6 @@
 # SVØRM
 
-SVØRM is a Techno and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at TBA - VANCOUVER, Vancouver on Fri, 18 Sept 2026.
+SVØRM is a Techno and Hard Drum artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at TBA - VANCOUVER, Vancouver on Fri, 18 Sept 2026.
 
 SVØRM is a techno and hard drum artist based in Ukraine, tracked on soundcheck, with 3 sets logged across Vancouver. Often billed alongside The Nu Po, Archaphael and Corvinus. Next up: TBA - VANCOUVER, Vancouver on Fri 18 Sept.
 
@@ -19,4 +19,4 @@ SVØRM is a techno and hard drum artist based in Ukraine, tracked on soundcheck,
 
 The Nu Po, Archaphael, Corvinus
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svorm/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/svorm/)*

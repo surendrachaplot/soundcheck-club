@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "Ilektronik Sangeet" on Thu, 10 Sept 2026.
+Lux Fragil is a music venue in Lisbon with 9 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "Ilektronik Sangeet" on Thu, 10 Sept 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, with line-ups including A Guy Called Gerald, Andros, Beno and Cormac and 2 more. Browse upcoming dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -22,4 +22,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 9 upcoming nights, w
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

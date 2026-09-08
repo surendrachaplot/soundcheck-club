@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Mon, 7 Sept 2026; the next is "FRESH FACES (FREE ENTRY): Mirya, Moni von Pisani, Gerardo Moncada, Nicki Spumante" on Thu, 10 Sept 2026.
+Bulbul Berlin is a music venue in Berlin with 13 upcoming nights listed on soundcheck as of Tue, 8 Sept 2026; the next is "FRESH FACES (FREE ENTRY): Mirya, Moni von Pisani, Gerardo Moncada, Nicki Spumante" on Thu, 10 Sept 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming nights, with line-ups including Aggy, Almost Famous, Betas and Better Call Paul and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -8,7 +8,7 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming night
 
 | Date | Night | Line-up |
 | --- | --- | --- |
-| Thu, 10 Sept 2026 | FRESH FACES (FREE ENTRY): Mirya, Moni von Pisani, Gerardo Moncada, Nicki Spumante | Gerardo Moncada, Moni von Pisani, Nicki Spumante |
+| Thu, 10 Sept 2026 | FRESH FACES (FREE ENTRY): Mirya, Moni von Pisani, Gerardo Moncada, Nicki Spumante | Gerardo Moncada, Mirya, Moni von Pisani, Nicki Spumante |
 | Fri, 11 Sept 2026 | Heart Grooves - 1 YEAR ANNIVERSARY: Bombata b2b Peet Flower, MC-K, Mario Worgall | Bombata, MC-K, Mario Worgall, Peet Flower |
 | Sat, 12 Sept 2026 | Disco Panini - 2-year anniversary: Aggy, Cronoselect, Panino, Sassi | Aggy, Cronoselect |
 | Thu, 17 Sept 2026 | House of Others (Vol.12): Betas, Mer Esnal | Betas, Mer Esnal |
@@ -23,4 +23,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming night
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

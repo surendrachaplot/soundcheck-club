@@ -1,6 +1,6 @@
 # Mr. Nylson
 
-Mr. Nylson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Mokka Mitte Bar / James Simon Park, Berlin on Fri, 18 Sept 2026.
+Mr. Nylson is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Mokka Mitte Bar / James Simon Park, Berlin on Fri, 18 Sept 2026.
 
 Mr. Nylson is a house and tech house artist tracked on soundcheck, with 10 sets logged across Berlin, Munich and Newyorkcity. Often billed alongside DJ himself, Dave Dinger and Dr. Motte. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Fri 18 Sept.
 
@@ -25,4 +25,4 @@ Mr. Nylson is a house and tech house artist tracked on soundcheck, with 10 sets 
 
 DJ himself, Dave Dinger, Dr. Motte
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrnylson-de/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mrnylson-de/)*

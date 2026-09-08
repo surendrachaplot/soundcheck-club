@@ -1,6 +1,6 @@
 # BSD
 
-BSD is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 7 Sept 2026, next at Warehouse, Nantes on Fri, 30 Oct 2026.
+BSD is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Tue, 8 Sept 2026, next at Warehouse, Nantes on Fri, 30 Oct 2026.
 
 BSD is a techno and hardcore artist tracked on soundcheck, with 5 sets logged across Copenhagen and Nantes. Often billed alongside Vladimir Cauchemar, Avenir (2) and Azhar Sistorms. Next up: Warehouse, Nantes on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ BSD is a techno and hardcore artist tracked on soundcheck, with 5 sets logged ac
 
 Vladimir Cauchemar, Avenir (2), Azhar Sistorms
 
-*Updated Mon, 7 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bsd/)*
+*Updated Tue, 8 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bsd/)*

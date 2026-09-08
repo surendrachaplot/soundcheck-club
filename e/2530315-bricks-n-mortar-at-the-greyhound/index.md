@@ -1,6 +1,6 @@
 # BRICKS N' MORTAR at The Greyhound
 
-BRICKS N' MORTAR at The Greyhound on Thu 10 Sept, London. 1 act on the bill: AJA. UK Funky. Preview the line-up and save it on soundcheck.
+BRICKS N' MORTAR at The Greyhound on Thu 10 Sept, London. 1 act on the bill: AJA. Bass and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
